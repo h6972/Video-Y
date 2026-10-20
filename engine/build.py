@@ -6,7 +6,7 @@ from xml.sax.saxutils import escape
 D = os.path.abspath(sys.argv[1])  # thư mục dự án video
 S = json.load(open(os.path.join(D, "script.json"), encoding="utf-8"))
 
-SYL_PER_SEC = 4.3      # tốc độ đọc ước tính khi chưa có audio thật
+SYL_PER_SEC = S.get("syl_per_sec", 4.0)      # tốc độ đọc ước tính khi chưa có audio thật
 LINE_GAP = 0.35
 HEAD, TAIL = 0.7, 0.9
 
@@ -19,6 +19,8 @@ SUB = [
     ("mười một phẩy bảy mươi sáu phần trăm", "11,76%"),
     ("ba mươi đến tám mươi ba phần trăm", "30–83%"),
 ]
+
+SUB += [tuple(x) for x in S.get("display", [])]
 
 def subtitle(text):
     for a, b in SUB:
@@ -77,7 +79,10 @@ for sc in S["scenes"]:
 S["total"] = round(t, 3)
 
 json.dump(S, open(os.path.join(D, "timeline.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-tpl = open(os.path.join(D, "template.html"), encoding="utf-8").read()
+tp = os.path.join(D, "template.html")
+if not os.path.exists(tp):  # bài giảng dạng slide dùng khung chung
+    tp = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lecture.html")
+tpl = open(tp, encoding="utf-8").read()
 open(os.path.join(D, "video.html"), "w", encoding="utf-8").write(
     tpl.replace("/*__TIMELINE__*/null", json.dumps(S, ensure_ascii=False)))
 

@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>Bài giảng</title>
+<style>
+@font-face{font-family:Inter;src:url("../../fonts/Inter-Regular.otf");font-weight:400}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-Medium.otf");font-weight:500}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-SemiBold.otf");font-weight:600}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-Bold.otf");font-weight:700}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-ExtraBold.otf");font-weight:800}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-Italic.otf");font-weight:400;font-style:italic}
+:root{
+  --bg:#07122a; --card:rgba(255,255,255,.055); --card2:rgba(255,255,255,.09); --line:rgba(255,255,255,.13);
+  --tx:#f3f6fb; --mut:#a3b3cc; --dim:#6f82a3;
+  --teal:#2dd4bf; --coral:#fb7185; --amber:#fbbf24; --green:#4ade80; --blue:#60a5fa; --violet:#a78bfa;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#000}
+body{font-family:Inter,sans-serif;color:var(--tx)}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;background:var(--bg)}
+#bg{position:absolute;inset:-200px;background:
+  radial-gradient(900px 700px at 80% 15%,rgba(37,99,235,.35),transparent 60%),
+  radial-gradient(800px 700px at 5% 95%,rgba(20,184,166,.22),transparent 60%),
+  radial-gradient(600px 500px at 50% 50%,rgba(167,139,250,.08),transparent 70%)}
+#grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.03) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.03) 1px,transparent 1px);background-size:64px 64px}
+#top{position:absolute;left:72px;right:72px;top:36px;display:flex;align-items:center;justify-content:space-between;z-index:5}
+#series{font-size:22px;font-weight:600;color:var(--mut)} #series b{color:var(--teal);font-weight:800;letter-spacing:.5px}
+#part{font-size:20px;font-weight:700;padding:8px 18px;border-radius:999px;background:var(--teal);color:#05221f}
+#foot{position:absolute;left:72px;right:72px;bottom:16px;display:flex;justify-content:space-between;font-size:17px;color:rgba(255,255,255,.4);z-index:5}
+#prog{position:absolute;left:0;bottom:0;height:5px;background:linear-gradient(90deg,var(--teal),var(--blue));z-index:6}
+#subs{position:absolute;left:50%;bottom:44px;transform:translateX(-50%);max-width:1600px;text-align:center;z-index:7;
+  font-size:33px;line-height:1.32;font-weight:600;padding:12px 28px;border-radius:14px;background:rgba(2,6,18,.8);text-shadow:0 2px 6px rgba(0,0,0,.5)}
+#subs:empty{display:none}
+
+.scene{position:absolute;left:72px;right:72px;top:96px;bottom:160px}
+.hdr{position:absolute;left:0;top:0;right:0}
+.kick{font-size:21px;font-weight:700;letter-spacing:2.5px;text-transform:uppercase;color:var(--teal)}
+.ttl{font-size:50px;font-weight:800;letter-spacing:-.6px;margin-top:8px;line-height:1.12}
+.ref{position:absolute;right:0;top:0;font-size:19px;font-weight:600;color:var(--mut);border:1px solid var(--line);padding:6px 14px;border-radius:10px}
+.body{position:absolute;left:0;right:0;top:132px;bottom:0}
+.card{background:var(--card);border:1.5px solid var(--line);border-radius:22px;padding:24px 30px;transition:none}
+.hl{border-color:var(--c,var(--teal))!important;background:var(--card2)!important;box-shadow:0 0 0 1px var(--c,var(--teal)),0 0 34px -6px var(--c,var(--teal))}
+.past{opacity:.72}
+.mut{color:var(--mut)}
+.c-teal{--c:var(--teal)} .c-coral{--c:var(--coral)} .c-amber{--c:var(--amber)} .c-green{--c:var(--green)} .c-blue{--c:var(--blue)} .c-violet{--c:var(--violet)}
+.acc{color:var(--c,var(--teal))}
+.tagc{display:inline-block;font-size:19px;font-weight:800;padding:5px 12px;border-radius:8px;background:color-mix(in srgb,var(--c,var(--teal)) 18%,transparent);color:var(--c,var(--teal));letter-spacing:.5px}
+.n{flex:none;width:58px;height:58px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:25px;background:var(--c,var(--teal));color:#061226}
+b,strong{font-weight:700} em{font-style:normal;color:var(--amber);font-weight:700}
+/* title */
+.t-title .big{font-size:76px;font-weight:800;line-height:1.08;letter-spacing:-1.5px}
+/* list */
+.lst{display:grid;gap:22px;height:100%;grid-auto-rows:1fr}
+.li{display:flex;gap:24px;align-items:center;padding:24px 32px}
+.li .tx{font-size:35px;font-weight:700;line-height:1.28}
+.li .ds{font-size:27px;color:var(--mut);margin-top:8px;line-height:1.4;font-weight:500}
+/* timeline */
+.tl{position:absolute;left:0;right:0;top:204px;height:6px;background:var(--line);border-radius:3px}
+.tlf{position:absolute;left:0;top:204px;height:6px;background:linear-gradient(90deg,var(--teal),var(--blue));border-radius:3px}
+.ev{position:absolute;top:0;width:290px;text-align:center}
+.ev .yr{font-size:52px;font-weight:800}
+.ev .dot{width:30px;height:30px;border-radius:50%;margin:18px auto;background:var(--bg);border:6px solid var(--c,var(--teal))}
+.ev .et{font-size:29px;font-weight:700;line-height:1.25}
+.ev .ed{font-size:23px;color:var(--mut);margin-top:8px;line-height:1.35}
+/* table */
+.tbl{display:grid;gap:14px;height:100%}
+.tr{display:grid;gap:14px;align-items:stretch}
+.th{font-size:24px;font-weight:800;letter-spacing:1px;text-transform:uppercase;padding:0 22px;color:var(--mut)}
+.td{font-size:22px;line-height:1.34;padding:16px 22px;display:flex;flex-direction:column;justify-content:center;border-radius:16px;background:var(--card);border:1.5px solid var(--line)}
+.td b{font-size:24px}
+.op{font-size:30px;font-weight:800;text-align:center;color:var(--amber);margin:18px 0}
+.ans{font-size:31px;font-weight:700;line-height:1.4}
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="bg"></div><div id="grid"></div>
+  <div id="top"><div id="series"></div><div id="part"></div></div>
+  <div id="scenes"></div>
+  <div id="subs"></div>
+  <div id="foot"><span id="src"></span><span id="sign"></span></div>
+  <div id="prog"></div>
+</div>
+<script>
+const TL = /*__TIMELINE__*/null;
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const ease=p=>1-Math.pow(1-clamp(p),3);
+const esc=s=>String(s??'');           // nội dung do Claude soạn, cho phép <b>/<em>
+const at=v=>v==null?'0':(typeof v==='number'?'L'+v:v);
+const C=c=>'c-'+(c||'teal');
+
+document.getElementById('series').innerHTML=`<b>${esc(TL.series||'VIDEO Y KHOA')}</b>  ·  ${esc(TL.subtitle||'')}`;
+document.getElementById('part').textContent=TL.part||'';
+document.getElementById('src').textContent=TL.source_short||'';
+document.getElementById('sign').textContent=TL.sign||'';
+
+/* ---------- các layout ---------- */
+const L={
+ title:s=>`<svg style="position:absolute;right:-20px;top:120px" width="760" height="620" viewBox="0 0 760 620">
+   <defs><linearGradient id="ecg" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/><stop offset=".3" stop-color="#2dd4bf"/><stop offset="1" stop-color="#fb7185"/></linearGradient></defs>
+   <path d="M150 230 C150 140 270 110 330 190 C390 110 510 140 510 230 C510 340 330 450 330 450 C330 450 150 340 150 230Z" fill="rgba(251,113,133,.08)" stroke="rgba(251,113,133,.5)" stroke-width="3" data-a="draw" data-in="0.4"/>
+   <path d="M0 330 H190 L215 300 L240 330 H270 L290 360 L320 170 L350 410 L375 330 H420 L460 290 L500 330 H760" fill="none" stroke="url(#ecg)" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" data-a="draw" data-in="0.8"/>
+   </svg>
+   <div class="t-title" style="position:absolute;left:0;top:120px;width:1250px">
+   <div class="kick" data-in="0.2">${esc(s.kicker)}</div>
+   <div class="big" style="margin-top:22px" data-in="0.5">${esc(s.title)}</div>
+   <div style="font-size:40px;font-weight:700;margin-top:22px" class="acc" data-in="1.0">${esc(s.subtitle||'')}</div>
+   <div style="display:flex;gap:14px;margin-top:40px;flex-wrap:wrap">${(s.badges||[]).map((b,i)=>`<span class="tagc ${C(b.c)}" style="font-size:24px;padding:8px 16px" data-in="${at(b.at??(1.4+i*0.3))}">${esc(b.t)}</span>`).join('')}</div>
+   <div class="mut" style="font-size:24px;margin-top:40px;line-height:1.5" data-in="${at(s.note_at??1.8)}">${esc(s.note||'')}</div></div>`,
+
+ list:s=>{const two=(s.items||[]).length>(s.cols1||5);
+   return `<div class="lst" style="grid-template-columns:${two?'1fr 1fr':'1fr'}">${s.items.map((it,i)=>`
+   <div class="card li ${C(it.c||s.c)}" data-in="${at(it.at)}" data-a="left" data-hl="${at(it.at)}${it.hl?','+it.hl:''}">
+     ${s.numbered===false?`<div class="n" style="width:20px;height:20px;margin-top:12px"></div>`:`<div class="n">${it.n??i+1}</div>`}
+     <div><div class="tx">${esc(it.t)}</div>${it.d?`<div class="ds">${esc(it.d)}</div>`:''}</div></div>`).join('')}</div>`},
+
+ timeline:s=>{const n=s.events.length, w=1776/n;
+   return `<div class="tl"></div><div class="tlf" data-a="growx" data-in="${at(s.events[0].at)}" data-to="${at(s.events[n-1].at)}" style="width:0"></div>
+   ${s.events.map((e,i)=>`<div class="ev ${C(e.c)}" style="left:${i*w+w/2-145}px;top:${110}px" data-in="${at(e.at)}" data-hl="${at(e.at)}">
+     <div class="yr acc">${esc(e.year)}</div><div class="dot"></div><div class="et">${esc(e.t)}</div><div class="ed">${esc(e.d||'')}</div></div>`).join('')}
+   ${s.note?`<div class="card ${C(s.note.c||'amber')}" style="position:absolute;left:0;right:0;bottom:0" data-in="${at(s.note.at)}" data-hl="${at(s.note.at)}"><div style="font-size:27px;font-weight:600;line-height:1.4">${esc(s.note.t)}</div></div>`:''}`},
+
+ formula:s=>`<div class="card ${C(s.main.c)}" data-in="${at(s.main.at)}" data-a="pop" data-hl="${at(s.main.at)}${s.main.hl?','+s.main.hl:''}">
+     <div class="tagc ${C(s.main.c)}">${esc(s.main.tag||'')}</div>
+     <div style="font-size:44px;font-weight:800;margin-top:12px">${esc(s.main.t)}</div>
+     <div class="mut" style="font-size:30px;margin-top:10px;line-height:1.4">${esc(s.main.d||'')}</div></div>
+   <div class="op" data-in="${at(s.op_at??s.options[0].at)}">${esc(s.op||'VÀ ≥ 1 trong các tiêu chí sau')}</div>
+   <div style="display:grid;grid-template-columns:repeat(${s.options.length},1fr);gap:22px;height:330px">
+   ${s.options.map((o,i)=>`<div class="card ${C(o.c)}" data-in="${at(o.at)}" data-a="up" data-hl="${at(o.at)}">
+     <div class="n" style="margin-bottom:16px">${i+1}</div><div style="font-size:33px;font-weight:700;line-height:1.28">${esc(o.t)}</div>
+     <div class="mut" style="font-size:26px;margin-top:12px;line-height:1.42">${esc(o.d||'')}</div></div>`).join('')}</div>`,
+
+ cards:s=>`<div style="display:grid;grid-template-columns:repeat(${s.cards.length},1fr);gap:24px;height:${s.h||640}px">
+   ${s.cards.map((c,i)=>`<div class="card ${C(c.c)}" style="display:flex;flex-direction:column" data-in="${at(c.at)}" data-a="up" data-hl="${at(c.at)}${c.hl?','+c.hl:''}">
+     <div class="tagc ${C(c.c)}">${esc(c.tag||'')}</div>
+     <div style="font-size:41px;font-weight:800;margin-top:14px;line-height:1.15" class="acc">${esc(c.t)}</div>
+     <div style="font-size:29px;font-weight:600;margin-top:16px;line-height:1.4">${esc(c.d||'')}</div>
+     ${(c.items||[]).map(x=>`<div style="font-size:26px;color:var(--mut);margin-top:12px;line-height:1.4;display:flex;gap:10px"><span class="acc">▸</span><span>${esc(x)}</span></div>`).join('')}
+     </div>`).join('')}</div>`,
+
+ compare:s=>{const g=s.widths||'1fr 1.3fr 1fr';
+   return `<div class="tbl" style="grid-template-rows:auto repeat(${s.rows.length},1fr)"><div class="tr" style="grid-template-columns:${g}" data-in="0.3">${s.head.map((h,i)=>`<div class="th" style="${i===1?'color:var(--teal)':''}">${esc(h)}</div>`).join('')}</div>
+   ${s.rows.map(r=>`<div class="tr" style="grid-template-columns:${g}" data-in="${at(r.at)}" data-a="left">${r.cells.map((c,i)=>`<div class="td ${C(i===1?(r.c||'teal'):'blue')}" ${i===1?`data-hl="${at(r.at)}${r.hl?','+r.hl:''}"`:''} style="${i===2?'color:var(--mut)':''}"><div>${esc(c)}</div></div>`).join('')}</div>`).join('')}</div>`},
+
+ box:s=>`<div class="card ${C(s.box.c)}" style="border-width:2px" data-in="${at(s.box.at)}" data-a="pop" data-hl="${at(s.box.at)}">
+     <div class="tagc ${C(s.box.c)}">${esc(s.box.tag)}</div>
+     <div style="font-size:${s.box.size||38}px;font-weight:700;margin-top:14px;line-height:1.42">${esc(s.box.t)}</div></div>
+   <div style="display:grid;grid-template-columns:repeat(${Math.min((s.notes||[]).length,3)||1},1fr);gap:24px;margin-top:28px;min-height:${s.notes_h||300}px">
+   ${(s.notes||[]).map(n=>`<div class="card ${C(n.c)}" data-in="${at(n.at)}" data-a="up" data-hl="${at(n.at)}"><div class="tagc ${C(n.c)}">${esc(n.tag||'')}</div><div style="font-size:30px;font-weight:600;margin-top:14px;line-height:1.42">${esc(n.t)}</div></div>`).join('')}</div>`,
+
+ quiz:s=>`<div class="card c-blue" data-in="${at(s.case_at??0)}"><div class="tagc c-blue">TÌNH HUỐNG</div>
+     <div style="font-size:31px;font-weight:600;margin-top:14px;line-height:1.45">${esc(s.case)}</div></div>
+   <div style="font-size:38px;font-weight:800;margin:30px 0 20px" data-in="${at(s.q_at??0)}">${esc(s.q)}</div>
+   <div style="display:grid;grid-template-columns:repeat(${s.options.length},1fr);gap:18px">
+   ${s.options.map((o,i)=>`<div class="card ${i===s.answer?'c-green':'c-coral'}" data-in="${at(s.q_at??0)}+${0.3+i*0.25}" data-a="up" ${i===s.answer?`data-hl="${at(s.answer_at)}+" data-mark="${at(s.answer_at)}"`:`data-dim="${at(s.answer_at)}"`}>
+     <div style="font-size:30px;font-weight:700">${String.fromCharCode(65+i)}. ${esc(o)}</div></div>`).join('')}</div>
+   <div class="card c-green" style="margin-top:22px" data-in="${at(s.explain_at??s.answer_at)}" data-a="up"><div class="ans"><span class="acc">Đáp án ${String.fromCharCode(65+s.answer)}.</span> ${esc(s.explain)}</div></div>`,
+};
+L.summary=L.list;
+
+/* ---------- dựng các cảnh ---------- */
+const root=document.getElementById('scenes');
+TL.scenes.forEach(sc=>{
+  const el=document.createElement('section'); el.className='scene'; el.id=sc.id;
+  const hdr=sc.layout==='title'?'':`<div class="hdr"><div class="kick" data-in="0">${esc(sc.chapter)}</div><div class="ttl" data-in="0.15">${esc(sc.title)}</div>${sc.ref?`<div class="ref" data-in="0.4">${esc(sc.ref)}</div>`:''}</div>`;
+  el.innerHTML=hdr+`<div class="body" ${sc.layout==='title'?'style="top:0"':''}>${(L[sc.layout]||L.list)(sc)}</div>`;
+  root.appendChild(el);
+});
+
+function parseT(v,sc){ if(v==null||v==='') return null; v=String(v).trim();
+  const m=v.match(/^L(\d+)([+-][\d.]*)?$/);
+  if(m){const ln=sc.L[Math.min(+m[1],sc.L.length-1)]; const off=m[2]?(m[2].length>1?parseFloat(m[2]):0):0; return ln.t0+off;}
+  return parseFloat(v); }
+function lineRange(v,sc){ // "L3" -> [t0,t1] ; "L3+" -> [t0, end of scene]
+  v=String(v).trim(); const m=v.match(/^L(\d+)(\+)?([\d.]+)?$/); if(!m) return null;
+  const ln=sc.L[Math.min(+m[1],sc.L.length-1)];
+  if(m[3]) return [ln.t0+parseFloat(m[3]), ln.t1+0.3];
+  return [ln.t0, m[2]?sc.dur:ln.t1+0.3]; }
+
+const scenes=TL.scenes.map(sc=>{const el=document.getElementById(sc.id);
+  const items=[...el.querySelectorAll('[data-in]')].map(e=>{
+    const v=e.dataset.in; let tin; const mm=v.match(/^(L\d+)\+([\d.]+)$/); tin=mm?parseT(mm[1],sc)+parseFloat(mm[2]):parseT(v,sc);
+    const o={e,tin,a:e.dataset.a||'fade',to:e.dataset.to?parseT(e.dataset.to,sc):null};
+    if(o.a==='draw'&&e.getTotalLength){o.len=e.getTotalLength();e.style.strokeDasharray=o.len;}
+    return o;});
+  const hls=[...el.querySelectorAll('[data-hl]')].map(e=>({e,r:e.dataset.hl.split(',').map(x=>lineRange(x,sc)).filter(Boolean)}));
+  const dims=[...el.querySelectorAll('[data-dim]')].map(e=>({e,t:parseT(e.dataset.dim,sc)}));
+  return {sc,el,items,hls,dims};});
+
+function render(t){
+  let sub='', cur=0;
+  scenes.forEach((S,idx)=>{
+    const {sc,el}=S, lt=t-sc.start;
+    if(t>=sc.start) cur=idx;
+    if(lt<-0.01||lt>=sc.dur){el.style.display='none';return;}
+    el.style.display='block';
+    el.style.opacity=Math.min(ease(lt/0.45), idx<scenes.length-1?ease((sc.dur-lt)/0.4):1);
+    for(const it of S.items){const e=it.e, p=ease((lt-it.tin)/0.55);
+      switch(it.a){
+        case 'draw': e.style.strokeDashoffset=it.len*(1-ease((lt-it.tin)/1.6)); break;
+        case 'left': e.style.opacity=p; e.style.transform=`translateX(${(1-p)*-50}px)`; break;
+        case 'up': e.style.opacity=p; e.style.transform=`translateY(${(1-p)*40}px)`; break;
+        case 'pop': e.style.opacity=p; e.style.transform=`scale(${0.92+0.08*p})`; break;
+        case 'growx': {const q=it.to!=null?clamp((lt-it.tin)/Math.max(0.5,it.to-it.tin+0.6)):p; e.style.width=(100*ease(q))+'%'; break;}
+        default: e.style.opacity=p; e.style.transform=`translateY(${(1-p)*20}px)`;
+      }}
+    let anyHl=false;
+    for(const h of S.hls){const on=h.r.some(([a,b])=>lt>=a&&lt<b); h.e.classList.toggle('hl',on); if(on) anyHl=true;}
+    for(const h of S.hls){h.e.classList.toggle('past',anyHl&&!h.e.classList.contains('hl')&&sc.layout!=='quiz');}
+    for(const d of S.dims){d.e.style.opacity=lt>=d.t?0.35:d.e.style.opacity;}
+    for(const ln of sc.L) for(const s of ln.subs) if(lt>=s.t0&&lt<s.t1+0.25) sub=s.text;
+  });
+  document.getElementById('subs').textContent=sub;
+  document.getElementById('prog').style.width=(clamp(t/TL.total)*100)+'%';
+  document.getElementById('bg').style.transform=`translate(${Math.sin(t*0.05)*60}px,${Math.cos(t*0.04)*40}px)`;
+}
+window.render=render; window.TOTAL=TL.total; window.FONTS_READY=document.fonts.ready.then(()=>true);
+if(!location.search.includes('capture')){const t0=performance.now();(function loop(){render(((performance.now()-t0)/1000)%TL.total);requestAnimationFrame(loop)})();}
+</script>
+</body>
+</html>
