@@ -1,6 +1,6 @@
 {
   "title": "UDMI-5 (2026) – Phần 1: Tổng quan & những điểm mới",
-  "tts": "edge",
+  "tts": "omni",
   "voice": "vi-VN-NamMinhNeural",
   "rate": "-8%",
   "series": "VIDEO Y KHOA",
@@ -18,15 +18,36 @@
   },
   "scenes": [
     {
-      "id": "s1", "layout": "title", "chapter": "Mở đầu",
+      "id": "s1",
+      "layout": "title",
+      "chapter": "Mở đầu",
       "kicker": "Loạt bài giảng chuyên đề · Phần 1/6",
       "title": "Định nghĩa toàn cầu lần thứ 5<br>về Nhồi máu cơ tim",
       "subtitle": "Tổng quan & những điểm mới",
       "badges": [
-        {"t": "ESC", "c": "blue", "at": 1}, {"t": "ACC", "c": "teal", "at": "L1+1.2"},
-        {"t": "AHA", "c": "coral", "at": "L1+2.4"}, {"t": "WHF", "c": "violet", "at": "L1+3.6"}
+        {
+          "t": "ESC",
+          "c": "blue",
+          "at": 1
+        },
+        {
+          "t": "ACC",
+          "c": "teal",
+          "at": "L1+1.2"
+        },
+        {
+          "t": "AHA",
+          "c": "coral",
+          "at": "L1+2.4"
+        },
+        {
+          "t": "WHF",
+          "c": "violet",
+          "at": "L1+3.6"
+        }
       ],
-      "note": "Fifth Universal Definition of Myocardial Infarction (UDMI-5) · 2026", "note_at": 2,
+      "note": "Fifth Universal Definition of Myocardial Infarction (UDMI-5) · 2026",
+      "note_at": 2,
       "lines": [
         "Thưa quý đồng nghiệp, chào mừng quý vị đến với loạt bài giảng chuyên đề về Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim, công bố năm 2026.",
         "Đây là văn bản đồng thuận chung của bốn tổ chức lớn: Hội Tim mạch châu Âu, Trường môn Tim mạch Hoa Kỳ, Hội Tim mạch Hoa Kỳ và Liên đoàn Tim mạch Thế giới.",
@@ -34,14 +55,48 @@
       ]
     },
     {
-      "id": "s2", "layout": "list", "chapter": "Lộ trình loạt bài", "title": "6 phần – từ khái niệm đến thực hành", "cols1": 4,
+      "id": "s2",
+      "layout": "list",
+      "chapter": "Lộ trình loạt bài",
+      "title": "6 phần – từ khái niệm đến thực hành",
+      "cols1": 4,
       "items": [
-        {"t": "Tổng quan & những điểm mới", "d": "Lịch sử · định nghĩa · so sánh UDMI-4 và UDMI-5", "at": 1, "c": "teal"},
-        {"t": "Tổn thương cơ tim cấp & mạn", "d": "Ngưỡng troponin theo giới · cơ chế không do thiếu máu", "at": "L1+4", "c": "blue"},
-        {"t": "Phân loại lâm sàng mới", "d": "Nguyên phát · thứ phát · liên quan thủ thuật", "at": 2, "c": "amber"},
-        {"t": "Công cụ chẩn đoán", "d": "Triệu chứng · ECG · hs-troponin · hình ảnh học", "at": 3, "c": "violet"},
-        {"t": "Tình huống đặc biệt", "d": "Đột tử · MINOCA · suy tim · bệnh thận · hồi sức", "at": 4, "c": "coral"},
-        {"t": "Thực hành & tổng kết", "d": "Nơi nguồn lực hạn chế · ICD-11 · ôn tập", "at": "L4+5", "c": "green"}
+        {
+          "t": "Tổng quan & những điểm mới",
+          "d": "Lịch sử · định nghĩa · so sánh UDMI-4 và UDMI-5",
+          "at": 1,
+          "c": "teal"
+        },
+        {
+          "t": "Tổn thương cơ tim cấp & mạn",
+          "d": "Ngưỡng troponin theo giới · cơ chế không do thiếu máu",
+          "at": "L1+4",
+          "c": "blue"
+        },
+        {
+          "t": "Phân loại lâm sàng mới",
+          "d": "Nguyên phát · thứ phát · liên quan thủ thuật",
+          "at": 2,
+          "c": "amber"
+        },
+        {
+          "t": "Công cụ chẩn đoán",
+          "d": "Triệu chứng · ECG · hs-troponin · hình ảnh học",
+          "at": 3,
+          "c": "violet"
+        },
+        {
+          "t": "Tình huống đặc biệt",
+          "d": "Đột tử · MINOCA · suy tim · bệnh thận · hồi sức",
+          "at": 4,
+          "c": "coral"
+        },
+        {
+          "t": "Thực hành & tổng kết",
+          "d": "Nơi nguồn lực hạn chế · ICD-11 · ôn tập",
+          "at": "L4+5",
+          "c": "green"
+        }
       ],
       "lines": [
         "Trước khi đi vào nội dung, xin giới thiệu lộ trình của toàn bộ loạt bài, gồm sáu phần.",
@@ -52,16 +107,60 @@
       ]
     },
     {
-      "id": "s3", "layout": "timeline", "chapter": "Bối cảnh", "title": "Gần 50 năm định nghĩa nhồi máu cơ tim", "ref": "Mục 2 · Context",
+      "id": "s3",
+      "layout": "timeline",
+      "chapter": "Bối cảnh",
+      "title": "Gần 50 năm định nghĩa nhồi máu cơ tim",
+      "ref": "Mục 2 · Context",
       "events": [
-        {"year": "1979", "t": "Tổ chức Y tế Thế giới", "d": "Triệu chứng · ECG · men tim<br>Chưa có chụp mạch vành", "at": 0, "c": "blue"},
-        {"year": "2000", "t": "ESC / ACC", "d": "Được xem là định nghĩa toàn cầu đầu tiên", "at": 2, "c": "teal"},
-        {"year": "2007", "t": "Lần 2", "d": "Kỷ nguyên troponin", "at": 3, "c": "teal"},
-        {"year": "2012", "t": "Lần 3", "d": "Phân loại 5 type", "at": "L3+2.5", "c": "teal"},
-        {"year": "2018", "t": "Lần 4", "d": "7 phân nhóm · hs-troponin", "at": "L3+5", "c": "teal"},
-        {"year": "2026", "t": "Lần 5", "d": "12 quốc gia · 5 châu lục<br>Bình duyệt 18 thành viên + đại diện bệnh nhân", "at": 4, "c": "amber"}
+        {
+          "year": "1979",
+          "t": "Tổ chức Y tế Thế giới",
+          "d": "Triệu chứng · ECG · men tim<br>Chưa có chụp mạch vành",
+          "at": 0,
+          "c": "blue"
+        },
+        {
+          "year": "2000",
+          "t": "ESC / ACC",
+          "d": "Được xem là định nghĩa toàn cầu đầu tiên",
+          "at": 2,
+          "c": "teal"
+        },
+        {
+          "year": "2007",
+          "t": "Lần 2",
+          "d": "Kỷ nguyên troponin",
+          "at": 3,
+          "c": "teal"
+        },
+        {
+          "year": "2012",
+          "t": "Lần 3",
+          "d": "Phân loại 5 type",
+          "at": "L3+2.5",
+          "c": "teal"
+        },
+        {
+          "year": "2018",
+          "t": "Lần 4",
+          "d": "7 phân nhóm · hs-troponin",
+          "at": "L3+5",
+          "c": "teal"
+        },
+        {
+          "year": "2026",
+          "t": "Lần 5",
+          "d": "12 quốc gia · 5 châu lục<br>Bình duyệt 18 thành viên + đại diện bệnh nhân",
+          "at": 4,
+          "c": "amber"
+        }
       ],
-      "note": {"t": "Đồng thuận <b>ESC/ACC/AHA/WHF</b> · được EACTS và STS bảo trợ, SCAI ghi nhận giá trị · phối hợp với WHO đề xuất <em>mã ICD-11</em>", "at": 6, "c": "amber"},
+      "note": {
+        "t": "Đồng thuận <b>ESC/ACC/AHA/WHF</b> · được EACTS và STS bảo trợ, SCAI ghi nhận giá trị · phối hợp với WHO đề xuất <em>mã ICD-11</em>",
+        "at": 6,
+        "c": "amber"
+      },
       "lines": [
         "Hãy bắt đầu bằng lịch sử. Năm 1979, Tổ chức Y tế Thế giới lần đầu thành lập nhóm chuyên gia quốc tế để định nghĩa nhồi máu cơ tim.",
         "Khi đó, chẩn đoán dựa trên triệu chứng, điện tâm đồ và men tim, chụp động mạch vành chưa được đưa vào tiêu chuẩn.",
@@ -73,12 +172,36 @@
       ]
     },
     {
-      "id": "s4", "layout": "box", "chapter": "Định nghĩa", "title": "Nhồi máu cơ tim là gì?", "ref": "Mục 5",
-      "box": {"tag": "ĐỊNH NGHĨA BỆNH HỌC", "t": "Chết tế bào cơ tim do <b>thiếu máu cục bộ kéo dài</b> – dòng máu mạch vành không đủ hoặc mất hẳn – và <b>tổn thương tái tưới máu</b>.", "at": 0, "c": "coral"},
+      "id": "s4",
+      "layout": "box",
+      "chapter": "Định nghĩa",
+      "title": "Nhồi máu cơ tim là gì?",
+      "ref": "Mục 5",
+      "box": {
+        "tag": "ĐỊNH NGHĨA BỆNH HỌC",
+        "t": "Chết tế bào cơ tim do <b>thiếu máu cục bộ kéo dài</b> – dòng máu mạch vành không đủ hoặc mất hẳn – và <b>tổn thương tái tưới máu</b>.",
+        "at": 0,
+        "c": "coral"
+      },
       "notes": [
-        {"tag": "MÔ BỆNH HỌC", "t": "Cần tử thiết → trên lâm sàng phải dựa vào <b>bằng chứng gián tiếp</b>", "at": 1, "c": "blue"},
-        {"tag": "CHẨN ĐOÁN LÂM SÀNG CẦN", "t": "① Bằng chứng chết tế bào <b>không hồi phục</b><br>② Xác nhận nguyên nhân là <b>thiếu máu cục bộ</b>", "at": 2, "c": "teal"},
-        {"tag": "THÔNG ĐIỆP CỐT LÕI", "t": "Không có tiêu chuẩn đơn lẻ nào đủ → cần <em>phối hợp nhiều tiêu chí</em>", "at": 3, "c": "amber"}
+        {
+          "tag": "MÔ BỆNH HỌC",
+          "t": "Cần tử thiết → trên lâm sàng phải dựa vào <b>bằng chứng gián tiếp</b>",
+          "at": 1,
+          "c": "blue"
+        },
+        {
+          "tag": "CHẨN ĐOÁN LÂM SÀNG CẦN",
+          "t": "① Bằng chứng chết tế bào <b>không hồi phục</b><br>② Xác nhận nguyên nhân là <b>thiếu máu cục bộ</b>",
+          "at": 2,
+          "c": "teal"
+        },
+        {
+          "tag": "THÔNG ĐIỆP CỐT LÕI",
+          "t": "Không có tiêu chuẩn đơn lẻ nào đủ → cần <em>phối hợp nhiều tiêu chí</em>",
+          "at": 3,
+          "c": "amber"
+        }
       ],
       "lines": [
         "Về mặt bệnh học, nhồi máu cơ tim được định nghĩa là sự chết tế bào cơ tim do thiếu máu cục bộ kéo dài, gây ra bởi dòng máu mạch vành không đủ hoặc mất hẳn, cộng thêm tổn thương do tái tưới máu.",
@@ -88,13 +211,39 @@
       ]
     },
     {
-      "id": "s5", "layout": "formula", "chapter": "Định nghĩa", "title": "Tiêu chuẩn chẩn đoán lâm sàng", "ref": "Mục 5 · Box 1",
-      "main": {"tag": "BẮT BUỘC", "t": "Tổn thương cơ tim cấp", "d": "Troponin I hoặc T <b>tăng và/hoặc giảm</b>, có ≥ 1 giá trị vượt <b>bách phân vị 99 của giới hạn trên tham chiếu, theo giới</b>", "at": 0, "hl": "L1", "c": "coral"},
+      "id": "s5",
+      "layout": "formula",
+      "chapter": "Định nghĩa",
+      "title": "Tiêu chuẩn chẩn đoán lâm sàng",
+      "ref": "Mục 5 · Box 1",
+      "main": {
+        "tag": "BẮT BUỘC",
+        "t": "Tổn thương cơ tim cấp",
+        "d": "Troponin I hoặc T <b>tăng và/hoặc giảm</b>, có ≥ 1 giá trị vượt <b>bách phân vị 99 của giới hạn trên tham chiếu, theo giới</b>",
+        "at": 0,
+        "hl": "L1",
+        "c": "coral"
+      },
       "op_at": 2,
       "options": [
-        {"t": "Thiếu máu cục bộ cấp", "d": "Triệu chứng hoặc bằng chứng khác; ECG: biến đổi thiếu máu mới hoặc sóng Q bệnh lý", "at": 2, "c": "teal"},
-        {"t": "Hình ảnh bệnh lý mạch vành cấp", "d": "Bằng chứng hình ảnh học của một bệnh lý mạch vành cấp tính", "at": 3, "c": "blue"},
-        {"t": "Mất cơ tim sống mới hoặc RL vận động vùng mới", "d": "Theo kiểu phù hợp với nguyên nhân thiếu máu cục bộ", "at": 4, "c": "violet"}
+        {
+          "t": "Thiếu máu cục bộ cấp",
+          "d": "Triệu chứng hoặc bằng chứng khác; ECG: biến đổi thiếu máu mới hoặc sóng Q bệnh lý",
+          "at": 2,
+          "c": "teal"
+        },
+        {
+          "t": "Hình ảnh bệnh lý mạch vành cấp",
+          "d": "Bằng chứng hình ảnh học của một bệnh lý mạch vành cấp tính",
+          "at": 3,
+          "c": "blue"
+        },
+        {
+          "t": "Mất cơ tim sống mới hoặc RL vận động vùng mới",
+          "d": "Theo kiểu phù hợp với nguyên nhân thiếu máu cục bộ",
+          "at": 4,
+          "c": "violet"
+        }
       ],
       "lines": [
         "Vậy tiêu chuẩn chẩn đoán lâm sàng là gì? Điều kiện bắt buộc đầu tiên là phải có tổn thương cơ tim cấp.",
@@ -105,12 +254,42 @@
       ]
     },
     {
-      "id": "s6", "layout": "cards", "chapter": "Định nghĩa", "title": "Từ tiêu chuẩn đến thực tế lâm sàng", "ref": "Mục 5", "h": 600,
+      "id": "s6",
+      "layout": "cards",
+      "chapter": "Định nghĩa",
+      "title": "Từ tiêu chuẩn đến thực tế lâm sàng",
+      "ref": "Mục 5",
+      "h": 600,
       "cards": [
-        {"tag": "THUẬN LỢI", "t": "Đau ngực điển hình + ST chênh lên", "d": "Chẩn đoán thường rõ ràng", "at": 0, "c": "green"},
-        {"tag": "THƯỜNG GẶP", "t": "Không điển hình, ECG bình thường", "d": "Troponin là yếu tố gợi ý chẩn đoán làm việc", "at": 1, "hl": "L2", "c": "amber"},
-        {"tag": "ĐÁNG LƯU Ý", "t": "Khoảng 1/20 ca", "d": "Tổn thương cơ tim cấp không ST chênh lên: hình ảnh học tìm ra một chẩn đoán khác", "at": 3, "c": "blue"},
-        {"tag": "KHÓ NHẤT", "t": "Bệnh nặng · sau thủ thuật tim", "d": "Tổn thương cơ tim rất phổ biến, do thiếu máu hoặc không → <em>khuyến khích hình ảnh học</em> để xác nhận hay loại trừ", "at": 4, "c": "coral"}
+        {
+          "tag": "THUẬN LỢI",
+          "t": "Đau ngực điển hình + ST chênh lên",
+          "d": "Chẩn đoán thường rõ ràng",
+          "at": 0,
+          "c": "green"
+        },
+        {
+          "tag": "THƯỜNG GẶP",
+          "t": "Không điển hình, ECG bình thường",
+          "d": "Troponin là yếu tố gợi ý chẩn đoán làm việc",
+          "at": 1,
+          "hl": "L2",
+          "c": "amber"
+        },
+        {
+          "tag": "ĐÁNG LƯU Ý",
+          "t": "Khoảng 1/20 ca",
+          "d": "Tổn thương cơ tim cấp không ST chênh lên: hình ảnh học tìm ra một chẩn đoán khác",
+          "at": 3,
+          "c": "blue"
+        },
+        {
+          "tag": "KHÓ NHẤT",
+          "t": "Bệnh nặng · sau thủ thuật tim",
+          "d": "Tổn thương cơ tim rất phổ biến, do thiếu máu hoặc không → <em>khuyến khích hình ảnh học</em> để xác nhận hay loại trừ",
+          "at": 4,
+          "c": "coral"
+        }
       ],
       "lines": [
         "Trên thực tế, chẩn đoán thường đơn giản khi người bệnh đau ngực điển hình, lan, kèm đoạn ST chênh lên trên điện tâm đồ.",
@@ -121,13 +300,44 @@
       ]
     },
     {
-      "id": "s7", "layout": "list", "chapter": "Vì sao phải thay đổi?", "title": "Hạn chế của phân loại theo con số", "ref": "Mục 4 · Mục 7.1.1", "cols1": 4,
+      "id": "s7",
+      "layout": "list",
+      "chapter": "Vì sao phải thay đổi?",
+      "title": "Hạn chế của phân loại theo con số",
+      "ref": "Mục 4 · Mục 7.1.1",
+      "cols1": 4,
       "items": [
-        {"t": "5 type (2012) → 7 phân nhóm (2018)", "d": "Bước tiến lớn về khái niệm, nhưng khó áp dụng nhất quán", "at": 0, "c": "violet"},
-        {"t": "Type 2 gộp hai nhóm rất khác nhau", "d": "Bệnh lý mạch vành không do xơ vữa (bóc tách, thuyên tắc, co thắt) + mất cân bằng cung–cầu oxy", "at": 1, "c": "coral"},
-        {"t": "Type 2 thiếu tiêu chí khách quan", "d": "Thường chỉ dựa vào triệu chứng; không có hình ảnh học → ít ý nghĩa điều trị", "at": 2, "c": "coral"},
-        {"t": "Type 4a / 5: ngưỡng 5× và 10× URL là tùy ý", "d": "97,5% người bệnh phẫu thuật tim có troponin > 10× URL; cần > 218× URL mới nhận diện tăng nguy cơ tử vong", "at": 3, "hl": "L4", "c": "amber"},
-        {"t": "Tên gọi chữ – số", "d": "Không nói lên cơ chế → khó giao tiếp với người bệnh và đồng nghiệp", "at": 5, "c": "blue"}
+        {
+          "t": "5 type (2012) → 7 phân nhóm (2018)",
+          "d": "Bước tiến lớn về khái niệm, nhưng khó áp dụng nhất quán",
+          "at": 0,
+          "c": "violet"
+        },
+        {
+          "t": "Type 2 gộp hai nhóm rất khác nhau",
+          "d": "Bệnh lý mạch vành không do xơ vữa (bóc tách, thuyên tắc, co thắt) + mất cân bằng cung–cầu oxy",
+          "at": 1,
+          "c": "coral"
+        },
+        {
+          "t": "Type 2 thiếu tiêu chí khách quan",
+          "d": "Thường chỉ dựa vào triệu chứng; không có hình ảnh học → ít ý nghĩa điều trị",
+          "at": 2,
+          "c": "coral"
+        },
+        {
+          "t": "Type 4a / 5: ngưỡng 5× và 10× URL là tùy ý",
+          "d": "97,5% người bệnh phẫu thuật tim có troponin > 10× URL; cần > 218× URL mới nhận diện tăng nguy cơ tử vong",
+          "at": 3,
+          "hl": "L4",
+          "c": "amber"
+        },
+        {
+          "t": "Tên gọi chữ – số",
+          "d": "Không nói lên cơ chế → khó giao tiếp với người bệnh và đồng nghiệp",
+          "at": 5,
+          "c": "blue"
+        }
       ],
       "lines": [
         "Vậy vì sao phải thay đổi? Phân loại theo nguyên nhân với 5 type ở lần thứ ba, rồi mở rộng thành 7 phân nhóm ở lần thứ tư, là một bước tiến lớn về khái niệm, nhưng rất khó áp dụng nhất quán.",
@@ -139,11 +349,50 @@
       ]
     },
     {
-      "id": "s8", "layout": "cards", "chapter": "Phân loại lâm sàng mới", "title": "Ba bối cảnh lâm sàng của nhồi máu cơ tim", "ref": "Mục 4 · Mục 7.2 · Hình 1", "h": 640,
+      "id": "s8",
+      "layout": "cards",
+      "chapter": "Phân loại lâm sàng mới",
+      "title": "Ba bối cảnh lâm sàng của nhồi máu cơ tim",
+      "ref": "Mục 4 · Mục 7.2 · Hình 1",
+      "h": 640,
       "cards": [
-        {"tag": "PRIMARY MI", "t": "NMCT nguyên phát", "d": "Tự phát, do một <b>bệnh lý mạch vành cấp</b> nguyên phát", "items": ["Phần lớn: xơ vữa – huyết khối", "Ngoài ra: bóc tách ĐMV tự phát, thuyên tắc, co thắt", "Xác nhận: tìm thấy bệnh lý mạch vành cấp"], "at": 1, "hl": "L2", "c": "teal"},
-        {"tag": "SECONDARY MI", "t": "NMCT thứ phát", "d": "Mất cân bằng cung – cầu oxy do <b>một bệnh cấp tính khác</b>", "items": ["Xác nhận: bệnh ĐMV tắc nghẽn không có bệnh lý cấp", "hoặc RL vận động vùng mới / mất cơ tim sống"], "at": 3, "hl": "L4", "c": "amber"},
-        {"tag": "PROCEDURE-RELATED MI", "t": "NMCT liên quan thủ thuật", "d": "Biến chứng của thủ thuật tim qua da hoặc phẫu thuật, <b>trong 30 ngày</b>", "items": ["Xác nhận: biến chứng mạch vành, hoặc RLVĐ vùng mới / mất cơ tim sống", "Cần <em>cả hai</em> nếu biến chứng xảy ra trong thủ thuật, hoặc thủ thuật nhằm điều trị NMCT cấp"], "at": 5, "hl": "L6", "c": "violet"}
+        {
+          "tag": "PRIMARY MI",
+          "t": "NMCT nguyên phát",
+          "d": "Tự phát, do một <b>bệnh lý mạch vành cấp</b> nguyên phát",
+          "items": [
+            "Phần lớn: xơ vữa – huyết khối",
+            "Ngoài ra: bóc tách ĐMV tự phát, thuyên tắc, co thắt",
+            "Xác nhận: tìm thấy bệnh lý mạch vành cấp"
+          ],
+          "at": 1,
+          "hl": "L2",
+          "c": "teal"
+        },
+        {
+          "tag": "SECONDARY MI",
+          "t": "NMCT thứ phát",
+          "d": "Mất cân bằng cung – cầu oxy do <b>một bệnh cấp tính khác</b>",
+          "items": [
+            "Xác nhận: bệnh ĐMV tắc nghẽn không có bệnh lý cấp",
+            "hoặc RL vận động vùng mới / mất cơ tim sống"
+          ],
+          "at": 3,
+          "hl": "L4",
+          "c": "amber"
+        },
+        {
+          "tag": "PROCEDURE-RELATED MI",
+          "t": "NMCT liên quan thủ thuật",
+          "d": "Biến chứng của thủ thuật tim qua da hoặc phẫu thuật, <b>trong 30 ngày</b>",
+          "items": [
+            "Xác nhận: biến chứng mạch vành, hoặc RLVĐ vùng mới / mất cơ tim sống",
+            "Cần <em>cả hai</em> nếu biến chứng xảy ra trong thủ thuật, hoặc thủ thuật nhằm điều trị NMCT cấp"
+          ],
+          "at": 5,
+          "hl": "L6",
+          "c": "violet"
+        }
       ],
       "lines": [
         "Và đây là thay đổi quan trọng nhất của định nghĩa lần thứ 5: phân loại bằng con số được thay thế hoàn toàn. Nhồi máu cơ tim nay được xếp vào một trong ba bối cảnh lâm sàng.",
@@ -156,13 +405,55 @@
       ]
     },
     {
-      "id": "s9", "layout": "compare", "chapter": "So sánh UDMI-4 và UDMI-5", "title": "Từ type 1–5 đến phân loại lâm sàng", "ref": "Bảng 1",
-      "head": ["UDMI-4 (2018)", "UDMI-5 (2026)", "Lý do thay đổi"], "widths": "0.85fr 1.45fr 1fr",
+      "id": "s9",
+      "layout": "compare",
+      "chapter": "So sánh UDMI-4 và UDMI-5",
+      "title": "Từ type 1–5 đến phân loại lâm sàng",
+      "ref": "Bảng 1",
+      "head": [
+        "UDMI-4 (2018)",
+        "UDMI-5 (2026)",
+        "Lý do thay đổi"
+      ],
+      "widths": "0.85fr 1.45fr 1fr",
       "rows": [
-        {"cells": ["<b>Type 1</b><br>Chỉ xơ vữa – huyết khối", "<b>NMCT nguyên phát</b><br>Mọi bệnh lý mạch vành cấp: xơ vữa – huyết khối, bóc tách ĐMV tự phát, thuyên tắc, co thắt; tái hẹp, huyết khối stent, hỏng cầu nối > 30 ngày", "Ưu tiên <b>độ nhạy</b>; thúc đẩy chụp mạch vành để xác định cơ chế"], "at": 1, "hl": "L2", "c": "teal"},
-        {"cells": ["<b>Type 2</b><br>Bệnh lý mạch vành không do xơ vữa, hoặc bệnh cấp khác", "<b>NMCT thứ phát</b><br>Bệnh cấp khác + bệnh ĐMV tắc nghẽn (không có bệnh lý cấp) và/hoặc RLVĐ vùng mới / mất cơ tim sống", "Ưu tiên <b>độ đặc hiệu</b>; tiêu chí khách quan, có ý nghĩa điều trị"], "at": 3, "c": "amber"},
-        {"cells": ["<b>Type 3</b><br>Đột tử trước khi làm xét nghiệm", "<b>Bỏ thuật ngữ</b> – áp dụng 3 nhóm lâm sàng theo bối cảnh hoặc kết quả tử thiết", "Ít giá trị thực hành"], "at": 4, "c": "coral"},
-        {"cells": ["<b>Type 4a–c, 5</b><br>Ngưỡng troponin 5× / 10× URL trong 48 giờ", "<b>NMCT liên quan thủ thuật</b><br>Biến chứng trong 30 ngày; không dựa vào ngưỡng troponin; như nhau cho mọi thủ thuật", "Ưu tiên <b>độ đặc hiệu</b>; hỏng stent / cầu nối muộn là bệnh mới"], "at": 5, "c": "violet"}
+        {
+          "cells": [
+            "<b>Type 1</b><br>Chỉ xơ vữa – huyết khối",
+            "<b>NMCT nguyên phát</b><br>Mọi bệnh lý mạch vành cấp: xơ vữa – huyết khối, bóc tách ĐMV tự phát, thuyên tắc, co thắt; tái hẹp, huyết khối stent, hỏng cầu nối > 30 ngày",
+            "Ưu tiên <b>độ nhạy</b>; thúc đẩy chụp mạch vành để xác định cơ chế"
+          ],
+          "at": 1,
+          "hl": "L2",
+          "c": "teal"
+        },
+        {
+          "cells": [
+            "<b>Type 2</b><br>Bệnh lý mạch vành không do xơ vữa, hoặc bệnh cấp khác",
+            "<b>NMCT thứ phát</b><br>Bệnh cấp khác + bệnh ĐMV tắc nghẽn (không có bệnh lý cấp) và/hoặc RLVĐ vùng mới / mất cơ tim sống",
+            "Ưu tiên <b>độ đặc hiệu</b>; tiêu chí khách quan, có ý nghĩa điều trị"
+          ],
+          "at": 3,
+          "c": "amber"
+        },
+        {
+          "cells": [
+            "<b>Type 3</b><br>Đột tử trước khi làm xét nghiệm",
+            "<b>Bỏ thuật ngữ</b> – áp dụng 3 nhóm lâm sàng theo bối cảnh hoặc kết quả tử thiết",
+            "Ít giá trị thực hành"
+          ],
+          "at": 4,
+          "c": "coral"
+        },
+        {
+          "cells": [
+            "<b>Type 4a–c, 5</b><br>Ngưỡng troponin 5× / 10× URL trong 48 giờ",
+            "<b>NMCT liên quan thủ thuật</b><br>Biến chứng trong 30 ngày; không dựa vào ngưỡng troponin; như nhau cho mọi thủ thuật",
+            "Ưu tiên <b>độ đặc hiệu</b>; hỏng stent / cầu nối muộn là bệnh mới"
+          ],
+          "at": 5,
+          "c": "violet"
+        }
       ],
       "lines": [
         "Bảng 1 của văn bản tóm tắt sự chuyển đổi này. Chúng ta đi lần lượt từng dòng.",
@@ -174,14 +465,49 @@
       ]
     },
     {
-      "id": "s10", "layout": "list", "chapter": "Những điểm mới khác", "title": "Sáu điểm mới cần nắm", "ref": "Mục 4 · What is new", "cols1": 4,
+      "id": "s10",
+      "layout": "list",
+      "chapter": "Những điểm mới khác",
+      "title": "Sáu điểm mới cần nắm",
+      "ref": "Mục 4 · What is new",
+      "cols1": 4,
       "items": [
-        {"t": "Ngưỡng bách phân vị 99 theo giới", "d": "Tránh bỏ sót ở người bệnh nữ · tinh chỉnh tiêu chuẩn tổn thương cấp / mạn", "at": 1, "c": "coral"},
-        {"t": "Đột tử & NMCT thầm lặng", "d": "Tiêu chí khách quan mới cho NMCT không được nhận biết", "at": 2, "c": "blue"},
-        {"t": "MINOCA – định nghĩa mới", "d": "Myocardial Injury with Non-Obstructive Coronary Arteries · chẩn đoán làm việc", "at": 3, "c": "violet"},
-        {"t": "Phác đồ chẩn đoán nhanh hs-troponin", "d": "Kèm hướng dẫn cho tình huống khó diễn giải troponin", "at": 4, "c": "teal"},
-        {"t": "Nơi nguồn lực hạn chế", "d": "Chẩn đoán khi không có troponin và hình ảnh học", "at": 5, "c": "amber"},
-        {"t": "Mã ICD-11 tương thích", "d": "Thống kê bệnh viện · y tế công cộng · nghiên cứu", "at": "L5+4", "c": "green"}
+        {
+          "t": "Ngưỡng bách phân vị 99 theo giới",
+          "d": "Tránh bỏ sót ở người bệnh nữ · tinh chỉnh tiêu chuẩn tổn thương cấp / mạn",
+          "at": 1,
+          "c": "coral"
+        },
+        {
+          "t": "Đột tử & NMCT thầm lặng",
+          "d": "Tiêu chí khách quan mới cho NMCT không được nhận biết",
+          "at": 2,
+          "c": "blue"
+        },
+        {
+          "t": "MINOCA – định nghĩa mới",
+          "d": "Myocardial Injury with Non-Obstructive Coronary Arteries · chẩn đoán làm việc",
+          "at": 3,
+          "c": "violet"
+        },
+        {
+          "t": "Phác đồ chẩn đoán nhanh hs-troponin",
+          "d": "Kèm hướng dẫn cho tình huống khó diễn giải troponin",
+          "at": 4,
+          "c": "teal"
+        },
+        {
+          "t": "Nơi nguồn lực hạn chế",
+          "d": "Chẩn đoán khi không có troponin và hình ảnh học",
+          "at": 5,
+          "c": "amber"
+        },
+        {
+          "t": "Mã ICD-11 tương thích",
+          "d": "Thống kê bệnh viện · y tế công cộng · nghiên cứu",
+          "at": "L5+4",
+          "c": "green"
+        }
       ],
       "lines": [
         "Ngoài phân loại mới, định nghĩa lần thứ 5 còn có một loạt điểm mới khác, mà chúng ta sẽ đi sâu trong các phần sau.",
@@ -193,12 +519,36 @@
       ]
     },
     {
-      "id": "s11", "layout": "box", "chapter": "Lưu ý thực hành", "title": "Ba “bẫy” khi chuyển từ UDMI-4 sang UDMI-5",
-      "box": {"tag": "TƯ DUY PHÂN LOẠI", "t": "<b>Tự phát</b> do bệnh lý mạch vành cấp? → <span style='color:var(--teal)'>nguyên phát</span> · <b>Do bệnh cấp khác</b>? → <span style='color:var(--amber)'>thứ phát</span> · <b>Trong 30 ngày sau thủ thuật tim</b>? → <span style='color:var(--violet)'>liên quan thủ thuật</span>", "at": 0, "c": "teal", "size": 30},
+      "id": "s11",
+      "layout": "box",
+      "chapter": "Lưu ý thực hành",
+      "title": "Ba “bẫy” khi chuyển từ UDMI-4 sang UDMI-5",
+      "box": {
+        "tag": "TƯ DUY PHÂN LOẠI",
+        "t": "<b>Tự phát</b> do bệnh lý mạch vành cấp? → <span style='color:var(--teal)'>nguyên phát</span> · <b>Do bệnh cấp khác</b>? → <span style='color:var(--amber)'>thứ phát</span> · <b>Trong 30 ngày sau thủ thuật tim</b>? → <span style='color:var(--violet)'>liên quan thủ thuật</span>",
+        "at": 0,
+        "c": "teal",
+        "size": 30
+      },
       "notes": [
-        {"tag": "BẪY 1", "t": "Bóc tách ĐMV tự phát, thuyên tắc, co thắt: trước là type 2 → nay là <b>NMCT nguyên phát</b>", "at": 1, "c": "coral"},
-        {"tag": "BẪY 2", "t": "Troponin cao sau can thiệp / phẫu thuật tim <b>không tự động là NMCT</b> → cần biến chứng mạch vành hoặc bằng chứng hình ảnh", "at": 2, "c": "amber"},
-        {"tag": "BẪY 3", "t": "Huyết khối stent, tái hẹp, hỏng cầu nối <b>sau 30 ngày</b> → NMCT nguyên phát, không phải biến chứng thủ thuật", "at": 3, "c": "violet"}
+        {
+          "tag": "BẪY 1",
+          "t": "Bóc tách ĐMV tự phát, thuyên tắc, co thắt: trước là type 2 → nay là <b>NMCT nguyên phát</b>",
+          "at": 1,
+          "c": "coral"
+        },
+        {
+          "tag": "BẪY 2",
+          "t": "Troponin cao sau can thiệp / phẫu thuật tim <b>không tự động là NMCT</b> → cần biến chứng mạch vành hoặc bằng chứng hình ảnh",
+          "at": 2,
+          "c": "amber"
+        },
+        {
+          "tag": "BẪY 3",
+          "t": "Huyết khối stent, tái hẹp, hỏng cầu nối <b>sau 30 ngày</b> → NMCT nguyên phát, không phải biến chứng thủ thuật",
+          "at": 3,
+          "c": "violet"
+        }
       ],
       "lines": [
         "Từ góc độ thực hành, xin lưu ý quý đồng nghiệp ba cái bẫy thường gặp khi chuyển sang định nghĩa mới.",
@@ -208,11 +558,22 @@
       ]
     },
     {
-      "id": "s12", "layout": "quiz", "chapter": "Câu hỏi tình huống", "title": "Áp dụng ngay: một ca tại hồi sức",
+      "id": "s12",
+      "layout": "quiz",
+      "chapter": "Câu hỏi tình huống",
+      "title": "Áp dụng ngay: một ca tại hồi sức",
       "case": "Nam 72 tuổi, <b>sốc nhiễm khuẩn</b> do viêm phổi, đang dùng noradrenalin. Troponin I độ nhạy cao <b>tăng rồi giảm</b>, vượt bách phân vị 99. Không đau ngực, ECG không có biến đổi thiếu máu mới. Siêu âm tim: <b>không RL vận động vùng</b>. CT mạch vành: <b>không hẹp đáng kể</b>.",
-      "case_at": 1, "q": "Chẩn đoán phù hợp nhất theo UDMI-5?", "q_at": 2,
-      "options": ["NMCT nguyên phát", "NMCT thứ phát", "Tổn thương cơ tim cấp", "Tổn thương cơ tim mạn"],
-      "answer": 2, "answer_at": 4,
+      "case_at": 1,
+      "q": "Chẩn đoán phù hợp nhất theo UDMI-5?",
+      "q_at": 2,
+      "options": [
+        "NMCT nguyên phát",
+        "NMCT thứ phát",
+        "Tổn thương cơ tim cấp",
+        "Tổn thương cơ tim mạn"
+      ],
+      "answer": 2,
+      "answer_at": 4,
       "explain": "Không có đặc điểm thiếu máu cục bộ, không bệnh ĐMV tắc nghẽn, không RLVĐ vùng mới hay mất cơ tim sống → chưa đủ tiêu chuẩn NMCT thứ phát.",
       "lines": [
         "Bây giờ, mời quý vị cùng áp dụng với một tình huống rất quen thuộc tại hồi sức.",
@@ -223,14 +584,49 @@
       ]
     },
     {
-      "id": "s13", "layout": "summary", "chapter": "Tổng kết Phần 1", "title": "Năm thông điệp mang về", "cols1": 4,
+      "id": "s13",
+      "layout": "summary",
+      "chapter": "Tổng kết Phần 1",
+      "title": "Năm thông điệp mang về",
+      "cols1": 4,
       "items": [
-        {"t": "Tổn thương cơ tim cấp + ≥ 1 bằng chứng", "d": "Thiếu máu cục bộ · bệnh lý mạch vành cấp · hậu quả trên hình ảnh", "at": 1, "c": "coral"},
-        {"t": "Ngưỡng troponin theo giới", "d": "Bách phân vị 99 riêng cho nam và nữ", "at": 2, "c": "blue"},
-        {"t": "Type 1–5 → 3 nhóm lâm sàng", "d": "Nguyên phát · thứ phát · liên quan thủ thuật", "at": 3, "c": "teal"},
-        {"t": "Tiêu chí khách quan", "d": "NMCT thứ phát & liên quan thủ thuật không chỉ dựa vào mức troponin", "at": 4, "c": "amber"},
-        {"t": "Hình ảnh học giữ vai trò trung tâm", "d": "Xác nhận hoặc loại trừ chẩn đoán", "at": 5, "c": "violet"},
-        {"n": "→", "t": "Phần 2: Tổn thương cơ tim cấp & mạn", "d": "Nền tảng để áp dụng đúng định nghĩa mới", "at": 6, "c": "green"}
+        {
+          "t": "Tổn thương cơ tim cấp + ≥ 1 bằng chứng",
+          "d": "Thiếu máu cục bộ · bệnh lý mạch vành cấp · hậu quả trên hình ảnh",
+          "at": 1,
+          "c": "coral"
+        },
+        {
+          "t": "Ngưỡng troponin theo giới",
+          "d": "Bách phân vị 99 riêng cho nam và nữ",
+          "at": 2,
+          "c": "blue"
+        },
+        {
+          "t": "Type 1–5 → 3 nhóm lâm sàng",
+          "d": "Nguyên phát · thứ phát · liên quan thủ thuật",
+          "at": 3,
+          "c": "teal"
+        },
+        {
+          "t": "Tiêu chí khách quan",
+          "d": "NMCT thứ phát & liên quan thủ thuật không chỉ dựa vào mức troponin",
+          "at": 4,
+          "c": "amber"
+        },
+        {
+          "t": "Hình ảnh học giữ vai trò trung tâm",
+          "d": "Xác nhận hoặc loại trừ chẩn đoán",
+          "at": 5,
+          "c": "violet"
+        },
+        {
+          "n": "→",
+          "t": "Phần 2: Tổn thương cơ tim cấp & mạn",
+          "d": "Nền tảng để áp dụng đúng định nghĩa mới",
+          "at": 6,
+          "c": "green"
+        }
       ],
       "lines": [
         "Để khép lại phần một, xin tóm tắt năm thông điệp chính.",
@@ -242,5 +638,9 @@
         "Trong phần hai, chúng ta sẽ đi sâu vào tổn thương cơ tim cấp và mạn, nền tảng không thể thiếu để áp dụng đúng định nghĩa mới. Xin cảm ơn quý đồng nghiệp đã theo dõi."
       ]
     }
-  ]
+  ],
+  "omni": {
+    "voice": "nam",
+    "instruct": "male, middle-aged, low pitch"
+  }
 }
