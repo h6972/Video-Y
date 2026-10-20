@@ -14,6 +14,7 @@ if /i "%~2"=="test" (
 python engine\tts_omni.py projects\%1 || (pause & exit /b 1)
 git add voices projects\%1\audio
 git commit -m "Giong doc OmniVoice: %1"
+git pull --rebase
 git push
 echo Da day giong len GitHub. Video se tu dung trong vai chuc phut.
 pause
