@@ -1,0 +1,26 @@
+name: Voice samples (Gemini TTS)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  samples:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tạo giọng mẫu Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OUT: ${{ runner.temp }}/samples
+        run: python engine/gemini_samples.py 2>&1 | tee "$RUNNER_TEMP/gemini.log"
+      - name: Lưu lên nhánh samples-gemini
+        if: always()
+        run: |
+          mkdir -p "$RUNNER_TEMP/samples"; cp "$RUNNER_TEMP/gemini.log" "$RUNNER_TEMP/samples/" 2>/dev/null || true
+          git config user.name "video-bot"; git config user.email "video-bot@users.noreply.github.com"
+          git checkout -f --orphan samples-gemini && git rm -rf -q . && git clean -fdq
+          cp "$RUNNER_TEMP"/samples/* . && git add -A && git commit -qm "Giọng mẫu Gemini" && git push -f origin samples-gemini
