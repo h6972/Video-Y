@@ -18,18 +18,20 @@ def spoken(text):
         text = text.replace(k, v)
     return text
 
-async def one(text, path, voice, rate, tries=4):
+async def one(text, path, voice, rate, tries=7):
     for i in range(tries):
+        r = rate if i < 4 else "+0%"          # lần sau cùng bỏ tham số tốc độ
         try:
-            await edge_tts.Communicate(spoken(text), voice, rate=rate).save(path)
+            await edge_tts.Communicate(spoken(text), voice, rate=r).save(path)
             if os.path.getsize(path) > 1000:
                 return
         except Exception as e:
-            print("  thử lại:", os.path.basename(path), e)
-        await asyncio.sleep(2 * (i + 1))
+            print("  thử lại:", os.path.basename(path), type(e).__name__, e, flush=True)
+        await asyncio.sleep(min(90, 5 * 2 ** i))
     sys.exit(f"Không tạo được giọng cho {os.path.basename(path)}")
 
 async def main():
+    print('edge-tts', getattr(edge_tts, '__version__', '?'), flush=True)
     voice, rate = S["voice"], S.get("rate", "+0%")
     for sc in S["scenes"]:
         for ln in sc["L"]:
