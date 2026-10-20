@@ -1,6 +1,6 @@
 {
   "title": "UDMI-5 (2026) – Phần 2: Tổn thương cơ tim cấp & mạn",
-  "tts": "edge",
+  "tts": "gemini",
   "voice": "vi-VN-NamMinhNeural",
   "rate": "-8%",
   "series": "VIDEO Y KHOA",
@@ -17,16 +17,31 @@
   },
   "scenes": [
     {
-      "id": "s1", "layout": "title", "chapter": "Mở đầu",
+      "id": "s1",
+      "layout": "title",
+      "chapter": "Mở đầu",
       "kicker": "Loạt bài giảng chuyên đề · Phần 2/6",
       "title": "Tổn thương cơ tim<br>cấp và mạn",
       "subtitle": "Nền tảng của mọi chẩn đoán nhồi máu cơ tim",
       "badges": [
-        {"t": "Box 1 · Tổn thương cấp", "c": "coral", "at": 1},
-        {"t": "Box 2 · Tổn thương mạn", "c": "blue", "at": "L1+2"},
-        {"t": "Bảng 2 · Bảng 3 · Cơ chế", "c": "violet", "at": "L1+4"}
+        {
+          "t": "Box 1 · Tổn thương cấp",
+          "c": "coral",
+          "at": 1
+        },
+        {
+          "t": "Box 2 · Tổn thương mạn",
+          "c": "blue",
+          "at": "L1+2"
+        },
+        {
+          "t": "Bảng 2 · Bảng 3 · Cơ chế",
+          "c": "violet",
+          "at": "L1+4"
+        }
       ],
-      "note": "Fifth Universal Definition of Myocardial Infarction · Mục 6 · Mục 14.1 · Mục 16.3", "note_at": 2,
+      "note": "Fifth Universal Definition of Myocardial Infarction · Mục 6 · Mục 14.1 · Mục 16.3",
+      "note_at": 2,
       "lines": [
         "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với phần hai của loạt bài về Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim.",
         "Hôm nay chúng ta bàn về tổn thương cơ tim cấp và mạn, nội dung của Box 1, Box 2, cùng các bảng cơ chế trong văn bản.",
@@ -34,14 +49,46 @@
       ]
     },
     {
-      "id": "s2", "layout": "timeline", "chapter": "Khái niệm", "title": "Tổn thương cơ tim qua các phiên bản", "ref": "Mục 6 · Mục 14",
+      "id": "s2",
+      "layout": "timeline",
+      "chapter": "Khái niệm",
+      "title": "Tổn thương cơ tim qua các phiên bản",
+      "ref": "Mục 6 · Mục 14",
       "events": [
-        {"year": "2007", "t": "Troponin I/T", "d": "Dấu ấn sinh học được ưu tiên vì đặc hiệu cho cơ tim", "at": 0, "c": "blue"},
-        {"year": "2012", "t": "UDMI-3", "d": "Định nghĩa “tổn thương cơ tim”: troponin > bách phân vị 99, bất kể nguyên nhân", "at": 1, "c": "teal"},
-        {"year": "2018", "t": "UDMI-4", "d": "Tách tổn thương cấp và mạn · ngưỡng theo giới với xét nghiệm độ nhạy cao", "at": 2, "c": "teal"},
-        {"year": "2026", "t": "UDMI-5", "d": "Ngưỡng theo giới là bắt buộc · tinh chỉnh tiêu chuẩn cấp / mạn", "at": 3, "c": "amber"}
+        {
+          "year": "2007",
+          "t": "Troponin I/T",
+          "d": "Dấu ấn sinh học được ưu tiên vì đặc hiệu cho cơ tim",
+          "at": 0,
+          "c": "blue"
+        },
+        {
+          "year": "2012",
+          "t": "UDMI-3",
+          "d": "Định nghĩa “tổn thương cơ tim”: troponin > bách phân vị 99, bất kể nguyên nhân",
+          "at": 1,
+          "c": "teal"
+        },
+        {
+          "year": "2018",
+          "t": "UDMI-4",
+          "d": "Tách tổn thương cấp và mạn · ngưỡng theo giới với xét nghiệm độ nhạy cao",
+          "at": 2,
+          "c": "teal"
+        },
+        {
+          "year": "2026",
+          "t": "UDMI-5",
+          "d": "Ngưỡng theo giới là bắt buộc · tinh chỉnh tiêu chuẩn cấp / mạn",
+          "at": 3,
+          "c": "amber"
+        }
       ],
-      "note": {"t": "Tổn thương mạn gặp nhiều <b>gấp tới 5 lần</b> khi dùng troponin T so với troponin I · tần suất phụ thuộc cách xét nghiệm và loại xét nghiệm", "at": 4, "c": "amber"},
+      "note": {
+        "t": "Tổn thương mạn gặp nhiều <b>gấp tới 5 lần</b> khi dùng troponin T so với troponin I · tần suất phụ thuộc cách xét nghiệm và loại xét nghiệm",
+        "at": 4,
+        "c": "amber"
+      },
       "lines": [
         "Từ năm 2007, định nghĩa toàn cầu đã khuyến cáo troponin I hoặc T là dấu ấn sinh học ưu tiên, vì đặc hiệu cho tổn thương cơ tim hơn các dấu ấn khác.",
         "Định nghĩa lần thứ ba năm 2012 chính thức đưa ra khái niệm tổn thương cơ tim: troponin có ít nhất một giá trị vượt bách phân vị thứ 99 của giới hạn trên tham chiếu, bất kể nguyên nhân là gì.",
@@ -51,11 +98,48 @@
       ]
     },
     {
-      "id": "s3", "layout": "cards", "chapter": "Troponin tim", "title": "Hiểu đúng công cụ trước khi diễn giải", "ref": "Mục 14.1", "h": 610,
+      "id": "s3",
+      "layout": "cards",
+      "chapter": "Troponin tim",
+      "title": "Hiểu đúng công cụ trước khi diễn giải",
+      "ref": "Mục 14.1",
+      "h": 610,
       "cards": [
-        {"tag": "SINH HỌC", "t": "Phức hợp I – T – C", "d": "Troponin I (ức chế), T (gắn tropomyosin), C (gắn canxi)", "items": ["Giải phóng dạng phức hợp nguyên vẹn và mảnh rời", "Thời gian bán thải: troponin I khoảng 2 giờ, troponin T 2–4 giờ"], "at": 0, "hl": "L1", "c": "blue"},
-        {"tag": "ĐỘ NHẠY CAO", "t": "Hai tiêu chuẩn", "d": "Hệ số biến thiên <b>≤ 10%</b> tại bách phân vị 99 theo giới", "items": ["Đo được troponin ở <b>> 50%</b> người khỏe mạnh, cả nam và nữ", "Cho phép phác đồ chẩn đoán nhanh"], "at": 2, "hl": "L3", "c": "teal"},
-        {"tag": "THỰC HÀNH", "t": "Không chuẩn hoá giữa các hãng", "d": "Kết quả nghiên cứu không áp dụng cho mọi xét nghiệm", "items": ["Tra bảng tham chiếu IFCC", "Dùng <em>ngưỡng riêng của từng xét nghiệm</em>"], "at": 4, "c": "amber"}
+        {
+          "tag": "SINH HỌC",
+          "t": "Phức hợp I – T – C",
+          "d": "Troponin I (ức chế), T (gắn tropomyosin), C (gắn canxi)",
+          "items": [
+            "Giải phóng dạng phức hợp nguyên vẹn và mảnh rời",
+            "Thời gian bán thải: troponin I khoảng 2 giờ, troponin T 2–4 giờ"
+          ],
+          "at": 0,
+          "hl": "L1",
+          "c": "blue"
+        },
+        {
+          "tag": "ĐỘ NHẠY CAO",
+          "t": "Hai tiêu chuẩn",
+          "d": "Hệ số biến thiên <b>≤ 10%</b> tại bách phân vị 99 theo giới",
+          "items": [
+            "Đo được troponin ở <b>> 50%</b> người khỏe mạnh, cả nam và nữ",
+            "Cho phép phác đồ chẩn đoán nhanh"
+          ],
+          "at": 2,
+          "hl": "L3",
+          "c": "teal"
+        },
+        {
+          "tag": "THỰC HÀNH",
+          "t": "Không chuẩn hoá giữa các hãng",
+          "d": "Kết quả nghiên cứu không áp dụng cho mọi xét nghiệm",
+          "items": [
+            "Tra bảng tham chiếu IFCC",
+            "Dùng <em>ngưỡng riêng của từng xét nghiệm</em>"
+          ],
+          "at": 4,
+          "c": "amber"
+        }
       ],
       "lines": [
         "Trước khi diễn giải, cần hiểu đúng công cụ. Trong sợi cơ tim, troponin I, T và C tồn tại thành một phức hợp, được giải phóng vào máu dưới dạng phức hợp nguyên vẹn và các mảnh rời khi có nhồi máu.",
@@ -66,12 +150,37 @@
       ]
     },
     {
-      "id": "s4", "layout": "box", "chapter": "Ngưỡng chẩn đoán", "title": "Vì sao là bách phân vị thứ 99?", "ref": "Mục 14.1.1",
-      "box": {"tag": "NGUYÊN TẮC", "t": "Không có “tiêu chuẩn vàng” độc lập với troponin → ngưỡng dựa trên <b>phân bố troponin ở quần thể tham chiếu khỏe mạnh</b>, không dựa trên nghiên cứu hiệu năng chẩn đoán.", "at": 0, "c": "blue", "size": 34},
+      "id": "s4",
+      "layout": "box",
+      "chapter": "Ngưỡng chẩn đoán",
+      "title": "Vì sao là bách phân vị thứ 99?",
+      "ref": "Mục 14.1.1",
+      "box": {
+        "tag": "NGUYÊN TẮC",
+        "t": "Không có “tiêu chuẩn vàng” độc lập với troponin → ngưỡng dựa trên <b>phân bố troponin ở quần thể tham chiếu khỏe mạnh</b>, không dựa trên nghiên cứu hiệu năng chẩn đoán.",
+        "at": 0,
+        "c": "blue",
+        "size": 34
+      },
       "notes": [
-        {"tag": "97,5 → 99", "t": "Hầu hết dấu ấn dùng bách phân vị 97,5; troponin dùng <b>99</b> + tăng/giảm để <b>tăng độ đặc hiệu</b>", "at": 1, "c": "teal"},
-        {"tag": "CHUẨN HOÁ", "t": "Thống nhất cách nhận diện tổn thương giữa các xét nghiệm, cơ sở và hệ thống y tế", "at": 2, "c": "violet"},
-        {"tag": "CHẤT LƯỢNG", "t": "Cần quần thể tham chiếu <b>đủ lớn, đại diện</b>, loại trừ giá trị ngoại lai", "at": 3, "c": "amber"}
+        {
+          "tag": "97,5 → 99",
+          "t": "Hầu hết dấu ấn dùng bách phân vị 97,5; troponin dùng <b>99</b> + tăng/giảm để <b>tăng độ đặc hiệu</b>",
+          "at": 1,
+          "c": "teal"
+        },
+        {
+          "tag": "CHUẨN HOÁ",
+          "t": "Thống nhất cách nhận diện tổn thương giữa các xét nghiệm, cơ sở và hệ thống y tế",
+          "at": 2,
+          "c": "violet"
+        },
+        {
+          "tag": "CHẤT LƯỢNG",
+          "t": "Cần quần thể tham chiếu <b>đủ lớn, đại diện</b>, loại trừ giá trị ngoại lai",
+          "at": 3,
+          "c": "amber"
+        }
       ],
       "lines": [
         "Vì sao lại là bách phân vị thứ 99? Bởi vì không có một tiêu chuẩn vàng nào cho chẩn đoán nhồi máu cơ tim mà độc lập với troponin. Do đó, ngưỡng quyết định được xây dựng từ phân bố troponin ở quần thể tham chiếu không có bệnh tim hay yếu tố nguy cơ tim mạch.",
@@ -81,11 +190,46 @@
       ]
     },
     {
-      "id": "s5", "layout": "cards", "chapter": "Ngưỡng chẩn đoán", "title": "Giới tính và tuổi: hai biến số lớn", "ref": "Mục 14.1.1", "h": 620,
+      "id": "s5",
+      "layout": "cards",
+      "chapter": "Ngưỡng chẩn đoán",
+      "title": "Giới tính và tuổi: hai biến số lớn",
+      "ref": "Mục 14.1.1",
+      "h": 620,
       "cards": [
-        {"tag": "NỮ", "t": "Ngưỡng thấp hơn ngưỡng chung", "d": "Dùng ngưỡng chung → <b>bỏ sót</b> tổn thương và NMCT ở nữ", "items": ["Troponin T thế hệ mới: ngưỡng ở nữ chỉ bằng <em>một nửa</em> ở nam"], "at": 0, "hl": "L1,L2", "c": "coral"},
-        {"tag": "NAM", "t": "Ngưỡng cao hơn ngưỡng chung", "d": "Ngưỡng theo giới tránh sai lệch hệ thống", "items": ["Tác động của ngưỡng theo giới nay tương tự cho troponin I và T"], "at": 1, "c": "blue"},
-        {"tag": "TUỔI", "t": "1/3 người > 75 tuổi có troponin tăng", "d": "So với 1/20 người dưới 50 tuổi (nghi NMCT)", "items": ["Chưa có xét nghiệm nào được duyệt dùng ngưỡng theo tuổi", "Đo lặp lại giúp phân biệt tăng cấp và mạn"], "at": 3, "hl": "L4", "c": "amber"}
+        {
+          "tag": "NỮ",
+          "t": "Ngưỡng thấp hơn ngưỡng chung",
+          "d": "Dùng ngưỡng chung → <b>bỏ sót</b> tổn thương và NMCT ở nữ",
+          "items": [
+            "Troponin T thế hệ mới: ngưỡng ở nữ chỉ bằng <em>một nửa</em> ở nam"
+          ],
+          "at": 0,
+          "hl": "L1,L2",
+          "c": "coral"
+        },
+        {
+          "tag": "NAM",
+          "t": "Ngưỡng cao hơn ngưỡng chung",
+          "d": "Ngưỡng theo giới tránh sai lệch hệ thống",
+          "items": [
+            "Tác động của ngưỡng theo giới nay tương tự cho troponin I và T"
+          ],
+          "at": 1,
+          "c": "blue"
+        },
+        {
+          "tag": "TUỔI",
+          "t": "1/3 người > 75 tuổi có troponin tăng",
+          "d": "So với 1/20 người dưới 50 tuổi (nghi NMCT)",
+          "items": [
+            "Chưa có xét nghiệm nào được duyệt dùng ngưỡng theo tuổi",
+            "Đo lặp lại giúp phân biệt tăng cấp và mạn"
+          ],
+          "at": 3,
+          "hl": "L4",
+          "c": "amber"
+        }
       ],
       "lines": [
         "Troponin thay đổi đáng kể theo giới. Với xét nghiệm troponin I và T độ nhạy cao, bách phân vị thứ 99 ở nữ thấp hơn ngưỡng chung, còn ở nam thì cao hơn.",
@@ -96,13 +240,40 @@
       ]
     },
     {
-      "id": "s6", "layout": "formula", "chapter": "Box 1", "title": "Tiêu chuẩn tổn thương cơ tim cấp", "ref": "Mục 6.1 · Box 1",
-      "main": {"tag": "BOX 1", "t": "Tổn thương cơ tim cấp", "d": "Troponin I hoặc T <b>tăng và/hoặc giảm</b>, với ít nhất một giá trị vượt <b>bách phân vị 99 theo giới</b>", "at": 0, "hl": "L1", "c": "coral"},
-      "op": "Cơ chế có thể là", "op_at": 2,
+      "id": "s6",
+      "layout": "formula",
+      "chapter": "Box 1",
+      "title": "Tiêu chuẩn tổn thương cơ tim cấp",
+      "ref": "Mục 6.1 · Box 1",
+      "main": {
+        "tag": "BOX 1",
+        "t": "Tổn thương cơ tim cấp",
+        "d": "Troponin I hoặc T <b>tăng và/hoặc giảm</b>, với ít nhất một giá trị vượt <b>bách phân vị 99 theo giới</b>",
+        "at": 0,
+        "hl": "L1",
+        "c": "coral"
+      },
+      "op": "Cơ chế có thể là",
+      "op_at": 2,
       "options": [
-        {"t": "Thiếu máu cục bộ", "d": "Khi được chứng minh → dấu ấn của nhồi máu cơ tim, nếu đủ tiêu chuẩn", "at": 2, "c": "teal"},
-        {"t": "Không do thiếu máu", "d": "Viêm, stress sinh lý, catecholamine, độc chất, chấn thương", "at": 3, "c": "violet"},
-        {"t": "Phối hợp nhiều cơ chế", "d": "Ví dụ nhiễm khuẩn huyết: viêm + stress sinh lý", "at": 4, "c": "amber"}
+        {
+          "t": "Thiếu máu cục bộ",
+          "d": "Khi được chứng minh → dấu ấn của nhồi máu cơ tim, nếu đủ tiêu chuẩn",
+          "at": 2,
+          "c": "teal"
+        },
+        {
+          "t": "Không do thiếu máu",
+          "d": "Viêm, stress sinh lý, catecholamine, độc chất, chấn thương",
+          "at": 3,
+          "c": "violet"
+        },
+        {
+          "t": "Phối hợp nhiều cơ chế",
+          "d": "Ví dụ nhiễm khuẩn huyết: viêm + stress sinh lý",
+          "at": 4,
+          "c": "amber"
+        }
       ],
       "lines": [
         "Chúng ta đến với Box 1. Tổn thương cơ tim cấp được định nghĩa là troponin I hoặc T có tăng và hoặc giảm, với ít nhất một giá trị vượt bách phân vị thứ 99 theo giới.",
@@ -113,15 +284,62 @@
       ]
     },
     {
-      "id": "s7", "layout": "list", "chapter": "Bảng 2", "title": "Cơ chế tổn thương cơ tim cấp", "ref": "Bảng 2", "cols1": 3,
+      "id": "s7",
+      "layout": "list",
+      "chapter": "Bảng 2",
+      "title": "Cơ chế tổn thương cơ tim cấp",
+      "ref": "Bảng 2",
+      "cols1": 3,
       "items": [
-        {"n": "1", "t": "Thiếu máu cục bộ", "d": "Nhồi máu cơ tim", "at": 0, "c": "coral"},
-        {"n": "2", "t": "Viêm", "d": "Viêm cơ tim (tự miễn, nhiễm trùng, nhiễm độc) · thải ghép tim · cytokine trong nhiễm khuẩn huyết", "at": 1, "c": "violet"},
-        {"n": "3", "t": "Stress huyết động", "d": "Mất cân bằng cung – cầu · nhịp nhanh / chậm · suy tim cấp · thuyên tắc phổi · tăng huyết áp ác tính", "at": 2, "c": "blue"},
-        {"n": "4", "t": "Stress sinh lý", "d": "Gắng sức cường độ cao", "at": 3, "c": "green"},
-        {"n": "5", "t": "Stress catecholamine", "d": "Takotsubo · xuất huyết dưới nhện · đột quỵ · động kinh · u tuỷ thượng thận", "at": 4, "c": "amber"},
-        {"n": "6", "t": "Độc chất", "d": "Anthracyclin · thuốc nhắm ErbB · ức chế tyrosine kinase · ức chế điểm kiểm soát miễn dịch · xạ trị", "at": 5, "c": "coral"},
-        {"n": "7", "t": "Chấn thương", "d": "Sốc điện · can thiệp mạch vành / cấu trúc · đốt điện, cấy thiết bị · phẫu thuật tim · đụng dập tim", "at": 6, "c": "teal"}
+        {
+          "n": "1",
+          "t": "Thiếu máu cục bộ",
+          "d": "Nhồi máu cơ tim",
+          "at": 0,
+          "c": "coral"
+        },
+        {
+          "n": "2",
+          "t": "Viêm",
+          "d": "Viêm cơ tim (tự miễn, nhiễm trùng, nhiễm độc) · thải ghép tim · cytokine trong nhiễm khuẩn huyết",
+          "at": 1,
+          "c": "violet"
+        },
+        {
+          "n": "3",
+          "t": "Stress huyết động",
+          "d": "Mất cân bằng cung – cầu · nhịp nhanh / chậm · suy tim cấp · thuyên tắc phổi · tăng huyết áp ác tính",
+          "at": 2,
+          "c": "blue"
+        },
+        {
+          "n": "4",
+          "t": "Stress sinh lý",
+          "d": "Gắng sức cường độ cao",
+          "at": 3,
+          "c": "green"
+        },
+        {
+          "n": "5",
+          "t": "Stress catecholamine",
+          "d": "Takotsubo · xuất huyết dưới nhện · đột quỵ · động kinh · u tuỷ thượng thận",
+          "at": 4,
+          "c": "amber"
+        },
+        {
+          "n": "6",
+          "t": "Độc chất",
+          "d": "Anthracyclin · thuốc nhắm ErbB · ức chế tyrosine kinase · ức chế điểm kiểm soát miễn dịch · xạ trị",
+          "at": 5,
+          "c": "coral"
+        },
+        {
+          "n": "7",
+          "t": "Chấn thương",
+          "d": "Sốc điện · can thiệp mạch vành / cấu trúc · đốt điện, cấy thiết bị · phẫu thuật tim · đụng dập tim",
+          "at": 6,
+          "c": "teal"
+        }
       ],
       "lines": [
         "Bảng 2 hệ thống hoá các cơ chế tổn thương cơ tim cấp thành bảy nhóm. Nhóm đầu tiên là thiếu máu cục bộ, tức nhồi máu cơ tim.",
@@ -134,12 +352,37 @@
       ]
     },
     {
-      "id": "s8", "layout": "box", "chapter": "Tổn thương cơ tim cấp", "title": "Troponin tăng không đồng nghĩa với hoại tử", "ref": "Mục 6.1",
-      "box": {"tag": "THÔNG ĐIỆP", "t": "Tổn thương cơ tim cấp cần được <b>đánh giá lâm sàng</b>: xác định nguyên nhân, đánh giá ảnh hưởng chức năng và tìm thiếu máu. Khi nghi thiếu máu → cần <em>hình ảnh mạch vành và tim</em> để xác nhận hoặc loại trừ NMCT.", "at": 3, "c": "teal", "size": 32},
+      "id": "s8",
+      "layout": "box",
+      "chapter": "Tổn thương cơ tim cấp",
+      "title": "Troponin tăng không đồng nghĩa với hoại tử",
+      "ref": "Mục 6.1",
+      "box": {
+        "tag": "THÔNG ĐIỆP",
+        "t": "Tổn thương cơ tim cấp cần được <b>đánh giá lâm sàng</b>: xác định nguyên nhân, đánh giá ảnh hưởng chức năng và tìm thiếu máu. Khi nghi thiếu máu → cần <em>hình ảnh mạch vành và tim</em> để xác nhận hoặc loại trừ NMCT.",
+        "at": 3,
+        "c": "teal",
+        "size": 32
+      },
       "notes": [
-        {"tag": "TAKOTSUBO", "t": "Rối loạn chức năng thất trái nặng có thể hồi phục hoàn toàn → cơ chế chức năng, không phải hoại tử", "at": 0, "c": "amber"},
-        {"tag": "VIÊM CƠ TIM", "t": "Rối loạn chức năng liên quan tổn thương cơ tim có thể hồi phục hoàn toàn", "at": 1, "c": "violet"},
-        {"tag": "VẬN ĐỘNG VIÊN", "t": "Troponin tăng sau gắng sức nặng: phần lớn là tổn thương có hồi phục", "at": 2, "c": "green"}
+        {
+          "tag": "TAKOTSUBO",
+          "t": "Rối loạn chức năng thất trái nặng có thể hồi phục hoàn toàn → cơ chế chức năng, không phải hoại tử",
+          "at": 0,
+          "c": "amber"
+        },
+        {
+          "tag": "VIÊM CƠ TIM",
+          "t": "Rối loạn chức năng liên quan tổn thương cơ tim có thể hồi phục hoàn toàn",
+          "at": 1,
+          "c": "violet"
+        },
+        {
+          "tag": "VẬN ĐỘNG VIÊN",
+          "t": "Troponin tăng sau gắng sức nặng: phần lớn là tổn thương có hồi phục",
+          "at": 2,
+          "c": "green"
+        }
       ],
       "lines": [
         "Một điểm tinh tế: troponin tăng không phải lúc nào cũng phản ánh hoại tử. Trong hội chứng Takotsubo, rối loạn chức năng thất trái nặng và rối loạn vận động vùng có thể hồi phục mà không để lại tổn thương vĩnh viễn, gợi ý cơ chế là rối loạn chức năng, không phải thiếu máu hay hoại tử.",
@@ -149,13 +392,39 @@
       ]
     },
     {
-      "id": "s9", "layout": "formula", "chapter": "Box 2", "title": "Tiêu chuẩn tổn thương cơ tim mạn", "ref": "Mục 6.2 · Box 2",
-      "main": {"tag": "BOX 2 · NGHĨ TỚI", "t": "≥ 2 giá trị troponin vượt bách phân vị 99 theo giới", "d": "Khi xét nghiệm trong <b>bối cảnh lâm sàng ổn định</b>", "at": 0, "c": "blue"},
-      "op": "Ba cơ chế troponin tăng kéo dài", "op_at": 1,
+      "id": "s9",
+      "layout": "formula",
+      "chapter": "Box 2",
+      "title": "Tiêu chuẩn tổn thương cơ tim mạn",
+      "ref": "Mục 6.2 · Box 2",
+      "main": {
+        "tag": "BOX 2 · NGHĨ TỚI",
+        "t": "≥ 2 giá trị troponin vượt bách phân vị 99 theo giới",
+        "d": "Khi xét nghiệm trong <b>bối cảnh lâm sàng ổn định</b>",
+        "at": 0,
+        "c": "blue"
+      },
+      "op": "Ba cơ chế troponin tăng kéo dài",
+      "op_at": 1,
       "options": [
-        {"t": "Tăng giải phóng từ cơ tim", "d": "Bệnh tim, hoặc bệnh ngoài tim gây tái cấu trúc tim → <b>xác nhận</b> tổn thương mạn", "at": 1, "c": "teal"},
-        {"t": "Giảm thanh thải", "d": "Nếu giải thích được hoàn toàn → <b>loại trừ</b> tổn thương mạn", "at": 2, "c": "amber"},
-        {"t": "Nhiễu xét nghiệm", "d": "Kháng thể dị loài, macrotroponin → <b>loại trừ</b> tổn thương mạn", "at": 3, "c": "coral"}
+        {
+          "t": "Tăng giải phóng từ cơ tim",
+          "d": "Bệnh tim, hoặc bệnh ngoài tim gây tái cấu trúc tim → <b>xác nhận</b> tổn thương mạn",
+          "at": 1,
+          "c": "teal"
+        },
+        {
+          "t": "Giảm thanh thải",
+          "d": "Nếu giải thích được hoàn toàn → <b>loại trừ</b> tổn thương mạn",
+          "at": 2,
+          "c": "amber"
+        },
+        {
+          "t": "Nhiễu xét nghiệm",
+          "d": "Kháng thể dị loài, macrotroponin → <b>loại trừ</b> tổn thương mạn",
+          "at": 3,
+          "c": "coral"
+        }
       ],
       "lines": [
         "Sang Box 2. Tổn thương cơ tim mạn được nghĩ tới khi có từ hai giá trị troponin trở lên vượt bách phân vị thứ 99 theo giới, đo trong bối cảnh lâm sàng ổn định.",
@@ -165,14 +434,51 @@
       ]
     },
     {
-      "id": "s10", "layout": "list", "chapter": "Bảng 3", "title": "Cơ chế tổn thương cơ tim mạn", "ref": "Bảng 3 · Mục 6.2", "cols1": 3,
+      "id": "s10",
+      "layout": "list",
+      "chapter": "Bảng 3",
+      "title": "Cơ chế tổn thương cơ tim mạn",
+      "ref": "Bảng 3 · Mục 6.2",
+      "cols1": 3,
       "items": [
-        {"t": "Thiếu máu cục bộ", "d": "Hội chứng vành mạn · bệnh cơ tim thiếu máu", "at": 0, "c": "coral"},
-        {"t": "Bệnh cơ tim khác", "d": "Phì đại · tăng huyết áp · giãn · viêm mạn · hạn chế · thâm nhiễm · do urê máu trong bệnh thận mạn", "at": 1, "c": "violet"},
-        {"t": "Stress huyết động", "d": "Suy tim mạn · tăng huyết áp hệ thống · tăng áp phổi", "at": 2, "c": "blue"},
-        {"t": "Bệnh cấu trúc", "d": "Bệnh van tim · tim bẩm sinh · u tim", "at": 3, "c": "teal"},
-        {"n": "!", "t": "Người cao tuổi không có bệnh tim rõ", "d": "Troponin tăng kéo dài vẫn có thể gặp", "at": 4, "c": "amber"},
-        {"n": "!", "t": "Ý nghĩa tiên lượng", "d": "Ở nhiều bệnh nền, tổn thương cơ tim mạn là yếu tố tiên lượng xấu → nên khảo sát thêm", "at": 5, "c": "green"}
+        {
+          "t": "Thiếu máu cục bộ",
+          "d": "Hội chứng vành mạn · bệnh cơ tim thiếu máu",
+          "at": 0,
+          "c": "coral"
+        },
+        {
+          "t": "Bệnh cơ tim khác",
+          "d": "Phì đại · tăng huyết áp · giãn · viêm mạn · hạn chế · thâm nhiễm · do urê máu trong bệnh thận mạn",
+          "at": 1,
+          "c": "violet"
+        },
+        {
+          "t": "Stress huyết động",
+          "d": "Suy tim mạn · tăng huyết áp hệ thống · tăng áp phổi",
+          "at": 2,
+          "c": "blue"
+        },
+        {
+          "t": "Bệnh cấu trúc",
+          "d": "Bệnh van tim · tim bẩm sinh · u tim",
+          "at": 3,
+          "c": "teal"
+        },
+        {
+          "n": "!",
+          "t": "Người cao tuổi không có bệnh tim rõ",
+          "d": "Troponin tăng kéo dài vẫn có thể gặp",
+          "at": 4,
+          "c": "amber"
+        },
+        {
+          "n": "!",
+          "t": "Ý nghĩa tiên lượng",
+          "d": "Ở nhiều bệnh nền, tổn thương cơ tim mạn là yếu tố tiên lượng xấu → nên khảo sát thêm",
+          "at": 5,
+          "c": "green"
+        }
       ],
       "lines": [
         "Bảng 3 liệt kê các nguyên nhân tổn thương cơ tim mạn. Nhóm thiếu máu cục bộ gồm hội chứng vành mạn và bệnh cơ tim thiếu máu, với các đợt thiếu máu tái diễn mức độ thấp.",
@@ -184,11 +490,44 @@
       ]
     },
     {
-      "id": "s11", "layout": "cards", "chapter": "Troponin và thận", "title": "Bệnh thận mạn: đừng vội đổ lỗi cho thận", "ref": "Mục 6.2 · Mục 16.3", "h": 620,
+      "id": "s11",
+      "layout": "cards",
+      "chapter": "Troponin và thận",
+      "title": "Bệnh thận mạn: đừng vội đổ lỗi cho thận",
+      "ref": "Mục 6.2 · Mục 16.3",
+      "h": 620,
       "cards": [
-        {"tag": "THANH THẢI", "t": "eGFR giảm một nửa → troponin nền tăng gấp đôi", "d": "Nồng độ bình thường: thải qua thận; nồng độ cao: chủ yếu qua gan", "at": 0, "hl": "L1", "c": "blue"},
-        {"tag": "BỆNH THẬN MẠN", "t": "Troponin tăng gấp 3 lần", "d": "Troponin T: 70% so với 24% · troponin I: 47% so với 16%", "items": ["eGFR ≥ 90: 10% có troponin tăng → eGFR < 30: 66%"], "at": 2, "hl": "L3", "c": "amber"},
-        {"tag": "THÔNG ĐIỆP", "t": "Không quy hết cho giảm thanh thải", "d": "Một nửa bệnh nhân bệnh thận mạn có troponin tăng là tổn thương không nhồi máu", "items": ["Bệnh tim đi kèm rất thường gặp (hội chứng tim – thận – chuyển hoá)", "<em>Đo troponin lặp lại</em> để phân biệt cấp và mạn"], "at": 4, "hl": "L5", "c": "coral"}
+        {
+          "tag": "THANH THẢI",
+          "t": "eGFR giảm một nửa → troponin nền tăng gấp đôi",
+          "d": "Nồng độ bình thường: thải qua thận; nồng độ cao: chủ yếu qua gan",
+          "at": 0,
+          "hl": "L1",
+          "c": "blue"
+        },
+        {
+          "tag": "BỆNH THẬN MẠN",
+          "t": "Troponin tăng gấp 3 lần",
+          "d": "Troponin T: 70% so với 24% · troponin I: 47% so với 16%",
+          "items": [
+            "eGFR ≥ 90: 10% có troponin tăng → eGFR < 30: 66%"
+          ],
+          "at": 2,
+          "hl": "L3",
+          "c": "amber"
+        },
+        {
+          "tag": "THÔNG ĐIỆP",
+          "t": "Không quy hết cho giảm thanh thải",
+          "d": "Một nửa bệnh nhân bệnh thận mạn có troponin tăng là tổn thương không nhồi máu",
+          "items": [
+            "Bệnh tim đi kèm rất thường gặp (hội chứng tim – thận – chuyển hoá)",
+            "<em>Đo troponin lặp lại</em> để phân biệt cấp và mạn"
+          ],
+          "at": 4,
+          "hl": "L5",
+          "c": "coral"
+        }
       ],
       "lines": [
         "Một tình huống rất thường gặp: bệnh thận mạn. Ở nồng độ trong giới hạn bình thường, troponin được thanh thải qua thận; ở nồng độ cao hơn, gan được cho là đóng vai trò chính.",
@@ -200,12 +539,37 @@
       ]
     },
     {
-      "id": "s12", "layout": "box", "chapter": "Nhiễu xét nghiệm", "title": "Khi troponin “không khớp” với lâm sàng", "ref": "Mục 14.1.2",
-      "box": {"tag": "NGHI NHIỄU KHI", "t": "Troponin tăng <b>không phù hợp với lâm sàng</b>, hoặc đo lặp lại <b>tăng giảm thất thường</b> không theo quy luật → lặp lại với mẫu mới, đo bằng <em>xét nghiệm khác</em> (troponin I và T bất tương hợp gợi ý mạnh nhiễu).", "at": 3, "c": "amber", "size": 31},
+      "id": "s12",
+      "layout": "box",
+      "chapter": "Nhiễu xét nghiệm",
+      "title": "Khi troponin “không khớp” với lâm sàng",
+      "ref": "Mục 14.1.2",
+      "box": {
+        "tag": "NGHI NHIỄU KHI",
+        "t": "Troponin tăng <b>không phù hợp với lâm sàng</b>, hoặc đo lặp lại <b>tăng giảm thất thường</b> không theo quy luật → lặp lại với mẫu mới, đo bằng <em>xét nghiệm khác</em> (troponin I và T bất tương hợp gợi ý mạnh nhiễu).",
+        "at": 3,
+        "c": "amber",
+        "size": 31
+      },
       "notes": [
-        {"tag": "TIỀN PHÂN TÍCH", "t": "Tán huyết và biotin làm <b>giảm</b>; vi cục máu đông fibrin làm <b>tăng</b> troponin", "at": 0, "c": "blue"},
-        {"tag": "KHÁNG THỂ DỊ LOÀI", "t": "Dương tính giả trong ống nghiệm; ít gặp với đa số xét nghiệm hiện nay", "at": 1, "c": "violet"},
-        {"tag": "MACROTROPONIN", "t": "Phức hợp với globulin miễn dịch, thải chậm (bán thải vài tuần) → troponin cao kéo dài", "at": 2, "c": "coral"}
+        {
+          "tag": "TIỀN PHÂN TÍCH",
+          "t": "Tán huyết và biotin làm <b>giảm</b>; vi cục máu đông fibrin làm <b>tăng</b> troponin",
+          "at": 0,
+          "c": "blue"
+        },
+        {
+          "tag": "KHÁNG THỂ DỊ LOÀI",
+          "t": "Dương tính giả trong ống nghiệm; ít gặp với đa số xét nghiệm hiện nay",
+          "at": 1,
+          "c": "violet"
+        },
+        {
+          "tag": "MACROTROPONIN",
+          "t": "Phức hợp với globulin miễn dịch, thải chậm (bán thải vài tuần) → troponin cao kéo dài",
+          "at": 2,
+          "c": "coral"
+        }
       ],
       "lines": [
         "Xét nghiệm troponin cũng là xét nghiệm miễn dịch, nên có thể dương tính giả hoặc âm tính giả. Tán huyết và biotin có thể làm giảm, còn vi cục máu đông fibrin có thể làm tăng nồng độ troponin.",
@@ -215,11 +579,46 @@
       ]
     },
     {
-      "id": "s13", "layout": "cards", "chapter": "Thực hành", "title": "Cấp hay mạn? Trình tự tiếp cận", "ref": "Mục 6.2", "h": 600,
+      "id": "s13",
+      "layout": "cards",
+      "chapter": "Thực hành",
+      "title": "Cấp hay mạn? Trình tự tiếp cận",
+      "ref": "Mục 6.2",
+      "h": 600,
       "cards": [
-        {"tag": "BƯỚC 1 · ƯU TIÊN", "t": "Loại trừ tổn thương cấp / NMCT", "d": "Dùng <b>phác đồ chẩn đoán nhanh</b> đã được kiểm chứng", "items": ["Đo lặp quá sát nhau có thể khó phân biệt cấp và mạn"], "at": 0, "hl": "L1", "c": "coral"},
-        {"tag": "BƯỚC 2", "t": "So sánh theo thời gian", "d": "Lặp lại troponin ngoại trú, hoặc so với kết quả cũ", "items": ["Thay đổi <b>< 20%</b> → nhiều khả năng mạn và ổn định", "Mốc 20% chỉ dựa trên sai số phân tích của xét nghiệm"], "at": 2, "hl": "L3", "c": "blue"},
-        {"tag": "BƯỚC 3", "t": "Tìm bệnh nền", "d": "Troponin vẫn cao → khảo sát nguyên nhân tổn thương mạn", "items": ["Hình ảnh học tim: bệnh cấu trúc hay bệnh mạch vành?"], "at": 4, "c": "teal"}
+        {
+          "tag": "BƯỚC 1 · ƯU TIÊN",
+          "t": "Loại trừ tổn thương cấp / NMCT",
+          "d": "Dùng <b>phác đồ chẩn đoán nhanh</b> đã được kiểm chứng",
+          "items": [
+            "Đo lặp quá sát nhau có thể khó phân biệt cấp và mạn"
+          ],
+          "at": 0,
+          "hl": "L1",
+          "c": "coral"
+        },
+        {
+          "tag": "BƯỚC 2",
+          "t": "So sánh theo thời gian",
+          "d": "Lặp lại troponin ngoại trú, hoặc so với kết quả cũ",
+          "items": [
+            "Thay đổi <b>< 20%</b> → nhiều khả năng mạn và ổn định",
+            "Mốc 20% chỉ dựa trên sai số phân tích của xét nghiệm"
+          ],
+          "at": 2,
+          "hl": "L3",
+          "c": "blue"
+        },
+        {
+          "tag": "BƯỚC 3",
+          "t": "Tìm bệnh nền",
+          "d": "Troponin vẫn cao → khảo sát nguyên nhân tổn thương mạn",
+          "items": [
+            "Hình ảnh học tim: bệnh cấu trúc hay bệnh mạch vành?"
+          ],
+          "at": 4,
+          "c": "teal"
+        }
       ],
       "lines": [
         "Vậy trên thực tế, tiếp cận thế nào để phân biệt cấp và mạn? Trong bối cảnh cấp cứu, ưu tiên số một là loại trừ tổn thương cơ tim cấp hoặc nhồi máu cơ tim bằng một phác đồ chẩn đoán nhanh đã được kiểm chứng.",
@@ -230,11 +629,22 @@
       ]
     },
     {
-      "id": "s14", "layout": "quiz", "chapter": "Câu hỏi tình huống", "title": "Áp dụng: troponin tăng ở người bệnh lọc máu",
+      "id": "s14",
+      "layout": "quiz",
+      "chapter": "Câu hỏi tình huống",
+      "title": "Áp dụng: troponin tăng ở người bệnh lọc máu",
       "case": "Nữ 68 tuổi, <b>bệnh thận mạn lọc máu</b>, đái tháo đường, tăng huyết áp. Khám định kỳ, <b>không đau ngực, huyết động ổn</b>. Troponin T độ nhạy cao vượt bách phân vị 99 theo giới ở <b>2 lần đo</b>, chênh lệch <b>< 20%</b>. ECG không thay đổi so với trước.",
-      "case_at": 1, "q": "Nhận định phù hợp nhất?", "q_at": 2,
-      "options": ["NMCT nguyên phát", "Tổn thương cơ tim cấp", "Nghĩ tới tổn thương cơ tim mạn – tìm bệnh tim nền", "Do suy thận, không cần đánh giá thêm"],
-      "answer": 2, "answer_at": 4,
+      "case_at": 1,
+      "q": "Nhận định phù hợp nhất?",
+      "q_at": 2,
+      "options": [
+        "NMCT nguyên phát",
+        "Tổn thương cơ tim cấp",
+        "Nghĩ tới tổn thương cơ tim mạn – tìm bệnh tim nền",
+        "Do suy thận, không cần đánh giá thêm"
+      ],
+      "answer": 2,
+      "answer_at": 4,
       "explain": "≥ 2 giá trị vượt ngưỡng trong bối cảnh ổn định, không có động học → nghĩ tới tổn thương mạn (Box 2). Không quy hết cho giảm thanh thải: cần tìm bệnh tim đi kèm.",
       "lines": [
         "Mời quý vị áp dụng với một tình huống.",
@@ -245,14 +655,49 @@
       ]
     },
     {
-      "id": "s15", "layout": "summary", "chapter": "Tổng kết Phần 2", "title": "Sáu thông điệp mang về", "cols1": 3,
+      "id": "s15",
+      "layout": "summary",
+      "chapter": "Tổng kết Phần 2",
+      "title": "Sáu thông điệp mang về",
+      "cols1": 3,
       "items": [
-        {"t": "Tổn thương cấp = động học + ngưỡng theo giới", "d": "Tăng và/hoặc giảm, ≥ 1 giá trị > bách phân vị 99 theo giới", "at": 1, "c": "coral"},
-        {"t": "Troponin tăng ≠ nhồi máu", "d": "7 nhóm cơ chế; nhiều trường hợp hồi phục, không hoại tử", "at": 2, "c": "violet"},
-        {"t": "Tổn thương mạn: ≥ 2 giá trị, bối cảnh ổn định", "d": "Xác nhận khi tìm thấy bệnh nền; loại trừ khi do thanh thải hoặc nhiễu", "at": 3, "c": "blue"},
-        {"t": "Thận: đừng đổ lỗi hoàn toàn", "d": "eGFR giảm một nửa → troponin nền gấp đôi; vẫn phải tìm bệnh tim", "at": 4, "c": "amber"},
-        {"t": "Nghi nhiễu khi không khớp lâm sàng", "d": "Lặp mẫu mới, đo bằng xét nghiệm khác", "at": 5, "c": "teal"},
-        {"n": "→", "t": "Phần 3: Phân loại lâm sàng mới", "d": "NMCT nguyên phát · thứ phát · liên quan thủ thuật", "at": 6, "c": "green"}
+        {
+          "t": "Tổn thương cấp = động học + ngưỡng theo giới",
+          "d": "Tăng và/hoặc giảm, ≥ 1 giá trị > bách phân vị 99 theo giới",
+          "at": 1,
+          "c": "coral"
+        },
+        {
+          "t": "Troponin tăng ≠ nhồi máu",
+          "d": "7 nhóm cơ chế; nhiều trường hợp hồi phục, không hoại tử",
+          "at": 2,
+          "c": "violet"
+        },
+        {
+          "t": "Tổn thương mạn: ≥ 2 giá trị, bối cảnh ổn định",
+          "d": "Xác nhận khi tìm thấy bệnh nền; loại trừ khi do thanh thải hoặc nhiễu",
+          "at": 3,
+          "c": "blue"
+        },
+        {
+          "t": "Thận: đừng đổ lỗi hoàn toàn",
+          "d": "eGFR giảm một nửa → troponin nền gấp đôi; vẫn phải tìm bệnh tim",
+          "at": 4,
+          "c": "amber"
+        },
+        {
+          "t": "Nghi nhiễu khi không khớp lâm sàng",
+          "d": "Lặp mẫu mới, đo bằng xét nghiệm khác",
+          "at": 5,
+          "c": "teal"
+        },
+        {
+          "n": "→",
+          "t": "Phần 3: Phân loại lâm sàng mới",
+          "d": "NMCT nguyên phát · thứ phát · liên quan thủ thuật",
+          "at": 6,
+          "c": "green"
+        }
       ],
       "lines": [
         "Để khép lại phần hai, xin tóm tắt các thông điệp chính.",
@@ -264,5 +709,9 @@
         "Trong phần ba, chúng ta sẽ đi vào trọng tâm của định nghĩa mới: tiêu chuẩn chẩn đoán nhồi máu cơ tim nguyên phát, thứ phát và liên quan thủ thuật. Xin cảm ơn quý đồng nghiệp đã theo dõi."
       ]
     }
-  ]
+  ],
+  "gemini": {
+    "voice": "Algieba",
+    "model": "gemini-3.8-flash-tts"
+  }
 }
