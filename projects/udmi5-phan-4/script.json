@@ -1,0 +1,325 @@
+{
+  "title": "UDMI-5 (2026) – Phần 4: Công cụ chẩn đoán",
+  "tts": "vieneu",
+  "vieneu": {"voice": "Adam"},
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "-8%",
+  "series": "VIDEO Y KHOA",
+  "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+  "part": "UDMI-5 · Phần 4/6",
+  "source_short": "Nguồn: Fifth Universal Definition of Myocardial Infarction – ESC/ACC/AHA/WHF 2026",
+  "sign": "Biên soạn: BS. Nguyễn Văn Hướng",
+  "source": "Fifth Universal Definition of Myocardial Infarction (2026). ESC/ACC/AHA/WHF Task Force.",
+  "lexicon": {
+    "UDMI": "u đê em i",
+    "STEMI": "ét tê mi",
+    "LBBB": "blốc nhánh trái",
+    "CK-MB": "xê ka em bê",
+    "cMyC": "xê mai xê",
+    "FFR": "ép ép a",
+    "iFR": "i ép a",
+    "aVR": "a vê rờ",
+    "aVL": "a vê lờ",
+    "V3R": "vê ba rờ",
+    "V6R": "vê sáu rờ",
+    "type ": "típ "
+  },
+  "scenes": [
+    {
+      "id": "s1", "layout": "title", "chapter": "Mở đầu",
+      "kicker": "Loạt bài giảng chuyên đề · Phần 4/6",
+      "title": "Công cụ chẩn đoán<br>nhồi máu cơ tim",
+      "subtitle": "Triệu chứng · ECG · Troponin · Hình ảnh học",
+      "badges": [
+        {"t": "Mục 12 · Triệu chứng", "c": "teal", "at": 1},
+        {"t": "Mục 13 · ECG · Bảng 5", "c": "blue", "at": "L1+1.5"},
+        {"t": "Mục 14 · Troponin · Box 6", "c": "coral", "at": "L1+3"},
+        {"t": "Mục 15 · Hình ảnh học", "c": "violet", "at": "L1+4.5"}
+      ],
+      "note": "Fifth Universal Definition of Myocardial Infarction · Hình 9–12", "note_at": 2,
+      "lines": [
+        "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn của loạt bài về Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim.",
+        "Hôm nay chúng ta đi qua bốn nhóm công cụ chẩn đoán: triệu chứng, điện tâm đồ, troponin tim và hình ảnh học.",
+        "Ở mỗi công cụ, chúng ta sẽ nhấn mạnh những điểm mới, những giới hạn, và cách diễn giải đúng trong từng nhóm nhồi máu cơ tim."
+      ]
+    },
+    {
+      "id": "s2", "layout": "cards", "chapter": "Mục 12 · Triệu chứng", "title": "Nói “khó chịu ngực”, bỏ “điển hình”", "ref": "Mục 12", "h": 610,
+      "cards": [
+        {"tag": "ĐAU NGỰC", "t": "Nhạy, nhưng không đặc hiệu", "d": "Triệu chứng thường gặp nhất; độ nhạy cao và <b>tương tự ở nam và nữ</b>", "items": ["Mức độ nặng không liên quan tới chẩn đoán NMCT"], "at": 0, "hl": "L1", "c": "coral"},
+        {"tag": "THUẬT NGỮ", "t": "“Khó chịu ngực”", "d": "Đè ép, thắt chặt, bóp nghẹt", "items": ["<em>Không dùng</em> “điển hình / không điển hình”: dễ chậm chẩn đoán ở nữ"], "at": 2, "c": "amber"},
+        {"tag": "CẤP HAY ỔN ĐỊNH", "t": "Định nghĩa rõ ràng", "d": "<b>Cấp:</b> khởi phát đột ngột, hoặc thay đổi cường độ, thời gian, kiểu đau", "items": ["<b>Ổn định:</b> mạn tính, khởi phát chắc chắn do gắng sức hay xúc cảm"], "at": 3, "c": "teal"}
+      ],
+      "lines": [
+        "Bắt đầu với triệu chứng. Đau ngực là triệu chứng thường gặp nhất của nhồi máu cơ tim cấp, với độ nhạy cao và tương tự giữa nam và nữ.",
+        "Tuy nhiên, đau ngực không đặc hiệu vì gặp trong rất nhiều bệnh khác, và mức độ nặng của triệu chứng không liên quan tới khả năng nhồi máu.",
+        "Người bệnh thường mô tả cảm giác đè ép, thắt chặt hay bóp nghẹt, vì vậy thuật ngữ khó chịu ngực được xem là phù hợp hơn. Văn bản khuyến cáo không dùng các từ điển hình và không điển hình, vì những triệu chứng bị gọi là không điển hình lại thường gặp hơn ở phụ nữ, và góp phần làm chậm chẩn đoán.",
+        "Khó chịu ngực được xem là cấp khi khởi phát đột ngột, hoặc thay đổi về cường độ, thời gian hay kiểu đau; và ổn định khi triệu chứng mạn tính, với yếu tố khởi phát chắc chắn là gắng sức hoặc xúc cảm."
+      ]
+    },
+    {
+      "id": "s3", "layout": "list", "chapter": "Mục 12 · Triệu chứng", "title": "Những người dễ bị bỏ sót", "ref": "Mục 12", "cols1": 3,
+      "items": [
+        {"t": "Đau lan, đau thượng vị", "d": "Lan hàm, cổ, tay, lưng · có người hoàn toàn không đau ngực", "at": 0, "c": "blue"},
+        {"t": "Chỉ có triệu chứng đi kèm", "d": "Khó thở, hồi hộp, buồn nôn, nôn", "at": "L0+4", "c": "blue"},
+        {"t": "Không đau ngực → nguy hiểm hơn", "d": "Chẩn đoán thường trễ, nguy cơ tử vong trong viện cao hơn", "at": 1, "c": "coral"},
+        {"t": "Phụ nữ", "d": "Hay đau giữa hai bả vai, buồn nôn, khó thở; ít đau ngực và vã mồ hôi hơn", "at": 2, "c": "violet"},
+        {"t": "Người cao tuổi · đái tháo đường", "d": "Hay gặp NMCT không đau ngực → hỏi có hệ thống các triệu chứng khác", "at": 3, "c": "amber"},
+        {"t": "STEMI và NMCT thứ phát", "d": "STEMI: đau kéo dài, nôn, choáng váng, vã mồ hôi · thứ phát: ít đau ngực, nhiều triệu chứng bệnh nền", "at": 4, "c": "teal"}
+      ],
+      "lines": [
+        "Một số người bệnh đau thượng vị, hoặc đau lan lên hàm, cổ, tay hay lưng; và có người hoàn toàn không đau ngực, chỉ có triệu chứng đi kèm như khó thở, hồi hộp, buồn nôn hay nôn.",
+        "Đây là nhóm nguy hiểm: ở người bệnh không đau ngực, chẩn đoán thường bị trễ, và nguy cơ tử vong trong viện cao hơn.",
+        "Ở phụ nữ, so với nam giới, đau giữa hai bả vai, buồn nôn hay nôn, và khó thở gặp nhiều hơn, trong khi đau ngực và vã mồ hôi ít hơn.",
+        "Nhồi máu cơ tim không đau ngực cũng hay gặp hơn ở người cao tuổi và người đái tháo đường. Vì vậy, cần hỏi có hệ thống các triệu chứng khác, dù phần lớn những người bệnh này vẫn có khó chịu ngực.",
+        "Cuối cùng, người bệnh nhồi máu có ST chênh lên hay đau kéo dài, kèm nôn, choáng váng và vã mồ hôi; còn nhồi máu thứ phát thì ít đau ngực, chủ yếu là khó thở hay triệu chứng của bệnh nền."
+      ]
+    },
+    {
+      "id": "s4", "layout": "compare", "chapter": "Mục 13 · ECG", "title": "Tiêu chuẩn điện tim của thiếu máu cục bộ", "ref": "Bảng 5",
+      "head": ["Đặc điểm", "Tiêu chuẩn", "Ghi chú"], "widths": "0.75fr 1.55fr 0.9fr",
+      "rows": [
+        {"cells": ["<b>ST chênh lên</b>", "Mới, tại điểm J, ≥ 2 chuyển đạo liên tiếp: <b>≥ 1 mm</b> mọi chuyển đạo; riêng V2–V3: <b>≥ 2,5 mm</b> nam < 40 tuổi · <b>≥ 2 mm</b> nam ≥ 40 tuổi · <b>≥ 1,5 mm</b> nữ", "Khi không có blốc nhánh, phì đại thất trái"], "at": 0, "hl": "L1", "c": "coral"},
+        {"cells": ["<b>ST chênh xuống</b>", "Mới, đi ngang hoặc chúc xuống <b>≥ 0,5 mm</b> tại điểm J, ≥ 2 chuyển đạo liên tiếp", "Gợi ý thiếu máu cục bộ"], "at": 2, "c": "amber"},
+        {"cells": ["<b>Sóng T</b>", "T âm mới hoặc động học <b>≥ 1 mm</b> ở 2 chuyển đạo liên tiếp · T tối cấp · T hai pha", "T tối cấp: rộng, cân, lớn so với QRS"], "at": 3, "c": "blue"},
+        {"cells": ["<b>Sóng Q bệnh lý</b>", "Thời gian <b>≥ 40 ms</b> và/hoặc sâu <b>≥ 25%</b> sóng R, ở 2 chuyển đạo liên tiếp", "Định nghĩa kinh điển, tương quan tốt hơn với NMCT xuyên thành trên CMR"], "at": 4, "c": "violet"}
+      ],
+      "lines": [
+        "Điện tâm đồ 12 chuyển đạo vẫn là nền tảng, đặc biệt để nhận diện nhanh người bệnh có tắc động mạch vành cấp cần tái tưới máu ngay. Bảng 5 tóm tắt các tiêu chuẩn.",
+        "Chẩn đoán làm việc nhồi máu có ST chênh lên đòi hỏi ST chênh lên mới tại điểm J ở ít nhất hai chuyển đạo liên tiếp: từ 1 milimét trở lên ở mọi chuyển đạo, riêng V2 và V3 thì từ 2,5 milimét ở nam dưới 40 tuổi, 2 milimét ở nam từ 40 tuổi, và 1,5 milimét ở nữ bất kể tuổi, khi không có phì đại thất trái hay blốc nhánh trái.",
+        "ST chênh xuống mới, đi ngang hoặc chúc xuống, từ 0,5 milimét ở hai chuyển đạo liên tiếp gợi ý thiếu máu cục bộ.",
+        "Về sóng T: T âm mới hoặc thay đổi động học từ 1 milimét ở hai chuyển đạo liên tiếp, sóng T tối cấp, và sóng T hai pha đều là dấu hiệu thiếu máu.",
+        "Sóng Q bệnh lý được định nghĩa theo kiểu kinh điển: thời gian từ 40 mili giây, và hoặc sâu từ 25% biên độ sóng R. Định nghĩa này tương quan tốt hơn với nhồi máu xuyên thành trên cộng hưởng từ tim so với định nghĩa thay thế ở các phiên bản trước."
+      ]
+    },
+    {
+      "id": "s5", "layout": "list", "chapter": "Mục 13 · ECG", "title": "Tắc mạch cấp nhưng không có ST chênh “kinh điển”", "ref": "Mục 13 · Hình 9", "dense": true, "cols1": 3,
+      "items": [
+        {"n": "!", "t": "Tới 1/4 ca xử trí như NSTEMI có tắc cấp", "d": "Cần nhận diện các kiểu ECG tương đương STEMI", "at": 0, "c": "coral"},
+        {"t": "NMCT thành sau · thất phải", "d": "ST chênh xuống ≥ 1 mm V1–V3 (R > S) → xác nhận ở V7–V9 · thất phải: ST chênh lên V3R–V6R", "at": 1, "c": "blue"},
+        {"t": "Blốc nhánh mới + dấu thiếu máu", "d": "Blốc nhánh trái và/hoặc phải mới, hoặc được cho là mới", "at": 2, "c": "violet"},
+        {"t": "Tiêu chuẩn Sgarbossa", "d": "Blốc nhánh trái / máy tạo nhịp thất: ST chênh lên ≥ 1 mm đồng hướng QRS · ST chênh xuống ≥ 1 mm V1–V3 · bản sửa đổi: tỷ ST/S ≤ 0,25", "at": 3, "c": "amber"},
+        {"t": "De Winter · Wellens", "d": "De Winter: ST chênh xuống dốc lên + T cao cân V2–V5 · Wellens: T hai pha hoặc âm sâu V2–V3 lúc hết đau", "at": 4, "c": "teal"},
+        {"t": "Aslanger · “cờ Nam Phi”", "d": "Aslanger: ST chênh lên riêng DIII + ST chênh xuống V4–V6, T dương · cờ Nam Phi: ST chênh lên DI, aVL, V2 + chênh xuống DIII", "at": 5, "c": "green"},
+        {"t": "Đã bắc cầu · tắc mạn tính có tuần hoàn bàng hệ", "d": "Tắc cấp có thể không có ST chênh điển hình → nghi ngờ cao", "at": 6, "c": "coral"}
+      ],
+      "lines": [
+        "Một điểm rất quan trọng: các nghiên cứu cho thấy tới 1 trên 4 người bệnh được xử trí như nhồi máu không ST chênh lên thực ra có tắc cấp động mạch thủ phạm. Vì vậy, văn bản liệt kê các kiểu điện tim có thể xem là tương đương ST chênh lên.",
+        "Nhồi máu thành sau được gợi ý khi ST chênh xuống từ 1 milimét ở V1 tới V3, nhất là khi sóng R lớn hơn sóng S, và được xác nhận bằng ST chênh lên ở V7 tới V9. Nhồi máu thất phải được gợi ý bằng ST chênh lên ở các chuyển đạo trước tim phải.",
+        "Blốc nhánh trái hoặc phải mới, hoặc được cho là mới, khi đi kèm các dấu hiệu thiếu máu khác.",
+        "Ở người bệnh có blốc nhánh trái cũ hoặc tạo nhịp thất, tiêu chuẩn Sgarbossa gợi ý tắc cấp: ST chênh lên từ 1 milimét đồng hướng với QRS, ST chênh xuống từ 1 milimét ở V1 tới V3, và ST chênh lên từ 5 milimét ngược hướng QRS. Bản Sgarbossa sửa đổi thay ngưỡng tuyệt đối bằng tỷ lệ ST trên sóng S không quá 0,25.",
+        "Kiểu de Winter là ST chênh xuống dốc lên kèm sóng T cao, cân đối ở V2 tới V5. Hội chứng Wellens là sóng T hai pha hoặc âm sâu ở V2, V3 trong lúc hết đau.",
+        "Kiểu Aslanger là ST chênh lên chỉ ở DIII kèm ST chênh xuống ở V4 tới V6 với sóng T dương; và dấu hiệu cờ Nam Phi là ST chênh lên ở DI, aVL và V2 kèm ST chênh xuống ở DIII.",
+        "Cuối cùng, người bệnh đã bắc cầu chủ vành hoặc có tắc mạn tính với tuần hoàn bàng hệ có thể bị tắc cấp mà không có ST chênh lên điển hình, nên cần chỉ số nghi ngờ cao."
+      ]
+    },
+    {
+      "id": "s6", "layout": "box", "chapter": "Mục 13 · ECG", "title": "ST chênh lên không đồng nghĩa với NMCT", "ref": "Mục 13",
+      "box": {"tag": "PHÂN BIỆT", "t": "Bệnh lý mạch vành cấp: ST chênh lên <b>theo vùng</b>, thường có <b>soi gương</b>. Viêm màng ngoài tim, tái cực sớm: <b>lan toả</b>, không giới hạn một vùng mạch vành, <b>không soi gương</b>.", "at": 1, "c": "teal", "size": 32},
+      "notes": [
+        {"tag": "NGUYÊN NHÂN TIM", "t": "Tái cực sớm, viêm cơ tim, viêm màng ngoài tim, Brugada, Takotsubo, bệnh cơ tim", "at": 0, "c": "blue"},
+        {"tag": "NGOÀI TIM", "t": "Thuyên tắc phổi, tăng kali máu, hạ thân nhiệt, tăng áp lực nội sọ", "at": "L0+5", "c": "violet"},
+        {"tag": "THIẾU MÁU TOÀN BỘ", "t": "ST chênh xuống lan toả + ST chênh lên aVR → nghĩ tới thân chung hoặc bệnh 3 nhánh", "at": 2, "c": "coral"}
+      ],
+      "lines": [
+        "ST chênh lên không đặc hiệu cho nhồi máu. Nó gặp trong tái cực sớm, viêm cơ tim, viêm màng ngoài tim, hội chứng Brugada, Takotsubo và các bệnh cơ tim, cũng như các nguyên nhân ngoài tim như thuyên tắc phổi, tăng kali máu, hạ thân nhiệt hay tăng áp lực nội sọ.",
+        "Điểm phân biệt: với bệnh lý mạch vành cấp, ST chênh lên thường theo vùng và kèm ST chênh xuống soi gương; còn trong viêm màng ngoài tim hay tái cực sớm, ST chênh lên thường lan toả, không giới hạn trong một vùng mạch vành, và không có soi gương.",
+        "Ngoài ra, biến đổi thiếu máu toàn bộ, tức ST chênh xuống lan toả kèm ST chênh lên ở aVR, có thể phản ánh bệnh thân chung động mạch vành trái hoặc bệnh ba nhánh cân bằng. Dù vậy, các dấu hiệu này cũng không đặc hiệu."
+      ]
+    },
+    {
+      "id": "s7", "layout": "cards", "chapter": "Mục 13 · ECG", "title": "Điện tim trong từng nhóm NMCT", "ref": "Mục 13", "h": 620,
+      "cards": [
+        {"tag": "ĐẾN MUỘN", "t": "Q bệnh lý, T hai pha / âm", "d": "Hơn là ST chênh lên hay xuống", "items": ["Một số vẫn chưa có Q dù đã tắc", "Q có thể thoái lui sau nhiều tháng, nhiều năm"], "at": 0, "c": "blue"},
+        {"tag": "THỨ PHÁT", "t": "Biến đổi toàn bộ hay gặp hơn", "d": "Biến đổi rõ <b>không hết nhanh</b> khi đã xử lý nguyên nhân → xem lại khả năng <em>nguyên phát</em>", "items": ["Ví dụ: ST chênh xuống lan toả hết sau sốc điện nhịp nhanh"], "at": 1, "c": "amber"},
+        {"tag": "THỦ THUẬT", "t": "Như NMCT nguyên phát", "d": "Huyết khối stent sớm: ST chênh lên kinh điển · tắc nhánh bên: biến đổi kín đáo", "items": ["So với ECG trước thủ thuật", "Sau mổ tim: hội chứng sau mở màng ngoài tim, tràn khí, rối loạn chuyển hoá"], "at": 2, "c": "violet"}
+      ],
+      "lines": [
+        "Ở người bệnh đến muộn sau nhồi máu do tắc cấp, điện tim thường có sóng Q bệnh lý ở hai chuyển đạo liên tiếp, sóng T hai pha hoặc âm, hơn là ST chênh lên hay xuống; tuy một số người dù đã tắc vẫn chưa xuất hiện sóng Q. Sóng Q thường tồn tại vĩnh viễn, nhưng có thể thoái lui sau nhiều tháng tới nhiều năm.",
+        "Trong nhồi máu thứ phát, biến đổi thiếu máu toàn bộ hay gặp hơn. Điểm thực hành quan trọng: nếu biến đổi điện tim rõ, đặc biệt ST chênh lên hay xuống, không hết nhanh sau khi đã xử lý nguyên nhân, ví dụ ST chênh xuống lan toả không hết sau sốc điện chuyển nhịp, thì cần xem lại khả năng nhồi máu nguyên phát.",
+        "Nhồi máu liên quan thủ thuật có biểu hiện điện tim giống nhồi máu nguyên phát. Huyết khối stent sớm thường có ST chênh lên kinh điển kèm soi gương, còn nhồi máu nhỏ như tắc nhánh bên có thể biến đổi rất kín đáo. So sánh với điện tim trước thủ thuật rất có ích. Sau mổ tim, hội chứng sau mở màng ngoài tim, tràn khí màng ngoài tim và rối loạn chuyển hoá đều có thể gây biến đổi ST và T."
+      ]
+    },
+    {
+      "id": "s8", "layout": "timeline", "chapter": "Mục 14 · Troponin", "title": "Động học troponin theo thời gian", "ref": "Mục 14.1.3 · Hình 10",
+      "events": [
+        {"year": "2–3 giờ", "t": "Bắt đầu tăng", "d": "Độ nhạy của ngưỡng 99 lúc nhập viện ~90%, chỉ ~70% nếu đến < 3 giờ", "at": 0, "hl": "L1", "c": "blue"},
+        {"year": "12–24 giờ", "t": "Đạt đỉnh", "d": "Quanh đỉnh: thay đổi giữa các lần đo có thể rất ít", "at": 2, "c": "coral"},
+        {"year": "Kéo dài", "t": "Còn tăng nhiều ngày", "d": "Đến muộn: dễ nhầm với tổn thương mạn", "at": 3, "c": "amber"},
+        {"year": "STEMI", "t": "Không chờ troponin", "d": "Khoảng 1/6 ca có troponin < ngưỡng 99 trong vài giờ đầu", "at": 4, "c": "violet"}
+      ],
+      "note": {"t": "Giá trị rất thấp (dưới giới hạn phát hiện, hoặc ngưỡng phân tầng đã kiểm chứng) có thể <b>loại trừ bằng 1 lần đo</b> ở nhiều người bệnh; dùng ngưỡng cao hơn thì <b>phải đo lặp lại</b>", "at": 5, "c": "teal"},
+      "lines": [
+        "Sang troponin. Trong nhồi máu nguyên phát, troponin bắt đầu tăng và đo được trong vòng 2 tới 3 giờ sau khởi phát triệu chứng.",
+        "Vì vậy, độ nhạy của ngưỡng bách phân vị 99 ngay lúc nhập viện chỉ khoảng 90% nói chung, và thấp tới khoảng 70% ở người bệnh đến trong vòng 3 giờ.",
+        "Troponin đạt đỉnh trong khoảng 12 tới 24 giờ. Nếu lấy mẫu quanh thời điểm đỉnh, thay đổi giữa các lần đo có thể rất ít.",
+        "Troponin còn tăng trong nhiều ngày tới nhiều tuần, nên ở người bệnh đến muộn, hình ảnh có thể giống tổn thương cơ tim mạn.",
+        "Với người bệnh ST chênh lên, không được dựa vào troponin trong vài giờ đầu, vì khoảng 1 trên 6 ca có troponin còn dưới ngưỡng bách phân vị 99 do vùng nhồi máu chưa được tưới máu.",
+        "Lưu ý thực hành: với xét nghiệm độ nhạy cao, giá trị rất thấp, dưới giới hạn phát hiện hoặc dưới ngưỡng phân tầng nguy cơ đã kiểm chứng, có thể loại trừ nhồi máu chỉ với một lần đo ở nhiều người bệnh. Ngược lại, nếu dùng ngưỡng cao hơn thì bắt buộc phải đo lặp lại."
+      ]
+    },
+    {
+      "id": "s9", "layout": "cards", "chapter": "Mục 14 · Troponin", "title": "Troponin sau thủ thuật và trong NMCT thứ phát", "ref": "Mục 14.1.3", "h": 620,
+      "cards": [
+        {"tag": "SAU PHẪU THUẬT TIM", "t": "Đỉnh sớm: 3–12 giờ", "d": "Troponin tăng ở <b>mọi</b> người bệnh; 97,5% vượt 10× URL", "items": ["Đỉnh muộn 12–24 giờ → nghĩ tới biến chứng thủ thuật"], "at": 0, "hl": "L1", "c": "violet"},
+        {"tag": "SAU CAN THIỆP (HC VÀNH MẠN)", "t": "1/2 người bệnh vượt ngưỡng 99", "d": "Đa số đạt đỉnh 12–24 giờ sau can thiệp", "items": ["Có thiếu máu hay biến chứng rõ: đo lúc nền và 12–24 giờ sau biến cố"], "at": 2, "c": "blue"},
+        {"tag": "NMCT THỨ PHÁT", "t": "Chồng lấp nhiều với nguyên phát", "d": "Giá trị đỉnh có thể thấp hơn, nhưng mức tăng giảm tương tự", "items": ["Giá trị ban đầu chênh < 2 lần; giá trị đỉnh chênh tới 5 lần"], "at": 3, "c": "amber"}
+      ],
+      "lines": [
+        "Sau phẫu thuật tim, troponin tăng ở mọi người bệnh, và 97,5% vượt ngưỡng 10 lần giới hạn trên từng được khuyến cáo trước đây. Đỉnh troponin sau mổ xuất hiện sớm, trong khoảng 3 tới 12 giờ, sớm hơn so với nhồi máu nguyên phát.",
+        "Vì vậy, một đỉnh troponin muộn, trong khoảng 12 tới 24 giờ sau mổ tim, có thể là dấu hiệu của biến chứng thủ thuật; người bệnh có ổ ngấm thuốc muộn mới trên cộng hưởng từ thường có đỉnh muộn hơn.",
+        "Sau can thiệp mạch vành ở người bệnh hội chứng vành mạn, cứ 2 người thì 1 người có troponin vượt bách phân vị 99, và đa số đạt đỉnh 12 tới 24 giờ sau can thiệp. Khi có thiếu máu hoặc biến chứng rõ, cần đo troponin lúc nền và 12 tới 24 giờ sau biến cố.",
+        "Trong nhồi máu thứ phát, giá trị troponin có thể thấp hơn nhồi máu nguyên phát, nhưng chồng lấp rất nhiều, và mức tăng giảm tuyệt đối cũng như tương đối là tương tự. Thú vị là giá trị ban đầu giữa hai nhóm chênh nhau dưới 2 lần, trong khi giá trị đỉnh chênh tới 5 lần."
+      ]
+    },
+    {
+      "id": "s10", "layout": "box", "chapter": "Mục 14 · Troponin", "title": "Thế nào là “tăng / giảm có ý nghĩa”?", "ref": "Mục 14.1.4",
+      "box": {"tag": "NGUYÊN TẮC", "t": "<b>Không có một giá trị tuyệt đối hay tương đối duy nhất</b> áp dụng cho mọi bệnh cảnh và mọi xét nghiệm → kết hợp ngưỡng + delta của phác đồ đã kiểm chứng, và <em>phán đoán lâm sàng</em>.", "at": 0, "c": "coral", "size": 32},
+      "notes": [
+        {"tag": "THỜI ĐIỂM", "t": "< 3 giờ: thay đổi nhỏ · 3–12 giờ: tăng rõ · quanh đỉnh: thay đổi ít", "at": 1, "c": "blue"},
+        {"tag": "KHOẢNG CÁCH ĐO", "t": "Cố định <b>1 hoặc 2 giờ</b> trong phác đồ nhanh để delta đáng tin cậy", "at": 2, "c": "teal"},
+        {"tag": "GIÁ TRỊ NỀN", "t": "Quanh ngưỡng 99: dùng <b>delta tuyệt đối</b> (riêng cho từng xét nghiệm) · nền cao: delta tương đối · rất cao: có thể không cần chứng minh động học", "at": 3, "c": "amber"}
+      ],
+      "lines": [
+        "Vậy thế nào là tăng hoặc giảm có ý nghĩa? Không có một giá trị tuyệt đối hay tương đối duy nhất áp dụng cho mọi bệnh cảnh và mọi xét nghiệm. Các phác đồ nhanh kết hợp ngưỡng riêng của từng xét nghiệm với tiêu chí delta, nhưng cuối cùng vẫn cần phán đoán lâm sàng.",
+        "Yếu tố thứ nhất là thời điểm lấy mẫu so với khởi phát: trong 3 giờ đầu, thay đổi tuyệt đối còn nhỏ; từ 3 tới 12 giờ, mức tăng rõ hơn; còn quanh đỉnh thì thay đổi rất ít.",
+        "Yếu tố thứ hai là khoảng cách giữa các lần đo, nên các phác đồ nhanh dùng khoảng cố định 1 hoặc 2 giờ để tiêu chí delta đáng tin cậy.",
+        "Yếu tố thứ ba là giá trị nền. Với giá trị quanh ngưỡng bách phân vị 99, delta tuyệt đối chính xác hơn, và ngưỡng delta này riêng cho từng xét nghiệm, không thể chuyển từ xét nghiệm này sang xét nghiệm khác. Với giá trị nền tăng rõ, delta tương đối trực quan hơn. Còn với giá trị rất cao, có thể không cần chứng minh động học, vì mức đó hiếm khi gặp trong tổn thương mạn."
+      ]
+    },
+    {
+      "id": "s11", "layout": "cards", "chapter": "Mục 14 · Troponin", "title": "Phác đồ chẩn đoán nhanh với hs-troponin", "ref": "Mục 14.1.5", "h": 600,
+      "cards": [
+        {"tag": "LOẠI 1", "t": "Một mẫu để loại trừ", "d": "Ngưỡng tối ưu <b>dưới</b> bách phân vị 99 → nguy cơ thấp, có thể ra viện", "at": 1, "c": "green"},
+        {"tag": "LOẠI 2", "t": "0/1 giờ hoặc 0/2 giờ", "d": "Nhiều ngưỡng + delta → <b>3 nhóm</b>: nguy cơ thấp, theo dõi, nguy cơ cao", "at": 2, "c": "blue"},
+        {"tag": "LOẠI 3", "t": "Truyền thống 0/3 giờ", "d": "Thang điểm nguy cơ lâm sàng + bách phân vị 99", "at": 3, "c": "amber"},
+        {"tag": "LƯU Ý", "t": "Phân tầng ≠ chẩn đoán", "d": "Ngưỡng phân tầng thường <b>chung cho hai giới</b>; chẩn đoán cuối cùng vẫn dùng <em>ngưỡng 99 theo giới</em>", "at": 4, "c": "coral"}
+      ],
+      "lines": [
+        "Một lợi thế lớn của troponin độ nhạy cao là các phác đồ chẩn đoán nhanh, nhằm đánh giá an toàn và hiệu quả người bệnh nghi nhồi máu không có ST chênh lên. Văn bản chia thành ba loại.",
+        "Loại thứ nhất là phác đồ loại trừ bằng một mẫu, dùng ngưỡng tối ưu dưới bách phân vị 99 để xác định tối đa số người nguy cơ thấp có thể ra viện từ khoa cấp cứu, với độ nhạy và giá trị tiên đoán âm cao.",
+        "Loại thứ hai là phác đồ đo lặp lúc 0 và 1 giờ, hoặc 0 và 2 giờ, dùng nhiều ngưỡng và delta để chia người bệnh thành ba nhóm: nguy cơ thấp, cần theo dõi, và nguy cơ cao.",
+        "Loại thứ ba là phác đồ truyền thống, kết hợp thang điểm nguy cơ lâm sàng với ngưỡng bách phân vị 99 lúc 0 và 3 giờ.",
+        "Xin lưu ý một điểm hay bị nhầm: các ngưỡng phân tầng trong phác đồ nhanh thường dùng chung cho cả nam và nữ, và chỉ để phân tầng nguy cơ. Còn chẩn đoán cuối cùng tổn thương cơ tim và nhồi máu vẫn dựa trên động học tăng giảm với ngưỡng bách phân vị 99 theo giới."
+      ]
+    },
+    {
+      "id": "s12", "layout": "list", "chapter": "Box 6", "title": "Tám nguyên tắc diễn giải troponin", "ref": "Mục 14.1.6 · Box 6", "dense": true, "cols1": 3,
+      "items": [
+        {"t": "Luôn kết hợp lâm sàng", "d": "Bệnh sử, thăm khám, ECG 12 chuyển đạo", "at": 0, "c": "teal"},
+        {"t": "Đến sớm → đo lặp", "d": "Kể cả xét nghiệm độ nhạy cao vẫn có thể chưa tăng", "at": 1, "c": "blue"},
+        {"t": "Triệu chứng kéo dài / tái diễn", "d": "Đo lặp trước khi loại trừ NMCT", "at": 2, "c": "blue"},
+        {"t": "Xét nghiệm không chọn lọc", "d": "Troponin tăng rất thường gặp: nhiễm khuẩn huyết, bệnh thận, đột quỵ", "at": 3, "c": "amber"},
+        {"t": "Ngưỡng theo giới", "d": "Ngưỡng ở nữ thấp hơn → giảm chẩn đoán sót ở nữ", "at": 4, "c": "coral"},
+        {"t": "Tuổi", "d": "Tỷ lệ NMCT và troponin tăng kéo dài đều tăng theo tuổi", "at": 5, "c": "violet"},
+        {"t": "Troponin tăng chưa rõ chẩn đoán", "d": "Đo lặp để phân biệt cấp và mạn", "at": 6, "c": "green"},
+        {"t": "Không khớp lâm sàng", "d": "Nghi nhiễu xét nghiệm, nhất là khi dao động không quy luật", "at": 7, "c": "coral"}
+      ],
+      "lines": [
+        "Box 6 tóm tắt tám nguyên tắc diễn giải troponin. Một, troponin luôn phải diễn giải cùng đánh giá lâm sàng: bệnh sử, thăm khám và điện tâm đồ 12 chuyển đạo.",
+        "Hai, ở người bệnh đến sớm sau khởi phát, troponin có thể chưa tăng, kể cả với xét nghiệm độ nhạy cao, nên cần đo lặp lại.",
+        "Ba, ở người bệnh có triệu chứng thiếu máu kéo dài hoặc tái diễn, phải đo lặp lại trước khi loại trừ nhồi máu.",
+        "Bốn, khi xét nghiệm không chọn lọc, không có chỉ định lâm sàng rõ, troponin tăng rất thường gặp trong nhiều bệnh như nhiễm khuẩn huyết, bệnh thận hay đột quỵ.",
+        "Năm, ngưỡng bách phân vị 99 ở nữ thấp hơn nam, và dùng ngưỡng theo giới sẽ giảm nguy cơ chẩn đoán sót ở nữ.",
+        "Sáu, tuổi là yếu tố quan trọng, vì cả tỷ lệ nhồi máu lẫn tỷ lệ troponin tăng kéo dài đều tăng theo tuổi.",
+        "Bảy, khi troponin tăng mà chẩn đoán nhồi máu chưa được xác nhận, thường cần đo lặp lại để phân biệt nguyên nhân cấp và mạn.",
+        "Và tám, nghĩ tới nhiễu xét nghiệm khi troponin tăng không khớp với lâm sàng, nhất là khi dao động không theo quy luật."
+      ]
+    },
+    {
+      "id": "s13", "layout": "cards", "chapter": "Mục 14.2", "title": "Khi không có troponin độ nhạy cao", "ref": "Mục 14.2", "h": 580,
+      "cards": [
+        {"tag": "LỰA CHỌN 1", "t": "hs-troponin", "d": "Dấu ấn nhạy và đặc hiệu nhất", "items": ["Khảo sát 663 phòng xét nghiệm, 76 quốc gia: 98% bệnh viện có troponin, 92% trong số đó là độ nhạy cao"], "at": 0, "c": "teal"},
+        {"tag": "LỰA CHỌN 2", "t": "Troponin thường", "d": "Vẫn được ưu tiên hơn CK-MB", "at": 1, "c": "blue"},
+        {"tag": "LỰA CHỌN 3", "t": "CK-MB khối lượng", "d": "Chỉ khi không có bất kỳ loại troponin nào", "at": 2, "c": "amber"},
+        {"tag": "NGHIÊN CỨU", "t": "cMyC", "d": "Protein gắn myosin tim: nhiều hơn troponin, tăng nhanh hơn", "items": ["Chưa dùng thường quy"], "at": 3, "c": "violet"}
+      ],
+      "lines": [
+        "Troponin đo bằng xét nghiệm độ nhạy cao là dấu ấn nhạy và đặc hiệu nhất. Một khảo sát 663 phòng xét nghiệm ở 76 quốc gia cho thấy 98% bệnh viện có xét nghiệm troponin, và 92% trong số đó dùng xét nghiệm độ nhạy cao.",
+        "Nếu không có xét nghiệm độ nhạy cao, troponin thông thường vẫn được ưu tiên hơn CK-MB, vì CK-MB kém nhạy và kém đặc hiệu hơn.",
+        "Chỉ khi không có bất kỳ loại troponin nào, mới dùng CK-MB đo bằng phương pháp khối lượng.",
+        "Một số dấu ấn mới đang được nghiên cứu, như protein C gắn myosin tim, có nhiều hơn troponin và tăng nhanh hơn sau tổn thương do thủ thuật. Tuy nhiên, hiện chưa dùng thường quy cho chẩn đoán."
+      ]
+    },
+    {
+      "id": "s14", "layout": "cards", "chapter": "Mục 15 · Hình ảnh xâm lấn", "title": "Chụp mạch vành và hơn thế nữa", "ref": "Mục 15.1", "h": 630,
+      "cards": [
+        {"tag": "CHỤP MẠCH VÀNH", "t": "Tiêu chuẩn vàng", "d": "Xác nhận chẩn đoán và cơ chế bệnh lý mạch vành cấp", "items": ["SCAD 0,1–4% · thuyên tắc 0,2–13% · co thắt 1–20% · tái hẹp 1–6,5% · huyết khối stent 0,6–0,8%"], "at": 0, "hl": "L1", "c": "teal"},
+        {"tag": "BÀI HỌC TỪ “TYPE 2”", "t": "1/20 thực ra là nguyên phát", "d": "Khi chụp mạch có hệ thống ở nhóm type 2 cũ", "items": ["Tiêu chí khách quan giúp giảm chẩn đoán NMCT quá mức"], "at": 2, "c": "amber"},
+        {"tag": "NỘI MẠCH", "t": "OCT · IVUS", "d": "Khoảng 14% NSTEMI không thấy tổn thương thủ phạm rõ trên chụp mạch", "items": ["Phân biệt vỡ, ăn mòn mảng; máu tụ trong thành (SCAD); huyết khối đơn độc (thuyên tắc)"], "at": 3, "c": "blue"},
+        {"tag": "CHỨC NĂNG", "t": "Test co thắt · FFR / iFR", "d": "Acetylcholine, ergonovine khi mạch vành không tắc nghẽn", "items": ["FFR, iFR, RFR hỗ trợ xác định hẹp có ý nghĩa trong NMCT thứ phát"], "at": 4, "c": "violet"}
+      ],
+      "lines": [
+        "Sang hình ảnh học. Văn bản nhấn mạnh: có thể chẩn đoán nhồi máu có khả năng cao mà không cần hình ảnh, nhưng để xác nhận và xác định cơ chế thì cần chụp mạch vành và hoặc hình ảnh tim. Chụp mạch vành xâm lấn là tiêu chuẩn vàng.",
+        "Tỷ lệ các bệnh lý mạch vành cấp không do xơ vữa dao động rất rộng: bóc tách tự phát từ 0,1 đến 4%, thuyên tắc từ 0,2 đến 13%, co thắt thượng tâm mạc từ 1 đến 20%, tái hẹp trong stent từ 1 đến 6,5%, và huyết khối stent từ 0,6 đến 0,8%.",
+        "Một bài học quan trọng: trong một nghiên cứu chụp mạch có hệ thống ở người bệnh được chẩn đoán type 2 theo định nghĩa cũ, cứ 20 người thì có 1 người thực ra là nhồi máu nguyên phát do xơ vữa huyết khối. Và khi áp dụng tiêu chí khách quan, phần lớn không còn đủ tiêu chuẩn nhồi máu.",
+        "Hình ảnh nội mạch rất có giá trị, vì khoảng 14% người bệnh nhồi máu không ST chênh lên không có tổn thương thủ phạm rõ trên chụp mạch. Hình ảnh nội mạch giúp phân biệt mảng vỡ hay ăn mòn, máu tụ trong thành mạch của bóc tách, huyết khối đơn độc của thuyên tắc, hoặc tái hẹp, huyết khối trong stent.",
+        "Thăm dò chức năng xâm lấn cũng có vai trò: nghiệm pháp kích thích co thắt bằng acetylcholine hay ergonovine khi mạch vành không tắc nghẽn; và đo phân suất dự trữ lưu lượng hay các chỉ số lúc nghỉ để xác định hẹp có ý nghĩa chức năng trong nhồi máu thứ phát."
+      ]
+    },
+    {
+      "id": "s15", "layout": "cards", "chapter": "Mục 15 · Hình ảnh không xâm lấn", "title": "Siêu âm, cộng hưởng từ, CT, y học hạt nhân", "ref": "Mục 15.2 · Hình 11–12", "h": 640,
+      "cards": [
+        {"tag": "SIÊU ÂM TIM", "t": "Tại giường", "d": "RL vận động vùng, biến chứng cơ học, chẩn đoán thay thế", "items": ["Siêu âm cầm tay phát hiện RLVĐ vùng gần như tức thì", "Không phải NMCT nào cũng gây RLVĐ vùng"], "at": 0, "c": "teal"},
+        {"tag": "CỘNG HƯỞNG TỪ TIM", "t": "Tổn thương hồi phục và không hồi phục", "d": "T2 + ngấm thuốc muộn: phân biệt cấp và mạn", "items": ["Tổn thương cơ tim với ĐMV không tắc nghẽn: tốt nhất trong <b>2 tuần</b>", "Phân biệt viêm cơ tim, Takotsubo"], "at": 2, "c": "violet"},
+        {"tag": "CT MẠCH VÀNH", "t": "Vai trò ngày càng lớn", "d": "Nguy cơ thấp, phân biệt nguyên phát / thứ phát qua kiểu hình mảng", "items": ["Phát hiện bệnh ĐMV tắc nghẽn (thứ phát), kiểm tra cầu nối"], "at": 3, "c": "blue"},
+        {"tag": "Y HỌC HẠT NHÂN", "t": "Hạn chế", "d": "Chỉ phát hiện NMCT xuyên thành, không thấy dưới nội tâm mạc", "at": 4, "c": "amber"}
+      ],
+      "lines": [
+        "Siêu âm tim là công cụ tại giường chủ lực, đánh giá rối loạn vận động vùng, mức độ nhồi máu, huyết khối, giả phình, tràn dịch màng ngoài tim và rối loạn van; đồng thời tìm chẩn đoán thay thế như viêm màng ngoài tim, hẹp chủ nặng, bóc tách động mạch chủ hay thuyên tắc phổi lớn. Siêu âm cầm tay do người được đào tạo thực hiện có thể phát hiện rối loạn vận động vùng do thiếu máu gần như tức thì.",
+        "Siêu âm cũng hữu ích trong cả ba nhóm nhồi máu: trong nhồi máu thứ phát, phân biệt giảm chức năng thất trái toàn bộ với rối loạn vận động vùng là rất quan trọng. Lưu ý không phải nhồi máu nào cũng gây rối loạn vận động vùng, và ngay sau mổ tim cửa sổ siêu âm thường kém.",
+        "Cộng hưởng từ tim đánh giá cả tổn thương hồi phục lẫn không hồi phục. Kết hợp chuỗi xung T2 với ngấm thuốc muộn giúp phân biệt tổn thương cấp và mạn. Với tổn thương cơ tim có động mạch vành không tắc nghẽn, hiệu quả chẩn đoán cao nhất khi chụp trong vòng 2 tuần. Cộng hưởng từ cũng giúp phân biệt nhồi máu với viêm cơ tim hay Takotsubo.",
+        "Chụp cắt lớp mạch vành có vai trò ngày càng lớn: ở người nguy cơ thấp, phân biệt nhồi máu nguyên phát với thứ phát qua kiểu hình mảng xơ vữa, phát hiện bệnh động mạch vành tắc nghẽn trong nhồi máu thứ phát, và đánh giá cầu nối sau phẫu thuật.",
+        "Cuối cùng, y học hạt nhân có giới hạn: độ phân giải không gian chỉ phát hiện được nhồi máu xuyên thành, không thấy nhồi máu dưới nội tâm mạc."
+      ]
+    },
+    {
+      "id": "s16", "layout": "quiz", "chapter": "Câu hỏi tình huống", "title": "Ca 1: blốc nhánh trái cũ, đau ngực cấp",
+      "case": "Nam 70 tuổi, <b>blốc nhánh trái đã biết từ trước</b>, đau ngực 40 phút, vã mồ hôi. ECG: ST chênh lên <b>2 mm đồng hướng với QRS</b> ở V5–V6.",
+      "case_at": 0, "q": "Nhận định phù hợp nhất?", "q_at": 1,
+      "options": ["Không đánh giá được ST vì blốc nhánh trái", "Chờ troponin lần 2 rồi quyết định", "Thoả Sgarbossa → nghĩ tắc mạch cấp, xử trí như STEMI", "Nghĩ viêm màng ngoài tim"],
+      "answer": 2, "answer_at": 3,
+      "explain": "ST chênh lên ≥ 1 mm đồng hướng QRS trên nền blốc nhánh trái là tiêu chuẩn Sgarbossa → tương đương STEMI, không chờ troponin.",
+      "lines": [
+        "Mời quý vị áp dụng. Tình huống thứ nhất: người bệnh nam 70 tuổi, có blốc nhánh trái đã biết từ trước, đau ngực 40 phút kèm vã mồ hôi. Điện tâm đồ có ST chênh lên 2 milimét đồng hướng với QRS ở V5 và V6.",
+        "Nhận định nào phù hợp nhất?",
+        "Quý vị có thể tạm dừng video để suy nghĩ.",
+        "Đáp án là thoả tiêu chuẩn Sgarbossa, nghĩ tới tắc mạch vành cấp và xử trí như nhồi máu có ST chênh lên. Blốc nhánh trái không làm mất giá trị của ST: ST chênh lên từ 1 milimét đồng hướng với QRS là dấu hiệu gợi ý tắc cấp. Và như đã nói, không chờ troponin trong những giờ đầu."
+      ]
+    },
+    {
+      "id": "s17", "layout": "quiz", "chapter": "Câu hỏi tình huống", "title": "Ca 2: đến sớm, troponin lần đầu “bình thường”",
+      "case": "Nữ 58 tuổi, khó chịu ngực bắt đầu cách đây <b>1 giờ</b>, ECG không chẩn đoán. hs-troponin lần đầu <b>dưới bách phân vị 99 theo giới</b> nhưng <b>trên ngưỡng loại trừ</b> của phác đồ.",
+      "case_at": 0, "q": "Bước tiếp theo phù hợp?", "q_at": 1,
+      "options": ["Loại trừ NMCT, cho về", "Đo lặp theo phác đồ 0/1 giờ hoặc 0/2 giờ đã kiểm chứng", "Làm CK-MB thay thế", "Chờ 24 giờ rồi đo lại"],
+      "answer": 1, "answer_at": 3,
+      "explain": "Đến sớm, giá trị chưa đủ thấp để loại trừ bằng 1 lần đo → đo lặp theo phác đồ nhanh của xét nghiệm đang dùng (Box 6).",
+      "lines": [
+        "Tình huống thứ hai: người bệnh nữ 58 tuổi, khó chịu ngực bắt đầu cách đây 1 giờ, điện tâm đồ không chẩn đoán. Troponin độ nhạy cao lần đầu dưới bách phân vị 99 theo giới, nhưng cao hơn ngưỡng loại trừ của phác đồ.",
+        "Bước tiếp theo phù hợp là gì?",
+        "Quý vị có thể tạm dừng video để suy nghĩ.",
+        "Đáp án là đo lặp lại theo phác đồ 0 và 1 giờ, hoặc 0 và 2 giờ, đã được kiểm chứng cho xét nghiệm đang dùng. Người bệnh đến rất sớm, và giá trị ban đầu chưa đủ thấp để loại trừ bằng một lần đo. Dưới bách phân vị 99 không đồng nghĩa với an toàn khi người bệnh đến trong vòng 3 giờ."
+      ]
+    },
+    {
+      "id": "s18", "layout": "summary", "chapter": "Tổng kết Phần 4", "title": "Sáu thông điệp mang về", "cols1": 3,
+      "items": [
+        {"t": "“Khó chịu ngực”, không “điển hình”", "d": "Chủ động hỏi triệu chứng khác ở nữ, người cao tuổi, đái tháo đường", "at": 1, "c": "teal"},
+        {"t": "ECG: nhận diện tắc cấp không ST chênh", "d": "Thành sau, Sgarbossa, de Winter, Wellens, Aslanger…", "at": 2, "c": "blue"},
+        {"t": "Troponin: hiểu động học", "d": "Tăng sau 2–3 giờ, đỉnh 12–24 giờ; đến sớm thì đo lặp", "at": 3, "c": "coral"},
+        {"t": "Phân tầng ≠ chẩn đoán", "d": "Ngưỡng phác đồ nhanh chung hai giới; chẩn đoán dùng ngưỡng 99 theo giới", "at": 4, "c": "amber"},
+        {"t": "Hình ảnh để xác nhận và tìm cơ chế", "d": "Chụp mạch, nội mạch, siêu âm, cộng hưởng từ, CT", "at": 5, "c": "violet"},
+        {"n": "→", "t": "Phần 5: Tình huống đặc biệt", "d": "Đột tử · MINOCA · suy tim · bệnh thận · hồi sức", "at": 6, "c": "green"}
+      ],
+      "lines": [
+        "Để khép lại phần bốn, xin tóm tắt các thông điệp chính.",
+        "Một, hãy dùng thuật ngữ khó chịu ngực thay vì điển hình hay không điển hình, và chủ động hỏi các triệu chứng khác ở phụ nữ, người cao tuổi và người đái tháo đường.",
+        "Hai, trên điện tim, cần nhận diện các kiểu tắc mạch vành cấp không có ST chênh lên kinh điển như nhồi máu thành sau, Sgarbossa, de Winter, Wellens hay Aslanger.",
+        "Ba, hiểu động học troponin: bắt đầu tăng sau 2 tới 3 giờ, đạt đỉnh 12 tới 24 giờ; người bệnh đến sớm cần đo lặp lại.",
+        "Bốn, ngưỡng phân tầng của phác đồ nhanh khác với ngưỡng chẩn đoán; chẩn đoán cuối cùng dùng ngưỡng bách phân vị 99 theo giới.",
+        "Năm, hình ảnh học giúp xác nhận chẩn đoán và tìm cơ chế: chụp mạch vành, hình ảnh nội mạch, siêu âm, cộng hưởng từ và cắt lớp vi tính.",
+        "Trong phần năm, chúng ta sẽ bàn các tình huống đặc biệt: đột tử, nhồi máu thầm lặng, tổn thương cơ tim có động mạch vành không tắc nghẽn, và người bệnh nặng tại hồi sức. Xin cảm ơn quý đồng nghiệp đã theo dõi."
+      ]
+    }
+  ]
+}
