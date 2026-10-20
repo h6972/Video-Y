@@ -1,0 +1,4 @@
+charon-nam {'model': 'gemini-3.8-flash-tts', 'voice': 'Charon', 'mime': 'audio/wav', 'audio_s': 66.4, 'gen_s': 18.9}
+orus-nam {'model': 'gemini-3.8-flash-tts', 'voice': 'Orus', 'mime': 'audio/wav', 'audio_s': 70.0, 'gen_s': 19.5}
+algieba-nam {'model': 'gemini-3.8-flash-tts', 'voice': 'Algieba', 'mime': 'audio/wav', 'audio_s': 46.2, 'gen_s': 13.3}
+kore-nu {'model': 'gemini-3.8-flash-tts', 'voice': 'Kore', 'mime': 'audio/wav', 'audio_s': 62.9, 'gen_s': 41.9}
