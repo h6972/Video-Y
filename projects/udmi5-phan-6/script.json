@@ -1,0 +1,612 @@
+{
+  "title": "UDMI-5 (2026) – Phần 6: Thực hành & tổng kết",
+  "tts": "vieneu",
+  "vieneu": {
+    "voice": "Adam"
+  },
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "-8%",
+  "series": "VIDEO Y KHOA",
+  "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+  "part": "UDMI-5 · Phần 6/6",
+  "source_short": "Nguồn: Fifth Universal Definition of Myocardial Infarction – ESC/ACC/AHA/WHF 2026",
+  "sign": "Biên soạn: BS. Nguyễn Văn Hướng",
+  "source": "Fifth Universal Definition of Myocardial Infarction (2026). ESC/ACC/AHA/WHF Task Force.",
+  "lexicon": {
+    "NSTEMI": "en ét tê mi",
+    "UDMI": "u đê em i",
+    "ICD-11": "i xê đê mười một",
+    "ICD-10": "i xê đê mười",
+    "BA41.0": "bê a bốn mốt chấm không",
+    "BA41.1": "bê a bốn mốt chấm một",
+    "BA41.Z": "bê a bốn mốt chấm dét",
+    "BA50": "bê a năm mươi",
+    "BA40": "bê a bốn mươi",
+    "STEMI": "ét tê mi",
+    "MINOCA": "mi nô ca",
+    "type ": "típ "
+  },
+  "scenes": [
+    {
+      "id": "s1",
+      "layout": "title",
+      "chapter": "Mở đầu",
+      "kicker": "Loạt bài giảng chuyên đề · Phần 6/6",
+      "title": "Thực hành<br>& tổng kết",
+      "subtitle": "Người bệnh · Mã hoá ICD-11 · Nguồn lực hạn chế · Nghiên cứu",
+      "badges": [
+        {
+          "t": "Mục 17–20",
+          "c": "teal",
+          "at": 1
+        },
+        {
+          "t": "Bảng 4 · ICD-11",
+          "c": "blue",
+          "at": "L1+1.5"
+        },
+        {
+          "t": "Box 7 · Box 8",
+          "c": "amber",
+          "at": "L1+3"
+        }
+      ],
+      "note": "Fifth Universal Definition of Myocardial Infarction · phần cuối loạt bài",
+      "note_at": 2,
+      "lines": [
+        "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần sáu, phần cuối cùng của loạt bài về Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim.",
+        "Hôm nay chúng ta bàn ý nghĩa của định nghĩa mới với người bệnh, với hệ thống mã hoá bệnh tật ICD-11, với những nơi còn hạn chế nguồn lực, và với nghiên cứu.",
+        "Cuối phần, chúng ta sẽ ôn tập lại toàn bộ loạt bài bằng một sơ đồ tư duy và một bộ câu hỏi tình huống."
+      ]
+    },
+    {
+      "id": "s2",
+      "layout": "cards",
+      "chapter": "Mục 17 · Người bệnh",
+      "title": "Chẩn đoán NMCT ảnh hưởng cả cuộc đời",
+      "ref": "Mục 17",
+      "h": 620,
+      "cards": [
+        {
+          "tag": "TÁC ĐỘNG",
+          "t": "Không chỉ là tiên lượng",
+          "d": "Tâm lý, xã hội, tài chính, bảo hiểm, nghề nghiệp",
+          "items": [
+            "Mệt mỏi, đau ngực, giảm năng lượng kéo dài",
+            "Lo âu, trầm cảm thường gặp, nhất là người trẻ"
+          ],
+          "at": 0,
+          "c": "coral"
+        },
+        {
+          "tag": "QUAY LẠI LÀM VIỆC",
+          "t": "Đa số trong 1 năm",
+          "d": "Ở nước thu nhập cao; khó hơn khi có suy tim, đái tháo đường, trầm cảm",
+          "items": [
+            "Lời khuyến khích của thầy thuốc giúp người bệnh quay lại làm việc"
+          ],
+          "at": 2,
+          "c": "blue"
+        },
+        {
+          "tag": "GIAO TIẾP",
+          "t": "Phân loại đơn giản hơn",
+          "d": "Nguyên phát · thứ phát · liên quan thủ thuật: dễ hiểu cho cả người bệnh và thầy thuốc",
+          "items": [
+            "Bất đồng chẩn đoán giữa các thầy thuốc → kết cục xấu hơn"
+          ],
+          "at": 3,
+          "c": "teal"
+        }
+      ],
+      "lines": [
+        "Chẩn đoán nhồi máu cơ tim có tác động không chỉ về tiên lượng, mà cả về tâm lý, xã hội, cảm xúc, tài chính, bảo hiểm và nghề nghiệp của người bệnh và gia đình.",
+        "Sau nhồi máu, nhiều người bệnh còn mệt mỏi, đau ngực, giảm năng lượng thể chất lẫn tinh thần kéo dài. Lo âu và trầm cảm thường gặp, nhất là ở người có tiền sử trầm cảm, điều kiện kinh tế thấp, hoặc bị nhồi máu khi còn trẻ. Quyết định chung giữa người bệnh, gia đình và thầy thuốc là thiết yếu.",
+        "Ở các nước thu nhập cao, đa số người bệnh đang đi làm sẽ quay lại làm việc trong vòng một năm; khó hơn ở người có suy tim, đái tháo đường hay trầm cảm. Người quay lại làm việc có tâm lý tốt hơn, và lời khuyến khích của thầy thuốc giúp tăng khả năng này.",
+        "Khi các thầy thuốc bất đồng về chẩn đoán, kết cục của người bệnh xấu hơn. Bằng cách đơn giản hoá phân loại thành nguyên phát, thứ phát và liên quan thủ thuật, định nghĩa mới mong muốn chẩn đoán rõ ràng và dễ hiểu hơn cho cả người bệnh lẫn thầy thuốc."
+      ]
+    },
+    {
+      "id": "s3",
+      "layout": "cards",
+      "chapter": "Mục 17 · Phòng ngừa thứ phát",
+      "title": "Đừng quên người bệnh NMCT thứ phát",
+      "ref": "Mục 17",
+      "h": 600,
+      "cards": [
+        {
+          "tag": "PHỤC HỒI CHỨC NĂNG TIM",
+          "t": "Có hiệu quả, được khuyến cáo",
+          "d": "Nhưng ít được chỉ định cho NMCT thứ phát",
+          "items": [
+            "Người bệnh thường được điều trị ngoài khoa tim mạch"
+          ],
+          "at": 0,
+          "c": "teal"
+        },
+        {
+          "tag": "KHOẢNG TRỐNG",
+          "t": "Biết vai trò, không biết mục tiêu",
+          "d": "Châu Âu: 90% thấy được thông tin đầy đủ, nhưng chỉ <b>1/3</b> biết mục tiêu huyết áp, <b>1/10</b> biết mục tiêu cholesterol",
+          "at": 1,
+          "c": "amber"
+        },
+        {
+          "tag": "CƠ HỘI",
+          "t": "Tiêu chí thứ phát có bệnh ĐMV",
+          "d": "Khuyến khích đưa người bệnh vào phục hồi chức năng và giáo dục",
+          "items": [
+            "Chuyển tuyến tự động có thể tăng tham gia"
+          ],
+          "at": 2,
+          "c": "green"
+        }
+      ],
+      "lines": [
+        "Phục hồi chức năng tim đã được chứng minh hiệu quả và được khuyến cáo sau nhồi máu cơ tim. Tuy nhiên, chương trình hiện chưa được điều chỉnh theo bối cảnh, và ít được chỉ định cho người bệnh nhồi máu thứ phát, dù đây lại là nhóm cần giáo dục nhất vì thường được điều trị ngoài các đơn vị tim mạch.",
+        "Khảo sát ở châu Âu cho thấy 90% người bệnh nhồi máu nguyên phát cảm thấy được thông tin đầy đủ về phòng ngừa thứ phát, nhưng chỉ 1 trên 3 người biết mục tiêu huyết áp, và 1 trên 10 người biết mục tiêu cholesterol. Với nhóm thứ phát, chưa có dữ liệu.",
+        "Vì tiêu chuẩn mới của nhồi máu thứ phát bao gồm bệnh động mạch vành, đây là cơ hội đưa những người bệnh này vào chương trình phục hồi chức năng và giáo dục. Tiêu chí chẩn đoán rõ ràng cũng giúp xây dựng các hệ thống chuyển tuyến tự động, từ đó tăng tỷ lệ tham gia."
+      ]
+    },
+    {
+      "id": "s4",
+      "layout": "box",
+      "chapter": "Mục 18 · Y tế công cộng",
+      "title": "Vì sao cần mã ICD-11 mới?",
+      "ref": "Mục 18",
+      "box": {
+        "tag": "VẤN ĐỀ",
+        "t": "hs-troponin + UDMI-4 làm tăng chẩn đoán type 1 thêm <b>11%</b> và type 2 thêm <b>22%</b>, nhưng không phản ánh vào thống kê vì UDMI-4 không khớp mã ICD-10: ở hai nước châu Âu, <b>dưới 20%</b> ca type 2 được mã hoá là NMCT.",
+        "at": 0,
+        "c": "coral",
+        "size": 31
+      },
+      "notes": [
+        {
+          "tag": "HẬU QUẢ",
+          "t": "NMCT bị gán nhầm cho tổn thương cơ tim không do thiếu máu",
+          "at": 1,
+          "c": "amber"
+        },
+        {
+          "tag": "GIẢI PHÁP",
+          "t": "Phối hợp với WHO: mã riêng cho nguyên phát, thứ phát, liên quan thủ thuật",
+          "at": 2,
+          "c": "teal"
+        },
+        {
+          "tag": "THỰC THI",
+          "t": "Cần đào tạo thầy thuốc và nhân viên mã hoá bệnh viện",
+          "at": 3,
+          "c": "blue"
+        }
+      ],
+      "lines": [
+        "Mục 18 bàn về y tế công cộng. Troponin độ nhạy cao cùng định nghĩa lần thứ tư đã làm tăng chẩn đoán type 1 thêm 11% và type 2 thêm 22%. Tuy nhiên, vì định nghĩa lần thứ tư không khớp với mã ICD-10, sự gia tăng này không được phản ánh vào thống kê bệnh tật và tử vong. Ví dụ, ở hai nước châu Âu, dưới 20% người bệnh đủ tiêu chuẩn type 2 được mã hoá là nhồi máu cơ tim.",
+        "Ngược lại, việc nhận biết tổn thương cơ tim nhiều hơn cũng gây khó khăn khi nhồi máu bị gán nhầm cho những người bệnh có tổn thương cơ tim cấp không do thiếu máu.",
+        "Để giải quyết, định nghĩa lần thứ 5 đã phối hợp với Tổ chức Y tế Thế giới để có mã ICD-11 riêng cho nhồi máu nguyên phát, thứ phát và liên quan thủ thuật.",
+        "Để thực thi thành công, cả thầy thuốc lẫn nhân viên mã hoá bệnh viện cần được đào tạo về phân loại lâm sàng mới và các mã đi kèm."
+      ]
+    },
+    {
+      "id": "s5",
+      "layout": "compare",
+      "chapter": "Bảng 4 · ICD-11",
+      "title": "Đọc mã ICD-11 của nhồi máu cơ tim",
+      "ref": "Bảng 4 · Mục 18",
+      "head": [
+        "Mã gốc",
+        "Ký tự thứ sáu / mã mở rộng",
+        "Ý nghĩa"
+      ],
+      "widths": "0.7fr 1.6fr 0.9fr",
+      "rows": [
+        {
+          "cells": [
+            "<b>BA41.0</b> STEMI<br><b>BA41.1</b> NSTEMI",
+            "Lần đầu ICD tách riêng NMCT có và không có ST chênh lên",
+            "Lập kế hoạch tái tưới máu cấp"
+          ],
+          "at": 0,
+          "c": "blue"
+        },
+        {
+          "cells": [
+            "<b>Nguyên phát</b>",
+            "<b>_1</b> xơ vữa – huyết khối · <b>_2</b> SCAD · <b>_3</b> thuyên tắc · <b>_4</b> co thắt · <b>_5</b> tái hẹp · <b>_6</b> huyết khối stent · <b>_7</b> hỏng cầu nối (> 30 ngày) · <b>_8</b> chưa xác định · <b>_9</b> không rõ (chưa chụp mạch)",
+            "Theo dõi tần suất các cơ chế ít gặp"
+          ],
+          "at": 1,
+          "hl": "L2",
+          "c": "teal"
+        },
+        {
+          "cells": [
+            "<b>Thứ phát</b> · <b>Thủ thuật</b>",
+            "<b>_A</b> thứ phát + mã bệnh cấp gây mất cân bằng · <b>_B</b> can thiệp qua da · <b>_C</b> phẫu thuật tim mở (≤ 30 ngày)",
+            "Hiểu nguy cơ theo từng bệnh cảnh"
+          ],
+          "at": 3,
+          "c": "amber"
+        },
+        {
+          "cells": [
+            "<b>Khác</b>",
+            "<b>BA40</b> đau thắt ngực không ổn định · <b>BA41.Z</b> NMCT không đặc hiệu (đột tử chưa đánh giá) · <b>BA50</b> NMCT không được nhận biết",
+            "Hoàn thiện dữ liệu dịch tễ"
+          ],
+          "at": 4,
+          "c": "violet"
+        }
+      ],
+      "lines": [
+        "Bảng 4 trình bày cấu trúc mã ICD-11. Lần đầu tiên, mã nhồi máu cơ tim cấp tách riêng nhồi máu có ST chênh lên, BA41.0, và không có ST chênh lên, BA41.1. Điều này giúp lập kế hoạch cho dịch vụ tái tưới máu cấp.",
+        "Với nhồi máu nguyên phát, ký tự thứ sáu từ 1 đến 9 cho biết cơ chế: 1 là xơ vữa huyết khối, 2 là bóc tách tự phát, 3 là thuyên tắc, 4 là co thắt, 5 là tái hẹp, 6 là huyết khối stent, 7 là hỏng cầu nối, các cơ chế 5 đến 7 đều xảy ra sau 30 ngày kể từ thủ thuật.",
+        "Mã 8 dùng khi đã chụp mạch vành hay hình ảnh tim mà vẫn chưa xác định được cơ chế, còn mã 9 dùng khi nguyên nhân không rõ vì không có hình ảnh mạch vành. Hệ thống này sẽ cho biết tần suất thực sự của các cơ chế ít gặp.",
+        "Ký tự A dành cho nhồi máu thứ phát, kèm mã của bệnh cấp tính gây mất cân bằng cung cầu. Ký tự B dành cho nhồi máu do biến chứng can thiệp qua da, và C cho biến chứng phẫu thuật tim mở, đều trong vòng 30 ngày.",
+        "Ngoài ra còn các mã BA40 cho đau thắt ngực không ổn định, BA41.Z cho nhồi máu không đặc hiệu, ví dụ đột tử chưa được đánh giá, và BA50 cho nhồi máu cơ tim không được nhận biết."
+      ]
+    },
+    {
+      "id": "s6",
+      "layout": "cards",
+      "chapter": "Mục 19 · Nguồn lực hạn chế",
+      "title": "Gánh nặng và thách thức",
+      "ref": "Mục 19",
+      "h": 600,
+      "cards": [
+        {
+          "tag": "GÁNH NẶNG",
+          "t": "31,9 triệu ca mới",
+          "d": "Bệnh tim thiếu máu cục bộ năm 2021, tăng <b>31,8%</b> so với 2010",
+          "items": [
+            "Già hoá, đô thị hoá, thuốc lá, ít vận động, béo phì, đái tháo đường"
+          ],
+          "at": 0,
+          "c": "coral"
+        },
+        {
+          "tag": "TIẾP CẬN",
+          "t": "Thiếu xét nghiệm, thiếu ECG",
+          "d": "Uganda: chỉ 43% cơ sở có troponin, 55% có điện tim",
+          "items": [
+            "Trung Quốc: bệnh viện đo được troponin tăng từ 25% lên 84% (2001–2011)"
+          ],
+          "at": 1,
+          "c": "amber"
+        },
+        {
+          "tag": "GIẢI PHÁP",
+          "t": "Rẻ, nhanh, tại chỗ",
+          "d": "Troponin tại chỗ giá hợp lý, đọc ECG từ xa, giáo dục cộng đồng",
+          "items": [
+            "Mục tiêu bao phủ y tế toàn dân cho bệnh không lây nhiễm vào 2030"
+          ],
+          "at": 3,
+          "c": "teal"
+        }
+      ],
+      "lines": [
+        "Mục 19 bàn về nơi nguồn lực hạn chế. Năm 2021, thế giới có 31,9 triệu ca mới bệnh tim thiếu máu cục bộ, tăng 31,8% so với năm 2010, chủ yếu do già hoá dân số, đô thị hoá, và gia tăng các yếu tố nguy cơ như hút thuốc, ít vận động, béo phì và đái tháo đường ở các nước thu nhập thấp và trung bình.",
+        "Người bệnh ở những nơi nguồn lực hạn chế gặp nhiều thách thức trong tiếp cận dịch vụ cấp cứu, xét nghiệm và điều trị. Ví dụ ở Uganda, chỉ 43% cơ sở y tế có xét nghiệm troponin và 55% có điện tim. Ở Trung Quốc, tỷ lệ bệnh viện đo được troponin tăng từ 25% lên 84% trong giai đoạn 2001 đến 2011.",
+        "Ngay cả khi có xét nghiệm, chi phí tự chi trả ở nhiều nước vẫn hạn chế khả năng tiếp cận.",
+        "Giải pháp gồm tăng khả năng tiếp cận xét nghiệm troponin tại chỗ với giá hợp lý, đọc điện tim từ xa, và giáo dục rộng rãi để nâng cao nhận thức, hướng tới mục tiêu bao phủ y tế toàn dân cho bệnh không lây nhiễm vào năm 2030."
+      ]
+    },
+    {
+      "id": "s7",
+      "layout": "formula",
+      "chapter": "Box 7",
+      "title": "Chẩn đoán khi không có troponin và hình ảnh",
+      "ref": "Mục 19 · Box 7",
+      "main": {
+        "tag": "BOX 7 · CHẨN ĐOÁN GIẢ ĐỊNH",
+        "t": "Triệu chứng phù hợp với thiếu máu cơ tim cấp",
+        "d": "Ở nơi <b>không có</b> xét nghiệm dấu ấn sinh học và hình ảnh tim",
+        "at": 0,
+        "c": "amber"
+      },
+      "op": "VÀ ≥ 1 đặc điểm",
+      "op_at": 1,
+      "options": [
+        {
+          "t": "Biến đổi thiếu máu mới trên ECG",
+          "d": "Theo tiêu chuẩn Bảng 5",
+          "at": 1,
+          "c": "blue"
+        },
+        {
+          "t": "Xuất hiện sóng Q bệnh lý",
+          "d": "Bằng chứng điện tim của hoại tử",
+          "at": 2,
+          "c": "violet"
+        }
+      ],
+      "lines": [
+        "Box 7 là một điểm mới đáng chú ý, rất thực tế với nhiều cơ sở y tế. Ở nơi không có xét nghiệm dấu ấn sinh học và hình ảnh tim, nhồi máu cơ tim được chẩn đoán giả định ở người bệnh có triệu chứng phù hợp với thiếu máu cơ tim cấp,",
+        "kèm ít nhất một đặc điểm lâm sàng: biến đổi thiếu máu mới trên điện tâm đồ,",
+        "hoặc xuất hiện sóng Q bệnh lý. Điều này cho phép thầy thuốc ở nơi nguồn lực hạn chế vẫn đưa ra chẩn đoán và điều trị kịp thời, trong khi chờ hệ thống được trang bị đầy đủ."
+      ]
+    },
+    {
+      "id": "s8",
+      "layout": "cards",
+      "chapter": "Mục 20 · Nghiên cứu",
+      "title": "Ý nghĩa của định nghĩa mới với nghiên cứu",
+      "ref": "Mục 20",
+      "h": 640,
+      "cards": [
+        {
+          "tag": "NGUYÊN PHÁT",
+          "t": "Chuẩn hoá hơn",
+          "d": "Nhiều thử nghiệm chưa xác nhận bằng chụp mạch → có thể làm loãng hiệu quả can thiệp",
+          "items": [
+            "Phân loại theo cơ chế mở đường cho điều trị riêng (SCAD, co thắt)"
+          ],
+          "at": 0,
+          "c": "teal"
+        },
+        {
+          "tag": "THỨ PHÁT",
+          "t": "Chọn đúng người bệnh",
+          "d": "Chỉ có <b>một</b> RCT đủ lực mẫu ở NMCT kèm thiếu máu: truyền máu tự do và hạn chế không khác biệt tử vong hay tái nhồi máu 30 ngày",
+          "items": [
+            "Cần tiêu chí khách quan để chọn người hưởng lợi"
+          ],
+          "at": 1,
+          "hl": "L2",
+          "c": "amber"
+        },
+        {
+          "tag": "THỦ THUẬT",
+          "t": "So sánh được can thiệp và phẫu thuật",
+          "d": "Định nghĩa khác nhau làm tỷ lệ NMCT dao động lớn giữa các nghiên cứu",
+          "at": 3,
+          "c": "violet"
+        },
+        {
+          "tag": "CÔNG NGHỆ",
+          "t": "Trí tuệ nhân tạo",
+          "d": "Tự động đọc ECG, dấu ấn sinh học; cần nghiên cứu thêm dưới sự giám sát của thầy thuốc",
+          "at": 4,
+          "c": "blue"
+        }
+      ],
+      "lines": [
+        "Mục 20 bàn về nghiên cứu. Nhiều thử nghiệm trước đây đưa vào người bệnh được cho là nhồi máu nguyên phát mà không xác nhận bằng chụp mạch vành, có thể đã bao gồm những người không thực sự nhồi máu, làm giảm hiệu quả quan sát được của can thiệp. Phân loại theo cơ chế bệnh lý mạch vành sẽ mở đường cho các thử nghiệm điều trị riêng, như với bóc tách hay co thắt mạch vành.",
+        "Với nhồi máu thứ phát, dù thường gặp và có kết cục xấu, mới chỉ có một thử nghiệm ngẫu nhiên đủ lực mẫu ở người bệnh nhồi máu kèm thiếu máu.",
+        "Thử nghiệm này so sánh chiến lược truyền máu tự do với hạn chế, và không thấy khác biệt về tử vong hay tái nhồi máu ở ngày 30, kể cả ở phân nhóm type 2, vốn được kỳ vọng hưởng lợi nhiều nhất. Điều này nhấn mạnh nhu cầu tiêu chí khách quan để chọn đúng người bệnh có khả năng hưởng lợi.",
+        "Với nhồi máu liên quan thủ thuật, sự thiếu đồng thuận giữa can thiệp và phẫu thuật đã cản trở việc diễn giải thử nghiệm trong nhiều thập kỷ. Định nghĩa thống nhất giúp so sánh đáng tin cậy hơn.",
+        "Cuối cùng, các công cụ trí tuệ nhân tạo hứa hẹn tự động hoá việc đọc điện tim và dấu ấn sinh học, nhưng cần nghiên cứu thêm để chứng minh lợi ích khi được sử dụng dưới sự giám sát phù hợp của thầy thuốc."
+      ]
+    },
+    {
+      "id": "s9",
+      "layout": "list",
+      "chapter": "Box 8",
+      "title": "Những câu hỏi còn bỏ ngỏ",
+      "ref": "Box 8",
+      "dense": true,
+      "cols1": 3,
+      "items": [
+        {
+          "t": "Tác động khi triển khai",
+          "d": "Tỷ lệ NMCT, việc dùng hình ảnh học ở các hệ thống y tế khác nhau",
+          "at": 0,
+          "c": "teal"
+        },
+        {
+          "t": "Kết cục theo cơ chế",
+          "d": "So sánh điều trị và kết cục NMCT nguyên phát theo nguyên nhân mạch vành",
+          "at": 1,
+          "c": "teal"
+        },
+        {
+          "t": "Trí tuệ nhân tạo",
+          "d": "Có cải thiện độ chính xác và tốc độ chẩn đoán?",
+          "at": 2,
+          "c": "blue"
+        },
+        {
+          "t": "Ngưỡng troponin",
+          "d": "Theo tuổi, giới, chức năng thận; troponin tại chỗ ở cộng đồng, xe cứu thương",
+          "at": 3,
+          "c": "coral"
+        },
+        {
+          "t": "Sau thủ thuật",
+          "d": "Có nên đo troponin thường quy? Ngưỡng nào để không cần hình ảnh?",
+          "at": 4,
+          "c": "violet"
+        },
+        {
+          "t": "Hình ảnh học",
+          "d": "Siêu âm và cộng hưởng từ trong thứ phát / thủ thuật · CT đếm photon · đo sinh lý xâm lấn",
+          "at": 5,
+          "c": "amber"
+        }
+      ],
+      "lines": [
+        "Box 8 liệt kê các hướng nghiên cứu cần thiết, cho thấy định nghĩa mới vẫn còn những vùng bất định. Đầu tiên là đánh giá tác động của việc triển khai định nghĩa lên tỷ lệ nhồi máu và việc sử dụng hình ảnh học ở các hệ thống y tế khác nhau.",
+        "Tiếp theo là so sánh điều trị và kết cục của nhồi máu nguyên phát theo từng nguyên nhân mạch vành, và tác động của tiêu chí mới cho nhồi máu thứ phát lên điều trị.",
+        "Về điện tim và dấu ấn sinh học: liệu trí tuệ nhân tạo và học máy có cải thiện độ chính xác và tốc độ chẩn đoán không.",
+        "Xây dựng ngưỡng troponin có xét tới tuổi, giới và chức năng thận; và đánh giá hiệu quả lâm sàng cũng như chi phí của troponin độ nhạy cao tại chỗ ở cộng đồng, trên xe cứu thương và trong bệnh viện.",
+        "Với thủ thuật tim: có nên đo troponin thường quy sau thủ thuật không, và ngưỡng nào giúp xác định người bệnh có biến chứng nhưng ít khả năng nhồi máu, để không cần làm hình ảnh.",
+        "Về hình ảnh học: so sánh siêu âm và cộng hưởng từ trong nhồi máu thứ phát và liên quan thủ thuật, vai trò của chụp cắt lớp mạch vành, kể cả công nghệ đếm photon, và của đo sinh lý xâm lấn."
+      ]
+    },
+    {
+      "id": "s10",
+      "layout": "cards",
+      "chapter": "Ôn tập toàn bộ",
+      "title": "Sơ đồ tư duy: từ troponin đến chẩn đoán",
+      "ref": "Phần 1–5",
+      "h": 640,
+      "cards": [
+        {
+          "tag": "BƯỚC 1",
+          "t": "Có tổn thương cơ tim cấp?",
+          "d": "Tăng và/hoặc giảm, ≥ 1 giá trị > bách phân vị 99 <b>theo giới</b>",
+          "items": [
+            "Không → tổn thương mạn, nhiễu xét nghiệm, hoặc bình thường"
+          ],
+          "at": 0,
+          "c": "coral"
+        },
+        {
+          "tag": "BƯỚC 2",
+          "t": "Có bằng chứng thiếu máu?",
+          "d": "Triệu chứng, ECG mới, sóng Q, xấu đi đột ngột khi an thần",
+          "items": [
+            "Không → tổn thương cơ tim cấp không do thiếu máu (Bảng 2)"
+          ],
+          "at": 1,
+          "c": "amber"
+        },
+        {
+          "tag": "BƯỚC 3",
+          "t": "Bối cảnh nào?",
+          "d": "Tự phát → <b>nguyên phát</b> · bệnh cấp khác → <b>thứ phát</b> · ≤ 30 ngày sau thủ thuật → <b>liên quan thủ thuật</b>",
+          "at": 2,
+          "c": "teal"
+        },
+        {
+          "tag": "BƯỚC 4",
+          "t": "Xác nhận bằng hình ảnh",
+          "d": "Bệnh lý mạch vành cấp · bệnh ĐMV tắc nghẽn · biến chứng mạch vành · RLVĐ vùng mới / mất cơ tim sống",
+          "items": [
+            "Không có hình ảnh → chẩn đoán lâm sàng, mã nguyên nhân không rõ"
+          ],
+          "at": 3,
+          "c": "violet"
+        }
+      ],
+      "lines": [
+        "Bây giờ, chúng ta ôn tập toàn bộ loạt bài bằng một sơ đồ tư duy bốn bước. Bước một: có tổn thương cơ tim cấp không? Tức troponin có tăng và hoặc giảm, với ít nhất một giá trị vượt bách phân vị 99 theo giới. Nếu không, hãy nghĩ tới tổn thương mạn, nhiễu xét nghiệm, hoặc người bệnh không có tổn thương.",
+        "Bước hai: có bằng chứng thiếu máu cục bộ không? Đó là triệu chứng, biến đổi điện tim mới, sóng Q bệnh lý, hoặc xấu đi đột ngột ở người bệnh đang an thần sau thủ thuật. Nếu không, đây là tổn thương cơ tim cấp không do thiếu máu, và hãy tìm nguyên nhân trong Bảng 2.",
+        "Bước ba: bối cảnh nào? Tự phát thì nghĩ tới nhồi máu nguyên phát; trong một bệnh cấp tính khác thì nghĩ tới thứ phát; trong vòng 30 ngày sau thủ thuật tim thì nghĩ tới liên quan thủ thuật.",
+        "Bước bốn: xác nhận bằng hình ảnh, với tiêu chí riêng cho từng nhóm. Và khi không có hình ảnh, vẫn có thể chẩn đoán lâm sàng, mã hoá với nguyên nhân không rõ."
+      ]
+    },
+    {
+      "id": "s11",
+      "layout": "quiz",
+      "chapter": "Ôn tập · Tình huống",
+      "title": "Ca 1: nhịp nhanh tại hồi sức",
+      "case": "Nam 80 tuổi, <b>đã biết hẹp 80% động mạch mũ</b>, nhập hồi sức vì viêm phổi, xuất hiện <b>rung nhĩ đáp ứng thất 170 lần/phút</b>, tụt huyết áp. ECG: ST chênh xuống V4–V6. Troponin tăng rồi giảm. Sau chuyển nhịp, siêu âm: <b>giảm vận động vùng thành bên mới</b>. Chụp mạch: không có bệnh lý mạch vành cấp.",
+      "case_at": 1,
+      "q": "Phân loại theo UDMI-5?",
+      "q_at": 2,
+      "options": [
+        "NMCT nguyên phát",
+        "NMCT thứ phát",
+        "Tổn thương cơ tim cấp",
+        "NMCT liên quan thủ thuật"
+      ],
+      "answer": 1,
+      "answer_at": 4,
+      "explain": "Bệnh cấp khác (nhịp nhanh, tụt huyết áp) + thiếu máu trên ECG + bệnh ĐMV tắc nghẽn không có bệnh lý cấp + RLVĐ vùng mới → NMCT thứ phát được xác nhận (mã _A).",
+      "lines": [
+        "Mời quý vị cùng làm hai câu hỏi ôn tập. Tình huống thứ nhất.",
+        "Người bệnh nam 80 tuổi, đã biết hẹp 80% động mạch mũ, nhập hồi sức vì viêm phổi, sau đó xuất hiện rung nhĩ đáp ứng thất nhanh 170 lần mỗi phút kèm tụt huyết áp. Điện tim có ST chênh xuống ở V4 tới V6, troponin tăng rồi giảm. Sau chuyển nhịp, siêu âm tim thấy giảm vận động vùng thành bên mới, và chụp mạch không thấy bệnh lý mạch vành cấp.",
+        "Phân loại theo định nghĩa lần thứ 5 là gì?",
+        "Quý vị có thể tạm dừng video để suy nghĩ.",
+        "Đáp án là nhồi máu cơ tim thứ phát, và lần này được xác nhận. Người bệnh có bệnh cấp tính gây mất cân bằng cung cầu, có bằng chứng thiếu máu trên điện tim, có bệnh động mạch vành tắc nghẽn mà không có bệnh lý mạch vành cấp, và có rối loạn vận động vùng mới. Trên ICD-11, mã hoá với ký tự A, kèm mã của rung nhĩ và viêm phổi."
+      ]
+    },
+    {
+      "id": "s12",
+      "layout": "quiz",
+      "chapter": "Ôn tập · Tình huống",
+      "title": "Ca 2: trạm y tế không có troponin",
+      "case": "Nam 60 tuổi đến trạm y tế xã, <b>đau thắt ngực dữ dội 2 giờ</b>, vã mồ hôi. Không có troponin, không có siêu âm. ECG: <b>ST chênh lên 3 mm từ V1 đến V4</b>.",
+      "case_at": 0,
+      "q": "Theo UDMI-5, nhận định phù hợp?",
+      "q_at": 1,
+      "options": [
+        "Chưa chẩn đoán được vì không có troponin",
+        "Chẩn đoán giả định NMCT theo Box 7, xử trí và chuyển tuyến ngay",
+        "Chờ làm troponin ở tuyến trên rồi mới xử trí",
+        "Chẩn đoán đau thắt ngực không ổn định"
+      ],
+      "answer": 1,
+      "answer_at": 3,
+      "explain": "Triệu chứng thiếu máu cấp + biến đổi ECG thiếu máu mới → chẩn đoán giả định NMCT (Box 7); với ST chênh lên, tái tưới máu càng sớm càng tốt theo hướng dẫn.",
+      "lines": [
+        "Tình huống thứ hai: người bệnh nam 60 tuổi đến trạm y tế xã vì đau thắt ngực dữ dội 2 giờ, vã mồ hôi. Trạm không có troponin, không có siêu âm. Điện tim có ST chênh lên 3 milimét từ V1 đến V4.",
+        "Theo định nghĩa lần thứ 5, nhận định nào phù hợp?",
+        "Quý vị có thể tạm dừng video để suy nghĩ.",
+        "Đáp án là chẩn đoán giả định nhồi máu cơ tim theo Box 7, xử trí và chuyển tuyến ngay. Người bệnh có triệu chứng thiếu máu cơ tim cấp kèm biến đổi thiếu máu mới trên điện tim, đủ để chẩn đoán giả định ở nơi không có dấu ấn sinh học hay hình ảnh. Với ST chênh lên, tái tưới máu càng sớm càng tốt theo hướng dẫn thực hành."
+      ]
+    },
+    {
+      "id": "s13",
+      "layout": "summary",
+      "chapter": "Tổng kết toàn bộ loạt bài",
+      "title": "Tám thông điệp của UDMI-5",
+      "dense": true,
+      "cols1": 3,
+      "items": [
+        {
+          "t": "Tổn thương cơ tim cấp là điều kiện bắt buộc",
+          "d": "Động học + ngưỡng 99 theo giới",
+          "at": 1,
+          "c": "coral"
+        },
+        {
+          "t": "Troponin tăng ≠ nhồi máu",
+          "d": "7 nhóm cơ chế; tổn thương mạn; nhiễu xét nghiệm",
+          "at": 2,
+          "c": "violet"
+        },
+        {
+          "t": "Type 1–5 → 3 nhóm lâm sàng",
+          "d": "Nguyên phát · thứ phát · liên quan thủ thuật",
+          "at": 3,
+          "c": "teal"
+        },
+        {
+          "t": "Hình ảnh học xác nhận và tìm cơ chế",
+          "d": "Chụp mạch, nội mạch, siêu âm, cộng hưởng từ, CT",
+          "at": 4,
+          "c": "blue"
+        },
+        {
+          "t": "Nhận diện tắc mạch cấp không ST chênh",
+          "d": "Thành sau, Sgarbossa, de Winter, Wellens…",
+          "at": 5,
+          "c": "amber"
+        },
+        {
+          "t": "MINOCA là chẩn đoán làm việc",
+          "d": "Tổn thương, không phải nhồi máu",
+          "at": 6,
+          "c": "green"
+        },
+        {
+          "t": "Hồi sức & sau mổ: NMCT hay bị bỏ sót",
+          "d": "Đo lặp, có troponin nền, dùng hình ảnh",
+          "at": 7,
+          "c": "coral"
+        },
+        {
+          "t": "Mã ICD-11 và Box 7",
+          "d": "Mã theo cơ chế; chẩn đoán được cả khi thiếu nguồn lực",
+          "at": 8,
+          "c": "teal"
+        }
+      ],
+      "lines": [
+        "Để khép lại toàn bộ loạt bài, xin tóm tắt những thông điệp quan trọng nhất của Định nghĩa toàn cầu lần thứ 5.",
+        "Một, tổn thương cơ tim cấp là điều kiện bắt buộc, với động học tăng giảm và ngưỡng bách phân vị 99 theo giới.",
+        "Hai, troponin tăng không đồng nghĩa với nhồi máu: có bảy nhóm cơ chế tổn thương cấp, có tổn thương mạn, và có nhiễu xét nghiệm.",
+        "Ba, phân loại type 1 đến 5 được thay bằng ba nhóm lâm sàng: nguyên phát, thứ phát và liên quan thủ thuật.",
+        "Bốn, hình ảnh học giữ vai trò trung tâm để xác nhận chẩn đoán và tìm cơ chế.",
+        "Năm, cần nhận diện các kiểu tắc mạch vành cấp không có ST chênh lên kinh điển.",
+        "Sáu, MINOCA nay là tổn thương cơ tim với động mạch vành không tắc nghẽn, chỉ là chẩn đoán làm việc.",
+        "Bảy, tại hồi sức và sau phẫu thuật, nhồi máu hay bị bỏ sót: hãy đo lặp, có troponin nền, và dùng hình ảnh.",
+        "Và tám, mã ICD-11 mới theo cơ chế, cùng Box 7 cho phép chẩn đoán ngay cả khi thiếu nguồn lực. Xin chân thành cảm ơn quý đồng nghiệp đã đồng hành cùng toàn bộ loạt bài. Hẹn gặp lại quý vị trong những chuyên đề tiếp theo."
+      ]
+    }
+  ]
+}
