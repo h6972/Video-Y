@@ -67,6 +67,7 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
           pip install -q azure-cognitiveservices-speech edge-tts playwright
+          pip install -q vieneu soundfile "onnxruntime==1.22.1"
           python -m playwright install --with-deps chromium
 
       - name: Giọng đọc → dựng hình → ghép tiếng
@@ -83,6 +84,7 @@ jobs:
           python engine/build.py "$D"          # sinh SSML
           case "${{ steps.t.outputs.tts }}" in
             azure) python engine/tts_azure.py "$D" ;;
+            vieneu) rm -rf "$D/audio"; python engine/tts_vieneu.py "$D" ;;
             gemini)
               P=${{ steps.p.outputs.project }}
               if git fetch -q --depth 1 origin logs 2>/dev/null && git show FETCH_HEAD:"$P-audio-do-dang.zip" > /tmp/do-dang.zip 2>/dev/null; then
