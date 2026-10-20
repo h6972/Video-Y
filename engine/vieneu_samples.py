@@ -1,5 +1,6 @@
 """Thử các giọng miền Nam của VieNeu-TTS v3 Turbo (~1 phút mỗi giọng), chạy CPU."""
 import os, time, json
+import onnxruntime; print("onnxruntime", onnxruntime.__version__, flush=True)
 from vieneu import Vieneu
 OUT = os.path.abspath(os.environ.get("OUT", "samples")); os.makedirs(OUT, exist_ok=True)
 t0 = time.time(); tts = Vieneu(); print("tải mô hình:", round(time.time() - t0), "giây", flush=True)
