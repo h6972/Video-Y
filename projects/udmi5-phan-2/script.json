@@ -1,6 +1,6 @@
 {
   "title": "UDMI-5 (2026) – Phần 2: Tổn thương cơ tim cấp & mạn",
-  "tts": "gemini",
+  "tts": "vieneu",
   "voice": "vi-VN-NamMinhNeural",
   "rate": "-8%",
   "series": "VIDEO Y KHOA",
@@ -710,8 +710,7 @@
       ]
     }
   ],
-  "gemini": {
-    "voice": "Algieba",
-    "model": "gemini-3.8-flash-tts"
+  "vieneu": {
+    "voice": "Adam"
   }
 }
