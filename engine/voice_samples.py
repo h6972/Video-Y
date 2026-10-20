@@ -20,8 +20,8 @@ LINES = [
     "Xin quý vị lưu ý: không có một tiêu chuẩn đơn lẻ nào đủ để khẳng định nhồi máu cơ tim cấp.",
 ]
 VOICES = {
-    "nam-nam": "male, middle-aged, low pitch, southern Vietnamese accent",
-    "nu-nam":  "female, middle-aged, medium pitch, southern Vietnamese accent",
+    "nam": "male, middle-aged, low pitch",
+    "nu":  "female, middle-aged, moderate pitch",
 }
 GAP = np.zeros(int(0.35 * 24000), dtype=np.float32)
 info = {}
