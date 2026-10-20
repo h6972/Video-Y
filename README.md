@@ -8,7 +8,10 @@ Quy trình tự động tạo video y khoa có giọng đọc (Microsoft Azure T
 - `engine/`: build (timeline + SSML), tts_azure (giọng đọc), capture (dựng hình), mux (ghép tiếng)
 - `fonts/`: font Inter (hỗ trợ tiếng Việt)
 
-## Cài đặt một lần
+## Giọng đọc
+`"tts"` trong `script.json`: `"edge"` (mặc định, miễn phí, không cần key) hoặc `"azure"` (chính thức, cần secret bên dưới).
+
+## Cài đặt Azure (chỉ khi dùng "azure")
 Vào **Settings → Secrets and variables → Actions → New repository secret**, tạo 2 secret:
 - `AZURE_SPEECH_KEY`: Key 1 của tài nguyên Speech trên Azure
 - `AZURE_SPEECH_REGION`: vùng của tài nguyên, ví dụ `southeastasia`

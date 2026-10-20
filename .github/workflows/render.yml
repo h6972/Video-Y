@@ -36,7 +36,14 @@ jobs:
           echo "project=$P" >> "$GITHUB_OUTPUT"
           echo "Dự án: $P"
 
+      - name: Chọn bộ giọng đọc
+        id: t
+        run: |
+          T=$(python -c "import json;print(json.load(open('projects/${{ steps.p.outputs.project }}/script.json')).get('tts','edge'))")
+          echo "tts=$T" >> "$GITHUB_OUTPUT"; echo "Bộ giọng đọc: $T"
+
       - name: Kiểm tra key Azure
+        if: steps.t.outputs.tts == 'azure'
         env:
           K: ${{ secrets.AZURE_SPEECH_KEY }}
           R: ${{ secrets.AZURE_SPEECH_REGION }}
@@ -53,7 +60,7 @@ jobs:
       - name: Cài công cụ
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-          pip install -q azure-cognitiveservices-speech playwright
+          pip install -q azure-cognitiveservices-speech edge-tts playwright
           python -m playwright install --with-deps chromium
 
       - name: Giọng đọc → dựng hình → ghép tiếng
@@ -63,7 +70,7 @@ jobs:
         run: |
           D=projects/${{ steps.p.outputs.project }}
           python engine/build.py "$D"          # sinh SSML
-          python engine/tts_azure.py "$D"      # Microsoft TTS → audio/*.mp3
+          if [ "${{ steps.t.outputs.tts }}" = "azure" ]; then python engine/tts_azure.py "$D"; else python engine/tts_edge.py "$D"; fi  # giọng đọc → audio/*.mp3
           python engine/build.py "$D"          # căn thời lượng theo giọng thật
           python engine/capture.py "$D" video  # dựng hình 1920x1080
           python engine/mux.py "$D"            # ghép tiếng → video-final.mp4
