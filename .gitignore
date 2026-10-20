@@ -1,0 +1,9 @@
+projects/*/video.html
+projects/*/timeline.json
+projects/*/ssml/
+projects/*/kich-ban-full.ssml
+projects/*/audio/
+projects/*/*.mp4
+projects/*/still_*
+out/
+__pycache__/

@@ -1,0 +1,93 @@
+name: Render video
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: "Tên thư mục dự án trong projects/ (vd: cum-nature-2026)"
+        required: true
+        default: "cum-nature-2026"
+  push:
+    branches: [main]
+    paths: ["projects/**/script.json", "projects/**/template.html"]
+
+permissions:
+  contents: write
+
+concurrency: render
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Chọn dự án
+        id: p
+        run: |
+          P="${{ github.event.inputs.project }}"
+          if [ -z "$P" ]; then
+            P=$(git diff --name-only HEAD~1 HEAD -- projects | cut -d/ -f2 | sort -u | head -1)
+          fi
+          [ -d "projects/$P" ] || { echo "Không thấy projects/$P"; exit 1; }
+          echo "project=$P" >> "$GITHUB_OUTPUT"
+          echo "Dự án: $P"
+
+      - name: Kiểm tra key Azure
+        env:
+          K: ${{ secrets.AZURE_SPEECH_KEY }}
+          R: ${{ secrets.AZURE_SPEECH_REGION }}
+        run: |
+          if [ -z "$K" ] || [ -z "$R" ]; then
+            echo "::error::Chưa khai báo secret AZURE_SPEECH_KEY / AZURE_SPEECH_REGION (Settings → Secrets and variables → Actions)"
+            exit 1
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cài công cụ
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q azure-cognitiveservices-speech playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Giọng đọc → dựng hình → ghép tiếng
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+        run: |
+          D=projects/${{ steps.p.outputs.project }}
+          python engine/build.py "$D"          # sinh SSML
+          python engine/tts_azure.py "$D"      # Microsoft TTS → audio/*.mp3
+          python engine/build.py "$D"          # căn thời lượng theo giọng thật
+          python engine/capture.py "$D" video  # dựng hình 1920x1080
+          python engine/mux.py "$D"            # ghép tiếng → video-final.mp4
+          mkdir -p "$RUNNER_TEMP/out"
+          cp "$D/video-final.mp4" "$RUNNER_TEMP/out/${{ steps.p.outputs.project }}.mp4"
+          cd "$D" && zip -qr "$RUNNER_TEMP/out/${{ steps.p.outputs.project }}-audio.zip" audio
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ steps.p.outputs.project }}
+          path: ${{ runner.temp }}/out/
+
+      - name: Lưu video lên nhánh renders
+        run: |
+          P=${{ steps.p.outputs.project }}
+          git config user.name "video-bot"
+          git config user.email "video-bot@users.noreply.github.com"
+          if git ls-remote --exit-code origin renders >/dev/null 2>&1; then
+            git fetch --depth 1 origin renders && git checkout -f -B renders FETCH_HEAD
+          else
+            git checkout -f --orphan renders && git rm -rf -q .
+          fi
+          mkdir -p videos
+          cp "$RUNNER_TEMP/out/$P.mp4" "$RUNNER_TEMP/out/$P-audio.zip" videos/
+          git add videos
+          git commit -qm "Render $P"
+          git push origin renders

@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>Cúm – Video demo</title>
+<style>
+@font-face{font-family:Inter;src:url("../../fonts/Inter-Regular.otf");font-weight:400;font-style:normal}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-Medium.otf");font-weight:500;font-style:normal}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-SemiBold.otf");font-weight:600;font-style:normal}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-Bold.otf");font-weight:700;font-style:normal}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-ExtraBold.otf");font-weight:800;font-style:normal}
+@font-face{font-family:Inter;src:url("../../fonts/Inter-Italic.otf");font-weight:400;font-style:italic}
+:root{
+  --bg:#08142b; --bg2:#0e2246; --card:rgba(255,255,255,.06); --line:rgba(255,255,255,.14);
+  --tx:#f4f7fb; --mut:#9fb0cc; --teal:#2dd4bf; --coral:#fb7185; --amber:#fbbf24; --green:#4ade80; --blue:#60a5fa;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#000}
+body{font-family:Inter,"DejaVu Sans",sans-serif;color:var(--tx)}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;
+  background:radial-gradient(1200px 800px at 75% 20%,#16336a 0%,transparent 60%),
+             radial-gradient(900px 700px at 10% 90%,#0f3a4a 0%,transparent 60%),var(--bg)}
+#stage:before{content:"";position:absolute;inset:0;
+  background-image:linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);
+  background-size:60px 60px}
+/* khung cố định */
+#brand{position:absolute;left:64px;top:44px;display:flex;align-items:center;gap:14px;font-weight:600;font-size:24px;color:var(--mut);z-index:5}
+#brand b{color:var(--teal);font-weight:800;letter-spacing:.5px}
+#chapters{position:absolute;right:64px;top:44px;display:flex;gap:10px;z-index:5}
+#chapters div{font-size:19px;font-weight:600;padding:8px 16px;border-radius:999px;border:1px solid var(--line);color:var(--mut);transition:none}
+#chapters div.on{background:var(--teal);color:#06202a;border-color:var(--teal)}
+#chapters div.done{color:var(--tx)}
+#prog{position:absolute;left:0;bottom:0;height:6px;background:linear-gradient(90deg,var(--teal),var(--blue));z-index:5}
+#subs{position:absolute;left:50%;bottom:36px;transform:translateX(-50%);max-width:1560px;text-align:center;z-index:6;
+  font-size:36px;line-height:1.32;font-weight:600;padding:14px 30px;border-radius:16px;background:rgba(3,8,20,.72);
+  text-shadow:0 2px 6px rgba(0,0,0,.5)}
+#subs:empty{display:none}
+#sign{position:absolute;left:64px;bottom:22px;font-size:17px;color:rgba(255,255,255,.4);z-index:5}
+
+.scene{position:absolute;inset:120px 80px 150px 80px}
+.abs{position:absolute}
+h1.big{font-size:84px;font-weight:800;line-height:1.05;letter-spacing:-1.5px}
+h2{font-size:54px;font-weight:800;letter-spacing:-.8px}
+.kicker{font-size:24px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--teal)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:28px 34px;backdrop-filter:blur(4px)}
+.stat .n{font-size:96px;font-weight:800;letter-spacing:-2px;line-height:1}
+.stat .l{font-size:28px;color:var(--mut);margin-top:10px;font-weight:500}
+.mut{color:var(--mut)} .teal{color:var(--teal)} .coral{color:var(--coral)} .amber{color:var(--amber)} .green{color:var(--green)}
+.pill{display:inline-block;padding:8px 18px;border-radius:999px;font-weight:700;font-size:24px}
+.row{display:flex;gap:28px;align-items:center}
+.tag{font-size:22px;font-weight:700;padding:6px 14px;border-radius:10px;display:inline-block}
+.li{font-size:32px;font-weight:600;display:flex;gap:18px;align-items:center;margin:16px 0}
+.dot{width:16px;height:16px;border-radius:50%;flex:none}
+.num{width:58px;height:58px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:30px;flex:none}
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="brand"><b>VIDEO Y KHOA</b><span>· Điểm nhanh y văn</span></div>
+  <div id="chapters"></div>
+
+  <!-- ===== S1: Mở đầu ===== -->
+  <section class="scene" id="s1">
+    <div class="abs" style="left:60px;top:90px;width:620px;height:620px" data-float="1">
+      <div class="vir" data-r="400" data-ha="#2dd4bf" data-na="#fb7185" data-spin="6" data-in="0" data-a="pop"></div>
+    </div>
+    <div class="abs" style="left:800px;top:150px;width:960px" data-out="L2">
+      <div class="kicker" data-in="0.2">Gánh nặng toàn cầu mỗi năm</div>
+      <div class="card stat" style="margin-top:30px" data-in="L0+0.2" data-a="left">
+        <div class="n coral">3–5 triệu</div><div class="l">ca bệnh nặng</div></div>
+      <div class="card stat" style="margin-top:28px" data-in="L1+0.3" data-a="left">
+        <div class="n amber">290.000–650.000</div><div class="l">ca tử vong</div></div>
+    </div>
+    <div class="abs" style="left:800px;top:190px;width:980px" data-in="L2" data-a="fade">
+      <div class="kicker">Nature Reviews Disease Primers · 2026</div>
+      <h1 class="big" style="margin-top:22px">CÚM<br><span class="teal">Influenza</span></h1>
+      <div style="font-size:30px;margin-top:28px;color:var(--mut);line-height:1.5">Dịch tễ · Cơ chế · Chẩn đoán<br>Điều trị · Phòng ngừa</div>
+      <div style="font-size:22px;margin-top:34px;color:rgba(255,255,255,.45)">Neumann G, Cowling BJ, … Kawaoka Y · doi:10.1038/s41572-026-00727-5</div>
+    </div>
+  </section>
+
+  <!-- ===== S2: Gánh nặng ===== -->
+  <section class="scene" id="s2">
+    <div class="abs" style="left:20px;top:40px" data-in="0.1"><h2>Mỗi năm, tới <span class="teal">1 tỷ</span> ca nhiễm</h2></div>
+    <div class="abs" style="left:20px;top:160px;width:720px">
+      <div id="grid" style="display:grid;grid-template-columns:repeat(10,1fr);gap:12px;width:500px"></div>
+      <div style="font-size:30px;margin-top:30px;font-weight:600" data-in="L1"><span class="teal" style="font-size:52px;font-weight:800">≈10–15%</span> dân số thế giới</div>
+    </div>
+    <div class="abs" style="left:860px;top:170px;width:900px">
+      <div class="card" style="border-color:rgba(74,222,128,.5)" data-in="L2" data-a="right">
+        <div class="tag" style="background:rgba(74,222,128,.15);color:var(--green)">ĐA SỐ</div>
+        <div style="font-size:36px;font-weight:700;margin-top:14px">Hô hấp cấp, khởi phát đột ngột</div>
+        <div style="font-size:30px;color:var(--mut);margin-top:6px">→ hồi phục hoàn toàn</div>
+      </div>
+      <div class="card" style="margin-top:30px;border-color:rgba(251,113,133,.6)" data-in="L3" data-a="right">
+        <div class="tag" style="background:rgba(251,113,133,.15);color:var(--coral)">NHÓM NGUY CƠ CAO</div>
+        <div style="font-size:36px;font-weight:700;margin-top:14px">Biến chứng nặng, đe dọa tính mạng</div>
+        <div class="row" style="margin-top:18px;gap:14px;flex-wrap:wrap">
+          <span class="pill" style="background:rgba(255,255,255,.08)" data-in="L3+0.6">Trẻ nhỏ</span>
+          <span class="pill" style="background:rgba(255,255,255,.08)" data-in="L3+0.9">Thai phụ</span>
+          <span class="pill" style="background:rgba(255,255,255,.08)" data-in="L3+1.2">Người cao tuổi</span>
+          <span class="pill" style="background:rgba(255,255,255,.08)" data-in="L3+1.5">Bệnh mạn tính</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== S3: Drift vs Shift ===== -->
+  <section class="scene" id="s3">
+    <div class="abs" style="left:20px;top:20px" data-in="0.1"><h2>Vì sao năm nào cũng có dịch cúm?</h2></div>
+    <!-- Drift -->
+    <div class="abs card" style="left:0;top:130px;width:850px;height:600px" data-in="L0+0.6">
+      <div class="kicker">Trôi kháng nguyên · Drift</div>
+      <div class="row" style="margin-top:40px;gap:30px;justify-content:center">
+        <div style="text-align:center" data-in="L1" data-a="pop"><div class="vir" data-r="95" data-ha="#2dd4bf" data-na="#fb7185" data-spin="10"></div><div class="mut" style="font-size:24px;margin-top:8px">Năm 1</div></div>
+        <svg width="50" height="30" data-in="L1+0.6"><path d="M2 15 H44 M32 4 L46 15 L32 26" stroke="#9fb0cc" stroke-width="4" fill="none"/></svg>
+        <div style="text-align:center" data-in="L1+0.9" data-a="pop"><div class="vir" data-r="95" data-ha="#34d399" data-na="#fb7185" data-mut="2" data-spin="10"></div><div class="mut" style="font-size:24px;margin-top:8px">Năm 2</div></div>
+        <svg width="50" height="30" data-in="L1+1.5"><path d="M2 15 H44 M32 4 L46 15 L32 26" stroke="#9fb0cc" stroke-width="4" fill="none"/></svg>
+        <div style="text-align:center" data-in="L1+1.8" data-a="pop"><div class="vir" data-r="95" data-ha="#a3e635" data-na="#f472b6" data-mut="4" data-spin="10"></div><div class="mut" style="font-size:24px;margin-top:8px">Năm 3</div></div>
+      </div>
+      <div style="font-size:30px;margin-top:34px;line-height:1.45;font-weight:600" data-in="L1+2.4">Đột biến nhỏ trên <span class="teal">HA</span> &amp; <span class="coral">NA</span><br><span class="mut">→ né kháng thể trung hòa → dịch mùa</span></div>
+      <div class="row" style="margin-top:30px;padding:18px 24px;border-radius:18px;background:rgba(45,212,191,.12)" data-in="L2" data-a="pop">
+        <svg width="56" height="56" viewBox="0 0 64 64"><g fill="none" stroke="#2dd4bf" stroke-width="4" stroke-linecap="round"><path d="M44 8l12 12M50 14L22 42M18 34l12 12M14 46l-8 8M30 30l6 6M24 36l6 6"/><rect x="20" y="22" width="12" height="28" rx="2" transform="rotate(45 26 36)"/></g></svg>
+        <div style="font-size:32px;font-weight:800">Vaccine cúm mùa cập nhật <span class="teal">hằng năm</span></div>
+      </div>
+    </div>
+    <!-- Shift -->
+    <div class="abs card" style="left:900px;top:130px;width:860px;height:600px" data-in="L3">
+      <div class="kicker" style="color:var(--amber)">Biến đổi kháng nguyên lớn · Shift</div>
+      <svg class="abs" style="left:0;top:0" width="860" height="640">
+        <g fill="none" stroke="#9fb0cc" stroke-width="4" stroke-dasharray="10 8">
+          <path d="M190 190 C 330 210, 360 300, 420 330" data-in="L3+1.2" data-a="draw"/>
+          <path d="M190 330 C 300 330, 340 340, 410 345" data-in="L3+1.4" data-a="draw"/>
+          <path d="M190 470 C 330 450, 360 380, 420 360" data-in="L3+1.6" data-a="draw"/>
+        </g>
+      </svg>
+      <div class="abs" style="left:40px;top:120px;text-align:center" data-in="L3+0.3" data-a="pop"><div class="vir" data-r="70" data-ha="#2dd4bf" data-na="#fb7185" data-spin="12"></div><div style="font-size:22px;font-weight:700">Người</div></div>
+      <div class="abs" style="left:40px;top:262px;text-align:center" data-in="L3+0.6" data-a="pop"><div class="vir" data-r="70" data-ha="#fbbf24" data-na="#c084fc" data-spin="12"></div><div style="font-size:22px;font-weight:700">Chim</div></div>
+      <div class="abs" style="left:40px;top:404px;text-align:center" data-in="L3+0.9" data-a="pop"><div class="vir" data-r="70" data-ha="#60a5fa" data-na="#f472b6" data-spin="12"></div><div style="font-size:22px;font-weight:700">Lợn</div></div>
+      <div class="abs" style="left:430px;top:190px;text-align:center" data-in="L3+2.2" data-a="pop">
+        <div class="vir" data-r="150" data-ha="#fbbf24" data-na="#fb7185" data-spin="8"></div>
+        <div style="font-size:26px;font-weight:700;margin-top:6px">Tái tổ hợp → <span class="amber">HA mới</span></div>
+      </div>
+      <div class="abs" style="left:470px;top:490px" data-in="L4" data-a="pop">
+        <span class="pill" style="background:var(--coral);color:#2a0710;font-size:34px;padding:12px 30px">ĐẠI DỊCH</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== S4: Chẩn đoán ===== -->
+  <section class="scene" id="s4">
+    <div class="abs" style="left:20px;top:20px" data-in="0.1"><h2>Chẩn đoán: <span class="teal">đừng chỉ dựa vào lâm sàng</span></h2></div>
+    <div class="abs" style="left:0;top:140px;width:640px;height:520px">
+      <svg width="640" height="520" viewBox="0 0 640 520">
+        <g style="mix-blend-mode:screen">
+          <circle cx="250" cy="200" r="140" fill="rgba(45,212,191,.35)" stroke="#2dd4bf" stroke-width="3" data-in="L0" data-a="pop"/>
+          <circle cx="400" cy="200" r="150" fill="rgba(96,165,250,.3)" stroke="#60a5fa" stroke-width="3" data-in="L0+0.4" data-a="pop"/>
+          <circle cx="325" cy="330" r="150" fill="rgba(251,113,133,.28)" stroke="#fb7185" stroke-width="3" data-in="L0+0.8" data-a="pop"/>
+        </g>
+        <g font-family="Inter" font-weight="800" font-size="34" fill="#fff" text-anchor="middle">
+          <text x="200" y="170" data-in="L0">Cúm</text>
+          <text x="455" y="165" font-size="30" data-in="L0+0.4">SARS-CoV-2</text>
+          <text x="325" y="430" data-in="L0+0.8">RSV</text>
+        </g>
+        <rect x="225" y="226" width="200" height="44" rx="22" fill="#08142b" data-in="L0+1.4"/><text x="325" y="256" text-anchor="middle" font-family="Inter" font-size="24" font-weight="700" fill="#fff" data-in="L0+1.4">Sốt · ho · đau cơ</text>
+      </svg>
+    </div>
+    <div class="abs" style="left:720px;top:150px;width:1040px">
+      <div class="kicker" data-in="L1">Độ nhạy phát hiện cúm A/B</div>
+      <div style="margin-top:22px" data-in="L1+0.2">
+        <div style="font-size:28px;font-weight:700">Xét nghiệm phân tử (RT-PCR)</div>
+        <div style="height:44px;background:rgba(255,255,255,.06);border-radius:12px;margin-top:10px;overflow:hidden">
+          <div style="height:100%;background:linear-gradient(90deg,#2dd4bf,#4ade80);border-radius:12px" data-w="92" data-in="L1+0.4" data-a="grow"></div></div>
+        <div style="font-size:28px;font-weight:700;margin-top:24px">Test kháng nguyên nhanh</div>
+        <div style="height:44px;background:rgba(255,255,255,.06);border-radius:12px;margin-top:10px;overflow:hidden">
+          <div style="height:100%;background:linear-gradient(90deg,#fbbf24,#fb923c);border-radius:12px" data-w="58" data-in="L1+1.0" data-a="grow"></div></div>
+        <div class="mut" style="font-size:20px;margin-top:8px">Minh hoạ định tính: độ nhạy test nhanh từ thấp đến khá cao</div>
+      </div>
+      <div class="row" style="margin-top:32px;gap:18px;flex-wrap:wrap">
+        <span class="pill" style="background:rgba(255,255,255,.08)" data-in="L2" data-a="pop">Kết quả ~10–15 phút</span>
+        <span class="pill" style="background:rgba(74,222,128,.15);color:var(--green)" data-in="L2+1.2" data-a="pop">Đặc hiệu rất cao</span>
+        <span class="pill" style="background:rgba(251,113,133,.15);color:var(--coral)" data-in="L2+2.4" data-a="pop">Có thể âm tính giả</span>
+      </div>
+      <div class="card" style="margin-top:30px;border-color:var(--amber);background:rgba(251,191,36,.1)" data-in="L3" data-a="pop">
+        <div style="font-size:34px;font-weight:800"><span class="amber">Mùa cao điểm:</span> test nhanh (–) <span class="amber">≠</span> loại trừ cúm</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== S5: Điều trị ===== -->
+  <section class="scene" id="s5">
+    <div class="abs" style="left:20px;top:20px" data-in="0.1"><h2>Kháng virus: <span class="teal">càng sớm càng tốt</span></h2></div>
+    <div class="abs" style="left:20px;top:150px;width:1740px" data-in="L1">
+      <svg width="1740" height="150">
+        <rect x="0" y="50" width="1700" height="40" rx="20" fill="rgba(255,255,255,.07)"/>
+        <rect x="0" y="50" width="850" height="40" rx="20" fill="url(#gz)" data-in="L1+0.3" data-a="growsvg" data-w="850"/>
+        <defs><linearGradient id="gz"><stop offset="0" stop-color="#4ade80"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+        <g font-family="Inter" font-size="24" fill="#9fb0cc" font-weight="600">
+          <text x="0" y="125">Khởi phát</text><text x="820" y="125">48 giờ</text><text x="1620" y="125">96 giờ</text>
+        </g>
+        <text x="425" y="35" text-anchor="middle" font-family="Inter" font-size="28" font-weight="800" fill="#4ade80" data-in="L1+1">VÙNG VÀNG ≤ 48 GIỜ</text>
+      </svg>
+    </div>
+    <div class="abs row" style="left:20px;top:330px;gap:30px">
+      <div class="card" style="width:560px" data-in="L1+1.6" data-a="pop">
+        <div class="tag" style="background:rgba(45,212,191,.15);color:var(--teal)">Ức chế neuraminidase</div>
+        <div style="font-size:44px;font-weight:800;margin-top:12px">Oseltamivir</div>
+        <div class="mut" style="font-size:24px;margin-top:4px">Zanamivir · Peramivir · Laninamivir</div>
+      </div>
+      <div class="card" style="width:560px" data-in="L1+2.4" data-a="pop">
+        <div class="tag" style="background:rgba(96,165,250,.15);color:var(--blue)">Ức chế endonuclease PA</div>
+        <div style="font-size:44px;font-weight:800;margin-top:12px">Baloxavir</div>
+        <div class="mut" style="font-size:24px;margin-top:4px">Liều đơn đường uống</div>
+      </div>
+      <div class="card" style="width:560px;border-color:var(--coral);position:relative" data-in="L3" data-a="pop">
+        <div class="tag" style="background:rgba(251,113,133,.15);color:var(--coral)">Ức chế M2</div>
+        <div style="font-size:44px;font-weight:800;margin-top:12px;opacity:.6">Adamantane</div>
+        <div class="coral" style="font-size:24px;margin-top:4px;font-weight:700">Không khuyến cáo · kháng thuốc cao</div>
+        <svg class="abs" style="left:20px;top:70px" width="520" height="60"><path d="M0 40 L300 20" stroke="#fb7185" stroke-width="7" stroke-linecap="round" data-in="L3+0.5" data-a="draw"/></svg>
+      </div>
+    </div>
+    <div class="abs card" style="left:20px;top:590px;width:1740px;border-color:var(--teal);background:rgba(45,212,191,.1)" data-in="L2" data-a="fade">
+      <div style="font-size:36px;font-weight:800">Nhập viện vì cúm → <span class="teal">Oseltamivir càng sớm càng tốt</span></div>
+    </div>
+  </section>
+
+  <!-- ===== S6: ICU ===== -->
+  <section class="scene" id="s6">
+    <div class="abs" style="left:20px;top:20px" data-in="0.1"><h2>Cúm nặng tại hồi sức: <span class="coral">2 điểm lưu ý</span></h2></div>
+    <div class="abs card" style="left:0;top:140px;width:760px;border-color:rgba(251,113,133,.6)" data-in="L1" data-a="left">
+      <div class="row"><div class="num" style="background:var(--coral);color:#2a0710">1</div><div style="font-size:34px;font-weight:800">Corticosteroid liều cao</div></div>
+      <div style="font-size:30px;margin-top:20px;line-height:1.5">↑ Viêm phổi liên quan thở máy<br>↑ Tử vong</div>
+      <div class="mut" style="font-size:22px;margin-top:14px">Nguồn: nghiên cứu quan sát</div>
+    </div>
+    <div class="abs card" style="left:820px;top:140px;width:940px;height:620px" data-in="L2" data-a="right">
+      <div class="row"><div class="num" style="background:var(--teal);color:#06202a">2</div><div style="font-size:34px;font-weight:800">Phối hợp NAI + baloxavir</div></div>
+      <div class="mut" style="font-size:22px;margin-top:10px">Cúm A(H3N2) nhập viện · SGMD, ĐTĐ, bệnh phổi mạn · tử vong ngày 28</div>
+      <div class="abs" style="left:120px;bottom:100px;width:700px;height:270px;border-bottom:3px solid var(--line)">
+        <div class="abs" style="left:60px;bottom:0;width:200px;height:50px;background:linear-gradient(#2dd4bf,#0d9488);border-radius:10px 10px 0 0;transform-origin:bottom" data-in="L3" data-a="growy"></div>
+        <div class="abs" style="left:60px;bottom:62px;width:200px;text-align:center;font-size:44px;font-weight:800" class="teal" data-in="L3+0.8"><span class="teal">2,17%</span></div>
+        <div class="abs" style="left:420px;bottom:0;width:200px;height:270px;background:linear-gradient(#fb7185,#be123c);border-radius:10px 10px 0 0;transform-origin:bottom" data-in="L3+1.5" data-a="growy"></div>
+        <div class="abs" style="left:420px;bottom:282px;width:200px;text-align:center;font-size:44px;font-weight:800" data-in="L3+2.3"><span class="coral">11,76%</span></div>
+        <div class="abs" style="left:0;top:285px;width:320px;text-align:center;font-size:22px;font-weight:600" data-in="L3">Oseltamivir + baloxavir<br><span class="mut">(2/92)</span></div>
+        <div class="abs" style="left:360px;top:285px;width:320px;text-align:center;font-size:22px;font-weight:600" data-in="L3+1.5">Oseltamivir đơn trị<br><span class="mut">(6/51)</span></div>
+      </div>
+    </div>
+    <div class="abs" style="left:0;top:470px;width:760px" data-in="L4" data-a="pop">
+      <div class="card" style="border-color:var(--amber);background:rgba(251,191,36,.1)">
+        <div class="tag" style="background:var(--amber);color:#2a1a00">POST HOC</div>
+        <div style="font-size:32px;font-weight:800;margin-top:12px">Dữ liệu tạo giả thuyết<br><span class="amber">cần RCT xác nhận</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== S7: Phòng ngừa & tổng kết ===== -->
+  <section class="scene" id="s7">
+    <div class="abs" style="left:20px;top:20px" data-in="0.1"><h2>Vaccine: công cụ <span class="teal">chủ lực</span></h2></div>
+    <div class="abs" style="left:20px;top:140px;width:1740px" data-in="L0+0.5">
+      <div class="kicker">Hiệu quả vaccine gộp (tùy loại vaccine &amp; nhóm tuổi)</div>
+      <svg width="1740" height="130" style="margin-top:14px">
+        <rect x="0" y="40" width="1700" height="36" rx="18" fill="rgba(255,255,255,.07)"/>
+        <rect x="510" y="40" width="901" height="36" rx="18" fill="url(#gv)" data-in="L0+1.5" data-a="growsvg" data-w="901"/>
+        <defs><linearGradient id="gv"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+        <g font-family="Inter" font-size="24" fill="#9fb0cc" font-weight="600"><text x="0" y="112">0%</text><text x="1640" y="112">100%</text></g>
+        <g font-family="Inter" font-size="38" font-weight="800" fill="#fff" text-anchor="middle"><text x="510" y="26" data-in="L0+2.2">30%</text><text x="1411" y="26" data-in="L0+2.6">83%</text></g>
+      </svg>
+    </div>
+    <div class="abs card" style="left:20px;top:340px;width:1100px" data-in="L1">
+      <div class="kicker" style="margin-bottom:10px">3 điểm cần nhớ</div>
+      <div class="li" data-in="L1+1.2" data-a="left"><div class="num" style="background:var(--blue);color:#081a33">1</div>Xét nghiệm để xác định <span class="mut" style="font-size:26px">(RT-PCR nhạy hơn)</span></div>
+      <div class="li" data-in="L1+2.4" data-a="left"><div class="num" style="background:var(--teal);color:#06202a">2</div>Kháng virus sớm <span class="mut" style="font-size:26px">(≤ 48 giờ; nhập viện: ngay)</span></div>
+      <div class="li" data-in="L1+3.8" data-a="left"><div class="num" style="background:var(--green);color:#062a12">3</div>Tiêm vaccine mỗi năm</div>
+    </div>
+    <div class="abs" style="left:1180px;top:340px;width:580px;height:420px" data-float="1">
+      <div class="vir" data-r="200" data-ha="#2dd4bf" data-na="#fb7185" data-spin="5" data-in="L1" data-a="pop"></div>
+    </div>
+    <div class="abs card" style="left:20px;top:690px;width:1740px;padding:16px 28px" data-in="L2">
+      <div style="font-size:22px" class="mut">Nguồn: Neumann G, Cowling BJ, Chen H, et al. <i>Influenza</i>. Nat Rev Dis Primers 2026;12:51. doi:10.1038/s41572-026-00727-5</div>
+    </div>
+  </section>
+
+  <div id="subs"></div>
+  <div id="sign">Biên soạn: BS. Nguyễn Văn Hướng · Chỉ phục vụ mục đích giáo dục</div>
+  <div id="prog"></div>
+</div>
+
+<script>
+const TL = /*__TIMELINE__*/null;
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const ease=p=>1-Math.pow(1-clamp(p),3);
+const easeBack=p=>{p=clamp(p);const c=1.7;return 1+(c+1)*Math.pow(p-1,3)+c*Math.pow(p-1,2)};
+
+/* ---------- vẽ virus cúm: vỏ lipid + gai HA (que) và NA (nấm) ---------- */
+function virus(size,ha,na,mut,uid){
+  const R=size/2, r=R*0.62, n=22; let s='';
+  for(let i=0;i<n;i++){
+    const a=i/n*Math.PI*2, isNA=i%3===2;
+    const x1=R+Math.cos(a)*r*0.96, y1=R+Math.sin(a)*r*0.96;
+    const L=R*(isNA?0.25:0.3), x2=R+Math.cos(a)*(r+L), y2=R+Math.sin(a)*(r+L);
+    const col=isNA?na:ha, w=Math.max(2,size*0.018);
+    s+=`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="${col}" stroke-width="${w}" stroke-linecap="round"/>`;
+    if(isNA) s+=`<circle cx="${x2}" cy="${y2}" r="${size*0.035}" fill="${col}"/>`;
+    else s+=`<rect x="${x2-size*0.028}" y="${y2-size*0.028}" width="${size*0.056}" height="${size*0.056}" rx="${size*0.012}" fill="${col}" transform="rotate(${a*180/Math.PI} ${x2} ${y2})"/>`;
+    if(mut && i%(Math.floor(n/mut))===0 && !isNA) s+=`<circle cx="${x2}" cy="${y2}" r="${size*0.05}" fill="none" stroke="#fff" stroke-width="${w*0.8}"/>`;
+  }
+  return `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
+   <defs><radialGradient id="g${uid}" cx="40%" cy="35%"><stop offset="0" stop-color="#3b5c9a"/><stop offset="1" stop-color="#142a55"/></radialGradient></defs>
+   ${s}<circle cx="${R}" cy="${R}" r="${r}" fill="url(#g${uid})" stroke="${ha}" stroke-opacity=".6" stroke-width="${Math.max(2,size*0.012)}"/>
+   <g stroke="#9fb0cc" stroke-opacity=".5" stroke-width="${Math.max(2,size*0.014)}" fill="none" stroke-linecap="round">
+    ${[0,1,2,3,4,5,6,7].map(k=>{const a=k/8*Math.PI*2;const cx=R+Math.cos(a)*r*0.42,cy=R+Math.sin(a)*r*0.42;return `<path d="M${cx-r*0.12} ${cy} q ${r*0.06} ${-r*0.12} ${r*0.12} 0 t ${r*0.12} 0"/>`}).join('')}
+   </g></svg>`;
+}
+document.querySelectorAll('.vir').forEach((el,i)=>{
+  const sz=+el.dataset.r; el.innerHTML=virus(sz,el.dataset.ha,el.dataset.na,+(el.dataset.mut||0),i);
+  el.style.width=sz+'px'; el.style.height=sz+'px'; el.style.display='inline-block';
+});
+/* lưới 100 người, 12 người nhiễm */
+const grid=document.getElementById('grid'); const hit=[3,17,24,38,41,55,62,79,83,90,96,48];
+for(let i=0;i<100;i++){const d=document.createElement('div');d.style.cssText='width:38px;height:38px;border-radius:50%;background:rgba(255,255,255,.12)';
+  if(hit.includes(i)){d.dataset.hit=hit.indexOf(i);} grid.appendChild(d);}
+/* thanh chương */
+const chEl=document.getElementById('chapters');
+TL.scenes.forEach(s=>{const d=document.createElement('div');d.textContent=s.chapter;chEl.appendChild(d)});
+
+function parseT(v,sc){ if(v==null) return null; v=String(v).trim();
+  const m=v.match(/^L(\d+)([+-][\d.]+)?$/); if(m) return sc.L[+m[1]].t0+(m[2]?parseFloat(m[2]):0); return parseFloat(v); }
+
+const scenes=TL.scenes.map(sc=>{const el=document.getElementById(sc.id);
+  const items=[...el.querySelectorAll('[data-in],[data-out]')].map(e=>({e,tin:parseT(e.dataset.in,sc),tout:parseT(e.dataset.out,sc),a:e.dataset.a||'fade'}));
+  items.forEach(it=>{ if(it.a==='draw'){const L=it.e.getTotalLength?it.e.getTotalLength():600; it.len=L; it.e.style.strokeDasharray=L;} });
+  return {sc,el,items,spins:[...el.querySelectorAll('[data-spin]')],floats:[...el.querySelectorAll('[data-float]')],dots:[...el.querySelectorAll('[data-hit]')]};});
+
+function render(t){
+  let sub='', curIdx=0;
+  scenes.forEach((S,idx)=>{
+    const {sc,el}=S, lt=t-sc.start, vis = lt>-0.01 && lt<sc.dur;
+    if(t>=sc.start) curIdx=idx;
+    if(!vis){el.style.display='none';return;}
+    el.style.display='block';
+    const fin=ease(lt/0.5), fout=idx<scenes.length-1?ease((sc.dur-lt)/0.45):1;
+    el.style.opacity=Math.min(fin,fout);
+    for(const it of S.items){
+      const e=it.e; let p=it.tin==null?1:ease((lt-it.tin)/0.6), q=it.tout==null?1:1-ease((lt-it.tout)/0.5);
+      const o=Math.min(p,q);
+      switch(it.a){
+        case 'pop': e.style.opacity=o; e.style.transform=`scale(${0.6+0.4*easeBack((lt-(it.tin||0))/0.6)})`; if(it.tin==null) e.style.transform=''; break;
+        case 'left': e.style.opacity=o; e.style.transform=`translateX(${(1-p)*-60}px)`; break;
+        case 'right': e.style.opacity=o; e.style.transform=`translateX(${(1-p)*60}px)`; break;
+        case 'grow': e.style.width=(+e.dataset.w*ease((lt-it.tin)/1.2))+'%'; break;
+        case 'growsvg': e.setAttribute('width', +e.dataset.w*ease((lt-it.tin)/1.2)); break;
+        case 'growy': e.style.transform=`scaleY(${ease((lt-it.tin)/1.0)})`; break;
+        case 'draw': e.style.strokeDashoffset=it.len*(1-ease((lt-it.tin)/0.9)); break;
+        default: e.style.opacity=o; e.style.transform=`translateY(${(1-p)*28}px)`;
+      }
+      if(it.tin!=null && lt<it.tin && it.a!=='grow' && it.a!=='growsvg' && it.a!=='growy' && it.a!=='draw') e.style.opacity=0;
+    }
+    S.spins.forEach(e=>{const sp=+e.dataset.spin;const svg=e.querySelector('svg');if(svg)svg.style.transform=`rotate(${t*sp}deg)`});
+    S.floats.forEach((e,i)=>e.style.translate=`0 ${Math.sin(t*1.1+i)*14}px`);
+    S.dots.forEach(d=>{const k=+d.dataset.hit; const p=ease((lt-(sc.L[0].t0+0.8+k*0.22))/0.4);
+      d.style.background=`rgba(${Math.round(255-210*p)},${Math.round(255-43*p)},${Math.round(255-64*p)},${0.12+0.88*p})`;
+      d.style.boxShadow=p>0.5?'0 0 18px rgba(45,212,191,.7)':'none';});
+    for(const L of sc.L) for(const s of L.subs) if(lt>=s.t0 && lt<s.t1+0.25) sub=s.text;
+  });
+  document.getElementById('subs').textContent=sub;
+  [...chEl.children].forEach((d,i)=>{d.className=i===curIdx?'on':(i<curIdx?'done':'')});
+  document.getElementById('prog').style.width=(clamp(t/TL.total)*100)+'%';
+}
+window.render=render; window.TOTAL=TL.total; window.FONTS_READY=document.fonts.ready.then(()=>true);
+if(!location.search.includes('capture')){
+  const t0=performance.now(); (function loop(){render((performance.now()-t0)/1000 % TL.total);requestAnimationFrame(loop)})();
+}
+</script>
+</body>
+</html>

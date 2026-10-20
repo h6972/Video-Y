@@ -1,0 +1,71 @@
+{
+  "title": "Cúm – Điểm nhanh Nature Reviews Disease Primers 2026",
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "-5%",
+  "source": "Neumann G, Cowling BJ, Chen H, et al. Influenza. Nat Rev Dis Primers. 2026;12:51. doi:10.1038/s41572-026-00727-5",
+  "scenes": [
+    {
+      "id": "s1", "chapter": "Mở đầu",
+      "lines": [
+        "Mỗi năm, cúm gây ra khoảng ba đến năm triệu ca bệnh nặng,",
+        "và từ hai trăm chín mươi nghìn đến sáu trăm năm mươi nghìn ca tử vong trên toàn thế giới.",
+        "Hôm nay, chúng ta cùng điểm nhanh bài tổng quan về cúm trên Nature Reviews Disease Primers năm 2026."
+      ]
+    },
+    {
+      "id": "s2", "chapter": "Gánh nặng",
+      "lines": [
+        "Virus cúm A và B lưu hành khắp toàn cầu, gây tới một tỷ ca nhiễm mỗi năm,",
+        "tức khoảng mười đến mười lăm phần trăm dân số thế giới.",
+        "Phần lớn là bệnh hô hấp cấp, khởi phát đột ngột và hồi phục hoàn toàn.",
+        "Nhưng ở nhóm nguy cơ cao, cúm có thể gây biến chứng nặng, đe dọa tính mạng."
+      ]
+    },
+    {
+      "id": "s3", "chapter": "Cơ chế",
+      "lines": [
+        "Vì sao năm nào cũng có dịch cúm? Câu trả lời là trôi kháng nguyên.",
+        "Virus liên tục tích lũy những đột biến nhỏ trên hai kháng nguyên bề mặt, H A và N A, để né kháng thể trung hòa.",
+        "Vì vậy, vaccine cúm mùa phải cập nhật hằng năm.",
+        "Còn biến đổi kháng nguyên lớn xảy ra khi virus cúm A ở người tái tổ hợp với virus từ chim hoặc lợn, mang về một H A hoàn toàn mới.",
+        "Đây chính là cơ chế của những đại dịch không thể dự đoán trước."
+      ]
+    },
+    {
+      "id": "s4", "chapter": "Chẩn đoán",
+      "lines": [
+        "Triệu chứng cúm không đặc hiệu, dễ trùng với SARS-CoV-2 hay RSV, nên xét nghiệm giúp định hướng xử trí.",
+        "Xét nghiệm phân tử như RT-PCR có độ nhạy cao hơn test kháng nguyên nhanh.",
+        "Test nhanh cho kết quả sau khoảng mười đến mười lăm phút, độ đặc hiệu rất cao, nhưng có thể âm tính giả.",
+        "Vì vậy, trong mùa cúm cao điểm, test nhanh âm tính chưa đủ để loại trừ cúm."
+      ]
+    },
+    {
+      "id": "s5", "chapter": "Điều trị",
+      "lines": [
+        "Với điều trị, nguyên tắc vàng là: càng sớm càng tốt.",
+        "Dùng thuốc ức chế neuraminidase như oseltamivir, hoặc baloxavir, trong bốn mươi tám giờ đầu giúp rút ngắn thời gian bệnh và giảm nguy cơ một số biến chứng.",
+        "Với bệnh nhân nhập viện vì cúm, các khuyến cáo đề nghị dùng oseltamivir càng sớm càng tốt.",
+        "Nhóm adamantane không còn được khuyến cáo, do tỷ lệ kháng thuốc cao."
+      ]
+    },
+    {
+      "id": "s6", "chapter": "Cúm nặng – ICU",
+      "lines": [
+        "Ở bệnh nhân cúm nặng tại hồi sức, có hai điểm đáng lưu ý.",
+        "Thứ nhất, corticosteroid liều cao có thể làm tăng nguy cơ viêm phổi liên quan thở máy và tử vong.",
+        "Thứ hai, một phân tích hậu kiểm trên nhóm nhỏ bệnh nhân cúm A H3N2 suy giảm miễn dịch, đái tháo đường hoặc bệnh phổi mạn,",
+        "cho thấy phối hợp oseltamivir với baloxavir làm giảm tử vong ngày hai mươi tám: hai phẩy mười bảy phần trăm, so với mười một phẩy bảy mươi sáu phần trăm.",
+        "Tuy nhiên, đây chỉ là dữ liệu tạo giả thuyết, cần thử nghiệm xác nhận."
+      ]
+    },
+    {
+      "id": "s7", "chapter": "Phòng ngừa",
+      "lines": [
+        "Vaccine cúm mùa vẫn là công cụ phòng bệnh chủ lực, dù hiệu quả chỉ ở mức trung bình, khoảng ba mươi đến tám mươi ba phần trăm, tùy loại vaccine và nhóm tuổi.",
+        "Ba điểm cần nhớ: xét nghiệm để xác định, điều trị kháng virus sớm, và tiêm vaccine mỗi năm.",
+        "Nguồn: Neumann và cộng sự, Nature Reviews Disease Primers, năm 2026."
+      ]
+    }
+  ]
+}
