@@ -1,6 +1,6 @@
 {
   "title": "UDMI-5 (2026) – Phần 1: Tổng quan & những điểm mới",
-  "tts": "omni",
+  "tts": "vieneu",
   "voice": "vi-VN-NamMinhNeural",
   "rate": "-8%",
   "series": "VIDEO Y KHOA",
@@ -639,8 +639,7 @@
       ]
     }
   ],
-  "omni": {
-    "voice": "nam",
-    "instruct": "male, middle-aged, low pitch"
+  "vieneu": {
+    "voice": "Adam"
   }
 }
