@@ -1,0 +1,292 @@
+{
+  "title": "UDMI-5 (2026) – Phần 3: Phân loại lâm sàng mới",
+  "tts": "vieneu",
+  "vieneu": {"voice": "Adam"},
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "-8%",
+  "series": "VIDEO Y KHOA",
+  "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+  "part": "UDMI-5 · Phần 3/6",
+  "source_short": "Nguồn: Fifth Universal Definition of Myocardial Infarction – ESC/ACC/AHA/WHF 2026",
+  "sign": "Biên soạn: BS. Nguyễn Văn Hướng",
+  "source": "Fifth Universal Definition of Myocardial Infarction (2026). ESC/ACC/AHA/WHF Task Force.",
+  "lexicon": {
+    "UDMI": "u đê em i",
+    "OCT": "ô xê tê",
+    "IVUS": "i vớt",
+    "CMR": "cộng hưởng từ tim",
+    "CCTA": "chụp cắt lớp mạch vành",
+    "CABG": "bắc cầu chủ vành",
+    "PCI": "can thiệp mạch vành qua da",
+    "URL": "giới hạn trên tham chiếu",
+    "type ": "típ "
+  },
+  "scenes": [
+    {
+      "id": "s1", "layout": "title", "chapter": "Mở đầu",
+      "kicker": "Loạt bài giảng chuyên đề · Phần 3/6",
+      "title": "Phân loại lâm sàng mới<br>của nhồi máu cơ tim",
+      "subtitle": "Nguyên phát · Thứ phát · Liên quan thủ thuật",
+      "badges": [
+        {"t": "Box 3 · Nguyên phát", "c": "teal", "at": 1},
+        {"t": "Box 4 · Thứ phát", "c": "amber", "at": "L1+2"},
+        {"t": "Box 5 · Liên quan thủ thuật", "c": "violet", "at": "L1+4"}
+      ],
+      "note": "Fifth Universal Definition of Myocardial Infarction · Mục 7.2 · Hình 2–7", "note_at": 2,
+      "lines": [
+        "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba, phần trọng tâm của loạt bài về Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim.",
+        "Hôm nay chúng ta sẽ đi chi tiết vào ba bộ tiêu chuẩn chẩn đoán trong Box 3, Box 4 và Box 5.",
+        "Mục tiêu là sau phần này, quý vị có thể tự tin phân loại một trường hợp nghi nhồi máu cơ tim ngay tại giường bệnh, kể cả trong môi trường hồi sức."
+      ]
+    },
+    {
+      "id": "s2", "layout": "cards", "chapter": "Triết lý phân loại", "title": "Độ nhạy hay độ đặc hiệu?", "ref": "Mục 7.2 · Bảng 1", "h": 610,
+      "cards": [
+        {"tag": "NGUYÊN PHÁT", "t": "Ưu tiên độ nhạy", "d": "Không được bỏ sót bất kỳ bệnh lý mạch vành cấp nào", "items": ["Khuyến khích chụp mạch vành để xác nhận và xác định cơ chế"], "at": 1, "c": "teal"},
+        {"tag": "THỨ PHÁT", "t": "Ưu tiên độ đặc hiệu", "d": "Phân biệt NMCT với tổn thương cơ tim cấp trong bệnh cấp tính", "items": ["Chẩn đoán phải có ý nghĩa điều trị"], "at": 2, "c": "amber"},
+        {"tag": "LIÊN QUAN THỦ THUẬT", "t": "Ưu tiên độ đặc hiệu", "d": "Tổn thương cơ tim sau thủ thuật gần như luôn có", "items": ["Tiêu chí hình ảnh khách quan", "Như nhau cho mọi thủ thuật tim"], "at": 3, "c": "violet"}
+      ],
+      "lines": [
+        "Trước khi vào từng Box, xin quý vị nắm triết lý chung của phân loại mới, vì nó giải thích vì sao mỗi nhóm có tiêu chuẩn chặt hay lỏng khác nhau.",
+        "Với nhồi máu cơ tim nguyên phát, tiêu chuẩn ưu tiên độ nhạy, để không bỏ sót bất kỳ bệnh lý mạch vành cấp nào, và khuyến khích chụp mạch vành để xác nhận chẩn đoán cũng như xác định cơ chế.",
+        "Với nhồi máu cơ tim thứ phát, tiêu chuẩn ưu tiên độ đặc hiệu, nhằm phân biệt nhồi máu thật sự với tổn thương cơ tim cấp vốn rất phổ biến trong bệnh cấp tính, và để chẩn đoán có ý nghĩa điều trị.",
+        "Với nhồi máu cơ tim liên quan thủ thuật, tiêu chuẩn cũng ưu tiên độ đặc hiệu, vì sau thủ thuật tim, tổn thương cơ tim gần như luôn hiện diện. Tiêu chí dựa vào hình ảnh khách quan và áp dụng như nhau cho mọi thủ thuật."
+      ]
+    },
+    {
+      "id": "s3", "layout": "formula", "chapter": "Box 3 · Nguyên phát", "title": "Khi nào nghĩ nhiều tới NMCT nguyên phát?", "ref": "Mục 7.2.1 · Box 3 · Hình 2",
+      "main": {"tag": "BỐI CẢNH", "t": "Tổn thương cơ tim cấp, khởi phát tự phát", "d": "Không có bệnh cấp tính khác hay thủ thuật tim nào khởi phát bệnh cảnh", "at": 0, "c": "teal"},
+      "op": "Khả năng cao (likely) khi có ≥ 1 đặc điểm", "op_at": 1,
+      "options": [
+        {"t": "Triệu chứng thiếu máu cục bộ cấp", "d": "Phù hợp với thiếu máu cơ tim cấp", "at": 1, "c": "teal"},
+        {"t": "Biến đổi ECG thiếu máu mới", "d": "Mới, hoặc được cho là mới", "at": 2, "c": "blue"},
+        {"t": "Xuất hiện sóng Q bệnh lý", "d": "Bằng chứng điện tim của hoại tử", "at": 3, "c": "violet"}
+      ],
+      "lines": [
+        "Bắt đầu với Box 3. Nhồi máu cơ tim nguyên phát được nghĩ tới ở người bệnh có tổn thương cơ tim cấp, khởi phát tự phát, khi không có bệnh cấp tính khác hay thủ thuật tim nào khởi phát bệnh cảnh.",
+        "Chẩn đoán có khả năng cao khi có ít nhất một đặc điểm lâm sàng hoặc điện tim: thứ nhất, triệu chứng phù hợp với thiếu máu cơ tim cấp;",
+        "thứ hai, biến đổi thiếu máu mới, hoặc được cho là mới, trên điện tâm đồ;",
+        "và thứ ba, xuất hiện sóng Q bệnh lý. Càng nhiều đặc điểm, khả năng nhồi máu cơ tim càng cao."
+      ]
+    },
+    {
+      "id": "s4", "layout": "cards", "chapter": "Box 3 · Nguyên phát", "title": "Xác nhận chẩn đoán: cần hình ảnh học", "ref": "Box 3 · Hình 2–3", "h": 610,
+      "cards": [
+        {"tag": "XÁC NHẬN · CÁCH 1", "t": "Bệnh lý mạch vành cấp", "d": "Trên hình ảnh mạch vành", "items": ["Xơ vữa – huyết khối · bóc tách ĐMV tự phát · co thắt · thuyên tắc", "Tái hẹp, huyết khối stent, hỏng cầu nối <b>> 30 ngày</b> sau tái thông"], "at": 0, "c": "teal"},
+        {"tag": "XÁC NHẬN · CÁCH 2", "t": "RL vận động vùng mới / mất cơ tim sống", "d": "Theo kiểu phù hợp nguyên nhân thiếu máu cục bộ", "items": ["Siêu âm tim, cộng hưởng từ tim…"], "at": 1, "c": "blue"},
+        {"tag": "KHI KHÔNG CÓ HÌNH ẢNH", "t": "Vẫn chẩn đoán được", "d": "Dựa trên dấu ấn sinh học, ECG và lâm sàng", "items": ["Mã hoá: nguyên nhân <em>không rõ</em> (chưa chụp mạch vành)"], "at": 3, "c": "amber"}
+      ],
+      "lines": [
+        "Để xác nhận chẩn đoán, Box 3 đòi hỏi ít nhất một đặc điểm trên hình ảnh học. Cách thứ nhất là tìm thấy một bệnh lý mạch vành cấp: xơ vữa huyết khối, bóc tách động mạch vành tự phát, co thắt, thuyên tắc, hoặc tái hẹp, huyết khối stent hay hỏng cầu nối xảy ra sau 30 ngày kể từ lần tái thông.",
+        "Cách thứ hai là xuất hiện rối loạn vận động vùng mới, hoặc mất cơ tim sống, theo kiểu phù hợp với nguyên nhân thiếu máu cục bộ.",
+        "Chụp mạch vành, hoặc hình ảnh nội mạch, là thiết yếu để xác định bệnh lý mạch vành cấp cụ thể, phục vụ cho phân loại tiếp theo và cho tiên lượng.",
+        "Tuy nhiên, ở nơi không có chụp mạch vành hay hình ảnh tim, hoặc khi các thăm dò này không phù hợp với người bệnh, vẫn có thể chẩn đoán cuối cùng nhồi máu cơ tim nguyên phát dựa trên dấu ấn sinh học, điện tim và lâm sàng, và mã hoá với nguyên nhân không rõ."
+      ]
+    },
+    {
+      "id": "s5", "layout": "list", "chapter": "Box 3 · Nguyên phát", "title": "Các bệnh lý mạch vành cấp", "ref": "Mục 7.2.1 · Hình 3", "cols1": 3,
+      "items": [
+        {"t": "Xơ vữa – huyết khối", "d": "Thường gặp nhất · vỡ hoặc ăn mòn mảng xơ vữa · có thể gây thuyên tắc xa · hẹp không giới hạn dòng chảy vẫn thường là thủ phạm", "at": 0, "hl": "L1", "c": "coral"},
+        {"t": "Bóc tách ĐMV tự phát (SCAD)", "d": "Nghĩ tới đặc biệt ở nữ < 50 tuổi, thai kỳ hoặc hậu sản", "at": 2, "c": "violet"},
+        {"t": "Co thắt", "d": "Mạch vành thượng tâm mạc hoặc vi tuần hoàn", "at": 3, "c": "amber"},
+        {"t": "Thuyên tắc", "d": "Từ nguồn ngoài mạch vành", "at": "L3+4", "c": "blue"},
+        {"t": "Tái hẹp · huyết khối stent · hỏng cầu nối", "d": "Xảy ra > 30 ngày sau tái thông → bệnh mới, không phải biến chứng thủ thuật", "at": 4, "c": "teal"},
+        {"n": "!", "t": "Có hoặc không có ST chênh lên", "d": "Tắc hoàn toàn hay gần hoàn toàn đều có thể gặp", "at": 5, "c": "green"}
+      ],
+      "lines": [
+        "Hình 3 của văn bản minh hoạ các bệnh lý mạch vành cấp gây nhồi máu cơ tim nguyên phát. Thường gặp nhất là xơ vữa huyết khối, tức huyết khối hình thành trên mảng xơ vữa bị vỡ hoặc bị ăn mòn.",
+        "Huyết khối có thể gây tắc mạch tại chỗ, nhưng cũng có thể gây thuyên tắc đoạn xa. Mức độ xơ vữa và huyết khối ở tổn thương thủ phạm rất khác nhau, và những chỗ hẹp không gây giới hạn dòng chảy vẫn thường là nguyên nhân của nhồi máu.",
+        "Bóc tách động mạch vành tự phát cần được nghĩ tới đặc biệt ở người bệnh nữ dưới 50 tuổi, trong thai kỳ hoặc giai đoạn hậu sản.",
+        "Co thắt có thể xảy ra ở mạch vành thượng tâm mạc hoặc ở vi tuần hoàn. Ngoài ra còn có thuyên tắc mạch vành từ một nguồn ngoài mạch vành.",
+        "Và tái hẹp, huyết khối stent hay hỏng cầu nối xảy ra sau 30 ngày kể từ thủ thuật được xếp vào nhóm nguyên phát, vì chúng phản ánh bệnh tiến triển mới.",
+        "Lưu ý, tất cả các bệnh lý này đều có thể gây tắc hoàn toàn hoặc gần hoàn toàn, và biểu hiện có hoặc không có đoạn ST chênh lên."
+      ]
+    },
+    {
+      "id": "s6", "layout": "box", "chapter": "Box 3 · Nguyên phát", "title": "Khi chụp mạch vành chưa trả lời được", "ref": "Mục 7.2.1 · Bảng 4",
+      "box": {"tag": "NGUYÊN TẮC", "t": "Chụp mạch vành <b>không phải lúc nào</b> cũng thấy bệnh lý mạch vành cấp → cân nhắc <em>hình ảnh nội mạch</em> (OCT, IVUS), và khi động mạch vành không tắc nghẽn: <em>cộng hưởng từ tim</em> là phương tiện lựa chọn.", "at": 0, "c": "teal", "size": 32},
+      "notes": [
+        {"tag": "CỘNG HƯỞNG TỪ TIM", "t": "Thường tìm ra nguyên nhân khác của tổn thương cấp: viêm cơ tim, Takotsubo", "at": 1, "c": "violet"},
+        {"tag": "MÃ HOÁ", "t": "Đã chụp mạch và tìm thấy cơ chế → chẩn đoán cuối cùng phải <b>ghi rõ cơ chế</b>", "at": 2, "c": "blue"},
+        {"tag": "THUẬT NGỮ", "t": "“Nguyên phát” đồng nghĩa “tự phát”; thực hành có thể gọi ngắn là <b>nhồi máu cơ tim</b>", "at": 3, "c": "amber"}
+      ],
+      "lines": [
+        "Chụp mạch vành không phải lúc nào cũng xác định được bệnh lý mạch vành cấp. Khi đó, hình ảnh nội mạch như chụp cắt lớp quang học, ô xê tê, hoặc siêu âm nội mạch có thể giúp ích. Với người bệnh có động mạch vành không tắc nghẽn, cộng hưởng từ tim là phương tiện lựa chọn để xác nhận nhồi máu cơ tim.",
+        "Nhưng trên thực tế, cộng hưởng từ tim thường tìm ra một nguyên nhân khác của tổn thương cơ tim cấp, như viêm cơ tim hoặc hội chứng Takotsubo.",
+        "Khi đã chụp mạch vành và xác định được bệnh lý mạch vành cấp, chẩn đoán cuối cùng phải phản ánh cơ chế đó. Thông tin này có giá trị lớn cho tiên lượng và điều trị lâu dài.",
+        "Một lưu ý về thuật ngữ: nhồi máu cơ tim nguyên phát đồng nghĩa với nhồi máu cơ tim tự phát. Trong thực hành, khi đã chẩn đoán, quý vị có thể gọi ngắn gọn là nhồi máu cơ tim."
+      ]
+    },
+    {
+      "id": "s7", "layout": "formula", "chapter": "Box 4 · Thứ phát", "title": "Khi nào nghĩ tới NMCT thứ phát?", "ref": "Mục 7.2.2 · Box 4 · Hình 4",
+      "main": {"tag": "BỐI CẢNH", "t": "Tổn thương cơ tim cấp + một bệnh cấp tính khác", "d": "Gây <b>mất cân bằng cung – cầu oxy</b> cơ tim", "at": 0, "c": "amber"},
+      "op": "Nghĩ tới (considered) khi có ≥ 1 đặc điểm", "op_at": 1,
+      "options": [
+        {"t": "Triệu chứng thiếu máu cục bộ cấp", "d": "Thường khó đánh giá vì bệnh nền", "at": 1, "c": "teal"},
+        {"t": "Biến đổi ECG thiếu máu mới", "d": "Mới, hoặc được cho là mới", "at": 1, "c": "blue"},
+        {"t": "Xuất hiện sóng Q bệnh lý", "d": "Bằng chứng điện tim của hoại tử", "at": 1, "c": "violet"}
+      ],
+      "lines": [
+        "Sang Box 4. Nhồi máu cơ tim thứ phát được nghĩ tới ở người bệnh có tổn thương cơ tim cấp, xuất hiện trong bối cảnh một bệnh cấp tính khác gây mất cân bằng cung cầu oxy cơ tim.",
+        "Điều kiện là phải có ít nhất một đặc điểm lâm sàng hoặc điện tim: triệu chứng phù hợp thiếu máu cơ tim cấp, biến đổi thiếu máu mới trên điện tâm đồ, hoặc xuất hiện sóng Q bệnh lý.",
+        "Xin nhấn mạnh: nếu không có một đặc điểm nào trong ba đặc điểm này, chúng ta thậm chí chưa đặt vấn đề nhồi máu cơ tim thứ phát, mà dừng lại ở tổn thương cơ tim cấp."
+      ]
+    },
+    {
+      "id": "s8", "layout": "cards", "chapter": "Box 4 · Thứ phát", "title": "Từ “nghĩ tới” đến “xác nhận”", "ref": "Box 4", "h": 620,
+      "cards": [
+        {"tag": "KHẢ NĂNG CAO", "t": "Thêm ≥ 1 đặc điểm", "d": "Đã biết có bệnh động mạch vành", "items": ["Nghi ngờ lâm sàng mạnh do mức độ thiếu máu trên ECG hoặc mức tăng troponin"], "at": 0, "c": "amber"},
+        {"tag": "XÁC NHẬN · CÁCH 1", "t": "Bệnh ĐMV tắc nghẽn", "d": "Hẹp <b>≥ 70%</b> trên chụp mạch, hoặc <b>≥ 50%</b> có giới hạn dòng chảy trên đánh giá sinh lý", "items": ["Và <b>không có</b> bệnh lý mạch vành cấp"], "at": 1, "c": "coral"},
+        {"tag": "XÁC NHẬN · CÁCH 2", "t": "RL vận động vùng mới / mất cơ tim sống", "d": "Theo kiểu phù hợp nguyên nhân thiếu máu cục bộ", "items": ["Áp dụng khi hình ảnh học khả thi và phù hợp"], "at": 2, "c": "blue"}
+      ],
+      "lines": [
+        "Chẩn đoán trở nên có khả năng cao khi có thêm ít nhất một đặc điểm: người bệnh đã biết có bệnh động mạch vành, hoặc có nghi ngờ lâm sàng mạnh do mức độ thiếu máu trên điện tâm đồ hay mức tăng troponin.",
+        "Khi hình ảnh mạch vành hoặc hình ảnh tim khả thi và phù hợp, chẩn đoán được xác nhận nếu có bệnh động mạch vành tắc nghẽn, nghĩa là hẹp từ 70% trở lên trên chụp mạch, hoặc từ 50% trở lên mà có giới hạn dòng chảy trên đánh giá sinh lý, và không có bệnh lý mạch vành cấp.",
+        "Hoặc xác nhận khi xuất hiện rối loạn vận động vùng mới, hay mất cơ tim sống, theo kiểu phù hợp với nguyên nhân thiếu máu cục bộ.",
+        "Nếu hình ảnh học lại thấy một bệnh lý mạch vành cấp, thì đó không còn là nhồi máu thứ phát, mà là nhồi máu cơ tim nguyên phát."
+      ]
+    },
+    {
+      "id": "s9", "layout": "box", "chapter": "Box 4 · Thứ phát", "title": "Vì sao chẩn đoán thứ phát khó?", "ref": "Mục 7.2.2 · Hình 5",
+      "box": {"tag": "CƠ CHẾ", "t": "<b>Tăng nhu cầu</b> (nhịp nhanh, tăng huyết áp nặng) và/hoặc <b>giảm cung cấp</b> (tụt huyết áp, thiếu oxy, thiếu máu). Thường gặp nhất: <em>loạn nhịp nhanh</em>. Hai yếu tố khởi phát trở lên thường cùng tồn tại → <b>không thể đặt ngưỡng</b> chung.", "at": 0, "c": "amber", "size": 31},
+      "notes": [
+        {"tag": "TRIỆU CHỨNG", "t": "Ít than đau ngực, nhiều triệu chứng của bệnh nền", "at": 1, "c": "teal"},
+        {"tag": "ECG & TROPONIN", "t": "ST chênh xuống / T âm thường <b>lan toả</b>; troponin không phân biệt được thiếu máu hay không", "at": 2, "c": "blue"},
+        {"tag": "BẪY", "t": "Nhiễm khuẩn huyết, xuất huyết có thể <b>khởi phát xơ vữa – huyết khối</b> → luôn nghĩ tới NMCT nguyên phát", "at": 4, "c": "coral"}
+      ],
+      "lines": [
+        "Vì sao chẩn đoán nhồi máu thứ phát khó? Mất cân bằng cung cầu có thể do tăng nhu cầu, như nhịp nhanh hay tăng huyết áp nặng, hoặc do giảm cung cấp, như tụt huyết áp, thiếu oxy hay thiếu máu. Nguyên nhân thường gặp nhất là loạn nhịp nhanh. Hai yếu tố khởi phát trở lên thường cùng tồn tại, nên không thể đặt một ngưỡng chung cho bất kỳ yếu tố nào.",
+        "Về triệu chứng, người bệnh ít khi than đau ngực, mà chủ yếu có triệu chứng của bệnh nền.",
+        "Về điện tim, thiếu máu do mất cân bằng cung cầu có thể biểu hiện ST chênh xuống hoặc T âm theo vùng, nhưng thường là lan toả. Và troponin hiện nay không phân biệt được tổn thương do thiếu máu hay không do thiếu máu.",
+        "Vì vậy, phần lớn người bệnh trong bối cảnh này không có bệnh động mạch vành tắc nghẽn hay mất cơ tim sống mới, và chẩn đoán nhồi máu thứ phát được loại trừ.",
+        "Một cái bẫy quan trọng: bệnh cấp tính, đặc biệt là nhiễm khuẩn huyết hoặc xuất huyết, cũng có thể khởi phát xơ vữa huyết khối. Do đó, nhồi máu cơ tim nguyên phát luôn là chẩn đoán phân biệt cần nghĩ tới."
+      ]
+    },
+    {
+      "id": "s10", "layout": "cards", "chapter": "Box 4 · Thứ phát", "title": "Chiến lược hình ảnh học", "ref": "Mục 7.2.2 · Hình 4", "h": 600,
+      "cards": [
+        {"tag": "THIẾU MÁU KÉO DÀI / TÁI DIỄN", "t": "Chụp mạch vành xâm lấn", "d": "Khi nghĩ tới NMCT nguyên phát", "at": 0, "c": "coral"},
+        {"tag": "CÒN LẠI", "t": "Trì hoãn đến khi ổn định", "d": "Ưu tiên không xâm lấn: <b>chụp cắt lớp mạch vành</b> sau khi hồi phục", "at": 1, "c": "blue"},
+        {"tag": "SUY YẾU NẶNG / TIÊN LƯỢNG HẠN CHẾ", "t": "Phán đoán lâm sàng", "d": "Có bệnh mạch vành đã biết hoặc tổn thương ảnh hưởng chức năng tim → khả năng thứ phát cao hơn", "at": 2, "c": "amber"},
+        {"tag": "Ý NGHĨA", "t": "Điều trị thay đổi", "d": "Khi có bệnh mạch vành hoặc rối loạn chức năng tâm thu thất trái", "items": ["Có thể phát hiện bệnh cơ tim, bệnh van chưa biết"], "at": 3, "c": "green"}
+      ],
+      "lines": [
+        "Về chiến lược hình ảnh học, nếu người bệnh có thiếu máu kéo dài hoặc tái diễn, và nhồi máu nguyên phát là chẩn đoán phân biệt, thì chỉ định chụp mạch vành xâm lấn.",
+        "Ngoài trường hợp đó, hình ảnh học thường được trì hoãn tới khi bệnh cấp tính đã được điều trị, và ưu tiên phương pháp không xâm lấn như chụp cắt lớp mạch vành.",
+        "Với người bệnh nhiều bệnh đồng mắc, suy yếu nặng hay tiên lượng sống hạn chế, hình ảnh học bổ sung đôi khi không phù hợp. Khi đó cần phán đoán lâm sàng: nhồi máu thứ phát có khả năng cao hơn nếu người bệnh đã biết có bệnh mạch vành, hoặc tổn thương cơ tim đáng kể ảnh hưởng tới chức năng tim.",
+        "Một chẩn đoán nhồi máu thứ phát được xác nhận bằng hình ảnh sẽ có ý nghĩa điều trị cho người bệnh có bệnh mạch vành hoặc rối loạn chức năng tâm thu thất trái, và còn có thể phát hiện những bệnh tim chưa biết như bệnh cơ tim không do thiếu máu hay bệnh van tim."
+      ]
+    },
+    {
+      "id": "s11", "layout": "formula", "chapter": "Box 5 · Liên quan thủ thuật", "title": "Khi nào nghĩ tới NMCT liên quan thủ thuật?", "ref": "Mục 7.2.3 · Box 5 · Hình 6",
+      "main": {"tag": "BỐI CẢNH", "t": "Nghi biến chứng mạch vành trong 30 ngày sau thủ thuật tim + tổn thương cơ tim cấp", "d": "Thủ thuật tim: chụp / can thiệp mạch vành, can thiệp cấu trúc, đốt điện, mọi phẫu thuật tim (bắc cầu, thay van…)", "at": 0, "c": "violet"},
+      "op": "Nghĩ tới khi có ≥ 1 đặc điểm", "op_at": 1,
+      "options": [
+        {"t": "Triệu chứng thiếu máu cục bộ cấp", "d": "Kéo dài, tăng dần, hoặc xuất hiện đột ngột sau khi đã hết đau", "at": 1, "c": "teal"},
+        {"t": "ECG thiếu máu mới · sóng Q bệnh lý", "d": "Cần đánh giá thêm, chưa đủ để chẩn đoán", "at": 1, "c": "blue"},
+        {"t": "Xấu đi đột ngột không giải thích được", "d": "Khi người bệnh đang an thần", "at": 2, "c": "coral"}
+      ],
+      "lines": [
+        "Đến Box 5. Nhồi máu cơ tim liên quan thủ thuật được nghĩ tới khi nghi ngờ có biến chứng mạch vành trong vòng 30 ngày sau một thủ thuật tim, kèm tổn thương cơ tim cấp. Thủ thuật tim ở đây bao gồm chụp mạch vành có hoặc không can thiệp, can thiệp cấu trúc tim, đốt điện qua catheter, và mọi phẫu thuật tim mở hay xâm lấn tối thiểu.",
+        "Cần có ít nhất một đặc điểm: triệu chứng thiếu máu cơ tim cấp, biến đổi thiếu máu mới trên điện tâm đồ, hoặc xuất hiện sóng Q bệnh lý.",
+        "Và một tiêu chí mới, rất sát với thực hành hồi sức: tình trạng lâm sàng xấu đi đột ngột không giải thích được ở người bệnh đang dùng an thần."
+      ]
+    },
+    {
+      "id": "s12", "layout": "cards", "chapter": "Box 5 · Liên quan thủ thuật", "title": "Xác nhận chẩn đoán", "ref": "Box 5 · Hình 7", "h": 630,
+      "cards": [
+        {"tag": "TROPONIN NGAY SAU THỦ THUẬT", "t": "Gợi ý khả năng cao", "d": "Tăng so với trước thủ thuật và <b>tiếp tục tăng</b>", "items": ["Lúc 6 giờ: ví dụ > 5× URL sau can thiệp", "Lúc 24 giờ: ví dụ > 35× URL sau phẫu thuật", "Ngưỡng mang tính quy ước, cần nghiên cứu thêm"], "at": 0, "c": "amber"},
+        {"tag": "TIÊU CHÍ 1", "t": "Biến chứng mạch vành trên chụp mạch", "d": "Can thiệp: tắc nhánh bên, bóc tách do thủ thuật, dòng chảy chậm, co hồi, tái hẹp sớm, huyết khối stent", "items": ["Phẫu thuật: hỏng cầu nối, chèn ép động mạch vành", "Cả hai: thuyên tắc, tắc lỗ ĐMV khi can thiệp van"], "at": 1, "hl": "L2", "c": "violet"},
+        {"tag": "TIÊU CHÍ 2", "t": "RLVĐ vùng mới / mất cơ tim sống", "d": "Trong vùng do động mạch có biến chứng chi phối", "items": ["Cần <em>cả hai tiêu chí</em> nếu biến chứng xảy ra trong thủ thuật, hoặc thủ thuật làm để điều trị NMCT cấp"], "at": 3, "hl": "L4", "c": "coral"}
+      ],
+      "lines": [
+        "Ngay sau thủ thuật, chẩn đoán có khả năng cao hơn khi dấu ấn sinh học tăng so với trước thủ thuật và tiếp tục tăng, ví dụ trên 5 lần giới hạn trên lúc 6 giờ sau can thiệp, hoặc trên 35 lần lúc 24 giờ sau phẫu thuật. Các ngưỡng này mang tính quy ước, chủ yếu để chọn người bệnh cần làm hình ảnh học.",
+        "Chẩn đoán được xác nhận với ít nhất một trong hai tiêu chí. Tiêu chí thứ nhất là bằng chứng biến chứng mạch vành trên chụp mạch.",
+        "Với can thiệp qua da, đó có thể là tắc nhánh bên, bóc tách do thủ thuật, dòng chảy chậm hoặc mất dòng chảy, co hồi hay tái hẹp sớm, huyết khối stent. Với phẫu thuật là hỏng cầu nối hoặc chèn ép động mạch vành. Và chung cho cả hai là thuyên tắc, hoặc tắc lỗ động mạch vành khi can thiệp van.",
+        "Tiêu chí thứ hai là hình ảnh tim cho thấy rối loạn vận động vùng mới, hay mất cơ tim sống, trong vùng do động mạch có biến chứng chi phối.",
+        "Điểm then chốt: nếu biến chứng xảy ra ngay trong thủ thuật, hoặc thủ thuật được làm để điều trị nhồi máu cơ tim cấp, thì cần có đủ cả hai tiêu chí. Vì nhiều biến chứng trong thủ thuật chỉ thoáng qua và được xử lý ngay, yêu cầu này giúp chẩn đoán thực sự có ý nghĩa lâm sàng."
+      ]
+    },
+    {
+      "id": "s13", "layout": "box", "chapter": "Box 5 · Liên quan thủ thuật", "title": "Những bẫy sau thủ thuật tim", "ref": "Mục 7.2.3",
+      "box": {"tag": "THÔNG ĐIỆP", "t": "Tổn thương cơ tim sau thủ thuật gần như <b>luôn có</b>, mức độ tuỳ độ dài và độ phức tạp → <b>không có ngưỡng troponin đơn lẻ</b>; cần <em>hình ảnh học</em> để xác nhận hoặc loại trừ.", "at": 3, "c": "violet", "size": 32},
+      "notes": [
+        {"tag": "TRIỆU CHỨNG", "t": "Khó chịu ngực sau thủ thuật rất thường gặp; an thần / gây mê che lấp triệu chứng", "at": 0, "c": "teal"},
+        {"tag": "XẤU ĐI ĐỘT NGỘT", "t": "Phù phổi, tụt huyết áp bất thường, nhịp nhanh, loạn nhịp thất → nghĩ tới thiếu máu", "at": 1, "c": "coral"},
+        {"tag": "ECG SAU PHẪU THUẬT", "t": "ST/T biến đổi do viêm màng ngoài tim, tràn khí màng ngoài tim, rối loạn điện giải; sóng Q có thể thoáng qua", "at": 2, "c": "amber"}
+      ],
+      "lines": [
+        "Thực hành sau thủ thuật có nhiều cái bẫy. Về triệu chứng, nhiều người bệnh có khó chịu ở ngực sau thủ thuật, và việc dùng an thần hay gây mê khiến triệu chứng khó đánh giá. Triệu chứng đáng lo khi kéo dài, nặng dần, hoặc xuất hiện đột ngột sau khi đã hết đau lúc kết thúc thủ thuật.",
+        "Ở người bệnh an thần, sự xấu đi đột ngột như phù phổi, tụt huyết áp bất thường, nhịp nhanh hay loạn nhịp thất có thể là dấu hiệu của thiếu máu cơ tim cấp.",
+        "Về điện tim, sau phẫu thuật tim, ST lệch và T âm rất thường gặp do viêm màng ngoài tim, tràn khí màng ngoài tim hay rối loạn điện giải; và hình ảnh giống sóng Q bệnh lý có thể chỉ thoáng qua sớm sau bắc cầu chủ vành. Biến đổi điện tim cần đánh giá thêm, nhưng không đủ để chẩn đoán.",
+        "Thông điệp chung: tổn thương cơ tim sau thủ thuật gần như luôn hiện diện, mức độ tuỳ vào độ dài và độ phức tạp của thủ thuật. Vì vậy không thể dùng một ngưỡng troponin đơn lẻ, và hình ảnh học là bắt buộc để xác nhận hoặc loại trừ chẩn đoán."
+      ]
+    },
+    {
+      "id": "s14", "layout": "timeline", "chapter": "Mốc 30 ngày", "title": "Biến cố sau thủ thuật: xếp nhóm nào?", "ref": "Mục 7.2.3",
+      "events": [
+        {"year": "Tức thì", "t": "Biến chứng trong thủ thuật", "d": "Cần cả biến chứng mạch vành <b>và</b> RLVĐ vùng mới / mất cơ tim sống", "at": 0, "c": "coral"},
+        {"year": "≤ 30 ngày", "t": "Sau thủ thuật không biến chứng", "d": "Tái hẹp sớm, huyết khối stent, hỏng cầu nối <b>hoặc</b> RLVĐ vùng mới · cùng mạch / vùng đã can thiệp", "at": 1, "c": "violet"},
+        {"year": "≤ 30 ngày", "t": "Không liên quan thủ thuật", "d": "Xếp NMCT nguyên phát hoặc thứ phát theo bối cảnh", "at": 2, "c": "amber"},
+        {"year": "> 30 ngày", "t": "Biến cố liên quan thủ thuật cũ", "d": "Xếp NMCT nguyên phát", "at": 3, "c": "teal"}
+      ],
+      "note": {"t": "Mốc 30 ngày mang tính quy ước, thống nhất với phần lớn nghiên cứu về biến chứng sau thủ thuật", "at": 4, "c": "blue"},
+      "lines": [
+        "Hãy tổng hợp mốc thời gian. Nếu biến chứng xảy ra ngay trong thủ thuật, cần có cả biến chứng mạch vành lẫn rối loạn vận động vùng mới hay mất cơ tim sống.",
+        "Nếu sau một thủ thuật ban đầu không biến chứng, trong vòng 30 ngày xuất hiện triệu chứng hoặc dấu hiệu thiếu máu mới, chẩn đoán được xác nhận khi có tái hẹp sớm hay co hồi, huyết khối stent, hỏng cầu nối, hoặc rối loạn vận động vùng mới. Điều kiện là bệnh lý mạch vành cấp phải ở cùng mạch hoặc cùng vùng đã được can thiệp.",
+        "Trong 30 ngày đó, người bệnh vẫn có thể bị một nhồi máu không liên quan đến thủ thuật, khi đó xếp vào nhóm nguyên phát hoặc thứ phát tuỳ bối cảnh.",
+        "Còn biến cố mạch vành cấp liên quan đến thủ thuật cũ nhưng xảy ra sau 30 ngày thì xếp vào nhồi máu cơ tim nguyên phát.",
+        "Mốc 30 ngày này mang tính quy ước, được chọn để thống nhất với phần lớn các nghiên cứu về biến chứng sau thủ thuật."
+      ]
+    },
+    {
+      "id": "s15", "layout": "quiz", "chapter": "Câu hỏi tình huống", "title": "Ca 1: ngày đầu sau bắc cầu chủ vành",
+      "case": "Nam 66 tuổi, <b>ngày 1 sau bắc cầu chủ vành</b>, đang an thần nhẹ, huyết động ổn. Troponin I tăng tới khoảng <b>40× URL</b>, tăng từ giờ thứ 6 đến giờ thứ 24. ECG: ST chênh lên lan toả nhiều chuyển đạo. Siêu âm tim: <b>không RLVĐ vùng mới</b>. Chụp mạch: <b>các cầu nối thông tốt</b>.",
+      "case_at": 1, "q": "Phân loại phù hợp nhất theo UDMI-5?", "q_at": 2,
+      "options": ["NMCT liên quan thủ thuật", "NMCT thứ phát", "Tổn thương cơ tim cấp sau thủ thuật, chưa đủ tiêu chuẩn NMCT", "NMCT nguyên phát"],
+      "answer": 2, "answer_at": 4,
+      "explain": "Troponin cao và ECG biến đổi chỉ khiến ta nghi ngờ và làm hình ảnh. Không có biến chứng mạch vành, không RLVĐ vùng mới → chưa thoả Box 5.",
+      "lines": [
+        "Mời quý vị áp dụng với hai tình huống. Tình huống thứ nhất, rất quen thuộc tại hồi sức sau mổ tim.",
+        "Người bệnh nam 66 tuổi, ngày thứ nhất sau bắc cầu chủ vành, đang an thần nhẹ, huyết động ổn định. Troponin I tăng tới khoảng 40 lần giới hạn trên, tiếp tục tăng từ giờ thứ 6 đến giờ thứ 24. Điện tâm đồ có ST chênh lên lan toả ở nhiều chuyển đạo. Siêu âm tim không thấy rối loạn vận động vùng mới, và chụp mạch cho thấy các cầu nối thông tốt.",
+        "Theo định nghĩa lần thứ 5, phân loại nào là phù hợp nhất?",
+        "Quý vị có thể tạm dừng video để suy nghĩ.",
+        "Đáp án là tổn thương cơ tim cấp sau thủ thuật, chưa đủ tiêu chuẩn nhồi máu cơ tim. Troponin cao và điện tim biến đổi chỉ là lý do để nghi ngờ và làm hình ảnh học. ST chênh lan toả sau mổ tim thường gợi ý viêm màng ngoài tim. Khi không có biến chứng mạch vành và không có rối loạn vận động vùng mới, tiêu chuẩn của Box 5 chưa được thoả mãn."
+      ]
+    },
+    {
+      "id": "s16", "layout": "quiz", "chapter": "Câu hỏi tình huống", "title": "Ca 2: đau ngực sau sinh",
+      "case": "Nữ 34 tuổi, <b>sinh con được 3 tuần</b>, đau ngực dữ dội đột ngột. ECG: ST chênh xuống V4–V6. Troponin tăng rồi giảm. Chụp mạch vành: <b>bóc tách động mạch liên thất trước</b>, không có xơ vữa.",
+      "case_at": 0, "q": "Phân loại theo UDMI-5?", "q_at": 1,
+      "options": ["NMCT nguyên phát", "NMCT thứ phát", "Tổn thương cơ tim cấp", "Không phân loại được"],
+      "answer": 0, "answer_at": 3,
+      "explain": "Bóc tách ĐMV tự phát là một bệnh lý mạch vành cấp → NMCT nguyên phát, mã hoá theo cơ chế SCAD (trước đây xếp type 2).",
+      "lines": [
+        "Tình huống thứ hai: người bệnh nữ 34 tuổi, sinh con được 3 tuần, đau ngực dữ dội đột ngột. Điện tâm đồ có ST chênh xuống từ V4 đến V6, troponin tăng rồi giảm. Chụp mạch vành cho thấy bóc tách động mạch liên thất trước, không có xơ vữa.",
+        "Phân loại theo định nghĩa lần thứ 5 là gì?",
+        "Quý vị có thể tạm dừng video để suy nghĩ.",
+        "Đáp án là nhồi máu cơ tim nguyên phát. Bóc tách động mạch vành tự phát là một bệnh lý mạch vành cấp, nên thuộc nhóm nguyên phát và được mã hoá theo đúng cơ chế. Theo định nghĩa lần thứ tư, trường hợp này từng được xếp vào type 2."
+      ]
+    },
+    {
+      "id": "s17", "layout": "summary", "chapter": "Tổng kết Phần 3", "title": "Sáu thông điệp mang về", "cols1": 3,
+      "items": [
+        {"t": "Nguyên phát: nhạy · thứ phát & thủ thuật: đặc hiệu", "d": "Triết lý giải thích độ chặt của từng bộ tiêu chuẩn", "at": 1, "c": "violet"},
+        {"t": "Box 3: khả năng cao → xác nhận bằng hình ảnh", "d": "Bệnh lý mạch vành cấp hoặc RLVĐ vùng mới / mất cơ tim sống", "at": 2, "c": "teal"},
+        {"t": "Box 4: phải có đặc điểm thiếu máu", "d": "Xác nhận: bệnh ĐMV tắc nghẽn (≥ 70% / ≥ 50% có ý nghĩa) hoặc RLVĐ vùng mới", "at": 3, "c": "amber"},
+        {"t": "Box 5: trong 30 ngày, không dựa ngưỡng troponin", "d": "Cần cả hai tiêu chí nếu biến chứng xảy ra trong thủ thuật", "at": 4, "c": "coral"},
+        {"t": "Luôn nghĩ tới NMCT nguyên phát", "d": "Kể cả khi đang có bệnh cấp tính khác", "at": 5, "c": "blue"},
+        {"n": "→", "t": "Phần 4: Công cụ chẩn đoán", "d": "Triệu chứng · ECG · troponin độ nhạy cao · hình ảnh học", "at": 6, "c": "green"}
+      ],
+      "lines": [
+        "Để khép lại phần ba, xin tóm tắt các thông điệp chính.",
+        "Một, nhóm nguyên phát ưu tiên độ nhạy, còn nhóm thứ phát và liên quan thủ thuật ưu tiên độ đặc hiệu.",
+        "Hai, nhồi máu nguyên phát có khả năng cao khi có triệu chứng, biến đổi điện tim hay sóng Q, và được xác nhận bằng hình ảnh: bệnh lý mạch vành cấp, hoặc rối loạn vận động vùng mới hay mất cơ tim sống.",
+        "Ba, nhồi máu thứ phát phải có đặc điểm thiếu máu, và được xác nhận khi có bệnh động mạch vành tắc nghẽn, hoặc rối loạn vận động vùng mới.",
+        "Bốn, nhồi máu liên quan thủ thuật xảy ra trong 30 ngày, không dựa vào ngưỡng troponin, và cần cả hai tiêu chí nếu biến chứng xảy ra ngay trong thủ thuật.",
+        "Năm, ngay cả khi người bệnh đang có một bệnh cấp tính khác, luôn nghĩ tới khả năng nhồi máu cơ tim nguyên phát.",
+        "Trong phần bốn, chúng ta sẽ đi sâu vào các công cụ chẩn đoán: triệu chứng, điện tâm đồ, troponin độ nhạy cao và hình ảnh học. Xin cảm ơn quý đồng nghiệp đã theo dõi."
+      ]
+    }
+  ]
+}

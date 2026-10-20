@@ -16,7 +16,7 @@ for sc in S["scenes"]:
         labels.append(f"[a{k}]")
 assert labels, "Chưa có file audio nào trong audio/"
 fc = ";".join(filters) + ";" + "".join(labels) + \
-     f"amix=inputs={len(labels)}:normalize=0,apad,atrim=0:{S['total']}[aout]"
+     f"amix=inputs={len(labels)}:normalize=0,apad,atrim=0:{S['total']},loudnorm=I=-16:TP=-1.5:LRA=11[aout]"
 subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", os.path.join(D, "video-silent.mp4"), *inputs,
                 "-filter_complex", fc, "-map", "0:v", "-map", "[aout]", "-c:v", "copy",
                 "-c:a", "aac", "-b:a", "192k", "-shortest", os.path.join(D, "video-final.mp4")], check=True)
