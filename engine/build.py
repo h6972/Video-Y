@@ -59,8 +59,9 @@ for sc in S["scenes"]:
     audio_dir = os.path.join(D, "audio")
     sc_lines = []
     for i, line in enumerate(sc["lines"]):
-        mp3 = os.path.join(audio_dir, f"{sc['id']}_{i+1}.mp3")
-        dur = audio_len(mp3) if os.path.exists(mp3) else len(line.split()) / SYL_PER_SEC
+        mp3 = next((os.path.join(audio_dir, f"{sc['id']}_{i+1}.{e}") for e in ("flac", "wav", "mp3")
+                    if os.path.exists(os.path.join(audio_dir, f"{sc['id']}_{i+1}.{e}"))), None)
+        dur = audio_len(mp3) if mp3 else len(line.split()) / SYL_PER_SEC
         sub = subtitle(line)
         pieces = chunks(sub)
         total = sum(len(p) for p in pieces)
@@ -71,7 +72,7 @@ for sc in S["scenes"]:
             subs.append({"t0": round(pt, 3), "t1": round(pt + pd, 3), "text": p})
             pt += pd
         sc_lines.append({"t0": round(local, 3), "t1": round(local + dur, 3), "subs": subs,
-                         "say": line, "mp3": f"{sc['id']}_{i+1}.mp3"})
+                         "say": line, "mp3": os.path.basename(mp3) if mp3 else f"{sc['id']}_{i+1}.mp3"})
         local += dur + LINE_GAP
     sc["L"] = sc_lines
     sc["dur"] = round(local - LINE_GAP + TAIL, 3)

@@ -9,7 +9,7 @@ on:
         default: "cum-nature-2026"
   push:
     branches: [main]
-    paths: ["projects/**/script.json", "projects/**/template.html"]
+    paths: ["projects/**/script.json", "projects/**/template.html", "projects/**/audio/**"]
 
 permissions:
   contents: write
@@ -41,6 +41,10 @@ jobs:
         run: |
           T=$(python -c "import json;print(json.load(open('projects/${{ steps.p.outputs.project }}/script.json')).get('tts','edge'))")
           echo "tts=$T" >> "$GITHUB_OUTPUT"; echo "Bộ giọng đọc: $T"
+          if [ "$T" = "omni" ] && ! ls projects/${{ steps.p.outputs.project }}/audio/*.flac >/dev/null 2>&1; then
+            echo "skip=1" >> "$GITHUB_OUTPUT"
+            echo "::notice::Chờ giọng OmniVoice — chạy tao-giong.bat ${{ steps.p.outputs.project }} trên máy"
+          fi
 
       - name: Kiểm tra key Azure
         if: steps.t.outputs.tts == 'azure'
@@ -54,16 +58,19 @@ jobs:
           fi
 
       - uses: actions/setup-python@v5
+        if: steps.t.outputs.skip != '1'
         with:
           python-version: "3.12"
 
       - name: Cài công cụ
+        if: steps.t.outputs.skip != '1'
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
           pip install -q azure-cognitiveservices-speech edge-tts playwright
           python -m playwright install --with-deps chromium
 
       - name: Giọng đọc → dựng hình → ghép tiếng
+        if: steps.t.outputs.skip != '1'
         env:
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
@@ -73,20 +80,26 @@ jobs:
           exec > >(tee "$RUNNER_TEMP/run.log") 2>&1
           D=projects/${{ steps.p.outputs.project }}
           python engine/build.py "$D"          # sinh SSML
-          if [ "${{ steps.t.outputs.tts }}" = "azure" ]; then python engine/tts_azure.py "$D"; else python engine/tts_edge.py "$D"; fi  # giọng đọc → audio/*.mp3
+          case "${{ steps.t.outputs.tts }}" in
+            azure) python engine/tts_azure.py "$D" ;;
+            omni)  ls "$D"/audio/*.flac >/dev/null 2>&1 || { echo "Chưa có giọng OmniVoice: chạy tao-giong.bat trên máy"; exit 1; } ;;
+            *)     python engine/tts_edge.py "$D" ;;
+          esac
           python engine/build.py "$D"          # căn thời lượng theo giọng thật
           python engine/capture.py "$D" video  # dựng hình 1920x1080
           python engine/mux.py "$D"            # ghép tiếng → video-final.mp4
           mkdir -p "$RUNNER_TEMP/out"
           cp "$D/video-final.mp4" "$RUNNER_TEMP/out/${{ steps.p.outputs.project }}.mp4"
-          cd "$D" && zip -qr "$RUNNER_TEMP/out/${{ steps.p.outputs.project }}-audio.zip" audio
+          cd "$D" && zip -qr "$RUNNER_TEMP/out/${{ steps.p.outputs.project }}-audio.zip" audio || true
 
       - uses: actions/upload-artifact@v4
+        if: steps.t.outputs.skip != '1'
         with:
           name: ${{ steps.p.outputs.project }}
           path: ${{ runner.temp }}/out/
 
       - name: Lưu video lên nhánh renders
+        if: steps.t.outputs.skip != '1'
         run: |
           P=${{ steps.p.outputs.project }}
           git config user.name "video-bot"

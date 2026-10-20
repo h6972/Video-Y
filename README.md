@@ -23,3 +23,27 @@ Vào **Settings → Secrets and variables → Actions → New repository secret*
 Kết quả: file MP4 ở mục Artifacts của lần chạy, và trong nhánh `renders`, thư mục `videos/`.
 
 Đổi giọng đọc: sửa `"voice"` trong `script.json` (`vi-VN-NamMinhNeural` nam, `vi-VN-HoaiMyNeural` nữ).
+
+## Giọng OmniVoice trên máy có GPU (Windows, card NVIDIA)
+Trong `script.json` đặt `"tts": "omni"` (tuỳ chọn `"omni": {"voice": "nam", "instruct": "male, middle-aged, low pitch"}`).
+
+### Cài đặt một lần
+1. Cập nhật driver NVIDIA mới nhất (GeForce Experience / NVIDIA App).
+2. Cài **Python 3.12** (python.org, tích *Add python.exe to PATH*) và **Git for Windows**.
+3. Mở PowerShell:
+   ```
+   cd $HOME\Documents
+   git clone https://github.com/h6972/Video-Y.git
+   cd Video-Y
+   python -m venv .venv
+   .\.venv\Scripts\activate
+   pip install torch==2.8.0 torchaudio==2.8.0 --index-url https://download.pytorch.org/whl/cu128
+   pip install omnivoice soundfile
+   hf auth login
+   ```
+   (dán HF token khi được hỏi; đã đồng ý điều khoản trang g-group-ai-lab/g-omnivoice)
+
+### Mỗi video
+- Nghe thử 3 câu: `tao-giong.bat <dự án> test`
+- Tạo giọng + đẩy lên GitHub: `tao-giong.bat <dự án>` → GitHub tự dựng video.
+- Giọng chuẩn của kênh nằm ở `voices/` (tạo lần đầu, dùng lại cho mọi video; xoá file để tạo giọng mới).
