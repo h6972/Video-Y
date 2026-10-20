@@ -1,0 +1,34 @@
+name: Voice samples (G-OmniVoice)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  samples:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Cài PyTorch (CPU) + OmniVoice
+        run: |
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install -q omnivoice soundfile
+          pip list 2>/dev/null | grep -i -E "torch|omnivoice|transformers"
+      - name: Tạo giọng mẫu
+        shell: bash
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          OUT: ${{ runner.temp }}/samples
+        run: |
+          set -o pipefail
+          python engine/voice_samples.py 2>&1 | tee "$RUNNER_TEMP/samples.log"
+      - name: Lưu lên nhánh samples
+        if: always()
+        run: |
+          mkdir -p "$RUNNER_TEMP/samples"; cp "$RUNNER_TEMP/samples.log" "$RUNNER_TEMP/samples/" 2>/dev/null || true
+          git config user.name "video-bot"; git config user.email "video-bot@users.noreply.github.com"
+          git checkout -f --orphan samples && git rm -rf -q . && git clean -fdq
+          cp "$RUNNER_TEMP"/samples/* . && git add -A && git commit -qm "Giọng mẫu" && git push -f origin samples
