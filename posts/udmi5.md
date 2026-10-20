@@ -384,3 +384,296 @@ Phần cuối: ý nghĩa định nghĩa mới với người bệnh, mã ICD-11,
 📚 Trọn bộ 6 phần: [LINK_PLAYLIST]
 Anh chị có câu hỏi hay muốn chuyên đề tiếp theo, để lại bình luận nhé!
 ```
+---
+
+# Mô tả YouTube – Loạt bài UDMI-5
+
+Kênh: **Thư Viện Y Khoa Online**. Tiêu đề ≤ 100 ký tự; mốc thời gian bắt đầu bằng 00:00 để YouTube tự tạo chương; dán phần “Thẻ” vào ô Tags.
+
+## YouTube · Phần 1/6 – Tổng quan & những điểm mới
+
+**Tiêu đề** (69 ký tự):
+```
+UDMI-5 Phần 1: Type 1–5 bị bỏ – 3 nhóm nhồi máu cơ tim mới | ESC 2026
+```
+
+**Mô tả:**
+```
+🎓 UDMI-5 · PHẦN 1/6: TỔNG QUAN & NHỮNG ĐIỂM MỚI
+
+Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim (UDMI-5, ESC/ACC/AHA/WHF 2026) bỏ hẳn phân loại type 1–5, thay bằng 3 nhóm lâm sàng: nguyên phát, thứ phát và liên quan thủ thuật. Phần 1 điểm lại lịch sử định nghĩa, tiêu chuẩn chẩn đoán lâm sàng, bảng so sánh UDMI-4 và UDMI-5, ba “bẫy” khi chuyển sang định nghĩa mới và một ca lâm sàng tại hồi sức.
+
+📥 Tải bản dịch tiếng Việt Định nghĩa toàn cầu lần thứ 5 về NMCT (UDMI-5, 2026): [LINK_BAN_DICH]
+📚 Trọn bộ loạt bài (6 phần): [LINK_PLAYLIST]
+➡️ Phần 2: [LINK_PHAN_2]
+
+⏱️ Nội dung:
+00:00 Mở đầu
+00:30 6 phần – từ khái niệm đến thực hành
+01:03 Gần 50 năm định nghĩa nhồi máu cơ tim
+01:59 Nhồi máu cơ tim là gì?
+02:36 Tiêu chuẩn chẩn đoán lâm sàng
+03:13 Từ tiêu chuẩn đến thực tế lâm sàng
+03:56 Hạn chế của phân loại theo con số
+04:58 Ba bối cảnh lâm sàng của nhồi máu cơ tim
+06:04 Từ type 1–5 đến phân loại lâm sàng
+07:09 Sáu điểm mới cần nắm
+08:03 Ba “bẫy” khi chuyển từ UDMI-4 sang UDMI-5
+08:36 Áp dụng ngay: một ca tại hồi sức
+09:21 Năm thông điệp mang về
+
+📖 Nguồn: Fifth Universal Definition of Myocardial Infarction (2026) – ESC/ACC/AHA/WHF.
+⚠️ Video phục vụ mục đích giáo dục cho nhân viên y tế, không thay thế hướng dẫn chính thức và đánh giá lâm sàng.
+
+🔔 Đăng ký kênh Thư Viện Y Khoa Online để nhận các chuyên đề mới.
+
+#UDMI5 #NhoiMauCoTim #ThuVienYKhoaOnline
+```
+
+**Thẻ (Tags):**
+```
+UDMI-5, định nghĩa nhồi máu cơ tim, nhồi máu cơ tim, Fifth Universal Definition of Myocardial Infarction, ESC 2026, troponin, hs-troponin, tổn thương cơ tim, MINOCA, hồi sức cấp cứu, tim mạch, bài giảng y khoa, Thư Viện Y Khoa Online
+```
+
+## YouTube · Phần 2/6 – Tổn thương cơ tim cấp & mạn
+
+**Tiêu đề** (76 ký tự):
+```
+UDMI-5 Phần 2: Troponin tăng ≠ nhồi máu cơ tim | Tổn thương cơ tim cấp & mạn
+```
+
+**Mô tả:**
+```
+🎓 UDMI-5 · PHẦN 2/6: TỔN THƯƠNG CƠ TIM CẤP & MẠN
+
+Phần 2 đi vào nền móng của chẩn đoán: tổn thương cơ tim cấp (Box 1) và mạn (Box 2). Vì sao chọn bách phân vị 99 và bắt buộc ngưỡng theo giới, 7 nhóm cơ chế tổn thương cấp (Bảng 2), nguyên nhân tổn thương mạn (Bảng 3), troponin ở bệnh thận mạn, nhiễu xét nghiệm và macrotroponin, kèm ca bệnh nhân lọc máu.
+
+📥 Tải bản dịch tiếng Việt Định nghĩa toàn cầu lần thứ 5 về NMCT (UDMI-5, 2026): [LINK_BAN_DICH]
+📚 Trọn bộ loạt bài (6 phần): [LINK_PLAYLIST]
+⬅️ Phần 1: [LINK_PHAN_1]
+➡️ Phần 3: [LINK_PHAN_3]
+
+⏱️ Nội dung:
+00:00 Mở đầu
+00:23 Tổn thương cơ tim qua các phiên bản
+01:11 Hiểu đúng công cụ trước khi diễn giải
+01:59 Vì sao là bách phân vị thứ 99?
+02:45 Giới tính và tuổi: hai biến số lớn
+03:32 Tiêu chuẩn tổn thương cơ tim cấp
+04:15 Cơ chế tổn thương cơ tim cấp
+05:11 Troponin tăng không đồng nghĩa với hoại tử
+05:55 Tiêu chuẩn tổn thương cơ tim mạn
+06:28 Cơ chế tổn thương cơ tim mạn
+07:12 Bệnh thận mạn: đừng vội đổ lỗi cho thận
+08:11 Khi troponin “không khớp” với lâm sàng
+09:03 Cấp hay mạn? Trình tự tiếp cận
+09:48 Áp dụng: troponin tăng ở người bệnh lọc máu
+10:32 Sáu thông điệp mang về
+
+📖 Nguồn: Fifth Universal Definition of Myocardial Infarction (2026) – ESC/ACC/AHA/WHF.
+⚠️ Video phục vụ mục đích giáo dục cho nhân viên y tế, không thay thế hướng dẫn chính thức và đánh giá lâm sàng.
+
+🔔 Đăng ký kênh Thư Viện Y Khoa Online để nhận các chuyên đề mới.
+
+#UDMI5 #NhoiMauCoTim #ThuVienYKhoaOnline
+```
+
+**Thẻ (Tags):**
+```
+UDMI-5, định nghĩa nhồi máu cơ tim, nhồi máu cơ tim, Fifth Universal Definition of Myocardial Infarction, ESC 2026, troponin, hs-troponin, tổn thương cơ tim, MINOCA, hồi sức cấp cứu, tim mạch, bài giảng y khoa, Thư Viện Y Khoa Online
+```
+
+## YouTube · Phần 3/6 – Phân loại lâm sàng mới (Box 3–5)
+
+**Tiêu đề** (72 ký tự):
+```
+UDMI-5 Phần 3: NMCT nguyên phát, thứ phát, liên quan thủ thuật (Box 3–5)
+```
+
+**Mô tả:**
+```
+🎓 UDMI-5 · PHẦN 3/6: PHÂN LOẠI LÂM SÀNG MỚI (BOX 3–5)
+
+Phần trọng tâm: tiêu chuẩn chẩn đoán NMCT nguyên phát (Box 3), thứ phát (Box 4) và liên quan thủ thuật (Box 5). Vì sao SCAD, co thắt, thuyên tắc nay là NMCT nguyên phát; tiêu chí bệnh ĐMV tắc nghẽn cho NMCT thứ phát; mốc 30 ngày sau thủ thuật; hai ca lâm sàng sau bắc cầu chủ vành và sau sinh.
+
+📥 Tải bản dịch tiếng Việt Định nghĩa toàn cầu lần thứ 5 về NMCT (UDMI-5, 2026): [LINK_BAN_DICH]
+📚 Trọn bộ loạt bài (6 phần): [LINK_PLAYLIST]
+⬅️ Phần 2: [LINK_PHAN_2]
+➡️ Phần 4: [LINK_PHAN_4]
+
+⏱️ Nội dung:
+00:00 Mở đầu
+00:22 Độ nhạy hay độ đặc hiệu?
+01:03 Khi nào nghĩ nhiều tới NMCT nguyên phát?
+01:31 Xác nhận chẩn đoán: cần hình ảnh học
+02:17 Các bệnh lý mạch vành cấp
+03:10 Khi chụp mạch vành chưa trả lời được
+03:53 Khi nào nghĩ tới NMCT thứ phát?
+04:23 Từ “nghĩ tới” đến “xác nhận”
+05:04 Vì sao chẩn đoán thứ phát khó?
+06:00 Chiến lược hình ảnh học
+06:46 Khi nào nghĩ tới NMCT liên quan thủ thuật?
+07:21 Xác nhận chẩn đoán
+08:23 Những bẫy sau thủ thuật tim
+09:14 Biến cố sau thủ thuật: xếp nhóm nào?
+10:01 Ca 1: ngày đầu sau bắc cầu chủ vành
+10:53 Ca 2: đau ngực sau sinh
+11:27 Sáu thông điệp mang về
+
+📖 Nguồn: Fifth Universal Definition of Myocardial Infarction (2026) – ESC/ACC/AHA/WHF.
+⚠️ Video phục vụ mục đích giáo dục cho nhân viên y tế, không thay thế hướng dẫn chính thức và đánh giá lâm sàng.
+
+🔔 Đăng ký kênh Thư Viện Y Khoa Online để nhận các chuyên đề mới.
+
+#UDMI5 #NhoiMauCoTim #ThuVienYKhoaOnline
+```
+
+**Thẻ (Tags):**
+```
+UDMI-5, định nghĩa nhồi máu cơ tim, nhồi máu cơ tim, Fifth Universal Definition of Myocardial Infarction, ESC 2026, troponin, hs-troponin, tổn thương cơ tim, MINOCA, hồi sức cấp cứu, tim mạch, bài giảng y khoa, Thư Viện Y Khoa Online
+```
+
+## YouTube · Phần 4/6 – Công cụ chẩn đoán
+
+**Tiêu đề** (74 ký tự):
+```
+UDMI-5 Phần 4: ECG, troponin, hình ảnh học trong chẩn đoán nhồi máu cơ tim
+```
+
+**Mô tả:**
+```
+🎓 UDMI-5 · PHẦN 4/6: CÔNG CỤ CHẨN ĐOÁN
+
+Bốn công cụ chẩn đoán NMCT theo UDMI-5: triệu chứng (“khó chịu ngực”), điện tâm đồ (Bảng 5 và các kiểu tương đương STEMI: thành sau, Sgarbossa, de Winter, Wellens, Aslanger), troponin độ nhạy cao (động học, phác đồ 0/1h – 0/2h, Box 6) và hình ảnh học (chụp mạch, OCT/IVUS, siêu âm, cộng hưởng từ, CT).
+
+📥 Tải bản dịch tiếng Việt Định nghĩa toàn cầu lần thứ 5 về NMCT (UDMI-5, 2026): [LINK_BAN_DICH]
+📚 Trọn bộ loạt bài (6 phần): [LINK_PLAYLIST]
+⬅️ Phần 3: [LINK_PHAN_3]
+➡️ Phần 5: [LINK_PHAN_5]
+
+⏱️ Nội dung:
+00:00 Mở đầu
+00:20 Nói “khó chịu ngực”, bỏ “điển hình”
+01:02 Những người dễ bị bỏ sót
+01:46 Tiêu chuẩn điện tim của thiếu máu cục bộ
+02:47 Tắc mạch cấp nhưng không có ST chênh “kinh điển”
+04:15 ST chênh lên không đồng nghĩa với NMCT
+04:57 Điện tim trong từng nhóm NMCT
+05:54 Động học troponin theo thời gian
+06:50 Troponin sau thủ thuật và trong NMCT thứ phát
+07:47 Thế nào là “tăng / giảm có ý nghĩa”?
+08:40 Phác đồ chẩn đoán nhanh với hs-troponin
+09:35 Tám nguyên tắc diễn giải troponin
+10:31 Khi không có troponin độ nhạy cao
+11:12 Chụp mạch vành và hơn thế nữa
+12:30 Siêu âm, cộng hưởng từ, CT, y học hạt nhân
+13:43 Ca 1: blốc nhánh trái cũ, đau ngực cấp
+14:19 Ca 2: đến sớm, troponin lần đầu “bình thường”
+14:53 Sáu thông điệp mang về
+
+📖 Nguồn: Fifth Universal Definition of Myocardial Infarction (2026) – ESC/ACC/AHA/WHF.
+⚠️ Video phục vụ mục đích giáo dục cho nhân viên y tế, không thay thế hướng dẫn chính thức và đánh giá lâm sàng.
+
+🔔 Đăng ký kênh Thư Viện Y Khoa Online để nhận các chuyên đề mới.
+
+#UDMI5 #NhoiMauCoTim #ThuVienYKhoaOnline
+```
+
+**Thẻ (Tags):**
+```
+UDMI-5, định nghĩa nhồi máu cơ tim, nhồi máu cơ tim, Fifth Universal Definition of Myocardial Infarction, ESC 2026, troponin, hs-troponin, tổn thương cơ tim, MINOCA, hồi sức cấp cứu, tim mạch, bài giảng y khoa, Thư Viện Y Khoa Online
+```
+
+## YouTube · Phần 5/6 – Tình huống đặc biệt
+
+**Tiêu đề** (75 ký tự):
+```
+UDMI-5 Phần 5: NMCT ở hồi sức, sau mổ, MINOCA, đột tử | Tình huống đặc biệt
+```
+
+**Mô tả:**
+```
+🎓 UDMI-5 · PHẦN 5/6: TÌNH HUỐNG ĐẶC BIỆT
+
+Những tình huống khó nhất: đột tử, NMCT không được nhận biết, đau thắt ngực không ổn định, MINOCA (nay là Myocardial Injury with Non-Obstructive Coronary Arteries), NMCT tái phát sớm, suy tim, người bệnh nặng tại hồi sức, sau phẫu thuật ngoài tim (MINS), TAVI và ung bướu tim mạch; kèm hai ca lâm sàng.
+
+📥 Tải bản dịch tiếng Việt Định nghĩa toàn cầu lần thứ 5 về NMCT (UDMI-5, 2026): [LINK_BAN_DICH]
+📚 Trọn bộ loạt bài (6 phần): [LINK_PLAYLIST]
+⬅️ Phần 4: [LINK_PHAN_4]
+➡️ Phần 6: [LINK_PHAN_6]
+
+⏱️ Nội dung:
+00:00 Mở đầu
+00:27 Chẩn đoán NMCT sau đột tử
+01:12 Tử thiết và hình ảnh sau tử vong
+02:04 NMCT không được nhận biết
+03:00 Đau thắt ngực không ổn định vẫn còn chỗ đứng
+03:56 MINOCA: định nghĩa mới
+04:40 Khảo sát người bệnh MINOCA
+05:33 NMCT tái phát sớm
+06:23 Suy tim: troponin tăng là thường
+07:22 Người bệnh nặng: NMCT hay bị bỏ sót
+08:18 Tiếp cận NMCT tại hồi sức
+09:12 Sau phẫu thuật ngoài tim
+10:16 Can thiệp cấu trúc và ung bướu tim mạch
+11:28 Ca 1: sau mổ bụng nguy cơ cao
+12:11 Ca 2: động mạch vành bình thường
+12:50 Sáu thông điệp mang về
+
+📖 Nguồn: Fifth Universal Definition of Myocardial Infarction (2026) – ESC/ACC/AHA/WHF.
+⚠️ Video phục vụ mục đích giáo dục cho nhân viên y tế, không thay thế hướng dẫn chính thức và đánh giá lâm sàng.
+
+🔔 Đăng ký kênh Thư Viện Y Khoa Online để nhận các chuyên đề mới.
+
+#UDMI5 #NhoiMauCoTim #ThuVienYKhoaOnline
+```
+
+**Thẻ (Tags):**
+```
+UDMI-5, định nghĩa nhồi máu cơ tim, nhồi máu cơ tim, Fifth Universal Definition of Myocardial Infarction, ESC 2026, troponin, hs-troponin, tổn thương cơ tim, MINOCA, hồi sức cấp cứu, tim mạch, bài giảng y khoa, Thư Viện Y Khoa Online
+```
+
+## YouTube · Phần 6/6 – Thực hành & tổng kết
+
+**Tiêu đề** (66 ký tự):
+```
+UDMI-5 Phần 6: Mã ICD-11, Box 7 và tổng kết | Định nghĩa NMCT 2026
+```
+
+**Mô tả:**
+```
+🎓 UDMI-5 · PHẦN 6/6: THỰC HÀNH & TỔNG KẾT
+
+Phần cuối: ý nghĩa với người bệnh và phục hồi chức năng tim, mã ICD-11 mới (Bảng 4), chẩn đoán khi không có troponin và hình ảnh (Box 7), các câu hỏi nghiên cứu (Box 8); ôn tập toàn bộ bằng sơ đồ tư duy 4 bước, hai ca lâm sàng và 8 thông điệp cốt lõi.
+
+📥 Tải bản dịch tiếng Việt Định nghĩa toàn cầu lần thứ 5 về NMCT (UDMI-5, 2026): [LINK_BAN_DICH]
+📚 Trọn bộ loạt bài (6 phần): [LINK_PLAYLIST]
+⬅️ Phần 5: [LINK_PHAN_5]
+
+⏱️ Nội dung:
+00:00 Mở đầu
+00:23 Chẩn đoán NMCT ảnh hưởng cả cuộc đời
+01:13 Đừng quên người bệnh NMCT thứ phát
+01:57 Vì sao cần mã ICD-11 mới?
+02:44 Đọc mã ICD-11 của nhồi máu cơ tim
+03:52 Gánh nặng và thách thức
+04:54 Chẩn đoán khi không có troponin và hình ảnh
+05:21 Ý nghĩa của định nghĩa mới với nghiên cứu
+06:25 Những câu hỏi còn bỏ ngỏ
+07:26 Sơ đồ tư duy: từ troponin đến chẩn đoán
+08:16 Ca 1: nhịp nhanh tại hồi sức
+09:06 Ca 2: trạm y tế không có troponin
+09:42 Tám thông điệp của UDMI-5
+
+📖 Nguồn: Fifth Universal Definition of Myocardial Infarction (2026) – ESC/ACC/AHA/WHF.
+⚠️ Video phục vụ mục đích giáo dục cho nhân viên y tế, không thay thế hướng dẫn chính thức và đánh giá lâm sàng.
+
+🔔 Đăng ký kênh Thư Viện Y Khoa Online để nhận các chuyên đề mới.
+
+#UDMI5 #NhoiMauCoTim #ThuVienYKhoaOnline
+```
+
+**Thẻ (Tags):**
+```
+UDMI-5, định nghĩa nhồi máu cơ tim, nhồi máu cơ tim, Fifth Universal Definition of Myocardial Infarction, ESC 2026, troponin, hs-troponin, tổn thương cơ tim, MINOCA, hồi sức cấp cứu, tim mạch, bài giảng y khoa, Thư Viện Y Khoa Online
+```
