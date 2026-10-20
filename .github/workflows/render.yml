@@ -67,7 +67,10 @@ jobs:
         env:
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+        shell: bash
         run: |
+          set -o pipefail
+          exec > >(tee "$RUNNER_TEMP/run.log") 2>&1
           D=projects/${{ steps.p.outputs.project }}
           python engine/build.py "$D"          # sinh SSML
           if [ "${{ steps.t.outputs.tts }}" = "azure" ]; then python engine/tts_azure.py "$D"; else python engine/tts_edge.py "$D"; fi  # giọng đọc → audio/*.mp3
@@ -98,3 +101,12 @@ jobs:
           git add videos
           git commit -qm "Render $P"
           git push origin renders
+
+      - name: Lưu log khi lỗi
+        if: failure()
+        run: |
+          P=${{ steps.p.outputs.project }}
+          cp "$RUNNER_TEMP/run.log" "$RUNNER_TEMP/$P.log" 2>/dev/null || echo "không có log" > "$RUNNER_TEMP/$P.log"
+          git config user.name "video-bot"; git config user.email "video-bot@users.noreply.github.com"
+          git checkout -f --orphan logs && git rm -rf -q . && git clean -fdq
+          cp "$RUNNER_TEMP/$P.log" . && git add "$P.log" && git commit -qm "Log lỗi $P" && git push -f origin logs
