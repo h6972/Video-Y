@@ -1,0 +1,18 @@
+/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files:  21%|██▏       | 3/14 [00:00<00:00, 26.94it/s]Fetching 14 files:  79%|███████▊  | 11/14 [00:00<00:00, 18.71it/s]Fetching 14 files: 100%|██████████| 14/14 [00:18<00:00,  1.86s/it]Fetching 14 files: 100%|██████████| 14/14 [00:18<00:00,  1.35s/it]
+Loading weights:   0%|          | 0/313 [00:00<?, ?it/s]Loading weights: 100%|██████████| 313/313 [00:00<00:00, 6396.31it/s]
+Loading weights:   0%|          | 0/527 [00:00<?, ?it/s]Loading weights: 100%|██████████| 527/527 [00:00<00:00, 5661.17it/s]
+tải mô hình: 21 giây, thiết bị cpu
+  nam câu xong 426 s
+  nam câu xong 847 s
+  nam câu xong 1152 s
+  nam câu xong 1503 s
+  nam câu xong 1785 s
+nam {'instruct': 'male, middle-aged, low pitch', 'audio_s': 44.3, 'gen_s': 1785.2}
+  nu câu xong 412 s
+  nu câu xong 825 s
+  nu câu xong 1129 s
+  nu câu xong 1474 s
+  nu câu xong 1755 s
+nu {'instruct': 'female, middle-aged, moderate pitch', 'audio_s': 43.7, 'gen_s': 1754.8}

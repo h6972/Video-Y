@@ -1,0 +1,22 @@
+{
+ "lines": [
+  "Thưa quý đồng nghiệp, đây là thay đổi quan trọng nhất của định nghĩa lần thứ năm: phân loại bằng con số được thay thế hoàn toàn.",
+  "Nhồi máu cơ tim nay được xếp vào một trong ba bối cảnh lâm sàng.",
+  "Thứ nhất, nhồi máu cơ tim nguyên phát, xảy ra tự phát do một bệnh lý mạch vành cấp tính nguyên phát. Phần lớn là xơ vữa huyết khối, nhưng cũng bao gồm các bệnh lý mạch vành cấp khác.",
+  "Thứ hai, nhồi máu cơ tim thứ phát, do mất cân bằng cung cầu oxy cơ tim, gây ra bởi một bệnh cấp tính khác.",
+  "Thứ ba, nhồi máu cơ tim liên quan thủ thuật, là biến chứng của bất kỳ thủ thuật tim nào, qua da hay phẫu thuật, trong vòng ba mươi ngày.",
+  "Xin quý vị lưu ý: không có một tiêu chuẩn đơn lẻ nào đủ để khẳng định nhồi máu cơ tim cấp."
+ ],
+ "voices": {
+  "nam": {
+   "instruct": "male, middle-aged, low pitch",
+   "audio_s": 44.3,
+   "gen_s": 1785.2
+  },
+  "nu": {
+   "instruct": "female, middle-aged, moderate pitch",
+   "audio_s": 43.7,
+   "gen_s": 1754.8
+  }
+ }
+}
