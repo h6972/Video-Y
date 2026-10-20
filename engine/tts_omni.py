@@ -21,6 +21,12 @@ dev = "cuda:0" if torch.cuda.is_available() else "cpu"
 print("Thiết bị:", torch.cuda.get_device_name(0) if dev != "cpu" else "CPU (sẽ rất chậm!)", flush=True)
 model = OmniVoice.from_pretrained("g-group-ai-lab/g-omnivoice", device_map=dev,
                                   dtype=torch.float16 if dev != "cpu" else torch.float32)
+STEPS = int(cfg.get("num_step", 16))   # 32 = chất lượng tối đa, 16 = nhanh gấp đôi
+try:                                    # tăng tốc nếu máy có FlashInfer (thường chỉ trên Linux)
+    from omnivoice import apply_flashinfer; apply_flashinfer(model); print("Đã bật FlashInfer")
+except Exception:
+    pass
+print("Số bước khuếch tán:", STEPS, flush=True)
 
 # ---- giọng chuẩn của kênh ----
 vdir = os.path.join(ROOT, "voices"); os.makedirs(vdir, exist_ok=True)
@@ -39,7 +45,7 @@ t0 = time.time()
 for k, (sid, i, ln) in enumerate(jobs, 1):
     p = os.path.join(out, f"{sid}_{i+1}.flac")
     if os.path.exists(p): continue
-    a = model.generate(text=spoken(ln), ref_audio=ref_wav, ref_text=ref_text)[0]
+    a = model.generate(text=spoken(ln), ref_audio=ref_wav, ref_text=ref_text, num_step=STEPS)[0]
     sf.write(p, a, 24000)
     print(f"[{k}/{len(jobs)}] {sid}_{i+1}  ({round(time.time()-t0)} giây)", flush=True)
 print("Hoàn tất:", out)
