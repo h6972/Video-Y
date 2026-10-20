@@ -83,7 +83,12 @@ jobs:
           python engine/build.py "$D"          # sinh SSML
           case "${{ steps.t.outputs.tts }}" in
             azure) python engine/tts_azure.py "$D" ;;
-            gemini) python engine/tts_gemini.py "$D" ;;
+            gemini)
+              P=${{ steps.p.outputs.project }}
+              if git fetch -q --depth 1 origin logs 2>/dev/null && git show FETCH_HEAD:"$P-audio-do-dang.zip" > /tmp/do-dang.zip 2>/dev/null; then
+                (cd "$D" && unzip -oq /tmp/do-dang.zip) && echo "Dùng lại giọng đã đọc ở lần trước"
+              fi
+              python engine/tts_gemini.py "$D" ;;
             omni)  ls "$D"/audio/*.flac >/dev/null 2>&1 || { echo "Chưa có giọng OmniVoice: chạy tao-giong.bat trên máy"; exit 1; } ;;
             *)     python engine/tts_edge.py "$D" ;;
           esac
@@ -121,7 +126,11 @@ jobs:
         if: failure()
         run: |
           P=${{ steps.p.outputs.project }}
-          cp "$RUNNER_TEMP/run.log" "$RUNNER_TEMP/$P.log" 2>/dev/null || echo "không có log" > "$RUNNER_TEMP/$P.log"
+          mkdir -p "$RUNNER_TEMP/keep"
+          cp "$RUNNER_TEMP/run.log" "$RUNNER_TEMP/keep/$P.log" 2>/dev/null || echo "không có log" > "$RUNNER_TEMP/keep/$P.log"
+          if ls "projects/$P/audio/"* >/dev/null 2>&1; then
+            (cd "projects/$P" && zip -qr "$RUNNER_TEMP/keep/$P-audio-do-dang.zip" audio)
+          fi
           git config user.name "video-bot"; git config user.email "video-bot@users.noreply.github.com"
           git checkout -f --orphan logs && git rm -rf -q . && git clean -fdq
-          cp "$RUNNER_TEMP/$P.log" . && git add "$P.log" && git commit -qm "Log lỗi $P" && git push -f origin logs
+          cp "$RUNNER_TEMP"/keep/* . && git add -A && git commit -qm "Log lỗi $P" && git push -f origin logs

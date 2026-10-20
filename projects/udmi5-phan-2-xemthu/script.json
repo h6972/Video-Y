@@ -1,0 +1,105 @@
+{
+  "title": "UDMI-5 (2026) – Phần 2: Tổn thương cơ tim cấp & mạn (xem thử)",
+  "tts": "gemini",
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "-8%",
+  "series": "VIDEO Y KHOA",
+  "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+  "part": "UDMI-5 · Phần 2 · xem thử",
+  "source_short": "Nguồn: Fifth Universal Definition of Myocardial Infarction – ESC/ACC/AHA/WHF 2026",
+  "sign": "Biên soạn: BS. Nguyễn Văn Hướng",
+  "source": "Fifth Universal Definition of Myocardial Infarction (2026). ESC/ACC/AHA/WHF Task Force.",
+  "lexicon": {
+    "UDMI": "u đê em i",
+    "IFCC": "i ép xê xê",
+    "eGFR": "mức lọc cầu thận ước tính",
+    "type ": "típ "
+  },
+  "scenes": [
+    {
+      "id": "s1",
+      "layout": "title",
+      "chapter": "Mở đầu",
+      "kicker": "Loạt bài giảng chuyên đề · Phần 2/6",
+      "title": "Tổn thương cơ tim<br>cấp và mạn",
+      "subtitle": "Nền tảng của mọi chẩn đoán nhồi máu cơ tim",
+      "badges": [
+        {
+          "t": "Box 1 · Tổn thương cấp",
+          "c": "coral",
+          "at": 1
+        },
+        {
+          "t": "Box 2 · Tổn thương mạn",
+          "c": "blue",
+          "at": "L1+2"
+        },
+        {
+          "t": "Bảng 2 · Bảng 3 · Cơ chế",
+          "c": "violet",
+          "at": "L1+4"
+        }
+      ],
+      "note": "Fifth Universal Definition of Myocardial Infarction · Mục 6 · Mục 14.1 · Mục 16.3",
+      "note_at": 2,
+      "lines": [
+        "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với phần hai của loạt bài về Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim.",
+        "Hôm nay chúng ta bàn về tổn thương cơ tim cấp và mạn, nội dung của Box 1, Box 2, cùng các bảng cơ chế trong văn bản.",
+        "Đây là nền tảng của toàn bộ định nghĩa: không có tổn thương cơ tim cấp thì không thể chẩn đoán nhồi máu cơ tim, dù là nguyên phát, thứ phát hay liên quan thủ thuật."
+      ]
+    },
+    {
+      "id": "s2",
+      "layout": "timeline",
+      "chapter": "Khái niệm",
+      "title": "Tổn thương cơ tim qua các phiên bản",
+      "ref": "Mục 6 · Mục 14",
+      "events": [
+        {
+          "year": "2007",
+          "t": "Troponin I/T",
+          "d": "Dấu ấn sinh học được ưu tiên vì đặc hiệu cho cơ tim",
+          "at": 0,
+          "c": "blue"
+        },
+        {
+          "year": "2012",
+          "t": "UDMI-3",
+          "d": "Định nghĩa “tổn thương cơ tim”: troponin > bách phân vị 99, bất kể nguyên nhân",
+          "at": 1,
+          "c": "teal"
+        },
+        {
+          "year": "2018",
+          "t": "UDMI-4",
+          "d": "Tách tổn thương cấp và mạn · ngưỡng theo giới với xét nghiệm độ nhạy cao",
+          "at": 2,
+          "c": "teal"
+        },
+        {
+          "year": "2026",
+          "t": "UDMI-5",
+          "d": "Ngưỡng theo giới là bắt buộc · tinh chỉnh tiêu chuẩn cấp / mạn",
+          "at": 3,
+          "c": "amber"
+        }
+      ],
+      "note": {
+        "t": "Tổn thương mạn gặp nhiều <b>gấp tới 5 lần</b> khi dùng troponin T so với troponin I · tần suất phụ thuộc cách xét nghiệm và loại xét nghiệm",
+        "at": 4,
+        "c": "amber"
+      },
+      "lines": [
+        "Từ năm 2007, định nghĩa toàn cầu đã khuyến cáo troponin I hoặc T là dấu ấn sinh học ưu tiên, vì đặc hiệu cho tổn thương cơ tim hơn các dấu ấn khác.",
+        "Định nghĩa lần thứ ba năm 2012 chính thức đưa ra khái niệm tổn thương cơ tim: troponin có ít nhất một giá trị vượt bách phân vị thứ 99 của giới hạn trên tham chiếu, bất kể nguyên nhân là gì.",
+        "Lần thứ tư năm 2018 tách thành tổn thương cơ tim cấp và tổn thương cơ tim mạn, và khuyến cáo dùng ngưỡng theo giới khi làm xét nghiệm độ nhạy cao.",
+        "Đến lần thứ 5, ngưỡng theo giới trở thành yêu cầu trong định nghĩa, và tiêu chuẩn của cả tổn thương cấp lẫn mạn đều được tinh chỉnh.",
+        "Một con số đáng lưu ý: tổn thương cơ tim mạn gặp nhiều hơn tới 5 lần khi dùng troponin T so với troponin I, và tần suất này còn tùy vào cách chỉ định xét nghiệm cũng như loại xét nghiệm."
+      ]
+    }
+  ],
+  "gemini": {
+    "voice": "Algieba",
+    "model": "gemini-3.8-flash-tts"
+  }
+}
