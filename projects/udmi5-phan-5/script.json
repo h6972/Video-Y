@@ -1,0 +1,270 @@
+{
+  "title": "UDMI-5 (2026) – Phần 5: Tình huống đặc biệt",
+  "tts": "vieneu",
+  "vieneu": {"voice": "Adam"},
+  "voice": "vi-VN-NamMinhNeural",
+  "rate": "-8%",
+  "series": "VIDEO Y KHOA",
+  "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+  "part": "UDMI-5 · Phần 5/6",
+  "source_short": "Nguồn: Fifth Universal Definition of Myocardial Infarction – ESC/ACC/AHA/WHF 2026",
+  "sign": "Biên soạn: BS. Nguyễn Văn Hướng",
+  "source": "Fifth Universal Definition of Myocardial Infarction (2026). ESC/ACC/AHA/WHF Task Force.",
+  "lexicon": {
+    "UDMI": "u đê em i",
+    "MINOCA": "mi nô ca",
+    "MINS": "min",
+    "PMI": "pê em i",
+    "TAVI": "ta vi",
+    "M-TEER": "em tia",
+    "CK-MB": "xê ka em bê",
+    "ICD-11": "i xê đê mười một",
+    "BA41.Z": "bê a bốn mốt chấm dét",
+    "type ": "típ "
+  },
+  "scenes": [
+    {
+      "id": "s1", "layout": "title", "chapter": "Mở đầu",
+      "kicker": "Loạt bài giảng chuyên đề · Phần 5/6",
+      "title": "Tình huống đặc biệt<br>trong chẩn đoán NMCT",
+      "subtitle": "Đột tử · Thầm lặng · MINOCA · Hồi sức · Phẫu thuật",
+      "badges": [
+        {"t": "Mục 8–11", "c": "teal", "at": 1},
+        {"t": "Mục 16 · Tình huống đặc biệt", "c": "coral", "at": "L1+2"}
+      ],
+      "note": "Fifth Universal Definition of Myocardial Infarction · Hình 8 · Hình 12", "note_at": 2,
+      "lines": [
+        "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm của loạt bài về Định nghĩa toàn cầu lần thứ 5 về nhồi máu cơ tim.",
+        "Hôm nay chúng ta bàn những tình huống mà các công cụ chẩn đoán thông thường trở nên khó diễn giải: đột tử, nhồi máu thầm lặng, đau thắt ngực không ổn định, tổn thương cơ tim với động mạch vành không tắc nghẽn, và một loạt bối cảnh lâm sàng đặc biệt.",
+        "Trong đó, phần người bệnh nặng tại hồi sức sẽ được dành nhiều thời gian hơn, vì đây là nơi nhồi máu cơ tim bị bỏ sót nhiều nhất."
+      ]
+    },
+    {
+      "id": "s2", "layout": "cards", "chapter": "Mục 8 · Đột tử", "title": "Chẩn đoán NMCT sau đột tử", "ref": "Mục 8 · Hình 8", "h": 620,
+      "cards": [
+        {"tag": "VÌ SAO QUAN TRỌNG", "t": "Ý nghĩa ngoài lâm sàng", "d": "Gia đình, bảo hiểm, chứng tử, tiêu chí đánh giá thử nghiệm lâm sàng", "at": 0, "c": "blue"},
+        {"tag": "GỢI Ý", "t": "Khả năng NMCT nguyên phát cao hơn", "d": "Tiền sử bệnh mạch vành · đau ngực trước khi tử vong · rung thất được ghi nhận", "items": ["Khi không có bệnh cơ tim hay bệnh kênh ion đã biết"], "at": 1, "c": "amber"},
+        {"tag": "CHƯA CHẮC CHẮN", "t": "Mã NMCT không đặc hiệu", "d": "Không có ECG hay khám nghiệm sau tử vong → <b>BA41.Z</b>", "items": ["Khuyến khích tử thiết hoặc hình ảnh sau tử vong"], "at": 2, "c": "coral"}
+      ],
+      "lines": [
+        "Bắt đầu với đột tử. Người bệnh có triệu chứng thiếu máu cơ tim có thể tử vong đột ngột trước khi kịp được đánh giá. Chẩn đoán chính xác vẫn quan trọng, vì có ý nghĩa cho gia đình, bảo hiểm, chứng tử, và là tiêu chí đánh giá trong thử nghiệm lâm sàng.",
+        "Sau một trường hợp đột tử chưa được đánh giá, nhồi máu cơ tim nguyên phát thường được nghĩ tới là nguyên nhân. Khả năng này cao hơn khi người bệnh có tiền sử bệnh mạch vành, đau ngực trước khi tử vong, hoặc rung thất được ghi nhận, trong khi không có bệnh cơ tim hay bệnh kênh ion đã biết.",
+        "Tuy nhiên, khi không có điện tim hay khám nghiệm sau tử vong, chẩn đoán vẫn chưa chắc chắn, và nên dùng mã ICD-11 cho nhồi máu cơ tim không đặc hiệu là BA41.Z. Văn bản khuyến khích tử thiết hoặc hình ảnh học sau tử vong khi còn nghi ngờ."
+      ]
+    },
+    {
+      "id": "s3", "layout": "cards", "chapter": "Mục 8 · Đột tử", "title": "Tử thiết và hình ảnh sau tử vong", "ref": "Mục 8", "h": 620,
+      "cards": [
+        {"tag": "NGUYÊN PHÁT", "t": "Bệnh lý mạch vành cấp + hoại tử", "d": "Xơ vữa – huyết khối, thuyên tắc, SCAD, tái hẹp / huyết khối stent hoặc cầu nối > 30 ngày", "items": ["Kèm hoại tử cơ tim đúng vùng mạch vành"], "at": 0, "c": "teal"},
+        {"tag": "THỨ PHÁT", "t": "Hoại tử không có bệnh lý mạch vành cấp", "d": "Có bằng chứng bệnh cấp tính làm tăng cầu hoặc giảm cung", "at": 1, "c": "amber"},
+        {"tag": "LIÊN QUAN THỦ THUẬT", "t": "Tử vong ≤ 30 ngày sau thủ thuật", "d": "Kèm tắc mạch vành hay cầu nối cấp trên tử thiết", "at": 2, "c": "violet"},
+        {"tag": "THAY THẾ TỬ THIẾT", "t": "CT ± chụp mạch, CMR, sinh thiết", "d": "Sinh thiết hướng dẫn bằng CT + CMR: độ nhạy và đặc hiệu <b>> 95%</b>", "items": ["Chưa phổ biến, quy trình chưa chuẩn hoá"], "at": 3, "c": "blue"}
+      ],
+      "lines": [
+        "Tử thiết có thể loại trừ nhồi máu bằng cách tìm ra nguyên nhân ngoài tim, hoặc nguyên nhân đột tử tim không do mạch vành như bệnh cơ tim phì đại, bệnh cơ tim gây loạn nhịp hay sarcoidosis tim. Ngược lại, tìm thấy xơ vữa huyết khối, thuyên tắc, bóc tách, hoặc tái hẹp, huyết khối stent hay cầu nối sau 30 ngày, kèm hoại tử đúng vùng, sẽ xác nhận nhồi máu nguyên phát.",
+        "Hoại tử cơ tim mà không có bệnh lý mạch vành cấp, khi có bằng chứng của một bệnh cấp tính làm tăng nhu cầu hoặc giảm cung cấp oxy, ủng hộ nhồi máu thứ phát.",
+        "Tử vong trong vòng 30 ngày sau thủ thuật tim, kèm tắc mạch vành hay cầu nối cấp trên tử thiết, xác nhận nhồi máu liên quan thủ thuật.",
+        "Các phương pháp thay thế tử thiết như chụp cắt lớp sau tử vong có hoặc không chụp mạch, hay cộng hưởng từ kèm sinh thiết, cũng có giá trị. Kết hợp sinh thiết hướng dẫn bằng cắt lớp với cộng hưởng từ đạt độ nhạy và độ đặc hiệu trên 95%, tuy chưa phổ biến và quy trình chưa được chuẩn hoá."
+      ]
+    },
+    {
+      "id": "s4", "layout": "cards", "chapter": "Mục 9 · NMCT thầm lặng", "title": "NMCT không được nhận biết", "ref": "Mục 9", "h": 620,
+      "cards": [
+        {"tag": "PHÁT HIỆN", "t": "Sóng Q trên ECG thường quy", "d": "Độ đặc hiệu hạn chế → xác nhận bằng <b>cộng hưởng từ ngấm thuốc muộn</b>", "items": ["Hoặc phát hiện tình cờ RLVĐ vùng / sẹo khi làm hình ảnh vì lý do khác"], "at": 0, "c": "blue"},
+        {"tag": "“THẦM LẶNG”?", "t": "Thuật ngữ dễ gây hiểu lầm", "d": "Nhiều người nhớ lại có triệu chứng nhưng không đi khám, hoặc đã khám mà bị bỏ sót", "at": 1, "c": "amber"},
+        {"tag": "TẦN SUẤT", "t": "1/5 người > 70 tuổi", "d": "Khi chụp cộng hưởng từ có hệ thống (đa số ổ nhỏ)", "items": ["3% người trung niên không triệu chứng (tuổi trung bình 50)"], "at": 2, "c": "coral"},
+        {"tag": "Ý NGHĨA", "t": "Tiên lượng xấu", "d": "Thay đổi điều trị, nhất là khi chưa biết có bệnh mạch vành", "at": 3, "c": "green"}
+      ],
+      "lines": [
+        "Mục 9 bàn về nhồi máu cơ tim không được nhận biết. Ở người không có tiền sử nhồi máu, sóng Q bệnh lý có thể được phát hiện trên điện tim thường quy. Vì độ đặc hiệu của sóng Q hạn chế, chẩn đoán nên được xác nhận bằng hình ảnh, tốt nhất là cộng hưởng từ tim ngấm thuốc muộn. Nhồi máu cũng có thể được phát hiện tình cờ khi làm siêu âm hay cộng hưởng từ vì lý do khác.",
+        "Thuật ngữ thầm lặng đôi khi gây hiểu lầm: nhiều người bệnh nhớ lại là đã có triệu chứng, nhưng không cho là nghiêm trọng nên không đi khám, hoặc đã đi khám mà chẩn đoán bị bỏ sót.",
+        "Tần suất không hề nhỏ: khi chụp cộng hưởng từ có hệ thống, cứ 5 người trên 70 tuổi trong cộng đồng thì có 1 người có nhồi máu không được nhận biết, dù đa số là ổ nhỏ. Và trong một nghiên cứu gần đây, 3% người trung niên không triệu chứng, tuổi trung bình 50, có bằng chứng nhồi máu cũ trên cộng hưởng từ.",
+        "Nhồi máu không được nhận biết liên quan tới tiên lượng xấu, và việc phát hiện có thể thay đổi điều trị, đặc biệt ở người chưa từng được chẩn đoán bệnh mạch vành."
+      ]
+    },
+    {
+      "id": "s5", "layout": "box", "chapter": "Mục 10 · Đau thắt ngực không ổn định", "title": "Đau thắt ngực không ổn định vẫn còn chỗ đứng", "ref": "Mục 10",
+      "box": {"tag": "ĐỊNH NGHĨA", "t": "Triệu chứng thiếu máu <b>mới khi nghỉ</b> hoặc gắng sức tối thiểu, hoặc <b>nặng lên đột ngột</b> ở người hội chứng vành mạn, khi NMCT đã được <b>loại trừ bằng troponin đo lặp lại</b>. Xác nhận khi chụp mạch thấy bệnh lý mạch vành cấp.", "at": 0, "c": "amber", "size": 31},
+      "notes": [
+        {"tag": "XU HƯỚNG", "t": "Ngày càng hiếm nhờ hs-troponin: nhiều ca trước đây nay được xếp lại thành NMCT", "at": 2, "c": "blue"},
+        {"tag": "TIÊN LƯỢNG", "t": "Không tăng troponin → tiên lượng tốt hơn", "at": 2, "c": "green"},
+        {"tag": "LƯU Ý", "t": "Troponin tăng mạn tính đi kèm → tiên lượng xấu, cần tìm nguyên nhân tổn thương mạn", "at": 3, "c": "coral"}
+      ],
+      "lines": [
+        "Đau thắt ngực không ổn định được nghĩ tới khi người bệnh có triệu chứng thiếu máu mới khi nghỉ hoặc khi gắng sức tối thiểu, hoặc triệu chứng nặng lên đột ngột ở người có hội chứng vành mạn, với điều kiện nhồi máu đã được loại trừ bằng troponin đo lặp lại. Chẩn đoán có khả năng cao hơn khi có dấu thiếu máu trên điện tim, và được xác nhận khi chụp mạch vành thấy xơ vữa huyết khối hoặc một bệnh lý mạch vành cấp khác.",
+        "Đau thắt ngực không ổn định và nhồi máu nguyên phát có chung cơ chế sinh lý bệnh, và hội chứng vành cấp vẫn là thuật ngữ bao trùm.",
+        "Chẩn đoán này ngày càng hiếm nhờ troponin độ nhạy cao: khi đo lại mẫu máu lưu trữ, nhiều trường hợp trước đây gọi là đau thắt ngực không ổn định được xếp lại thành nhồi máu cơ tim. Những người không tăng troponin có tiên lượng tốt hơn.",
+        "Tuy nhiên, troponin tăng mạn tính lại không hiếm ở nhóm này, và liên quan tới tiên lượng xấu. Cần đánh giá có hệ thống nguyên nhân tổn thương mạn, dù phân biệt với nhồi máu đến muộn có thể khó; khi đó hình ảnh học hoặc đo lại troponin ở lần khám sau sẽ giúp ích."
+      ]
+    },
+    {
+      "id": "s6", "layout": "formula", "chapter": "Mục 11 · MINOCA", "title": "MINOCA: định nghĩa mới", "ref": "Mục 11",
+      "main": {"tag": "UDMI-5", "t": "Myocardial <span style='color:var(--teal)'>Injury</span> with Non-Obstructive Coronary Arteries", "d": "Tổn thương cơ tim với động mạch vành không tắc nghẽn (không hẹp ≥ 50%) · là <b>chẩn đoán làm việc</b>", "at": 0, "c": "violet"},
+      "op": "Vì sao đổi “Infarction” thành “Injury”?", "op_at": 1,
+      "options": [
+        {"t": "Phần lớn không phải NMCT", "d": "Viêm cơ tim, Takotsubo, bệnh cơ tim, thuyên tắc phổi…", "at": 1, "c": "coral"},
+        {"t": "Cần khảo sát tiếp", "d": "Để tìm nguyên nhân và chẩn đoán cuối cùng", "at": 2, "c": "blue"},
+        {"t": "Nếu xác nhận NMCT", "d": "Xếp lại: nguyên phát, thứ phát hoặc liên quan thủ thuật", "at": 3, "c": "teal"}
+      ],
+      "lines": [
+        "Mục 11 cập nhật thuật ngữ MINOCA thành tổn thương cơ tim với động mạch vành không tắc nghẽn. Thuật ngữ này áp dụng như một chẩn đoán làm việc cho người bệnh có biểu hiện nghi nhồi máu, mà chụp mạch vành không thấy hẹp từ 50% trở lên.",
+        "Vì sao đổi chữ infarction, tức nhồi máu, thành injury, tức tổn thương? Bởi vì phần lớn người bệnh sau đó được tìm ra một nguyên nhân tim không do mạch vành như viêm cơ tim, Takotsubo, bệnh cơ tim, hoặc nguyên nhân ngoài tim như thuyên tắc phổi.",
+        "Định nghĩa mới nhấn mạnh đây là chẩn đoán làm việc, đòi hỏi khảo sát thêm để tìm nguyên nhân và đưa ra chẩn đoán cuối cùng.",
+        "Và nếu sau khảo sát xâm lấn hay không xâm lấn, nhồi máu được xác nhận, thì chẩn đoán cuối cùng phải được xếp vào nhóm nguyên phát, thứ phát hoặc liên quan thủ thuật tuỳ bối cảnh."
+      ]
+    },
+    {
+      "id": "s7", "layout": "cards", "chapter": "Mục 11 · MINOCA", "title": "Khảo sát người bệnh MINOCA", "ref": "Mục 11", "h": 610,
+      "cards": [
+        {"tag": "NỘI MẠCH", "t": "OCT · IVUS", "d": "Ăn mòn / vỡ mảng kín đáo, huyết khối thành, bóc tách", "at": 0, "c": "blue"},
+        {"tag": "CHỨC NĂNG", "t": "Test xâm lấn", "d": "Rối loạn vi mạch, co thắt thượng tâm mạc", "at": 1, "c": "violet"},
+        {"tag": "CỘNG HƯỞNG TỪ TIM", "t": "Trong vòng 2 tuần", "d": "NMCT là chẩn đoán cuối cùng ở <b>22–27%</b>; thường gặp hơn: viêm cơ tim, Takotsubo → thay đổi điều trị", "items": ["Sau 2 tuần, thay đổi hồi phục được có thể đã biến mất"], "at": 2, "hl": "L3", "c": "teal"}
+      ],
+      "lines": [
+        "Khảo sát người bệnh MINOCA gồm ba hướng. Hình ảnh nội mạch có thể phát hiện những bất thường kín đáo của bệnh lý mạch vành cấp như ăn mòn hay vỡ mảng, huyết khối thành không kèm vỡ mảng, hoặc bóc tách động mạch vành tự phát.",
+        "Thăm dò chức năng xâm lấn có thể phát hiện rối loạn chức năng vi mạch hoặc co thắt mạch vành thượng tâm mạc, những cơ chế có thể đã gây ra nhồi máu nguyên phát.",
+        "Các khuyến cáo lâm sàng đề nghị chụp cộng hưởng từ tim, lý tưởng là trong vòng 2 tuần sau nhập viện. Khi đã chụp cộng hưởng từ, nhồi máu cơ tim là chẩn đoán cuối cùng ở 22 đến 27% người bệnh, còn thường gặp hơn là một chẩn đoán tim không do mạch vành như viêm cơ tim cấp hay Takotsubo, và điều này làm thay đổi điều trị.",
+        "Hiệu quả chẩn đoán của cộng hưởng từ cao hơn khi chụp trong 2 tuần đầu, vì sau đó các thay đổi hồi phục được, nhất là trong Takotsubo và viêm cơ tim, có thể đã biến mất, trong khi dấu hiệu của nhồi máu hay bệnh cơ tim vẫn còn."
+      ]
+    },
+    {
+      "id": "s8", "layout": "cards", "chapter": "Mục 16.1", "title": "NMCT tái phát sớm", "ref": "Mục 16.1", "h": 620,
+      "cards": [
+        {"tag": "KHÓ KHĂN", "t": "Bất thường còn tồn dư", "d": "ECG, troponin, hình ảnh có thể phản ánh lần nhồi máu đầu", "items": ["Triệu chứng tái diễn có thể do viêm màng ngoài tim, chấn thương ngực sau hồi sinh tim phổi, suy tim"], "at": 0, "c": "amber"},
+        {"tag": "TRIỆU CHỨNG", "t": "Có thể khác lần đầu", "d": "~10% nam và ~16% nữ mô tả triệu chứng khác", "items": ["ST chênh / T âm kéo dài: phình thất, viêm màng ngoài tim"], "at": 1, "c": "blue"},
+        {"tag": "TROPONIN", "t": "Đo lặp: giá trị tăng lên → tái phát", "d": "Troponin còn cao nhiều tuần; CK-MB tốn kém mà không giúp thêm", "at": 2, "c": "coral"},
+        {"tag": "PHÂN LOẠI", "t": "Theo cơ chế", "d": "Chụp mạch phân biệt nguyên phát với liên quan thủ thuật trong 30 ngày", "items": ["Không dùng mã riêng cho “tái phát”"], "at": 3, "c": "teal"}
+      ],
+      "lines": [
+        "Chuyển sang các tình huống đặc biệt ở Mục 16. Thứ nhất là nhồi máu tái phát sớm trong tháng đầu. Chẩn đoán khó vì điện tim, troponin và hình ảnh học có thể còn phản ánh lần nhồi máu đầu. Triệu chứng tái diễn cũng thường gặp, nhưng có thể do biến chứng như viêm màng ngoài tim, chấn thương ngực sau hồi sinh tim phổi, hay suy tim.",
+        "Triệu chứng lần tái phát có thể khác lần đầu, khoảng 10% nam và 16% nữ mô tả triệu chứng khác. ST chênh lên hay T âm kéo dài có thể do phình thất hoặc viêm màng ngoài tim.",
+        "Troponin thường còn cao trong nhiều tuần, nên đo lặp lại là then chốt: giá trị tăng lên gợi ý tái phát. Dùng thêm CK-MB làm tăng chi phí mà không giúp làm rõ chẩn đoán.",
+        "Chụp mạch vành thường cần để xác nhận tái phát và phân biệt nhồi máu nguyên phát với nhồi máu liên quan thủ thuật trong 30 ngày. Nhồi máu tái phát sớm vẫn được phân loại theo cơ chế, không dùng một mã riêng cho tái phát."
+      ]
+    },
+    {
+      "id": "s9", "layout": "cards", "chapter": "Mục 16.2", "title": "Suy tim: troponin tăng là thường", "ref": "Mục 16.2", "h": 620,
+      "cards": [
+        {"tag": "TẦN SUẤT", "t": "Tới 90% suy tim cấp", "d": "Có troponin T vượt giới hạn trên tham chiếu", "items": ["Dễ nhầm với NMCT vì triệu chứng chồng lấp"], "at": 0, "c": "coral"},
+        {"tag": "CƠ CHẾ", "t": "Nhiều cơ chế", "d": "Thiếu máu, mất cân bằng cung – cầu, chết theo chương trình, thâm nhiễm, viêm, thần kinh – thể dịch", "items": ["Căng giãn cơ học do tăng tiền tải"], "at": 1, "c": "violet"},
+        {"tag": "NGHĨ NGUYÊN PHÁT", "t": "NMCT là yếu tố khởi phát suy tim", "d": "Khó chịu ngực, ECG thiếu máu, bệnh mạch vành đã biết", "at": 2, "c": "teal"},
+        {"tag": "THỰC HÀNH", "t": "Troponin + ECG khi nhập viện", "d": "Đo lặp để phân biệt cấp / mạn; so sánh hình ảnh cũ", "at": 3, "c": "blue"}
+      ],
+      "lines": [
+        "Thứ hai là suy tim. Tổn thương cơ tim không nhồi máu rất thường gặp trong suy tim cấp và mạn: tới 90% người bệnh suy tim cấp có troponin T vượt giới hạn trên tham chiếu, và điều này dễ bị hiểu nhầm là nhồi máu vì triệu chứng chồng lấp.",
+        "Troponin có thể tăng do thiếu máu, mất cân bằng cung cầu vì thiếu oxy, tụt huyết áp hay nhịp nhanh, do chết tế bào theo chương trình, do thâm nhiễm, viêm hay tác động thần kinh thể dịch, và cả căng giãn cơ học khi tăng tiền tải.",
+        "Ở người bệnh suy tim có khó chịu ngực hoặc triệu chứng tương đương, kèm dấu thiếu máu trên điện tim và hoặc đã biết có bệnh mạch vành, tổn thương cơ tim cấp nên gợi ý nhồi máu nguyên phát là yếu tố khởi phát suy tim. Còn khi có loạn nhịp, thiếu oxy, tụt huyết áp hay thiếu máu, khả năng nhồi máu thứ phát tăng lên.",
+        "Các khuyến cáo đề nghị đo troponin và làm điện tim khi nhập viện ở mọi người bệnh suy tim mới hoặc suy tim cấp. Đo lặp lại giúp phân biệt cấp và mạn, và khi cần làm hình ảnh, phải so sánh với hình ảnh cũ, vì bệnh mạch vành và rối loạn vận động vùng vốn thường có sẵn trong suy tim."
+      ]
+    },
+    {
+      "id": "s10", "layout": "cards", "chapter": "Mục 16.4 · Hồi sức", "title": "Người bệnh nặng: NMCT hay bị bỏ sót", "ref": "Mục 16.4", "h": 640,
+      "cards": [
+        {"tag": "CƠ CHẾ", "t": "Thứ phát thường gặp hơn", "d": "Thiếu oxy, thiếu máu, giảm cung cấp oxy, hoặc phối hợp", "items": ["Stress toàn thân có thể làm mất ổn định mảng xơ vữa → nguyên phát"], "at": 0, "c": "amber"},
+        {"tag": "BỎ SÓT", "t": "1/4 người bệnh nặng có bệnh tim mạch", "d": "Có NMCT không được nhận biết, liên quan sống còn thấp hơn", "items": ["Một trong những chẩn đoán bị bỏ sót nhiều nhất khi đối chiếu tử thiết"], "at": 1, "c": "coral"},
+        {"tag": "TRIỆU CHỨNG", "t": "Bị che lấp", "d": "An thần; đau ngực, khó thở hay bị quy cho nguyên nhân khác", "at": 2, "c": "blue"},
+        {"tag": "ECG", "t": "Gần 40% có tổn thương + dấu thiếu máu", "d": "ST chênh lên hay gặp và kém đặc hiệu; không có troponin thì độ tin cậy chỉ trung bình", "at": 3, "c": "violet"}
+      ],
+      "lines": [
+        "Và giờ là tình huống mà nhiều quý đồng nghiệp hồi sức gặp hằng ngày: người bệnh nặng. Bệnh nặng gây gánh nặng lớn cho hệ tim mạch. Phản ứng stress toàn thân có thể làm mất ổn định mảng xơ vữa và gây nhồi máu nguyên phát, nhưng thường gặp hơn là tổn thương cơ tim cấp hoặc nhồi máu thứ phát do thiếu oxy, thiếu máu, giảm cung cấp oxy, hoặc phối hợp.",
+        "Khi đối chiếu chẩn đoán lâm sàng với tử thiết ở người bệnh nặng, nhồi máu cơ tim là một trong những chẩn đoán bị bỏ sót nhiều nhất. Theo tiêu chuẩn các phiên bản trước, cứ 4 người bệnh nặng có bệnh tim mạch thì có 1 người bị nhồi máu không được nhận biết, và điều này liên quan tới khả năng sống còn thấp hơn.",
+        "Triệu chứng thường không đánh giá được do an thần, và ngay cả khi người bệnh than đau ngực hay khó thở, các triệu chứng này hay bị quy cho nguyên nhân khác.",
+        "Gần 40% người bệnh nặng liên tiếp có tổn thương cơ tim kèm dấu thiếu máu trên điện tim. ST chênh lên hay gặp và kém đặc hiệu cho nhồi máu nguyên phát, và nếu không có troponin, điện tim ở người bệnh nặng chỉ có độ tin cậy trung bình."
+      ]
+    },
+    {
+      "id": "s11", "layout": "box", "chapter": "Mục 16.4 · Hồi sức", "title": "Tiếp cận NMCT tại hồi sức", "ref": "Mục 16.4",
+      "box": {"tag": "THÔNG ĐIỆP", "t": "Troponin tăng ở người bệnh nặng → tìm <b>kiểu tăng rồi giảm</b> khi đo lặp; xác nhận hay loại trừ cần <em>chụp mạch vành và/hoặc hình ảnh tim</em>. Chăm sóc <b>đa chuyên khoa có tim mạch tham gia</b> là thiết yếu.", "at": 0, "c": "teal", "size": 31},
+      "notes": [
+        {"tag": "THẤT TRÁI", "t": "~25% người bệnh hồi sức có rối loạn chức năng thất trái; một nửa do nguyên nhân ngoài tim, đa số hồi phục", "at": 1, "c": "blue"},
+        {"tag": "TAKOTSUBO", "t": "~1,5% người bệnh nặng, có thể đang tăng; có khi cần chụp mạch để loại trừ NMCT", "at": 2, "c": "violet"},
+        {"tag": "CÂN NHẮC", "t": "Rủi ro vận chuyển, chảy máu do chống huyết khối → có thể <b>trì hoãn</b> hình ảnh để ổn định trước", "at": 3, "c": "amber"}
+      ],
+      "lines": [
+        "Vậy tiếp cận thế nào? Ở người bệnh nặng có troponin tăng, kiểu tăng rồi giảm đặc trưng khi đo lặp lại là yếu tố quan trọng để nghĩ tới nhồi máu. Và như mọi bối cảnh khác, xác nhận hay loại trừ đều cần chụp mạch vành và hoặc hình ảnh tim.",
+        "Khoảng 25% người bệnh hồi sức có rối loạn chức năng thất trái, liên quan tới tăng tử vong, nhưng một nửa là do nguyên nhân ngoài tim và phần lớn có thể hồi phục.",
+        "Hội chứng Takotsubo chiếm khoảng 1,5% người bệnh nặng, và có thể đang gia tăng, có lẽ nhờ được nhận biết nhiều hơn. Đôi khi cần chụp mạch vành để loại trừ nhồi máu là nguyên nhân của rối loạn vận động vùng.",
+        "Phải cân nhắc kỹ rủi ro vận chuyển người bệnh nặng đi chụp mạch và nguy cơ chảy máu do thuốc chống huyết khối. Chụp mạch khẩn có thể cần thiết nếu nhiều khả năng nhồi máu nguyên phát, hoặc chẩn đoán sẽ thay đổi xử trí. Ngoài ra, hình ảnh học có thể được trì hoãn để ưu tiên ổn định người bệnh. Và chăm sóc đa chuyên khoa có tim mạch tham gia là thiết yếu."
+      ]
+    },
+    {
+      "id": "s12", "layout": "cards", "chapter": "Mục 16.5", "title": "Sau phẫu thuật ngoài tim", "ref": "Mục 16.5", "h": 640,
+      "cards": [
+        {"tag": "ĐẶC ĐIỂM", "t": "Thầm lặng, sớm", "d": "Đa số xảy ra trong <b>2 ngày</b> đầu; tới <b>2/3</b> không có triệu chứng thiếu máu", "items": ["ST chênh lên → chụp mạch khẩn"], "at": 0, "c": "coral"},
+        {"tag": "TỔN THƯƠNG CHU PHẪU", "t": "1/8 phẫu thuật nguy cơ cao", "d": "Khi theo dõi troponin chủ động", "items": ["NMCT nguyên phát: 1/20 người có tổn thương (1/100 phẫu thuật nguy cơ cao)"], "at": 1, "c": "amber"},
+        {"tag": "MINS", "t": "Tử vong 30 ngày tăng 8 lần", "d": "Tổn thương cơ tim sau phẫu thuật ngoài tim, nhiều khả năng do thiếu máu", "items": ["Phát hiện → làm ECG, hình ảnh để xác nhận / loại trừ"], "at": 2, "c": "violet"},
+        {"tag": "BẮT BUỘC", "t": "Troponin trước mổ", "d": "Tới <b>40%</b> người có bệnh / yếu tố nguy cơ tim mạch có troponin nền tăng", "at": 3, "c": "teal"}
+      ],
+      "lines": [
+        "Tiếp theo là sau phẫu thuật ngoài tim. Chẩn đoán khó vì triệu chứng bị che lấp bởi an thần và thuốc giảm đau, đa số biến cố xảy ra trong 2 ngày đầu, và tới hai phần ba người bệnh không có triệu chứng thiếu máu. Khi có xấu đi lâm sàng hoặc tổn thương cơ tim cấp, điện tim là bắt buộc; và nếu có ST chênh lên thì cần chụp mạch khẩn.",
+        "Nếu theo dõi troponin chủ động, tổn thương cơ tim chu phẫu gặp ở khoảng 1 trên 8 người bệnh phẫu thuật nguy cơ cao. Đa số là tổn thương cơ tim cấp hoặc nhồi máu thứ phát, nhưng nhồi máu nguyên phát chiếm khoảng 1 trên 20 người có tổn thương, tức 1 trên 100 người phẫu thuật nguy cơ cao.",
+        "Thuật ngữ MINS chỉ tổn thương cơ tim sau phẫu thuật ngoài tim nhiều khả năng do thiếu máu, khi không có stress sinh lý bất thường hay nguyên nhân tim không do mạch vành. MINS liên quan tới tỷ lệ tử vong 30 ngày tăng 8 lần sau hiệu chỉnh, và cần được làm điện tim, hình ảnh học để xác nhận hay loại trừ nhồi máu.",
+        "Một điểm thực hành quan trọng: tới 40% người có bệnh hoặc yếu tố nguy cơ tim mạch có troponin nền tăng. Vì vậy, nếu dự định đo troponin sau mổ, bắt buộc phải có giá trị trước mổ để phân biệt tổn thương mạn với tổn thương chu phẫu."
+      ]
+    },
+    {
+      "id": "s13", "layout": "cards", "chapter": "Mục 16.6 · 16.7", "title": "Can thiệp cấu trúc và ung bướu tim mạch", "ref": "Mục 16.6 · Mục 16.7", "h": 640,
+      "cards": [
+        {"tag": "TAVI · CƠ CHẾ", "t": "Ba cơ chế chính", "d": "Mất cân bằng cung – cầu · lá van che lỗ ĐMV (0,7%, tử vong cao) · thuyên tắc (1%)", "items": ["NMCT tới 5,6% TAVI (gộp 1,1% theo định nghĩa cũ)"], "at": 0, "c": "violet"},
+        {"tag": "TAVI · TỔN THƯƠNG", "t": "Gần như luôn có", "d": "Tổn thương cơ tim ở 66–100%; ngấm thuốc muộn mới kiểu thiếu máu tới 18%", "items": ["Cần hình ảnh mất cơ tim sống do biến chứng (Box 5)"], "at": 1, "c": "blue"},
+        {"tag": "UNG BƯỚU", "t": "Troponin dễ tăng", "d": "Anthracyclin, ức chế điểm kiểm soát: viêm cơ tim, rối loạn chức năng tim, huyết khối", "items": ["Đo lặp; cần hình ảnh để xác nhận / loại trừ"], "at": 2, "c": "amber"},
+        {"tag": "UNG BƯỚU · CƠ CHẾ", "t": "Xơ vữa vẫn thường gặp nhất", "d": "Nhưng co thắt và thuyên tắc gặp nhiều hơn do viêm, tăng đông, hoá trị", "at": 3, "c": "coral"}
+      ],
+      "lines": [
+        "Với can thiệp cấu trúc tim như thay van động mạch chủ qua catheter, nhồi máu có thể xảy ra qua ba cơ chế: mất cân bằng cung cầu do thay đổi huyết động trong thủ thuật, lá van bị đẩy che lỗ động mạch vành, và thuyên tắc vật liệu, khí hay huyết khối. Nhồi máu gặp tới 5,6% ca thay van, dù ước tính gộp theo định nghĩa cũ là 1,1%. Che lỗ động mạch vành ít gặp, khoảng 0,7%, nhưng tử vong cao; thuyên tắc khoảng 1%.",
+        "Tổn thương cơ tim xuất hiện ở 66 tới 100% ca thay van qua catheter, và khi chụp cộng hưởng từ có hệ thống, ổ ngấm thuốc muộn mới kiểu thiếu máu gặp tới 18%, gợi ý nhồi máu do thuyên tắc có thể bị bỏ sót. Chẩn đoán vẫn theo tiêu chuẩn Box 5, cần hình ảnh mất cơ tim sống do biến chứng thủ thuật.",
+        "Trong ung bướu tim mạch, người bệnh dùng anthracyclin hay thuốc ức chế điểm kiểm soát miễn dịch có nguy cơ viêm cơ tim, rối loạn chức năng tim do điều trị và huyết khối, những bệnh có thể giống hoặc khởi phát nhồi máu. Troponin dễ tăng, nên cần đo lặp và hình ảnh học để xác nhận hay loại trừ.",
+        "Xơ vữa huyết khối vẫn là nguyên nhân thường gặp nhất của nhồi máu nguyên phát ở người bệnh ung thư, nhưng co thắt và thuyên tắc mạch vành gặp nhiều hơn, do tình trạng viêm, tăng đông và tác dụng của thuốc hoá trị."
+      ]
+    },
+    {
+      "id": "s14", "layout": "quiz", "chapter": "Câu hỏi tình huống", "title": "Ca 1: sau mổ bụng nguy cơ cao",
+      "case": "Nam 74 tuổi, ngày 2 sau <b>cắt đại tràng</b>, không đau ngực, tỉnh. Troponin I theo dõi thường quy tăng từ mức nền trước mổ (đã tăng nhẹ) lên <b>gấp 4 lần</b>. ECG: T âm mới V4–V6. Siêu âm: <b>giảm vận động vùng trước bên mới</b>.",
+      "case_at": 1, "q": "Nhận định phù hợp nhất?", "q_at": 2,
+      "options": ["Chỉ là tổn thương cơ tim mạn, vì troponin nền đã tăng", "Đủ tiêu chuẩn NMCT; cần chụp mạch để xếp nguyên phát hay thứ phát", "MINS, không cần làm gì thêm", "Không đủ tiêu chuẩn vì không đau ngực"],
+      "answer": 1, "answer_at": 4,
+      "explain": "Troponin tăng có động học so với nền + ECG thiếu máu mới + RLVĐ vùng mới → đủ tiêu chuẩn NMCT. Chụp mạch vành xác định có bệnh lý mạch vành cấp (nguyên phát) hay không (thứ phát).",
+      "lines": [
+        "Mời quý vị áp dụng với hai tình huống. Tình huống thứ nhất.",
+        "Người bệnh nam 74 tuổi, ngày thứ 2 sau cắt đại tràng, tỉnh, không đau ngực. Troponin I theo dõi thường quy tăng từ mức nền trước mổ, vốn đã tăng nhẹ, lên gấp 4 lần. Điện tim có T âm mới ở V4 tới V6, và siêu âm tim thấy giảm vận động vùng trước bên mới.",
+        "Nhận định nào phù hợp nhất?",
+        "Quý vị có thể tạm dừng video để suy nghĩ.",
+        "Đáp án là đủ tiêu chuẩn nhồi máu cơ tim, và cần chụp mạch vành để xếp vào nhóm nguyên phát hay thứ phát. Đây chính là lý do phải có troponin trước mổ: nhờ đó ta thấy rõ động học tăng. Kèm biến đổi điện tim mới và rối loạn vận động vùng mới, chẩn đoán đã rõ. Không đau ngực không loại trừ được, vì tới hai phần ba người bệnh sau mổ không có triệu chứng."
+      ]
+    },
+    {
+      "id": "s15", "layout": "quiz", "chapter": "Câu hỏi tình huống", "title": "Ca 2: động mạch vành bình thường",
+      "case": "Nữ 45 tuổi, đau ngực sau một đợt sốt, troponin tăng rồi giảm. Chụp mạch vành: <b>không hẹp ≥ 50%</b>. Cộng hưởng từ ngày 5: <b>phù và ngấm thuốc muộn dưới thượng tâm mạc</b>, không theo vùng mạch vành.",
+      "case_at": 0, "q": "Chẩn đoán và cách gọi đúng?", "q_at": 1,
+      "options": ["NMCT nguyên phát", "MINOCA là chẩn đoán cuối cùng", "MINOCA là chẩn đoán làm việc → chẩn đoán cuối cùng: viêm cơ tim", "NMCT thứ phát"],
+      "answer": 2, "answer_at": 3,
+      "explain": "Ngấm thuốc dưới thượng tâm mạc, không theo vùng mạch vành → viêm cơ tim. MINOCA chỉ là chẩn đoán làm việc trên đường tìm nguyên nhân.",
+      "lines": [
+        "Tình huống thứ hai: người bệnh nữ 45 tuổi, đau ngực sau một đợt sốt, troponin tăng rồi giảm. Chụp mạch vành không thấy hẹp từ 50% trở lên. Cộng hưởng từ tim ngày thứ 5 cho thấy phù và ngấm thuốc muộn dưới thượng tâm mạc, không theo vùng phân bố mạch vành.",
+        "Chẩn đoán và cách gọi đúng là gì?",
+        "Quý vị có thể tạm dừng video để suy nghĩ.",
+        "Đáp án là MINOCA chỉ là chẩn đoán làm việc, và chẩn đoán cuối cùng là viêm cơ tim. Ngấm thuốc dưới thượng tâm mạc, không theo vùng mạch vành, là hình ảnh điển hình của viêm cơ tim, khác với nhồi máu vốn ngấm thuốc từ dưới nội tâm mạc. Đây đúng là tinh thần của định nghĩa mới: MINOCA là trạm dừng trên đường tìm nguyên nhân, không phải chẩn đoán cuối cùng."
+      ]
+    },
+    {
+      "id": "s16", "layout": "summary", "chapter": "Tổng kết Phần 5", "title": "Sáu thông điệp mang về", "cols1": 3,
+      "items": [
+        {"t": "Đột tử: khuyến khích tử thiết", "d": "Không có ECG / khám nghiệm → mã NMCT không đặc hiệu", "at": 1, "c": "blue"},
+        {"t": "NMCT “thầm lặng” không hiếm", "d": "1/5 người > 70 tuổi trên cộng hưởng từ; xác nhận sóng Q bằng hình ảnh", "at": 2, "c": "amber"},
+        {"t": "MINOCA = tổn thương, là chẩn đoán làm việc", "d": "Cộng hưởng từ trong 2 tuần; NMCT chỉ chiếm 22–27%", "at": 3, "c": "violet"},
+        {"t": "Hồi sức: NMCT hay bị bỏ sót", "d": "Tìm kiểu tăng – giảm; hình ảnh để xác nhận; có tim mạch tham gia", "at": 4, "c": "coral"},
+        {"t": "Phẫu thuật ngoài tim: đo troponin trước mổ", "d": "2/3 không triệu chứng; MINS tăng tử vong 8 lần", "at": 5, "c": "teal"},
+        {"n": "→", "t": "Phần 6: Thực hành & tổng kết", "d": "Nơi nguồn lực hạn chế · ICD-11 · ôn tập toàn bộ", "at": 6, "c": "green"}
+      ],
+      "lines": [
+        "Để khép lại phần năm, xin tóm tắt các thông điệp chính.",
+        "Một, trong đột tử, khuyến khích tử thiết hoặc hình ảnh sau tử vong; khi không có điện tim hay khám nghiệm, dùng mã nhồi máu không đặc hiệu.",
+        "Hai, nhồi máu thầm lặng không hiếm, gặp ở 1 trên 5 người trên 70 tuổi khi chụp cộng hưởng từ, và sóng Q cần được xác nhận bằng hình ảnh.",
+        "Ba, MINOCA nay là tổn thương cơ tim với động mạch vành không tắc nghẽn, một chẩn đoán làm việc; cộng hưởng từ trong 2 tuần giúp tìm nguyên nhân, và nhồi máu chỉ chiếm 22 đến 27%.",
+        "Bốn, tại hồi sức, nhồi máu hay bị bỏ sót: hãy tìm kiểu tăng rồi giảm của troponin, dùng hình ảnh để xác nhận, và có tim mạch cùng tham gia.",
+        "Năm, với phẫu thuật ngoài tim, cần troponin trước mổ; hai phần ba ca không triệu chứng, và MINS làm tăng tử vong 8 lần.",
+        "Trong phần sáu, phần cuối cùng, chúng ta sẽ bàn chẩn đoán ở nơi nguồn lực hạn chế, mã hoá ICD-11, ý nghĩa với người bệnh và nghiên cứu, và ôn tập toàn bộ loạt bài. Xin cảm ơn quý đồng nghiệp đã theo dõi."
+      ]
+    }
+  ]
+}
