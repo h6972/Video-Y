@@ -1,0 +1,838 @@
+{
+ "title": "Viêm tụy cấp IAP 2025 – Phần 2: 72 giờ vàng",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tiêu hoá – Hồi sức",
+ "part": "Viêm tụy cấp IAP 2025 · Phần 2/5",
+ "source_short": "Nguồn: IAP Revised Guidelines on Acute Pancreatitis 2025 – Pancreatology",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "International Association of Pancreatology Revised Guidelines on Acute Pancreatitis 2025 (IAP/APA/EPC/IPC/JPS). Pancreatology 2025.",
+ "lexicon": {
+  "IAP/APA": "i a pê, a pê a",
+  "IAP": "i a pê",
+  "APACHE II": "a pa chi hai",
+  "APACHE-II": "a pa chi hai",
+  "BISAP": "bi sáp",
+  "HAPS": "háp",
+  "PASS": "pát",
+  "CTSI": "xê tê ét i",
+  "GRADE": "grết",
+  "PICO": "pi cô",
+  "IL-6": "in tơ lơ kin sáu",
+  "CRP": "xê rê pê",
+  "SIRS": "xia",
+  "MRCP": "em a xê pê",
+  "MRI": "em a i",
+  "ALT": "a eo tê",
+  "HU": "đơn vị hao phin",
+  "T2": "tê hai",
+  "CT": "xê tê",
+  "NSAID": "en sết",
+  "WATERFALL": "oa tơ phôn",
+  "Marshall": "Mác san",
+  "PCA": "pê xê a",
+  "Gram": "gram"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "pancreas",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 2/5",
+   "title": "72 giờ vàng",
+   "subtitle": "Phần 2 · Dịch – Giảm đau – Hồi sức – Kháng sinh",
+   "badges": [
+    {
+     "t": "Câu 10–21",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Ringer lactat",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "1,5 ml/kg/giờ",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "IAP Revised Guidelines on Acute Pancreatitis 2025 · lĩnh vực IV–VII",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần hai của loạt bài về Hướng dẫn xử trí viêm tụy cấp năm 2025 của Hiệp hội Tụy học Quốc tế.",
+    "Phần này bao trùm 72 giờ đầu, giai đoạn quyết định: loại dịch và tốc độ bù dịch, cách đánh giá đáp ứng, giảm đau, chỉ định hồi sức, và sử dụng kháng sinh.",
+    "Đây cũng là nơi có những thay đổi rõ nhất so với thực hành cũ, đặc biệt là từ bỏ bù dịch tích cực."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "box",
+   "chapter": "IV · Bù dịch · Câu 10",
+   "title": "Loại dịch: Ringer lactat",
+   "ref": "Câu 10 · Khuyến cáo mạnh, bằng chứng trung bình",
+   "box": {
+    "tag": "CÂU 10 · KHUYẾN CÁO",
+    "t": "Dùng <b>Ringer lactat</b> để bù dịch cho người bệnh viêm tụy cấp.",
+    "at": 0,
+    "c": "teal",
+    "size": 36
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "6 RCT so với nước muối sinh lý, đa số đơn trung tâm, cỡ mẫu nhỏ",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "PHÂN TÍCH GỘP",
+     "t": "Ít nặng hơn, ít vào hồi sức hơn, ít biến chứng tại chỗ hơn",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "tag": "DỊCH CÂN BẰNG",
+     "t": "Dung dịch đa điện giải: clo máu thấp hơn, ít SIRS hơn",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực thứ tư là bù dịch. Câu hỏi mười, khuyến cáo mạnh với bằng chứng trung bình: dùng Ringer lactat để bù dịch cho người bệnh viêm tụy cấp.",
+    "Có sáu thử nghiệm ngẫu nhiên so sánh Ringer lactat với nước muối sinh lý, đa số đơn trung tâm với cỡ mẫu nhỏ. Các phân tích gộp cho thấy Ringer lactat liên quan với mức độ nặng thấp hơn, ít phải vào hồi sức hơn, và ít biến chứng tại chỗ hơn. Kết quả từng nghiên cứu còn chưa thống nhất, nên cần thêm thử nghiệm lớn đa trung tâm.",
+    "Một thử nghiệm gần đây với dung dịch đa điện giải cân bằng cũng cho thấy clo máu thấp hơn và ít hội chứng đáp ứng viêm toàn thân hơn so với nước muối sinh lý."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "formula",
+   "chapter": "IV · Bù dịch · Câu 11",
+   "title": "Tốc độ: vừa phải, không tích cực",
+   "ref": "Câu 11 · Khuyến cáo mạnh, bằng chứng trung bình",
+   "main": {
+    "tag": "CÂU 11 · KHUYẾN CÁO",
+    "t": "Truyền dịch tốc độ vừa phải 1,5 ml/kg/giờ",
+    "d": "Ví dụ người 70 kg: khoảng 105 ml/giờ",
+    "at": 0,
+    "c": "amber",
+    "hl": "L0"
+   },
+   "op": "CỘNG THÊM KHI CẦN",
+   "op_at": 1,
+   "options": [
+    {
+     "t": "Bolus dịch",
+     "d": "Nếu giảm thể tích hoặc tụt huyết áp lúc nhập viện",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Dịch bổ sung",
+     "d": "Dựa trên hematocrit và dấu hiệu lâm sàng giảm thể tích",
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Câu hỏi mười một là thay đổi quan trọng nhất của lĩnh vực này. Khuyến cáo mạnh, bằng chứng trung bình: truyền dịch với tốc độ vừa phải 1,5 mililít mỗi kilôgam mỗi giờ. Với người bệnh 70 kilôgam, đó là khoảng 105 mililít mỗi giờ.",
+    "Bolus dịch được chỉ định nếu người bệnh có giảm thể tích hoặc tụt huyết áp lúc nhập viện.",
+    "Có thể truyền thêm dịch tuỳ theo hematocrit và các dấu hiệu lâm sàng của giảm thể tích. Nói cách khác, dịch được chỉnh theo nhu cầu, không theo một công thức tích cực cố định."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "compare",
+   "chapter": "IV · Bù dịch · Bằng chứng",
+   "title": "Thử nghiệm đa trung tâm quốc tế (WATERFALL)",
+   "ref": "Câu 11 · Bình luận",
+   "head": [
+    "",
+    "Bù dịch tích cực",
+    "Bù dịch vừa phải"
+   ],
+   "widths": "0.9fr 1.2fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Phác đồ</b>",
+      "Bolus 20 ml/kg → 3 ml/kg/giờ",
+      "1,5 ml/kg/giờ; bolus 10 ml/kg <em>chỉ khi giảm thể tích</em>"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Quá tải dịch</b>",
+      "<em>21%</em>",
+      "6% (p < 0,01)"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Kết cục chính</b>",
+      "Viêm tụy trung bình – nặng: không khác biệt có ý nghĩa",
+      "Xu hướng diễn tiến tốt hơn"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Kết thúc</b>",
+      "Dừng sớm ở 249 người bệnh",
+      "Vì lý do an toàn"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bằng chứng chính đến từ một thử nghiệm đa trung tâm quốc tế, nhãn mở, trên người bệnh viêm tụy cấp chưa có tiêu chuẩn trung bình nặng lúc nhập viện. Nhóm tích cực nhận bolus 20 mililít mỗi kilôgam rồi 3 mililít mỗi kilôgam mỗi giờ; nhóm vừa phải nhận 1,5 mililít mỗi kilôgam mỗi giờ, và chỉ bolus 10 mililít mỗi kilôgam khi có giảm thể tích.",
+    "Thử nghiệm phải dừng sớm ở 249 người bệnh, vì quá tải dịch xảy ra ở 21% nhóm tích cực so với 6% nhóm vừa phải.",
+    "Kết cục chính, tức tiến triển thành viêm tụy trung bình nặng hoặc nặng, không khác biệt có ý nghĩa, nhưng nhóm tích cực có xu hướng diễn tiến xấu hơn. Hai thử nghiệm cũ hơn ở viêm tụy nặng cũng cho thấy kết cục xấu hơn khi bù dịch tích cực, và các tổng quan hệ thống đều ủng hộ kết luận này."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "cards",
+   "chapter": "IV · Bù dịch · Sinh lý bệnh",
+   "title": "Vì sao bù dịch tích cực không có lợi?",
+   "ref": "Câu 11 · Bình luận",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "VIÊM TỤY NHẸ",
+     "t": "Mao mạch nguyên vẹn",
+     "d": "Cơ chế thần kinh – thể dịch còn bảo tồn",
+     "items": [
+      "Tự điều chỉnh tốt lượng dịch nhận vào"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "VIÊM TỤY NẶNG",
+     "t": "Thoát mạch mao mạch",
+     "d": "Cơ chế cân bằng bị rối loạn",
+     "items": [
+      "Dịch dễ thoát ra khoảng kẽ, ổ bụng, phổi",
+      "→ Bù dịch phải thận trọng hơn"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "KẾT LUẬN",
+     "t": "Dịch không ngăn hoại tử",
+     "d": "Bù dịch tích cực đơn thuần rất khó ngăn hoại tử hay suy tạng",
+     "items": [
+      "Và liên quan với kết cục xấu hơn"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Để hiểu vì sao, cần nhìn vào sinh lý bệnh. Trong viêm tụy nhẹ, tuần hoàn mao mạch còn nguyên vẹn, cơ chế thần kinh thể dịch còn bảo tồn.",
+    "Ngược lại, trong viêm tụy nặng, các cơ chế này bị rối loạn, kèm nguy cơ thoát mạch mao mạch. Dịch truyền nhiều sẽ thoát ra khoảng kẽ, ổ bụng và phổi. Vì vậy, bù dịch phải thận trọng hơn ở người bệnh dự báo nặng, trái với trực giác của nhiều người.",
+    "Dữ liệu thử nghiệm cho thấy bù dịch tích cực đơn thuần rất khó ngăn được hoại tử tụy hay suy tạng, và còn liên quan với kết cục xấu hơn."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "timeline",
+   "chapter": "IV · Bù dịch · Bốn pha",
+   "title": "Bốn pha của liệu pháp dịch",
+   "ref": "Câu 11 · Bình luận",
+   "events": [
+    {
+     "year": "Cứu vãn",
+     "t": "Sốc",
+     "d": "Bolus dịch",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "year": "Tối ưu",
+     "t": "Còn nguy cơ",
+     "d": "Dịch thận trọng, chỉnh theo tưới máu",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "year": "Ổn định",
+     "t": "Trạng thái ổn",
+     "d": "Chỉ dịch duy trì",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "year": "Rút dịch",
+     "t": "Quá tải dịch",
+     "d": "Thúc đẩy cân bằng âm",
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "note": {
+    "t": "Liệu pháp dịch phải theo nhu cầu của người bệnh, đánh giá lại liên tục",
+    "at": 4,
+    "c": "teal"
+   },
+   "lines": [
+    "Hướng dẫn đề nghị nhìn liệu pháp dịch theo bốn pha, giống như trong hồi sức nói chung. Pha cứu vãn: khi có sốc, bù dịch dựa trên các bolus.",
+    "Pha tối ưu: sốc đã cải thiện nhưng còn nguy cơ rối loạn tuần hoàn, mọi lượng dịch thêm phải thận trọng, chỉnh theo chức năng tim để cải thiện tưới máu mô.",
+    "Pha ổn định: người bệnh đã ổn, dịch chỉ dùng để duy trì.",
+    "Pha xuống thang: khi có quá tải dịch, cần chủ động tạo cân bằng âm.",
+    "Thông điệp là liệu pháp dịch phải theo nhu cầu của từng người bệnh và được đánh giá lại liên tục."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "list",
+   "chapter": "IV · Bù dịch · Câu 12",
+   "title": "Mục tiêu đánh giá đáp ứng bù dịch",
+   "ref": "Câu 12 · Tuyên bố thực hành tốt",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Huyết áp trung bình 65–85 mmHg",
+     "d": "8,7–11,3 kPa",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Nước tiểu ≥ 0,5 ml/kg/giờ",
+     "d": "Đánh giá cùng các thông số khác",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "BUN < 20 mg/dL",
+     "d": "Hoặc urê máu < 40",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Hematocrit < 44%",
+     "d": "Hct ≥ 44% lúc nhập + BUN tăng ở 24 giờ: theo dõi bệnh nặng tốt nhất",
+     "at": 1,
+     "hl": "L1",
+     "c": "violet"
+    },
+    {
+     "t": "Nhịp tim < 100 lần/phút",
+     "d": "Không có dấu hiệu mất nước hay quá tải dịch",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Không dùng một thông số đơn lẻ",
+     "d": "Phối hợp lâm sàng và xét nghiệm",
+     "at": 2,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Câu hỏi mười hai: đánh giá đáp ứng bù dịch như thế nào? Tuyên bố thực hành tốt: phối hợp dấu hiệu lâm sàng và xét nghiệm. Các mục tiêu hợp lý gồm huyết áp trung bình 65 đến 85 milimét thuỷ ngân, và nước tiểu từ 0,5 mililít mỗi kilôgam mỗi giờ trở lên.",
+    "Ure máu dưới 20 miligam mỗi đềxilít, hay urê dưới 40, và hematocrit dưới 44%. Các nghiên cứu đa trung tâm cho thấy ure máu là yếu tố dự báo kết cục, và phối hợp hematocrit từ 44% trở lên lúc nhập với ure tăng ở giờ thứ 24 là bộ đôi theo dõi bệnh nặng tốt hơn các xét nghiệm khác.",
+    "Ngoài ra, nhịp tim dưới 100 lần mỗi phút, không có dấu hiệu mất nước hay quá tải dịch. Khó có một thông số đơn lẻ nào đáng tin bằng đánh giá nhiều thông số cùng lúc."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "IV · Bù dịch · Hồi sức",
+   "title": "Theo dõi huyết động tại hồi sức",
+   "ref": "Câu 12 · Bình luận",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "XÂM LẤN",
+     "t": "Chỉ tại hồi sức",
+     "d": "Khi huyết động bất ổn, quyết định bù dịch khó",
+     "items": [
+      "Áp lực tĩnh mạch trung tâm dự báo kém",
+      "Đặt đường động mạch là hợp lý"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "ĐÁP ỨNG DỊCH",
+     "t": "Nâng chân thụ động",
+     "d": "Hứa hẹn ở người tự thở",
+     "items": [
+      "Tăng áp lực ổ bụng có thể âm tính giả, nhất là khi thở máy",
+      "Chỉ số thể tích máu trong lồng ngực chính xác hơn CVP"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "TẠI GIƯỜNG",
+     "t": "Siêu âm",
+     "d": "Tĩnh mạch chủ dưới và biến thiên theo hô hấp",
+     "items": [
+      "Siêu âm phổi phát hiện quá tải dịch",
+      "Khuyến khích dùng ở viêm tụy nặng"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Với người bệnh tại hồi sức, theo dõi xâm lấn chỉ dành cho người có rối loạn huyết động, khi việc bù thêm dịch là quyết định quan trọng nhưng lợi hại chưa rõ. Áp lực tĩnh mạch trung tâm dự báo kém tình trạng dịch và đáp ứng dịch. Đặt đường động mạch là hợp lý.",
+    "Nghiệm pháp nâng chân thụ động có vẻ hứa hẹn ở người tự thở, nhưng lưu ý tăng áp lực ổ bụng có thể cho kết quả âm tính giả, nhất là khi thở máy. Một nghiên cứu quan sát cho thấy chỉ số thể tích máu trong lồng ngực chính xác hơn áp lực tĩnh mạch trung tâm và hematocrit.",
+    "Siêu âm tại giường đo đường kính tĩnh mạch chủ dưới và biến thiên theo hô hấp, cùng siêu âm phổi phát hiện quá tải dịch, dù chưa được nghiên cứu riêng trong viêm tụy, vẫn được khuyến khích ở người bệnh viêm tụy nặng."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "list",
+   "chapter": "V · Giảm đau · Câu 13–14",
+   "title": "Giảm đau: opioid hoặc NSAID",
+   "ref": "Câu 13 · Thực hành tốt · Câu 14 · Mạnh, bằng chứng trung bình",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Đánh giá đau định kỳ",
+     "d": "Thang nhìn (VAS) hoặc thang số (NRS) để quyết định nhu cầu giảm đau",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Opioid hoặc NSAID",
+     "d": "Hiệu quả và an toàn tương đương ở viêm tụy nhẹ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Đau nặng: opioid tốt hơn",
+     "d": "Ít cần thuốc cứu hộ hơn; hơn diclofenac kể cả ở thể trung bình – nặng",
+     "at": 1,
+     "hl": "L1",
+     "c": "amber"
+    },
+    {
+     "t": "Cứu hộ",
+     "d": "Fentanyl tác dụng ngắn khi cần · bơm giảm đau người bệnh tự kiểm soát",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Tránh opioid khi",
+     "d": "Ức chế hô hấp · rối loạn ý thức · liệt ruột",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Gây tê ngoài màng cứng",
+     "d": "RCT 148 người bệnh: không lợi, thở máy kéo dài hơn; cân nhắc khi đau nặng + bệnh tim, hô hấp",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực năm là giảm đau. Câu hỏi mười ba: đánh giá đau định kỳ bằng thang nhìn hoặc thang số để quyết định nhu cầu giảm đau. Người bệnh cũng mong thầy thuốc lắng nghe mô tả chủ quan, không chỉ dựa vào con số.",
+    "Câu hỏi mười bốn, khuyến cáo mạnh, bằng chứng trung bình: dùng opioid hoặc thuốc kháng viêm không steroid. Hai phân tích gộp cho thấy hai nhóm có hiệu quả và an toàn tương đương ở viêm tụy nhẹ, nhưng opioid giúp ít cần thuốc cứu hộ hơn. Với đau nặng, opioid giảm đau tốt hơn, và hai thử nghiệm cho thấy opioid hiệu quả hơn diclofenac kể cả ở thể trung bình nặng và nặng.",
+    "Bổ sung thuốc cứu hộ tác dụng ngắn như fentanyl khi cần, hoặc bơm giảm đau do người bệnh tự kiểm soát. Tránh opioid khi có ức chế hô hấp, rối loạn ý thức và liệt ruột. Một nghiên cứu quan sát thấy dùng opioid kéo dài liên quan với bệnh nặng hơn, nhưng có thể là nhân quả ngược, vì người bệnh nặng thì đau nhiều hơn.",
+    "Gây tê ngoài màng cứng từng được cho là có lợi, nhưng một thử nghiệm gần đây trên 148 người bệnh không thấy lợi ích, và còn kéo dài thời gian thở máy. Chỉ cân nhắc ở người đau nặng có bệnh tim mạch hay hô hấp kèm theo."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "box",
+   "chapter": "VI · Hồi sức · Câu 15",
+   "title": "Khi nào chuyển vào hồi sức?",
+   "ref": "Câu 15 · Tuyên bố thực hành tốt",
+   "box": {
+    "tag": "CÂU 15 · CHỈ ĐỊNH HỒI SỨC",
+    "t": "Suy tạng <b>độ 2 trở lên theo thang Marshall cải tiến</b>. Hoại tử nhiễm trùng kèm <b>nhiễm khuẩn huyết</b>, <b>chảy máu trong ổ bụng</b> hoặc <b>rò đại tràng</b>: đơn vị chăm sóc tích cực.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "CÂN NHẮC SỚM",
+     "t": "Charlson ≥ 3 · béo phì nặng · > 65 tuổi · cần theo dõi sát",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "SCCM 2016",
+     "t": "Mọi người bệnh cần hỗ trợ sự sống phải vào hồi sức",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KHÔNG",
+     "t": "Dùng một dấu ấn đơn lẻ (lactat, CRP, hematocrit, BUN) để phân loại",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực sáu là suy tạng và hồi sức. Câu hỏi mười lăm, tuyên bố thực hành tốt: suy tạng từ độ hai trở lên theo thang Marshall cải tiến là chỉ định chuyển vào hồi sức. Người bệnh hoại tử nhiễm trùng có nhiễm khuẩn huyết, hoặc biến chứng như chảy máu trong ổ bụng hay rò đại tràng, cũng cần đơn vị chăm sóc tích cực, đặc biệt khi nhiễm vi khuẩn đa kháng.",
+    "Theo Hội Hồi sức Hoa Kỳ năm 2016, mọi người bệnh cần hỗ trợ sự sống hoặc theo dõi tích cực đều cần vào hồi sức. Người có nguy cơ xấu đi nhanh, như chỉ số Charlson từ 3 trở lên, béo phì nặng, trên 65 tuổi, cần được đánh giá sớm.",
+    "Không nên dùng thường quy một dấu ấn đơn lẻ như lactat, CRP, hematocrit hay ure máu để phân loại người bệnh vào hồi sức."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "VI · Hồi sức · Câu 16",
+   "title": "Hỗ trợ tạng như mọi bệnh nhân nặng",
+   "ref": "Câu 16 · Tuyên bố thực hành tốt",
+   "h": 560,
+   "cards": [
+    {
+     "tag": "NGUYÊN TẮC",
+     "t": "Như bệnh nhân nặng khác",
+     "d": "Thiếu RCT riêng; dựa trên y văn hồi sức, nhất là nhiễm khuẩn huyết",
+     "items": [],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "HỖ TRỢ",
+     "t": "Hô hấp · Thận · Tuần hoàn",
+     "d": "Huyết áp trung bình ≥ 65 mmHg",
+     "items": [],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "THEO DÕI",
+     "t": "Áp lực ổ bụng",
+     "d": "Ở viêm tụy trung bình nặng và nặng",
+     "items": [
+      "Chi tiết ở Phần 4"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Câu hỏi mười sáu: hỗ trợ tạng thế nào? Hiện thiếu thử nghiệm riêng cho viêm tụy, nên khuyến cáo chủ yếu dựa trên y văn hồi sức, đặc biệt là nhiễm khuẩn huyết.",
+    "Người bệnh được hỗ trợ hô hấp, thận và tuần hoàn như mọi bệnh nhân nặng khác, với mục tiêu huyết áp trung bình từ 65 milimét thuỷ ngân trở lên.",
+    "Và một điểm đặc thù: cần theo dõi áp lực ổ bụng ở người bệnh viêm tụy trung bình nặng và nặng. Chúng ta sẽ bàn kỹ tăng áp lực ổ bụng ở phần bốn."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "VII · Kháng sinh · Câu 17",
+   "title": "Kháng sinh: khi nào thực sự cần?",
+   "ref": "Câu 17 · Khuyến cáo mạnh, bằng chứng trung bình",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "CHỈ ĐỊNH",
+     "t": "Nhiễm trùng đã chứng minh",
+     "d": "Ngoài tụy, hoặc nghi ngờ mạnh hoại tử tụy nhiễm trùng",
+     "items": [
+      "Nhiễm hoại tử: chỉ ≈ 5% số ca",
+      "Ngoài tụy (đường mật, phổi): 14–37,4%"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "HỢP LÝ",
+     "t": "20–40% người bệnh",
+     "d": "Là tỷ lệ dùng kháng sinh có cơ sở",
+     "items": [],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "THỰC TẾ",
+     "t": "Lạm dụng",
+     "d": "9869 người bệnh, 23 quốc gia",
+     "items": [
+      "Trung Quốc 81,4% · Đài Loan 80,6%",
+      "Tây Ban Nha 31,8% · Anh 31,2%",
+      "Không giảm tử vong hay mức độ nặng"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực bảy là kháng sinh. Câu hỏi mười bảy, khuyến cáo mạnh, bằng chứng trung bình: chỉ dùng kháng sinh khi có nhiễm trùng ngoài tụy đã được chứng minh, hoặc nghi ngờ mạnh viêm tụy hoại tử nhiễm trùng. Nhiễm trùng hoại tử là chỉ định chính, nhưng chỉ chiếm khoảng 5% số người bệnh; nhiễm trùng ngoài tụy như viêm đường mật hay viêm phổi chiếm 14 đến 37,4%.",
+    "Vì vậy, tỷ lệ dùng kháng sinh có cơ sở chỉ nên khoảng 20 đến 40%.",
+    "Thực tế, một nghiên cứu đa trung tâm gần 10 nghìn người bệnh ở 23 quốc gia cho thấy kháng sinh bị lạm dụng, cao nhất ở châu Á như Trung Quốc 81,4%, Đài Loan 80,6%, trong khi Tây Ban Nha và Anh chỉ khoảng 31%. Và kháng sinh không làm giảm tử vong hay mức độ nặng."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "list",
+   "chapter": "VII · Kháng sinh · Câu 18",
+   "title": "Dấu hiệu nào để bắt đầu kháng sinh?",
+   "ref": "Câu 18 · Khuyến cáo mạnh, bằng chứng trung bình",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Cấy vi sinh dương tính",
+     "d": "Máu, đàm, mật, nước tiểu, dịch dẫn lưu: chỉ định chắc chắn",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Khí trong ổ hoại tử trên CT",
+     "d": "Gợi ý hoại tử tụy nhiễm trùng → chỉ định kháng sinh",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Không dùng riêng CRP, bạch cầu, procalcitonin",
+     "d": "Để quyết định bắt đầu kháng sinh",
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "t": "CRP: AUC 0,510 · bạch cầu: 0,454",
+     "d": "Gần như không phân biệt được nhiễm hoại tử",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Procalcitonin: AUC 0,729",
+     "d": "Dấu ấn duy nhất có giá trị chấp nhận được",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Theo procalcitonin",
+     "d": "RCT 260 người bệnh: giảm dùng kháng sinh từ 63% xuống 45%",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Câu hỏi mười tám, khuyến cáo mạnh, bằng chứng trung bình. Chỉ định chắc chắn là cấy vi sinh dương tính từ máu, đàm, mật, nước tiểu hay dịch dẫn lưu. Bóng khí trong ổ hoại tử tụy hoặc quanh tụy trên CT gợi ý hoại tử nhiễm trùng, cũng là chỉ định kháng sinh.",
+    "Ngược lại, không dùng riêng CRP, bạch cầu hay procalcitonin tăng để bắt đầu kháng sinh. Lý do: giai đoạn sớm của viêm tụy vốn là một phản ứng viêm vô khuẩn.",
+    "CRP có diện tích dưới đường cong chỉ 0,510, bạch cầu 0,454, gần như không phân biệt được hoại tử nhiễm trùng. Procalcitonin là dấu ấn duy nhất có giá trị chấp nhận được, 0,729.",
+    "Một thử nghiệm 260 người bệnh, chủ yếu viêm tụy nhẹ, cho thấy dựa vào procalcitonin giúp giảm dùng kháng sinh từ 63% xuống 45%."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "compare",
+   "chapter": "VII · Dự phòng · Câu 19–21",
+   "title": "Ba biện pháp dự phòng: đều không khuyến cáo",
+   "ref": "Câu 19–21",
+   "head": [
+    "Biện pháp",
+    "Khuyến cáo",
+    "Bằng chứng then chốt"
+   ],
+   "widths": "1fr 1fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Kháng sinh dự phòng</b>",
+      "<em>Không</em> · mạnh, bằng chứng cao",
+      "11 nghiên cứu, 864 người bệnh: không giảm nhiễm hoại tử; chỉ xét RCT: tử vong không khác"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Probiotic</b>",
+      "<em>Không</em> · mạnh, bằng chứng cao",
+      "13 RCT: không giảm nhiễm hoại tử; RCT cũ ở thể nặng: <b>tăng tử vong do thiếu máu ruột</b>"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Khử khuẩn chọn lọc đường ruột</b>",
+      "<em>Không</em> · có điều kiện, bằng chứng thấp",
+      "1 RCT: giảm nhiễm Gram âm nhưng tử vong chung không khác"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Ba câu hỏi tiếp theo về dự phòng, và cả ba đều cho câu trả lời là không. Câu hỏi mười chín, khuyến cáo mạnh với bằng chứng cao: không dùng kháng sinh dự phòng, kể cả ở viêm tụy dự báo nặng và viêm tụy hoại tử. Phân tích gộp 11 nghiên cứu, 864 người bệnh, cho thấy kháng sinh dự phòng không giảm nhiễm trùng hoại tử, và khi chỉ xét thử nghiệm ngẫu nhiên, tử vong không khác biệt.",
+    "Câu hỏi hai mươi, khuyến cáo mạnh với bằng chứng cao: không dùng probiotic. Phân tích gộp 13 thử nghiệm không thấy giảm nhiễm trùng, và một thử nghiệm cũ ở viêm tụy dự báo nặng còn ghi nhận tăng tử vong do thiếu máu ruột.",
+    "Câu hỏi hai mươi mốt, khuyến cáo có điều kiện: không khử khuẩn chọn lọc đường ruột. Thử nghiệm duy nhất cho thấy giảm nhiễm vi khuẩn Gram âm ở tụy, nhưng không giảm tử vong chung."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy của 72 giờ đầu",
+   "ref": "Tổng hợp Câu 10–21",
+   "box": {
+    "tag": "BẪY",
+    "t": "“Viêm tụy nặng thì phải truyền thật nhiều dịch” → bù dịch tích cực <b>tăng quá tải dịch gấp ba</b> và không ngăn được hoại tử.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Dùng áp lực tĩnh mạch trung tâm để đánh giá đáp ứng dịch",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Sợ opioid, để người bệnh đau nặng",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Sốt, CRP cao ngày đầu → kháng sinh ngay",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Kháng sinh “dự phòng” cho hoại tử vô khuẩn",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy của 72 giờ đầu. Bẫy thứ nhất: nghĩ rằng viêm tụy nặng thì phải truyền thật nhiều dịch. Bù dịch tích cực làm tăng quá tải dịch gấp khoảng ba lần và không ngăn được hoại tử.",
+    "Bẫy thứ hai: dùng áp lực tĩnh mạch trung tâm để đánh giá đáp ứng dịch. Hãy dùng đánh giá động và siêu âm tại giường.",
+    "Bẫy thứ ba: sợ opioid mà để người bệnh đau nặng. Opioid là lựa chọn tốt khi đau nặng, chỉ cần tránh khi ức chế hô hấp, rối loạn ý thức hay liệt ruột.",
+    "Bẫy thứ tư: thấy sốt và CRP cao ngày đầu là dùng kháng sinh ngay. Phản ứng viêm sớm thường là vô khuẩn.",
+    "Bẫy thứ năm: dùng kháng sinh dự phòng cho hoại tử vô khuẩn, điều đã bị khuyến cáo mạnh là không nên."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: giờ thứ 6 tại cấp cứu",
+   "case": "Nam 70 kg, viêm tụy cấp do sỏi mật, khởi phát 6 giờ. <b>Huyết áp 85/50 mmHg</b> (trung bình 62), mạch 118, <b>hematocrit 48%</b>, nước tiểu ít. Chưa có quá tải dịch.",
+   "case_at": 1,
+   "q": "Chiến lược bù dịch phù hợp nhất theo IAP 2025?",
+   "q_at": 2,
+   "options": [
+    "Bolus 20 ml/kg rồi duy trì 3 ml/kg/giờ trong 48 giờ",
+    "Bolus Ringer lactat (≈ 10 ml/kg), sau đó 1,5 ml/kg/giờ, đánh giá lại mục tiêu",
+    "Nước muối sinh lý 250 ml/giờ cố định",
+    "Hạn chế dịch, dùng vận mạch ngay"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Có giảm thể tích, tụt huyết áp → bolus; sau đó tốc độ vừa 1,5 ml/kg/giờ (≈ 105 ml/giờ) bằng Ringer lactat, thêm dịch theo hematocrit và lâm sàng. Mục tiêu: HA trung bình 65–85, nước tiểu ≥ 0,5 ml/kg/giờ, BUN < 20, Hct < 44%.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 70 kilôgam, viêm tụy cấp do sỏi mật, khởi phát 6 giờ. Huyết áp 85 trên 50, huyết áp trung bình 62, mạch 118, hematocrit 48%, nước tiểu ít. Chưa có dấu hiệu quá tải dịch.",
+    "Chiến lược bù dịch nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Người bệnh có giảm thể tích và tụt huyết áp, nên được bolus dịch, ví dụ khoảng 10 mililít mỗi kilôgam Ringer lactat như trong thử nghiệm. Sau đó duy trì tốc độ vừa phải 1,5 mililít mỗi kilôgam mỗi giờ, tức khoảng 105 mililít mỗi giờ, và truyền thêm theo hematocrit và lâm sàng. Đánh giá lại theo mục tiêu huyết áp trung bình 65 đến 85, nước tiểu từ 0,5 mililít mỗi kilôgam mỗi giờ, ure dưới 20 và hematocrit dưới 44%. Phác đồ tích cực 20 rồi 3 mililít làm tăng quá tải dịch."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: ngày thứ 5 tại hồi sức",
+   "case": "Nữ 58 tuổi, viêm tụy hoại tử ngày 5. Sốt 38,5 °C, <b>CRP 280 mg/l</b>, bạch cầu 18 G/l. CT: hoại tử 40%, <b>không có khí</b> trong ổ hoại tử. Cấy máu đang chờ. Phổi, nước tiểu bình thường.",
+   "case_at": 1,
+   "q": "Xử trí kháng sinh phù hợp?",
+   "q_at": 2,
+   "options": [
+    "Bắt đầu carbapenem vì CRP và bạch cầu cao",
+    "Kháng sinh dự phòng vì hoại tử > 30%",
+    "Chưa dùng kháng sinh: tìm ổ nhiễm, chờ cấy, theo dõi sát",
+    "Dùng probiotic để phòng nhiễm trùng"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "CRP, bạch cầu đơn độc không phải chỉ định (AUC 0,510; 0,454). Không có khí, chưa có cấy dương → chưa đủ nghi ngờ mạnh. Dự phòng và probiotic: không khuyến cáo (mạnh, bằng chứng cao). Dùng ngay khi cấy dương, có khí trong ổ hoại tử hoặc lâm sàng nghi mạnh.",
+   "lines": [
+    "Tình huống thứ hai, tại khoa hồi sức.",
+    "Người bệnh nữ 58 tuổi, viêm tụy hoại tử ngày thứ năm. Sốt 38,5 độ, CRP 280 miligam mỗi lít, bạch cầu 18 giga mỗi lít. CT thấy hoại tử 40%, không có khí trong ổ hoại tử. Cấy máu đang chờ kết quả, khám phổi và nước tiểu bình thường.",
+    "Xử trí kháng sinh nào phù hợp?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án ba. CRP và bạch cầu đơn độc không phải chỉ định bắt đầu kháng sinh. Chưa có khí trong ổ hoại tử, chưa có cấy dương tính, nên cần tìm ổ nhiễm, chờ cấy và theo dõi sát, có thể tham khảo procalcitonin. Kháng sinh dự phòng vì hoại tử rộng và probiotic đều không được khuyến cáo. Kháng sinh sẽ được dùng ngay khi cấy dương tính, có khí trong ổ hoại tử, hoặc lâm sàng nghi ngờ mạnh nhiễm trùng hoại tử."
+   ]
+  },
+  {
+   "id": "s18",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 2",
+   "title": "Sáu thông điệp của Phần 2",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Ringer lactat",
+     "d": "Thay cho nước muối sinh lý",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "1,5 ml/kg/giờ ± bolus",
+     "d": "Từ bỏ bù dịch tích cực",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Mục tiêu đa thông số",
+     "d": "HA trung bình 65–85 · nước tiểu ≥ 0,5 · BUN < 20 · Hct < 44%",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Opioid hoặc NSAID",
+     "d": "Opioid tốt hơn khi đau nặng",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Hồi sức: Marshall ≥ 2",
+     "d": "Hỗ trợ tạng như bệnh nhân nặng khác",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Kháng sinh có chỉ định",
+     "d": "Cấy dương, khí trong ổ hoại tử · không dự phòng, không probiotic",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần hai, xin tóm tắt những thông điệp chính.",
+    "Bù dịch bằng Ringer lactat, với tốc độ vừa phải 1,5 mililít mỗi kilôgam mỗi giờ, chỉ bolus khi có giảm thể tích, và từ bỏ bù dịch tích cực.",
+    "Đánh giá đáp ứng bằng nhiều thông số cùng lúc. Giảm đau bằng opioid hoặc thuốc kháng viêm không steroid, opioid tốt hơn khi đau nặng.",
+    "Chuyển hồi sức khi suy tạng từ độ hai theo Marshall cải tiến. Kháng sinh chỉ khi có nhiễm trùng được chứng minh hoặc nghi ngờ mạnh; không dự phòng, không probiotic.",
+    "Phần ba sẽ bàn về dinh dưỡng, xử trí đường mật với nội soi mật tụy ngược dòng, và điều trị bảo tồn viêm tụy hoại tử. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
