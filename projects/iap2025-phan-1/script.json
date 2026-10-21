@@ -1,0 +1,965 @@
+{
+ "title": "Viêm tụy cấp IAP 2025 – Phần 1: Nhận diện",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tiêu hoá – Hồi sức",
+ "part": "Viêm tụy cấp IAP 2025 · Phần 1/5",
+ "source_short": "Nguồn: IAP Revised Guidelines on Acute Pancreatitis 2025 – Pancreatology",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "International Association of Pancreatology Revised Guidelines on Acute Pancreatitis 2025 (IAP/APA/EPC/IPC/JPS). Pancreatology 2025.",
+ "lexicon": {
+  "IAP/APA": "i a pê, a pê a",
+  "IAP": "i a pê",
+  "APACHE II": "a pa chi hai",
+  "APACHE-II": "a pa chi hai",
+  "BISAP": "bi sáp",
+  "HAPS": "háp",
+  "PASS": "pát",
+  "CTSI": "xê tê ét i",
+  "GRADE": "grết",
+  "PICO": "pi cô",
+  "IL-6": "in tơ lơ kin sáu",
+  "CRP": "xê rê pê",
+  "SIRS": "xia",
+  "MRCP": "em a xê pê",
+  "MRI": "em a i",
+  "ALT": "a eo tê",
+  "HU": "đơn vị hao phin",
+  "T2": "tê hai",
+  "CT": "xê tê"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 1/5",
+   "title": "Viêm tụy cấp<br>IAP 2025",
+   "subtitle": "Phần 1 · Nhận diện & tiên lượng",
+   "badges": [
+    {
+     "t": "18 lĩnh vực",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "96 câu hỏi",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "GRADE",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "IAP · APA · EPC · IPC · JPS — cập nhật đầu tiên sau 12 năm",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online, và với loạt bài giảng về Hướng dẫn xử trí viêm tụy cấp năm 2025 của Hiệp hội Tụy học Quốc tế.",
+    "Đây là bản cập nhật đầu tiên sau mười hai năm, gồm 18 lĩnh vực với 96 câu hỏi lâm sàng, được xếp hạng theo hệ thống GRADE.",
+    "Loạt bài có năm phần. Phần một hôm nay là bước nhận diện: chẩn đoán, tìm nguyên nhân, tiên lượng mức độ nặng, và vai trò của hình ảnh học."
+   ],
+   "art": "pancreas"
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Giới thiệu · Gánh nặng bệnh",
+   "title": "Một bệnh thường gặp, đa số nhẹ, nhưng có thể tử vong",
+   "ref": "Mục 1 · Introduction",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "TẦN SUẤT",
+     "t": "33,74 / 100.000",
+     "d": "người-năm trên toàn cầu",
+     "items": [
+      "Một trong những lý do nhập viện tiêu hoá thường gặp nhất",
+      "Tử vong 1,60 / 100.000 người-năm"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "THỂ MÔ KẼ",
+     "t": "≈ 80% số ca",
+     "d": "Thường diễn tiến nhẹ",
+     "items": [
+      "Hồi phục trong vài ngày với điều trị nâng đỡ"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "THỂ HOẠI TỬ",
+     "t": "Tử vong tới 40%",
+     "d": "khi có suy tạng kéo dài",
+     "items": [
+      "Biến chứng tại chỗ và toàn thân",
+      "Cần nhóm đa chuyên khoa: tiêu hoá, ngoại, hồi sức, chẩn đoán hình ảnh"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Viêm tụy cấp là một trong những lý do nhập viện tiêu hoá thường gặp nhất. Tần suất toàn cầu khoảng 33,74 ca trên một trăm nghìn người mỗi năm, gây khoảng 1,60 ca tử vong trên một trăm nghìn người mỗi năm.",
+    "Khoảng 80% là viêm tụy thể mô kẽ, thường diễn tiến nhẹ.",
+    "Ngược lại, viêm tụy hoại tử là thể nặng, có thể gây biến chứng tại chỗ và toàn thân, với tử vong lên tới 40% khi người bệnh có suy tạng kéo dài. Vì vậy, xử trí viêm tụy cấp cần một nhóm đa chuyên khoa gồm tiêu hoá, ngoại khoa, hồi sức và chẩn đoán hình ảnh."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "timeline",
+   "chapter": "Giới thiệu · Lịch sử",
+   "title": "Từ IAP/APA 2013 đến IAP 2025",
+   "ref": "Mục 1–2",
+   "events": [
+    {
+     "year": "2013",
+     "t": "IAP/APA",
+     "d": "Một trong những hướng dẫn được trích dẫn nhiều nhất",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "year": "2013–2025",
+     "t": "Nhiều RCT mới",
+     "d": "Bằng chứng mức 1 về dịch, dinh dưỡng, can thiệp",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "year": "2025",
+     "t": "5 hiệp hội",
+     "d": "IAP · APA · EPC · IPC · JPS",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "year": "Mới",
+     "t": "Tiếng nói người bệnh",
+     "d": "Ý kiến người bệnh từ 7 quốc gia cuối mỗi mục",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "note": {
+    "t": "Câu hỏi theo PICO · tổng quan hệ thống PubMed, Embase, Cochrane · loại nghiên cứu < 20 người bệnh",
+    "at": 4,
+    "c": "teal"
+   },
+   "lines": [
+    "Năm 2013, Hiệp hội Tụy học Quốc tế và Hiệp hội Tụy học Hoa Kỳ ban hành hướng dẫn IAP/APA, trở thành một trong những hướng dẫn được trích dẫn nhiều nhất về viêm tụy cấp.",
+    "Trong mười năm qua, nhiều thử nghiệm ngẫu nhiên có đối chứng đã thay đổi cách chúng ta bù dịch, nuôi dưỡng và can thiệp hoại tử.",
+    "Bản 2025 có sự tham gia của năm hiệp hội: Hoa Kỳ, châu Âu, Ấn Độ và Nhật Bản cùng Hiệp hội Tụy học Quốc tế.",
+    "Một điểm mới thú vị: cuối mỗi mục có phần quan điểm của người bệnh, thu thập từ bảy quốc gia.",
+    "Các câu hỏi được đặt theo cấu trúc PICO, mỗi câu có tổng quan hệ thống trên PubMed, Embase và Cochrane, và loại các nghiên cứu không ngẫu nhiên dưới 20 người bệnh."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "Phương pháp · GRADE",
+   "title": "Đọc mức khuyến cáo trong hướng dẫn",
+   "ref": "Mục 2.2.1.6–2.2.1.7",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "SỨC MẠNH",
+     "t": "Mạnh · Có điều kiện",
+     "d": "Cân nhắc lợi – hại, nguồn lực, mong muốn người bệnh",
+     "items": [
+      "Không nhất thiết tương xứng với chất lượng bằng chứng"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "CHẤT LƯỢNG",
+     "t": "Cao · Trung bình · Thấp · Rất thấp",
+     "d": "Độ chắc chắn của bằng chứng",
+     "items": [
+      "Khuyến cáo mạnh dù bằng chứng thấp = khuyến cáo “bất tương hợp”"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "THỰC HÀNH TỐT",
+     "t": "Good Practice Statement",
+     "d": "Lợi ích rõ ràng nhưng thiếu bằng chứng trực tiếp",
+     "items": [
+      "Không xếp hạng GRADE"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trước khi vào khuyến cáo, xin nhắc cách đọc mức khuyến cáo. Sức mạnh khuyến cáo gồm hai mức, mạnh hoặc có điều kiện. Sức mạnh không chỉ dựa trên bằng chứng, mà còn trên cân bằng lợi hại, nguồn lực, sự sẵn có và mong muốn của người bệnh.",
+    "Chất lượng bằng chứng có bốn mức: cao, trung bình, thấp và rất thấp. Một khuyến cáo có thể mạnh dù bằng chứng thấp, gọi là khuyến cáo bất tương hợp, và lý do được giải thích trong phần bình luận.",
+    "Ngoài ra, khi lợi ích rõ ràng vượt nguy cơ nhưng không có đủ bằng chứng trực tiếp, hướng dẫn đưa ra tuyên bố thực hành tốt, và loại này không được xếp hạng."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "formula",
+   "chapter": "I · Chẩn đoán · Câu 1",
+   "title": "Chẩn đoán viêm tụy cấp: 2 trên 3 tiêu chuẩn",
+   "ref": "Câu 1 · Khuyến cáo mạnh, bằng chứng thấp",
+   "main": {
+    "tag": "CÂU 1 · CHẨN ĐOÁN",
+    "t": "Viêm tụy cấp khi có ≥ 2 trong 3 tiêu chuẩn",
+    "d": "Không có bằng chứng viêm tụy mạn nền",
+    "at": 0,
+    "c": "amber"
+   },
+   "op": "≥ 2 TRONG 3",
+   "op_at": 1,
+   "options": [
+    {
+     "t": "Lâm sàng",
+     "d": "Đau bụng trên cấp tính",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Sinh hoá",
+     "d": "Lipase hoặc amylase máu > 3 lần giới hạn trên bình thường",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Hình ảnh",
+     "d": "Viêm tụy cấp ± hoại tử trên CT hoặc siêu âm",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực đầu tiên là chẩn đoán. Câu hỏi một: chẩn đoán viêm tụy cấp như thế nào? Khuyến cáo mạnh, bằng chứng thấp, giữ nguyên tinh thần của bản 2013.",
+    "Viêm tụy cấp được chẩn đoán khi có ít nhất hai trong ba tiêu chuẩn. Một là lâm sàng: đau bụng trên cấp tính.",
+    "Hai là sinh hoá: lipase hoặc amylase máu tăng trên ba lần giới hạn trên của bình thường.",
+    "Ba là hình ảnh học: có hình ảnh viêm tụy cấp, có hoặc không có hoại tử, thường trên CT hoặc siêu âm. Hướng dẫn cũng nhấn mạnh định nghĩa áp dụng khi không có bằng chứng viêm tụy mạn nền, để phân biệt với đợt cấp của viêm tụy mạn."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "I · Chẩn đoán · Men tụy",
+   "title": "Men tụy: giá trị và giới hạn",
+   "ref": "Câu 1 · Bình luận · Tổng quan Cochrane",
+   "head": [
+    "Chỉ số",
+    "Amylase > 3 lần",
+    "Lipase > 3 lần"
+   ],
+   "widths": "1fr 1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Độ nhạy</b>",
+      "0,72",
+      "0,79"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Độ đặc hiệu</b>",
+      "0,93",
+      "0,89"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Dương tính giả</b> (tần suất 22,6%)",
+      "26%",
+      "32%"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Âm tính giả</b>",
+      "8%",
+      "7%"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Động học</b>",
+      "Giảm sau 3–5 ngày",
+      "Tăng <em>kéo dài hơn</em>"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Theo dõi nối tiếp</b>",
+      "Không tương quan với diễn tiến",
+      "<em>Không đo lặp lại</em>"
+     ],
+     "at": 3,
+     "hl": "L3",
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Ngưỡng ba lần giới hạn trên có những giới hạn. Một tổng quan Cochrane cho thấy amylase có độ nhạy 0,72, độ đặc hiệu 0,93; lipase có độ nhạy 0,79, độ đặc hiệu 0,89.",
+    "Ở tần suất bệnh trung vị 22,6%, tỷ lệ dương tính giả của amylase và lipase là 26% và 32%, âm tính giả là 8% và 7%. Nghĩa là men dưới ba lần không loại trừ viêm tụy, và men trên ba lần có thể do nguyên nhân ngoài tụy.",
+    "Men tụy giảm dần trong 3 đến 5 ngày, lipase có thể tăng kéo dài hơn amylase.",
+    "Điểm thực hành quan trọng: nồng độ men tụy không tương quan với diễn tiến lâm sàng, nên không cần đo men tụy lặp lại hằng ngày để theo dõi."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "I · Chẩn đoán · Hình ảnh",
+   "title": "Mỗi phương tiện hình ảnh một vai trò",
+   "ref": "Câu 1 · Bình luận",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "SIÊU ÂM",
+     "t": "Bắt buộc",
+     "d": "Độ nhạy thấp để chẩn đoán viêm tụy",
+     "items": [
+      "Nhưng là phương tiện phải có để tìm nguyên nhân sỏi mật"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CT CẢN QUANG",
+     "t": "Tốt nhất để thấy viêm",
+     "d": "Viêm tụy và quanh tụy",
+     "items": [
+      "Không cần cho mọi người bệnh"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CỘNG HƯỞNG TỪ",
+     "t": "Giai đoạn muộn",
+     "d": "Biến chứng tại chỗ",
+     "items": [
+      "Lượng mô hoại tử trong ổ dịch",
+      "Biến chứng ống tụy"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Về hình ảnh học trong chẩn đoán: siêu âm bụng có độ nhạy thấp để thấy tụy viêm, nhưng là phương tiện bắt buộc để chẩn đoán nguyên nhân do sỏi mật.",
+    "CT có cản quang là phương tiện phù hợp nhất để chẩn đoán viêm tụy và quanh tụy, nhưng nhìn chung không cần cho tất cả người bệnh.",
+    "Cộng hưởng từ hữu ích hơn ở giai đoạn muộn, để đánh giá biến chứng như lượng mô hoại tử trong ổ dịch và các biến chứng liên quan ống tụy."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "list",
+   "chapter": "I · Nguyên nhân · Câu 2",
+   "title": "Tìm nguyên nhân ngay trong lần nhập viện",
+   "ref": "Câu 2 · Tuyên bố thực hành tốt",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Sỏi mật: tới 42%",
+     "d": "Nguyên nhân thường gặp nhất (46 nghiên cứu, 2,34 triệu người bệnh, 36 quốc gia)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "ALT > 150 U/L trong 48 giờ",
+     "d": "Giá trị dự báo dương > 85% cho nguyên nhân sỏi mật",
+     "at": 2,
+     "hl": "L2",
+     "c": "amber"
+    },
+    {
+     "t": "Rượu: 25–40%",
+     "d": "Tuỳ quần thể nghiên cứu",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Vô căn: khoảng 20%",
+     "d": "Không tìm được nguyên nhân khi nằm viện · hút thuốc lá làm tăng nguy cơ",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Hỏi bệnh sử",
+     "d": "Đợt viêm tụy trước, sỏi mật, rượu, thuốc, tăng triglyceride, chấn thương, thủ thuật như ERCP, tiền sử gia đình",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Xét nghiệm bắt buộc",
+     "d": "Chức năng gan · canxi · triglyceride · siêu âm túi mật và đường mật",
+     "at": 0,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Câu hỏi hai: tìm nguyên nhân trong lúc nằm viện. Đây là tuyên bố thực hành tốt. Cần hỏi kỹ tiền sử viêm tụy, sỏi mật, uống rượu, thuốc đang dùng, tăng triglyceride, chấn thương, thủ thuật xâm lấn gần đây như nội soi mật tụy ngược dòng, và tiền sử gia đình. Xét nghiệm chức năng gan, canxi, triglyceride, và siêu âm túi mật, đường mật.",
+    "Sỏi mật là nguyên nhân thường gặp nhất, chiếm tới 42% theo một phân tích gộp 46 nghiên cứu với hơn 2,3 triệu người bệnh từ 36 quốc gia.",
+    "Một con số rất hữu ích tại giường: ALT trên 150 đơn vị mỗi lít trong 48 giờ đầu có giá trị dự báo dương trên 85% cho viêm tụy do sỏi mật. Nếu men gan bất thường mà siêu âm túi mật bình thường, nên siêu âm nội soi tìm vi sỏi sau khi hồi phục.",
+    "Rượu chiếm khoảng 25 đến 40%. Khoảng 20% không tìm được nguyên nhân khi nằm viện, được xếp là vô căn. Hút thuốc lá cũng làm tăng nguy cơ viêm tụy cấp."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "timeline",
+   "chapter": "I · Vô căn · Câu 3",
+   "title": "Viêm tụy vô căn: tìm tiếp sau xuất viện",
+   "ref": "Câu 3 · Mạnh, bằng chứng trung bình · Di truyền: có điều kiện, thấp",
+   "events": [
+    {
+     "year": "Bước 1",
+     "t": "Siêu âm bụng lại",
+     "d": "Sau xuất viện",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "Bước 2",
+     "t": "Siêu âm nội soi",
+     "d": "Phát hiện 64% so với 34% của MRCP",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "year": "Bước 3",
+     "t": "MRI + MRCP",
+     "d": "Tốt hơn cho bất thường giải phẫu ống mật tụy",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "year": "Bước 4",
+     "t": "Xét nghiệm gen",
+     "d": "Tới 66% ca tái phát vô căn có đột biến",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "note": {
+    "t": "> 50 tuổi không rõ nguyên nhân: CT hoặc MRI + siêu âm nội soi để loại trừ ung thư tụy",
+    "at": 4,
+    "c": "coral"
+   },
+   "lines": [
+    "Câu hỏi ba: viêm tụy vô căn sau đợt một hoặc hai. Khuyến cáo mạnh, bằng chứng trung bình: làm lại siêu âm bụng sau xuất viện.",
+    "Nếu chưa rõ, tiến hành siêu âm nội soi. Trong bảy nghiên cứu so sánh trực tiếp, siêu âm nội soi tìm được nguyên nhân ở 64% so với 34% của cộng hưởng từ mật tụy, đặc biệt tốt cho vi sỏi và viêm tụy mạn. Tuy vậy, siêu âm nội soi âm tính không loại trừ hoàn toàn nguyên nhân mật.",
+    "Nếu siêu âm nội soi vẫn âm tính, chụp cộng hưởng từ kèm MRCP, vốn tốt hơn để phát hiện bất thường giải phẫu như tụy đôi. Lưu ý tụy đôi có thể chỉ là yếu tố phối hợp, chưa chắc là nguyên nhân.",
+    "Khi vẫn không rõ, nhất là sau đợt tái phát, nên cân nhắc xét nghiệm gen, khuyến cáo có điều kiện. Tới 66% ca viêm tụy tái phát vô căn có đột biến gen, và người bệnh cần được tư vấn trước khi làm.",
+    "Đặc biệt, người trên 50 tuổi không rõ nguyên nhân cần chụp cắt lớp hoặc cộng hưởng từ, kèm siêu âm nội soi nếu có, để loại trừ ung thư tụy."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "box",
+   "chapter": "II · Tiên lượng · Câu 4",
+   "title": "Dự báo viêm tụy nặng trong 48 giờ đầu",
+   "ref": "Câu 4 · Khuyến cáo mạnh, bằng chứng trung bình",
+   "box": {
+    "tag": "CÂU 4 · KHUYẾN CÁO",
+    "t": "Dùng <b>SIRS lúc nhập viện</b> và <b>SIRS kéo dài ở giờ thứ 48</b> từ lúc khởi phát đau, đơn độc hoặc phối hợp với <b>CRP</b> hay <b>IL-6</b> cao, để dự báo viêm tụy cấp nặng.",
+    "at": 0,
+    "c": "amber",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "VẤN ĐỀ",
+     "t": "Chưa có công cụ nào lúc nhập viện có giá trị dự báo dương cao",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "SIRS",
+     "t": "Nhạy và đặc hiệu cao nhưng giá trị dự báo dương thấp",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "Ý NGHĨA",
+     "t": "Quyết định nơi điều trị, chuyển viện, theo dõi",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực thứ hai là tiên lượng. Câu hỏi bốn: dấu hiệu nào dự báo viêm tụy nặng trong 48 giờ đầu? Khuyến cáo mạnh, bằng chứng trung bình: dùng hội chứng đáp ứng viêm toàn thân lúc nhập viện, và hội chứng này kéo dài ở giờ thứ 48 tính từ lúc khởi phát đau, đơn độc hoặc phối hợp với CRP hay IL-6 cao.",
+    "Hướng dẫn thừa nhận thẳng thắn: hiện chưa có cách nào lúc nhập viện dự báo viêm tụy trung bình nặng và nặng với giá trị dự báo dương cao.",
+    "Hội chứng đáp ứng viêm toàn thân có độ nhạy và đặc hiệu cao, nhưng giá trị dự báo dương thấp, vì vậy cần đánh giá lại ở giờ thứ 48.",
+    "Dự báo đúng rất quan trọng, vì nó quyết định nơi điều trị, việc chuyển viện và cường độ theo dõi người bệnh."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "compare",
+   "chapter": "II · Tiên lượng · Dấu ấn",
+   "title": "IL-6 nổi lên như dấu ấn mạnh nhất",
+   "ref": "Câu 4 · Bình luận · Phân tích gộp 181 nghiên cứu, 29 dấu ấn",
+   "head": [
+    "Dấu ấn lúc nhập viện",
+    "Độ nhạy",
+    "Độ đặc hiệu"
+   ],
+   "widths": "1.4fr 0.8fr 0.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>IL-6 > 50 pg/ml</b>",
+      "<em>87%</em>",
+      "<em>88%</em>"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>CRP > 150 mg/l</b>",
+      "53%",
+      "82%"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>APACHE II ≥ 8</b>",
+      "72%",
+      "76%"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>SIRS kéo dài + IL-6 > 160 pg/ml</b>",
+      "Giá trị dự báo dương",
+      "56% → <em>85%</em>"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Nhiều xét nghiệm đã được nghiên cứu: CRP, ure máu, hematocrit, procalcitonin, IL-6, triglyceride, glucose, canxi, D-dimer và tỷ lệ bạch cầu trung tính trên lympho.",
+    "Một phân tích gộp 181 nghiên cứu về 29 dấu ấn lúc nhập viện cho thấy IL-6 trên 50 picogram mỗi mililít có độ nhạy 87% và độ đặc hiệu 88%.",
+    "Con số này vượt trội so với CRP trên 150 miligram mỗi lít, độ nhạy chỉ 53%, đặc hiệu 82%; và điểm APACHE II từ 8 trở lên, độ nhạy 72%, đặc hiệu 76%.",
+    "Một nghiên cứu khác cho thấy thêm IL-6 trên 160 giúp tăng giá trị dự báo dương của hội chứng đáp ứng viêm toàn thân kéo dài từ 56% lên 85%. Đây là lý do IL-6 lần đầu được đưa vào khuyến cáo."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "II · Tiên lượng · Thang điểm",
+   "title": "Thang điểm và yếu tố nguy cơ",
+   "ref": "Câu 4 · Bình luận",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "TỬ VONG",
+     "t": "APACHE II",
+     "d": "Diện tích dưới đường cong 0,91",
+     "items": [
+      "Cao nhất trong 30 nghiên cứu, 5988 người bệnh",
+      "Thường tính trong 24 giờ đầu"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "LOẠI TRỪ",
+     "t": "HAPS = 0",
+     "d": "Loại trừ viêm tụy nặng, giá trị 0,97",
+     "items": [
+      "HAPS, SIRS, BISAP: giá trị dự báo âm > 98% cho suy đa tạng",
+      "PASS: diện tích 0,827"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "NGUY CƠ",
+     "t": "Người bệnh",
+     "d": "Yếu tố làm tăng khả năng viêm tụy nặng",
+     "items": [
+      "Tuổi ≥ 65 · Charlson ≥ 3",
+      "BMI > 25 · nhiều mỡ tạng",
+      "Tăng triglyceride"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Với các thang điểm đa yếu tố, phân tích gộp 30 nghiên cứu gần 6000 người bệnh cho thấy APACHE II, thường tính trong 24 giờ đầu, có giá trị dự báo tử vong cao nhất, diện tích dưới đường cong 0,91.",
+    "Để loại trừ, điểm HAPS bằng không giúp loại trừ viêm tụy nặng với giá trị 0,97. Trong một nghiên cứu đa trung tâm hơn 1500 người bệnh, HAPS, SIRS và BISAP đều có giá trị dự báo âm trên 98% để loại trừ suy đa tạng. Điểm PASS có diện tích dưới đường cong 0,827.",
+    "Về phía người bệnh, các yếu tố nguy cơ viêm tụy nặng gồm tuổi từ 65 trở lên, bệnh nền nặng với chỉ số Charlson từ 3 trở lên, chỉ số khối cơ thể trên 25, nhiều mỡ tạng và tăng triglyceride."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "box",
+   "chapter": "II · Tiên lượng · Câu 5",
+   "title": "Suy tạng kéo dài quyết định kết cục",
+   "ref": "Câu 5 · Khuyến cáo mạnh, bằng chứng cao",
+   "box": {
+    "tag": "CÂU 5 · KHUYẾN CÁO",
+    "t": "<b>Suy tạng kéo dài trên 48 giờ</b> là yếu tố lâm sàng quan trọng nhất quyết định tử vong, và nên dùng để dự báo kết cục.",
+    "at": 0,
+    "c": "coral",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "TỬ VONG",
+     "t": "39–42% khi suy tạng kéo dài (các đoàn hệ lớn)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "ATLANTA SỬA ĐỔI",
+     "t": "Phân loại mức độ nặng được dùng rộng rãi nhất",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "PEARL",
+     "t": "Nhiễm trùng hoại tử <em>tự nó</em> không làm tăng tử vong, trừ khi kèm suy tạng",
+     "at": 2,
+     "hl": "L2",
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Câu hỏi năm: chiến lược tốt nhất để dự báo kết cục trong lúc nằm viện. Đây là khuyến cáo mạnh với bằng chứng cao: suy tạng kéo dài trên 48 giờ là yếu tố lâm sàng quan trọng nhất quyết định tử vong.",
+    "Trong các đoàn hệ lớn, suy tạng kéo dài đi kèm tử vong 39 đến 42%. Phân loại Atlanta sửa đổi, phân loại được dùng rộng rãi nhất, cũng định nghĩa viêm tụy nặng dựa trên suy tạng kéo dài. Suy tạng kéo dài liên quan với hoại tử tụy và nhiễm trùng hoại tử.",
+    "Một điểm tinh tế: nhiễm trùng hoại tử làm tăng bệnh tật, thời gian nằm viện và nhu cầu can thiệp, nhưng tự nó không làm tăng tử vong, trừ khi kèm suy tạng. Vì vậy, trong hồi sức, chúng ta theo dõi suy tạng hằng ngày, đó mới là thước đo sống còn."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "cards",
+   "chapter": "II · Chuyển viện · Câu 6",
+   "title": "Khi nào chuyển lên trung tâm lớn?",
+   "ref": "Câu 6 · Tuyên bố thực hành tốt",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "CHỈ ĐỊNH",
+     "t": "Suy tạng hoặc hoại tử nhiễm trùng",
+     "d": "Khi tại chỗ không có chuyên môn phù hợp",
+     "items": [],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "PHÒNG NGỪA",
+     "t": "Dự báo nặng",
+     "d": "SIRS kéo dài, nguy cơ xấu đi cao",
+     "items": [
+      "Thang điểm tiên lượng giúp ra quyết định",
+      "Không đáp ứng điều trị ban đầu"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "PHẢN ỨNG",
+     "t": "Đã có biến chứng",
+     "d": "Suy tạng, hoại tử nhiễm trùng cần can thiệp",
+     "items": [
+      "Trung tâm ≥ 118 ca/năm: giảm 25% nguy cơ tương đối tử vong"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Câu hỏi sáu: chỉ định chuyển lên trung tâm có số ca lớn. Tuyên bố thực hành tốt: nếu tại chỗ không có chuyên môn, nên chuyển người bệnh có suy tạng hoặc viêm tụy hoại tử nhiễm trùng.",
+    "Chuyển viện có hai dạng. Chuyển phòng ngừa, cân nhắc ở người bệnh dự báo nặng, như hội chứng đáp ứng viêm toàn thân kéo dài, có nguy cơ xấu đi cao khi tại chỗ chưa đủ điều kiện, hoặc người bệnh không đáp ứng điều trị ban đầu.",
+    "Chuyển phản ứng, khi đã có suy tạng hoặc hoại tử nhiễm trùng cần can thiệp mà tại chỗ không thực hiện được. Dữ liệu Hoa Kỳ cho thấy điều trị tại trung tâm từ 118 ca mỗi năm trở lên giảm 25% nguy cơ tương đối tử vong. Hướng dẫn khuyến khích xây dựng mạng lưới chuyển viện theo vùng, và luôn cân nhắc nguy cơ của chính quá trình vận chuyển."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "list",
+   "chapter": "III · Hình ảnh · Câu 7",
+   "title": "Chụp CT lần đầu: khi nào và vì sao không sớm?",
+   "ref": "Câu 7 · Khuyến cáo mạnh, bằng chứng trung bình",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Chỉ định",
+     "d": "Chẩn đoán không chắc chắn · không đáp ứng điều trị bảo tồn hoặc lâm sàng xấu đi",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Thời điểm tối ưu: ≥ 72–96 giờ",
+     "d": "Sau khởi phát, để đánh giá mức độ nặng bằng CTSI hoặc CTSI cải tiến",
+     "at": 0,
+     "hl": "L0",
+     "c": "coral"
+    },
+    {
+     "t": "Lý do 1",
+     "d": "CT sớm không cải thiện kết cục, phát hiện hoại tử sớm không đổi điều trị",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Lý do 2",
+     "d": "Thang điểm CT không hơn thang điểm lâm sàng",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Lý do 3",
+     "d": "Hoại tử chỉ hiện rõ toàn bộ sau 72–96 giờ",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "CT sớm vẫn có ích",
+     "d": "Loại trừ thiếu máu ruột, viêm túi mật, thủng, tắc ruột, cấp cứu mạch máu, chấn thương, ung thư",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực ba là hình ảnh học. Câu hỏi bảy, khuyến cáo mạnh, bằng chứng trung bình: chụp CT lần đầu khi chẩn đoán chưa chắc chắn, hoặc khi người bệnh không đáp ứng điều trị bảo tồn hay lâm sàng xấu đi. Để đánh giá mức độ nặng, thời điểm tối ưu là ít nhất 72 đến 96 giờ sau khởi phát.",
+    "Không chụp CT sớm thường quy trong 48 giờ đầu vì ba lý do. Một, không có bằng chứng CT sớm cải thiện kết cục, và phát hiện hoại tử sớm không làm thay đổi điều trị.",
+    "Hai, thang điểm CT không tốt hơn thang điểm lâm sàng trong tiên lượng. Ba, mức độ hoại tử tụy và quanh tụy chỉ hiện rõ hoàn toàn sau 72 đến 96 giờ.",
+    "Tuy vậy, CT sớm vẫn có ích khi đau bụng cấp mà chẩn đoán chưa rõ, để loại trừ thiếu máu ruột, viêm túi mật cấp, thủng hay tắc ruột, cấp cứu mạch máu, tổn thương tụy do chấn thương, hoặc viêm tụy do ung thư."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "cards",
+   "chapter": "III · Hình ảnh · Câu 8–9",
+   "title": "Chụp lại và quy trình chụp",
+   "ref": "Câu 8–9 · Tuyên bố thực hành tốt",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "CHỤP LẠI",
+     "t": "Không chụp hằng tuần",
+     "d": "CT cản quang khi tính can thiệp hoặc lâm sàng xấu đi",
+     "items": [
+      "MRI phân biệt nang giả và hoại tử bao bọc sau 3–4 tuần",
+      "MRI khi dị ứng cản quang, suy thận, người trẻ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "QUY TRÌNH CT",
+     "t": "Lát cắt ≤ 2 mm",
+     "d": "Pha tụy + tĩnh mạch cửa (trễ 50–70 giây)",
+     "items": [
+      "100–150 ml cản quang, 3 ml/giây",
+      "Theo dõi: chỉ pha tĩnh mạch cửa",
+      "Nghi giả phình: thêm pha động mạch"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "HOẠI TỬ TRÊN CT",
+     "t": "Vùng không ngấm thuốc > 1 cm²",
+     "d": "< 30–50 HU, hoặc tăng < 15 HU sau tiêm",
+     "items": [
+      "MRI: FS-T2W đủ để thấy mô hoại tử trong ổ dịch"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Câu hỏi tám: chụp lại khi nào? Không có bằng chứng ủng hộ chụp CT định kỳ hằng tuần. Chụp lại CT cản quang khi tính can thiệp biến chứng tại chỗ, hoặc khi lâm sàng xấu đi. Giả phình động mạch có thể chỉ biểu hiện khi đã chảy máu, nhưng hiếm, nên không biện minh cho chụp thường quy.",
+    "Cộng hưởng từ cần thiết để phân biệt nang giả tụy với hoại tử bao bọc, sau ít nhất 3 đến 4 tuần, vì CT thường không thấy được mô hoại tử trong ổ dịch chủ yếu là dịch. Cộng hưởng từ cũng phù hợp khi dị ứng thuốc cản quang, suy thận, và ở người trẻ để tránh tia xạ.",
+    "Câu hỏi chín về quy trình chụp: CT đa dãy lát cắt mỏng từ 2 milimét trở xuống, ở pha tụy và pha tĩnh mạch cửa, trễ 50 đến 70 giây, sau tiêm 100 đến 150 mililít thuốc cản quang không ion hoá với tốc độ 3 mililít mỗi giây. Khi theo dõi, chỉ pha tĩnh mạch cửa là thường đủ. Nếu nghi giả phình, thêm pha động mạch.",
+    "Hoại tử tụy được xác định khi có vùng không ngấm thuốc trên 1 centimét vuông, đậm độ dưới 30 đến 50 đơn vị Hounsfield, hoặc tăng dưới 15 đơn vị sau tiêm. Với cộng hưởng từ, chuỗi xung T2 xoá mỡ là đủ để phân định phần hoại tử và phần dịch."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy thường gặp ở giai đoạn nhận diện",
+   "ref": "Tổng hợp Câu 1–9",
+   "box": {
+    "tag": "BẪY",
+    "t": "Lipase chỉ 2 lần giới hạn trên nhưng đau điển hình và CT có viêm tụy → <b>vẫn đủ chẩn đoán</b>. Ngược lại, lipase 5 lần không phải lúc nào cũng là viêm tụy.",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Đo lipase hằng ngày để “theo dõi mức độ nặng”",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Chụp CT ngay ngày đầu để chấm điểm mức độ nặng",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Đánh giá SIRS một lần lúc nhập rồi thôi",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Bỏ sót siêu âm túi mật và ALT, ung thư ở người > 50 tuổi",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Trước khi sang câu hỏi tình huống, xin điểm năm bẫy thực hành. Bẫy thứ nhất: lipase chỉ tăng hai lần, nhưng đau điển hình và CT có hình ảnh viêm tụy, thì vẫn đủ hai trên ba tiêu chuẩn. Ngược lại, lipase tăng năm lần chưa chắc là viêm tụy.",
+    "Bẫy thứ hai: đo lipase hằng ngày để theo dõi mức độ nặng. Men tụy không tương quan với diễn tiến.",
+    "Bẫy thứ ba: chụp CT ngay ngày đầu để chấm điểm mức độ nặng, trong khi hoại tử chỉ hiện rõ sau 72 đến 96 giờ.",
+    "Bẫy thứ tư: chỉ đánh giá hội chứng đáp ứng viêm toàn thân một lần lúc nhập viện. Chính sự kéo dài ở giờ thứ 48 mới có giá trị.",
+    "Bẫy thứ năm: quên siêu âm túi mật và men gan để tìm sỏi, và quên loại trừ ung thư tụy ở người trên 50 tuổi không rõ nguyên nhân."
+   ]
+  },
+  {
+   "id": "s18",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: đau thượng vị tại khoa cấp cứu",
+   "case": "Nữ 52 tuổi, đau thượng vị lan sau lưng <b>6 giờ</b>. Lipase <b>5 lần</b> giới hạn trên, <b>ALT 320 U/L</b>. Siêu âm: túi mật nhiều sỏi. Mạch 108, nhiệt độ 38,3 °C, bạch cầu 15 G/l. Huyết áp ổn, chưa suy tạng.",
+   "case_at": 1,
+   "q": "Hướng xử trí đúng theo IAP 2025?",
+   "q_at": 2,
+   "options": [
+    "Chụp CT cản quang ngay để tính điểm CTSI",
+    "Đủ chẩn đoán; nghĩ sỏi mật; đánh giá lại SIRS ở giờ 48 ± CRP hoặc IL-6",
+    "Đo lipase mỗi ngày để theo dõi mức độ nặng",
+    "Chờ CT để khẳng định chẩn đoán viêm tụy"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Đủ 2/3 tiêu chuẩn (đau + lipase > 3 lần) → không cần CT để chẩn đoán. ALT > 150 U/L trong 48 giờ + sỏi túi mật → nghĩ nguyên nhân sỏi mật. SIRS lúc nhập: đánh giá lại SIRS kéo dài ở giờ 48, phối hợp CRP/IL-6.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nữ 52 tuổi, đau thượng vị lan ra sau lưng 6 giờ. Lipase tăng năm lần giới hạn trên, ALT 320 đơn vị mỗi lít. Siêu âm thấy túi mật nhiều sỏi. Mạch 108 lần mỗi phút, sốt 38,3 độ, bạch cầu 15 giga mỗi lít. Huyết áp ổn, chưa có suy tạng.",
+    "Hướng xử trí nào đúng theo hướng dẫn 2025?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Người bệnh đã đủ hai trên ba tiêu chuẩn, nên không cần CT để chẩn đoán. ALT trên 150 trong 48 giờ đầu cùng sỏi túi mật gợi ý mạnh nguyên nhân sỏi mật. Người bệnh có hội chứng đáp ứng viêm toàn thân lúc nhập viện, cần đánh giá lại ở giờ thứ 48, phối hợp CRP hoặc IL-6. Chụp CT ngay để chấm điểm là quá sớm, và đo lipase hằng ngày không giúp theo dõi."
+   ]
+  },
+  {
+   "id": "s19",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: tại khoa hồi sức",
+   "case": "Nam 60 tuổi, viêm tụy cấp do rượu. <b>Suy hô hấp từ lúc nhập viện, kéo dài 72 giờ</b>. CT ngày 4: hoại tử khoảng 30% nhu mô, chưa có dấu hiệu nhiễm trùng. Gia đình hỏi về tiên lượng.",
+   "case_at": 1,
+   "q": "Yếu tố quan trọng nhất quyết định tử vong ở người bệnh này?",
+   "q_at": 2,
+   "options": [
+    "Tỷ lệ hoại tử 30% nhu mô",
+    "Nồng độ lipase lúc nhập viện",
+    "Suy tạng kéo dài trên 48 giờ",
+    "Nguyên nhân do rượu"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Câu 5 (mạnh, bằng chứng cao): suy tạng kéo dài > 48 giờ là yếu tố quyết định tử vong (39–42%) → viêm tụy cấp nặng theo Atlanta sửa đổi. Hoại tử, kể cả nhiễm trùng, tự nó không làm tăng tử vong nếu không có suy tạng.",
+   "lines": [
+    "Tình huống thứ hai, tại khoa hồi sức.",
+    "Người bệnh nam 60 tuổi, viêm tụy cấp do rượu, suy hô hấp ngay từ lúc nhập viện và kéo dài 72 giờ. CT ngày thứ tư thấy hoại tử khoảng 30% nhu mô, chưa có dấu hiệu nhiễm trùng. Gia đình hỏi về tiên lượng.",
+    "Yếu tố nào quan trọng nhất quyết định nguy cơ tử vong?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là suy tạng kéo dài trên 48 giờ. Đây là khuyến cáo mạnh với bằng chứng cao trong câu hỏi năm, và người bệnh được xếp là viêm tụy cấp nặng theo Atlanta sửa đổi, với tử vong khoảng 40%. Tỷ lệ hoại tử quan trọng cho biến chứng tại chỗ, nhưng hoại tử, kể cả khi nhiễm trùng, tự nó không làm tăng tử vong nếu không có suy tạng. Lipase và nguyên nhân không quyết định tiên lượng."
+   ]
+  },
+  {
+   "id": "s20",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 1",
+   "title": "Sáu thông điệp của Phần 1",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Chẩn đoán: 2 trên 3 tiêu chuẩn",
+     "d": "Đau · men > 3 lần · hình ảnh",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Men tụy: không đo lặp",
+     "d": "Không tương quan với diễn tiến",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Nguyên nhân: sỏi mật, rượu",
+     "d": "ALT > 150 · siêu âm · canxi · triglyceride",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Vô căn: siêu âm → nội soi siêu âm → MRCP → gen",
+     "d": "> 50 tuổi: loại trừ ung thư",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Tiên lượng: SIRS lúc nhập và giờ 48",
+     "d": "± CRP, IL-6 · suy tạng > 48 giờ quyết định tử vong",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "CT: không sớm thường quy",
+     "d": "≥ 72–96 giờ để đánh giá mức độ nặng",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần một, xin tóm tắt những thông điệp chính.",
+    "Chẩn đoán viêm tụy cấp dựa trên hai trong ba tiêu chuẩn, và không cần đo men tụy lặp lại.",
+    "Tìm nguyên nhân ngay khi nằm viện, sỏi mật và rượu là hàng đầu. Với viêm tụy vô căn, đi theo trình tự siêu âm lại, siêu âm nội soi, cộng hưởng từ mật tụy, rồi xét nghiệm gen.",
+    "Tiên lượng dựa vào hội chứng đáp ứng viêm toàn thân lúc nhập và ở giờ 48, phối hợp CRP hoặc IL-6; và suy tạng kéo dài trên 48 giờ là yếu tố quyết định tử vong. CT không chụp sớm thường quy, mà chụp sau 72 đến 96 giờ khi cần đánh giá mức độ nặng.",
+    "Phần hai sẽ bàn về 72 giờ vàng: bù dịch bằng Ringer lactat với tốc độ vừa phải, giảm đau, chỉ định vào hồi sức và sử dụng kháng sinh. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
