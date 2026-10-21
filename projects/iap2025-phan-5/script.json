@@ -1,0 +1,800 @@
+{
+ "title": "Viêm tụy cấp IAP 2025 – Phần 5: Thể đặc biệt, sau xuất viện và tổng kết",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tiêu hoá – Hồi sức",
+ "part": "Viêm tụy cấp IAP 2025 · Phần 5/5",
+ "source_short": "Nguồn: IAP Revised Guidelines on Acute Pancreatitis 2025 – Pancreatology",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "International Association of Pancreatology Revised Guidelines on Acute Pancreatitis 2025 (IAP/APA/EPC/IPC/JPS). Pancreatology 2025.",
+ "lexicon": {
+  "echinocandin": "ê khi nô can đin",
+  "Pseudomonas": "xu đô mô nát",
+  "APACHE II": "a pa chi hai",
+  "APACHE-II": "a pa chi hai",
+  "WATERFALL": "oa tơ phôn",
+  "Marshall": "Mác san",
+  "IAP/APA": "i a pê, a pê a",
+  "Candida": "can đi đa",
+  "step-up": "xơ tép ắp",
+  "Step-up": "Xơ tép ắp",
+  "BISAP": "bi sáp",
+  "GRADE": "grết",
+  "NSAID": "en sết",
+  "WSACS": "đáp liu ét a xê ét",
+  "HbA1c": "hê mô glô bin a một xê",
+  "APOC3": "a pô xê ba",
+  "FLUYT": "phờ lai",
+  "SNAPP": "xờ náp",
+  "ORAI1": "ô rai một",
+  "COX-2": "cốc hai",
+  "HAPS": "háp",
+  "PASS": "pát",
+  "CTSI": "xê tê ét i",
+  "PICO": "pi cô",
+  "IL-6": "in tơ lơ kin sáu",
+  "SIRS": "xia",
+  "MRCP": "em a xê pê",
+  "Gram": "gram",
+  "ERCP": "e a xê pê",
+  "LAMS": "lam",
+  "VARD": "va",
+  "μg/g": "micrôgam mỗi gam",
+  "IAP": "i a pê",
+  "CRP": "xê rê pê",
+  "MRI": "em a i",
+  "ALT": "a eo tê",
+  "PCA": "pê xê a",
+  "HU": "đơn vị hao phin",
+  "T2": "tê hai",
+  "CT": "xê tê"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "pancreas",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 5/5",
+   "title": "Thể đặc biệt<br>& sau xuất viện",
+   "subtitle": "Phần 5 · Tăng triglyceride, thai kỳ, tổng kết",
+   "badges": [
+    {
+     "t": "Câu 64–96",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Cắt túi mật",
+     "c": "amber",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Theo dõi lâu dài",
+     "c": "blue",
+     "at": "L1+3"
+    }
+   ],
+   "note": "IAP Revised Guidelines on Acute Pancreatitis 2025 · lĩnh vực XIII–XVIII · phần cuối loạt bài",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm, phần cuối cùng của loạt bài về Hướng dẫn xử trí viêm tụy cấp năm 2025, trên Thư Viện Y Khoa Online.",
+    "Hôm nay chúng ta chọn lọc những thể đặc biệt có giá trị thực hành cao nhất: viêm tụy do tăng triglyceride, phòng viêm tụy sau nội soi mật tụy ngược dòng, và viêm tụy trong thai kỳ. Sau đó là điều trị đích, tiêu chuẩn xuất viện, thời điểm cắt túi mật, và theo dõi lâu dài.",
+    "Cuối phần, chúng ta sẽ ôn lại toàn bộ loạt bài. Các nội dung về viêm tụy ở trẻ em, cường cận giáp và chấn thương tụy, quý vị có thể đọc thêm trong bản dịch đầy đủ."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "XIII · Tăng triglyceride · Câu 64",
+   "title": "Viêm tụy do tăng triglyceride: hạ triglyceride bằng insulin",
+   "ref": "Câu 64 · Insulin: mạnh, trung bình · Heparin TLPTT: có điều kiện, trung bình",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "GÁNH NẶNG",
+     "t": "Tới 10% số ca",
+     "d": "Nguyên nhân thứ hai ở Trung Quốc",
+     "items": [
+      "Nặng hơn: nhiều SIRS, suy tạng kéo dài, biến chứng, tử vong",
+      "Cơ chế: chylomicron gây thiếu máu, acid béo tự do làm tổn thương tế bào nang"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "ĐIỀU TRỊ ĐẦU TAY",
+     "t": "Insulin",
+     "d": "Khuyến cáo ở người đái tháo đường; có thể cân nhắc ở người không đái tháo đường",
+     "items": [
+      "Kích hoạt lipoprotein lipase",
+      "Nhịn ăn và truyền dịch cũng giúp hạ triglyceride"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "PHỐI HỢP",
+     "t": "Heparin TLPT thấp < 3 ngày",
+     "d": "Có thể cân nhắc",
+     "items": [
+      "Dùng kéo dài: cạn lipoprotein lipase, triglyceride tăng dội",
+      "RCT: insulin + heparin TLPT thấp ít suy tạng hơn lọc huyết tương"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực mười ba bàn về các thể đặc biệt. Viêm tụy do tăng triglyceride chiếm tới 10% số ca, là nguyên nhân đứng thứ hai ở Trung Quốc, và thường nặng hơn, với nhiều hội chứng đáp ứng viêm toàn thân, suy tạng kéo dài, biến chứng tại chỗ và tử vong. Cơ chế được cho là chylomicron làm tắc vi tuần hoàn tụy gây thiếu máu và toan hoá, và acid béo tự do giải phóng quá mức làm tổn thương tế bào nang.",
+    "Câu hỏi sáu mươi bốn, khuyến cáo mạnh, bằng chứng trung bình: ngoài điều trị chuẩn, insulin là liệu pháp đầu tay để hạ triglyceride ở người đái tháo đường, và có thể cân nhắc ở người không đái tháo đường. Insulin kích hoạt lipoprotein lipase, đẩy nhanh phân giải triglyceride. Nhịn ăn và truyền dịch tự thân cũng giúp hạ triglyceride.",
+    "Có thể cân nhắc thêm heparin trọng lượng phân tử thấp ngắn ngày, dưới 3 ngày, khuyến cáo có điều kiện. Dùng heparin kéo dài sẽ làm cạn lipoprotein lipase và gây tăng triglyceride dội ngược. Một thử nghiệm cho thấy insulin phối hợp heparin trọng lượng phân tử thấp ít suy tạng hơn lọc huyết tương. Tránh heparin khi có rối loạn đông máu hoặc suy thận."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "box",
+   "chapter": "XIII · Tăng triglyceride · Câu 65",
+   "title": "Lọc huyết tương: chọn lọc, không thường quy",
+   "ref": "Câu 65 · Có điều kiện, bằng chứng thấp",
+   "box": {
+    "tag": "CÂU 65 · KHUYẾN CÁO",
+    "t": "Có thể cân nhắc <b>lọc huyết tương</b> khi có <b>suy tạng kéo dài</b> kèm triglyceride cao, <b>đặc biệt khi suy thận cấp</b>.",
+    "at": 0,
+    "c": "amber",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Hạ triglyceride nhanh nhưng chưa rõ cải thiện kết cục; đoàn hệ đa trung tâm: không giảm suy tạng, tăng thời gian hồi sức",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "KỸ THUẬT",
+     "t": "Chống đông bằng citrat thay heparin · có thể phối hợp lọc máu",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "CÂN NHẮC",
+     "t": "Chi phí cao, xâm lấn, nguy cơ biến cố → dùng chọn lọc",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Câu hỏi sáu mươi lăm, khuyến cáo có điều kiện, bằng chứng thấp: có thể cân nhắc lọc huyết tương khi có suy tạng kéo dài với triglyceride cao, đặc biệt khi có suy thận cấp.",
+    "Các loạt ca cho thấy lọc huyết tương hạ triglyceride hiệu quả, nhưng tổng quan hệ thống không thấy bằng chứng rõ cải thiện kết cục. Một đoàn hệ tiến cứu đa trung tâm thấy lọc huyết tương không giảm tỷ lệ và thời gian suy tạng, mà còn kéo dài thời gian nằm hồi sức.",
+    "Về kỹ thuật, nên chống đông bằng citrat thay cho heparin để giảm nguy cơ chảy máu, và có thể phối hợp với lọc máu khi có suy thận.",
+    "Do chi phí cao, xâm lấn, lợi ích chưa rõ và nguy cơ biến cố, lọc huyết tương chỉ nên dùng chọn lọc, không phải cho mọi người bệnh có triglyceride cao."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "timeline",
+   "chapter": "XIII · Tăng triglyceride · Câu 66–67",
+   "title": "Dinh dưỡng và mục tiêu triglyceride lâu dài",
+   "ref": "Câu 66 · Mạnh, thấp · Câu 67 · Có điều kiện, thấp",
+   "events": [
+    {
+     "year": "48 giờ đầu",
+     "t": "Nhịn ăn",
+     "d": "Insulin + nhịn 24 giờ: giảm 87% (so với 40%)",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "year": "Sau đó",
+     "t": "Ăn mềm ít béo",
+     "d": "Không dung nạp → sonde dạ dày hoặc hỗng tràng",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "year": "Nuôi TM",
+     "t": "Ngưng lipid",
+     "d": "Khi triglyceride ≥ 400 mg/dL",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "year": "Ra viện",
+     "t": "< 500 mg/dL",
+     "d": "Duy trì lâu dài để phòng tái phát",
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "note": {
+    "t": "Tái phát 8% ở 12 tháng, 22% ở 18 tháng · fenofibrate thường dùng · volanesorsen, olezarsen (ức chế APOC3) giảm tái phát ở tăng triglyceride gia đình",
+    "at": 3,
+    "c": "violet"
+   },
+   "lines": [
+    "Câu hỏi sáu mươi sáu, khuyến cáo mạnh: đây là ngoại lệ của nguyên tắc cho ăn sớm. Người bệnh viêm tụy do tăng triglyceride nên nhịn ăn 48 giờ đầu, vì giúp hạ nhanh triglyceride. Một nghiên cứu cho thấy insulin tĩnh mạch kèm nhịn ăn 24 giờ giảm triglyceride 87%, so với 40% nếu chỉ dùng insulin.",
+    "Sau đó cho ăn mềm ít béo; nếu không dung nạp thì nuôi qua sonde dạ dày hoặc hỗng tràng. Nếu phải nuôi tĩnh mạch, không truyền nhũ dịch lipid khi triglyceride từ 400 miligam mỗi đềxilít trở lên.",
+    "Câu hỏi sáu mươi bảy, khuyến cáo có điều kiện: sau xuất viện, duy trì triglyceride dưới 500 miligam mỗi đềxilít để phòng tái phát. Một đoàn hệ hơn 41 nghìn người tăng triglyceride nặng cho thấy nguy cơ viêm tụy cao hơn rõ khi triglyceride còn từ 500 trở lên.",
+    "Tỷ lệ tái phát cộng dồn là 8% sau 12 tháng và 22% sau 18 tháng. Fenofibrate là thuốc thường dùng, dù chưa có thử nghiệm chứng minh phòng tái phát; còn các thuốc mới ức chế APOC3 như volanesorsen và olezarsen đã giảm tái phát ở người tăng triglyceride gia đình."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "XIII · Sau ERCP · Câu 68–71",
+   "title": "Phòng viêm tụy sau ERCP",
+   "ref": "Câu 68–71",
+   "head": [
+    "Biện pháp",
+    "Chỉ định",
+    "Mức khuyến cáo"
+   ],
+   "widths": "1fr 1.6fr 0.9fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ringer lactat vừa phải</b> quanh thủ thuật",
+      "Mọi người bệnh, kèm NSAID trực tràng · FLUYT: dịch tích cực không hơn dịch chuẩn",
+      "Mạnh · trung bình"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Indomethacin hoặc diclofenac đặt hậu môn</b>",
+      "Nguy cơ cao (mạnh, cao) <em>và cả nguy cơ trung bình</em> · trong 30 phút trước thủ thuật",
+      "Mạnh · cao / trung bình"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Stent ống tụy</b> dự phòng",
+      "Vô tình vào ống tụy nhiều lần hoặc bơm thuốc vào ống tụy · 5 Fr, 3–5 cm, rút sau 2–3 tuần nếu không tự rơi",
+      "Có điều kiện · trung bình"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>NSAID + stent</b>",
+      "Người bệnh nguy cơ cao · RCT 1950 người bệnh: 14,9% so với 11,3%",
+      "Có điều kiện · trung bình"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Phòng viêm tụy sau nội soi mật tụy ngược dòng có bốn khuyến cáo. Câu hỏi sáu mươi tám, khuyến cáo mạnh: truyền Ringer lactat với lượng vừa phải quanh thủ thuật, kèm thuốc kháng viêm không steroid đặt hậu môn. Nhiều trung tâm truyền ít nhất 1 lít trong lúc làm thủ thuật. Thử nghiệm FLUYT cho thấy truyền dịch tích cực không hơn dịch chuẩn khi đã dùng thuốc đặt hậu môn.",
+    "Câu hỏi sáu mươi chín: indomethacin hoặc diclofenac đặt hậu môn dự phòng được khuyến cáo mạnh ở người nguy cơ cao, bằng chứng cao; và cả người nguy cơ trung bình, bằng chứng trung bình. Nên đặt trong vòng 30 phút trước thủ thuật.",
+    "Câu hỏi bảy mươi, khuyến cáo có điều kiện: đặt stent ống tụy dự phòng khi vô tình đặt ống vào ống tụy nhiều lần hoặc bơm thuốc cản quang vào ống tụy. Stent 5 French, dài 3 đến 5 centimét, nên là loại một đuôi lợn không có ngạnh trong, và rút nếu không tự rơi sau 2 đến 3 tuần. Lưu ý đặt stent thất bại lại làm tăng nguy cơ viêm tụy.",
+    "Câu hỏi bảy mươi mốt: ở người nguy cơ cao, cân nhắc phối hợp thuốc đặt hậu môn với stent ống tụy. Thử nghiệm gần 2000 người bệnh nguy cơ cao cho tỷ lệ viêm tụy 14,9% khi chỉ dùng indomethacin, so với 11,3% khi thêm stent."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "cards",
+   "chapter": "XIII · Sau ERCP · Nguy cơ",
+   "title": "Ai là người nguy cơ cao viêm tụy sau ERCP?",
+   "ref": "Câu 69 · Bình luận",
+   "h": 520,
+   "cards": [
+    {
+     "tag": "NGƯỜI BỆNH",
+     "t": "Yếu tố cơ địa",
+     "d": "",
+     "items": [
+      "Người trẻ",
+      "Tiền sử viêm tụy sau ERCP",
+      "Nghi rối loạn chức năng cơ vòng Oddi"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "THỦ THUẬT",
+     "t": "Yếu tố kỹ thuật",
+     "d": "",
+     "items": [
+      "Đặt ống khó",
+      "Vào ống tụy nhiều lần, bơm thuốc vào ống tụy",
+      "Cắt cơ vòng mở đường trước (pre-cut, needle knife)"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CƠ CHẾ",
+     "t": "NSAID",
+     "d": "Có thể do ức chế phospholipase A2",
+     "items": [
+      "Rẻ, đơn giản, hiệu quả rõ"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Ai là người nguy cơ cao? Về cơ địa: người trẻ, có tiền sử viêm tụy sau nội soi mật tụy, hoặc nghi rối loạn chức năng cơ vòng Oddi.",
+    "Về thủ thuật: đặt ống khó, vào ống tụy nhiều lần, bơm thuốc vào ống tụy, và cắt cơ vòng mở đường trước bằng dao kim.",
+    "Cơ chế tác dụng của thuốc kháng viêm không steroid chưa rõ, có thể do ức chế phospholipase A2. Đây là biện pháp rẻ, đơn giản và hiệu quả rõ ràng, nên trở thành thường quy."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "XIII · Thai kỳ · Câu 76–79",
+   "title": "Viêm tụy cấp trong thai kỳ",
+   "ref": "Câu 76–79",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "CÂU 76 · TIÊN LƯỢNG",
+     "t": "1 / 10.000 thai kỳ",
+     "d": "Chủ yếu do sỏi mật",
+     "items": [
+      "Sinh non 12,1–30,1% · mất thai 0–33%",
+      "Tử vong mẹ và con chỉ gặp ở thể nặng; quý 1 nhiều biến cố thai hơn"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "CÂU 77 · HÌNH ẢNH",
+     "t": "Siêu âm bụng đầu tay",
+     "d": "Mạnh, bằng chứng thấp",
+     "items": [
+      "Không rõ → MRI không gadolinium, an toàn mọi quý",
+      "Tránh cản quang iod: nguy cơ suy giáp thai"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CÂU 78–79 · ĐIỀU TRỊ",
+     "t": "Như người không mang thai",
+     "d": "Phối hợp bác sĩ sản khoa",
+     "items": [
+      "Thể nhẹ do sỏi: cắt túi mật sớm, tốt nhất quý 2 – đầu quý 3 (mạnh, trung bình)",
+      "Tái phát trong thai kỳ tới 70% · tử vong thai khi bảo tồn 8,0% so với 2,6%"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Viêm tụy cấp trong thai kỳ hiếm, khoảng 1 trên 10 nghìn thai kỳ, chủ yếu do sỏi mật. Câu hỏi bảy mươi sáu: viêm tụy làm tăng sinh non, từ 12,1 đến 30,1%, và mất thai từ 0 đến 33%. Mọi trường hợp tử vong mẹ và thai đều xảy ra ở thể nặng, và viêm tụy ở quý một có nhiều biến cố thai hơn.",
+    "Câu hỏi bảy mươi bảy, khuyến cáo mạnh: siêu âm bụng là phương tiện hình ảnh đầu tay, không có tia xạ và nhạy với sỏi mật. Nếu không kết luận được, chụp cộng hưởng từ không gadolinium, an toàn ở mọi quý. Tránh thuốc cản quang iod vì nguy cơ suy giáp ở thai.",
+    "Câu hỏi bảy mươi tám: xử trí như người không mang thai, phối hợp với bác sĩ sản khoa, tránh thuốc có hại cho mẹ hoặc thai. Câu hỏi bảy mươi chín, khuyến cáo mạnh: với viêm tụy do sỏi thể nhẹ, cắt túi mật sớm, tốt nhất ở quý hai và đầu quý ba. Lý do: tái phát trong thai kỳ lên tới 70%, so với 20 đến 30% ở người thường, và tử vong thai ở nhóm bảo tồn là 8% so với 2,6% ở nhóm cắt túi mật. Cắt túi mật nội soi an toàn ở mọi quý."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "box",
+   "chapter": "XIV · Điều trị đích · Câu 80–81",
+   "title": "Điều trị đích: chưa có thuốc nào được khuyến cáo",
+   "ref": "Câu 80–81 · Tuyên bố thực hành tốt",
+   "box": {
+    "tag": "CÂU 80",
+    "t": "Hiện <b>chưa có điều trị đích hiệu quả</b>, nên không khuyến cáo điều trị đích nào. Tuần đầu vẫn chỉ là điều trị nâng đỡ.",
+    "at": 0,
+    "c": "violet",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "ĐÃ THẤT BẠI",
+     "t": "Lexipafant, pentoxifylline, ức chế protease, somatostatin, octreotide, truyền động mạch vùng",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "HỨA HẸN",
+     "t": "Heparin TLPT thấp, ức chế COX-2: cần xác nhận",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "ĐANG THỬ",
+     "t": "Ức chế kênh ORAI1, omega-3, tocilizumab, corticoid, infliximab",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực mười bốn là điều trị đích. Câu hỏi tám mươi: hiện chưa có điều trị đích hiệu quả, nên không khuyến cáo thuốc nào. Điều trị tuần đầu vẫn chỉ là các biện pháp nâng đỡ.",
+    "Nhiều nỗ lực đã thất bại: chất đối kháng yếu tố hoạt hoá tiểu cầu lexipafant, pentoxifylline, các thuốc ức chế protease, somatostatin và octreotide, và truyền động mạch vùng liên tục.",
+    "Câu hỏi tám mươi mốt: heparin trọng lượng phân tử thấp và thuốc ức chế COX-2 cho thấy hứa hẹn nhưng cần xác nhận. Các thuốc đang thử nghiệm gồm ức chế kênh ORAI1, omega-3, kháng thể kháng thụ thể IL-6 tocilizumab, corticoid và infliximab. Hướng dẫn kêu gọi các thử nghiệm nền tảng thích ứng như trong ung thư học."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "list",
+   "chapter": "XV · Xuất viện · Câu 82–83",
+   "title": "Khi nào an toàn cho xuất viện?",
+   "ref": "Câu 82–83 · Có điều kiện, bằng chứng thấp",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Tiêu chuẩn xuất viện",
+     "d": "Ổn định · ăn uống được · CRP và/hoặc bạch cầu cải thiện · hết sốt · không hoặc ít giảm đau không opioid",
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "t": "Tái nhập viện > 20%",
+     "d": "Tương đương suy tim; tăng tử vong và chi phí",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Yếu tố nguy cơ tái nhập",
+     "d": "Còn triệu chứng tiêu hoá · chưa ăn đặc · uống rượu · hoại tử tụy",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Quy trình theo ăn uống + CRP",
+     "d": "Nằm viện 6 ngày, tái nhập chỉ 5%",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Thang điểm tham khảo",
+     "d": "Chưa có thang xác nhận · SNAPP cao: tái nhập 68% so với 4% · PASS > 60: nhạy 68%, đặc hiệu 71%",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "t": "Tái nhập muộn",
+     "d": "Liên quan rượu → can thiệp cai rượu, cắt túi mật cùng đợt, kiểm soát lipid",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực mười lăm là xuất viện. Câu hỏi tám mươi hai, khuyến cáo có điều kiện: người bệnh ổn định, ăn uống được, CRP hoặc bạch cầu cải thiện, hết sốt, và không cần hoặc chỉ cần ít thuốc giảm đau không opioid, là đủ điều kiện xuất viện.",
+    "Tái nhập viện sau viêm tụy xảy ra ở hơn 20% người bệnh, tương đương suy tim, và liên quan tăng tử vong lẫn chi phí. Yếu tố nguy cơ gồm còn buồn nôn, nôn, tiêu chảy khi ra viện, chưa ăn được chế độ đặc, uống rượu nhiều và hoại tử tụy.",
+    "Một quy trình đa trung tâm dựa trên dung nạp ăn uống và CRP giảm cho thời gian nằm viện 6 ngày với tỷ lệ tái nhập chỉ 5%.",
+    "Câu hỏi tám mươi ba: chưa có thang điểm nào được xác nhận để quyết định xuất viện, nhưng có thể tham khảo SNAPP, với tái nhập 68% ở nhóm điểm cao so với 4% ở nhóm điểm thấp, và điểm PASS trên 60. Tái nhập muộn liên quan chặt với rượu, là mục tiêu can thiệp."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "XVI · Phòng tái phát · Câu 84–86",
+   "title": "Thời điểm cắt túi mật",
+   "ref": "Câu 84–86",
+   "head": [
+    "Bệnh cảnh",
+    "Khuyến cáo",
+    "Bằng chứng"
+   ],
+   "widths": "1fr 1.4fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "Viêm tụy do sỏi <b>nhẹ</b>",
+      "<em>Cắt túi mật ngay trong đợt nằm viện</em> · mạnh, trung bình",
+      "RCT: tái phát 9% (chờ) so với 2% (cùng đợt); giảm cả đái tháo đường sau viêm tụy"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Trung bình nặng – nặng</b>, hoại tử, ổ dịch",
+      "<em>Hoãn</em> đến khi ổ dịch gần hết · có điều kiện, thấp",
+      "Cắt sớm: tăng tử vong, biến chứng, nhiễm trùng · nên trong 8 tuần sau ra viện"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Đã ERCP + cắt cơ vòng",
+      "<em>Vẫn cắt túi mật</em> nếu mổ được · có điều kiện, trung bình",
+      "Tới 10% biến chứng mật khi chờ"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Nguy cơ phẫu thuật cao",
+      "Cắt cơ vòng đơn thuần là lựa chọn hợp lý",
+      "Người già nhiều bệnh nền; có thể còn cơn đau quặn mật"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực mười sáu là phòng tái phát. Câu hỏi tám mươi tư, khuyến cáo mạnh: với viêm tụy do sỏi thể nhẹ, cắt túi mật sớm ngay trong đợt nằm viện là an toàn. Một thử nghiệm đa trung tâm cho thấy tái phát viêm tụy 9% ở nhóm cắt túi mật trì hoãn, so với 2% ở nhóm cắt cùng đợt; kèm cải thiện chất lượng sống, tiết kiệm chi phí và giảm đái tháo đường sau viêm tụy.",
+    "Câu hỏi tám mươi lăm, khuyến cáo có điều kiện: với viêm tụy trung bình nặng và nặng, nhất là có hoại tử và ổ dịch, hoãn cắt túi mật đến khi ổ dịch gần hết. Cắt sớm làm tăng tử vong, biến chứng và nhiễm trùng. Một phân tích gợi ý nên cắt trong vòng 8 tuần sau xuất viện để giảm tái phát.",
+    "Câu hỏi tám mươi sáu: người đã nội soi mật tụy và cắt cơ vòng vẫn nên cắt túi mật nếu đủ điều kiện mổ, vì tới 10% gặp biến chứng mật khi chờ.",
+    "Với người nguy cơ phẫu thuật cao, như người già nhiều bệnh nền, cắt cơ vòng đơn thuần là lựa chọn hợp lý, dù một số vẫn có thể bị cơn đau quặn mật."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "XVII · Theo dõi lâu dài · Câu 87–89",
+   "title": "Viêm tụy cấp không kết thúc khi ra viện",
+   "ref": "Câu 87–88 · Mạnh, trung bình · Câu 89 · Có điều kiện, trung bình",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "CÂU 87 · TÁI KHÁM",
+     "t": "Định kỳ",
+     "d": "Biến chứng ngắn và dài hạn",
+     "items": [
+      "1/3 tái phát · 10% thành viêm tụy mạn",
+      "Ung thư tụy sau 5 năm: HR 2,02",
+      "Tử vong muộn: 26% sau 13 năm, gấp 3 dân số chung"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "CÂU 88 · ĐÁI THÁO ĐƯỜNG",
+     "t": "Tầm soát mọi người bệnh",
+     "d": "Glucose + HbA1c mỗi 12 tháng, bắt đầu từ 3–6 tháng",
+     "items": [
+      "Mới mắc 23%, cần insulin 15%",
+      "Thể nặng 39% so với nhẹ 14%"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CÂU 89 · SUY TỤY NGOẠI TIẾT",
+     "t": "27–35% sau ra viện",
+     "d": "Nhiều hơn khi hoại tử, thể nặng, do rượu",
+     "items": [
+      "Phân mỡ hoặc suy dinh dưỡng nặng + elastase phân < 100 μg/g",
+      "→ Bổ sung men tụy"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực mười bảy là theo dõi lâu dài. Câu hỏi tám mươi bảy, khuyến cáo mạnh: theo dõi định kỳ sau xuất viện. Tới một phần ba người bệnh tái phát, 10% tiến triển viêm tụy mạn, nguy cơ cao gấp bốn ở nam giới, do rượu và viêm tụy tái phát. Nguy cơ ung thư tụy sau 5 năm tăng gấp đôi, dù còn tranh luận. Tử vong muộn cũng đáng lo: 26% tử vong trong 13 năm theo dõi ở Hà Lan, và tử vong gấp ba dân số chung ở Hungary.",
+    "Câu hỏi tám mươi tám, khuyến cáo mạnh: tầm soát tiền đái tháo đường và đái tháo đường cho mọi người bệnh, bằng glucose và HbA1c mỗi 12 tháng, bắt đầu 3 đến 6 tháng sau hồi phục. Đái tháo đường mới mắc gặp ở 23%, cần insulin ở 15%; thể nặng 39% so với thể nhẹ 14%.",
+    "Câu hỏi tám mươi chín, khuyến cáo có điều kiện: suy tụy ngoại tiết gặp ở 27 đến 35% người bệnh sau ra viện, nhiều hơn khi hoại tử, thể nặng và do rượu. Người có phân mỡ hoặc suy dinh dưỡng nặng kèm elastase phân dưới 100 microgam mỗi gam nên được bổ sung men tụy."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "box",
+   "chapter": "XVII–XVIII · Phòng biến chứng · Ống tụy đứt rời",
+   "title": "Chất lượng sống, phòng tái phát và hội chứng ống tụy đứt rời",
+   "ref": "Câu 90–96",
+   "box": {
+    "tag": "CÂU 91",
+    "t": "<b>Loại bỏ nguyên nhân có thể điều trị</b>, gồm liệu pháp hành vi <b>cai rượu</b> và <b>bỏ thuốc lá</b>, để phòng tái phát và tiến triển viêm tụy mạn.",
+    "at": 0,
+    "c": "teal",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "CÂU 90",
+     "t": "Chất lượng sống kém, nhất là sau hoại tử → hỗ trợ tâm lý",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CÂU 92–94 · ỐNG TỤY ĐỨT RỜI",
+     "t": "Nghi khi hoại tử trung tâm tụy trên CT · chẩn đoán muộn bằng MRCP · đa số không triệu chứng",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CÂU 95–96",
+     "t": "Can thiệp khi rò ngoài lưu lượng cao, ổ dịch hoặc viêm tụy tái phát · nội soi ưu tiên",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Câu hỏi chín mươi mốt, tuyên bố thực hành tốt: loại bỏ các nguyên nhân có thể điều trị, gồm liệu pháp hành vi để cai rượu và bỏ thuốc lá, là chiến lược chính phòng tái phát và tiến triển thành viêm tụy mạn.",
+    "Câu hỏi chín mươi: chất lượng sống sau viêm tụy có thể kém, nhất là sau viêm tụy hoại tử, liên quan đau, dùng thuốc giảm đau, hút thuốc và khuyết tật. Người bệnh cần được chăm sóc liên tục và hỗ trợ tâm lý.",
+    "Lĩnh vực mười tám là hội chứng ống tụy đứt rời, gặp sau viêm tụy hoại tử. Hoại tử vùng trung tâm tụy trên CT giai đoạn cấp gợi ý biến chứng này; về sau chẩn đoán bằng cộng hưởng từ mật tụy. Phần lớn người bệnh không có triệu chứng.",
+    "Can thiệp khi có rò tụy ra ngoài lưu lượng cao kéo dài, ổ dịch tái phát có triệu chứng, hoặc viêm tụy tái phát ở phần tụy phía đuôi. Khi điều trị bảo tồn thất bại, nội soi là lựa chọn ưu tiên."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy của phần cuối",
+   "ref": "Tổng hợp Câu 64–96",
+   "box": {
+    "tag": "BẪY",
+    "t": "Viêm tụy nhẹ do sỏi, cho về và hẹn mổ túi mật sau 6–8 tuần → <b>tái phát 9%</b>; nên cắt ngay trong đợt nằm viện.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Lọc huyết tương cho mọi người bệnh triglyceride cao",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Truyền lipid khi nuôi tĩnh mạch ở người triglyceride ≥ 400",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Quên NSAID đặt hậu môn trước ERCP",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Không tầm soát đái tháo đường sau viêm tụy",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy của phần cuối. Bẫy thứ nhất: viêm tụy nhẹ do sỏi, cho về rồi hẹn mổ túi mật sau 6 đến 8 tuần. Tái phát sẽ là 9%, thay vì 2% nếu cắt ngay trong đợt nằm viện.",
+    "Bẫy thứ hai: lọc huyết tương cho mọi người bệnh triglyceride cao. Insulin mới là đầu tay; lọc huyết tương dành cho suy tạng kéo dài, nhất là suy thận.",
+    "Bẫy thứ ba: vẫn truyền nhũ dịch lipid khi nuôi tĩnh mạch ở người có triglyceride từ 400 trở lên.",
+    "Bẫy thứ tư: quên thuốc kháng viêm không steroid đặt hậu môn trước nội soi mật tụy, kể cả ở người nguy cơ trung bình.",
+    "Bẫy thứ năm: không tầm soát đái tháo đường sau viêm tụy, trong khi gần một phần tư người bệnh sẽ mắc."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: triglyceride 2800 mg/dL",
+   "case": "Nam 38 tuổi, viêm tụy cấp, <b>triglyceride 2800 mg/dL</b>, không đái tháo đường, glucose 180 mg/dL. Creatinin bình thường, <b>chưa có suy tạng</b>. Huyết thanh trắng đục.",
+   "case_at": 1,
+   "q": "Xử trí đặc hiệu phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Lọc huyết tương ngay vì triglyceride > 1000",
+    "Insulin truyền tĩnh mạch + theo dõi glucose, nhịn ăn 48 giờ, ± heparin TLPT thấp < 3 ngày",
+    "Nuôi tĩnh mạch có nhũ dịch lipid",
+    "Chỉ dùng fenofibrate"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Câu 64: insulin là đầu tay (có thể dùng cả ở người không đái tháo đường), ± heparin TLPT thấp ngắn ngày. Câu 66: nhịn 48 giờ rồi ăn mềm ít béo. Lọc huyết tương chỉ khi suy tạng kéo dài, nhất là suy thận (Câu 65). Không lipid khi TG ≥ 400.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 38 tuổi, viêm tụy cấp, triglyceride 2800 miligam mỗi đềxilít, không đái tháo đường, glucose 180. Creatinin bình thường, chưa có suy tạng. Huyết thanh trắng đục như sữa.",
+    "Xử trí đặc hiệu nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Insulin truyền tĩnh mạch là đầu tay, có thể dùng cả ở người không đái tháo đường với theo dõi glucose sát, có thể thêm heparin trọng lượng phân tử thấp dưới 3 ngày. Nhịn ăn 48 giờ giúp hạ triglyceride nhanh, sau đó ăn mềm ít béo. Lọc huyết tương chỉ cân nhắc khi suy tạng kéo dài, nhất là suy thận cấp. Không truyền lipid khi triglyceride từ 400 trở lên. Sau ra viện, duy trì triglyceride dưới 500."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: viêm tụy nhẹ do sỏi hồi phục",
+   "case": "Nữ 45 tuổi, viêm tụy cấp do sỏi túi mật thể nhẹ, <b>ngày 3 hết đau, ăn đặc được</b>, CRP giảm. Không viêm đường mật, không có ổ dịch. Đủ điều kiện phẫu thuật.",
+   "case_at": 1,
+   "q": "Kế hoạch phòng tái phát phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Cho về, hẹn cắt túi mật sau 6–8 tuần",
+    "Cắt túi mật nội soi ngay trong đợt nằm viện",
+    "ERCP cắt cơ vòng thay cho cắt túi mật",
+    "Chỉ dùng acid ursodeoxycholic và theo dõi"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Câu 84 (mạnh, trung bình): cắt túi mật trong cùng đợt nằm viện ở viêm tụy nhẹ do sỏi — tái phát 2% so với 9% khi trì hoãn. Hoãn chỉ dành cho thể trung bình nặng – nặng có ổ dịch (Câu 85). Cắt cơ vòng đơn thuần chỉ khi nguy cơ mổ cao.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nữ 45 tuổi, viêm tụy cấp do sỏi túi mật thể nhẹ. Ngày thứ ba hết đau, ăn đặc được, CRP giảm. Không viêm đường mật, không có ổ dịch, đủ điều kiện phẫu thuật.",
+    "Kế hoạch phòng tái phát nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là cắt túi mật nội soi ngay trong đợt nằm viện, khuyến cáo mạnh, bằng chứng trung bình, với tái phát 2% so với 9% nếu trì hoãn. Hoãn cắt túi mật chỉ dành cho viêm tụy trung bình nặng và nặng có hoại tử và ổ dịch. Cắt cơ vòng đơn thuần chỉ là lựa chọn khi nguy cơ phẫu thuật cao. Người bệnh này cũng cần được hẹn tầm soát đái tháo đường sau 3 đến 6 tháng."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "summary",
+   "chapter": "Tổng kết toàn bộ loạt bài",
+   "title": "Mười thông điệp của IAP 2025",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Chẩn đoán 2/3 · không đo men lặp",
+     "d": "CT sau 72–96 giờ khi cần",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "SIRS lúc nhập và giờ 48 ± IL-6",
+     "d": "Suy tạng > 48 giờ quyết định tử vong",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Ringer lactat 1,5 ml/kg/giờ",
+     "d": "Từ bỏ bù dịch tích cực",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Kháng sinh có chỉ định",
+     "d": "Không dự phòng, không probiotic",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Cho ăn sớm",
+     "d": "Sonde dạ dày hoặc hỗng tràng nếu cần",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "ERCP sớm chỉ khi viêm đường mật",
+     "d": "",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "t": "Bảo tồn trước · chờ 4 tuần · step-up",
+     "d": "Nội soi, LAMS khi hoại tử > 30%",
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "t": "Đo áp lực ổ bụng · nút mạch khi chảy máu",
+     "d": "",
+     "at": 4,
+     "c": "coral"
+    },
+    {
+     "t": "Tăng triglyceride: insulin · NSAID trước ERCP",
+     "d": "",
+     "at": 5,
+     "c": "teal"
+    },
+    {
+     "t": "Cắt túi mật cùng đợt · tầm soát đái tháo đường",
+     "d": "",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Để khép lại toàn bộ loạt bài, xin tóm tắt mười thông điệp quan trọng nhất của Hướng dẫn IAP 2025.",
+    "Một, chẩn đoán dựa trên hai trong ba tiêu chuẩn, không đo men tụy lặp lại, CT sau 72 đến 96 giờ khi cần. Hai, tiên lượng bằng hội chứng đáp ứng viêm toàn thân lúc nhập và ở giờ 48, phối hợp CRP hoặc IL-6, và suy tạng kéo dài quyết định tử vong.",
+    "Ba, bù dịch bằng Ringer lactat với tốc độ vừa phải 1,5 mililít mỗi kilôgam mỗi giờ. Bốn, kháng sinh chỉ khi có chỉ định; không dự phòng, không probiotic.",
+    "Năm, cho ăn sớm, nuôi qua sonde khi cần. Sáu, nội soi mật tụy sớm chỉ khi có viêm đường mật.",
+    "Bảy, hoại tử nhiễm trùng: bảo tồn trước, chờ khoảng 4 tuần, rồi step-up với nội soi ưu tiên. Tám, đo áp lực ổ bụng ở thể nặng, và nút mạch khi chảy máu động mạch.",
+    "Chín, viêm tụy do tăng triglyceride dùng insulin; dùng thuốc kháng viêm không steroid đặt hậu môn trước nội soi mật tụy. Mười, cắt túi mật ngay trong đợt nằm viện với thể nhẹ, và tầm soát đái tháo đường sau viêm tụy. Xin chân thành cảm ơn quý đồng nghiệp đã đồng hành cùng Thư Viện Y Khoa Online qua năm phần của loạt bài. Hẹn gặp lại quý vị trong những chuyên đề tiếp theo."
+   ]
+  }
+ ]
+}
