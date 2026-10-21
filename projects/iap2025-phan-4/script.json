@@ -1,0 +1,838 @@
+{
+ "title": "Viêm tụy cấp IAP 2025 – Phần 4: Can thiệp và biến chứng",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tiêu hoá – Hồi sức",
+ "part": "Viêm tụy cấp IAP 2025 · Phần 4/5",
+ "source_short": "Nguồn: IAP Revised Guidelines on Acute Pancreatitis 2025 – Pancreatology",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "International Association of Pancreatology Revised Guidelines on Acute Pancreatitis 2025 (IAP/APA/EPC/IPC/JPS). Pancreatology 2025.",
+ "lexicon": {
+  "echinocandin": "ê khi nô can đin",
+  "Pseudomonas": "xu đô mô nát",
+  "APACHE II": "a pa chi hai",
+  "APACHE-II": "a pa chi hai",
+  "WATERFALL": "oa tơ phôn",
+  "Marshall": "Mác san",
+  "IAP/APA": "i a pê, a pê a",
+  "Candida": "can đi đa",
+  "step-up": "xơ tép ắp",
+  "Step-up": "Xơ tép ắp",
+  "BISAP": "bi sáp",
+  "GRADE": "grết",
+  "NSAID": "en sết",
+  "WSACS": "đáp liu ét a xê ét",
+  "HAPS": "háp",
+  "PASS": "pát",
+  "CTSI": "xê tê ét i",
+  "PICO": "pi cô",
+  "IL-6": "in tơ lơ kin sáu",
+  "SIRS": "xia",
+  "MRCP": "em a xê pê",
+  "Gram": "gram",
+  "ERCP": "e a xê pê",
+  "LAMS": "lam",
+  "VARD": "va",
+  "IAP": "i a pê",
+  "CRP": "xê rê pê",
+  "MRI": "em a i",
+  "ALT": "a eo tê",
+  "PCA": "pê xê a",
+  "HU": "đơn vị hao phin",
+  "T2": "tê hai",
+  "CT": "xê tê"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "pancreas",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 4/5",
+   "title": "Can thiệp<br>và biến chứng",
+   "subtitle": "Phần 4 · Step-up, LAMS, áp lực ổ bụng",
+   "badges": [
+    {
+     "t": "Câu 36–51",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Chờ 4 tuần",
+     "c": "amber",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Step-up",
+     "c": "blue",
+     "at": "L1+3"
+    }
+   ],
+   "note": "IAP Revised Guidelines on Acute Pancreatitis 2025 · lĩnh vực XI–XII",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần bốn của loạt bài về Hướng dẫn xử trí viêm tụy cấp năm 2025.",
+    "Phần này bàn hai chủ đề lớn. Thứ nhất là can thiệp viêm tụy hoại tử: chỉ định, thời điểm, chiến lược từng bước, loại stent và các kỹ thuật cắt lọc. Thứ hai là các biến chứng không nhiễm trùng quan trọng với hồi sức: tăng áp lực ổ bụng, chảy máu và huyết khối tĩnh mạch tạng.",
+    "Nguyên tắc xuyên suốt có thể tóm trong ba chữ: chờ, dẫn lưu, rồi mới cắt lọc."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "list",
+   "chapter": "XI · Can thiệp · Câu 36",
+   "title": "Chỉ định can thiệp viêm tụy hoại tử",
+   "ref": "Câu 36 · Khuyến cáo mạnh, bằng chứng thấp",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Hoại tử nhiễm trùng + lâm sàng xấu đi",
+     "d": "Nghi ngờ hoặc đã xác định, tốt nhất khi ổ đã bao bọc",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Hoại tử bao bọc vô khuẩn có triệu chứng kéo dài",
+     "d": "Đau, tắc dạ dày – tá tràng, tắc mật, không nuôi dưỡng được",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "“Mệt mỏi kéo dài”",
+     "d": "Có thể can thiệp ở tuần thứ 6–8",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Ít gặp hơn",
+     "d": "Chảy máu tụy · thiếu máu ruột · rò ruột",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Hiếm",
+     "d": "Rò tụy – màng phổi · cổ trướng do tụy",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Không đáp ứng kháng sinh",
+     "d": "Là chỉ định can thiệp chắc chắn",
+     "at": 0,
+     "hl": "L0",
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực mười một là can thiệp. Câu hỏi ba mươi sáu, khuyến cáo mạnh: chỉ định thường gặp nhất là hoại tử nhiễm trùng, nghi ngờ hoặc đã xác định, kèm lâm sàng xấu đi, tốt nhất khi ổ hoại tử đã được bao bọc. Hoại tử nhiễm trùng không đáp ứng kháng sinh là chỉ định chắc chắn.",
+    "Chỉ định thứ hai là hoại tử bao bọc vô khuẩn nhưng có triệu chứng kéo dài: đau, đầy bụng không ăn được, nôn do ổ dịch chèn tắc đường ra dạ dày, vàng da tắc mật, sụt cân, hoặc mệt mỏi kéo dài. Người bệnh mệt mỏi kéo dài có lẽ nên được can thiệp ở tuần thứ 6 đến 8.",
+    "Chỉ định ít gặp hơn là chảy máu tụy, thiếu máu ruột và rò ruột; hiếm hơn nữa là rò tụy màng phổi và cổ trướng do tụy."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "timeline",
+   "chapter": "XI · Thời điểm · Câu 37–38",
+   "title": "Đồng hồ của hoại tử: vì sao chờ 4 tuần?",
+   "ref": "Câu 37 · Mạnh, thấp · Câu 38 · Có điều kiện, thấp",
+   "events": [
+    {
+     "year": "≤ 2 tuần",
+     "t": "Nhiễm sớm",
+     "d": "1/4 người bệnh nhiễm trùng ổ hoại tử",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "year": "3 tuần",
+     "t": "Bắt đầu có vỏ",
+     "d": "43% đã có thành bao bọc",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "year": "≈ 4 tuần",
+     "t": "Hoại tử bao bọc",
+     "d": "Ranh giới rõ, hoá lỏng → dẫn lưu",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "4–6 tuần",
+     "t": "Cắt lọc",
+     "d": "Ít chảy máu, dễ lấy mô chết",
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "note": {
+    "t": "Thảm hoạ ổ bụng (chảy máu, thủng tạng rỗng, thiếu máu ruột): can thiệp ngay, bất kể thời điểm",
+    "at": 3,
+    "c": "coral"
+   },
+   "lines": [
+    "Câu hỏi ba mươi bảy, khuyến cáo mạnh: nếu có thể, hoãn can thiệp hoại tử nhiễm trùng để ổ được bao bọc, ranh giới rõ hơn và mô hoại tử hoá lỏng, thường mất khoảng 4 tuần. Ở nhiều người bệnh, vỏ bao có thể hình thành sớm hơn.",
+    "Câu hỏi ba mươi tám, khuyến cáo có điều kiện: can thiệp sớm dưới 4 tuần, như dẫn lưu xuyên thành hoặc qua da, có thể phù hợp khi người bệnh hoại tử nhiễm trùng thất bại điều trị bảo tồn kể cả kháng sinh, miễn là ổ đã có vỏ bao ít nhất một phần. Thực tế, 43% người bệnh có vỏ bao trong 3 tuần đầu, và một phần tư bị nhiễm trùng ngay trong 2 tuần đầu.",
+    "Nhưng dù dẫn lưu sớm, cắt lọc hoại tử vẫn nên hoãn đến khi người bệnh ổn định, lý tưởng là 4 đến 6 tuần, vì khi đó mô hoại tử phân định rõ với mô lành, cắt lọc dễ hơn và ít chảy máu.",
+    "Ngoại lệ là các thảm hoạ ổ bụng như chảy máu, thủng tạng rỗng hay thiếu máu ruột, cần can thiệp ngay bất kể có hoại tử hay nhiễm trùng."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "box",
+   "chapter": "XI · Dẫn lưu ổ bụng · Câu 39",
+   "title": "Chọc dẫn lưu dịch ổ bụng giai đoạn cấp",
+   "ref": "Câu 39 · Có điều kiện, bằng chứng trung bình",
+   "box": {
+    "tag": "CÂU 39 · KHUYẾN CÁO",
+    "t": "Có thể <b>chọc dẫn lưu dịch ổ bụng</b> ở người bệnh viêm tụy cấp nặng có <b>dịch ổ bụng hoặc tiểu khung</b> trong giai đoạn cấp.",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "KHÔNG",
+     "t": "Dẫn lưu phúc mạc thường quy, có hoặc không rửa",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "CƠ CHẾ",
+     "t": "Loại bỏ dịch tiết giàu amylase, chất trung gian viêm",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Phân tích gộp có 3 RCT: lợi ích ở thể trung bình – nặng",
+     "at": 2,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Câu hỏi ba mươi chín, khuyến cáo có điều kiện, bằng chứng trung bình: có thể chọc dẫn lưu dịch ổ bụng ở người bệnh viêm tụy cấp nặng có dịch ổ bụng hoặc tiểu khung trong giai đoạn cấp.",
+    "Không có chỉ định dẫn lưu phúc mạc thường quy, có hay không rửa. Cơ sở là viêm nặng làm thoát dịch giàu amylase và protein vào ổ bụng trong 2 tuần đầu; dẫn lưu có thể loại bỏ các chất trung gian viêm, giảm viêm toàn thân.",
+    "Một số nghiên cứu hồi cứu và một phân tích gộp có ba thử nghiệm ngẫu nhiên cho thấy lợi ích của chọc dẫn lưu sớm ở viêm tụy trung bình nặng và nặng."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "timeline",
+   "chapter": "XI · Chiến lược · Câu 40",
+   "title": "Chiến lược step-up: chờ – dẫn lưu – cắt lọc",
+   "ref": "Câu 40 · Khuyến cáo mạnh, bằng chứng cao",
+   "events": [
+    {
+     "year": "Bước 1",
+     "t": "Kháng sinh",
+     "d": "+ hồi sức, dinh dưỡng",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "Bước 2",
+     "t": "Dẫn lưu",
+     "d": "Qua da hoặc nội soi xuyên thành",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "year": "Bước 3",
+     "t": "Cắt lọc tối thiểu",
+     "d": "Sau phúc mạc hoặc nội soi qua đường miệng",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "year": "Hiếm",
+     "t": "Mổ mở",
+     "d": "Thất bại hoặc thủng, thiếu máu ruột",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "note": {
+    "t": "Chỉ dẫn lưu là đủ ở 40–60% · RCT Hà Lan 98 người bệnh: 43% (nội soi) và 51% (phẫu thuật) khỏi chỉ với dẫn lưu",
+    "at": 1,
+    "c": "green"
+   },
+   "lines": [
+    "Câu hỏi bốn mươi, khuyến cáo mạnh với bằng chứng cao: chiến lược step-up gồm kháng sinh ban đầu, sau đó dẫn lưu qua da hoặc nội soi xuyên thành, và nếu cần mới cắt lọc xâm lấn tối thiểu qua đường sau phúc mạc hoặc nội soi qua đường miệng. Điều trị đã chuyển từ mổ cắt lọc sớm sang chiến lược trì hoãn, xâm lấn tối thiểu, từng bước.",
+    "Chỉ riêng dẫn lưu đã đủ ở 40 đến 60% người bệnh. Trong một thử nghiệm đa trung tâm tại Hà Lan trên 98 người bệnh, 43% nhóm nội soi và 51% nhóm phẫu thuật xâm lấn tối thiểu khỏi chỉ với dẫn lưu.",
+    "Khi dẫn lưu không đủ, bước tiếp theo là cắt lọc xâm lấn tối thiểu.",
+    "Mổ mở chỉ dành cho người không đáp ứng hoặc không phù hợp với kỹ thuật ít xâm lấn, và cho các chỉ định cấp như thủng tạng rỗng hay thiếu máu ruột."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "XI · Dẫn lưu · Câu 41",
+   "title": "Dẫn lưu qua da hay nội soi xuyên thành?",
+   "ref": "Câu 41 · Khuyến cáo mạnh, bằng chứng cao",
+   "head": [
+    "",
+    "Dẫn lưu qua da",
+    "Nội soi xuyên thành"
+   ],
+   "widths": "0.8fr 1.3fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ưu điểm</b>",
+      "Sẵn có; vào sau phúc mạc hai bên và tiểu khung; nhiều ống; rửa được",
+      "Dẫn lưu trong, tránh rò ra ngoài; nằm viện ngắn hơn"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Vị trí phù hợp</b>",
+      "Ổ cạnh đại tràng, tiểu khung",
+      "Ổ hậu cung mạc nối, sát dạ dày – tá tràng"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Bằng chứng</b>",
+      "Cổ điển trong step-up",
+      "3 RCT, 184 người bệnh: <em>ít suy tạng mới, ít rò tụy</em>"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Kết luận</b>",
+      "Bổ trợ khi ổ nhiều, lan rộng",
+      "<em>Ưu tiên</em> khi cả hai đều khả thi"
+     ],
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Câu hỏi bốn mươi mốt, khuyến cáo mạnh, bằng chứng cao: dẫn lưu qua da hoặc nội soi xuyên thành đều được, tuỳ vị trí ổ và kinh nghiệm tại chỗ. Dẫn lưu qua da có ưu điểm sẵn có, vào được sau phúc mạc hai bên và tiểu khung, đặt nhiều ống và rửa được. Nội soi cho dẫn lưu trong, tránh rò ra ngoài da.",
+    "Nội soi xuyên thành phù hợp với ổ ở hậu cung mạc nối gần dạ dày và tá tràng. Dẫn lưu qua da cần cho ổ cạnh đại tràng và tiểu khung, nơi nội soi không tiếp cận được.",
+    "Hai thử nghiệm cho thấy step-up nội soi và step-up phẫu thuật xâm lấn tối thiểu thành công tương đương, nhưng nội soi cho thời gian nằm viện ngắn hơn và ít rò tụy hơn. Phân tích gộp ba thử nghiệm với 184 người bệnh xác nhận nội soi giảm suy tạng mới và rò tụy.",
+    "Vì vậy, nội soi được ưu tiên khi cả hai cách đều khả thi; còn với ổ hoại tử nhiều và lan rộng, hai cách thường bổ trợ cho nhau."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "XI · Stent · Câu 42",
+   "title": "Stent nhựa hay stent kim loại áp lòng (LAMS)?",
+   "ref": "Câu 42 · Khuyến cáo mạnh, bằng chứng cao",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "KHUYẾN CÁO",
+     "t": "Cả hai đều dùng được",
+     "d": "Nhiều stent nhựa đuôi lợn kép 7–10 F hoặc LAMS",
+     "items": [
+      "LAMS ưu tiên khi hoại tử bao bọc nhiễm trùng",
+      "Hoặc mô hoại tử > 30% thể tích ổ"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "LAMS vượt trội",
+     "d": "Phân tích gộp mạng 28 nghiên cứu, 2974 người bệnh",
+     "items": [
+      "Dẫn lưu mô đặc tốt hơn",
+      "Cắt lọc trực tiếp qua lòng stent"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "MẸO KỸ THUẬT",
+     "t": "Stent nhựa đồng trục",
+     "d": "Đặt qua LAMS: giảm tắc stent và nhiễm trùng",
+     "items": [
+      "Đặt stent nhựa sau khi rút LAMS: giảm tái phát ổ dịch"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Câu hỏi bốn mươi hai, khuyến cáo mạnh, bằng chứng cao: có thể dùng nhiều stent nhựa hoặc stent kim loại áp lòng, gọi tắt là LAMS, để dẫn lưu nội soi. Tuy nhiên, LAMS được ưu tiên khi hoại tử bao bọc bị nhiễm trùng, hoặc khi mô hoại tử chiếm trên 30% thể tích ổ.",
+    "LAMS có đường kính lớn, dẫn lưu mô hoại tử đặc tốt hơn và cho phép đưa ống nội soi qua lòng stent để cắt lọc trực tiếp. Phân tích gộp mạng 28 nghiên cứu với gần 3000 người bệnh cho thấy LAMS vượt trội nhiều stent nhựa, dù hai thử nghiệm ngẫu nhiên không thấy khác biệt về số lần cắt lọc.",
+    "Hai mẹo kỹ thuật: đặt stent nhựa đồng trục qua LAMS giúp giảm tắc stent và nhiễm trùng; và đặt stent nhựa sau khi rút LAMS giúp giảm tái phát ổ dịch, dù không giảm nhu cầu can thiệp lại."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "list",
+   "chapter": "XI · Cắt lọc · Câu 43",
+   "title": "Khi nào cần cắt lọc hoại tử?",
+   "ref": "Câu 43 · Khuyến cáo mạnh, bằng chứng cao",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Sốt, nhiễm khuẩn huyết kéo dài",
+     "d": "Dù kháng sinh nhạy và dẫn lưu đầy đủ (qua da hoặc nội soi)",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Không cải thiện, không dẫn lưu được",
+     "d": "Kháng sinh đầy đủ nhưng không thể dẫn lưu qua da hay nội soi",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Dẫn lưu dễ thất bại khi",
+     "d": "Hoại tử > 50% nhu mô, nhiều mảnh hoại tử đặc",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "t": "Quản lý ống dẫn lưu chủ động",
+     "d": "Tăng cỡ ống, thêm ống cho ổ chưa dẫn lưu, rửa, đo vào – ra",
+     "at": 2,
+     "hl": "L2",
+     "c": "blue"
+    },
+    {
+     "t": "Tiêu chí kiểm soát nhiễm trùng",
+     "d": "Hết sốt; giảm procalcitonin, CRP, bạch cầu; hồi phục suy tạng",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Thời điểm",
+     "d": "Hoãn quá 4 tuần: ranh giới rõ, ít chảy máu",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Câu hỏi bốn mươi ba, khuyến cáo mạnh, bằng chứng cao: trong step-up, cắt lọc được chỉ định khi người bệnh còn sốt hoặc nhiễm khuẩn huyết kéo dài dù đã dùng kháng sinh nhạy và dẫn lưu đầy đủ; hoặc khi hoại tử nhiễm trùng không cải thiện mà không thể dẫn lưu qua da hay nội soi.",
+    "Dẫn lưu dễ thất bại khi ổ lớn, hoại tử trên 50% nhu mô và chứa nhiều mảnh hoại tử đặc.",
+    "Trước khi kết luận dẫn lưu thất bại, cần quản lý ống dẫn lưu chủ động: tăng cỡ ống, thêm ống cho ổ chưa được dẫn lưu, và rửa với theo dõi chặt lượng vào ra. Cách này làm tăng rõ tỷ lệ thành công của dẫn lưu qua da.",
+    "Tiêu chí kiểm soát nhiễm trùng gồm hết sốt, giảm procalcitonin, CRP và bạch cầu, và hồi phục suy tạng. Suy tạng nặng hơn hoặc mới xuất hiện khi đang dẫn lưu là tiêu chí để nâng bậc. Và cắt lọc nên được hoãn quá 4 tuần."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "compare",
+   "chapter": "XI · Cắt lọc · Câu 44",
+   "title": "Chọn kỹ thuật cắt lọc",
+   "ref": "Câu 44 · Khuyến cáo mạnh, bằng chứng cao",
+   "head": [
+    "Bối cảnh",
+    "Kỹ thuật ưu tiên",
+    "Ghi chú"
+   ],
+   "widths": "1.1fr 1.3fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "Đã dẫn lưu <b>nội soi</b> xuyên thành",
+      "Cắt lọc nội soi qua đường miệng",
+      "Lựa chọn hàng đầu; không làm khi bất ổn hay ổ chưa rõ ranh giới"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Đã dẫn lưu <b>qua da</b> sau phúc mạc",
+      "Cắt lọc sau phúc mạc qua đường ống (VARD, nội soi qua da)",
+      "Thường một thì, dẫn lưu liên tục sau mổ"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Hoại tử khu trú <b>hậu cung mạc nối</b>",
+      "Cắt lọc xuyên dạ dày bằng phẫu thuật (nội soi ổ bụng hoặc mổ)",
+      "178 ca: 96% một thì, tử vong 2%; cắt túi mật cùng lúc"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Ổ đặc chủ yếu, rò ruột, chảy máu",
+      "Mổ mở (hiếm)",
+      "Sau 28 ngày tử vong ≈ 10%; nhiều yếu tố nguy cơ: > 50%"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Câu hỏi bốn mươi bốn, khuyến cáo mạnh, bằng chứng cao: kỹ thuật xâm lấn tối thiểu được ưu tiên hơn mổ mở, khi ổ đã được bao bọc. Người đã dẫn lưu nội soi xuyên thành thì cắt lọc nội soi qua đường miệng. Nhìn chung, nội soi là lựa chọn hàng đầu, nhưng không làm khi người bệnh bất ổn hoặc ổ chưa phân định rõ. Một thử nghiệm 70 người bệnh ổn định cho thấy cắt lọc nội soi ngay từ đầu giúp giảm số lần can thiệp lại so với step-up.",
+    "Người đã dẫn lưu qua da theo đường sau phúc mạc thì cắt lọc sau phúc mạc qua chính đường ống, như cắt lọc sau phúc mạc có hỗ trợ video hoặc nội soi qua da, thường một thì và dẫn lưu liên tục sau mổ.",
+    "Với hoại tử bao bọc khu trú ở hậu cung mạc nối, cắt lọc xuyên dạ dày bằng phẫu thuật nội soi hoặc mổ mở là thủ thuật một thì hiệu quả. Trong một loạt 178 ca chọn lọc, 96% hoàn tất một thì với tử vong 2%, và có thể cắt túi mật cùng lúc ở người viêm tụy do sỏi.",
+    "Mổ mở hiếm khi cần, dành cho ổ chủ yếu là mô đặc, kèm rò ruột hay chảy máu. Mổ sau ngày thứ 28 có tử vong khoảng 10%, nhưng trên 50% khi có nhiều yếu tố nguy cơ."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "formula",
+   "chapter": "XII · Áp lực ổ bụng · Câu 45–46",
+   "title": "Tăng áp lực ổ bụng và hội chứng khoang bụng",
+   "ref": "Câu 45–46 · Tuyên bố thực hành tốt",
+   "main": {
+    "tag": "CÂU 45 · ĐỊNH NGHĨA",
+    "t": "Tăng áp lực ổ bụng: ≥ 12 mmHg kéo dài hoặc lặp lại",
+    "d": "Đo qua bàng quang, bơm tối đa 25 ml nước muối vô khuẩn (WSACS)",
+    "at": 0,
+    "c": "amber"
+   },
+   "op": "HỘI CHỨNG KHOANG BỤNG",
+   "op_at": 1,
+   "options": [
+    {
+     "t": "Áp lực ổ bụng > 20 mmHg kéo dài",
+     "d": "± áp lực tưới máu ổ bụng < 60 mmHg",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Rối loạn tạng mới hoặc tiến triển",
+     "d": "Thận, hô hấp, tuần hoàn, thiếu máu ruột",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực mười hai là các biến chứng không nhiễm trùng. Câu hỏi bốn mươi lăm: tăng áp lực ổ bụng được định nghĩa khi áp lực ổ bụng từ 12 milimét thuỷ ngân trở lên, kéo dài hoặc lặp lại.",
+    "Hội chứng khoang bụng là áp lực ổ bụng trên 20 milimét thuỷ ngân kéo dài, có hoặc không kèm áp lực tưới máu ổ bụng dưới 60,",
+    "và đi kèm rối loạn tạng mới xuất hiện hoặc tiến triển. Áp lực cao làm giảm tưới máu tạng trong ổ bụng, gây thiếu máu ruột, tăng chuyển vị vi khuẩn, và làm nặng tổn thương phổi, thận, tim mạch.",
+    "Câu hỏi bốn mươi sáu: nên đo áp lực ổ bụng ở người bệnh viêm tụy nặng, qua bàng quang với tối đa 25 mililít nước muối vô khuẩn theo Hiệp hội Thế giới về Hội chứng khoang bụng. Nếu trên 12, cần theo dõi định kỳ. Tăng áp lực ổ bụng gặp ở 17% người bệnh viêm tụy, cao hơn ở thể nặng, xuất hiện sớm và liên quan với suy tạng và tử vong."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "list",
+   "chapter": "XII · Áp lực ổ bụng · Câu 47–48",
+   "title": "Xử trí tăng áp lực ổ bụng",
+   "ref": "Câu 47 · Có điều kiện, thấp · Câu 48 · Có điều kiện, rất thấp",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Dẫn lưu qua da dịch ổ bụng, ổ dịch",
+     "d": "Giảm ≈ 2 mmHg giai đoạn sớm; rõ hơn khi nhiều dịch (< 1/2 người bệnh có đủ dịch)",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Giảm đau đầy đủ",
+     "d": "Giảm căng thành bụng",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Giải áp ống tiêu hoá",
+     "d": "Sonde dạ dày, sonde hậu môn",
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "t": "Tránh cân bằng dịch dương",
+     "d": "Sau giai đoạn bù dịch ban đầu · lọc máu liên tục sớm có thể giảm áp lực",
+     "at": 1,
+     "hl": "L1",
+     "c": "amber"
+    },
+    {
+     "t": "Mổ giải áp",
+     "d": "Khi hội chứng khoang bụng + suy tạng nặng dần + điều trị nội thất bại: tử vong 49% → 18% khi mổ sớm",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Bụng để mở",
+     "d": "Đóng tạm, hút áp lực âm + kéo cân liên tục · mở bụng khi không có biến chứng tụy khác có thể có hại",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Câu hỏi bốn mươi bảy, khuyến cáo có điều kiện: điều trị tăng áp lực ổ bụng bằng dẫn lưu qua da dịch ổ bụng và ổ dịch, giảm đau đầy đủ, giải áp ống tiêu hoá bằng sonde dạ dày hay sonde hậu môn, và tránh cân bằng dịch dương tích luỹ. Dẫn lưu dịch ổ bụng giảm khoảng 2 milimét thuỷ ngân ở giai đoạn sớm, rõ hơn khi có hội chứng khoang bụng và nhiều dịch, nhưng chưa đến một nửa người bệnh có đủ dịch để dẫn lưu.",
+    "Sau giai đoạn bù dịch ban đầu, phải tránh cân bằng dịch dương. Lọc máu tĩnh mạch tĩnh mạch liên tục sớm có thể giúp giảm áp lực ổ bụng ở viêm tụy nặng có hội chứng khoang bụng.",
+    "Câu hỏi bốn mươi tám, khuyến cáo có điều kiện, bằng chứng rất thấp: cân nhắc mổ giải áp khi hội chứng khoang bụng kèm suy tạng nặng dần và điều trị không mổ thất bại. Viêm tụy có hội chứng khoang bụng có tử vong 49%, nhưng ở người được mổ giải áp sớm là 18%. Mở bụng cũng là cách duy nhất loại trừ chắc chắn thiếu máu ruột.",
+    "Bụng để mở có nguy cơ rò ruột ra ngoài và thoát vị khổng lồ; nên đóng bụng tạm thời, dùng hút áp lực âm kèm kéo cân liên tục để có tỷ lệ đóng cân cao nhất. Lưu ý mở bụng ở người không có biến chứng tụy khác có thể có hại."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "XII · Chảy máu · Câu 49",
+   "title": "Biến chứng chảy máu: nút mạch là lựa chọn đầu",
+   "ref": "Câu 49 · Mạnh, thấp · Có điều kiện, thấp",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "DỊCH TỄ",
+     "t": "0,5–1,2% (đến 9%)",
+     "d": "Trung vị ngày 59 sau khởi phát",
+     "items": [
+      "Suy tạng kéo dài (HR 2,3)",
+      "Ống dẫn lưu > 20 F lúc đầu (HR 3,9)",
+      "Hoại tử > 50% (HR 3,1)"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "NGUYÊN NHÂN",
+     "t": "60% giả phình",
+     "d": "Động mạch lách 35–50%, vị tá tràng, tá tụy 20–25%",
+     "items": [
+      "CT cản quang 3 pha để chẩn đoán",
+      "20% chảy vào nang giả, 20% mạch nhỏ"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "ĐIỀU TRỊ",
+     "t": "Nút mạch (microcoil)",
+     "d": "Thành công 88–100%",
+     "items": [
+      "Thất bại: tiêm thrombin, gelfoam qua da hoặc siêu âm nội soi",
+      "Không cầm được: phẫu thuật sớm · tử vong 11–38%"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Câu hỏi bốn mươi chín. Chảy máu gặp ở 0,5 đến 1,2% người bệnh viêm tụy; trong một nghiên cứu tiến cứu 363 người bệnh, 9% chảy máu, trung vị ở ngày thứ 59. Yếu tố nguy cơ gồm suy tạng kéo dài, dùng ống dẫn lưu lớn trên 20 French ngay từ đầu, và hoại tử trên 50%.",
+    "Khoảng 60% chảy máu động mạch là do giả phình, thường gặp nhất ở động mạch lách, tiếp theo là động mạch vị tá tràng và tá tụy. CT cản quang ba pha là phương tiện chẩn đoán được chọn.",
+    "Khuyến cáo mạnh: nút mạch là lựa chọn đầu tay cho giả phình và chảy máu động mạch, thành công 88 đến 100% với microcoil. Khi không nút được, tiêm thrombin hoặc gelfoam và keo qua da dưới siêu âm, hoặc qua siêu âm nội soi, hay phẫu thuật, khuyến cáo có điều kiện. Chảy máu tĩnh mạch xử trí bằng ép, đôi khi chỉ cần kẹp ống dẫn lưu. Tử vong do chảy máu động mạch là 11 đến 38%."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "compare",
+   "chapter": "XII · Huyết khối · Câu 50–51",
+   "title": "Huyết khối tĩnh mạch tạng",
+   "ref": "Câu 50 · Thực hành tốt · Câu 51 · Có điều kiện, thấp",
+   "head": [
+    "Khía cạnh",
+    "Nội dung",
+    "Ghi chú"
+   ],
+   "widths": "0.9fr 1.6fr 1.1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Chẩn đoán</b>",
+      "CT cản quang là xét nghiệm phù hợp nhất",
+      "Thường phát hiện tình cờ"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Tần suất · nguy cơ</b>",
+      "1–24% (22% trong đoàn hệ 432 người bệnh) · hoại tử rộng, nhiễm trùng, tái phát, hút thuốc, tăng triglyceride",
+      "Suy gan, thiếu máu ruột, giãn tĩnh mạch dạ dày"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Lách đơn độc</b>",
+      "<em>Không</em> chống đông",
+      "Tự tái thông khi viêm lui"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Cửa · mạc treo</b>",
+      "<em>Có thể</em> chống đông",
+      "16 NC, 698 người bệnh: tái thông 44,3%, tăng nhẹ chảy máu, sống còn không khác"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Câu hỏi năm mươi: chẩn đoán huyết khối tĩnh mạch tạng bằng CT cản quang, phương tiện phù hợp nhất.",
+    "Tần suất dao động từ 1 đến 24%; trong một đoàn hệ tiến cứu 432 người bệnh là 22%. Yếu tố nguy cơ gồm hoại tử rộng, hoại tử nhiễm trùng, viêm tụy tái phát, hút thuốc và tăng triglyceride. Phần lớn phát hiện tình cờ, nhưng đôi khi gây suy gan do tắc tĩnh mạch cửa, thiếu máu ruột do tắc tĩnh mạch mạc treo tràng trên, cường lách và giãn tĩnh mạch dạ dày.",
+    "Câu hỏi năm mươi mốt, khuyến cáo có điều kiện: không chống đông cho huyết khối tĩnh mạch lách đơn độc, vì tỷ lệ tự tái thông cao khi viêm tụy lui hoặc ổ dịch được dẫn lưu.",
+    "Có thể chống đông khi huyết khối lan rộng tới tĩnh mạch cửa hoặc mạc treo. Phân tích gộp 16 nghiên cứu, 698 người bệnh cho thấy chống đông đạt tái thông 44,3%, tăng nhẹ nguy cơ chảy máu, và không khác biệt sống còn."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy của can thiệp và biến chứng",
+   "ref": "Tổng hợp Câu 36–51",
+   "box": {
+    "tag": "BẪY",
+    "t": "Thấy ổ hoại tử lớn trên CT là can thiệp → <b>kích thước không phải chỉ định</b>; chỉ định là nhiễm trùng xấu đi hoặc triệu chứng kéo dài.",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Cắt lọc khi ổ chưa bao bọc, người bệnh chưa ổn",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Kết luận dẫn lưu thất bại khi chưa tăng cỡ, thêm ống, rửa",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Không đo áp lực ổ bụng ở viêm tụy nặng thở máy",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Chống đông thường quy huyết khối lách đơn độc",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy của phần này. Bẫy thứ nhất: thấy ổ hoại tử lớn trên CT là can thiệp. Kích thước không phải chỉ định; chỉ định là nhiễm trùng với lâm sàng xấu đi, hoặc triệu chứng kéo dài.",
+    "Bẫy thứ hai: cắt lọc khi ổ chưa được bao bọc và người bệnh chưa ổn định.",
+    "Bẫy thứ ba: kết luận dẫn lưu thất bại khi chưa quản lý ống chủ động, tức chưa tăng cỡ ống, thêm ống hay rửa.",
+    "Bẫy thứ tư: không đo áp lực ổ bụng ở người bệnh viêm tụy nặng, nhất là khi thở máy và bù dịch nhiều.",
+    "Bẫy thứ năm: chống đông thường quy cho huyết khối tĩnh mạch lách đơn độc."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: ngày 3 tại hồi sức",
+   "case": "Nam 55 tuổi, viêm tụy cấp nặng ngày 3, thở máy. <b>Áp lực bàng quang 24 mmHg</b>, thiểu niệu mới, áp lực đường thở tăng. <b>Cân bằng dịch +6 lít</b>. Siêu âm: nhiều dịch ổ bụng. Huyết áp trung bình 68 mmHg với noradrenalin liều thấp.",
+   "case_at": 1,
+   "q": "Bước xử trí đầu tiên phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Mở bụng giải áp ngay",
+    "Dẫn lưu dịch ổ bụng qua da, giải áp ống tiêu hoá, tránh cân bằng dịch dương",
+    "Truyền thêm 2 lít dịch vì thiểu niệu",
+    "Chỉ theo dõi áp lực mỗi 24 giờ"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Áp lực > 20 mmHg + rối loạn tạng mới = hội chứng khoang bụng. Bước đầu: biện pháp không mổ (Câu 47), có nhiều dịch ổ bụng → dẫn lưu qua da. Mổ giải áp chỉ khi suy tạng nặng dần và điều trị nội thất bại (Câu 48). Truyền thêm dịch làm nặng tăng áp lực.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 55 tuổi, viêm tụy cấp nặng ngày thứ ba, đang thở máy. Áp lực bàng quang 24 milimét thuỷ ngân, thiểu niệu mới xuất hiện, áp lực đường thở tăng. Cân bằng dịch dương 6 lít. Siêu âm thấy nhiều dịch ổ bụng. Huyết áp trung bình 68 với noradrenalin liều thấp.",
+    "Bước xử trí đầu tiên phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Áp lực ổ bụng trên 20 kèm rối loạn tạng mới là hội chứng khoang bụng. Bước đầu là các biện pháp không mổ: vì có nhiều dịch ổ bụng, dẫn lưu qua da; đặt sonde dạ dày và hậu môn để giải áp; giảm đau và an thần đầy đủ; và tránh cân bằng dịch dương. Mổ giải áp chỉ cân nhắc khi suy tạng nặng dần dù điều trị nội đã thất bại. Truyền thêm dịch vì thiểu niệu sẽ làm nặng thêm tình trạng."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: tuần thứ 5",
+   "case": "Nữ 50 tuổi, viêm tụy hoại tử nhiễm trùng, đã kháng sinh 3 tuần, <b>vẫn sốt</b>, procalcitonin tăng. CT ngày 35: <b>hoại tử bao bọc 12 cm sát thành sau dạ dày</b>, mảnh hoại tử đặc ≈ 40%. Huyết động ổn.",
+   "case_at": 1,
+   "q": "Can thiệp phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Mổ mở cắt lọc hoại tử",
+    "Dẫn lưu nội soi xuyên dạ dày bằng LAMS, cắt lọc nội soi nếu cần",
+    "Tiếp tục kháng sinh thêm 4 tuần",
+    "Chọc hút kim nhỏ để cấy"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Thất bại bảo tồn + ổ đã bao bọc (> 4 tuần) → step-up. Ổ sát dạ dày → nội soi xuyên thành được ưu tiên (Câu 41). Nhiễm trùng + hoại tử > 30% → LAMS (Câu 42). Cắt lọc nội soi qua đường miệng nếu dẫn lưu chưa đủ (Câu 43–44).",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nữ 50 tuổi, viêm tụy hoại tử nhiễm trùng, đã dùng kháng sinh 3 tuần nhưng vẫn sốt, procalcitonin tăng. CT ngày thứ 35 thấy hoại tử bao bọc 12 centimét sát thành sau dạ dày, mảnh hoại tử đặc chiếm khoảng 40%. Huyết động ổn định.",
+    "Can thiệp nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Người bệnh thất bại điều trị bảo tồn và ổ đã được bao bọc sau 4 tuần, nên chuyển sang step-up. Ổ nằm sát dạ dày, nên dẫn lưu nội soi xuyên thành được ưu tiên. Vì ổ nhiễm trùng và mô hoại tử trên 30%, chọn stent kim loại áp lòng. Nếu dẫn lưu chưa đủ, tiến hành cắt lọc nội soi qua lòng stent. Mổ mở có tử vong cao hơn, còn kéo dài kháng sinh đơn thuần khi đã thất bại là trì hoãn không cần thiết."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 4",
+   "title": "Sáu thông điệp của Phần 4",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Chỉ định: nhiễm trùng xấu đi, triệu chứng kéo dài",
+     "d": "Không phải kích thước ổ",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Chờ ≈ 4 tuần",
+     "d": "Dẫn lưu sớm nếu cần, cắt lọc vẫn hoãn",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Step-up: kháng sinh → dẫn lưu → cắt lọc",
+     "d": "40–60% chỉ cần dẫn lưu · nội soi ưu tiên",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "LAMS khi nhiễm trùng hoặc hoại tử > 30%",
+     "d": "Cắt lọc nội soi qua lòng stent",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Đo áp lực ổ bụng ở thể nặng",
+     "d": "≥ 12 tăng áp · > 20 + suy tạng = khoang bụng",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Chảy máu: nút mạch · lách đơn độc: không chống đông",
+     "d": "Cửa, mạc treo: có thể chống đông",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần bốn, xin tóm tắt những thông điệp chính.",
+    "Chỉ định can thiệp là nhiễm trùng với lâm sàng xấu đi hoặc triệu chứng kéo dài, không phải kích thước ổ. Chờ khoảng 4 tuần cho ổ được bao bọc; nếu phải dẫn lưu sớm thì cắt lọc vẫn hoãn.",
+    "Chiến lược step-up gồm kháng sinh, dẫn lưu, rồi cắt lọc xâm lấn tối thiểu; nội soi được ưu tiên khi khả thi, và stent kim loại áp lòng khi ổ nhiễm trùng hoặc mô hoại tử trên 30%.",
+    "Đo áp lực ổ bụng ở viêm tụy nặng. Chảy máu động mạch xử trí đầu tiên bằng nút mạch; huyết khối tĩnh mạch lách đơn độc không cần chống đông.",
+    "Phần năm, phần cuối của loạt bài, sẽ bàn về các thể đặc biệt như viêm tụy do tăng triglyceride, phòng viêm tụy sau nội soi mật tụy, viêm tụy thai kỳ; thời điểm cắt túi mật, xuất viện và theo dõi lâu dài, cùng phần tổng kết toàn loạt. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
