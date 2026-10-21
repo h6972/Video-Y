@@ -1,0 +1,606 @@
+{
+ "title": "Hỗ trợ hô hấp không xâm lấn ATS 2026 – Phần 4: Sau rút ống và tổng kết",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức – Hô hấp",
+ "part": "Hỗ trợ hô hấp không xâm lấn ATS 2026 · Phần 4/4",
+ "source_short": "Nguồn: ATS Clinical Practice Guideline 2026 – Noninvasive respiratory support for adults with acute respiratory failure",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Noninvasive respiratory support for adult patients with acute respiratory failure: an official American Thoracic Society Clinical Practice Guideline (2026).",
+ "lexicon": {
+  "APACHE II": "a pa chi hai",
+  "COVID-19": "cô vít mười chín",
+  "RENOVATE": "rê nô vết",
+  "ERS–ATS": "e e ét, a tê ét",
+  "PREOXI": "pri óc xi",
+  "PREOXi": "pri óc xi",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "PaCO2": "pê a xê ô hai",
+  "PICO": "pi cô",
+  "SOHO": "sô hô",
+  "HFNC": "oxy dòng cao qua mũi",
+  "CPAP": "xi pắp",
+  "FiO2": "phi ô hai",
+  "COPD": "xê ô pê đê",
+  "ECMO": "éc mô",
+  "PaO2": "pê a ô hai",
+  "SpO2": "ét pê ô hai",
+  "GOLD": "gôn",
+  "SCCM": "ét xê xê em",
+  "NIV": "thở máy không xâm lấn",
+  "ATS": "a tê ét",
+  "pH": "pê hát"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 4/4",
+   "title": "Sau rút ống<br>& tổng kết",
+   "subtitle": "Phần 4 · Phân tầng nguy cơ, chọn đúng phương thức",
+   "badges": [
+    {
+     "t": "PICO 4",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "52 RCT · 9840 người bệnh",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Nguy cơ cao → NIV",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "ATS Clinical Practice Guideline 2026 · phần cuối loạt bài",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn, phần cuối cùng của loạt bài về Hướng dẫn hỗ trợ hô hấp không xâm lấn của Hội Lồng ngực Hoa Kỳ năm 2026, trên Thư Viện Y Khoa Online.",
+    "Hôm nay chúng ta bàn về hỗ trợ hô hấp sau rút ống nội khí quản, với một khuyến cáo dựa trên phân tầng nguy cơ, rồi tổng kết toàn bộ loạt bài bằng một sơ đồ chọn phương thức cho cả bốn tình huống.",
+    "Bằng chứng cho câu hỏi này là lớn nhất: 52 thử nghiệm ngẫu nhiên với 9840 người bệnh."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "PICO 4 · Vấn đề",
+   "title": "Rút ống: một bước chuyển nguy hiểm",
+   "ref": "PICO 4 · Background · Evidence summary",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "VẤN ĐỀ",
+     "t": "10–20% đặt lại ống",
+     "d": "Dù ổn định lúc rút ống",
+     "items": [
+      "Tăng tử vong, kéo dài nằm hồi sức",
+      "Biến cố liên quan máy thở"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "52 RCT, 9840 người bệnh",
+     "d": "Gần nửa ở châu Âu · 63% nam",
+     "items": [
+      "83% dự phòng ngay sau rút ống",
+      "Chỉ 17% điều trị cứu vãn khi đã suy hô hấp"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CAN THIỆP",
+     "t": "25 NIV · 26 HFNC",
+     "d": "1 CPAP helmet · 1 phối hợp NIV + HFNC",
+     "items": [
+      "Hồi sức hỗn hợp, ngoại khoa, nội khoa",
+      "COPD, nhiễm khuẩn huyết, béo phì"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Rút ống là một bước chuyển quan trọng. Dù người bệnh ổn định lúc rút ống, 10 đến 20% vẫn phải đặt lại, kèm tăng tử vong, kéo dài nằm hồi sức và các biến cố liên quan máy thở.",
+    "Bằng chứng gồm 52 thử nghiệm với 9840 người bệnh, gần một nửa ở châu Âu, 63% là nam. Điều cần nhớ: 83% nghiên cứu dùng hỗ trợ không xâm lấn để dự phòng ngay sau rút ống theo kế hoạch, chỉ 17% dùng để cứu vãn khi đã suy hô hấp sau rút ống.",
+    "Có 25 thử nghiệm về thở máy không xâm lấn, 26 về oxy dòng cao, 1 về áp lực dương liên tục qua helmet và 1 về phối hợp, trên các quần thể hồi sức hỗn hợp, ngoại khoa và nội khoa, chủ yếu COPD hoặc nhiễm khuẩn huyết, và một số nhắm vào nhóm nguy cơ cao như béo phì, tăng CO₂ mạn hay thở máy kéo dài."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "PICO 4 · Khuyến cáo",
+   "title": "Khuyến cáo theo phân tầng nguy cơ",
+   "ref": "PICO 4 · Figure 5",
+   "head": [
+    "Nhóm người bệnh",
+    "Khuyến cáo",
+    "Mức GRADE"
+   ],
+   "widths": "1.1fr 1.4fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Rút ống tại hồi sức</b> sau bệnh nặng",
+      "Đề nghị <em>HFNC hoặc NIV qua mặt nạ</em> so với oxy chuẩn",
+      "Có điều kiện · chắc chắn trung bình"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Nguy cơ cao</b> thất bại rút ống",
+      "Đề nghị <em>NIV qua mặt nạ</em> so với oxy chuẩn <em>hoặc HFNC</em>",
+      "Có điều kiện · chắc chắn trung bình"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Nguy cơ rất thấp</b>",
+      "Oxy dòng thấp chuẩn, thậm chí khí trời",
+      "Nhận định của hội đồng"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Câu hỏi PICO thứ tư có khuyến cáo theo phân tầng nguy cơ. Thứ nhất, ở người bệnh rút ống tại hồi sức sau bệnh nặng, đề nghị dùng oxy dòng cao hoặc thở máy không xâm lấn qua mặt nạ so với oxy chuẩn, khuyến cáo có điều kiện, chắc chắn trung bình.",
+    "Thứ hai, ở người bệnh nguy cơ cao thất bại rút ống, như từ 65 tuổi trở lên, béo phì, tăng CO₂, thở máy kéo dài hay bệnh nặng, đề nghị dùng thở máy không xâm lấn qua mặt nạ, so với cả oxy chuẩn lẫn oxy dòng cao.",
+    "Thứ ba, người bệnh nguy cơ rất thấp, ví dụ oxy hoá tốt, sau phẫu thuật ngoài lồng ngực và ổ bụng, không có bệnh hô hấp hay tim mạch trước đó, thở máy ngắn, ho tốt và ít đờm, có thể rút ống ra oxy dòng thấp chuẩn hoặc thậm chí khí trời."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "list",
+   "chapter": "PICO 4 · Bảng 1",
+   "title": "Đặc điểm nguy cơ cao suy hô hấp sau rút ống",
+   "ref": "Table 1",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Tuổi ≥ 65",
+     "d": "",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Bệnh tim phổi",
+     "d": "Suy tim, COPD trung bình – nặng",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "APACHE II ≥ 12",
+     "d": "",
+     "at": 0,
+     "c": "violet"
+    },
+    {
+     "t": "BMI ≥ 30",
+     "d": "",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Vấn đề thông thoáng đường thở",
+     "d": "Hoặc nguy cơ cao phù thanh quản",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Không kiểm soát được đờm",
+     "d": "Ho yếu hoặc hút ≥ 2 lần trong 8 giờ trước rút ống",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Cai máy phức tạp",
+     "d": "",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "> 2 bệnh đồng mắc",
+     "d": "",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Thở máy kéo dài ≥ 7 ngày",
+     "d": "",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bảng 1 liệt kê các đặc điểm nguy cơ cao suy hô hấp sau rút ống: tuổi từ 65 trở lên; bệnh tim phổi như suy tim hay COPD trung bình đến nặng; và điểm APACHE II từ 12 trở lên.",
+    "Chỉ số khối cơ thể từ 30 trở lên; có vấn đề thông thoáng đường thở hoặc nguy cơ cao phù thanh quản; và không kiểm soát được đờm, tức ho yếu hoặc phải hút đờm từ 2 lần trở lên trong 8 giờ trước rút ống.",
+    "Cai máy phức tạp, trên 2 bệnh đồng mắc, và thở máy kéo dài từ 7 ngày trở lên. Đây là bảng kiểm rất thực dụng, nên được rà soát trước mỗi lần rút ống."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "PICO 4 · Bằng chứng",
+   "title": "Hiệu quả so với oxy chuẩn",
+   "ref": "PICO 4 · Evidence summary · Table S9",
+   "head": [
+    "Kết cục",
+    "NIV",
+    "HFNC"
+   ],
+   "widths": "1fr 1.2fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Đặt lại ống</b>",
+      "<em>RR 0,75</em> (0,63–0,88) · trung bình",
+      "RR 0,80 (0,64–1,00) · thấp"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Tử vong ngắn hạn</b>",
+      "RR 0,88 · thấp",
+      "RR 0,87 · thấp"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Mở khí quản</b>",
+      "—",
+      "<em>RR 0,35</em> (0,15–0,84) · thấp"
+     ],
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>Khó chịu</b>",
+      "<em>+14,5%</em> so với oxy chuẩn",
+      "−12,2% so với NIV · trung bình"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "So với oxy chuẩn, thở máy không xâm lấn có lẽ giảm đặt lại ống, nguy cơ tương đối 0,75, chắc chắn trung bình; oxy dòng cao có thể giảm, nguy cơ tương đối 0,80, chắc chắn thấp. So sánh trực tiếp giữa hai phương thức chưa rõ.",
+    "Cả hai có thể giảm nhẹ tử vong ngắn hạn, nguy cơ tương đối khoảng 0,87 đến 0,88, và có lẽ không khác nhau. Oxy dòng cao có thể giảm nhu cầu mở khí quản, nguy cơ tương đối 0,35.",
+    "Về dung nạp, thở máy không xâm lấn làm tăng khó chịu 14,5% so với oxy chuẩn, còn oxy dòng cao giảm khó chịu 12,2% so với thở máy không xâm lấn. Tác động trên biến cố bất lợi chưa chắc chắn."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "cards",
+   "chapter": "PICO 4 · Phân nhóm",
+   "title": "Nguy cơ và thời điểm thay đổi hiệu quả",
+   "ref": "PICO 4 · Subgroup analyses",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "NGUY CƠ CAO",
+     "t": "NIV hiệu quả hơn HFNC",
+     "d": "Phòng đặt lại ống và suy hô hấp sau rút ống",
+     "items": [
+      "Tương tác phân nhóm p = 0,006",
+      "Lợi ích rõ hơn khi tăng CO₂ sau rút ống"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "DỰ PHÒNG",
+     "t": "HFNC giảm đặt lại ống",
+     "d": "Khi dùng ngay sau rút ống",
+     "items": [
+      "Nguy cơ thấp hơn: tương đương NIV, dễ chịu hơn"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CỨU VÃN",
+     "t": "HFNC có thể TĂNG đặt lại ống",
+     "d": "Khi đã suy hô hấp sau rút ống",
+     "items": [
+      "Tương tác p = 0,001 · độ tin cậy thấp – trung bình",
+      "→ Khuyến cáo không áp dụng cho cứu vãn"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Phân tích phân nhóm cho thấy nguy cơ nền và thời điểm điều trị làm thay đổi hiệu quả. Ở người bệnh nguy cơ cao, thở máy không xâm lấn hiệu quả hơn oxy dòng cao trong phòng đặt lại ống và suy hô hấp sau rút ống, và lợi ích rõ hơn ở người tăng CO₂ sau rút ống.",
+    "Khi dùng dự phòng ngay sau rút ống, oxy dòng cao giảm đặt lại ống so với oxy chuẩn; ở người nguy cơ thấp hơn, oxy dòng cao cho lợi ích tương tự thở máy không xâm lấn mà dễ chịu hơn.",
+    "Ngược lại, khi dùng để cứu vãn sau khi đã suy hô hấp, oxy dòng cao có thể làm tăng đặt lại ống so với oxy chuẩn, và tăng so với thở máy không xâm lấn. Các hiệu ứng này có độ tin cậy thấp đến trung bình. Vì vậy, hội đồng nhấn mạnh khuyến cáo này không áp dụng cho điều trị cứu vãn suy hô hấp sau rút ống."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "box",
+   "chapter": "PICO 4 · Triển khai",
+   "title": "NIV xen kẽ HFNC: chiến lược thực dụng",
+   "ref": "PICO 4 · Justification",
+   "box": {
+    "tag": "THỰC TẾ",
+    "t": "Duy trì <b>NIV đơn độc kéo dài</b> sau rút ống khó và hiếm khi đạt được ngoài đời thực → <b>NIV với các quãng nghỉ bằng HFNC</b> có thể là cách triển khai tối ưu.",
+    "at": 0,
+    "c": "teal",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Phối hợp, tuần tự: chỉ 2 nghiên cứu nhỏ → chưa đủ để khuyến cáo",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "NGUỒN LỰC",
+     "t": "NIV dùng máy thở sẵn có · HFNC cần oxy lưu lượng cao, dây làm ấm dùng một lần",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "CÔNG BẰNG",
+     "t": "Không nhất thiết áp dụng cho mọi người bệnh rút ống ở mọi nơi",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Hội đồng nhận xét: duy trì thở máy không xâm lấn đơn độc trong thời gian dài sau rút ống là khó và hiếm khi đạt được trong thực tế. Vì vậy, thở máy không xâm lấn với các quãng nghỉ bằng oxy dòng cao có thể là cách triển khai tối ưu.",
+    "Tuy vậy, chiến lược xen kẽ hay tuần tự chỉ có dữ liệu từ 2 nghiên cứu nhỏ, chưa đủ để đưa ra khuyến cáo chính thức.",
+    "Về nguồn lực, thở máy không xâm lấn thường dùng được máy thở sẵn có nhưng cần chuyên môn và sự hợp tác của người bệnh; oxy dòng cao cần oxy lưu lượng cao liên tục và dây làm ấm dùng một lần, nhưng lắp đặt đơn giản và dễ chịu hơn.",
+    "Hội đồng cũng lưu ý: dù khuyến cáo áp dụng rộng, việc triển khai nên theo nguy cơ của người bệnh và nguồn lực tại chỗ; không nhất thiết phải dùng cho mọi người bệnh rút ống ở mọi cơ sở."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy sau rút ống",
+   "ref": "Tổng hợp PICO 4",
+   "box": {
+    "tag": "BẪY",
+    "t": "Chờ người bệnh suy hô hấp sau rút ống rồi mới đặt HFNC “cứu vãn” → có thể <b>tăng</b> đặt lại ống và trì hoãn đặt lại.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Người nguy cơ cao, tăng CO₂ chỉ dùng HFNC",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Không rà soát bảng nguy cơ trước rút ống",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Ép NIV liên tục đến mức người bệnh bỏ cuộc",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Dùng HFNC cho mọi ca nguy cơ rất thấp, lãng phí nguồn lực",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy. Bẫy thứ nhất: chờ người bệnh suy hô hấp sau rút ống rồi mới đặt oxy dòng cao để cứu vãn. Cách này có thể làm tăng đặt lại ống và trì hoãn việc đặt lại cần thiết; bằng chứng ủng hộ dùng dự phòng ngay sau rút ống.",
+    "Bẫy thứ hai: người bệnh nguy cơ cao, nhất là có tăng CO₂, chỉ được dùng oxy dòng cao, trong khi thở máy không xâm lấn hiệu quả hơn ở nhóm này.",
+    "Bẫy thứ ba: không rà soát bảng nguy cơ trước khi rút ống.",
+    "Bẫy thứ tư: ép thở máy không xâm lấn liên tục đến mức người bệnh không chịu nổi; hãy xen kẽ quãng nghỉ bằng oxy dòng cao.",
+    "Bẫy thứ năm: dùng oxy dòng cao cho mọi ca nguy cơ rất thấp, trong khi oxy chuẩn hoặc khí trời là đủ."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: rút ống tại hồi sức",
+   "case": "Nam 72 tuổi, COPD trung bình, thở máy 9 ngày vì viêm phổi, BMI 31. Qua thử nghiệm tự thở, <b>PaCO₂ 52 mmHg</b>, ho khá, hút đờm 3 lần trong 8 giờ qua. Dự kiến rút ống sáng nay.",
+   "case_at": 1,
+   "q": "Hỗ trợ sau rút ống phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Oxy gọng mũi 2 L/phút, chờ xem",
+    "HFNC, nếu suy hô hấp thì chuyển NIV",
+    "NIV qua mặt nạ dự phòng ngay sau rút ống, xen quãng nghỉ bằng HFNC",
+    "Chờ đến khi hết hẳn đờm mới rút ống"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Nhiều yếu tố nguy cơ cao (≥ 65 tuổi, COPD, thở máy ≥ 7 ngày, BMI ≥ 30, hút đờm ≥ 2 lần/8 giờ, tăng CO₂) → NIV qua mặt nạ dự phòng so với oxy chuẩn hoặc HFNC (có điều kiện, chắc chắn trung bình). Quãng nghỉ bằng HFNC giúp dung nạp.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 72 tuổi, COPD trung bình, thở máy 9 ngày vì viêm phổi, chỉ số khối cơ thể 31. Đã qua thử nghiệm tự thở, PaCO₂ 52, ho khá, nhưng phải hút đờm 3 lần trong 8 giờ qua. Dự kiến rút ống sáng nay.",
+    "Hỗ trợ sau rút ống nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là thở máy không xâm lấn qua mặt nạ dự phòng ngay sau rút ống. Người bệnh có nhiều yếu tố nguy cơ cao: trên 65 tuổi, COPD, thở máy trên 7 ngày, béo phì, hút đờm từ 2 lần trong 8 giờ, và tăng CO₂. Với nhóm này, thở máy không xâm lấn được đề nghị so với cả oxy chuẩn lẫn oxy dòng cao, và có thể xen quãng nghỉ bằng oxy dòng cao để dễ dung nạp. Chờ suy hô hấp rồi mới cứu vãn là cách làm không được khuyến cáo."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: rút ống sau phẫu thuật",
+   "case": "Nữ 45 tuổi, thở máy 18 giờ sau phẫu thuật chỉnh hình chi dưới, không bệnh tim phổi, oxy hoá tốt với FiO₂ 0,3, ho tốt, ít đờm.",
+   "case_at": 1,
+   "q": "Hỗ trợ sau rút ống?",
+   "q_at": 2,
+   "options": [
+    "NIV qua mặt nạ dự phòng 24 giờ",
+    "HFNC 60 L/phút thường quy",
+    "Oxy dòng thấp chuẩn hoặc khí trời",
+    "Helmet CPAP"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Nguy cơ rất thấp: oxy hoá tốt, phẫu thuật ngoài lồng ngực – ổ bụng, không bệnh tim phổi, thở máy ngắn, ho tốt, ít đờm → oxy dòng thấp hoặc khí trời. Không cần dùng HFNC/NIV cho mọi ca.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nữ 45 tuổi, thở máy 18 giờ sau phẫu thuật chỉnh hình chi dưới, không có bệnh tim phổi, oxy hoá tốt với FiO₂ 0,3, ho tốt và ít đờm.",
+    "Hỗ trợ sau rút ống nào phù hợp?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là oxy dòng thấp chuẩn hoặc khí trời. Đây đúng là nhóm nguy cơ rất thấp mà hướng dẫn mô tả: oxy hoá tốt, phẫu thuật ngoài lồng ngực và ổ bụng, không bệnh tim phổi, thở máy ngắn, ho tốt, ít đờm. Không cần dùng oxy dòng cao hay thở máy không xâm lấn cho mọi người bệnh rút ống."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "compare",
+   "chapter": "Tổng kết · Sơ đồ chọn phương thức",
+   "title": "Bốn tình huống – một sơ đồ",
+   "ref": "Summary of recommendations",
+   "head": [
+    "Tình huống",
+    "Lựa chọn đầu tay",
+    "Lựa chọn khác · lưu ý"
+   ],
+   "widths": "1fr 1.2fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Giảm oxy máu</b> mới xuất hiện",
+      "<em>HFNC</em> · mạnh",
+      "NIV hoặc CPAP (mặt nạ/helmet): có điều kiện · không trì hoãn đặt ống"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Tăng CO₂</b> cấp",
+      "<em>NIV qua mặt nạ</em> · mạnh",
+      "HFNC nếu pH > 7,25 và chuyển NIV ngay được: có điều kiện"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Tiền oxy hoá</b>",
+      "<em>HFNC hoặc NIV</em> · mạnh",
+      "Không ưu tiên phương thức nào · không trì hoãn đặt ống"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Sau rút ống</b>",
+      "<em>HFNC hoặc NIV</em> · có điều kiện",
+      "Nguy cơ cao → NIV · rất thấp → oxy chuẩn/khí trời · không dùng cho cứu vãn"
+     ],
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Để tổng kết toàn bộ loạt bài, xin gói các khuyến cáo vào một sơ đồ. Với suy hô hấp giảm oxy máu mới xuất hiện, oxy dòng cao qua mũi là đầu tay, khuyến cáo mạnh; thở máy không xâm lấn hoặc áp lực dương liên tục qua mặt nạ hoặc helmet là khuyến cáo có điều kiện.",
+    "Với suy hô hấp tăng CO₂ cấp, thở máy không xâm lấn qua mặt nạ là đầu tay, khuyến cáo mạnh; oxy dòng cao chỉ thay thế khi pH trên 7,25 và có thể chuyển thở máy không xâm lấn ngay.",
+    "Khi tiền oxy hoá trước đặt nội khí quản, oxy dòng cao hoặc thở máy không xâm lấn đều được khuyến cáo mạnh, không ưu tiên phương thức nào, và không bao giờ được trì hoãn đặt ống.",
+    "Sau rút ống, oxy dòng cao hoặc thở máy không xâm lấn là khuyến cáo có điều kiện; người nguy cơ cao nên dùng thở máy không xâm lấn; người nguy cơ rất thấp chỉ cần oxy chuẩn hoặc khí trời; và khuyến cáo không áp dụng cho điều trị cứu vãn."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "summary",
+   "chapter": "Tổng kết toàn bộ loạt bài",
+   "title": "Tám thông điệp của ATS 2026",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Lợi ích chính: giảm đặt nội khí quản",
+     "d": "Không phải giảm tử vong lớn (trừ tăng CO₂)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Giảm oxy máu: HFNC trước",
+     "d": "NIV, CPAP: có điều kiện",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Tăng CO₂: NIV trước",
+     "d": "HFNC chỉ khi toan nhẹ",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Tiền oxy hoá: HFNC hoặc NIV",
+     "d": "Giảm giảm oxy máu quanh đặt ống",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Sau rút ống: theo nguy cơ",
+     "d": "Nguy cơ cao → NIV, xen HFNC",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Theo dõi sát, ngưỡng nâng bậc rõ",
+     "d": "Không trì hoãn đặt ống",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Kỹ năng hơn thiết bị",
+     "d": "Đào tạo, quy trình, đường nâng bậc",
+     "at": 4,
+     "c": "teal"
+    },
+    {
+     "t": "Bối cảnh và công bằng",
+     "d": "Nguồn lực, oxy, nhân lực tại chỗ",
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Và tám thông điệp mang về. Một, lợi ích chính của hỗ trợ hô hấp không xâm lấn là giảm nhu cầu thở máy xâm lấn và biến chứng quanh đặt ống, hơn là giảm tử vong lớn, ngoại trừ suy hô hấp tăng CO₂.",
+    "Hai, với giảm oxy máu, oxy dòng cao đi trước. Ba, với tăng CO₂, thở máy không xâm lấn đi trước.",
+    "Bốn, khi tiền oxy hoá, dùng oxy dòng cao hoặc thở máy không xâm lấn. Năm, sau rút ống, chọn theo nguy cơ, với nguy cơ cao là thở máy không xâm lấn xen quãng nghỉ bằng oxy dòng cao.",
+    "Sáu, luôn theo dõi sát với ngưỡng nâng bậc rõ ràng, và không trì hoãn đặt nội khí quản. Bảy, như hướng dẫn nhấn mạnh, hiệu quả phụ thuộc vào thực hành tại giường nhất quán và hiểu sinh lý, hơn là chọn thiết bị nào: hãy đầu tư vào đào tạo, quy trình và đường nâng bậc.",
+    "Tám, triển khai phải phù hợp bối cảnh, nguồn oxy và nhân lực tại chỗ, để đảm bảo an toàn và công bằng. Xin chân thành cảm ơn quý đồng nghiệp đã đồng hành cùng Thư Viện Y Khoa Online qua bốn phần của loạt bài. Hẹn gặp lại quý vị trong những chuyên đề tiếp theo."
+   ]
+  }
+ ]
+}
