@@ -1,0 +1,611 @@
+{
+ "title": "Hỗ trợ hô hấp không xâm lấn ATS 2026 – Phần 2: Suy hô hấp tăng CO₂",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức – Hô hấp",
+ "part": "Hỗ trợ hô hấp không xâm lấn ATS 2026 · Phần 2/4",
+ "source_short": "Nguồn: ATS Clinical Practice Guideline 2026 – Noninvasive respiratory support for adults with acute respiratory failure",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Noninvasive respiratory support for adult patients with acute respiratory failure: an official American Thoracic Society Clinical Practice Guideline (2026).",
+ "lexicon": {
+  "COVID-19": "cô vít mười chín",
+  "RENOVATE": "rê nô vết",
+  "ERS–ATS": "e e ét, a tê ét",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "PaCO2": "pê a xê ô hai",
+  "PICO": "pi cô",
+  "SOHO": "sô hô",
+  "HFNC": "oxy dòng cao qua mũi",
+  "CPAP": "xi pắp",
+  "FiO2": "phi ô hai",
+  "COPD": "xê ô pê đê",
+  "ECMO": "éc mô",
+  "PaO2": "pê a ô hai",
+  "SpO2": "ét pê ô hai",
+  "NIV": "thở máy không xâm lấn",
+  "ATS": "a tê ét",
+  "pH": "pê hát"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 2/4",
+   "title": "Suy hô hấp<br>tăng CO₂ cấp",
+   "subtitle": "Phần 2 · NIV là chuẩn, HFNC khi nào?",
+   "badges": [
+    {
+     "t": "PICO 2",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "42 RCT · 4763 người bệnh",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "pH > 7,25",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "ATS Clinical Practice Guideline 2026 · Noninvasive respiratory support",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần hai của loạt bài về Hướng dẫn hỗ trợ hô hấp không xâm lấn của Hội Lồng ngực Hoa Kỳ năm 2026.",
+    "Phần này bàn về suy hô hấp tăng CO₂ cấp, nơi thở máy không xâm lấn đã là tiêu chuẩn chăm sóc từ lâu, và câu hỏi được nhiều đồng nghiệp quan tâm: khi nào có thể dùng oxy dòng cao thay thế?",
+    "Bằng chứng dựa trên 42 thử nghiệm ngẫu nhiên với 4763 người bệnh."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "PICO 2 · Sinh lý bệnh",
+   "title": "Suy thông khí: khi bơm hô hấp không theo kịp",
+   "ref": "PICO 2 · Background",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "CƠ CHẾ",
+     "t": "Toan hô hấp",
+     "d": "Hệ hô hấp không đáp ứng nhu cầu thông khí",
+     "items": [
+      "Giảm thông khí phế nang hiệu quả, tăng khoảng chết",
+      "Tắc nghẽn, ứ khí động, rối loạn thông khí – tưới máu",
+      "→ Tăng công thở, mỏi cơ hô hấp"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "NGUYÊN NHÂN",
+     "t": "Đợt cấp COPD hàng đầu",
+     "d": "Ngoài ra",
+     "items": [
+      "Hen phế quản · phù phổi cấp do tim",
+      "Giảm thông khí do béo phì, do thuốc",
+      "Bệnh thần kinh – cơ"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CÔNG CỤ",
+     "t": "NIV và HFNC",
+     "d": "NIV: giảm gắng sức, tăng thông khí phế nang, sửa toan",
+     "items": [
+      "HFNC: giảm khoảng chết, PEEP nhẹ, giảm tần số thở",
+      "Cải thiện thanh thải đờm, thoải mái"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Suy hô hấp tăng CO₂ cấp hoặc cấp trên nền mạn xảy ra khi hệ hô hấp không đáp ứng được nhu cầu thông khí và không thải đủ CO₂, gây toan hô hấp. Nguyên nhân có thể là giảm thông khí phế nang hiệu quả, tăng khoảng chết sinh lý, tắc nghẽn luồng khí, ứ khí động, rối loạn động lực hô hấp và rối loạn thông khí tưới máu. Tất cả làm tăng công thở và gây mỏi cơ hô hấp.",
+    "Đợt cấp COPD là nguyên nhân thường gặp nhất, nhưng suy hô hấp tăng CO₂ cũng gặp trong hen, phù phổi cấp do tim, giảm thông khí do béo phì, do thuốc, và bệnh thần kinh cơ.",
+    "Thở máy không xâm lấn giảm gắng sức hít vào, tăng thông khí phế nang và sửa toan mà không cần đặt nội khí quản. Oxy dòng cao rửa khoảng chết, tạo áp lực dương nhẹ, giảm tần số thở và công thở mỗi phút, cải thiện chức năng lông chuyển và thanh thải đờm, và thoải mái hơn. Oxy dòng cao cũng có thể dùng xen giữa các đợt thở máy không xâm lấn thay cho oxy chuẩn."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "PICO 2 · Khuyến cáo",
+   "title": "Hai khuyến cáo cho suy hô hấp tăng CO₂",
+   "ref": "PICO 2 · Figure 3",
+   "head": [
+    "Phương thức",
+    "Đối tượng",
+    "Mức GRADE"
+   ],
+   "widths": "1fr 1.6fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>NIV qua mặt nạ</b>",
+      "Mọi người lớn suy hô hấp tăng CO₂ cấp — khởi động <em>sớm</em>",
+      "Mạnh · chắc chắn trung bình"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>HFNC</b> thay thế NIV",
+      "Toan nhẹ (ví dụ pH > 7,25), <em>có theo dõi và chuyển NIV ngay khi cần</em>",
+      "Có điều kiện · chắc chắn thấp"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>CPAP</b>",
+      "Không khuyến cáo ủng hộ hay phản đối",
+      "Thử nghiệm cũ, quần thể hỗn hợp"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Helmet</b>",
+      "Chưa đủ dữ liệu → khuyến cáo chỉ cho NIV qua mặt nạ",
+      "1 RCT helmet so với mặt nạ"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Câu hỏi PICO thứ hai có hai khuyến cáo. Khuyến cáo mạnh, chắc chắn trung bình: dùng thở máy không xâm lấn qua mặt nạ cho người lớn suy hô hấp tăng CO₂ cấp, và hội đồng nhấn mạnh khởi động sớm.",
+    "Khuyến cáo có điều kiện, chắc chắn thấp: đề nghị oxy dòng cao như một lựa chọn thay thế thở máy không xâm lấn ở người bệnh toan nhẹ, ví dụ pH trên 7,25, với điều kiện có theo dõi sát và chuyển sang thở máy không xâm lấn được ngay.",
+    "Hội đồng không đưa ra khuyến cáo cho áp lực dương liên tục, vì các thử nghiệm phần lớn cũ, nhiều hạn chế phương pháp và quần thể hỗn hợp. Do chỉ có một thử nghiệm so sánh helmet với mặt nạ, khuyến cáo chỉ áp dụng cho thở máy không xâm lấn qua mặt nạ."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "PICO 2 · Bằng chứng",
+   "title": "Quần thể nghiên cứu: chủ yếu là COPD",
+   "ref": "PICO 2 · Evidence summary · Table S3",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "NGUYÊN NHÂN",
+     "t": "33/42 RCT là COPD",
+     "d": "6 phù phổi cấp do tim · 4 hỗn hợp",
+     "items": [],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "MỨC ĐỘ",
+     "t": "Tăng CO₂ trung bình",
+     "d": "pH trung vị 7,31 · PaCO₂ 65 ± 12 mmHg",
+     "items": [
+      "Tuổi trung bình 71 · 38% nữ"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BỐI CẢNH",
+     "t": "Đa dạng",
+     "d": "11 khoa thường · 10 cấp cứu · 10 hồi sức",
+     "items": [
+      "Phần lớn RCT HFNC: tăng CO₂ nhẹ",
+      "RCT CPAP: cũ, chủ yếu phù phổi do tim"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trong 42 thử nghiệm, 33 là đợt cấp COPD, 6 là phù phổi cấp do tim và 4 là nguyên nhân hỗn hợp.",
+    "Người bệnh có tăng CO₂ mức trung bình, pH trung vị 7,31, PaCO₂ trung bình 65 milimét thuỷ ngân, tuổi trung bình 71, và 38% là nữ.",
+    "Bối cảnh rất đa dạng: 11 thử nghiệm ở khoa thường, 10 ở cấp cứu, 10 ở hồi sức. Lưu ý quan trọng: phần lớn thử nghiệm oxy dòng cao chỉ thực hiện ở người bệnh tăng CO₂ nhẹ, còn thử nghiệm áp lực dương liên tục phần lớn cũ, chủ yếu ở phù phổi cấp do tim."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "PICO 2 · Bằng chứng",
+   "title": "Hiệu quả so với oxy chuẩn",
+   "ref": "PICO 2 · Evidence summary · Table S7",
+   "head": [
+    "Kết cục",
+    "NIV",
+    "HFNC"
+   ],
+   "widths": "1fr 1.2fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Tử vong bệnh viện</b>",
+      "<em>RR 0,47</em> (0,34–0,65) · trung bình",
+      "RR 0,39 (0,17–0,87) · cao — <em>chủ yếu tăng CO₂ nhẹ</em>"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Đặt nội khí quản</b>",
+      "<em>RR 0,43</em> (0,32–0,56) · trung bình",
+      "RR 0,38 (0,24–0,59) · trung bình"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Ngày nằm viện</b>",
+      "Ít hơn 1,47 ngày",
+      "Ít hơn 1,83 ngày"
+     ],
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>NIV so với HFNC</b>",
+      "Tử vong RR 1,21 · đặt ống RR 1,14",
+      "Chắc chắn rất thấp → <em>chưa rõ</em>"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "So với oxy chuẩn, thở máy không xâm lấn có lẽ giảm tử vong bệnh viện hơn một nửa, nguy cơ tương đối 0,47, và giảm đặt nội khí quản, nguy cơ tương đối 0,43, đều chắc chắn trung bình. Áp lực dương liên tục cũng có lẽ giảm tử vong, nguy cơ tương đối 0,33.",
+    "Oxy dòng cao cũng giảm tử vong với nguy cơ tương đối 0,39 và giảm đặt nội khí quản 0,38. Nhưng xin nhấn mạnh: các thử nghiệm oxy dòng cao chủ yếu ở tăng CO₂ nhẹ và không toan đáng kể, nên con số này không áp dụng được cho người bệnh nặng.",
+    "Thở máy không xâm lấn và oxy dòng cao có lẽ rút ngắn nằm viện lần lượt 1,47 và 1,83 ngày. Cả ba phương thức đều giảm PaCO₂ khoảng 3 đến 5 milimét thuỷ ngân, và cải thiện dung nạp điều trị so với oxy chuẩn.",
+    "So sánh trực tiếp thở máy không xâm lấn với oxy dòng cao thì chưa rõ, với chắc chắn rất thấp. Không thấy tín hiệu tác hại vượt trội ở phương thức nào, và không có hiệu ứng phân nhóm đáng tin theo nơi điều trị, COPD hay không, hen, hay mức độ tăng CO₂."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "box",
+   "chapter": "PICO 2 · Lập luận",
+   "title": "NIV: khởi động sớm cho mọi người bệnh tăng CO₂",
+   "ref": "PICO 2 · Justification",
+   "box": {
+    "tag": "KHẲNG ĐỊNH LẠI",
+    "t": "NIV giảm <b>tử vong</b> và <b>đặt nội khí quản</b> một cách nhất quán; sửa toan, giảm công thở. Bằng chứng cho HFNC hay CPAP ở <b>tăng CO₂ nặng</b> là gián tiếp và chắc chắn thấp.",
+    "at": 0,
+    "c": "teal",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "NƠI THỰC HIỆN",
+     "t": "Hồi sức hoặc đơn vị trung gian, đặt nội khí quản nhanh được khi cần",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "YÊU CẦU",
+     "t": "Nhân viên được đào tạo, hướng dẫn người bệnh, theo dõi liên tục",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "NGUỒN LỰC",
+     "t": "Máy dùng lại được · HFNC phụ thuộc dây dùng một lần",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bằng chứng chắc chắn trung bình cho thấy thở máy không xâm lấn giảm tử vong và đặt nội khí quản một cách nhất quán so với oxy chuẩn. Ở nhóm này, thở máy không xâm lấn sửa toan, giảm công thở và cải thiện sống còn, phản ánh cả ưu thế sinh lý lẫn kinh nghiệm lâm sàng rộng rãi. Trong khi đó, bằng chứng cho oxy dòng cao hay áp lực dương liên tục ở tăng CO₂ nặng chỉ là gián tiếp. Vì vậy, hội đồng khẳng định lại khuyến cáo mạnh khởi động sớm thở máy không xâm lấn.",
+    "Thở máy không xâm lấn đòi hỏi nhân viên được đào tạo, hướng dẫn người bệnh và theo dõi liên tục, và tốt nhất thực hiện ở hồi sức hoặc đơn vị trung gian, nơi có thể đặt nội khí quản nhanh khi cần.",
+    "Về nguồn lực, thở máy không xâm lấn dùng máy có thể tái sử dụng, còn oxy dòng cao phụ thuộc dây dùng một lần, có thể là trở ngại ở nơi nguồn lực hạn chế."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "PICO 2 · Lập luận",
+   "title": "HFNC cho tăng CO₂ nhẹ: bốn điều kiện",
+   "ref": "PICO 2 · Justification",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "MỨC ĐỘ",
+     "t": "Toan nhẹ, pH ≥ 7,25",
+     "d": "NIV và HFNC giảm tử vong, đặt ống tương đương",
+     "items": [
+      "Toan nặng hơn: NIV vẫn là đầu tay"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "CƠ CHẾ",
+     "t": "Hồi phục nhanh được",
+     "d": "Đợt cấp COPD, giảm thông khí do opioid thoáng qua",
+     "items": [
+      "Kém hiệu quả: giảm thông khí do béo phì, bệnh thần kinh – cơ"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "AN TOÀN",
+     "t": "Chuyển NIV ngay",
+     "d": "1/3 người bệnh HFNC phải chuyển NIV",
+     "items": [
+      "Theo dõi chặt, tiêu chí nâng bậc định trước",
+      "RCT cho phép chuyển chéo → có thể thiên lệch"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "LƯU LƯỢNG",
+     "t": "30–40 L/phút gợi ý",
+     "d": "Dựa trên sinh lý và dữ liệu hạn chế",
+     "items": [
+      "Cá thể hoá theo đáp ứng"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Với oxy dòng cao, khuyến cáo có điều kiện kèm bốn điều kiện. Một là mức độ: ở người bệnh tăng CO₂ hoặc toan nhẹ, pH từ 7,25 trở lên, thở máy không xâm lấn và oxy dòng cao có lẽ giảm tử vong và đặt ống tương đương. Oxy dòng cao thường được xem là dễ chịu hơn, nhưng phân tích gộp không xác nhận khác biệt đáng kể, vì chính việc giảm tải hô hấp của thở máy không xâm lấn cũng làm giảm khó thở.",
+    "Hai là cơ chế: oxy dòng cao phù hợp hơn khi tăng CO₂ có thể hồi phục nhanh, như đợt cấp COPD hay giảm thông khí thoáng qua do opioid; và kém hiệu quả khi cơ chế không hồi phục nhanh, như giảm thông khí do béo phì hay bệnh thần kinh cơ.",
+    "Ba là an toàn: khoảng một phần ba người bệnh khởi đầu bằng oxy dòng cao phải chuyển sang thở máy không xâm lấn. Các thử nghiệm thường cho phép chuyển chéo, có thể làm kết quả thiên về có lợi. Vì vậy cần theo dõi chặt và tiêu chí nâng bậc định trước.",
+    "Bốn là lưu lượng: khoảng 30 đến 40 lít mỗi phút được gợi ý dựa trên sinh lý và dữ liệu hạn chế. Ảnh hưởng của lưu lượng cao hơn lên ứ khí động và gắng sức chưa rõ, nên cần cá thể hoá theo đáp ứng lâm sàng."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "box",
+   "chapter": "PICO 2 · Lưu ý",
+   "title": "Phù phổi cấp do tim: không phải đối tượng chính",
+   "ref": "PICO 2 · Justification",
+   "box": {
+    "tag": "LƯU Ý",
+    "t": "Phù phổi cấp do tim có mặt trong các thử nghiệm nhưng <b>không có câu hỏi PICO riêng</b>. Vai trò riêng, đã được xác lập của <b>CPAP</b> ở nhóm này có thể khác các nguyên nhân tăng CO₂ khác.",
+    "at": 0,
+    "c": "amber",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "DIỄN GIẢI",
+     "t": "Theo quần thể chủ yếu là đợt cấp COPD",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Dùng phán đoán lâm sàng độc lập khi áp dụng cho phù phổi do tim",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "ÍT ĐẠI DIỆN",
+     "t": "Béo phì giảm thông khí, ngộ độc opioid, thần kinh – cơ",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Một lưu ý quan trọng: phù phổi cấp do tim có mặt trong các thử nghiệm về suy hô hấp tăng CO₂, nhưng không được đánh giá như một bệnh cảnh riêng với câu hỏi PICO riêng. Sinh lý bệnh và chiến lược tối ưu ở nhóm này, đặc biệt là vai trò riêng đã được xác lập của áp lực dương liên tục, có thể khác hẳn các nguyên nhân tăng CO₂ khác.",
+    "Vì vậy, các khuyến cáo nên được diễn giải theo quần thể chủ yếu trong thử nghiệm, tức đợt cấp COPD, và thầy thuốc cần dùng phán đoán lâm sàng độc lập khi áp dụng cho phù phổi cấp do tim.",
+    "Tương tự, giảm thông khí do béo phì, ngộ độc opioid và bệnh thần kinh cơ còn ít được đại diện trong bằng chứng hiện có."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "PICO 2 · Bất định",
+   "title": "Những câu hỏi còn bỏ ngỏ",
+   "ref": "PICO 2 · Uncertainties and research priorities",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "TOAN NẶNG",
+     "t": "pH < 7,25",
+     "d": "Cần so sánh trực tiếp HFNC với NIV",
+     "items": [
+      "Quy trình chuyển từ HFNC sang NIV"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "GIAO DIỆN",
+     "t": "Helmet, cannula bất đối xứng",
+     "d": "Kết cục và biến cố bất lợi",
+     "items": [
+      "Vai trò ở nguyên nhân không phải COPD"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CÀI ĐẶT",
+     "t": "Liều HFNC tối ưu",
+     "d": "Lưu lượng, FiO₂, thiết kế cannula",
+     "items": [
+      "Tính khả thi ở nơi nguồn lực hạn chế"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Các câu hỏi còn bỏ ngỏ: cần thử nghiệm so sánh trực tiếp oxy dòng cao với thở máy không xâm lấn ở tăng CO₂ nặng hơn, pH dưới 7,25, cùng với đánh giá quy trình chuyển từ oxy dòng cao sang thở máy không xâm lấn.",
+    "Cần nghiên cứu ảnh hưởng của thiết kế giao diện, như helmet so với mặt nạ, hay cannula dòng cao bất đối xứng, và vai trò của các phương thức ở nguyên nhân không phải COPD.",
+    "Và cần nghiên cứu sinh lý để xác định cài đặt oxy dòng cao tối ưu cho tăng CO₂, gồm lưu lượng, cách chỉnh FiO₂ và thiết kế cannula, cùng tính khả thi ở nơi thiếu oxy lưu lượng cao, điện liên tục và vật tư."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy trong suy hô hấp tăng CO₂",
+   "ref": "Tổng hợp PICO 2",
+   "box": {
+    "tag": "BẪY",
+    "t": "Dùng HFNC cho đợt cấp COPD <b>pH 7,18</b> vì “dễ chịu hơn” → ngoài phạm vi bằng chứng; NIV qua mặt nạ là đầu tay.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "HFNC ở nơi không chuyển NIV ngay được",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "HFNC cho giảm thông khí do béo phì, thần kinh – cơ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Đặt lưu lượng HFNC tối đa mặc định ở người tăng CO₂",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Áp dụng máy móc cho phù phổi cấp do tim",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy. Bẫy thứ nhất: dùng oxy dòng cao cho đợt cấp COPD với pH 7,18 vì nghĩ rằng dễ chịu hơn. Đây là ngoài phạm vi bằng chứng; thở máy không xâm lấn qua mặt nạ mới là đầu tay.",
+    "Bẫy thứ hai: dùng oxy dòng cao ở nơi không thể chuyển sang thở máy không xâm lấn ngay khi cần.",
+    "Bẫy thứ ba: dùng oxy dòng cao cho giảm thông khí do béo phì hay bệnh thần kinh cơ, nơi cơ chế không hồi phục nhanh.",
+    "Bẫy thứ tư: mặc định đặt lưu lượng tối đa ở người tăng CO₂, trong khi khoảng 30 đến 40 lít mỗi phút mới là mức được gợi ý.",
+    "Bẫy thứ năm: áp dụng máy móc khuyến cáo này cho phù phổi cấp do tim, nhóm không có câu hỏi riêng."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: đợt cấp COPD tại cấp cứu",
+   "case": "Nam 70 tuổi, COPD, ho đờm mủ 3 ngày. Thở 28 lần/phút, co kéo cơ hô hấp phụ, tỉnh. Khí máu (oxy 2 L/phút): <b>pH 7,22</b>, <b>PaCO₂ 78 mmHg</b>, PaO₂ 58 mmHg. Người bệnh nói không chịu được mặt nạ “ngột ngạt” và xin dùng oxy dòng cao.",
+   "case_at": 1,
+   "q": "Hỗ trợ hô hấp phù hợp theo ATS 2026?",
+   "q_at": 2,
+   "options": [
+    "Oxy dòng cao 60 L/phút theo yêu cầu người bệnh",
+    "NIV qua mặt nạ sớm, giải thích – hướng dẫn, chỉnh giao diện, theo dõi sát",
+    "Tăng oxy gọng mũi lên 5 L/phút",
+    "CPAP qua mặt nạ"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "pH 7,22 < 7,25 → toan nặng hơn mức có bằng chứng cho HFNC. NIV qua mặt nạ: khuyến cáo mạnh (giảm tử vong RR 0,47, đặt ống RR 0,43). Hướng dẫn, chỉnh mặt nạ giúp dung nạp; NIV giảm tải cũng giảm khó thở. Không khuyến cáo CPAP.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 70 tuổi, COPD, ho khạc đờm mủ 3 ngày. Thở 28 lần mỗi phút, co kéo cơ hô hấp phụ, còn tỉnh. Khí máu với oxy 2 lít mỗi phút: pH 7,22, PaCO₂ 78, PaO₂ 58. Người bệnh nói không chịu được mặt nạ vì ngột ngạt và xin dùng oxy dòng cao.",
+    "Hỗ trợ hô hấp nào phù hợp theo hướng dẫn 2026?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là thở máy không xâm lấn qua mặt nạ sớm. pH 7,22 là toan nặng hơn mức có bằng chứng cho oxy dòng cao. Thở máy không xâm lấn là khuyến cáo mạnh, giảm tử vong hơn một nửa và giảm đặt nội khí quản. Thay vì bỏ cuộc, hãy giải thích, hướng dẫn người bệnh, chỉnh giao diện cho vừa; chính việc giảm tải hô hấp sẽ làm người bệnh dễ chịu hơn. Hướng dẫn không khuyến cáo áp dụng áp lực dương liên tục ở nhóm này."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: tăng CO₂ nhẹ tại khoa nội",
+   "case": "Nữ 66 tuổi, đợt cấp COPD do nhiễm virus. <b>pH 7,31</b>, PaCO₂ 58 mmHg, thở 24 lần/phút, không co kéo nhiều. Khoa có máy NIV và nhân viên trực 24 giờ, có thể chuyển hồi sức.",
+   "case_at": 1,
+   "q": "Lựa chọn nào phù hợp với khuyến cáo?",
+   "q_at": 2,
+   "options": [
+    "Chỉ oxy chuẩn vì toan nhẹ",
+    "Đặt nội khí quản dự phòng",
+    "HFNC (≈ 30–40 L/phút) là lựa chọn thay thế NIV, theo dõi sát, chuyển NIV ngay nếu xấu đi",
+    "HFNC 60 L/phút, đánh giá lại sau 24 giờ"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Toan nhẹ (pH > 7,25), cơ chế hồi phục nhanh, có theo dõi và chuyển NIV ngay → HFNC là lựa chọn thay thế (có điều kiện, chắc chắn thấp); NIV cũng phù hợp. 1/3 phải chuyển NIV → cần tiêu chí nâng bậc. Lưu lượng gợi ý 30–40 L/phút.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nữ 66 tuổi, đợt cấp COPD do nhiễm virus. pH 7,31, PaCO₂ 58, thở 24 lần mỗi phút, không co kéo nhiều. Khoa có máy thở không xâm lấn và nhân viên trực 24 giờ, có thể chuyển hồi sức khi cần.",
+    "Lựa chọn nào phù hợp với khuyến cáo?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án ba. Người bệnh toan nhẹ, pH trên 7,25, cơ chế có thể hồi phục nhanh, và có điều kiện theo dõi cùng chuyển thở máy không xâm lấn ngay. Đây chính là nhóm mà oxy dòng cao là lựa chọn thay thế, khuyến cáo có điều kiện; thở máy không xâm lấn cũng hoàn toàn phù hợp. Vì khoảng một phần ba người bệnh phải chuyển, cần đặt tiêu chí nâng bậc trước, và lưu lượng gợi ý khoảng 30 đến 40 lít mỗi phút. Chỉ dùng oxy chuẩn là bỏ lỡ lợi ích về tử vong và đặt nội khí quản."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 2",
+   "title": "Sáu thông điệp của Phần 2",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "NIV qua mặt nạ: khuyến cáo mạnh",
+     "d": "Khởi động sớm cho mọi người bệnh tăng CO₂",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Giảm tử vong và đặt ống",
+     "d": "RR 0,47 và 0,43 so với oxy chuẩn",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "HFNC thay thế khi pH > 7,25",
+     "d": "Có theo dõi, chuyển NIV ngay · 1/3 phải chuyển",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Cơ chế hồi phục nhanh",
+     "d": "COPD, opioid thoáng qua · thận trọng béo phì, thần kinh – cơ",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "HFNC 30–40 L/phút",
+     "d": "Cá thể hoá theo đáp ứng",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Phù phổi do tim: phán đoán riêng",
+     "d": "CPAP: không khuyến cáo ủng hộ hay phản đối",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần hai, xin tóm tắt những thông điệp chính.",
+    "Thở máy không xâm lấn qua mặt nạ là khuyến cáo mạnh, khởi động sớm cho mọi người bệnh suy hô hấp tăng CO₂ cấp, giảm tử vong và đặt nội khí quản hơn một nửa.",
+    "Oxy dòng cao là lựa chọn thay thế khi toan nhẹ, pH trên 7,25, cơ chế có thể hồi phục nhanh, và có theo dõi cùng chuyển thở máy không xâm lấn ngay, với lưu lượng khoảng 30 đến 40 lít mỗi phút.",
+    "Với phù phổi cấp do tim, cần phán đoán lâm sàng riêng.",
+    "Phần ba sẽ bàn về tiền oxy hoá khi đặt nội khí quản, nơi oxy dòng cao và thở máy không xâm lấn đều được khuyến cáo mạnh. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
