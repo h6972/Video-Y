@@ -1,0 +1,879 @@
+{
+ "title": "Surviving Sepsis Campaign 2026 – Phần 1: Định nghĩa, sàng lọc và hồi sức ban đầu",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức cấp cứu",
+ "part": "Surviving Sepsis Campaign 2026 · Phần 1/5",
+ "source_short": "Nguồn: Surviving Sepsis Campaign – International Guidelines for Management of Sepsis and Septic Shock 2026",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026.",
+ "lexicon": {
+  "IntelliSep": "in te li sép",
+  "SeptiCyte": "sép ti xai",
+  "TriVerity": "trai ve ri ti",
+  "Sepsis-3": "sép xít ba",
+  "CLOVERS": "clô vơ",
+  "SCREEN": "xờ crin",
+  "SSSP-2": "ét ét ét pê hai",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "qSOFA": "quick sô pha",
+  "NEWS2": "niu hai",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "SOFA": "sô pha",
+  "NEWS": "niu",
+  "MEWS": "miu",
+  "SIRS": "xia",
+  "LMIC": "nước thu nhập thấp và trung bình",
+  "ICU": "hồi sức",
+  "MDW": "em đê đắp liu"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "sepsis",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 1/5",
+   "title": "Surviving Sepsis<br>Campaign 2026",
+   "subtitle": "Phần 1 · Định nghĩa, sàng lọc & hồi sức ban đầu",
+   "badges": [
+    {
+     "t": "129 khuyến cáo",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "GRADE",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Cập nhật từ 2021",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "Hướng dẫn quốc tế xử trí nhiễm khuẩn huyết và sốc nhiễm khuẩn 2026",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online, và với loạt bài giảng về Hướng dẫn quốc tế xử trí nhiễm khuẩn huyết và sốc nhiễm khuẩn năm 2026 của chiến dịch Surviving Sepsis Campaign.",
+    "Bản 2026 gồm 129 khuyến cáo, xếp hạng theo GRADE, mỗi khuyến cáo ghi rõ là mới, được sửa đổi, hay giữ nguyên so với bản 2021.",
+    "Loạt bài có năm phần. Phần một hôm nay bàn về định nghĩa, sàng lọc và hồi sức ban đầu, tức những gì cần làm trong vài giờ đầu tiên."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Giới thiệu · Gánh nặng",
+   "title": "Nhiễm khuẩn huyết: ưu tiên y tế toàn cầu",
+   "ref": "Introduction",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "MỖI NĂM",
+     "t": "≈ 49 triệu ca",
+     "d": "≈ 13 triệu ca tử vong liên quan sepsis",
+     "items": [],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "SAU SỐNG SÓT",
+     "t": "Di chứng kéo dài",
+     "d": "Thể chất, nhận thức, sức khoẻ tâm thần mới hoặc nặng hơn",
+     "items": [],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "PHẠM VI",
+     "t": "Trước – trong – sau viện",
+     "d": "Người lớn, lồng ghép quản lý sử dụng kháng sinh",
+     "items": [
+      "Chẩn đoán đúng, xuống thang hợp lý"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Nhiễm khuẩn huyết là ưu tiên y tế toàn cầu, với khoảng 49 triệu ca và 13 triệu ca tử vong liên quan mỗi năm.",
+    "Ngoài nguy cơ tử vong cấp, sepsis còn để lại nhiều vấn đề mới hoặc nặng hơn về thể chất, nhận thức và sức khoẻ tâm thần ở người sống sót.",
+    "Hướng dẫn tập trung vào người lớn, trong bệnh viện, giai đoạn ngay trước viện và ngay sau xuất viện, và lồng ghép nguyên tắc quản lý sử dụng kháng sinh: dùng có trách nhiệm, chẩn đoán đúng và xuống thang."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "formula",
+   "chapter": "Định nghĩa · Sepsis-3",
+   "title": "Định nghĩa nhiễm khuẩn huyết và sốc nhiễm khuẩn",
+   "ref": "Sepsis Terminology · theo Sepsis-3",
+   "main": {
+    "tag": "ĐỊNH NGHĨA",
+    "t": "Sepsis = rối loạn chức năng cơ quan cấp đe doạ tính mạng do nhiễm trùng",
+    "d": "Chẩn đoán dựa trên đánh giá lâm sàng toàn diện, tuỳ nguồn lực tại chỗ",
+    "at": 0,
+    "c": "amber",
+    "hl": "L0"
+   },
+   "op": "TRÊN THỰC HÀNH (SEPSIS-3)",
+   "op_at": 1,
+   "options": [
+    {
+     "t": "Rối loạn chức năng cơ quan",
+     "d": "Thường lượng hoá bằng điểm SOFA tăng ≥ 2 do nhiễm trùng",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Sốc nhiễm khuẩn",
+     "d": "Phân nhóm có rối loạn tuần hoàn, nguy cơ tử vong cao hơn · cần vận mạch để HA trung bình ≥ 65 và lactate > 2 mmol/L dù đã đủ dịch",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Trước khi vào khuyến cáo, xin thống nhất định nghĩa. Hướng dẫn định nghĩa nhiễm khuẩn huyết là rối loạn chức năng cơ quan cấp đe doạ tính mạng do nhiễm trùng, và sốc nhiễm khuẩn là phân nhóm có rối loạn tuần hoàn với nguy cơ tử vong cao hơn, phù hợp với đồng thuận quốc tế lần thứ ba, Sepsis-3.",
+    "Theo Sepsis-3, rối loạn chức năng cơ quan thường được lượng hoá bằng điểm SOFA tăng từ 2 điểm trở lên do nhiễm trùng.",
+    "Và sốc nhiễm khuẩn theo Sepsis-3 là khi cần vận mạch để duy trì huyết áp trung bình từ 65 milimét thuỷ ngân, kèm lactate trên 2 milimol mỗi lít, dù đã bù đủ dịch. Hướng dẫn nhấn mạnh: trên thực hành, chẩn đoán dựa trên đánh giá lâm sàng toàn diện, tuỳ nguồn lực xét nghiệm tại chỗ, và các khuyến cáo được áp dụng thực dụng theo chẩn đoán tại cơ sở."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "list",
+   "chapter": "Định nghĩa · Bảng 3",
+   "title": "Bốn mức độ chắc chắn của chẩn đoán",
+   "ref": "Table 3 · Sepsis Terminology",
+   "dense": false,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "Chắc chắn (definite)",
+     "d": "Xác nhận qua bệnh sử, khám, xét nghiệm; chẩn đoán khác rất khó xảy ra",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Có khả năng cao (probable)",
+     "d": "Nghi ngờ cao; sepsis là chẩn đoán nhiều khả năng nhất",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Có thể (possible)",
+     "d": "Nghi ngờ vừa; chẩn đoán khác cũng có khả năng",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Ít khả năng (unlikely)",
+     "d": "Lâm sàng không phù hợp, hoặc chẩn đoán khác nhiều khả năng hơn",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Vì chẩn đoán sepsis thường không chắc chắn, hướng dẫn chuẩn hoá bốn mức độ, dùng xuyên suốt các khuyến cáo. Chắc chắn: sepsis được xác nhận qua bệnh sử, khám và xét nghiệm, chẩn đoán khác rất khó xảy ra.",
+    "Có khả năng cao: nghi ngờ cao, sepsis là chẩn đoán nhiều khả năng nhất.",
+    "Có thể: nghi ngờ vừa, nhưng chẩn đoán khác cũng có khả năng.",
+    "Và ít khả năng: lâm sàng không phù hợp, hoặc chẩn đoán khác nhiều khả năng hơn. Quý vị sẽ thấy ở phần hai, thời điểm dùng kháng sinh phụ thuộc chính vào các mức độ này."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "cards",
+   "chapter": "Phương pháp",
+   "title": "Đọc các loại khuyến cáo",
+   "ref": "Types of Graded Recommendations · Table 1",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "XẾP HẠNG",
+     "t": "Mạnh · Có điều kiện",
+     "d": "Ủng hộ hoặc phản đối",
+     "items": [
+      "Chắc chắn: cao, trung bình, thấp, rất thấp"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "KHÔNG XẾP HẠNG",
+     "t": "Thực hành tốt nhất",
+     "d": "Lợi ích rõ ràng, khó nghiên cứu trực tiếp",
+     "items": [
+      "“Chưa đủ bằng chứng”: không khuyến cáo"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "MỚI 2026",
+     "t": "“Trong thực hành của chúng tôi”",
+     "d": "Tỷ lệ chuyên gia hội đồng thực hành ra sao",
+     "items": [
+      "Đánh dấu mới, sửa đổi, giữ nguyên, nâng hoặc hạ mức"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Về cách đọc, mỗi khuyến cáo xếp hạng là mạnh hoặc có điều kiện, theo chiều ủng hộ hoặc phản đối, kèm mức chắc chắn từ cao đến rất thấp.",
+    "Ngoài ra có tuyên bố thực hành tốt nhất, không xếp hạng, khi lợi ích rõ ràng mà khó nghiên cứu trực tiếp; và các tuyên bố chưa đủ bằng chứng để khuyến cáo.",
+    "Điểm mới thú vị của bản 2026 là các nhận xét “trong thực hành của chúng tôi”, cho biết bao nhiêu phần trăm chuyên gia hội đồng thực sự làm gì ở những vấn đề còn bất định. Mỗi khuyến cáo cũng được đánh dấu là mới, sửa đổi, giữ nguyên, hay được nâng hoặc hạ mức so với 2021."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "cards",
+   "chapter": "Sàng lọc · KC 1–2",
+   "title": "Chương trình cải thiện chất lượng và “code sepsis”",
+   "ref": "KC 1 · Mạnh · KC 2 · Có điều kiện, thấp",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "KC 1 · MẠNH",
+     "t": "Chương trình cải thiện",
+     "d": "Sàng lọc người bệnh cấp tính nguy cơ cao · quy trình chuẩn · chiến lược cải thiện chất lượng (mới)",
+     "items": [
+      "Gói giờ đầu: kháng sinh sớm hơn 73 phút",
+      "SCREEN 60.055 người bệnh: tử vong 90 ngày aRR 0,85"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Cải thiện chất lượng",
+     "d": "50 nghiên cứu quan sát",
+     "items": [
+      "Tử vong giảm: OR 0,66",
+      "Cảnh báo điện tử + dược sĩ: kháng sinh 2,3 so với 3,0 giờ"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KC 2 · MỚI",
+     "t": "“Code sepsis”",
+     "d": "Nhóm đa chuyên khoa họp tại giường sau sàng lọc dương tính",
+     "items": [
+      "Tận dụng đội phản ứng nhanh sẵn có",
+      "Lợi nhiều ở nơi hệ thống còn yếu"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo một, mức mạnh: bệnh viện và hệ thống y tế nên có chương trình cải thiện xử trí sepsis, gồm sàng lọc người bệnh cấp tính nguy cơ cao, quy trình điều trị chuẩn, và mới năm 2026, các chiến lược cải thiện chất lượng. Một thử nghiệm 872 người bệnh cho thấy gói giờ đầu giúp dùng kháng sinh sớm hơn 73 phút; thử nghiệm SCREEN trên hơn 60 nghìn người bệnh với cảnh báo điện tử, đào tạo và phản hồi giảm tử vong 90 ngày, nguy cơ tương đối hiệu chỉnh 0,85.",
+    "Phân tích gộp 50 nghiên cứu quan sát cho thấy các sáng kiến cải thiện chất lượng giảm tử vong với tỷ số chênh 0,66. Một thử nghiệm dùng cờ cảnh báo trong hồ sơ điện tử kèm thông báo cho dược sĩ cấp cứu giúp rút ngắn thời gian đến kháng sinh từ 3,0 xuống 2,3 giờ.",
+    "Khuyến cáo hai, mới, có điều kiện: dùng quy trình “code sepsis”, tức một nhóm đa chuyên khoa họp ngay tại giường sau sàng lọc dương tính để đẩy nhanh chẩn đoán và điều trị. Có thể tận dụng đội phản ứng nhanh sẵn có, và lợi ích nhiều hơn ở nơi hệ thống nhận diện sepsis còn yếu."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "compare",
+   "chapter": "Sàng lọc · KC 3–4",
+   "title": "Công cụ sàng lọc: qSOFA không đủ một mình",
+   "ref": "KC 3 · Có điều kiện, rất thấp · KC 4 · Mạnh, trung bình",
+   "head": [
+    "Công cụ",
+    "Hiệu năng (221.429 hồ sơ trước viện)",
+    "Khuyến cáo"
+   ],
+   "widths": "0.9fr 1.6fr 1.1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>NEWS2</b>",
+      "Nhạy 73,1% · đặc hiệu 81,6% · AUC 0,77 · giá trị dự báo dương 6,5%",
+      "Tốt nhất, nhưng dương tính giả nhiều"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>qSOFA</b>",
+      "<em>Nhạy chỉ 23,1%</em>",
+      "Không dùng làm công cụ sàng lọc duy nhất"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>KC 4</b> · trong viện",
+      "NEWS, NEWS2, MEWS hoặc SIRS <em>hơn qSOFA</em>",
+      "Mạnh · chắc chắn trung bình"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>KC 3</b> · trên xe cứu thương",
+      "Dùng một công cụ sàng lọc chuẩn (không chỉ định công cụ cụ thể)",
+      "Có điều kiện · rất thấp · mới"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Về công cụ sàng lọc, một nghiên cứu trên 221.429 hồ sơ trước viện so sánh các thang cảnh báo sớm: NEWS2 có hiệu năng tốt nhất, độ nhạy 73,1%, đặc hiệu 81,6%, diện tích dưới đường cong 0,77, nhưng giá trị dự báo dương chỉ 6,5%.",
+    "qSOFA có độ nhạy thấp nhất, chỉ 23,1%.",
+    "Vì vậy khuyến cáo bốn, mức mạnh: với người bệnh cấp tính trong viện, dùng NEWS, NEWS2, MEWS hoặc SIRS thay vì qSOFA làm công cụ sàng lọc duy nhất. qSOFA dương tính vẫn nên làm ta nghĩ tới sepsis, và trong thử nghiệm SCREEN, cảnh báo dựa trên qSOFA vẫn giảm tử vong, vì nó phát hiện tình trạng xấu đi.",
+    "Khuyến cáo ba, mới, có điều kiện: trên xe cứu thương hoặc máy bay, dùng một công cụ sàng lọc chuẩn, vì khoảng một nửa người bệnh sepsis đến viện bằng xe cứu thương. Sàng lọc hiệu quả nhất khi đi kèm báo trước cho bệnh viện."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "box",
+   "chapter": "Chẩn đoán · KC 5–6",
+   "title": "Sepsis là chẩn đoán lâm sàng",
+   "ref": "KC 5 · Thực hành tốt · KC 6 · Chưa đủ bằng chứng",
+   "box": {
+    "tag": "KC 5 · MỚI",
+    "t": "Sepsis là <b>chẩn đoán lâm sàng</b>, không được xác định hay loại trừ chỉ bằng <b>một dấu ấn sinh học</b> hay một xét nghiệm.",
+    "at": 0,
+    "c": "amber",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "KC 6",
+     "t": "Xét nghiệm đáp ứng vật chủ nhanh: chưa đủ bằng chứng để khuyến cáo",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "VÍ DỤ",
+     "t": "MDW, IntelliSep, SeptiCyte, TriVerity… chỉ xếp nhóm nguy cơ",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Chưa có nghiên cứu về kết cục; ít giá trị khi xác suất > 90%",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo năm, tuyên bố thực hành tốt mới: sepsis là chẩn đoán lâm sàng, không được xác định hay loại trừ chỉ bằng một dấu ấn sinh học hay một xét nghiệm.",
+    "Khuyến cáo sáu: chưa đủ bằng chứng cho các xét nghiệm đáp ứng vật chủ nhanh mới, như độ rộng phân bố bạch cầu mono, các xét nghiệm biến dạng bạch cầu trung tính hay bản sao ARN thông tin. Các xét nghiệm này không cho kết quả dương hay âm, mà chỉ xếp người bệnh vào nhóm nguy cơ từ thấp đến rất cao.",
+    "Chưa có nghiên cứu nào cho thấy chúng cải thiện kết cục, chi phí cao, và khi xác suất sepsis đã trên 90% sau đánh giá ban đầu thì chúng gần như không thêm giá trị."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "Chẩn đoán · KC 7",
+   "title": "Cấy máu: sớm nhất có thể, trước kháng sinh",
+   "ref": "KC 7 · Mạnh, bằng chứng thấp",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "GIÁ TRỊ",
+     "t": "Tìm được tác nhân 60–70%",
+     "d": "Nhưng cấy máu chỉ dương 10–20%",
+     "items": [
+      "Sốc nhiễm khuẩn: tỷ lệ dương ≥ 50%"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "KỸ THUẬT",
+     "t": "10 ml mỗi chai",
+     "d": "Thường 2 vị trí; 2 bộ tăng độ nhạy 91,5% → 99,3%",
+     "items": [
+      "Hướng dẫn Đức 2025: 1 vị trí đủ thể tích, ít nhiễm bẩn",
+      "Chai kỵ khí: chỉ ≈ 15% mọc riêng"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "THỜI ĐIỂM",
+     "t": "Trước kháng sinh",
+     "d": "Sau kháng sinh ≈ 70 phút: dương tính 31,4% → 19,4%",
+     "items": [
+      "Nhưng KHÔNG trì hoãn kháng sinh, nhất là khi tụt huyết áp",
+      "Cấy lại: S. aureus, S. lugdunensis, Candida"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo bảy, mức mạnh: lấy cấy máu càng sớm càng tốt, lý tưởng là trước khi dùng kháng sinh, ở mọi người bệnh có thể, có khả năng cao hoặc chắc chắn sepsis. Tác nhân được xác định ở 60 đến 70% người bệnh, nhưng cấy máu chỉ dương tính khoảng 10 đến 20%; riêng sốc nhiễm khuẩn, tỷ lệ dương có thể từ 50% trở lên.",
+    "Về kỹ thuật, thường lấy từ 2 vị trí, 10 mililít mỗi chai; hai bộ cấy tăng độ nhạy từ 91,5% lên 99,3%. Tuy vậy, hướng dẫn quốc gia Đức 2025 đề nghị lấy một vị trí, vì giúp đủ thể tích, ít nhiễm bẩn và ít chọc kim hơn. Chỉ khoảng 15% cấy máu dương tính mọc riêng ở chai kỵ khí, nên ở nơi nguồn lực hạn chế có thể cân nhắc chỉ dùng chai hiếu khí.",
+    "Thời điểm rất quan trọng: sau khoảng 70 phút dùng kháng sinh, tỷ lệ cấy máu dương giảm từ 31,4% xuống 19,4%. Tuy vậy, cấy máu không được làm chậm kháng sinh, nhất là ở người tụt huyết áp. Cần cấy lại để xác nhận sạch khuẩn với tụ cầu vàng, Staphylococcus lugdunensis và nấm Candida."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "timeline",
+   "chapter": "Hồi sức · Đồng hồ",
+   "title": "Đồng hồ của những giờ đầu",
+   "ref": "KC 7–17",
+   "events": [
+    {
+     "year": "Ngay",
+     "t": "Hồi sức ngay",
+     "d": "Sepsis là cấp cứu (KC 9) · cấy máu, lactate",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "year": "≤ 1 giờ",
+     "t": "Kháng sinh",
+     "d": "Sốc, hoặc khả năng cao/chắc chắn (Phần 2)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "year": "≤ 3 giờ",
+     "t": "≥ 30 ml/kg",
+     "d": "Dịch tinh thể khi giảm tưới máu, sốc",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "year": "≤ 6 giờ",
+     "t": "Vào hồi sức",
+     "d": "Nếu cần nhập ICU (KC 15)",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "note": {
+    "t": "KC 8: đo lactate (có điều kiện) · bù dịch cá thể hoá theo mức giảm lactate, không truyền đến khi lactate về bình thường",
+    "at": 4,
+    "c": "violet"
+   },
+   "lines": [
+    "Trước khi đi sâu, xin vẽ đồng hồ của những giờ đầu. Khuyến cáo chín, tuyên bố thực hành tốt: sepsis và sốc nhiễm khuẩn là cấp cứu, điều trị và hồi sức phải bắt đầu ngay, cùng với cấy máu và đo lactate.",
+    "Trong vòng 1 giờ: kháng sinh cho người sốc nhiễm khuẩn hoặc sepsis có khả năng cao, chắc chắn, mà chúng ta bàn ở phần hai.",
+    "Trong 3 giờ đầu: ít nhất 30 mililít mỗi kilôgam dịch tinh thể khi có giảm tưới máu hoặc sốc.",
+    "Trong vòng 6 giờ: chuyển vào hồi sức nếu người bệnh cần nhập hồi sức, theo khuyến cáo mười lăm.",
+    "Và khuyến cáo tám, có điều kiện: đo lactate. Sau bolus dịch ban đầu, lượng dịch tiếp theo nên được cá thể hoá dựa trên mức giảm lactate, chứ không truyền tiếp cho đến khi lactate về bình thường."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "Hồi sức · KC 10",
+   "title": "Ít nhất 30 ml/kg dịch tinh thể trong 3 giờ đầu",
+   "ref": "KC 10 · Có điều kiện, bằng chứng thấp",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "ĐỐI TƯỢNG",
+     "t": "Giảm tưới máu hoặc sốc",
+     "d": "Tụt huyết áp (HA trung bình < 65) hoặc lactate ≥ 4 mmol/L",
+     "items": [
+      "Lactate trung gian 2–4: cân nhắc bù dịch"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "CÂN NẶNG",
+     "t": "Cân nặng thực",
+     "d": "BMI > 30: cân nặng hiệu chỉnh hoặc lý tưởng",
+     "items": [
+      "Gầy, suy kiệt: theo cân nặng thực, tránh quá tải"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Quan sát, nhất quán",
+     "d": "612 bệnh viện: 4,0 L tốt hơn 1,6 L hoặc 6,1 L",
+     "items": [
+      "SSC “ít nhất 30” khác ESICM “tối đa 30”",
+      "Tác hại thường ở thể tích > 50 ml/kg"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo mười, có điều kiện, giữ nguyên từ 2016 và 2021: ở người bệnh giảm tưới máu do sepsis hoặc sốc nhiễm khuẩn, truyền ít nhất 30 mililít mỗi kilôgam dịch tinh thể trong 3 giờ đầu. Giảm tưới máu được nhận diện bằng tụt huyết áp, huyết áp trung bình dưới 65, hoặc lactate từ 4 milimol mỗi lít; người có lactate trung gian 2 đến 4 cũng nên được cân nhắc bù dịch.",
+    "Thể tích tính theo cân nặng thực; ở người chỉ số khối cơ thể trên 30, dùng cân nặng hiệu chỉnh hoặc cân nặng lý tưởng, còn ở người gầy, suy kiệt thì theo cân nặng thực để tránh quá tải.",
+    "Bằng chứng chủ yếu là quan sát, nhưng nhất quán. Một nghiên cứu ở 612 bệnh viện Hoa Kỳ cho thấy bù dịch vừa phải khoảng 4 lít có tử vong thấp hơn so với rất ít, 1,6 lít, hoặc rất nhiều, 6,1 lít. Hướng dẫn chủ động khác với Hội Hồi sức châu Âu, vốn đề nghị tối đa 30 mililít mỗi kilôgam, vì đa số người bệnh có lợi với ít nhất 30, và tác hại do dịch thường xảy ra khi thể tích vượt xa, trên 50 mililít mỗi kilôgam, như trong thử nghiệm SSSP-2 ở châu Phi. Luôn đánh giá lại thường xuyên để tránh thiếu hoặc thừa dịch."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "compare",
+   "chapter": "Hồi sức · Bảng 4",
+   "title": "30 ml/kg đổi ra lít",
+   "ref": "Table 4",
+   "head": [
+    "Cân nặng",
+    "Chiều cao 1,5 m",
+    "Chiều cao 1,7 m"
+   ],
+   "widths": "1fr 1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>50 kg</b>",
+      "1,5 L",
+      "1,5 L"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>70 kg</b>",
+      "2,1 L",
+      "2,1 L"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>90 kg</b>",
+      "<em>2,0 L</em> (hiệu chỉnh)",
+      "<em>2,4 L</em> (hiệu chỉnh)"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>120 kg</b>",
+      "<em>2,3 L</em> (hiệu chỉnh)",
+      "<em>2,7 L</em> (hiệu chỉnh)"
+     ],
+     "at": 1,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bảng 4 của hướng dẫn quy đổi 30 mililít mỗi kilôgam ra lít. Người 50 kilôgam cần 1,5 lít, người 70 kilôgam cần 2,1 lít.",
+    "Với người béo phì, dùng cân nặng hiệu chỉnh: người 90 kilôgam cao 1,7 mét chỉ cần khoảng 2,4 lít; người 120 kilôgam cao 1,5 mét khoảng 2,3 lít, thay vì 3,6 lít nếu tính theo cân nặng thực."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "cards",
+   "chapter": "Hồi sức · KC 11",
+   "title": "Khi nào bắt đầu vận mạch?",
+   "ref": "KC 11 · Có điều kiện, rất thấp · Mới",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "KC 11",
+     "t": "Bolus dịch trước",
+     "d": "Rồi vận mạch nếu còn tụt huyết áp",
+     "items": [
+      "Tránh phơi nhiễm catecholamin không cần thiết"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "NGOẠI LỆ",
+     "t": "Sốc không ổn định",
+     "d": "Vận mạch đồng thời với dịch, tuỳ từng ca",
+     "items": [
+      "HA rất thấp, da nổi bông, tái xám",
+      "Tím tái, nhịp nhanh, rối loạn ý thức"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Còn trái chiều",
+     "d": "RCT nhỏ: norepinephrine sớm giảm dịch, tử vong",
+     "items": [
+      "CLOVERS: không khác tử vong 90 ngày",
+      "5 RCT đang tiến hành"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo mười một, mới, có điều kiện: với tụt huyết áp do sepsis, bắt đầu bằng bolus dịch tinh thể, sau đó dùng vận mạch nếu huyết áp vẫn thấp. Hội đồng cân nhắc giữa lợi ích của vận mạch sớm ở người giảm tưới máu đe doạ tính mạng, và tác hại của phơi nhiễm catecholamin không cần thiết ở người có thể phục hồi nhanh bằng dịch.",
+    "Ngoại lệ là sốc không ổn định, nhận diện bằng thăm khám: huyết áp rất thấp, da nổi bông, tái xám, tím tái hoặc giảm độ bão hoà oxy, nhịp tim nhanh và rối loạn ý thức. Khi đó có thể dùng vận mạch đồng thời với dịch ngay từ đầu.",
+    "Bằng chứng còn trái chiều: hai thử nghiệm nhỏ cho thấy norepinephrine liều thấp sớm giảm nhu cầu dịch và tử vong ngắn hạn, nhưng thử nghiệm đa trung tâm CLOVERS không thấy khác biệt tử vong 90 ngày. Hiện có 5 thử nghiệm ngẫu nhiên đang tiến hành."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "cards",
+   "chapter": "Hồi sức · KC 12",
+   "title": "Vận mạch qua đường ngoại vi",
+   "ref": "KC 12 · Có điều kiện, rất thấp",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "KC 12",
+     "t": "Không chờ catheter trung tâm",
+     "d": "Bắt đầu vận mạch ngoại vi để khôi phục HA trung bình",
+     "items": [
+      "Biến chứng gộp ≈ 5,97% (7 nghiên cứu)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "ĐIỀU KIỆN",
+     "t": "Quy trình an toàn",
+     "d": "Đường truyền tốt, theo dõi thoát mạch thường xuyên, xử trí khi thoát mạch",
+     "items": [
+      "Nơi không theo dõi được: thận trọng"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "TRONG THỰC HÀNH",
+     "t": "86,6% hội đồng có dùng",
+     "d": "46,6% dùng tới 6 giờ · 13,8% tới 24 giờ",
+     "items": [
+      "Chuyển trung tâm theo liều, vị trí, loại thuốc"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo mười hai, có điều kiện: ở người bệnh sốc nhiễm khuẩn, bắt đầu vận mạch qua đường truyền ngoại vi để khôi phục huyết áp, thay vì trì hoãn đến khi đặt được catheter tĩnh mạch trung tâm. Tỷ lệ biến chứng gộp qua bảy nghiên cứu khoảng 6%.",
+    "Các nghiên cứu chứng minh an toàn đều có quy trình đi kèm: đường truyền ngoại vi chất lượng tốt, theo dõi thoát mạch thường xuyên và xử trí kịp thời. Ở nơi không theo dõi được như vậy, cần thận trọng. Chưa đủ dữ liệu để khuyến cáo thời gian, liều hay vị trí đường truyền.",
+    "Trong thực hành của hội đồng, 86,6% có dùng vận mạch ngoại vi; gần một nửa dùng tới 6 giờ, và quyết định chuyển sang đường trung tâm dựa trên liều, vị trí đường truyền và loại thuốc."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "compare",
+   "chapter": "Hồi sức · KC 13–14",
+   "title": "Mục tiêu huyết áp trung bình",
+   "ref": "KC 13 · Mạnh, trung bình · KC 14 · Có điều kiện, thấp · Mới",
+   "head": [
+    "Đối tượng",
+    "Mục tiêu ban đầu",
+    "Bằng chứng"
+   ],
+   "widths": "1fr 1fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Sốc nhiễm khuẩn</b>",
+      "<em>65 mmHg</em> (dao động ± 5)",
+      "Đích cao hơn: không giảm tử vong (RR 1,05), tăng rung nhĩ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>≥ 65 tuổi</b> (mới)",
+      "<em>60–65 mmHg</em>",
+      "Thử nghiệm 65: 2463 người bệnh, ít vận mạch, tử vong 41,0% so với 43,8%"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Phân tích gộp ≥ 65 tuổi</b>",
+      "Đích thấp hơn",
+      "Tử vong RR 0,89 (0,81–0,98) · chắc chắn cao"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Tăng huyết áp mạn</b>",
+      "Phân nhóm",
+      "Đích cao giảm 10,5% lọc máu, nhưng không giảm tử vong"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo mười ba, mạnh, chắc chắn trung bình: mục tiêu huyết áp trung bình ban đầu 65 milimét thuỷ ngân, thay vì cao hơn. Nhận xét mới: không thể giữ đúng 65, nên dùng một khoảng hợp lý, ví dụ trong vòng 5 milimét. Phân tích gộp cho thấy đích cao hơn không giảm tử vong, và đích cao bằng vận mạch còn tăng rung nhĩ.",
+    "Khuyến cáo mười bốn, mới, có điều kiện: ở người từ 65 tuổi trở lên, mục tiêu ban đầu là 60 đến 65. Thử nghiệm 65 trên 2463 người bệnh cho thấy hạ huyết áp chấp nhận giảm phơi nhiễm vận mạch, với tử vong 90 ngày 41,0% so với 43,8%.",
+    "Phân tích gộp của hướng dẫn giới hạn ở người từ 65 tuổi cho thấy đích thấp hơn giảm tử vong, nguy cơ tương đối 0,89, mức chắc chắn cao. Một thử nghiệm sau đó trên 518 người cao tuổi còn ghi nhận tử vong tăng với đích 80 đến 85.",
+    "Lưu ý phân nhóm tăng huyết áp mạn trong thử nghiệm trước: đích cao giảm 10,5% nhu cầu lọc máu, nhưng không giảm tử vong."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy của giờ đầu",
+   "ref": "Tổng hợp KC 1–15",
+   "box": {
+    "tag": "BẪY",
+    "t": "qSOFA 0–1 điểm → “không phải sepsis” → <b>bỏ sót</b>, vì qSOFA chỉ nhạy 23%. Dùng NEWS, NEWS2, MEWS hoặc SIRS.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Chờ procalcitonin hay xét nghiệm mới để “xác định” sepsis",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Chờ cấy máu rồi mới cho kháng sinh ở người tụt huyết áp",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "30 ml/kg theo cân nặng thực ở người 120 kg",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Chờ đặt catheter trung tâm mới bắt đầu vận mạch",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy của giờ đầu. Bẫy thứ nhất: qSOFA chỉ 0 hay 1 điểm thì kết luận không phải sepsis. qSOFA chỉ nhạy 23%, nên dễ bỏ sót; hãy dùng NEWS, NEWS2, MEWS hoặc SIRS.",
+    "Bẫy thứ hai: chờ procalcitonin hay một xét nghiệm mới để xác định sepsis, trong khi sepsis là chẩn đoán lâm sàng.",
+    "Bẫy thứ ba: chờ lấy được cấy máu rồi mới cho kháng sinh ở người tụt huyết áp.",
+    "Bẫy thứ tư: tính 30 mililít mỗi kilôgam theo cân nặng thực ở người 120 kilôgam, thay vì cân nặng hiệu chỉnh.",
+    "Bẫy thứ năm: chờ đặt catheter tĩnh mạch trung tâm mới bắt đầu vận mạch."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: viêm thận bể thận tại cấp cứu",
+   "case": "Nữ 78 tuổi, 60 kg, sốt, đau hông lưng, lơ mơ. <b>HA 80/45 mmHg</b> (trung bình 57), mạch 118, <b>lactate 4,6 mmol/L</b>. Chưa có đường truyền trung tâm.",
+   "case_at": 1,
+   "q": "Kế hoạch hồi sức ban đầu phù hợp nhất theo SSC 2026?",
+   "q_at": 2,
+   "options": [
+    "Dịch 500 ml rồi chờ đặt catheter trung tâm để dùng norepinephrine, đích HA trung bình 75",
+    "Cấy máu, kháng sinh trong 1 giờ, ≈ 1,8 L tinh thể trong 3 giờ, norepinephrine ngoại vi nếu còn tụt, đích 60–65",
+    "Chờ procalcitonin trước khi dùng kháng sinh",
+    "Truyền dịch đến khi lactate về bình thường"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Sốc nhiễm khuẩn: cấy máu nhưng không trì hoãn kháng sinh (≤ 1 giờ); ≥ 30 ml/kg ≈ 1,8 L trong 3 giờ (KC 10); vận mạch ngoại vi không chờ đường trung tâm (KC 12); ≥ 65 tuổi → đích 60–65 (KC 14). Bù dịch theo mức giảm lactate, không đến khi bình thường.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nữ 78 tuổi, 60 kilôgam, sốt, đau hông lưng, lơ mơ. Huyết áp 80 trên 45, huyết áp trung bình 57, mạch 118, lactate 4,6. Chưa có đường truyền trung tâm.",
+    "Kế hoạch hồi sức ban đầu nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Đây là sốc nhiễm khuẩn: lấy cấy máu nhưng không làm chậm kháng sinh, dùng trong vòng 1 giờ. Truyền ít nhất 30 mililít mỗi kilôgam, khoảng 1,8 lít dịch tinh thể trong 3 giờ, đánh giá lại thường xuyên. Nếu vẫn tụt huyết áp, bắt đầu norepinephrine qua đường ngoại vi, không chờ catheter trung tâm. Và vì người bệnh trên 65 tuổi, mục tiêu huyết áp trung bình ban đầu là 60 đến 65. Không truyền dịch cho đến khi lactate về bình thường, mà theo mức giảm của lactate."
+   ]
+  },
+  {
+   "id": "s18",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: sàng lọc tại khoa nội",
+   "case": "Nam 60 tuổi, viêm phổi ngày 2 tại khoa nội. Thở 23 lần/phút, HA 112/70, tỉnh (qSOFA 1 điểm). Nhưng SpO₂ 91% với oxy 3 L/phút, mạch 115, sốt 39 °C, <b>NEWS2 = 9</b>.",
+   "case_at": 1,
+   "q": "Nhận định nào đúng?",
+   "q_at": 2,
+   "options": [
+    "qSOFA < 2 → loại trừ sepsis",
+    "Chờ xét nghiệm đáp ứng vật chủ nhanh để quyết định",
+    "NEWS2 cao → đánh giá ngay khả năng sepsis, kích hoạt quy trình (“code sepsis”)",
+    "Chỉ theo dõi dấu hiệu sinh tồn mỗi 8 giờ"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "KC 4 (mạnh): NEWS, NEWS2, MEWS, SIRS hơn qSOFA để sàng lọc (qSOFA nhạy 23,1%). Sàng lọc dương → đánh giá lâm sàng ngay, “code sepsis” (KC 2). Sepsis là chẩn đoán lâm sàng (KC 5).",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nam 60 tuổi, viêm phổi ngày thứ hai tại khoa nội. Thở 23 lần mỗi phút, huyết áp 112 trên 70, tỉnh, tức qSOFA chỉ 1 điểm. Nhưng SpO₂ 91% với oxy 3 lít mỗi phút, mạch 115, sốt 39 độ, và điểm NEWS2 là 9.",
+    "Nhận định nào đúng?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án ba. qSOFA dưới 2 không loại trừ sepsis, vì độ nhạy chỉ khoảng 23%. Khuyến cáo mạnh là dùng NEWS, NEWS2, MEWS hoặc SIRS để sàng lọc; NEWS2 bằng 9 là dương tính rõ, cần đánh giá lâm sàng ngay và kích hoạt quy trình như code sepsis. Sepsis là chẩn đoán lâm sàng, không chờ một xét nghiệm đơn lẻ."
+   ]
+  },
+  {
+   "id": "s19",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 1",
+   "title": "Sáu thông điệp của Phần 1",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Sepsis-3: rối loạn chức năng cơ quan do nhiễm trùng",
+     "d": "4 mức: chắc chắn, khả năng cao, có thể, ít khả năng",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Chương trình + “code sepsis”",
+     "d": "Sàng lọc, quy trình chuẩn, cải thiện chất lượng",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "NEWS, NEWS2, MEWS, SIRS hơn qSOFA",
+     "d": "Sepsis là chẩn đoán lâm sàng",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Cấy máu sớm, không trì hoãn kháng sinh",
+     "d": "Đo lactate",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "≥ 30 ml/kg trong 3 giờ",
+     "d": "Cân nặng hiệu chỉnh nếu BMI > 30 · đánh giá lại",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Vận mạch ngoại vi · HA TB 65 (60–65 nếu ≥ 65 tuổi)",
+     "d": "Vào hồi sức trong 6 giờ",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần một, xin tóm tắt những thông điệp chính.",
+    "Sepsis là rối loạn chức năng cơ quan cấp đe doạ tính mạng do nhiễm trùng, với bốn mức độ chắc chắn của chẩn đoán. Mỗi bệnh viện cần chương trình sàng lọc, quy trình chuẩn, cải thiện chất lượng, và có thể là code sepsis.",
+    "Sàng lọc bằng NEWS, NEWS2, MEWS hoặc SIRS thay vì qSOFA; sepsis là chẩn đoán lâm sàng. Cấy máu sớm mà không trì hoãn kháng sinh, và đo lactate.",
+    "Truyền ít nhất 30 mililít mỗi kilôgam trong 3 giờ, tính theo cân nặng hiệu chỉnh nếu béo phì. Bắt đầu vận mạch ngoại vi khi cần, đích huyết áp trung bình 65, hoặc 60 đến 65 ở người từ 65 tuổi, và chuyển hồi sức trong 6 giờ.",
+    "Phần hai sẽ bàn về kháng sinh và kiểm soát ổ nhiễm: thời điểm vàng, phủ vi khuẩn đa kháng, nấm và kỵ khí, truyền kéo dài beta-lactam và xuống thang. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
