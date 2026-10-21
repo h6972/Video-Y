@@ -99,7 +99,11 @@ document.getElementById('sign').textContent=TL.sign||'';
 /* ---------- các layout ---------- */
 const L={
  title:s=>`<svg style="position:absolute;right:-20px;top:120px" width="760" height="620" viewBox="0 0 760 620">
-   ${s.art==='pancreas'?`<path d="M250 150 C150 160 105 260 135 360 C160 445 240 480 305 455" fill="none" stroke="rgba(251,191,36,.55)" stroke-width="26" stroke-linecap="round" data-a="draw" data-in="0.3"/>
+   ${s.art==='lungs'?`<path d="M380 120 V300 M380 300 C350 320 320 330 300 350 M380 300 C410 320 440 330 460 350" fill="none" stroke="rgba(148,163,184,.7)" stroke-width="10" stroke-linecap="round" data-a="draw" data-in="0.3"/>
+   <path d="M330 170 C260 160 190 240 175 330 C160 420 180 500 240 510 C300 520 345 470 350 400 C355 330 360 230 330 170 Z" fill="rgba(45,212,191,.10)" stroke="rgba(45,212,191,.75)" stroke-width="4" data-a="draw" data-in="0.5"/>
+   <path d="M430 170 C500 160 570 240 585 330 C600 420 580 500 520 510 C460 520 415 470 410 400 C405 330 400 230 430 170 Z" fill="rgba(45,212,191,.10)" stroke="rgba(45,212,191,.75)" stroke-width="4" data-a="draw" data-in="0.7"/>
+   <path d="M300 350 C270 380 250 410 240 450 M300 350 C300 390 295 430 285 470 M460 350 C490 380 510 410 520 450 M460 350 C460 390 465 430 475 470" fill="none" stroke="rgba(251,113,133,.6)" stroke-width="4" stroke-linecap="round" data-a="draw" data-in="1.1"/>
+   <path d="M0 580 H200 L225 550 L250 580 H560 L585 550 L610 580 H760" fill="none" stroke="rgba(96,165,250,.8)" stroke-width="5" stroke-linecap="round" data-a="draw" data-in="1.4"/>`:s.art==='pancreas'?`<path d="M250 150 C150 160 105 260 135 360 C160 445 240 480 305 455" fill="none" stroke="rgba(251,191,36,.55)" stroke-width="26" stroke-linecap="round" data-a="draw" data-in="0.3"/>
    <path d="M175 300 C155 250 185 205 245 208 C305 212 335 232 385 226 C455 218 525 180 595 168 C640 162 660 186 640 210 C612 244 542 258 472 273 C412 286 362 304 322 334 C292 358 300 402 268 422 C228 447 185 402 175 360 Z" fill="rgba(251,113,133,.10)" stroke="rgba(251,113,133,.65)" stroke-width="4" data-a="draw" data-in="0.5"/>
    <path d="M205 345 C255 300 330 262 405 250 C475 239 545 214 615 190" fill="none" stroke="#2dd4bf" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 0" data-a="draw" data-in="1.0"/>
    <circle cx="560" cy="210" r="34" fill="rgba(251,113,133,.18)" stroke="rgba(251,113,133,.8)" stroke-width="3" data-a="pop" data-in="1.4"/>

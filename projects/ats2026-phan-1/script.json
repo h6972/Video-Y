@@ -1,0 +1,734 @@
+{
+ "title": "Hỗ trợ hô hấp không xâm lấn ATS 2026 – Phần 1: Suy hô hấp giảm oxy máu",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức – Hô hấp",
+ "part": "Hỗ trợ hô hấp không xâm lấn ATS 2026 · Phần 1/4",
+ "source_short": "Nguồn: ATS Clinical Practice Guideline 2026 – Noninvasive respiratory support for adults with acute respiratory failure",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Noninvasive respiratory support for adult patients with acute respiratory failure: an official American Thoracic Society Clinical Practice Guideline (2026).",
+ "lexicon": {
+  "COVID-19": "cô vít mười chín",
+  "RENOVATE": "rê nô vết",
+  "ERS–ATS": "e e ét, a tê ét",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "PICO": "pi cô",
+  "SOHO": "sô hô",
+  "HFNC": "oxy dòng cao qua mũi",
+  "CPAP": "xi pắp",
+  "FiO2": "phi ô hai",
+  "COPD": "xê ô pê đê",
+  "ECMO": "éc mô",
+  "PaO2": "pê a ô hai",
+  "SpO2": "ét pê ô hai",
+  "NIV": "thở máy không xâm lấn",
+  "ATS": "a tê ét"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 1/4",
+   "title": "Hỗ trợ hô hấp<br>không xâm lấn",
+   "subtitle": "Phần 1 · Suy hô hấp giảm oxy máu cấp",
+   "badges": [
+    {
+     "t": "ATS 2026",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "HFNC · NIV · CPAP",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "4 câu hỏi PICO",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "Hướng dẫn thực hành lâm sàng chính thức của Hội Lồng ngực Hoa Kỳ · phê duyệt 05/2026",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online, và với loạt bài giảng về Hướng dẫn hỗ trợ hô hấp không xâm lấn cho người lớn suy hô hấp cấp, do Hội Lồng ngực Hoa Kỳ ban hành năm 2026.",
+    "Đây là hướng dẫn đầu tiên xem xét toàn diện ba phương thức: oxy dòng cao qua mũi, thở máy không xâm lấn và áp lực dương liên tục, qua mặt nạ hoặc mũ helmet, trên toàn bộ phổ suy hô hấp cấp.",
+    "Loạt bài có bốn phần. Phần một hôm nay bàn về tổng quan và suy hô hấp giảm oxy máu cấp."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Giới thiệu",
+   "title": "Vì sao cần một hướng dẫn mới?",
+   "ref": "Introduction",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "GÁNH NẶNG",
+     "t": "Suy hô hấp cấp",
+     "d": "Lý do hàng đầu nhập hồi sức và thở máy xâm lấn",
+     "items": [
+      "Hỗ trợ không xâm lấn có thể tránh đặt nội khí quản, giảm sử dụng hồi sức"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "KHOẢNG TRỐNG",
+     "t": "Chưa có hướng dẫn toàn diện",
+     "d": "ESICM, ERS–ATS trước đây tiếp cận theo từng thiết bị",
+     "items": [
+      "Nhiều thử nghiệm ngẫu nhiên mới cần đánh giá lại"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CÁCH TIẾP CẬN MỚI",
+     "t": "Theo sinh lý bệnh",
+     "d": "Không theo nguyên nhân",
+     "items": [
+      "Giảm oxy máu · tăng CO₂",
+      "Tiền oxy hoá · sau rút ống"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Suy hô hấp giảm oxy máu và tăng CO₂ cấp là những lý do thường gặp nhất phải nhập hồi sức và thở máy xâm lấn. Các phương thức hỗ trợ không xâm lấn có thể giúp tránh đặt nội khí quản, cải thiện kết cục và giảm sử dụng hồi sức.",
+    "Tuy vậy, chọn người bệnh nào và phương thức nào còn nhiều bất định, dẫn tới thực hành rất khác nhau. Các hướng dẫn trước của Hội Hồi sức châu Âu và của Hội Hô hấp châu Âu cùng Hội Lồng ngực Hoa Kỳ tiếp cận theo từng thiết bị, trong khi nhiều thử nghiệm ngẫu nhiên mới đã xuất hiện.",
+    "Điểm mới của hướng dẫn 2026 là tổ chức theo nhóm sinh lý bệnh, không theo nguyên nhân: suy hô hấp giảm oxy máu, suy hô hấp tăng CO₂, tiền oxy hoá khi đặt nội khí quản, và hỗ trợ sau rút ống. Ví dụ, nhóm giảm oxy máu bao gồm mọi bệnh lý gây rối loạn oxy hoá, bất kể nguyên nhân."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "cards",
+   "chapter": "Phương thức · Giao diện",
+   "title": "Bốn chiến lược và các giao diện",
+   "ref": "Glossary · Figure 1",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "OXY CHUẨN",
+     "t": "Gọng mũi · mặt nạ",
+     "d": "Venturi, mặt nạ không thở lại",
+     "items": [
+      "Oxy mức thấp đến trung bình"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "HFNC",
+     "t": "Oxy dòng cao qua mũi",
+     "d": "Khí làm ấm, làm ẩm, FiO₂ điều chỉnh",
+     "items": [
+      "Lưu lượng tới 60 L/phút hoặc hơn",
+      "Giảm khoảng chết giải phẫu",
+      "Tạo PEEP mức thấp"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CPAP · NIV",
+     "t": "Áp lực dương qua giao diện kín",
+     "d": "NIV = thở máy không xâm lấn hai mức áp lực",
+     "items": [
+      "Mặt nạ mũi miệng hoặc mặt nạ toàn mặt",
+      "Helmet: mũ trong suốt bọc cả đầu, kín ở cổ",
+      "Huy động phế nang, giảm tải cơ hô hấp"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn bàn về bốn chiến lược. Oxy chuẩn qua gọng mũi hoặc mặt nạ, kể cả mặt nạ Venturi và mặt nạ không thở lại, cung cấp oxy mức thấp đến trung bình.",
+    "Oxy dòng cao qua mũi cung cấp khí được làm ấm và làm ẩm, với FiO₂ điều chỉnh được, ở lưu lượng tới 60 lít mỗi phút hoặc hơn. Dòng cao giúp rửa khoảng chết giải phẫu và tạo một mức PEEP thấp.",
+    "Áp lực dương liên tục và thở máy không xâm lấn hai mức áp lực được áp dụng qua giao diện kín. Mặt nạ gồm mặt nạ mũi miệng, loại thường dùng nhất, và mặt nạ toàn mặt; còn helmet là mũ trong suốt bọc cả đầu, kín ở cổ. Áp lực dương giúp huy động phế nang và giảm tải cơ hô hấp, nhưng phức tạp hơn và dễ không dung nạp. Hướng dẫn phân biệt rõ vai trò của mặt nạ và helmet."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "list",
+   "chapter": "Phương pháp",
+   "title": "Cách xây dựng khuyến cáo",
+   "ref": "Methods",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Hội đồng đa ngành",
+     "d": "Hồi sức, cấp cứu, kỹ thuật viên hô hấp, phục hồi chức năng, phương pháp học, đại diện người bệnh, các nước thu nhập thấp – trung bình",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Phân tích gộp mạng lưới",
+     "d": "6 nút: oxy chuẩn, HFNC, NIV mặt nạ, NIV helmet, CPAP helmet, CPAP mặt nạ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "GRADE + Evidence-to-Decision",
+     "d": "Lợi – hại, chắc chắn của bằng chứng, giá trị người bệnh, nguồn lực, công bằng",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "8 kết cục then chốt",
+     "d": "Tử vong dài và ngắn hạn · ngừng tim · đặt nội khí quản · tàn tật · chất lượng sống · ECMO · đặt lại ống",
+     "at": 2,
+     "hl": "L2",
+     "c": "coral"
+    },
+    {
+     "t": "Sự thoải mái: quan trọng",
+     "d": "Điểm 6,55/9 · ảnh hưởng tuân thủ nên được cân nhắc",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Đồng thuận hoàn toàn",
+     "d": "Không cần bỏ phiếu cho bất kỳ khuyến cáo nào",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Về phương pháp, hội đồng gồm bác sĩ hồi sức, hô hấp, cấp cứu, kỹ thuật viên hô hấp, chuyên viên vật lý trị liệu và hoạt động trị liệu, nhà phương pháp học, đại diện người bệnh, và thành viên từ các nước thu nhập thấp và trung bình.",
+    "Mỗi câu hỏi được trả lời bằng phân tích gộp mạng lưới với sáu nút điều trị: oxy chuẩn, oxy dòng cao, thở máy không xâm lấn qua mặt nạ, qua helmet, áp lực dương liên tục qua helmet và qua mặt nạ. Khuyến cáo được xây dựng theo GRADE và khung bằng chứng đến quyết định.",
+    "Tám kết cục được xếp là then chốt: tử vong dài hạn, tử vong ngắn hạn, ngừng tim, đặt nội khí quản, tàn tật dài hạn, chất lượng sống ở 3 và 6 tháng, nhu cầu ECMO, và đặt lại ống.",
+    "Sự thoải mái được chấm 6,55 trên 9, xếp là quan trọng nhưng không then chốt, và vẫn được cân nhắc vì ảnh hưởng tới tuân thủ. Tất cả khuyến cáo đạt đồng thuận mà không cần bỏ phiếu."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "PICO 1 · Khuyến cáo",
+   "title": "Suy hô hấp giảm oxy máu cấp: ba khuyến cáo",
+   "ref": "PICO 1 · Figure 2",
+   "head": [
+    "So với oxy chuẩn",
+    "Khuyến cáo",
+    "Mức GRADE"
+   ],
+   "widths": "1.1fr 1.4fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Oxy dòng cao qua mũi</b>",
+      "<em>Khuyến cáo</em> dùng",
+      "Mạnh · chắc chắn trung bình"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>NIV</b> qua mặt nạ hoặc helmet",
+      "Đề nghị dùng",
+      "Có điều kiện · chắc chắn thấp"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>CPAP</b> qua mặt nạ hoặc helmet",
+      "Đề nghị dùng",
+      "Có điều kiện · chắc chắn thấp"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>HFNC hoặc CPAP so với NIV</b>",
+      "<em>Không khuyến cáo</em> ủng hộ hay phản đối",
+      "Chọn theo người bệnh, kinh nghiệm, nguồn lực"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Câu hỏi PICO thứ nhất: ở người lớn suy hô hấp giảm oxy máu cấp mới xuất hiện, nên dùng phương thức nào so với oxy chuẩn? Khuyến cáo mạnh, mức chắc chắn trung bình: dùng oxy dòng cao qua mũi.",
+    "Đề nghị dùng thở máy không xâm lấn qua mặt nạ hoặc helmet, và đề nghị dùng áp lực dương liên tục qua mặt nạ hoặc helmet, đều là khuyến cáo có điều kiện, mức chắc chắn thấp.",
+    "Hướng dẫn không khuyến cáo ủng hộ hay phản đối oxy dòng cao hoặc áp lực dương liên tục so với thở máy không xâm lấn. Lựa chọn giữa các phương thức dựa trên đặc điểm người bệnh, kinh nghiệm của người thực hiện và nguồn lực tại chỗ. Lưu ý chữ mới xuất hiện: suy hô hấp tăng CO₂, như đợt cấp COPD, được bàn riêng ở câu hỏi PICO thứ hai."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "PICO 1 · Bằng chứng",
+   "title": "39 RCT, 7640 người bệnh: hiệu quả so với oxy chuẩn",
+   "ref": "PICO 1 · Evidence summary · Table S6",
+   "head": [
+    "Phương thức",
+    "Tử vong (RR)",
+    "Đặt nội khí quản (RR)"
+   ],
+   "widths": "1fr 1.2fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>HFNC</b>",
+      "<em>0,81</em> (0,67–0,97) · thấp",
+      "<em>0,76</em> (0,64–0,89) · trung bình"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>NIV helmet</b>",
+      "0,72 (0,48–1,07) · rất thấp",
+      "<em>0,22</em> (0,11–0,43) · trung bình"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>NIV mặt nạ</b>",
+      "0,93 (0,75–1,14) · rất thấp",
+      "0,79 (0,67–0,93) · thấp"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>CPAP helmet</b>",
+      "0,76 (0,51–1,12) · thấp",
+      "0,53 (0,35–0,79) · trung bình"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>CPAP mặt nạ</b>",
+      "1,01 (0,73–1,40) · thấp",
+      "0,77 (0,59–1,01) · thấp"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bằng chứng gồm 39 thử nghiệm ngẫu nhiên với 7640 người bệnh, trong đó có các nghiên cứu về COVID-19. So với oxy chuẩn, oxy dòng cao có thể giảm tử vong, nguy cơ tương đối 0,81, mức chắc chắn thấp; và có lẽ giảm đặt nội khí quản, nguy cơ tương đối 0,76, chắc chắn trung bình.",
+    "Thở máy không xâm lấn qua helmet có lẽ giảm mạnh đặt nội khí quản, nguy cơ tương đối 0,22, nhưng tác động trên tử vong còn bất định. Qua mặt nạ, nguy cơ tương đối đặt nội khí quản là 0,79, chắc chắn thấp.",
+    "Áp lực dương liên tục qua helmet có lẽ giảm đặt nội khí quản, nguy cơ tương đối 0,53; qua mặt nạ là 0,77, chắc chắn thấp. Tác động trên tử vong của các phương thức áp lực dương đều chưa chắc chắn. So sánh trực tiếp oxy dòng cao với thở máy không xâm lấn qua mặt nạ cũng chưa rõ, nguy cơ tương đối tử vong 0,84 với chắc chắn rất thấp."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "PICO 1 · Bằng chứng",
+   "title": "Sự thoải mái, phân nhóm và thử nghiệm mới",
+   "ref": "PICO 1 · Evidence summary",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "THOẢI MÁI",
+     "t": "HFNC cao nhất",
+     "d": "+1,3 điểm trên thang 10 so với oxy chuẩn",
+     "items": [
+      "NIV: khác biệt nhỏ, thay đổi — do cài đặt máy, dung nạp giao diện, tổn thương da, tiếng ồn"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "PHÂN NHÓM",
+     "t": "Không có hiệu ứng đáng tin",
+     "d": "Hiệu quả không đổi theo",
+     "items": [
+      "Mức độ giảm oxy máu",
+      "Nguyên nhân: COVID-19, viêm phổi, hỗn hợp",
+      "Tình trạng miễn dịch · ICU hay ngoài ICU"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "MỚI CÔNG BỐ",
+     "t": "RENOVATE · SOHO",
+     "d": "Sau khi tổng hợp bằng chứng",
+     "items": [
+      "Không làm thay đổi kết luận",
+      "SOHO: HFNC giảm đặt nội khí quản, chưa rõ giảm tử vong"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Về sự thoải mái, oxy dòng cao có lẽ được dung nạp tốt nhất, hơn oxy chuẩn 1,3 điểm trên thang 10. Với thở máy không xâm lấn, khác biệt nhỏ và thay đổi, phản ánh khó khăn khi chỉnh máy, dung nạp giao diện, tổn thương da và tiếng ồn.",
+    "Các phân nhóm định trước không cho thấy hiệu ứng đáng tin: hiệu quả không khác nhau theo mức độ giảm oxy máu, nguyên nhân như COVID-19, viêm phổi hay hỗn hợp, tình trạng miễn dịch, hay việc điều trị trong hay ngoài hồi sức.",
+    "Hai thử nghiệm RENOVATE và SOHO công bố sau khi tổng hợp bằng chứng. Hội đồng đánh giá chúng không làm thay đổi kết luận. Đặc biệt, SOHO cho thấy oxy dòng cao giảm đặt nội khí quản mà chưa có tín hiệu rõ về giảm tử vong, phù hợp với phân tích của hướng dẫn."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "PICO 1 · Lập luận",
+   "title": "Vì sao HFNC được khuyến cáo mạnh?",
+   "ref": "PICO 1 · Justification",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "LỢI ÍCH RÕ",
+     "t": "Giảm đặt nội khí quản",
+     "d": "Nhất quán qua các thử nghiệm và bối cảnh",
+     "items": [
+      "Dễ triển khai, dung nạp tốt",
+      "Người bệnh nói chuyện, ăn uống, khạc đờm được"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "TÁC HẠI NHỎ",
+     "t": "Không đáng kể",
+     "d": "Tiêu thụ oxy nhiều hơn",
+     "items": [
+      "Đôi khi kéo dài thời gian điều trị",
+      "Phụ thuộc nguồn điện ổn định"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "NGUỒN LỰC",
+     "t": "Chi phí – hiệu quả",
+     "d": "Khi tính giảm đặt nội khí quản và ngày nằm hồi sức",
+     "items": [
+      "Cần hạ tầng oxy và dây dùng một lần",
+      "COVID-19: dễ mở rộng, ít gánh nặng nhân lực"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Hội đồng đánh giá lợi ích của oxy dòng cao vượt trội rõ ràng so với tác hại. Phương thức này giảm nhu cầu đặt nội khí quản, nhất quán qua các thử nghiệm và bối cảnh; dễ triển khai, dung nạp tốt, và người bệnh vẫn nói chuyện, ăn uống và khạc đờm được. Vì vậy, oxy dòng cao là chiến lược oxy hoá không xâm lấn đầu tay cho suy hô hấp giảm oxy máu cấp do mọi nguyên nhân.",
+    "Tác hại được xem là nhỏ: tiêu thụ oxy nhiều hơn, đôi khi kéo dài thời gian điều trị, và phụ thuộc vào nguồn điện ổn định ở nơi không có hệ thống dự phòng.",
+    "Về nguồn lực, oxy dòng cao cần hạ tầng oxy đầy đủ và dây dùng một lần, có thể là thách thức ở nơi hạn chế. Tuy vậy, các phân tích kinh tế cho thấy phương thức này có chi phí hiệu quả khi tính đến giảm đặt nội khí quản và ngày nằm hồi sức. Lưu ý khuyến cáo mạnh chỉ áp dụng cho so sánh với oxy chuẩn, không phải so với thở máy không xâm lấn."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "PICO 1 · Lập luận",
+   "title": "NIV và helmet: lợi ích nhỏ hơn, đòi hỏi nhiều hơn",
+   "ref": "PICO 1 · Justification",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "MẶT NẠ",
+     "t": "Khó chịu hơn",
+     "d": "Rò khí, tổn thương da",
+     "items": [
+      "Cần chuyên môn để tránh biến chứng",
+      "Nguy cơ trì hoãn đặt nội khí quản"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "HELMET",
+     "t": "Cần kinh nghiệm",
+     "d": "Sử dụng rất khác nhau giữa các vùng",
+     "items": [
+      "Nhiều thiết kế: độ kín, khả năng tạo áp, tiếng ồn khác nhau",
+      "Bằng chứng sớm chủ yếu từ trung tâm giàu kinh nghiệm"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "SINH LÝ",
+     "t": "Tổn thương phổi do tự thở",
+     "d": "Gắng sức hít vào cao kéo dài",
+     "items": [
+      "Áp lực xuyên phổi và thể tích khí lưu thông lớn",
+      "Rõ nhất với NIV; với HFNC bằng chứng còn ít"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Ngược lại, thở máy không xâm lấn qua mặt nạ và helmet được đánh giá có lợi ích nhỏ hơn hoặc bất định hơn. Mặt nạ có thể gây khó chịu, rò khí và tổn thương da, và cần chuyên môn để tránh biến chứng cũng như tránh trì hoãn đặt nội khí quản.",
+    "Helmet cần giao diện riêng và kinh nghiệm của cơ sở, ít sẵn có ngoài các trung tâm chọn lọc, và mức sử dụng khác nhau nhiều giữa các vùng. Có nhiều thiết kế helmet với độ kín, khả năng tạo áp, tiếng ồn và độ thoải mái khác nhau, cần cân nhắc khi diễn giải các thử nghiệm.",
+    "Về sinh lý, ở một số người bệnh, hỗ trợ không xâm lấn không giảm đủ gắng sức hít vào, dẫn tới áp lực xuyên phổi và thể tích khí lưu thông lớn kéo dài, có thể gây tổn thương phổi do tự thở và thất bại điều trị. Điều này được mô tả rõ nhất với thở máy không xâm lấn. Vì vậy, đây là khuyến cáo có điều kiện, phù hợp với người bệnh chọn lọc hoặc ở trung tâm có đủ kinh nghiệm và nhân lực."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "list",
+   "chapter": "PICO 1 · Triển khai",
+   "title": "Theo dõi sát và sẵn sàng nâng bậc",
+   "ref": "PICO 1 · Implementation",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Dấu hiệu thất bại",
+     "d": "Trao đổi khí không cải thiện hoặc xấu đi · thở nhanh kéo dài · mỏi cơ hô hấp",
+     "at": 0,
+     "hl": "L0",
+     "c": "coral"
+    },
+    {
+     "t": "Nơi điều trị",
+     "d": "Người cần lưu lượng hoặc FiO₂ cao: đơn vị có giám sát chặt",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Theo dõi liên tục",
+     "d": "Với mọi phương thức, để phát hiện sớm thất bại",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Quy trình cơ sở",
+     "d": "Tiêu chí đặt nội khí quản · đường nâng bậc · đào tạo nhân viên",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Ảnh hưởng chăm sóc",
+     "d": "Khó ăn uống, nói, chậm vận động, khó chịu",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Nguy cơ lớn nhất",
+     "d": "Trì hoãn chuyển thở máy xâm lấn khi đã thất bại",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Triển khai mọi phương thức đều đòi hỏi theo dõi và đúng nơi điều trị. Người bệnh dùng oxy dòng cao cần được theo dõi sát các dấu hiệu: trao đổi khí không cải thiện hoặc xấu đi, thở nhanh kéo dài, hoặc dấu hiệu mỏi cơ hô hấp.",
+    "Người cần lưu lượng hoặc FiO₂ cao nên được điều trị ở đơn vị có giám sát chặt. Với mọi phương thức, theo dõi liên tục là thiết yếu để phát hiện sớm thất bại.",
+    "Mỗi cơ sở nên có quy trình xác định tiêu chí đặt nội khí quản, đường nâng bậc điều trị và đào tạo nhân viên.",
+    "Hỗ trợ không xâm lấn cũng ảnh hưởng tới chăm sóc khác: khó ăn uống và nói, chậm vận động, khó chịu. Và nguy cơ lớn nhất là trì hoãn chuyển sang thở máy xâm lấn khi điều trị đã thất bại."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "PICO 1 · Bất định",
+   "title": "Những câu hỏi còn bỏ ngỏ",
+   "ref": "PICO 1 · Uncertainties and research priorities",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "CHỌN NGƯỜI BỆNH",
+     "t": "Kiểu hình nào hưởng lợi?",
+     "d": "Trung bình hay nặng, gắng sức hít vào cao, tình trạng viêm, nguyên nhân",
+     "items": [],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "SO SÁNH TRỰC TIẾP",
+     "t": "HFNC hay NIV?",
+     "d": "Cần thử nghiệm đối đầu",
+     "items": [
+      "Tổn thương phổi do tự thở: ngưỡng an toàn, theo dõi gắng sức"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "MỞ RỘNG",
+     "t": "Kết cục dài hạn & bối cảnh",
+     "d": "Phục hồi chức năng, chất lượng sống, nhận thức",
+     "items": [
+      "Nước thu nhập thấp – trung bình",
+      "Helmet: cần thử nghiệm đa trung tâm đủ lực"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn nêu rõ các bất định. Thứ nhất, kiểu hình nào hưởng lợi nhiều nhất từ từng phương thức: giảm oxy máu trung bình hay nặng, gắng sức hít vào cao, tình trạng viêm, hay nguyên nhân khác nhau.",
+    "Thứ hai, so sánh trực tiếp oxy dòng cao với thở máy không xâm lấn vẫn chưa được giải quyết. Thứ ba, tổn thương phổi do tự thở cần được nghiên cứu với theo dõi gắng sức, động lực hô hấp và tình trạng viêm để xác định ngưỡng chuyển an toàn sang thở máy xâm lấn.",
+    "Ngoài ra là kết cục dài hạn như phục hồi chức năng, chất lượng sống và di chứng nhận thức; tính khả thi ở các nước thu nhập thấp và trung bình; và vai trò thật sự của helmet, vì các thử nghiệm đa trung tâm gần đây chưa nhất quán cho thấy helmet vượt trội."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy khi dùng hỗ trợ không xâm lấn cho giảm oxy máu",
+   "ref": "Tổng hợp PICO 1",
+   "box": {
+    "tag": "BẪY",
+    "t": "Kéo dài oxy dòng cao hoặc NIV khi người bệnh vẫn thở nhanh, gắng sức nhiều → <b>trì hoãn đặt nội khí quản</b> và nguy cơ tổn thương phổi do tự thở.",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Áp dụng nguyên xi cho suy hô hấp tăng CO₂ (đợt cấp COPD): đó là PICO 2",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Cho rằng NIV chắc chắn hơn HFNC (chưa có khuyến cáo so sánh)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Dùng helmet khi đơn vị chưa có kinh nghiệm",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Đặt HFNC lưu lượng, FiO₂ cao ở nơi không theo dõi được",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy thực hành. Bẫy thứ nhất, cũng là nguy hiểm nhất: kéo dài oxy dòng cao hay thở máy không xâm lấn khi người bệnh vẫn thở nhanh và gắng sức nhiều, dẫn tới trì hoãn đặt nội khí quản và nguy cơ tổn thương phổi do tự thở.",
+    "Bẫy thứ hai: áp dụng nguyên xi khuyến cáo này cho suy hô hấp tăng CO₂ như đợt cấp COPD, trong khi đó là một câu hỏi riêng với khuyến cáo khác, mà chúng ta sẽ bàn ở phần hai.",
+    "Bẫy thứ ba: cho rằng thở máy không xâm lấn chắc chắn tốt hơn oxy dòng cao. Hướng dẫn không đưa ra khuyến cáo so sánh giữa hai phương thức.",
+    "Bẫy thứ tư: dùng helmet khi đơn vị chưa có kinh nghiệm và thiết bị phù hợp.",
+    "Bẫy thứ năm: đặt oxy dòng cao với lưu lượng và FiO₂ cao ở nơi không thể theo dõi sát."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: viêm phổi tại khoa cấp cứu",
+   "case": "Nam 62 tuổi, viêm phổi cộng đồng. Thở 30 lần/phút, <b>SpO₂ 88% với mặt nạ oxy 10 L/phút</b>, PaO₂/FiO₂ ≈ 150. Tỉnh, ho khạc được, PaCO₂ 36 mmHg. Không có tiền sử COPD hay suy tim.",
+   "case_at": 1,
+   "q": "Lựa chọn hỗ trợ hô hấp ban đầu được khuyến cáo mạnh nhất?",
+   "q_at": 2,
+   "options": [
+    "Tăng lên mặt nạ không thở lại 15 L/phút",
+    "Oxy dòng cao qua mũi, theo dõi sát và sẵn sàng nâng bậc",
+    "Đặt nội khí quản ngay",
+    "Bắt buộc thử NIV qua mặt nạ trước"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Suy hô hấp giảm oxy máu mới xuất hiện → HFNC so với oxy chuẩn: khuyến cáo mạnh, chắc chắn trung bình (giảm đặt nội khí quản RR 0,76). NIV/CPAP: có điều kiện; không có khuyến cáo HFNC so với NIV. Chưa có chỉ định đặt nội khí quản cấp.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 62 tuổi, viêm phổi cộng đồng. Thở 30 lần mỗi phút, SpO₂ 88% với mặt nạ oxy 10 lít mỗi phút, tỷ lệ PaO₂ trên FiO₂ khoảng 150. Người bệnh tỉnh, ho khạc được, PaCO₂ 36. Không có tiền sử COPD hay suy tim.",
+    "Lựa chọn hỗ trợ hô hấp ban đầu nào được khuyến cáo mạnh nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là oxy dòng cao qua mũi, kèm theo dõi sát và sẵn sàng nâng bậc. Đây là suy hô hấp giảm oxy máu mới xuất hiện, và oxy dòng cao so với oxy chuẩn là khuyến cáo mạnh, giảm đặt nội khí quản với nguy cơ tương đối 0,76. Thở máy không xâm lấn hay áp lực dương liên tục chỉ là khuyến cáo có điều kiện, và hướng dẫn không yêu cầu thử thở máy không xâm lấn trước. Người bệnh chưa có chỉ định đặt nội khí quản cấp cứu."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: hai giờ sau tại hồi sức",
+   "case": "Cùng người bệnh, sau 2 giờ oxy dòng cao <b>60 L/phút, FiO₂ 0,8</b>: vẫn thở 38 lần/phút, co kéo cơ hô hấp phụ, SpO₂ 89%, vã mồ hôi, nói từng từ.",
+   "case_at": 1,
+   "q": "Bước xử trí phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Tiếp tục oxy dòng cao thêm 24 giờ rồi đánh giá lại",
+    "Thêm gọng mũi oxy dưới dây oxy dòng cao",
+    "Nhận định thất bại, chuẩn bị đặt nội khí quản kịp thời (tiền oxy hoá bằng HFNC hoặc NIV)",
+    "Chuyển helmet tại khoa thường dù chưa có kinh nghiệm"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Dấu hiệu thất bại: thở nhanh kéo dài, mỏi cơ, oxy hoá không cải thiện → không trì hoãn thở máy xâm lấn (nguy cơ tổn thương phổi do tự thở). Tiền oxy hoá bằng HFNC hoặc NIV: khuyến cáo mạnh (Phần 3).",
+   "lines": [
+    "Tình huống thứ hai, tại khoa hồi sức.",
+    "Cùng người bệnh trên, sau 2 giờ oxy dòng cao 60 lít mỗi phút, FiO₂ 0,8, vẫn thở 38 lần mỗi phút, co kéo cơ hô hấp phụ, SpO₂ 89%, vã mồ hôi và chỉ nói được từng từ.",
+    "Bước xử trí phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án ba. Người bệnh có đủ dấu hiệu thất bại: thở nhanh kéo dài, mỏi cơ hô hấp và oxy hoá không cải thiện dù hỗ trợ tối đa. Kéo dài thêm chỉ làm trì hoãn đặt nội khí quản và tăng nguy cơ tổn thương phổi do tự thở. Chuyển helmet ở nơi chưa có kinh nghiệm không phải là giải pháp. Khi đặt nội khí quản, tiền oxy hoá bằng oxy dòng cao hoặc thở máy không xâm lấn là khuyến cáo mạnh, nội dung của phần ba."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 1",
+   "title": "Sáu thông điệp của Phần 1",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Tổ chức theo sinh lý bệnh",
+     "d": "4 tình huống, phân tích gộp mạng lưới, GRADE",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "HFNC: khuyến cáo mạnh",
+     "d": "So với oxy chuẩn · giảm đặt nội khí quản (RR 0,76)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "NIV, CPAP: có điều kiện",
+     "d": "Mặt nạ hoặc helmet · helmet giảm đặt ống mạnh nhưng cần kinh nghiệm",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Không so sánh HFNC với NIV",
+     "d": "Chọn theo người bệnh, kinh nghiệm, nguồn lực",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Theo dõi sát, có quy trình",
+     "d": "Thở nhanh, mỏi cơ, oxy hoá không cải thiện",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Không trì hoãn đặt nội khí quản",
+     "d": "Nguy cơ tổn thương phổi do tự thở",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần một, xin tóm tắt những thông điệp chính.",
+    "Hướng dẫn tổ chức theo bốn tình huống sinh lý bệnh. Với suy hô hấp giảm oxy máu cấp mới xuất hiện, oxy dòng cao qua mũi được khuyến cáo mạnh so với oxy chuẩn.",
+    "Thở máy không xâm lấn và áp lực dương liên tục qua mặt nạ hoặc helmet là khuyến cáo có điều kiện, và chưa có khuyến cáo so sánh giữa oxy dòng cao với thở máy không xâm lấn.",
+    "Mọi phương thức đều cần theo dõi sát, có quy trình rõ ràng, và không được trì hoãn đặt nội khí quản khi đã thất bại.",
+    "Phần hai sẽ bàn về suy hô hấp tăng CO₂ cấp, nơi thở máy không xâm lấn giảm cả tử vong, và khi nào có thể dùng oxy dòng cao thay thế. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
