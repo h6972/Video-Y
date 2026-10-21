@@ -112,16 +112,21 @@ jobs:
           P=${{ steps.p.outputs.project }}
           git config user.name "video-bot"
           git config user.email "video-bot@users.noreply.github.com"
-          if git ls-remote --exit-code origin renders >/dev/null 2>&1; then
-            git fetch --depth 1 origin renders && git checkout -f -B renders FETCH_HEAD
-          else
-            git checkout -f --orphan renders && git rm -rf -q .
-          fi
-          mkdir -p videos
-          cp "$RUNNER_TEMP/out/$P.mp4" "$RUNNER_TEMP/out/$P-audio.zip" videos/
-          git add videos
-          git commit -qm "Render $P"
-          git push origin renders
+          # nhiều phần dựng song song → thử lại khi push bị từ chối
+          for i in 1 2 3 4 5 6 7 8; do
+            if git ls-remote --exit-code origin renders >/dev/null 2>&1; then
+              git fetch --depth 1 origin renders && git checkout -f -B renders FETCH_HEAD
+            else
+              git checkout -f --orphan renders && git rm -rf -q . || true
+            fi
+            mkdir -p videos
+            cp "$RUNNER_TEMP/out/$P.mp4" "$RUNNER_TEMP/out/$P-audio.zip" videos/
+            git add videos
+            git commit -qm "Render $P"
+            if git push origin renders; then exit 0; fi
+            echo "push bị từ chối, thử lại lần $i"; sleep $((10 + RANDOM % 30))
+          done
+          exit 1
 
       - name: Lưu log khi lỗi
         if: failure()

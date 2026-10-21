@@ -1,0 +1,32 @@
+name: artifact-to-renders
+on:
+  workflow_dispatch:
+    inputs:
+      run_id: {description: "ID lần chạy render có artifact", required: true}
+      project: {description: "Tên dự án", required: true}
+permissions:
+  contents: write
+  actions: read
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.project }}
+          run-id: ${{ inputs.run_id }}
+          github-token: ${{ github.token }}
+          path: ${{ runner.temp }}/out
+      - name: Đẩy lên renders
+        run: |
+          P=${{ inputs.project }}
+          git config user.name "video-bot"; git config user.email "video-bot@users.noreply.github.com"
+          for i in 1 2 3 4 5 6 7 8; do
+            git fetch --depth 1 origin renders && git checkout -f -B renders FETCH_HEAD
+            mkdir -p videos && cp "$RUNNER_TEMP/out/$P.mp4" "$RUNNER_TEMP/out/$P-audio.zip" videos/
+            git add videos && git commit -qm "Render $P (từ artifact)"
+            git push origin renders && exit 0
+            sleep $((10 + RANDOM % 30))
+          done
+          exit 1
