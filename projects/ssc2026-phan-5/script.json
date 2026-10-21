@@ -1,0 +1,682 @@
+{
+ "title": "Surviving Sepsis Campaign 2026 – Phần 5: Điều trị hỗ trợ, mục tiêu chăm sóc và phục hồi",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức cấp cứu",
+ "part": "Surviving Sepsis Campaign 2026 · Phần 5/5",
+ "source_short": "Nguồn: Surviving Sepsis Campaign – International Guidelines for Management of Sepsis and Septic Shock 2026",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026.",
+ "lexicon": {
+  "µg/kg/phút": "microgam mỗi kilôgam mỗi phút",
+  "XueBiJing": "tuyết tất tịnh",
+  "Sepsis-3": "sép xít ba",
+  "PROSPECT": "prô xpéc",
+  "ADRENAL": "a đờ ri nan",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "ESCMID": "e ét xê em i đê",
+  "REVISE": "ri vai",
+  "VIOLET": "vai ô lét",
+  "SMOOTH": "xờ mút",
+  "mmol/L": "mi li mol mỗi lít",
+  "qSOFA": "quick sô pha",
+  "NEWS2": "niu hai",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "PK/PD": "dược động học, dược lực học",
+  "POCUS": "siêu âm tại giường",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "SOFA": "sô pha",
+  "NEWS": "niu",
+  "MEWS": "miu",
+  "SIRS": "xia",
+  "LMIC": "nước thu nhập thấp và trung bình",
+  "IDSA": "i đê ét a",
+  "ARDS": "a rờ đê ét",
+  "ECMO": "éc mô",
+  "IVIG": "globulin miễn dịch tĩnh mạch",
+  "AKIN": "a kin",
+  "LMWH": "heparin trọng lượng phân tử thấp",
+  "PTSD": "rối loạn stress sau sang chấn",
+  "ICU": "hồi sức",
+  "MDR": "đa kháng",
+  "SDD": "khử khuẩn chọn lọc đường tiêu hoá",
+  "TDM": "theo dõi nồng độ thuốc",
+  "PPI": "thuốc ức chế bơm proton",
+  "VTE": "thuyên tắc huyết khối tĩnh mạch",
+  "RRT": "điều trị thay thế thận",
+  "UFH": "heparin không phân đoạn",
+  "TLT": "thử nghiệm điều trị có thời hạn",
+  "IMV": "thở máy xâm lấn",
+  "GPS": "tuyên bố thực hành tốt",
+  "H2": "hát hai"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "sepsis",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 5/5",
+   "title": "Điều trị hỗ trợ,<br>mục tiêu chăm sóc và phục hồi",
+   "subtitle": "Phần 5 · Corticosteroid, chăm sóc nâng đỡ, chuyển tiếp, hậu sepsis · ôn tập toàn loạt",
+   "badges": [
+    {
+     "t": "KC 79–129",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Hydrocortisone 200 mg/ngày",
+     "c": "amber",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Rút dịch chủ động · mới",
+     "c": "blue",
+     "at": "L1+3"
+    }
+   ],
+   "note": "Surviving Sepsis Campaign 2026 · Điều trị hỗ trợ · Mục tiêu chăm sóc · Chuyển tiếp · Kết cục dài hạn",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm, phần cuối của loạt bài về Hướng dẫn Surviving Sepsis Campaign 2026, trên Thư Viện Y Khoa Online.",
+    "Phần này gồm 51 khuyến cáo, từ khuyến cáo bảy mươi chín đến một trăm hai mươi chín: các điều trị hỗ trợ đặc hiệu cho sepsis như corticosteroid, những liệu pháp không nên dùng, chăm sóc nâng đỡ, mục tiêu chăm sóc, chuyển tiếp chăm sóc và phục hồi lâu dài.",
+    "Đây là những nội dung tưởng như phụ, nhưng lại quyết định chất lượng sống của người bệnh sau khi rời hồi sức. Cuối bài, chúng ta sẽ ôn tập lại toàn bộ năm phần."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "box",
+   "chapter": "Hỗ trợ · KC 79",
+   "title": "Corticosteroid tĩnh mạch trong sốc nhiễm khuẩn",
+   "ref": "KC 79 · Có điều kiện, thấp · Xem lại",
+   "box": {
+    "tag": "KC 79",
+    "t": "Sốc nhiễm khuẩn: đề nghị dùng <b>corticosteroid tĩnh mạch</b>.<br>Liều thường dùng: <em>hydrocortisone 200 mg/24 giờ</em>, tiêm ngắt quãng",
+    "at": 0,
+    "c": "amber",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "45 RCT, 9543 người bệnh: tử vong 28 ngày RR 0,92 · dài hạn RR 0,94",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "LIỀU",
+     "t": "Không thêm lợi ích trên 260 mg/ngày · ADRENAL: 200 mg × 7 ngày",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "HỘI ĐỒNG",
+     "t": "88,4% dùng · 90% liều 200 mg · 86% ngắt quãng · 63% không thêm fludrocortisone",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo bảy mươi chín: với sốc nhiễm khuẩn, đề nghị dùng corticosteroid tĩnh mạch. Lưu ý đối tượng là sốc nhiễm khuẩn, tức người bệnh còn cần vận mạch.",
+    "Phân tích gộp 45 thử nghiệm với 9543 người bệnh cho thấy corticosteroid có thể giảm nhẹ tử vong 28 ngày, nguy cơ tương đối 0,92, và tử vong dài hạn, 0,94, nhưng bằng chứng còn thiếu chính xác và không nhất quán. Hội đồng không đưa khuyến cáo riêng cho viêm phổi hay ARDS, vì đã có các hướng dẫn khác.",
+    "Về liều, phân tích liều đáp ứng không thấy thêm lợi ích trên 260 miligam hydrocortisone mỗi ngày, phù hợp với phác đồ liều thấp của thử nghiệm ADRENAL, 200 miligam mỗi ngày trong 7 ngày.",
+    "Trong thực hành, 88,4% thành viên hội đồng dùng corticosteroid cho sốc nhiễm khuẩn; 90% dùng 200 miligam hydrocortisone mỗi ngày, 86% tiêm ngắt quãng, và 63% không bao giờ thêm fludrocortisone. Thời điểm bắt đầu còn khác nhau, khoảng một phần ba khởi động khi norepinephrine dưới 0,2."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "list",
+   "chapter": "Hỗ trợ · KC 80–86",
+   "title": "Những liệu pháp hỗ trợ không nên dùng",
+   "ref": "KC 80–86 · Có điều kiện",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "Hạ sốt để cải thiện kết cục",
+     "d": "13 RCT: tử vong RR 1,02 · vẫn dùng để giảm triệu chứng, thần kinh, sau ngừng tim",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Vitamin C tĩnh mạch",
+     "d": "55 RCT · nguy cơ sai lệch thấp: tử vong 90 ngày RR 1,06",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Globulin miễn dịch tĩnh mạch",
+     "d": "Không có RCT lớn mới từ 2021",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Lọc máu hấp phụ, lọc liều cao, thay huyết tương",
+     "d": "Tín hiệu giảm tử vong nhưng chắc chắn thấp · rất thấp",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Hấp phụ polymyxin B",
+     "d": "Giữ nguyên · chờ thử nghiệm Tigris",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Vitamin D điều trị sepsis",
+     "d": "Không áp dụng cho bổ sung liều thường · VIOLET gợi ý có hại",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "XueBiJing · <em>mới</em>",
+     "d": "Ngoài nơi đã được cấp phép · 22 RCT đều ở Trung Quốc",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Tiếp theo là nhóm liệu pháp hỗ trợ không nên dùng. Khuyến cáo tám mươi: không dùng hạ sốt, bằng thuốc hay làm mát bề mặt, với mục đích cải thiện kết cục. Mười ba thử nghiệm không thấy khác tử vong. Lưu ý vẫn có thể hạ sốt để giảm đau, giảm khó chịu, hoặc ở người bệnh thần kinh và sau ngừng tim.",
+    "Khuyến cáo tám mươi mốt: không dùng vitamin C tĩnh mạch. Trong 55 thử nghiệm, các nghiên cứu nguy cơ sai lệch thấp không thấy lợi ích tử vong 90 ngày; tín hiệu có lợi chỉ đến từ các nghiên cứu nguy cơ sai lệch cao.",
+    "Khuyến cáo tám mươi hai và tám mươi ba: không dùng globulin miễn dịch tĩnh mạch, và không dùng các kỹ thuật lọc máu như hấp phụ, lọc máu liều cao hay thay huyết tương. Dù có tín hiệu giảm tử vong ngắn hạn, độ chắc chắn rất thấp.",
+    "Khuyến cáo tám mươi bốn: không dùng hấp phụ polymyxin B, đang chờ thử nghiệm Tigris ở nhóm có hoạt tính nội độc tố cao. Khuyến cáo tám mươi lăm: không dùng vitamin D để điều trị sepsis, trừ người đang bổ sung liều thường vì chỉ định khác.",
+    "Khuyến cáo tám mươi sáu, mới: không dùng XueBiJing, một chế phẩm thảo dược, ngoài những nơi đã được cấp phép, vì toàn bộ thử nghiệm ở Trung Quốc với nhiều lo ngại về sai lệch và khả năng áp dụng."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "Nâng đỡ · KC 87–89",
+   "title": "Dự phòng loét, probiotic và rút dịch chủ động",
+   "ref": "KC 87–89",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "KC 87",
+     "t": "Dự phòng loét bằng PPI",
+     "d": "Khi có yếu tố nguy cơ xuất huyết tiêu hoá · trung bình",
+     "items": [
+      "Xuất huyết quan trọng RR 0,48 (có REVISE)",
+      "Nguy cơ: tổn thương thận cấp, nam, rối loạn đông máu, sốc, bệnh gan mạn",
+      "Không có PPI: kháng H2"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KC 88 · MỚI",
+     "t": "Không dùng probiotic",
+     "d": "41 RCT: tử vong RR 0,95",
+     "items": [
+      "Lợi ích viêm phổi thở máy biến mất ở RCT nguy cơ sai lệch thấp (PROSPECT)"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "KC 89 · MỚI",
+     "t": "Rút dịch chủ động",
+     "d": "Sau giai đoạn hồi sức cấp · rất thấp",
+     "items": [
+      "Lợi tiểu; chưa đủ thì siêu lọc",
+      "Cân nhắc: tim phổi, liều vận mạch, phù, cân nặng, cân bằng dịch",
+      "13 RCT: tử vong RR 0,92"
+     ],
+     "at": 2,
+     "hl": "L3",
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Sang nhóm chăm sóc nâng đỡ. Khuyến cáo tám mươi bảy: ở người bệnh có yếu tố nguy cơ xuất huyết tiêu hoá, đề nghị dự phòng loét do stress bằng thuốc ức chế bơm proton. Mười hai thử nghiệm, gồm REVISE 2024, cho thấy giảm xuất huyết quan trọng khoảng một nửa. Yếu tố nguy cơ gồm tổn thương thận cấp, giới nam, rối loạn đông máu, sốc và bệnh gan mạn; nếu không có thuốc ức chế bơm proton, kháng H2 là lựa chọn hợp lý.",
+    "Khuyến cáo tám mươi tám, mới: không dùng probiotic. Bốn mươi mốt thử nghiệm không thấy giảm tử vong, và lợi ích về viêm phổi thở máy biến mất khi chỉ xét các thử nghiệm chất lượng cao như PROSPECT.",
+    "Khuyến cáo tám mươi chín, mới: sau giai đoạn hồi sức cấp, đề nghị rút dịch chủ động. Giai đoạn hồi sức cấp được định nghĩa là còn tăng liều vận mạch, vận mạch liều cao kéo dài, hoặc còn cần bù thể tích.",
+    "Rút dịch chủ động là dùng lợi tiểu, và nếu chưa đủ thì siêu lọc hoặc rút dịch ngoài cơ thể. Cần cân nhắc chức năng tim phổi, liều vận mạch, diễn tiến, phù ngoại biên, cân nặng và cân bằng dịch. Mười ba thử nghiệm cho kết quả tử vong chưa chắc chắn, nguy cơ tương đối 0,92, với lợi tiểu đơn thuần có xu hướng tốt hơn."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "list",
+   "chapter": "Nâng đỡ · KC 90–99",
+   "title": "Chăm sóc nâng đỡ: các khuyến cáo giữ nguyên",
+   "ref": "KC 90–99 · Giữ nguyên",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Truyền máu hạn chế · <b>mạnh</b>",
+     "d": "KC 90",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Nuôi ăn đường ruột sớm, trong 72 giờ",
+     "d": "KC 91",
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "t": "Insulin khi đường máu ≥ 180 mg/dL (10 mmol/L) · <b>mạnh</b>",
+     "d": "KC 92",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Lọc máu: không khi chưa có chỉ định chắc chắn · liên tục hoặc ngắt quãng",
+     "d": "KC 93–94",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Bicarbonate: không để cải thiện huyết động · dùng khi pH ≤ 7,2 và AKIN 2–3",
+     "d": "KC 95–96",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Dự phòng huyết khối bằng thuốc · <b>mạnh</b> · heparin trọng lượng phân tử thấp · <b>mạnh</b>",
+     "d": "KC 97–99 · thuốc đơn thuần, không cần thêm cơ học",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Các khuyến cáo nâng đỡ còn lại đều giữ nguyên từ 2021. Khuyến cáo chín mươi, mạnh: chiến lược truyền máu hạn chế. Khuyến cáo chín mươi mốt: bắt đầu nuôi ăn đường ruột sớm, trong vòng 72 giờ.",
+    "Khuyến cáo chín mươi hai, mạnh: bắt đầu insulin khi đường máu từ 180 miligam mỗi đề xi lít, tức 10 mi li mol mỗi lít, trở lên.",
+    "Khuyến cáo chín mươi ba và chín mươi tư: không điều trị thay thế thận khi chưa có chỉ định chắc chắn; khi đã có chỉ định, lọc liên tục hay ngắt quãng đều được.",
+    "Khuyến cáo chín mươi lăm và chín mươi sáu: không dùng bicarbonate để cải thiện huyết động hay giảm vận mạch ở toan lactic do giảm tưới máu; chỉ dùng khi toan chuyển hoá nặng, pH từ 7,2 trở xuống, kèm tổn thương thận cấp AKIN độ 2 hoặc 3.",
+    "Khuyến cáo chín mươi bảy đến chín mươi chín: dự phòng huyết khối tĩnh mạch bằng thuốc, khuyến cáo mạnh, ưu tiên heparin trọng lượng phân tử thấp hơn heparin không phân đoạn, cũng mạnh, và dùng thuốc đơn thuần thay vì thêm biện pháp cơ học."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "cards",
+   "chapter": "Mục tiêu chăm sóc · KC 100–107",
+   "title": "Mục tiêu chăm sóc và chăm sóc giảm nhẹ",
+   "ref": "KC 100–107",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "KC 100–101",
+     "t": "Bàn sớm, trong 72 giờ",
+     "d": "Thảo luận mục tiêu chăm sóc và tiên lượng với người bệnh, gia đình",
+     "items": [
+      "Tuyên bố thực hành tốt + có điều kiện"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KC 102–104",
+     "t": "Tiêu chí chuẩn · di chúc y khoa",
+     "d": "Chưa đủ bằng chứng cho tiêu chí chuẩn hoá",
+     "items": [
+      "Mới: hệ thống tạo cơ hội lập chỉ thị chăm sóc trước khi ra viện",
+      "Chưa đủ bằng chứng để lập hệ thống"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KC 105",
+     "t": "Thử nghiệm có thời hạn",
+     "d": "Chưa đủ bằng chứng",
+     "items": [
+      "64% hội đồng sử dụng",
+      "Làm kém có thể tăng bất bình đẳng"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KC 106–107",
+     "t": "Giảm nhẹ",
+     "d": "Lồng ghép nguyên tắc giảm nhẹ",
+     "items": [
+      "Không hội chẩn giảm nhẹ thường quy cho mọi người",
+      "Hội chẩn theo đánh giá lâm sàng"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Về mục tiêu chăm sóc, khuyến cáo một trăm và một trăm lẻ một giữ nguyên: thầy thuốc nên thảo luận mục tiêu chăm sóc và tiên lượng với người bệnh và gia đình, và nên làm sớm, trong vòng 72 giờ.",
+    "Khuyến cáo một trăm lẻ hai: chưa đủ bằng chứng cho một tiêu chí chuẩn hoá để chọn người bệnh cần thảo luận. Điểm mới, khuyến cáo một trăm lẻ ba: hệ thống y tế nên tạo cơ hội để người bệnh lập chỉ thị chăm sóc trước khi ra viện, dù chưa đủ bằng chứng để thiết lập việc này một cách hệ thống.",
+    "Khuyến cáo một trăm lẻ năm: chưa đủ bằng chứng cho thử nghiệm điều trị hồi sức có thời hạn, tức kế hoạch dùng điều trị duy trì sự sống trong một khoảng thời gian định trước rồi đánh giá đáp ứng để quyết định tiếp tục hay chuyển hướng. Dù vậy, 64% hội đồng đang sử dụng; hội đồng cũng lưu ý nếu làm kém, cách này có thể làm tăng bất bình đẳng.",
+    "Khuyến cáo một trăm lẻ sáu và một trăm lẻ bảy: lồng ghép nguyên tắc chăm sóc giảm nhẹ vào kế hoạch điều trị khi phù hợp, nhưng không hội chẩn giảm nhẹ thường quy cho mọi người bệnh, mà dựa trên đánh giá lâm sàng."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "timeline",
+   "chapter": "Chuyển tiếp · KC 108–117",
+   "title": "Chuyển tiếp chăm sóc: từ hồi sức về cộng đồng",
+   "ref": "KC 108–117",
+   "events": [
+    {
+     "year": "Ra khoa",
+     "t": "Chương trình chuyển tiếp",
+     "d": "Hồi sức → khoa thường · bàn giao thông tin",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "Xã hội",
+     "t": "Sàng lọc nhu cầu",
+     "d": "Nhà ở, dinh dưỡng, tài chính, tinh thần",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "year": "Thuốc",
+     "t": "Đối chiếu thuốc",
+     "d": "Mọi lần chuyển · dựa trên dược sĩ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "year": "Ra viện",
+     "t": "Cùng quyết định",
+     "d": "Thông tin về sepsis và di chứng",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "year": "Theo dõi",
+     "t": "Tái khám chuyên trách",
+     "d": "Khi có suy giảm chức năng mới",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "note": {
+    "t": "Mới (KC 116): người bệnh, gia đình và bác sĩ tuyến đầu được cung cấp đủ thông tin để chuyển tiếp ra cộng đồng",
+    "at": 5,
+    "c": "coral"
+   },
+   "lines": [
+    "Chuyển tiếp chăm sóc. Khuyến cáo một trăm lẻ tám và một trăm lẻ chín: dùng chương trình chuyển tiếp khi chuyển người bệnh từ hồi sức về khoa thường, và có quy trình bàn giao các thông tin quan trọng.",
+    "Khuyến cáo một trăm mười: bệnh viện nên sàng lọc nhu cầu hỗ trợ kinh tế và xã hội, gồm nhà ở, dinh dưỡng, tài chính và tinh thần, rồi giới thiệu đến nơi hỗ trợ khi có.",
+    "Khuyến cáo một trăm mười một và một trăm mười hai: đối chiếu thuốc toàn diện ở mọi lần chuyển, kể cả khi ra hồi sức và ra viện, và đề nghị làm theo cách dựa trên dược sĩ. Hai nghiên cứu cho thấy cách này giảm kê tiếp thuốc chống loạn thần và thuốc ức chế bơm proton khởi đầu từ hồi sức.",
+    "Khuyến cáo một trăm mười ba và một trăm mười bốn: cho người bệnh và gia đình cùng tham gia lập kế hoạch ra viện, và cung cấp thông tin bằng lời và bằng văn bản về thời gian nằm viện, sepsis, điều trị và các suy giảm thường gặp sau sepsis.",
+    "Khuyến cáo một trăm mười lăm: người có suy giảm chức năng mới cần được hẹn theo dõi với thầy thuốc có khả năng quản lý di chứng lâu dài.",
+    "Khuyến cáo một trăm mười sáu, mới: hệ thống y tế cần bảo đảm người bệnh, gia đình và bác sĩ chăm sóc ban đầu có đủ thông tin cho giai đoạn chuyển tiếp ra cộng đồng; còn một quy trình ra viện đa thành phần cụ thể thì chưa đủ bằng chứng."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "Phục hồi · KC 118–129",
+   "title": "Phục hồi dài hạn sau sepsis",
+   "ref": "KC 118–129",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "KC 119–123",
+     "t": "Giáo dục và điều phối",
+     "d": "Giáo dục về sepsis trước và sau ra viện",
+     "items": [
+      "Mới: thầy thuốc đủ năng lực hỗ trợ người sống sót",
+      "Mới: hệ thống hỗ trợ giai đoạn sau viện",
+      "Tái khám sớm hay thường quy: chưa đủ bằng chứng"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KC 124–125",
+     "t": "Dịch vụ theo dõi sau hồi sức",
+     "d": "Thể chất, nhận thức, cảm xúc",
+     "items": [
+      "8 RCT: cải thiện nhẹ chất lượng sống, lo âu, stress sau sang chấn",
+      "Hình thức tuỳ nguồn lực"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KC 126",
+     "t": "Phục hồi chức năng thể chất",
+     "d": "Đã thở máy xâm lấn > 48 giờ",
+     "items": [
+      "12 RCT, 782 người bệnh",
+      "Có thể cải thiện thể chất, nhận thức"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KC 127–129",
+     "t": "Tâm thần và nhận thức",
+     "d": "Hỗ trợ sức khoẻ tâm thần · chuyển chuyên khoa khi có triệu chứng",
+     "items": [
+      "Liệu pháp nhận thức: chưa đủ bằng chứng",
+      "Đang dùng thì hợp lý tiếp tục"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Phần cuối của hướng dẫn nói về phục hồi dài hạn. Khuyến cáo một trăm mười tám và một trăm mười chín: cung cấp thông tin và giáo dục bằng lời và văn bản về sepsis, điều trị và hội chứng sau hồi sức, trước khi ra viện và khi tái khám. Hai tuyên bố mới, một trăm hai mươi và một trăm hai mươi hai: hệ thống y tế cần bảo đảm thầy thuốc có đủ năng lực hỗ trợ người sống sót, và có chiến lược hỗ trợ người bệnh, gia đình giai đoạn sau viện. Tái khám sớm hay thường quy thì chưa đủ bằng chứng.",
+    "Khuyến cáo một trăm hai mươi bốn và một trăm hai mươi lăm: tạo điều kiện đánh giá các vấn đề thể chất, nhận thức và cảm xúc sau ra viện, và đề nghị cung cấp dịch vụ theo dõi sau hồi sức. Tám thử nghiệm cho thấy có thể cải thiện nhẹ chất lượng sống, triệu chứng lo âu và stress sau sang chấn.",
+    "Khuyến cáo một trăm hai mươi sáu: với người sống sót đã thở máy xâm lấn trên 48 giờ, đề nghị phục hồi chức năng thể chất sau ra viện. Mười hai thử nghiệm với 782 người bệnh gợi ý cải thiện chức năng thể chất và nhận thức.",
+    "Khuyến cáo một trăm hai mươi bảy và một trăm hai mươi tám: cung cấp dịch vụ hỗ trợ sức khoẻ tâm thần, và chuyển chuyên khoa khi có triệu chứng rối loạn tâm thần. Khuyến cáo một trăm hai mươi chín: chưa đủ bằng chứng cho liệu pháp nhắm vào nhận thức, nhưng nơi đang dùng thì hợp lý để tiếp tục. Suy giảm nhận thức không hồi phục có thể đòi hỏi thêm khoảng 40 giờ chăm sóc mỗi tuần từ người nhà, tương đương một công việc toàn thời gian."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy trong điều trị hỗ trợ và chăm sóc sau hồi sức",
+   "box": {
+    "tag": "BẪY",
+    "t": "Năm sai lầm thường gặp",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "1",
+     "t": "Hydrocortisone liều cao hoặc cho sepsis chưa sốc · liều thường là 200 mg/ngày",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Thêm vitamin C, IVIG, vitamin D, probiotic \"cho chắc\"",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "3",
+     "t": "Tiếp tục dịch duy trì khi hết sốc, cân bằng dương nhiều lít",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "tag": "4",
+     "t": "Kê tiếp PPI, thuốc chống loạn thần khi ra hồi sức, ra viện",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "tag": "5",
+     "t": "Ra viện không hẹn theo dõi, không phục hồi chức năng sau thở máy > 48 giờ",
+     "at": 5,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Năm bẫy thực hành của phần này.",
+    "Một, dùng hydrocortisone liều cao, hoặc cho người sepsis chưa có sốc. Khuyến cáo áp dụng cho sốc nhiễm khuẩn, và liều thường dùng là 200 miligam mỗi ngày.",
+    "Hai, thêm vitamin C, globulin miễn dịch, vitamin D hay probiotic cho chắc. Tất cả đều có khuyến cáo không dùng.",
+    "Ba, tiếp tục truyền dịch duy trì khi người bệnh đã hết giai đoạn hồi sức cấp, để cân bằng dịch dương nhiều lít. Đây là lúc cần nghĩ tới rút dịch chủ động.",
+    "Bốn, kê tiếp thuốc ức chế bơm proton hay thuốc chống loạn thần khởi đầu trong hồi sức mà không đối chiếu khi chuyển khoa hay ra viện.",
+    "Năm, cho người bệnh ra viện mà không hẹn theo dõi, không phục hồi chức năng cho người đã thở máy trên 48 giờ."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: sốc nhiễm khuẩn còn phụ thuộc vận mạch",
+   "case": "Nữ 67 tuổi, sốc nhiễm khuẩn do viêm thận bể thận tắc nghẽn, đã dẫn lưu. Sau 4 giờ, <b>norepinephrine 0,25 µg/kg/phút</b>, đã thêm vasopressin, lactate 3,2 mmol/L. Người nhà hỏi về \"phác đồ vitamin C\".",
+   "case_at": 1,
+   "q": "Điều trị hỗ trợ phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Vitamin C + thiamin + hydrocortisone",
+    "Hydrocortisone tĩnh mạch 200 mg/ngày",
+    "Hấp phụ polymyxin B",
+    "Globulin miễn dịch tĩnh mạch"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Sốc nhiễm khuẩn còn cần vận mạch → corticosteroid tĩnh mạch (KC 79), hội đồng dùng hydrocortisone 200 mg/24 giờ, đa số tiêm ngắt quãng. Không dùng vitamin C (KC 81), polymyxin B (KC 84), IVIG (KC 82).",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nữ 67 tuổi, sốc nhiễm khuẩn do viêm thận bể thận tắc nghẽn, đã được dẫn lưu. Sau 4 giờ, norepinephrine 0,25 microgam mỗi kilôgam mỗi phút, đã thêm vasopressin, lactate 3,2. Người nhà hỏi về phác đồ vitamin C mà họ đọc được trên mạng.",
+    "Điều trị hỗ trợ phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là hydrocortisone tĩnh mạch. Người bệnh sốc nhiễm khuẩn còn cần vận mạch, hướng dẫn đề nghị corticosteroid tĩnh mạch, và hội đồng thường dùng 200 miligam hydrocortisone mỗi ngày, tiêm ngắt quãng. Vitamin C, hấp phụ polymyxin B và globulin miễn dịch đều có khuyến cáo không dùng; đây cũng là dịp giải thích với gia đình bằng bằng chứng."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: ngày thứ 5, đã cai vận mạch",
+   "case": "Nam 59 tuổi, sốc nhiễm khuẩn do viêm phúc mạc, ngày 5. <b>Đã ngưng vận mạch 24 giờ</b>, lactate bình thường. <b>Cân bằng dịch +7 lít</b>, phù toàn thân, FiO₂ 0,5. Creatinine ổn định, nước tiểu 0,6 ml/kg/giờ, pH 7,34.",
+   "case_at": 1,
+   "q": "Xử trí dịch phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Tiếp tục dịch duy trì 100 ml/giờ",
+    "Rút dịch chủ động bằng lợi tiểu, theo dõi sát",
+    "Lọc máu ngay để rút dịch",
+    "Truyền bicarbonate"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Đã qua giai đoạn hồi sức cấp (không tăng hay duy trì vận mạch liều cao, không cần bù thể tích) → rút dịch chủ động (KC 89, mới): lợi tiểu trước, siêu lọc khi không đủ. Không lọc máu khi chưa có chỉ định chắc chắn (KC 93). pH 7,34: không bicarbonate (KC 96).",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nam 59 tuổi, sốc nhiễm khuẩn do viêm phúc mạc, nay là ngày thứ năm. Đã ngưng vận mạch 24 giờ, lactate bình thường. Cân bằng dịch dương 7 lít, phù toàn thân, cần FiO₂ 0,5. Creatinine ổn định, nước tiểu 0,6 mililít mỗi kilôgam mỗi giờ, pH 7,34.",
+    "Xử trí dịch phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là rút dịch chủ động bằng lợi tiểu, theo dõi sát. Người bệnh đã qua giai đoạn hồi sức cấp: không còn tăng liều hay duy trì vận mạch liều cao, không cần bù thể tích. Khuyến cáo mới tám mươi chín đề nghị rút dịch chủ động, bắt đầu bằng lợi tiểu, chỉ siêu lọc khi lợi tiểu không đủ. Không lọc máu khi chưa có chỉ định chắc chắn, và với pH 7,34 thì không có chỉ định bicarbonate."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 5",
+   "title": "Sáu thông điệp của Phần 5",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Corticosteroid cho sốc nhiễm khuẩn",
+     "d": "Hydrocortisone 200 mg/ngày · không cần trên 260 mg",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Không dùng liệu pháp \"thêm cho chắc\"",
+     "d": "Vitamin C, IVIG, lọc máu, polymyxin B, vitamin D, XueBiJing, probiotic",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Rút dịch chủ động · mới",
+     "d": "Sau giai đoạn hồi sức cấp · lợi tiểu trước",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Nâng đỡ chuẩn",
+     "d": "PPI khi có nguy cơ · truyền máu hạn chế · insulin ≥ 180 · heparin trọng lượng phân tử thấp",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Mục tiêu chăm sóc trong 72 giờ",
+     "d": "Nguyên tắc giảm nhẹ · chỉ thị chăm sóc trước ra viện",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Chuyển tiếp và phục hồi",
+     "d": "Đối chiếu thuốc · theo dõi sau hồi sức · phục hồi chức năng · tâm thần",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần năm.",
+    "Corticosteroid tĩnh mạch cho sốc nhiễm khuẩn, thường là hydrocortisone 200 miligam mỗi ngày. Không dùng các liệu pháp thêm cho chắc như vitamin C, globulin miễn dịch, lọc máu, polymyxin B, vitamin D, XueBiJing hay probiotic.",
+    "Điểm mới là rút dịch chủ động sau giai đoạn hồi sức cấp. Các nâng đỡ chuẩn giữ nguyên: thuốc ức chế bơm proton khi có nguy cơ xuất huyết, truyền máu hạn chế, insulin từ 180, heparin trọng lượng phân tử thấp.",
+    "Bàn mục tiêu chăm sóc sớm trong 72 giờ, và chăm lo cho cả hành trình sau hồi sức: đối chiếu thuốc, dịch vụ theo dõi, phục hồi chức năng thể chất và hỗ trợ tâm thần."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "summary",
+   "chapter": "Ôn tập toàn loạt",
+   "title": "Surviving Sepsis Campaign 2026: năm phần trong một slide",
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Nhận diện và hồi sức ban đầu",
+     "d": "Sepsis-3 · không dùng qSOFA đơn độc · 30 ml/kg · vận mạch ngoại vi sớm · HA trung bình 65",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Kháng sinh và kiểm soát ổ nhiễm",
+     "d": "Theo mức chắc chắn chẩn đoán · kiểm soát ổ ≤ 6 giờ · truyền kéo dài beta-lactam · xuống thang",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Huyết động",
+     "d": "Tinh thể cân bằng · chỉ số động, lactate, CRT · norepinephrine → vasopressin → epinephrine",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Hỗ trợ hô hấp",
+     "d": "HFNC trước tiên · nằm sấp khi tỉnh · 6 ml/kg, Pplat ≤ 30 · sấp > 12 giờ · VV-ECMO",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "Hỗ trợ, mục tiêu chăm sóc, phục hồi",
+     "d": "Hydrocortisone · rút dịch chủ động · mục tiêu chăm sóc 72 giờ · theo dõi sau hồi sức",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Và bây giờ, xin cùng quý vị ôn tập toàn bộ loạt bài trong một slide.",
+    "Phần một: nhận diện và hồi sức ban đầu, với định nghĩa Sepsis-3, không dùng qSOFA đơn độc để sàng lọc, 30 mililít mỗi kilôgam dịch tinh thể, vận mạch qua đường ngoại vi sớm và đích huyết áp trung bình 65.",
+    "Phần hai: kháng sinh theo mức chắc chắn chẩn đoán và tình trạng sốc, kiểm soát ổ nhiễm trong 6 giờ, truyền kéo dài beta-lactam, và xuống thang khi có thể.",
+    "Phần ba: huyết động, với dịch tinh thể cân bằng, cá thể hoá bằng chỉ số động, lactate và thời gian đổ đầy mao mạch, và bậc thang norepinephrine, vasopressin, epinephrine.",
+    "Phần bốn: hỗ trợ hô hấp, oxy dòng cao trước tiên, nằm sấp khi tỉnh, thông khí bảo vệ phổi 6 mililít mỗi kilôgam và áp lực bình nguyên không quá 30, nằm sấp trên 12 giờ, và ECMO.",
+    "Phần năm: corticosteroid, rút dịch chủ động, mục tiêu chăm sóc sớm và chăm sóc người sống sót. Thưa quý đồng nghiệp, sepsis không kết thúc khi người bệnh rời hồi sức. Cảm ơn quý vị đã đồng hành cùng Thư Viện Y Khoa Online trong trọn bộ loạt bài này. Hẹn gặp lại quý vị ở chuyên đề tiếp theo."
+   ],
+   "dense": true
+  }
+ ]
+}
