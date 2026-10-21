@@ -1,0 +1,542 @@
+{
+ "title": "Surviving Sepsis Campaign 2026 – Phần 4: Hỗ trợ hô hấp",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức cấp cứu",
+ "part": "Surviving Sepsis Campaign 2026 · Phần 4/5",
+ "source_short": "Nguồn: Surviving Sepsis Campaign – International Guidelines for Management of Sepsis and Septic Shock 2026",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026.",
+ "lexicon": {
+  "µg/kg/phút": "microgam mỗi kilôgam mỗi phút",
+  "Sepsis-3": "sép xít ba",
+  "MEGA-ROX": "mê ga rốc",
+  "VV-ECMO": "éc mô tĩnh mạch – tĩnh mạch",
+  "FLORALI": "phlo ra li",
+  "PROSEVA": "prô xê va",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "ESCMID": "e ét xê em i đê",
+  "qSOFA": "quick sô pha",
+  "NEWS2": "niu hai",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "PK/PD": "dược động học, dược lực học",
+  "POCUS": "siêu âm tại giường",
+  "NIPPV": "thông khí áp lực dương không xâm lấn",
+  "cmH₂O": "xăng ti mét nước",
+  "EOLIA": "ê ô li a",
+  "SOFA": "sô pha",
+  "NEWS": "niu",
+  "MEWS": "miu",
+  "SIRS": "xia",
+  "LMIC": "nước thu nhập thấp và trung bình",
+  "IDSA": "i đê ét a",
+  "ARDS": "a rờ đê ét",
+  "HFNC": "oxy dòng cao qua mũi",
+  "ECMO": "éc mô",
+  "PEEP": "píp",
+  "FiO₂": "phi ô hai",
+  "SpO₂": "ét pê ô hai",
+  "SaO₂": "ét a ô hai",
+  "PaO₂": "pê a ô hai",
+  "NMBA": "thuốc giãn cơ",
+  "COPD": "bệnh phổi tắc nghẽn mạn tính",
+  "ROSE": "rô dơ",
+  "ARMA": "a ma",
+  "ICU": "hồi sức",
+  "MDR": "đa kháng",
+  "SDD": "khử khuẩn chọn lọc đường tiêu hoá",
+  "TDM": "theo dõi nồng độ thuốc",
+  "IBW": "cân nặng lý tưởng",
+  "ABG": "khí máu động mạch",
+  "NIV": "thông khí không xâm lấn",
+  "ART": "a rờ tê",
+  "S/F": "ét trên phi",
+  "P/F": "pê trên phi",
+  "Vt": "thể tích khí lưu thông"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 4/5",
+   "title": "Hỗ trợ hô hấp<br>trong sepsis",
+   "subtitle": "Phần 4 · Oxy, oxy dòng cao, nằm sấp, thông khí bảo vệ phổi, ECMO",
+   "badges": [
+    {
+     "t": "KC 65–78",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "SpO₂ 90–96%",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "6 ml/kg · Pplat ≤ 30",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "Surviving Sepsis Campaign 2026 · nhóm khuyến cáo Hỗ trợ hô hấp",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần bốn của loạt bài về Hướng dẫn Surviving Sepsis Campaign 2026.",
+    "Phần này gồm 14 khuyến cáo về hỗ trợ hô hấp: cách đo oxy hoá, mục tiêu oxy, oxy dòng cao qua mũi, nằm sấp khi tỉnh, thông khí xâm lấn bảo vệ phổi, và ECMO tĩnh mạch – tĩnh mạch.",
+    "Suy hô hấp giảm oxy máu là rối loạn chức năng cơ quan rất thường gặp ở người bệnh sepsis, và năm 2026 có vài điểm mới đáng chú ý: mục tiêu oxy linh hoạt, thứ tự ưu tiên oxy dòng cao, và thể tích khí lưu thông cho người không có ARDS."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Theo dõi · KC 65",
+   "title": "Đo oxy hoá: SpO₂ hay khí máu động mạch?",
+   "ref": "KC 65 · Có điều kiện, rất thấp",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "KC 65",
+     "t": "SpO₂ hoặc khí máu",
+     "d": "Kết hợp khám lâm sàng và nhận định của thầy thuốc",
+     "items": [
+      "Khí máu là tiêu chuẩn vàng, ưu tiên khi có",
+      "Cho thêm pH, PaCO₂, lactate, bicarbonate"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "SpO₂ KÉM CHÍNH XÁC KHI",
+     "t": "Ba nhóm người bệnh",
+     "d": "",
+     "items": [
+      "Sốc, giảm tưới máu",
+      "Da sẫm màu: hạ oxy máu ẩn gấp ≈ 3 lần",
+      "SpO₂ < 90% hoặc > 97%"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "tag": "ARDS",
+     "t": "S/F thay P/F",
+     "d": "Định nghĩa đồng thuận toàn cầu mới cho phép dùng SpO₂",
+     "items": [
+      "45 nghiên cứu: tương quan 0,5–0,8",
+      "S/F < 315 (khi SpO₂ < 97%) khi không có khí máu"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo sáu mươi lăm: đề nghị đo oxy hoá bằng SpO₂ hoặc khí máu động mạch, luôn kết hợp với khám lâm sàng và nhận định của thầy thuốc. Khí máu là tiêu chuẩn vàng, cho thêm thông tin về pH, PaCO₂, lactate và bicarbonate, nên được ưu tiên khi có sẵn.",
+    "Cần thận trọng với SpO₂ ở ba nhóm: người bệnh sốc, người da sẫm màu, và khi độ bão hoà dưới 90% hoặc trên 97%, do hình dạng đường cong phân ly oxy hemoglobin. Một nghiên cứu hơn 48 nghìn cặp số đo cho thấy người da đen bị hạ oxy máu ẩn mà máy đo không phát hiện nhiều gần gấp ba lần.",
+    "Với ARDS, định nghĩa đồng thuận toàn cầu mới cho phép dùng tỷ số SpO₂ trên FiO₂ thay cho PaO₂ trên FiO₂. Tổng quan 45 nghiên cứu cho tương quan từ 0,5 đến 0,8. Ở nơi không có khí máu, tỷ số S/F dưới 315, khi SpO₂ dưới 97%, được đề xuất để chẩn đoán ARDS."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "box",
+   "chapter": "Oxy · KC 66",
+   "title": "Mục tiêu oxy: tự do hay bảo tồn?",
+   "ref": "KC 66 · Có điều kiện, thấp",
+   "box": {
+    "tag": "KC 66",
+    "t": "Chỉnh FiO₂ theo mục tiêu <b>tự do (cao)</b> hoặc <b>bảo tồn (thấp)</b>, tuỳ <b>người bệnh và nguồn lực</b>.<br>Hội đồng thực hành: <em>SpO₂ 90% → 96%</em>",
+    "at": 0,
+    "c": "blue",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "10 RCT, 24 022 người bệnh: tử vong RR 1,02 (0,99–1,05) · thấp 90–93%, cao ≥ 96%",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "HỢP LÝ",
+     "t": "Đầu dưới dải tự do (96–97%) hoặc trung gian (94–95%), kể cả khi đủ nguồn lực",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KHÁC RPG",
+     "t": "Loại trừ COPD, ngừng tim, đột quỵ · chờ MEGA-ROX (40 000 người bệnh)",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo sáu mươi sáu: với suy hô hấp giảm oxy máu do sepsis, đề nghị chỉnh FiO₂ theo mục tiêu oxy tự do hoặc bảo tồn, tuỳ đặc điểm người bệnh và giới hạn nguồn lực. Trong thực hành, các thành viên hội đồng nhắm SpO₂ từ khoảng 90% đến 96%.",
+    "Mười thử nghiệm với 24 022 người bệnh cho thấy mục tiêu thấp gần như không khác tử vong ngắn hạn, nguy cơ tương đối 1,02. Hầu hết thử nghiệm dùng mục tiêu thấp 90 đến 93% và mục tiêu cao từ 96% trở lên. Ở nơi thiếu oxy hay máy thở, mục tiêu thấp có thể có lợi hơn về tổng thể.",
+    "Hội đồng cho rằng hợp lý khi nhắm đầu dưới của dải tự do, 96 đến 97%, hoặc mục tiêu trung gian 94 đến 95%, ngay cả khi không thiếu nguồn lực.",
+    "Khuyến cáo này khác một hướng dẫn thực hành nhanh trước đó vốn đề nghị không dùng mục tiêu cao, vì Surviving Sepsis đã loại các thử nghiệm không phải sepsis như đợt cấp COPD, ngừng tim, đột quỵ, và thêm các thử nghiệm mới. Thử nghiệm MEGA-ROX với 40 nghìn người bệnh sẽ cho câu trả lời chắc chắn hơn."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "compare",
+   "chapter": "Không xâm lấn · KC 67–69",
+   "title": "Oxy dòng cao qua mũi là lựa chọn ban đầu",
+   "ref": "KC 67–69 · Có điều kiện",
+   "head": [
+    "So sánh",
+    "Khuyến cáo 2026",
+    "Bằng chứng"
+   ],
+   "widths": "1.1fr 1.3fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>HFNC</b> so với oxy thường quy",
+      "Ưu tiên HFNC khi <em>P/F < 200</em> hoặc <em>S/F < 235</em> · rất thấp",
+      "11 RCT, 3546 người bệnh · đặt nội khí quản RR 0,88 · tử vong RR 0,90"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>HFNC</b> so với NIPPV ban đầu",
+      "Ưu tiên HFNC · thấp",
+      "7 RCT, 2465 người bệnh · tử vong RR 0,89 · thở máy ngắn hơn ≈ 1 ngày"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>HFNC</b> so với xen kẽ HFNC + NIPPV",
+      "Ưu tiên HFNC đơn thuần · rất thấp",
+      "2 RCT, 515 người bệnh (FLORALI) · thêm ≈ 4 ngày không thở máy"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Ba khuyến cáo về hỗ trợ hô hấp không xâm lấn. Khuyến cáo sáu mươi bảy: đề nghị oxy dòng cao qua mũi hơn oxy thường quy, áp dụng khi tỷ số PaO₂ trên FiO₂ dưới 200 hoặc SpO₂ trên FiO₂ dưới 235.",
+    "Cơ sở sinh lý: oxy thường quy, kể cả mặt nạ không thở lại, chỉ đạt FiO₂ khoảng 0,6 đến 0,7 với lưu lượng tối đa 15 lít mỗi phút; oxy dòng cao đạt FiO₂ trên 0,8 với lưu lượng đến 60 lít, làm ẩm, rửa khoảng chết và tạo chút áp lực dương. Mười một thử nghiệm cho thấy có thể giảm đặt nội khí quản, nguy cơ tương đối 0,88.",
+    "Khuyến cáo sáu mươi tám: dùng oxy dòng cao làm liệu pháp ban đầu hơn thông khí áp lực dương không xâm lấn. Bảy thử nghiệm cho thấy có thể giảm tử vong và rút ngắn thở máy khoảng một ngày; oxy dòng cao lại dễ dung nạp, cho phép ăn và nói, tránh chướng hơi dạ dày, hít sặc và tổn thương da mặt.",
+    "Khuyến cáo sáu mươi chín: oxy dòng cao đơn thuần hơn xen kẽ với thông khí không xâm lấn, dựa trên hai thử nghiệm trong đó có FLORALI. Lưu ý các thử nghiệm đã loại phù phổi do tim và đợt cấp COPD; ở nơi không có oxy dòng cao, thông khí không xâm lấn là lựa chọn thay thế hợp lý, và cần tính đến lượng oxy tiêu thụ lớn của oxy dòng cao."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "box",
+   "chapter": "Nằm sấp khi tỉnh · KC 70",
+   "title": "Nằm sấp khi tỉnh ở người chưa đặt nội khí quản",
+   "ref": "KC 70 · Có điều kiện, rất thấp",
+   "box": {
+    "tag": "KC 70",
+    "t": "Suy hô hấp giảm oxy máu, <b>chưa đặt nội khí quản</b>: đề nghị <b>thử nằm sấp khi tỉnh</b>.<br><em>Không dùng an thần để người bệnh chịu nằm sấp.</em>",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "17 RCT, 3537 người bệnh: đặt nội khí quản RR 0,82 (0,73–0,93)",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "GIỚI HẠN",
+     "t": "Toàn bộ là COVID-19 · tử vong chưa chắc chắn · biến cố nặng RR 2,54 (CI rộng)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Thời gian, tần suất theo dung nạp · rẻ, khả thi ở nơi thiếu máy thở",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo bảy mươi: với người bệnh suy hô hấp giảm oxy máu chưa đặt nội khí quản, đề nghị thử nằm sấp khi tỉnh. Lưu ý quan trọng: không dùng an thần để giúp người bệnh chịu nằm sấp.",
+    "Mười bảy thử nghiệm với 3537 người bệnh cho thấy nằm sấp khi tỉnh có thể giảm nhẹ nhu cầu đặt nội khí quản, nguy cơ tương đối 0,82.",
+    "Tuy vậy, toàn bộ thử nghiệm là ở người bệnh COVID-19, nên bằng chứng gián tiếp; ước tính về tử vong chưa chắc chắn, và điểm ước tính biến cố nặng còn tăng với khoảng tin cậy rất rộng.",
+    "Thời gian và tần suất nằm sấp tuỳ dung nạp, nên hướng dẫn không khuyến cáo thời lượng cụ thể. Đây là can thiệp gần như không tốn kém, rất giá trị ở nơi thiếu máy thở."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "Thở máy · KC 71–73",
+   "title": "Thông khí bảo vệ phổi: thể tích và áp lực",
+   "ref": "KC 71–73",
+   "head": [
+    "Tình huống",
+    "Khuyến cáo 2026",
+    "Ghi chú"
+   ],
+   "widths": "1fr 1.4fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>ARDS</b>",
+      "Vt thấp <em>6 ml/kg</em> hơn > 10 ml/kg · <b>mạnh, cao</b>",
+      "Giữ nguyên · nền tảng: thử nghiệm ARMA"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Không ARDS</b> · <span>MỚI</span>",
+      "Vt <em>6–8 ml/kg cân nặng lý tưởng</em> hơn 4 đến < 6 ml/kg · có điều kiện, thấp",
+      "2 RCT: tử vong 90 ngày RR 1,04 · Vt thấp hơn có thể tăng mê sảng (RR 1,19)"
+     ],
+     "at": 1,
+     "hl": "L2",
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>ARDS</b>",
+      "Áp lực bình nguyên <em>≤ 30 cmH₂O</em> · <b>mạnh, cao</b>",
+      "Giữ nguyên"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Về thông khí xâm lấn, phần lớn khuyến cáo được giữ nguyên từ 2021. Khuyến cáo bảy mươi mốt, mạnh, chắc chắn cao: ở người bệnh sepsis có ARDS, dùng thể tích khí lưu thông thấp 6 mililít mỗi kilôgam, thay vì trên 10 mililít mỗi kilôgam.",
+    "Điểm mới là khuyến cáo bảy mươi hai, cho người suy hô hấp do sepsis nhưng không có ARDS: đề nghị 6 đến 8 mililít mỗi kilôgam cân nặng lý tưởng, hơn là mức thấp 4 đến dưới 6.",
+    "Hai thử nghiệm so sánh thể tích thấp và trung bình không thấy khác tử vong 90 ngày, và một thử nghiệm gợi ý mức thấp có thể tăng mê sảng. Hội đồng chọn 6 đến 8 là cách an toàn nhất, vì ARDS bị bỏ sót ở khoảng 48,7 đến 52,4% người bệnh đủ tiêu chuẩn; do đó phải sàng lọc ARDS thường xuyên, và không để người bệnh thở máy với thể tích trên 10 mililít mỗi kilôgam.",
+    "Khuyến cáo bảy mươi ba, mạnh, chắc chắn cao: giới hạn áp lực bình nguyên ở mức 30 xăng ti mét nước."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "timeline",
+   "chapter": "ARDS trung bình – nặng · KC 74–78",
+   "title": "ARDS trung bình – nặng: các bước tiếp theo",
+   "ref": "KC 74–78 · Giữ nguyên",
+   "events": [
+    {
+     "year": "PEEP",
+     "t": "PEEP cao hơn",
+     "d": "Có điều kiện, trung bình",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "Tránh",
+     "t": "Không tăng PEEP từng bậc",
+     "d": "Mạnh, trung bình",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "year": "Nằm sấp",
+     "t": "> 12 giờ mỗi ngày",
+     "d": "Có điều kiện, trung bình",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "year": "Giãn cơ",
+     "t": "Tiêm ngắt quãng",
+     "d": "Hơn truyền liên tục",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "year": "ECMO",
+     "t": "VV-ECMO",
+     "d": "Khi thở máy thất bại, tại trung tâm có kinh nghiệm",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "note": {
+    "t": "Tất cả đều giữ nguyên từ 2021 · xem lý giải trong hướng dẫn 2021",
+    "at": 5,
+    "c": "green"
+   },
+   "lines": [
+    "Với ARDS trung bình đến nặng, các khuyến cáo đều giữ nguyên. Khuyến cáo bảy mươi bốn: đề nghị PEEP cao hơn so với PEEP thấp.",
+    "Khuyến cáo bảy mươi lăm, mạnh: không dùng chiến lược tăng PEEP từng bậc. Đây là bài học từ thử nghiệm ART, nơi huy động phế nang kèm tăng PEEP từng bậc làm tăng tử vong.",
+    "Khuyến cáo bảy mươi sáu: thông khí nằm sấp trên 12 giờ mỗi ngày, bằng chứng nền tảng là thử nghiệm PROSEVA.",
+    "Khuyến cáo bảy mươi bảy: nếu cần giãn cơ, ưu tiên tiêm ngắt quãng hơn truyền liên tục, nhất là sau thử nghiệm ROSE.",
+    "Khuyến cáo bảy mươi tám: với ARDS nặng do sepsis khi thở máy thông thường thất bại, đề nghị ECMO tĩnh mạch – tĩnh mạch tại trung tâm có kinh nghiệm và đủ hạ tầng.",
+    "Tất cả các khuyến cáo này được giữ nguyên, lý giải chi tiết nằm trong hướng dẫn năm 2021."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy hô hấp ở người bệnh sepsis",
+   "box": {
+    "tag": "BẪY",
+    "t": "Năm sai lầm thường gặp",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "1",
+     "t": "Tin SpO₂ 98–100% ở người sốc, da sẫm màu → bỏ sót hạ oxy ẩn; làm khí máu",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Để SpO₂ 100% kéo dài: không cần · đầu dưới dải tự do 96–97% là đủ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "3",
+     "t": "Thở máy không ARDS với Vt theo cân nặng thực, > 10 ml/kg",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "tag": "4",
+     "t": "Không sàng lọc ARDS hằng ngày → bỏ sót gần một nửa",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "tag": "5",
+     "t": "An thần cho người chưa đặt nội khí quản để nằm sấp",
+     "at": 5,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trước khi sang tình huống, xin nhắc năm bẫy thực hành.",
+    "Một, tin vào SpO₂ 98 đến 100% ở người bệnh sốc hoặc da sẫm màu. Ở các nhóm này máy đo có thể đánh giá cao độ bão hoà; hãy làm khí máu.",
+    "Hai, để SpO₂ 100% kéo dài. Không có bằng chứng lợi ích, và hội đồng thấy đầu dưới dải tự do, 96 đến 97%, là hợp lý.",
+    "Ba, thở máy người không có ARDS với thể tích tính theo cân nặng thực, dẫn tới trên 10 mililít mỗi kilôgam cân nặng lý tưởng, nhất là ở người béo phì hoặc thấp.",
+    "Bốn, không sàng lọc ARDS hằng ngày, trong khi gần một nửa trường hợp bị bỏ sót.",
+    "Năm, dùng an thần để người bệnh chưa đặt nội khí quản chịu nằm sấp; hướng dẫn nói rõ không làm vậy."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: viêm phổi, oxy mặt nạ không đủ",
+   "case": "Nữ 45 tuổi, sepsis do viêm phổi, tỉnh táo, nhịp thở 32 lần/phút. Mặt nạ không thở lại 15 L/phút: <b>SpO₂ 90%</b>, khí máu <b>P/F 150</b>, PaCO₂ 34 mmHg. Không suy tim, không COPD. Khoa có HFNC và NIV.",
+   "case_at": 1,
+   "q": "Hỗ trợ hô hấp ban đầu phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Tiếp tục mặt nạ, chờ kháng sinh tác dụng",
+    "HFNC, cân nhắc thử nằm sấp khi tỉnh",
+    "NIV (BiPAP) làm liệu pháp ban đầu",
+    "Xen kẽ HFNC với NIV mỗi 2 giờ"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "P/F < 200 → HFNC hơn oxy thường quy (KC 67); HFNC ban đầu hơn NIV (KC 68) và hơn xen kẽ (KC 69). Chưa đặt nội khí quản → thử nằm sấp khi tỉnh, không an thần (KC 70). Theo dõi sát để không trì hoãn đặt nội khí quản.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nữ 45 tuổi, sepsis do viêm phổi, tỉnh táo, thở 32 lần mỗi phút. Với mặt nạ không thở lại 15 lít mỗi phút, SpO₂ 90%, tỷ số PaO₂ trên FiO₂ là 150, PaCO₂ 34. Không có suy tim hay bệnh phổi tắc nghẽn mạn tính. Khoa có cả oxy dòng cao và thông khí không xâm lấn.",
+    "Hỗ trợ hô hấp ban đầu phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là oxy dòng cao qua mũi, cân nhắc thử nằm sấp khi tỉnh. Tỷ số dưới 200 nên ưu tiên oxy dòng cao hơn oxy thường quy; oxy dòng cao cũng được ưu tiên làm liệu pháp ban đầu hơn thông khí không xâm lấn hay xen kẽ hai phương thức. Người bệnh chưa đặt nội khí quản nên có thể thử nằm sấp khi tỉnh, không dùng an thần, và cần theo dõi sát để không trì hoãn đặt nội khí quản khi thất bại."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: ARDS trung bình – nặng đang thở máy",
+   "case": "Nam 62 tuổi, sốc nhiễm khuẩn, thở máy ngày 2. Cân nặng lý tưởng 70 kg, <b>Vt 560 ml (8 ml/kg)</b>, áp lực bình nguyên <b>32 cmH₂O</b>, PEEP 10, FiO₂ 0,8, <b>P/F 110</b>. Thâm nhiễm hai phổi, không do tim.",
+   "case_at": 1,
+   "q": "Xử trí phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Giữ nguyên vì oxy hoá tạm chấp nhận",
+    "Vt ≈ 420 ml, Pplat ≤ 30, PEEP cao hơn, nằm sấp > 12 giờ/ngày",
+    "Huy động phế nang, tăng PEEP từng bậc",
+    "VV-ECMO ngay lập tức"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "ARDS trung bình – nặng: Vt 6 ml/kg (420 ml, KC 71, mạnh), Pplat ≤ 30 (KC 73, mạnh), PEEP cao hơn (KC 74), nằm sấp > 12 giờ (KC 76). Không tăng PEEP từng bậc (KC 75, mạnh). ECMO chỉ khi thở máy thông thường thất bại (KC 78).",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nam 62 tuổi, sốc nhiễm khuẩn, thở máy ngày thứ hai. Cân nặng lý tưởng 70 kilôgam, thể tích khí lưu thông 560 mililít, tức 8 mililít mỗi kilôgam, áp lực bình nguyên 32, PEEP 10, FiO₂ 0,8, tỷ số PaO₂ trên FiO₂ là 110. Phim có thâm nhiễm hai phổi, không do tim.",
+    "Xử trí phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: giảm thể tích khí lưu thông về khoảng 420 mililít, tức 6 mililít mỗi kilôgam, giữ áp lực bình nguyên không quá 30, dùng PEEP cao hơn và thông khí nằm sấp trên 12 giờ mỗi ngày. Không dùng chiến lược tăng PEEP từng bậc, khuyến cáo mạnh. ECMO tĩnh mạch – tĩnh mạch chỉ đặt ra khi các biện pháp thông thường thất bại, tại trung tâm có kinh nghiệm."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 4",
+   "title": "Sáu thông điệp của Phần 4",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "SpO₂ hoặc khí máu",
+     "d": "Khí máu khi sốc, da sẫm màu, SpO₂ < 90% hoặc > 97%",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Mục tiêu oxy linh hoạt",
+     "d": "Hội đồng nhắm SpO₂ 90–96% · tránh 100% kéo dài",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "HFNC trước tiên",
+     "d": "P/F < 200 · hơn oxy thường quy, NIV và xen kẽ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Nằm sấp khi tỉnh",
+     "d": "Chưa đặt nội khí quản · không an thần",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "6 ml/kg · Pplat ≤ 30",
+     "d": "Không ARDS: 6–8 ml/kg cân nặng lý tưởng · sàng lọc ARDS",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "ARDS trung bình – nặng",
+     "d": "PEEP cao · không tăng từng bậc · sấp > 12 giờ · giãn cơ ngắt quãng · VV-ECMO",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần bốn, xin tóm tắt những thông điệp chính.",
+    "Đo oxy hoá bằng SpO₂ hoặc khí máu, ưu tiên khí máu khi sốc, da sẫm màu, hoặc độ bão hoà ngoài khoảng 90 đến 97%. Mục tiêu oxy linh hoạt; hội đồng nhắm SpO₂ khoảng 90 đến 96%.",
+    "Với tỷ số PaO₂ trên FiO₂ dưới 200, oxy dòng cao qua mũi là lựa chọn ban đầu, hơn oxy thường quy, thông khí không xâm lấn hay xen kẽ; người chưa đặt nội khí quản có thể thử nằm sấp khi tỉnh, không an thần.",
+    "Khi thở máy: 6 mililít mỗi kilôgam và áp lực bình nguyên không quá 30 ở ARDS; 6 đến 8 mililít mỗi kilôgam cân nặng lý tưởng khi chưa có ARDS, kèm sàng lọc thường xuyên. ARDS trung bình đến nặng: PEEP cao hơn, không tăng từng bậc, nằm sấp trên 12 giờ, giãn cơ ngắt quãng, và ECMO tại trung tâm có kinh nghiệm.",
+    "Phần năm, phần cuối, sẽ bàn về điều trị hỗ trợ, mục tiêu chăm sóc, chuyển tiếp và phục hồi lâu dài, kèm ôn tập toàn bộ loạt bài. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
