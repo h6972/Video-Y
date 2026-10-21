@@ -1,0 +1,547 @@
+{
+ "title": "Hỗ trợ hô hấp không xâm lấn ATS 2026 – Phần 3: Tiền oxy hoá khi đặt nội khí quản",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức – Hô hấp",
+ "part": "Hỗ trợ hô hấp không xâm lấn ATS 2026 · Phần 3/4",
+ "source_short": "Nguồn: ATS Clinical Practice Guideline 2026 – Noninvasive respiratory support for adults with acute respiratory failure",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Noninvasive respiratory support for adult patients with acute respiratory failure: an official American Thoracic Society Clinical Practice Guideline (2026).",
+ "lexicon": {
+  "COVID-19": "cô vít mười chín",
+  "RENOVATE": "rê nô vết",
+  "ERS–ATS": "e e ét, a tê ét",
+  "PREOXI": "pri óc xi",
+  "PREOXi": "pri óc xi",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "PaCO2": "pê a xê ô hai",
+  "PICO": "pi cô",
+  "SOHO": "sô hô",
+  "HFNC": "oxy dòng cao qua mũi",
+  "CPAP": "xi pắp",
+  "FiO2": "phi ô hai",
+  "COPD": "xê ô pê đê",
+  "ECMO": "éc mô",
+  "PaO2": "pê a ô hai",
+  "SpO2": "ét pê ô hai",
+  "NIV": "thở máy không xâm lấn",
+  "ATS": "a tê ét",
+  "pH": "pê hát"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 3/4",
+   "title": "Tiền oxy hoá<br>khi đặt nội khí quản",
+   "subtitle": "Phần 3 · HFNC hay NIV trước khi đặt ống?",
+   "badges": [
+    {
+     "t": "PICO 3",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "15 RCT · 3420 người bệnh",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Khuyến cáo mạnh",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "ATS Clinical Practice Guideline 2026 · Noninvasive respiratory support",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần ba của loạt bài về Hướng dẫn hỗ trợ hô hấp không xâm lấn của Hội Lồng ngực Hoa Kỳ năm 2026.",
+    "Phần này bàn về một thời điểm nguy hiểm bậc nhất tại hồi sức và cấp cứu: tiền oxy hoá khi đặt nội khí quản cho người bệnh suy hô hấp cấp.",
+    "Bằng chứng gồm 15 thử nghiệm ngẫu nhiên với 3420 người bệnh, trong đó có thử nghiệm lớn PREOXI."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "PICO 3 · Vấn đề",
+   "title": "Đặt nội khí quản ở người bệnh nặng: thủ thuật nguy cơ cao",
+   "ref": "PICO 3 · Background",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "BIẾN CHỨNG",
+     "t": "Giảm oxy máu nặng",
+     "d": "Ngừng tim, tử vong quanh đặt ống",
+     "items": [],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "MỤC TIÊU",
+     "t": "Tăng dự trữ oxy",
+     "d": "Kéo dài thời gian ngưng thở an toàn",
+     "items": [
+      "Giảm giảm oxy máu và biến cố khác"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "HẠN CHẾ",
+     "t": "Mặt nạ, bóp bóng truyền thống",
+     "d": "Thường không đủ ở người giảm oxy máu nặng",
+     "items": [
+      "→ Nhiều RCT thử HFNC và NIV"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Đặt nội khí quản là thủ thuật nguy cơ cao ở người bệnh nặng, với tỷ lệ biến chứng cao gồm giảm oxy máu nặng, ngừng tim và tử vong.",
+    "Mục tiêu của tiền oxy hoá là tăng dự trữ oxy, kéo dài thời gian ngưng thở an toàn trong lúc đặt ống, từ đó giảm giảm oxy máu và các biến cố bất lợi khác.",
+    "Các cách truyền thống như mặt nạ oxy hay bóp bóng qua mặt nạ thường không đủ ở người bệnh nặng có giảm oxy máu. Điều này đã thúc đẩy nhiều thử nghiệm ngẫu nhiên về oxy dòng cao và thở máy không xâm lấn, trong đó thử nghiệm PREOXI gần đây là lý do hội đồng ưu tiên câu hỏi này."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "PICO 3 · Khuyến cáo",
+   "title": "Khuyến cáo tiền oxy hoá",
+   "ref": "PICO 3 · Figure 4",
+   "head": [
+    "So sánh",
+    "Khuyến cáo",
+    "Mức GRADE"
+   ],
+   "widths": "1.1fr 1.4fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>HFNC hoặc NIV qua mặt nạ</b> so với oxy chuẩn",
+      "<em>Khuyến cáo dùng</em> cho người lớn suy hô hấp cấp cần đặt nội khí quản",
+      "Mạnh · chắc chắn trung bình"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>HFNC so với NIV</b>",
+      "<em>Không khuyến cáo</em> ủng hộ hay phản đối",
+      "Bằng chứng chủ yếu gián tiếp"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Oxy chuẩn</b> trong phân tích",
+      "Mặt nạ, bóp bóng qua mặt nạ, mặt nạ không thở lại",
+      "Gộp chung vì tương đương sinh lý"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Câu hỏi PICO thứ ba. Khuyến cáo mạnh, chắc chắn trung bình: dùng oxy dòng cao hoặc thở máy không xâm lấn qua mặt nạ, thay cho oxy chuẩn, để tiền oxy hoá ở người lớn suy hô hấp cấp cần đặt nội khí quản.",
+    "Hội đồng không đưa ra khuyến cáo ủng hộ hay phản đối oxy dòng cao so với thở máy không xâm lấn.",
+    "Trong phân tích, oxy chuẩn bao gồm mặt nạ oxy, bóp bóng qua mặt nạ và mặt nạ không thở lại, được gộp chung vì tương đương về sinh lý và thực hành."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "PICO 3 · Bằng chứng",
+   "title": "Quần thể và thiết kế nghiên cứu",
+   "ref": "PICO 3 · Evidence summary · Table S4",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "MẠNG LƯỚI",
+     "t": "15 RCT",
+     "d": "10 HFNC – oxy chuẩn · 3 NIV – oxy chuẩn",
+     "items": [
+      "1 NIV so với HFNC",
+      "1 NIV + HFNC so với NIV + HFNC giả"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "BỐI CẢNH",
+     "t": "Hồi sức, cấp cứu",
+     "d": "3 RCT ở người bệnh phẫu thuật",
+     "items": [
+      "NIV chủ yếu là hai mức áp lực qua mặt nạ"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "NGƯỜI BỆNH",
+     "t": "Tuổi trung vị 40–78",
+     "d": "40% nữ · BMI trung bình 23–30",
+     "items": [
+      "Khoảng 1/4 có bệnh phổi mạn"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Mạng lưới gồm 15 thử nghiệm: 10 so sánh oxy dòng cao với oxy chuẩn, 3 so sánh thở máy không xâm lấn với oxy chuẩn, 1 so sánh trực tiếp thở máy không xâm lấn với oxy dòng cao, và 1 đánh giá phối hợp thở máy không xâm lấn với oxy dòng cao so với thở máy không xâm lấn kèm oxy dòng cao giả.",
+    "Phần lớn nghiên cứu ở người bệnh nặng tại hồi sức hoặc cấp cứu, cùng 3 thử nghiệm ở người bệnh phẫu thuật. Thở máy không xâm lấn chủ yếu là hai mức áp lực qua mặt nạ.",
+    "Tuổi trung vị từ 40 đến 78, 40% là nữ, chỉ số khối cơ thể trung bình 23 đến 30, và khoảng một phần tư có bệnh phổi mạn."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "PICO 3 · Bằng chứng",
+   "title": "Giảm oxy máu quanh đặt ống: NIV và HFNC đều giảm",
+   "ref": "PICO 3 · Evidence summary · Table S8",
+   "head": [
+    "Kết cục",
+    "NIV so với oxy chuẩn",
+    "HFNC so với oxy chuẩn"
+   ],
+   "widths": "1fr 1.2fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Giảm oxy máu</b>",
+      "<em>RR 0,51</em> (0,39–0,65) · cao",
+      "<em>RR 0,69</em> (0,54–0,88) · cao"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Tử vong</b>",
+      "RR 0,94 · thấp",
+      "RR 0,86 · thấp"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Biến cố nặng</b> (hít sặc, ngừng tim, tụt huyết áp)",
+      "<em>RR 0,30</em> (0,12–0,77) · trung bình",
+      "RR 0,95 · thấp"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>NIV so với HFNC</b>",
+      "Giảm oxy máu RR 0,73 (0,55–0,98)",
+      "Trung bình · thành công lần đầu: chưa rõ"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Kết quả chính: so với oxy chuẩn, thở máy không xâm lấn giảm gần một nửa nguy cơ giảm oxy máu quanh đặt ống, nguy cơ tương đối 0,51, và oxy dòng cao giảm với nguy cơ tương đối 0,69, cả hai đều mức chắc chắn cao.",
+    "Tác động trên tử vong ít hoặc không có, với mức chắc chắn thấp.",
+    "Các biến cố nặng như hít sặc, ngừng tim và mất ổn định huyết động có lẽ ít hơn với thở máy không xâm lấn, nguy cơ tương đối 0,30, trong khi oxy dòng cao có thể không khác oxy chuẩn.",
+    "Khi so sánh trực tiếp, thở máy không xâm lấn có lẽ giảm giảm oxy máu hơn oxy dòng cao, nguy cơ tương đối 0,73, chắc chắn trung bình. Tỷ lệ đặt ống thành công lần đầu thì chưa rõ giữa các phương thức. Không có hiệu ứng phân nhóm đáng tin giữa người được và không được dùng thuốc giãn cơ."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "box",
+   "chapter": "PICO 3 · Lập luận",
+   "title": "Vì sao khuyến cáo mạnh dù không giảm tử vong?",
+   "ref": "PICO 3 · Justification",
+   "box": {
+    "tag": "LẬP LUẬN",
+    "t": "Giảm oxy máu quanh đặt ống <b>thường gặp</b> và <b>quan trọng</b> vì liên quan <b>ngừng tim</b> và <b>mất ổn định huyết động</b>. Giảm nhất quán qua các nghiên cứu là lợi ích có ý nghĩa, dù không giảm tử vong hay tăng thành công lần đầu.",
+    "at": 0,
+    "c": "teal",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "PREOXI",
+     "t": "Thử nghiệm lớn nhất: NIV so với oxy chuẩn, bóp bóng",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "HẠN CHẾ",
+     "t": "Loại người đang NIV, chuyển người đang HFNC sang phương thức khác → khác thực tế ICU",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "THỰC TẾ",
+     "t": "Đang dùng HFNC khi quyết định đặt ống: giữ nguyên có thể là thực dụng",
+     "at": 2,
+     "hl": "L2",
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Vì sao là khuyến cáo mạnh, dù không giảm tử vong? Vì giảm oxy máu quanh đặt nội khí quản là biến cố thường gặp và quan trọng, liên quan với ngừng tim và mất ổn định huyết động. Việc giảm nhất quán biến cố này qua các nghiên cứu được xem là lợi ích có ý nghĩa.",
+    "Vì sao không ưu tiên phương thức nào? Thử nghiệm PREOXI, lớn nhất đến nay, so sánh thở máy không xâm lấn với oxy chuẩn hoặc bóp bóng. Nhưng thử nghiệm loại người bệnh đang thở máy không xâm lấn và chuyển người đang dùng oxy dòng cao sang phương thức khác, điều không phản ánh thực tế hồi sức.",
+    "Trên thực tế, oxy dòng cao đang được dùng rộng rãi cho suy hô hấp giảm oxy máu, và giữ nguyên thiết bị này khi đã quyết định đặt ống có thể là cách làm thực dụng."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "timeline",
+   "chapter": "PICO 3 · Triển khai",
+   "title": "Phối hợp và tuần tự: hướng đi mới",
+   "ref": "PICO 3 · Justification · Research priorities",
+   "events": [
+    {
+     "year": "Trước",
+     "t": "NIV tiền oxy hoá",
+     "d": "Huy động phế nang",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "year": "Trong",
+     "t": "HFNC khi soi",
+     "d": "Oxy hoá ngưng thở",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "year": "Sau",
+     "t": "Đánh giá",
+     "d": "Ngừng tim, di chứng thần kinh",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "note": {
+    "t": "Về lý thuyết tối ưu huy động và kéo dài oxy hoá ngưng thở — hiệu quả còn chưa chắc chắn, cần nghiên cứu",
+    "at": 2,
+    "c": "violet"
+   },
+   "lines": [
+    "Hội đồng cũng bàn về chiến lược phối hợp hoặc tuần tự: thở máy không xâm lấn để tiền oxy hoá,",
+    "sau đó tiếp tục oxy dòng cao trong lúc soi thanh quản để duy trì oxy hoá ngưng thở.",
+    "Về lý thuyết, cách này tối ưu huy động phế nang và kéo dài oxy hoá ngưng thở, nhưng hiệu quả còn chưa chắc chắn, và cần nghiên cứu thêm với các kết cục quan trọng như ngừng tim quanh đặt ống và di chứng thần kinh dài hạn."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "list",
+   "chapter": "PICO 3 · Triển khai",
+   "title": "Điều kiện triển khai an toàn",
+   "ref": "PICO 3 · Implementation",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Không trì hoãn đặt ống",
+     "d": "Sắp ngừng thở, huyết động rất bất ổn, không bảo vệ được đường thở → đặt ống ngay",
+     "at": 0,
+     "hl": "L0",
+     "c": "coral"
+    },
+    {
+     "t": "Phù hợp nhất khi",
+     "d": "Có đủ thời gian và ổn định để áp dụng an toàn",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "NIV",
+     "d": "Chọn mặt nạ vừa, chỉnh áp lực",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "HFNC",
+     "d": "Hạ tầng oxy lưu lượng cao, làm ấm làm ẩm",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Máy thở thế hệ mới",
+     "d": "Thở máy xâm lấn, NIV, HFNC trên cùng một máy → chuyển nhanh",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Công bằng tiếp cận",
+     "d": "Quy trình phù hợp bối cảnh, đào tạo, chuẩn bị hạ tầng",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Về triển khai, điều quan trọng nhất: khởi động thở máy không xâm lấn hay oxy dòng cao không được làm chậm việc đặt nội khí quản cần thiết. Khi người bệnh sắp ngừng thở, huyết động rất bất ổn, hoặc không bảo vệ được đường thở, đặt ống ngay là ưu tiên. Tiền oxy hoá không xâm lấn phù hợp nhất khi còn đủ thời gian và ổn định.",
+    "Cả hai phương thức đều cần thiết bị, nguồn oxy và nhân viên được đào tạo để lắp đặt nhanh. Thở máy không xâm lấn cần chọn mặt nạ vừa và chỉnh áp lực; oxy dòng cao cần hạ tầng oxy lưu lượng cao và bộ làm ấm làm ẩm.",
+    "Ở nơi có máy thở hồi sức thế hệ mới cung cấp được thở máy xâm lấn, thở máy không xâm lấn và oxy dòng cao trên cùng một máy, việc chuyển đổi đơn giản hơn nhiều.",
+    "Hội đồng cũng lưu ý về công bằng: khuyến cáo rộng có thể làm tăng chênh lệch nếu thiết bị và nhân lực không đồng đều; cần điều chỉnh quy trình theo bối cảnh và đào tạo nhân viên."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy khi tiền oxy hoá",
+   "ref": "Tổng hợp PICO 3",
+   "box": {
+    "tag": "BẪY",
+    "t": "Mất thời gian lắp NIV hay HFNC khi người bệnh <b>sắp ngừng thở</b> hoặc <b>sốc nặng</b> → trì hoãn đặt ống là sai.",
+    "at": 0,
+    "c": "coral",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Tháo HFNC đang chạy để chuyển sang mặt nạ oxy thường",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Mong đợi giảm tử vong hay tăng thành công lần đầu",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "NIV với mặt nạ hở, không chỉnh áp lực",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Không có quy trình, đào tạo cho tình huống khẩn",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy. Bẫy thứ nhất: mất thời gian lắp thở máy không xâm lấn hay oxy dòng cao khi người bệnh sắp ngừng thở hoặc sốc nặng. Trì hoãn đặt ống trong tình huống này là sai.",
+    "Bẫy thứ hai: tháo oxy dòng cao đang chạy để chuyển sang mặt nạ oxy thường khi chuẩn bị đặt ống.",
+    "Bẫy thứ ba: kỳ vọng tiền oxy hoá không xâm lấn sẽ giảm tử vong hay tăng thành công lần đầu. Lợi ích đã chứng minh là giảm giảm oxy máu và, với thở máy không xâm lấn, giảm biến cố nặng.",
+    "Bẫy thứ tư: dùng thở máy không xâm lấn với mặt nạ hở và không chỉnh áp lực, mất hết lợi ích.",
+    "Bẫy thứ năm: không có quy trình và đào tạo cho tình huống khẩn cấp, khiến việc lắp đặt chậm trễ."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: quyết định đặt ống tại hồi sức",
+   "case": "Nữ 58 tuổi, viêm phổi nặng, đang <b>oxy dòng cao 60 L/phút, FiO₂ 1,0</b>, SpO₂ 90%, thở 36 lần/phút. Huyết áp 110/65 mmHg, tỉnh. Nhóm quyết định đặt nội khí quản, chuẩn bị trong 5–10 phút.",
+   "case_at": 1,
+   "q": "Chiến lược tiền oxy hoá phù hợp?",
+   "q_at": 2,
+   "options": [
+    "Tháo HFNC, bóp bóng qua mặt nạ 3 phút",
+    "Giữ HFNC hoặc chuyển NIV qua mặt nạ để tiền oxy hoá, không làm chậm đặt ống",
+    "Mặt nạ không thở lại 15 L/phút",
+    "Đặt ống ngay, bỏ qua tiền oxy hoá"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "HFNC hoặc NIV qua mặt nạ so với oxy chuẩn: khuyến cáo mạnh (giảm oxy máu RR 0,69 và 0,51). Không có khuyến cáo ưu tiên giữa hai phương thức; giữ HFNC đang chạy là thực dụng. Người bệnh ổn định, có thời gian → không bỏ qua tiền oxy hoá.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nữ 58 tuổi, viêm phổi nặng, đang dùng oxy dòng cao 60 lít mỗi phút với FiO₂ 1,0, SpO₂ 90%, thở 36 lần mỗi phút. Huyết áp 110 trên 65, còn tỉnh. Nhóm điều trị quyết định đặt nội khí quản, chuẩn bị trong 5 đến 10 phút.",
+    "Chiến lược tiền oxy hoá nào phù hợp?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Oxy dòng cao hoặc thở máy không xâm lấn qua mặt nạ là khuyến cáo mạnh so với oxy chuẩn. Hướng dẫn không ưu tiên phương thức nào; giữ nguyên oxy dòng cao đang chạy là thực dụng, còn thở máy không xâm lấn giảm giảm oxy máu nhiều hơn một chút nếu đội ngũ quen dùng. Người bệnh còn ổn định và có thời gian, nên không bỏ qua tiền oxy hoá, nhưng cũng không để việc này làm chậm đặt ống."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: tại khoa cấp cứu",
+   "case": "Nam 45 tuổi, sốc nhiễm khuẩn, <b>huyết áp 70/40 mmHg</b> dù đang truyền noradrenalin, <b>lơ mơ, ứ đọng đờm</b>, thở nấc, SpO₂ 82%.",
+   "case_at": 1,
+   "q": "Xử trí đường thở phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Lắp NIV qua mặt nạ 15 phút để tiền oxy hoá",
+    "Đặt HFNC và chờ cải thiện",
+    "Đặt nội khí quản ngay, tối ưu oxy bằng phương tiện sẵn có mà không trì hoãn",
+    "Chuyển helmet CPAP"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Không bảo vệ được đường thở, sắp ngừng thở, huyết động rất bất ổn → đặt ống ngay là ưu tiên. Tiền oxy hoá không xâm lấn phù hợp khi có đủ thời gian và ổn định; không được làm chậm đặt ống.",
+   "lines": [
+    "Tình huống thứ hai, tại khoa cấp cứu.",
+    "Người bệnh nam 45 tuổi, sốc nhiễm khuẩn, huyết áp 70 trên 40 dù đang truyền noradrenalin, lơ mơ, ứ đọng đờm, thở nấc, SpO₂ 82%.",
+    "Xử trí đường thở nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là đặt nội khí quản ngay. Người bệnh không bảo vệ được đường thở, có dấu hiệu sắp ngừng thở và huyết động rất bất ổn. Trong tình huống này, hướng dẫn nhấn mạnh đặt ống ngay là ưu tiên; tiền oxy hoá không xâm lấn chỉ phù hợp khi có đủ thời gian và ổn định, và tuyệt đối không được làm chậm việc đặt ống."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 3",
+   "title": "Năm thông điệp của Phần 3",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "HFNC hoặc NIV: khuyến cáo mạnh",
+     "d": "Thay oxy chuẩn để tiền oxy hoá",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Giảm giảm oxy máu",
+     "d": "NIV RR 0,51 · HFNC RR 0,69 (chắc chắn cao)",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "NIV giảm biến cố nặng",
+     "d": "RR 0,30 · chưa có khuyến cáo ưu tiên",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Đang HFNC: giữ nguyên hợp lý",
+     "d": "Phối hợp NIV → HFNC: cần nghiên cứu",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Không bao giờ trì hoãn đặt ống",
+     "d": "Sắp ngừng thở, sốc nặng, không bảo vệ đường thở",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần ba, xin tóm tắt những thông điệp chính.",
+    "Oxy dòng cao hoặc thở máy không xâm lấn qua mặt nạ được khuyến cáo mạnh thay cho oxy chuẩn để tiền oxy hoá, giảm rõ giảm oxy máu quanh đặt ống.",
+    "Thở máy không xâm lấn còn giảm các biến cố nặng, nhưng hướng dẫn chưa ưu tiên phương thức nào; người đang dùng oxy dòng cao có thể giữ nguyên.",
+    "Và không bao giờ để tiền oxy hoá làm trì hoãn đặt ống ở người bệnh sắp ngừng thở hay sốc nặng.",
+    "Phần bốn, phần cuối của loạt bài, sẽ bàn về hỗ trợ hô hấp sau rút ống theo phân tầng nguy cơ, cùng sơ đồ tổng kết cho cả bốn tình huống. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
