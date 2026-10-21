@@ -1,0 +1,808 @@
+{
+ "title": "Viêm tụy cấp IAP 2025 – Phần 3: Dinh dưỡng, đường mật, hoại tử",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tiêu hoá – Hồi sức",
+ "part": "Viêm tụy cấp IAP 2025 · Phần 3/5",
+ "source_short": "Nguồn: IAP Revised Guidelines on Acute Pancreatitis 2025 – Pancreatology",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "International Association of Pancreatology Revised Guidelines on Acute Pancreatitis 2025 (IAP/APA/EPC/IPC/JPS). Pancreatology 2025.",
+ "lexicon": {
+  "echinocandin": "ê khi nô can đin",
+  "Pseudomonas": "xu đô mô nát",
+  "APACHE II": "a pa chi hai",
+  "APACHE-II": "a pa chi hai",
+  "WATERFALL": "oa tơ phôn",
+  "Marshall": "Mác san",
+  "IAP/APA": "i a pê, a pê a",
+  "Candida": "can đi đa",
+  "BISAP": "bi sáp",
+  "GRADE": "grết",
+  "NSAID": "en sết",
+  "HAPS": "háp",
+  "PASS": "pát",
+  "CTSI": "xê tê ét i",
+  "PICO": "pi cô",
+  "IL-6": "in tơ lơ kin sáu",
+  "SIRS": "xia",
+  "MRCP": "em a xê pê",
+  "Gram": "gram",
+  "ERCP": "e a xê pê",
+  "IAP": "i a pê",
+  "CRP": "xê rê pê",
+  "MRI": "em a i",
+  "ALT": "a eo tê",
+  "PCA": "pê xê a",
+  "HU": "đơn vị hao phin",
+  "T2": "tê hai",
+  "CT": "xê tê"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "pancreas",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 3/5",
+   "title": "Dinh dưỡng<br>Đường mật · Hoại tử",
+   "subtitle": "Phần 3 · Nuôi ăn, ERCP, điều trị bảo tồn",
+   "badges": [
+    {
+     "t": "Câu 22–35",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Ăn sớm",
+     "c": "green",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Bảo tồn trước",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "IAP Revised Guidelines on Acute Pancreatitis 2025 · lĩnh vực VIII–X",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần ba của loạt bài về Hướng dẫn xử trí viêm tụy cấp năm 2025.",
+    "Hôm nay chúng ta bàn ba chủ đề: hỗ trợ dinh dưỡng, xử trí đường mật với nội soi mật tụy ngược dòng, và điều trị bảo tồn viêm tụy hoại tử.",
+    "Ba thông điệp xuyên suốt: cho ăn sớm, không nội soi mật tụy sớm khi không có viêm đường mật, và bảo tồn trước khi can thiệp."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "box",
+   "chapter": "VIII · Dinh dưỡng · Câu 22",
+   "title": "Ăn đường miệng càng sớm càng tốt",
+   "ref": "Câu 22 · Khuyến cáo mạnh, bằng chứng trung bình",
+   "box": {
+    "tag": "CÂU 22 · KHUYẾN CÁO",
+    "t": "Viêm tụy dự báo nhẹ – trung bình: cho <b>ăn đường miệng sớm nhất có thể</b> khi người bệnh thèm ăn và không nôn. Có thể bắt đầu ngay bằng <b>chế độ đặc thông thường, ít béo</b>.",
+    "at": 0,
+    "c": "green",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "LỢI ÍCH",
+     "t": "Giảm biến chứng, rút ngắn nằm viện, giảm chi phí",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "AN TOÀN",
+     "t": "Không tăng đau tái phát · đặc ít béo an toàn như dịch trong",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "CŨ",
+     "t": "Nhịn ăn chờ hết đau, men về bình thường: không cần",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực tám là dinh dưỡng. Câu hỏi hai mươi hai, khuyến cáo mạnh, bằng chứng trung bình: ở viêm tụy dự báo nhẹ đến trung bình, cho ăn đường miệng càng sớm càng tốt khi người bệnh thèm ăn và không nôn. Có thể bắt đầu ngay bằng chế độ ăn đặc thông thường, ít béo.",
+    "Năm phân tích gộp cho thấy cho ăn sớm không làm tăng đau tái phát, giảm biến chứng và rút ngắn rõ thời gian nằm viện. Cho ăn kết hợp giảm đau opioid còn cải thiện hiệu quả điều trị, và giảm chi phí.",
+    "Về loại thức ăn, chế độ mềm hoặc đặc, ít béo, ít năng lượng an toàn tương đương chế độ dịch trong, mà rút ngắn nằm viện.",
+    "Nói cách khác, không cần nhịn ăn chờ hết đau hay chờ men tụy về bình thường. Người bệnh thèm ăn và hết nôn là cho ăn."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "VIII · Dinh dưỡng · Câu 23–24",
+   "title": "Không ăn được: nuôi qua sonde sớm",
+   "ref": "Câu 23–24 · Khuyến cáo mạnh, bằng chứng cao",
+   "head": [
+    "Câu hỏi",
+    "Khuyến cáo",
+    "Bằng chứng"
+   ],
+   "widths": "0.8fr 1.4fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Câu 23</b> · thời điểm",
+      "Nuôi ăn qua sonde <em>sớm, tốt nhất trong 72 giờ</em> nếu không dung nạp đường miệng",
+      "Trong 24 giờ: kết cục gộp (tử vong, nhiễm hoại tử, suy tạng) 45% → 19%"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Phân tích gộp 17 NC</b>",
+      "Nuôi qua sonde trước 48 giờ",
+      "Giảm tử vong 3,9 lần, giảm nhiễm khuẩn huyết, ngắn nằm viện"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>RCT dự báo nặng</b>",
+      "Sonde sớm so với ăn đường miệng sau 72 giờ",
+      "Không khác nhiễm trùng, tử vong · <em>69% tự ăn được</em>"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Câu 24</b> · chỉ định sonde",
+      "Dự báo nặng hoặc hoại tử + ăn đường miệng không đủ trong 72 giờ",
+      "Chỉ ≈ 31% thực sự cần sonde"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Câu hỏi hai mươi ba, khuyến cáo mạnh, bằng chứng cao: nếu người bệnh không dung nạp đường miệng, cho ăn qua sonde sớm, tốt nhất trong 72 giờ đầu. Phân tích gộp 8 thử nghiệm cho thấy nuôi ăn trong 24 giờ đầu giảm kết cục gộp gồm tử vong, nhiễm trùng hoại tử và suy tạng từ 45% xuống 19%.",
+    "Phân tích gộp mới nhất 17 nghiên cứu cho thấy nuôi ăn qua sonde trước 48 giờ giảm tử vong 3,9 lần, giảm nhiễm khuẩn huyết và thời gian nằm viện.",
+    "Tuy vậy, một thử nghiệm đa trung tâm ở viêm tụy dự báo nặng không thấy sonde sớm hơn so với cho ăn đường miệng sau 72 giờ; và 69% người bệnh ở nhóm theo nhu cầu tự ăn được, không cần sonde.",
+    "Vì vậy câu hỏi hai mươi bốn, cũng khuyến cáo mạnh, bằng chứng cao: ở viêm tụy dự báo nặng hoặc viêm tụy hoại tử, nếu ăn đường miệng không đủ trong 72 giờ đầu, chỉ định nuôi ăn qua sonde. Thực tế chỉ khoảng một phần ba người bệnh cần đến sonde."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "VIII · Dinh dưỡng · Câu 25–26",
+   "title": "Công thức và đường đặt sonde",
+   "ref": "Câu 25 · Có điều kiện, trung bình · Câu 26 · Mạnh, cao",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "CÂU 25 · CÔNG THỨC",
+     "t": "Polymeric (chuẩn)",
+     "d": "An toàn như bán nguyên tố, nguyên tố mà rẻ hơn",
+     "items": [
+      "Chất xơ: lợi ích chưa rõ",
+      "Dinh dưỡng miễn dịch, omega-3: chưa khuyến cáo"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CÂU 26 · ĐƯỜNG",
+     "t": "Dạ dày hoặc hỗng tràng",
+     "d": "6 phân tích gộp: tương đương về nhiễm trùng, suy tạng, tử vong",
+     "items": [
+      "Sonde dạ dày dễ đặt hơn"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "NGOẠI LỆ",
+     "t": "Không dung nạp dạ dày",
+     "d": "Nôn, liệt dạ dày",
+     "items": [
+      "→ Chuyển sang sonde hỗng tràng"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Câu hỏi hai mươi lăm, khuyến cáo có điều kiện: dùng công thức polymeric, tức công thức chuẩn. Ba phân tích gộp không thấy lợi ích của công thức bán nguyên tố hay nguyên tố, vốn đắt hơn. Lợi ích của chất xơ chưa rõ, và dinh dưỡng miễn dịch hay omega-3 chưa đủ bằng chứng để khuyến cáo.",
+    "Câu hỏi hai mươi sáu, khuyến cáo mạnh, bằng chứng cao: có thể nuôi qua sonde dạ dày hoặc sonde hỗng tràng. Sáu phân tích gộp cho thấy hai đường tương đương về nhiễm trùng, suy tạng và tử vong, và sonde dạ dày dễ đặt hơn nhiều.",
+    "Ngoại lệ là người bệnh không dung nạp sonde dạ dày do nôn hay liệt dạ dày; khi đó chuyển sang sonde hỗng tràng."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "VIII · Dinh dưỡng · Câu 27",
+   "title": "Nuôi ăn tĩnh mạch: chỉ khi đường ruột thất bại",
+   "ref": "Câu 27 · Khuyến cáo mạnh, bằng chứng trung bình",
+   "head": [
+    "",
+    "Nuôi ăn đường ruột",
+    "Nuôi ăn tĩnh mạch"
+   ],
+   "widths": "0.8fr 1.3fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Tác động</b>",
+      "Giữ hàng rào ruột; giảm suy tạng, nhiễm hoại tử, nằm viện, tử vong",
+      "Nhiễm trùng catheter, rối loạn chuyển hoá, tăng đường huyết, teo ruột, vi khuẩn phát triển quá mức"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Chỉ định</b>",
+      "Lựa chọn đầu tay ở mọi mức độ nặng",
+      "Khi đường miệng và sonde <em>không đạt mục tiêu</em>"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Chống chỉ định đường ruột</b>",
+      "—",
+      "Tắc ruột · hội chứng khoang bụng · liệt ruột kéo dài · thiếu máu mạc treo"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Thời điểm</b>",
+      "—",
+      "Thường <em>không cần trong tuần đầu</em>; mục tiêu năng lượng, đạm như bệnh nhân hồi sức"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Nhiều thử nghiệm và ba phân tích gộp cho thấy nuôi ăn đường ruột vượt trội nuôi ăn tĩnh mạch ở mọi mức độ nặng. Đường ruột giữ toàn vẹn hàng rào ruột, giảm suy tạng, nhiễm trùng hoại tử, thời gian nằm viện và tử vong; còn nuôi tĩnh mạch đi kèm nhiễm trùng catheter, rối loạn chuyển hoá và điện giải, tăng đường huyết, teo ruột và vi khuẩn phát triển quá mức.",
+    "Câu hỏi hai mươi bảy, khuyến cáo mạnh, bằng chứng trung bình: chỉ nuôi ăn tĩnh mạch khi đường miệng và sonde không đạt được mục tiêu dinh dưỡng.",
+    "Hoặc khi có chống chỉ định nuôi ăn đường ruột do biến chứng của viêm tụy nặng: tắc ruột, hội chứng khoang bụng, liệt ruột kéo dài và thiếu máu mạc treo.",
+    "Vì người bệnh được khuyến khích ăn đường miệng hoặc qua sonde, thường không cần bắt đầu nuôi tĩnh mạch trong tuần đầu. Mục tiêu năng lượng và đạm có thể theo khuyến cáo chung cho bệnh nhân hồi sức."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "IX · Đường mật · Câu 28",
+   "title": "ERCP sớm trong viêm tụy do sỏi mật",
+   "ref": "Câu 28",
+   "head": [
+    "Bệnh cảnh",
+    "ERCP + cắt cơ vòng sớm (≤ 72 giờ)",
+    "Mức khuyến cáo"
+   ],
+   "widths": "1.3fr 1.1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "Dự báo <b>nhẹ</b>, không viêm đường mật",
+      "<em>Không</em>",
+      "Mạnh · bằng chứng cao"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Dự báo <b>nặng</b>, không viêm đường mật",
+      "<em>Không</em>",
+      "Mạnh · bằng chứng trung bình"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Có <b>viêm đường mật cấp</b>",
+      "<em>Có</em>",
+      "Mạnh · bằng chứng cao"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Không cắt được túi mật trong cùng đợt nằm viện",
+      "ERCP + cắt cơ vòng để phòng tái phát",
+      "Có điều kiện · thấp"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực chín là xử trí đường mật. Câu hỏi hai mươi tám có bốn khuyến cáo. Một, không nội soi mật tụy ngược dòng kèm cắt cơ vòng sớm trong 72 giờ ở viêm tụy do sỏi mật dự báo nhẹ không có viêm đường mật, khuyến cáo mạnh, bằng chứng cao.",
+    "Hai, cũng không làm sớm ở viêm tụy dự báo nặng mà không có viêm đường mật, khuyến cáo mạnh, bằng chứng trung bình. Đây là điểm nhiều người còn nhầm: viêm tụy nặng không phải chỉ định của nội soi mật tụy sớm.",
+    "Ba, có làm sớm khi có viêm đường mật cấp, khuyến cáo mạnh, bằng chứng cao.",
+    "Bốn, nếu không thể cắt túi mật trong cùng đợt nằm viện, có thể nội soi mật tụy và cắt cơ vòng để phòng tái phát, khuyến cáo có điều kiện."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "IX · Đường mật · Bằng chứng",
+   "title": "Vì sao không ERCP sớm khi không viêm đường mật?",
+   "ref": "Câu 28 · Bình luận",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "ĐỊNH NGHĨA",
+     "t": "Sớm = 24–72 giờ",
+     "d": "Mục tiêu: lấy sỏi, giải áp đường mật, đặt stent",
+     "items": [
+      "Không giảm tử vong, suy tạng hay hoại tử"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "RCT KHẨN < 24 GIỜ",
+     "t": "Không cải thiện kết cục",
+     "d": "Viêm đường mật: 2% so với 10%",
+     "items": [
+      "Nhưng 41% nhóm bảo tồn vẫn phải ERCP trong cùng đợt"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CHIẾN LƯỢC EUS",
+     "t": "Chọn người có sỏi ống mật",
+     "d": "Cũng không có lợi nếu không viêm đường mật",
+     "items": [
+      "SIRS làm khó chẩn đoán viêm đường mật kèm theo"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Nội soi mật tụy sớm được định nghĩa là trong 24 đến 72 giờ. Mục tiêu điều trị là cắt cơ vòng lấy sỏi, giải áp đường mật khi viêm đường mật, và đặt stent khi tắc mật. Các thử nghiệm ở người không viêm đường mật không thấy lợi ích về tử vong, suy tạng hay hoại tử tụy.",
+    "Một thử nghiệm làm khẩn trong 24 giờ cũng không cải thiện kết cục, dù giảm viêm đường mật từ 10% xuống 2%. Cần lưu ý 41% nhóm bảo tồn vẫn phải làm nội soi mật tụy trong cùng đợt nằm viện.",
+    "Chiến lược dùng siêu âm nội soi để chọn người có sỏi ống mật rồi mới làm khẩn cũng không có lợi khi không có viêm đường mật. Thách thức thực hành là khi có hội chứng đáp ứng viêm toàn thân, chẩn đoán viêm đường mật kèm theo không dễ."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "box",
+   "chapter": "IX · Đường mật · Câu 29",
+   "title": "Sỏi ống mật chủ không viêm đường mật",
+   "ref": "Câu 29 · Khuyến cáo mạnh, bằng chứng cao",
+   "box": {
+    "tag": "CÂU 29 · KHUYẾN CÁO",
+    "t": "<b>ERCP chương trình</b> khi thấy sỏi ống mật chủ trên hình ảnh như <b>siêu âm nội soi</b> hoặc <b>MRCP</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "ĐỘ NHẠY KÉM",
+     "t": "Men gan, siêu âm bụng, CT để xác định sỏi ống mật",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "NGUY CƠ TRUNG GIAN",
+     "t": "MRCP, siêu âm nội soi hoặc chụp mật trong mổ trước cắt túi mật",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "PEARL",
+     "t": "Có sỏi ống mật đơn thuần ≠ chỉ định ERCP sớm",
+     "at": 2,
+     "hl": "L2",
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Câu hỏi hai mươi chín, khuyến cáo mạnh, bằng chứng cao: nội soi mật tụy ngược dòng theo chương trình khi phát hiện sỏi ống mật chủ trên siêu âm nội soi hoặc cộng hưởng từ mật tụy.",
+    "Men gan, siêu âm bụng và CT có độ nhạy kém để xác định sỏi ống mật chủ. Người bệnh viêm tụy do sỏi có nguy cơ sỏi ống mật ít nhất ở mức trung gian, nên cần thêm cộng hưởng từ mật tụy, siêu âm nội soi hoặc chụp mật trong mổ trước khi cắt túi mật, trừ khi siêu âm hay CT đã thấy sỏi rõ ràng.",
+    "Và xin nhấn mạnh: có sỏi ống mật chủ đơn thuần, không có viêm đường mật, không phải là chỉ định nội soi mật tụy sớm."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "X · Hoại tử · Câu 30",
+   "title": "Hoại tử vô khuẩn: điều trị bảo tồn",
+   "ref": "Câu 30 · Khuyến cáo mạnh, bằng chứng thấp",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "NỀN TẢNG",
+     "t": "Bảo tồn, nâng đỡ",
+     "d": "Đến 80% hoại tử vẫn vô khuẩn",
+     "items": [
+      "Giảm đau, dinh dưỡng, hồi sức khi có rối loạn tạng",
+      "Phẫu thuật hoại tử vô khuẩn: tử vong cao"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KHÔNG HIỆU QUẢ",
+     "t": "Thuốc ức chế",
+     "d": "Somatostatin, octreotide, gabexate mesilate",
+     "items": [
+      "Kể cả truyền động mạch vùng",
+      "Hình ảnh sớm không dự báo diễn tiến"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "TUẦN 2–4",
+     "t": "Canh nhiễm trùng",
+     "d": "Ba yếu tố thuận lợi",
+     "items": [
+      "Mô hoại tử là môi trường vi khuẩn phát triển",
+      "Tăng tính thấm ruột",
+      "Ức chế miễn dịch tương đối (CARS)"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Lĩnh vực mười là điều trị bảo tồn viêm tụy hoại tử. Câu hỏi ba mươi, khuyến cáo mạnh: hoại tử vô khuẩn giai đoạn sớm được điều trị bảo tồn. Phần lớn, tới 80%, hoại tử vẫn vô khuẩn. Nền tảng điều trị là giảm đau, dinh dưỡng và hồi sức cho người có rối loạn tạng. Các nghiên cứu cũ về phẫu thuật hoại tử vô khuẩn cho thấy tử vong cao, và ổ hoại tử sớm chưa được bao bọc nên không dẫn lưu hiệu quả.",
+    "Các thuốc chống tiết và ức chế protease như somatostatin, octreotide và gabexate mesilate chưa được chứng minh có ích, kể cả truyền động mạch vùng liên tục. Hình ảnh học giai đoạn sớm cũng không tương quan với lâm sàng hay dự báo diễn tiến.",
+    "Tuần thứ hai đến thứ tư là giai đoạn theo dõi sát biến chứng, chủ yếu là nhiễm trùng ổ hoại tử. Ba yếu tố thuận lợi: mô hoại tử là môi trường tốt cho vi khuẩn, tăng tính thấm ruột, và tình trạng ức chế miễn dịch tương đối do hội chứng đáp ứng kháng viêm bù trừ."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "list",
+   "chapter": "X · Hoại tử · Câu 31",
+   "title": "Chẩn đoán hoại tử nhiễm trùng",
+   "ref": "Câu 31 · Khuyến cáo mạnh, bằng chứng thấp",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Phối hợp lâm sàng + huyết thanh + hình ảnh",
+     "d": "Không chọc hút kim nhỏ (FNA) thường quy",
+     "at": 0,
+     "hl": "L0",
+     "c": "amber"
+    },
+    {
+     "t": "Khi nào nghi?",
+     "d": "Không cải thiện sau 7–10 ngày: xấu đi, sốt mới, bạch cầu tăng, procalcitonin tăng, nhiễm khuẩn huyết",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Vì sao không FNA thường quy?",
+     "d": "Âm tính giả 20–29% · dương tính giả 4–10% · nguy cơ đưa vi khuẩn vào",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "FNA chọn lọc",
+     "d": "Không đáp ứng kháng sinh phổ rộng, nghi vi khuẩn đa kháng hoặc nấm",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Khí trong ổ hoại tử",
+     "d": "Đặc hiệu cao, độ nhạy trung bình (rò ống tiêu hoá hoặc vi khuẩn sinh hơi)",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Procalcitonin ≥ 3,5 ng/ml",
+     "d": "Nhạy 90%, đặc hiệu 89% · loại trừ nhiễm trùng ngoài tụy (tới 20%)",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Câu hỏi ba mươi mốt, khuyến cáo mạnh, bằng chứng thấp: chẩn đoán viêm tụy hoại tử nhiễm trùng dựa trên phối hợp lâm sàng, huyết thanh và hình ảnh. Không chọc hút bằng kim nhỏ thường quy để khẳng định nhiễm trùng.",
+    "Nghi ngờ nhiễm trùng khi người bệnh có hoại tử không cải thiện sau 7 đến 10 ngày: lâm sàng xấu đi, sốt mới xuất hiện, bạch cầu tăng, procalcitonin tăng hoặc có dấu hiệu nhiễm khuẩn huyết.",
+    "Chọc hút kim nhỏ và cấy là tiêu chuẩn vàng, nhưng có âm tính giả 20 đến 29%, dương tính giả 4 đến 10%, và nguy cơ đưa vi khuẩn vào ổ hoại tử. Chỉ cân nhắc khi không đáp ứng kháng sinh phổ rộng, nghi vi khuẩn đa kháng hoặc nấm, hoặc khi lâm sàng không rõ mà hình ảnh không gợi ý.",
+    "Bóng khí trong ổ hoại tử gợi ý nhiễm trùng với độ đặc hiệu cao nhưng độ nhạy trung bình. Procalcitonin ngưỡng 3,5 nanogam mỗi mililít có độ nhạy 90% và đặc hiệu 89%. Nhưng nhớ rằng tới 20% người bệnh có nhiễm trùng ngoài tụy như nhiễm khuẩn huyết, viêm phổi, nhiễm trùng catheter hay tiết niệu, cần loại trừ trước khi quy cho ổ hoại tử."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "box",
+   "chapter": "X · Hoại tử · Câu 32",
+   "title": "Hoại tử nhiễm trùng: “bảo tồn trước”",
+   "ref": "Câu 32 · Khuyến cáo mạnh, bằng chứng thấp",
+   "box": {
+    "tag": "CÂU 32 · KHUYẾN CÁO",
+    "t": "Điều trị ban đầu là <b>nội khoa “bảo tồn trước”</b>: <b>kháng sinh phổ rộng đường tĩnh mạch</b> và <b>dinh dưỡng tối ưu</b>, chờ ổ hoại tử được bao bọc (thường > 3–4 tuần).",
+    "at": 0,
+    "c": "amber",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "HIỆU QUẢ",
+     "t": "Khoảng 2/3 thành công, tử vong thấp, tránh được cắt lọc",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "RCT DẪN LƯU",
+     "t": "Ngay < 24 giờ so với hoãn > 4 tuần: kết cục chính tương đương",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "NHÓM HOÃN",
+     "t": "Cắt lọc 22% (so với 51%) · <em>39% chỉ cần kháng sinh</em>",
+     "at": 3,
+     "hl": "L3",
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Câu hỏi ba mươi hai, khuyến cáo mạnh: điều trị ban đầu của hoại tử nhiễm trùng là nội khoa, theo nguyên tắc bảo tồn trước, gồm kháng sinh phổ rộng đường tĩnh mạch và dinh dưỡng tối ưu. Điều trị bảo tồn được duy trì cho đến khi ổ hoại tử được bao bọc, thường sau 3 đến 4 tuần, khi đó mới dẫn lưu nếu cần.",
+    "Chiến lược gồm hồi sức, kháng sinh phối hợp và dinh dưỡng, có hoặc không dẫn lưu dịch nhiễm trùng, thành công ở khoảng hai phần ba người bệnh nghi nhiễm trùng hoại tử, với tử vong thấp và tránh được phẫu thuật cắt lọc.",
+    "Một thử nghiệm ngẫu nhiên gần đây so sánh dẫn lưu ngay trong 24 giờ sau chẩn đoán với hoãn dẫn lưu trên 4 tuần, cho thấy kết cục chính tương đương, nhưng nhóm dẫn lưu sớm cần nhiều thủ thuật hơn.",
+    "Cắt lọc hoại tử cần ở 51% nhóm sớm so với 22% nhóm hoãn. Quan trọng hơn, 39% người bệnh nhóm hoãn khỏi chỉ với kháng sinh, không cần dẫn lưu hay cắt lọc."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "X · Hoại tử · Câu 33–34",
+   "title": "Kháng sinh và kháng nấm trong hoại tử nhiễm trùng",
+   "ref": "Câu 33 · Thực hành tốt · Câu 34 · Có điều kiện, thấp",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "CÂU 33 · KHÁNG SINH",
+     "t": "Phổ rộng, càng sớm càng tốt",
+     "d": "Theo Surviving Sepsis",
+     "items": [
+      "Cephalosporin thế hệ 3–4, carbapenem, ureidopenicillin, quinolon: thấm tốt vào tụy",
+      "Theo vi sinh địa phương; chỉnh theo kháng sinh đồ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "ĐƠN HAY PHỐI HỢP",
+     "t": "Thường một kháng sinh",
+     "d": "Thêm thuốc thứ hai nếu nghi Pseudomonas",
+     "items": [
+      "Procalcitonin hướng dẫn: cần thêm bằng chứng ở thể nặng"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CÂU 34 · KHÁNG NẤM",
+     "t": "Không dự phòng, không kinh nghiệm",
+     "d": "Nấm 26,6%, tử vong tăng (OR 3,95)",
+     "items": [
+      "Phân biệt khúm nấm với nhiễm nấm xâm lấn",
+      "Cân nhắc khi bệnh nặng thất bại kháng sinh + can thiệp: echinocandin"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Câu hỏi ba mươi ba, tuyên bố thực hành tốt: khi nghi hoại tử nhiễm trùng, dùng kháng sinh phổ rộng càng sớm càng tốt, theo tinh thần chiến dịch Surviving Sepsis. Các nhóm cephalosporin thế hệ ba và bốn, carbapenem, ureidopenicillin và quinolon có hiệu quả với vi khuẩn đường ruột và thấm tốt vào tụy. Chọn theo dữ liệu vi sinh địa phương, và chỉnh theo kháng sinh đồ khi có kết quả cấy.",
+    "Thường dùng một kháng sinh phổ rộng, trừ khi nghi ngờ Pseudomonas thì thêm thuốc thứ hai. Kháng sinh theo procalcitonin còn cần thêm bằng chứng ở viêm tụy trung bình nặng và nặng.",
+    "Câu hỏi ba mươi bốn, khuyến cáo có điều kiện: không dùng kháng nấm dự phòng hay theo kinh nghiệm. Nhiễm nấm gặp ở 26,6% người bệnh viêm tụy hoại tử, và làm tăng tử vong gần 4 lần; nhưng cần phân biệt khúm nấm, thường gặp khi dẫn lưu kéo dài, với nhiễm nấm xâm lấn. Kháng nấm có thể cân nhắc ở bệnh nhân nặng thất bại với kháng sinh và can thiệp, khi đó ưu tiên echinocandin. Kháng nấm dự phòng làm xuất hiện chủng kháng thuốc."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "box",
+   "chapter": "X · Hoại tử · Câu 35",
+   "title": "Thế nào là thất bại điều trị bảo tồn?",
+   "ref": "Câu 35 · Tuyên bố thực hành tốt",
+   "box": {
+    "tag": "CÂU 35 · ĐỊNH NGHĨA",
+    "t": "Dù đã dùng kháng sinh phổ rộng hoặc theo đích và điều trị nâng đỡ, người bệnh <b>không cải thiện</b> (sốt, bạch cầu tăng kéo dài) hoặc <b>xấu đi, xuất hiện nhiễm khuẩn huyết</b>.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "ỔN ĐỊNH",
+     "t": "Tiếp tục kháng sinh, hoãn can thiệp ít nhất 4 tuần nếu được",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "THEO DÕI",
+     "t": "Nhiệt độ, bạch cầu, CRP hoặc procalcitonin, chức năng tạng",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "NÂNG BẬC",
+     "t": "Dẫn lưu → cắt lọc, dựa trên lâm sàng và CT (Phần 4)",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Câu hỏi ba mươi lăm, tuyên bố thực hành tốt: thất bại điều trị nội khoa bảo tồn được định nghĩa khi, dù đã dùng kháng sinh phổ rộng hoặc theo đích cùng điều trị nâng đỡ, người bệnh không cải thiện với sốt và bạch cầu tăng kéo dài, hoặc xấu đi với nhiễm khuẩn huyết.",
+    "Ở người bệnh ổn định, tiếp tục kháng sinh và hoãn can thiệp ít nhất 4 tuần nếu có thể. Một số người bệnh xấu đi nhanh với suy đa tạng tiến triển, và tử vong cao dù có can thiệp.",
+    "Hiện chưa có dấu ấn hình ảnh hay huyết thanh nào dự báo thất bại, nên cần theo dõi sát nhiệt độ, bạch cầu, CRP hoặc procalcitonin, và chức năng các tạng.",
+    "Khi xấu đi dù đã điều trị bảo tồn tối đa, quyết định nâng bậc sang dẫn lưu và cắt lọc dựa trên lâm sàng và đánh giá CT xem ổ nhiễm có tiếp cận được không. Đó là nội dung của phần bốn."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy của phần dinh dưỡng – đường mật – hoại tử",
+   "ref": "Tổng hợp Câu 22–35",
+   "box": {
+    "tag": "BẪY",
+    "t": "“Viêm tụy nặng do sỏi → nội soi mật tụy cấp cứu” → <b>không có lợi</b> nếu không có viêm đường mật.",
+    "at": 0,
+    "c": "coral",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Nhịn ăn chờ hết đau và men về bình thường",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Nuôi tĩnh mạch ngay tuần đầu “cho ruột nghỉ”",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Chọc hút kim nhỏ thường quy ổ hoại tử",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Mổ cắt lọc sớm khi ổ chưa bao bọc",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy của phần này. Bẫy thứ nhất: viêm tụy nặng do sỏi thì nội soi mật tụy cấp cứu. Không có lợi nếu không có viêm đường mật.",
+    "Bẫy thứ hai: nhịn ăn chờ hết đau và chờ men tụy về bình thường. Thèm ăn và hết nôn là cho ăn.",
+    "Bẫy thứ ba: nuôi tĩnh mạch ngay tuần đầu để cho ruột nghỉ. Ngược lại, đường ruột mới bảo vệ hàng rào ruột.",
+    "Bẫy thứ tư: chọc hút kim nhỏ thường quy ổ hoại tử, vừa âm tính giả nhiều, vừa có nguy cơ gây nhiễm.",
+    "Bẫy thứ năm: can thiệp cắt lọc sớm khi ổ hoại tử chưa bao bọc. Bảo tồn trước, và gần 40% khỏi chỉ với kháng sinh."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: viêm tụy nặng do sỏi",
+   "case": "Nữ 65 tuổi, viêm tụy cấp do sỏi túi mật, <b>SIRS kéo dài 48 giờ</b>, suy thận độ 1. <b>Không sốt, không vàng da, bilirubin bình thường</b>. Siêu âm: ống mật chủ 6 mm, không thấy sỏi. Đồng nghiệp đề nghị ERCP cấp cứu “vì viêm tụy nặng”.",
+   "case_at": 1,
+   "q": "Xử trí đường mật phù hợp theo IAP 2025?",
+   "q_at": 2,
+   "options": [
+    "ERCP trong 24 giờ vì viêm tụy nặng",
+    "ERCP trong 72 giờ để phòng hoại tử",
+    "Không ERCP sớm; nếu nghi sỏi ống mật → MRCP hoặc siêu âm nội soi, ERCP chương trình khi thấy sỏi",
+    "Cắt túi mật cấp cứu ngay"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Viêm tụy do sỏi dự báo nặng không viêm đường mật: không ERCP sớm (mạnh, bằng chứng trung bình). Sỏi ống mật chủ xác định trên siêu âm nội soi/MRCP → ERCP chương trình (Câu 29). ERCP sớm chỉ khi có viêm đường mật cấp.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nữ 65 tuổi, viêm tụy cấp do sỏi túi mật, hội chứng đáp ứng viêm toàn thân kéo dài 48 giờ, suy thận độ một. Không sốt, không vàng da, bilirubin bình thường. Siêu âm thấy ống mật chủ 6 milimét, không thấy sỏi. Một đồng nghiệp đề nghị nội soi mật tụy ngược dòng cấp cứu vì viêm tụy nặng.",
+    "Xử trí đường mật nào phù hợp?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án ba. Viêm tụy do sỏi dự báo nặng mà không có viêm đường mật thì không nội soi mật tụy sớm, khuyến cáo mạnh. Nếu nghi sỏi ống mật chủ, làm cộng hưởng từ mật tụy hoặc siêu âm nội soi, và khi thấy sỏi thì nội soi mật tụy theo chương trình. Nội soi sớm chỉ dành cho người có viêm đường mật cấp."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: ngày 14 tại hồi sức",
+   "case": "Nam 48 tuổi, viêm tụy hoại tử do rượu, <b>ngày 14</b>. Sốt 39 °C mới xuất hiện, procalcitonin 4,2 ng/ml. CT: ổ hoại tử 10 cm <b>có bóng khí</b>, <b>chưa có thành bao bọc rõ</b>. Huyết động ổn, không cần vận mạch.",
+   "case_at": 1,
+   "q": "Bước xử trí tiếp theo phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Mổ mở cắt lọc hoại tử ngay",
+    "Chọc hút kim nhỏ ổ hoại tử trước khi quyết định",
+    "Kháng sinh phổ rộng + dinh dưỡng, theo dõi sát, hoãn can thiệp đến khi ổ được bao bọc",
+    "Thêm kháng nấm kinh nghiệm"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Khí trong ổ hoại tử + sốt + PCT cao → nghi mạnh nhiễm trùng, không cần FNA. “Bảo tồn trước” (Câu 32): kháng sinh phổ rộng, dinh dưỡng, chờ bao bọc (~4 tuần) khi người bệnh ổn định. Không kháng nấm kinh nghiệm (Câu 34).",
+   "lines": [
+    "Tình huống thứ hai, tại khoa hồi sức.",
+    "Người bệnh nam 48 tuổi, viêm tụy hoại tử do rượu, ngày thứ 14. Sốt 39 độ mới xuất hiện, procalcitonin 4,2 nanogam mỗi mililít. CT thấy ổ hoại tử 10 centimét có bóng khí, chưa có thành bao bọc rõ. Huyết động ổn, không cần vận mạch.",
+    "Bước xử trí tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án ba. Bóng khí trong ổ hoại tử cùng sốt và procalcitonin cao là nghi ngờ mạnh nhiễm trùng, không cần chọc hút kim nhỏ. Theo nguyên tắc bảo tồn trước, dùng kháng sinh phổ rộng, tối ưu dinh dưỡng, theo dõi sát và hoãn can thiệp đến khi ổ được bao bọc, khoảng 4 tuần, vì người bệnh đang ổn định. Mổ mở cắt lọc sớm có tử vong cao, và kháng nấm kinh nghiệm không được khuyến cáo."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 3",
+   "title": "Sáu thông điệp của Phần 3",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Ăn đường miệng sớm",
+     "d": "Thèm ăn, hết nôn · đặc ít béo",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "t": "Không ăn được: sonde trong 72 giờ",
+     "d": "Dạ dày hoặc hỗng tràng · công thức chuẩn",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Tĩnh mạch: chỉ khi đường ruột thất bại",
+     "d": "Thường không cần tuần đầu",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "ERCP sớm chỉ khi viêm đường mật",
+     "d": "Sỏi ống mật chủ → ERCP chương trình",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Hoại tử vô khuẩn: bảo tồn",
+     "d": "Không kháng sinh, không mổ",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Hoại tử nhiễm trùng: bảo tồn trước",
+     "d": "Không FNA thường quy · kháng sinh phổ rộng · chờ bao bọc",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần ba, xin tóm tắt những thông điệp chính.",
+    "Cho ăn đường miệng sớm khi người bệnh thèm ăn và hết nôn. Nếu không ăn được, nuôi qua sonde dạ dày hoặc hỗng tràng trong 72 giờ đầu, bằng công thức chuẩn.",
+    "Nuôi tĩnh mạch chỉ khi đường ruột thất bại. Nội soi mật tụy sớm chỉ khi có viêm đường mật; sỏi ống mật chủ đơn thuần thì làm theo chương trình.",
+    "Hoại tử vô khuẩn điều trị bảo tồn. Hoại tử nhiễm trùng được chẩn đoán bằng phối hợp lâm sàng, huyết thanh và hình ảnh, điều trị bảo tồn trước với kháng sinh phổ rộng và chờ ổ được bao bọc.",
+    "Phần bốn sẽ bàn về can thiệp: chỉ định, thời điểm, chiến lược step-up, stent kim loại, cắt lọc qua nội soi, cùng các biến chứng như tăng áp lực ổ bụng, chảy máu và huyết khối tĩnh mạch tạng. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
