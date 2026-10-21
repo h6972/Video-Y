@@ -1,0 +1,811 @@
+{
+ "title": "Surviving Sepsis Campaign 2026 – Phần 2: Kháng sinh và kiểm soát ổ nhiễm",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức cấp cứu",
+ "part": "Surviving Sepsis Campaign 2026 · Phần 2/5",
+ "source_short": "Nguồn: Surviving Sepsis Campaign – International Guidelines for Management of Sepsis and Septic Shock 2026",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026.",
+ "lexicon": {
+  "ADAPT-Sepsis": "a đáp sép xít",
+  "IntelliSep": "in te li sép",
+  "SeptiCyte": "sép ti xai",
+  "TriVerity": "trai ve ri ti",
+  "BLING III": "bơ linh ba",
+  "EMPIRICUS": "em pi ri cút",
+  "Sepsis-3": "sép xít ba",
+  "CLOVERS": "clô vơ",
+  "SuDDICU": "xu đi cu",
+  "BALANCE": "ba lăng",
+  "SCREEN": "xờ crin",
+  "SSSP-2": "ét ét ét pê hai",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "ESCMID": "e ét xê em i đê",
+  "qSOFA": "quick sô pha",
+  "NEWS2": "niu hai",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "PK/PD": "dược động học, dược lực học",
+  "SOFA": "sô pha",
+  "NEWS": "niu",
+  "MEWS": "miu",
+  "SIRS": "xia",
+  "LMIC": "nước thu nhập thấp và trung bình",
+  "IDSA": "i đê ét a",
+  "MRSA": "em a ét a",
+  "ESBL": "e ét bê eo",
+  "ICU": "hồi sức",
+  "MDW": "em đê đắp liu",
+  "CRE": "xê a e",
+  "MDR": "đa kháng",
+  "SDD": "khử khuẩn chọn lọc đường tiêu hoá",
+  "TDM": "theo dõi nồng độ thuốc"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "sepsis",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 2/5",
+   "title": "Kháng sinh &<br>kiểm soát ổ nhiễm",
+   "subtitle": "Phần 2 · Đúng lúc, đúng phổ, đúng cách, đúng lúc dừng",
+   "badges": [
+    {
+     "t": "KC 16–41",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "≤ 1 giờ · ≤ 3 giờ",
+     "c": "coral",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Truyền kéo dài",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "Surviving Sepsis Campaign 2026 · nhóm khuyến cáo Nhiễm trùng",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần hai của loạt bài về Hướng dẫn Surviving Sepsis Campaign 2026.",
+    "Phần này bàn về nhóm khuyến cáo nhiễm trùng, gồm 26 khuyến cáo: thời điểm dùng kháng sinh, kiểm soát ổ nhiễm, khi nào phủ vi khuẩn đa kháng, nấm và kỵ khí, cách truyền beta-lactam, xuống thang, thời gian điều trị, và khử khuẩn chọn lọc đường tiêu hoá.",
+    "Có thể tóm lại trong bốn chữ đúng: đúng lúc, đúng phổ, đúng cách, và đúng lúc dừng."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Kháng sinh · Bối cảnh",
+   "title": "Sớm, nhưng không bừa bãi",
+   "ref": "KC 16–20 · Rationale",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "LỢI ÍCH",
+     "t": "Can thiệp hiệu quả nhất",
+     "d": "Cùng với bù dịch, giảm tử vong",
+     "items": [
+      "42 nghiên cứu quan sát, 190.896 người bệnh + 2 RCT",
+      "Liên quan mạnh, nhất quán nhất ở sốc nhiễm khuẩn"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "TÁC HẠI",
+     "t": "10–30% không phải nhiễm khuẩn",
+     "d": "Chẩn đoán cuối cùng không nhiễm trùng hoặc không do vi khuẩn",
+     "items": [
+      "Kháng thuốc, rối loạn hệ vi sinh",
+      "Biến cố liên quan kháng sinh"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "CÂN BẰNG",
+     "t": "Theo mức nghi ngờ và độ nặng",
+     "d": "Bảng 3 + có sốc hay không",
+     "items": [
+      "Cải thiện thời gian và quản lý kháng sinh cùng lúc là được"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Kháng sinh phù hợp và sớm, cùng với bù dịch, là can thiệp ban đầu hiệu quả nhất để giảm tử vong. Bằng chứng từ 42 nghiên cứu quan sát với gần 191 nghìn người bệnh cùng hai thử nghiệm cho thấy kháng sinh sớm trong 1, 3 hay 6 giờ đều liên quan với giảm tử vong ngắn hạn, mạnh và nhất quán nhất ở sốc nhiễm khuẩn.",
+    "Nhưng cần cân bằng với tác hại: khoảng 10 đến 30% người bệnh ban đầu được điều trị như sepsis cuối cùng có chẩn đoán không nhiễm trùng hoặc không do vi khuẩn. Kháng sinh không cần thiết gây kháng thuốc, rối loạn hệ vi sinh và các biến cố bất lợi.",
+    "Vì vậy, mức độ khẩn cấp của kháng sinh được quyết định bởi khả năng nhiễm trùng theo bốn mức ở phần một, và mức độ nặng, đặc biệt là có sốc hay không. Cải thiện thời gian dùng kháng sinh và quản lý kháng sinh hoàn toàn có thể đi cùng nhau."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "Kháng sinh · KC 16–20",
+   "title": "Khung thời gian dùng kháng sinh",
+   "ref": "KC 16–20 · Figure 2",
+   "head": [
+    "Bệnh cảnh",
+    "Kháng sinh",
+    "Mức khuyến cáo"
+   ],
+   "widths": "1.2fr 1.5fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Sốc nhiễm khuẩn</b> có thể, khả năng cao, chắc chắn",
+      "<em>Ngay lập tức, lý tưởng ≤ 1 giờ</em>",
+      "Mạnh · rất thấp"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Sepsis khả năng cao hoặc chắc chắn</b>, không sốc",
+      "<em>Ngay lập tức, lý tưởng ≤ 1 giờ</em>",
+      "Mạnh · rất thấp"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Sepsis có thể</b>, không sốc",
+      "Đánh giá nhanh nhiễm trùng – không nhiễm trùng; còn nghi → <em>≤ 3 giờ</em>",
+      "Có điều kiện · rất thấp"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Ít khả năng nhiễm trùng</b>, không sốc",
+      "Hoãn kháng sinh, theo dõi sát",
+      "Có điều kiện · rất thấp"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Khung thời gian giữ nguyên từ 2021. Khuyến cáo mười sáu, mạnh: với sốc nhiễm khuẩn, dù chỉ là có thể, khả năng cao hay chắc chắn, dùng kháng sinh ngay lập tức, lý tưởng trong vòng 1 giờ.",
+    "Khuyến cáo mười bảy, mạnh: với sepsis khả năng cao hoặc chắc chắn mà chưa sốc, cũng dùng ngay, lý tưởng trong 1 giờ.",
+    "Khuyến cáo mười tám, có điều kiện: với sepsis có thể và không sốc, tiến hành đánh giá nhanh có giới hạn thời gian, gồm hỏi thêm bệnh sử, khám và xét nghiệm, để phân biệt nguyên nhân nhiễm trùng và không nhiễm trùng. Nếu vẫn còn nghi nhiễm trùng, dùng kháng sinh trong vòng 3 giờ kể từ lúc nghi sepsis. Ở nơi không sẵn xét nghiệm hay hình ảnh để loại trừ nguyên nhân khác, một đồng thuận chuyên gia đề nghị dùng kháng sinh không trì hoãn.",
+    "Khuyến cáo hai mươi: nếu ít khả năng nhiễm trùng và không có sốc, hoãn kháng sinh nhưng tiếp tục theo dõi sát người bệnh."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "Kháng sinh · KC 21–22",
+   "title": "Kháng sinh trên xe cứu thương và procalcitonin",
+   "ref": "KC 21 · Có điều kiện, rất thấp · Mới · KC 22 · Giữ nguyên",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "KC 21 · MỚI",
+     "t": "Kháng sinh trước viện",
+     "d": "Sepsis + tụt huyết áp, dự kiến > 60 phút mới được đánh giá trong viện",
+     "items": [
+      "Chỉ khi đã có quy trình sàng lọc trước viện",
+      "Lấy cấy máu trước nếu được"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Lợi ích theo độ nặng",
+     "d": "Quan sát OR 0,58 · RCT OR 0,85",
+     "items": [
+      "RCT chất lượng cao: sớm hơn 96 phút, không khác tử vong — nhóm chứng chỉ tử vong 8%"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KC 22",
+     "t": "Không dùng procalcitonin để bắt đầu",
+     "d": "Đánh giá lâm sàng đơn thuần",
+     "items": [
+      "Có điều kiện · rất thấp"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo hai mươi mốt, mới, có điều kiện: với sepsis khả năng cao hoặc chắc chắn kèm tụt huyết áp, tức sốc nhiễm khuẩn, mà dự kiến phải hơn 60 phút mới được đánh giá trong viện, đề nghị dùng kháng sinh ngay trên xe cứu thương hoặc máy bay. Chỉ triển khai khi đã có quy trình sàng lọc trước viện, và lấy cấy máu trước nếu có thể.",
+    "Lợi ích phụ thuộc độ nặng: phân tích gộp nghiên cứu quan sát cho tỷ số chênh 0,58, thử nghiệm ngẫu nhiên 0,85. Một thử nghiệm chất lượng cao dùng kháng sinh sớm hơn 96 phút không thấy khác biệt tử vong, nhưng nhóm chứng chỉ tử vong 8%, tức người bệnh nhẹ. Vì vậy hội đồng giới hạn khuyến cáo cho người có tụt huyết áp.",
+    "Khuyến cáo hai mươi hai, giữ nguyên: không dùng procalcitonin để quyết định bắt đầu kháng sinh; đánh giá lâm sàng đơn thuần là đủ."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "box",
+   "chapter": "Ổ nhiễm · KC 23–24",
+   "title": "Kiểm soát ổ nhiễm: trong vòng 6 giờ",
+   "ref": "KC 23 · Thực hành tốt · KC 24 · Có điều kiện, rất thấp",
+   "box": {
+    "tag": "KC 24",
+    "t": "Khi có ổ nhiễm cần can thiệp: kiểm soát ổ <b>sớm, lý tưởng trong 6 giờ</b> từ khi chẩn đoán. Càng sớm càng tốt nếu khả thi.",
+    "at": 0,
+    "c": "coral",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "VÍ DỤ Ổ NHIỄM",
+     "t": "Áp xe, thủng tạng rỗng, viêm đường mật, viêm túi mật, thận ứ mủ, nhiễm trùng mô mềm hoại tử, mủ màng phổi, catheter",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "11 nghiên cứu quan sát: tử vong ngắn hạn RR 0,70 · 1 năm RR 0,80",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "PEARL",
+     "t": "Cố ổn định nội khoa kéo dài mà không kiểm soát ổ: khó thành công",
+     "at": 3,
+     "hl": "L3",
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo hai mươi bốn, có điều kiện: với người bệnh sepsis có ổ nhiễm giải phẫu cần can thiệp, kiểm soát ổ nhiễm sớm, lý tưởng trong vòng 6 giờ từ khi chẩn đoán; và nếu làm sớm hơn được thì càng tốt. Đi kèm là tuyên bố thực hành tốt: mọi người bệnh sepsis cần được đánh giá nhanh để tìm ổ nhiễm cần kiểm soát cấp.",
+    "Kiểm soát ổ nhiễm gồm dẫn lưu áp xe, cắt lọc mô hoại tử, rút thiết bị nhiễm trùng hay giải quyết tắc nghẽn. Các ổ thường gặp: áp xe ổ bụng, viêm phúc mạc do thủng tạng rỗng, viêm đường mật, viêm túi mật, áp xe vùng chậu, viêm thận bể thận có tắc nghẽn hoặc áp xe, nhiễm trùng mô mềm hoại tử, mủ màng phổi, viêm khớp nhiễm khuẩn, và nhiễm trùng liên quan dụng cụ, kể cả catheter trung tâm.",
+    "Mười một nghiên cứu quan sát cho thấy kiểm soát ổ sớm có thể giảm tử vong ngắn hạn, nguy cơ tương đối 0,70, và tử vong một năm 0,80.",
+    "Hội đồng nhấn mạnh: cố gắng ổn định nội khoa kéo dài mà không kiểm soát ổ nhiễm ở người bệnh nặng, nhất là sốc nhiễm khuẩn, khó có thể thành công."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "Phổ kháng sinh · KC 25–26",
+   "title": "Phủ vi khuẩn đa kháng: theo nguy cơ",
+   "ref": "KC 25 · Có điều kiện, rất thấp · KC 26 · Mới",
+   "head": [
+    "Nguy cơ",
+    "Khuyến cáo",
+    "Ghi chú"
+   ],
+   "widths": "0.9fr 1.3fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Cao</b> với một vi khuẩn đa kháng cụ thể",
+      "<em>Phủ</em> vi khuẩn đó theo kinh nghiệm",
+      "Có khúm hoặc nhiễm vi khuẩn đó trong năm trước · kháng sinh phổ rộng kéo dài · nằm lâu nơi tỷ lệ đa kháng cao"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Thấp</b> (mới)",
+      "<em>Không</em> phủ theo kinh nghiệm",
+      "Đa số sepsis trên thế giới không do vi khuẩn đa kháng"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Bằng chứng</b>",
+      "Tử vong OR 0,71",
+      "Chủ yếu do MRSA · không khác với A. baumannii, ESBL, CRE"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Chọn thuốc</b>",
+      "Ngoài phạm vi hướng dẫn",
+      "Theo ESCMID, IDSA · hội chẩn truyền nhiễm, vi sinh"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo hai mươi lăm, có điều kiện: người bệnh có nguy cơ cao nhiễm một vi khuẩn đa kháng cụ thể nên được phủ vi khuẩn đó theo kinh nghiệm. Yếu tố nguy cơ gồm có khúm hoặc nhiễm chính vi khuẩn đó trong năm trước, dùng kháng sinh phổ rộng kéo dài, và nằm viện lâu ở nơi có tỷ lệ vi khuẩn đó cao.",
+    "Khuyến cáo hai mươi sáu, mới: người bệnh nguy cơ thấp thì không phủ theo kinh nghiệm, vì phủ cho mọi người bệnh là không chấp nhận được và gây hại nhiều hơn, khi đa số sepsis trên thế giới không do vi khuẩn đa kháng.",
+    "Bằng chứng cho thấy phủ đa kháng có thể giảm tử vong với tỷ số chênh 0,71, nhưng chủ yếu do dữ liệu tụ cầu vàng kháng methicillin; không thấy khác biệt với Acinetobacter baumannii, vi khuẩn sinh men beta-lactamase phổ rộng hay trực khuẩn đường ruột kháng carbapenem.",
+    "Việc chọn thuốc cụ thể nằm ngoài phạm vi hướng dẫn; quý vị tham khảo hướng dẫn của Hội Vi sinh lâm sàng và Bệnh truyền nhiễm châu Âu, Hội Bệnh truyền nhiễm Hoa Kỳ, và hội chẩn chuyên gia truyền nhiễm, vi sinh khi có thể."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "compare",
+   "chapter": "Phổ kháng sinh · KC 27–29, 32",
+   "title": "Nấm và kỵ khí: không phủ thường quy",
+   "ref": "KC 27, 32 · Có điều kiện, thấp · KC 28–29 · Có điều kiện, rất thấp",
+   "head": [
+    "Câu hỏi",
+    "Khuyến cáo",
+    "Khi nào nên phủ"
+   ],
+   "widths": "1fr 1.3fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Kháng nấm</b> theo kinh nghiệm",
+      "<em>Không</em> thường quy · RR tử vong 0,93",
+      "Suy giảm miễn dịch · kháng sinh kéo dài · nằm viện lâu · ổ nhiễm trong ổ bụng"
+     ],
+     "at": 0,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Dấu ấn Candida</b> (β-D-glucan) để bắt đầu",
+      "<em>Không</em> dùng thường quy",
+      "Cân nhắc ở người nguy cơ cao nhiễm Candida xâm lấn"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Phủ kỵ khí</b>, không có yếu tố nguy cơ",
+      "<em>Không</em> phủ (nâng mức)",
+      "Nhiễm trùng phổi, tiết niệu ít có lợi; quan sát: phủ kỵ khí tăng tử vong"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Phủ kỵ khí</b>, có yếu tố nguy cơ",
+      "<em>Có</em> phủ",
+      "Ổ bụng · sản phụ khoa sâu · mô mềm hoại tử · đầu cổ · áp xe thần kinh trung ương · mủ màng phổi"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Với nấm, khuyến cáo hai mươi bảy, có điều kiện: không dùng kháng nấm theo kinh nghiệm cho mọi người bệnh sepsis; phân tích gộp 7 thử nghiệm, gồm EMPIRICUS, không thấy giảm tử vong đáng kể. Nhưng cân nhắc từng trường hợp ở người nguy cơ cao: suy giảm miễn dịch, dùng kháng sinh kéo dài, nằm viện lâu, và ổ nhiễm trong ổ bụng.",
+    "Khuyến cáo ba mươi hai: không dùng thường quy dấu ấn Candida như beta-D-glucan để quyết định bắt đầu kháng nấm, trừ ở người nguy cơ cao nhiễm Candida xâm lấn.",
+    "Với vi khuẩn kỵ khí, khuyến cáo hai mươi tám được nâng mức: người bệnh không có yếu tố nguy cơ nhiễm kỵ khí thì dùng phác đồ không phủ kỵ khí. Nhiễm trùng xuất phát từ phổi hay tiết niệu ít có lợi từ phủ kỵ khí, và nghiên cứu quan sát còn gợi ý phủ kỵ khí không cần thiết làm tăng tử vong. Nếu cần thuốc có hoạt tính kỵ khí như piperacillin tazobactam hay carbapenem để phủ đa kháng thì vẫn hợp lý.",
+    "Khuyến cáo hai mươi chín: có phủ kỵ khí khi có yếu tố nguy cơ, gồm ổ nhiễm trong ổ bụng, ổ sâu sản phụ khoa, nhiễm trùng mô mềm hoại tử, nhiễm trùng đầu cổ, áp xe thần kinh trung ương và mủ màng phổi."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "Chẩn đoán vi sinh · KC 30–31",
+   "title": "Mẫu giám sát và xét nghiệm nhanh tác nhân",
+   "ref": "KC 30 · Chưa đủ bằng chứng · KC 31 · Có điều kiện, thấp",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "KC 30 · MỚI",
+     "t": "Mẫu giám sát hô hấp trên",
+     "d": "Toàn khoa hồi sức để chọn kháng sinh: chưa đủ bằng chứng",
+     "items": [
+      "Trong thực hành: 36% hội đồng dùng, 79% lấy mẫu hằng tuần"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "KC 31",
+     "t": "Xét nghiệm nhanh tác nhân",
+     "d": "PCR, bảng hội chứng, phát hiện kháng thuốc",
+     "items": [
+      "Từng ca chọn lọc: lâm sàng, dịch tễ kháng thuốc, mùa, sẵn có",
+      "RCT: tử vong RR 1,03"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "PEARL",
+     "t": "Đi cùng quản lý kháng sinh",
+     "d": "Lợi ích tử vong khi gắn với chương trình quản lý kháng sinh hiệu quả",
+     "items": [],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo ba mươi, mới: chưa đủ bằng chứng để khuyến cáo dùng mẫu giám sát vi sinh đường hô hấp trên ở cấp toàn khoa để chọn kháng sinh kinh nghiệm. Trong thực hành của hội đồng, 36% có dùng, phần lớn lấy mẫu hằng tuần.",
+    "Khuyến cáo ba mươi mốt, có điều kiện: dùng xét nghiệm nhanh đặc hiệu tác nhân, như PCR, bảng hội chứng hay xét nghiệm phát hiện gen kháng thuốc, theo từng trường hợp chọn lọc, dựa trên lâm sàng, dịch tễ tác nhân và kháng thuốc tại chỗ, mùa, và sự sẵn có. Các thử nghiệm không thấy khác biệt tử vong khi dùng đại trà.",
+    "Điểm then chốt: lợi ích tử vong chỉ thấy khi xét nghiệm nhanh đi cùng một chương trình quản lý kháng sinh hiệu quả, để kết quả thực sự được chuyển thành thay đổi điều trị."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "box",
+   "chapter": "Cách dùng · KC 33",
+   "title": "Truyền kéo dài beta-lactam: nay là khuyến cáo mạnh",
+   "ref": "KC 33 · Mạnh, chắc chắn trung bình · Nâng mức",
+   "box": {
+    "tag": "KC 33",
+    "t": "Sau <b>liều nạp</b>, duy trì beta-lactam bằng <b>truyền kéo dài</b> (≥ một nửa khoảng cách liều) hoặc <b>truyền liên tục</b>, thay vì tiêm bolus ≤ 30 phút.",
+    "at": 0,
+    "c": "teal",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "18 RCT, 9108 người bệnh (gồm BLING III): tử vong RR 0,91 → ít hơn 25 ca tử vong/1000",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "ƯU TIÊN",
+     "t": "Thuốc bán thải ngắn: piperacillin – tazobactam, carbapenem",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Liều nạp trước · chiếm một lòng catheter · tương hợp, độ ổn định thuốc",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo ba mươi ba là thay đổi đáng chú ý: được nâng lên mức mạnh. Ở người bệnh sepsis, sau một liều nạp, duy trì beta-lactam bằng truyền kéo dài, ít nhất một nửa khoảng cách giữa các liều, hoặc truyền liên tục, thay vì tiêm bolus trong 30 phút hay ngắn hơn. Lý do: dược động học thay đổi trong sepsis dễ làm nồng độ dưới ngưỡng điều trị, và truyền kéo dài giữ nồng độ ổn định, tối ưu tác dụng phụ thuộc thời gian của beta-lactam.",
+    "Phân tích gộp 18 thử nghiệm với 9108 người bệnh, gồm thử nghiệm quốc tế lớn BLING III, cho thấy truyền kéo dài giảm tử vong ngắn hạn, nguy cơ tương đối 0,91, mức chắc chắn cao, tương đương ít hơn 25 ca tử vong trên 1000 người bệnh, kèm thêm ngày sống ngoài hồi sức và ngoài bệnh viện.",
+    "Lợi ích lớn nhất với thuốc có thời gian bán thải ngắn như piperacillin tazobactam và carbapenem; nơi thiếu bơm tiêm điện cần ưu tiên trang bị.",
+    "Ba lưu ý thực hành: luôn cho liều nạp trước để không chậm đạt nồng độ hiệu quả; truyền kéo dài chiếm một lòng catheter lâu hơn; và phải kiểm tra độ ổn định, tương hợp với các thuốc truyền khác."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "cards",
+   "chapter": "Liều lượng · KC 34",
+   "title": "Tối ưu liều theo dược động học – dược lực học",
+   "ref": "KC 34 · Có điều kiện, rất thấp · Thực hành tốt nhất",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "THỰC HÀNH TỐT NHẤT",
+     "t": "Liều theo PK/PD",
+     "d": "Theo nguyên tắc dược động – dược lực và đặc tính thuốc",
+     "items": [],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "THAY ĐỔI NỒNG ĐỘ",
+     "t": "Quá thấp hoặc quá cao",
+     "d": "Trong sepsis và sốc",
+     "items": [
+      "Tăng thanh thải thận · tổn thương thận cấp",
+      "Giảm albumin · lọc máu · ECMO"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "KC 34",
+     "t": "Theo dõi nồng độ thuốc",
+     "d": "Từng ca chọn lọc, khi sẵn có",
+     "items": [
+      "8 RCT, 1241 người bệnh: tử vong RR 0,92",
+      "Chủ yếu với thuốc kháng khuẩn"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Tuyên bố thực hành tốt nhất: tối ưu chiến lược liều kháng sinh theo các nguyên tắc dược động học, dược lực học đã được chấp nhận và đặc tính từng thuốc.",
+    "Trong sepsis và sốc, nồng độ kháng sinh có thể quá thấp, nguy cơ thất bại, hoặc quá cao, nguy cơ độc tính. Các yếu tố gây thay đổi gồm tăng thanh thải thận, tổn thương thận cấp, giảm albumin máu, lọc máu thay thế thận và hỗ trợ tuần hoàn ngoài cơ thể.",
+    "Khuyến cáo ba mươi tư, có điều kiện: theo dõi nồng độ thuốc theo từng trường hợp chọn lọc, khi có điều kiện. Tám thử nghiệm với 1241 người bệnh cho thấy có thể giảm tử vong, nguy cơ tương đối 0,92, chủ yếu với thuốc kháng khuẩn, dù mức chắc chắn rất thấp."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "list",
+   "chapter": "Xuống thang · KC 35–38",
+   "title": "Đánh giá lại mỗi ngày, xuống thang sớm",
+   "ref": "KC 35 · Thực hành tốt · KC 36 · Mạnh · KC 37–38 · Có điều kiện",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Đánh giá lại liên tục",
+     "d": "Tìm chẩn đoán khác; ngưng kháng sinh nếu chứng minh hoặc nghi mạnh nguyên nhân khác",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Có vi sinh và kháng sinh đồ",
+     "d": "Xuống thang: ngưng thuốc thừa hoặc thu hẹp phổ (mạnh)",
+     "at": 1,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "t": "Cấy cuối cùng âm tính",
+     "d": "Vẫn xuống thang khi lâm sàng cải thiện (có điều kiện)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Đánh giá xuống thang hằng ngày",
+     "d": "Thay vì liệu trình cố định không đánh giá lại",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Bằng chứng",
+     "d": "26 nghiên cứu: tử vong RR 0,77 · kháng thuốc RR 0,71 (rất thấp)",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Thận trọng",
+     "d": "Nơi xét nghiệm hạn chế, tỷ lệ đa kháng cao · không dùng dấu ấn Candida để ngưng kháng nấm",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo ba mươi lăm, tuyên bố thực hành tốt: thầy thuốc cần liên tục đánh giá lại, tìm chẩn đoán khác, và ngưng kháng sinh kinh nghiệm nếu chứng minh hoặc nghi mạnh một nguyên nhân khác.",
+    "Khuyến cáo ba mươi sáu, mạnh: khi đã có chẩn đoán vi sinh và kháng sinh đồ, xuống thang kháng sinh, tức ngưng thuốc không cần thiết hoặc chuyển sang phổ hẹp hơn.",
+    "Khuyến cáo ba mươi bảy, có điều kiện: ngay cả khi cấy cuối cùng âm tính, vẫn xuống thang ở người bệnh đang cải thiện, và đánh giá khả năng xuống thang mỗi ngày thay vì dùng liệu trình cố định.",
+    "Hai mươi sáu nghiên cứu cho thấy xuống thang có thể giảm tử vong và giảm kháng thuốc, dù cần thận trọng vì người được xuống thang thường đã cải thiện sẵn. Ở nơi xét nghiệm hạn chế và tỷ lệ đa kháng cao, cấy âm tính không trấn an bằng, nên cần cân nhắc kỹ. Và khuyến cáo ba mươi tám: không dùng thường quy dấu ấn Candida để quyết định ngưng kháng nấm."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "Thời gian · KC 39–40",
+   "title": "Thời gian điều trị: ngắn hơn là đủ",
+   "ref": "KC 39 · Có điều kiện, rất thấp · KC 40 · Có điều kiện, thấp",
+   "h": 580,
+   "cards": [
+    {
+     "tag": "KC 39",
+     "t": "Ngắn hơn thay vì dài hơn",
+     "d": "Khi đã kiểm soát ổ nhiễm đầy đủ",
+     "items": [
+      "BALANCE: 7 ngày không kém 14 ngày cho nhiễm khuẩn huyết"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KC 40",
+     "t": "Procalcitonin + lâm sàng",
+     "d": "Để quyết định ngưng khi thời gian tối ưu chưa rõ",
+     "items": [
+      "ADAPT-Sepsis: giảm an toàn thời gian kháng sinh"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "NHỚ",
+     "t": "PCT: dùng để NGƯNG",
+     "d": "Không dùng để BẮT ĐẦU (KC 22)",
+     "items": [],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo ba mươi chín, giữ nguyên: khi đã kiểm soát ổ nhiễm đầy đủ, ưu tiên thời gian điều trị ngắn hơn. Thử nghiệm BALANCE công bố sau 2021 cho thấy 7 ngày không kém 14 ngày ở nhiễm khuẩn huyết, củng cố thêm khuyến cáo này.",
+    "Khuyến cáo bốn mươi: khi thời gian điều trị tối ưu chưa rõ, dùng procalcitonin kết hợp đánh giá lâm sàng để quyết định ngưng kháng sinh. Thử nghiệm ADAPT-Sepsis đã cho thấy procalcitonin giúp rút ngắn an toàn thời gian dùng kháng sinh.",
+    "Xin quý vị nhớ một cặp đối xứng dễ nhầm: procalcitonin được dùng để ngưng kháng sinh, nhưng không dùng để quyết định bắt đầu."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "box",
+   "chapter": "Dự phòng · KC 41",
+   "title": "Khử khuẩn chọn lọc đường tiêu hoá: khuyến cáo mới",
+   "ref": "KC 41 · Có điều kiện, chắc chắn trung bình · Mới",
+   "box": {
+    "tag": "KC 41 · MỚI",
+    "t": "Ở người bệnh sepsis <b>thở máy</b>, tại đơn vị có <b>tỷ lệ kháng thuốc thấp</b>: đề nghị khử khuẩn chọn lọc đường tiêu hoá.",
+    "at": 0,
+    "c": "teal",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "CÁCH LÀM",
+     "t": "Polymyxin, tobramycin, amphotericin B tại chỗ (hầu họng, tiêu hoá trên) + kháng sinh tĩnh mạch phổ rộng ngắn ngày",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "32 RCT, 24.389 người bệnh: tử vong RR 0,91 · kháng thuốc RR 0,64",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "tag": "SuDDICU",
+     "t": "Tử vong 27,9% so với 29,5% · NKH mới 4,9% so với 6,9% · vi khuẩn kháng 16,8% so với 26,8%",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo bốn mươi mốt, mới, có điều kiện, chắc chắn trung bình: ở người bệnh sepsis thở máy, tại đơn vị có tỷ lệ kháng thuốc thấp, đề nghị khử khuẩn chọn lọc đường tiêu hoá.",
+    "Biện pháp gồm thuốc kháng khuẩn không hấp thu bôi vào hầu họng và đường tiêu hoá trên, thường là polymyxin, tobramycin và amphotericin B, nhắm vào vi khuẩn Gram âm hiếu khí và nấm mà bảo tồn vi khuẩn kỵ khí, kèm một đợt ngắn kháng sinh tĩnh mạch phổ rộng.",
+    "Phân tích gộp 32 thử nghiệm với hơn 24 nghìn người bệnh, gồm thử nghiệm lớn SuDDICU, cho thấy có lẽ giảm tử vong ngắn hạn, nguy cơ tương đối 0,91, và trái với lo ngại, còn giảm kháng thuốc, nguy cơ tương đối 0,64.",
+    "Trong SuDDICU, tử vong 90 ngày 27,9% so với 29,5%, nhiễm khuẩn huyết mới 4,9% so với 6,9%, và vi khuẩn kháng thuốc 16,8% so với 26,8%. Ở nơi tỷ lệ đa kháng cao, cần quyết định theo từng đơn vị."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy trong dùng kháng sinh",
+   "ref": "Tổng hợp KC 16–41",
+   "box": {
+    "tag": "BẪY",
+    "t": "Phủ “cho chắc” carbapenem + vancomycin + kháng nấm cho mọi người bệnh → <b>tăng tác hại</b> khi nguy cơ đa kháng, nấm thấp.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "Chờ procalcitonin để bắt đầu kháng sinh",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Tiêm beta-lactam bolus 30 phút, không liều nạp",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Ổn định nội khoa kéo dài, chưa kiểm soát ổ nhiễm",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Cấy âm tính, người bệnh cải thiện nhưng vẫn giữ phác đồ phổ rộng",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy. Bẫy thứ nhất: phủ cho chắc bằng carbapenem, vancomycin và kháng nấm cho mọi người bệnh sepsis, trong khi nguy cơ đa kháng và nấm thấp. Hướng dẫn nói rõ điều này làm tăng tác hại.",
+    "Bẫy thứ hai: chờ procalcitonin rồi mới bắt đầu kháng sinh.",
+    "Bẫy thứ ba: tiêm beta-lactam bolus 30 phút, hoặc truyền kéo dài mà quên liều nạp.",
+    "Bẫy thứ tư: cố gắng ổn định nội khoa kéo dài mà chưa kiểm soát ổ nhiễm.",
+    "Bẫy thứ năm: cấy âm tính, người bệnh đã cải thiện, nhưng vẫn giữ nguyên phác đồ phổ rộng."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: lú lẫn ở người cao tuổi",
+   "case": "Nữ 82 tuổi, lú lẫn từ sáng, sốt 38,1 °C, HA 128/72, mạch 96, lactate 1,6 mmol/L. Nước tiểu đục nhẹ, nhưng có tiền sử đột quỵ và vừa đổi thuốc an thần. Chưa có kết quả xét nghiệm.",
+   "case_at": 1,
+   "q": "Thời điểm dùng kháng sinh phù hợp theo SSC 2026?",
+   "q_at": 2,
+   "options": [
+    "Ngay trong 1 giờ, phổ rộng nhất có thể",
+    "Đánh giá nhanh nhiễm trùng – không nhiễm trùng; nếu còn nghi → kháng sinh trong 3 giờ",
+    "Chờ procalcitonin",
+    "Không dùng kháng sinh vì không có sốc"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Sepsis có thể, không sốc → đánh giá nhanh có giới hạn thời gian (KC 18–19); còn nghi nhiễm trùng → kháng sinh trong 3 giờ. Không dùng PCT để bắt đầu (KC 22). Nếu ít khả năng nhiễm trùng → hoãn, theo dõi sát (KC 20).",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nữ 82 tuổi, lú lẫn từ sáng, sốt 38,1 độ, huyết áp 128 trên 72, mạch 96, lactate 1,6. Nước tiểu đục nhẹ, nhưng có tiền sử đột quỵ và vừa đổi thuốc an thần. Chưa có kết quả xét nghiệm.",
+    "Thời điểm dùng kháng sinh nào phù hợp?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Đây là sepsis có thể, không có sốc, vì còn nhiều chẩn đoán khác như đột quỵ hay tác dụng thuốc. Khuyến cáo là đánh giá nhanh có giới hạn thời gian để phân biệt nguyên nhân nhiễm trùng và không nhiễm trùng; nếu vẫn còn nghi nhiễm trùng, dùng kháng sinh trong vòng 3 giờ. Không chờ procalcitonin để quyết định bắt đầu. Nếu sau đánh giá thấy ít khả năng nhiễm trùng, có thể hoãn kháng sinh và theo dõi sát."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: viêm phúc mạc tại hồi sức",
+   "case": "Nam 58 tuổi, đau bụng, CT: <b>thủng đại tràng sigma</b>, dịch tự do. HA trung bình 58 dù đã truyền dịch, đang norepinephrine. Không nằm viện, không dùng kháng sinh trong năm qua, không suy giảm miễn dịch.",
+   "case_at": 1,
+   "q": "Kế hoạch nào phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Kháng sinh ≤ 1 giờ có phủ kỵ khí, truyền kéo dài, mổ kiểm soát ổ ≤ 6 giờ",
+    "Carbapenem + vancomycin + kháng nấm, mổ khi ổn định hoàn toàn",
+    "Kháng sinh không phủ kỵ khí, chờ cấy",
+    "Chờ kết quả cấy máu trước khi dùng kháng sinh"
+   ],
+   "answer": 0,
+   "answer_at": 4,
+   "explain": "Sốc → kháng sinh ≤ 1 giờ (KC 16) · ổ bụng → phủ kỵ khí (KC 29) · nguy cơ đa kháng, nấm thấp → không phủ (KC 26–27) · liều nạp + truyền kéo dài (KC 33) · kiểm soát ổ ≤ 6 giờ (KC 24).",
+   "lines": [
+    "Tình huống thứ hai, tại khoa hồi sức.",
+    "Người bệnh nam 58 tuổi, đau bụng, CT thấy thủng đại tràng sigma với dịch tự do. Huyết áp trung bình 58 dù đã truyền dịch, đang dùng norepinephrine. Không nằm viện, không dùng kháng sinh trong năm qua, không suy giảm miễn dịch.",
+    "Kế hoạch nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án một. Sốc nhiễm khuẩn nên dùng kháng sinh trong 1 giờ. Ổ nhiễm trong ổ bụng là yếu tố nguy cơ kỵ khí, nên phác đồ cần phủ kỵ khí. Người bệnh không có yếu tố nguy cơ đa kháng hay nấm, nên không phủ thường quy. Beta-lactam truyền kéo dài sau liều nạp. Và kiểm soát ổ nhiễm bằng phẫu thuật trong vòng 6 giờ; chờ ổn định huyết động hoàn toàn mà không kiểm soát ổ khó có thể thành công."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 2",
+   "title": "Sáu thông điệp của Phần 2",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Đúng lúc",
+     "d": "Sốc hoặc khả năng cao: ≤ 1 giờ · có thể: đánh giá nhanh, ≤ 3 giờ",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Kiểm soát ổ nhiễm ≤ 6 giờ",
+     "d": "Đánh giá nhanh ổ cần can thiệp",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Đúng phổ theo nguy cơ",
+     "d": "Đa kháng, nấm, kỵ khí: chỉ khi có yếu tố nguy cơ",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Đúng cách",
+     "d": "Liều nạp + truyền kéo dài beta-lactam (mạnh) · liều theo PK/PD",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Đúng lúc dừng",
+     "d": "Xuống thang hằng ngày · liệu trình ngắn · PCT để ngưng",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "SDD cho người thở máy",
+     "d": "Nơi tỷ lệ kháng thuốc thấp (mới)",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần hai, xin tóm tắt bằng bốn chữ đúng.",
+    "Đúng lúc: kháng sinh trong 1 giờ với sốc hoặc sepsis khả năng cao; với sepsis có thể, đánh giá nhanh và dùng trong 3 giờ nếu còn nghi. Kiểm soát ổ nhiễm trong 6 giờ.",
+    "Đúng phổ: chỉ phủ vi khuẩn đa kháng, nấm và kỵ khí khi có yếu tố nguy cơ. Đúng cách: liều nạp rồi truyền kéo dài beta-lactam, nay là khuyến cáo mạnh, và tối ưu liều theo dược động học.",
+    "Đúng lúc dừng: đánh giá xuống thang mỗi ngày, liệu trình ngắn, procalcitonin để ngưng. Và khử khuẩn chọn lọc đường tiêu hoá cho người bệnh thở máy ở nơi tỷ lệ kháng thuốc thấp.",
+    "Phần ba sẽ bàn về huyết động: chọn dịch, albumin, chiến lược tự do hay hạn chế, chỉ số động, thời gian đổ đầy mao mạch, và bậc thang vận mạch. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
