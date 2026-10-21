@@ -1,0 +1,745 @@
+{
+ "title": "Surviving Sepsis Campaign 2026 – Phần 3: Huyết động",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức cấp cứu",
+ "part": "Surviving Sepsis Campaign 2026 · Phần 3/5",
+ "source_short": "Nguồn: Surviving Sepsis Campaign – International Guidelines for Management of Sepsis and Septic Shock 2026",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026.",
+ "lexicon": {
+  "ANDROMEDA-SHOCK-2": "an đờ rô mê đa sốc hai",
+  "ANDROMEDA-SHOCK": "an đờ rô mê đa sốc",
+  "ADAPT-Sepsis": "a đáp sép xít",
+  "IntelliSep": "in te li sép",
+  "µg/kg/phút": "microgam mỗi kilôgam mỗi phút",
+  "SeptiCyte": "sép ti xai",
+  "TriVerity": "trai ve ri ti",
+  "BLING III": "bơ linh ba",
+  "EMPIRICUS": "em pi ri cút",
+  "Sepsis-3": "sép xít ba",
+  "CLOVERS": "clô vơ",
+  "SuDDICU": "xu đi cu",
+  "BALANCE": "ba lăng",
+  "EVERDAC": "e ve đác",
+  "SCREEN": "xờ crin",
+  "SSSP-2": "ét ét ét pê hai",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "ESCMID": "e ét xê em i đê",
+  "BaSICS": "ba xích",
+  "ALBIOS": "an bi ốt",
+  "qSOFA": "quick sô pha",
+  "NEWS2": "niu hai",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "PK/PD": "dược động học, dược lực học",
+  "VASST": "vát",
+  "SMART": "xờ mát",
+  "POCUS": "siêu âm tại giường",
+  "SOFA": "sô pha",
+  "NEWS": "niu",
+  "MEWS": "miu",
+  "SIRS": "xia",
+  "LMIC": "nước thu nhập thấp và trung bình",
+  "IDSA": "i đê ét a",
+  "MRSA": "em a ét a",
+  "ESBL": "e ét bê eo",
+  "PLUS": "plát",
+  "SAFE": "xây phờ",
+  "LVEF": "phân suất tống máu thất trái",
+  "ICU": "hồi sức",
+  "MDW": "em đê đắp liu",
+  "CRE": "xê a e",
+  "MDR": "đa kháng",
+  "SDD": "khử khuẩn chọn lọc đường tiêu hoá",
+  "TDM": "theo dõi nồng độ thuốc",
+  "CAT": "cát",
+  "SVV": "biến thiên thể tích tống máu",
+  "PPV": "biến thiên áp lực mạch",
+  "CRT": "thời gian đổ đầy mao mạch"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "sepsis",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 3/5",
+   "title": "Huyết động<br>trong sốc nhiễm khuẩn",
+   "subtitle": "Phần 3 · Dịch, đánh giá tưới máu, vận mạch, tăng co bóp",
+   "badges": [
+    {
+     "t": "KC 42–64",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Dịch tinh thể cân bằng",
+     "c": "blue",
+     "at": "L1+1.5"
+    },
+    {
+     "t": "Norepinephrine → vasopressin",
+     "c": "amber",
+     "at": "L1+3"
+    }
+   ],
+   "note": "Surviving Sepsis Campaign 2026 · nhóm khuyến cáo Huyết động",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần ba của loạt bài về Hướng dẫn Surviving Sepsis Campaign 2026.",
+    "Phần này bàn về huyết động, với 23 khuyến cáo: theo dõi huyết áp, chọn loại dịch, chiến lược bù dịch tự do hay hạn chế, đánh giá đáp ứng dịch và tưới máu, bậc thang vận mạch, xanh methylene, thuốc tăng co bóp và chẹn beta.",
+    "Đây là phần có nhiều thay đổi tinh tế so với 2021, rất sát với công việc hằng ngày tại hồi sức."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Theo dõi · KC 42",
+   "title": "Huyết áp động mạch xâm lấn hay không xâm lấn?",
+   "ref": "KC 42 · Có điều kiện, rất thấp · Sửa đổi",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "KC 42",
+     "t": "Cả hai đều được",
+     "d": "2021: ưu tiên xâm lấn · 2026: xâm lấn hoặc không xâm lấn",
+     "items": [
+      "Không khác tử vong (aOR 1,06)",
+      "Biến chứng catheter động mạch 2,89%"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "NÊN XÂM LẤN KHI",
+     "t": "Bốn tình huống",
+     "d": "",
+     "items": [
+      "Vận mạch liều trung bình – cao, tăng liều, hoặc nhiều thuốc",
+      "Cần lấy máu động mạch thường xuyên",
+      "Đo không xâm lấn không nhất quán khi lặp lại"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "THỰC TẾ",
+     "t": "Đồng thuận chỉ 73%",
+     "d": "HA trung bình đo không xâm lấn lệch < 10 mmHg so với xâm lấn",
+     "items": [
+      "62,7% hội đồng dùng xâm lấn",
+      "EVERDAC 1010 người bệnh: chiến lược không xâm lấn không kém hơn (34,3% so với 36,9%)"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo bốn mươi hai được sửa đổi: với sốc nhiễm khuẩn, đề nghị dùng huyết áp động mạch xâm lấn hoặc không xâm lấn, thay cho ưu tiên xâm lấn như năm 2021. Các nghiên cứu quan sát không thấy khác biệt tử vong, và biến chứng của catheter động mạch khoảng 2,89%.",
+    "Tuy vậy, theo dõi xâm lấn được khuyên dùng trong bốn tình huống: cần vận mạch liều trung bình đến cao, đang tăng liều, hoặc dùng nhiều vận mạch; cần lấy máu động mạch thường xuyên; hoặc khi đo không xâm lấn cho kết quả không nhất quán khi lặp lại.",
+    "Lý do là mức đồng thuận giữa hai cách đo chỉ vừa phải: huyết áp trung bình đo không xâm lấn lệch dưới 10 milimét so với xâm lấn ở 73% trường hợp. Trong thực hành, 62,7% hội đồng dùng xâm lấn; người không dùng thì đo không xâm lấn ít nhất mỗi 15 phút trong giai đoạn sớm. Thử nghiệm EVERDAC với 1010 người bệnh công bố sau đó cho thấy chiến lược không xâm lấn không kém hơn về tử vong 28 ngày."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "Dịch · KC 43–47",
+   "title": "Chọn loại dịch",
+   "ref": "KC 43–47",
+   "head": [
+    "Dịch",
+    "Khuyến cáo 2026",
+    "Bằng chứng · lưu ý"
+   ],
+   "widths": "0.9fr 1.3fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Tinh thể</b>",
+      "Dịch đầu tay · mạnh",
+      "Giữ nguyên"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Tinh thể cân bằng</b> so với NaCl 0,9%",
+      "Ưu tiên cân bằng · có điều kiện, trung bình",
+      "Tử vong OR 0,94 · lọc máu mới OR 0,86 (cao) · <em>chấn thương sọ não: dùng NaCl 0,9%</em>"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Albumin bổ sung</b>",
+      "<em>Tinh thể đơn thuần</em> hơn thêm albumin · có điều kiện",
+      "Tử vong RR 1,01 · có thể hợp lý khi đã truyền nhiều tinh thể hoặc xơ gan · tránh ở chấn thương sọ não"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Tinh bột · gelatin</b>",
+      "Không dùng tinh bột (mạnh) · không dùng gelatin",
+      "Giữ nguyên"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Về loại dịch, khuyến cáo bốn mươi ba, mạnh, giữ nguyên: dịch tinh thể là lựa chọn đầu tay.",
+    "Khuyến cáo bốn mươi bốn: ưu tiên dịch tinh thể cân bằng như Ringer lactat hơn natri clorid 0,9%. Phân tích từ các thử nghiệm lớn SMART, BaSICS và PLUS cho thấy dịch cân bằng có lẽ giảm tử vong, tỷ số chênh 0,94, và giảm lọc máu mới, 0,86 với chắc chắn cao; lợi ích lớn nhất khi dùng xuyên suốt quá trình hồi sức. Ngoại lệ: ở người sepsis kèm chấn thương sọ não, dùng natri clorid 0,9%.",
+    "Khuyến cáo bốn mươi lăm thay đổi cách diễn đạt: ưu tiên tinh thể đơn thuần hơn tinh thể kèm albumin, vì sáu thử nghiệm với hơn 4000 người bệnh, chủ yếu ALBIOS và SAFE, không thấy giảm tử vong, mà albumin đắt hơn. Albumin vẫn có thể hợp lý ở người đã truyền nhiều tinh thể hoặc có xơ gan, và cần tránh ở chấn thương sọ não.",
+    "Giữ nguyên: không dùng dung dịch tinh bột, khuyến cáo mạnh, và không dùng gelatin."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "box",
+   "chapter": "Dịch · KC 48",
+   "title": "Sau 30 ml/kg: tự do hay hạn chế dịch?",
+   "ref": "KC 48 · Có điều kiện, thấp · Sửa đổi",
+   "box": {
+    "tag": "KC 48",
+    "t": "Đã nhận 30 ml/kg mà còn giảm tưới máu: dùng <b>chiến lược tự do hoặc hạn chế</b>, tuỳ <b>người bệnh và hệ thống y tế</b>.",
+    "at": 0,
+    "c": "amber",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "4 RCT, 3320 người bệnh (gồm CLOVERS): tử vong RR 1,00 · lọc máu, ngày không vận mạch không khác",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CÂN NHẮC",
+     "t": "Suy tim, bệnh mạn · có giường theo dõi để dùng vận mạch không",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "NGUỒN LỰC THẤP",
+     "t": "Ít máy thở → tác hại quá tải dịch lớn hơn → nghiêng về hạn chế, cá thể hoá",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo bốn mươi tám: với người bệnh đã nhận 30 mililít mỗi kilôgam mà vẫn còn giảm tưới máu, đề nghị chiến lược tự do hoặc hạn chế dịch, tuỳ theo người bệnh và hệ thống y tế. Năm 2021 hướng dẫn nói chưa đủ bằng chứng; năm 2026 đưa ra khuyến cáo hai lựa chọn tương đương.",
+    "Bốn thử nghiệm với 3320 người bệnh, gồm CLOVERS, cho thấy chiến lược hạn chế không khác tử vong so với tự do, nguy cơ tương đối 1,00, và cũng không khác về ngày không thở máy, lọc máu hay ngày không vận mạch.",
+    "Cần cân nhắc tình trạng hiện tại và bệnh mạn tính như suy tim, và cơ sở có giường theo dõi hay không, vì chiến lược hạn chế đồng nghĩa dùng vận mạch nhiều hơn.",
+    "Ở nơi nguồn lực thấp, ít khả năng thở máy xâm lấn, tác hại của quá tải dịch lớn hơn, nên nghiêng về hạn chế hoặc cá thể hoá. Điều quan trọng hơn chiến lược là cách cá thể hoá, nội dung của khuyến cáo tiếp theo."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "cards",
+   "chapter": "Dịch · KC 49",
+   "title": "Dùng chỉ số động để hướng dẫn bù dịch",
+   "ref": "KC 49 · Có điều kiện, thấp",
+   "h": 680,
+   "cards": [
+    {
+     "tag": "KC 49",
+     "t": "Chỉ số động",
+     "d": "Hơn thăm khám hay chỉ số tĩnh đơn thuần",
+     "items": [
+      "Nâng chân thụ động hoặc test dịch",
+      "Thể tích tống máu, SVV, áp lực mạch, PPV",
+      "Tăng 10–15% = đáp ứng dịch"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "18 RCT",
+     "d": "Tử vong RR 0,91 (ít hơn 28/1000)",
+     "items": [
+      "Lọc máu RR 0,75 (ít hơn 71/1000)",
+      "RCT đa trung tâm: cân bằng dịch 72 giờ −1,37 L"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "BẪY",
+     "t": "Chỉ số kém tin cậy",
+     "d": "Nhịp tim, áp lực tĩnh mạch trung tâm, HA tâm thu",
+     "items": [
+      "Tĩnh mạch chủ dưới phản ánh CVP, cùng hạn chế",
+      "Zambia: theo chỉ số tĩnh → nhiều dịch, tử vong 48,1% so với 33%"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo bốn mươi chín, có điều kiện: dùng chỉ số động để hướng dẫn bù dịch, thay vì chỉ thăm khám hay chỉ số tĩnh. Chỉ số động là đáp ứng của thể tích tống máu, biến thiên thể tích tống máu, áp lực mạch hoặc biến thiên áp lực mạch với nghiệm pháp nâng chân thụ động hay test dịch. Tăng 10 đến 15% gợi ý có đáp ứng dịch.",
+    "Phân tích gộp 18 thử nghiệm cho thấy bù dịch theo chỉ số động có lẽ giảm tử vong, ít hơn 28 ca trên 1000 người bệnh, và giảm rõ nhu cầu lọc máu, ít hơn 71 ca trên 1000. Thử nghiệm đa trung tâm duy nhất ở tụt huyết áp do sepsis thấy cân bằng dịch 72 giờ thấp hơn 1,37 lít, ít lọc máu và ít thở máy hơn.",
+    "Nhịp tim, áp lực tĩnh mạch trung tâm và huyết áp tâm thu là chỉ điểm kém. Đường kính và độ xẹp tĩnh mạch chủ dưới chủ yếu phản ánh áp lực tĩnh mạch trung tâm nên cũng có cùng hạn chế, dù hồi sức có hướng dẫn siêu âm tại giường có lẽ giảm tử vong 28 ngày. Một thử nghiệm ở Zambia bù dịch theo chỉ số tĩnh làm người bệnh nhận nhiều dịch hơn và tử vong cao hơn, 48,1% so với 33%."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "cards",
+   "chapter": "Tưới máu · KC 50–52",
+   "title": "Lactate, thời gian đổ đầy mao mạch và cung lượng tim",
+   "ref": "KC 50 · Chưa đủ bằng chứng · KC 51–52 · Có điều kiện, thấp",
+   "h": 680,
+   "cards": [
+    {
+     "tag": "KC 51",
+     "t": "Lactate nối tiếp",
+     "d": "Theo xu hướng, không truyền đến khi về bình thường",
+     "items": [
+      "Giảm ≥ 10% mỗi 2 giờ liên quan kết cục tốt hơn",
+      "Epinephrine làm tăng lactate"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "KC 52",
+     "t": "Thời gian đổ đầy mao mạch",
+     "d": "Bổ trợ cho các chỉ số tưới máu khác",
+     "items": [
+      "Mục tiêu ≤ 3 giây · thay đổi trong 10 phút",
+      "2 RCT: tử vong RR 0,82",
+      "ANDROMEDA-SHOCK-2 (1467): win ratio 1,16"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "tag": "KC 50 · MỚI",
+     "t": "Theo dõi cung lượng tim",
+     "d": "Xâm lấn tối thiểu hoặc không xâm lấn: chưa đủ bằng chứng",
+     "items": [
+      "Siêu âm hồi sức: không đánh giá trong hướng dẫn"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo năm mươi mốt, có điều kiện: dùng lactate nối tiếp để hướng dẫn hồi sức ở người tăng lactate hoặc sốc. Lactate giảm từ 10% mỗi 2 giờ trở lên liên quan kết cục tốt hơn. Nhưng sau bolus ban đầu, bù dịch cần cá thể hoá, không truyền cho đến khi lactate về bình thường, vì truyền quá nhiều để bình thường hoá lactate có thể gây hại. Lưu ý epinephrine làm tăng lactate.",
+    "Khuyến cáo năm mươi hai: dùng thời gian đổ đầy mao mạch để hướng dẫn hồi sức, bổ trợ cho các chỉ số tưới máu khác. Chỉ số này thay đổi nhanh, trong vòng 10 phút, với mục tiêu từ 3 giây trở xuống. Hai thử nghiệm với 233 người bệnh cho nguy cơ tương đối tử vong 0,82, và thử nghiệm đa trung tâm ANDROMEDA-SHOCK-2 với 1467 người bệnh, công bố sau khi chốt khuyến cáo, cho thấy hồi sức cá thể hoá theo thời gian đổ đầy mao mạch tốt hơn chăm sóc thường quy. Đây là công cụ rẻ, làm được ở mọi nơi.",
+    "Khuyến cáo năm mươi, mới: chưa đủ bằng chứng để khuyến cáo theo dõi cung lượng tim xâm lấn tối thiểu hay không xâm lấn bổ sung cho chăm sóc thường quy."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "timeline",
+   "chapter": "Vận mạch · KC 53–59",
+   "title": "Bậc thang vận mạch trong sốc nhiễm khuẩn",
+   "ref": "KC 53–59",
+   "events": [
+    {
+     "year": "Bậc 1",
+     "t": "Norepinephrine",
+     "d": "Đầu tay (mạnh so với dopamine)",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "Bậc 2",
+     "t": "+ Vasopressin",
+     "d": "Khi tăng liều norepinephrine",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "year": "Bậc 3",
+     "t": "+ Epinephrine",
+     "d": "Nếu HA trung bình vẫn chưa đạt",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "year": "Cứu vãn",
+     "t": "Xanh methylene?",
+     "d": "Chưa đủ bằng chứng",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "note": {
+    "t": "Không dùng terlipressin · không có vasopressin: thêm epinephrine vào norepinephrine · không có norepinephrine: epinephrine thay thế",
+    "at": 4,
+    "c": "coral"
+   },
+   "lines": [
+    "Bậc thang vận mạch. Khuyến cáo năm mươi ba, mạnh: norepinephrine là thuốc đầu tay, hơn dopamine, epinephrine hay selepressin. Khuyến cáo năm mươi lăm, có điều kiện: norepinephrine đầu tay hơn cả vasopressin hay angiotensin II.",
+    "Khuyến cáo năm mươi sáu, có điều kiện, chắc chắn trung bình: khi phải tăng liều norepinephrine, thêm vasopressin. Trong thực hành, 85,1% hội đồng làm vậy, bắt đầu ở liều norepinephrine trung vị 0,3 microgam mỗi kilôgam mỗi phút.",
+    "Khuyến cáo năm mươi bảy: nếu huyết áp trung bình vẫn chưa đạt dù đã có norepinephrine và vasopressin, thêm epinephrine; hội đồng bắt đầu ở liều norepinephrine trung vị 0,8.",
+    "Khuyến cáo năm mươi chín: chưa đủ bằng chứng cho xanh methylene trong sốc kháng trị.",
+    "Ngoài ra, không dùng terlipressin. Nơi không có vasopressin, thêm epinephrine vào norepinephrine; và nơi không có norepinephrine, epinephrine là lựa chọn thay thế chấp nhận được."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "compare",
+   "chapter": "Vận mạch · Bằng chứng",
+   "title": "Vasopressin và angiotensin II: dữ liệu then chốt",
+   "ref": "KC 55–56",
+   "head": [
+    "So sánh",
+    "Kết quả",
+    "Ý nghĩa"
+   ],
+   "widths": "1.2fr 1.4fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Vasopressin đầu tay</b> so với norepinephrine",
+      "Tử vong RR 1,07 · lọc máu RR 0,70",
+      "Không hơn; đắt, ít sẵn có"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Thêm angiotensin II</b>",
+      "Tử vong RR 0,85 (gián tiếp, thấp)",
+      "Chưa đủ để thay norepinephrine"
+     ],
+     "at": 0,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Thêm vasopressin</b> so với tăng norepinephrine",
+      "Tử vong RR 0,89 · rung nhĩ RR 0,66 · thiếu máu đầu chi RR 2,87",
+      "9 RCT, 1439 người bệnh"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>VASST</b> · sốc nhẹ hơn",
+      "Norepinephrine < 15 µg/phút: tử vong 26,5% so với 35,7%",
+      "Gợi ý thêm vasopressin sớm hơn"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Dữ liệu then chốt: dùng vasopressin đầu tay thay norepinephrine không giảm tử vong, nguy cơ tương đối 1,07, dù có lẽ giảm lọc máu. Thêm angiotensin II cho nguy cơ tương đối 0,85, nhưng là bằng chứng gián tiếp, chắc chắn thấp. Cả hai đắt và ít sẵn có hơn, nhất là ở nơi nguồn lực thấp.",
+    "Thêm vasopressin khi phải tăng liều norepinephrine, qua 9 thử nghiệm với 1439 người bệnh, có lẽ giảm tử vong, nguy cơ tương đối 0,89, ít rung nhĩ hơn, nhưng có thể tăng thiếu máu đầu chi.",
+    "Trong thử nghiệm VASST, phân nhóm sốc nhẹ hơn, norepinephrine dưới 15 microgam mỗi phút, có tử vong 26,5% so với 35,7%, gợi ý lợi ích khi thêm vasopressin sớm hơn."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "Vận mạch · KC 58–59",
+   "title": "Rối loạn chức năng tim và xanh methylene",
+   "ref": "KC 58 · Mới · KC 59 · Chưa đủ bằng chứng",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "KC 58 · MỚI",
+     "t": "Sốc + rối loạn chức năng tim",
+     "d": "Norepinephrine hoặc epinephrine đầu tay",
+     "items": [
+      "Nhịp nhanh: ưu tiên norepinephrine",
+      "Nhịp chậm: ưu tiên epinephrine",
+      "Epinephrine: loạn nhịp, tăng tiêu thụ oxy, tăng lactate"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "KC 59",
+     "t": "Xanh methylene",
+     "d": "Ức chế NO synthase, tăng trương lực mạch",
+     "items": [
+      "Giảm thời gian vận mạch 1 ngày (trung bình)",
+      "Tử vong RR 0,79 (rất thấp) · nghiên cứu lớn nhất 90 người"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "QUYẾT ĐỊNH CHUNG",
+     "t": "69% hội đồng hầu như không dùng",
+     "d": "Cân nhắc khi bệnh còn khả năng hồi phục",
+     "items": [
+      "Nơi không có vasopressin: có thể là lựa chọn bậc hai duy nhất"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo năm mươi tám, mới: ở sốc nhiễm khuẩn kèm rối loạn chức năng tim, dùng norepinephrine hoặc epinephrine làm vận mạch đầu tay. Norepinephrine nên ưu tiên khi có nhịp nhanh hay loạn nhịp nhanh; epinephrine ưu tiên khi có nhịp chậm. Epinephrine có tác dụng tăng co bóp mạnh, nhưng gây loạn nhịp nhanh, tăng tiêu thụ oxy cơ tim và tăng lactate.",
+    "Khuyến cáo năm mươi chín: chưa đủ bằng chứng cho xanh methylene tĩnh mạch trong sốc kháng trị. Thuốc tăng trương lực mạch qua ức chế men tổng hợp nitric oxid, có lẽ giảm thời gian dùng vận mạch khoảng 1 ngày, nhưng tác động trên tử vong rất không chắc chắn, và nghiên cứu lớn nhất chỉ có 90 người bệnh.",
+    "Trong thực hành, 69% hội đồng không bao giờ hoặc hầu như không dùng. Quyết định nên được chia sẻ với người bệnh và gia đình, cân nhắc ở người còn khả năng hồi phục với chất lượng sống chấp nhận được; và ở nơi không có vasopressin, xanh methylene có thể là lựa chọn bậc hai duy nhất."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "cards",
+   "chapter": "Tăng co bóp · KC 60–62",
+   "title": "Thuốc tăng co bóp: thêm vào, không thay thế",
+   "ref": "KC 60–61 · Có điều kiện, rất thấp · KC 62 · Có điều kiện, thấp",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "KC 60",
+     "t": "Có dùng tăng co bóp",
+     "d": "Rối loạn chức năng tim + giảm tưới máu kéo dài dù đủ dịch và HA",
+     "items": [
+      "Dùng THÊM vào vận mạch, không thay thế",
+      "Nghi qua siêu âm tim tại giường"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KC 61",
+     "t": "Dobutamine + norepinephrine",
+     "d": "Hoặc epinephrine đơn thuần",
+     "items": [
+      "RCT 330 người bệnh: tử vong 90 ngày RR 0,96",
+      "Dobutamine hay milrinone: chưa đủ dữ liệu"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KC 62",
+     "t": "Không dùng levosimendan",
+     "d": "Giữ nguyên từ 2021",
+     "items": [
+      "Hội đồng: 94% có dùng tăng co bóp, 71,4% chọn dobutamine"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo sáu mươi, có điều kiện: ở sốc nhiễm khuẩn có rối loạn chức năng tim và giảm tưới máu kéo dài dù đã đủ dịch và huyết áp, dùng thuốc tăng co bóp. Rối loạn chức năng tim nên được phát hiện qua siêu âm tim tại giường hoặc thiết bị đo cung lượng tim. Quan trọng: thuốc tăng co bóp phải được dùng thêm vào, không thay thế vận mạch, vì nguy cơ giãn mạch và tụt huyết áp.",
+    "Khuyến cáo sáu mươi mốt: thêm dobutamine vào norepinephrine, hoặc dùng epinephrine đơn thuần. Một thử nghiệm 330 người bệnh so sánh hai cách không thấy khác biệt tử vong 90 ngày. Chưa đủ dữ liệu để so sánh dobutamine với milrinone.",
+    "Khuyến cáo sáu mươi hai, giữ nguyên: không dùng levosimendan. Trong thực hành, 94% hội đồng có dùng tăng co bóp, và 71,4% chọn dobutamine."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "Khác · KC 63–64",
+   "title": "Midodrine và chẹn beta",
+   "ref": "KC 63 · Chưa đủ bằng chứng · KC 64 · Có điều kiện, rất thấp",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "KC 63 · MỚI",
+     "t": "Midodrine uống",
+     "d": "Chưa đủ bằng chứng",
+     "items": [
+      "4 RCT nhỏ, 180 người bệnh sốc nhiễm khuẩn",
+      "32,8% hội đồng dùng, chủ yếu để cai vận mạch sau giai đoạn cấp"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "KC 64",
+     "t": "Không dùng chẹn beta",
+     "d": "Esmolol, landiolol để điều trị sốc",
+     "items": [
+      "12 RCT: tử vong RR 0,76 (rất thấp)",
+      "Ít loạn nhịp nhanh mới, nhưng thêm 1 ngày vận mạch"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "NGHIÊN CỨU",
+     "t": "Ưu tiên tương lai",
+     "d": "Thời điểm, thuốc, phân nhóm hưởng lợi",
+     "items": [],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo sáu mươi ba, mới: chưa đủ bằng chứng để khuyến cáo midodrine uống ở người còn cần vận mạch. Bốn thử nghiệm nhỏ với 180 người bệnh sốc nhiễm khuẩn cho kết quả không chắc chắn. Trong thực hành, 32,8% hội đồng có dùng, chủ yếu sau giai đoạn cấp để cai vận mạch tĩnh mạch.",
+    "Khuyến cáo sáu mươi tư, có điều kiện: không dùng chẹn beta tác dụng ngắn đường tĩnh mạch như esmolol hay landiolol để điều trị sốc nhiễm khuẩn. Mười hai thử nghiệm với 1170 người bệnh cho tác động không chắc chắn trên tử vong; chẹn beta giảm loạn nhịp nhanh mới, nhưng kéo dài thời gian vận mạch thêm khoảng 1 ngày.",
+    "Cả hai là ưu tiên nghiên cứu, cần thử nghiệm đa trung tâm lớn."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy huyết động",
+   "ref": "Tổng hợp KC 42–64",
+   "box": {
+    "tag": "BẪY",
+    "t": "Truyền dịch tiếp vì “CVP còn thấp” hoặc “lactate chưa về bình thường” → dễ <b>quá tải dịch</b>. Dùng chỉ số động, CRT, xu hướng lactate.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "BẪY 2",
+     "t": "NaCl 0,9% suốt quá trình hồi sức (trừ chấn thương sọ não)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Albumin thường quy cho mọi người bệnh",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Tăng norepinephrine mãi, chậm thêm vasopressin",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 5",
+     "t": "Dobutamine thay cho vận mạch khi HA còn thấp",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xin điểm năm bẫy huyết động. Bẫy thứ nhất: tiếp tục truyền dịch vì áp lực tĩnh mạch trung tâm còn thấp hoặc lactate chưa về bình thường, dẫn tới quá tải dịch. Hãy dùng chỉ số động, thời gian đổ đầy mao mạch và xu hướng lactate.",
+    "Bẫy thứ hai: dùng natri clorid 0,9% suốt quá trình hồi sức, trừ khi có chấn thương sọ não.",
+    "Bẫy thứ ba: dùng albumin thường quy cho mọi người bệnh.",
+    "Bẫy thứ tư: tăng norepinephrine mãi mà chậm thêm vasopressin.",
+    "Bẫy thứ năm: dùng dobutamine thay cho vận mạch khi huyết áp còn thấp; tăng co bóp chỉ được dùng thêm vào vận mạch."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: norepinephrine đang tăng",
+   "case": "Nam 58 tuổi, sốc nhiễm khuẩn do viêm phổi, đã 30 ml/kg tinh thể cân bằng. <b>Norepinephrine tăng từ 0,15 lên 0,35 µg/kg/phút</b>, HA trung bình 61 mmHg. Nâng chân thụ động: thể tích tống máu không tăng. Có sẵn vasopressin.",
+   "case_at": 1,
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Truyền thêm 2 lít tinh thể",
+    "Thêm vasopressin vào norepinephrine",
+    "Thay norepinephrine bằng dopamine",
+    "Dùng xanh methylene ngay"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Không đáp ứng dịch (KC 49) → không truyền thêm. Đang tăng liều norepinephrine → thêm vasopressin (KC 56, có điều kiện, trung bình; hội đồng thêm ở ≈ 0,3 µg/kg/phút). Không dùng dopamine (KC 53). Xanh methylene: chưa đủ bằng chứng, chỉ cân nhắc cứu vãn.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 58 tuổi, sốc nhiễm khuẩn do viêm phổi, đã nhận 30 mililít mỗi kilôgam dịch tinh thể cân bằng. Norepinephrine tăng từ 0,15 lên 0,35 microgam mỗi kilôgam mỗi phút, huyết áp trung bình 61. Nâng chân thụ động không làm tăng thể tích tống máu. Khoa có sẵn vasopressin.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là thêm vasopressin. Người bệnh không đáp ứng dịch theo chỉ số động, nên không truyền thêm. Khi phải tăng liều norepinephrine, hướng dẫn đề nghị thêm vasopressin, và hội đồng thường bắt đầu ở liều norepinephrine khoảng 0,3. Dopamine không được khuyến cáo, còn xanh methylene chưa đủ bằng chứng và chỉ cân nhắc như cứu vãn ở sốc kháng trị."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: tưới máu chưa cải thiện",
+   "case": "Nữ 55 tuổi, sốc nhiễm khuẩn, đã đủ dịch, norepinephrine + vasopressin, <b>HA trung bình 67 mmHg</b>. Nhưng <b>thời gian đổ đầy mao mạch 5 giây</b>, lactate 4,8 không giảm, da nổi bông. Siêu âm: <b>phân suất tống máu thất trái 25%</b>, không đáp ứng dịch.",
+   "case_at": 1,
+   "q": "Xử trí phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Truyền thêm dịch đến khi lactate về bình thường",
+    "Thêm dobutamine vào vận mạch (hoặc chuyển sang epinephrine)",
+    "Ngưng vasopressin, thay bằng dobutamine",
+    "Thêm levosimendan"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Rối loạn chức năng tim + giảm tưới máu kéo dài dù đủ dịch và HA → thuốc tăng co bóp (KC 60), dobutamine thêm vào norepinephrine hoặc epinephrine (KC 61). Tăng co bóp dùng THÊM, không thay vận mạch. Không levosimendan (KC 62). Không truyền dịch đến khi lactate bình thường.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nữ 55 tuổi, sốc nhiễm khuẩn, đã đủ dịch, đang dùng norepinephrine và vasopressin, huyết áp trung bình 67. Nhưng thời gian đổ đầy mao mạch 5 giây, lactate 4,8 không giảm, da nổi bông. Siêu âm tim thấy phân suất tống máu thất trái 25%, và không đáp ứng dịch.",
+    "Xử trí nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là thêm dobutamine vào vận mạch, hoặc chuyển sang epinephrine. Người bệnh có rối loạn chức năng tim và giảm tưới máu kéo dài dù đã đủ dịch và huyết áp đạt, đúng chỉ định thuốc tăng co bóp. Thuốc tăng co bóp được dùng thêm vào, không thay vận mạch. Levosimendan không được khuyến cáo, và không truyền dịch cho đến khi lactate về bình thường, nhất là khi không đáp ứng dịch."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 3",
+   "title": "Sáu thông điệp của Phần 3",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "HA xâm lấn hoặc không xâm lấn",
+     "d": "Xâm lấn khi vận mạch liều cao, nhiều thuốc, đo không nhất quán",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Tinh thể cân bằng · albumin không thường quy",
+     "d": "Không tinh bột, gelatin · chấn thương sọ não: NaCl 0,9%",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Sau 30 ml/kg: cá thể hoá",
+     "d": "Tự do hay hạn chế đều được · dùng chỉ số động",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Xu hướng lactate + CRT",
+     "d": "Không truyền đến khi lactate bình thường",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Norepinephrine → vasopressin → epinephrine",
+     "d": "Rối loạn tim: norepinephrine hoặc epinephrine",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Tăng co bóp: thêm vào, không thay thế",
+     "d": "Không levosimendan, không chẹn beta",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần ba, xin tóm tắt những thông điệp chính.",
+    "Huyết áp có thể theo dõi xâm lấn hoặc không xâm lấn, nhưng nên xâm lấn khi vận mạch liều cao, nhiều thuốc hoặc đo không nhất quán. Dùng dịch tinh thể cân bằng, albumin không thường quy, không dùng tinh bột hay gelatin.",
+    "Sau 30 mililít mỗi kilôgam, chiến lược tự do hay hạn chế đều chấp nhận được, nhưng phải cá thể hoá bằng chỉ số động, xu hướng lactate và thời gian đổ đầy mao mạch.",
+    "Bậc thang vận mạch là norepinephrine, thêm vasopressin, rồi epinephrine. Thuốc tăng co bóp được dùng thêm vào vận mạch khi có rối loạn chức năng tim và giảm tưới máu kéo dài.",
+    "Phần bốn sẽ bàn về hỗ trợ hô hấp: mục tiêu oxy, oxy dòng cao, nằm sấp khi tỉnh, thông khí bảo vệ phổi, nằm sấp và ECMO trong ARDS. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
