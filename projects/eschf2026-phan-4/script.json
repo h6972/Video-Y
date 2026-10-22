@@ -1,0 +1,843 @@
+{
+ "title": "ESC 2026 Suy tim – Phần 4: Thiết bị, can thiệp và bệnh đồng mắc tim mạch",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch",
+ "part": "ESC 2026 Suy tim · Phần 4/6",
+ "source_short": "Nguồn: 2026 ESC Guidelines for the management of heart failure (Eur Heart J 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026.",
+ "lexicon": {
+  "REDUCE LAP-HF II": "ri điu láp suy tim hai",
+  "REVIVED-BCIS2": "ri vai vợt",
+  "BUDAPEST-CRT": "bu đa pét xê a tê",
+  "PARADIGM-HF": "pa ra đai suy tim",
+  "PREVENT-HF": "pri ven suy tim",
+  "REDUCE-AMI": "ri điu xơ a em i",
+  "CHA2DS2-VA": "cha đét vi a",
+  "RELIEVE-HF": "ri líp suy tim",
+  "NT-proBNP": "en tê prô bê en pê",
+  "SCORE2-HF": "xcô hai suy tim",
+  "SMART2-HF": "xmát hai suy tim",
+  "CAPRICORN": "ca pri con",
+  "MADIT-CRT": "ma đít xê a tê",
+  "COMPANION": "com pa ni ơn",
+  "GLP-1 RA": "đồng vận thụ thể gờ lê pê một",
+  "DANBLOCK": "đan blốc",
+  "PREDIMED": "pre đi mét",
+  "SCD-HeFT": "ét xê đê hép",
+  "MADIT-II": "ma đít hai",
+  "DapaTAVI": "đa pa ta vi",
+  "SGLT2-I": "thuốc ức chế ét gờ lê tê hai",
+  "HFimpEF": "suy tim phân suất tống máu cải thiện",
+  "LIFE-HF": "lai phờ suy tim",
+  "EPHESUS": "ê phê xút",
+  "CARE-HF": "ke suy tim",
+  "REVERSE": "ri vớt",
+  "RACE II": "rây hai",
+  "STICHES": "xtích ét",
+  "HFmrEF": "suy tim phân suất tống máu giảm nhẹ",
+  "MAGGIC": "ma gích",
+  "BETAMI": "bê ta mi",
+  "REBOOT": "ri bút",
+  "REVERT": "ri vớt",
+  "SGLT2": "ét gờ lê tê hai",
+  "GLP-1": "gờ lê pê một",
+  "HFrEF": "suy tim phân suất tống máu giảm",
+  "HFpEF": "suy tim phân suất tống máu bảo tồn",
+  "ACE-I": "ức chế men chuyển",
+  "SOLVD": "xôn",
+  "TRACE": "tơ rây",
+  "pg/mL": "picogam mỗi mililít",
+  "ml/kg": "mililít mỗi kilôgam",
+  "type ": "típ ",
+  "ASCVD": "bệnh tim mạch do xơ vữa",
+  "CRT-D": "tái đồng bộ có phá rung",
+  "CRT-P": "tái đồng bộ tạo nhịp",
+  "S-ICD": "máy phá rung dưới da",
+  "STICH": "xtích",
+  "LVESD": "đường kính thất trái cuối tâm thu",
+  "LVEF": "phân suất tống máu thất trái",
+  "NYHA": "ni ha",
+  "ARNI": "a ni",
+  "GDMT": "điều trị nội khoa theo hướng dẫn",
+  "GDIT": "điều trị can thiệp theo hướng dẫn",
+  "LVAD": "dụng cụ hỗ trợ thất trái",
+  "TEER": "sửa van qua ống thông",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "SAVR": "thay van động mạch chủ bằng phẫu thuật",
+  "SCAI": "ét ca i",
+  "SAVE": "xây phờ",
+  "ATTR": "a tê tê rờ",
+  "ARVC": "bệnh cơ tim thất phải gây loạn nhịp",
+  "mmHg": "milimét thủy ngân",
+  "T2DM": "đái tháo đường típ 2",
+  "DOAC": "thuốc chống đông đường uống trực tiếp",
+  "CABG": "bắc cầu chủ vành",
+  "sPAP": "áp lực tâm thu động mạch phổi",
+  "ESC": "e ét xê",
+  "ARB": "chẹn thụ thể angiotensin",
+  "MRA": "kháng thụ thể mineralocorticoid",
+  "FMT": "điều trị nội khoa nền tảng",
+  "AMT": "điều trị nội khoa bổ sung",
+  "DHF": "suy tim mất bù",
+  "CRT": "tái đồng bộ tim",
+  "ICD": "máy phá rung cấy",
+  "MCS": "hỗ trợ tuần hoàn cơ học",
+  "CMR": "cộng hưởng từ tim",
+  "ECG": "điện tâm đồ",
+  "BNP": "bê en pê",
+  "CKD": "bệnh thận mạn",
+  "HFA": "hội suy tim châu Âu",
+  "TTR": "tê tê rờ",
+  "DCM": "bệnh cơ tim giãn",
+  "PET": "pét",
+  "FDG": "ép đê gờ",
+  "PCI": "can thiệp mạch vành qua da",
+  "HCM": "bệnh cơ tim phì đại"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 4/6",
+   "title": "Thiết bị, can thiệp<br>và bệnh đồng mắc tim mạch",
+   "subtitle": "Phần 4 · ICD, CRT, tạo nhịp, rung nhĩ, bệnh mạch vành, bệnh van tim, tăng huyết áp",
+   "badges": [
+    {
+     "t": "ICD · CRT",
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "t": "Rung nhĩ: chẹn beta đầu tay",
+     "c": "amber",
+     "at": "L1+2"
+    },
+    {
+     "t": "TEER lên nhóm I",
+     "c": "teal",
+     "at": "L1+4"
+    }
+   ],
+   "note": "2026 ESC Guidelines for the management of heart failure · Mục 6.2 và Mục 9",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần bốn của loạt bài về Hướng dẫn suy tim của Hội Tim mạch châu Âu năm 2026.",
+    "Phần này gồm hai mảng: điều trị can thiệp theo hướng dẫn với máy phá rung cấy và tái đồng bộ tim; và bệnh đồng mắc tim mạch gồm rung nhĩ, rối loạn nhịp thất, bệnh mạch vành mạn, bệnh van tim, tăng huyết áp và đột quỵ.",
+    "Cũng như thuốc nền tảng, thiết bị là một cam kết suốt đời, và quyết định luôn cần chia sẻ với người bệnh."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "ICD · Mục 6.2.1",
+   "title": "Vì sao cần máy phá rung cấy?",
+   "ref": "Mục 6.2.1",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "VẤN ĐỀ",
+     "t": "Đột tử chiếm 30–60%",
+     "d": "số tử vong trong các thử nghiệm suy tim đầu tiên",
+     "items": [
+      "Thuốc chống loạn nhịp không kéo dài sống, có thể rút ngắn",
+      "Nguy cơ còn lại: 3,3/100 người-năm (PARADIGM-HF)"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "ICD giảm tử vong",
+     "d": "SCD-HeFT: giảm 23% so với amiodarone",
+     "items": [
+      "MADIT-II: giảm 31%",
+      "Không thiếu máu cục bộ: lợi ích ít hơn nhưng vẫn có"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CÁ THỂ HOÁ",
+     "t": "Nguy cơ cạnh tranh",
+     "d": "Lớn tuổi, nhiều bệnh: lợi ích giảm",
+     "items": [
+      "Quyết định chia sẻ với người bệnh",
+      "Xơ hoá cơ tim, kiểu gen giúp phân tầng"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Trong các thử nghiệm suy tim đầu tiên, đột tử do loạn nhịp chiếm 30 đến 60% số tử vong. Thuốc chống loạn nhịp như amiodarone giảm rối loạn nhịp thất nhưng không kéo dài sống, thậm chí có thể rút ngắn. Dù nguy cơ đột tử đã giảm theo thời gian, nguy cơ còn lại vẫn cao, 3,3 trên 100 người-năm trong PARADIGM-HF.",
+    "Máy phá rung cấy giảm tử vong: trong SCD-HeFT giảm 23% tử vong chung so với amiodarone, trong MADIT-II giảm 31%. Người suy tim không do thiếu máu cục bộ có lợi ích ít hơn, nhưng phân tích gộp vẫn cho thấy lợi ích sống còn.",
+    "Lợi ích phụ thuộc nguy cơ tử vong không đột ngột: ở người lớn tuổi, nhiều bệnh đồng mắc, lợi ích giảm đáng kể. Vì vậy quyết định chia sẻ với người bệnh là thiết yếu; mức xơ hoá cơ tim và kiểu gen giúp phân tầng nguy cơ ở bệnh cơ tim."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "ICD · Bảng khuyến cáo 6",
+   "title": "Chỉ định máy phá rung cấy",
+   "ref": "Bảng khuyến cáo 6",
+   "head": [
+    "Tình huống",
+    "Khuyến cáo",
+    "Điều kiện"
+   ],
+   "widths": "1.1fr 0.7fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Dự phòng thứ phát</b>",
+      "I A",
+      "Sống sót sau loạn nhịp thất gây mất ổn định huyết động · không do nguyên nhân hồi phục hay < 48 giờ sau nhồi máu"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Thiếu máu cục bộ</b>",
+      "I B1",
+      "NYHA II–III, <em>LVEF ≤ 35% dù ≥ 3 tháng FMT tối ưu</em>, không nhồi máu trong 40 ngày, kỳ vọng sống > 1 năm"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Không thiếu máu cục bộ</b>",
+      "IIa B1",
+      "Cùng điều kiện"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Không khuyến cáo</b>",
+      "III",
+      "Trong 40 ngày sau nhồi máu · NYHA IV kháng trị trừ khi chờ CRT, LVAD, ghép tim"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bảng khuyến cáo 6. Dự phòng thứ phát, nhóm một mức A: người sống sót sau loạn nhịp thất gây mất ổn định huyết động, kỳ vọng sống trên một năm với chức năng tốt, khi không có nguyên nhân hồi phục và loạn nhịp không xảy ra trong 48 giờ đầu sau nhồi máu.",
+    "Dự phòng nguyên phát ở suy tim do thiếu máu cục bộ, nhóm một: có triệu chứng mức độ hai đến ba, phân suất tống máu từ 35% trở xuống dù đã dùng thuốc nền tảng tối ưu ít nhất 3 tháng, không nhồi máu trong 40 ngày trước, và kỳ vọng sống trên một năm.",
+    "Với suy tim không do thiếu máu cục bộ, cùng các điều kiện, khuyến cáo là nhóm hai a.",
+    "Không khuyến cáo cấy máy dự phòng nguyên phát trong 40 ngày sau nhồi máu, vì hai nghiên cứu cho thấy không cải thiện tiên lượng; và không cấy cho người mức độ bốn kháng trị, trừ khi là ứng viên tái đồng bộ, dụng cụ hỗ trợ thất hay ghép tim."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "ICD · Mục 6.2.1.4–6",
+   "title": "Thời điểm, thay máy và các loại máy khác",
+   "ref": "Mục 6.2.1.4–6.2.1.6",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "THỜI ĐIỂM",
+     "t": "Chờ 3 tháng FMT tối ưu",
+     "d": "Rồi đánh giá lại LVEF",
+     "items": [
+      "Trì hoãn có giá: đột tử 2–4% sau 6 tháng, ≈ 7% sau 1 năm"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "THAY MÁY · IIa C",
+     "t": "Quyết định chia sẻ",
+     "d": "Trước khi thay máy",
+     "items": [
+      "> 15% bị sốc sau thay dù chưa từng sốc phù hợp",
+      "Xem lại nguy cơ, tuổi thọ, bệnh đồng mắc, mong muốn"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KHÁC",
+     "t": "Dưới da, ngoài mạch, mang ngoài",
+     "d": "Dưới da: không nhiễm khuẩn nội mạch, không tạo nhịp chống nhịp nhanh",
+     "items": [
+      "Máy mang ngoài: IIb C, cầu nối quyết định hoặc chờ ghép"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Về thời điểm, hợp lý là chờ khoảng 3 tháng sau khi tăng liều thuốc nền tảng rồi đánh giá lại phân suất tống máu. Tuy vậy, trì hoãn có cái giá: nguy cơ đột tử 2 đến 4% sau 6 tháng và khoảng 7% sau một năm.",
+    "Khi đến hạn thay máy, nên có quyết định chia sẻ giữa người bệnh và bác sĩ tim mạch có kinh nghiệm, nhóm hai a. Hơn 15% người chưa từng bị sốc phù hợp vẫn bị sốc sau khi thay máy, nhưng khi suy tim và bệnh đồng mắc tiến triển, lợi ích có thể giảm, nên cần cân nhắc lại nguy cơ, tuổi thọ còn lại, biến chứng và mong muốn người bệnh.",
+    "Máy phá rung dưới da không có điện cực nội mạch, nên tránh nhiễm khuẩn nội mạch, hiệu quả tương đương, nhưng không tạo nhịp chậm hay tạo nhịp chống nhịp nhanh. Máy phá rung mang ngoài, nhóm hai b, có thể dùng tạm thời như cầu nối quyết định hoặc khi chờ ghép tim, dù chưa chứng minh giảm tử vong."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "CRT · Bảng khuyến cáo 7",
+   "title": "Chỉ định tái đồng bộ tim (CRT)",
+   "ref": "Bảng khuyến cáo 7 · Hình 10",
+   "head": [
+    "QRS (nhịp xoang, LVEF ≤ 35%, FMT tối ưu)",
+    "LBBB",
+    "Không LBBB"
+   ],
+   "widths": "1.6fr 1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>≥ 150 ms</b>",
+      "<em>I A</em>",
+      "IIa"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>130–149 ms</b>",
+      "IIa",
+      "IIb"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>< 130 ms</b> (không có chỉ định tạo nhịp)",
+      "III",
+      "III"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Block nhĩ thất độ cao cần tạo nhịp thất</b> · CRT thay vì tạo nhịp thất phải",
+      "IIa (sửa đổi)",
+      "mọi NYHA, mọi QRS, kể cả rung nhĩ"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Nâng cấp</b> khi tạo nhịp thất phải nhiều · <b>song song FMT</b> khi LBBB ≥ 150",
+      "IIa · IIb (mới)",
+      "Đánh giá lại LVEF trước khi cấy"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bảng khuyến cáo 7 về tái đồng bộ tim, áp dụng cho người có triệu chứng, phân suất tống máu từ 35% trở xuống dù đã tối ưu thuốc, nhịp xoang. Block nhánh trái với QRS từ 150 mili giây: nhóm một mức A. Không block nhánh trái với QRS từ 150: nhóm hai a.",
+    "QRS 130 đến 149: nhóm hai a nếu block nhánh trái, nhóm hai b nếu không.",
+    "QRS dưới 130 mili giây mà không có chỉ định tạo nhịp do block nhĩ thất độ cao: không khuyến cáo.",
+    "Khuyến cáo được sửa thành nhóm hai a: tái đồng bộ thay vì tạo nhịp thất phải ở người suy tim phân suất tống máu giảm có chỉ định tạo nhịp thất do block nhĩ thất độ cao, bất kể mức độ triệu chứng hay độ rộng QRS, kể cả khi rung nhĩ.",
+    "Nhóm hai a: nâng cấp lên tái đồng bộ ở người đã có máy tạo nhịp hoặc máy phá rung mà tạo nhịp thất phải nhiều. Khuyến cáo mới nhóm hai b: có thể khởi đầu thuốc nền tảng và lên kế hoạch tái đồng bộ song song ở người block nhánh trái QRS từ 150, nhưng phải đánh giá lại phân suất tống máu trước khi cấy."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "cards",
+   "chapter": "CRT · Mục 6.2.2–6.2.6",
+   "title": "Bằng chứng, thời điểm và các thiết bị khác",
+   "ref": "Mục 6.2.2–6.2.6",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "CRT giảm tử vong",
+     "d": "COMPANION: giảm 20% · CARE-HF",
+     "items": [
+      "MADIT-CRT (NYHA I–II): giảm 34%",
+      "REVERSE: tử vong 2,9%/năm"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "THỜI ĐIỂM",
+     "t": "Trước khi nhập viện",
+     "d": "Kết cục tốt nhất khi cấy trước hoặc ngay lần nhập viện đầu",
+     "items": [
+      "Get With The Guidelines: tử vong HR 0,63"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "TẠO NHỊP THẤT PHẢI",
+     "t": "Suy tim do tạo nhịp",
+     "d": "5,9–39% người tạo nhịp",
+     "items": [
+      "BUDAPEST-CRT: ≥ 20% tạo nhịp thất phải, QRS ≥ 150 → nâng cấp HR 0,27"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CHƯA KHUYẾN CÁO",
+     "t": "Tạo nhịp hệ dẫn truyền",
+     "d": "Nhánh trái: thay thế khi cấy CRT khó",
+     "items": [
+      "Chưa có RCT kết cục",
+      "Shunt liên nhĩ: trung tính (RELIEVE-HF)"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tái đồng bộ cải thiện chức năng tim, chất lượng sống, giảm nhập viện và tử vong. COMPANION giảm 20% biến cố gộp; CARE-HF giảm tử vong với tái đồng bộ tạo nhịp; MADIT-CRT ở người mức độ một và hai giảm 34% tử vong hoặc biến cố suy tim; và trong REVERSE, tử vong hằng năm chỉ 2,9%.",
+    "Về thời điểm, các nghiên cứu quan sát cho thấy kết cục tốt nhất khi cấy trước lần nhập viện đầu tiên hoặc ngay trong lần đó; trong sổ bộ Get With The Guidelines, cấy trong lúc nằm viện liên quan tử vong thấp hơn với tỷ số 0,63. Vì vậy nên cấy sớm ở người được lợi nhất.",
+    "Tạo nhịp thất phải gây suy tim ở 5,9 đến 39% người tạo nhịp. Thử nghiệm BUDAPEST-CRT Upgrade cho thấy nâng cấp lên tái đồng bộ có phá rung ở người tạo nhịp thất phải từ 20% và QRS từ 150 giảm mạnh tử vong và nhập viện, tỷ số nguy cơ 0,27.",
+    "Tạo nhịp hệ dẫn truyền, như vùng nhánh trái, có thể là lựa chọn khi cấy tái đồng bộ khó, nhưng chưa có thử nghiệm kết cục nên chưa có khuyến cáo. Shunt liên nhĩ cũng trung tính trong RELIEVE-HF và REDUCE LAP-HF II."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "Rung nhĩ · Mục 9.1.1",
+   "title": "Rung nhĩ trong suy tim: chống đông và kiểm soát tần số",
+   "ref": "Mục 9.1.1 · Bảng 18 · Bảng khuyến cáo 15",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "DỊCH TỄ",
+     "t": "Hơn một nửa",
+     "d": "người suy tim có rung nhĩ",
+     "items": [
+      "Tăng tử vong, nhập viện, đột quỵ ở mọi LVEF"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "CHỐNG ĐÔNG · I A",
+     "t": "Theo CHA2DS2-VA",
+     "d": "≥ 2: khuyến cáo · 1: cân nhắc",
+     "items": [
+      "Suy tim (giai đoạn B, C, D) được 1 điểm",
+      "DOAC ưu tiên (I B1) · bệnh cơ tim phì đại, amyloid: luôn chống đông"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "TẦN SỐ",
+     "t": "Chẹn beta đầu tay · I C",
+     "d": "Mục tiêu ban đầu nới lỏng < 110/phút",
+     "items": [
+      "Chưa đạt: digoxin/digitoxin (IIa C)",
+      "Không ổn định: sốc điện trước · amiodarone/digoxin tĩnh mạch IIb C (mới)"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Rung nhĩ gặp ở hơn một nửa người suy tim, và suy tim gặp ở hơn một phần ba người rung nhĩ. Sự đồng tồn tại làm tăng tử vong, nhập viện và đột quỵ ở mọi phân suất tống máu.",
+    "Chống đông đường uống được khuyến cáo nhóm một theo thang điểm CHA2DS2-VA mới, đã bỏ yếu tố giới: suy tim giai đoạn B, C, D được một điểm; từ 2 điểm thì khuyến cáo chống đông, 1 điểm thì nên cân nhắc. Thuốc chống đông đường uống trực tiếp được ưu tiên hơn kháng vitamin K, trừ hẹp hai lá vừa đến nặng hoặc van cơ học. Người bệnh cơ tim phì đại và amyloid tim có rung nhĩ luôn được chống đông.",
+    "Về kiểm soát tần số, mục tiêu ban đầu nới lỏng dưới 110 lần mỗi phút. Khuyến cáo sửa đổi: chẹn beta là lựa chọn đầu tay ở người ổn định có suy tim phân suất tống máu giảm. Nếu chưa đạt hoặc không dung nạp, dùng digoxin hoặc digitoxin. Khi mất ổn định huyết động, sốc điện là lựa chọn đầu tiên; khuyến cáo mới nhóm hai b cho phép amiodarone hoặc digoxin tĩnh mạch để kiểm soát tần số cấp."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "Rung nhĩ · Mục 9.1.1.5–9.1.2",
+   "title": "Kiểm soát nhịp, cắt nút nhĩ thất và loạn nhịp thất",
+   "ref": "Mục 9.1.1.5 · 9.1.2 · Bảng khuyến cáo 15",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "SỐC ĐIỆN · I C",
+     "t": "Khẩn khi mất bù + mất ổn định",
+     "d": "Thuốc: chỉ amiodarone",
+     "items": [
+      "Tránh propafenone, flecainide, dronedarone"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "TRIỆT ĐỐT · IIa C",
+     "t": "Chọn lọc, đủ cả 3",
+     "d": "Gánh nặng rung nhĩ cao",
+     "items": [
+      "Dai dẳng liên tục < 1 năm",
+      "Quan hệ nhân quả rõ với suy tim"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "MỚI · IIa B1",
+     "t": "Cắt nút nhĩ thất + CRT",
+     "d": "Rung nhĩ vĩnh viễn, triệu chứng nặng, tần số kém + ≥ 1 lần nhập viện",
+     "items": [
+      "Giảm tử vong, nhập viện, bất kể LVEF"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "LOẠN NHỊP THẤT",
+     "t": "Ngoại tâm thu thất ≥ 10%",
+     "d": "Tăng nguy cơ suy tim",
+     "items": [
+      "Theo dõi LVEF · triệt đốt có thể cải thiện",
+      "Amiodarone không giảm đột tử"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hiện chưa đủ bằng chứng ưu tiên kiểm soát nhịp hơn kiểm soát tần số. Khi suy tim mất bù với rung nhĩ nhanh và mất ổn định huyết động, sốc điện khẩn được khuyến cáo nhóm một. Nếu chuyển nhịp bằng thuốc, chỉ dùng amiodarone; propafenone, flecainide và dronedarone làm xấu tiên lượng nên tránh.",
+    "Triệt đốt rung nhĩ qua ống thông nên được cân nhắc ở người được chọn lọc, đủ cả ba tiêu chí: gánh nặng rung nhĩ cao, rung nhĩ dai dẳng liên tục dưới một năm, và quan hệ nhân quả rõ giữa rung nhĩ và suy tim.",
+    "Khuyến cáo mới nhóm hai a: cắt nút nhĩ thất phối hợp tái đồng bộ ở người rung nhĩ vĩnh viễn, triệu chứng nặng, kiểm soát tần số kém dù dùng thuốc, và có ít nhất một lần nhập viện vì suy tim; chiến lược này giảm tử vong và nhập viện, bất kể phân suất tống máu.",
+    "Với loạn nhịp thất, gánh nặng ngoại tâm thu thất khoảng 10% đã làm tăng nguy cơ suy tim, nên cần theo dõi phân suất tống máu; triệt đốt có thể cải thiện chức năng thất trái. Amiodarone giảm loạn nhịp nhưng không giảm đột tử."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "Mạch vành · Mục 9.2",
+   "title": "Hội chứng vành mạn ở người suy tim",
+   "ref": "Mục 9.2 · Bảng khuyến cáo 16 · Hình 19",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "THUỐC",
+     "t": "Chẹn beta đầu tay",
+     "d": "Ivabradine nếu tần số > 70",
+     "items": [
+      "Amlodipine, felodipine, nicorandil, ranolazine, trimetazidine: cải thiện triệu chứng",
+      "Không giảm FMT vì thuốc chống đau thắt ngực"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "TRÁNH",
+     "t": "Verapamil, diltiazem",
+     "d": "Ức chế co bóp ở HFrEF",
+     "items": [
+      "Nitrate tác dụng ngắn: thận trọng tụt huyết áp"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "I C",
+     "t": "Tái thông để giảm triệu chứng",
+     "d": "Đau thắt ngực dai dẳng dù FMT + thuốc chống đau thắt",
+     "items": [
+      "Mọi LVEF",
+      "HFpEF: vi mạch vành bất thường tới 80%"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "IIa B1",
+     "t": "CABG ưu tiên",
+     "d": "LVEF ≤ 35% + bệnh nhiều nhánh, nếu Heart Team chọn tái thông",
+     "items": [
+      "STICH(ES) có lợi lâu dài · REVIVED-BCIS2 (PCI) trung tính"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bệnh mạch vành tắc nghẽn là nguyên nhân thường gặp của suy tim, và rối loạn vi mạch vành gặp tới 80% người suy tim phân suất tống máu bảo tồn. Chẹn beta là lựa chọn đầu tay vì giảm tử vong, kế đến các thuốc nền tảng khác; ivabradine khi tần số trên 70 dù chẹn beta tối đa. Amlodipine, felodipine, nicorandil, ranolazine, trimetazidine cải thiện triệu chứng; quan trọng là không được giảm thuốc nền tảng để nhường chỗ cho thuốc chống đau thắt ngực.",
+    "Không dùng verapamil và diltiazem ở suy tim phân suất tống máu giảm vì ức chế co bóp; nitrate tác dụng ngắn cần thận trọng vì tụt huyết áp.",
+    "Tái thông mạch vành được khuyến cáo nhóm một ở người suy tim có bệnh mạch vành tắc nghẽn và đau thắt ngực dai dẳng dù đã dùng thuốc, để giảm triệu chứng, ở mọi phân suất tống máu.",
+    "Để cải thiện kết cục ở người phân suất tống máu từ 35% trở xuống và bệnh nhiều nhánh, nếu nhóm Tim mạch đa chuyên khoa quyết định tái thông, bắc cầu chủ vành nên là lựa chọn ưu tiên, nhóm hai a. Thử nghiệm STICH cho thấy lợi ích sống còn lâu dài, trong khi REVIVED-BCIS2 với can thiệp qua da là trung tính. Người bệnh phải được dùng thuốc nền tảng trước khi tái thông."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "Bệnh van · Mục 9.3",
+   "title": "Bệnh van tim ở người suy tim",
+   "ref": "Mục 9.3 · Bảng khuyến cáo 17 · Bảng 19",
+   "head": [
+    "Bệnh van",
+    "Khuyến cáo",
+    "Điểm chính"
+   ],
+   "widths": "1fr 1.3fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Hẹp chủ nặng</b>",
+      "TAVI hoặc SAVR · I B1",
+      "Chênh áp cao mọi LVEF · lưu lượng thấp + HFrEF · DapaTAVI: dapagliflozin giảm 28%"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Hở hai lá thứ phát nặng</b>",
+      "<em>TEER · I B1</em> (nâng mức)",
+      "Sau tối ưu FMT ± CRT · đủ tiêu chí Bảng 19 · giảm nhập viện, tăng chất lượng sống"
+     ],
+     "at": 1,
+     "hl": "L2",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Không đủ tiêu chí",
+      "TEER · IIb C",
+      "Giảm triệu chứng, sau khi loại trừ LVAD, ghép tim"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Hở ba lá nặng</b>",
+      "Theo hướng dẫn van 2025",
+      "Gặp 9–20% · can thiệp qua ống thông cải thiện chất lượng sống"
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hẹp van động mạch chủ gặp ở 3 đến 7% người suy tim mạn. Thay van, qua ống thông hoặc phẫu thuật, được khuyến cáo nhóm một ở hẹp chủ nặng chênh áp cao bất kể phân suất tống máu, và hẹp chủ lưu lượng thấp chênh áp thấp kèm phân suất tống máu giảm. Thuốc suy tim không được làm chậm can thiệp van. Thử nghiệm DapaTAVI cho thấy dapagliflozin sau thay van qua ống thông giảm 28% tử vong hoặc suy tim nặng lên.",
+    "Hở hai lá thứ phát gặp ở khoảng 25% người suy tim phân suất tống máu giảm; cần đánh giá khi người bệnh gần đạt thể tích bình thường. Bắt buộc tối ưu thuốc nền tảng và tái đồng bộ nếu có chỉ định trước. Khuyến cáo được nâng lên nhóm một: sửa van hai lá qua ống thông ở người ổn định huyết động, còn triệu chứng, đủ tiêu chí lâm sàng và siêu âm của Bảng 19.",
+    "Bảng 19 gồm: mức độ hai trở lên; ít nhất một lần nhập viện trong năm hoặc BNP từ 300, NT-proBNP từ 1000; không suy tim giai đoạn D, không cần tái thông mạch vành; phân suất tống máu 20 đến 50%, đường kính thất trái cuối tâm thu không quá 70 milimét, áp lực tâm thu động mạch phổi không quá 70, không rối loạn chức năng thất phải nặng, và giải phẫu phù hợp. Nếu không đủ tiêu chí, có thể cân nhắc để giảm triệu chứng, nhóm hai b, sau khi đã loại trừ dụng cụ hỗ trợ thất hay ghép tim.",
+    "Hở van ba lá nặng gặp ở 9 đến 20% người suy tim. Can thiệp qua ống thông cải thiện chất lượng sống nhưng chưa giảm tử vong hay nhập viện sau một năm; chỉ định theo hướng dẫn bệnh van tim 2025."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "Tăng huyết áp · Mục 9.4",
+   "title": "Tăng huyết áp ở người suy tim",
+   "ref": "Mục 9.4",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "HFpEF",
+     "t": "Ưu tiên thuốc có lợi kép",
+     "d": "MRA, lợi tiểu quai",
+     "items": [
+      "Ức chế men chuyển, ARB, chẹn kênh canxi: thoái triển phì đại",
+      "Tránh tụt huyết áp: dự trữ tiền tải hạn chế"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "HFrEF",
+     "t": "FMT thường đã đủ",
+     "d": "Thêm amlodipine/felodipine nếu cần",
+     "items": [
+      "Chấp nhận tụt huyết áp không triệu chứng để giữ liều FMT"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CHỐNG CHỈ ĐỊNH (HFrEF)",
+     "t": "Không dùng",
+     "d": "Verapamil, diltiazem, moxonidine",
+     "items": [
+      "Chẹn alpha: không dùng để trị tăng huyết áp",
+      "Kháng trị: tìm cường aldosterone, hẹp động mạch thận, ngưng thở khi ngủ"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Tăng huyết áp rất thường gặp, nhất là ở suy tim phân suất tống máu bảo tồn. Ở nhóm này, nên khởi đầu hoặc tăng liều kháng thụ thể mineralocorticoid, dùng lợi tiểu quai khi sung huyết; ức chế men chuyển, chẹn thụ thể angiotensin và chẹn kênh canxi giúp thoái triển phì đại thất. Vì dự trữ tiền tải hạn chế, cần tránh tụt huyết áp.",
+    "Ở suy tim phân suất tống máu giảm, thuốc nền tảng thường đã hạ huyết áp đủ. Nếu cần thêm, có thể dùng amlodipine hoặc felodipine khi thể tích bình thường; và cần chấp nhận tụt huyết áp không triệu chứng để duy trì liều đích.",
+    "Chống chỉ định ở suy tim phân suất tống máu giảm: verapamil, diltiazem và moxonidine; chẹn alpha không dùng để trị tăng huyết áp. Khi tăng huyết áp kháng trị, cần tìm cường aldosterone nguyên phát, tăng huyết áp do mạch thận và ngưng thở tắc nghẽn khi ngủ. Ngoài ra, 10 đến 24% người đột quỵ thiếu máu não có suy tim kèm theo."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy về thiết bị và bệnh đồng mắc",
+   "box": {
+    "tag": "BẪY",
+    "t": "Năm sai lầm thường gặp",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "1",
+     "t": "Cấy ICD dự phòng nguyên phát ngay sau nhồi máu, trước 3 tháng FMT",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Tạo nhịp thất phải đơn thuần cho block nhĩ thất ở người HFrEF",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "3",
+     "t": "Dùng diltiazem, flecainide cho rung nhĩ ở HFrEF",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "tag": "4",
+     "t": "TEER khi chưa tối ưu FMT/CRT hoặc đánh giá hở hai lá lúc đang quá tải dịch",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "tag": "5",
+     "t": "Giảm FMT để thêm thuốc chống đau thắt ngực",
+     "at": 5,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Năm bẫy thực hành của phần này.",
+    "Một, cấy máy phá rung dự phòng nguyên phát trong 40 ngày sau nhồi máu hoặc trước khi tối ưu thuốc 3 tháng.",
+    "Hai, cấy máy tạo nhịp thất phải đơn thuần cho block nhĩ thất độ cao ở người suy tim phân suất tống máu giảm, thay vì tái đồng bộ.",
+    "Ba, dùng diltiazem hay verapamil để kiểm soát tần số, hoặc flecainide, propafenone để chuyển nhịp ở người suy tim phân suất tống máu giảm.",
+    "Bốn, chỉ định sửa van hai lá qua ống thông khi chưa tối ưu thuốc và tái đồng bộ, hoặc đánh giá mức độ hở khi người bệnh còn quá tải dịch.",
+    "Năm, giảm liều thuốc nền tảng để nhường chỗ cho thuốc chống đau thắt ngực."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: sau nhồi máu, LVEF 30%",
+   "case": "Nam 63 tuổi, nhồi máu cơ tim thành trước, đặt stent cách đây <b>5 tuần</b>. Khó thở NYHA II, <b>LVEF 30%</b>, QRS 100 ms nhịp xoang. Đã bắt đầu sacubitril–valsartan, bisoprolol, eplerenone, dapagliflozin 3 tuần trước, đang tăng liều.",
+   "case_at": 1,
+   "q": "Về dự phòng đột tử, xử trí phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Cấy ICD ngay",
+    "Tiếp tục tăng liều FMT, đánh giá lại LVEF sau ≥ 3 tháng FMT tối ưu",
+    "Thay ICD bằng amiodarone lâu dài",
+    "Cấy CRT-D ngay"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Không cấy ICD dự phòng nguyên phát trong 40 ngày sau nhồi máu (III). ICD (I B1) khi LVEF ≤ 35% dù ≥ 3 tháng FMT tối ưu. Amiodarone không giảm đột tử. QRS 100 ms: không chỉ định CRT (III). Có thể cân nhắc máy phá rung mang ngoài nếu nguy cơ rất cao (IIb).",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 63 tuổi, nhồi máu cơ tim thành trước, đặt stent cách đây 5 tuần. Khó thở mức độ hai, phân suất tống máu 30%, QRS 100 mili giây, nhịp xoang. Đã bắt đầu sacubitril–valsartan, bisoprolol, eplerenone và dapagliflozin 3 tuần trước, đang tăng liều.",
+    "Về dự phòng đột tử, xử trí phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: tiếp tục tăng liều thuốc nền tảng và đánh giá lại phân suất tống máu sau ít nhất 3 tháng điều trị tối ưu. Không cấy máy phá rung dự phòng nguyên phát trong 40 ngày sau nhồi máu. Amiodarone không giảm đột tử, và QRS 100 mili giây thì không có chỉ định tái đồng bộ. Nếu nguy cơ rất cao, có thể cân nhắc máy phá rung mang ngoài như cầu nối."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: block nhánh trái QRS 160 ms",
+   "case": "Nữ 66 tuổi, bệnh cơ tim giãn không thiếu máu cục bộ, NYHA II. Đã dùng FMT liều đích 4 tháng. <b>LVEF 28%</b>, nhịp xoang, <b>block nhánh trái QRS 160 ms</b>. Kỳ vọng sống tốt.",
+   "case_at": 1,
+   "q": "Thiết bị phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Chỉ ICD",
+    "CRT (cân nhắc CRT-D)",
+    "Không cần, chỉ thêm ivabradine",
+    "Tạo nhịp thất phải"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Nhịp xoang, LBBB, QRS ≥ 150 ms, LVEF ≤ 35% dù FMT tối ưu → CRT, I A. Có thêm chỉ định ICD (không thiếu máu cục bộ, IIa) → thảo luận CRT-D với người bệnh.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nữ 66 tuổi, bệnh cơ tim giãn không do thiếu máu cục bộ, mức độ hai. Đã dùng thuốc nền tảng liều đích 4 tháng. Phân suất tống máu 28%, nhịp xoang, block nhánh trái với QRS 160 mili giây. Kỳ vọng sống tốt.",
+    "Thiết bị phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là tái đồng bộ tim. Nhịp xoang, block nhánh trái, QRS từ 150 và phân suất tống máu từ 35% trở xuống dù điều trị tối ưu là khuyến cáo nhóm một mức A. Vì bà cũng có chỉ định máy phá rung dự phòng nguyên phát nhóm hai a, cần thảo luận với người bệnh về tái đồng bộ có phá rung."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 4",
+   "title": "Sáu thông điệp của Phần 4",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "ICD",
+     "d": "LVEF ≤ 35% sau ≥ 3 tháng FMT · thiếu máu I · không thiếu máu IIa · không < 40 ngày sau nhồi máu",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "t": "CRT",
+     "d": "LBBB ≥ 150 ms: I · block nhĩ thất: CRT thay tạo nhịp thất phải",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Rung nhĩ",
+     "d": "CHA2DS2-VA · DOAC · chẹn beta đầu tay · cắt nút nhĩ thất + CRT (mới)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Triệt đốt rung nhĩ",
+     "d": "Chọn lọc: gánh nặng cao, < 1 năm, nhân quả rõ",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Mạch vành",
+     "d": "Không giảm FMT · CABG ưu tiên khi LVEF ≤ 35% nhiều nhánh",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Bệnh van",
+     "d": "Hẹp chủ: thay van I · TEER hở hai lá thứ phát: I theo Bảng 19",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần bốn.",
+    "Máy phá rung cấy được chỉ định khi phân suất tống máu từ 35% trở xuống sau ít nhất 3 tháng thuốc tối ưu, không cấy trong 40 ngày sau nhồi máu. Tái đồng bộ nhóm một khi block nhánh trái với QRS từ 150, và nên thay tạo nhịp thất phải khi có block nhĩ thất.",
+    "Với rung nhĩ: chống đông theo CHA2DS2-VA, ưu tiên chống đông trực tiếp, chẹn beta đầu tay, cắt nút nhĩ thất kèm tái đồng bộ ở người kiểm soát tần số kém, và triệt đốt cho người chọn lọc.",
+    "Với bệnh mạch vành, không giảm thuốc nền tảng và ưu tiên bắc cầu khi bệnh nhiều nhánh; với bệnh van, thay van động mạch chủ và sửa van hai lá qua ống thông theo tiêu chí. Phần năm, phần gần nhất với hồi sức, sẽ bàn về suy tim mất bù và sốc tim. Hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
