@@ -1,0 +1,878 @@
+{
+ "title": "ESC 2026 Suy tim – Phần 2: Chẩn đoán suy tim mạn",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch",
+ "part": "ESC 2026 Suy tim · Phần 2/6",
+ "source_short": "Nguồn: 2026 ESC Guidelines for the management of heart failure (Eur Heart J 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026.",
+ "lexicon": {
+  "PREVENT-HF": "pri ven suy tim",
+  "REDUCE-AMI": "ri điu xơ a em i",
+  "NT-proBNP": "en tê prô bê en pê",
+  "SCORE2-HF": "xcô hai suy tim",
+  "SMART2-HF": "xmát hai suy tim",
+  "CAPRICORN": "ca pri con",
+  "MR-proANP": "em a prô a en pê",
+  "GLP-1 RA": "đồng vận thụ thể gờ lê pê một",
+  "DANBLOCK": "đan blốc",
+  "PREDIMED": "pre đi mét",
+  "SGLT2-I": "thuốc ức chế ét gờ lê tê hai",
+  "HFimpEF": "suy tim phân suất tống máu cải thiện",
+  "LIFE-HF": "lai phờ suy tim",
+  "EPHESUS": "ê phê xút",
+  "HFmrEF": "suy tim phân suất tống máu giảm nhẹ",
+  "MAGGIC": "ma gích",
+  "BETAMI": "bê ta mi",
+  "REBOOT": "ri bút",
+  "REVERT": "ri vớt",
+  "SGLT2": "ét gờ lê tê hai",
+  "GLP-1": "gờ lê pê một",
+  "HFrEF": "suy tim phân suất tống máu giảm",
+  "HFpEF": "suy tim phân suất tống máu bảo tồn",
+  "ACE-I": "ức chế men chuyển",
+  "SOLVD": "xôn",
+  "TRACE": "tơ rây",
+  "pg/mL": "picogam mỗi mililít",
+  "ml/kg": "mililít mỗi kilôgam",
+  "type ": "típ ",
+  "ASCVD": "bệnh tim mạch do xơ vữa",
+  "HbA1c": "hát bê a một xê",
+  "LVEDP": "áp lực cuối tâm trương thất trái",
+  "KDIGO": "ca đi gô",
+  "LVEF": "phân suất tống máu thất trái",
+  "NYHA": "ni ha",
+  "ARNI": "a ni",
+  "GDMT": "điều trị nội khoa theo hướng dẫn",
+  "GDIT": "điều trị can thiệp theo hướng dẫn",
+  "LVAD": "dụng cụ hỗ trợ thất trái",
+  "TEER": "sửa van qua ống thông",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "SAVR": "thay van động mạch chủ bằng phẫu thuật",
+  "SCAI": "ét ca i",
+  "SAVE": "xây phờ",
+  "ATTR": "a tê tê rờ",
+  "ARVC": "bệnh cơ tim thất phải gây loạn nhịp",
+  "mmHg": "milimét thủy ngân",
+  "T2DM": "đái tháo đường típ 2",
+  "UACR": "tỷ số albumin trên creatinine niệu",
+  "TSAT": "độ bão hoà transferrin",
+  "CTCA": "chụp cắt lớp mạch vành",
+  "CPET": "nghiệm pháp gắng sức tim phổi",
+  "PCWP": "áp lực mao mạch phổi bít",
+  "E/e′": "e trên e phẩy",
+  "LAVI": "chỉ số thể tích nhĩ trái",
+  "HMDP": "hát em đê pê",
+  "LBBB": "block nhánh trái",
+  "ESC": "e ét xê",
+  "ARB": "chẹn thụ thể angiotensin",
+  "MRA": "kháng thụ thể mineralocorticoid",
+  "FMT": "điều trị nội khoa nền tảng",
+  "AMT": "điều trị nội khoa bổ sung",
+  "DHF": "suy tim mất bù",
+  "CRT": "tái đồng bộ tim",
+  "ICD": "máy phá rung cấy",
+  "MCS": "hỗ trợ tuần hoàn cơ học",
+  "CMR": "cộng hưởng từ tim",
+  "ECG": "điện tâm đồ",
+  "BNP": "bê en pê",
+  "CKD": "bệnh thận mạn",
+  "HFA": "hội suy tim châu Âu",
+  "TTR": "tê tê rờ",
+  "DCM": "bệnh cơ tim giãn",
+  "PET": "pét",
+  "FDG": "ép đê gờ",
+  "LGE": "ngấm thuốc muộn",
+  "DPD": "đê pê đê",
+  "PYP": "pê y pê",
+  "QRS": "qu rờ ét"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 2/6",
+   "title": "Chẩn đoán<br>suy tim mạn",
+   "subtitle": "Phần 2 · Peptide lợi niệu theo tuổi, siêu âm tim, tiêu chuẩn HFpEF, tìm nguyên nhân",
+   "badges": [
+    {
+     "t": "NT-proBNP theo tuổi",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "HFpEF: 3 tiêu chuẩn",
+     "c": "blue",
+     "at": "L1+2"
+    },
+    {
+     "t": "Hình ảnh đa phương thức",
+     "c": "violet",
+     "at": "L1+4"
+    }
+   ],
+   "note": "2026 ESC Guidelines for the management of heart failure · Mục 5",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần hai của loạt bài về Hướng dẫn suy tim của Hội Tim mạch châu Âu năm 2026.",
+    "Phần này bàn về chẩn đoán suy tim mạn: triệu chứng và dấu hiệu, thuật toán chẩn đoán với ngưỡng NT-proBNP mới theo tuổi, các yếu tố làm sai lệch peptide lợi niệu, tiêu chuẩn chẩn đoán từng kiểu hình, và cách tìm nguyên nhân bằng hình ảnh đa phương thức.",
+    "Điểm đáng chú ý nhất là bỏ ngưỡng loại trừ duy nhất 125 picogam mỗi mililít, và đơn giản hoá tiêu chuẩn siêu âm cho suy tim phân suất tống máu bảo tồn."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Lâm sàng · Bảng 7–8",
+   "title": "Triệu chứng, dấu hiệu và phân độ NYHA",
+   "ref": "Bảng 7 · Bảng 8",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "TRIỆU CHỨNG ĐIỂN HÌNH",
+     "t": "Khó thở",
+     "d": "Khó thở nằm, khó thở kịch phát về đêm",
+     "items": [
+      "Giảm gắng sức, mệt, lâu hồi phục",
+      "Phù mắt cá",
+      "Bendopnoea: khó thở khi cúi người"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "DẤU HIỆU ĐẶC HIỆU HƠN",
+     "t": "Tĩnh mạch cổ nổi",
+     "d": "Phản hồi gan – tĩnh mạch cổ",
+     "items": [
+      "Tiếng tim thứ ba (nhịp ngựa phi)",
+      "Mỏm tim lệch trái"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "NGƯỜI CAO TUỔI",
+     "t": "Biểu hiện không điển hình",
+     "d": "Lú lẫn, trầm cảm, chán ăn",
+     "items": [
+      "Vẫn phải nghĩ đến suy tim"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "NYHA",
+     "t": "Bốn độ chức năng",
+     "d": "I: không giới hạn · II: giới hạn nhẹ",
+     "items": [
+      "III: giới hạn rõ, hoạt động nhẹ đã có triệu chứng",
+      "IV: triệu chứng cả khi nghỉ"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Suy tim gây ra nhiều triệu chứng và dấu hiệu, với độ nhạy và độ đặc hiệu khác nhau, và không dấu hiệu nào hoàn toàn đặc trưng. Triệu chứng điển hình là khó thở, khó thở khi nằm, khó thở kịch phát về đêm, giảm khả năng gắng sức, mệt, lâu hồi phục sau gắng sức, phù mắt cá, và khó thở khi cúi người về phía trước.",
+    "Các dấu hiệu đặc hiệu hơn gồm tĩnh mạch cổ nổi, phản hồi gan – tĩnh mạch cổ, tiếng tim thứ ba và mỏm tim lệch trái.",
+    "Ở người rất cao tuổi, biểu hiện có thể không điển hình như lú lẫn, trầm cảm, chán ăn, nhưng vẫn phải nghi ngờ suy tim.",
+    "Mức độ triệu chứng được phân theo bốn độ của Hội Tim New York: độ một không giới hạn hoạt động; độ hai giới hạn nhẹ; độ ba giới hạn rõ, hoạt động nhẹ hơn bình thường đã gây triệu chứng; độ bốn có triệu chứng cả khi nghỉ."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "timeline",
+   "chapter": "Thuật toán · Hình 4",
+   "title": "Thuật toán chẩn đoán suy tim mạn ngoại trú",
+   "ref": "Hình 4",
+   "events": [
+    {
+     "year": "Bước 1",
+     "t": "Nghi ngờ",
+     "d": "Triệu chứng, dấu hiệu",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "year": "Bước 2",
+     "t": "Đánh giá ban đầu",
+     "d": "Lâm sàng, ECG, xét nghiệm, X-quang ngực",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "year": "Bước 3",
+     "t": "Peptide lợi niệu",
+     "d": "Ngưỡng NT-proBNP theo tuổi",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "year": "Bước 4",
+     "t": "Siêu âm tim",
+     "d": "+ chuyên gia · trong 2 tuần nếu NT-proBNP > 2000",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "year": "Bước 5",
+     "t": "HFrEF / HFpEF",
+     "d": "Đánh giá nguyên nhân đa thông số và điều trị",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "note": {
+    "t": "Peptide thấp nhưng nghi ngờ lâm sàng còn cao → vẫn siêu âm · không có xét nghiệm peptide → siêu âm trực tiếp",
+    "at": 5,
+    "c": "green"
+   },
+   "lines": [
+    "Hình 4 trình bày thuật toán chẩn đoán suy tim mạn ở ngoại trú và cộng đồng. Bước đầu là nghi ngờ suy tim từ triệu chứng và dấu hiệu.",
+    "Tiếp theo là đánh giá lâm sàng, điện tâm đồ 12 chuyển đạo, xét nghiệm và X-quang ngực. Siêu âm tại giường có thể hỗ trợ, nhưng siêu âm tim chuẩn vẫn được khuyến cáo.",
+    "Bước ba là định lượng peptide lợi niệu, với ngưỡng NT-proBNP mới theo tuổi.",
+    "Nếu peptide tăng, người bệnh được siêu âm tim và chuyên gia đánh giá, tốt nhất trong vòng 2 tuần nếu NT-proBNP trên 2000.",
+    "Siêu âm xác định suy tim phân suất tống máu giảm khi dưới 50%, hoặc bảo tồn khi từ 50% trở lên, rồi đến đánh giá nguyên nhân đa thông số và điều trị.",
+    "Lưu ý: nếu peptide không tăng nhưng nghi ngờ lâm sàng vẫn cao, vẫn phải siêu âm, vì peptide có thể thấp giả. Nơi không có xét nghiệm peptide thì siêu âm tim trực tiếp."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "compare",
+   "chapter": "Peptide lợi niệu · Mục 5.1.1",
+   "title": "Ngưỡng NT-proBNP: từ một ngưỡng sang theo tuổi",
+   "ref": "Mục 5.1.1 · Hình 4",
+   "head": [
+    "Tuổi",
+    "ESC 2021 (loại trừ)",
+    "ESC 2026 (suy tim “có khả năng”)"
+   ],
+   "widths": "0.8fr 1.2fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>< 50 tuổi</b>",
+      "NT-proBNP < 125 pg/mL",
+      "NT-proBNP <em>≥ 125 pg/mL</em>"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>50–74 tuổi</b>",
+      "< 125 pg/mL",
+      "<em>≥ 250 pg/mL</em>"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>≥ 75 tuổi</b>",
+      "< 125 pg/mL",
+      "<em>≥ 500 pg/mL</em>"
+     ],
+     "at": 1,
+     "hl": "L2",
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>BNP</b>",
+      "< 35 pg/mL",
+      "≥ 35 pg/mL · chưa đủ dữ liệu theo tuổi"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Peptide lợi niệu giúp chẩn đoán nhanh và tránh siêu âm không cần thiết. NT-proBNP được dùng nhiều nhất ở châu Âu vì ổn định ở nhiệt độ phòng, và không bị ảnh hưởng bởi a ni, vốn làm thay đổi sự thoái giáng của BNP.",
+    "Hướng dẫn 2021 dùng một ngưỡng duy nhất 125 để loại trừ. Nhưng peptide tăng mạnh theo tuổi: hơn 75% người khoẻ trên 80 tuổi vượt ngưỡng này. Vì vậy, năm 2026 áp dụng ngưỡng theo tuổi, lấy từ bách phân vị thứ 95 của nghiên cứu Generation Scotland: từ 125 ở người dưới 50 tuổi, từ 250 ở người 50 đến 74 tuổi, và từ 500 ở người từ 75 tuổi trở lên.",
+    "Mục tiêu là tăng độ đặc hiệu và giảm tải cho siêu âm tim và dịch vụ suy tim, đặc biệt ở người cao tuổi.",
+    "Với BNP, ngưỡng vẫn là 35, vì chưa đủ dữ liệu để đặt ngưỡng theo tuổi. Peptide còn có giá trị tiên lượng: ở chăm sóc ban đầu tại Anh, NT-proBNP trên 2000 làm tăng gấp đôi nguy cơ nhập viện sớm, nên cần chuyển khám chuyên khoa khẩn."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "cards",
+   "chapter": "Peptide lợi niệu · Bảng 9",
+   "title": "Những yếu tố làm sai lệch peptide lợi niệu",
+   "ref": "Bảng 9",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "TĂNG",
+     "t": "Không phải lúc nào cũng là suy tim",
+     "d": "Tuổi cao, nữ, rung nhĩ, bệnh thận",
+     "items": [
+      "Hội chứng vành cấp, thuyên tắc phổi, tăng áp phổi",
+      "Nhiễm khuẩn nặng, sepsis, bệnh nặng",
+      "Thiếu máu nặng, bệnh van tim, tạo nhịp thất phải"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "GIẢM",
+     "t": "Thấp giả",
+     "d": "<em>Béo phì</em>, người gốc Phi",
+     "items": [
+      "Thuốc: a ni/ức chế men chuyển/ARB, chẹn beta, MRA, SGLT2-I",
+      "Viêm màng ngoài tim co thắt"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "blue"
+    },
+    {
+     "tag": "DIỄN GIẢI",
+     "t": "Đặt trong bối cảnh",
+     "d": "Peptide càng cao, khả năng suy tim càng lớn",
+     "items": [
+      "Bệnh thận: NT-proBNP tăng nhưng không được bỏ qua",
+      "a ni có thể làm tăng BNP"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bảng 9 liệt kê các yếu tố làm sai lệch peptide lợi niệu. Peptide tăng trong tuổi cao, giới nữ, rung nhĩ, rối loạn chức năng thận, hội chứng vành cấp, thuyên tắc phổi, tăng áp phổi, nhiễm khuẩn nặng gồm cả viêm phổi và sepsis, bệnh nặng, thiếu máu nặng, bệnh van tim, phì đại thất trái và tạo nhịp thất phải. Điều này đặc biệt quan trọng với chúng ta ở hồi sức.",
+    "Ngược lại, peptide thấp giả trong béo phì, ở người gốc Phi, trong viêm màng ngoài tim co thắt, và khi đang dùng a ni, ức chế men chuyển, chẹn thụ thể angiotensin, chẹn beta, kháng thụ thể mineralocorticoid hay ức chế ét gờ lê tê hai. Béo phì đặc biệt quan trọng khi chẩn đoán suy tim phân suất tống máu bảo tồn.",
+    "Vì vậy, peptide phải được diễn giải cùng lâm sàng; nhưng nguyên tắc chung là peptide càng cao, khả năng suy tim càng lớn. Ở người suy thận, NT-proBNP thường cao hơn, nhưng không được bỏ qua kết quả. Riêng a ni có thể làm tăng BNP."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "list",
+   "chapter": "Xét nghiệm · Bảng khuyến cáo 3",
+   "title": "Xét nghiệm cho mọi người nghi suy tim",
+   "ref": "Bảng khuyến cáo 3 · tất cả I C",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Peptide lợi niệu",
+     "d": "Diễn giải theo tuổi, béo phì và yếu tố ảnh hưởng",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Điện tâm đồ 12 chuyển đạo",
+     "d": "",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "X-quang ngực",
+     "d": "",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Siêu âm tim qua thành ngực",
+     "d": "Xác định chẩn đoán, phân kiểu hình, gợi ý nguyên nhân",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Xét nghiệm bệnh đồng mắc",
+     "d": "Công thức máu, eGFR, điện giải, gan, tuyến giáp, HbA1c, lipid",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "<em>UACR</em> và sắt (TSAT, ferritin)",
+     "d": "Mới thêm UACR: tiên lượng độc lập, điều trị được",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Bảng khuyến cáo 3, tất cả nhóm một: mọi người nghi suy tim cần định lượng peptide lợi niệu, điện tâm đồ 12 chuyển đạo, và X-quang ngực.",
+    "Siêu âm tim qua thành ngực được khuyến cáo để xác định chẩn đoán, phân biệt kiểu hình và gợi ý nguyên nhân.",
+    "Xét nghiệm bệnh đồng mắc gồm công thức máu, chức năng thận, điện giải, chức năng gan, tuyến giáp, HbA1c, lipid và tình trạng sắt với độ bão hoà transferrin và ferritin.",
+    "Điểm mới là thêm tỷ số albumin trên creatinine niệu, theo khuyến cáo của ca đi gô. Tỷ số này độc lập với mức lọc cầu thận, nghĩa là albumin niệu nặng có thể có dù mức lọc trên 90. Nó có giá trị tiên lượng mạnh, và đáp ứng với chính các thuốc suy tim: ức chế men chuyển, a ni, chẹn thụ thể angiotensin, kháng thụ thể mineralocorticoid và ức chế ét gờ lê tê hai."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "Kiểu hình · Mục 5.2",
+   "title": "Tiêu chuẩn chẩn đoán HFrEF và HFpEF",
+   "ref": "Mục 5.2.1–5.2.2",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "HFrEF · 2 TIÊU CHUẨN",
+     "t": "Triệu chứng + LVEF < 50%",
+     "d": "Peptide tăng củng cố chẩn đoán",
+     "items": [
+      "LVEF là biến liên tục, khác nhau theo phương pháp, giới",
+      "Con số chính xác chỉ để định hướng"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "HFpEF · ĐỦ CẢ 3",
+     "t": "① Triệu chứng/dấu hiệu",
+     "d": "② LVEF ≥ 50% <em>(chưa từng < 50%)</em>",
+     "items": [
+      "③ Bằng chứng khách quan rối loạn tâm trương/tăng áp lực đổ đầy (Bảng 10) + peptide tăng"
+     ],
+     "at": 1,
+     "hl": "L2",
+     "c": "teal"
+    },
+    {
+     "tag": "KHỞI ĐẦU",
+     "t": "Xác suất tiền nghiệm",
+     "d": "Càng nhiều yếu tố nguy cơ (Hình 6), càng nghĩ HFpEF",
+     "items": [
+      "Tuổi, béo phì, tăng huyết áp, rung nhĩ, đái tháo đường, bệnh thận mạn"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Chẩn đoán suy tim phân suất tống máu giảm cần hai tiêu chuẩn: có hoặc từng có triệu chứng, dấu hiệu suy tim, và phân suất tống máu dưới 50%. Peptide tăng củng cố chẩn đoán. Hướng dẫn nhắc rằng phân suất tống máu là biến liên tục, khác nhau theo phương pháp đo và giới, nên con số chính xác chỉ để định hướng.",
+    "Chẩn đoán suy tim phân suất tống máu bảo tồn khó hơn và cần đủ cả ba tiêu chuẩn: có triệu chứng hoặc dấu hiệu; phân suất tống máu từ 50% trở lên, với điều kiện chưa từng dưới 50%;",
+    "và bằng chứng khách quan về bất thường cấu trúc hoặc chức năng phù hợp với rối loạn tâm trương hay tăng áp lực đổ đầy thất trái, được hỗ trợ bởi peptide tăng. Lưu ý, người từng có phân suất tống máu dưới 50% nay hồi phục không phải là bảo tồn, mà là suy tim phân suất tống máu giảm đã cải thiện.",
+    "Tiếp cận nên bắt đầu bằng xác suất tiền nghiệm: càng nhiều yếu tố như tuổi cao, béo phì, tăng huyết áp, rung nhĩ, đái tháo đường, bệnh thận mạn, khả năng suy tim phân suất tống máu bảo tồn càng cao."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "compare",
+   "chapter": "HFpEF · Bảng 10",
+   "title": "Tiêu chuẩn siêu âm đơn giản hoá cho HFpEF",
+   "ref": "Bảng 10",
+   "head": [
+    "Thông số",
+    "Ngưỡng",
+    "Ghi chú"
+   ],
+   "widths": "1.2fr 1.3fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Phì đại thất trái</b>",
+      "Khối cơ ≥ 115 g/m² (nam), ≥ 95 g/m² (nữ) <b>hoặc</b> độ dày thành tương đối > 0,42",
+      ""
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Giãn nhĩ trái</b>",
+      "Thể tích chỉ số > 34 mL/m² (nhịp xoang) · > 40 mL/m² (rung nhĩ)",
+      ""
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Tăng áp lực đổ đầy</b>",
+      "E/e′ > 9 lúc nghỉ",
+      "E/e′ ≥ 15 đặc hiệu hơn, kém nhạy"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Tăng áp phổi</b>",
+      "Áp lực tâm thu động mạch phổi > 35 mmHg <b>hoặc</b> vận tốc hở ba lá > 2,8 m/s",
+      "Càng nhiều thông số bất thường, xác suất càng cao"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bảng 10 đưa ra tiêu chuẩn siêu âm đơn giản hoá. Thứ nhất, phì đại thất trái: chỉ số khối cơ từ 115 gam mỗi mét vuông ở nam, từ 95 ở nữ, hoặc độ dày thành tương đối trên 0,42.",
+    "Thứ hai, giãn nhĩ trái: thể tích nhĩ trái chỉ số trên 34 mililít mỗi mét vuông khi nhịp xoang, trên 40 khi rung nhĩ.",
+    "Thứ ba, tăng khả năng áp lực đổ đầy cao: tỷ số E trên e phẩy lúc nghỉ trên 9; ngưỡng từ 15 trở lên đặc hiệu hơn nhưng kém nhạy.",
+    "Thứ tư, tăng áp lực tâm thu động mạch phổi ước tính trên 35 milimét thủy ngân, hoặc vận tốc dòng hở ba lá lúc nghỉ trên 2,8 mét mỗi giây. Càng nhiều thông số bất thường, xác suất chẩn đoán càng cao."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "HFpEF · Mục 5.2.2",
+   "title": "Khi chẩn đoán HFpEF còn chưa chắc chắn",
+   "ref": "Mục 5.2.2 · Bảng khuyến cáo 4",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "TIẾP CẬN",
+     "t": "Thực dụng",
+     "d": "Hầu hết chẩn đoán được bằng bệnh sử + siêu âm",
+     "items": [
+      "Thang điểm: chỉ để tăng nghi ngờ, không khẳng định"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "BƯỚC TIẾP",
+     "t": "Khi còn nghi ngờ",
+     "d": "Nghiệm pháp gắng sức tim phổi (VO₂ đỉnh)",
+     "items": [
+      "Siêu âm gắng sức tâm trương"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "TIÊU CHUẨN VÀNG",
+     "t": "Thông tim gắng sức",
+     "d": "PCWP ≥ 15 mmHg (nghỉ) hoặc ≥ 25 (gắng sức)",
+     "items": [
+      "Hoặc LVEDP ≥ 16 mmHg lúc nghỉ",
+      "Thông tim phải: IIb C · không bắt buộc"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn khuyên tiếp cận thực dụng để người cao tuổi dễ được chẩn đoán. Các thang điểm phức tạp cho kết quả không nhất quán ở cộng đồng; nếu dùng, chỉ để tăng nghi ngờ chứ không để khẳng định chẩn đoán.",
+    "Khi còn chưa chắc chắn, có thể làm nghiệm pháp gắng sức tim phổi với đo tiêu thụ oxy đỉnh, hoặc siêu âm gắng sức tâm trương để bộc lộ rối loạn tâm trương không thấy lúc nghỉ.",
+    "Tiêu chuẩn vàng là thông tim gắng sức: áp lực mao mạch phổi bít từ 15 lúc nghỉ hoặc từ 25 khi gắng sức, hoặc áp lực cuối tâm trương thất trái từ 16 lúc nghỉ. Nhưng thông tim đắt và không sẵn có, nên chỉ dành cho nghiên cứu hoặc khi các thăm dò không xâm lấn vẫn chưa kết luận được; khuyến cáo nhóm hai b, không bắt buộc cho mọi người."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "cards",
+   "chapter": "Nguyên nhân · Mục 5.3",
+   "title": "Tìm nguyên nhân: hình ảnh đa phương thức",
+   "ref": "Mục 5.3 · Hình 7",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "VÌ SAO",
+     "t": "Nguyên nhân quyết định điều trị",
+     "d": "Có nguyên nhân hồi phục, có điều trị đặc hiệu",
+     "items": [
+      "Thường gặp: thiếu máu cục bộ, tăng huyết áp, bệnh van",
+      "Thường nhiều hơn một nguyên nhân"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "SIÊU ÂM",
+     "t": "Hình ảnh đầu tay",
+     "d": "Strain dọc toàn bộ: phát hiện sớm trước khi LVEF giảm",
+     "items": [
+      "Gợi ý amyloid, bệnh cơ tim phì đại",
+      "Gắng sức tâm trương"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CMR",
+     "t": "Chuẩn vàng thể tích, khối cơ",
+     "d": "Ngấm thuốc muộn: thiếu máu cục bộ hay không",
+     "items": [
+      "Lập bản đồ T1, T2, ECV: phân loại bệnh cơ tim, amyloid"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "KHÁC",
+     "t": "Khi nghi đặc hiệu",
+     "d": "PET-FDG: sarcoidosis",
+     "items": [
+      "Nghiệm pháp gắng sức tim phổi: khó thở chưa rõ",
+      "Xét nghiệm gen"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Xác định nguyên nhân là nền tảng, vì điều trị nên nhắm vào nguyên nhân, có nguyên nhân hồi phục được, và ngày càng có nhiều điều trị đặc hiệu. Nguyên nhân thường gặp là bệnh tim thiếu máu cục bộ, tăng huyết áp và bệnh van tim, và thường có nhiều hơn một nguyên nhân.",
+    "Siêu âm tim là hình ảnh đầu tay. Siêu âm đánh dấu mô cho phép đo strain dọc toàn bộ, phát hiện rối loạn tâm thu sớm trước khi phân suất tống máu giảm, hữu ích khi hoá trị, hoặc gợi ý amyloid và bệnh cơ tim phì đại.",
+    "Cộng hưởng từ tim là chuẩn vàng đo thể tích và khối cơ thất trái. Ngấm thuốc muộn giúp phân biệt thiếu máu cục bộ với không thiếu máu cục bộ, và lập bản đồ T1, T2, thể tích ngoại bào giúp phân loại bệnh cơ tim và amyloid.",
+    "Khi nghi nguyên nhân đặc hiệu: PET-FDG cho sarcoidosis tim, nghiệm pháp gắng sức tim phổi cho khó thở chưa rõ nguyên nhân, và xét nghiệm gen khi nghi bệnh di truyền."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "list",
+   "chapter": "Nguyên nhân · Bảng khuyến cáo 4",
+   "title": "Thăm dò chuyên sâu tìm nguyên nhân điều trị được",
+   "ref": "Bảng khuyến cáo 4",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "CMR có tương phản · <b>I C</b>",
+     "d": "Nghi bệnh cơ tim hoặc nguyên nhân chưa rõ",
+     "at": 0,
+     "c": "violet"
+    },
+    {
+     "t": "Nghi amyloid: điện di miễn dịch, chuỗi nhẹ tự do, xạ hình xương · <b>I B</b> · mới",
+     "d": "Huyết thanh + nước tiểu · DPD/PYP/HMDP",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Xét nghiệm gen · <b>I C</b> · mới",
+     "d": "Khi giúp chẩn đoán, tiên lượng, điều trị, sinh sản hoặc sàng lọc gia đình",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "PET-FDG nghi sarcoidosis · <b>IIa C</b> · mới",
+     "d": "",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Sinh thiết nội mạc cơ tim · <b>IIa C</b>",
+     "d": "Suy tim tiến triển nhanh, nghi viêm, thâm nhiễm, tích tụ",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "t": "Thông tim phải",
+     "d": "IIa C: nghi co thắt màng ngoài tim, tim bẩm sinh · IIb C: nghi HFpEF",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Bảng khuyến cáo 4 liệt kê thăm dò chuyên sâu. Cộng hưởng từ tim có tương phản, nhóm một, khi nghi bệnh cơ tim hoặc nguyên nhân chưa rõ mà khảo sát thêm có ích cho điều trị.",
+    "Khuyến cáo mới, nhóm một mức B: khi nghi amyloid tim, làm ngay từ đầu điện di miễn dịch cố định huyết thanh và nước tiểu, định lượng chuỗi nhẹ tự do huyết thanh, và xạ hình xương với DPD, PYP hoặc HMDP.",
+    "Khuyến cáo mới, nhóm một: xét nghiệm gen ở người đủ tiêu chuẩn bệnh cơ tim, khi giúp chẩn đoán, tiên lượng, chọn điều trị, tư vấn sinh sản, hoặc sàng lọc người thân.",
+    "Nhóm hai a: PET-FDG khi nghi sarcoidosis tim, là khuyến cáo mới; và sinh thiết nội mạc cơ tim khi suy tim tiến triển nhanh dù điều trị chuẩn, hoặc nghi viêm, thâm nhiễm, tích tụ mà không xác định được bằng cách khác.",
+    "Thông tim phải: nhóm hai a khi nghi viêm màng ngoài tim co thắt hay bệnh tim bẩm sinh; nhóm hai b ở người chọn lọc nghi suy tim phân suất tống máu bảo tồn hoặc bệnh tim cấu trúc."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "Nguyên nhân · Mục 5.3.2–5.3.3",
+   "title": "Bệnh mạch vành và suy tim do rối loạn nhịp, dẫn truyền",
+   "ref": "Mục 5.3.2–5.3.3 · Hình 8–9",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "MẠCH VÀNH",
+     "t": "Nguyên nhân thường gặp nhất của HFrEF",
+     "d": "Cá thể hoá theo lợi ích – nguy cơ",
+     "items": [
+      "Chụp cắt lớp mạch vành: khả năng thấp – trung bình (IIa C)",
+      "Chụp mạch xâm lấn: khả năng cao (IIa C, sửa đổi) · có đau thắt ngực (I C)",
+      "Thận trọng khi eGFR < 30 · chưa đủ bằng chứng khảo sát sống còn"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "RỐI LOẠN NHỊP",
+     "t": "Suy tim do nhịp nhanh",
+     "d": "Rung nhĩ, cuồng nhĩ, nhịp nhanh, ngoại tâm thu thất",
+     "items": [
+      "Sốc điện chẩn đoán ở rung nhĩ dai dẳng (IIb C, mới)"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "DẪN TRUYỀN",
+     "t": "Rối loạn dẫn truyền",
+     "d": "Nghi khi QRS ≥ 130 ms, không nguyên nhân khác",
+     "items": [
+      "Rà soát tỷ lệ tạo nhịp thất phải ở mọi người có thiết bị (IIa C, mới)",
+      "Chẩn đoán loại trừ, có khi chỉ hồi cứu sau CRT"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bệnh mạch vành là nguyên nhân thường gặp nhất của suy tim phân suất tống máu giảm, nhưng thăm dò cần cá thể hoá. Chụp cắt lớp mạch vành nên được cân nhắc khi khả năng bệnh mạch vành thấp đến trung bình; chụp mạch xâm lấn nên được cân nhắc khi khả năng cao, và được khuyến cáo nhóm một khi có đau thắt ngực và là ứng viên tái thông. Thận trọng khi mức lọc cầu thận dưới 30, và hiện chưa đủ bằng chứng cho khảo sát sống còn cơ tim.",
+    "Suy tim do rối loạn nhịp gồm do rung nhĩ, cuồng nhĩ, nhịp nhanh trên thất, nhịp nhanh thất và ngoại tâm thu thất. Khuyến cáo mới, nhóm hai b: có thể dùng sốc điện chuyển nhịp như một công cụ chẩn đoán ở rung nhĩ dai dẳng, để xem nhịp xoang có cải thiện triệu chứng hay chức năng thất trái không.",
+    "Suy tim do rối loạn dẫn truyền nên được nghĩ tới khi QRS từ 130 mili giây, không có nguyên nhân khác, hoặc ở người tạo nhịp thất phải. Khuyến cáo mới, nhóm hai a: rà soát tỷ lệ tạo nhịp thất phải ở mọi người có thiết bị cấy và suy tim mới hay nặng lên. Đây là chẩn đoán loại trừ, đôi khi chỉ khẳng định được hồi cứu khi chức năng thất trái hồi phục sau tái đồng bộ."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy trong chẩn đoán suy tim",
+   "box": {
+    "tag": "BẪY",
+    "t": "Năm sai lầm thường gặp",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "1",
+     "t": "Dùng ngưỡng 125 cho người 80 tuổi → chẩn đoán quá mức",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Loại trừ suy tim ở người béo phì vì NT-proBNP “bình thường”",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "3",
+     "t": "Coi NT-proBNP cao ở người sepsis, thuyên tắc phổi là suy tim",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "tag": "4",
+     "t": "Gọi LVEF đã hồi phục từ < 50% là HFpEF",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "tag": "5",
+     "t": "Không tìm nguyên nhân: bỏ sót amyloid, tạo nhịp thất phải",
+     "at": 5,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Năm bẫy trong chẩn đoán.",
+    "Một, dùng ngưỡng 125 cho người 80 tuổi, dẫn tới chẩn đoán quá mức và quá tải siêu âm. Từ 75 tuổi, ngưỡng là 500.",
+    "Hai, loại trừ suy tim ở người béo phì vì NT-proBNP bình thường; béo phì làm peptide thấp giả, nếu nghi ngờ lâm sàng cao vẫn phải siêu âm.",
+    "Ba, ở hồi sức, coi NT-proBNP cao trong sepsis, thuyên tắc phổi hay hội chứng vành cấp là bằng chứng suy tim.",
+    "Bốn, gọi người có phân suất tống máu hồi phục từ dưới 50% lên trên 50% là suy tim phân suất tống máu bảo tồn; đây là suy tim phân suất tống máu giảm đã cải thiện, và phải tiếp tục thuốc.",
+    "Năm, không tìm nguyên nhân, bỏ sót amyloid tim hay suy tim do tạo nhịp thất phải, vốn có điều trị đặc hiệu."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: béo phì, khó thở, NT-proBNP thấp",
+   "case": "Nam 61 tuổi, <b>BMI 39</b>, đái tháo đường típ 2, tăng huyết áp, rung nhĩ kịch phát. Khó thở khi gắng sức 6 tháng, phù chân, tĩnh mạch cổ nổi nhẹ. <b>NT-proBNP 180 pg/mL</b>.",
+   "case_at": 1,
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Loại trừ suy tim vì NT-proBNP < 250",
+    "Siêu âm tim vì nghi ngờ lâm sàng còn cao",
+    "Chụp mạch vành xâm lấn ngay",
+    "Chỉ giảm cân rồi đánh giá lại sau 1 năm"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Béo phì làm peptide thấp giả (Bảng 9). Nghi ngờ lâm sàng còn cao (phù, tĩnh mạch cổ nổi, nhiều yếu tố nguy cơ HFpEF) → vẫn siêu âm tim và hội chẩn chuyên khoa (Hình 4).",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 61 tuổi, chỉ số khối cơ thể 39, đái tháo đường típ 2, tăng huyết áp, rung nhĩ kịch phát. Khó thở khi gắng sức 6 tháng, phù chân, tĩnh mạch cổ nổi nhẹ. NT-proBNP 180 picogam mỗi mililít.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là siêu âm tim. Dù NT-proBNP dưới ngưỡng 250 cho lứa tuổi 50 đến 74, béo phì làm peptide thấp giả. Người bệnh có phù, tĩnh mạch cổ nổi và nhiều yếu tố nguy cơ suy tim phân suất tống máu bảo tồn, nên nghi ngờ lâm sàng vẫn cao; theo thuật toán, vẫn phải siêu âm tim và hội chẩn chuyên khoa."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: LVEF bình thường, có chẩn đoán được không?",
+   "case": "Nữ 72 tuổi, tăng huyết áp, khó thở NYHA II. <b>NT-proBNP 820 pg/mL</b>. Siêu âm: <b>LVEF 62%</b> (chưa từng giảm), thể tích nhĩ trái chỉ số 41 mL/m² (nhịp xoang), E/e′ 13, vận tốc hở ba lá 3,0 m/s.",
+   "case_at": 1,
+   "q": "Kết luận phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Không phải suy tim vì LVEF bình thường",
+    "HFpEF · đủ 3 tiêu chuẩn, không bắt buộc thông tim",
+    "Bắt buộc thông tim gắng sức trước khi kết luận",
+    "HFrEF đã cải thiện"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Triệu chứng + LVEF ≥ 50% chưa từng giảm + bằng chứng khách quan: nhĩ trái > 34, E/e′ > 9, hở ba lá > 2,8 m/s; NT-proBNP ≥ 250 (50–74 tuổi). Đủ chẩn đoán HFpEF; thông tim chỉ khi còn nghi ngờ (IIb).",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nữ 72 tuổi, tăng huyết áp, khó thở mức độ hai. NT-proBNP 820. Siêu âm: phân suất tống máu 62%, chưa từng giảm; thể tích nhĩ trái chỉ số 41 mililít mỗi mét vuông khi nhịp xoang; E trên e phẩy 13; vận tốc hở ba lá 3,0 mét mỗi giây.",
+    "Kết luận phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: suy tim phân suất tống máu bảo tồn, đủ ba tiêu chuẩn, không bắt buộc thông tim. Bà có triệu chứng; phân suất tống máu từ 50% trở lên và chưa từng giảm; và bằng chứng khách quan gồm nhĩ trái giãn trên 34, E trên e phẩy trên 9, vận tốc hở ba lá trên 2,8, cùng NT-proBNP vượt ngưỡng 250 của lứa tuổi. Thông tim chỉ cân nhắc khi chẩn đoán còn chưa chắc chắn."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 2",
+   "title": "Sáu thông điệp của Phần 2",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "NT-proBNP theo tuổi",
+     "d": "≥ 125 (< 50) · ≥ 250 (50–74) · ≥ 500 (≥ 75) · > 2000: siêu âm trong 2 tuần",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Diễn giải peptide",
+     "d": "Béo phì, thuốc suy tim: thấp giả · sepsis, rung nhĩ, suy thận: cao",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Xét nghiệm nền",
+     "d": "ECG, X-quang, siêu âm, sắt, thêm UACR",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "HFpEF: đủ 3 tiêu chuẩn",
+     "d": "Bảng 10: phì đại thất, giãn nhĩ, E/e′ > 9, áp lực phổi",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Tìm nguyên nhân",
+     "d": "Siêu âm → CMR · amyloid: chuỗi nhẹ + xạ hình xương · gen",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Rối loạn nhịp, dẫn truyền",
+     "d": "QRS ≥ 130 · rà soát tạo nhịp thất phải",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần hai.",
+    "NT-proBNP nay dùng ngưỡng theo tuổi: 125, 250 và 500; trên 2000 cần siêu âm trong 2 tuần. Peptide phải được diễn giải theo bối cảnh: thấp giả trong béo phì và khi dùng thuốc suy tim, cao trong sepsis, rung nhĩ, suy thận.",
+    "Mọi người nghi suy tim cần điện tâm đồ, X-quang, siêu âm tim, xét nghiệm sắt và nay thêm tỷ số albumin trên creatinine niệu. Suy tim phân suất tống máu bảo tồn cần đủ ba tiêu chuẩn với bảng siêu âm đơn giản hoá.",
+    "Tìm nguyên nhân bằng hình ảnh đa phương thức, tầm soát amyloid bằng chuỗi nhẹ tự do và xạ hình xương, xét nghiệm gen, và đừng quên suy tim do rối loạn nhịp hay tạo nhịp thất phải. Phần ba sẽ bàn về điều trị nội khoa suy tim mạn: bốn trụ cột, lộ trình tăng liều, và thuốc cho suy tim phân suất tống máu bảo tồn. Hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
