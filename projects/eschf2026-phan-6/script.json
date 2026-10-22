@@ -1,0 +1,790 @@
+{
+ "title": "ESC 2026 Suy tim – Phần 6: Suy tim tiến triển, bệnh đồng mắc và tình huống đặc biệt",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch",
+ "part": "ESC 2026 Suy tim · Phần 6/6",
+ "source_short": "Nguồn: 2026 ESC Guidelines for the management of heart failure (Eur Heart J 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026.",
+ "lexicon": {
+  "ATTRibute-CM": "a tri biu xê em",
+  "DanGer Shock": "đan gơ sốc",
+  "I NEED HELP": "ai nít hen",
+  "PARADIGM-HF": "pa ra đai suy tim",
+  "PREVENT-HF": "pri ven suy tim",
+  "REDUCE-AMI": "ri điu xơ a em i",
+  "MOMENTUM 3": "mô men tum ba",
+  "NT-proBNP": "en tê prô bê en pê",
+  "SCORE2-HF": "xcô hai suy tim",
+  "SMART2-HF": "xmát hai suy tim",
+  "CAPRICORN": "ca pri con",
+  "INTERMACS": "in tơ mác",
+  "ADVENT-HF": "át ven suy tim",
+  "HF-ACTION": "suy tim ác sần",
+  "GLP-1 RA": "đồng vận thụ thể gờ lê pê một",
+  "DANBLOCK": "đan blốc",
+  "PREDIMED": "pre đi mét",
+  "ATTR-ACT": "a tê tê rờ ác",
+  "HELIOS-B": "hê li ốt bê",
+  "APOLLO-B": "a pô lô bê",
+  "SERVE-HF": "xơ vơ suy tim",
+  "SGLT2-I": "thuốc ức chế ét gờ lê tê hai",
+  "HFimpEF": "suy tim phân suất tống máu cải thiện",
+  "LIFE-HF": "lai phờ suy tim",
+  "EPHESUS": "ê phê xút",
+  "REMATCH": "ri mát",
+  "ATTR-CA": "amyloid tim transthyretin",
+  "HFmrEF": "suy tim phân suất tống máu giảm nhẹ",
+  "MAGGIC": "ma gích",
+  "BETAMI": "bê ta mi",
+  "REBOOT": "ri bút",
+  "REVERT": "ri vớt",
+  "RED-HF": "rét suy tim",
+  "SGLT2": "ét gờ lê tê hai",
+  "GLP-1": "gờ lê pê một",
+  "HFrEF": "suy tim phân suất tống máu giảm",
+  "HFpEF": "suy tim phân suất tống máu bảo tồn",
+  "ACE-I": "ức chế men chuyển",
+  "SOLVD": "xôn",
+  "TRACE": "tơ rây",
+  "pg/mL": "picogam mỗi mililít",
+  "ml/kg": "mililít mỗi kilôgam",
+  "type ": "típ ",
+  "ASCVD": "bệnh tim mạch do xơ vữa",
+  "AL-CA": "amyloid tim chuỗi nhẹ",
+  "NSAID": "thuốc kháng viêm không steroid",
+  "COX-2": "cốc hai",
+  "LVEF": "phân suất tống máu thất trái",
+  "NYHA": "ni ha",
+  "ARNI": "a ni",
+  "GDMT": "điều trị nội khoa theo hướng dẫn",
+  "GDIT": "điều trị can thiệp theo hướng dẫn",
+  "LVAD": "dụng cụ hỗ trợ thất trái",
+  "TEER": "sửa van qua ống thông",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "SAVR": "thay van động mạch chủ bằng phẫu thuật",
+  "SCAI": "ét ca i",
+  "SAVE": "xây phờ",
+  "ATTR": "a tê tê rờ",
+  "ARVC": "bệnh cơ tim thất phải gây loạn nhịp",
+  "mmHg": "milimét thủy ngân",
+  "T2DM": "đái tháo đường típ 2",
+  "TSAT": "độ bão hoà transferrin",
+  "pVO2": "tiêu thụ oxy đỉnh",
+  "COPD": "bệnh phổi tắc nghẽn mạn tính",
+  "eGFR": "mức lọc cầu thận",
+  "ESC": "e ét xê",
+  "ARB": "chẹn thụ thể angiotensin",
+  "MRA": "kháng thụ thể mineralocorticoid",
+  "FMT": "điều trị nội khoa nền tảng",
+  "AMT": "điều trị nội khoa bổ sung",
+  "DHF": "suy tim mất bù",
+  "CRT": "tái đồng bộ tim",
+  "ICD": "máy phá rung cấy",
+  "MCS": "hỗ trợ tuần hoàn cơ học",
+  "CMR": "cộng hưởng từ tim",
+  "ECG": "điện tâm đồ",
+  "BNP": "bê en pê",
+  "CKD": "bệnh thận mạn",
+  "HFA": "hội suy tim châu Âu",
+  "TTR": "tê tê rờ",
+  "DCM": "bệnh cơ tim giãn",
+  "PET": "pét",
+  "FDG": "ép đê gờ",
+  "ASV": "thông khí hỗ trợ thích ứng",
+  "BMI": "chỉ số khối cơ thể"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 6/6",
+   "title": "Suy tim tiến triển<br>và bệnh đồng mắc",
+   "subtitle": "Phần 6 · LVAD, ghép tim, béo phì, thiếu sắt, chăm sóc toàn diện, thai kỳ, amyloid · ôn tập",
+   "badges": [
+    {
+     "t": "I NEED HELP",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Semaglutide/tirzepatide",
+     "c": "amber",
+     "at": "L1+2"
+    },
+    {
+     "t": "Thiếu sắt: TSAT < 20%",
+     "c": "teal",
+     "at": "L1+4"
+    }
+   ],
+   "note": "2026 ESC Guidelines for the management of heart failure · Mục 8, 10, 11, 12",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần sáu, phần cuối của loạt bài về Hướng dẫn suy tim của Hội Tim mạch châu Âu năm 2026, trên Thư Viện Y Khoa Online.",
+    "Phần này gồm bốn mảng: suy tim tiến triển với dụng cụ hỗ trợ thất và ghép tim; bệnh đồng mắc ngoài tim như béo phì, đái tháo đường, bệnh thận, thiếu sắt, bệnh phổi và trầm cảm; chăm sóc đa chuyên khoa, phục hồi chức năng và theo dõi từ xa; và các tình huống đặc biệt gồm thai kỳ, amyloid tim và viêm cơ tim.",
+    "Cuối bài, chúng ta sẽ ôn tập toàn bộ sáu phần của loạt bài."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Tiến triển · Mục 8.1",
+   "title": "Suy tim tiến triển: định nghĩa và nhận diện sớm",
+   "ref": "Mục 8.1 · Bảng 14 · Bảng 15",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "ĐỊNH NGHĨA · ĐỦ 4",
+     "t": "Dù FMT, AMT, GDIT tối ưu",
+     "d": "① NYHA III–IV kéo dài",
+     "items": [
+      "② Rối loạn chức năng nặng: LVEF ≤ 30%, suy thất phải, bệnh van/bẩm sinh không mổ được, peptide cao kéo dài",
+      "③ ≥ 2 lần nhập viện/cấp cứu trong 12 tháng, hoặc cần tăng co bóp",
+      "④ Gắng sức rất kém: 6 phút < 300 m, VO₂ đỉnh < 12–14"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "TIÊN LƯỢNG",
+     "t": "Tử vong 1 năm > 40%",
+     "d": "5,1–7,7% người suy tim",
+     "items": [
+      "LVEF giảm nặng thường gặp nhưng không bắt buộc"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "I NEED HELP",
+     "t": "Dấu hiệu chuyển sớm",
+     "d": "Tăng co bóp · NYHA III–IV · tổn thương gan thận",
+     "items": [
+      "EF < 20% · sốc máy phá rung · nhập viện > 1",
+      "Tăng lợi tiểu · HA thấp, nhịp nhanh · không dung nạp thuốc"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Suy tim tiến triển, giai đoạn D, được định nghĩa khi có đủ bốn tiêu chí dù đã tối ưu điều trị nền tảng, bổ sung và can thiệp: một, triệu chứng nặng kéo dài mức độ ba hoặc bốn; hai, rối loạn chức năng tim nặng như phân suất tống máu từ 30% trở xuống, suy thất phải đơn độc, bệnh van hay bẩm sinh không mổ được, hoặc peptide lợi niệu cao kéo dài; ba, ít nhất hai lần nhập viện hoặc khám khẩn trong 12 tháng vì sung huyết hay loạn nhịp ác tính, hoặc từng cần tăng co bóp; và bốn, khả năng gắng sức rất kém, như đi bộ 6 phút dưới 300 mét hay tiêu thụ oxy đỉnh dưới 12 đến 14 mililít mỗi kilôgam mỗi phút.",
+    "Suy tim tiến triển chiếm 5,1 đến 7,7% người suy tim, với tử vong một năm trên 40% nếu chỉ điều trị nội khoa. Phân suất tống máu giảm nặng thường gặp nhưng không bắt buộc.",
+    "Để chuyển sớm, dùng tiêu chí I NEED HELP: cần tăng co bóp; mức độ ba bốn hoặc peptide cao kéo dài; tổn thương cơ quan đích; phân suất tống máu dưới 20%; sốc của máy phá rung; nhập viện hơn một lần; tăng liều lợi tiểu; huyết áp thấp, nhịp nhanh; và không dung nạp hay phải giảm thuốc tiên lượng."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "list",
+   "chapter": "Tiến triển · Bảng khuyến cáo 11–12",
+   "title": "Đánh giá và điều trị nội khoa suy tim tiến triển",
+   "ref": "Bảng khuyến cáo 11 · 12",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "Hội chẩn sớm trung tâm suy tim tiến triển · <b>I</b>",
+     "d": "Có động lực, không chống chỉ định tuyệt đối với ghép tim, LVAD",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Nghiệm pháp gắng sức tim phổi + thông tim phải · <b>I C</b>",
+     "d": "Đánh giá ứng viên ghép tim, LVAD",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Giảm hoặc ngưng chẹn beta/ivabradine · <b>IIa C</b> · mới",
+     "d": "Khi giảm tưới máu cơ quan dù điều trị ban đầu",
+     "at": 1,
+     "hl": "L1",
+     "c": "amber"
+    },
+    {
+     "t": "Tăng co bóp liên tục · <b>IIa C</b>",
+     "d": "Cầu nối quyết định, ghép, LVAD · liều thấp nhất, ngắn nhất",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Điều trị thay thế thận · IIa C · siêu lọc · IIb C",
+     "d": "Quá tải dịch kháng trị",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Giảm thuốc → liên hệ trung tâm",
+     "d": "Không để điều trị bổ sung trì hoãn chuyển viện",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo mới nhóm một: hội chẩn sớm với trung tâm suy tim tiến triển ở người đã hoặc có nguy cơ suy tim tiến triển, có động lực và không có chống chỉ định tuyệt đối với ghép tim hay dụng cụ hỗ trợ thất, để đánh giá ứng viên. Nghiệm pháp gắng sức tim phổi và thông tim phải là công cụ then chốt, khuyến cáo nhóm một. Hướng dẫn cũng lưu ý phụ nữ và nhóm thiểu số ít được tiếp cận các điều trị này hơn.",
+    "Khuyến cáo mới nhóm hai a: giảm liều hoặc ngưng chẹn beta hay ivabradine ở người suy tim tiến triển có giảm tưới máu cơ quan dù đã điều trị ban đầu, để tăng cung lượng tim. Mỗi lần phải giảm thuốc như vậy là tín hiệu để liên hệ trung tâm suy tim tiến triển.",
+    "Tăng co bóp liên tục, nhóm hai a, khi cung lượng thấp và giảm tưới máu, như cầu nối quyết định, ghép tim hay dụng cụ hỗ trợ thất, ở liều thấp nhất và thời gian ngắn nhất; cũng có thể dùng như điều trị giảm nhẹ.",
+    "Với quá tải dịch kháng trị, điều trị thay thế thận được cân nhắc nhóm hai a khi suy thận giai đoạn cuối, và siêu lọc nhóm hai b. Quan trọng nhất: không để việc thử thêm thuốc bổ sung làm trì hoãn chuyển tuyến."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "Tiến triển · Mục 8.2.2–8.2.3",
+   "title": "Dụng cụ hỗ trợ thất trái và ghép tim",
+   "ref": "Bảng 16–17 · Bảng khuyến cáo 13–14",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "TẠM THỜI",
+     "t": "INTERMACS 1–2",
+     "d": "Cầu nối quyết định, hồi phục, LVAD hay ghép khẩn",
+     "items": [
+      "Có chiến lược rút hỗ trợ khi không hồi phục"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "LVAD · I (SỬA ĐỔI)",
+     "t": "Cầu nối hoặc điều trị đích",
+     "d": "MOMENTUM 3: sống 2 năm 79%, 5 năm 58,4%",
+     "items": [
+      "Chống chỉ định: suy thất phải nặng, bệnh gan thận không hồi phục, không dùng được chống đông",
+      "Nhiễm khuẩn đường dây, chảy máu"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "GHÉP TIM · I",
+     "t": "Tiêu chuẩn vàng",
+     "d": "Sống 1 năm 80–90%, trung vị ≈ 12,5 năm",
+     "items": [
+      "Thường nhận đến 70 tuổi",
+      "Chống chỉ định: BMI > 35, ung thư, nhiễm trùng, tăng sức cản phổi không hồi phục"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "MỚI · IIa C",
+     "t": "Giải phẫu bệnh tim lấy ra",
+     "d": "Khi LVAD hoặc ghép, suy tim không thiếu máu cục bộ",
+     "items": [
+      "Tìm nguyên nhân điều trị được, sàng lọc gia đình"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Hỗ trợ tuần hoàn cơ học tạm thời được cân nhắc ở người INTERMACS mức một hoặc hai, như cầu nối đến quyết định, hồi phục, hoặc dụng cụ hỗ trợ thất hay ghép tim khẩn; và cần chiến lược rút hỗ trợ định trước khi không có hồi phục thần kinh hay tim có ý nghĩa.",
+    "Dụng cụ hỗ trợ thất trái lâu dài nay được khuyến cáo nhóm một ở người chọn lọc, như cầu nối đến ghép, đến ứng viên, đến hồi phục, hoặc điều trị đích. Với dụng cụ dòng liên tục treo từ hoàn toàn trong MOMENTUM 3, tỷ lệ sống 2 năm 79% và 5 năm 58,4%, tương đương ghép tim ở 2 năm. Chống chỉ định tuyệt đối gồm suy thất phải nặng, bệnh gan thận không hồi phục, bệnh thần kinh nặng, và không thể dùng chống đông lâu dài.",
+    "Ghép tim vẫn là tiêu chuẩn vàng, khuyến cáo nhóm một: sống một năm 80 đến 90%, trung vị khoảng 12,5 năm. Hầu hết chương trình nhận đến 70 tuổi, xét cả tuổi sinh học. Chống chỉ định gồm chỉ số khối cơ thể trên 35, ung thư, nhiễm trùng hoạt động, tăng sức cản mạch phổi không hồi phục, và nghiện rượu, chất hay hút thuốc trong 6 tháng.",
+    "Khuyến cáo mới nhóm hai a: khảo sát giải phẫu bệnh mô tim lấy ra khi đặt dụng cụ hay ghép ở suy tim không do thiếu máu cục bộ, để tìm nguyên nhân điều trị được hoặc sàng lọc gia đình."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "cards",
+   "chapter": "Đồng mắc · Mục 10.1–10.2",
+   "title": "Béo phì và đái tháo đường",
+   "ref": "Mục 10.1–10.2 · Bảng khuyến cáo 18",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "MỚI · IIa B1",
+     "t": "Semaglutide hoặc tirzepatide",
+     "d": "Có triệu chứng, LVEF ≥ 45%, BMI ≥ 30",
+     "items": [
+      "Bất kể đái tháo đường",
+      "Giảm cân, tăng gắng sức, chất lượng sống · SUMMIT: có thể giảm biến cố"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "amber"
+    },
+    {
+     "tag": "MỚI · IIb C",
+     "t": "Phẫu thuật giảm béo",
+     "d": "BMI ≥ 35 khi lối sống + thuốc không duy trì được",
+     "items": [
+      "Quan sát: giảm tử vong, nhập viện, rung nhĩ"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "ĐÁI THÁO ĐƯỜNG",
+     "t": "SGLT2-I cho mọi người",
+     "d": "Bất kể HbA1c",
+     "items": [
+      "HFpEF + béo phì: thêm semaglutide/tirzepatide",
+      "Metformin: không khi eGFR < 30"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "CHỐNG CHỈ ĐỊNH",
+     "t": "Saxagliptin, glitazone",
+     "d": "Tăng ≈ 30% nhập viện suy tim",
+     "items": [
+      "Insulin: theo dõi suy tim nặng lên"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Béo phì liên quan chặt với suy tim phân suất tống máu bảo tồn; kiểu hình béo phì chiếm 30 đến 40% ở châu Âu. Người béo phì có peptide thấp hơn, và chỉ cần quá tải dịch nhẹ đã tăng áp lực đổ đầy. Khuyến cáo mới nhóm hai a: semaglutide hoặc tirzepatide cho người suy tim có triệu chứng, phân suất tống máu từ 45%, chỉ số khối cơ thể từ 30, bất kể đái tháo đường, để giảm cân, tăng khả năng gắng sức và chất lượng sống; thử nghiệm SUMMIT còn gợi ý giảm biến cố suy tim.",
+    "Khuyến cáo mới nhóm hai b: phẫu thuật giảm béo ở người chỉ số từ 35 khi thay đổi lối sống và thuốc giảm cân không duy trì được hiệu quả.",
+    "Với đái tháo đường típ 2, thuốc ức chế ét gờ lê tê hai được khuyến cáo cho mọi người suy tim, bất kể HbA1c. Người suy tim phân suất tống máu bảo tồn kèm đái tháo đường, nhất là béo phì, nên thêm semaglutide hoặc tirzepatide. Không dùng metformin khi mức lọc dưới 30.",
+    "Saxagliptin và nhóm glitazone làm tăng khoảng 30% nhập viện vì suy tim nên chống chỉ định; nếu cần insulin, theo dõi dấu hiệu suy tim nặng lên."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "cards",
+   "chapter": "Đồng mắc · Mục 10.3–10.4",
+   "title": "Bệnh thận mạn, thiếu sắt và thiếu máu",
+   "ref": "Mục 10.3–10.4 · Bảng khuyến cáo 19",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "BỆNH THẬN",
+     "t": "30–40% (đến 50% ở HFpEF)",
+     "d": "FMT vẫn có lợi, thậm chí nhiều hơn",
+     "items": [
+      "<em>Creatinine tăng < 50%, eGFR > 15: chấp nhận</em>",
+      "Mất bù: suy thận khi giải sung huyết tốt không xấu"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "blue"
+    },
+    {
+     "tag": "ĐỊNH NGHĨA MỚI",
+     "t": "Thiếu sắt: TSAT < 20%",
+     "d": "Định nghĩa cũ: ferritin < 100, hoặc 100–299 + TSAT < 20%",
+     "items": [
+      "TSAT < 20% nhạy, đặc hiệu hơn, dự đoán đáp ứng tốt hơn"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "SẮT TĨNH MẠCH",
+     "t": "HFrEF có triệu chứng",
+     "d": "I B1: giảm triệu chứng, tăng chất lượng sống",
+     "items": [
+      "IIa B1: giảm nhập viện (ferric carboxymaltose, derisomaltose)",
+      "Không dùng thuốc kích thích tạo hồng cầu (RED-HF)"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bệnh thận mạn gặp ở 30 đến 40% người suy tim, đến 50% ở nhóm bảo tồn. Thuốc nền tảng vẫn hiệu quả như nhau hoặc hơn ở người bệnh thận. Sau khi khởi đầu ức chế hệ renin, kháng thụ thể mineralocorticoid hay ức chế ét gờ lê tê hai, creatinine tăng dưới 50% so với nền, miễn mức lọc còn trên 15, là chấp nhận được và không nên ngưng thuốc. Trong suy tim mất bù, suy giảm thận khi giải sung huyết tốt không liên quan tiên lượng xấu.",
+    "Về thiếu sắt, hướng dẫn ủng hộ định nghĩa mới: độ bão hoà transferrin dưới 20%. Định nghĩa cũ, ferritin dưới 100 hoặc 100 đến 299 kèm độ bão hoà dưới 20%, có thể xếp nhầm người không thiếu sắt; còn độ bão hoà dưới 20% nhạy và đặc hiệu hơn, liên quan tử vong cao hơn và dự đoán đáp ứng với sắt tĩnh mạch tốt hơn.",
+    "Sắt tĩnh mạch được khuyến cáo nhóm một ở suy tim phân suất tống máu giảm có triệu chứng và thiếu sắt để giảm triệu chứng và cải thiện chất lượng sống, và nhóm hai a để giảm nhập viện, với ferric carboxymaltose hoặc ferric derisomaltose. Không dùng thuốc kích thích tạo hồng cầu, vì RED-HF không giảm biến cố mà tăng huyết khối."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "Đồng mắc · Mục 10.5–10.9",
+   "title": "Phổi, giấc ngủ, tâm thần, suy yếu và các bệnh khác",
+   "ref": "Bảng khuyến cáo 20–22",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "PHỔI · GIẤC NGỦ",
+     "t": "Chẹn beta chọn lọc",
+     "d": "Đợt cấp COPD không phải lý do ngưng chẹn beta",
+     "items": [
+      "ASV: <b>III A</b> khi ngưng thở trung ương trội (SERVE-HF)",
+      "ASV: IIb C khi tắc nghẽn trội (mới)"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "MỚI · IIa C",
+     "t": "Đánh giá lo âu, trầm cảm, suy yếu",
+     "d": "Trầm cảm 20%",
+     "items": [
+      "Liệu pháp nhận thức hành vi có lợi",
+      "Tránh thuốc chống trầm cảm ba vòng"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "KHÁC",
+     "t": "Tiêm chủng · IIa",
+     "d": "Cúm, phế cầu",
+     "items": [
+      "NSAID, ức chế COX-2: III",
+      "Gút: allopurinol, colchicine cơn cấp",
+      "Kiểm tra tuyến giáp"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "UNG THƯ",
+     "t": "FMT mọi LVEF",
+     "d": "Suy tim do điều trị ung thư",
+     "items": [
+      "Quyết định thuốc độc tim: đa chuyên khoa"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Với bệnh phổi tắc nghẽn mạn tính, điều trị suy tim thường dung nạp tốt; nên dùng chẹn beta chọn lọc như bisoprolol, metoprolol succinate hay nebivolol, và đợt cấp không phải lý do ngưng chẹn beta. Rối loạn thở khi ngủ gặp ở hơn một phần ba người suy tim. Thông khí hỗ trợ thích ứng chống chỉ định nhóm ba mức A khi ngưng thở trung ương trội, do SERVE-HF tăng tử vong; khuyến cáo mới nhóm hai b có thể dùng khi ngưng thở tắc nghẽn trội để cải thiện giấc ngủ và chất lượng sống, theo ADVENT-HF.",
+    "Khuyến cáo mới nhóm hai a: đánh giá lo âu, trầm cảm và suy yếu để lập kế hoạch chăm sóc cá thể. Trầm cảm gặp ở 20% người suy tim, ảnh hưởng tuân thủ; liệu pháp nhận thức hành vi có lợi, và tránh thuốc chống trầm cảm ba vòng vì gây tụt huyết áp, loạn nhịp.",
+    "Nên tiêm vắc xin cúm và phế cầu, nhóm hai a. Không dùng thuốc kháng viêm không steroid và ức chế COX-2, nhóm ba, vì gây mất bù và suy thận. Gút dùng allopurinol lâu dài, colchicine khi cơn cấp; kiểm tra tuyến giáp ở suy tim mới và mất bù.",
+    "Với suy tim do điều trị ung thư, thuốc nền tảng được khuyến cáo bất kể phân suất tống máu, và việc ngưng hay tiếp tục thuốc độc tim cần quyết định đa chuyên khoa."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "list",
+   "chapter": "Chăm sóc toàn diện · Mục 11",
+   "title": "Chăm sóc đa chuyên khoa, phục hồi và theo dõi",
+   "ref": "Bảng khuyến cáo 23–26",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "Chương trình quản lý đa chuyên khoa · <b>I</b>",
+     "d": "Giáo dục, tự chăm sóc (I A) · cải thiện tuân thủ, rà soát đa thuốc (I)",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Tập luyện cá thể hoá · <b>I</b> · mới",
+     "d": "Trong và ngoài chương trình phục hồi tim, lâu dài",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "t": "Phục hồi chức năng: LVAD · <b>I</b> · mất bù · <b>IIa</b> (mới)",
+     "d": "Mất bù: càng sớm càng tốt khi an toàn",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Theo dõi áp lực động mạch phổi từ xa · <b>IIa B1</b>",
+     "d": "NYHA III + nhập viện trong 12 tháng · từ xa không xâm lấn: IIb",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Lập kế hoạch chăm sóc trước · <b>I</b> · mới",
+     "d": "Bàn quỹ đạo bệnh, mục tiêu chăm sóc ở suy tim tiến triển",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Nhóm chăm sóc giảm nhẹ tích hợp · <b>I</b> · mới",
+     "d": "Giảm gánh nặng triệu chứng · không có bằng chứng hạn chế dịch ở suy tim mạn",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Chương trình quản lý suy tim đa chuyên khoa được khuyến cáo nhóm một để giảm nhập viện và tử vong, cùng với giáo dục và tự chăm sóc, nhóm một mức A, và can thiệp cải thiện tuân thủ gồm đánh giá hiểu biết sức khoẻ và rà soát đa thuốc. Điều dưỡng và dược sĩ suy tim đóng vai trò quan trọng trong tối ưu thuốc.",
+    "Khuyến cáo mới nhóm một: tập luyện cá thể hoá cho mọi người ổn định, cả trong chương trình phục hồi tim đa chuyên khoa và lâu dài bên ngoài chương trình, để tăng khả năng gắng sức, chất lượng sống và giảm nhập viện. Phục hồi chức năng được khuyến cáo nhóm một ở người mang dụng cụ hỗ trợ thất, và nhóm hai a ở người suy tim mất bù, ngay khi an toàn.",
+    "Theo dõi áp lực động mạch phổi từ xa bằng cảm biến được nâng lên nhóm hai a ở người mức độ ba có nhập viện trong 12 tháng; theo dõi từ xa không xâm lấn là nhóm hai b. Hướng dẫn cũng nói rõ không có bằng chứng ủng hộ hạn chế dịch ở suy tim mạn.",
+    "Hai khuyến cáo mới nhóm một cho suy tim tiến triển: chủ động thảo luận về quỹ đạo bệnh, mục tiêu chăm sóc và lập kế hoạch chăm sóc trước, kể cả việc tắt máy phá rung hay dụng cụ hỗ trợ; và tiếp cận nhóm chăm sóc giảm nhẹ đa chuyên khoa tích hợp để cải thiện chất lượng sống và giảm gánh nặng triệu chứng."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "Tình huống đặc biệt · Mục 12",
+   "title": "Thai kỳ, amyloid tim và viêm cơ tim",
+   "ref": "Mục 12 · Bảng 20 · Bảng khuyến cáo 27–28",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "THAI KỲ",
+     "t": "Tư vấn trước mang thai · I C",
+     "d": "Chuyển sang chẹn beta 1 chọn lọc (metoprolol, bisoprolol) · I C",
+     "items": [
+      "<b>III</b>: ức chế men chuyển, ARB, ARNI, MRA, ivabradine, SGLT2-I"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "AMYLOID · DẤU HIỆU",
+     "t": "Nghĩ tới khi thành tim dày",
+     "d": "> 65 tuổi + dấu hiệu cờ đỏ",
+     "items": [
+      "Hội chứng ống cổ tay hai bên, đứt gân nhị đầu, hẹp ống sống",
+      "Điện thế thấp so với độ dày, NT-proBNP, troponin cao bất tương xứng"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "ATTR · I A",
+     "t": "Tafamidis, acoramidis, vutrisiran",
+     "d": "NYHA I–III, thể hoang dại hoặc di truyền",
+     "items": [
+      "AL: hoá trị, ghép tế bào gốc",
+      "Rung nhĩ: luôn chống đông · tránh digoxin"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "teal"
+    },
+    {
+     "tag": "VIÊM CƠ TIM",
+     "t": "< 5% nguyên nhân suy tim",
+     "d": "Nguy cơ cao: mất bù, LVEF < 40%, loạn nhịp nặng, ngấm thuốc muộn rộng",
+     "items": [
+      "Sinh thiết nội mạc · trung tâm có hỗ trợ cơ học",
+      "Không ức chế miễn dịch thường quy khi LVEF bảo tồn"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Với thai kỳ, khuyến cáo mới nhóm một: tư vấn trước mang thai về thuốc, tránh thai, sàng lọc di truyền; chuyển chẹn beta không chọn lọc sang chẹn beta một chọn lọc như metoprolol hay bisoprolol; và nhóm ba, không dùng ức chế men chuyển, chẹn thụ thể angiotensin, a ni, kháng thụ thể mineralocorticoid, ivabradine và ức chế ét gờ lê tê hai vì độc thai hay gây quái thai.",
+    "Amyloid tim nên được nghĩ tới ở người suy tim có thành thất dày kèm dấu hiệu cờ đỏ, nhất là trên 65 tuổi: hội chứng ống cổ tay hai bên, đứt gân cơ nhị đầu, hẹp ống sống thắt lưng, bệnh đa dây thần kinh, điện thế QRS thấp so với độ dày thành, NT-proBNP và troponin cao bất tương xứng, và strain dọc giảm với mỏm được bảo tồn.",
+    "Amyloid transthyretin, thể hoang dại hoặc di truyền, mức độ một đến ba: khuyến cáo nhóm một mức A dùng thuốc ổn định tafamidis, acoramidis hoặc thuốc ức chế tổng hợp vutrisiran, dựa trên ATTR-ACT, ATTRibute-CM và HELIOS-B. Amyloid chuỗi nhẹ cần hoá trị hoặc ghép tế bào gốc tại trung tâm chuyên sâu. Người amyloid có rung nhĩ luôn được chống đông, và tránh digoxin vì dễ ngộ độc.",
+    "Viêm cơ tim chiếm dưới 5% nguyên nhân suy tim. Người nguy cơ cao, gồm mất bù, phân suất tống máu dưới 40%, loạn nhịp đe doạ tính mạng hay ngấm thuốc muộn lan rộng, cần sinh thiết nội mạc cơ tim và được chuyển đến trung tâm có hỗ trợ tuần hoàn cơ học. Không dùng ức chế miễn dịch thường quy khi phân suất tống máu bảo tồn."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy của phần cuối",
+   "box": {
+    "tag": "BẪY",
+    "t": "Năm sai lầm thường gặp",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "1",
+     "t": "Chuyển trung tâm suy tim tiến triển quá muộn, khi đã suy đa cơ quan",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Chẩn đoán thiếu sắt chỉ dựa ferritin ở người đang viêm",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "3",
+     "t": "Dùng NSAID, glitazone, saxagliptin ở người suy tim",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "tag": "4",
+     "t": "Bỏ sót amyloid ở người cao tuổi “HFpEF” thành tim dày",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "tag": "5",
+     "t": "Tiếp tục ARNI, MRA, SGLT2-I khi người bệnh mang thai",
+     "at": 5,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Năm bẫy của phần cuối.",
+    "Một, chuyển đến trung tâm suy tim tiến triển quá muộn, khi đã suy đa cơ quan và mất cơ hội ghép hay đặt dụng cụ hỗ trợ.",
+    "Hai, chẩn đoán thiếu sắt chỉ dựa vào ferritin ở người đang viêm; hãy dùng độ bão hoà transferrin.",
+    "Ba, kê thuốc kháng viêm không steroid, glitazone hay saxagliptin cho người suy tim.",
+    "Bốn, bỏ sót amyloid ở người cao tuổi được gọi là suy tim phân suất tống máu bảo tồn với thành tim dày.",
+    "Năm, tiếp tục a ni, kháng thụ thể mineralocorticoid hay ức chế ét gờ lê tê hai khi người bệnh mang thai."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: tái nhập viện liên tục",
+   "case": "Nam 54 tuổi, bệnh cơ tim giãn, LVEF 18%. Nhập viện 3 lần trong 12 tháng, furosemide tăng lên 160 mg/ngày. Đã phải giảm sacubitril–valsartan vì HA 86/60 mmHg. Natri máu 129 mmol/L, eGFR giảm từ 60 xuống 38. Không bệnh lý ngoài tim nặng.",
+   "case_at": 1,
+   "q": "Bước phù hợp nhất lúc này?",
+   "q_at": 2,
+   "options": [
+    "Thêm vericiguat, tái khám sau 3 tháng",
+    "Hội chẩn sớm trung tâm suy tim tiến triển",
+    "Chuyển chăm sóc giảm nhẹ đơn thuần",
+    "Tăng furosemide lên 320 mg rồi theo dõi"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Nhiều tiêu chí I NEED HELP: nhập viện > 1, tăng lợi tiểu, HA thấp, không dung nạp thuốc tiên lượng, EF < 20%, tổn thương thận. Không chống chỉ định → hội chẩn sớm trung tâm suy tim tiến triển (I) để đánh giá ghép tim/LVAD; AMT không được trì hoãn chuyển viện.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 54 tuổi, bệnh cơ tim giãn, phân suất tống máu 18%. Nhập viện 3 lần trong 12 tháng, furosemide đã tăng lên 160 miligam mỗi ngày. Đã phải giảm sacubitril–valsartan vì huyết áp 86 trên 60. Natri máu 129, mức lọc cầu thận giảm từ 60 xuống 38. Không có bệnh lý ngoài tim nặng.",
+    "Bước phù hợp nhất lúc này là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là hội chẩn sớm trung tâm suy tim tiến triển. Người bệnh có nhiều tiêu chí I NEED HELP: nhập viện nhiều lần, tăng liều lợi tiểu, huyết áp thấp, không dung nạp thuốc tiên lượng, phân suất tống máu dưới 20%, và tổn thương thận. Ông còn trẻ, không có chống chỉ định rõ, nên cần được đánh giá ghép tim hoặc dụng cụ hỗ trợ thất ngay; thử thêm thuốc bổ sung không được làm trì hoãn chuyển viện."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: “HFpEF” thành tim dày",
+   "case": "Nam 79 tuổi, khó thở NYHA II, đã phẫu thuật ống cổ tay hai bên. Siêu âm: thành thất 17 mm, LVEF 55%, strain giảm với mỏm bảo tồn. ECG điện thế thấp. Xạ hình xương DPD độ 2, <b>không có protein đơn dòng</b> (huyết thanh, nước tiểu, chuỗi nhẹ tự do). Gen TTR: hoang dại.",
+   "case_at": 1,
+   "q": "Điều trị đặc hiệu phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Hoá trị bortezomib",
+    "Tafamidis, acoramidis hoặc vutrisiran",
+    "Chỉ điều trị như HFpEF thông thường",
+    "Digoxin để kiểm soát nhịp"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Xạ hình xương dương tính + không protein đơn dòng → chẩn đoán không xâm lấn amyloid transthyretin thể hoang dại. NYHA I–III → thuốc ổn định (tafamidis, acoramidis) hoặc ức chế tổng hợp (vutrisiran), I A. Hoá trị dành cho amyloid chuỗi nhẹ; tránh digoxin.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nam 79 tuổi, khó thở mức độ hai, đã phẫu thuật hội chứng ống cổ tay hai bên. Siêu âm: thành thất 17 milimét, phân suất tống máu 55%, strain giảm với mỏm được bảo tồn. Điện tâm đồ điện thế thấp. Xạ hình xương DPD độ hai, không có protein đơn dòng trong huyết thanh, nước tiểu và chuỗi nhẹ tự do. Gen transthyretin thể hoang dại.",
+    "Điều trị đặc hiệu phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: tafamidis, acoramidis hoặc vutrisiran. Xạ hình xương dương tính và không có protein đơn dòng cho phép chẩn đoán không xâm lấn amyloid transthyretin thể hoang dại. Với mức độ một đến ba, khuyến cáo nhóm một mức A là thuốc ổn định hoặc thuốc ức chế tổng hợp transthyretin. Hoá trị dành cho amyloid chuỗi nhẹ, và cần tránh digoxin."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 6",
+   "title": "Sáu thông điệp của Phần 6",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Suy tim tiến triển",
+     "d": "I NEED HELP → hội chẩn sớm · giảm chẹn beta khi giảm tưới máu",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "LVAD và ghép tim: nhóm I",
+     "d": "MOMENTUM 3: sống 5 năm 58,4% · ghép: trung vị 12,5 năm",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Béo phì, đái tháo đường",
+     "d": "Semaglutide/tirzepatide (LVEF ≥ 45%, BMI ≥ 30) · SGLT2-I",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Thận, sắt",
+     "d": "Creatinine tăng < 50% chấp nhận · thiếu sắt: TSAT < 20% · sắt tĩnh mạch",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Chăm sóc toàn diện",
+     "d": "Đa chuyên khoa · tập luyện · áp lực động mạch phổi từ xa · giảm nhẹ",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Tình huống đặc biệt",
+     "d": "Thai kỳ: ngưng thuốc độc thai · ATTR: tafamidis/acoramidis/vutrisiran",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần sáu.",
+    "Nhận diện sớm suy tim tiến triển bằng I NEED HELP và hội chẩn trung tâm sớm; dụng cụ hỗ trợ thất và ghép tim đều là khuyến cáo nhóm một ở người chọn lọc.",
+    "Với bệnh đồng mắc: semaglutide hoặc tirzepatide cho người béo phì phân suất tống máu từ 45%, ức chế ét gờ lê tê hai cho mọi người đái tháo đường, chấp nhận creatinine tăng dưới 50%, và định nghĩa thiếu sắt mới là độ bão hoà transferrin dưới 20%.",
+    "Chăm sóc toàn diện gồm quản lý đa chuyên khoa, tập luyện, theo dõi từ xa và chăm sóc giảm nhẹ; và trong tình huống đặc biệt, ngưng các thuốc độc thai khi mang thai, điều trị đặc hiệu amyloid transthyretin."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "summary",
+   "chapter": "Ôn tập toàn loạt",
+   "title": "ESC 2026 Suy tim: sáu phần trong một slide",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "1 · Khái niệm mới",
+     "d": "HFrEF < 50% · bỏ HFmrEF · giai đoạn A–D · FMT/AMT/GDIT",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "2 · Chẩn đoán",
+     "d": "NT-proBNP theo tuổi · HFpEF đủ 3 tiêu chuẩn · tìm nguyên nhân",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "3 · Điều trị nội khoa",
+     "d": "SGLT2-I + MRA mọi LVEF · 4 trụ cột · tăng liều 1–2 tuần",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "4 · Thiết bị, đồng mắc tim mạch",
+     "d": "ICD, CRT · rung nhĩ: chẹn beta, cắt nút + CRT · TEER",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "5 · Mất bù, sốc tim",
+     "d": "Natri niệu · SGLT2-I trong viện · Shock Team, bơm vi trục",
+     "at": 5,
+     "c": "amber"
+    },
+    {
+     "t": "6 · Tiến triển, đồng mắc, đặc biệt",
+     "d": "I NEED HELP · GLP-1 RA · TSAT < 20% · ATTR",
+     "at": 6,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Và bây giờ, xin cùng quý vị ôn tập toàn bộ loạt bài.",
+    "Phần một: suy tim phân suất tống máu giảm nay là dưới 50%, nhóm giảm nhẹ bị loại bỏ, phân loại giai đoạn A đến D và thuật ngữ điều trị nền tảng, bổ sung, can thiệp.",
+    "Phần hai: NT-proBNP theo tuổi, ba tiêu chuẩn suy tim phân suất tống máu bảo tồn, và tìm nguyên nhân bằng hình ảnh đa phương thức.",
+    "Phần ba: ức chế ét gờ lê tê hai và kháng thụ thể mineralocorticoid cho mọi phân suất tống máu, bốn trụ cột khởi đầu cùng lúc và tăng liều mỗi 1 đến 2 tuần.",
+    "Phần bốn: máy phá rung, tái đồng bộ, chẹn beta đầu tay cho rung nhĩ, cắt nút nhĩ thất kèm tái đồng bộ, và sửa van hai lá qua ống thông.",
+    "Phần năm: giải sung huyết theo natri niệu, ức chế ét gờ lê tê hai ngay trong viện, Shock Team và bơm vi trục cho sốc tim do nhồi máu.",
+    "Phần sáu: nhận diện sớm suy tim tiến triển, điều trị bệnh đồng mắc, chăm sóc toàn diện và các tình huống đặc biệt. Thưa quý đồng nghiệp, cảm ơn quý vị đã đồng hành cùng Thư Viện Y Khoa Online trong trọn bộ loạt bài này. Hẹn gặp lại quý vị ở chuyên đề tiếp theo."
+   ]
+  }
+ ]
+}
