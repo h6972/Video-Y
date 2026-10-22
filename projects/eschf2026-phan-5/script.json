@@ -1,0 +1,925 @@
+{
+ "title": "ESC 2026 Suy tim – Phần 5: Suy tim mất bù và sốc tim",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch",
+ "part": "ESC 2026 Suy tim · Phần 5/6",
+ "source_short": "Nguồn: 2026 ESC Guidelines for the management of heart failure (Eur Heart J 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026.",
+ "lexicon": {
+  "DanGer Shock": "đan gơ sốc",
+  "SOLOIST-WHF": "xô lô ít",
+  "PREVENT-HF": "pri ven suy tim",
+  "REDUCE-AMI": "ri điu xơ a em i",
+  "ECLS-SHOCK": "e xê eo ét sốc",
+  "AFFIRM-AHF": "a phơm suy tim cấp",
+  "NT-proBNP": "en tê prô bê en pê",
+  "SCORE2-HF": "xcô hai suy tim",
+  "SMART2-HF": "xmát hai suy tim",
+  "CAPRICORN": "ca pri con",
+  "STRONG-HF": "xtrông suy tim",
+  "GLP-1 RA": "đồng vận thụ thể gờ lê pê một",
+  "DANBLOCK": "đan blốc",
+  "PREDIMED": "pre đi mét",
+  "DOSE-AHF": "đô suy tim cấp",
+  "PUSH-AHF": "pút suy tim cấp",
+  "ENACT-HF": "i nác suy tim",
+  "CLOROTIC": "clo rô tích",
+  "SGLT2-I": "thuốc ức chế ét gờ lê tê hai",
+  "HFimpEF": "suy tim phân suất tống máu cải thiện",
+  "LIFE-HF": "lai phờ suy tim",
+  "EPHESUS": "ê phê xút",
+  "EMPULSE": "em pun",
+  "VA-ECMO": "éc mô tĩnh mạch – động mạch",
+  "CHAMPIT": "chăm pít",
+  "HFmrEF": "suy tim phân suất tống máu giảm nhẹ",
+  "MAGGIC": "ma gích",
+  "BETAMI": "bê ta mi",
+  "REBOOT": "ri bút",
+  "REVERT": "ri vớt",
+  "SGLT2": "ét gờ lê tê hai",
+  "GLP-1": "gờ lê pê một",
+  "HFrEF": "suy tim phân suất tống máu giảm",
+  "HFpEF": "suy tim phân suất tống máu bảo tồn",
+  "ACE-I": "ức chế men chuyển",
+  "SOLVD": "xôn",
+  "TRACE": "tơ rây",
+  "pg/mL": "picogam mỗi mililít",
+  "ml/kg": "mililít mỗi kilôgam",
+  "type ": "típ ",
+  "ASCVD": "bệnh tim mạch do xơ vữa",
+  "ADVOR": "át vo",
+  "SHARC": "sác",
+  "PaCO2": "pê a cê ô hai",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "PaCO₂": "pê a cê ô hai",
+  "LVEF": "phân suất tống máu thất trái",
+  "NYHA": "ni ha",
+  "ARNI": "a ni",
+  "GDMT": "điều trị nội khoa theo hướng dẫn",
+  "GDIT": "điều trị can thiệp theo hướng dẫn",
+  "LVAD": "dụng cụ hỗ trợ thất trái",
+  "TEER": "sửa van qua ống thông",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "SAVR": "thay van động mạch chủ bằng phẫu thuật",
+  "SCAI": "ét ca i",
+  "SAVE": "xây phờ",
+  "ATTR": "a tê tê rờ",
+  "ARVC": "bệnh cơ tim thất phải gây loạn nhịp",
+  "mmHg": "milimét thủy ngân",
+  "T2DM": "đái tháo đường típ 2",
+  "IABP": "bóng đối xung nội động mạch chủ",
+  "ECLS": "tuần hoàn ngoài cơ thể",
+  "uNa+": "natri niệu",
+  "SpO2": "ét pê ô hai",
+  "PaO2": "pê a ô hai",
+  "mL/h": "mililít mỗi giờ",
+  "PaO₂": "pê a ô hai",
+  "SpO₂": "ét pê ô hai",
+  "FiO₂": "phi ô hai",
+  "ESC": "e ét xê",
+  "ARB": "chẹn thụ thể angiotensin",
+  "MRA": "kháng thụ thể mineralocorticoid",
+  "FMT": "điều trị nội khoa nền tảng",
+  "AMT": "điều trị nội khoa bổ sung",
+  "DHF": "suy tim mất bù",
+  "CRT": "tái đồng bộ tim",
+  "ICD": "máy phá rung cấy",
+  "MCS": "hỗ trợ tuần hoàn cơ học",
+  "CMR": "cộng hưởng từ tim",
+  "ECG": "điện tâm đồ",
+  "BNP": "bê en pê",
+  "CKD": "bệnh thận mạn",
+  "HFA": "hội suy tim châu Âu",
+  "TTR": "tê tê rờ",
+  "DCM": "bệnh cơ tim giãn",
+  "PET": "pét",
+  "FDG": "ép đê gờ",
+  "SBP": "huyết áp tâm thu",
+  "LUS": "siêu âm phổi",
+  "IVC": "tĩnh mạch chủ dưới"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 5/6",
+   "title": "Suy tim mất bù<br>và sốc tim",
+   "subtitle": "Phần 5 · Chẩn đoán, bốn kiểu biểu hiện, ba giai đoạn, giải sung huyết, thuốc vận mạch, hỗ trợ tuần hoàn cơ học",
+   "badges": [
+    {
+     "t": "Natri niệu 2 giờ ≥ 70",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "SGLT2-I trong viện · I",
+     "c": "teal",
+     "at": "L1+2"
+    },
+    {
+     "t": "Bơm vi trục: STEMI",
+     "c": "coral",
+     "at": "L1+4"
+    }
+   ],
+   "note": "2026 ESC Guidelines for the management of heart failure · Mục 7",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần năm của loạt bài về Hướng dẫn suy tim của Hội Tim mạch châu Âu năm 2026, và đây là phần gần nhất với công việc hằng ngày ở cấp cứu và hồi sức.",
+    "Chúng ta sẽ đi qua định nghĩa suy tim mất bù, chẩn đoán với ngưỡng peptide riêng, bốn kiểu biểu hiện lâm sàng, phân độ sốc tim, ba giai đoạn xử trí trong viện, phác đồ giải sung huyết dựa trên natri niệu, thuốc vận mạch, và hỗ trợ tuần hoàn cơ học tạm thời.",
+    "Các điểm mới đáng chú ý: khởi đầu ức chế ét gờ lê tê hai ngay trong viện, lợi tiểu theo natri niệu, bơm vi trục cho sốc tim do nhồi máu có ST chênh lên, và khuyến cáo nhóm Shock Team."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Định nghĩa · Mục 7.1",
+   "title": "Suy tim mất bù: định nghĩa và gánh nặng",
+   "ref": "Mục 7.1",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "ĐỊNH NGHĨA",
+     "t": "Cần điều trị khẩn",
+     "d": "Triệu chứng/dấu hiệu khởi phát cấp hoặc từ từ, đủ nặng để cần khám khẩn và bắt đầu hay tăng điều trị",
+     "items": [
+      "Nhập viện, cấp cứu hoặc khám ngoại trú ngoài kế hoạch",
+      "Mới mắc hoặc trên nền suy tim có sẵn"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "PHÂN BIỆT",
+     "t": "Nặng lên ≠ mất bù",
+     "d": "Suy tim nặng lên: triệu chứng xấu đi",
+     "items": [
+      "Mất bù: đặc trưng bởi phải thay đổi điều trị"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "TIÊN LƯỢNG",
+     "t": "Tử vong cao",
+     "d": "3–10% trong viện · 20–30% sau 1 năm · > 50% sau 5 năm",
+     "items": [
+      "Tái nhập viện 1 năm: 35–44%",
+      "Mới mắc: tử vong trong viện cao hơn, sau ra viện thấp hơn"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Suy tim mất bù được định nghĩa là triệu chứng hoặc dấu hiệu suy tim khởi phát cấp hoặc từ từ, đủ nặng để cần khám khẩn và bắt đầu hay tăng cường điều trị, dẫn tới nhập viện, khám cấp cứu, hoặc khám ngoại trú ngoài kế hoạch. Nó có thể là biểu hiện đầu tiên của bệnh, hoặc là đợt nặng lên của suy tim có sẵn.",
+    "Cần phân biệt: suy tim nặng lên là triệu chứng xấu đi, một biến cố trong tiến triển bệnh; còn mất bù được đặc trưng bởi việc phải thay đổi điều trị.",
+    "Tiên lượng rất nặng: tử vong 3 đến 10% trong lúc nằm viện, 20 đến 30% sau một năm và trên 50% sau 5 năm; tái nhập viện trong năm đầu 35 đến 44%. Suy tim mất bù mới mắc có tử vong trong viện cao hơn, nhưng tử vong và tái nhập viện sau ra viện thấp hơn so với trên nền suy tim có sẵn."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "Chẩn đoán · Mục 7.2",
+   "title": "Chẩn đoán suy tim mất bù",
+   "ref": "Mục 7.2 · Hình 11",
+   "head": [
+    "Bước",
+    "Nội dung",
+    "Ngưỡng"
+   ],
+   "widths": "0.9fr 1.5fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Tiếp xúc đầu</b>",
+      "Đánh giá sung huyết và giảm tưới máu · huyết áp, nhịp thở, SpO₂, nhiệt độ, ECG",
+      "Mất ổn định: lactate ngay"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Loại trừ</b>",
+      "Peptide lợi niệu (không theo tuổi)",
+      "NT-proBNP <em>< 300</em> · BNP < 100 · MR-proANP < 120 pg/mL"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>“Có khả năng”</b>",
+      "Ngưỡng NT-proBNP theo tuổi",
+      "<em>> 450</em> (< 50 tuổi) · <em>> 900</em> (50–74) · <em>> 1800</em> (> 74)"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Nguy cơ rất cao</b>",
+      "NT-proBNP > 5000 pg/mL",
+      "Thường cần nhập viện"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Hình ảnh</b>",
+      "Siêu âm tim · siêu âm phổi (nếu có người được đào tạo)",
+      "Phù phổi cấp, sốc tim: điều trị sớm song song"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Chẩn đoán phải nhanh để điều trị sớm. Ngay từ tiếp xúc đầu tiên, cần đánh giá dấu hiệu sung huyết và giảm tưới máu, theo dõi huyết áp không xâm lấn, nhịp thở, độ bão hoà oxy, nhiệt độ và làm điện tâm đồ. Người mất ổn định huyết động nghi giảm tưới máu cần đo lactate ngay.",
+    "Ngưỡng loại trừ suy tim mất bù không điều chỉnh theo tuổi là NT-proBNP dưới 300, BNP dưới 100, hoặc MR-proANP dưới 120. Nếu vẫn nghi ngờ lâm sàng dù dưới ngưỡng, vẫn cần siêu âm và hội chẩn.",
+    "Ngưỡng có khả năng theo tuổi giúp phân loại người cao tuổi: NT-proBNP trên 450 ở người dưới 50 tuổi, trên 900 ở 50 đến 74 tuổi, và trên 1800 ở người trên 74 tuổi.",
+    "NT-proBNP trên 5000 báo hiệu nguy cơ rất cao, và thường nên nhập viện.",
+    "Siêu âm tim cần làm khi NT-proBNP cao hoặc nghi ngờ lâm sàng cao. Siêu âm phổi, nếu có người được đào tạo, giúp phát hiện sung huyết phổi và theo dõi lặp lại. Với phù phổi cấp và sốc tim, điều trị phải bắt đầu sớm, song song với chẩn đoán."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "Biểu hiện · Mục 7.3",
+   "title": "Bốn kiểu biểu hiện và nguyên nhân cấp CHAMPIT",
+   "ref": "Mục 7.3 · Hình 13",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "1",
+     "t": "Mất bù tim trái",
+     "d": "Từ từ, sung huyết tích tụ",
+     "items": [
+      "Điều trị chính: lợi tiểu"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "2",
+     "t": "Mất bù tim phải",
+     "d": "Sung huyết hệ thống, hở ba lá",
+     "items": [
+      "Loại trừ thuyên tắc phổi, nhồi máu thất phải",
+      "Tối ưu dịch, lợi tiểu · thận trọng thông khí áp lực dương"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "3",
+     "t": "Phù phổi cấp",
+     "d": "Tái phân bố dịch, thở > 25 lần/phút",
+     "items": [
+      "Thường không cần lợi tiểu liều cao",
+      "Giãn mạch khi HA tâm thu > 110"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "4",
+     "t": "Sốc tim",
+     "d": "Giảm tưới máu do tim",
+     "items": [
+      "Tăng co bóp, vận mạch, hỗ trợ cơ học",
+      "Hội chẩn Shock Team"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Sung huyết và giảm tưới máu là hai biểu hiện chính, và giảm tưới máu không đồng nghĩa với tụt huyết áp. Từ đó có bốn kiểu biểu hiện. Thứ nhất, mất bù tim trái: khởi phát từ từ, sung huyết tích tụ là cơ chế chính, điều trị chủ yếu bằng lợi tiểu.",
+    "Thứ hai, mất bù tim phải: tăng áp lực thất phải, nhĩ phải, sung huyết hệ thống, thường kèm hở ba lá, và có thể giảm cung lượng do tương tác thất. Cần loại trừ thuyên tắc phổi và nhồi máu thất phải; điều trị gồm tối ưu dịch, lợi tiểu, và dùng thông khí áp lực dương thận trọng vì giảm tiền tải.",
+    "Thứ ba, phù phổi cấp: suy hô hấp với thở trên 25 lần mỗi phút do sung huyết phổi ồ ạt trong thời gian ngắn, chủ yếu do tái phân bố dịch chứ không phải quá tải toàn thân. Người bệnh thường không cần lợi tiểu liều cao, nhưng có thể cần giãn mạch khi huyết áp tâm thu trên 110.",
+    "Thứ tư, sốc tim, cần tăng co bóp, vận mạch, hỗ trợ cơ học và hội chẩn Shock Team. Với mọi kiểu, phải tìm và điều trị nguyên nhân cấp theo chữ CHAMPIT: hội chứng vành cấp, cơn tăng huyết áp, rối loạn nhịp, biến chứng cơ học, thuyên tắc phổi, nhiễm trùng hay viêm, và chèn ép tim."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "Sốc tim · Mục 7.3.4",
+   "title": "Sốc tim: định nghĩa và phân độ SCAI",
+   "ref": "Mục 7.3.4 · Bảng 13",
+   "head": [
+    "Giai đoạn",
+    "Mô tả",
+    "Ghi chú"
+   ],
+   "widths": "0.9fr 1.8fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>A</b> · Nguy cơ",
+      "Chưa có dấu hiệu sốc nhưng có nguy cơ",
+      "Định nghĩa: giảm tưới máu cơ quan nặng do rối loạn chức năng tim nguyên phát"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>B</b> · Tiền sốc",
+      "Mất ổn định huyết động (tụt HA tương đối, nhịp nhanh), chưa giảm tưới máu",
+      "Không có ngưỡng huyết áp cố định"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>C</b> · Kinh điển",
+      "Giảm tưới máu cần can thiệp: tăng co bóp, vận mạch hoặc hỗ trợ cơ học",
+      "<em>Lactate động mạch > 2 mmol/L</em>"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>D</b> · Xấu đi",
+      "Như C nhưng không đáp ứng điều trị ban đầu",
+      "Có thể có sốc tim huyết áp bình thường"
+     ],
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>E</b> · Cực độ",
+      "Sốc kháng trị hoặc ngừng tim cần nhiều can thiệp, kể cả hồi sinh tim phổi",
+      "Loại trừ sốc nhiễm khuẩn, giảm thể tích, sốc hỗn hợp"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Sốc tim là tình trạng giảm tưới máu cơ quan nghiêm trọng do rối loạn chức năng tim nguyên phát. Đồng thuận SHARC định nghĩa sốc tim là rối loạn tim gây bằng chứng cả lâm sàng lẫn sinh hoá về giảm tưới máu mô kéo dài.",
+    "Sốc tim thường có giảm tưới máu và tụt huyết áp, nhưng hướng dẫn không đặt ngưỡng huyết áp cụ thể, vì sốc tim có thể biểu hiện giảm tưới máu với huyết áp bình thường, và thể này tiên lượng tốt hơn. Phân độ SCAI gồm năm giai đoạn: A có nguy cơ; B tiền sốc với mất ổn định huyết động nhưng chưa giảm tưới máu.",
+    "C là sốc kinh điển, giảm tưới máu cần can thiệp bằng tăng co bóp, vận mạch hoặc hỗ trợ cơ học. Bằng chứng sinh hoá tốt nhất là lactate động mạch trên 2 mi li mol mỗi lít, kèm tổn thương thận hay gan cấp.",
+    "D là xấu đi, không đáp ứng điều trị ban đầu; E là cực độ, sốc kháng trị hoặc ngừng tim cần nhiều can thiệp đồng thời. Ở hồi sức, nhớ rằng sốc nhiễm khuẩn, sốc giảm thể tích và sốc hỗn hợp cũng có tụt huyết áp và giảm tưới máu."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "timeline",
+   "chapter": "Xử trí · Mục 7.4",
+   "title": "Ba giai đoạn xử trí trong viện",
+   "ref": "Mục 7.4 · Hình 12 · Bảng khuyến cáo 8",
+   "events": [
+    {
+     "year": "GĐ 1",
+     "t": "Ban đầu",
+     "d": "Phân loại, tìm nguyên nhân, cứu sống · tiếp tục FMT",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "year": "GĐ 2",
+     "t": "Ổn định",
+     "d": "Giải sung huyết · khởi đầu FMT đồng thời",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "year": "GĐ 3",
+     "t": "Trước và sau ra viện",
+     "d": "Đánh giá sung huyết còn lại (I C) · tăng liều nhanh trong 6 tuần (I B2)",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "note": {
+    "t": "Sốc tim có thể ở giai đoạn 1 nhiều ngày · mất bù không biến chứng có thể qua nhanh cả ba",
+    "at": 3,
+    "c": "blue"
+   },
+   "lines": [
+    "Xử trí trong viện chia ba giai đoạn. Giai đoạn một, ban đầu, thường bắt đầu từ trước viện: phân loại theo huyết động để chọn mức chăm sóc, chẩn đoán và cứu sống song song, tìm nguyên nhân cấp. Nếu người bệnh đang dùng thuốc nền tảng, tiếp tục hoặc dùng lại sớm nhất; không ngưng trừ khi có dấu hiệu giảm tưới máu rõ hoặc chỉ định đặc biệt.",
+    "Giai đoạn hai, ổn định: giải sung huyết và khởi đầu, tối ưu thuốc nền tảng. Các thử nghiệm cho thấy khởi đầu kháng thụ thể mineralocorticoid, ức chế ét gờ lê tê hai hay a ni trong giai đoạn này là an toàn; khởi đầu đồng thời được ưu tiên hơn tuần tự, trừ nhóm nguy cơ cao như mức lọc thấp, tụt huyết áp, tiền sử tăng kali.",
+    "Giai đoạn ba, trước và ngay sau ra viện: khuyến cáo nhóm một đánh giá kỹ sung huyết còn lại trước khi cho về, và chiến lược tích cực khởi đầu, tăng liều nhanh thuốc nền tảng trước ra viện và tái khám dày trong 6 tuần đầu, dựa trên STRONG-HF. Đây cũng là lúc bù sắt nếu thiếu sắt theo AFFIRM-AHF, và đưa người bệnh vào chương trình quản lý, phục hồi chức năng.",
+    "Các kiểu biểu hiện đi qua ba giai đoạn khác nhau: sốc tim có thể nằm ở giai đoạn một nhiều ngày, trong khi mất bù không biến chứng hay phù phổi cấp có thể qua nhanh cả ba."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "Hô hấp · Mục 7.5.1–7.5.2",
+   "title": "Oxy và hỗ trợ thông khí",
+   "ref": "Bảng khuyến cáo 9",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "I C",
+     "t": "Oxy khi thiếu oxy",
+     "d": "SpO₂ < 90% hoặc PaO₂ < 60 mmHg",
+     "items": [
+      "Không cho oxy tràn lan: có thể có hại"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "IIa B2",
+     "t": "Thông khí áp lực dương không xâm lấn",
+     "d": "Suy hô hấp: thở > 25 lần/phút, SpO₂ < 90%",
+     "items": [
+      "Bắt đầu sớm: giảm đặt nội khí quản",
+      "Thận trọng: tụt HA, suy tim phải (giảm tiền tải)"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "I C",
+     "t": "Đặt nội khí quản",
+     "d": "Suy hô hấp tiến triển dù oxy/thông khí không xâm lấn",
+     "items": [
+      "PaO₂ < 60, PaCO₂ > 50, pH < 7,35 · ngừng tim · rối loạn ý thức · mất ổn định huyết động"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Về hô hấp, oxy được khuyến cáo nhóm một khi độ bão hoà dưới 90% hoặc PaO₂ dưới 60. Cho oxy tràn lan ở người không thiếu oxy có thể có hại.",
+    "Thông khí áp lực dương không xâm lấn, nhóm hai a, nên bắt đầu sớm ở người suy hô hấp với nhịp thở trên 25 và độ bão hoà dưới 90%, đặc biệt phù phổi cấp và sốc tim, để giảm đặt nội khí quản. Nhưng tăng áp lực trong lồng ngực làm giảm hồi lưu tĩnh mạch và tiền tải, nên phải thận trọng khi tụt huyết áp hay suy tim phải.",
+    "Đặt nội khí quản, nhóm một, khi suy hô hấp tiến triển dù đã cho oxy hay thông khí không xâm lấn. Tiêu chí gồm ngừng tim hoặc ngừng thở, rối loạn ý thức nặng dần, PaO₂ dưới 60 với PaCO₂ trên 50 và pH dưới 7,35 dù thông khí không xâm lấn hoặc không dung nạp, mất ổn định huyết động kéo dài và cần bảo vệ đường thở."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "timeline",
+   "chapter": "Giải sung huyết · Hình 15",
+   "title": "Phác đồ giải sung huyết theo natri niệu",
+   "ref": "Hình 15",
+   "events": [
+    {
+     "year": "Bắt đầu",
+     "t": "Furosemide tĩnh mạch",
+     "d": "40 mg nếu chưa dùng · gấp 2 liều uống nếu đang dùng",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "year": "2–6 giờ",
+     "t": "Đánh giá đáp ứng",
+     "d": "Natri niệu ≥ 70 mmol/L (2 giờ) hoặc nước tiểu ≥ 100 mL/giờ (6 giờ)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "year": "Đạt",
+     "t": "Lặp lại mỗi 12 giờ",
+     "d": "Đến khi hết sung huyết · ngày 2: nếu < 3 lít và còn sung huyết → tăng",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "year": "Không đạt",
+     "t": "Gấp đôi liều",
+     "d": "Hoặc thêm acetazolamide/hydrochlorothiazide",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "year": "Kháng trị",
+     "t": "Liều tối đa",
+     "d": "≈ 600 mg furosemide · cân nhắc siêu lọc",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "note": {
+    "t": "Song song: khởi đầu/tăng liều FMT · kiểm tra creatinine, điện giải ít nhất mỗi 24 giờ · theo dõi tụt HA, giảm tưới máu",
+    "at": 5,
+    "c": "green"
+   },
+   "lines": [
+    "Hình 15 là phác đồ giải sung huyết. Bắt đầu furosemide tĩnh mạch 40 miligam ở người chưa dùng lợi tiểu, hoặc gấp đôi tổng liều uống hằng ngày ở người đang dùng; liều đầu cao hơn nếu bệnh thận mạn.",
+    "Đánh giá đáp ứng sớm: natri niệu tại chỗ sau 2 giờ từ 70 mi li mol mỗi lít, hoặc lượng nước tiểu từ 100 mililít mỗi giờ trong 6 giờ đầu, là đáp ứng đủ.",
+    "Nếu đạt, lặp lại liều mỗi 12 giờ đến khi hết sung huyết. Sau 24 giờ, xét tổng lượng nước tiểu: nếu dưới 3 lít và còn sung huyết, tăng tiếp trong ngày thứ hai.",
+    "Nếu không đạt, gấp đôi liều lợi tiểu quai, hoặc ở người dùng lợi tiểu quai mạn, thêm acetazolamide 500 miligam tĩnh mạch mỗi ngày, hoặc hydrochlorothiazide theo mức lọc: 25 miligam nếu trên 50, 50 miligam nếu 20 đến 50, 100 miligam nếu dưới 20. Acetazolamide có thể ưu tiên hơn ở bệnh thận mạn tiến triển.",
+    "Nếu vẫn kháng trị, tăng dần đến liều tĩnh mạch tối đa, thường khoảng 600 miligam furosemide mỗi ngày, có thể tới 1000 khi suy thận nặng, và cân nhắc siêu lọc.",
+    "Song song, khởi đầu và tăng liều thuốc nền tảng, kiểm tra creatinine và điện giải ít nhất mỗi 24 giờ, theo dõi tụt huyết áp và giảm tưới máu; cân nhắc kháng thụ thể mineralocorticoid và bù kali khi hạ kali."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "list",
+   "chapter": "Giải sung huyết · Bảng khuyến cáo 9",
+   "title": "Khuyến cáo lợi tiểu và ức chế SGLT2 trong viện",
+   "ref": "Mục 7.5.3–7.5.6 · Bảng khuyến cáo 9",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Lợi tiểu quai tĩnh mạch · <b>I</b>",
+     "d": "Mọi người quá tải dịch · liều cao hay thấp như nhau (DOSE-AHF) · bolus hay truyền như nhau",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Thêm acetazolamide hoặc hydrochlorothiazide · <b>IIa B1</b>",
+     "d": "ADVOR: giải sung huyết thành công nhiều hơn · CLOROTIC: giảm cân, nhưng suy thận, hạ kali",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Lợi tiểu theo natri niệu · <b>IIb B1</b> · mới",
+     "d": "PUSH-AHF, ENACT-HF: tăng thải natri · chưa giảm tử vong",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Creatinine tăng nhẹ thoáng qua",
+     "d": "Không xấu nếu giải sung huyết đạt · dịch, natri vào < ra",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "<em>SGLT2-I khởi đầu trong viện</em> · <b>I B1</b> · mới",
+     "d": "Sau ổn định ban đầu · EMPULSE · giảm nhu cầu lợi tiểu",
+     "at": 4,
+     "hl": "L4",
+     "c": "green"
+    },
+    {
+     "t": "Siêu lọc",
+     "d": "Vai trò chưa chắc · khi đáp ứng kém dù tăng lợi tiểu",
+     "at": 5,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bảng khuyến cáo 9 về lợi tiểu. Lợi tiểu quai tĩnh mạch được khuyến cáo nhóm một cho mọi người suy tim mất bù có quá tải dịch. Thử nghiệm DOSE-AHF không thấy khác biệt giữa liều cao và liều thấp, và không có bằng chứng bolus hay truyền liên tục tốt hơn.",
+    "Khuyến cáo sửa đổi, nhóm hai a: thêm acetazolamide tĩnh mạch ngắn hạn hoặc hydrochlorothiazide uống ở người quá tải dịch đã dùng lợi tiểu quai. ADVOR cho thấy acetazolamide tăng tỷ lệ giải sung huyết thành công trong 3 ngày; CLOROTIC cho thấy hydrochlorothiazide giảm cân nhiều hơn nhưng dễ suy thận và hạ kali. Cả hai chưa cải thiện kết cục cứng.",
+    "Khuyến cáo mới, nhóm hai b: lợi tiểu theo natri niệu trong những ngày đầu. PUSH-AHF và ENACT-HF cho thấy tăng thải natri và nước tiểu, rút ngắn nằm viện, nhưng chưa giảm tử vong hay tái nhập viện.",
+    "Creatinine tăng nhẹ thoáng qua khi giải sung huyết không liên quan tiên lượng xấu nếu đạt mục tiêu. Lượng dịch và natri đưa vào phải ít hơn lượng thải ra; hạn chế dịch khi hạ natri máu.",
+    "Khuyến cáo mới, nhóm một: khởi đầu ức chế ét gờ lê tê hai trong viện sau khi ổn định ban đầu, để cải thiện chất lượng sống, triệu chứng sung huyết và giảm tái nhập viện. EMPULSE với empagliflozin 10 miligam cho lợi ích lâm sàng rõ sau 90 ngày, và thuốc còn giảm nhu cầu lợi tiểu.",
+    "Siêu lọc có vai trò chưa chắc chắn, chỉ cân nhắc ở người đáp ứng kém dù đã tăng lợi tiểu tối đa."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "Thuốc vận mạch · Mục 7.5.7–7.5.10",
+   "title": "Giãn mạch, tăng co bóp, vận mạch và opioid",
+   "ref": "Bảng khuyến cáo 9",
+   "head": [
+    "Nhóm",
+    "Khuyến cáo",
+    "Điểm thực hành"
+   ],
+   "widths": "1fr 1.3fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Giãn mạch</b> (nitroglycerin, nitroprusside)",
+      "IIb C · khi HA tâm thu > 110",
+      "Phù phổi cấp · giảm đặt nội khí quản, không giảm tử vong · theo dõi sát HA"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Tăng co bóp</b>",
+      "IIb C · HA tâm thu < 90 + giảm tưới máu không đáp ứng",
+      "Không dùng thường quy · milrinone ≈ dobutamine · đang chẹn beta: levosimendan/ức chế PDE3"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Vận mạch</b>",
+      "IIb C · <em>ưu tiên norepinephrine</em>",
+      "Dopamine nhiều loạn nhịp · epinephrine nhiều sốc kháng trị · đích HA trung bình chưa rõ"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Opioid</b>",
+      "III C · không thường quy",
+      "Chỉ khi đau, lo âu nặng kháng trị · nguy cơ suy hô hấp"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Thuốc giãn mạch tĩnh mạch như nitroglycerin hay nitroprusside có thể cân nhắc làm điều trị ban đầu khi huyết áp tâm thu trên 110, nhóm hai b, đặc biệt trong phù phổi cấp với co mạch và tái phân bố dịch. Phân tích gộp cho thấy giảm đặt nội khí quản nhưng không giảm tử vong; cần theo dõi sát huyết áp vì tụt huyết áp có hại.",
+    "Thuốc tăng co bóp có thể cân nhắc khi huyết áp tâm thu dưới 90 kèm giảm tưới máu không đáp ứng điều trị chuẩn, kể cả thử thách dịch, nhóm hai b. Không dùng thường quy vì nguy cơ loạn nhịp và thiếu máu cơ tim; milrinone và dobutamine không khác nhau, và ở người đang dùng chẹn beta, levosimendan hoặc ức chế phosphodiesterase ba có thể được ưu tiên hơn dobutamine.",
+    "Thuốc vận mạch, ưu tiên norepinephrine, có thể cân nhắc trong sốc tim để nâng huyết áp và tưới máu cơ quan. Dopamine gây nhiều loạn nhịp hơn, và trong sốc tim do nhồi máu, epinephrine gây nhiều sốc kháng trị hơn. Vasopressin chưa được nghiên cứu trong sốc tim, và đích huyết áp trung bình chưa được xác định rõ.",
+    "Không dùng opioid thường quy, nhóm ba, chỉ dành cho đau hay lo âu nặng kháng trị, vì nguy cơ suy hô hấp."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "compare",
+   "chapter": "Hỗ trợ cơ học · Mục 7.5.11",
+   "title": "Hỗ trợ tuần hoàn cơ học tạm thời",
+   "ref": "Bảng khuyến cáo 10",
+   "head": [
+    "Tình huống",
+    "Khuyến cáo",
+    "Bằng chứng · lưu ý"
+   ],
+   "widths": "1.2fr 1.1fr 1.9fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Shock Team</b> đa chuyên khoa",
+      "<b>I C</b> · mới",
+      "Tim mạch suy tim, phẫu thuật tim, can thiệp, hồi sức · chọn loại và phương thức"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Bơm vi trục</b> · sốc tim do STEMI, rối loạn tâm thu thất trái",
+      "<em>IIa B1</em> · mới",
+      "DanGer Shock: tử vong 180 ngày HR 0,74 · tăng chảy máu, thiếu máu chi · <b>không nguy cơ tổn thương não thiếu oxy</b>"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Sốc tim do nhồi máu <b>không chọn lọc</b>",
+      "III B1 · mới",
+      "ECLS-SHOCK: VA-ECLS RR 0,98, nhiều biến chứng"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>IABP</b> sốc tim không chọn lọc",
+      "III B1",
+      "Không tăng cung lượng, không giảm tử vong"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Biến chứng cơ học · sốc tim do suy tim tiến triển",
+      "IIa C",
+      "Cầu nối điều trị triệt để / hồi phục, quyết định, ứng viên, ghép"
+     ],
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Hỗ trợ tuần hoàn cơ học tạm thời có thể ổn định huyết động ở người rất chọn lọc. Khuyến cáo mới nhóm một: mọi ứng viên cần được hội chẩn Shock Team đa chuyên khoa, gồm bác sĩ suy tim, phẫu thuật tim, can thiệp và hồi sức, tại trung tâm có kinh nghiệm, để chọn phương thức và loại thiết bị.",
+    "Khuyến cáo mới nhóm hai a: bơm dòng vi trục ở người chọn lọc bị sốc tim do nhồi máu có ST chênh lên, rối loạn tâm thu thất trái, và không có nguy cơ tổn thương não do thiếu oxy, tức không ngừng tim ngoại viện với Glasgow dưới 8 sau tái lập tuần hoàn, và không hồi sinh hoặc hồi sinh dưới 10 phút. Thử nghiệm DanGer Shock trên 360 người cho thấy giảm tử vong 180 ngày với tỷ số nguy cơ 0,74, kéo dài đến 10 năm, nhưng tăng chảy máu và thiếu máu chi.",
+    "Khuyến cáo mới nhóm ba: không dùng hỗ trợ cơ học ở sốc tim do nhồi máu không chọn lọc, vì có thể có hại. Thử nghiệm ECLS-SHOCK không thấy tuần hoàn ngoài cơ thể tĩnh mạch – động mạch giảm tử vong 30 ngày, nguy cơ tương đối 0,98, mà còn tăng biến chứng.",
+    "Bóng đối xung nội động mạch chủ không được khuyến cáo trong sốc tim không chọn lọc, vì không cải thiện huyết động hay sống còn.",
+    "Nhóm hai a: hỗ trợ cơ học tạm thời trong biến chứng cơ học của nhồi máu như cầu nối đến điều trị triệt để, và trong mất ổn định huyết động do suy tim như cầu nối đến hồi phục, quyết định, ứng viên hoặc ghép tim."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "Trước ra viện · Hình 14",
+   "title": "Mục tiêu giải sung huyết trước ra viện",
+   "ref": "Hình 14 · Mục 7.5.4 · 7.5.12",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "LÂM SÀNG",
+     "t": "Điểm sung huyết 0",
+     "d": "Chấp nhận 1–2 · NYHA ≤ II",
+     "items": [
+      "Giảm cân"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "XÉT NGHIỆM",
+     "t": "Peptide giảm",
+     "d": "Giảm ≥ 30%",
+     "items": [
+      "Hoặc NT-proBNP < 1500 · BNP < 250 pg/mL"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "HÌNH ẢNH",
+     "t": "Siêu âm",
+     "d": "E/e′ < 10 (chấp nhận < 15)",
+     "items": [
+      "Siêu âm phổi < 5 đường B (8 hoặc 28 vùng)",
+      "Tĩnh mạch chủ dưới < 21 mm và xẹp > 50%"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KHÁC",
+     "t": "Ngoại trú và huyết khối",
+     "d": "Lợi tiểu tĩnh mạch ở bệnh viện ban ngày, tại nhà",
+     "items": [
+      "Metolazone 2,5–5 mg khi kháng lợi tiểu",
+      "Bất động: dự phòng huyết khối"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Sung huyết còn lại khi ra viện liên quan tiên lượng xấu. Hình 14 đưa ra các công cụ đánh giá, tất cả mang tính tuỳ chọn. Về lâm sàng: điểm sung huyết bằng 0 là tối ưu, 1 đến 2 chấp nhận được, mức độ triệu chứng không quá hai, và đã giảm cân.",
+    "Về xét nghiệm: peptide giảm ít nhất 30%, hoặc NT-proBNP dưới 1500, BNP dưới 250.",
+    "Về hình ảnh: E trên e phẩy dưới 10, chấp nhận dưới 15; siêu âm phổi dưới 5 đường B; tĩnh mạch chủ dưới nhỏ hơn 21 milimét và xẹp trên 50%, dù thử nghiệm CAVA-ADHF không thấy thêm lợi ích.",
+    "Với suy tim nặng lên ngoại trú, có thể truyền lợi tiểu tĩnh mạch 3 đến 6 giờ ở bệnh viện ban ngày hay tại nhà, hoặc tăng lợi tiểu uống, thêm metolazone 2,5 đến 5 miligam khi kháng lợi tiểu. Người hay tái nhập viện cần được đánh giá suy tim tiến triển. Cuối cùng, chưa có thử nghiệm về chống đông dự phòng trong suy tim mất bù, nhưng khi bất động hay có yếu tố nguy cơ, dự phòng huyết khối thường được chỉ định."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy trong suy tim mất bù",
+   "box": {
+    "tag": "BẪY",
+    "t": "Năm sai lầm thường gặp",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "1",
+     "t": "Ngưng hết FMT khi nhập viện dù không giảm tưới máu",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Không đo natri niệu/nước tiểu, chờ đến ngày 3 mới tăng lợi tiểu",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "3",
+     "t": "Lợi tiểu liều cao cho phù phổi cấp tăng huyết áp, quên giãn mạch",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "tag": "4",
+     "t": "Dùng dopamine, IABP thường quy cho sốc tim",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "tag": "5",
+     "t": "Cho ra viện khi còn sung huyết, chưa có SGLT2-I",
+     "at": 5,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Năm bẫy trong suy tim mất bù.",
+    "Một, ngưng toàn bộ thuốc nền tảng khi nhập viện dù không có giảm tưới máu; hướng dẫn yêu cầu tiếp tục hoặc dùng lại sớm.",
+    "Hai, không đo natri niệu hay lượng nước tiểu, chờ đến ngày thứ ba mới thấy lợi tiểu không đủ.",
+    "Ba, dùng lợi tiểu liều cao cho phù phổi cấp do tăng huyết áp, trong khi cơ chế chính là tái phân bố dịch và cần giãn mạch.",
+    "Bốn, dùng dopamine hay đặt bóng đối xung thường quy cho sốc tim; vận mạch nên ưu tiên norepinephrine, và hỗ trợ cơ học cần Shock Team chọn lọc.",
+    "Năm, cho ra viện khi còn sung huyết, chưa khởi đầu ức chế ét gờ lê tê hai và không có kế hoạch tái khám dày trong 6 tuần."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: đáp ứng lợi tiểu kém",
+   "case": "Nam 71 tuổi, HFrEF đang uống furosemide 40 mg/ngày. Nhập viện mất bù tim trái, phù chân, ran phổi, HA 128/76 mmHg, không giảm tưới máu. Đã tiêm <b>furosemide 80 mg tĩnh mạch</b>. Sau 2 giờ: <b>natri niệu 42 mmol/L</b>; 6 giờ đầu nước tiểu 55 mL/giờ. eGFR 48.",
+   "case_at": 1,
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Giữ liều, đánh giá lại sau 48 giờ",
+    "Gấp đôi liều lợi tiểu quai hoặc thêm acetazolamide",
+    "Siêu lọc ngay",
+    "Ngưng lợi tiểu, truyền dịch vì nghi giảm thể tích"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Liều đầu đúng (gấp 2 liều uống). Đáp ứng kém: natri niệu 2 giờ < 70 mmol/L, nước tiểu 6 giờ < 100 mL/giờ → gấp đôi liều quai hoặc thêm acetazolamide/hydrochlorothiazide (IIa B1). Siêu lọc khi kháng trị dù tối đa lợi tiểu.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 71 tuổi, suy tim phân suất tống máu giảm, đang uống furosemide 40 miligam mỗi ngày. Nhập viện vì mất bù tim trái, phù chân, ran ở phổi, huyết áp 128 trên 76, không giảm tưới máu. Đã tiêm furosemide 80 miligam tĩnh mạch. Sau 2 giờ, natri niệu 42; lượng nước tiểu 6 giờ đầu 55 mililít mỗi giờ. Mức lọc cầu thận 48.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: gấp đôi liều lợi tiểu quai, hoặc thêm acetazolamide. Liều đầu đã đúng, gấp đôi liều uống. Nhưng natri niệu 2 giờ dưới 70 và nước tiểu 6 giờ dưới 100 mililít mỗi giờ là đáp ứng không đủ; theo phác đồ, cần gấp đôi liều hoặc thêm acetazolamide hay hydrochlorothiazide. Siêu lọc chỉ khi kháng trị dù đã tối đa lợi tiểu."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: sốc tim do nhồi máu có ST chênh lên",
+   "case": "Nam 57 tuổi, STEMI thành trước, đã can thiệp mạch vành. Sau 2 giờ: HA 78/50 mmHg dù norepinephrine 0,2 µg/kg/phút, chi lạnh, <b>lactate 5,8 mmol/L</b>, LVEF 20%. <b>Không ngừng tim</b>, tỉnh táo. Bệnh viện có Shock Team và bơm vi trục.",
+   "case_at": 1,
+   "q": "Xử trí phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Đặt IABP thường quy",
+    "VA-ECLS thường quy cho mọi sốc tim do nhồi máu",
+    "Shock Team cân nhắc bơm dòng vi trục",
+    "Thêm dopamine liều cao"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Sốc tim SCAI C–D do STEMI, rối loạn tâm thu thất trái, không nguy cơ tổn thương não thiếu oxy → bơm vi trục (IIa B1, DanGer Shock), quyết định bởi Shock Team (I C). IABP và MCS không chọn lọc: III. Dopamine: nhiều loạn nhịp.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nam 57 tuổi, nhồi máu cơ tim có ST chênh lên thành trước, đã can thiệp mạch vành. Sau 2 giờ, huyết áp 78 trên 50 dù norepinephrine 0,2 microgam mỗi kilôgam mỗi phút, chi lạnh, lactate 5,8, phân suất tống máu 20%. Không ngừng tim, tỉnh táo. Bệnh viện có Shock Team và bơm vi trục.",
+    "Xử trí phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: hội chẩn Shock Team và cân nhắc bơm dòng vi trục. Đây là sốc tim do nhồi máu có ST chênh lên với rối loạn tâm thu thất trái, không có nguy cơ tổn thương não do thiếu oxy, đúng nhóm hưởng lợi trong DanGer Shock. Bóng đối xung và hỗ trợ cơ học không chọn lọc đều là nhóm ba, còn dopamine làm tăng loạn nhịp."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 5",
+   "title": "Sáu thông điệp của Phần 5",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Chẩn đoán nhanh",
+     "d": "NT-proBNP < 300 loại trừ · > 5000 nguy cơ rất cao · lactate khi mất ổn định",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Bốn kiểu + CHAMPIT",
+     "d": "Trái, phải, phù phổi cấp, sốc tim · SCAI A–E",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Giải sung huyết theo natri niệu",
+     "d": "≥ 70 mmol/L (2 giờ) · ≥ 100 mL/giờ (6 giờ) · thêm acetazolamide",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "FMT trong viện",
+     "d": "Không ngưng · SGLT2-I trong viện (I) · STRONG-HF 6 tuần",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Thuốc vận mạch",
+     "d": "Giãn mạch khi HA > 110 · norepinephrine · tăng co bóp khi giảm tưới máu",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Hỗ trợ cơ học",
+     "d": "Shock Team (I) · bơm vi trục STEMI (IIa) · không IABP, không MCS tràn lan",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần năm.",
+    "Chẩn đoán nhanh với NT-proBNP dưới 300 để loại trừ, trên 5000 là nguy cơ rất cao, và đo lactate khi mất ổn định. Nhận diện bốn kiểu biểu hiện, tìm nguyên nhân theo CHAMPIT, và phân độ sốc tim theo SCAI.",
+    "Giải sung huyết bằng lợi tiểu quai tĩnh mạch, đánh giá sớm bằng natri niệu và lượng nước tiểu, thêm acetazolamide khi đáp ứng kém. Không ngưng thuốc nền tảng, khởi đầu ức chế ét gờ lê tê hai ngay trong viện, và tăng liều nhanh trong 6 tuần đầu sau ra viện.",
+    "Giãn mạch khi huyết áp tâm thu trên 110, norepinephrine là vận mạch ưu tiên, và hỗ trợ cơ học do Shock Team quyết định, với bơm vi trục cho sốc tim do nhồi máu có ST chênh lên được chọn lọc. Phần sáu, phần cuối, sẽ bàn về suy tim tiến triển, bệnh đồng mắc ngoài tim, chăm sóc toàn diện, các tình huống đặc biệt và ôn tập toàn loạt. Hẹn gặp lại quý vị ở phần cuối của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
