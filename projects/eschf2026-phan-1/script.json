@@ -1,0 +1,759 @@
+{
+ "title": "ESC 2026 Suy tim – Phần 1: Khái niệm mới, phân loại và phòng ngừa",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch",
+ "part": "ESC 2026 Suy tim · Phần 1/6",
+ "source_short": "Nguồn: 2026 ESC Guidelines for the management of heart failure (Eur Heart J 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026.",
+ "lexicon": {
+  "PREVENT-HF": "pri ven suy tim",
+  "REDUCE-AMI": "ri điu xơ a em i",
+  "NT-proBNP": "en tê prô bê en pê",
+  "SCORE2-HF": "xcô hai suy tim",
+  "SMART2-HF": "xmát hai suy tim",
+  "CAPRICORN": "ca pri con",
+  "GLP-1 RA": "đồng vận thụ thể gờ lê pê một",
+  "DANBLOCK": "đan blốc",
+  "PREDIMED": "pre đi mét",
+  "SGLT2-I": "thuốc ức chế ét gờ lê tê hai",
+  "HFimpEF": "suy tim phân suất tống máu cải thiện",
+  "LIFE-HF": "lai phờ suy tim",
+  "EPHESUS": "ê phê xút",
+  "HFmrEF": "suy tim phân suất tống máu giảm nhẹ",
+  "MAGGIC": "ma gích",
+  "BETAMI": "bê ta mi",
+  "REBOOT": "ri bút",
+  "REVERT": "ri vớt",
+  "SGLT2": "ét gờ lê tê hai",
+  "GLP-1": "gờ lê pê một",
+  "HFrEF": "suy tim phân suất tống máu giảm",
+  "HFpEF": "suy tim phân suất tống máu bảo tồn",
+  "ACE-I": "ức chế men chuyển",
+  "SOLVD": "xôn",
+  "TRACE": "tơ rây",
+  "pg/mL": "picogam mỗi mililít",
+  "ml/kg": "mililít mỗi kilôgam",
+  "type ": "típ ",
+  "ASCVD": "bệnh tim mạch do xơ vữa",
+  "LVEF": "phân suất tống máu thất trái",
+  "NYHA": "ni ha",
+  "ARNI": "a ni",
+  "GDMT": "điều trị nội khoa theo hướng dẫn",
+  "GDIT": "điều trị can thiệp theo hướng dẫn",
+  "LVAD": "dụng cụ hỗ trợ thất trái",
+  "TEER": "sửa van qua ống thông",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "SAVR": "thay van động mạch chủ bằng phẫu thuật",
+  "SCAI": "ét ca i",
+  "SAVE": "xây phờ",
+  "ATTR": "a tê tê rờ",
+  "ARVC": "bệnh cơ tim thất phải gây loạn nhịp",
+  "mmHg": "milimét thủy ngân",
+  "T2DM": "đái tháo đường típ 2",
+  "ESC": "e ét xê",
+  "ARB": "chẹn thụ thể angiotensin",
+  "MRA": "kháng thụ thể mineralocorticoid",
+  "FMT": "điều trị nội khoa nền tảng",
+  "AMT": "điều trị nội khoa bổ sung",
+  "DHF": "suy tim mất bù",
+  "CRT": "tái đồng bộ tim",
+  "ICD": "máy phá rung cấy",
+  "MCS": "hỗ trợ tuần hoàn cơ học",
+  "CMR": "cộng hưởng từ tim",
+  "ECG": "điện tâm đồ",
+  "BNP": "bê en pê",
+  "CKD": "bệnh thận mạn",
+  "HFA": "hội suy tim châu Âu",
+  "TTR": "tê tê rờ",
+  "DCM": "bệnh cơ tim giãn",
+  "PET": "pét",
+  "FDG": "ép đê gờ"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 1/6",
+   "title": "Suy tim ESC 2026:<br>khái niệm mới và phòng ngừa",
+   "subtitle": "Phần 1 · Định nghĩa, phân loại theo LVEF và giai đoạn, thuật ngữ điều trị, phòng ngừa giai đoạn A–B",
+   "badges": [
+    {
+     "t": "HFrEF: LVEF < 50%",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Bỏ HFmrEF",
+     "c": "amber",
+     "at": "L1+2"
+    },
+    {
+     "t": "Giai đoạn A–D",
+     "c": "teal",
+     "at": "L1+4"
+    }
+   ],
+   "note": "2026 ESC Guidelines for the management of heart failure · Mục 2–4",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online, phần một của loạt bài sáu phần về Hướng dẫn chẩn đoán và điều trị suy tim của Hội Tim mạch châu Âu năm 2026.",
+    "Đây là bản hướng dẫn có những thay đổi về khái niệm lớn nhất trong một thập kỷ: suy tim phân suất tống máu giảm nay được mở rộng đến dưới 50%, nhóm phân suất tống máu giảm nhẹ bị loại bỏ, khái niệm suy tim mất bù thay cho suy tim cấp, và phân loại giai đoạn A đến D chính thức được đưa vào.",
+    "Phần một sẽ đi qua định nghĩa, dịch tễ, các cách phân loại mới, thuật ngữ điều trị mới, và phòng ngừa suy tim ở giai đoạn A và B."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "box",
+   "chapter": "Định nghĩa · Mục 3.1",
+   "title": "Suy tim là gì?",
+   "ref": "Mục 3.1",
+   "box": {
+    "tag": "ĐỊNH NGHĨA",
+    "t": "Hội chứng lâm sàng gồm <b>triệu chứng và/hoặc dấu hiệu</b> do <b>bất thường cấu trúc và/hoặc chức năng tim</b>, dẫn đến <em>tăng áp lực trong buồng tim</em> và/hoặc <em>cung lượng tim không đủ</em> lúc nghỉ hoặc khi gắng sức.",
+    "at": 0,
+    "c": "coral",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "CẦN THÊM",
+     "t": "Bằng chứng khách quan về sung huyết phổi/hệ thống do tim + xét nghiệm hỗ trợ",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KHÔNG GỒM",
+     "t": "Người chưa có triệu chứng: thuộc giai đoạn A (nguy cơ) hoặc B (tiền suy tim)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "NGUYÊN NHÂN",
+     "t": "Không nằm trong định nghĩa, nhưng quyết định điều trị và tiên lượng",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trước hết là định nghĩa. Suy tim là một hội chứng lâm sàng gồm triệu chứng và, hoặc, dấu hiệu, gây ra bởi bất thường cấu trúc hoặc chức năng của tim, dẫn đến tăng áp lực trong buồng tim hoặc cung lượng tim không đủ, lúc nghỉ hay khi gắng sức.",
+    "Ngoài triệu chứng chủ quan, chẩn đoán đòi hỏi bằng chứng khách quan về sung huyết phổi hoặc sung huyết hệ thống có nguồn gốc từ tim, cùng các xét nghiệm hỗ trợ, sẽ được trình bày ở phần hai.",
+    "Người chưa có triệu chứng không được gọi là suy tim. Họ thuộc giai đoạn A, có nguy cơ suy tim, hoặc giai đoạn B, tiền suy tim.",
+    "Nguyên nhân không nằm trong định nghĩa, nhưng xác định nguyên nhân lại rất quan trọng, vì bệnh học đặc hiệu quyết định điều trị và tiên lượng."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "cards",
+   "chapter": "Dịch tễ · Mục 3.2",
+   "title": "Dịch tễ và tiên lượng",
+   "ref": "Mục 3.2",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "GÁNH NẶNG",
+     "t": "1–3% người trưởng thành",
+     "d": "Châu Âu: 12–58 ca mỗi 1000 dân",
+     "items": [
+      "Mới mắc 2–13 mỗi 1000 người-năm",
+      "> 12 ở người > 74 tuổi"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "KIỂU HÌNH",
+     "t": "Gần một nửa là HFpEF",
+     "d": "Lớn tuổi hơn, nữ nhiều hơn",
+     "items": [
+      "HFpEF: khởi phát 77 tuổi, 55% nữ",
+      "HFrEF: 72 tuổi, 71% nam · một nửa do thiếu máu cục bộ"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "TIÊN LƯỢNG",
+     "t": "Sống 5 năm < 60%",
+     "d": "Đan Mạch: tử vong 5 năm 15% (< 65 tuổi), 39% (65–79 tuổi)",
+     "items": [
+      "Chẩn đoán khi nhập viện: tiên lượng xấu hơn",
+      "Nhập viện lặp lại: nguy cơ tử vong rất cao"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Về dịch tễ, suy tim gặp ở khoảng 1 đến 3% người trưởng thành; ở châu Âu, tỷ lệ hiện mắc từ 12 đến 58 ca mỗi 1000 dân, và tỷ lệ mới mắc từ 2 đến 13 mỗi 1000 người-năm, vượt 12 ở người trên 74 tuổi. Tỷ lệ mới mắc chuẩn hoá theo tuổi giảm dần, nhưng ở người trẻ lại đứng yên hoặc tăng.",
+    "Gần một nửa số ca là suy tim phân suất tống máu bảo tồn, và tỷ lệ này đang tăng do tăng huyết áp, béo phì. Trong sổ bộ Thuỵ Điển, nhóm bảo tồn khởi phát trung bình ở 77 tuổi, 55% là nữ; nhóm giảm khởi phát ở 72 tuổi, 71% là nam, và khoảng một nửa do thiếu máu cục bộ.",
+    "Dù tử vong đã giảm nhiều trong ba thập kỷ, tỷ lệ sống 5 năm vẫn dưới 60%. Dữ liệu Đan Mạch cho thấy tử vong 5 năm hiện nay là 15% ở người dưới 65 tuổi và 39% ở người 65 đến 79 tuổi. Người được chẩn đoán trong lúc nhập viện có tiên lượng xấu hơn người chẩn đoán ngoại trú, và nhập viện lặp lại báo hiệu nguy cơ tử vong đặc biệt cao."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "compare",
+   "chapter": "Phân loại · Mục 3.3.1",
+   "title": "Phân loại theo LVEF: từ ba nhóm còn hai nhóm",
+   "ref": "Mục 3.3.1 · Bảng 4",
+   "head": [
+    "",
+    "ESC 2021",
+    "ESC 2026"
+   ],
+   "widths": "0.8fr 1.4fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Giảm</b>",
+      "HFrEF: LVEF ≤ 40%",
+      "<em>HFrEF: LVEF < 50%</em> + triệu chứng/dấu hiệu"
+     ],
+     "at": 0,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Giảm nhẹ</b>",
+      "HFmrEF: LVEF 41–49%",
+      "<b>Bị loại bỏ</b> · gộp vào HFrEF"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Bảo tồn</b>",
+      "HFpEF: LVEF ≥ 50%",
+      "HFpEF: LVEF ≥ 50% + bằng chứng rối loạn tâm trương/tăng áp lực đổ đầy + peptide lợi niệu tăng"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Thay đổi quan trọng nhất là phân loại theo phân suất tống máu thất trái. Năm 2021 có ba kiểu hình: giảm, khi phân suất tống máu từ 40% trở xuống; giảm nhẹ, từ 41 đến 49%; và bảo tồn, từ 50% trở lên.",
+    "Năm 2026, nhóm giảm nhẹ bị loại bỏ. Lý do: người bệnh nhóm này giống nhóm giảm về đặc điểm lâm sàng, nguyên nhân, cơ chế bệnh sinh là giảm co bóp và rối loạn tâm thu, và quan trọng nhất là đáp ứng điều trị giống nhóm giảm hơn là nhóm bảo tồn. Ngoài ra, nhiều người ở khoảng 41 đến 49% sẽ tiếp tục giảm phân suất tống máu theo thời gian.",
+    "Vì vậy, nay chỉ còn hai kiểu hình theo cơ chế bệnh sinh. Suy tim phân suất tống máu giảm: phân suất tống máu dưới 50% kèm triệu chứng hoặc dấu hiệu suy tim.",
+    "Suy tim phân suất tống máu bảo tồn: phân suất tống máu từ 50% trở lên, kèm triệu chứng hoặc dấu hiệu, và bằng chứng khách quan về bất thường cấu trúc, chức năng phù hợp với rối loạn tâm trương hay tăng áp lực đổ đầy thất trái, được hỗ trợ bởi peptide lợi niệu tăng."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "box",
+   "chapter": "Phân loại · Mục 3.3.1",
+   "title": "LVEF cải thiện và giới hạn của một ngưỡng",
+   "ref": "Mục 3.3.1",
+   "box": {
+    "tag": "LVEF CẢI THIỆN",
+    "t": "Tăng <b>≥ 10% tuyệt đối</b> và đạt <b>> 40%</b> (thường về bình thường).<br><em>Vẫn tiếp tục điều trị tối ưu</em>, trừ một số người bệnh chọn lọc.",
+    "at": 0,
+    "c": "green",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "NGƯỠNG 50%",
+     "t": "Mang tính quy ước · dao động theo phương tiện và người đo",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "GIẢ CAO",
+     "t": "LVEF có thể cao giả, ví dụ hở van hai lá",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "HỖ TRỢ",
+     "t": "Peptide lợi niệu dùng làm bằng chứng hỗ trợ chẩn đoán",
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Thuốc và thiết bị có thể giúp thất trái tái cấu trúc ngược, làm phân suất tống máu cải thiện. Định nghĩa phân suất tống máu cải thiện là tăng ít nhất 10% tuyệt đối và đạt trên 40%, thường là về bình thường. Nhóm này tiên lượng tốt hơn, nhưng vẫn phải tiếp tục điều trị tối ưu, trừ một số người bệnh rất chọn lọc mà phần ba sẽ bàn.",
+    "Hướng dẫn cũng nhấn mạnh: dùng một ngưỡng phân suất tống máu duy nhất để chia hai kiểu hình là có phần quy ước, vì kết quả đo dao động theo phương tiện và người đọc.",
+    "Phân suất tống máu còn có thể cao giả, ví dụ khi hở van hai lá; peptide lợi niệu được dùng làm bằng chứng hỗ trợ."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "timeline",
+   "chapter": "Phân loại · Mục 3.3.2",
+   "title": "Bốn giai đoạn suy tim",
+   "ref": "Hình 2",
+   "events": [
+    {
+     "year": "A",
+     "t": "Nguy cơ suy tim",
+     "d": "Có yếu tố nguy cơ, chưa triệu chứng, chưa tổn thương cấu trúc, chất chỉ điểm bình thường",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "B",
+     "t": "Tiền suy tim",
+     "d": "Chưa triệu chứng + bất thường cấu trúc, chức năng, hoặc peptide lợi niệu/troponin tăng",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "year": "C",
+     "t": "Suy tim có triệu chứng",
+     "d": "HFrEF (LVEF < 50%) hoặc HFpEF (≥ 50%)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "year": "D",
+     "t": "Suy tim tiến triển",
+     "d": "Triệu chứng nặng, tái nhập viện dù đã FMT, AMT, GDIT tối ưu",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "note": {
+    "t": "Đưa vào để nhấn mạnh phòng ngừa và chẩn đoán sớm",
+    "at": 4,
+    "c": "green"
+   },
+   "lines": [
+    "Phân loại thứ hai là theo giai đoạn. Giai đoạn A, có nguy cơ suy tim: người có yếu tố nguy cơ nhưng chưa từng có triệu chứng hay dấu hiệu, chưa có thay đổi cấu trúc tim và chất chỉ điểm bệnh tim chưa tăng.",
+    "Giai đoạn B, tiền suy tim: chưa có triệu chứng nhưng có ít nhất một trong các bằng chứng: bất thường cấu trúc như phì đại thất, giãn buồng tim, rối loạn vận động vùng, sẹo trên cộng hưởng từ; bất thường chức năng như giảm co bóp hay tăng áp lực đổ đầy; hoặc peptide lợi niệu hay troponin tăng kéo dài, nhất là khi tiếp xúc chất độc cho tim.",
+    "Giai đoạn C, suy tim có triệu chứng, được chia thành phân suất tống máu giảm dưới 50% và bảo tồn từ 50% trở lên.",
+    "Giai đoạn D, suy tim tiến triển: triệu chứng nặng, giảm nặng khả năng gắng sức, rối loạn chức năng tim nặng và tái nhập viện, dù đã tối ưu điều trị nội khoa nền tảng, bổ sung và can thiệp.",
+    "Hội đồng đưa phân loại này vào để chuyển trọng tâm sang phòng ngừa và chẩn đoán sớm."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "Phân loại · Mục 3.3.3",
+   "title": "Các cách phân loại khác",
+   "ref": "Mục 3.3.3 · Bảng 4",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "THỜI ĐIỂM",
+     "t": "Mới mắc hay có sẵn",
+     "d": "De novo: chưa từng được chẩn đoán",
+     "items": [
+      "Pre-existing: đã có chẩn đoán suy tim"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "MỚI",
+     "t": "Mạn hay mất bù",
+     "d": "<em>Suy tim mất bù (DHF)</em> thay cho “suy tim cấp”",
+     "items": [
+      "Suy tim mạn có thể diễn tiến thành mất bù",
+      "Chi tiết ở phần 5"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "tag": "VỊ TRÍ",
+     "t": "Trái, phải hay cả hai",
+     "d": "Suy tim phải mạn: chủ yếu do tăng áp phổi nhóm 2",
+     "items": [
+      "Đơn độc: nhồi máu thất phải, ARVC, tăng áp phổi nhóm 1, 3, 4, 5, hở van ba lá/van động mạch phổi"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Suy tim còn được phân loại theo biểu hiện lâm sàng: mới mắc, tức người chưa từng được chẩn đoán, hay suy tim đã có sẵn.",
+    "Một thay đổi về thuật ngữ: suy tim mạn đối lập với suy tim mất bù, và khái niệm suy tim mất bù thay cho suy tim cấp. Suy tim mạn có thể diễn tiến thành mất bù; định nghĩa và các thể của suy tim mất bù được trình bày ở phần năm.",
+    "Cuối cùng là suy tim trái đơn độc, phải đơn độc, hay cả hai. Nguyên nhân chính của suy tim phải mạn là tăng áp phổi do rối loạn chức năng thất trái, nhóm 2 của Tổ chức Y tế Thế giới. Suy tim phải đơn độc gặp trong nhồi máu thất phải, bệnh cơ tim thất phải gây loạn nhịp, tăng áp phổi nhóm 1, 3, 4, 5, và hở van ba lá hoặc van động mạch phổi."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "Thuật ngữ điều trị · Mục 3.3.4",
+   "title": "Thuật ngữ điều trị mới: FMT, AMT, GDIT",
+   "ref": "Mục 3.3.4 · Hình 3",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "FMT",
+     "t": "Điều trị nội khoa nền tảng",
+     "d": "Khuyến cáo I cho dân số suy tim chung, cải thiện bệnh suất/tử vong",
+     "items": [
+      "HFrEF: chẹn beta, ức chế men chuyển/ARNI/ARB, MRA, SGLT2-I",
+      "HFpEF: MRA, SGLT2-I"
+     ],
+     "at": 0,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "tag": "AMT",
+     "t": "Điều trị nội khoa bổ sung",
+     "d": "Khuyến cáo IIa/IIb, hoặc I chỉ cải thiện triệu chứng, hoặc I cho phân nhóm",
+     "items": [
+      "Ví dụ: ivabradine, vericiguat, glycoside tim, GLP-1 RA, lợi tiểu"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "GDIT",
+     "t": "Can thiệp theo hướng dẫn",
+     "d": "Mọi thiết bị điện tử cấy và thủ thuật có khuyến cáo",
+     "items": [
+      "ICD, CRT, can thiệp van…",
+      "GDMT = FMT + AMT"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Hội đồng cũng đưa ra thuật ngữ điều trị mới, vì khái niệm điều trị nội khoa theo hướng dẫn ra đời năm 2013 không còn bao quát được các thuốc mới và vai trò của thiết bị.",
+    "Điều trị nội khoa nền tảng là thuốc có khuyến cáo nhóm một cho dân số suy tim chung, với bằng chứng thuyết phục giảm bệnh suất hoặc tử vong. Với suy tim phân suất tống máu giảm gồm bốn trụ cột: chẹn beta; ức chế men chuyển, a ni hoặc chẹn thụ thể angiotensin; kháng thụ thể mineralocorticoid; và thuốc ức chế ét gờ lê tê hai. Với suy tim phân suất tống máu bảo tồn gồm hai thuốc: kháng thụ thể mineralocorticoid và ức chế ét gờ lê tê hai. Thuật ngữ nền tảng tối ưu nghĩa là dùng ở liều đích cao nhất dung nạp được.",
+    "Điều trị nội khoa bổ sung là mọi thuốc có khuyến cáo nhóm hai a hoặc hai b, hoặc nhóm một nhưng chỉ cải thiện triệu chứng, chất lượng sống, hoặc chỉ cho một phân nhóm đặc biệt. Điều trị nội khoa theo hướng dẫn bao gồm cả nền tảng và bổ sung.",
+    "Điều trị can thiệp theo hướng dẫn bao gồm mọi thiết bị điện tử cấy vào tim và thủ thuật can thiệp có khuyến cáo. Hình 3 vẽ một kim tự tháp: nền móng là điều trị nội khoa nền tảng, bên trên là điều trị bổ sung và can thiệp."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "list",
+   "chapter": "Phòng ngừa · Mục 4.1",
+   "title": "Giai đoạn A: phòng ngừa suy tim",
+   "ref": "Bảng khuyến cáo 1",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "Kiểm soát huyết áp tâm thu <em>< 130 mmHg</em>",
+     "d": "Tăng huyết áp hoặc giai đoạn B · I A (sửa đổi)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "SGLT2-I ở đái tháo đường típ 2 nguy cơ suy tim",
+     "d": "Nhiều yếu tố nguy cơ hoặc đã có bệnh xơ vữa · I A",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "SGLT2-I hoặc finerenone ở đái tháo đường típ 2 + bệnh thận mạn",
+     "d": "I A",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Tư vấn lối sống",
+     "d": "Cân nặng, ăn uống, vận động, thuốc lá, rượu, cocaine, amphetamine, steroid đồng hoá · I C (mới)",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Statin khi nguy cơ cao hoặc đã có bệnh xơ vữa",
+     "d": "IIa A",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "GLP-1 RA ở đái tháo đường típ 2 + ≥ 1 yếu tố nguy cơ",
+     "d": "IIa A (mới)",
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "t": "Thang điểm nguy cơ",
+     "d": "SCORE2-HF, PREVENT-HF, SMART2-HF",
+     "at": 5,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Sang phần phòng ngừa. Đái tháo đường, tăng huyết áp, béo phì và hút thuốc lá giải thích khoảng 50% số biến cố suy tim trong cộng đồng, lên tới 75 đến 80% ở người dưới 55 tuổi. Nguy cơ phụ thuộc cả cường độ lẫn thời gian phơi nhiễm, nên cần can thiệp sớm ở người trẻ.",
+    "Khuyến cáo được sửa đổi, nhóm một, mức A: kiểm soát huyết áp chặt với đích tâm thu dưới 130 milimét thủy ngân ở người tăng huyết áp hoặc tiền suy tim.",
+    "Thuốc ức chế ét gờ lê tê hai được khuyến cáo nhóm một ở người đái tháo đường típ 2 có nguy cơ suy tim, và ở người đái tháo đường típ 2 kèm bệnh thận mạn; finerenone cũng được khuyến cáo nhóm một ở người đái tháo đường típ 2 kèm bệnh thận mạn.",
+    "Khuyến cáo mới, nhóm một: tư vấn lối sống lành mạnh cho mọi người ở giai đoạn A và B, gồm giữ cân nặng hợp lý, ăn uống cân bằng, tránh ít vận động, bỏ thuốc lá, tránh uống rượu nhiều, và tránh cocaine, amphetamine, steroid đồng hoá.",
+    "Nhóm hai a: statin ở người nguy cơ cao hoặc đã có bệnh tim mạch do xơ vữa; và khuyến cáo mới, đồng vận thụ thể gờ lê pê một ở người đái tháo đường típ 2 có thêm ít nhất một yếu tố nguy cơ tim mạch.",
+    "Để ước tính nguy cơ cá thể, có thể dùng các thang điểm như SCORE2-HF của Hội Tim mạch châu Âu, PREVENT-HF của Hội Tim Hoa Kỳ, hay SMART2-HF ở người đã có bệnh xơ vữa."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "cards",
+   "chapter": "Phòng ngừa · Mục 4.1.4",
+   "title": "Những nhóm nguy cơ đặc biệt",
+   "ref": "Mục 4.1.4",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "NHỒI MÁU CƠ TIM",
+     "t": "Nguy cơ cao",
+     "d": "LVEF > 50%: REDUCE-AMI không thấy chẹn beta giảm suy tim",
+     "items": [
+      "Không dùng chẹn beta thường quy khi LVEF bảo tồn"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "RỐI LOẠN NHỊP",
+     "t": "Rung nhĩ, ngoại tâm thu thất dày",
+     "d": "Điều trị bệnh nền · tìm bệnh cơ tim",
+     "items": [
+      "Rung nhĩ có thể là dấu hiệu HFpEF tiềm ẩn"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "UNG THƯ",
+     "t": "Người sống sót sau ung thư",
+     "d": "Xạ trị, anthracycline, trastuzumab, ức chế điểm kiểm soát miễn dịch",
+     "items": [
+      "Theo hướng dẫn tim mạch – ung bướu 2022"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "BẨM SINH",
+     "t": "Bệnh tim bẩm sinh",
+     "d": "Nguy cơ suy tim gấp 8 lần",
+     "items": [
+      "Khởi phát sớm hơn 20–25 năm"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Một số nhóm cần chú ý đặc biệt. Người sau nhồi máu cơ tim có nguy cơ suy tim cao. Tuy nhiên, khi phân suất tống máu trên 50%, thử nghiệm REDUCE-AMI không thấy chẹn beta làm giảm suy tim so với giả dược, nên không dùng chẹn beta thường quy cho mục đích này.",
+    "Rung nhĩ, nhịp nhanh trên thất, ngoại tâm thu thất dày và rối loạn dẫn truyền đều có thể gây suy tim; cần điều trị bệnh nền và tìm bệnh cơ tim di truyền, thâm nhiễm hay viêm. Ở một số người, rung nhĩ là dấu hiệu của suy tim phân suất tống máu bảo tồn tiềm ẩn.",
+    "Người sống sót sau ung thư, nhất là đã xạ trị hoặc dùng anthracycline, cyclophosphamide, trastuzumab hay thuốc ức chế điểm kiểm soát miễn dịch, có nguy cơ rối loạn chức năng thất trái. Ngoài ra còn bệnh thận mạn, người mang gen bệnh cơ tim, bệnh phổi, ngưng thở khi ngủ và bệnh nội tiết.",
+    "Người bệnh tim bẩm sinh có nguy cơ suy tim gấp 8 lần, và khởi phát sớm hơn 20 đến 25 năm so với người cùng tuổi, cùng giới."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "compare",
+   "chapter": "Phòng ngừa · Mục 4.2",
+   "title": "Giai đoạn B: điều trị rối loạn chức năng thất trái chưa triệu chứng",
+   "ref": "Mục 4.2 · Bảng khuyến cáo 2",
+   "head": [
+    "Tình huống",
+    "Khuyến cáo 2026",
+    "Bằng chứng"
+   ],
+   "widths": "1fr 1.4fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>LVEF ≤ 40%</b>",
+      "Ức chế men chuyển (ARB nếu không dung nạp) · <b>I A</b>",
+      "SOLVD-Prevention, TRACE, SAVE"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>LVEF < 50%</b>",
+      "Chẹn beta · <b>I B1</b> · <span>MỚI</span>",
+      "CAPRICORN: tử vong HR 0,77 · BETAMI–DANBLOCK + REBOOT"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Sau nhồi máu, LVEF ≤ 40%</b>",
+      "Eplerenone nếu có dấu hiệu suy tim hoặc đái tháo đường · <b>I B1</b>",
+      "EPHESUS"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Ở giai đoạn B, rối loạn chức năng tâm thu thất trái được xác định khi phân suất tống máu dưới 50% mà không có giải thích khác như tim vận động viên, ở cả nam và nữ, mọi lứa tuổi.",
+    "Khi phân suất tống máu từ 40% trở xuống: ức chế men chuyển, hoặc chẹn thụ thể angiotensin nếu không dung nạp, nhóm một, mức A, dựa trên SOLVD-Prevention, TRACE và SAVE.",
+    "Khuyến cáo mới: chẹn beta cho mọi người giai đoạn B có phân suất tống máu dưới 50%, nhóm một. Bằng chứng gồm CAPRICORN với carvedilol sau nhồi máu, giảm tử vong với tỷ số nguy cơ 0,77, và phân tích gộp BETAMI–DANBLOCK cùng REBOOT ở người sau nhồi máu có phân suất tống máu giảm nhẹ, cho thấy giảm biến cố gộp tử vong, nhồi máu và suy tim.",
+    "Và eplerenone được khuyến cáo cho người sau nhồi máu có phân suất tống máu từ 40% trở xuống, kèm dấu hiệu suy tim hoặc đái tháo đường, dựa trên EPHESUS."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy khi áp dụng khái niệm mới",
+   "box": {
+    "tag": "BẪY",
+    "t": "Năm sai lầm thường gặp",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "1",
+     "t": "Vẫn gọi LVEF 41–49% là “giảm nhẹ” và chỉ dùng 1–2 thuốc",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Chẩn đoán HFpEF chỉ vì LVEF ≥ 50% + khó thở, không có bằng chứng khách quan",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "3",
+     "t": "Ngưng thuốc khi LVEF cải thiện",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "tag": "4",
+     "t": "Bỏ sót giai đoạn B: LVEF < 50% chưa triệu chứng không dùng chẹn beta",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "tag": "5",
+     "t": "Chẹn beta thường quy sau nhồi máu khi LVEF > 50%",
+     "at": 5,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Xin tóm lại năm bẫy thực hành của phần này.",
+    "Một, vẫn gọi phân suất tống máu 41 đến 49% là giảm nhẹ và chỉ dùng một hai thuốc. Theo 2026, đây là suy tim phân suất tống máu giảm, cần đủ bốn trụ cột nền tảng.",
+    "Hai, chẩn đoán suy tim phân suất tống máu bảo tồn chỉ dựa vào khó thở và phân suất tống máu bình thường, không có bằng chứng khách quan về rối loạn tâm trương hay peptide lợi niệu.",
+    "Ba, ngưng thuốc khi phân suất tống máu đã cải thiện; hướng dẫn yêu cầu tiếp tục điều trị nền tảng ở liều cao nhất dung nạp.",
+    "Bốn, bỏ sót giai đoạn B: người có phân suất tống máu dưới 50% chưa triệu chứng vẫn cần chẹn beta.",
+    "Năm, ngược lại, dùng chẹn beta thường quy sau nhồi máu khi phân suất tống máu trên 50% để phòng suy tim; REDUCE-AMI không ủng hộ điều này."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: phân loại theo ESC 2026",
+   "case": "Nữ 68 tuổi, khó thở khi leo 1 tầng lầu (NYHA II), phù chân nhẹ. Siêu âm: <b>LVEF 45%</b>, giảm vận động lan toả. <b>NT-proBNP 1450 pg/mL</b>. Theo ESC 2021 bà được xếp HFmrEF.",
+   "case_at": 1,
+   "q": "Theo ESC 2026, phân loại và hướng điều trị nền tảng?",
+   "q_at": 2,
+   "options": [
+    "HFmrEF · chỉ SGLT2-I",
+    "HFpEF · MRA + SGLT2-I",
+    "HFrEF · bốn trụ cột nền tảng",
+    "Giai đoạn B · chỉ chẹn beta"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "Có triệu chứng + LVEF < 50% → HFrEF (giai đoạn C) theo 2026; HFmrEF đã bị loại bỏ. FMT cho HFrEF: chẹn beta, ức chế men chuyển/ARNI/ARB, MRA, SGLT2-I.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nữ 68 tuổi, khó thở khi leo một tầng lầu, phù chân nhẹ. Siêu âm tim: phân suất tống máu 45%, giảm vận động lan toả. NT-proBNP 1450 picogam mỗi mililít. Theo hướng dẫn 2021, bà được xếp vào nhóm phân suất tống máu giảm nhẹ.",
+    "Theo hướng dẫn 2026, phân loại và hướng điều trị nền tảng là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: suy tim phân suất tống máu giảm, giai đoạn C, điều trị bốn trụ cột nền tảng. Người bệnh có triệu chứng và phân suất tống máu dưới 50%, nên theo định nghĩa mới thuộc nhóm giảm; nhóm giảm nhẹ không còn tồn tại. Điều trị nền tảng gồm chẹn beta, ức chế men chuyển hoặc a ni hoặc chẹn thụ thể angiotensin, kháng thụ thể mineralocorticoid và ức chế ét gờ lê tê hai."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: sau nhồi máu, chưa triệu chứng",
+   "case": "Nam 59 tuổi, nhồi máu cơ tim thành trước đã đặt stent 3 tháng. Hoàn toàn không triệu chứng. Siêu âm: <b>LVEF 42%</b>, giảm vận động vùng trước. Không đái tháo đường. Đang dùng aspirin, ticagrelor, statin, ramipril.",
+   "case_at": 1,
+   "q": "Theo ESC 2026, cần bổ sung thuốc nào?",
+   "q_at": 2,
+   "options": [
+    "Không cần vì chưa có triệu chứng",
+    "Chẹn beta (giai đoạn B, LVEF < 50%)",
+    "Eplerenone (LVEF ≤ 40%)",
+    "Digoxin"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Chưa triệu chứng + bất thường cấu trúc/chức năng → giai đoạn B. LVEF < 50% → chẹn beta, I B1 (mới). Eplerenone chỉ khi LVEF ≤ 40% kèm dấu hiệu suy tim hoặc đái tháo đường.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Người bệnh nam 59 tuổi, nhồi máu cơ tim thành trước đã đặt stent 3 tháng. Hoàn toàn không triệu chứng. Siêu âm: phân suất tống máu 42%, giảm vận động vùng trước. Không đái tháo đường. Đang dùng aspirin, ticagrelor, statin và ramipril.",
+    "Theo hướng dẫn 2026, cần bổ sung thuốc nào?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là chẹn beta. Người bệnh chưa có triệu chứng nhưng có bất thường cấu trúc và chức năng, tức giai đoạn B, với phân suất tống máu dưới 50%: khuyến cáo mới nhóm một là dùng chẹn beta. Eplerenone chỉ được khuyến cáo khi phân suất tống máu từ 40% trở xuống kèm dấu hiệu suy tim hoặc đái tháo đường, nên chưa áp dụng ở đây."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 1",
+   "title": "Sáu thông điệp của Phần 1",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Hai kiểu hình",
+     "d": "HFrEF: LVEF < 50% · HFpEF: ≥ 50% + bằng chứng khách quan",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Bỏ HFmrEF",
+     "d": "LVEF 41–49% điều trị như HFrEF",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Giai đoạn A–D",
+     "d": "Nhấn mạnh phòng ngừa, chẩn đoán sớm",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Suy tim mất bù",
+     "d": "Thay cho “suy tim cấp”",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "FMT · AMT · GDIT",
+     "d": "HFrEF: 4 thuốc nền tảng · HFpEF: MRA + SGLT2-I",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Phòng ngừa",
+     "d": "HA < 130 · SGLT2-I/finerenone ở đái tháo đường · chẹn beta giai đoạn B LVEF < 50%",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Để khép lại phần một, xin tóm tắt sáu thông điệp.",
+    "Chỉ còn hai kiểu hình: suy tim phân suất tống máu giảm khi dưới 50%, và bảo tồn khi từ 50% trở lên kèm bằng chứng khách quan. Nhóm giảm nhẹ bị loại bỏ và được điều trị như nhóm giảm.",
+    "Phân loại giai đoạn A đến D được đưa vào để nhấn mạnh phòng ngừa; và suy tim mất bù thay cho suy tim cấp.",
+    "Thuật ngữ điều trị mới gồm điều trị nội khoa nền tảng, bổ sung và can thiệp theo hướng dẫn. Phòng ngừa bằng kiểm soát huyết áp dưới 130, thuốc ức chế ét gờ lê tê hai hoặc finerenone ở người đái tháo đường, và chẹn beta ở giai đoạn B có phân suất tống máu dưới 50%.",
+    "Phần hai sẽ bàn về chẩn đoán suy tim mạn: peptide lợi niệu, siêu âm tim, tiêu chuẩn suy tim phân suất tống máu bảo tồn và tìm nguyên nhân. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
