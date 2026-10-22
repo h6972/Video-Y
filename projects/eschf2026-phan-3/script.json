@@ -1,0 +1,701 @@
+{
+ "title": "ESC 2026 Suy tim – Phần 3: Điều trị nội khoa suy tim mạn",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch",
+ "part": "ESC 2026 Suy tim · Phần 3/6",
+ "source_short": "Nguồn: 2026 ESC Guidelines for the management of heart failure (Eur Heart J 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 ESC Guidelines for the management of heart failure. Eur Heart J 2026.",
+ "lexicon": {
+  "CATHEDRAL-HF": "ca thi đơ rồ suy tim",
+  "PARADIGM-HF": "pa ra đai suy tim",
+  "FINEARTS-HF": "phai na suy tim",
+  "GALACTIC-HF": "ga lác tích suy tim",
+  "PREVENT-HF": "pri ven suy tim",
+  "REDUCE-AMI": "ri điu xơ a em i",
+  "PARAGON-HF": "pa ra gon suy tim",
+  "NT-proBNP": "en tê prô bê en pê",
+  "SCORE2-HF": "xcô hai suy tim",
+  "SMART2-HF": "xmát hai suy tim",
+  "CAPRICORN": "ca pri con",
+  "REALIZE-K": "ri a lai ca",
+  "GLP-1 RA": "đồng vận thụ thể gờ lê pê một",
+  "DANBLOCK": "đan blốc",
+  "PREDIMED": "pre đi mét",
+  "VICTORIA": "vích to ri a",
+  "DIGIT-HF": "đi gít suy tim",
+  "STOP-CRT": "xtốp xê a tê",
+  "SGLT2-I": "thuốc ức chế ét gờ lê tê hai",
+  "HFimpEF": "suy tim phân suất tống máu cải thiện",
+  "LIFE-HF": "lai phờ suy tim",
+  "EPHESUS": "ê phê xút",
+  "TRED-HF": "tréd suy tim",
+  "HFmrEF": "suy tim phân suất tống máu giảm nhẹ",
+  "MAGGIC": "ma gích",
+  "BETAMI": "bê ta mi",
+  "REBOOT": "ri bút",
+  "REVERT": "ri vớt",
+  "TOPCAT": "tốp cát",
+  "VICTOR": "vích to",
+  "mmol/L": "mi li mol mỗi lít",
+  "SGLT2": "ét gờ lê tê hai",
+  "GLP-1": "gờ lê pê một",
+  "HFrEF": "suy tim phân suất tống máu giảm",
+  "HFpEF": "suy tim phân suất tống máu bảo tồn",
+  "ACE-I": "ức chế men chuyển",
+  "SOLVD": "xôn",
+  "TRACE": "tơ rây",
+  "pg/mL": "picogam mỗi mililít",
+  "ml/kg": "mililít mỗi kilôgam",
+  "type ": "típ ",
+  "ASCVD": "bệnh tim mạch do xơ vữa",
+  "CHARM": "cham",
+  "SHIFT": "shíp",
+  "ng/mL": "nanogam mỗi mililít",
+  "µg/kg": "microgam mỗi kilôgam",
+  "LVEF": "phân suất tống máu thất trái",
+  "NYHA": "ni ha",
+  "ARNI": "a ni",
+  "GDMT": "điều trị nội khoa theo hướng dẫn",
+  "GDIT": "điều trị can thiệp theo hướng dẫn",
+  "LVAD": "dụng cụ hỗ trợ thất trái",
+  "TEER": "sửa van qua ống thông",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "SAVR": "thay van động mạch chủ bằng phẫu thuật",
+  "SCAI": "ét ca i",
+  "SAVE": "xây phờ",
+  "ATTR": "a tê tê rờ",
+  "ARVC": "bệnh cơ tim thất phải gây loạn nhịp",
+  "mmHg": "milimét thủy ngân",
+  "T2DM": "đái tháo đường típ 2",
+  "eGFR": "mức lọc cầu thận",
+  "ESC": "e ét xê",
+  "ARB": "chẹn thụ thể angiotensin",
+  "MRA": "kháng thụ thể mineralocorticoid",
+  "FMT": "điều trị nội khoa nền tảng",
+  "AMT": "điều trị nội khoa bổ sung",
+  "DHF": "suy tim mất bù",
+  "CRT": "tái đồng bộ tim",
+  "ICD": "máy phá rung cấy",
+  "MCS": "hỗ trợ tuần hoàn cơ học",
+  "CMR": "cộng hưởng từ tim",
+  "ECG": "điện tâm đồ",
+  "BNP": "bê en pê",
+  "CKD": "bệnh thận mạn",
+  "HFA": "hội suy tim châu Âu",
+  "TTR": "tê tê rờ",
+  "DCM": "bệnh cơ tim giãn",
+  "PET": "pét",
+  "FDG": "ép đê gờ",
+  "DIG": "đích"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 3/6",
+   "title": "Điều trị nội khoa<br>suy tim mạn",
+   "subtitle": "Phần 3 · Thuốc nền tảng cho mọi LVEF, bốn trụ cột HFrEF, tăng liều, thuốc bổ sung, HFpEF và LVEF cải thiện",
+   "badges": [
+    {
+     "t": "SGLT2-I + MRA: mọi LVEF",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Tăng liều mỗi 1–2 tuần",
+     "c": "amber",
+     "at": "L1+2"
+    },
+    {
+     "t": "Digoxin lên IIa",
+     "c": "violet",
+     "at": "L1+4"
+    }
+   ],
+   "note": "2026 ESC Guidelines for the management of heart failure · Mục 6.1 · Bảng 11 · Bảng khuyến cáo 5",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần ba của loạt bài về Hướng dẫn suy tim của Hội Tim mạch châu Âu năm 2026.",
+    "Phần này là trái tim của hướng dẫn: điều trị nội khoa suy tim mạn. Chúng ta sẽ đi qua hai thuốc nền tảng cho mọi phân suất tống máu, bốn trụ cột cho suy tim phân suất tống máu giảm, liều đích, lộ trình tăng liều mới, các thuốc bổ sung, điều trị suy tim phân suất tống máu bảo tồn, và câu hỏi có được ngưng thuốc khi phân suất tống máu cải thiện.",
+    "Ba mục tiêu của điều trị là giảm tử vong, ngăn tái nhập viện vì suy tim nặng lên, và cải thiện tình trạng lâm sàng, khả năng gắng sức, chất lượng sống. Không có khác biệt về khuyến cáo giữa nam và nữ."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Mọi LVEF · Mục 6.1.2",
+   "title": "Hai thuốc nền tảng cho mọi phân suất tống máu",
+   "ref": "Mục 6.1.2 · Bảng khuyến cáo 5",
+   "h": 660,
+   "cards": [
+    {
+     "tag": "I A",
+     "t": "SGLT2-I",
+     "d": "Dapagliflozin hoặc empagliflozin 10 mg/ngày",
+     "items": [
+      "Giảm nhập viện suy tim hoặc tử vong tim mạch ở mọi LVEF",
+      "HFpEF: lợi ích chủ yếu do giảm nhập viện",
+      "eGFR giảm nhẹ ban đầu, bảo vệ thận lâu dài"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "I A · SỬA ĐỔI",
+     "t": "MRA cho mọi LVEF",
+     "d": "HFrEF: MRA steroid · HFpEF: steroid hoặc không steroid",
+     "items": [
+      "FINEARTS-HF: finerenone giảm biến cố gộp ở LVEF > 40%",
+      "Phân tích gộp với TOPCAT: có lợi"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "blue"
+    },
+    {
+     "tag": "AN TOÀN MRA",
+     "t": "Kali và thận",
+     "d": "Thận trọng khi eGFR < 25 hoặc K ≥ 5,0",
+     "items": [
+      "K > 5,5: kiểm tra lại, giảm liều hoặc tạm ngưng",
+      "Hết tăng kali: dùng lại",
+      "Eplerenone, finerenone ít gây vú to"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hai nhóm thuốc được khuyến cáo nhóm một, mức A, cho mọi người suy tim có triệu chứng, bất kể phân suất tống máu. Thứ nhất là thuốc ức chế ét gờ lê tê hai, dapagliflozin hoặc empagliflozin 10 miligam mỗi ngày, giảm biến cố gộp nhập viện suy tim hoặc tử vong tim mạch. Ở nhóm bảo tồn, lợi ích chủ yếu do giảm nhập viện. Mức lọc cầu thận giảm nhẹ ban đầu là dự kiến, nhưng chức năng thận lâu dài được bảo vệ.",
+    "Thứ hai, khuyến cáo được sửa đổi: kháng thụ thể mineralocorticoid cho mọi phân suất tống máu. Với nhóm giảm, dùng loại steroid là spironolactone hoặc eplerenone; với nhóm bảo tồn, dùng spironolactone hoặc finerenone không steroid. Thử nghiệm FINEARTS-HF cho thấy finerenone giảm biến cố gộp ở phân suất tống máu trên 40%, và phân tích gộp với TOPCAT xác nhận lợi ích.",
+    "Về an toàn, thận trọng khi mức lọc cầu thận dưới 25 hoặc kali từ 5,0. Nếu kali trên 5,5, bước đầu là kiểm tra lại, rồi giảm liều hoặc tạm ngưng, và dùng lại khi kali về bình thường. Eplerenone và finerenone chọn lọc hơn nên ít gây vú to."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "cards",
+   "chapter": "Mọi LVEF · Mục 6.1.3",
+   "title": "Lợi tiểu quai và chất gắn kali",
+   "ref": "Mục 6.1.3",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "I A",
+     "t": "Lợi tiểu quai",
+     "d": "Liều <em>động, cá thể hoá</em> theo thể tích",
+     "items": [
+      "Liều thấp nhất duy trì thể tích bình thường",
+      "Đánh giá sung huyết đa thông số",
+      "Tránh thiazide kéo dài ở người ổn định"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "blue"
+    },
+    {
+     "tag": "LÝ DO",
+     "t": "Hai mặt của lợi tiểu",
+     "d": "Giảm sung huyết, giảm nhập viện",
+     "items": [
+      "Nhưng: rối loạn điện giải, hoạt hoá thần kinh thể dịch, tụt huyết áp → khó tăng liều FMT",
+      "FMT tối ưu thường giảm nhu cầu lợi tiểu"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CHƯA KHUYẾN CÁO",
+     "t": "Chất gắn kali",
+     "d": "Patiromer, natri zirconium cyclosilicate",
+     "items": [
+      "Giúp duy trì ức chế hệ renin và MRA",
+      "Chưa rõ lợi ích lâm sàng · REALIZE-K: tín hiệu suy tim nặng hơn"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Lợi tiểu quai được khuyến cáo nhóm một với liều động và cá thể hoá theo tình trạng thể tích, để giảm triệu chứng sung huyết, cải thiện gắng sức và giảm nhập viện. Nguyên tắc là dùng liều thấp nhất đủ duy trì thể tích bình thường, đánh giá sung huyết bằng nhiều thông số, và tránh dùng thiazide kéo dài ở người ổn định vì dễ gây rối loạn điện giải nặng.",
+    "Lợi tiểu có hai mặt: giảm sung huyết, nhưng có thể gây rối loạn điện giải, hoạt hoá thần kinh thể dịch, suy giảm chức năng thận và tụt huyết áp, khiến khó tăng liều thuốc nền tảng. Khi thuốc nền tảng và can thiệp được tối ưu, nhu cầu lợi tiểu thường giảm.",
+    "Chất gắn kali như patiromer và natri zirconium cyclosilicate giúp duy trì ức chế hệ renin và kháng thụ thể mineralocorticoid, nhưng chưa rõ lợi ích lâm sàng; thử nghiệm REALIZE-K còn có tín hiệu suy tim nặng hơn. Vì vậy hướng dẫn chưa đưa khuyến cáo cụ thể."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "compare",
+   "chapter": "HFrEF · Mục 6.1.4",
+   "title": "Bốn trụ cột cho HFrEF",
+   "ref": "Mục 6.1.4 · Bảng khuyến cáo 5",
+   "head": [
+    "Thuốc",
+    "Khuyến cáo",
+    "Điểm thực hành"
+   ],
+   "widths": "1fr 1.3fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ức chế men chuyển / ARNI</b>",
+      "I A · <em>chuyển sang ARNI</em> nếu còn triệu chứng · I B1",
+      "PARADIGM-HF: giảm 20% · ARNI có thể dùng ngay từ đầu · ngưng ức chế men chuyển ≥ 36 giờ"
+     ],
+     "at": 0,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>ARB</b>",
+      "I A khi không dung nạp ức chế men chuyển/ARNI",
+      "CHARM-Alternative · chưa ARB nào giảm tử vong chung"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Chẹn beta</b>",
+      "I A",
+      "Bisoprolol, metoprolol succinate, carvedilol · khởi đầu khi ổn định, liều thấp · rung nhĩ: lợi ích chưa chắc"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>MRA + SGLT2-I</b>",
+      "I A (mọi LVEF)",
+      "Khởi đầu cùng lúc khi chẩn đoán · không có thứ tự ưu tiên"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Với suy tim phân suất tống máu giảm, bốn trụ cột là ức chế men chuyển hoặc a ni, chẹn beta, kháng thụ thể mineralocorticoid và ức chế ét gờ lê tê hai, tất cả nhóm một mức A. Người có phân suất tống máu 41 đến 49% đáp ứng tương tự người dưới 40%.",
+    "Trong PARADIGM-HF, sacubitril–valsartan giảm 20% biến cố gộp tử vong tim mạch hoặc nhập viện so với enalapril, cùng với cải thiện chất lượng sống, chậm suy giảm thận, giảm liều lợi tiểu và ít tăng kali. Vì vậy, người còn triệu chứng đang dùng ức chế men chuyển hay chẹn thụ thể angiotensin nên được chuyển sang a ni, nhóm một. A ni cũng có thể dùng ngay từ đầu ở người chưa từng dùng ức chế men chuyển. Lưu ý ngưng ức chế men chuyển ít nhất 36 giờ để tránh phù mạch, và thận trọng khi huyết áp tâm thu dưới 100, mức lọc dưới 30 hay kali trên 5,2.",
+    "Chẹn thụ thể angiotensin dành cho người không dung nạp ức chế men chuyển hay a ni; candesartan trong CHARM-Alternative giảm tử vong tim mạch và nhập viện, nhưng chưa có thuốc nào trong nhóm giảm tử vong chung.",
+    "Chẹn beta: bisoprolol, metoprolol succinate và carvedilol giảm tử vong; nebivolol chỉ giảm biến cố gộp. Khởi đầu khi người bệnh ổn định, liều thấp, tăng dần đến liều cao nhất dung nạp, và duy trì kể cả khi triệu chứng không cải thiện. Ở người kèm rung nhĩ, lợi ích còn chưa chắc chắn.",
+    "Không có bằng chứng ưu tiên thứ tự nào; đồng thuận là khởi đầu cùng lúc các thuốc nền tảng ngay khi chẩn đoán, có điều chỉnh theo từng người."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "list",
+   "chapter": "Liều thuốc · Bảng 11",
+   "title": "Liều khởi đầu và liều đích",
+   "ref": "Bảng 11",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "Sacubitril–valsartan",
+     "d": "49/51 mg × 2 → <b>97/103 mg × 2</b> · có thể bắt đầu 24/26 mg",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Enalapril · ramipril",
+     "d": "2,5 mg × 2 → <b>10–20 mg × 2</b> · 1,25–2,5 mg × 2 → <b>5 mg × 2</b>",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Bisoprolol",
+     "d": "1,25 mg → <b>10 mg</b>/ngày",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Carvedilol · metoprolol succinate",
+     "d": "3,125 mg × 2 → <b>25 mg × 2</b> (50 nếu > 85 kg) · 12,5–25 → <b>200 mg</b>",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Spironolactone · eplerenone",
+     "d": "12,5–25 → <b>50 mg</b> · 25 → <b>50 mg</b>",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Finerenone (HFpEF)",
+     "d": "eGFR ≤ 60: 10 → 20 mg · eGFR > 60: 20 → 40 mg",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Dapagliflozin · empagliflozin",
+     "d": "<b>10 mg</b>/ngày, không cần tăng liều",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Candesartan · valsartan",
+     "d": "4 → <b>32 mg</b> · 40 mg × 2 → <b>160 mg × 2</b>",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bảng 11 cho liều khởi đầu và liều đích dựa trên các thử nghiệm. Sacubitril–valsartan bắt đầu 49 trên 51 miligam hai lần mỗi ngày, đích 97 trên 103 hai lần; có thể bắt đầu 24 trên 26 ở người từng tụt huyết áp, chưa dùng ức chế men chuyển, hoặc mức lọc 30 đến 60. Enalapril đích 10 đến 20 miligam hai lần, ramipril đích 5 miligam hai lần.",
+    "Chẹn beta: bisoprolol từ 1,25 lên 10 miligam mỗi ngày; carvedilol từ 3,125 lên 25 miligam hai lần, tối đa 50 nếu nặng trên 85 kilôgam; metoprolol succinate từ 12,5 đến 25 lên 200 miligam mỗi ngày.",
+    "Kháng thụ thể mineralocorticoid: spironolactone và eplerenone đích 50 miligam mỗi ngày. Finerenone cho nhóm bảo tồn có liều theo thận: mức lọc từ 60 trở xuống thì từ 10 lên 20, trên 60 thì từ 20 lên 40 miligam.",
+    "Dapagliflozin và empagliflozin dùng 10 miligam mỗi ngày, không cần tăng liều. Chẹn thụ thể angiotensin: candesartan đích 32 miligam, valsartan 160 miligam hai lần."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "box",
+   "chapter": "Tăng liều · Mục 6.1.6",
+   "title": "Tăng liều và duy trì: hai khuyến cáo mới",
+   "ref": "Mục 6.1.6 · Bảng khuyến cáo 5",
+   "box": {
+    "tag": "MỚI · I C",
+    "t": "<b>Tăng liều FMT ít nhất mỗi 1–2 tuần</b>, dựa trên triệu chứng, sinh hiệu, xét nghiệm, đến liều đích.<br><b>Duy trì FMT ở liều cao nhất dung nạp</b>, kể cả khi hết triệu chứng hay LVEF cải thiện.",
+    "at": 0,
+    "c": "amber",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "NGUYÊN NHÂN THẤT BẠI",
+     "t": "Hiểu sai thay đổi chức năng thận → ngưng hoặc giảm liều không đúng",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "BỆNH THẬN MẠN",
+     "t": "Hiệu quả tương đối như nhau · lợi ích tuyệt đối còn lớn hơn",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "KHÔNG NGƯNG KHI",
+     "t": "Bệnh xen kẽ không rối loạn huyết động · tụt huyết áp không triệu chứng",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Hai khuyến cáo mới, nhóm một: tăng liều thuốc nền tảng ít nhất mỗi 1 đến 2 tuần, dựa trên triệu chứng, sinh hiệu và xét nghiệm, để đạt liều đích đã chứng minh hiệu quả; và duy trì thuốc nền tảng ở liều cao nhất dung nạp được ở mọi người suy tim, kể cả khi đã hết triệu chứng hay phân suất tống máu đã cải thiện. Các thử nghiệm đánh giá liều cho thấy liều đích giảm biến cố nhiều hơn liều thấp.",
+    "Sổ bộ thực tế cho thấy thuốc nền tảng bị dùng thiếu cả về số thuốc lẫn liều. Một nguyên nhân hàng đầu là hiểu sai thay đổi chức năng thận, dẫn tới ngưng hay giảm liều không đúng, cả trong suy tim mạn lẫn mất bù.",
+    "Ở người bệnh thận mạn, hiệu quả tương đối của các thuốc nền tảng không khác, và vì nguy cơ nền cao hơn nên lợi ích tuyệt đối còn lớn hơn. Do đó phải khởi đầu, tăng liều và duy trì ở nhóm này.",
+    "Không nên giảm hay ngưng thuốc khi có bệnh xen kẽ hay nhiễm trùng mà không rối loạn huyết động, hoặc khi tụt huyết áp không triệu chứng; khi đó hãy xem lại liều lợi tiểu. Chỉ tạm ngưng khi tổn thương thận cấp với mức lọc dưới 15, kali trên 5,5 đến 6, hoặc mất ổn định huyết động nặng. Nếu ngưng dưới 14 ngày, thường có thể dùng lại ngay ở liều đã dung nạp; và cần đạt thể tích bình thường trước khi khởi đầu chẹn beta."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "list",
+   "chapter": "HFrEF · Mục 6.1.5",
+   "title": "Điều trị nội khoa bổ sung cho HFrEF",
+   "ref": "Mục 6.1.5 · Bảng khuyến cáo 5",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Glycoside tim (digoxin, digitoxin) · <b>IIa B1</b> · nâng mức",
+     "d": "LVEF ≤ 40% dù FMT tối ưu · DIGIT-HF: HR 0,82 · digoxin < 1,2 ng/mL",
+     "at": 0,
+     "hl": "L0",
+     "c": "violet"
+    },
+    {
+     "t": "Ivabradine · IIa",
+     "d": "Nhịp xoang, tần số > 70, LVEF ≤ 35%, đã tối ưu chẹn beta (hoặc không dung nạp)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Vericiguat · IIb B1",
+     "d": "LVEF < 45% dù FMT tối ưu · VICTORIA dương tính, VICTOR trung tính",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Hydralazine + isosorbide dinitrate",
+     "d": "IIa: người da đen tự nhận · IIb: không dung nạp mọi thuốc ức chế hệ renin",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Omecamtiv mecarbil",
+     "d": "GALACTIC-HF giảm nhẹ biến cố · chưa được cấp phép",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Sang điều trị bổ sung cho suy tim phân suất tống máu giảm. Glycoside tim, digoxin hoặc digitoxin, được nâng lên nhóm hai a ở người phân suất tống máu từ 40% trở xuống dù đã tối ưu thuốc nền tảng, để giảm nhập viện. Thử nghiệm DIGIT-HF với digitoxin liều thấp giảm biến cố gộp tử vong hoặc nhập viện, 39,5% so với 44,1%, tỷ số nguy cơ 0,82. Digoxin cần giữ nồng độ dưới 1,2 nanogam mỗi mililít; digoxin thải qua thận, digitoxin qua gan.",
+    "Ivabradine, nhóm hai a, cho người nhịp xoang, tần số lúc nghỉ trên 70, phân suất tống máu từ 35% trở xuống, đã dùng chẹn beta tối ưu hoặc không dung nạp chẹn beta. Lưu ý trong SHIFT chỉ 25% dùng đủ liều chẹn beta, nên phải tăng chẹn beta tới đích trước.",
+    "Vericiguat, nhóm hai b, cho người phân suất tống máu dưới 45% dù đã tối ưu thuốc nền tảng. VICTORIA ở người vừa suy tim nặng lên cho kết quả dương tính, còn VICTOR ở người ngoại trú ổn định thì trung tính với tỷ số nguy cơ 0,93, dù tử vong tim mạch thấp hơn.",
+    "Hydralazine phối hợp isosorbide dinitrate: nhóm hai a ở người da đen tự nhận, và hai b ở người không dung nạp mọi thuốc ức chế hệ renin. Omecamtiv mecarbil giảm nhẹ biến cố suy tim trong GALACTIC-HF nhưng chưa được cấp phép."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "HFpEF · Mục 6.1.7",
+   "title": "Điều trị nội khoa HFpEF",
+   "ref": "Mục 6.1.7",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "I",
+     "t": "SGLT2-I + MRA + lợi tiểu",
+     "d": "FMT cho HFpEF là SGLT2-I và MRA",
+     "items": [
+      "Lợi tiểu khi sung huyết",
+      "Điều trị bệnh đồng mắc"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "IIb C · MỚI",
+     "t": "ACE-I/ARB/ARNI",
+     "d": "Có thể cân nhắc để giảm nhập viện",
+     "items": [
+      "PARAGON-HF: rate ratio 0,85, p = 0,056",
+      "Gộp với PARADIGM: lợi ích khi LVEF < 60–65%"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "BÉO PHÌ",
+     "t": "Semaglutide, tirzepatide",
+     "d": "Cải thiện chất lượng sống, giảm cân",
+     "items": [
+      "Không phụ thuộc đái tháo đường (phần 6)"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "LOẠI TRỪ",
+     "t": "Bệnh giả HFpEF",
+     "d": "Bệnh cơ tim phì đại, amyloid",
+     "items": [
+      "Bệnh đồng tồn tại: phổi, thiếu máu, béo phì, giảm thể lực"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Với suy tim phân suất tống máu bảo tồn, điều trị nền tảng là ức chế ét gờ lê tê hai và kháng thụ thể mineralocorticoid, cùng lợi tiểu khi có sung huyết. Người bệnh nhóm này thường lớn tuổi, nữ nhiều, nhiều bệnh đồng mắc, nên điều trị bệnh đồng mắc rất quan trọng.",
+    "Khuyến cáo mới, nhóm hai b: có thể cân nhắc ức chế men chuyển, chẹn thụ thể angiotensin hoặc a ni để giảm nhập viện. PARAGON-HF với sacubitril–valsartan ở phân suất tống máu từ 45% không đạt tiêu chí chính, dù tổng nhập viện giảm với tỷ số 0,85; phân tích gộp với PARADIGM-HF cho thấy lợi ích khi phân suất tống máu dưới khoảng 60 đến 65%.",
+    "Ở người béo phì, semaglutide và tirzepatide cải thiện chất lượng sống và giảm cân, không phụ thuộc đái tháo đường; nội dung này sẽ bàn ở phần sáu.",
+    "Đừng quên loại trừ các bệnh giống suy tim phân suất tống máu bảo tồn như bệnh cơ tim phì đại và amyloid, cũng như các bệnh đồng tồn tại gây khó thở như bệnh phổi, thiếu máu, béo phì và giảm thể lực."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "box",
+   "chapter": "LVEF cải thiện · Mục 6.1.8",
+   "title": "LVEF cải thiện: thuyên giảm, không phải khỏi bệnh",
+   "ref": "Mục 6.1.8",
+   "box": {
+    "tag": "IIb C · MỚI",
+    "t": "Có thể <b>ngưng dần FMT</b> chỉ ở người <b>rất chọn lọc</b>: không triệu chứng, <em>thể tích, LVEF và peptide trở về bình thường</em> sau điều trị nguyên nhân hồi phục, theo mong muốn người bệnh, dưới theo dõi sát.",
+    "at": 0,
+    "c": "green",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "TRED-HF",
+     "t": "Ngưng thuốc → 40% tái phát trong 6 tháng",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "NGUYÊN NHÂN HỒI PHỤC",
+     "t": "Takotsubo, nhịp nhanh, viêm cơ tim, rối loạn dẫn truyền",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "STOP-CRT",
+     "t": "Chỉ tái đồng bộ, ngưng thuốc: khả thi ở số rất ít",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Câu hỏi thường gặp: khi phân suất tống máu đã cải thiện, có được ngưng thuốc? Khuyến cáo mới nhóm hai b: chỉ có thể ngưng dần thuốc nền tảng ở người rất chọn lọc, không triệu chứng, với thể tích, phân suất tống máu thất trái và peptide lợi niệu trở về hoàn toàn bình thường sau khi điều trị một nguyên nhân hồi phục được, theo mong muốn của người bệnh và dưới theo dõi lâm sàng, xét nghiệm, hình ảnh thường xuyên.",
+    "Cơ sở là thử nghiệm TRED-HF: ngưng thuốc ở người bệnh cơ tim giãn đã cải thiện làm 40% tái phát trong 6 tháng. Vì vậy, sự cải thiện phản ánh thuyên giảm chứ không phải khỏi bệnh.",
+    "Các nguyên nhân có thể hồi phục gồm hội chứng Takotsubo, suy tim do nhịp nhanh, viêm cơ tim và suy tim do rối loạn dẫn truyền.",
+    "Thử nghiệm STOP-CRT cho thấy chiến lược chỉ tái đồng bộ, ngưng thuốc ức chế thần kinh thể dịch, khả thi ở số rất ít người có phân suất tống máu bình thường hoá sau tái đồng bộ. Và nhớ rằng bệnh đồng mắc thường vẫn cần các thuốc này."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "box",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy trong điều trị nội khoa",
+   "box": {
+    "tag": "BẪY",
+    "t": "Năm sai lầm thường gặp",
+    "at": 0,
+    "c": "coral",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "1",
+     "t": "Khởi đầu tuần tự từng thuốc, mỗi thuốc vài tháng",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Ngưng SGLT2-I/ARNI khi creatinine tăng nhẹ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "3",
+     "t": "Giảm chẹn beta vì huyết áp 95 mmHg không triệu chứng",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "tag": "4",
+     "t": "Thêm ivabradine trước khi tối ưu chẹn beta",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "tag": "5",
+     "t": "Chuyển ức chế men chuyển → ARNI không đủ 36 giờ",
+     "at": 5,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Năm bẫy trong điều trị nội khoa.",
+    "Một, khởi đầu tuần tự từng thuốc, mỗi thuốc chờ vài tháng. Hướng dẫn khuyến khích khởi đầu cùng lúc và tăng liều mỗi 1 đến 2 tuần.",
+    "Hai, ngưng thuốc ức chế ét gờ lê tê hai hay a ni khi creatinine tăng nhẹ. Mức lọc giảm nhẹ ban đầu là dự kiến; chỉ tạm ngưng khi tổn thương thận cấp nặng.",
+    "Ba, giảm chẹn beta hay a ni vì huyết áp tâm thu 95 mà không triệu chứng; hãy xem lại lợi tiểu trước.",
+    "Bốn, thêm ivabradine khi chẹn beta chưa đạt liều đích.",
+    "Năm, chuyển từ ức chế men chuyển sang a ni không đủ 36 giờ, làm tăng nguy cơ phù mạch."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Ca 1: HFrEF mới, đang dùng hai thuốc",
+   "case": "Nam 64 tuổi, HFrEF <b>LVEF 30%</b>, NYHA II. Đang dùng enalapril 5 mg × 2, bisoprolol 2,5 mg, furosemide 40 mg. HA 118/72 mmHg, mạch 78, nhịp xoang. K 4,4 mmol/L, eGFR 52.",
+   "case_at": 1,
+   "q": "Chiến lược phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Thêm ivabradine vì mạch > 70",
+    "Chuyển ARNI (ngưng enalapril ≥ 36 giờ), thêm MRA + SGLT2-I, tăng liều mỗi 1–2 tuần",
+    "Giữ nguyên, tái khám sau 3 tháng",
+    "Thêm digoxin"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "explain": "Thiếu MRA và SGLT2-I (I A); còn triệu chứng → chuyển ARNI (I B1, ngưng ức chế men chuyển ≥ 36 giờ); tăng liều FMT mỗi 1–2 tuần (I C, mới). Ivabradine chỉ sau khi chẹn beta đạt đích, LVEF ≤ 35%; digoxin là AMT.",
+   "lines": [
+    "Mời quý vị cùng làm hai tình huống. Tình huống thứ nhất.",
+    "Người bệnh nam 64 tuổi, suy tim phân suất tống máu giảm 30%, mức độ hai. Đang dùng enalapril 5 miligam hai lần, bisoprolol 2,5 miligam, furosemide 40 miligam. Huyết áp 118 trên 72, mạch 78, nhịp xoang. Kali 4,4, mức lọc cầu thận 52.",
+    "Chiến lược phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: chuyển sang a ni sau khi ngưng enalapril ít nhất 36 giờ, thêm kháng thụ thể mineralocorticoid và ức chế ét gờ lê tê hai, rồi tăng liều mỗi 1 đến 2 tuần. Người bệnh mới có hai trên bốn trụ cột, liều còn thấp. Ivabradine chỉ cân nhắc khi chẹn beta đã đạt đích, còn digoxin là điều trị bổ sung sau khi đã tối ưu nền tảng."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Ca 2: creatinine tăng sau khi tối ưu thuốc",
+   "case": "Cùng người bệnh, 2 tuần sau khi dùng sacubitril–valsartan, spironolactone, dapagliflozin. Khoẻ hơn, không phù. <b>eGFR 52 → 45</b> (giảm 13%), <b>K 5,1</b>, HA 106/66 mmHg không triệu chứng.",
+   "case_at": 1,
+   "q": "Xử trí phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Ngưng dapagliflozin",
+    "Ngưng spironolactone",
+    "Tiếp tục các thuốc, cân nhắc giảm lợi tiểu, kiểm tra lại",
+    "Đổi sacubitril–valsartan về enalapril"
+   ],
+   "answer": 2,
+   "answer_at": 4,
+   "explain": "eGFR giảm nhẹ ban đầu là dự kiến; K < 5,5; tụt huyết áp không triệu chứng không phải lý do giảm FMT → xem lại lợi tiểu. Hiểu sai thay đổi chức năng thận là nguyên nhân hàng đầu khiến FMT bị dùng thiếu.",
+   "lines": [
+    "Tình huống thứ hai.",
+    "Vẫn người bệnh này, 2 tuần sau khi dùng sacubitril–valsartan, spironolactone và dapagliflozin. Ông khoẻ hơn, hết phù. Mức lọc cầu thận giảm từ 52 xuống 45, tức khoảng 13%, kali 5,1, huyết áp 106 trên 66 không triệu chứng.",
+    "Xử trí phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: tiếp tục các thuốc, cân nhắc giảm lợi tiểu và kiểm tra lại. Mức lọc giảm nhẹ ban đầu khi dùng a ni và ức chế ét gờ lê tê hai là dự kiến; kali còn dưới 5,5; và tụt huyết áp không triệu chứng không phải lý do giảm thuốc nền tảng. Hướng dẫn nhấn mạnh: hiểu sai thay đổi chức năng thận là nguyên nhân hàng đầu khiến người bệnh không được điều trị đủ."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 3",
+   "title": "Sáu thông điệp của Phần 3",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "SGLT2-I + MRA cho mọi LVEF",
+     "d": "I A · MRA steroid (HFrEF), steroid/không steroid (HFpEF)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Bốn trụ cột HFrEF, khởi đầu cùng lúc",
+     "d": "ARNI/ức chế men chuyển, chẹn beta, MRA, SGLT2-I",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Tăng liều mỗi 1–2 tuần · duy trì suốt đời",
+     "d": "Mới, I C · không ngưng vì creatinine tăng nhẹ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Lợi tiểu: liều động, thấp nhất",
+     "d": "Tránh thiazide kéo dài",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "AMT",
+     "d": "Glycoside tim IIa · ivabradine IIa · vericiguat IIb",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "HFpEF · LVEF cải thiện",
+     "d": "ACE-I/ARB/ARNI IIb · ngưng thuốc chỉ khi rất chọn lọc",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần ba.",
+    "Ức chế ét gờ lê tê hai và kháng thụ thể mineralocorticoid được khuyến cáo cho mọi phân suất tống máu. Với nhóm giảm, bốn trụ cột được khởi đầu cùng lúc, tăng liều ít nhất mỗi 1 đến 2 tuần và duy trì suốt đời, không ngưng vì creatinine tăng nhẹ.",
+    "Lợi tiểu dùng liều động và thấp nhất có thể. Điều trị bổ sung gồm glycoside tim được nâng lên nhóm hai a, ivabradine và vericiguat.",
+    "Với nhóm bảo tồn, có thể cân nhắc ức chế men chuyển, chẹn thụ thể angiotensin hoặc a ni. Khi phân suất tống máu cải thiện, đó là thuyên giảm, và chỉ ngưng thuốc ở người rất chọn lọc. Phần bốn sẽ bàn về thiết bị và can thiệp: máy phá rung, tái đồng bộ, tạo nhịp hệ dẫn truyền, rung nhĩ, bệnh mạch vành và bệnh van tim. Hẹn gặp lại quý vị ở phần tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
