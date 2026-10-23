@@ -1,0 +1,800 @@
+{
+ "title": "Ca lâm sàng 1: Lú lẫn, sốt và tụt huyết áp ở người cao tuổi",
+ "theme": "case",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Ca lâm sàng Nội khoa – Hồi sức",
+ "part": "Ca lâm sàng · Ca 1",
+ "source_short": "Dựa trên Case Files Internal Medicine, 5th ed. · Case 41",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Toy EC, Patlan JT. Case Files Internal Medicine, 5th ed. McGraw-Hill. Case 41.",
+ "lexicon": {
+  "Enterococcus": "En tê rô cốc cút",
+  "Pseudomonas": "Xơ đô mô nát",
+  "Klebsiella": "Kleb xi e la",
+  "Alzheimer": "An dai mơ",
+  "Sepsis-3": "sép xít ba",
+  "E. coli": "e cô li",
+  "TMP-SMX": "trimethoprim sulfamethoxazole",
+  "Proteus": "Prô tê út",
+  "Candida": "Can đi đa",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "SIRS": "xia",
+  "SOFA": "sô pha",
+  "SpO₂": "ét pê ô hai"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng Nội khoa – Hồi sức · Ca 1",
+   "title": "Lú lẫn, sốt<br>và tụt huyết áp",
+   "subtitle": "Nữ 84 tuổi · chuyển từ viện dưỡng lão · khoa cấp cứu",
+   "badges": [
+    {
+     "t": "HA 76/32",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Kích động",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "4 điểm quyết định",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "monitor": {
+    "hr": "130",
+    "bp": "76/32"
+   },
+   "note": "Ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng",
+   "note_at": 4,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với chuyên mục ca lâm sàng của Thư Viện Y Khoa Online.",
+    "Hôm nay, chúng ta cùng đứng ở vị trí bác sĩ trực nhận một ca nhập viện từ khoa cấp cứu.",
+    "Một cụ bà 84 tuổi, được chuyển đến bằng xe cứu thương từ viện dưỡng lão, vì lú lẫn nặng hơn, kích động và sốt.",
+    "Trong khoảng mười lăm phút, chúng ta sẽ đi qua bốn điểm quyết định: nhận diện loại sốc, xử trí giờ đầu, nhiễm khuẩn tiết niệu ở người cao tuổi, và khi nào bắt đầu vận mạch.",
+    "Đây là ca minh hoạ dựa trên tình huống trong sách Case Files Nội khoa, đã thay đổi các chi tiết nhận dạng."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "vitals",
+   "chapter": "Tiếp nhận",
+   "title": "Sinh hiệu lúc tiếp nhận",
+   "patient": {
+    "tag": "BỆNH NHÂN",
+    "t": "Nữ 84 tuổi · Alzheimer, tăng huyết áp kiểm soát tốt",
+    "d": "Lú lẫn, kích động với nhân viên, sốt; gia đình xác nhận khác hẳn tình trạng nền",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Lơ mơ, kích động khi bị đụng chạm",
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "t": "Tĩnh mạch cổ xẹp · phổi trong · tim nhanh đều, không âm thổi",
+     "at": 5,
+     "c": "blue"
+    },
+    {
+     "t": "Bụng bình thường · chi ấm, hồng",
+     "at": 6,
+     "c": "coral"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "MẠCH",
+     "v": "130",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "f": "↑",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "HUYẾT ÁP",
+     "v": "76/32",
+     "u": "mmHg",
+     "c": "coral",
+     "f": "TB 47",
+     "at": 2,
+     "alarm": true
+    },
+    {
+     "k": "SpO₂",
+     "v": "95",
+     "u": "%",
+     "c": "blue",
+     "wave": "pleth",
+     "f": "khí trời",
+     "at": 3
+    },
+    {
+     "k": "NHỊP THỞ",
+     "v": "24",
+     "u": "l/ph",
+     "c": "amber",
+     "f": "↑",
+     "at": 3
+    },
+    {
+     "k": "NHIỆT ĐỘ",
+     "v": "38,1",
+     "u": "°C",
+     "c": "violet",
+     "f": "100,5 °F",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Bệnh nhân có tiền sử bệnh Alzheimer và tăng huyết áp được kiểm soát tốt, ngoài ra khá khoẻ mạnh. Theo gia đình, tình trạng lú lẫn và kích động hiện tại không phải là tình trạng nền của bà.",
+    "Nhiệt độ 38,1 độ C, tức 100,5 độ F, mạch nhanh 130 lần mỗi phút.",
+    "Huyết áp chỉ 76 trên 32 milimét thủy ngân, huyết áp trung bình khoảng 47, rất thấp.",
+    "Nhịp thở 24 lần mỗi phút, độ bão hoà oxy 95% khi thở khí trời.",
+    "Khám thấy bà lơ mơ, nhưng kích động khi bị đụng chạm.",
+    "Tĩnh mạch cổ xẹp, phổi trong, tim nhanh đều, không có âm thổi hay tiếng ngựa phi.",
+    "Bụng không có gì đặc biệt, và một chi tiết rất quan trọng: tứ chi ấm và hồng, dù huyết áp đang tụt sâu.",
+    "Thưa quý đồng nghiệp, ở người cao tuổi, thay đổi tri giác hay hành vi phải được xem là dấu hiệu mạnh của bệnh nặng, chứ không đơn thuần là diễn tiến của sa sút trí tuệ."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "decision",
+   "chapter": "Điểm quyết định 1",
+   "title": "Đây là sốc gì?",
+   "step": "ĐIỂM QUYẾT ĐỊNH 1",
+   "q": "Bệnh nhân này thuộc nhóm sốc nào?",
+   "q_at": 0,
+   "context": "HA 76/32 mmHg, mạch 130 · tĩnh mạch cổ xẹp, phổi trong · chi ấm, hồng · không mất máu, không nôn tiêu chảy",
+   "options": [
+    "Sốc giảm thể tích do mất máu, mất dịch",
+    "Sốc tim sau nhồi máu cơ tim",
+    "Sốc phân bố, nhiều khả năng do nhiễm khuẩn",
+    "Không phải sốc, chỉ là sảng trên nền Alzheimer"
+   ],
+   "answer": 2,
+   "answer_at": 2,
+   "explain": "Không mất máu hay mất dịch; tĩnh mạch cổ xẹp, phổi trong → không gợi ý suy tim. Sốc giảm thể tích và sốc tim đều co mạch ngoại vi, chi lạnh ẩm; chi ấm dù tụt huyết áp → sốc phân bố.",
+   "lines": [
+    "Điểm quyết định thứ nhất. Trước một bệnh nhân sốc, tức tụt huyết áp dẫn đến giảm tưới máu mô, việc đầu tiên là xác định cơ chế, vì cơ chế quyết định điều trị.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là sốc phân bố. Bà không có tiền sử chảy máu hay mất dịch nhiều, nên sốc giảm thể tích ít nghĩ đến.",
+    "Tĩnh mạch cổ xẹp gợi ý không có suy tim phải, phổi trong gợi ý không có suy tim trái, vì vậy sốc tim, chẳng hạn sau nhồi máu cơ tim, cũng ít khả năng.",
+    "Thêm vào đó, cả sốc giảm thể tích lẫn sốc tim đều gây co mạch ngoại vi mạnh, chi lạnh và ẩm.",
+    "Ở đây tứ chi lại ấm và tưới máu tốt một cách không tương xứng với mức tụt huyết áp. Đó là dấu ấn của sốc phân bố, và nguyên nhân thường gặp nhất là nhiễm khuẩn."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "compare",
+   "chapter": "Phân biệt sốc",
+   "title": "Ba nhóm sốc: nhìn tại giường",
+   "head": [
+    "Nhóm sốc",
+    "Dấu hiệu tại giường",
+    "Điều trị trọng tâm"
+   ],
+   "widths": "1fr 1.7fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Giảm thể tích</b><br>mất máu, nôn, tiêu chảy (mất 20–40% thể tích máu)",
+      "Tĩnh mạch cổ xẹp, phổi trong<br>Chi lạnh, ẩm · cung lượng tim giảm",
+      "Bù thể tích mạnh: dịch tinh thể hoặc chế phẩm máu"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Tim</b><br>nhồi máu cơ tim, rối loạn nhịp, suy tim giai đoạn cuối",
+      "Tĩnh mạch cổ nổi, ran phổi, phù phổi<br>Chi lạnh, ẩm · cung lượng tim giảm",
+      "Duy trì huyết áp (norepinephrine, dopamine), lợi tiểu, giảm hậu gánh (bóng đối xung)"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Phân bố</b><br>nhiễm khuẩn; ít gặp hơn: tổn thương tuỷ sống, suy thượng thận cấp",
+      "Cung lượng tim tăng, sức cản mạch giảm<br><b>Chi ấm</b> ở pha sớm",
+      "Dịch tinh thể, kháng sinh, kiểm soát ổ nhiễm, norepinephrine"
+     ],
+     "at": 4,
+     "c": "coral",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Hãy hệ thống lại ba nhóm sốc theo cách nhìn tại giường bệnh.",
+    "Sốc giảm thể tích là thể thường gặp nhất, do chảy máu hoặc nôn, tiêu chảy nặng, mất khoảng 20 đến 40% thể tích máu. Tĩnh mạch cổ xẹp, phổi trong, chi lạnh ẩm, và điều trị là bù thể tích mạnh.",
+    "Sốc tim do tổn thương tim nguyên phát. Bệnh nhân thường có áp lực tĩnh mạch cảnh tăng cao và phù phổi.",
+    "Điều trị tập trung duy trì huyết áp bằng norepinephrine hoặc dopamine, giảm phù phổi bằng lợi tiểu và giảm hậu gánh, ví dụ bằng bóng đối xung động mạch chủ. Hai thể này điều trị khác hẳn nhau, nên phải phân biệt.",
+    "Sốc phân bố thì ngược lại: cung lượng tim tăng nhưng không giữ được sức cản mạch hệ thống, tức giãn mạch không thích hợp. Vì vậy, ít nhất ở giai đoạn đầu, chi vẫn ấm.",
+    "Một câu hỏi thi kinh điển: bệnh nhân huyết áp 68 trên 50, mạch 140, tĩnh mạch cổ nổi, ran ẩm, chi lạnh ẩm. Đó là sốc tim, không phải sốc nhiễm khuẩn hay suy thượng thận, vốn là sốc phân bố với chi ấm."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "labs",
+   "chapter": "Cận lâm sàng",
+   "title": "Sau 2 lít dịch: kết quả ban đầu",
+   "groups": [
+    {
+     "g": "Huyết học",
+     "c": "teal",
+     "at": 1,
+     "rows": [
+      {
+       "k": "Bạch cầu",
+       "v": "14,0",
+       "r": "4–10 G/L",
+       "f": "H"
+      },
+      {
+       "k": "Trung tính",
+       "v": "67",
+       "r": "%",
+       "f": "N"
+      },
+      {
+       "k": "Bạch cầu đũa",
+       "v": "3",
+       "r": "%",
+       "f": "N"
+      },
+      {
+       "k": "Lympho",
+       "v": "24",
+       "r": "%",
+       "f": "N"
+      }
+     ],
+     "note": "X-quang ngực: bình thường"
+    },
+    {
+     "g": "Que thử nước tiểu",
+     "c": "amber",
+     "at": 2,
+     "rows": [
+      {
+       "k": "Bạch cầu esterase",
+       "v": "2+",
+       "r": "âm tính",
+       "f": "H"
+      },
+      {
+       "k": "Nitrit",
+       "v": "âm",
+       "r": "âm tính",
+       "f": "N"
+      },
+      {
+       "k": "Máu",
+       "v": "vết",
+       "r": "âm tính",
+       "f": "H"
+      }
+     ]
+    },
+    {
+     "g": "Soi cặn nước tiểu",
+     "c": "coral",
+     "at": 3,
+     "rows": [
+      {
+       "k": "Bạch cầu",
+       "v": "20–50",
+       "r": "< 5 /QT 40",
+       "f": "H"
+      },
+      {
+       "k": "Hồng cầu",
+       "v": "0–3",
+       "r": "< 3 /QT 40",
+       "f": "N"
+      },
+      {
+       "k": "Vi khuẩn",
+       "v": "nhiều",
+       "r": "không",
+       "f": "H"
+      }
+     ],
+     "note": "HA sau 2 L NaCl 0,9% / 30 phút: 95/58 mmHg"
+    }
+   ],
+   "lines": [
+    "Sau khi truyền 2 lít natri clorid 0,9% trong 30 phút, huyết áp lên 95 trên 58 milimét thủy ngân, huyết áp trung bình khoảng 70, và kết quả xét nghiệm đầu tiên trả về.",
+    "Bạch cầu 14 nghìn trên milimét khối, trung tính 67%, bạch cầu đũa 3%, lympho 24%. Các chỉ số khác không bất thường, X-quang ngực bình thường.",
+    "Que thử nước tiểu: bạch cầu esterase 2 cộng, nitrit âm tính, máu vết.",
+    "Soi cặn: 20 đến 50 bạch cầu mỗi quang trường, 0 đến 3 hồng cầu, và rất nhiều vi khuẩn.",
+    "Bạch cầu esterase là dấu chỉ điểm tiểu mủ, còn nitrit là dấu chỉ điểm vi khuẩn niệu. Nitrit âm tính không loại trừ nhiễm khuẩn tiết niệu khi đã có tiểu mủ rõ và nhiều vi khuẩn.",
+    "Kết hợp lại: sốc phân bố, bạch cầu tăng, nước tiểu có tiểu mủ và vi khuẩn, phổi bình thường. Ổ nhiễm khuẩn tiết niệu là nghĩ đến nhiều nhất."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "decision",
+   "chapter": "Điểm quyết định 2",
+   "title": "Bước tiếp theo",
+   "step": "ĐIỂM QUYẾT ĐỊNH 2",
+   "q": "Chẩn đoán và bước tiếp theo là gì?",
+   "q_at": 0,
+   "context": "Sau 2 L dịch: HA 95/58 mmHg · bạch cầu 14 G/L · tiểu mủ, nhiều vi khuẩn · X-quang ngực bình thường",
+   "options": [
+    "Chờ kết quả cấy nước tiểu 2–3 ngày rồi mới chọn kháng sinh",
+    "Sốc nhiễm khuẩn từ đường tiết niệu: cấy máu, cấy nước tiểu, kháng sinh phổ rộng ngay, tiếp tục hồi sức",
+    "TMP-SMX uống 3 ngày, chuyển về viện dưỡng lão",
+    "Chụp cắt lớp sọ não tìm nguyên nhân lú lẫn trước tiên"
+   ],
+   "answer": 1,
+   "answer_at": 2,
+   "explain": "Kết quả cấy mất 2–3 ngày; khi bệnh cảnh gợi ý nhiễm khuẩn tiết niệu, không chờ mà bắt đầu kháng sinh ngay. Duy trì huyết áp bằng dịch, thêm vận mạch nếu cần.",
+   "lines": [
+    "Điểm quyết định thứ hai. Huyết áp đã cải thiện sau bù dịch, và chúng ta đã có kết quả nước tiểu. Chẩn đoán của quý vị là gì, và bước tiếp theo là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Chẩn đoán nhiều khả năng nhất là sốc nhiễm khuẩn, hậu quả của nhiễm khuẩn tiết niệu.",
+    "Bước tiếp theo là tiếp tục hỗ trợ huyết áp bằng dịch truyền tĩnh mạch, hoặc vận mạch khi cần, và bắt đầu kháng sinh phổ rộng càng sớm càng tốt.",
+    "Trước khi dùng kháng sinh, lấy cả cấy máu và cấy nước tiểu, cùng với tổng phân tích nước tiểu và công thức máu. Kết quả cấy mất 2 đến 3 ngày, và kháng sinh không được chờ những kết quả này.",
+    "Một lưu ý: dù có triệu chứng định hướng nhiễm khuẩn tiết niệu, ở người cao tuổi vẫn cần tìm các ổ nhiễm khác, và cân nhắc cả các nguyên nhân lú lẫn ngoài nhiễm khuẩn. Nhưng chụp sọ não không được làm chậm kháng sinh ở một bệnh nhân đang sốc."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "box",
+   "chapter": "Định nghĩa",
+   "title": "Gọi tên cho đúng: sepsis và sốc nhiễm khuẩn",
+   "box": {
+    "tag": "CHẨN ĐOÁN CỦA CA",
+    "t": "Sốc nhiễm khuẩn, nhiều khả năng từ <b>nhiễm khuẩn tiết niệu</b>",
+    "at": 0,
+    "c": "coral"
+   },
+   "notes": [
+    {
+     "tag": "THEO SÁCH (SIRS)",
+     "t": "SIRS: nhiệt độ > 38 hoặc < 36 °C · nhịp thở > 20 hoặc PaCO₂ < 32 · mạch > 90 · bạch cầu > 12 hoặc < 4 G/L hoặc > 10% đũa. Sepsis = SIRS + nhiễm khuẩn; sốc = tụt HA không đáp ứng dịch hoặc tăng lactate dù đã bù dịch.",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CẬP NHẬT · SEPSIS-3",
+     "t": "Sepsis = rối loạn chức năng cơ quan đe doạ tính mạng do đáp ứng mất điều hoà với nhiễm khuẩn (SOFA tăng ≥ 2). Sốc = cần vận mạch để giữ HA trung bình ≥ 65 mmHg <b>và</b> lactate > 2 mmol/L dù đã bù đủ dịch.",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trước khi đi tiếp, chúng ta cần thống nhất cách gọi tên.",
+    "Sách Case Files dùng hệ định nghĩa dựa trên hội chứng đáp ứng viêm hệ thống, SIRS. Bệnh nhân của chúng ta đáp ứng cả bốn tiêu chí: sốt trên 38 độ, mạch 130, nhịp thở 24, bạch cầu 14 nghìn. Theo sách, sepsis là SIRS cộng nhiễm khuẩn, sepsis nặng là có rối loạn chức năng cơ quan, và sốc nhiễm khuẩn là tụt huyết áp không đáp ứng dịch hoặc tăng lactate dù đã bù dịch.",
+    "Thưa quý đồng nghiệp, từ năm 2016, định nghĩa Sepsis-3 đã thay thế cách tiếp cận này, và khái niệm sepsis nặng không còn được dùng.",
+    "Theo Sepsis-3, sepsis là rối loạn chức năng cơ quan đe doạ tính mạng do đáp ứng mất điều hoà của cơ thể với nhiễm khuẩn, thể hiện bằng điểm SOFA tăng từ 2 trở lên. Sốc nhiễm khuẩn là khi cần vận mạch để giữ huyết áp trung bình từ 65 trở lên, và lactate trên 2 milimol mỗi lít, dù đã bù đủ dịch.",
+    "Áp dụng vào ca này: bệnh nhân chắc chắn có sepsis, với rối loạn tri giác và tụt huyết áp. Để xác định sốc nhiễm khuẩn theo Sepsis-3, chúng ta cần đo lactate ngay, và theo dõi xem huyết áp có giữ được mà không cần vận mạch hay không.",
+    "Những cập nhật xử trí sepsis mới nhất, quý vị có thể xem trong loạt bài giảng hướng dẫn SSC 2026 trên kênh."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "NKTN người cao tuổi",
+   "title": "Vì sao người cao tuổi dễ nhiễm khuẩn tiết niệu?",
+   "cards": [
+    {
+     "tag": "DỊCH TỄ",
+     "t": "Rất thường gặp",
+     "items": [
+      "Đứng thứ 2 sau nhiễm khuẩn hô hấp ở người > 65 tuổi",
+      "Cùng viêm phổi: 2 nguồn sepsis hàng đầu"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "NGUY CƠ",
+     "t": "Yếu tố cơ địa",
+     "items": [
+      "Tiểu không tự chủ, tiền sử nhiễm khuẩn tiết niệu",
+      "Tổn thương thần kinh, suy giảm miễn dịch",
+      "Suy dinh dưỡng, nhiều bệnh đồng mắc"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "PHƠI NHIỄM",
+     "t": "Môi trường chăm sóc",
+     "items": [
+      "Nằm viện nhiều lần → vi khuẩn bệnh viện",
+      "Thủ thuật, ống thông tiểu lưu"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "BIỂU HIỆN",
+     "t": "Không điển hình",
+     "items": [
+      "Lú lẫn, kích động",
+      "Sốt hoặc hạ thân nhiệt",
+      "Thường thiếu tiểu buốt, đau hông lưng"
+     ],
+     "at": 3,
+     "c": "coral",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Ca bệnh này là ví dụ điển hình của nhiễm khuẩn tiết niệu ở người cao tuổi. Ở người trên 65 tuổi, đây là nhiễm khuẩn thường gặp thứ hai, chỉ sau nhiễm khuẩn hô hấp, và cùng với viêm phổi là hai nguồn sepsis hàng đầu.",
+    "Các yếu tố nguy cơ gồm tiểu không tự chủ, tiền sử nhiễm khuẩn tiết niệu, tổn thương thần kinh, suy giảm miễn dịch, suy dinh dưỡng và bệnh đồng mắc. Chúng gây bất thường chức năng đường tiết niệu hoặc làm suy giảm khả năng chống nhiễm khuẩn.",
+    "Người sống ở cơ sở chăm sóc dài hạn còn nằm viện nhiều lần, phơi nhiễm vi khuẩn bệnh viện và các thủ thuật xâm lấn như ống thông tiểu lưu.",
+    "Điều quan trọng nhất về lâm sàng: người trẻ thường có sốt, tiểu buốt, tiểu gấp hay đau hông lưng, còn người cao tuổi lại thường biểu hiện kín đáo, có thể sốt hoặc hạ thân nhiệt, và rất hay chỉ là lú lẫn hoặc kích động, đúng như cụ bà của chúng ta."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "compare",
+   "chapter": "Ba hội chứng",
+   "title": "Ba hội chứng nhiễm khuẩn tiết niệu",
+   "head": [
+    "Hội chứng",
+    "Chẩn đoán",
+    "Điều trị"
+   ],
+   "widths": "1fr 1.7fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Viêm bàng quang</b> cấp không biến chứng",
+      "Tiểu buốt, nhiều lần, gấp, tiểu máu · que thử: bạch cầu esterase hoặc nitrit; thường không cần cấy",
+      "TMP-SMX, fluoroquinolon hoặc nitrofurantoin uống; ngắn ngày (sách: 3 ngày); theo đề kháng tại chỗ"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Viêm thận – bể thận</b> cấp",
+      "Sốt, rét run, buồn nôn, đau hông lưng, trụ bạch cầu · <b>phải cấy nước tiểu</b>",
+      "Kinh nghiệm rồi chỉnh theo kháng sinh đồ; 10–14 ngày; nặng, nôn → tĩnh mạch rồi uống"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Liên quan ống thông</b>",
+      "Sốt, đau trên xương mu + cấy dương tính · lấy mẫu từ ống thông mới hoặc cổng lấy mẫu, <b>không lấy từ túi chứa</b>",
+      "Theo tác nhân phân lập; rút hoặc thay ống thông nếu được"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Phần lớn nhiễm khuẩn tiết niệu thuộc một trong ba hội chứng, và mỗi hội chứng có cách chẩn đoán và điều trị riêng.",
+    "Viêm bàng quang cấp không biến chứng biểu hiện kích thích bàng quang: tiểu buốt, tiểu nhiều lần, tiểu gấp hoặc tiểu máu. Ở phụ nữ khoẻ mạnh, thường không cần cấy, mà điều trị kinh nghiệm dựa trên triệu chứng và que thử, với trimethoprim sulfamethoxazole, fluoroquinolon hoặc nitrofurantoin uống, liệu trình ngắn, và nên dựa vào đề kháng kháng sinh tại chỗ.",
+    "Viêm thận bể thận có triệu chứng toàn thân: sốt, rét run, buồn nôn, đau hông lưng, có thể thấy trụ bạch cầu. Ở đây phải cấy nước tiểu, điều trị theo kết quả cấy, kéo dài 10 đến 14 ngày.",
+    "Ví dụ: phụ nữ 39 tuổi, sốt 39,4 độ, buồn nôn, đau hông lưng, cấy nước tiểu E. coli. Liều đơn hay 3 ngày là không đủ, ampicillin thì E. coli thường đề kháng. Lựa chọn phù hợp là nhập viện, levofloxacin tĩnh mạch rồi chuyển uống, đủ 14 ngày.",
+    "Nhiễm khuẩn liên quan ống thông chỉ chẩn đoán được khi có cấy dương tính kèm sốt, đau trên xương mu hay triệu chứng khác. Mẫu phải lấy từ ống thông mới hoặc cổng lấy mẫu, không bao giờ lấy từ túi chứa. Điều trị theo tác nhân và rút hoặc thay ống thông nếu có thể.",
+    "Về ngưỡng cấy: từ 10 mũ 5 khuẩn lạc mỗi mililít với mẫu nước tiểu giữa dòng, và trên 10 mũ 2 khuẩn lạc mỗi mililít nếu lấy qua ống thông."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "list",
+   "chapter": "Kháng sinh kinh nghiệm",
+   "title": "Tác nhân và kháng sinh kinh nghiệm",
+   "dense": true,
+   "items": [
+    {
+     "t": "Không biến chứng: <b>E. coli 75–90%</b>",
+     "d": "Staphylococcus saprophyticus 5–15% · Klebsiella · Proteus · Enterococcus",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Liên quan ống thông: phổ rộng hơn",
+     "d": "E. coli, Klebsiella, Proteus, Citrobacter, Morganella, Pseudomonas aeruginosa, Enterococcus, Candida",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Người cao tuổi, sống ở cơ sở chăm sóc",
+     "d": "Hay gặp vi khuẩn Gram dương và nhiễm khuẩn hỗn hợp → kháng sinh phổ rộng trong khi chờ cấy",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Bệnh cảnh sepsis",
+     "d": "Phủ cả Gram dương và Gram âm, <b>có tác dụng trên Pseudomonas</b>, đến khi có kết quả cấy",
+     "at": 3,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "t": "Thời gian điều trị",
+     "d": "Theo diễn biến lâm sàng; xuống thang khi có kháng sinh đồ",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Kháng sinh kinh nghiệm phải nhắm vào các tác nhân thường gặp. Với viêm bàng quang và viêm thận bể thận không biến chứng, E. coli chiếm 75 đến 90%, tiếp theo là Staphylococcus saprophyticus 5 đến 15%, Klebsiella, Proteus và Enterococcus.",
+    "Với nhiễm khuẩn liên quan ống thông, phổ tác nhân rộng hơn nhiều: ngoài E. coli, Klebsiella, Proteus còn có Citrobacter, Morganella, Pseudomonas aeruginosa, Enterococcus và cả nấm Candida.",
+    "Người cao tuổi và người sống ở cơ sở chăm sóc dài hạn hay nhiễm vi khuẩn Gram dương và nhiễm khuẩn hỗn hợp, nên được khuyến cáo dùng kháng sinh phổ rộng trong khi chờ cấy.",
+    "Khi bệnh cảnh là sepsis, như cụ bà của chúng ta, kháng sinh phải phủ cả Gram dương lẫn Gram âm, bao gồm tác dụng trên Pseudomonas, cho đến khi có kết quả cấy để định hướng.",
+    "Thời gian điều trị dựa vào diễn biến lâm sàng, và xuống thang ngay khi có kháng sinh đồ."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "decision",
+   "chapter": "Điểm quyết định 3",
+   "title": "Du khuẩn niệu không triệu chứng",
+   "step": "ĐIỂM QUYẾT ĐỊNH 3",
+   "q": "Ai được lợi khi điều trị du khuẩn niệu không triệu chứng?",
+   "q_at": 0,
+   "context": "Cấy nước tiểu > 10⁵ CFU/mL E. coli, hoàn toàn không triệu chứng",
+   "options": [
+    "Nữ 23 tuổi, có quan hệ tình dục",
+    "Nữ 33 tuổi, đang mang thai",
+    "Nữ 53 tuổi, đái tháo đường",
+    "Nữ 73 tuổi, sống ở viện dưỡng lão"
+   ],
+   "answer": 1,
+   "answer_at": 2,
+   "explain": "Chỉ thai phụ được chứng minh có lợi: ngừa viêm thận – bể thận, sinh non, sẩy thai. Ngoài thai kỳ và người ghép tạng, không điều trị.",
+   "lines": [
+    "Điểm quyết định thứ ba quay lại với chính đối tượng của ca bệnh: người cao tuổi ở viện dưỡng lão. Du khuẩn niệu không triệu chứng là khi nhuộm Gram hoặc cấy nước tiểu dương tính nhưng không có triệu chứng hay dấu hiệu nhiễm khuẩn. Trong bốn người phụ nữ này, ai được lợi khi điều trị?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là thai phụ 33 tuổi. Điều trị ở thai phụ nhằm phòng viêm thận bể thận, sinh non và nguy cơ mất thai.",
+    "Với ba người còn lại, kể cả người đái tháo đường và cụ bà ở viện dưỡng lão, chưa có bằng chứng điều trị làm giảm nhiễm khuẩn tiết niệu có triệu chứng hay giảm nhập viện. Ngoài thai kỳ và người suy giảm miễn dịch như ghép tạng, du khuẩn niệu không triệu chứng không gây hậu quả xấu và không cần điều trị.",
+    "Thông điệp thực hành rất rõ: ở viện dưỡng lão, du khuẩn niệu rất phổ biến. Một kết quả cấy dương tính không đi kèm triệu chứng không phải là chỉ định kháng sinh. Ngược lại, cụ bà của chúng ta có biểu hiện toàn thân, sốc và tiểu mủ, nên đây là nhiễm khuẩn thật sự cần điều trị khẩn cấp."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "Sốc nhiễm khuẩn",
+   "title": "Pha ấm và pha lạnh của sốc nhiễm khuẩn",
+   "cards": [
+    {
+     "tag": "PHA ẤM",
+     "t": "Nhận diện sớm",
+     "items": [
+      "Cung lượng tim tăng",
+      "Giãn mạch, sức cản mạch giảm",
+      "Chi ấm, tưới máu ngoại vi còn tốt"
+     ],
+     "at": 0,
+     "c": "amber",
+     "hl": true
+    },
+    {
+     "tag": "PHA LẠNH",
+     "t": "Muộn, tiên lượng xấu",
+     "items": [
+      "Ức chế cơ tim → cung lượng giảm",
+      "Suy đa cơ quan",
+      "Co mạch mạnh, chi lạnh"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "TIÊN LƯỢNG",
+     "t": "Tử vong 30 ngày > 50%",
+     "items": [
+      "Theo sách",
+      "Không điều trị → sốc không hồi phục, kháng trị với dịch và thuốc"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bây giờ chúng ta nhìn sâu hơn vào sốc nhiễm khuẩn. Ở giai đoạn sớm, gọi là pha ấm, cung lượng tim tăng nhưng mạch máu giãn không thích hợp, nên chi vẫn ấm dù huyết áp tụt, như chúng ta thấy ở ca này.",
+    "Sốc nhiễm khuẩn có thể xuất hiện với rất ít dấu hiệu báo trước ở người cao tuổi và người ở cơ sở chăm sóc có nhiều bệnh đồng mắc. Đó là lý do khi nhiễm khuẩn tiết niệu đã tiến triển thành nhiễm khuẩn huyết, điều trị phải mạnh và kịp thời.",
+    "Nếu sốc tiếp diễn, cung lượng tim giảm do ức chế cơ tim, suy đa cơ quan xuất hiện, và cơ thể co mạch mạnh để giữ huyết áp. Đó là pha lạnh, dấu hiệu tiên lượng xấu.",
+    "Theo sách, tỷ lệ tử vong 30 ngày của sốc nhiễm khuẩn vượt quá 50%, và sốc không được điều trị sẽ tiến tới điểm không hồi phục, kháng trị với bù dịch và mọi điều trị nội khoa. Vì vậy, nhận diện ở pha ấm là then chốt."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "list",
+   "chapter": "Điều trị",
+   "title": "Các trụ cột điều trị sốc nhiễm khuẩn",
+   "dense": true,
+   "items": [
+    {
+     "n": "1",
+     "t": "Dịch tinh thể đẳng trương",
+     "d": "Bù thể tích lòng mạch; tối thiểu 30 ml/kg cân nặng lý tưởng trước khi kết luận kháng trị dịch",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "n": "2",
+     "t": "Kháng sinh phổ rộng sớm",
+     "d": "Nhắm vào ổ nhiễm nghi ngờ; cấy trước nhưng không trì hoãn",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "n": "3",
+     "t": "Kiểm soát ổ nhiễm",
+     "d": "Loại bỏ nguồn nhiễm; ví dụ rút hoặc thay ống thông tiểu",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "n": "4",
+     "t": "Norepinephrine",
+     "d": "Vận mạch lựa chọn hàng đầu khi tụt huyết áp không đáp ứng dịch",
+     "at": 3,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "n": "5",
+     "t": "Hỗ trợ khác",
+     "d": "Thông khí cơ học khi cần · hydrocortisone tĩnh mạch nếu kháng trị với dịch và vận mạch",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Điều trị sốc nhiễm khuẩn dựa trên các trụ cột sau. Thứ nhất, bù dịch tinh thể đẳng trương để duy trì đủ thể tích lòng mạch, tối thiểu 30 mililít mỗi kilôgam cân nặng lý tưởng trước khi kết luận là không đáp ứng dịch.",
+    "Thứ hai, kháng sinh phổ rộng nhắm vào nguồn nhiễm nghi ngờ, càng sớm càng tốt.",
+    "Thứ ba, loại bỏ nguồn nhiễm. Trong nhiễm khuẩn tiết niệu, điều này bao gồm rút hoặc thay ống thông tiểu nếu có.",
+    "Thứ tư, nhiều bệnh nhân cần vận mạch, và norepinephrine là thuốc lựa chọn hàng đầu.",
+    "Cuối cùng, thông khí cơ học khi cần để tối ưu oxy hoá mô, và hydrocortisone tĩnh mạch cho bệnh nhân tụt huyết áp kháng trị với cả bù dịch lẫn vận mạch."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "decision",
+   "chapter": "Điểm quyết định 4",
+   "title": "Khi dịch không còn đủ",
+   "step": "ĐIỂM QUYẾT ĐỊNH 4",
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 0,
+   "context": "Nam 45 tuổi, viêm ruột thừa cấp · HA 80/40, mạch 142, sốt 38,9 °C · đã truyền 3 L NaCl 0,9% + kháng sinh tĩnh mạch · HA tụt còn 70/42 mmHg",
+   "options": [
+    "Chẹn beta để kiểm soát tần số tim",
+    "Định lượng cortisol và dùng corticoid",
+    "Truyền huyết tương tươi đông lạnh",
+    "Bắt đầu truyền norepinephrine tĩnh mạch"
+   ],
+   "answer": 3,
+   "answer_at": 2,
+   "explain": "Kháng trị với ≥ 30 ml/kg dịch → thêm norepinephrine. Corticoid khi kháng trị cả vận mạch; huyết tương khi có rối loạn đông máu (đông máu nội mạch lan toả); morphin có thể làm tụt huyết áp thêm.",
+   "lines": [
+    "Điểm quyết định cuối cùng, với một tình huống khác để kiểm tra nguyên tắc. Nam 45 tuổi, viêm ruột thừa cấp, huyết áp 80 trên 40, mạch 142, sốt. Đã truyền 3 lít natri clorid 0,9% và kháng sinh tĩnh mạch trong khi chuẩn bị mổ, nhưng huyết áp tụt còn 70 trên 42. Bước tiếp theo là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là bắt đầu truyền norepinephrine tĩnh mạch. Khi sốc nhiễm khuẩn không đáp ứng với bù dịch tối thiểu 30 mililít mỗi kilôgam cân nặng lý tưởng, bước tiếp theo là thêm norepinephrine.",
+    "Corticoid có thể dùng theo kinh nghiệm nếu tụt huyết áp kháng trị với vận mạch, chưa phải lúc này. Huyết tương tươi đông lạnh chỉ dùng khi có rối loạn đông máu như đông máu nội mạch lan toả. Chẹn beta là sai hướng, và morphin tĩnh mạch có thể làm huyết áp tụt thêm.",
+    "Và đừng quên: ở bệnh nhân này, kiểm soát ổ nhiễm bằng phẫu thuật cắt ruột thừa vẫn là một phần không thể thiếu của điều trị."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "course",
+   "chapter": "Lộ trình xử trí",
+   "title": "Lộ trình xử trí ca bệnh",
+   "events": [
+    {
+     "time": "0 phút",
+     "t": "Nhận diện sốc phân bố",
+     "d": "Lú lẫn, HA 76/32, chi ấm, tĩnh mạch cổ xẹp, phổi trong",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "time": "30 phút",
+     "t": "2 L NaCl 0,9% → HA 95/58",
+     "d": "Đáp ứng một phần với bù dịch",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "time": "Ngay",
+     "t": "Cấy máu, cấy nước tiểu, lactate",
+     "d": "Tiểu mủ, nhiều vi khuẩn · X-quang ngực bình thường",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "time": "Giờ đầu",
+     "t": "Kháng sinh phổ rộng tĩnh mạch",
+     "d": "Phủ Gram dương, Gram âm, có Pseudomonas",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "time": "2–3 ngày",
+     "t": "Đánh giá lại, xuống thang",
+     "d": "Theo kết quả cấy; norepinephrine nếu tụt lại",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Hãy ghép lại toàn bộ lộ trình xử trí cho cụ bà. Ngay khi tiếp nhận, bác sĩ nhận diện sốc phân bố dựa trên tụt huyết áp, tĩnh mạch cổ xẹp, phổi trong và chi ấm.",
+    "Trong 30 phút đầu, truyền 2 lít natri clorid 0,9%, huyết áp cải thiện lên 95 trên 58.",
+    "Đồng thời lấy cấy máu, cấy nước tiểu, tổng phân tích nước tiểu, công thức máu, và nên đo lactate để đánh giá giảm tưới máu.",
+    "Kháng sinh phổ rộng tĩnh mạch được bắt đầu sớm, phủ cả Gram dương, Gram âm và Pseudomonas, không chờ kết quả cấy.",
+    "Tiếp tục theo dõi huyết áp, tri giác và lượng nước tiểu, thêm norepinephrine nếu huyết áp tụt lại, rồi xuống thang kháng sinh khi có kết quả cấy sau 2 đến 3 ngày."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "summary",
+   "chapter": "Bài học",
+   "title": "Bài học rút ra",
+   "items": [
+    {
+     "t": "Lú lẫn mới ở người cao tuổi = bệnh nặng",
+     "d": "Nhiễm khuẩn tiết niệu thường biểu hiện kín đáo",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Chi ấm + tụt huyết áp → sốc phân bố",
+     "d": "Tĩnh mạch cổ và phổi giúp loại trừ sốc tim",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Kháng sinh phổ rộng không chờ cấy",
+     "d": "Cấy máu + nước tiểu trước; có Pseudomonas khi sepsis",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Norepinephrine khi kháng trị dịch",
+     "d": "Sau ≥ 30 ml/kg; hydrocortisone nếu kháng trị vận mạch",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "t": "Không điều trị du khuẩn niệu không triệu chứng",
+     "d": "Trừ thai phụ và người ghép tạng",
+     "at": 4,
+     "c": "green"
+    },
+    {
+     "t": "Ngưỡng cấy nước tiểu",
+     "d": "≥ 10⁵ CFU/mL giữa dòng · > 10² CFU/mL qua ống thông",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Thưa quý đồng nghiệp, xin tổng kết những bài học từ ca bệnh. Một: ở người cao tuổi, lú lẫn hay kích động mới xuất hiện là dấu hiệu bệnh nặng, và nhiễm khuẩn tiết niệu thường biểu hiện kín đáo như vậy.",
+    "Hai: tụt huyết áp với chi ấm gợi ý sốc phân bố. Tĩnh mạch cổ và phổi giúp phân biệt với sốc giảm thể tích và sốc tim.",
+    "Ba: khi nghi sepsis từ đường tiết niệu, cấy máu và cấy nước tiểu, rồi dùng kháng sinh phổ rộng ngay, không chờ kết quả.",
+    "Bốn: nếu tụt huyết áp không đáp ứng dịch, thêm norepinephrine, và hydrocortisone khi kháng trị vận mạch.",
+    "Năm: du khuẩn niệu không triệu chứng rất phổ biến ở người cao tuổi và không cần điều trị, trừ thai phụ và người ghép tạng. Và nhớ ngưỡng cấy: 10 mũ 5 với mẫu giữa dòng, 10 mũ 2 với mẫu qua ống thông.",
+    "Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn gặp lại quý vị trong ca lâm sàng tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

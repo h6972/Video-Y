@@ -23,11 +23,11 @@ L.decision=s=>`<div class="dp" data-in="${at(s.q_at??0)}"><div class="no">${esc(
   <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px">${s.options.map((o,i)=>`<div class="card ${i===s.answer?'c-green':'c-coral'}" data-in="${at(s.q_at??0)}+${0.3+i*0.25}" data-a="up" ${i===s.answer?`data-hl="${at(s.answer_at)}+"`:`data-dim="${at(s.answer_at)}"`}>
    <div style="font-size:30px;font-weight:700">${String.fromCharCode(65+i)}. ${esc(o)}</div></div>`).join('')}</div>
   <div class="card c-green" style="margin-top:22px" data-in="${at(s.answer_at)}" data-a="up"><div class="ans"><span class="acc">Chọn ${String.fromCharCode(65+s.answer)}.</span> ${esc(s.explain)}</div></div>`;
-const _title=L.title; L.title=s=>_title({...s,art:'none'}).replace(/<svg[\s\S]*?<\/svg>/,`<svg style="position:absolute;right:20px;top:150px" width="700" height="520" viewBox="0 0 700 520">
+const _title=L.title; L.title=s=>{const m=s.monitor||{};return _title({...s,art:'none'}).replace(/<svg[\s\S]*?<\/svg>/,`<svg style="position:absolute;right:20px;top:150px" width="700" height="520" viewBox="0 0 700 520">
   <rect x="20" y="20" width="660" height="420" rx="28" fill="#020606" stroke="rgba(110,231,183,.35)" stroke-width="4" data-a="pop" data-in="0.3"/>
   <path d="M40 150 H170 L190 125 L210 150 H240 L255 170 L280 50 L305 220 L325 150 H430 L450 125 L470 150 H500 L515 170 L540 50 L565 220 L585 150 H660" fill="none" stroke="#4ade80" stroke-width="5" stroke-linejoin="round" data-a="draw" data-in="0.6"/>
   <path d="M40 300 C80 300 90 250 120 250 C150 250 155 285 175 285 C200 285 210 300 260 300 C300 300 310 250 340 250 C370 250 375 285 395 285 C420 285 430 300 480 300 C520 300 530 250 560 250 C590 250 595 285 615 285 C640 285 650 300 660 300" fill="none" stroke="#38bdf8" stroke-width="4" data-a="draw" data-in="1.0"/>
-  <text x="560" y="400" fill="#f87171" font-size="64" font-weight="800" font-family="Inter" data-in="1.4">128</text>
-  <text x="60" y="400" fill="#facc15" font-size="44" font-weight="800" font-family="Inter" data-in="1.6">82/46</text>
-  <rect x="290" y="460" width="120" height="40" rx="12" fill="rgba(248,113,113,.25)" stroke="#f87171" stroke-width="3" data-a="pop" data-in="1.8"/></svg>`);
+  <text x="660" y="400" text-anchor="end" fill="#f87171" font-size="64" font-weight="800" font-family="Inter" data-in="1.4">${esc(m.hr||'128')}</text>
+  <text x="60" y="400" fill="#facc15" font-size="44" font-weight="800" font-family="Inter" data-in="1.6">${esc(m.bp||'82/46')}</text>
+  <rect x="290" y="460" width="120" height="40" rx="12" fill="rgba(248,113,113,.25)" stroke="#f87171" stroke-width="3" data-a="pop" data-in="1.8"/></svg>`);};
 window.THEME_TICK=(t)=>{document.querySelectorAll('.wave').forEach(w=>{w.style.transform=`translateX(${-((t*0.9)%1)*8.333}%)`;});};
