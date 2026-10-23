@@ -1,0 +1,326 @@
+{
+ "title": "Đọc sóng máy thở cơ bản – video mẫu",
+ "theme": "may-tho",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Thở máy thực hành",
+ "part": "Thở máy · Video mẫu",
+ "source_short": "Mô phỏng theo phương trình chuyển động hệ hô hấp · Thư Viện Y Khoa Online",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PEEP": "píp"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Thở máy thực hành",
+   "title": "Đọc sóng máy thở<br>cơ bản",
+   "subtitle": "Áp lực – lưu lượng – thể tích",
+   "badges": [
+    {
+     "t": "Áp lực đẩy",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Auto-PEEP",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Vòng P-V",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "note": "Sóng được mô phỏng từ phương trình chuyển động của hệ hô hấp",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với chuyên đề thở máy thực hành.",
+    "Hôm nay chúng ta học cách đọc ba đường sóng cơ bản trên màn hình máy thở, và dùng chúng để nhận ra phổi cứng hay bẫy khí ngay tại giường."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "vent",
+   "chapter": "Phân tích một nhịp thở",
+   "title": "Thể tích kiểm soát: P đỉnh, P bình nguyên, áp lực đẩy",
+   "vent": {
+    "mode": "VC",
+    "vt": 450,
+    "rr": 16,
+    "ti": 1.0,
+    "pause": 0.3,
+    "peep": 5,
+    "R": 10,
+    "C": 50,
+    "fio2": 40
+   },
+   "freeze": "L1",
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "rr"
+   ],
+   "marks": [
+    {
+     "k": "ppeak",
+     "at": "L2",
+     "c": "amber"
+    },
+    {
+     "k": "res",
+     "at": "L2+3",
+     "c": "blue"
+    },
+    {
+     "k": "pplat",
+     "at": "L3",
+     "c": "teal"
+    },
+    {
+     "k": "peep",
+     "at": "L4",
+     "c": "green"
+    },
+    {
+     "k": "dp",
+     "at": "L4+2",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CÔNG THỨC",
+     "t": "P đỉnh = R × Flow + Vt/C + PEEP",
+     "c": "blue",
+     "at": "L2+3"
+    }
+   ],
+   "lines": [
+    "Đây là máy thở ở chế độ thể tích kiểm soát, với ba đường sóng: áp lực đường thở, lưu lượng và thể tích.",
+    "Ta đóng băng màn hình để phân tích một nhịp thở.",
+    "Áp lực đỉnh khoảng 19 centimet nước, là tổng của áp lực thắng sức cản đường thở và áp lực làm căng phổi.",
+    "Trong thì nghỉ cuối hít vào, lưu lượng bằng không, áp lực tụt xuống bình nguyên khoảng 14, phản ánh áp lực trong phế nang.",
+    "Hiệu số giữa bình nguyên và PEEP chính là áp lực đẩy, ở đây khoảng 9 centimet nước, mục tiêu nên giữ dưới 15."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "vent",
+   "chapter": "Phổi cứng",
+   "title": "Độ giãn nở giảm: áp lực bình nguyên và áp lực đẩy tăng",
+   "vent": {
+    "mode": "VC",
+    "vt": 450,
+    "rr": 16,
+    "ti": 1.0,
+    "pause": 0.3,
+    "peep": 5,
+    "R": 10,
+    "C": 50,
+    "fio2": 60
+   },
+   "changes": [
+    {
+     "at": "L0+4",
+     "set": {
+      "C": 20
+     },
+     "label": "Độ giãn nở 50 → 20 mL/cmH₂O",
+     "c": "coral"
+    }
+   ],
+   "freeze": "L2",
+   "alarm": {
+    "pplat": 30,
+    "dp": 15
+   },
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "crs"
+   ],
+   "marks": [
+    {
+     "k": "pplat",
+     "at": "L2+1",
+     "c": "coral"
+    },
+    {
+     "k": "dp",
+     "at": "L2+3",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "MỤC TIÊU",
+     "t": "Pplat ≤ 30 · ΔP ≤ 15 cmH₂O",
+     "c": "coral",
+     "at": "L3"
+    }
+   ],
+   "lines": [
+    "Bây giờ giả sử phổi trở nên cứng hơn, như trong hội chứng suy hô hấp cấp tiến triển, độ giãn nở giảm từ 50 xuống 20 mililít trên centimet nước.",
+    "Với cùng thể tích khí lưu thông 450 mililít, cả áp lực đỉnh và áp lực bình nguyên đều tăng mạnh, trong khi phần chênh do sức cản gần như không đổi.",
+    "Áp lực đẩy tăng lên hơn 20 centimet nước, vượt ngưỡng an toàn, báo hiệu nguy cơ tổn thương phổi do máy thở.",
+    "Vì vậy ở bệnh nhân suy hô hấp cấp tiến triển, ta giảm thể tích khí lưu thông xuống khoảng 6 mililít trên kilôgam cân nặng lý tưởng, và theo dõi sát áp lực đẩy."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "vent",
+   "chapter": "Bẫy khí",
+   "title": "Sức cản tăng, thở ra không hết: auto-PEEP",
+   "vent": {
+    "mode": "VC",
+    "vt": 500,
+    "rr": 24,
+    "ti": 1.0,
+    "pause": 0.2,
+    "peep": 5,
+    "R": 25,
+    "C": 60,
+    "fio2": 40
+   },
+   "freeze": "L1",
+   "unfreeze": "L3",
+   "changes": [
+    {
+     "at": "L3",
+     "set": {
+      "rr": 12
+     },
+     "label": "Giảm tần số 24 → 12 l/phút",
+     "c": "green",
+     "hold": 5
+    }
+   ],
+   "nums": [
+    "ppeak",
+    "pplat",
+    "peep",
+    "autopeep",
+    "peeptot",
+    "rr"
+   ],
+   "alarm": {
+    "autopeep": 2
+   },
+   "marks": [
+    {
+     "k": "autopeep",
+     "at": "L1+1.5",
+     "c": "coral"
+    },
+    {
+     "k": "te",
+     "at": "L2",
+     "c": "amber"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "XỬ TRÍ",
+     "t": "Kéo dài thì thở ra: giảm tần số, giảm Vt, tăng lưu lượng hít vào, giãn phế quản",
+     "c": "green",
+     "at": "L3"
+    }
+   ],
+   "lines": [
+    "Ở bệnh nhân bệnh phổi tắc nghẽn mạn tính, sức cản đường thở tăng cao, trong khi tần số máy đặt tới 24 lần mỗi phút.",
+    "Quan sát đường lưu lượng: dòng thở ra chưa kịp trở về không thì nhịp tiếp theo đã bắt đầu.",
+    "Thời gian thở ra quá ngắn gây bẫy khí, tạo ra PEEP nội sinh khoảng 6 centimet nước mà con số PEEP cài trên máy không cho thấy.",
+    "Khi giảm tần số để kéo dài thời gian thở ra, dòng thở ra trở về không, và PEEP nội sinh gần như biến mất."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "loops",
+   "chapter": "Vòng thở",
+   "title": "Vòng áp lực – thể tích và lưu lượng – thể tích",
+   "vent": {
+    "mode": "PC",
+    "pi": 15,
+    "rr": 15,
+    "ti": 1.0,
+    "peep": 5,
+    "R": 10,
+    "C": 45,
+    "fio2": 40
+   },
+   "nums": [
+    "ppeak",
+    "peep",
+    "vt",
+    "rr",
+    "mv",
+    "autopeep"
+   ],
+   "notes": [
+    {
+     "tag": "ĐỌC VÒNG",
+     "t": "Độ dốc vòng P-V phản ánh độ giãn nở; vòng F-V phải khép kín về 0",
+     "c": "violet",
+     "at": "L1"
+    }
+   ],
+   "lines": [
+    "Cùng dữ liệu đó còn được biểu diễn thành vòng áp lực theo thể tích và vòng lưu lượng theo thể tích.",
+    "Ở chế độ áp lực kiểm soát, vòng áp lực thể tích có dạng gần chữ nhật, độ dốc của nó phản ánh độ giãn nở của phổi, còn vòng lưu lượng cho biết dòng thở ra có về hết hay không."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Bốn điều cần nhớ",
+   "items": [
+    {
+     "t": "P đỉnh − P bình nguyên ≈ sức cản",
+     "d": "Tăng: co thắt, đờm, ống nội khí quản gập",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "P bình nguyên − PEEP = áp lực đẩy",
+     "d": "Mục tiêu ≤ 15 cmH₂O, Pplat ≤ 30",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Lưu lượng thở ra không về 0 = bẫy khí",
+     "d": "Kéo dài thì thở ra",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Luôn đóng băng màn hình để đọc từng nhịp",
+     "d": "Kết hợp nghiệm pháp giữ hít vào, giữ thở ra",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại, chênh lệch giữa áp lực đỉnh và bình nguyên cho ta biết về sức cản.",
+    "Hiệu số giữa bình nguyên và PEEP là áp lực đẩy, nên giữ dưới 15 centimet nước.",
+    "Dòng thở ra không trở về không là dấu hiệu bẫy khí.",
+    "Và hãy tập thói quen đóng băng màn hình để đọc từng nhịp thở. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
