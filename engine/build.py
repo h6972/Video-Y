@@ -84,6 +84,11 @@ tp = os.path.join(D, "template.html")
 if not os.path.exists(tp):  # bài giảng dạng slide dùng khung chung
     tp = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lecture.html")
 tpl = open(tp, encoding="utf-8").read()
+th = S.get("theme")  # giao diện theo loại loạt bài: engine/themes/<theme>/{theme.css,layouts.js}
+if th and th != "guideline":
+    tdir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "themes", th)
+    rd = lambda f: open(os.path.join(tdir, f), encoding="utf-8").read() if os.path.exists(os.path.join(tdir, f)) else ""
+    tpl = tpl.replace("/*__THEME_CSS__*/", rd("theme.css")).replace("/*__THEME_JS__*/", rd("layouts.js"))
 open(os.path.join(D, "video.html"), "w", encoding="utf-8").write(
     tpl.replace("/*__TIMELINE__*/null", json.dumps(S, ensure_ascii=False)))
 

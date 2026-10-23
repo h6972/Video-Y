@@ -1,0 +1,39 @@
+/* CASE LÂM SÀNG – giao diện màn hình monitor hồi sức */
+:root{--bg:#040b0b;--card:rgba(16,185,129,.045);--card2:rgba(16,185,129,.09);--line:rgba(110,231,183,.16);
+ --tx:#ecfdf5;--mut:#9fb8b0;--dim:#5f7a72;--teal:#34d399;--coral:#f87171;--amber:#facc15;--green:#4ade80;--blue:#38bdf8;--violet:#c084fc}
+#bg{background:radial-gradient(900px 600px at 85% 10%,rgba(16,185,129,.18),transparent 60%),radial-gradient(800px 600px at 0% 100%,rgba(248,113,113,.12),transparent 60%)}
+#grid{background-image:linear-gradient(rgba(52,211,153,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(52,211,153,.05) 1px,transparent 1px);background-size:40px 40px}
+#series b{color:#f87171} #part{background:#f87171;color:#2a0606}
+#prog{background:linear-gradient(90deg,#34d399,#f87171)}
+.kick{color:#f87171}
+.kick::before{content:"●";color:#f87171;margin-right:10px;animation:none}
+.mono{font-variant-numeric:tabular-nums;letter-spacing:-.5px}
+/* monitor */
+.mon{display:grid;grid-template-columns:1.05fr 1.6fr;gap:26px;height:100%}
+.pt{display:flex;flex-direction:column;gap:16px}
+.vgrid{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-content:start}
+.vt{background:#020606;border:1.5px solid var(--line);border-radius:16px;padding:14px 20px;position:relative;overflow:hidden;min-height:150px}
+.vt .k{font-size:22px;font-weight:800;color:var(--c);letter-spacing:1px}
+.vt .v{font-size:74px;font-weight:800;color:var(--c);line-height:1;margin-top:6px}
+.vt .u{font-size:22px;color:var(--mut);margin-left:8px;font-weight:600}
+.vt .f{position:absolute;right:18px;top:14px;font-size:22px;font-weight:800;padding:2px 10px;border-radius:6px;background:color-mix(in srgb,var(--c) 22%,transparent);color:var(--c)}
+.vt.wide{grid-column:span 2;min-height:130px}
+.vt svg{position:absolute;left:34%;bottom:18px;height:80px;width:132%}
+.vt.alarm{animation:none;box-shadow:0 0 0 2px var(--c),0 0 28px -4px var(--c)}
+/* xét nghiệm */
+.labs{display:grid;gap:22px;height:100%}
+.lg .gt{font-size:24px;font-weight:800;color:var(--c);letter-spacing:1px;text-transform:uppercase;margin-bottom:10px}
+.lr{display:grid;grid-template-columns:1.3fr 1fr 1.1fr;gap:10px;font-size:27px;padding:9px 0;border-bottom:1px dashed var(--line)}
+.lr .lv{font-weight:800}.lr .rg{color:var(--dim);font-size:22px;align-self:center}
+.fH{color:#f87171}.fL{color:#38bdf8}.fN{color:var(--tx)}
+/* diễn tiến */
+.course{position:relative;height:100%;padding-left:240px}
+.course .ax{position:absolute;left:200px;top:10px;bottom:10px;width:4px;background:var(--line);border-radius:2px}
+.ce{position:relative;margin-bottom:20px;padding:16px 26px}
+.ce .tm{position:absolute;left:-240px;top:18px;width:180px;text-align:right;font-size:28px;font-weight:800;color:var(--c)}
+.ce .dt{position:absolute;left:-48px;top:24px;width:22px;height:22px;border-radius:50%;background:var(--bg);border:5px solid var(--c)}
+.ce .et{font-size:31px;font-weight:700}.ce .ed{font-size:24px;color:var(--mut);margin-top:6px;line-height:1.4}
+/* điểm quyết định */
+.dp{display:flex;align-items:center;gap:22px;margin-bottom:22px}
+.dp .no{font-size:24px;font-weight:800;padding:10px 18px;border-radius:12px;background:#f87171;color:#2a0606;letter-spacing:1px}
+.dp .q{font-size:40px;font-weight:800;line-height:1.2}

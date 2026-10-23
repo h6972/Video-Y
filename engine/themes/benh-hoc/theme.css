@@ -1,0 +1,35 @@
+/* BỆNH HỌC – nền sáng kiểu giáo trình, thanh chương bên trái */
+:root{--bg:#f6f3ec;--card:#ffffff;--card2:#fffdf7;--line:rgba(30,41,59,.13);
+ --tx:#1c2533;--mut:#55627a;--dim:#8a94a6;--teal:#0f766e;--coral:#be123c;--amber:#b45309;--green:#15803d;--blue:#1d4ed8;--violet:#6d28d9}
+#stage{background:var(--bg)}
+#bg{background:radial-gradient(900px 600px at 90% 0%,rgba(190,18,60,.07),transparent 60%),radial-gradient(900px 700px at 20% 100%,rgba(15,118,110,.07),transparent 60%)}
+#grid{background-image:linear-gradient(rgba(30,41,59,.035) 1px,transparent 1px);background-size:100% 48px}
+#series{color:var(--mut)} #series b{color:#9f1239} #part{background:#9f1239;color:#fff}
+#foot{color:rgba(30,41,59,.45)} #prog{background:linear-gradient(90deg,#9f1239,#0f766e)}
+.kick{color:#9f1239}
+.ttl{font-family:Georgia,'Times New Roman',serif;font-weight:700;letter-spacing:-.3px}
+.card{box-shadow:0 1px 0 rgba(30,41,59,.04),0 10px 30px -18px rgba(30,41,59,.35)}
+.hl{box-shadow:0 0 0 2px var(--c,var(--teal)),0 16px 36px -16px var(--c,var(--teal))!important}
+.n{color:#fff}
+em{color:#b45309}
+.ev .dot{background:var(--bg)}
+.td{background:#fff}
+.vt,.t-title .big{font-family:Georgia,'Times New Roman',serif}
+/* thanh chương */
+#rail{position:absolute;left:48px;top:128px;width:300px;bottom:170px;z-index:4;display:flex;flex-direction:column;gap:8px}
+#rail .rt{font-size:18px;font-weight:800;letter-spacing:2px;color:var(--dim);margin-bottom:6px}
+#rail .ri{display:flex;gap:12px;align-items:center;font-size:22px;font-weight:600;color:var(--dim);padding:10px 14px;border-radius:12px;transition:none}
+#rail .ri i{font-style:normal;width:32px;height:32px;border-radius:50%;border:2px solid currentColor;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:800;flex:none}
+#rail .ri.on{color:#fff;background:#9f1239}
+#rail .ri.done{color:var(--mut)}
+body.rail .scene:not(.l-title){left:400px}
+/* bệnh sinh */
+.pw{display:flex;align-items:stretch;gap:0;height:100%}
+.pw .st{flex:1;display:flex;flex-direction:column}
+.pw .ar{flex:none;width:56px;display:flex;align-items:center;justify-content:center;font-size:44px;color:var(--dim)}
+.pw .st .card{flex:1}
+.pw .sn{font-size:20px;font-weight:800;color:var(--c);letter-spacing:1.5px}
+.pw .stt{font-size:33px;font-weight:700;margin-top:10px;line-height:1.2;font-family:Georgia,serif}
+.pw .sd{font-size:24px;color:var(--mut);margin-top:12px;line-height:1.45}
+.defn{font-family:Georgia,serif}
+#subs{color:#fff;background:rgba(28,37,51,.88)}

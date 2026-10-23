@@ -1,0 +1,19 @@
+/* SINH LÝ – CƠ CHẾ: nền chàm, sơ đồ động */
+:root{--bg:#0a0820;--card:rgba(129,140,248,.07);--card2:rgba(129,140,248,.13);--line:rgba(165,180,252,.18);
+ --tx:#f1f0ff;--mut:#aeb0d6;--dim:#7477a8;--teal:#22d3ee;--coral:#f472b6;--amber:#fb923c;--green:#a3e635;--blue:#818cf8;--violet:#c084fc}
+#bg{background:radial-gradient(900px 700px at 85% 10%,rgba(192,132,252,.22),transparent 60%),radial-gradient(800px 700px at 5% 95%,rgba(34,211,238,.16),transparent 60%)}
+#grid{background-image:radial-gradient(rgba(165,180,252,.16) 1.5px,transparent 1.5px);background-size:44px 44px}
+#series b{color:#22d3ee} #part{background:linear-gradient(90deg,#22d3ee,#c084fc);color:#0a0820}
+#prog{background:linear-gradient(90deg,#22d3ee,#c084fc,#f472b6)} .kick{color:#c084fc}
+.nd{position:absolute;padding:16px 20px;text-align:center;display:flex;flex-direction:column;justify-content:center;border-radius:20px}
+.nd .nt{font-size:29px;font-weight:800;line-height:1.2;color:var(--c)}
+.nd .ndd{font-size:22px;color:var(--mut);margin-top:6px;line-height:1.35}
+.edge{fill:none;stroke-width:4;stroke-linecap:round}
+.elab{font-size:21px;font-weight:700;fill:var(--mut);font-family:Inter}
+.ptc{filter:drop-shadow(0 0 8px currentColor)}
+.chart text{font-family:Inter}
+.ax{stroke:rgba(165,180,252,.5);stroke-width:3}
+.axl{font-size:24px;font-weight:700;fill:var(--mut)}
+.crv{fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+.clab{font-size:24px;font-weight:800}
+.ctr{position:absolute;text-align:center;transform:translate(-50%,-50%)}

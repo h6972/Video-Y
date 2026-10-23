@@ -73,6 +73,7 @@ b,strong{font-weight:700} em{font-style:normal;color:var(--amber);font-weight:70
 .op{font-size:30px;font-weight:800;text-align:center;color:var(--amber);margin:18px 0}
 .ans{font-size:31px;font-weight:700;line-height:1.4}
 </style>
+<style>/*__THEME_CSS__*/</style>
 </head>
 <body>
 <div id="stage">
@@ -174,11 +175,13 @@ const L={
    <div class="card c-green" style="margin-top:22px" data-in="${at(s.explain_at??s.answer_at)}" data-a="up"><div class="ans"><span class="acc">Đáp án ${String.fromCharCode(65+s.answer)}.</span> ${esc(s.explain)}</div></div>`,
 };
 L.summary=L.list;
+document.body.dataset.theme=TL.theme||'guideline';
+/*__THEME_JS__*/
 
 /* ---------- dựng các cảnh ---------- */
 const root=document.getElementById('scenes');
 TL.scenes.forEach(sc=>{
-  const el=document.createElement('section'); el.className='scene'; el.id=sc.id;
+  const el=document.createElement('section'); el.className='scene l-'+sc.layout; el.id=sc.id;
   const hdr=sc.layout==='title'?'':`<div class="hdr"><div class="kick" data-in="0">${esc(sc.chapter)}</div><div class="ttl" data-in="0.15">${esc(sc.title)}</div>${sc.ref?`<div class="ref" data-in="0.4">${esc(sc.ref)}</div>`:''}</div>`;
   el.innerHTML=hdr+`<div class="body" ${sc.layout==='title'?'style="top:0"':''}>${(L[sc.layout]||L.list)(sc)}</div>`;
   root.appendChild(el);
@@ -227,6 +230,7 @@ function render(t){
     for(const d of S.dims){d.e.style.opacity=lt>=d.t?0.35:d.e.style.opacity;}
     for(const ln of sc.L) for(const s of ln.subs) if(lt>=s.t0&&lt<s.t1+0.25) sub=s.text;
   });
+  if(window.THEME_TICK) window.THEME_TICK(t,cur,scenes);
   document.getElementById('subs').textContent=sub;
   document.getElementById('prog').style.width=(clamp(t/TL.total)*100)+'%';
   document.getElementById('bg').style.transform=`translate(${Math.sin(t*0.05)*60}px,${Math.cos(t*0.04)*40}px)`;
