@@ -1,0 +1,777 @@
+{
+ "title": "AHA/ACC 2026 Thuyên tắc phổi – Phần 4: Hồi sức huyết động và điều trị nâng cao",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "AHA/ACC 2026 Thuyên tắc phổi · Phần 4/5",
+ "source_short": "Nguồn: 2026 AHA/ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "EXTRACT-PE": "ếch trắc pê e",
+  "µg/kg/phút": "micrôgam mỗi kilôgam mỗi phút",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "PEERLESS": "pia lét",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "µg/phút": "micrôgam mỗi phút",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "FLAME": "phờ lêm",
+  "FLARE": "phờ le",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "aPTT": "a pê tê tê",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 4/5",
+   "title": "Hồi sức và<br>điều trị nâng cao",
+   "subtitle": "Phần 4 · Vận mạch, dịch, oxy và an thần, ECMO, tiêu sợi huyết toàn thân và qua ống thông, lấy huyết khối, phẫu thuật",
+   "badges": [
+    {
+     "t": "Alteplase 100 mg / 2 giờ",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Qua ống thông 5–10 mg mỗi động mạch phổi",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Bảng 7 theo nhóm",
+     "c": "teal",
+     "at": 2
+    }
+   ],
+   "note": "Mục 4.2.2–4.2.4 · 4.4 · Bảng 7",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn, phần mang tính hồi sức nhất của loạt bài về Hướng dẫn thuyên tắc phổi cấp năm 2026 trên Thư Viện Y Khoa Online.",
+    "Chúng ta sẽ bắt đầu với hồi sức huyết động: vận mạch, thuốc tăng co bóp, dịch truyền và thuốc giãn mạch phổi.",
+    "Tiếp theo là chiến lược oxy, an thần, thông khí và ECMO, rồi đến điều trị nâng cao theo từng nhóm A đến E, với liều tiêu sợi huyết cụ thể.",
+    "Như ở phần trước, những liều không nằm trong hướng dẫn được ghi rõ nguồn trên slide."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "cards",
+   "chapter": "Huyết động · Mục 4.2.2",
+   "title": "Thuốc hỗ trợ huyết động",
+   "ref": "Mục 4.2.2 · Khuyến cáo 1 (1, C-LD), 2 (2b), 3 (2b, B-R)",
+   "h": 680,
+   "cards": [
+    {
+     "tag": "1 · C-LD · D2–E2",
+     "t": "Vận mạch và tăng co bóp",
+     "items": [
+      "<b>Norepinephrine</b> lựa chọn hàng đầu",
+      "≤ 15 µg/phút: gần như không tăng sức cản mạch phổi",
+      "> 15 µg/phút: <b>thêm</b> vasopressin hoặc phenylephrine thay vì tăng tiếp",
+      "<b>Dobutamine ≤ 10 µg/kg/phút</b>: phối hợp ở E1–2 cung lượng thấp; có thể là thuốc đầu tay ở D2"
+     ],
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "tag": "2b · C-LD · D1–2",
+     "t": "Dịch truyền thận trọng",
+     "items": [
+      "Bolus nhỏ <b>≤ 500 mL</b> khi nghi giảm tiền gánh, cung lượng thấp",
+      "Tránh truyền nhiều: quá tải, giãn thất phải nặng thêm"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "2b · B-R · C2–E",
+     "t": "Giãn mạch phổi dạng hít",
+     "items": [
+      "Giảm hậu gánh thất phải, không tụt huyết áp hệ thống",
+      "Nitric oxide hít: không đạt tiêu chí chính, cải thiện thất phải sau 24 giờ (phân tích hậu kiểm)",
+      "Sildenafil uống, epoprostenol tĩnh mạch: không lợi ích"
+     ],
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo nhóm một, mức C-LD: ở sốc tim do thuyên tắc phổi, nhóm D2 đến E2, dùng vận mạch và hoặc thuốc tăng co bóp để cải thiện cung lượng tim và tưới máu.",
+    "Norepinephrine được xem là lựa chọn hàng đầu: tăng sức cản mạch hệ thống, có tác dụng tăng co bóp vừa phải, và ở liều đến 15 micrôgam mỗi phút gần như không ảnh hưởng sức cản mạch phổi, nên cải thiện tỷ lệ giữa sức cản hệ thống và sức cản phổi.",
+    "Trên 15 micrôgam mỗi phút, norepinephrine có thể làm tăng sức cản mạch phổi, vì vậy hướng dẫn khuyên thêm thuốc vận mạch thứ hai như vasopressin hoặc phenylephrine thay vì tăng tiếp liều. Khi cung lượng tim vẫn thấp, thêm dobutamine truyền đến 10 micrôgam mỗi kilôgam mỗi phút; dobutamine có thể là thuốc đầu tay ở sốc tim huyết áp bình thường, nhóm D2.",
+    "Nhóm hai b: thất phải suy phụ thuộc tiền gánh, nên ở bệnh nhân huyết áp còn bình thường có dấu hiệu cung lượng thấp, có thể truyền bolus nhỏ, từ 500 mililít trở xuống. Tránh truyền lượng lớn hoặc truyền tràn lan, vì quá tải thể tích làm thất phải xấu thêm.",
+    "Nhóm hai b, mức B-R: ở nhóm C2 đến E, có thể cân nhắc thuốc giãn mạch phổi dạng hít để giảm hậu gánh thất phải. Thử nghiệm nitric oxide hít không đạt tiêu chí chính, nhưng phân tích hậu kiểm cho thấy cải thiện kích thước và chức năng thất phải sau 24 giờ. Thuốc không chọn lọc như sildenafil uống hay epoprostenol tĩnh mạch không có lợi."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "Oxy · an thần · Mục 4.2.3",
+   "title": "Oxy, an thần và đặt nội khí quản",
+   "ref": "Mục 4.2.3 · Khuyến cáo 1–3",
+   "head": [
+    "Khuyến cáo",
+    "Nội dung",
+    "Cơ sở"
+   ],
+   "widths": "0.8fr 1.7fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>2a · C-LD</b>",
+      "Thiếu oxy vừa – nặng: <b>oxy dòng cao làm ấm qua mũi</b> hơn gọng mũi thường",
+      "Cải thiện oxy hoá, công thở; có thể giảm đặt nội khí quản"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>3 · CÓ HẠI</b> · C-LD",
+      "Nhóm C–E: <b>không an thần sâu và thở máy</b> trừ khi có chỉ định rõ",
+      "Khởi mê và thở máy: mất trương lực giao cảm, giảm tiền gánh, tăng hậu gánh thất phải → ngừng tim"
+     ],
+     "at": 1,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Số liệu</b>",
+      "Cần ép tim sau khởi mê ở bệnh nhân <b>ổn định</b> trước mổ lấy huyết khối",
+      "19% trong một loạt ca · 28% (9/32) trong loạt khác"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>1 · C-LD</b>",
+      "Khi buộc phải an thần đặt nội khí quản: <b>sẵn sàng</b> vận mạch, tăng co bóp và hoặc ECMO",
+      "Tuần hoàn ngoài cơ thể cấp cứu kịp thời: tử vong tương đương nhóm không ngừng tim"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Suy hô hấp giảm oxy máu rất thường gặp. Nhóm hai a: khi thiếu oxy vừa đến nặng, oxy dòng cao làm ấm qua mũi có lợi hơn gọng mũi thông thường để cải thiện oxy hoá.",
+    "Và đây là khuyến cáo nhóm ba, có hại, mà mọi bác sĩ hồi sức cần thuộc: ở nhóm C đến E, không an thần sâu và thở máy trừ khi có chỉ định lâm sàng rõ ràng. Ở thất phải đang bù trừ, nhịp tim và sức cản mạch hệ thống tăng nhờ giao cảm. Khởi mê và thông khí áp lực dương làm mất trương lực giao cảm, giảm tiền gánh và tăng hậu gánh thất phải, đủ để gây ngừng tim.",
+    "Số liệu rất thuyết phục: trong một loạt ca phẫu thuật lấy huyết khối, 19% bệnh nhân cần ép tim ngay sau khởi mê, dù tất cả đều ổn định huyết động trước đó; một loạt khác ghi nhận 28%, tức 9 trên 32 ca.",
+    "Nhóm một, mức C-LD: khi buộc phải an thần để đặt nội khí quản, chẳng hạn thiếu oxy kháng trị với các biện pháp không xâm lấn hay cần bảo vệ đường thở, đội điều trị phải sẵn sàng vận mạch, tăng co bóp và hoặc ECMO tĩnh mạch động mạch. Khi tuần hoàn ngoài cơ thể được triển khai kịp thời sau ngừng tim do khởi mê, tử vong nội viện tương đương với nhóm không cần hồi sinh."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "ECMO · Mục 4.2.4",
+   "title": "ECMO tĩnh mạch – động mạch",
+   "ref": "Mục 4.2.4 · Khuyến cáo 1–3",
+   "cards": [
+    {
+     "tag": "2a · B-NR · E2",
+     "t": "Sốc tim kháng trị",
+     "items": [
+      "Hợp lý triển khai VA-ECMO nếu đủ nguồn lực",
+      "Giảm tiền gánh thất phải, tưới máu cơ quan",
+      "Cầu nối đến hồi phục hoặc can thiệp"
+     ],
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "tag": "1 · B-NR",
+     "t": "Tiếp tục kháng đông tiêm",
+     "items": [
+      "Khi không chảy máu",
+      "Chảy máu gặp nhiều hơn huyết khối khi chạy ECMO: đánh giá lại liên tục"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "2b · C-LD",
+     "t": "Điều trị nâng cao thêm?",
+     "items": [
+      "Lợi ích của lấy huyết khối, tiêu sợi huyết qua ống thông khi đã có ECMO chưa xác lập",
+      "Quyết định theo từng bệnh nhân"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Nhóm hai a, mức B-NR: ở sốc tim kháng trị do thuyên tắc phổi, tức nhóm E2, hợp lý triển khai ECMO tĩnh mạch động mạch nếu có đủ nguồn lực, để ổn định huyết động và cải thiện oxy hoá.",
+    "ECMO nhanh chóng giảm tiền gánh thất phải, đồng thời đưa máu đã trao đổi oxy đến cơ quan, làm cầu nối cho thất phải hồi phục hoặc cho can thiệp lấy huyết khối.",
+    "Nhóm một, mức B-NR: khi đang chạy ECMO, tiếp tục kháng đông đường tiêm nếu không có chảy máu. Lưu ý chảy máu gặp nhiều hơn huyết khối ở bệnh nhân ECMO, nhất là khi đã dùng tiêu sợi huyết trước đó, nên cần đánh giá lại lợi hại liên tục.",
+    "Nhóm hai b: lợi ích của việc thêm điều trị nâng cao, như lấy huyết khối hay tiêu sợi huyết qua ống thông, khi bệnh nhân đã có ECMO vẫn chưa được xác lập; nhiều ca huyết khối tự tan khi được hỗ trợ ECMO."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "Bảng 7 · điều trị nâng cao",
+   "title": "Điều trị nâng cao theo nhóm",
+   "ref": "Mục 4.4 · Bảng 7",
+   "head": [
+    "Nhóm",
+    "Tiêu sợi huyết toàn thân",
+    "Qua ống thông",
+    "Lấy huyết khối",
+    "Phẫu thuật"
+   ],
+   "widths": "0.6fr 1fr 1fr 1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>A–C1</b>",
+      "3 · Có hại · A",
+      "3 · Không lợi ích",
+      "3 · Không lợi ích",
+      "3 · Không lợi ích"
+     ],
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>C2</b>",
+      "3 · Có hại · B-R",
+      "2b · chưa rõ",
+      "2b · chưa rõ",
+      "3 · Không lợi ích"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>C3</b>",
+      "2b · chưa rõ",
+      "2b · chưa rõ",
+      "2b · chưa rõ",
+      "3 · Không lợi ích"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>D1–2</b>",
+      "2b · có thể cân nhắc",
+      "2b · có thể cân nhắc",
+      "2b · có thể cân nhắc",
+      "2b · chưa rõ"
+     ],
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>E1</b>",
+      "<b>2a</b>",
+      "<b>2a</b>",
+      "<b>2a · B-NR</b>",
+      "<b>2a · B-NR</b>"
+     ],
+     "at": 4,
+     "c": "violet",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>E2</b>",
+      "<b>2a</b>",
+      "—",
+      "—",
+      "3 · Không lợi ích (không có hỗ trợ tuần hoàn)"
+     ],
+     "at": 5,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bảng 7 là bản đồ điều trị nâng cao, và nên được ghi nhớ như một ma trận. Ở nhóm A đến C1, mọi điều trị nâng cao đều không được khuyến cáo; riêng tiêu sợi huyết toàn thân là nhóm ba, có hại, mức A.",
+    "Ở nhóm C2, tiêu sợi huyết toàn thân vẫn là có hại; tiêu sợi huyết qua ống thông và lấy huyết khối là nhóm hai b, lợi ích chưa rõ; phẫu thuật không lợi ích.",
+    "Ở nhóm C3, ba biện pháp qua đường tĩnh mạch đều là nhóm hai b, chưa rõ lợi ích; phẫu thuật vẫn không lợi ích.",
+    "Ở nhóm D1 đến D2, cả bốn biện pháp đều là nhóm hai b, có thể cân nhắc, trừ phẫu thuật là chưa rõ.",
+    "Ở nhóm E1, cả bốn biện pháp đều là nhóm hai a: tiêu sợi huyết toàn thân, qua ống thông, lấy huyết khối cơ học và phẫu thuật lấy huyết khối.",
+    "Ở nhóm E2, tiêu sợi huyết toàn thân là hai a, còn phẫu thuật khi chưa có hỗ trợ tuần hoàn cơ học là không lợi ích so với các điều trị nâng cao khác, vì tiên lượng rất xấu, chủ yếu do tổn thương não thiếu oxy sau ngừng tim."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "Tiêu sợi huyết · Mục 4.4.1",
+   "title": "Tiêu sợi huyết toàn thân: ai được lợi",
+   "ref": "Mục 4.4.1 · Khuyến cáo 1–5",
+   "head": [
+    "Nhóm",
+    "Khuyến cáo",
+    "Bằng chứng"
+   ],
+   "widths": "0.7fr 1.5fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>E1–2</b>",
+      "<b>2a · C-LD</b>: tiêu sợi huyết + kháng đông hơn kháng đông đơn thuần, khi nguy cơ chảy máu chấp nhận được",
+      "4 RCT nhỏ, 224 bệnh nhân: giảm tắc nghẽn và giãn thất phải nhanh · chảy máu nặng 9,9%, nội sọ 1,7%"
+     ],
+     "at": 0,
+     "c": "violet",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>D1–2</b>",
+      "<b>2b · C-LD</b>: có thể cân nhắc để ngăn suy sụp",
+      "PEITHO 1006 bệnh nhân: tenecteplase ngăn suy sụp tuần hoàn nhưng tăng chảy máu · tiêu sợi huyết cứu vãn có lợi"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>C3</b>",
+      "<b>2b · C-LD</b>: không chắc chắn",
+      "Phân tích gộp: tử vong OR 0,53 (NNT 59) · xuất huyết nội sọ OR 4,6 (NNH 78)"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Mọi nhóm</b>",
+      "<b>2b · C-LD</b>: có thể dùng <b>liều thấp</b> để giảm chảy máu",
+      "25–50 mg rt-PA có thể hiệu quả tương đương 100 mg · đang chờ PEITHO-3"
+     ],
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>A1–C2</b>",
+      "<b>3 · CÓ HẠI · B-R</b>",
+      "PEITHO: chảy máu ngoài sọ 6,3% so với 1,2% · đột quỵ 2,4% (10 ca xuất huyết) so với 0,2%"
+     ],
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tiêu sợi huyết toàn thân. Nhóm hai a, mức C-LD: ở nhóm E1 đến E2 có nguy cơ chảy máu chấp nhận được, tiêu sợi huyết kèm kháng đông hợp lý hơn kháng đông đơn thuần để giảm tử vong và tái phát. Bằng chứng từ bốn thử nghiệm nhỏ với 224 bệnh nhân cho thấy giảm tắc nghẽn mạch phổi và giãn thất phải nhanh. Phân tích gộp 15 thử nghiệm ghi nhận chảy máu nặng 9,9% và xuất huyết nội sọ 1,7%.",
+    "Nhóm hai b: ở nhóm D1 đến D2, có thể cân nhắc tiêu sợi huyết để ngăn suy sụp. Thử nghiệm PEITHO trên 1006 bệnh nhân huyết áp bình thường có rối loạn thất phải cho thấy tenecteplase ngăn suy sụp tuần hoàn nhưng tăng chảy máu nặng, lợi và hại gần cân bằng.",
+    "Một phát hiện quan trọng: tiêu sợi huyết cứu vãn có lợi ở những người suy sụp sau khi chỉ dùng kháng đông. Nghĩa là chiến lược chỉ tiêu sợi huyết cho người mất bù có thể giữ được lợi ích mà tránh được rủi ro cho số đông.",
+    "Ở nhóm C3, nhóm hai b, lợi ích không chắc chắn. Một phân tích gộp cho thấy giảm tử vong với tỷ số chênh 0,53, số cần điều trị là 59, nhưng tăng xuất huyết nội sọ với tỷ số chênh 4,6, số cần để gây hại là 78.",
+    "Nhóm hai b: có thể dùng liều thấp để giảm chảy máu. Dữ liệu ban đầu cho thấy 25 đến 50 miligam alteplase có thể hiệu quả tương đương liều chuẩn 100 miligam, và thử nghiệm PEITHO-3 đang được tiến hành.",
+    "Và nhóm ba, có hại, mức B-R: không tiêu sợi huyết toàn thân ở nhóm A1 đến C2. Trong PEITHO, chảy máu ngoài sọ là 6,3% so với 1,2%, và đột quỵ 2,4%, trong đó 10 ca là xuất huyết, so với 0,2% ở nhóm giả dược."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "compare",
+   "chapter": "Liều tiêu sợi huyết",
+   "title": "Liều thuốc tiêu sợi huyết",
+   "ref": "Mục 4.4.1–4.4.2 · bổ sung: ESC 2019, thử nghiệm PEITHO",
+   "head": [
+    "Phác đồ",
+    "Liều",
+    "Nguồn · ghi chú"
+   ],
+   "widths": "1fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Alteplase liều chuẩn</b>",
+      "<b>100 mg truyền trong 2 giờ</b>",
+      "Hướng dẫn 2026: phác đồ dùng nhiều nhất · thường bolus 10 mg rồi 90 mg"
+     ],
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Alteplase liều thấp</b> (2b)",
+      "<b>50 mg</b> · hoặc <b>25 mg truyền trong 6 giờ</b>",
+      "Hướng dẫn 2026: RCT 118 bệnh nhân 50 so với 100 mg: hiệu quả tương đương, an toàn hơn"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Alteplase nhanh</b>",
+      "<b>0,6 mg/kg trong 15 phút</b> (tối đa 50 mg)",
+      "ESC 2019 · ngừng tim, suy sụp tối cấp"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Tenecteplase</b>",
+      "Bolus theo cân nặng: < 60 kg 30 mg · 60–69 kg 35 · 70–79 kg 40 · 80–89 kg 45 · ≥ 90 kg 50 mg",
+      "Phác đồ thử nghiệm PEITHO · chưa được FDA chấp thuận cho thuyên tắc phổi"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Qua ống thông</b>",
+      "<b>5–10 mg alteplase mỗi động mạch phổi</b> · tổng 4–24 mg trong 2–24 giờ",
+      "Hướng dẫn 2026: < 5 mg mỗi động mạch là <b>không lợi ích</b> (3) · tổng ≤ 20 mg không tăng chảy máu"
+     ],
+     "at": 4,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Heparin kèm theo</b>",
+      "Ngừng truyền heparin không phân đoạn khi truyền alteplase · dùng lại khi aPTT < 2 lần chứng",
+      "ESC 2019 · ưu tiên heparin không phân đoạn khi có thể tiêu sợi huyết"
+     ],
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Bây giờ là liều cụ thể. Theo hướng dẫn, alteplase liều chuẩn 100 miligam truyền trong 2 giờ là phác đồ được dùng nhiều nhất, thường gồm tiêm 10 miligam rồi truyền 90 miligam còn lại. Chưa có thử nghiệm đối đầu nào cho thấy thuốc nào vượt trội.",
+    "Liều thấp, khuyến cáo nhóm hai b: 50 miligam, hoặc 25 miligam truyền kéo dài trong 6 giờ. Thử nghiệm ngẫu nhiên 118 bệnh nhân cho thấy 50 miligam có hiệu quả tương đương và an toàn hơn 100 miligam.",
+    "Phác đồ nhanh 0,6 miligam mỗi kilôgam trong 15 phút, tối đa 50 miligam, theo hướng dẫn châu Âu 2019, dùng khi ngừng tim hoặc suy sụp tối cấp.",
+    "Tenecteplase, chưa được Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ chấp thuận cho thuyên tắc phổi, được dùng trong thử nghiệm PEITHO với một liều bolus theo cân nặng: dưới 60 kilôgam 30 miligam, 60 đến 69 kilôgam 35 miligam, 70 đến 79 kilôgam 40 miligam, 80 đến 89 kilôgam 45 miligam, từ 90 kilôgam trở lên 50 miligam.",
+    "Tiêu sợi huyết qua ống thông: liều chuẩn 5 đến 10 miligam alteplase mỗi động mạch phổi; các nghiên cứu dùng tổng 4 đến 24 miligam trong 2 đến 24 giờ. Hướng dẫn xếp nhóm ba, không lợi ích, cho liều dưới 5 miligam mỗi động mạch, vì liều chuẩn lấy được nhiều huyết khối hơn; tổng liều đến 20 miligam không tăng chảy máu.",
+    "Về heparin kèm theo, theo thực hành của hướng dẫn châu Âu: ưu tiên heparin không phân đoạn khi có khả năng tiêu sợi huyết, ngừng truyền trong lúc truyền alteplase, và dùng lại khi aPTT dưới 2 lần chứng."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "Chống chỉ định",
+   "title": "Chống chỉ định tiêu sợi huyết",
+   "ref": "Theo ESC 2019 (hướng dẫn 2026 không liệt kê)",
+   "cards": [
+    {
+     "tag": "TUYỆT ĐỐI",
+     "t": "Không dùng",
+     "items": [
+      "Tiền sử đột quỵ xuất huyết hoặc không rõ nguyên nhân",
+      "Nhồi máu não trong 6 tháng",
+      "U hệ thần kinh trung ương",
+      "Chấn thương nặng, phẫu thuật lớn, chấn thương đầu trong 3 tuần",
+      "Rối loạn đông máu · đang chảy máu"
+     ],
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "tag": "TƯƠNG ĐỐI",
+     "t": "Cân nhắc lợi hại",
+     "items": [
+      "Cơn thiếu máu não thoáng qua trong 6 tháng · đang dùng kháng đông uống",
+      "Thai kỳ hoặc tuần đầu sau sinh",
+      "Vị trí chọc không ép được · hồi sinh có chấn thương",
+      "HA tâm thu > 180 kháng trị",
+      "Bệnh gan tiến triển · viêm nội tâm mạc · loét dạ dày tiến triển"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Khi có chống chỉ định",
+     "items": [
+      "Lấy huyết khối cơ học (2b: ít chảy máu hơn)",
+      "Phẫu thuật (2b: tránh xuất huyết nội sọ)",
+      "ECMO ở nhóm E2",
+      "Hội chẩn PERT"
+     ],
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn 2026 không liệt kê chống chỉ định tiêu sợi huyết, vì vậy chúng tôi trình bày theo hướng dẫn châu Âu 2019.",
+    "Chống chỉ định tuyệt đối gồm: tiền sử đột quỵ xuất huyết hoặc đột quỵ không rõ nguyên nhân, nhồi máu não trong 6 tháng, u hệ thần kinh trung ương, chấn thương nặng, phẫu thuật lớn hoặc chấn thương đầu trong 3 tuần, rối loạn đông máu, và đang chảy máu.",
+    "Chống chỉ định tương đối gồm: cơn thiếu máu não thoáng qua trong 6 tháng, đang dùng kháng đông uống, thai kỳ hoặc tuần đầu sau sinh, vị trí chọc mạch không ép được, hồi sinh tim phổi có chấn thương, huyết áp tâm thu trên 180 kháng trị, bệnh gan tiến triển, viêm nội tâm mạc nhiễm khuẩn và loét dạ dày tiến triển.",
+    "Lưu ý, ở bệnh nhân nhóm E đang nguy kịch, ranh giới chống chỉ định tương đối cần được cân nhắc cùng nguy cơ tử vong rất cao.",
+    "Khi có chống chỉ định, hướng dẫn 2026 xếp nhóm hai b việc chọn lấy huyết khối cơ học hoặc phẫu thuật thay cho tiêu sợi huyết toàn thân để giảm chảy máu, và ECMO cho nhóm E2. Đây chính là lúc đội phản ứng nhanh phát huy vai trò."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "compare",
+   "chapter": "Qua ống thông · Mục 4.4.2–4.4.3",
+   "title": "Tiêu sợi huyết qua ống thông và lấy huyết khối cơ học",
+   "ref": "Mục 4.4 · 4.4.2 · 4.4.3",
+   "head": [
+    "Nhóm",
+    "Tiêu sợi huyết qua ống thông",
+    "Lấy huyết khối cơ học"
+   ],
+   "widths": "0.7fr 1.7fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>E1</b>",
+      "<b>2a · C-LD</b>: hợp lý · phân tích gộp 594 bệnh nhân: cải thiện sống còn",
+      "<b>2a · B-NR</b>: hợp lý · FLAME: biến cố gộp 17% so với 63,9%, tử vong 1,9% so với 29,5%"
+     ],
+     "at": 0,
+     "c": "violet",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>D1–2</b>",
+      "<b>2b · B-NR</b>: có thể cân nhắc · giảm RV/LV nhanh hơn kháng đông",
+      "<b>2b · B-NR</b>: có thể cân nhắc · FLARE, EXTRACT-PE: giảm RV/LV, chảy máu nặng 1–1,7%"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>D1–E1</b> so với toàn thân",
+      "<b>2b</b>: có thể chọn để <b>giảm chảy máu nặng</b>",
+      "<b>2b</b>: có thể chọn để giảm chảy máu · FLAME: chảy máu nặng 11,3% so với 24,6%"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>C2–D2</b>",
+      "<b>2b · B-R</b>: chưa rõ phương pháp nào hơn",
+      "PEERLESS 550 bệnh nhân: không khác tử vong 30 ngày và chảy máu nặng"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>A–C1</b>",
+      "<b>3 · Không lợi ích</b>",
+      "<b>3 · Không lợi ích</b>"
+     ],
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tiêu sợi huyết qua ống thông và lấy huyết khối cơ học. Ở nhóm E1, cả hai đều nhóm hai a. Với tiêu sợi huyết qua ống thông, phân tích gộp 594 bệnh nhân gợi ý cải thiện sống còn đến ra viện. Với lấy huyết khối cơ học, nghiên cứu FLAME trên 115 bệnh nhân nguy cơ cao cho biến cố gộp 17% so với 63,9% ở nhóm điều trị khác, và tử vong nội viện 1,9% so với 29,5%.",
+    "Ở nhóm D1 đến D2, cả hai là nhóm hai b, có thể cân nhắc. Tiêu sợi huyết qua ống thông làm giảm tỷ số thất phải trên thất trái nhanh hơn kháng đông đơn thuần; lấy huyết khối cơ học trong FLARE và EXTRACT-PE cũng giảm tỷ số này sau 48 giờ, với chảy máu nặng chỉ 1 đến 1,7%.",
+    "So với tiêu sợi huyết toàn thân ở nhóm D1 đến E1, hiệu quả của hai phương pháp qua ống thông chưa rõ, nhưng có thể chọn chúng để giảm nguy cơ chảy máu nặng, nhóm hai b. Trong FLAME, chảy máu nặng là 11,3% ở nhóm lấy huyết khối so với 24,6% ở nhóm còn lại, phần lớn được tiêu sợi huyết toàn thân.",
+    "Giữa hai phương pháp, ở nhóm C2 đến D2, nhóm hai b, mức B-R: chưa rõ phương pháp nào tốt hơn. Thử nghiệm PEERLESS trên 550 bệnh nhân không thấy khác biệt về tử vong 30 ngày hay chảy máu nặng. Lựa chọn tuỳ kinh nghiệm thủ thuật viên, vị trí huyết khối, mức độ khẩn cấp và bệnh đồng mắc.",
+    "Và ở nhóm A đến C1, cả hai đều không lợi ích so với kháng đông đơn thuần."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "cards",
+   "chapter": "Phẫu thuật · huyết khối di động",
+   "title": "Phẫu thuật lấy huyết khối và huyết khối di động trong tim",
+   "ref": "Mục 4.4 · Khuyến cáo 1 · Mục 4.4.4",
+   "cards": [
+    {
+     "tag": "2a · B-NR · E1",
+     "t": "Phẫu thuật lấy huyết khối",
+     "items": [
+      "Dưới tuần hoàn ngoài cơ thể, mở xương ức",
+      "Tử vong 1–15% · sống còn > 97% nếu không phải ép tim trước mổ",
+      "D1–2: 2b · hơn tiêu sợi huyết để tránh xuất huyết nội sọ: 2b"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "3 · KHÔNG LỢI ÍCH",
+     "t": "Không phẫu thuật",
+     "items": [
+      "Nhóm A–C3",
+      "E2 chưa có hỗ trợ tuần hoàn cơ học: tử vong chủ yếu do tổn thương não thiếu oxy"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "2a · C-LD · C3–E2",
+     "t": "Huyết khối di động nhĩ phải, thất phải",
+     "items": [
+      "Gặp ở 2–4% bệnh nhân",
+      "Nhóm E: OR tử vong 2,26",
+      "Điều trị nâng cao hơn kháng đông đơn thuần"
+     ],
+     "at": 3,
+     "c": "violet",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Phẫu thuật lấy huyết khối hiện đại được thực hiện dưới tuần hoàn ngoài cơ thể, thường qua mở xương ức, giúp giảm tải ngay lập tức cho thất phải đang suy. Nhóm hai a, mức B-NR: hợp lý ở nhóm E1. Các loạt ca cho tử vong 1 đến 15%, và sống còn trên 97% ở bệnh nhân không phải ép tim trước mổ.",
+    "Ở nhóm D1 đến D2, phẫu thuật là nhóm hai b, và có thể chọn phẫu thuật thay tiêu sợi huyết toàn thân ở người đủ điều kiện mổ để tránh xuất huyết nội sọ.",
+    "Nhóm ba, không lợi ích: không phẫu thuật ở nhóm A đến C3, và ở nhóm E2 chưa có hỗ trợ tuần hoàn cơ học, vì các ca tử vong sau mổ chủ yếu do tổn thương não thiếu oxy sau ngừng tim. Ở nhóm này, ECMO là lựa chọn phù hợp hơn.",
+    "Cuối cùng, huyết khối di động trong nhĩ phải hoặc thất phải, gặp ở 2 đến 4% bệnh nhân. Ở nhóm E, huyết khối di động liên quan độc lập với tử vong, tỷ số chênh 2,26. Nhóm hai a: ở nhóm C3 đến E2 có huyết khối di động, hợp lý chọn điều trị nâng cao thay vì kháng đông đơn thuần."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: D2R, mới mổ cột sống",
+   "ref": "Mục 4.4 · Bảng 7 · Mục 4.2.3",
+   "case": "Tiếp ca D2R ở Phần 2: ngày 3 sau mổ cột sống, HA 108/62, lactate 3,1, creatinine tăng, mặt nạ không thở lại. Đang truyền heparin không phân đoạn. Bệnh viện có can thiệp mạch và PERT.",
+   "case_at": 0,
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Alteplase 100 mg trong 2 giờ",
+    "Hội chẩn PERT, lấy huyết khối cơ học qua ống thông, tiếp tục kháng đông",
+    "Đặt nội khí quản ngay, an thần sâu để giảm công thở",
+    "Đặt lọc tĩnh mạch chủ dưới, chờ đáp ứng"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Mổ lớn trong 3 tuần → chống chỉ định tuyệt đối tiêu sợi huyết (ESC 2019). D1–2: lấy huyết khối có thể cân nhắc (2b), chọn hơn tiêu sợi huyết để giảm chảy máu (2b). An thần sâu, thở máy ở C–E: có hại (3). Lọc không thường quy (3).",
+   "lines": [
+    "Mời quý vị trở lại với bệnh nhân D2R ở phần hai: ngày thứ ba sau mổ cột sống, huyết áp 108 trên 62, lactate 3,1, creatinine tăng, thở mặt nạ không thở lại, đang truyền heparin không phân đoạn. Bệnh viện có can thiệp mạch và đội phản ứng nhanh.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là hội chẩn đội phản ứng nhanh và lấy huyết khối cơ học qua ống thông, tiếp tục kháng đông. Bệnh nhân vừa mổ lớn trong 3 tuần, là chống chỉ định tuyệt đối của tiêu sợi huyết toàn thân. Ở nhóm D, lấy huyết khối có thể cân nhắc, và có thể chọn thay tiêu sợi huyết để giảm chảy máu.",
+    "Đặt nội khí quản và an thần sâu ở bệnh nhân này là nhóm ba, có hại, vì có thể gây suy sụp huyết động; nếu thiếu oxy nặng hơn, oxy dòng cao qua mũi là bước hợp lý. Lọc tĩnh mạch chủ dưới không có chỉ định thường quy."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: E1 tại bệnh viện tuyến tỉnh",
+   "ref": "Mục 4.4.1 · Mục 4.1.3 · Mục 4.2.2",
+   "case": "Nữ 52 tuổi, 64 kg, khó thở đột ngột. HA <b>76/48</b> dù norepinephrine 12 µg/phút, lactate 4,8. Siêu âm tại giường: thất phải giãn, McConnell. Không phẫu thuật, không chảy máu, không đột quỵ. Bệnh viện <b>không có can thiệp mạch, không ECMO</b>.",
+   "case_at": 0,
+   "q": "Xử trí phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Chuyển ngay lên tuyến trên để lấy huyết khối",
+    "Alteplase 100 mg trong 2 giờ, ngừng heparin khi truyền, duy trì norepinephrine",
+    "Truyền nhanh 2 lít dịch rồi đánh giá lại",
+    "Tăng norepinephrine lên 40 µg/phút, chờ chụp CT"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Nhóm <b>E1</b>, không chống chỉ định: tiêu sợi huyết toàn thân (2a). Không chuyển viện khi chưa ổn định (3: Có hại). Dịch ≤ 500 mL (2b). Norepinephrine > 15 µg/phút: thêm vasopressin thay vì tăng tiếp.",
+   "lines": [
+    "Tình huống thứ hai. Phụ nữ 52 tuổi, 64 kilôgam, khó thở đột ngột, huyết áp 76 trên 48 dù đang truyền norepinephrine 12 micrôgam mỗi phút, lactate 4,8. Siêu âm tại giường thấy thất phải giãn và dấu McConnell. Không phẫu thuật gần đây, không chảy máu, không tiền sử đột quỵ. Bệnh viện không có can thiệp mạch và không có ECMO.",
+    "Xử trí phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là alteplase 100 miligam truyền trong 2 giờ, ngừng heparin trong lúc truyền, và duy trì norepinephrine. Đây là nhóm E1 không có chống chỉ định, tiêu sợi huyết toàn thân là khuyến cáo nhóm hai a. Chuyển viện khi chưa ổn định là nhóm ba, có hại, và không được trì hoãn tiêu sợi huyết sẵn có tại chỗ.",
+    "Truyền nhanh 2 lít dịch có thể làm thất phải suy nặng thêm; nếu cần, chỉ bolus từ 500 mililít trở xuống. Và khi norepinephrine vượt 15 micrôgam mỗi phút, nên thêm vasopressin thay vì tăng tiếp liều."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 4",
+   "title": "Sáu thông điệp của Phần 4",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Norepinephrine đầu tay",
+     "d": "> 15 µg/phút: thêm vasopressin · dobutamine ≤ 10 µg/kg/phút · dịch ≤ 500 mL",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Tránh an thần sâu, thở máy ở C–E",
+     "d": "3: Có hại · nếu buộc phải: sẵn sàng vận mạch, ECMO · oxy dòng cao (2a)",
+     "at": 0,
+     "c": "violet"
+    },
+    {
+     "t": "Bảng 7: E1 = 2a cho cả bốn biện pháp",
+     "d": "A–C1 không điều trị nâng cao · tiêu sợi huyết toàn thân A1–C2 có hại",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Alteplase 100 mg / 2 giờ",
+     "d": "Liều thấp 25–50 mg (2b) · qua ống thông 5–10 mg mỗi động mạch phổi",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Chống chỉ định → lấy huyết khối hoặc phẫu thuật",
+     "d": "Giảm chảy máu (2b) · ECMO cho E2 (2a)",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Huyết khối di động C3–E2",
+     "d": "Điều trị nâng cao hơn kháng đông đơn thuần (2a)",
+     "at": 2,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần bốn. Norepinephrine là vận mạch đầu tay; trên 15 micrôgam mỗi phút thì thêm thuốc thứ hai, dobutamine khi cung lượng thấp, và dịch chỉ bolus nhỏ. Tránh an thần sâu và thở máy ở nhóm C đến E; nếu buộc phải làm, hãy sẵn sàng vận mạch và ECMO.",
+    "Bảng 7 cho thấy nhóm E1 là nhóm hai a cho cả bốn biện pháp nâng cao, còn nhóm A đến C1 chỉ cần kháng đông. Liều alteplase chuẩn là 100 miligam trong 2 giờ, có thể cân nhắc liều thấp, và qua ống thông là 5 đến 10 miligam mỗi động mạch phổi.",
+    "Khi có chống chỉ định tiêu sợi huyết, lấy huyết khối cơ học hoặc phẫu thuật là lựa chọn, và ECMO dành cho nhóm E2.",
+    "Phần năm, phần cuối, sẽ bàn về giai đoạn sau cấp: thời gian kháng đông, liều kéo dài, tái phát, tầm soát bệnh huyết khối tắc mạch phổi mạn và ôn tập toàn loạt. Cảm ơn quý đồng nghiệp, hẹn gặp lại ở phần năm của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
