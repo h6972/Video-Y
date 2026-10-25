@@ -1,0 +1,697 @@
+{
+ "title": "AHA/ACC 2026 Thuyên tắc phổi – Phần 3: Kháng đông và lọc tĩnh mạch chủ dưới",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "AHA/ACC 2026 Thuyên tắc phổi · Phần 3/5",
+ "source_short": "Nguồn: 2026 AHA/ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "PRESERVE": "pri dớt",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "PREPIC2": "prê pích hai",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "PREPIC": "prê pích",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "aPTT": "a pê tê tê",
+  "ClCr": "độ thanh thải creatinine",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê",
+  "INR": "i en a"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 3/5",
+   "title": "Kháng đông<br>và lọc tĩnh mạch chủ",
+   "subtitle": "Phần 3 · Lựa chọn và liều thuốc, đối tượng đặc biệt, kháng đông quanh thủ thuật, theo dõi anti-Xa, lọc tĩnh mạch chủ dưới",
+   "badges": [
+    {
+     "t": "Heparin TLPT thấp > không phân đoạn",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "DOAC > kháng vitamin K",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Liều chi tiết",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": "Mục 4.2.1 · 4.3 · Mục 5.2 (giai đoạn khởi đầu)",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba của loạt bài về Hướng dẫn thuyên tắc phổi cấp năm 2026 trên Thư Viện Y Khoa Online.",
+    "Kháng đông là nền tảng của điều trị thuyên tắc phổi. Phần này đi qua các khuyến cáo lựa chọn thuốc, và liều cụ thể của từng thuốc tiêm và thuốc uống.",
+    "Một lưu ý về nguồn: hướng dẫn ghi rõ phác đồ khởi đầu của thuốc kháng đông uống. Các liều duy trì và liều thuốc tiêm khác được trình bày theo tờ hướng dẫn sử dụng thuốc, và được đánh dấu riêng trên slide. Quý vị luôn đối chiếu với tờ hướng dẫn và chống chỉ định trước khi kê đơn.",
+    "Sau đó là các đối tượng đặc biệt: béo phì, hội chứng kháng phospholipid, u não, bệnh thận, bệnh gan, thai kỳ và cho con bú; kháng đông quanh thủ thuật, theo dõi anti Xa, và vai trò của lọc tĩnh mạch chủ dưới."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "list",
+   "chapter": "Nguyên tắc · Mục 4.2.1",
+   "title": "Bốn khuyến cáo nền tảng",
+   "ref": "Mục 4.2.1 · Khuyến cáo 1–4",
+   "items": [
+    {
+     "n": "1",
+     "t": "Kháng đông cho mọi bệnh nhân không có chống chỉ định tuyệt đối",
+     "d": "1 · B-R · giảm tái phát và tử vong · thử nghiệm năm 1960: 5 tử vong không kháng đông, 0 khi kháng đông",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "n": "2",
+     "t": "Heparin trọng lượng phân tử thấp hơn heparin không phân đoạn",
+     "d": "1 · B-R · nhóm C1–E1 cần thuốc tiêm · ít tái phát, ít chảy máu nặng, ít giảm tiểu cầu do heparin",
+     "at": 1,
+     "c": "blue",
+     "hl": true
+    },
+    {
+     "n": "3",
+     "t": "Kháng đông uống trực tiếp hơn kháng vitamin K",
+     "d": "1 · B-R · hiệu quả tương đương, ít chảy máu nặng, đặc biệt xuất huyết nội sọ · ít tương tác",
+     "at": 2,
+     "c": "amber",
+     "hl": true
+    },
+    {
+     "n": "4",
+     "t": "Kháng đông khi chờ hình ảnh",
+     "d": "2a · C-EO · nghi nhóm C2 trở lên, nguy cơ chảy máu thấp, hình ảnh bị trì hoãn",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo nhóm một, mức B-R: mọi bệnh nhân thuyên tắc phổi cấp không có chống chỉ định tuyệt đối cần được kháng đông để giảm tái phát và tử vong. Bằng chứng có từ năm 1960, khi 35 bệnh nhân được phân ngẫu nhiên: nhóm không kháng đông có 5 ca tử vong, nhóm kháng đông không có ca nào.",
+    "Nhóm một, mức B-R: ở nhóm C1 đến E1 cần kháng đông đường tiêm ban đầu, heparin trọng lượng phân tử thấp được khuyến cáo hơn heparin không phân đoạn, vì giảm tái phát mà không tăng chảy máu nặng, dược động học dễ dự đoán, không cần theo dõi thường quy, và ít gây giảm tiểu cầu do heparin. Phân tích gộp cho thấy heparin không phân đoạn bắc cầu sang warfarin có nguy cơ tái phát cao hơn, tỷ số nguy cơ 1,42.",
+    "Nhóm một, mức B-R: ở bệnh nhân dùng được thuốc uống, thuốc kháng đông uống trực tiếp được khuyến cáo hơn kháng vitamin K. Hiệu quả tương đương, nhưng ít chảy máu nặng, đặc biệt là xuất huyết nội sọ, ít chảy máu tử vong, liều cố định và ít tương tác thuốc, thức ăn.",
+    "Nhóm hai a, ý kiến chuyên gia: khi nghi ngờ thuyên tắc phổi nhóm C2 trở lên, nguy cơ chảy máu thấp, mà hình ảnh bị trì hoãn hoặc không thực hiện ngay được, có thể bắt đầu kháng đông liều điều trị trong khi chờ chẩn đoán xác định."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "Liều thuốc tiêm",
+   "title": "Liều kháng đông đường tiêm",
+   "ref": "Liều theo tờ hướng dẫn sử dụng · béo phì: Mục 4.2.1 KC 6",
+   "head": [
+    "Thuốc",
+    "Liều điều trị",
+    "Lưu ý"
+   ],
+   "widths": "1fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Enoxaparin</b>",
+      "<b>1 mg/kg × 2 lần/ngày</b> tiêm dưới da<br>hoặc 1,5 mg/kg × 1 lần/ngày",
+      "ClCr < 30: 1 mg/kg × 1 lần/ngày · BMI ≥ 40: nghiên cứu 0,8 so với 1,0 mg/kg × 2 (hướng dẫn, 2b)"
+     ],
+     "at": 1,
+     "c": "teal",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Dalteparin</b> · <b>tinzaparin</b>",
+      "Dalteparin 200 UI/kg × 1 lần/ngày<br>Tinzaparin 175 UI/kg × 1 lần/ngày",
+      "Ung thư (dalteparin): 200 UI/kg tháng đầu, sau đó 150 UI/kg"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Fondaparinux</b>",
+      "< 50 kg: 5 mg · 50–100 kg: 7,5 mg · > 100 kg: 10 mg × 1 lần/ngày",
+      "Tránh khi ClCr < 30"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Heparin không phân đoạn</b>",
+      "<b>Bolus 80 UI/kg → truyền 18 UI/kg/giờ</b>",
+      "Chỉnh theo aPTT 1,5–2,5 lần chứng hoặc anti-Xa · ưu tiên khi chuẩn bị tiêu sợi huyết, can thiệp, suy thận nặng"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bây giờ là liều cụ thể. Các liều trên slide này theo tờ hướng dẫn sử dụng thuốc, không nằm trong bảng khuyến cáo, trừ dữ liệu về béo phì.",
+    "Enoxaparin: 1 miligam mỗi kilôgam tiêm dưới da mỗi 12 giờ, hoặc 1,5 miligam mỗi kilôgam một lần mỗi ngày. Khi độ thanh thải creatinine dưới 30, giảm còn 1 miligam mỗi kilôgam một lần mỗi ngày. Ở người béo phì độ ba, chỉ số khối cơ thể từ 40 trở lên, hướng dẫn dẫn một thử nghiệm nhỏ so sánh 0,8 với 1,0 miligam mỗi kilôgam hai lần mỗi ngày theo cân nặng thực, và giảm liều được xếp nhóm hai b.",
+    "Dalteparin 200 đơn vị mỗi kilôgam một lần mỗi ngày, và ở bệnh nhân ung thư, 200 đơn vị mỗi kilôgam trong tháng đầu rồi 150 đơn vị mỗi kilôgam. Tinzaparin 175 đơn vị mỗi kilôgam một lần mỗi ngày.",
+    "Fondaparinux theo cân nặng: dưới 50 kilôgam 5 miligam, 50 đến 100 kilôgam 7,5 miligam, trên 100 kilôgam 10 miligam, một lần mỗi ngày, tránh dùng khi độ thanh thải creatinine dưới 30.",
+    "Heparin không phân đoạn: tiêm tĩnh mạch liều nạp 80 đơn vị mỗi kilôgam, sau đó truyền 18 đơn vị mỗi kilôgam mỗi giờ, chỉnh theo aPTT ở mức 1,5 đến 2,5 lần chứng hoặc theo anti Xa. Heparin không phân đoạn vẫn có chỗ đứng khi cần thời gian bán thải ngắn và đảo ngược nhanh, như khi đang truyền tiêu sợi huyết, hoặc suy thận nặng."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "compare",
+   "chapter": "Liều thuốc uống · Mục 5.2",
+   "title": "Phác đồ kháng đông uống",
+   "ref": "Khởi đầu: Mục 5.2 · Duy trì: tờ hướng dẫn sử dụng",
+   "head": [
+    "Thuốc",
+    "Khởi đầu (theo hướng dẫn)",
+    "Duy trì · chỉnh liều"
+   ],
+   "widths": "0.9fr 1.5fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Apixaban</b>",
+      "<b>10 mg × 2 lần/ngày × 7 ngày</b>",
+      "5 mg × 2 lần/ngày · giai đoạn kéo dài: <b>2,5 mg × 2</b> (1, A)"
+     ],
+     "at": 0,
+     "c": "teal",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Rivaroxaban</b>",
+      "<b>15 mg × 2 lần/ngày × 21 ngày</b>",
+      "20 mg × 1 lần/ngày · uống <b>cùng bữa ăn</b> (liều 15 và 20 mg) · kéo dài: <b>10 mg/ngày</b> (1, A)"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Edoxaban</b>",
+      "Thuốc tiêm <b>≥ 5 ngày</b> rồi mới chuyển",
+      "60 mg × 1 lần/ngày · <b>30 mg</b> nếu ClCr 15–50, cân nặng ≤ 60 kg hoặc dùng thuốc ức chế P-gp mạnh"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Dabigatran</b>",
+      "Thuốc tiêm <b>≥ 5 ngày</b> rồi mới chuyển",
+      "150 mg × 2 lần/ngày · thải qua thận 80%"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Warfarin</b>",
+      "Gối với thuốc tiêm đến khi <b>INR ≥ 2</b>",
+      "Đích INR 2–3 · gối ít nhất 5 ngày · ưu tiên trong hội chứng kháng phospholipid"
+     ],
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Với thuốc uống, hướng dẫn mô tả rõ phác đồ giai đoạn khởi đầu. Apixaban 10 miligam hai lần mỗi ngày trong 7 ngày, sau đó theo tờ hướng dẫn là 5 miligam hai lần mỗi ngày. Ở giai đoạn kéo dài, hướng dẫn khuyến cáo nhóm một, mức A, dùng nửa liều, tức 2,5 miligam hai lần mỗi ngày.",
+    "Rivaroxaban 15 miligam hai lần mỗi ngày trong 21 ngày, sau đó 20 miligam một lần mỗi ngày. Hướng dẫn nhấn mạnh liều 15 và 20 miligam phải uống cùng bữa ăn để hấp thu đủ. Giai đoạn kéo dài có thể dùng 10 miligam mỗi ngày.",
+    "Edoxaban và dabigatran không có phác đồ nạp đường uống: phải dùng thuốc tiêm ít nhất 5 ngày trước khi chuyển. Edoxaban 60 miligam một lần mỗi ngày, giảm còn 30 miligam khi độ thanh thải creatinine 15 đến 50, cân nặng từ 60 kilôgam trở xuống, hoặc dùng thuốc ức chế P glycoprotein mạnh.",
+    "Dabigatran 150 miligam hai lần mỗi ngày; đây là thuốc phụ thuộc thận nhiều nhất, khoảng 80% thải qua thận.",
+    "Warfarin được gối với thuốc tiêm cho đến khi INR đạt từ 2 trở lên, thường ít nhất 5 ngày, với đích INR 2 đến 3. Warfarin vẫn là lựa chọn ưu tiên trong hội chứng kháng phospholipid, như chúng ta sẽ thấy ngay sau đây."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "cards",
+   "chapter": "Đối tượng đặc biệt 1",
+   "title": "Béo phì, kháng phospholipid, u não",
+   "ref": "Mục 4.2.1 · Khuyến cáo 5–9",
+   "cards": [
+    {
+     "tag": "BÉO PHÌ",
+     "t": "BMI > 30",
+     "items": [
+      "<b>2a · B-NR</b>: DOAC hơn kháng vitamin K",
+      "Apixaban, rivaroxaban an toàn kể cả BMI ≥ 50 hoặc ≥ 150 kg",
+      "Sau phẫu thuật giảm béo: tránh DOAC <b>≥ 4 tuần</b>",
+      "<b>2b</b>: BMI > 40 có thể giảm liều heparin TLPT thấp"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KHÁNG PHOSPHOLIPID",
+     "t": "Hội chứng huyết khối",
+     "items": [
+      "<b>1 · A</b>: <b>kháng vitamin K</b> hơn DOAC",
+      "DOAC tăng huyết khối động mạch, đột quỵ, nhất là ba kháng thể dương tính",
+      "<b>2b · B-R</b>: chỉ một kháng thể anticardiolipin hoặc β2-glycoprotein: DOAC có thể thay thế"
+     ],
+     "at": 2,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "tag": "U NÃO",
+     "t": "Nguyên phát hoặc di căn",
+     "items": [
+      "<b>2b · C-LD</b>: DOAC hơn heparin TLPT thấp",
+      "Nguy cơ xuất huyết nội sọ thấp hơn với DOAC",
+      "U não không phải chống chỉ định tuyệt đối"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Đối tượng đặc biệt thứ nhất là béo phì. Nhóm hai a, mức B-NR: ở người có chỉ số khối cơ thể trên 30 dùng thuốc uống, nên chọn kháng đông uống trực tiếp hơn kháng vitamin K. Dù có lo ngại về pha loãng nồng độ thuốc, apixaban và rivaroxaban vẫn an toàn và hiệu quả, kể cả ở người chỉ số khối cơ thể từ 50 hoặc cân nặng từ 150 kilôgam.",
+    "Ngoại lệ: sau phẫu thuật giảm béo, tránh kháng đông uống trực tiếp ít nhất 4 tuần vì giảm hấp thu. Và nhóm hai b: ở béo phì độ ba, có thể giảm liều heparin trọng lượng phân tử thấp để giảm chảy máu.",
+    "Hội chứng kháng phospholipid huyết khối, nhóm một, mức A: kháng vitamin K được khuyến cáo hơn kháng đông uống trực tiếp. Các thử nghiệm cho thấy kháng đông uống trực tiếp làm tăng huyết khối động mạch và đột quỵ, đặc biệt khi ba kháng thể cùng dương tính hoặc có tiền sử huyết khối động mạch.",
+    "Tuy vậy, nhóm hai b: nếu chỉ có một kháng thể anticardiolipin hoặc kháng beta 2 glycoprotein một, kháng đông uống trực tiếp có thể là lựa chọn thay thế, cho người muốn tránh theo dõi INR.",
+    "U não nguyên phát hoặc di căn không phải chống chỉ định tuyệt đối của kháng đông. Nhóm hai b: có thể chọn kháng đông uống trực tiếp hơn heparin trọng lượng phân tử thấp, vì nguy cơ xuất huyết nội sọ thấp hơn."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "Đối tượng đặc biệt 2",
+   "title": "Bệnh thận mạn và bệnh gan mạn",
+   "ref": "Mục 4.2.1 · Khuyến cáo 10, 11, 15–17, 22",
+   "head": [
+    "Tình trạng",
+    "Khuyến cáo",
+    "Cơ sở"
+   ],
+   "widths": "1fr 1.5fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Bệnh thận mạn 2–3</b><br>eGFR 30–89",
+      "<b>1 · A</b>: DOAC hơn kháng vitamin K",
+      "Không kém về tái phát, ít chảy máu nặng hơn · thải qua thận: dabigatran 80%, edoxaban 50%, rivaroxaban 33%, apixaban 27%"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Bệnh thận mạn 4–5</b>, lọc máu",
+      "<b>2b</b>: chưa rõ apixaban có tốt hơn kháng vitamin K",
+      "Bị loại khỏi thử nghiệm pha 3 · dữ liệu sổ bộ Hoa Kỳ"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>ClCr < 30</b> dùng heparin TLPT thấp",
+      "<b>2a</b>: theo dõi anti-Xa để chỉnh liều",
+      "Thời gian bán thải kéo dài · dùng 1 lần/ngày"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Child-Pugh A</b> · <b>B</b>",
+      "A: <b>2a</b> DOAC hơn kháng vitamin K · B: <b>2b</b>",
+      "Thanh thải qua gan: apixaban 75%, rivaroxaban 65%, edoxaban 50%, dabigatran 20%"
+     ],
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>Child-Pugh C</b>",
+      "<b>3 · CÓ HẠI</b>: không dùng DOAC thay kháng vitamin K",
+      "Tăng nguy cơ chảy máu, bị loại khỏi thử nghiệm"
+     ],
+     "at": 4,
+     "c": "coral",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Bệnh thận mạn làm tăng cả nguy cơ huyết khối lẫn chảy máu. Nhóm một, mức A: ở bệnh thận mạn giai đoạn 2 đến 3, kháng đông uống trực tiếp được khuyến cáo hơn kháng vitamin K, vì giảm chảy máu nặng. Mức thải qua thận khác nhau: dabigatran 80%, edoxaban 50%, rivaroxaban 33%, apixaban 27%.",
+    "Ở giai đoạn 4 đến 5 hoặc lọc máu, nhóm hai b: chưa rõ apixaban có tốt hơn kháng vitamin K hay không. Nhóm này bị loại khỏi các thử nghiệm pha 3, dữ liệu chủ yếu từ sổ bộ thận Hoa Kỳ.",
+    "Khi dùng heparin trọng lượng phân tử thấp ở người độ thanh thải creatinine dưới 30, nhóm hai a: hợp lý theo dõi anti Xa để chỉnh liều, kèm chuyển sang một lần mỗi ngày, và chờ nhiều liều hơn mới đạt trạng thái ổn định.",
+    "Bệnh gan mạn: mức thanh thải qua gan là apixaban 75%, rivaroxaban 65%, edoxaban 50%, dabigatran 20%. Với Child-Pugh A, nhóm hai a, kháng đông uống trực tiếp hợp lý hơn kháng vitamin K; với Child-Pugh B, nhóm hai b.",
+    "Còn Child-Pugh C, nhóm ba, có hại: không dùng kháng đông uống trực tiếp thay kháng vitamin K, vì nguy cơ chảy máu tăng và nhóm này bị loại khỏi các thử nghiệm."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "Thai kỳ · cho bú",
+   "title": "Thai kỳ và cho con bú",
+   "ref": "Mục 4.2.1 · Khuyến cáo 12–14, 23",
+   "cards": [
+    {
+     "tag": "1 · C-LD",
+     "t": "Thai kỳ: thuốc tiêm",
+     "items": [
+      "Heparin TLPT thấp hoặc không phân đoạn",
+      "Không qua nhau thai",
+      "Heparin TLPT thấp dùng nhiều hơn: ít loãng xương, ít giảm tiểu cầu"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "3 · CÓ HẠI",
+     "t": "DOAC và warfarin",
+     "items": [
+      "DOAC: tỷ lệ dị tật thai cao hơn dự kiến",
+      "Kháng vitamin K qua nhau thai, độc tính phụ thuộc liều",
+      "Nguy cơ sẩy thai, dị tật"
+     ],
+     "at": 1,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "tag": "1 · C-LD",
+     "t": "Cho con bú",
+     "items": [
+      "Heparin TLPT thấp, không phân đoạn <b>hoặc warfarin</b>",
+      "Hơn DOAC: nguy cơ chảy máu ở trẻ",
+      "DOAC bài tiết vào sữa ở động vật"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "2b · C-LD",
+     "t": "Anti-Xa mỗi 3 tháng thai kỳ",
+     "items": [
+      "Lợi ích chưa được xác lập",
+      "Dược động học thay đổi theo từng giai đoạn thai"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Thai kỳ, nhóm một, mức C-LD: thai phụ thuyên tắc phổi cần kháng đông bằng heparin trọng lượng phân tử thấp hoặc heparin không phân đoạn, vì cả hai không qua nhau thai. Heparin trọng lượng phân tử thấp được dùng nhiều hơn nhờ đáp ứng dễ dự đoán, thời gian bán thải dài hơn, ít loãng xương và ít giảm tiểu cầu do heparin.",
+    "Nhóm ba, có hại: kháng đông uống trực tiếp và warfarin có thể gây sẩy thai hoặc dị tật thai. Tổng quan hệ thống cho thấy tỷ lệ dị tật cao hơn dự kiến khi phơi nhiễm kháng đông uống trực tiếp, còn kháng vitamin K qua nhau thai với độc tính phụ thuộc liều.",
+    "Cho con bú, nhóm một: heparin trọng lượng phân tử thấp, heparin không phân đoạn hoặc warfarin được khuyến cáo hơn kháng đông uống trực tiếp, để tránh nguy cơ chảy máu ở trẻ. Lưu ý warfarin dùng được khi cho con bú, dù chống chỉ định trong thai kỳ.",
+    "Và nhóm hai b: việc theo dõi đỉnh anti Xa ít nhất mỗi 3 tháng thai kỳ để chỉnh liều chưa được xác lập lợi ích, dù dược động học thay đổi qua từng giai đoạn thai."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "compare",
+   "chapter": "Quanh thủ thuật · theo dõi",
+   "title": "Kháng đông quanh thủ thuật và theo dõi anti-Xa",
+   "ref": "Mục 4.2.1 · Khuyến cáo 18–26",
+   "head": [
+    "Tình huống",
+    "Khuyến cáo",
+    "Chi tiết"
+   ],
+   "widths": "1.1fr 1.4fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Đang tiêu sợi huyết qua ống thông</b>",
+      "<b>1 · C-LD</b>: vẫn kháng đông",
+      "Heparin TLPT thấp hoặc không phân đoạn liều điều trị, hoặc heparin không phân đoạn dưới liều điều trị"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Sau can thiệp hoặc tiêu sợi huyết</b>",
+      "<b>1 · B-NR</b>: heparin TLPT thấp hơn không phân đoạn",
+      "Đạt đích ổn định hơn · trước thủ thuật: <b>2a</b> heparin TLPT thấp"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Khi cần đo anti-Xa</b>",
+      "<b>1 · C-LD</b>: đo <b>đỉnh 3–5 giờ</b> sau liều, khi đã ≥ 3 liều",
+      "Không đo đáy hay ngẫu nhiên"
+     ],
+     "at": 2,
+     "c": "blue",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>> 150 kg hoặc BMI > 40</b> · <b>hồi sức</b>",
+      "<b>2b</b>: lợi ích đo anti-Xa chưa xác lập",
+      "Hồi sức, sepsis, vận mạch: dễ dưới đích nhưng chưa có bằng chứng chỉnh liều"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Đa số bệnh nhân</b>",
+      "<b>3 · KHÔNG LỢI ÍCH · A</b>: không đo anti-Xa thường quy",
+      "48 nghiên cứu: chỉnh liều nhiều hơn nhưng không giảm chảy máu hay huyết khối"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Kháng đông quanh thủ thuật. Nhóm một, mức C-LD: khi tiêu sợi huyết qua ống thông, vẫn phải kháng đông đồng thời bằng heparin trọng lượng phân tử thấp hoặc không phân đoạn liều điều trị, hoặc heparin không phân đoạn dưới liều điều trị, thay vì không kháng đông, vì liều tiêu sợi huyết thấp và ống thông gây tổn thương nội mạc.",
+    "Nhóm một, mức B-NR: sau can thiệp nội mạch hoặc tiêu sợi huyết, heparin trọng lượng phân tử thấp được ưu tiên hơn không phân đoạn để đạt kháng đông ổn định và giảm tái phát. Trước thủ thuật, nhóm hai a, heparin trọng lượng phân tử thấp cũng hợp lý.",
+    "Về theo dõi, nhóm một: khi cần đo anti Xa, phải đo nồng độ đỉnh 3 đến 5 giờ sau liều tiêm, khi đã đạt trạng thái ổn định, tức từ liều thứ ba trở đi, chứ không đo nồng độ đáy hay ngẫu nhiên.",
+    "Nhóm hai b: ở người trên 150 kilôgam hoặc chỉ số khối cơ thể trên 40, và ở bệnh nhân hồi sức, lợi ích của đo anti Xa chưa được xác lập. Bệnh nhân hồi sức, nhất là sepsis hoặc đang dùng vận mạch, dễ không đạt đích nhưng chưa có nghiên cứu tiến cứu về chỉnh liều.",
+    "Và nhóm ba, không lợi ích, mức A: ở đa số bệnh nhân dùng heparin trọng lượng phân tử thấp theo cân nặng, không đo anti Xa thường quy. Phân tích 48 nghiên cứu cho thấy đo anti Xa chỉ làm tăng số lần chỉnh liều mà không giảm chảy máu hay huyết khối."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "compare",
+   "chapter": "Lọc TMCD · Mục 4.3",
+   "title": "Lọc tĩnh mạch chủ dưới: ai, loại nào, bao lâu",
+   "ref": "Mục 4.3 · Khuyến cáo 1–7",
+   "head": [
+    "Khuyến cáo",
+    "Nội dung",
+    "Bằng chứng"
+   ],
+   "widths": "0.8fr 1.6fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>2a · B-R</b>",
+      "Không dùng được kháng đông: lọc giúp giảm tái phát ngắn hạn",
+      "Phân tích gộp: giảm tái phát ~50%, tăng huyết khối tĩnh mạch sâu ~70%, không giảm tử vong"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>1 · B-R</b> · <b>1 · C-LD</b>",
+      "Chọn loại <b>tháo được</b> · tháo <b>sớm nhất</b> khi hết nguy cơ và dung nạp kháng đông",
+      "FDA: tháo trong 29–54 ngày · khó sau 50 ngày, thất bại nhiều hơn sau 90 ngày · loại vĩnh viễn chỉ khi tĩnh mạch chủ > 30 mm"
+     ],
+     "at": 1,
+     "c": "blue",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>2a · C-LD</b>",
+      "Chương trình theo dõi có cấu trúc",
+      "Tăng tỷ lệ tháo lọc, phát hiện biến chứng"
+     ],
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>2b</b>",
+      "Nhóm D–E đang điều trị nâng cao: lợi ích chưa rõ · tái phát dù kháng đông tối ưu (B–E): có thể cân nhắc",
+      "Không cải thiện sống còn khi dùng thường quy kèm tái tưới máu"
+     ],
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>3 · CÓ HẠI · A</b>",
+      "<b>Không đặt thường quy</b> khi đã kháng đông đủ liều",
+      "PREPIC, PREPIC2: không giảm tái phát, tăng huyết khối tĩnh mạch sâu · PRESERVE: 6,5% biến cố huyết khối sau đặt"
+     ],
+     "at": 5,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Lọc tĩnh mạch chủ dưới chặn huyết khối di chuyển lên phổi. Nhóm hai a, mức B-R: ở bệnh nhân không dung nạp kháng đông, lọc giúp giảm tái phát ngắn hạn. Phân tích gộp cho thấy lọc giảm khoảng 50% thuyên tắc phổi tái phát nhưng tăng khoảng 70% huyết khối tĩnh mạch sâu, và không giảm tử vong.",
+    "Nhóm một, mức B-R: khi cần đặt, chọn loại tháo được thay vì vĩnh viễn. Nhóm một, mức C-LD: tháo lọc ngay khi nguy cơ thuyên tắc đã giảm và bệnh nhân dung nạp được kháng đông.",
+    "Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ khuyến nghị tháo trong khoảng 29 đến 54 ngày sau đặt. Tháo khó hơn sau 50 ngày và thất bại nhiều hơn sau 90 ngày. Loại vĩnh viễn chỉ dành cho trường hợp hiếm không đặt được loại tháo được, như tĩnh mạch chủ dưới đường kính trên 30 milimét.",
+    "Nhóm hai a: hợp lý xây dựng chương trình theo dõi có cấu trúc, như phòng khám lọc, nhắc lịch tự động, để tăng tỷ lệ tháo và phát hiện biến chứng.",
+    "Nhóm hai b: ở nhóm D đến E đang điều trị nâng cao, lợi ích của lọc chưa rõ; ở bệnh nhân tái phát dù kháng đông tối ưu, có thể cân nhắc đặt lọc.",
+    "Và nhóm ba, có hại, mức A: không đặt lọc thường quy ở bệnh nhân đã kháng đông liều điều trị. Thử nghiệm PREPIC và PREPIC2 cho thấy không giảm tái phát mà tăng huyết khối tĩnh mạch sâu; trong nghiên cứu PRESERVE, 6,5% bệnh nhân có biến cố huyết khối sau đặt lọc."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: chọn thuốc và liều",
+   "ref": "Mục 4.2.1 · Mục 5.2 · tờ hướng dẫn sử dụng",
+   "case": "Nữ 76 tuổi, <b>56 kg</b>, thuyên tắc phổi nhóm <b>C1</b>, ổn định. ClCr <b>42 mL/phút</b>. Không thai, không kháng phospholipid. Bác sĩ muốn dùng <b>edoxaban</b>.",
+   "case_at": 0,
+   "q": "Phác đồ đúng?",
+   "q_at": 1,
+   "options": [
+    "Edoxaban 60 mg/ngày ngay từ ngày đầu",
+    "Heparin TLPT thấp ≥ 5 ngày, sau đó edoxaban 30 mg/ngày",
+    "Edoxaban 30 mg × 2 lần/ngày × 7 ngày",
+    "Warfarin đơn độc, không cần thuốc tiêm"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Edoxaban cần thuốc tiêm <b>≥ 5 ngày</b> trước (Mục 5.2). Cân nặng ≤ 60 kg và ClCr 15–50 → <b>30 mg/ngày</b> (tờ hướng dẫn sử dụng). Warfarin phải gối với thuốc tiêm đến INR ≥ 2.",
+   "lines": [
+    "Mời quý vị đến với tình huống. Phụ nữ 76 tuổi, cân nặng 56 kilôgam, thuyên tắc phổi nhóm C1, huyết động ổn định. Độ thanh thải creatinine 42 mililít mỗi phút. Không mang thai, không có hội chứng kháng phospholipid. Bác sĩ điều trị muốn dùng edoxaban.",
+    "Phác đồ nào đúng?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là heparin trọng lượng phân tử thấp ít nhất 5 ngày, sau đó chuyển edoxaban 30 miligam mỗi ngày. Khác với apixaban và rivaroxaban có liều nạp đường uống, edoxaban cần thuốc tiêm ít nhất 5 ngày trước.",
+    "Và vì bệnh nhân cân nặng dưới 60 kilôgam, độ thanh thải creatinine trong khoảng 15 đến 50, liều edoxaban là 30 miligam một lần mỗi ngày. Nếu muốn đơn giản hơn, apixaban 10 miligam hai lần mỗi ngày trong 7 ngày rồi 5 miligam hai lần mỗi ngày là một lựa chọn uống ngay từ đầu."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: ba kháng thể dương tính",
+   "ref": "Mục 4.2.1 · Khuyến cáo 7 · Mục 4.3 · Khuyến cáo 7",
+   "case": "Nam 44 tuổi, thuyên tắc phổi nhóm C2, tiền sử <b>nhồi máu não</b> 2 năm trước. Lupus anticoagulant, anticardiolipin, kháng β2-glycoprotein I đều <b>dương tính</b>. Đang dùng enoxaparin, không chảy máu.",
+   "case_at": 0,
+   "q": "Kháng đông lâu dài và có đặt lọc không?",
+   "q_at": 1,
+   "options": [
+    "Rivaroxaban 15 mg × 2 × 21 ngày + đặt lọc",
+    "Warfarin gối enoxaparin đến INR ≥ 2, đích 2–3; không đặt lọc",
+    "Apixaban 2,5 mg × 2 ngay",
+    "Dabigatran sau 5 ngày enoxaparin + đặt lọc vĩnh viễn"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Hội chứng kháng phospholipid huyết khối, ba kháng thể, tiền sử huyết khối động mạch → <b>kháng vitamin K</b> (1, A). Đã kháng đông đủ liều → <b>không đặt lọc</b> thường quy (3: Có hại, A).",
+   "lines": [
+    "Tình huống thứ hai. Nam 44 tuổi, thuyên tắc phổi nhóm C2, tiền sử nhồi máu não 2 năm trước. Xét nghiệm lupus anticoagulant, anticardiolipin và kháng beta 2 glycoprotein một đều dương tính. Bệnh nhân đang dùng enoxaparin, không chảy máu.",
+    "Kháng đông lâu dài nên chọn gì, và có đặt lọc tĩnh mạch chủ dưới không?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là warfarin gối với enoxaparin cho đến khi INR từ 2 trở lên, đích INR 2 đến 3, và không đặt lọc. Đây là hội chứng kháng phospholipid huyết khối với ba kháng thể dương tính và tiền sử huyết khối động mạch, nhóm có nguy cơ cao nhất khi dùng kháng đông uống trực tiếp. Kháng vitamin K là khuyến cáo nhóm một, mức A.",
+    "Bệnh nhân đã được kháng đông đủ liều, nên đặt lọc thường quy là nhóm ba, có hại."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 3",
+   "title": "Sáu thông điệp của Phần 3",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Heparin TLPT thấp > không phân đoạn · DOAC > kháng vitamin K",
+     "d": "Cả hai nhóm 1, B-R",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Nạp đúng phác đồ",
+     "d": "Apixaban 10 mg × 2 × 7 ngày · rivaroxaban 15 mg × 2 × 21 ngày · edoxaban, dabigatran sau ≥ 5 ngày thuốc tiêm",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Kháng vitamin K khi kháng phospholipid",
+     "d": "1, A · Child-Pugh C: không DOAC (3)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Thai kỳ: chỉ thuốc tiêm",
+     "d": "DOAC, warfarin có hại · cho bú: warfarin được",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "t": "Anti-Xa: đỉnh 3–5 giờ, sau ≥ 3 liều",
+     "d": "Không đo thường quy (3, A) · cân nhắc khi ClCr < 30",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Lọc: chỉ khi không kháng đông được",
+     "d": "Loại tháo được, tháo sớm · không đặt thường quy (3: Có hại)",
+     "at": 2,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần ba. Heparin trọng lượng phân tử thấp được ưu tiên hơn heparin không phân đoạn, và kháng đông uống trực tiếp được ưu tiên hơn kháng vitamin K. Hãy nhớ đúng phác đồ nạp: apixaban 10 miligam hai lần trong 7 ngày, rivaroxaban 15 miligam hai lần trong 21 ngày, edoxaban và dabigatran chỉ sau ít nhất 5 ngày thuốc tiêm.",
+    "Kháng vitamin K vẫn là lựa chọn trong hội chứng kháng phospholipid, không dùng kháng đông uống trực tiếp ở Child-Pugh C và trong thai kỳ. Khi cần đo anti Xa, đo đỉnh 3 đến 5 giờ sau liều; đa số bệnh nhân không cần đo.",
+    "Lọc tĩnh mạch chủ dưới chỉ dành cho người không kháng đông được, chọn loại tháo được và tháo sớm.",
+    "Phần bốn sẽ bàn về hồi sức huyết động, thông khí, ECMO và điều trị nâng cao với liều tiêu sợi huyết cụ thể. Cảm ơn quý đồng nghiệp, hẹn gặp lại ở phần bốn của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
