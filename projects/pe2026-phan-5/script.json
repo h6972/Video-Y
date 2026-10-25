@@ -1,0 +1,611 @@
+{
+ "title": "AHA/ACC 2026 Thuyên tắc phổi – Phần 5: Sau giai đoạn cấp và ôn tập",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "AHA/ACC 2026 Thuyên tắc phổi · Phần 5/5",
+ "source_short": "Nguồn: 2026 AHA/ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "NT-proBNP": "en tê prô bê en pê",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "CYP3A4": "xíp ba a bốn",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "CPET": "nghiệm pháp gắng sức tim phổi",
+  "P-gp": "P glycoprotein",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê",
+  "INR": "i en a"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 5/5",
+   "title": "Sau giai đoạn cấp<br>và ôn tập toàn loạt",
+   "subtitle": "Phần 5 · Thời gian và liều kháng đông kéo dài, tái phát, theo dõi, bệnh mạn sau thuyên tắc",
+   "badges": [
+    {
+     "t": "Nửa liều DOAC kéo dài: 1, A",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Không CT/PET tầm soát ung thư",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Hỏi triệu chứng ≥ 1 năm",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "note": "Mục 5.1 · 5.2 · 6.1 · Bảng 8, 9, 10",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm, phần cuối của loạt bài về Hướng dẫn thuyên tắc phổi cấp năm 2026 trên Thư Viện Y Khoa Online.",
+    "Sau khi qua giai đoạn cấp, câu hỏi lớn nhất là kháng đông bao lâu, liều nào, và làm gì khi tái phát dù đang kháng đông.",
+    "Chúng ta cũng sẽ bàn về lịch theo dõi, tầm soát ung thư và tăng đông, các vấn đề riêng ở phụ nữ, vận động và du lịch, và tiếp cận bệnh nhân còn khó thở sau 3 tháng.",
+    "Cuối cùng là phần ôn tập mười thông điệp của toàn loạt."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "compare",
+   "chapter": "Thời gian kháng đông · Bảng 9",
+   "title": "Kháng đông bao lâu: theo yếu tố nguy cơ",
+   "ref": "Mục 5.2 · Bảng 9 · Khuyến cáo 1–3, 8",
+   "head": [
+    "Yếu tố nguy cơ",
+    "Ví dụ (Bảng 9)",
+    "Quyết định sau 3–6 tháng"
+   ],
+   "widths": "1fr 1.7fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Lớn, hồi phục được</b>",
+      "Phẫu thuật gây mê toàn thân > 30 phút · nằm viện nội khoa ≥ 3 ngày tại giường · mổ lấy thai · gãy xương chi dưới",
+      "<b>Dừng</b> (1 · B-NR) · tái phát < 1%/năm nếu do phẫu thuật"
+     ],
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>Nhỏ, hồi phục được</b>",
+      "Mổ < 30 phút · nằm viện < 3 ngày · bệnh cấp ngoài viện nằm ≥ 3 ngày · estrogen · chu sinh · chấn thương giảm vận động ≥ 3 ngày",
+      "<b>Quyết định chung</b> (2a · B-NR) · tái phát 4,2–7,1%/năm"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Tồn tại kéo dài</b>",
+      "Ung thư hoạt động · bệnh tự miễn · bệnh viêm ruột · bất động mạn",
+      "<b>Tiếp tục kéo dài</b> (1 · C-LD) · bệnh tự miễn tăng tái phát 1,7 lần"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Không có yếu tố nào</b>",
+      "Thuyên tắc phổi không yếu tố thúc đẩy",
+      "<b>Tiếp tục kéo dài</b> (1 · A) · tái phát 30–40% sau 10 năm nếu dừng · kéo dài giảm 80%"
+     ],
+     "at": 3,
+     "c": "violet",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Hướng dẫn chia điều trị thành ba giai đoạn: giai đoạn khởi đầu, giai đoạn điều trị ban đầu 3 đến 6 tháng, và giai đoạn kéo dài, tức tiếp tục sau 3 đến 6 tháng mà không định trước ngày dừng. Quyết định ở mốc 3 đến 6 tháng dựa vào yếu tố nguy cơ lúc bị thuyên tắc, theo Bảng 9.",
+    "Yếu tố nguy cơ lớn hồi phục được gồm: phẫu thuật gây mê toàn thân trên 30 phút, nằm viện vì bệnh nội khoa cấp từ 3 ngày phải nằm tại giường, mổ lấy thai, gãy xương chi dưới. Nhóm một, mức B-NR: dừng kháng đông khi hết giai đoạn ban đầu. Tái phát thấp, dưới 1% mỗi năm nếu yếu tố là phẫu thuật, và kéo dài đến 24 tháng không có lợi hơn.",
+    "Yếu tố nhỏ hồi phục được gồm phẫu thuật dưới 30 phút, nằm viện dưới 3 ngày, bệnh cấp ngoài viện phải nằm từ 3 ngày, estrogen, giai đoạn chu sinh, chấn thương giảm vận động từ 3 ngày. Tái phát 4,2 đến 7,1% mỗi năm, nên nhóm hai a: quyết định chung với người bệnh về dừng hay tiếp tục.",
+    "Yếu tố tồn tại kéo dài như ung thư hoạt động, bệnh tự miễn, bệnh viêm ruột, bất động mạn: nhóm một, mức C-LD, tiếp tục kéo dài. Ví dụ bệnh tự miễn làm tăng tái phát 1,7 lần.",
+    "Và khi không có yếu tố nguy cơ nào, nhóm một, mức A: tiếp tục kháng đông kéo dài. Nếu dừng, tái phát khoảng 30 đến 40% sau 10 năm; kháng đông kéo dài giảm 80% tái phát, từ 13,54 xuống 2,75 biến cố mỗi 100 người năm, mà không tăng đáng kể chảy máu nặng."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "Thuốc giai đoạn kéo dài",
+   "title": "Thuốc và liều giai đoạn kéo dài",
+   "ref": "Mục 5.2 · Khuyến cáo 4–7, 9 · Mục 5.1.1 · Khuyến cáo 4",
+   "head": [
+    "Khuyến cáo",
+    "Lựa chọn",
+    "Bằng chứng"
+   ],
+   "widths": "0.8fr 1.6fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>1 · A</b>",
+      "DOAC hơn kháng vitamin K",
+      "Ít chảy máu hơn · phân tích > 62000 bệnh nhân"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>1 · A</b>",
+      "<b>Nửa liều: apixaban 2,5 mg × 2 · rivaroxaban 10 mg × 1</b>",
+      "RENOVE 2768 bệnh nhân: tái phát 2,2% so với 1,8% · chảy máu 9,9% so với 15,2%"
+     ],
+     "at": 1,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>1 · A</b> · ung thư",
+      "DOAC hoặc heparin TLPT thấp hơn kháng vitamin K",
+      "API-CAT 1766 bệnh nhân: apixaban 2,5 so với 5 mg × 2: tái phát 2,1% so với 2,8%, chảy máu 12,1% so với 15,6%"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>1 · B-R</b> · <b>2a · B-R</b>",
+      "Chống chỉ định DOAC, không ung thư: kháng vitamin K hơn aspirin · từ chối kháng đông: <b>aspirin liều thấp</b> hơn không gì",
+      "Rivaroxaban 20 và 10 mg tốt hơn aspirin 100 mg"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>1 · B-NR</b>",
+      "<b>Đánh giá lại định kỳ</b> lợi ích – nguy cơ",
+      "13% có cảnh báo nghiêm trọng: sai liều, tương tác thuốc · kiểm tra thận, gan"
+     ],
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Ở giai đoạn kéo dài, nhóm một, mức A: kháng đông uống trực tiếp được khuyến cáo hơn kháng vitamin K để giảm chảy máu.",
+    "Điểm mới quan trọng, nhóm một, mức A: dùng nửa liều apixaban, 2,5 miligam hai lần mỗi ngày, hoặc rivaroxaban 10 miligam một lần mỗi ngày. Thử nghiệm RENOVE trên 2768 bệnh nhân nguy cơ tái phát cao cho thấy tái phát thấp ở cả hai nhóm, 2,2% so với 1,8%, trong khi chảy máu nặng hoặc có ý nghĩa lâm sàng giảm từ 15,2% xuống 9,9% với nửa liều.",
+    "Ở bệnh nhân ung thư, nhóm một, mức A: kháng đông uống trực tiếp hoặc heparin trọng lượng phân tử thấp được khuyến cáo hơn kháng vitamin K. Thử nghiệm API-CAT trên 1766 bệnh nhân huyết khối liên quan ung thư cho thấy apixaban 2,5 miligam không kém 5 miligam về tái phát, 2,1% so với 2,8%, và ít chảy máu hơn, 12,1% so với 15,6%.",
+    "Nếu không ung thư mà có chống chỉ định kháng đông uống trực tiếp, nhóm một, mức B-R: dùng kháng vitamin K thay vì aspirin hay không điều trị. Nếu bệnh nhân có chống chỉ định hoặc từ chối kháng đông, nhóm hai a: aspirin liều thấp hợp lý hơn không điều trị, dù rivaroxaban 20 hoặc 10 miligam đều tốt hơn aspirin 100 miligam.",
+    "Và nhóm một, mức B-NR: ở mọi bệnh nhân kháng đông kéo dài, cần đánh giá lại định kỳ lợi ích và nguy cơ, kiểm tra chức năng thận, gan và tương tác thuốc. Một hệ thống theo dõi ghi nhận khoảng 13% bệnh nhân dùng kháng đông uống trực tiếp có cảnh báo nghiêm trọng về liều hoặc tương tác."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "list",
+   "chapter": "Tái phát · Mục 5.2.1",
+   "title": "Tái phát khi đang kháng đông",
+   "ref": "Mục 5.2.1 · Khuyến cáo 1–5",
+   "dense": true,
+   "items": [
+    {
+     "n": "1",
+     "t": "Xác nhận bằng hình ảnh (1 · C-EO)",
+     "d": "CT mạch phổi, hoặc V/Q nếu có phim nền · tổn thương ở mạch hay phân thuỳ <b>mới</b> · D-dimer âm hỗ trợ loại trừ, D-dimer tăng không đủ chẩn đoán",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "n": "2",
+     "t": "Tìm nguyên nhân (1 · C-LD)",
+     "d": "Tuân thủ, liều dưới mức, tương tác chất cảm ứng P-gp/CYP3A4, rivaroxaban không uống cùng bữa ăn, phẫu thuật tiêu hoá · ung thư, kháng phospholipid · giảm tiểu cầu do heparin, thiếu antithrombin",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "n": "3",
+     "t": "Đổi nhóm thuốc (2a · C-EO)",
+     "d": "Khi tái phát dù tuân thủ liều điều trị · thường chuyển heparin TLPT thấp hoặc fondaparinux",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "n": "4",
+     "t": "Đang nửa liều DOAC → liều đầy đủ cùng thuốc (2a)",
+     "d": "Rivaroxaban 10 → 20 mg · apixaban 2,5 → 5 mg × 2",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "n": "5",
+     "t": "Ung thư, đang heparin TLPT thấp → tăng liều 20–25% (2a · B-NR)",
+     "d": "Ung thư tái phát nhiều hơn mức 2% chung",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Tái phát khi đang kháng đông gặp ở khoảng 2% bệnh nhân, 2,4% với kháng đông uống trực tiếp và 2,6% với kháng vitamin K. Nhóm một, ý kiến chuyên gia: khi nghi tái phát phải xác nhận bằng hình ảnh, ưu tiên chụp cắt lớp mạch phổi, hoặc xạ hình nếu có phim nền để so sánh. Chẩn đoán dựa vào tổn thương ở mạch hay phân thuỳ mới. D-dimer âm tính hỗ trợ loại trừ, nhưng D-dimer tăng không đủ để chẩn đoán.",
+    "Nhóm một, mức C-LD: tìm các yếu tố lâm sàng và dược lý: không tuân thủ, liều dưới mức, tương tác với chất cảm ứng P glycoprotein hay CYP3A4, rivaroxaban liều 15 hoặc 20 miligam không uống cùng bữa ăn, tiền sử phẫu thuật tiêu hoá. Về lâm sàng, ung thư và kháng thể kháng phospholipid là hai nguy cơ chính. Với heparin, cần nghĩ đến giảm tiểu cầu do heparin, thiếu antithrombin hoặc nồng độ thuốc dưới mức.",
+    "Nếu tái phát dù tuân thủ liều điều trị, nhóm hai a: hợp lý đổi sang nhóm thuốc khác, thường là thuốc tiêm như heparin trọng lượng phân tử thấp hoặc fondaparinux.",
+    "Nếu tái phát khi đang dùng nửa liều kháng đông uống trực tiếp ở giai đoạn kéo dài, nhóm hai a: quay lại liều đầy đủ của cùng thuốc, tức rivaroxaban 20 miligam hoặc apixaban 5 miligam hai lần mỗi ngày.",
+    "Và ở bệnh nhân ung thư tái phát dù đang dùng heparin trọng lượng phân tử thấp liều điều trị, nhóm hai a, mức B-NR: hợp lý tăng liều thêm 20 đến 25%."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "cards",
+   "chapter": "Theo dõi · Mục 5.1.1",
+   "title": "Lịch theo dõi sau thuyên tắc phổi",
+   "ref": "Mục 5.1.1 · Khuyến cáo 1–7 · Bảng 8",
+   "cards": [
+    {
+     "tag": "1 · C-LD",
+     "t": "Trong tuần đầu",
+     "items": [
+      "Thường 48 giờ đến 7 ngày sau ra viện",
+      "Giáo dục, rào cản kháng đông, tuân thủ, phát hiện chảy máu",
+      "Trực tiếp hoặc từ xa"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "1 · C-EO",
+     "t": "Trước hoặc tại 3 tháng",
+     "items": [
+      "Quyết định thời gian kháng đông",
+      "Xét nghiệm thêm: ung thư, tăng đông",
+      "Triệu chứng tồn tại · tránh thai"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "1 · C-LD",
+     "t": "Mỗi lần khám, ≥ 1 năm",
+     "items": [
+      "Hỏi khó thở, giới hạn vận động",
+      "1/3 đến 1/2 còn khó thở sau thuyên tắc",
+      "Tăng áp phổi do huyết khối mạn: 2,3–4%"
+     ],
+     "at": 2,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "tag": "2a · 2b",
+     "t": "Hỗ trợ thêm",
+     "items": [
+      "Bảng hỏi lo âu, trầm cảm (2a)",
+      "Phòng khám chuyên sâu cho ca phức tạp, trong 1–3 tháng (2a)",
+      "Đi bộ 6 phút nếu còn triệu chứng 3–6 tháng (2b)"
+     ],
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Về theo dõi, nhóm một, mức C-LD: cần có lần liên lạc lâm sàng trong tuần đầu sau ra viện, phần lớn các chương trình làm trong 48 giờ đến 7 ngày, trực tiếp hoặc từ xa, để giáo dục người bệnh, giải quyết rào cản với thuốc, đảm bảo tuân thủ và phát hiện chảy máu.",
+    "Nhóm một, ý kiến chuyên gia: lần khám tại hoặc trước 3 tháng để quyết định thời gian kháng đông, cân nhắc xét nghiệm thêm như tầm soát ung thư hay tăng đông, đánh giá triệu chứng tồn tại, và tư vấn tránh thai ở phụ nữ trong độ tuổi sinh sản.",
+    "Nhóm một, mức C-LD: ở mọi lần khám trong ít nhất 1 năm, cần hỏi về khó thở và giới hạn vận động. Một phần ba đến một nửa bệnh nhân còn khó thở hàng tháng đến hàng năm, và tăng áp phổi do huyết khối tắc mạch mạn xảy ra ở 2,3 đến 4% sau thuyên tắc phổi cấp.",
+    "Ngoài ra, nhóm hai a: dùng bảng hỏi để tầm soát lo âu và trầm cảm, và theo dõi tại phòng khám chuyên sâu trong 1 đến 3 tháng cho ca phức tạp theo Bảng 8, như kháng đông khó, tái phát, thai kỳ, ung thư. Nhóm hai b: làm nghiệm pháp đi bộ 6 phút nếu còn triệu chứng sau 3 đến 6 tháng."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "Ung thư · tăng đông · phụ nữ · du lịch",
+   "title": "Ung thư, tăng đông, phụ nữ và du lịch",
+   "ref": "Mục 5.1.1 · Khuyến cáo 8–14 · Mục 5.1.2",
+   "head": [
+    "Chủ đề",
+    "Khuyến cáo",
+    "Chi tiết"
+   ],
+   "widths": "0.9fr 1.6fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ung thư ẩn</b>",
+      "<b>1 · A</b>: hỏi bệnh, khám, tầm soát theo tuổi · <b>3 · A</b>: không CT hay PET-CT thường quy",
+      "4–10% phát hiện ung thư trong năm đầu nếu không có yếu tố lớn · tầm soát mở rộng không giảm tử vong"
+     ],
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Tăng đông</b>",
+      "<b>2b · C-LD</b>: không có yếu tố lớn + tiền sử gia đình hoặc < 55 tuổi, khi kết quả thay đổi xử trí",
+      "Không làm xét nghiệm đông máu ở giai đoạn cấp · thiếu antithrombin, protein C, S: tăng tái phát"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Phụ nữ</b>",
+      "<b>1</b>: tư vấn tránh thai · <b>2a</b>: rong kinh → xử trí nội, phụ khoa thay vì dừng kháng đông · <b>2b</b>: hormone khi vẫn kháng đông",
+      "Rong kinh: rivaroxaban, edoxaban nhiều hơn warfarin; dabigatran ít hơn; apixaban tương đương"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Vận động · du lịch</b>",
+      "Vận động sớm hơn nằm tại giường (2a) · tất áp lực khi bay ≥ 4 giờ · 1 liều dự phòng ngày đi nếu đã ngừng kháng đông",
+      "<b>2b · C-LD</b>: nhóm C2–E hạn chế chuyến đi dài 4 tuần đầu hoặc đến khi hết triệu chứng"
+     ],
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Tầm soát ung thư: khi không có yếu tố nguy cơ lớn hồi phục được, 4 đến 10% bệnh nhân được phát hiện ung thư trong năm đầu, và gần một nửa được tìm ra nhờ hỏi bệnh và khám kỹ. Vì vậy, nhóm một, mức A: hỏi bệnh, khám toàn diện và tầm soát ung thư theo tuổi. Nhưng nhóm ba, mức A: không chụp cắt lớp hay PET-CT thường quy, vì không giảm tử vong và không phát hiện ung thư ở giai đoạn có thể chữa khỏi.",
+    "Xét nghiệm tăng đông, nhóm hai b: chỉ cân nhắc khi không có yếu tố lớn hồi phục được, kèm tiền sử gia đình hoặc tuổi dưới 55, và kết quả sẽ thay đổi xử trí. Không làm xét nghiệm dựa trên đông máu ở giai đoạn cấp. Đột biến dị hợp yếu tố năm Leiden hay prothrombin thường không làm thay đổi thời gian điều trị, còn thiếu antithrombin, protein C, protein S thì có.",
+    "Với phụ nữ, nhóm một: tư vấn tránh thai và kế hoạch kháng đông nếu có thai. Nhóm hai a: khi rong kinh, xử trí bằng nội tiết, đổi thuốc hoặc can thiệp phụ khoa thay vì dừng kháng đông. So với warfarin, rivaroxaban và edoxaban gây rong kinh nhiều hơn, dabigatran ít hơn, apixaban tương đương. Nhóm hai b: liệu pháp hormone chứa estrogen có thể tiếp tục nếu lợi ích vượt nguy cơ và bệnh nhân vẫn đang kháng đông.",
+    "Về vận động, khuyến khích vận động sớm hơn nằm tại giường, vì phân tích gộp 3048 bệnh nhân cho thấy xu hướng ít thuyên tắc mới và tử vong thấp hơn.",
+    "Khi đi chuyến bay dài từ 4 giờ, có thể mang tất áp lực; người từng thuyên tắc do du lịch hay bất động mà đã ngừng kháng đông có thể dùng một liều dự phòng heparin trọng lượng phân tử thấp hoặc thuốc uống vào ngày đi. Và nhóm hai b: bệnh nhân nhóm C2 đến E nên hạn chế chuyến đi dài trong 4 tuần đầu hoặc đến khi hết triệu chứng."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "compare",
+   "chapter": "Bệnh mạn sau thuyên tắc · Mục 6.1",
+   "title": "Còn khó thở sau 3 tháng",
+   "ref": "Mục 6.1 · Khuyến cáo 1–8 · Hình 7, 8",
+   "head": [
+    "Bước",
+    "Khuyến cáo",
+    "Cơ sở"
+   ],
+   "widths": "0.9fr 1.6fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Đánh giá</b>",
+      "<b>1 · B-NR</b>: khó thở, giảm chức năng sau ≥ 3 tháng kháng đông → tìm bệnh huyết khối tắc mạch phổi mạn",
+      "Tắc nghẽn mạch tồn dư không thay đổi sau 3 tháng · chờ lâu chỉ làm chậm chẩn đoán"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Xét nghiệm</b>",
+      "<b>2a</b>: siêu âm tim <b>kèm</b> xạ hình tưới máu, hơn siêu âm tim đơn độc · <b>2a</b>: CPET",
+      "1/3 bệnh nhân tăng áp phổi do huyết khối mạn có siêu âm tim bình thường · V/Q bình thường loại trừ gần 100%"
+     ],
+     "at": 1,
+     "c": "amber",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Không làm</b>",
+      "<b>3 · Không lợi ích</b>: hết triệu chứng, nghi ngờ thấp → không chụp lại CT hay xạ hình",
+      "Tắc nghẽn tồn dư không liên quan kết cục · không dùng CT để quyết định thời gian kháng đông"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Điều trị</b>",
+      "<b>1</b>: tiếp tục kháng đông khi đang đánh giá · <b>1 · B-R</b>: phục hồi chức năng hô hấp khi đã loại trừ",
+      "RCT 211 bệnh nhân: tập 8 tuần cải thiện gắng sức và chất lượng sống"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Chuyển tuyến</b>",
+      "<b>1 · C-LD</b>: có tăng áp phổi → trung tâm chuyên sâu · <b>2a</b>: không tăng áp phổi, chọn lọc",
+      "Bóc nội mạc động mạch phổi, nong bóng động mạch phổi: kết quả gắn với kinh nghiệm trung tâm"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Sau thuyên tắc phổi, khoảng một nửa bệnh nhân còn khó thở hoặc giảm chức năng dù đã kháng đông 3 tháng, và khoảng một nửa còn tắc nghẽn mạch phổi tồn dư, nhiều người không triệu chứng. Tăng áp phổi do huyết khối tắc mạch mạn chiếm khoảng 3%. Nhóm một, mức B-NR: ở bệnh nhân còn khó thở hoặc giảm chức năng sau từ 3 tháng kháng đông, cần đánh giá tìm bệnh huyết khối tắc mạch phổi mạn. Tắc nghẽn không thay đổi sau 3 tháng, nên chờ lâu hơn chỉ làm chậm chẩn đoán.",
+    "Nhóm hai a: làm siêu âm tim kèm xạ hình tưới máu phổi, thay vì siêu âm tim đơn độc. Một phần ba bệnh nhân tăng áp phổi do huyết khối mạn có siêu âm tim bình thường, trong khi xạ hình thông khí tưới máu bình thường có giá trị loại trừ gần 100%. Nhóm hai a: nghiệm pháp gắng sức tim phổi hợp lý để phát hiện giới hạn do bệnh mạch phổi, như tăng khoảng chết phế nang.",
+    "Nhóm ba, không lợi ích: ở bệnh nhân đã hết triệu chứng và nghi ngờ thấp, không chụp lại cắt lớp hay xạ hình để xem huyết khối đã tan chưa. Tắc nghẽn tồn dư không liên quan đến kết cục, và chụp cắt lớp không dùng để quyết định thời gian kháng đông.",
+    "Nhóm một: tiếp tục kháng đông trong lúc đánh giá, trừ khi nguy cơ chảy máu cao. Nếu đã loại trừ bệnh mạn mà vẫn khó thở, nhóm một, mức B-R: phục hồi chức năng hô hấp. Một thử nghiệm 211 bệnh nhân cho thấy chương trình tập 8 tuần tại nhà cải thiện khả năng gắng sức và chất lượng sống.",
+    "Khi đã chẩn đoán bệnh huyết khối tắc mạch phổi mạn có tăng áp phổi, nhóm một: chuyển đến trung tâm chuyên sâu, nơi có phẫu thuật bóc nội mạc động mạch phổi và nong bóng động mạch phổi, vì kết quả gắn chặt với kinh nghiệm trung tâm. Không có tăng áp phổi, nhóm hai a, chuyển tuyến chọn lọc."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: không yếu tố thúc đẩy, 6 tháng",
+   "ref": "Mục 5.2 · Khuyến cáo 1, 4, 7",
+   "case": "Nữ 58 tuổi, thuyên tắc phổi nhóm C2 <b>không yếu tố thúc đẩy</b>. Đã dùng apixaban 5 mg × 2 đủ 6 tháng, không chảy máu. Tầm soát ung thư theo tuổi bình thường. ClCr 78.",
+   "case_at": 0,
+   "q": "Kế hoạch tiếp theo?",
+   "q_at": 1,
+   "options": [
+    "Dừng kháng đông vì đã đủ 6 tháng",
+    "Tiếp tục apixaban 2,5 mg × 2, không định ngày dừng, đánh giá lại định kỳ",
+    "Chuyển warfarin đích INR 2–3",
+    "Chụp PET-CT tìm ung thư rồi mới quyết định"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Không yếu tố thúc đẩy → kéo dài (1, A) · DOAC hơn kháng vitamin K (1, A) · nửa liều apixaban 2,5 mg × 2 hoặc rivaroxaban 10 mg (1, A) · đánh giá lại định kỳ (1, B-NR) · không PET-CT thường quy (3, A).",
+   "lines": [
+    "Tình huống thứ nhất. Phụ nữ 58 tuổi, thuyên tắc phổi nhóm C2 không có yếu tố thúc đẩy, đã dùng apixaban 5 miligam hai lần mỗi ngày đủ 6 tháng, không chảy máu. Tầm soát ung thư theo tuổi bình thường, độ thanh thải creatinine 78.",
+    "Kế hoạch tiếp theo là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là tiếp tục apixaban nửa liều, 2,5 miligam hai lần mỗi ngày, không định trước ngày dừng, và đánh giá lại định kỳ. Thuyên tắc không yếu tố thúc đẩy có nguy cơ tái phát cao, nên kháng đông kéo dài là nhóm một, mức A; nửa liều giảm chảy máu mà vẫn giữ hiệu quả.",
+    "Chuyển warfarin làm tăng chảy máu, còn PET-CT tầm soát ung thư thường quy là nhóm ba, không lợi ích."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: còn khó thở sau 4 tháng",
+   "ref": "Mục 6.1 · Khuyến cáo 1–5",
+   "case": "Nam 63 tuổi, 4 tháng sau thuyên tắc phổi nhóm C3, đang rivaroxaban 20 mg. Còn <b>khó thở khi leo 1 tầng lầu</b>. Siêu âm tim lúc ra viện: thất phải giãn nhẹ.",
+   "case_at": 0,
+   "q": "Đánh giá tiếp theo phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Chụp lại CT mạch phổi để quyết định dừng kháng đông",
+    "Siêu âm tim kèm xạ hình tưới máu phổi, CPET nếu cần; tiếp tục kháng đông",
+    "Dừng kháng đông vì đã quá 3 tháng",
+    "Chỉ phục hồi chức năng hô hấp, không cần xét nghiệm"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Khó thở sau ≥ 3 tháng → tìm bệnh huyết khối tắc mạch phổi mạn (1) · siêu âm tim + xạ hình tưới máu (2a) · CPET (2a) · tiếp tục kháng đông khi đánh giá (1) · phục hồi chức năng chỉ sau khi loại trừ (1).",
+   "lines": [
+    "Tình huống thứ hai. Nam 63 tuổi, 4 tháng sau thuyên tắc phổi nhóm C3, đang dùng rivaroxaban 20 miligam. Bệnh nhân còn khó thở khi leo một tầng lầu. Siêu âm tim lúc ra viện thấy thất phải giãn nhẹ.",
+    "Đánh giá tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là siêu âm tim kèm xạ hình tưới máu phổi, nghiệm pháp gắng sức tim phổi nếu cần, và tiếp tục kháng đông trong lúc đánh giá. Đây là bệnh nhân còn triệu chứng sau từ 3 tháng, cần tìm bệnh huyết khối tắc mạch phổi mạn.",
+    "Chụp lại cắt lớp không dùng để quyết định thời gian kháng đông, dừng kháng đông khi đang đánh giá là sai, và phục hồi chức năng chỉ nên bắt đầu sau khi đã loại trừ bệnh mạn."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "summary",
+   "chapter": "Ôn tập toàn loạt",
+   "title": "Mười thông điệp của loạt bài",
+   "dense": true,
+   "cols1": 5,
+   "items": [
+    {
+     "n": "1",
+     "t": "Chẩn đoán: thang điểm → D-dimer theo tuổi hoặc YEARS → CT mạch phổi",
+     "d": "Không dùng siêu âm tim để chẩn đoán",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "n": "2",
+     "t": "Phân loại A–E, phân nhóm và hệ số R",
+     "d": "D2 = sốc huyết áp bình thường",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "n": "3",
+     "t": "Lactate, dấu ấn tim, hình ảnh thất phải",
+     "d": "Nhóm 1 cho C–E",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "n": "4",
+     "t": "A–B ngoại trú · PERT cho C–E",
+     "d": "Không chuyển viện nhóm E chưa ổn định",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "n": "5",
+     "t": "Heparin TLPT thấp, DOAC là lựa chọn ưu tiên",
+     "d": "Kháng vitamin K khi kháng phospholipid · thai kỳ chỉ thuốc tiêm",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "n": "6",
+     "t": "Tránh an thần sâu, thở máy ở C–E",
+     "d": "Norepinephrine đầu tay · dịch ≤ 500 mL",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "n": "7",
+     "t": "Điều trị nâng cao theo Bảng 7",
+     "d": "E1: 2a cả bốn · A–C1: chỉ kháng đông",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "n": "8",
+     "t": "Alteplase 100 mg / 2 giờ · qua ống thông 5–10 mg mỗi động mạch",
+     "d": "Liều thấp 25–50 mg: 2b",
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "n": "9",
+     "t": "Thời gian theo yếu tố nguy cơ · nửa liều DOAC kéo dài",
+     "d": "Apixaban 2,5 mg × 2 · rivaroxaban 10 mg",
+     "at": 4,
+     "c": "green"
+    },
+    {
+     "n": "10",
+     "t": "Hỏi triệu chứng ≥ 1 năm · siêu âm tim + xạ hình",
+     "d": "Không CT/PET tầm soát ung thư thường quy",
+     "at": 5,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Thưa quý đồng nghiệp, xin ôn tập mười thông điệp của toàn loạt. Một: chẩn đoán đi theo trình tự thang điểm xác suất, D-dimer theo tuổi hoặc YEARS, rồi chụp cắt lớp mạch phổi; không dùng siêu âm tim để chẩn đoán.",
+    "Hai: hệ phân loại A đến E với phân nhóm và hệ số hô hấp R; nhóm D2 là sốc huyết áp bình thường. Ba: lactate, dấu ấn tim và hình ảnh thất phải là công cụ phân tầng nhóm một.",
+    "Bốn: nhóm A và B có thể điều trị ngoại trú, đội phản ứng nhanh cho nhóm C đến E, và không chuyển viện bệnh nhân nhóm E khi chưa ổn định. Năm: heparin trọng lượng phân tử thấp và kháng đông uống trực tiếp là lựa chọn ưu tiên, trừ hội chứng kháng phospholipid và thai kỳ.",
+    "Sáu: tránh an thần sâu và thở máy ở nhóm C đến E, norepinephrine là vận mạch đầu tay. Bảy: điều trị nâng cao theo Bảng 7, nhóm E1 là hai a cho cả bốn biện pháp.",
+    "Tám: alteplase 100 miligam trong 2 giờ, qua ống thông 5 đến 10 miligam mỗi động mạch phổi. Chín: thời gian kháng đông theo yếu tố nguy cơ, và nửa liều kháng đông uống trực tiếp ở giai đoạn kéo dài.",
+    "Mười: hỏi triệu chứng ít nhất 1 năm, siêu âm tim kèm xạ hình khi còn khó thở, và không tầm soát ung thư bằng chụp cắt lớp hay PET thường quy. Cảm ơn quý đồng nghiệp đã đồng hành cùng trọn bộ loạt bài. Hẹn gặp lại quý vị trong những chuyên đề tiếp theo của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
