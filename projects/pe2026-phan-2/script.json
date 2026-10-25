@@ -1,0 +1,722 @@
+{
+ "title": "AHA/ACC 2026 Thuyên tắc phổi – Phần 2: Phân loại lâm sàng A–E và nơi điều trị",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "AHA/ACC 2026 Thuyên tắc phổi · Phần 2/5",
+ "source_short": "Nguồn: 2026 AHA/ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 2/5",
+   "title": "Phân loại A–E<br>và nơi điều trị",
+   "subtitle": "Phần 2 · Nhóm và phân nhóm, hệ số hô hấp R, thang điểm, dấu ấn sinh học, thất phải, ngoại trú, chuyển viện, PERT",
+   "badges": [
+    {
+     "t": "5 nhóm + phân nhóm + R",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Lactate: nhóm 1",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "PERT cho C–E",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "note": "Mục 3.2 · 4.1 · Bảng 5, 6 · Hình 2, 3",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần hai của loạt bài về Hướng dẫn thuyên tắc phổi cấp năm 2026.",
+    "Phần này dành trọn cho thông điệp trung tâm của hướng dẫn: hệ phân loại lâm sàng thuyên tắc phổi cấp với năm nhóm từ A đến E, các phân nhóm và hệ số hô hấp R.",
+    "Chúng ta sẽ xem từng công cụ dùng để xếp nhóm: thang điểm độ nặng, đánh giá huyết động, dấu ấn sinh học và hình ảnh thất phải.",
+    "Cuối cùng là các quyết định thực hành: ai điều trị ngoại trú, ai vào hồi sức, khi nào chuyển viện, và vai trò của đội phản ứng nhanh thuyên tắc phổi."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "timeline",
+   "chapter": "Lịch sử phân loại · Bảng 5",
+   "title": "Từ ba nhóm đến năm nhóm",
+   "ref": "Mục 3.2 · Bảng 5",
+   "events": [
+    {
+     "year": "AHA 2011",
+     "t": "3 nhóm",
+     "d": "Nguy cơ thấp · submassive (HA tâm thu ≥ 90 + rối loạn thất phải hoặc hoại tử cơ tim) · massive (HA tâm thu < 90 > 15 phút hoặc cần thuốc tăng co bóp)",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "year": "ESC 2019",
+     "t": "4 nhóm",
+     "d": "Thấp · trung bình thấp · trung bình cao (thang điểm tăng + troponin + thất phải) · cao (mất ổn định huyết động)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "year": "AHA 2026",
+     "t": "5 nhóm A–E + phân nhóm 1–3 + R",
+     "d": "Tích hợp lâm sàng, huyết động, hô hấp, dấu ấn sinh học, thất phải · xếp theo chỉ điểm nặng nhất · bệnh nhân có thể chuyển nhóm khi đánh giá lại",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "note": {
+    "t": "Mục tiêu: làm rõ khác biệt kết cục trong cùng một nhóm, nhận diện bệnh cảnh nặng về hô hấp và trạng thái tiền suy tim phổi",
+    "at": 3,
+    "c": "teal"
+   },
+   "lines": [
+    "Để hiểu vì sao cần hệ phân loại mới, hãy nhìn lại lịch sử. Năm 2011, tuyên bố khoa học của Hội Tim mạch Hoa Kỳ chia ba nhóm: nguy cơ thấp; submassive, tức huyết áp tâm thu từ 90 trở lên kèm rối loạn chức năng thất phải hoặc hoại tử cơ tim; và massive, tức huyết áp tâm thu dưới 90 kéo dài trên 15 phút hoặc cần thuốc tăng co bóp.",
+    "Năm 2019, Hội Tim mạch châu Âu đưa ra bốn nhóm: nguy cơ thấp, trung bình thấp, trung bình cao khi có cả troponin dương tính và rối loạn thất phải, và nguy cơ cao khi mất ổn định huyết động.",
+    "Năm 2026, hệ phân loại lâm sàng của Hội Tim mạch và Trường môn Tim mạch Hoa Kỳ có năm nhóm từ A đến E, mỗi nhóm có phân nhóm 1 đến 3, cộng hệ số hô hấp R. Bệnh nhân được xếp theo chỉ điểm nặng nhất về lâm sàng, xét nghiệm và hình ảnh, và có thể chuyển nhóm khi được đánh giá lại theo thời gian.",
+    "Mục tiêu là làm rõ sự khác biệt kết cục ngay trong cùng một nhóm, nhận diện những bệnh cảnh nặng chủ yếu về hô hấp thay vì huyết động, và xác định các trạng thái tiền suy tim phổi."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "Nhóm A–C · Hình 2",
+   "title": "Nhóm A, B, C: chưa có suy tim phổi",
+   "ref": "Mục 3.2 · Hình 2",
+   "head": [
+    "Nhóm",
+    "Định nghĩa",
+    "Ví dụ trong hướng dẫn"
+   ],
+   "widths": "0.9fr 1.7fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>A</b> · cận lâm sàng<br>A1 dưới phân thuỳ · A2 không dưới phân thuỳ",
+      "Phát hiện tình cờ, <b>không triệu chứng</b>",
+      "A1: ung thư phổi, thuyên tắc dưới phân thuỳ thuỳ dưới trái trên CT đánh giá giai đoạn"
+     ],
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>B</b> · triệu chứng, điểm thấp<br>B1 dưới phân thuỳ · B2 phân thuỳ trở lên",
+      "PESI ≤ 85 hoặc sPESI = 0 hoặc Bova ≤ 4",
+      "B2: đau ngực kiểu màng phổi sau thay khớp háng, sPESI 0, thuyên tắc phân thuỳ, thất phải không giãn"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>C1</b> · triệu chứng, điểm tăng",
+      "PESI > 85 hoặc sPESI ≥ 1 hoặc Bova > 4 · thất phải và dấu ấn sinh học <b>bình thường</b>",
+      "C1R: ung thư vú, khó thở đột ngột, nhịp nhanh, giảm oxy, thuyên tắc thuỳ hai bên, thất phải và troponin bình thường"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>C2</b>",
+      "Thất phải bất thường <b>hoặc</b> ≥ 1 dấu ấn sinh học bất thường",
+      "Troponin hoặc peptide lợi niệu natri"
+     ],
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>C3</b>",
+      "Thất phải bất thường <b>và</b> ≥ 1 dấu ấn sinh học bất thường",
+      "Tương ứng quần thể thử nghiệm PEITHO"
+     ],
+     "at": 4,
+     "c": "coral",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Nhóm A là thuyên tắc phổi cận lâm sàng, phát hiện tình cờ và không có triệu chứng, thường trên phim chụp cắt lớp làm vì lý do khác. Ví dụ nhóm A1: bệnh nhân ung thư phổi không triệu chứng, được phát hiện thuyên tắc dưới phân thuỳ ở thuỳ dưới trái trên phim chụp đánh giá giai đoạn.",
+    "Nhóm B là thuyên tắc phổi có triệu chứng nhưng điểm độ nặng thấp: PESI từ 85 trở xuống, hoặc sPESI bằng 0, hoặc điểm Bova từ 4 trở xuống. Nhóm B1 là thuyên tắc dưới phân thuỳ, một hay nhiều ổ; B2 là thuyên tắc phân thuỳ trở lên.",
+    "Lý do tách riêng dưới phân thuỳ là vì quyết định về nhà hay nhập viện, và cả quyết định có kháng đông hay không, có thể khác nhau tuỳ vị trí và việc có huyết khối tĩnh mạch sâu đi kèm. Ví dụ nhóm B2: bệnh nhân đau ngực kiểu màng phổi sau thay khớp háng, sPESI bằng 0, thuyên tắc phân thuỳ thuỳ dưới phải, thất phải không giãn.",
+    "Nhóm C là thuyên tắc phổi có triệu chứng với điểm độ nặng tăng: PESI trên 85, sPESI từ 1, hoặc Bova trên 4. C1 khi thất phải và dấu ấn sinh học bình thường. Ví dụ C1R: bệnh nhân ung thư vú khó thở đột ngột, nhịp nhanh, giảm oxy máu, thuyên tắc thuỳ hai bên, nhưng thất phải không giãn và troponin không tăng.",
+    "C2 khi có thất phải bất thường hoặc ít nhất một dấu ấn sinh học tăng, như troponin hay peptide lợi niệu natri. C3 khi có cả hai, thất phải bất thường và dấu ấn sinh học tăng. Nhóm C3 tương ứng với quần thể bệnh nhân trong thử nghiệm PEITHO."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "compare",
+   "chapter": "Nhóm D–E · Hình 2",
+   "title": "Nhóm D và E: tiền suy và suy tim phổi",
+   "ref": "Mục 3.2 · Hình 2 · Mục 3.2.2",
+   "head": [
+    "Phân nhóm",
+    "Định nghĩa",
+    "Ví dụ · ghi chú"
+   ],
+   "widths": "0.9fr 1.8fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>D1</b> · tụt huyết áp thoáng qua",
+      "HA tâm thu < 90 hoặc giảm > 40 mmHg, kéo dài <b>< 15 phút</b> hoặc đáp ứng dịch; <b>không</b> giảm tưới máu",
+      "Thử dịch thường là 500–1000 mL NaCl 0,9%"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>D2</b> · sốc huyết áp bình thường",
+      "≥ 1 chỉ điểm giảm tưới máu: lactate > 2 mmol/L · tổn thương thận cấp · nước tiểu < 0,5 mL/kg/giờ · thay đổi tri giác · chỉ số tim < 2,2 · HA trung bình < 60 · SCAI B–C",
+      "Sau mổ cột sống: thuyên tắc hai động mạch phổi chính, creatinine tăng, HA trung bình thấp"
+     ],
+     "at": 2,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>E1</b> · suy tim phổi",
+      "Tụt huyết áp tái diễn hoặc kéo dài, sốc tim · tương ứng <b>SCAI C</b>",
+      "Cần vận mạch, tăng co bóp"
+     ],
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>E2</b> · sốc kháng trị",
+      "Sốc tim kháng trị (<b>SCAI D–E</b>) hoặc ngừng tim không có tuần hoàn tự nhiên sau 30 phút hồi sinh",
+      "E2R: viêm phổi COVID-19 thở máy, thuyên tắc yên ngựa, thất phải giảm động nặng, tụt huyết áp dù 3 vận mạch"
+     ],
+     "at": 5,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Nhóm D là suy tim phổi chớm xuất hiện, tức các trạng thái tiền suy tim phổi. D1 là tụt huyết áp thoáng qua hoặc tái diễn, kể cả tụt tương đối so với huyết áp nền, với huyết áp tâm thu dưới 90 hoặc giảm trên 40 milimét thủy ngân, kéo dài dưới 15 phút hoặc đáp ứng với dịch, và không có dấu hiệu giảm tưới máu hay rối loạn chức năng cơ quan.",
+    "Theo hướng dẫn, thử thách dịch thường là 500 đến 1000 mililít natri clorid 0,9% truyền tĩnh mạch.",
+    "D2 là sốc huyết áp bình thường, tức giảm tưới máu đơn độc khi huyết áp chưa tụt, với ít nhất một chỉ điểm: lactate trên 2 milimol mỗi lít, tổn thương thận cấp, nước tiểu dưới 0,5 mililít mỗi kilôgam mỗi giờ, thay đổi tri giác, chỉ số tim dưới 2,2 lít mỗi phút mỗi mét vuông, huyết áp trung bình dưới 60, hoặc điểm sốc tăng như SCAI giai đoạn B hoặc C.",
+    "Ví dụ D2 trong hướng dẫn: bệnh nhân vừa mổ cột sống, khó thở đột ngột, nhịp nhanh, giảm oxy máu, huyết áp tâm thu bình thường, thuyên tắc cả hai động mạch phổi chính, creatinine tăng dần và huyết áp trung bình thấp.",
+    "Nhóm E là suy tim phổi. E1 là tụt huyết áp tái diễn hoặc kéo dài với sốc tim, tương ứng SCAI giai đoạn C.",
+    "E2 là sốc tim kháng trị, SCAI giai đoạn D đến E, hoặc ngừng tim mà không có tuần hoàn tự nhiên trở lại sau 30 phút hồi sinh. Ví dụ E2R: bệnh nhân viêm phổi COVID-19 đang thở máy, thuyên tắc yên ngựa, thất phải giảm động nặng, tụt huyết áp dù đã dùng ba thuốc vận mạch."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "cards",
+   "chapter": "Hệ số hô hấp R",
+   "title": "Hệ số hô hấp R: ghi thêm vào nhóm",
+   "ref": "Hình 2 · chú thích",
+   "cards": [
+    {
+     "tag": "C · R",
+     "t": "Giảm oxy hoặc thở nhanh",
+     "items": [
+      "SpO₂ < 90%",
+      "Hoặc nhịp thở ≥ 30 lần/phút",
+      "Hoặc cần oxy bổ sung"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "D · R",
+     "t": "Nhu cầu oxy cao",
+     "items": [
+      "> 6 L/phút qua gọng mũi",
+      "Hoặc mặt nạ không thở lại"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "E · R",
+     "t": "Suy hô hấp",
+     "items": [
+      "Cần thông khí áp lực dương",
+      "Không xâm lấn hoặc xâm lấn"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Một điểm mới đáng chú ý là hệ số hô hấp R. Có những bệnh nhân thuyên tắc phổi mà bệnh cảnh nặng chủ yếu về hô hấp chứ không phải huyết động, và các hệ phân loại trước bỏ sót nhóm này. Khi đạt tiêu chí, chữ R được thêm vào sau phân nhóm, ví dụ C3R hay D2R.",
+    "Ở nhóm C, R được ghi khi độ bão hoà oxy dưới 90%, nhịp thở từ 30 lần mỗi phút trở lên, hoặc cần oxy bổ sung.",
+    "Ở nhóm D, R được ghi khi cần oxy trên 6 lít mỗi phút qua gọng mũi hoặc phải dùng mặt nạ không thở lại.",
+    "Ở nhóm E, R nghĩa là suy hô hấp cần thông khí áp lực dương, không xâm lấn hoặc xâm lấn. Như chúng ta sẽ thấy ở phần bốn, chính nhóm bệnh nhân này đòi hỏi thận trọng đặc biệt khi an thần và đặt nội khí quản."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "cards",
+   "chapter": "Thang điểm · Bảng 6",
+   "title": "Thang điểm độ nặng",
+   "ref": "Mục 3.2.1 · Bảng 6 · Khuyến cáo 1 (1, B-R), 2 (2a), 3 (2b)",
+   "h": 680,
+   "cards": [
+    {
+     "tag": "PESI",
+     "t": "11 biến",
+     "items": [
+      "Tuổi (số năm) · nam 10",
+      "Ung thư 30 · suy tim 10 · bệnh phổi mạn 10",
+      "Mạch ≥ 110: 20 · HA tâm thu < 100: 30",
+      "Thở ≥ 30: 20 · nhiệt độ < 36 °C: 20",
+      "Rối loạn tri giác 60 · SpO₂ < 90%: 20",
+      "<b>Độ I ≤ 65 · II 66–85</b> · III 86–105 · IV 106–125 · V ≥ 126"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "sPESI",
+     "t": "6 biến, mỗi biến 1 điểm",
+     "items": [
+      "Tuổi > 80 · ung thư",
+      "Bệnh tim phổi mạn",
+      "HA tâm thu < 100 · mạch ≥ 110",
+      "SpO₂ < 90%",
+      "<b>0 điểm: nguy cơ tử vong 30 ngày thấp</b>"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "HESTIA",
+     "t": "11 câu hỏi có / không",
+     "items": [
+      "Mất ổn định huyết động · cần tiêu sợi huyết",
+      "Chảy máu, nguy cơ chảy máu cao · oxy > 24 giờ",
+      "Thuyên tắc khi đang kháng đông · đau cần thuốc tĩnh mạch",
+      "ClCr < 30 · suy gan nặng · thai · tiền sử giảm tiểu cầu do heparin",
+      "<b>Tất cả không → cân nhắc ngoại trú</b>"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BOVA",
+     "t": "0–7 điểm",
+     "items": [
+      "HA tâm thu 90–100: 2",
+      "Troponin tăng: 2 · rối loạn thất phải: 2",
+      "Mạch ≥ 110: 1",
+      "<b>Giai đoạn I 0–2 · II 3–4 · III > 4</b>"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bảng 6 tóm tắt các thang điểm. Khuyến cáo nhóm một, mức B-R: ở nhóm A và B, dùng Hestia, PESI hoặc sPESI để xác định bệnh nhân nguy cơ thấp cho kết cục ngắn hạn. Nhóm hai a: ở bệnh nhân ổn định huyết động nhóm C và D, hợp lý dùng một thang điểm đặc hiệu cho thuyên tắc phổi để xác định nguy cơ cao hơn. Nhóm hai b: thang NEWS hoặc NEWS2 có thể là lựa chọn thay thế.",
+    "PESI gồm mười một biến: lấy tuổi tính bằng năm, cộng 10 điểm nếu là nam, 30 nếu có ung thư, 10 nếu suy tim, 10 nếu bệnh phổi mạn, 20 nếu mạch từ 110, 30 nếu huyết áp tâm thu dưới 100, 20 nếu nhịp thở từ 30, 20 nếu nhiệt độ dưới 36 độ, 60 nếu rối loạn tri giác, 20 nếu độ bão hoà oxy dưới 90%. Độ một từ 65 trở xuống, độ hai từ 66 đến 85; đây là hai độ nguy cơ thấp.",
+    "sPESI rút gọn còn sáu biến, mỗi biến 1 điểm: tuổi trên 80, ung thư, bệnh tim phổi mạn, huyết áp tâm thu dưới 100, mạch từ 110, độ bão hoà oxy dưới 90%. Không điểm nghĩa là nguy cơ tử vong 30 ngày thấp.",
+    "Hestia gồm mười một câu hỏi có hoặc không, như mất ổn định huyết động, cần tiêu sợi huyết, chảy máu hoặc nguy cơ chảy máu cao, cần oxy trên 24 giờ, thuyên tắc xảy ra khi đang kháng đông, đau cần thuốc tĩnh mạch, lý do y tế hay xã hội, độ thanh thải creatinine dưới 30, suy gan nặng, thai kỳ, và tiền sử giảm tiểu cầu do heparin. Nếu tất cả đều không, cân nhắc điều trị ngoại trú.",
+    "Điểm Bova dùng cho bệnh nhân ổn định: huyết áp tâm thu 90 đến 100 được 2 điểm, troponin tăng 2 điểm, rối loạn thất phải 2 điểm, mạch từ 110 được 1 điểm. Lưu ý quan trọng: các thang điểm rất tốt để nhận diện người nguy cơ thấp, nhưng không thang nào dự báo mạnh ai sẽ diễn tiến xấu trong nhóm ổn định huyết động."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "Huyết động · dấu ấn · Mục 3.2.2–3.2.3",
+   "title": "Huyết động và dấu ấn sinh học",
+   "ref": "Mục 3.2.2 · 3.2.3",
+   "cards": [
+    {
+     "tag": "2a · B-NR · D2",
+     "t": "Tìm sốc huyết áp bình thường",
+     "items": [
+      "Giảm tưới máu đơn độc: 34% ở nhóm nguy cơ trung bình được lấy huyết khối (FLASH)",
+      "Dự báo diễn tiến xấu và tử vong nội viện"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "2a · B-NR · C3",
+     "t": "HA trung bình < 80 mmHg",
+     "items": [
+      "Ngưỡng tối ưu 81,5: giá trị dự báo âm 97,7%",
+      "Theo dõi sát 24–72 giờ đầu: thời điểm hay xảy ra suy sụp"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "1 · B-NR · C",
+     "t": "≥ 1 dấu ấn tim",
+     "items": [
+      "Troponin tăng: OR tử vong 4,33",
+      "BNP tăng: OR tử vong ngắn hạn 6,57"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "1 · B-NR · C–E",
+     "t": "Lactate động mạch hoặc tĩnh mạch",
+     "items": [
+      "OR tử vong 5,13 · ở người huyết áp bình thường 4,54",
+      "Tử vong do thuyên tắc phổi: OR 9,05",
+      "Đo cùng lúc với dấu ấn tim"
+     ],
+     "at": 3,
+     "c": "violet",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Về huyết động, khuyến cáo nhóm hai a: ở nhóm D2, cần tìm sốc huyết áp bình thường để nhận diện người tăng nguy cơ suy sụp và tử vong nội viện. Trong sổ bộ FLASH, giảm tưới máu đơn độc gặp ở 34% bệnh nhân nguy cơ trung bình được lấy huyết khối cơ học.",
+    "Nhóm hai a: ở nhóm C3, huyết áp trung bình dưới 80 milimét thủy ngân có thể giúp nhận diện người cần leo thang điều trị. Sổ bộ Ý cho ngưỡng tối ưu 81,5, độ đặc hiệu 95% và giá trị dự báo âm 97,7%. Trong thử nghiệm PEITHO, suy sụp huyết động xảy ra trung bình sau 1,5 đến 1,8 ngày, nên 24 đến 72 giờ đầu là giai đoạn cần theo dõi sát.",
+    "Về dấu ấn sinh học, nhóm một, mức B-NR: ở nhóm C, cần đo ít nhất một dấu ấn tim, troponin hoặc peptide lợi niệu natri. Phân tích gộp trên 10842 bệnh nhân cho thấy troponin tăng làm tăng nguy cơ tử vong với tỷ số chênh 4,33; BNP tăng có tỷ số chênh tử vong ngắn hạn 6,57.",
+    "Và đây là khuyến cáo nhóm một đáng nhớ: ở nhóm C đến E tại cơ sở cấp cứu, cần đo lactate, động mạch hoặc tĩnh mạch. Lactate tăng liên quan tỷ số chênh tử vong 5,13, vẫn là 4,54 ở người huyết áp bình thường, và 9,05 cho tử vong do thuyên tắc phổi. Lactate nên được đo mỗi khi đo dấu ấn tim, với ngưỡng theo xét nghiệm tại chỗ."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "compare",
+   "chapter": "Thất phải · Mục 3.2.4–3.2.5",
+   "title": "Hình ảnh thất phải và gánh huyết khối",
+   "ref": "Mục 3.2.4 · 3.2.5",
+   "head": [
+    "Khuyến cáo",
+    "Nội dung",
+    "Bằng chứng"
+   ],
+   "widths": "0.8fr 1.6fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>1 · A</b>",
+      "Nhóm C–D: <b>hình ảnh thất phải</b> để phân tầng ngắn hạn",
+      "Phân tích gộp 5010 bệnh nhân nguy cơ thấp: rối loạn thất phải tăng tử vong ngắn hạn OR 4,81, tử vong do thuyên tắc OR 22,9"
+     ],
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>2a · B-NR</b>",
+      "Ưu tiên <b>siêu âm tim</b> hơn CT",
+      "RIETE 15375 bệnh nhân: giảm động thất phải OR 3,11 · CT: RV/LV nhạy 0,83, đặc hiệu 0,75 · lệch vách nhạy 0,31, đặc hiệu 0,98"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Thực hành</b>",
+      "Siêu âm tại giường thay thế khi không có siêu âm tim chính thức",
+      "Độ chính xác chấp nhận được ở bệnh nhân nặng"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>3 · KHÔNG LỢI ÍCH</b>",
+      "Nhóm A–C: <b>không định lượng gánh huyết khối</b> để phân tầng",
+      "Chỉ số tắc nghẽn cao không liên quan tiên lượng · hữu ích khi lập kế hoạch điều trị nâng cao"
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hình ảnh thất phải, khuyến cáo nhóm một, mức A: ở bệnh nhân có điểm độ nặng tăng nhưng chưa sốc, tức nhóm C đến D, cần đánh giá thất phải để phân tầng nguy cơ ngắn hạn.",
+    "Bằng chứng rất mạnh: phân tích gộp dữ liệu từng bệnh nhân trên 5010 người nguy cơ thấp cho thấy rối loạn thất phải phát hiện bằng siêu âm, cắt lớp hoặc peptide lợi niệu natri làm tăng tử vong ngắn hạn với tỷ số chênh 4,81, và tử vong do thuyên tắc phổi với tỷ số chênh 22,9.",
+    "Nhóm hai a: ưu tiên siêu âm tim hơn cắt lớp để phân tầng. Trong sổ bộ RIETE với 15375 bệnh nhân, giảm động thất phải làm tăng tử vong do thuyên tắc phổi. So với siêu âm, tỷ số thất phải trên thất trái trên cắt lớp có độ nhạy 0,83 và độ đặc hiệu 0,75, còn dấu lệch vách có độ đặc hiệu 0,98 nhưng độ nhạy chỉ 0,31.",
+    "Ở bệnh nhân nặng, siêu âm tại giường có độ chính xác chấp nhận được và có thể thay thế siêu âm tim chính thức khi không sẵn có.",
+    "Ngược lại, nhóm ba, không lợi ích: ở nhóm A đến C, không định lượng gánh huyết khối trên phim chụp, như điểm Miller, để phân tầng ngắn hạn. Chỉ số tắc nghẽn cao không liên quan trực tiếp đến tiên lượng. Tuy vậy, mô tả giải phẫu huyết khối vẫn hữu ích khi đã chọn điều trị nâng cao."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "compare",
+   "chapter": "Nơi điều trị · Mục 4.1",
+   "title": "Ngoại trú, hồi sức hay chuyển viện?",
+   "ref": "Mục 4.1.1–4.1.3",
+   "head": [
+    "Quyết định",
+    "Khuyến cáo",
+    "Điều kiện · bằng chứng"
+   ],
+   "widths": "1fr 1.5fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ngoại trú</b> nhóm A–B",
+      "2a · B-R: dùng Hestia, PESI, sPESI · ngoại trú là lựa chọn hợp lý",
+      "Phải có <b>thuốc ngay</b> và <b>tái khám nhanh, tin cậy</b> · 90 ngày: tử vong, chảy máu, tái phát mỗi loại < 1,5%"
+     ],
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>Hồi sức hoặc trung gian</b>",
+      "1 · C-EO: khi dùng <b>tiêu sợi huyết</b> toàn thân hoặc qua ống thông",
+      "Ống thông lưu, thuốc tiêu sợi huyết đang truyền"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Monitor liên tục</b>",
+      "2a · B-R: lấy huyết khối cơ học, huyết động ổn định",
+      "PEERLESS: > 60% chăm sóc ngoài hồi sức, biến cố rất thấp"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Chuyển viện</b>",
+      "2b · C-LD: nhóm C3–D đến trung tâm có điều trị nâng cao",
+      "Phẫu thuật, tiêu sợi huyết qua ống thông, lấy huyết khối, ECMO, lọc tĩnh mạch chủ"
+     ],
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Không chuyển</b> nhóm E",
+      "<b>3 · CÓ HẠI</b> · C-EO: chuyển khi chưa ổn định",
+      "Ổn định trước · <b>không trì hoãn tiêu sợi huyết tĩnh mạch</b>"
+     ],
+     "at": 5,
+     "c": "violet",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Bây giờ đến các quyết định nơi điều trị. Nhóm hai a, mức B-R: tại phòng khám hay khoa cấp cứu, hợp lý dùng công cụ như Hestia, PESI hay sPESI để đánh giá khả năng điều trị ngoại trú, và ở bệnh nhân chọn lọc nhóm A và B, điều trị ngoại trú là lựa chọn hợp lý khi phù hợp mục tiêu của người bệnh.",
+    "Điều kiện bắt buộc là bệnh nhân có thuốc kháng đông ngay và có lịch tái khám nhanh, tin cậy. Trong các nghiên cứu, tỷ lệ tử vong, chảy máu và tái phát trong 90 ngày đều dưới 1,5%. Thử nghiệm HOME-PE so sánh Hestia với sPESI: khoảng 37 đến 38% được điều trị tại nhà ở cả hai nhánh, biến cố gộp chỉ 1,1 đến 1,3%.",
+    "Nhóm một, ý kiến chuyên gia: bệnh nhân dùng tiêu sợi huyết, toàn thân hoặc qua ống thông, cần nằm ở hồi sức hoặc đơn vị chăm sóc trung gian để theo dõi biến chứng.",
+    "Nhóm hai a: bệnh nhân lấy huyết khối cơ học và ổn định huyết động có thể nằm ở nơi có monitor liên tục và điều dưỡng quen với biến chứng sau thủ thuật. Trong thử nghiệm PEERLESS, hơn 60% bệnh nhân lấy huyết khối được chăm sóc ngoài hồi sức với biến cố rất thấp.",
+    "Về chuyển viện, nhóm hai b: bệnh nhân nhóm C3 đến D, ổn định nhưng có đặc điểm nguy cơ cao như rối loạn thất phải và tăng dấu ấn tim, có thể được chuyển đến trung tâm có điều trị nâng cao.",
+    "Nhưng nhóm ba, có hại: bệnh nhân nhóm E không ổn định không được chuyển viện trước khi ổn định. Các can thiệp cứu mạng sẵn có tại chỗ, như tiêu sợi huyết tĩnh mạch, không được trì hoãn."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "cards",
+   "chapter": "PERT · Mục 4.1.4",
+   "title": "Đội phản ứng nhanh thuyên tắc phổi",
+   "ref": "Mục 4.1.4 · Khuyến cáo 1 (1, B-NR) · Hình 4–6",
+   "cards": [
+    {
+     "tag": "1 · B-NR",
+     "t": "Nhóm C–E",
+     "d": "Đánh giá đa chuyên khoa để cải thiện chăm sóc nội viện",
+     "items": [
+      "Nhóm A–B nhiều bệnh đồng mắc cũng có thể có lợi (ví dụ B kèm xuất huyết nội sọ)"
+     ],
+     "at": 0,
+     "c": "teal",
+     "hl": true
+    },
+    {
+     "tag": "LỢI ÍCH",
+     "t": "Đã ghi nhận",
+     "items": [
+      "Rút ngắn thời gian đến kháng đông điều trị",
+      "Giảm đặt lọc tĩnh mạch chủ dưới",
+      "Giảm thời gian nằm viện, nằm hồi sức",
+      "Tử vong: kết quả chưa thống nhất"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "VẬN HÀNH",
+     "t": "Như báo động đột quỵ",
+     "items": [
+      "Gọi bác sĩ trực PERT khi chẩn đoán",
+      "Hội chẩn qua điện thoại, trực tuyến hoặc trực tiếp",
+      "Huy động nguồn lực · tái khám tại phòng khám đa chuyên khoa"
+     ],
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo nhóm một, mức B-NR: ở bệnh nhân thuyên tắc phổi tăng nguy cơ kết cục xấu, tức nhóm C đến E, cần đánh giá bởi đội phản ứng nhanh thuyên tắc phổi đa chuyên khoa để cải thiện chăm sóc nội viện.",
+    "Bệnh nhân nhóm A hoặc B có nhiều bệnh đồng mắc cũng có thể được lợi, ví dụ thuyên tắc nhóm B ở người vừa xuất huyết nội sọ.",
+    "Các nghiên cứu cho thấy đội phản ứng nhanh rút ngắn thời gian đến kháng đông liều điều trị, giảm đặt lọc tĩnh mạch chủ dưới, và giảm thời gian nằm viện, nằm hồi sức ở phần lớn nghiên cứu. Tác động lên tử vong còn chưa thống nhất.",
+    "Đội hoạt động giống báo động đột quỵ hay nhồi máu cơ tim có ST chênh lên. Khi chẩn đoán, bác sĩ trực được gọi, thu thập thông tin, đánh giá độ nặng, hội chẩn đa chuyên khoa qua điện thoại, trực tuyến hoặc trực tiếp, huy động nguồn lực, và khi ra viện bệnh nhân được tái khám tại phòng khám đa chuyên khoa. Thành phần đội tuỳ nguồn lực từng bệnh viện."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: xếp nhóm sau mổ",
+   "ref": "Hình 2 · Mục 3.2.2",
+   "case": "Nam 58 tuổi, ngày 3 sau mổ cột sống. Khó thở đột ngột, mạch 122, HA <b>108/62 (HA trung bình 77)</b>. Oxy mặt nạ không thở lại. CT: huyết khối hai động mạch phổi chính, RV/LV 1,4. Troponin tăng, <b>lactate 3,1</b>, creatinine 88 → 141 µmol/L.",
+   "case_at": 0,
+   "q": "Bệnh nhân thuộc phân nhóm nào?",
+   "q_at": 1,
+   "options": [
+    "C3",
+    "D1",
+    "D2R",
+    "E1"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "explain": "Không tụt huyết áp nhưng có giảm tưới máu (lactate > 2, tổn thương thận cấp) → sốc huyết áp bình thường = <b>D2</b>; mặt nạ không thở lại → thêm <b>R</b>. Cần đội PERT, theo dõi hồi sức, cân nhắc điều trị nâng cao (Phần 4).",
+   "lines": [
+    "Mời quý vị áp dụng. Tình huống thứ nhất: nam 58 tuổi, ngày thứ ba sau mổ cột sống, khó thở đột ngột. Mạch 122, huyết áp 108 trên 62, huyết áp trung bình 77, phải thở oxy qua mặt nạ không thở lại. Chụp cắt lớp thấy huyết khối ở cả hai động mạch phổi chính, tỷ số thất phải trên thất trái 1,4. Troponin tăng, lactate 3,1, creatinine tăng từ 88 lên 141 micrômol mỗi lít.",
+    "Bệnh nhân thuộc phân nhóm nào?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là D2R. Bệnh nhân không tụt huyết áp, nhưng có chỉ điểm giảm tưới máu: lactate trên 2 và tổn thương thận cấp. Đó là sốc huyết áp bình thường, phân nhóm D2. Vì phải thở mặt nạ không thở lại, chúng ta ghi thêm hệ số hô hấp R.",
+    "Nếu chỉ nhìn huyết áp, rất dễ xếp nhầm vào C3 và đánh giá thấp nguy cơ. Bệnh nhân này cần đội phản ứng nhanh, theo dõi tại hồi sức và cân nhắc điều trị nâng cao, nội dung của phần bốn."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: về nhà được không?",
+   "ref": "Mục 4.1.1 · Bảng 6",
+   "case": "Nữ 46 tuổi, đau ngực kiểu màng phổi 3 ngày. Mạch 92, HA 128/76, SpO₂ 97% khí trời. CT: thuyên tắc phân thuỳ thuỳ dưới phải, RV/LV 0,8. <b>sPESI 0, Hestia âm tính</b>. Sống cùng gia đình, có điện thoại, mua được thuốc ngay.",
+   "case_at": 0,
+   "q": "Xử trí phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Nhập hồi sức theo dõi 72 giờ",
+    "Kháng đông uống, điều trị ngoại trú, hẹn tái khám sớm",
+    "Tiêu sợi huyết qua ống thông",
+    "Đặt lọc tĩnh mạch chủ dưới rồi cho về"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Nhóm <b>B2</b> (triệu chứng, sPESI 0, thuyên tắc phân thuỳ). Ngoại trú hợp lý (2a, B-R) khi có thuốc ngay, tái khám nhanh và phù hợp mong muốn người bệnh. Tiêu sợi huyết qua ống thông không khuyến cáo cho nhóm A–C1 (3).",
+   "lines": [
+    "Tình huống thứ hai: phụ nữ 46 tuổi đau ngực kiểu màng phổi 3 ngày. Mạch 92, huyết áp 128 trên 76, độ bão hoà oxy 97% khi thở khí trời. Chụp cắt lớp thấy thuyên tắc phân thuỳ thuỳ dưới phải, tỷ số thất phải trên thất trái 0,8. sPESI bằng 0, Hestia âm tính. Bệnh nhân sống cùng gia đình, liên lạc được và mua được thuốc ngay.",
+    "Xử trí phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là kháng đông đường uống, điều trị ngoại trú và hẹn tái khám sớm. Đây là nhóm B2: có triệu chứng, điểm độ nặng thấp, thuyên tắc phân thuỳ. Theo khuyến cáo nhóm hai a, điều trị ngoại trú là lựa chọn hợp lý khi có thuốc ngay, tái khám nhanh và phù hợp mong muốn của người bệnh.",
+    "Tiêu sợi huyết qua ống thông không được khuyến cáo cho nhóm A đến C1, và lọc tĩnh mạch chủ dưới không có chỉ định khi bệnh nhân dùng được kháng đông."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 2",
+   "title": "Sáu thông điệp của Phần 2",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "A–E: xếp theo chỉ điểm nặng nhất",
+     "d": "Đánh giá lại liên tục · bệnh nhân có thể chuyển nhóm",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "C1–C3: thất phải và dấu ấn sinh học",
+     "d": "C2 có một · C3 có cả hai",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "D2 = sốc huyết áp bình thường",
+     "d": "Lactate > 2, tổn thương thận, tri giác, chỉ số tim < 2,2",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "t": "Hệ số hô hấp R",
+     "d": "C: SpO₂ < 90% · D: > 6 L/phút · E: thông khí áp lực dương",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Lactate và thất phải: nhóm 1",
+     "d": "Lactate cho C–E · hình ảnh thất phải cho C–D, ưu tiên siêu âm",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "A–B ngoại trú · E ổn định tại chỗ · PERT cho C–E",
+     "d": "Không chuyển viện nhóm E chưa ổn định (3: Có hại)",
+     "at": 2,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần hai. Hệ phân loại A đến E xếp bệnh nhân theo chỉ điểm nặng nhất, và cần đánh giá lại liên tục. Ở nhóm C, phân nhóm dựa vào thất phải và dấu ấn sinh học: C2 có một, C3 có cả hai.",
+    "Nhóm D2 là sốc huyết áp bình thường, cần chủ động tìm bằng lactate, chức năng thận, tri giác. Hệ số hô hấp R nhận diện bệnh cảnh nặng về hô hấp.",
+    "Lactate và hình ảnh thất phải đều là khuyến cáo nhóm một. Nhóm A và B có thể điều trị ngoại trú khi đủ điều kiện, nhóm E phải được ổn định tại chỗ, và đội phản ứng nhanh được khuyến cáo cho nhóm C đến E.",
+    "Phần ba sẽ đi vào kháng đông với liều cụ thể từng thuốc, các đối tượng đặc biệt, theo dõi anti Xa và vai trò của lọc tĩnh mạch chủ dưới. Cảm ơn quý đồng nghiệp, hẹn gặp lại ở phần ba của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
