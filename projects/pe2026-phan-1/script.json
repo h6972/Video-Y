@@ -1,0 +1,697 @@
+{
+ "title": "AHA/ACC 2026 Thuyên tắc phổi – Phần 1: Điểm mới và chẩn đoán",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "AHA/ACC 2026 Thuyên tắc phổi · Phần 1/5",
+ "source_short": "Nguồn: 2026 AHA/ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 1/5",
+   "title": "Thuyên tắc phổi cấp<br>AHA/ACC 2026",
+   "subtitle": "Phần 1 · Mười thông điệp chính, đánh giá lâm sàng, D-dimer, YEARS và hình ảnh học",
+   "badges": [
+    {
+     "t": "Phân loại mới A–E",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "D-dimer theo tuổi · YEARS",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "t": "CT mạch phổi ưu tiên",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "note": "2026 AHA/ACC Guideline for Acute Pulmonary Embolism in Adults · Mục 1–3.1 · Bảng 3, 4 · Hình 1",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online, phần một của loạt bài về Hướng dẫn đánh giá và xử trí thuyên tắc phổi cấp ở người lớn năm 2026 của Hội Tim mạch Hoa Kỳ và Trường môn Tim mạch Hoa Kỳ, phối hợp cùng tám hội chuyên ngành.",
+    "Đây là hướng dẫn được xây dựng mới hoàn toàn, và điểm nổi bật nhất là hệ phân loại lâm sàng thuyên tắc phổi cấp với năm nhóm từ A đến E.",
+    "Trong phần này, chúng ta đi qua mười thông điệp chính, rồi đến đánh giá lâm sàng, cách dùng D-dimer hiệu chỉnh theo tuổi và thuật toán YEARS.",
+    "Sau đó là lựa chọn hình ảnh học, những xét nghiệm không nên làm, và cách báo cáo thất phải trên chụp cắt lớp và siêu âm tim."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "list",
+   "chapter": "Thông điệp chính",
+   "title": "Mười thông điệp chính của hướng dẫn 2026",
+   "ref": "Top Take-Home Messages",
+   "dense": true,
+   "cols1": 5,
+   "items": [
+    {
+     "n": "1",
+     "t": "Phân loại lâm sàng A–E",
+     "d": "5 nhóm + phân nhóm, từ nguy cơ thấp đến cao",
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "n": "2",
+     "t": "Nhóm A: về nhà từ cấp cứu",
+     "d": "Không triệu chứng, không cần nhập viện",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "n": "3",
+     "t": "Nhóm B: ra viện sớm",
+     "d": "Có triệu chứng, điểm độ nặng thấp",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "n": "4",
+     "t": "Nhóm C, D, E: nhập viện",
+     "d": "Dấu ấn sinh học, thất phải, suy tim phổi",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "n": "5",
+     "t": "Điều trị nâng cao",
+     "d": "Hợp lý ở E1 · có thể cân nhắc ở D1–2",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "n": "6",
+     "t": "Đội phản ứng thuyên tắc phổi",
+     "d": "Khuyến cáo để điều trị kịp thời",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "n": "7",
+     "t": "Heparin trọng lượng phân tử thấp > không phân đoạn",
+     "d": "Khi cần kháng đông đường tiêm",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "n": "8",
+     "t": "Kháng đông uống trực tiếp > kháng vitamin K",
+     "d": "Giảm tái phát và chảy máu nặng",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "n": "9",
+     "t": "Điều trị kéo dài sau 3–6 tháng",
+     "d": "Không yếu tố thúc đẩy lớn hồi phục được, hoặc yếu tố tồn tại",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "n": "10",
+     "t": "Tầm soát bệnh mạn sau thuyên tắc",
+     "d": "Hỏi triệu chứng mỗi lần khám ít nhất 1 năm",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn đưa ra mười thông điệp chính. Thứ nhất, một hệ phân loại lâm sàng mới gồm năm nhóm từ A đến E cùng các phân nhóm, đi từ nguy cơ thấp đến nguy cơ cao, nhằm phân loại độ nặng, tiên lượng và ra quyết định điều trị chính xác hơn.",
+    "Thứ hai, bệnh nhân không triệu chứng, nhóm A, có thể ra về an toàn từ khoa cấp cứu. Thứ ba, bệnh nhân có triệu chứng nhưng điểm độ nặng thấp, nhóm B, nói chung nên được ra viện sớm.",
+    "Thứ tư, bệnh nhân nhóm C, có tăng dấu ấn sinh học hoặc rối loạn chức năng thất phải, nhóm D, suy tim phổi chớm xuất hiện, và nhóm E, suy tim phổi với tụt huyết áp kéo dài, cần nhập viện. Thứ năm, các điều trị nâng cao gồm tiêu sợi huyết toàn thân, tiêu sợi huyết qua ống thông, lấy huyết khối cơ học và phẫu thuật lấy huyết khối là hợp lý ở nhóm E1, và có thể cân nhắc ở nhóm D1 đến D2.",
+    "Thứ sáu, đội phản ứng nhanh thuyên tắc phổi được khuyến cáo để điều trị kịp thời. Thứ bảy, khi cần kháng đông đường tiêm ban đầu, heparin trọng lượng phân tử thấp được ưu tiên hơn heparin không phân đoạn.",
+    "Thứ tám, thuốc kháng đông uống trực tiếp được ưu tiên hơn kháng vitamin K. Thứ chín, với thuyên tắc phổi lần đầu không có yếu tố nguy cơ lớn hồi phục được, hoặc có yếu tố nguy cơ tồn tại, nên tiếp tục kháng đông sau giai đoạn ban đầu 3 đến 6 tháng.",
+    "Và thứ mười, mọi bệnh nhân sau thuyên tắc phổi cần được hỏi về triệu chứng và giới hạn chức năng ở mỗi lần khám, trong ít nhất 1 năm, để tầm soát bệnh huyết khối tắc mạch phổi mạn."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "cards",
+   "chapter": "Lâm sàng · Mục 3.1.1",
+   "title": "Đánh giá lâm sàng: nghĩ đến để không bỏ sót",
+   "ref": "Mục 3.1.1 · Khuyến cáo 1 (1, A)",
+   "cards": [
+    {
+     "tag": "1 · A",
+     "t": "Hỏi bệnh + khám toàn diện",
+     "d": "Để ước tính xác suất lâm sàng trước xét nghiệm",
+     "items": [
+      "Phẫu thuật, nằm viện, bất động gần đây",
+      "Thai kỳ, estrogen, chấn thương, ung thư",
+      "Bệnh viêm, tăng đông di truyền hoặc mắc phải"
+     ],
+     "at": 0,
+     "c": "teal",
+     "hl": true
+    },
+    {
+     "tag": "TRIỆU CHỨNG",
+     "t": "Không đặc hiệu",
+     "items": [
+      "Thường gặp: đau ngực kiểu màng phổi, khó thở",
+      "Ít gặp: ho máu, ngất, sốc"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "THỰC THỂ",
+     "t": "Tìm dấu hiệu nặng",
+     "items": [
+      "Nhịp nhanh, tụt huyết áp",
+      "Thở nhanh, giảm oxy máu",
+      "Tĩnh mạch cổ nổi, T2 phổi mạnh, nâng cạnh ức",
+      "Chân sưng đau gợi ý huyết khối tĩnh mạch sâu"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "THỰC TẾ",
+     "t": "< 10% được xác nhận",
+     "items": [
+      "Trong số bệnh nhân được nghi ngờ và đánh giá",
+      "Cần công cụ quyết định lâm sàng để tránh lạm dụng hình ảnh"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo đầu tiên, nhóm một, mức bằng chứng A: ở bệnh nhân có triệu chứng gợi ý thuyên tắc phổi cấp, cần hỏi bệnh có trọng tâm và khám toàn diện để ước tính xác suất lâm sàng trước xét nghiệm. Các yếu tố nguy cơ cần hỏi gồm phẫu thuật gần đây, nằm viện điều trị nội khoa, bất động, thai kỳ, estrogen, chấn thương, ung thư, bệnh viêm và các tình trạng tăng đông di truyền hoặc mắc phải.",
+    "Triệu chứng thường không đặc hiệu. Hay gặp nhất là đau ngực kiểu màng phổi và khó thở, còn ho máu, ngất và sốc ít gặp hơn.",
+    "Khi khám, nhịp nhanh và tụt huyết áp gợi ý ảnh hưởng huyết động, thở nhanh và giảm oxy máu gợi ý rối loạn trao đổi khí đáng kể. Cần tìm thêm rì rào phế nang giảm, tiếng cọ màng phổi, tĩnh mạch cổ nổi, tiếng T2 phổi mạnh, dấu nâng cạnh ức, và chân sưng đau gợi ý huyết khối tĩnh mạch sâu.",
+    "Dù vậy, chẩn đoán vẫn khó: chưa tới 10% bệnh nhân được đánh giá vì nghi ngờ thuyên tắc phổi thực sự được xác nhận. Vì vậy hướng dẫn nhấn mạnh việc kết hợp công cụ quyết định lâm sàng với xét nghiệm, để chọn đúng người cần chụp hình ảnh."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "Thang điểm · Bảng 3",
+   "title": "Ba công cụ ước tính xác suất lâm sàng",
+   "ref": "Bảng 3 · Clinical Decision Rules",
+   "h": 680,
+   "cards": [
+    {
+     "tag": "WELLS",
+     "t": "Điểm Wells",
+     "items": [
+      "Dấu hiệu huyết khối tĩnh mạch sâu: 3",
+      "Thuyên tắc phổi khả năng nhất: 3",
+      "Mạch > 100: 1,5 · bất động ≥ 3 ngày hoặc mổ trong 4 tuần: 1,5",
+      "Tiền sử huyết khối: 1,5 · ho máu: 1 · ung thư: 1",
+      "<b>Thấp < 2 · trung bình 2–6 · cao > 6</b>",
+      "Cải biên: <b>> 4 khả năng</b> · ≤ 4 ít khả năng"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "PERC",
+     "t": "Tiêu chí loại trừ",
+     "items": [
+      "Chỉ dùng khi xác suất < 15% (Wells < 2)",
+      "Tuổi < 50 · mạch < 100 · SpO₂ ≥ 95%",
+      "Không ho máu · không estrogen",
+      "Không tiền sử huyết khối · không phù một chân",
+      "Không mổ hay chấn thương cần nằm viện trong 4 tuần",
+      "<b>Đủ cả 8 → không cần xét nghiệm thêm</b>"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "GENEVA",
+     "t": "Geneva sửa đổi",
+     "items": [
+      "Tuổi > 65: 1 · tiền sử huyết khối: 3",
+      "Mổ hoặc gãy xương chi dưới 1 tháng: 2 · ung thư: 2",
+      "Đau một chân: 3 · ho máu: 2",
+      "Mạch 75–94: 3 · ≥ 95: 5 · đau và phù dọc tĩnh mạch: 4",
+      "<b>Thấp 0–3 · trung bình 4–10 · cao ≥ 11</b>"
+     ],
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Bảng 3 của hướng dẫn tóm tắt ba công cụ quyết định lâm sàng thường dùng.",
+    "Điểm Wells gồm: dấu hiệu lâm sàng huyết khối tĩnh mạch sâu 3 điểm, thuyên tắc phổi là chẩn đoán khả năng nhất 3 điểm, mạch trên 100 một rưỡi điểm, bất động từ 3 ngày hoặc phẫu thuật trong 4 tuần một rưỡi điểm, tiền sử huyết khối tĩnh mạch sâu hoặc thuyên tắc phổi một rưỡi điểm, ho máu 1 điểm, ung thư 1 điểm. Thang chuẩn: dưới 2 là thấp, 2 đến 6 là trung bình, trên 6 là cao. Thang cải biên: trên 4 là khả năng, từ 4 trở xuống là ít khả năng.",
+    "Tiêu chí loại trừ PERC chỉ áp dụng khi xác suất lâm sàng dưới 15%, ví dụ Wells dưới 2. Tám tiêu chí: tuổi dưới 50, mạch dưới 100, độ bão hoà oxy từ 95% trở lên, không ho máu, không dùng estrogen, không tiền sử huyết khối, không phù một chân, và không phẫu thuật hay chấn thương phải nằm viện trong 4 tuần. Đủ cả tám thì khả năng thuyên tắc phổi thấp và không cần xét nghiệm thêm.",
+    "Thang Geneva sửa đổi dùng các yếu tố khách quan: tuổi trên 65, tiền sử huyết khối, phẫu thuật hoặc gãy xương chi dưới, ung thư, đau một chân, ho máu, và tần số tim, với ngưỡng thấp từ 0 đến 3, trung bình 4 đến 10, cao từ 11 trở lên. Phiên bản rút gọn chấm mỗi yếu tố 1 điểm."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "box",
+   "chapter": "D-dimer · Mục 3.1.1",
+   "title": "D-dimer hiệu chỉnh theo tuổi",
+   "ref": "Mục 3.1.1 · Khuyến cáo 2 (2a, B-R)",
+   "box": {
+    "tag": "2a · B-R",
+    "t": "Xác suất lâm sàng thấp hoặc trung bình (<b>< 50%</b>): D-dimer <b>dưới tuổi × 10 µg/L</b> (xét nghiệm đơn vị tương đương fibrinogen) loại trừ hiệu quả thuyên tắc phổi và <b>không cần chụp hình ảnh</b>",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "3346 bệnh nhân: thất bại 3 tháng <b>0,3%</b> ở người > 50 tuổi có D-dimer giữa 500 và tuổi × 10",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "NGƯỠNG AN TOÀN",
+     "t": "Tỷ lệ bỏ sót chấp nhận được của mọi công cụ chẩn đoán: <b>2%</b>",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY",
+     "t": "Không áp dụng khi <b>đang kháng đông</b> · nơi tỷ lệ mắc cao có thể bỏ sót",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "D-dimer giúp phân tầng, cân bằng giữa tác hại của xét nghiệm thừa và nguy cơ bỏ sót chẩn đoán.",
+    "Khuyến cáo nhóm hai a, mức B-R: ở người lớn có xác suất lâm sàng thấp hoặc trung bình, tức dưới 50%, D-dimer dưới ngưỡng tuổi nhân 10 micrôgam mỗi lít, với xét nghiệm báo cáo theo đơn vị tương đương fibrinogen, loại trừ hiệu quả thuyên tắc phổi và không cần chụp hình ảnh. Ví dụ, bệnh nhân 75 tuổi có ngưỡng 750 thay vì 500.",
+    "Bằng chứng: nghiên cứu xác nhận tiến cứu trên 3346 bệnh nhân cho tỷ lệ thất bại 3 tháng chỉ 0,3%, khoảng tin cậy 0,1 đến 1,7%, ở người trên 50 tuổi có D-dimer nằm giữa ngưỡng chuẩn 500 và ngưỡng theo tuổi. Một phân tích gộp dữ liệu từng bệnh nhân và một thử nghiệm ngẫu nhiên cụm đã khẳng định kết quả này.",
+    "Ngưỡng an toàn được chấp nhận cho mọi công cụ chẩn đoán thuyên tắc phổi là tỷ lệ bỏ sót 2%.",
+    "Hai bẫy cần nhớ: các nghiên cứu đã loại trừ bệnh nhân dùng kháng đông liều điều trị trong 24 giờ trước, nên không áp dụng cho người đang kháng đông. Và ở nơi có tỷ lệ mắc cao, chiến lược này có thể bỏ sót thuyên tắc phổi."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "YEARS · Mục 3.1.1",
+   "title": "Thuật toán YEARS và YEARS cho thai kỳ",
+   "ref": "Mục 3.1.1 · Khuyến cáo 3 (2a, B-R), 4 (2b, B-NR)",
+   "head": [
+    "Tình huống",
+    "Ngưỡng D-dimer",
+    "Ghi chú"
+   ],
+   "widths": "1.1fr 1.3fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Có ≥ 1 tiêu chí YEARS</b><br>dấu hiệu huyết khối tĩnh mạch sâu · ho máu · thuyên tắc phổi khả năng nhất",
+      "<b>< 500 µg/L</b> → loại trừ",
+      "Từ 500 trở lên → chụp hình ảnh"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Không có tiêu chí YEARS nào</b>",
+      "<b>< 1000 µg/L</b> → loại trừ",
+      "YEARS kết hợp D-dimer theo tuổi: tỷ lệ thất bại thấp, hiệu quả hơn D-dimer theo tuổi đơn thuần (2a)"
+     ],
+     "at": 2,
+     "c": "teal",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Thai kỳ</b> · YEARS hiệu chỉnh (2b)",
+      "Ngưỡng 1000 khi nguy cơ thấp · có triệu chứng chân: <b>siêu âm nén trước</b>",
+      "Siêu âm nén dương tính → kháng đông, không cần CT · tránh <b>65% CT</b> ở 3 tháng đầu · tỷ lệ thất bại 0,21%"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Độ đặc hiệu thấp của D-dimer, cùng với tỷ lệ chụp cắt lớp mạch phổi dương tính ngày càng thấp, đã dẫn đến các ngưỡng D-dimer điều chỉnh cho người nguy cơ thấp. Khuyến cáo nhóm hai a, mức B-R: thuật toán YEARS có thể hữu ích để xác định người không cần chụp hình ảnh.",
+    "YEARS gồm ba tiêu chí: dấu hiệu lâm sàng huyết khối tĩnh mạch sâu, ho máu, và thuyên tắc phổi là chẩn đoán khả năng nhất. Nếu có ít nhất một tiêu chí, dùng ngưỡng D-dimer 500 micrôgam mỗi lít.",
+    "Nếu không có tiêu chí nào, ngưỡng nâng lên 1000. Một thử nghiệm ngẫu nhiên cụm ở châu Âu cho thấy YEARS kết hợp D-dimer theo tuổi có tỷ lệ thất bại thấp và hiệu quả hơn D-dimer theo tuổi đơn thuần. Lưu ý, YEARS chỉ được nghiên cứu ở người không dùng kháng đông liều điều trị.",
+    "Với thai kỳ: thuyên tắc phổi chiếm tới 11% tử vong liên quan thai kỳ ở Hoa Kỳ, trong khi chỉ khoảng 4,1% số phim chụp cắt lớp mạch phổi ở thai phụ là dương tính.",
+    "Khuyến cáo nhóm hai b: có thể dùng YEARS hiệu chỉnh cho thai kỳ. Thai phụ có triệu chứng ở chân được siêu âm nén trước; nếu dương tính thì điều trị kháng đông mà không nhất thiết phải chụp cắt lớp, giúp tránh 65% số phim chụp ở 3 tháng đầu. Hai nghiên cứu quản lý tiến cứu cho tỷ lệ thất bại 0% và 0,21%."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "compare",
+   "chapter": "Hình ảnh · Mục 3.1.2",
+   "title": "Chọn phương tiện hình ảnh",
+   "ref": "Mục 3.1.2 · Khuyến cáo 1–6",
+   "head": [
+    "Khuyến cáo",
+    "Nội dung",
+    "Lý do"
+   ],
+   "widths": "0.7fr 1.8fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>1 · A</b>",
+      "Chụp hình ảnh khi xác suất cao (> 50%) hoặc D-dimer tăng",
+      "Thuật toán lâm sàng + D-dimer giảm xét nghiệm thừa"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>1 · A</b>",
+      "CT mạch phổi dương tính hoặc V/Q xác suất cao <b>đủ để chẩn đoán</b>",
+      "Không cần thêm xét nghiệm xác nhận"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>1 · B-R</b>",
+      "<b>CT mạch phổi ưu tiên hơn V/Q</b>",
+      "Phát hiện huyết khối ngoại vi tốt hơn · đánh giá thất phải · tìm chẩn đoán khác"
+     ],
+     "at": 2,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>2a</b>",
+      "V/Q SPECT hơn V/Q phẳng · không chụp được CT: V/Q hơn MRA",
+      "MRA không kết luận ở 25–28% · đắt, ít sẵn có"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>2a · B-NR</b>",
+      "Thai phụ, X-quang ngực bình thường: <b>CT liều thấp</b> hơn xạ hình tưới máu liều thấp",
+      "Liều hấp thụ ở vú, tử cung thấp hơn nhiều với quy trình hiện đại"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bây giờ đến hình ảnh học. Khuyến cáo nhóm một, mức A: chụp hình ảnh để xác nhận hoặc loại trừ thuyên tắc phổi ở người có xác suất cao, trên 50% theo thang điểm đã thẩm định, hoặc có D-dimer tăng.",
+    "Nhóm một, mức A: chụp cắt lớp vi tính mạch phổi dương tính, hoặc xạ hình thông khí tưới máu xác suất cao, là đủ để chẩn đoán.",
+    "Nhóm một, mức B-R: chụp cắt lớp mạch phổi được ưu tiên hơn xạ hình thông khí tưới máu. Lý do là phương tiện này sẵn có, chi phí thấp, liều xạ hiện nay thấp hơn, phát hiện thuyên tắc ngoại vi tốt hơn, đồng thời đánh giá được thất phải và tìm được chẩn đoán thay thế.",
+    "Nhóm hai a: xạ hình thông khí tưới máu cắt lớp SPECT hợp lý hơn xạ hình phẳng, vì độ lặp lại và độ đặc hiệu cao hơn, liều xạ thấp hơn. Khi không chụp được cắt lớp, chọn xạ hình thông khí tưới máu thay vì chụp cộng hưởng từ mạch máu, vì cộng hưởng từ không kết luận được ở 25 đến 28% bệnh nhân, đắt và ít sẵn có.",
+    "Với thai phụ có triệu chứng, tiêu chí YEARS gợi ý thuyên tắc phổi và X-quang ngực bình thường, nhóm hai a, mức B-NR: chụp cắt lớp mạch phổi liều thấp là hợp lý hơn xạ hình tưới máu liều thấp, vì dễ thực hiện, sẵn có, và còn đánh giá được thất phải."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "Không nên làm · Mục 3.1.2",
+   "title": "Ba xét nghiệm không có lợi và một chỉ định chọn lọc",
+   "ref": "Mục 3.1.2 · Khuyến cáo 7 (2b), 8–10 (3: Không lợi ích)",
+   "cards": [
+    {
+     "tag": "3 · KHÔNG LỢI ÍCH",
+     "t": "Siêu âm tim để chẩn đoán",
+     "items": [
+      "Không dùng để xác nhận hay loại trừ",
+      "Phần lớn bệnh nhân không có rối loạn thất phải",
+      "Kể cả khi rối loạn huyết động: đặc hiệu chỉ 64%"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "3 · KHÔNG LỢI ÍCH",
+     "t": "CT tĩnh mạch thường quy",
+     "items": [
+      "Không cải thiện chẩn đoán so với CT mạch phổi",
+      "Tăng liều xạ, dương tính giả",
+      "Siêu âm duplex phát hiện huyết khối tĩnh mạch tốt hơn"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "3 · KHÔNG LỢI ÍCH",
+     "t": "Siêu âm tĩnh mạch sau CT âm",
+     "items": [
+      "CT mạch phổi âm hoặc SPECT bình thường",
+      "Siêu âm thêm không tìm thêm thuyên tắc phổi"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "2b · B-NR",
+     "t": "Siêu âm tĩnh mạch chọn lọc",
+     "items": [
+      "Đã chẩn đoán thuyên tắc phổi + dấu hiệu huyết khối tĩnh mạch sâu",
+      "Hoặc kết quả làm thay đổi xử trí, tiên lượng",
+      "Huyết khối tĩnh mạch sâu đi kèm 44–71%"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn nêu rõ ba xét nghiệm không có lợi, nhóm ba. Thứ nhất, siêu âm tim không được khuyến cáo để xác nhận hay loại trừ thuyên tắc phổi. Phần lớn bệnh nhân không có rối loạn chức năng thất phải, và dấu hiệu thất phải có độ nhạy thấp. Ngay cả ở bệnh nhân rối loạn huyết động, độ đặc hiệu chỉ khoảng 64%, nên chẩn đoán phải được xác nhận bằng hình ảnh chuyên biệt.",
+    "Thứ hai, không chụp cắt lớp tĩnh mạch chủ dưới và tĩnh mạch chi dưới thường quy kèm chụp mạch phổi. Cách này không cải thiện đáng kể chẩn đoán, tăng liều xạ, và có nhiều dương tính giả, trong khi siêu âm duplex tĩnh mạch phát hiện huyết khối tốt hơn.",
+    "Thứ ba, khi chụp cắt lớp mạch phổi âm tính hoặc SPECT bình thường, siêu âm tĩnh mạch thêm không giúp phát hiện thêm thuyên tắc phổi.",
+    "Ngược lại, nhóm hai b: sau khi đã chẩn đoán thuyên tắc phổi, có thể làm siêu âm duplex tĩnh mạch chi dưới khi có dấu hiệu huyết khối tĩnh mạch sâu, hoặc khi kết quả làm thay đổi xử trí hay tiên lượng, ví dụ huyết khối chậu đùi cần can thiệp, hoặc khi cân nhắc lọc tĩnh mạch chủ dưới. Huyết khối tĩnh mạch sâu đi kèm ở 44 đến 71% bệnh nhân thuyên tắc phổi, và làm tăng nguy cơ tử vong."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "compare",
+   "chapter": "Báo cáo thất phải · Bảng 4",
+   "title": "Báo cáo thất phải: bằng con số",
+   "ref": "Mục 3.1.2 · Khuyến cáo 11 (1, B-R), 12 (1, B-NR), 13 (2b) · Bảng 4",
+   "head": [
+    "Thông số",
+    "Ngưỡng bất thường",
+    "Ghi chú"
+   ],
+   "widths": "1.1fr 1.3fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>CT: tỷ số thất phải / thất trái</b> (1 · B-R)",
+      "≥ 1,0: nhạy 85%, đặc hiệu 72%<br>≥ 0,9: nhạy 92%, đặc hiệu 56%",
+      "Báo cáo bằng <b>con số</b>, không ước lượng chủ quan"
+     ],
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Siêu âm: kích thước thất phải</b>",
+      "Cuối tâm trương > 30 mm · đường kính đáy > 42 mm · thất phải / thất trái > 0,9",
+      "Mặt cắt 4 buồng từ mỏm hướng thất phải"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>TAPSE</b>",
+      "< 1,6 cm",
+      "M-mode, mặt cắt 4 buồng từ mỏm"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Doppler tăng áp phổi</b>",
+      "Thời gian tăng tốc động mạch phổi < 90 ms · chênh áp thất phải – nhĩ phải > 30 mmHg · vận tốc hở ba lá > 2,6 m/s",
+      "Thêm: dấu McConnell, vách liên thất di động nghịch thường, tĩnh mạch chủ dưới kém xẹp"
+     ],
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Dấu hiệu mạn trên CT</b> (2b)",
+      "Màng trong lòng mạch · động mạch phổi co rút hoặc giãn · giãn động mạch phế quản · phì đại thất phải · vách dẹt",
+      "≥ 3 dấu hiệu: liên quan mạnh với bệnh huyết khối tắc mạch phổi mạn"
+     ],
+     "at": 5,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Một điểm thực hành quan trọng là cách báo cáo hình ảnh. Khuyến cáo nhóm một, mức B-R: khi chụp cắt lớp mạch phổi, cần báo cáo tỷ số đường kính thất phải trên thất trái bằng con số, đo ở mặt cắt ngang hoặc mặt cắt bốn buồng dựng lại, thay vì ước lượng chủ quan.",
+    "Rối loạn thất phải trên cắt lớp là yếu tố dự báo độc lập tử vong nội viện, tử vong 30 ngày và diễn tiến xấu. Ngưỡng từ 1,0 trở lên cho độ nhạy 85% và độ đặc hiệu 72%, còn ngưỡng 0,9 cho độ nhạy 92% nhưng độ đặc hiệu chỉ 56%.",
+    "Với siêu âm tim qua thành ngực, nhóm một, mức B-NR, cần báo cáo đầy đủ các thông số theo Bảng 4. Kích thước thất phải bất thường khi đường kính cuối tâm trương trên 30 milimét ở mặt cắt hướng thất phải, hoặc đường kính đáy trên 42 milimét, và tỷ số thất phải trên thất trái trên 0,9.",
+    "TAPSE dưới 1,6 centimét là bất thường.",
+    "Bằng chứng tăng áp phổi trên Doppler gồm thời gian tăng tốc động mạch phổi dưới 90 mili giây, chênh áp thất phải nhĩ phải trên 30 milimét thủy ngân, vận tốc hở ba lá trên 2,6 mét mỗi giây. Ngoài ra cần mô tả dấu McConnell, tức giảm động thành tự do thất phải nhưng mỏm còn co bóp, vách liên thất di động nghịch thường, và tĩnh mạch chủ dưới kém xẹp theo hô hấp. Độ chính xác tăng khi có từ hai thông số bất thường.",
+    "Cuối cùng, nhóm hai b: có thể báo cáo dấu hiệu mạn tính trên phim chụp cắt lớp ngay lúc chẩn đoán, như màng trong lòng mạch, động mạch phổi co rút hoặc giãn, giãn động mạch phế quản, phì đại thất phải, vách liên thất dẹt. Có từ ba dấu hiệu trở lên liên quan mạnh với bệnh huyết khối tắc mạch phổi mạn khi theo dõi."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: D-dimer 620 ở người 72 tuổi",
+   "ref": "Mục 3.1.1 · Khuyến cáo 2, 3",
+   "case": "Nữ <b>72 tuổi</b>, khó thở nhẹ 2 ngày, đau ngực khi hít sâu. Mạch 88, SpO₂ 96%, không sưng chân, không ho máu; viêm phổi được nghĩ đến nhiều hơn. Wells 0 · không dùng kháng đông. D-dimer <b>620 µg/L</b> (FEU).",
+   "case_at": 0,
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Chụp CT mạch phổi vì D-dimer > 500",
+    "Loại trừ thuyên tắc phổi, không cần chụp hình ảnh",
+    "Siêu âm tim để loại trừ",
+    "Siêu âm tĩnh mạch chi dưới hai bên"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Xác suất thấp: ngưỡng theo tuổi = 72 × 10 = <b>720</b> (2a, B-R); YEARS không tiêu chí → ngưỡng <b>1000</b> (2a). 620 dưới cả hai ngưỡng. Siêu âm tim không dùng để chẩn đoán (3).",
+   "lines": [
+    "Mời quý vị đến với tình huống thứ nhất. Một phụ nữ 72 tuổi khó thở nhẹ 2 ngày, đau ngực khi hít sâu. Mạch 88, độ bão hoà oxy 96%, không sưng chân, không ho máu, và viêm phổi được nghĩ đến nhiều hơn. Điểm Wells bằng 0, bệnh nhân không dùng kháng đông. D-dimer 620 micrôgam mỗi lít.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là loại trừ thuyên tắc phổi mà không cần chụp hình ảnh. Xác suất lâm sàng thấp, ngưỡng D-dimer theo tuổi là 72 nhân 10, bằng 720. Theo YEARS, bệnh nhân không có tiêu chí nào nên ngưỡng là 1000. Kết quả 620 nằm dưới cả hai ngưỡng.",
+    "Nếu dùng ngưỡng cố định 500, chúng ta sẽ chụp cắt lớp không cần thiết. Còn siêu âm tim hay siêu âm tĩnh mạch không phải công cụ để loại trừ chẩn đoán ở đây."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: thai phụ 10 tuần, chân trái sưng",
+   "ref": "Mục 3.1.1 · Khuyến cáo 4 · Mục 3.1.2 · Khuyến cáo 4",
+   "case": "Thai phụ <b>10 tuần</b>, khó thở, mạch 104, SpO₂ 95%. Bắp chân trái sưng đau. Siêu âm nén: <b>huyết khối tĩnh mạch khoeo – đùi trái</b>. Huyết áp ổn định.",
+   "case_at": 0,
+   "q": "Xử trí phù hợp theo YEARS hiệu chỉnh cho thai kỳ?",
+   "q_at": 1,
+   "options": [
+    "Bắt buộc chụp CT mạch phổi trước khi kháng đông",
+    "Kháng đông heparin trọng lượng phân tử thấp, không nhất thiết chụp CT",
+    "Xạ hình tưới máu để xác nhận rồi mới điều trị",
+    "Rivaroxaban vì tiện dùng đường uống"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Có triệu chứng chân + siêu âm nén dương tính → điều trị kháng đông, không nhất thiết CT (tránh 65% CT ở 3 tháng đầu). Thai kỳ: heparin trọng lượng phân tử thấp hoặc không phân đoạn (1); DOAC và warfarin có hại (3: Có hại).",
+   "lines": [
+    "Tình huống thứ hai. Thai phụ 10 tuần, khó thở, mạch 104, độ bão hoà oxy 95%, bắp chân trái sưng đau. Siêu âm nén phát hiện huyết khối tĩnh mạch khoeo và tĩnh mạch đùi trái. Huyết áp ổn định.",
+    "Theo YEARS hiệu chỉnh cho thai kỳ, xử trí phù hợp là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là bắt đầu kháng đông bằng heparin trọng lượng phân tử thấp, không nhất thiết phải chụp cắt lớp mạch phổi. Thai phụ có triệu chứng ở chân và siêu âm nén dương tính có thể được điều trị an toàn mà không cần chụp, giúp tránh khoảng 65% số phim chụp ở 3 tháng đầu.",
+    "Về thuốc, chúng ta sẽ bàn kỹ ở phần ba: trong thai kỳ, heparin trọng lượng phân tử thấp hoặc heparin không phân đoạn được khuyến cáo, còn thuốc kháng đông uống trực tiếp và warfarin có thể gây sẩy thai hoặc dị tật thai, thuộc nhóm ba, có hại."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 1",
+   "title": "Sáu thông điệp của Phần 1",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Hệ phân loại A–E",
+     "d": "Thông điệp trung tâm của hướng dẫn 2026",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Thang điểm trước, xét nghiệm sau",
+     "d": "Wells, Geneva, PERC (khi xác suất < 15%)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "D-dimer theo tuổi · YEARS",
+     "d": "Tuổi × 10 µg/L · 500 / 1000 · 2a, B-R",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "CT mạch phổi ưu tiên",
+     "d": "1, B-R · V/Q SPECT khi không chụp được CT",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Không dùng siêu âm tim để chẩn đoán",
+     "d": "Không CT tĩnh mạch thường quy · không siêu âm tĩnh mạch sau CT âm",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Báo cáo thất phải bằng con số",
+     "d": "RV/LV ≥ 1,0 · TAPSE < 1,6 cm · McConnell",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần một. Hướng dẫn 2026 xây dựng quanh hệ phân loại lâm sàng A đến E. Chẩn đoán bắt đầu bằng hỏi bệnh, khám và thang điểm xác suất: Wells, Geneva, và PERC khi xác suất rất thấp.",
+    "Với xác suất thấp hoặc trung bình, D-dimer theo tuổi hoặc thuật toán YEARS giúp an toàn bỏ qua hình ảnh. Khi cần hình ảnh, chụp cắt lớp mạch phổi là lựa chọn ưu tiên, xạ hình SPECT dành cho người không chụp được cắt lớp.",
+    "Không dùng siêu âm tim để chẩn đoán, không chụp cắt lớp tĩnh mạch thường quy. Và hãy báo cáo thất phải bằng con số, vì đó là nền tảng của phân tầng nguy cơ.",
+    "Phần hai sẽ đi sâu vào hệ phân loại A đến E, các thang điểm độ nặng, dấu ấn sinh học, và quyết định điều trị ngoại trú, nhập viện hay chuyển viện. Cảm ơn quý đồng nghiệp đã theo dõi, hẹn gặp lại quý vị ở phần hai của Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
