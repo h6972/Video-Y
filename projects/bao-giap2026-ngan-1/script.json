@@ -1,0 +1,151 @@
+{
+ "title": "Cơn bão giáp – video ngắn 1: Cộng điểm Burch–Wartofsky",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Nội tiết – Hồi sức",
+ "part": "Cơn bão giáp 2026 · ôn nhanh",
+ "source_short": "Nguồn: Đồng thuận ETA/BTA/SfE/WEDS 2026 về cơn bão giáp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Taylor P, Okosieme O, Effraimidis G, et al. Management of thyroid emergencies: joint consensus statement on management of thyroid storm. European Thyroid Association, British Thyroid Association, Society for Endocrinology, Welsh Endocrine and Diabetes Society, 2026.",
+ "lexicon": {
+  "propylthiouracil": "prô pin thi ô u ra xin",
+  "Burch–Wartofsky": "Bớt Oa tốp xki",
+  "Burch-Wartofsky": "Bớt Oa tốp xki",
+  "hydrocortisone": "hy đrô cooc ti dôn",
+  "cholestyramine": "cô lét ti ra min",
+  "chlorpromazine": "clo prô ma din",
+  "Wolff–Chaikoff": "Vôn Chai cốp",
+  "CHA₂DS₂-VASc": "cha hai đi ét hai vát",
+  "propranolol": "prô pra nô lôn",
+  "methimazole": "mê thi ma dôn",
+  "carbimazole": "các bi ma dôn",
+  "perchlorate": "péc clo rát",
+  "ETA/BTA/SfE": "e tê a, bê tê a, ét ép e",
+  "bisoprolol": "bi sô prô lôn",
+  "amiodarone": "a mi ô đa rôn",
+  "µg/kg/phút": "micrôgam mỗi kilôgam mỗi phút",
+  "labetalol": "la bê ta lôn",
+  "landiolol": "lan đi ô lôn",
+  "diltiazem": "đin ti a dem",
+  "thiamine": "thi a min",
+  "iopanoic": "i ô pa nô ích",
+  "JTA/JES": "giây tê a, giây e ét",
+  "esmolol": "ét mô lôn",
+  "Basedow": "Ba dơ đô",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "OR 9,43": "tỉ số chênh 9,43",
+  "mg/ngày": "miligam mỗi ngày",
+  "Graves": "Grêu",
+  "Lugol": "Lu gôn",
+  "µg/kg": "micrôgam mỗi kilôgam",
+  "mg/dL": "miligam mỗi đêxilít",
+  "BWPS": "thang Bớt Oa tốp xki",
+  "SSKI": "ét ét ca i",
+  "ECMO": "ếch mô",
+  "SOFA": "sô pha",
+  "NYHA": "en uy hát a",
+  "TS1": "tê ét một",
+  "TS2": "tê ét hai",
+  "FT3": "ép tê ba",
+  "FT4": "ép tê bốn",
+  "TSH": "tê ét hát",
+  "PTU": "pê tê u",
+  "MMI": "em em i",
+  "CBZ": "xê bê dét",
+  "ETA": "e tê a",
+  "ATA": "a tê a",
+  "°C": "độ xê"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "CƠN BÃO GIÁP · 60 GIÂY",
+   "hook": "Sốt, mạch 138, kích động: đã là cơn bão giáp?",
+   "sub": "Cộng điểm Burch–Wartofsky cùng tôi",
+   "c": "amber",
+   "lines": [
+    "Sốt, mạch 138, kích động: đã là cơn bão giáp chưa? Cùng cộng điểm Burch–Wartofsky trong 60 giây."
+   ]
+  },
+  {
+   "id": "g",
+   "layout": "gauge",
+   "chapter": "BURCH–WARTOFSKY",
+   "title": "Basedow bỏ thuốc, viêm tiết niệu",
+   "max": 140,
+   "chip_cols": 2,
+   "zones": [
+    {
+     "to": 25,
+     "t": "< 25",
+     "c": "green"
+    },
+    {
+     "to": 45,
+     "t": "25–44",
+     "c": "amber"
+    },
+    {
+     "to": 140,
+     "t": "≥ 45: rất gợi ý",
+     "c": "coral"
+    }
+   ],
+   "parts": [
+    {
+     "t": "Sốt 39,8 °C",
+     "v": 20,
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Kích động",
+     "v": 10,
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Tiêu chảy",
+     "v": 10,
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Mạch 138",
+     "v": 20,
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Nhiễm trùng",
+     "v": 10,
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "verdict": "Điều trị tích cực ngay, không chờ FT4",
+   "verdict_at": 5,
+   "lines": [
+    "Nữ 38 tuổi, Basedow, tự ngưng thuốc, đang viêm đường tiết niệu.",
+    "Sốt 39,8 độ: 20 điểm.",
+    "Kích động 10, tiêu chảy 10.",
+    "Mạch 138: thêm 20.",
+    "Có yếu tố thúc đẩy là nhiễm trùng: 10 điểm.",
+    "Tổng 70 điểm, vượt xa ngưỡng 45: rất gợi ý cơn bão giáp. Thang này không cần xét nghiệm, nên điều trị tích cực ngay, không chờ FT4. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

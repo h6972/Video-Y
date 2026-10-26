@@ -1,0 +1,111 @@
+{
+ "title": "Cơn bão giáp – video ngắn 3: Iod phải sau thuốc kháng giáp",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Nội tiết – Hồi sức",
+ "part": "Cơn bão giáp 2026 · ôn nhanh",
+ "source_short": "Nguồn: Đồng thuận ETA/BTA/SfE/WEDS 2026 về cơn bão giáp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Taylor P, Okosieme O, Effraimidis G, et al. Management of thyroid emergencies: joint consensus statement on management of thyroid storm. European Thyroid Association, British Thyroid Association, Society for Endocrinology, Welsh Endocrine and Diabetes Society, 2026.",
+ "lexicon": {
+  "propylthiouracil": "prô pin thi ô u ra xin",
+  "Burch–Wartofsky": "Bớt Oa tốp xki",
+  "Burch-Wartofsky": "Bớt Oa tốp xki",
+  "hydrocortisone": "hy đrô cooc ti dôn",
+  "cholestyramine": "cô lét ti ra min",
+  "chlorpromazine": "clo prô ma din",
+  "Wolff–Chaikoff": "Vôn Chai cốp",
+  "CHA₂DS₂-VASc": "cha hai đi ét hai vát",
+  "propranolol": "prô pra nô lôn",
+  "methimazole": "mê thi ma dôn",
+  "carbimazole": "các bi ma dôn",
+  "perchlorate": "péc clo rát",
+  "ETA/BTA/SfE": "e tê a, bê tê a, ét ép e",
+  "bisoprolol": "bi sô prô lôn",
+  "amiodarone": "a mi ô đa rôn",
+  "µg/kg/phút": "micrôgam mỗi kilôgam mỗi phút",
+  "labetalol": "la bê ta lôn",
+  "landiolol": "lan đi ô lôn",
+  "diltiazem": "đin ti a dem",
+  "thiamine": "thi a min",
+  "iopanoic": "i ô pa nô ích",
+  "JTA/JES": "giây tê a, giây e ét",
+  "esmolol": "ét mô lôn",
+  "Basedow": "Ba dơ đô",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "OR 9,43": "tỉ số chênh 9,43",
+  "mg/ngày": "miligam mỗi ngày",
+  "Graves": "Grêu",
+  "Lugol": "Lu gôn",
+  "µg/kg": "micrôgam mỗi kilôgam",
+  "mg/dL": "miligam mỗi đêxilít",
+  "BWPS": "thang Bớt Oa tốp xki",
+  "SSKI": "ét ét ca i",
+  "ECMO": "ếch mô",
+  "SOFA": "sô pha",
+  "NYHA": "en uy hát a",
+  "TS1": "tê ét một",
+  "TS2": "tê ét hai",
+  "FT3": "ép tê ba",
+  "FT4": "ép tê bốn",
+  "TSH": "tê ét hát",
+  "PTU": "pê tê u",
+  "MMI": "em em i",
+  "CBZ": "xê bê dét",
+  "ETA": "e tê a",
+  "ATA": "a tê a",
+  "°C": "độ xê"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "CƠN BÃO GIÁP · THỨ TỰ THUỐC",
+   "hook": "Cho Lugol trước PTU: đúng hay sai?",
+   "sub": "Sai thứ tự có thể làm cơn bão nặng thêm",
+   "c": "amber",
+   "lines": [
+    "Cho Lugol trước propylthiouracil trong cơn bão giáp: đúng hay sai?"
+   ]
+  },
+  {
+   "id": "q",
+   "layout": "quiz",
+   "chapter": "TÌNH HUỐNG",
+   "title": "Bạn chọn gì?",
+   "case": "Basedow, cơn bão giáp. 8:00 cho PTU 600 mg qua sonde.",
+   "q": "Sớm nhất khi nào được cho Lugol?",
+   "options": [
+    "Ngay 8:00",
+    "Từ 9:00",
+    "Sau 24 giờ",
+    "Không dùng iod"
+   ],
+   "answer": 1,
+   "q_at": 0,
+   "answer_at": 2,
+   "countdown": {
+    "after": 1,
+    "s": 5
+   },
+   "explain": "Chờ <b>1 giờ</b> sau thuốc kháng giáp rồi mới cho iod: Lugol 8 giọt × 4/ngày hoặc SSKI 5 giọt × 4/ngày, pha loãng.",
+   "lines": [
+    "Người bệnh Basedow vào cơn bão giáp, 8 giờ sáng được cho propylthiouracil 600 miligam. Sớm nhất khi nào được cho Lugol?",
+    "Bạn có 5 giây.",
+    "Đáp án B: từ 9 giờ. Đồng thuận 2026 yêu cầu chờ một giờ sau thuốc kháng giáp mới cho iod, vì cho iod trước có thể làm nhiễm độc giáp nặng thêm. Liều: Lugol 8 giọt bốn lần mỗi ngày, hoặc kali iodide bão hoà 5 giọt bốn lần mỗi ngày, pha loãng trong sữa hay nước cam. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

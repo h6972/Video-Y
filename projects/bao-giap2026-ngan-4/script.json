@@ -1,0 +1,129 @@
+{
+ "title": "Cơn bão giáp – video ngắn 4: Liều thuốc cần nhớ",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Nội tiết – Hồi sức",
+ "part": "Cơn bão giáp 2026 · ôn nhanh",
+ "source_short": "Nguồn: Đồng thuận ETA/BTA/SfE/WEDS 2026 về cơn bão giáp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Taylor P, Okosieme O, Effraimidis G, et al. Management of thyroid emergencies: joint consensus statement on management of thyroid storm. European Thyroid Association, British Thyroid Association, Society for Endocrinology, Welsh Endocrine and Diabetes Society, 2026.",
+ "lexicon": {
+  "propylthiouracil": "prô pin thi ô u ra xin",
+  "Burch–Wartofsky": "Bớt Oa tốp xki",
+  "Burch-Wartofsky": "Bớt Oa tốp xki",
+  "hydrocortisone": "hy đrô cooc ti dôn",
+  "cholestyramine": "cô lét ti ra min",
+  "chlorpromazine": "clo prô ma din",
+  "Wolff–Chaikoff": "Vôn Chai cốp",
+  "CHA₂DS₂-VASc": "cha hai đi ét hai vát",
+  "propranolol": "prô pra nô lôn",
+  "methimazole": "mê thi ma dôn",
+  "carbimazole": "các bi ma dôn",
+  "perchlorate": "péc clo rát",
+  "ETA/BTA/SfE": "e tê a, bê tê a, ét ép e",
+  "bisoprolol": "bi sô prô lôn",
+  "amiodarone": "a mi ô đa rôn",
+  "µg/kg/phút": "micrôgam mỗi kilôgam mỗi phút",
+  "labetalol": "la bê ta lôn",
+  "landiolol": "lan đi ô lôn",
+  "diltiazem": "đin ti a dem",
+  "thiamine": "thi a min",
+  "iopanoic": "i ô pa nô ích",
+  "JTA/JES": "giây tê a, giây e ét",
+  "esmolol": "ét mô lôn",
+  "Basedow": "Ba dơ đô",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "OR 9,43": "tỉ số chênh 9,43",
+  "mg/ngày": "miligam mỗi ngày",
+  "Graves": "Grêu",
+  "Lugol": "Lu gôn",
+  "µg/kg": "micrôgam mỗi kilôgam",
+  "mg/dL": "miligam mỗi đêxilít",
+  "BWPS": "thang Bớt Oa tốp xki",
+  "SSKI": "ét ét ca i",
+  "ECMO": "ếch mô",
+  "SOFA": "sô pha",
+  "NYHA": "en uy hát a",
+  "TS1": "tê ét một",
+  "TS2": "tê ét hai",
+  "FT3": "ép tê ba",
+  "FT4": "ép tê bốn",
+  "TSH": "tê ét hát",
+  "PTU": "pê tê u",
+  "MMI": "em em i",
+  "CBZ": "xê bê dét",
+  "ETA": "e tê a",
+  "ATA": "a tê a",
+  "°C": "độ xê"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "CƠN BÃO GIÁP · LƯU LẠI",
+   "hook": "5 liều thuốc cơn bão giáp phải thuộc",
+   "sub": "Theo đồng thuận châu Âu – Anh 2026",
+   "c": "teal",
+   "lines": [
+    "Năm liều thuốc cơn bão giáp phải thuộc, theo đồng thuận châu Âu và Anh năm 2026. Lưu lại để dùng khi trực."
+   ]
+  },
+  {
+   "id": "l",
+   "layout": "list",
+   "chapter": "LIỀU THUỐC",
+   "title": "Theo thứ tự xử trí",
+   "items": [
+    {
+     "t": "Propranolol 60–80 mg uống mỗi 4 giờ",
+     "d": "Hoặc esmolol 500 µg/kg, rồi 0–200 µg/kg/phút",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "MMI 60–80 mg/ngày · CBZ 80–100 mg/ngày",
+     "d": "Hoặc PTU 500–1000 mg, rồi 250 mg mỗi 4 giờ",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Hydrocortisone 100 mg tĩnh mạch",
+     "d": "Rồi 50 mg × 4 lần/ngày · theo dõi kali",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Sau 1 giờ: Lugol 8 giọt × 4/ngày",
+     "d": "Hoặc SSKI 5 giọt × 4/ngày, pha loãng",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Paracetamol hạ sốt · tránh aspirin",
+     "d": "Cần an thần: chlorpromazine 50–100 mg tiêm bắp",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Một, propranolol 60 đến 80 miligam uống mỗi 4 giờ, hoặc esmolol tĩnh mạch 500 micrôgam mỗi kilôgam, rồi 0 đến 200 micrôgam mỗi kilôgam mỗi phút. Thận trọng khi nghi bệnh cơ tim.",
+    "Hai, methimazole 60 đến 80 miligam mỗi ngày, hoặc carbimazole 80 đến 100, hoặc propylthiouracil tấn công 500 đến 1000 miligam, rồi 250 miligam mỗi 4 giờ.",
+    "Ba, hydrocortisone 100 miligam tĩnh mạch, rồi 50 miligam bốn lần mỗi ngày, nhớ theo dõi kali.",
+    "Bốn, sau thuốc kháng giáp một giờ: Lugol 8 giọt hoặc kali iodide bão hoà 5 giọt, bốn lần mỗi ngày, pha loãng.",
+    "Năm, hạ sốt bằng paracetamol, tránh aspirin; cần an thần có thể dùng chlorpromazine 50 đến 100 miligam tiêm bắp. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

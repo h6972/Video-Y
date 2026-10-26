@@ -1,0 +1,122 @@
+{
+ "title": "Cơn bão giáp – video ngắn 2: Bão giáp hay nhiễm khuẩn huyết",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Nội tiết – Hồi sức",
+ "part": "Cơn bão giáp 2026 · ôn nhanh",
+ "source_short": "Nguồn: Đồng thuận ETA/BTA/SfE/WEDS 2026 về cơn bão giáp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Taylor P, Okosieme O, Effraimidis G, et al. Management of thyroid emergencies: joint consensus statement on management of thyroid storm. European Thyroid Association, British Thyroid Association, Society for Endocrinology, Welsh Endocrine and Diabetes Society, 2026.",
+ "lexicon": {
+  "propylthiouracil": "prô pin thi ô u ra xin",
+  "Burch–Wartofsky": "Bớt Oa tốp xki",
+  "Burch-Wartofsky": "Bớt Oa tốp xki",
+  "hydrocortisone": "hy đrô cooc ti dôn",
+  "cholestyramine": "cô lét ti ra min",
+  "chlorpromazine": "clo prô ma din",
+  "Wolff–Chaikoff": "Vôn Chai cốp",
+  "CHA₂DS₂-VASc": "cha hai đi ét hai vát",
+  "propranolol": "prô pra nô lôn",
+  "methimazole": "mê thi ma dôn",
+  "carbimazole": "các bi ma dôn",
+  "perchlorate": "péc clo rát",
+  "ETA/BTA/SfE": "e tê a, bê tê a, ét ép e",
+  "bisoprolol": "bi sô prô lôn",
+  "amiodarone": "a mi ô đa rôn",
+  "µg/kg/phút": "micrôgam mỗi kilôgam mỗi phút",
+  "labetalol": "la bê ta lôn",
+  "landiolol": "lan đi ô lôn",
+  "diltiazem": "đin ti a dem",
+  "thiamine": "thi a min",
+  "iopanoic": "i ô pa nô ích",
+  "JTA/JES": "giây tê a, giây e ét",
+  "esmolol": "ét mô lôn",
+  "Basedow": "Ba dơ đô",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "OR 9,43": "tỉ số chênh 9,43",
+  "mg/ngày": "miligam mỗi ngày",
+  "Graves": "Grêu",
+  "Lugol": "Lu gôn",
+  "µg/kg": "micrôgam mỗi kilôgam",
+  "mg/dL": "miligam mỗi đêxilít",
+  "BWPS": "thang Bớt Oa tốp xki",
+  "SSKI": "ét ét ca i",
+  "ECMO": "ếch mô",
+  "SOFA": "sô pha",
+  "NYHA": "en uy hát a",
+  "TS1": "tê ét một",
+  "TS2": "tê ét hai",
+  "FT3": "ép tê ba",
+  "FT4": "ép tê bốn",
+  "TSH": "tê ét hát",
+  "PTU": "pê tê u",
+  "MMI": "em em i",
+  "CBZ": "xê bê dét",
+  "ETA": "e tê a",
+  "ATA": "a tê a",
+  "°C": "độ xê"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "CƠN BÃO GIÁP · BẪY HỒI SỨC",
+   "hook": "Sốt + mạch nhanh + TSH thấp = bão giáp?",
+   "sub": "Chưa chắc. Hai bẫy ngược chiều nhau",
+   "c": "coral",
+   "lines": [
+    "Sốt, mạch nhanh, TSH thấp: đã là cơn bão giáp chưa? Chưa chắc. Có hai bẫy ngược chiều nhau."
+   ]
+  },
+  {
+   "id": "l",
+   "layout": "list",
+   "chapter": "HAI BẪY",
+   "title": "Quá mức và bỏ sót",
+   "items": [
+    {
+     "t": "Bẫy 1: chẩn đoán quá mức",
+     "d": "Nhiễm khuẩn huyết, sốc tim kèm cường giáp sinh hoá tình cờ",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Vì sao?",
+     "d": "Burch–Wartofsky dồn điểm vào sốt và nhịp nhanh",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Bẫy 2: bỏ sót",
+     "d": "Người cao tuổi: cường giáp vô cảm, mạch không nhanh, ít kích động",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Nguyên tắc",
+     "d": "Thang điểm chỉ hỗ trợ · nhận định lâm sàng, diễn tiến, đáp ứng điều trị",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bẫy thứ nhất là chẩn đoán quá mức: người bệnh hồi sức bị nhiễm khuẩn huyết hay sốc tim, tình cờ có cường giáp trên xét nghiệm.",
+    "Vì thang Burch–Wartofsky dồn nhiều điểm vào sốt và nhịp nhanh, nên dễ cho điểm cao dù không phải cơn bão giáp.",
+    "Bẫy thứ hai ngược lại: người cao tuổi có thể vào cơn kiểu cường giáp vô cảm, mạch không nhanh, ít kích động, triệu chứng mơ hồ. Hãy xét nghiệm tuyến giáp dù bệnh cảnh không điển hình.",
+    "Nguyên tắc: thang điểm chỉ là công cụ hỗ trợ; chẩn đoán dựa trên nhận định lâm sàng, diễn tiến và đáp ứng điều trị. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
