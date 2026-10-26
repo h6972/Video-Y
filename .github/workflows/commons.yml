@@ -1,0 +1,27 @@
+name: commons
+on:
+  workflow_dispatch:
+    inputs:
+      mode: {description: "search | download", required: true}
+      arg: {description: "search: các truy vấn cách nhau bởi |  ·  download: đường dẫn spec.json trong repo", required: true}
+      out: {description: "search: file kết quả", required: false, default: "tools/commons-search.json"}
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Chạy
+        run: |
+          if [ "${{ inputs.mode }}" = "search" ]; then
+            IFS='|' read -ra Q <<< "${{ inputs.arg }}"
+            python3 tools/commons.py search "${{ inputs.out }}" "${Q[@]}"
+          else
+            python3 tools/commons.py download "${{ inputs.arg }}"
+          fi
+      - name: Đẩy kết quả
+        run: |
+          git config user.name "video-bot"; git config user.email "video-bot@users.noreply.github.com"
+          git add -A && git commit -qm "Commons ${{ inputs.mode }} [skip ci]" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push origin HEAD:main && exit 0; sleep 10; done; exit 1
