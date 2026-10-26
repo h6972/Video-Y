@@ -1,0 +1,11 @@
+onnxruntime 1.22.1
+tải mô hình: 16 giây
+giọng có sẵn: [('⭐ Adam bựa — Nam · Bắc · Phong cách tự nhiên', 'Adam bựa'), ('⭐ Trúc Ly — Nữ · Bắc · Phong cách tự nhiên', 'Trúc Ly'), ('⭐ Thiện Minh — Nam · Bắc · Phong cách kể chuyện', 'Thiện Minh'), ('⭐ Mai Anh — Nữ · Bắc · Phong cách tin tức', 'Mai Anh'), ('⭐ Hải Đăng — Nam · Bắc · Phong cách tự nhiên', 'Hải Đăng'), ('⭐ Thùy Dung — Nữ · Nam · Phong cách tin tức', 'Thùy Dung'), ('⭐ Thiền Tâm Đức — Nam · Bắc · Phong cách kể chuyện', 'Thiền Tâm Đức'), ('⭐ Ngọc Huyền — Nữ · Bắc · Giọng đọc tự nhiên', 'Ngọc Huyền'), ('⭐ Quang Sơn — Nam · Trung · Phong cách tự nhiên', 'Quang Sơn'), ('⭐ Ngọc Trân — Nữ · Trung · Phong cách tự nhiên', 'Ngọc Trân'), ('Minh Đức — Nam · Bắc · Phong cách tin tức', 'Minh Đức'), ('Phạm Tuyên — Nam · Bắc · Phong cách tự nhiên', 'Phạm Tuyên'), ('Thái Sơn — Nam · Nam · Phong cách kể chuyện', 'Thái Sơn'), ('Xuân Vĩnh — Nam · Bắc · Phong cách tự nhiên', 'Xuân Vĩnh'), ('Thanh Bình — Nam · Bắc · Phong cách kể chuyện', 'Thanh Bình'), ('Ngọc Linh — Nữ · Bắc · Phong cách kể chuyện', 'Ngọc Linh'), ('Đoan Trang — Nữ · Bắc · Phong cách tự nhiên', 'Đoan Trang'), ('Thục Đoan — Nữ · Nam · Phong cách kể chuyện', 'Thục Đoan'), ('Minh Triết — Nam · Nam · Phong cách tin tức', 'Minh Triết'), ('Mỹ Duyên — Nữ · Nam · Phong cách đọc truyện', 'Mỹ Duyên'), ('Quỳnh Anh — Nữ · Bắc · Phong cách đọc truyện', 'Quỳnh Anh'), ('Đức Trí — Nam · Nam · Phong cách đọc truyện', 'Đức Trí'), ('Kim Thanh — Nữ · Nam · Phong cách đọc truyện', 'Kim Thanh'), ('Adam — Nam · Nam · Giọng đọc tự nhiên', 'Adam'), ('Quốc Tuấn — Nam · Bắc · Phong cách tự nhiên', 'Quốc Tuấn')]
+Adam {'audio_s': 23.6, 'gen_s': 14.1, 'sr': 48000}
+Thái Sơn {'audio_s': 26.5, 'gen_s': 15.7, 'sr': 48000}
+Minh Triết {'audio_s': 22.6, 'gen_s': 13.4, 'sr': 48000}
+Đức Trí {'audio_s': 32.6, 'gen_s': 20.5, 'sr': 48000}
+Thục Đoan {'audio_s': 26.2, 'gen_s': 15.5, 'sr': 48000}
+Mỹ Duyên {'audio_s': 31.2, 'gen_s': 19.4, 'sr': 48000}
+Kim Thanh {'audio_s': 33.4, 'gen_s': 21.0, 'sr': 48000}
+Thùy Dung {'audio_s': 21.6, 'gen_s': 12.9, 'sr': 48000}

@@ -1,0 +1,42 @@
+{
+ "Adam": {
+  "audio_s": 23.6,
+  "gen_s": 14.1,
+  "sr": 48000
+ },
+ "Thái Sơn": {
+  "audio_s": 26.5,
+  "gen_s": 15.7,
+  "sr": 48000
+ },
+ "Minh Triết": {
+  "audio_s": 22.6,
+  "gen_s": 13.4,
+  "sr": 48000
+ },
+ "Đức Trí": {
+  "audio_s": 32.6,
+  "gen_s": 20.5,
+  "sr": 48000
+ },
+ "Thục Đoan": {
+  "audio_s": 26.2,
+  "gen_s": 15.5,
+  "sr": 48000
+ },
+ "Mỹ Duyên": {
+  "audio_s": 31.2,
+  "gen_s": 19.4,
+  "sr": 48000
+ },
+ "Kim Thanh": {
+  "audio_s": 33.4,
+  "gen_s": 21.0,
+  "sr": 48000
+ },
+ "Thùy Dung": {
+  "audio_s": 21.6,
+  "gen_s": 12.9,
+  "sr": 48000
+ }
+}
