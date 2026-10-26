@@ -1,0 +1,58 @@
+{
+ "scinti5.jpg": {
+  "title": "File:Thyroid scintigraphy.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Thyroid_scintigraphy.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Petros Perros",
+  "w": 2012,
+  "h": 1478
+ },
+ "exo_goitre.jpg": {
+  "title": "File:Head of a man with an exophthalmic goitre Wellcome L0062448.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Head_of_a_man_with_an_exophthalmic_goitre_Wellcome_L0062448.jpg",
+  "license": "CC BY 4.0",
+  "artist": "",
+  "w": 3860,
+  "h": 4990
+ },
+ "mri_orbit.jpg": {
+  "title": "File:MRI Graves' Ophthalmopathy.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:MRI_Graves%27_Ophthalmopathy.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Huy A Tran and Glenn EM Reeves",
+  "w": 1011,
+  "h": 1280
+ },
+ "af_rvr.png": {
+  "title": "File:AF with RVR-Ashmans phenomenon-RBBB aberrancy.png",
+  "page": "https://commons.wikimedia.org/wiki/File:AF_with_RVR-Ashmans_phenomenon-RBBB_aberrancy.png",
+  "license": "CC BY-SA 3.0",
+  "artist": "Jer5150",
+  "w": 765,
+  "h": 417
+ },
+ "plasma.jpg": {
+  "title": "File:Fenwal Erythropheresis machine for plasmapheresis.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fenwal_Erythropheresis_machine_for_plasmapheresis.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Elwood P. Dowd",
+  "w": 738,
+  "h": 876
+ },
+ "goitre_spec.jpg": {
+  "title": "File:Diffuse Toxic Goitre.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Diffuse_Toxic_Goitre.JPG",
+  "license": "CC BY-SA 3.0",
+  "artist": "Netha Hussain",
+  "w": 2048,
+  "h": 1536
+ },
+ "graves_scan.jpg": {
+  "title": "File:Graves-Bocio.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Graves-Bocio.JPG",
+  "license": "Public domain",
+  "artist": "Sincefalastrum",
+  "w": 840,
+  "h": 447
+ }
+}
