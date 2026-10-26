@@ -1,0 +1,1220 @@
+{
+ "title": "Cơn bão giáp ETA/BTA 2026 – Phần 2: Điều trị, theo dõi và xử trí kháng trị",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Nội tiết – Hồi sức",
+ "part": "Cơn bão giáp 2026 · Phần 2/2",
+ "source_short": "Nguồn: Management of thyroid emergencies – joint consensus statement on management of thyroid storm (ETA/BTA/SfE/WEDS 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Taylor P, Okosieme O, Effraimidis G, et al. Management of thyroid emergencies: joint consensus statement on management of thyroid storm. European Thyroid Association, British Thyroid Association, Society for Endocrinology, Welsh Endocrine and Diabetes Society, 2026.",
+ "lexicon": {
+  "propylthiouracil": "prô pin thi ô u ra xin",
+  "Burch–Wartofsky": "Bớt Oa tốp xki",
+  "Burch-Wartofsky": "Bớt Oa tốp xki",
+  "hydrocortisone": "hy đrô cooc ti dôn",
+  "cholestyramine": "cô lét ti ra min",
+  "chlorpromazine": "clo prô ma din",
+  "Wolff–Chaikoff": "Vôn Chai cốp",
+  "CHA₂DS₂-VASc": "cha hai đi ét hai vát",
+  "propranolol": "prô pra nô lôn",
+  "methimazole": "mê thi ma dôn",
+  "carbimazole": "các bi ma dôn",
+  "perchlorate": "péc clo rát",
+  "ETA/BTA/SfE": "e tê a, bê tê a, ét ép e",
+  "bisoprolol": "bi sô prô lôn",
+  "amiodarone": "a mi ô đa rôn",
+  "µg/kg/phút": "micrôgam mỗi kilôgam mỗi phút",
+  "labetalol": "la bê ta lôn",
+  "landiolol": "lan đi ô lôn",
+  "diltiazem": "đin ti a dem",
+  "thiamine": "thi a min",
+  "iopanoic": "i ô pa nô ích",
+  "JTA/JES": "giây tê a, giây e ét",
+  "esmolol": "ét mô lôn",
+  "Basedow": "Ba dơ đô",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "OR 9,43": "tỉ số chênh 9,43",
+  "mg/ngày": "miligam mỗi ngày",
+  "Graves": "Grêu",
+  "Lugol": "Lu gôn",
+  "µg/kg": "micrôgam mỗi kilôgam",
+  "mg/dL": "miligam mỗi đêxilít",
+  "BWPS": "thang Bớt Oa tốp xki",
+  "SSKI": "ét ét ca i",
+  "ECMO": "ếch mô",
+  "SOFA": "sô pha",
+  "NYHA": "en uy hát a",
+  "TS1": "tê ét một",
+  "TS2": "tê ét hai",
+  "FT3": "ép tê ba",
+  "FT4": "ép tê bốn",
+  "TSH": "tê ét hát",
+  "PTU": "pê tê u",
+  "MMI": "em em i",
+  "CBZ": "xê bê dét",
+  "ETA": "e tê a",
+  "ATA": "a tê a",
+  "°C": "độ xê"
+ },
+ "brand": {
+  "next": "Phần 1: Nhận diện và chẩn đoán cơn bão giáp"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "thyroid",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 2/2",
+   "title": "Cơn bão giáp<br>điều trị và kháng trị",
+   "subtitle": "Đồng thuận ETA · BTA · SfE · WEDS 2026",
+   "badges": [
+    {
+     "t": "Chẹn beta · kháng giáp · corticoid",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Iod: sau ít nhất 1 giờ",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Kháng trị: 3 bước",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "note": "Kèm đầy đủ liều thuốc theo đồng thuận",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần hai của loạt bài về đồng thuận xử trí cơn bão giáp năm 2026.",
+    "Phần này đi vào điều trị: các biện pháp chung, chẹn beta, thuốc kháng giáp liều cao, corticoid và iod, kèm đầy đủ liều thuốc.",
+    "Một nguyên tắc về thời điểm sẽ được nhấn mạnh nhiều lần: iod chỉ được cho sau thuốc kháng giáp ít nhất một giờ.",
+    "Chúng ta cũng sẽ xem cách theo dõi đáp ứng, quy trình leo thang khi kháng trị với thay huyết tương, cắt tuyến giáp cấp cứu và ECMO, và kế hoạch điều trị triệt để trước khi ra viện."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "flow",
+   "chapter": "Tổng quan điều trị · Hình 1",
+   "title": "Bốn mục tiêu điều trị song song",
+   "ref": "Tổng hợp theo Hình 1 và Mục Điều trị",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Cơn bão giáp",
+     "d": "HDU / hồi sức · nhóm đa chuyên khoa",
+     "x": 200,
+     "y": 346,
+     "w": 340,
+     "h": 150,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "1 · Hỗ trợ toàn thân",
+     "d": "Làm mát, paracetamol, dịch · thử thai · điện tâm đồ, X-quang ngực",
+     "x": 790,
+     "y": 85,
+     "w": 560,
+     "h": 130,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "2 · Giảm tác dụng ngoại biên",
+     "d": "Chẹn beta",
+     "x": 790,
+     "y": 255,
+     "w": 560,
+     "h": 110,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "3 · Giảm tổng hợp và phóng thích",
+     "d": "Thuốc kháng giáp → sau ≥ 1 giờ: iod · corticoid",
+     "x": 790,
+     "y": 425,
+     "w": 560,
+     "h": 120,
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "4 · Xử trí yếu tố thúc đẩy",
+     "d": "Ví dụ: kháng sinh khi nhiễm trùng",
+     "x": 790,
+     "y": 600,
+     "w": 560,
+     "h": 110,
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "id": "f",
+     "t": "Ổn định",
+     "d": "thường 24–72 giờ",
+     "x": 1340,
+     "y": 346,
+     "w": 280,
+     "h": 130,
+     "c": "green",
+     "at": 5
+    },
+    {
+     "id": "g",
+     "t": "Điều trị triệt để",
+     "d": "Phẫu thuật hoặc iod phóng xạ",
+     "x": 1640,
+     "y": 346,
+     "w": 260,
+     "h": 150,
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "c",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "a",
+     "b": "d",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "a": "a",
+     "b": "e",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "a": "b",
+     "b": "f",
+     "c": "green",
+     "at": 5
+    },
+    {
+     "a": "c",
+     "b": "f",
+     "c": "green",
+     "at": 5
+    },
+    {
+     "a": "d",
+     "b": "f",
+     "c": "green",
+     "at": 5
+    },
+    {
+     "a": "e",
+     "b": "f",
+     "c": "green",
+     "at": 5
+    },
+    {
+     "a": "f",
+     "b": "g",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Hình một của đồng thuận, dựa theo hướng dẫn của Hội Tuyến giáp Hoa Kỳ, tóm tắt chiến lược điều trị. Người bệnh được xử trí tại đơn vị chăm sóc tích cực hoặc hồi sức, bởi một nhóm đa chuyên khoa, với bốn mục tiêu tiến hành song song.",
+    "Một, điều chỉnh rối loạn toàn thân: làm mát, paracetamol, dịch truyền phù hợp; làm test thai, điện tâm đồ và X-quang ngực.",
+    "Hai, giảm tác dụng ngoại biên của hormone tuyến giáp bằng chẹn beta.",
+    "Ba, giảm tổng hợp và phóng thích hormone: thuốc kháng giáp liều cao, sau ít nhất một giờ mới đến iod, cùng với corticoid.",
+    "Bốn, điều trị tích cực yếu tố thúc đẩy, ví dụ kháng sinh khi có nhiễm trùng.",
+    "Khi đã ổn định, người bệnh được duy trì thuốc kháng giáp và thường được khuyên điều trị triệt để cường giáp bằng phẫu thuật hoặc iod phóng xạ."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "list",
+   "chapter": "Biện pháp chung",
+   "title": "Biện pháp chung tại hồi sức",
+   "ref": "Mục Biện pháp chung",
+   "dense": true,
+   "items": [
+    {
+     "t": "Nhóm đa chuyên khoa · HDU hoặc hồi sức",
+     "d": "Mời hồi sức sớm · báo phẫu thuật viên chuẩn bị cắt tuyến giáp cấp cứu nếu cần",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Làm mát · paracetamol · dịch truyền phù hợp",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Điều trị tích cực yếu tố thúc đẩy",
+     "d": "Ví dụ kháng sinh khi nhiễm trùng",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Test thai ở mọi phụ nữ trong độ tuổi sinh sản",
+     "d": "Có thai: phối hợp sớm sản khoa và sơ sinh",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Rung nhĩ: kháng đông theo CHA₂DS₂-VASc",
+     "d": "Cân nhắc nguy cơ chảy máu",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Cảnh giác nhu cầu hỗ trợ hô hấp",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Cần an thần: chlorpromazine 50–100 mg tiêm bắp",
+     "d": "Đồng thời giúp hạ nhiệt",
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "t": "Theo dõi sát đường huyết · dinh dưỡng, bù vitamin",
+     "d": "Nguy cơ hạ đường huyết · ví dụ thiamine",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Về biện pháp chung: tiếp cận theo nhóm đa chuyên khoa, xử trí tại đơn vị chăm sóc tích cực hoặc hồi sức. Cần mời chuyên gia hồi sức sớm, và báo cho phẫu thuật viên để họ đánh giá, chuẩn bị nếu phải cắt tuyến giáp cấp cứu.",
+    "Xử trí ban đầu gồm làm mát, paracetamol và dịch truyền tĩnh mạch phù hợp, cùng điều trị tích cực yếu tố thúc đẩy, ví dụ kháng sinh khi có nhiễm trùng.",
+    "Làm test thai cho mọi phụ nữ trong độ tuổi sinh sản. Cơn bão giáp khi mang thai hiếm nhưng nguy cơ rất lớn cho mẹ và thai, cần phối hợp sớm với sản khoa và sơ sinh.",
+    "Rung nhĩ: quyết định kháng đông theo phân tầng nguy cơ đột quỵ chuẩn như CHA₂DS₂-VASc, cân nhắc nguy cơ chảy máu. Và luôn cảnh giác vì các bệnh nhân này dễ cần hỗ trợ hô hấp.",
+    "Nếu cần an thần, có thể cân nhắc chlorpromazine 50 đến 100 miligam tiêm bắp; thuốc này đồng thời giúp hạ nhiệt.",
+    "Cuối cùng, theo dõi sát đường huyết vì nguy cơ hạ đường huyết, và hỗ trợ dinh dưỡng kèm bù vitamin, ví dụ thiamine."
+   ]
+  },
+  {
+   "id": "s3b",
+   "layout": "box",
+   "chapter": "Bẫy hạ sốt",
+   "title": "Vì sao tránh aspirin?",
+   "ref": "Mục Biện pháp chung",
+   "box": {
+    "tag": "TRÁNH ASPIRIN",
+    "t": "Aspirin <b>cạnh tranh</b> với hormone tuyến giáp tại vị trí gắn trên protein huyết tương, gồm globulin gắn thyroxine → <em>FT4 và FT3 tăng thoáng qua</em>.",
+    "at": 0,
+    "c": "coral",
+    "size": 36
+   },
+   "notes": [
+    {
+     "tag": "ƯU TIÊN",
+     "t": "Paracetamol để hạ sốt",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "tag": "KẾT HỢP",
+     "t": "Làm mát bên ngoài · chlorpromazine khi cần an thần",
+     "at": 1,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Một bẫy nhỏ nhưng quan trọng: tránh aspirin. Aspirin cạnh tranh với hormone tuyến giáp tại vị trí gắn trên protein huyết tương, trong đó có globulin gắn thyroxine, làm FT4 và FT3 tự do tăng lên thoáng qua, tức là làm nặng thêm nhiễm độc giáp.",
+    "Vì vậy paracetamol là thuốc hạ sốt được ưu tiên, kết hợp các biện pháp làm mát."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "Chẹn beta",
+   "title": "Chẹn beta: nền tảng điều trị",
+   "ref": "Mục Chẹn beta · tài liệu 5, 8, 11",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "ĐƯỜNG UỐNG",
+     "t": "Propranolol",
+     "d": "60–80 mg mỗi 4 giờ",
+     "items": [
+      "Theo hướng dẫn ATA và ETA",
+      "Liều cao còn giảm chuyển T4 thành T3",
+      "Tĩnh mạch khi không ổn định, nôn, kích động"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "TĨNH MẠCH · ƯA DÙNG",
+     "t": "Esmolol",
+     "d": "Bán thải ngắn, ngừng nhanh",
+     "items": [
+      "Nhiều bác sĩ dùng esmolol thay propranolol",
+      "Ưu tiên khi nghi bệnh cơ tim, tụt huyết áp, sốc tim chớm"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KHI CHỐNG CHỈ ĐỊNH",
+     "t": "Diltiazem",
+     "d": "60–90 mg uống mỗi 6 giờ",
+     "items": [
+      "Có thể dùng tĩnh mạch",
+      "Ví dụ: hen phế quản, mất bù tim khi dùng chẹn beta"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Chẹn beta là nền tảng điều trị, làm giảm hoạt tính giao cảm, và với propranolol còn giảm chuyển T4 thành T3 ở ngoại biên. Hướng dẫn của Hội Tuyến giáp Hoa Kỳ và châu Âu khuyến cáo propranolol 60 đến 80 miligam mỗi 4 giờ; liều cao này có lợi thế giảm chuyển T4 thành T3.",
+    "Đường tĩnh mạch là một lựa chọn khi người bệnh không ổn định, hoặc không uống được vì nôn hay kích động.",
+    "Cân nhắc esmolol tĩnh mạch thay propranolol vì bán thải ngắn, có thể ngừng nhanh nếu có tác dụng bất lợi. Nhiều bác sĩ dùng esmolol thay propranolol vì lý do này.",
+    "Nếu chẹn beta bị chống chỉ định, ví dụ hen phế quản hoặc mất bù tim khi đang dùng chẹn beta, diltiazem có thể có lợi, liều 60 đến 90 miligam uống mỗi 6 giờ, và cũng có thể dùng đường tĩnh mạch."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "compare",
+   "chapter": "Liều tĩnh mạch · Box 2",
+   "title": "Phác đồ chẹn beta tĩnh mạch",
+   "ref": "Box 2",
+   "head": [
+    "Thuốc",
+    "Liều khởi đầu",
+    "Duy trì"
+   ],
+   "widths": "0.8fr 1.6fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Propranolol</b>",
+      "1–3 mg tĩnh mạch, tốc độ tối đa 1 mg/phút · chỉ lặp lại <b>một lần</b> sau 2 phút",
+      "Truyền 2–3 mg/giờ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Labetalol</b>",
+      "5–20 mg tĩnh mạch trong 2 phút",
+      "0,5 mg/phút"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Esmolol</b>",
+      "Tấn công 500 µg/kg trong 1 phút<br><span class='mut'>70 kg = 35 mg</span>",
+      "0–200 µg/kg/phút<br><span class='mut'>70 kg = 0–14 mg/phút</span>"
+     ],
+     "at": 2,
+     "c": "amber",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Box hai đưa ra các phác đồ chẹn beta tĩnh mạch. Propranolol: 1 đến 3 miligam tĩnh mạch, tốc độ tối đa 1 miligam mỗi phút, chỉ lặp lại một lần sau 2 phút; có thể bắt đầu truyền 2 đến 3 miligam mỗi giờ.",
+    "Labetalol: 5 đến 20 miligam tĩnh mạch trong 2 phút, sau đó 0,5 miligam mỗi phút.",
+    "Esmolol: liều tấn công 500 micrôgam mỗi kilôgam trong 1 phút, với người 70 kilôgam là 35 miligam; duy trì từ 0 đến 200 micrôgam mỗi kilôgam mỗi phút, tức 0 đến 14 miligam mỗi phút ở người 70 kilôgam."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "box",
+   "chapter": "Bẫy chẹn beta",
+   "title": "Bệnh cơ tim nhiễm độc giáp: chẹn beta có thể gây trụy",
+   "ref": "Mục Chẹn beta · tài liệu 12",
+   "box": {
+    "tag": "CƠ CHẾ",
+    "t": "Khi tim đang dựa vào <b>hỗ trợ giao cảm bù trừ</b>, chẹn beta có thể làm <em>trụy huyết động</em> — nhất là bệnh cơ tim nhiễm độc giáp, tụt huyết áp, sốc tim đang hình thành, suy tim tâm thu.",
+    "at": 0,
+    "c": "coral",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "LÀM GÌ",
+     "t": "Siêu âm tim sớm · liều khởi đầu thấp, thận trọng · esmolol vì dễ chỉnh liều · theo dõi xâm lấn khi có suy tim",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CHỌN THUỐC",
+     "t": "Nhật Bản ưu tiên chẹn β1 chọn lọc (landiolol, bisoprolol) · đoàn hệ lớn hơn: tử vong tương đương propranolol → cá thể hoá",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bây giờ là bẫy quan trọng nhất của chẹn beta. Ở người bệnh ổn định huyết động, không rối loạn chức năng thất trái đáng kể, chẹn beta không chọn lọc như propranolol kiểm soát tần số hiệu quả. Nhưng khi nghi bệnh cơ tim do nhiễm độc giáp, tụt huyết áp hay sốc tim đang hình thành, chẹn beta có thể gây trụy huyết động vì lấy đi sự hỗ trợ giao cảm bù trừ.",
+    "Đồng thuận khuyến cáo đánh giá chức năng tim sớm, gồm siêu âm tim; cân nhắc liều khởi đầu thấp và thận trọng, đặc biệt khi có suy tim tâm thu; ưu tiên esmolol tĩnh mạch vì dễ chỉnh liều; và cân nhắc theo dõi xâm lấn ở người có hoặc nghi suy tim.",
+    "Về chọn thuốc: một số dữ liệu hồi cứu gợi ý tử vong cao hơn với propranolol so với chẹn beta một chọn lọc như landiolol hay bisoprolol ở bệnh nhân suy tim, là cơ sở để Nhật Bản ưu tiên nhóm chọn lọc.",
+    "Tuy nhiên, một nghiên cứu đoàn hệ lớn hơn sau đó cho thấy tử vong nội viện tương đương giữa propranolol và chẹn beta một chọn lọc, kể cả ở bệnh nhân suy tim cấp. Vì vậy việc chọn thuốc nên cá thể hoá theo thuốc sẵn có và đặc điểm người bệnh."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "cards",
+   "chapter": "Thuốc kháng giáp",
+   "title": "Thuốc kháng giáp liều cao",
+   "ref": "Mục Thuốc kháng giáp · tài liệu 13",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "LỰA CHỌN 1",
+     "t": "Methimazole hoặc carbimazole",
+     "d": "MMI 60–80 mg/ngày · CBZ 80–100 mg/ngày",
+     "items": [
+      "Hiệu quả tương đương PTU trong cơn bão giáp",
+      "Một số nước châu Âu có MMI tĩnh mạch (40 mg/mL)"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "LỰA CHỌN 2",
+     "t": "Propylthiouracil",
+     "d": "Tấn công 500–1000 mg, rồi 250 mg mỗi 4 giờ",
+     "items": [
+      "Uống, qua sonde dạ dày hoặc đặt hậu môn",
+      "Thêm tác dụng ức chế chuyển T4 → T3 ngoại biên"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "GIẢM LIỀU",
+     "t": "Khi ổn định",
+     "d": "Càng sớm càng tốt",
+     "items": [
+      "PTU 400 mg/ngày",
+      "MMI 30 mg/ngày",
+      "CBZ 40 mg/ngày"
+     ],
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Thuốc kháng giáp liều cao là thành phần trung tâm, nhằm nhanh chóng ức chế tổng hợp hormone mới. Liều cao là cần thiết để ức chế gần như hoàn toàn men peroxidase tuyến giáp trong bối cảnh mất bù đe doạ tính mạng.",
+    "Đồng thuận đề xuất methimazole 60 đến 80 miligam mỗi ngày, hoặc carbimazole 80 đến 100 miligam mỗi ngày, vì hai thuốc này có hiệu quả tương đương propylthiouracil trong cơn bão giáp. Ở một số nước châu Âu có methimazole đường tĩnh mạch.",
+    "Hoặc propylthiouracil, liều tấn công 500 đến 1000 miligam đường uống, qua sonde dạ dày hoặc đặt hậu môn, sau đó 250 miligam mỗi 4 giờ.",
+    "Lợi thế tiềm năng của propylthiouracil là ức chế thêm sự chuyển T4 thành T3 ở ngoại biên. Tuy nhiên dữ liệu quan sát gần đây ở bệnh nhân nặng không cho thấy lợi ích rõ về tử vong của propylthiouracil so với methimazole.",
+    "Khi có thể, giảm liều càng sớm càng tốt: propylthiouracil 400 miligam mỗi ngày, methimazole 30 miligam mỗi ngày, hoặc carbimazole 40 miligam mỗi ngày."
+   ]
+  },
+  {
+   "id": "s7b",
+   "layout": "flow",
+   "chapter": "Chọn thuốc theo chức năng gan",
+   "title": "PTU hay MMI/CBZ: nhìn vào gan",
+   "ref": "Mục Thuốc kháng giáp · tài liệu 5",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Men gan, bilirubin?",
+     "d": "Tăng nhẹ – vừa thường gặp: không tự động là chống chỉ định",
+     "x": 250,
+     "y": 346,
+     "w": 440,
+     "h": 170,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "> 3 lần giới hạn trên",
+     "d": "hoặc bilirubin đang tăng",
+     "x": 900,
+     "y": 160,
+     "w": 420,
+     "h": 130,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Bình thường hoặc tăng nhẹ",
+     "x": 900,
+     "y": 540,
+     "w": 420,
+     "h": 110,
+     "c": "green",
+     "at": 3
+    },
+    {
+     "id": "d",
+     "t": "Ưu tiên MMI / CBZ",
+     "d": "trừ khi bắt buộc PTU, ví dụ 3 tháng đầu thai kỳ",
+     "x": 1530,
+     "y": 110,
+     "w": 440,
+     "h": 140,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "e",
+     "t": "Suy gan cấp, rối loạn gan nặng",
+     "d": "Hội chẩn chuyên khoa gan",
+     "x": 1530,
+     "y": 300,
+     "w": 440,
+     "h": 120,
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "id": "f",
+     "t": "MMI / CBZ hoặc PTU",
+     "d": "Hiệu quả tương đương",
+     "x": 1530,
+     "y": 540,
+     "w": 440,
+     "h": 120,
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "c",
+     "c": "green",
+     "at": 3
+    },
+    {
+     "a": "b",
+     "b": "d",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "e",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "f",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Chọn thuốc nào phụ thuộc nhiều vào gan. Bất thường men gan rất thường gặp trong nhiễm độc giáp nặng và cơn bão giáp, có thể do sung huyết gan, thiếu oxy hoặc tác động trực tiếp của hormone. Tăng men gan nhẹ đến vừa không tự động là chống chỉ định thuốc kháng giáp.",
+    "Nhưng vì propylthiouracil có nguy cơ độc gan nặng đã được ghi nhận, khi rối loạn chức năng gan có ý nghĩa, ví dụ men gan vượt khoảng ba lần giới hạn trên hoặc bilirubin đang tăng, cần cân nhắc mạnh methimazole hoặc carbimazole thay vì propylthiouracil, trừ hoàn cảnh đặc biệt như ba tháng đầu thai kỳ.",
+    "Khi có suy gan cấp hoặc rối loạn gan nặng, nên hội chẩn chuyên khoa gan.",
+    "Nếu chức năng gan bình thường hoặc chỉ tăng nhẹ, có thể dùng methimazole, carbimazole hoặc propylthiouracil, vì hiệu quả trên kết cục tương đương."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "cards",
+   "chapter": "Thuốc hỗ trợ · corticoid",
+   "title": "Cholestyramine, lithium và corticoid",
+   "ref": "Mục Thuốc kháng giáp · Mục Corticoid · tài liệu 12",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "HỖ TRỢ",
+     "t": "Cholestyramine",
+     "d": "4 g × 3 lần/ngày",
+     "items": [
+      "Tăng thải hormone, chặn chu trình gan – ruột",
+      "Sử dụng ngoài chỉ định"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "CÂN NHẮC",
+     "t": "Lithium",
+     "d": "Khởi đầu 300 mg × 2 lần/ngày, có thể tăng",
+     "items": [
+      "Nguy cơ độc tính",
+      "Hỏi ý kiến chuyên gia trước khi dùng"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "CORTICOID",
+     "t": "Hydrocortisone tĩnh mạch",
+     "d": "100 mg tấn công, rồi 50 mg × 4 lần/ngày",
+     "items": [
+      "Liều cao giảm chuyển T4 → T3",
+      "Có thể đặc biệt hiệu quả ở Basedow",
+      "Theo dõi kali: liệt chu kỳ do nhiễm độc giáp"
+     ],
+     "at": 2,
+     "c": "amber",
+     "hl": "L3"
+    }
+   ],
+   "lines": [
+    "Hai thuốc hỗ trợ có thể dùng thêm. Cholestyramine 4 gam ba lần mỗi ngày có thể hữu ích, làm tăng thải hormone tuyến giáp bằng cách chặn chu trình gan – ruột, dù đây là sử dụng ngoài chỉ định.",
+    "Lithium có thể được cân nhắc, nhưng độc tính là vấn đề; cần ý kiến chuyên gia trước khi dùng. Liều khởi đầu hợp lý là 300 miligam hai lần mỗi ngày, có thể tăng.",
+    "Corticoid: hydrocortisone tĩnh mạch liều tấn công 100 miligam, sau đó 50 miligam bốn lần mỗi ngày. Corticoid liều cao làm giảm chuyển T4 thành T3, và có thể đặc biệt hiệu quả khi bệnh nền là Basedow.",
+    "Một lưu ý mới: corticoid liều cao như trong cơn bão giáp đã được báo cáo gây liệt chu kỳ do nhiễm độc giáp ở người cường giáp kiểm soát kém. Cần theo dõi sát kali máu sau khi dùng corticoid, nhất là ở nhóm nguy cơ như nam giới trẻ người châu Á hoặc gốc Mỹ La-tinh."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "timeline",
+   "chapter": "Iod · thời điểm",
+   "title": "Iod: đúng thuốc nhưng phải đúng lúc",
+   "ref": "Mục Iod / kali iodide",
+   "events": [
+    {
+     "year": "0 phút",
+     "t": "Thuốc kháng giáp",
+     "d": "PTU hoặc MMI/CBZ liều cao",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "≥ 1 giờ",
+     "t": "Bắt đầu iod",
+     "d": "Lugol 8 giọt × 4 lần/ngày hoặc SSKI 5 giọt × 4 lần/ngày · pha loãng trong sữa hoặc nước cam",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "year": "Ổn định",
+     "t": "Ngừng iod",
+     "d": "Ngay khi hormone được kiểm soát",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "year": "2–3 tháng",
+     "t": "Iod phóng xạ",
+     "d": "Trì hoãn để thải iod thừa, phục hồi khả năng bắt xạ",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "note": {
+    "t": "Cho iod trước thuốc kháng giáp có thể làm nhiễm độc giáp nặng thêm, tuỳ nguyên nhân · hiệu ứng Wolff–Chaikoff chỉ thoáng qua (hiện tượng thoát)",
+    "at": 1,
+    "c": "coral"
+   },
+   "lines": [
+    "Iod là phần dễ sai nhất về thời điểm. Bước đầu tiên luôn là thuốc kháng giáp liều cao.",
+    "Đồng thuận nhấn mạnh phải chờ một giờ sau thuốc kháng giáp mới cho iod. Sự trì hoãn này là bắt buộc, vì nếu không, tuỳ theo nguyên nhân, nhiễm độc giáp có thể nặng thêm. Cũng cần biết hiệu ứng Wolff–Chaikoff chỉ thoáng qua, gọi là hiện tượng thoát.",
+    "Liều dùng: dung dịch Lugol 8 giọt bốn lần mỗi ngày, hoặc dung dịch kali iodide bão hoà 5 giọt bốn lần mỗi ngày. Dung dịch iod gây kích ứng tại chỗ, phải pha loãng, ví dụ trong sữa hay nước cam, trước khi uống hoặc bơm qua sonde.",
+    "Ngừng iod ngay khi người bệnh ổn định và hormone được kiểm soát.",
+    "Iod làm bão hoà kho iod trong tuyến, ức chế bắt giữ iod và có thể làm giảm hiệu quả điều trị iod phóng xạ sau này. Vì vậy iod phóng xạ thường được trì hoãn ít nhất 2 đến 3 tháng."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "Iod theo nguyên nhân",
+   "title": "Iod có hiệu quả với nguyên nhân nào?",
+   "ref": "Mục Iod / kali iodide",
+   "head": [
+    "Nguyên nhân",
+    "Cơ chế nhiễm độc giáp",
+    "Vai trò của iod"
+   ],
+   "widths": "1.1fr 1.4fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Basedow · bướu đa nhân độc</b>",
+      "Tăng tổng hợp hormone",
+      "<b>Hiệu quả nhất</b>: hiệu ứng Wolff–Chaikoff cấp, ức chế phóng thích"
+     ],
+     "at": 0,
+     "c": "green",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Viêm giáp phá huỷ</b> (bán cấp, không đau) · amiodarone típ 2",
+      "Phóng thích hormone có sẵn",
+      "<b>Khó có lợi</b>"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Nhiễm độc giáp do dùng hormone</b>",
+      "Nguồn ngoại sinh",
+      "<b>Khó có lợi</b>"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Amiodarone típ 1</b>",
+      "Tăng tổng hợp do quá tải iod",
+      "<b>Lợi ích hạn chế</b> vì tải iod đã cao · thận trọng, kèm kháng giáp liều cao"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hiệu quả của iod phụ thuộc nguyên nhân. Iod hiệu quả nhất khi cường giáp do tăng tổng hợp hormone, như Basedow hay bướu đa nhân độc, nơi nó gây hiệu ứng Wolff–Chaikoff cấp và ức chế phóng thích thêm hormone.",
+    "Ở viêm giáp phá huỷ, như viêm giáp bán cấp, viêm giáp không đau, nhiễm độc giáp do amiodarone típ hai, và nhiễm độc giáp do dùng hormone, lượng hormone thừa đến từ hormone có sẵn bị phóng thích hoặc từ nguồn ngoại sinh, không phải tổng hợp mới; iod khó có lợi.",
+    "Với nhiễm độc giáp do amiodarone típ một, là tăng tổng hợp do quá tải iod, lợi ích thêm của iod có thể hạn chế vì tải iod đã cao; nếu dùng phải thận trọng và luôn kèm thuốc kháng giáp liều cao."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "list",
+   "chapter": "Theo dõi",
+   "title": "Theo dõi đáp ứng: 24–72 giờ",
+   "ref": "Mục Xử trí tiếp theo",
+   "dense": true,
+   "items": [
+    {
+     "t": "Cải thiện rõ thường trong 24–72 giờ",
+     "d": "Hết sốt · giảm nhịp tim · huyết động ổn, giảm vận mạch · tỉnh táo · tiêu hoá cải thiện",
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "t": "FT3, FT4 giảm dần trong nhiều ngày",
+     "d": "FT3 giảm nhanh hơn khi dùng PTU hoặc corticoid",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Không dùng TSH để đánh giá đáp ứng sớm",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Không ổn định sau 24–48 giờ → đánh giá lại",
+     "d": "Yếu tố thúc đẩy còn · thuốc không hấp thu · bệnh cơ tim · cần leo thang",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Ngừng iod sớm nhất · chẹn beta còn dùng khi còn nhiễm độc giáp",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "Ngừng corticoid khi ổn định, không nghi suy thượng thận",
+     "d": "Thuốc kháng giáp duy trì đến khi quyết định điều trị lâu dài",
+     "at": 5,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Về theo dõi: cơn bão giáp thường cải thiện rõ trong 24 đến 72 giờ. Khi đã ổn định về huyết động, thân nhiệt và thần kinh, chuyển sang điều trị duy trì.",
+    "Các chỉ dấu có ý nghĩa nhất gồm hết sốt, giảm nhịp tim, huyết động ổn hơn với giảm nhu cầu vận mạch, tri giác hồi phục và tiêu hoá cải thiện.",
+    "FT3 và FT4 dự kiến giảm dần trong vài ngày, FT3 có thể giảm nhanh hơn khi dùng propylthiouracil hoặc corticoid. Không dùng TSH để đánh giá đáp ứng sớm.",
+    "Nếu không ổn định sau 24 đến 48 giờ, phải đánh giá lại: yếu tố thúc đẩy còn tồn tại, thuốc không được hấp thu do rối loạn tiêu hoá, bệnh cơ tim, hoặc cần leo thang điều trị.",
+    "Ngừng iod càng sớm càng tốt khi hormone đã được kiểm soát, nhưng tiếp tục chẹn beta chừng nào người bệnh còn nhiễm độc giáp.",
+    "Có thể ngừng corticoid khi đã ổn định nếu không nghi suy thượng thận đi kèm. Thuốc kháng giáp tiếp tục cho đến khi quyết định điều trị lâu dài bằng thuốc, phẫu thuật hay iod phóng xạ."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "flow",
+   "chapter": "Kháng trị · leo thang",
+   "title": "Kháng trị: leo thang có cấu trúc",
+   "ref": "Mục Kháng trị (i)–(iii) · tài liệu 5, 14, 15",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Không ổn định dù điều trị chuẩn",
+     "x": 190,
+     "y": 150,
+     "w": 340,
+     "h": 150,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "(i) Tối ưu điều trị đầu tay",
+     "d": "Liều, hấp thu kháng giáp · thời điểm iod · yếu tố thúc đẩy · hỗ trợ huyết động, hô hấp",
+     "x": 640,
+     "y": 150,
+     "w": 440,
+     "h": 190,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "(ii) Thuốc hỗ trợ",
+     "d": "Thêm cholestyramine · tăng corticoid ở ca chọn lọc",
+     "x": 1110,
+     "y": 150,
+     "w": 400,
+     "h": 160,
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "(iii) Cứu vãn",
+     "d": "khi vẫn mất ổn định",
+     "x": 1560,
+     "y": 150,
+     "w": 380,
+     "h": 130,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "Thay huyết tương",
+     "d": "Cầu nối đến điều trị triệt để",
+     "x": 640,
+     "y": 540,
+     "w": 420,
+     "h": 140,
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "id": "f",
+     "t": "Cắt tuyến giáp cấp cứu",
+     "d": "Trung tâm chuyên sâu · có thể gây tê tại chỗ",
+     "x": 1110,
+     "y": 540,
+     "w": 420,
+     "h": 140,
+     "c": "teal",
+     "at": 4
+    },
+    {
+     "id": "g",
+     "t": "VA-ECMO",
+     "d": "Sốc tim kháng trị, bệnh cơ tim nặng",
+     "x": 1560,
+     "y": 540,
+     "w": 400,
+     "h": 140,
+     "c": "teal",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "a": "d",
+     "b": "f",
+     "c": "teal",
+     "at": 4
+    },
+    {
+     "a": "d",
+     "b": "g",
+     "c": "teal",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Khi người bệnh không ổn định dù đã điều trị chuẩn đầy đủ, đồng thuận đề xuất leo thang có cấu trúc theo ba bước.",
+    "Bước một, tối ưu điều trị đầu tay: xác nhận liều và sự hấp thu thuốc kháng giáp, nhất là khi người bệnh nặng có rối loạn hấp thu tiêu hoá; bảo đảm iod được cho đúng thời điểm; tìm lại yếu tố thúc đẩy; tối ưu hỗ trợ huyết động và hô hấp.",
+    "Bước hai, thuốc hỗ trợ: thêm cholestyramine, và ở ca chọn lọc có thể tăng liều corticoid. Đây chỉ là biện pháp hỗ trợ, chưa phải cứu vãn thực sự.",
+    "Bước ba, các biện pháp cứu vãn đã được dùng. Thay huyết tương có thể cân nhắc khi nhiễm độc giáp nặng kháng trị hoặc suy đa cơ quan dù điều trị nội tối đa; bằng chứng chỉ từ loạt ca, nhưng nó làm giảm hormone tạm thời và là cầu nối đến điều trị triệt để.",
+    "Cắt tuyến giáp cấp cứu nên được cân nhắc ở trung tâm chuyên sâu khi điều trị nội thất bại hoặc bị chống chỉ định, với nhóm phẫu thuật nội tiết và hồi sức giàu kinh nghiệm. Ở người nguy cơ cao không chịu được gây mê, có thể mổ với gây tê tại chỗ kèm an thần.",
+    "Và ECMO tĩnh mạch – động mạch có thể phù hợp khi sốc tim kháng trị, nhất là có bệnh cơ tim nhiễm độc giáp nặng. Vì sốc tim là yếu tố quyết định tử vong, ECMO giúp ổn định huyết động trong lúc chờ kiểm soát nội tiết."
+   ]
+  },
+  {
+   "id": "s12b",
+   "layout": "media",
+   "chapter": "Cứu vãn · hình ảnh minh hoạ",
+   "title": "Thay huyết tương, phẫu thuật và ECMO",
+   "ref": "Hình ảnh minh hoạ cho Mục Kháng trị (iii)",
+   "panels": [
+    {
+     "src": "../../media/tg2026/raw/plasma.jpg",
+     "ar": 0.842,
+     "flex": 0.8,
+     "at": 0,
+     "cap": "Máy tách thành phần máu dùng thay huyết tương",
+     "credit": "Ảnh: Elwood P. Dowd · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+     "src": "../../media/tg2026/raw/goitre_spec.jpg",
+     "ar": 1.333,
+     "flex": 1.1,
+     "at": 1,
+     "cap": "Bệnh phẩm cắt tuyến giáp: bướu giáp độc lan toả",
+     "credit": "Ảnh: Netha Hussain · CC BY-SA 3.0 · Wikimedia Commons"
+    },
+    {
+     "src": "../../media/pe2026/raw/ecmo_icu.jpg",
+     "ar": 1.333,
+     "flex": 1.1,
+     "at": 2,
+     "cap": "ECMO tại hồi sức",
+     "credit": "Ảnh: Cmenesesoliveira · phạm vi công cộng · Wikimedia Commons"
+    }
+   ],
+   "lines": [
+    "Đây là hình ảnh minh hoạ cho ba biện pháp cứu vãn. Bên trái là máy tách thành phần máu, loại dùng để thay huyết tương.",
+    "Ở giữa là bệnh phẩm cắt toàn bộ tuyến giáp của một bướu giáp độc lan toả, tức bệnh Basedow.",
+    "Bên phải là một bệnh nhân đang hỗ trợ ECMO tại hồi sức. Đồng thuận ghi nhận ECMO đã được dùng thành công trong cơn bão giáp có suy đa cơ quan kháng trị."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "box",
+   "chapter": "Thuốc hiếm dùng",
+   "title": "Perchlorate và acid iopanoic",
+   "ref": "Mục Liệu pháp hiếm dùng",
+   "box": {
+    "tag": "CHỈ Ở TRUNG TÂM CHUYÊN SÂU",
+    "t": "Không sẵn có thường quy, thiếu dữ liệu kết cục vững chắc · chỉ dùng dưới sự hướng dẫn của người giàu kinh nghiệm xử trí cơn bão giáp.",
+    "at": 0,
+    "c": "violet",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "PERCHLORATE",
+     "t": "Thêm vào ở ca nặng cần tăng cường điều trị · giảm tiết hormone",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "ACID IOPANOIC",
+     "t": "Ức chế mạnh phóng thích hormone và chuyển T4 → T3 · hormone giảm nhanh · khó tìm, chưa được cấp phép",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Cuối cùng là các thuốc hiếm dùng. Perchlorate và thuốc cản quang chứa iod như acid iopanoic chỉ được báo cáo trong các ca riêng lẻ, không sẵn có rộng rãi và thiếu dữ liệu kết cục vững chắc. Chỉ nên dùng ở trung tâm chuyên sâu, dưới sự hướng dẫn của người giàu kinh nghiệm.",
+    "Theo các ca bệnh và loạt ca, perchlorate có thể được cân nhắc như thuốc thêm vào ở ca nặng cần tăng cường điều trị, nhờ giảm tiết hormone.",
+    "Acid iopanoic ức chế mạnh sự phóng thích hormone và sự chuyển T4 thành T3 ngoại biên, làm hormone giảm nhanh và mạnh. Thuốc khó tìm và chưa được cấp phép, nhưng đã cứu sống một số ca chọn lọc."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "cards",
+   "chapter": "Trước khi ra viện",
+   "title": "Điều trị triệt để",
+   "ref": "Mục Xử trí tiếp theo",
+   "cards": [
+    {
+     "tag": "ƯA CHUỘNG",
+     "t": "Cắt tuyến giáp",
+     "items": [
+      "Một số ca cần mổ ngay trong đợt nằm viện"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "ƯA CHUỘNG",
+     "t": "Iod phóng xạ",
+     "items": [
+      "Thường trì hoãn ít nhất 2–3 tháng nếu đã dùng iod"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "MỘT SỐ CA",
+     "t": "Thuốc kháng giáp dài hạn",
+     "items": [
+      "Quyết định cùng người bệnh"
+     ],
+     "at": 1,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Trước khi ra viện, nếu người bệnh chưa được cắt tuyến giáp trong đợt nằm viện, cần cân nhắc và thảo luận các phương án điều trị triệt để. Lựa chọn ưa chuộng là cắt tuyến giáp hoặc iod phóng xạ.",
+    "Iod phóng xạ thường phải trì hoãn ít nhất 2 đến 3 tháng nếu người bệnh đã dùng iod. Ở một số trường hợp, có thể dùng thuốc kháng giáp dài hạn."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: rung nhĩ nhanh và EF thấp",
+   "ref": "Mục Chẹn beta · Box 2",
+   "case": "Nam 52 tuổi, cơn bão giáp do viêm phổi. Rung nhĩ 156 lần/phút, huyết áp 92/60 mmHg, ran hai đáy phổi, lactate 2,8 mmol/L. Siêu âm tim tại giường: thất trái giãn, EF khoảng 25%.",
+   "q": "Kiểm soát tần số thế nào là phù hợp nhất?",
+   "options": [
+    "Propranolol 80 mg uống ngay, lặp mỗi 4 giờ",
+    "Esmolol truyền, khởi đầu thận trọng, theo dõi sát huyết động",
+    "Labetalol 20 mg tĩnh mạch, lặp nhiều lần đến khi nhịp < 100",
+    "Không kiểm soát tần số, chỉ chờ thuốc kháng giáp"
+   ],
+   "answer": 1,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Nghi <b>bệnh cơ tim nhiễm độc giáp</b>, tụt huyết áp, sốc chớm: chẹn beta có thể gây trụy. Ưu tiên <b>esmolol</b> (bán thải ngắn, dễ chỉnh), liều khởi đầu thấp, cân nhắc theo dõi xâm lấn; nếu sốc tim kháng trị: cân nhắc VA-ECMO.",
+   "lines": [
+    "Tình huống thứ nhất. Nam 52 tuổi, cơn bão giáp do viêm phổi. Rung nhĩ 156 lần mỗi phút, huyết áp 92 trên 60, ran hai đáy phổi, lactate 2,8. Siêu âm tim tại giường: thất trái giãn, phân suất tống máu khoảng 25%.",
+    "Kiểm soát tần số thế nào là phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Đây là bệnh cảnh nghi bệnh cơ tim nhiễm độc giáp với tụt huyết áp và sốc đang hình thành. Chẹn beta liều cao có thể gây trụy huyết động vì lấy mất hỗ trợ giao cảm bù trừ. Đồng thuận ưu tiên esmolol tĩnh mạch vì bán thải ngắn, dễ chỉnh liều, khởi đầu thận trọng, và cân nhắc theo dõi xâm lấn.",
+    "Nếu tiến triển thành sốc tim kháng trị, hãy nghĩ sớm đến ECMO tĩnh mạch – động mạch như cầu nối trong lúc kiểm soát nội tiết."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: iod sai thời điểm",
+   "ref": "Mục Iod / kali iodide",
+   "case": "Nữ 29 tuổi, Basedow, cơn bão giáp. Lúc 8:00 được cho Lugol 8 giọt. Lúc 9:30 mới cho PTU 600 mg qua sonde. Thêm propranolol và hydrocortisone 100 mg tĩnh mạch.",
+   "q": "Nhận xét nào đúng?",
+   "options": [
+    "Đúng: iod càng sớm càng tốt",
+    "Sai: phải cho thuốc kháng giáp trước, ít nhất 1 giờ sau mới cho iod",
+    "Sai: iod chống chỉ định trong Basedow",
+    "Đúng nếu dùng SSKI thay Lugol"
+   ],
+   "answer": 1,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Iod cho <b>trước</b> thuốc kháng giáp có thể làm nhiễm độc giáp nặng thêm. Thứ tự đúng: PTU (hoặc MMI/CBZ) → chờ <b>≥ 1 giờ</b> → Lugol 8 giọt × 4 hoặc SSKI 5 giọt × 4, pha loãng. Basedow chính là nhóm iod hiệu quả nhất.",
+   "lines": [
+    "Tình huống thứ hai. Nữ 29 tuổi, Basedow, vào cơn bão giáp. Lúc 8 giờ được cho Lugol 8 giọt. Đến 9 giờ 30 mới cho propylthiouracil 600 miligam qua sonde, kèm propranolol và hydrocortisone 100 miligam tĩnh mạch.",
+    "Nhận xét nào đúng?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Đồng thuận yêu cầu chờ một giờ sau thuốc kháng giáp rồi mới cho iod, và nhấn mạnh sự trì hoãn này là thiết yếu, vì cho iod trước có thể làm nhiễm độc giáp nặng thêm.",
+    "Lựa chọn C sai, vì Basedow chính là nhóm mà iod hiệu quả nhất, khi được cho đúng thời điểm. Còn Lugol hay kali iodide bão hoà chỉ là hai dạng iod, không thay đổi nguyên tắc thời điểm."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "summary",
+   "chapter": "Tổng kết loạt bài",
+   "title": "Tám thông điệp của loạt bài",
+   "items": [
+    {
+     "t": "Chẩn đoán lâm sàng, điều trị ngay",
+     "d": "Thang điểm chỉ hỗ trợ · không chờ FT4",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Hồi sức · đa chuyên khoa",
+     "d": "Làm mát, paracetamol, không aspirin",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Propranolol 60–80 mg mỗi 4 giờ",
+     "d": "Esmolol 500 µg/kg rồi 0–200 µg/kg/phút",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Cẩn trọng bệnh cơ tim",
+     "d": "Siêu âm tim sớm · liều thấp · esmolol",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "MMI 60–80 · CBZ 80–100 · PTU 500–1000 → 250 mg/4 giờ",
+     "d": "Gan > 3 lần: ưu tiên MMI/CBZ",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Hydrocortisone 100 → 50 mg × 4",
+     "d": "Theo dõi kali",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Iod sau ≥ 1 giờ",
+     "d": "Lugol 8 giọt × 4 · SSKI 5 giọt × 4",
+     "at": 3,
+     "c": "amber",
+     "hl": true
+    },
+    {
+     "t": "Kháng trị: leo thang 3 bước",
+     "d": "Thay huyết tương · cắt tuyến giáp · VA-ECMO",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Xin tổng kết toàn loạt bài bằng tám thông điệp. Cơn bão giáp là chẩn đoán lâm sàng và cần điều trị ngay, không chờ xét nghiệm. Xử trí tại hồi sức theo nhóm đa chuyên khoa, hạ sốt bằng paracetamol và làm mát, tránh aspirin.",
+    "Chẹn beta là nền tảng: propranolol 60 đến 80 miligam mỗi 4 giờ, hoặc esmolol tĩnh mạch; nhưng luôn nghĩ đến bệnh cơ tim nhiễm độc giáp, siêu âm tim sớm và khởi đầu thận trọng.",
+    "Thuốc kháng giáp liều cao: methimazole 60 đến 80, carbimazole 80 đến 100 miligam mỗi ngày, hoặc propylthiouracil tấn công 500 đến 1000 miligam rồi 250 miligam mỗi 4 giờ; ưu tiên methimazole khi men gan tăng trên ba lần. Hydrocortisone 100 rồi 50 miligam bốn lần mỗi ngày, nhớ theo dõi kali.",
+    "Iod chỉ được cho sau thuốc kháng giáp ít nhất một giờ, và chủ yếu có ích ở cường giáp do tăng tổng hợp.",
+    "Cuối cùng, khi kháng trị hãy leo thang có cấu trúc, đến thay huyết tương, cắt tuyến giáp cấp cứu hoặc ECMO, và luôn lên kế hoạch điều trị triệt để trước khi ra viện. Cảm ơn quý đồng nghiệp đã theo dõi loạt bài của Thư Viện Y Khoa Online. Hẹn gặp lại quý vị ở các chuyên đề tiếp theo."
+   ]
+  }
+ ]
+}
