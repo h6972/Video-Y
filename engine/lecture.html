@@ -48,6 +48,8 @@ body{font-family:Inter,sans-serif;color:var(--tx)}
 .tagc{display:inline-block;font-size:19px;font-weight:800;padding:5px 12px;border-radius:8px;background:color-mix(in srgb,var(--c,var(--teal)) 18%,transparent);color:var(--c,var(--teal));letter-spacing:.5px}
 .n{flex:none;width:58px;height:58px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:25px;background:var(--c,var(--teal));color:#061226}
 b,strong{font-weight:700} em{font-style:normal;color:var(--amber);font-weight:700}
+.mlab{position:absolute;font-size:19px;font-weight:800;color:#fff;background:rgba(2,6,18,.78);border:2px solid var(--c);padding:3px 11px;border-radius:9px;white-space:nowrap;z-index:2}
+.mcap{height:52px;margin-top:8px;text-align:center;line-height:1.25}.mcap b{display:block;font-size:22px}.mcap span{display:block;font-size:15px;color:var(--mut);margin-top:3px}
 /* title */
 .t-title .big{font-size:76px;font-weight:800;line-height:1.08;letter-spacing:-1.5px}
 /* list */
@@ -175,6 +177,40 @@ const L={
    <div class="card c-green" style="margin-top:22px" data-in="${at(s.explain_at??s.answer_at)}" data-a="up"><div class="ans"><span class="acc">Đáp án ${String.fromCharCode(65+s.answer)}.</span> ${esc(s.explain)}</div></div>`,
 };
 L.summary=L.list;
+
+/* ---------- media: ảnh / clip thật + chú thích động ---------- */
+L.media=s=>{
+ const P=s.panels||[], N=s.notes||[], gap=22, H=s.h||692;
+ const nw=N.length?(s.notes_w||500):0, W=1776-(nw?nw+gap:0);
+ const tw=P.reduce((a,p)=>a+(p.flex||1),0);
+ const pan=P.map(p=>{
+   const pw=(W-gap*(P.length-1))*(p.flex||1)/tw, capH=(p.cap||p.credit)?62:0, ah=H-capH-20, ar=p.ar||1.4;
+   let bw=pw-20, bh=bw/ar; if(bh>ah){bh=ah;bw=bh*ar;}
+   const X=v=>v*bw/100, Y=v=>v*bh/100;
+   const img=p.seq?`<div data-seq="${p.n}" data-fps="${p.fps||25}" style="position:absolute;inset:0">${Array.from({length:p.n},(_,k)=>`<img src="${p.seq.replace('%03d',String(k).padStart(3,'0'))}" style="position:absolute;inset:0;width:100%;height:100%;visibility:${k?'hidden':'visible'}">`).join('')}</div>`
+                 :`<img src="${p.src}" style="position:absolute;inset:0;width:100%;height:100%">`;
+   const mk=(p.marks||[]).map(m=>{const c=`var(--${m.c||'amber'})`, tin=at(m.at);
+     if(m.type==='label') return '';
+     if(m.type==='circle') return `<ellipse cx="${X(m.x)}" cy="${Y(m.y)}" rx="${X(m.r)}" ry="${X(m.ry||m.r)}" fill="none" stroke="${c}" stroke-width="4" data-a="draw" data-in="${tin}"/>`;
+     if(m.type==='box') return `<rect x="${X(m.x)}" y="${Y(m.y)}" width="${X(m.w)}" height="${Y(m.h)}" rx="10" fill="none" stroke="${c}" stroke-width="4" data-a="draw" data-in="${tin}"/>`;
+     if(m.type==='line'){const x1=X(m.x),y1=Y(m.y),x2=X(m.x2),y2=Y(m.y2),a=Math.atan2(y2-y1,x2-x1),nx=-Math.sin(a)*9,ny=Math.cos(a)*9;
+       return `<g data-in="${tin}"><line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="${c}" stroke-width="4" stroke-dasharray="${m.dash?'10 6':''}"/><line x1="${x1-nx}" y1="${y1-ny}" x2="${x1+nx}" y2="${y1+ny}" stroke="${c}" stroke-width="4"/><line x1="${x2-nx}" y1="${y2-ny}" x2="${x2+nx}" y2="${y2+ny}" stroke="${c}" stroke-width="4"/></g>`;}
+     const x2=X(m.x),y2=Y(m.y),x1=X(m.x+(m.dx??-14)),y1=Y(m.y+(m.dy??-14)),a=Math.atan2(y2-y1,x2-x1),L2=18;
+     const hx=x2-Math.cos(a)*L2, hy=y2-Math.sin(a)*L2;
+     return `<g data-in="${tin}" data-a="pop"><line x1="${x1}" y1="${y1}" x2="${hx}" y2="${hy}" stroke="${c}" stroke-width="5" stroke-linecap="round"/><polygon points="${x2},${y2} ${hx-Math.sin(a)*10},${hy+Math.cos(a)*10} ${hx+Math.sin(a)*10},${hy-Math.cos(a)*10}" fill="${c}"/></g>`;
+   }).join('');
+   const lb=(p.marks||[]).filter(m=>m.t).map(m=>{let lx=m.lx,ly=m.ly;
+     if(lx==null){ if(m.type==='label'){lx=m.x;ly=m.y;} else if(m.type==='arrow'||!m.type){lx=m.x+(m.dx??-14);ly=m.y+(m.dy??-14);} else if(m.type==='line'){lx=(m.x+m.x2)/2;ly=(m.y+m.y2)/2-6;} else if(m.type==='box'){lx=m.x+m.w/2;ly=m.y-5;} else {lx=m.x;ly=m.y+(m.ry||m.r)*ar+6;} }
+     const lw=String(m.t).length*11+26, L0=m.anchor?X(lx):Math.max(4,Math.min(bw-lw-4,X(lx)-lw/2)), T0=Math.max(20,Math.min(bh-20,Y(ly)));
+     return `<div class="mlab c-${m.c||'amber'}" style="left:${L0}px;top:${T0}px;transform:translate(${m.anchor||'0,-50%'})" data-in="${at(m.at)}">${esc(m.t)}</div>`;}).join('');
+   const z=p.zoom?`data-zoom="${p.zoom.s||1.6}" data-zin="${at(p.zoom.at)}" ${p.zoom.out!=null?`data-zout="${at(p.zoom.out)}"`:''}`:'';
+   return `<div class="card mp" style="width:${pw}px;height:${H}px;padding:10px;display:flex;flex-direction:column;align-items:center" data-in="${at(p.at)}" data-a="pop">
+     <div style="flex:1;display:flex;align-items:center;justify-content:center;width:100%"><div style="position:relative;width:${bw}px;height:${bh}px;overflow:hidden;border-radius:12px;background:#000">
+     <div class="mz" ${z} style="position:absolute;inset:0;transform-origin:${p.zoom?p.zoom.x:50}% ${p.zoom?p.zoom.y:50}%">${img}<svg width="${bw}" height="${bh}" style="position:absolute;left:0;top:0;overflow:visible">${mk}</svg>${lb}</div></div></div>
+     ${capH?`<div class="mcap"><b>${esc(p.cap||'')}</b><span>${esc(p.credit||'')}</span></div>`:''}</div>`;}).join('');
+ const nt=nw?`<div style="width:${nw}px;display:flex;flex-direction:column;gap:14px">${N.map(n=>`<div class="card ${C(n.c)}" style="flex:1;padding:16px 22px;display:flex;flex-direction:column;justify-content:center" data-in="${at(n.at)}" data-a="left" data-hl="${at(n.at)}${n.hl?','+n.hl:''}">${n.tag?`<div><span class="tagc ${C(n.c)}">${esc(n.tag)}</span></div>`:''}<div style="font-size:26px;font-weight:700;margin-top:6px;line-height:1.28">${esc(n.t)}</div>${n.d?`<div class="mut" style="font-size:21px;margin-top:5px;line-height:1.35">${esc(n.d)}</div>`:''}</div>`).join('')}</div>`:'';
+ return `<div style="display:flex;gap:${gap}px;height:${H}px"><div style="display:flex;gap:${gap}px;width:${W}px">${pan}</div>${nt}</div>`;
+};
 document.body.dataset.theme=TL.theme||'guideline';
 /*__THEME_JS__*/
 
@@ -205,7 +241,9 @@ const scenes=TL.scenes.map(sc=>{const el=document.getElementById(sc.id);
     return o;});
   const hls=[...el.querySelectorAll('[data-hl]')].map(e=>({e,r:e.dataset.hl.split(',').map(x=>lineRange(x,sc)).filter(Boolean)}));
   const dims=[...el.querySelectorAll('[data-dim]')].map(e=>({e,t:parseT(e.dataset.dim,sc)}));
-  return {sc,el,items,hls,dims};});
+  const seqs=[...el.querySelectorAll('[data-seq]')].map(e=>({imgs:[...e.children],n:+e.dataset.seq,fps:+e.dataset.fps,k:0}));
+  const zooms=[...el.querySelectorAll('[data-zoom]')].map(e=>({e,s:+e.dataset.zoom,tin:parseT(e.dataset.zin,sc),tout:e.dataset.zout?parseT(e.dataset.zout,sc):null}));
+  return {sc,el,items,hls,dims,seqs,zooms};});
 
 function render(t){
   let sub='', cur=0;
@@ -227,6 +265,8 @@ function render(t){
     let anyHl=false;
     for(const h of S.hls){const on=h.r.some(([a,b])=>lt>=a&&lt<b); h.e.classList.toggle('hl',on); if(on) anyHl=true;}
     for(const h of S.hls){h.e.classList.toggle('past',anyHl&&!h.e.classList.contains('hl')&&sc.layout!=='quiz');}
+    for(const q of S.seqs){const k=Math.floor(Math.max(0,lt)*q.fps)%q.n; if(k!==q.k){q.imgs[q.k].style.visibility='hidden';q.imgs[k].style.visibility='visible';q.k=k;}}
+    for(const z of S.zooms){let p=ease((lt-z.tin)/1.4); if(z.tout!=null) p*=1-ease((lt-z.tout)/1.2); z.e.style.transform=`scale(${1+(z.s-1)*p})`;}
     for(const d of S.dims){d.e.style.opacity=lt>=d.t?0.35:d.e.style.opacity;}
     for(const ln of sc.L) for(const s of ln.subs) if(lt>=s.t0&&lt<s.t1+0.25) sub=s.text;
   });
@@ -235,7 +275,7 @@ function render(t){
   document.getElementById('prog').style.width=(clamp(t/TL.total)*100)+'%';
   document.getElementById('bg').style.transform=`translate(${Math.sin(t*0.05)*60}px,${Math.cos(t*0.04)*40}px)`;
 }
-window.render=render; window.TOTAL=TL.total; window.FONTS_READY=document.fonts.ready.then(()=>true);
+window.render=render; window.TOTAL=TL.total; window.FONTS_READY=Promise.all([document.fonts.ready,...[...document.images].map(i=>i.decode().catch(()=>0))]).then(()=>true);
 if(!location.search.includes('capture')){const t0=performance.now();(function loop(){render(((performance.now()-t0)/1000)%TL.total);requestAnimationFrame(loop)})();}
 </script>
 </body>
