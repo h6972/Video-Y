@@ -1,6 +1,7 @@
 """Giọng đọc VieNeu-TTS v3 Turbo (chạy CPU trên GitHub, miễn phí).
-Cấu hình trong script.json: "tts": "vieneu", "vieneu": {"voice": "Adam"}"""
-import os, sys, json, time
+Cấu hình trong script.json: "tts": "vieneu", "vieneu": {"voice": "Adam", "tempo": 1.0}
+tempo ≠ 1: tăng/giảm tốc giữ nguyên cao độ (ffmpeg atempo), ví dụ video ngắn {"voice": "Mỹ Duyên", "tempo": 1.15}."""
+import os, sys, json, time, subprocess
 import onnxruntime; print("onnxruntime", onnxruntime.__version__, flush=True)
 from vieneu import Vieneu
 
@@ -21,4 +22,9 @@ for k, (sid, i, ln) in enumerate(jobs, 1):
     p = os.path.join(out, f"{sid}_{i+1}.wav")
     if os.path.exists(p): continue
     tts.save(tts.infer(spoken(ln), voice=cfg["voice"]), p)
+    tp = float(cfg.get("tempo", 1) or 1)
+    if abs(tp - 1) > 1e-3:
+        q = p[:-4] + "_t.wav"
+        subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", p, "-af", f"atempo={tp}", q], check=True)
+        os.replace(q, p)
     print(f"[{k}/{len(jobs)}] {sid}_{i+1} ({round(time.time()-t0)} giây)", flush=True)

@@ -3,7 +3,8 @@
  "theme": "guideline",
  "tts": "vieneu",
  "vieneu": {
-  "voice": "Adam"
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
  },
  "voice": "vi-VN-NamMinhNeural",
  "rate": "-8%",
