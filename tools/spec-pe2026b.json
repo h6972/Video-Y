@@ -1,0 +1,45 @@
+[
+ {
+  "title": "File:3D Medical Animation Inferior Vena Filter.jpg",
+  "out": "media/pe2026/raw/ivc_3d.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Cavaschirm Vena cava inferior 61W - CR ap - 001.jpg",
+  "out": "media/pe2026/raw/ivc_cr.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:IVCFilter.png",
+  "out": "media/pe2026/raw/ivc_xray.png",
+  "width": 1600
+ },
+ {
+  "title": "File:ECMO-Schema-IT.jpg",
+  "out": "media/pe2026/raw/ecmo_schema.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:ECMO in H1N1 patient in Santa Cruz Hospital - Lisbon.jpg",
+  "out": "media/pe2026/raw/ecmo_icu.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Percutaneous-mechanical-thrombectomy-for-the-treatment-of-acute-massive-pulmonary-embolism-case-1477-9560-5-20-S1.ogv",
+  "out": "media/pe2026/raw/mt_angio_pre.ogv"
+ },
+ {
+  "title": "File:Percutaneous-mechanical-thrombectomy-for-the-treatment-of-acute-massive-pulmonary-embolism-case-1477-9560-5-20-S2.ogv",
+  "out": "media/pe2026/raw/mt_angio_post.ogv"
+ },
+ {
+  "title": "File:Pulmonary embolism selective angiogram.JPEG",
+  "out": "media/pe2026/raw/angio_selective.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:PEA specimen.tif",
+  "out": "media/pe2026/raw/pea_specimen.jpg",
+  "width": 1600
+ }
+]
