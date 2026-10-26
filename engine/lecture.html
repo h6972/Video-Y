@@ -270,6 +270,7 @@ function render(t){
     for(const d of S.dims){d.e.style.opacity=lt>=d.t?0.35:d.e.style.opacity;}
     for(const ln of sc.L) for(const s of ln.subs) if(lt>=s.t0&&lt<s.t1+0.25) sub=s.text;
   });
+  if(window.COMMON_TICK) window.COMMON_TICK(t,cur,scenes);
   if(window.THEME_TICK) window.THEME_TICK(t,cur,scenes);
   document.getElementById('subs').textContent=sub;
   document.getElementById('prog').style.width=(clamp(t/TL.total)*100)+'%';

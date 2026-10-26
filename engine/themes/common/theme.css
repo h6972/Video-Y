@@ -1,0 +1,22 @@
+/* COMMON */
+:root{--mutbar:rgba(148,163,184,.75)}
+.nd{position:absolute;padding:16px 20px;text-align:center;display:flex;flex-direction:column;justify-content:center;border-radius:20px}
+.nd .nt{font-size:29px;font-weight:800;line-height:1.2;color:var(--c)}
+.nd .ndd{font-size:22px;color:var(--mut);margin-top:6px;line-height:1.35}
+.edge{fill:none;stroke-width:4;stroke-linecap:round}
+.elab{font-size:21px;font-weight:700;fill:var(--mut);font-family:Inter}
+.ptc{filter:drop-shadow(0 0 8px currentColor)}
+.chart text{font-family:Inter}
+.ax{stroke:rgba(165,180,252,.5);stroke-width:3}
+.axl{font-size:24px;font-weight:700;fill:var(--mut)}
+.crv{fill:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+.clab{font-size:24px;font-weight:800}
+.ctr{position:absolute;text-align:center;transform:translate(-50%,-50%)}
+.bgt{font-size:25px;font-weight:800;margin-bottom:6px}
+.brw{display:flex;align-items:center;gap:14px;margin-top:8px}
+.bk{width:230px;flex:none;font-size:21px;font-weight:600;color:var(--mut);text-align:right;line-height:1.2}
+.btr{position:relative;flex:1;height:34px}
+.bln{position:absolute;left:0;top:0;height:100%}
+.bfl{height:100%;width:0;border-radius:8px}
+.bv{position:absolute;top:50%;transform:translateY(-50%);font-size:24px;font-weight:800;white-space:nowrap}
+.bnt{font-size:20px;color:var(--mut);margin-top:8px}
