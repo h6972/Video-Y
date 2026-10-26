@@ -255,7 +255,7 @@ function render(t){
     el.style.opacity=Math.min(ease(lt/0.45), idx<scenes.length-1?ease((sc.dur-lt)/0.4):1);
     for(const it of S.items){const e=it.e, p=ease((lt-it.tin)/0.55);
       switch(it.a){
-        case 'draw': e.style.strokeDashoffset=it.len*(1-ease((lt-it.tin)/1.6)); break;
+        case 'draw': e.style.strokeDashoffset=it.len*(1-ease((lt-it.tin)/1.6)); e.style.opacity=lt>=it.tin?1:0; break;
         case 'left': e.style.opacity=p; e.style.transform=`translateX(${(1-p)*-50}px)`; break;
         case 'up': e.style.opacity=p; e.style.transform=`translateY(${(1-p)*40}px)`; break;
         case 'pop': e.style.opacity=p; e.style.transform=`scale(${0.92+0.08*p})`; break;

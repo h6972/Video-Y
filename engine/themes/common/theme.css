@@ -18,5 +18,5 @@
 .btr{position:relative;flex:1;height:34px}
 .bln{position:absolute;left:0;top:0;height:100%}
 .bfl{height:100%;width:0;border-radius:8px}
-.bv{position:absolute;top:50%;transform:translateY(-50%);font-size:24px;font-weight:800;white-space:nowrap}
+.bv{position:absolute;top:0;line-height:34px;font-size:24px;font-weight:800;white-space:nowrap}
 .bnt{font-size:20px;color:var(--mut);margin-top:8px}
