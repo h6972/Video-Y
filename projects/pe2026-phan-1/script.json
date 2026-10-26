@@ -467,6 +467,203 @@
    ]
   },
   {
+   "id": "s6b",
+   "layout": "flow",
+   "chapter": "Lưu đồ chẩn đoán · Hình 1",
+   "title": "Lưu đồ đánh giá nghi thuyên tắc phổi",
+   "ref": "Vẽ lại theo Hình 1 và Mục 3.1 (bệnh nhân không đang kháng đông)",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Nghi thuyên tắc phổi",
+     "d": "Hỏi bệnh, khám, yếu tố nguy cơ",
+     "x": 200,
+     "y": 90,
+     "w": 360,
+     "h": 120,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Xác suất lâm sàng",
+     "d": "Wells, Geneva hoặc đánh giá lâm sàng",
+     "x": 190,
+     "y": 340,
+     "w": 320,
+     "h": 130,
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "id": "hi",
+     "t": "Cao > 50%",
+     "x": 640,
+     "y": 90,
+     "w": 270,
+     "h": 90,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "mid",
+     "t": "Thấp – trung bình < 50%",
+     "x": 640,
+     "y": 340,
+     "w": 300,
+     "h": 100,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "lo",
+     "t": "Rất thấp < 15%",
+     "x": 640,
+     "y": 590,
+     "w": 270,
+     "h": 90,
+     "c": "green",
+     "at": 4
+    },
+    {
+     "id": "dd",
+     "t": "D-dimer",
+     "d": "Theo tuổi (tuổi × 10) hoặc YEARS (500 / 1000)",
+     "x": 1100,
+     "y": 340,
+     "w": 360,
+     "h": 130,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "perc",
+     "t": "PERC",
+     "d": "Đủ cả 8 tiêu chí?",
+     "x": 1100,
+     "y": 590,
+     "w": 300,
+     "h": 100,
+     "c": "green",
+     "at": 4
+    },
+    {
+     "id": "ct",
+     "t": "CT mạch phổi",
+     "d": "V/Q nếu không chụp được CT",
+     "x": 1580,
+     "y": 90,
+     "w": 330,
+     "h": 120,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "out",
+     "t": "Loại trừ",
+     "d": "Không chụp hình ảnh",
+     "x": 1580,
+     "y": 340,
+     "w": 330,
+     "h": 110,
+     "c": "green",
+     "at": 3
+    },
+    {
+     "id": "stop",
+     "t": "Không xét nghiệm thêm",
+     "x": 1580,
+     "y": 590,
+     "w": 330,
+     "h": 90,
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "hi",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "hi",
+     "b": "ct",
+     "c": "coral",
+     "at": 1,
+     "label": "1 · A"
+    },
+    {
+     "a": "b",
+     "b": "mid",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "mid",
+     "b": "dd",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "dd",
+     "b": "ct",
+     "c": "coral",
+     "at": 3,
+     "label": "Trên ngưỡng"
+    },
+    {
+     "a": "dd",
+     "b": "out",
+     "c": "green",
+     "at": 3,
+     "label": "Dưới ngưỡng · 2a"
+    },
+    {
+     "a": "b",
+     "b": "lo",
+     "c": "green",
+     "at": 4
+    },
+    {
+     "a": "lo",
+     "b": "perc",
+     "c": "green",
+     "at": 4
+    },
+    {
+     "a": "perc",
+     "b": "stop",
+     "c": "green",
+     "at": 4,
+     "label": "Đủ"
+    },
+    {
+     "a": "perc",
+     "b": "dd",
+     "c": "amber",
+     "at": 5,
+     "label": "Không đủ",
+     "bend": -0.25
+    }
+   ],
+   "lines": [
+    "Ghép các khuyến cáo lại, chúng ta có lưu đồ đánh giá một bệnh nhân nghi thuyên tắc phổi, vẽ lại theo Hình 1 của hướng dẫn. Điểm xuất phát luôn là hỏi bệnh, khám và ước tính xác suất lâm sàng.",
+    "Nếu xác suất cao, trên 50%, chuyển thẳng đến chụp cắt lớp mạch phổi, không cần D-dimer. Đây là khuyến cáo nhóm một, mức A.",
+    "Nếu xác suất thấp hoặc trung bình, dưới 50%, làm D-dimer, đọc theo ngưỡng hiệu chỉnh tuổi hoặc thuật toán YEARS.",
+    "D-dimer dưới ngưỡng thì loại trừ và không chụp hình ảnh; trên ngưỡng thì chụp cắt lớp mạch phổi.",
+    "Với xác suất rất thấp, dưới 15%, áp dụng PERC: nếu đủ cả tám tiêu chí thì không cần xét nghiệm thêm.",
+    "Nếu không đủ, quay lại nhánh D-dimer. Lưu ý toàn bộ lưu đồ này áp dụng cho bệnh nhân chưa dùng kháng đông liều điều trị."
+   ]
+  },
+  {
    "id": "s7",
    "layout": "compare",
    "chapter": "Hình ảnh · Mục 3.1.2",

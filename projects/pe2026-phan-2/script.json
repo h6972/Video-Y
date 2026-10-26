@@ -613,6 +613,250 @@
    ]
   },
   {
+   "id": "s10b",
+   "layout": "flow",
+   "chapter": "Tổng hợp · Hình 3",
+   "title": "Xử trí ban đầu theo nhóm A–E",
+   "ref": "Tổng hợp theo Hình 3 và các khuyến cáo Mục 3.2, 4.1, 4.2, 4.4",
+   "nodes": [
+    {
+     "id": "t0",
+     "t": "Nhóm A",
+     "d": "Không triệu chứng",
+     "x": 180,
+     "y": 85,
+     "w": 320,
+     "h": 110,
+     "c": "green",
+     "at": 1
+    },
+    {
+     "id": "m0",
+     "t": "Về nhà từ cấp cứu",
+     "d": "Kháng đông, tái khám sớm",
+     "x": 180,
+     "y": 330,
+     "w": 320,
+     "h": 140,
+     "c": "green",
+     "at": 1
+    },
+    {
+     "id": "b0",
+     "t": "DOAC",
+     "d": "Liều chuẩn",
+     "x": 180,
+     "y": 580,
+     "w": 320,
+     "h": 130,
+     "c": "green",
+     "at": 1
+    },
+    {
+     "id": "t1",
+     "t": "Nhóm B",
+     "d": "Triệu chứng, điểm thấp",
+     "x": 530,
+     "y": 85,
+     "w": 320,
+     "h": 110,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "m1",
+     "t": "Ngoại trú hoặc ra viện sớm",
+     "d": "Hestia, PESI, sPESI · 2a",
+     "x": 530,
+     "y": 330,
+     "w": 320,
+     "h": 140,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "b1",
+     "t": "DOAC",
+     "d": "Tái khám tuần đầu",
+     "x": 530,
+     "y": 580,
+     "w": 320,
+     "h": 130,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "t2",
+     "t": "Nhóm C",
+     "d": "Điểm tăng",
+     "x": 885,
+     "y": 85,
+     "w": 320,
+     "h": 110,
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "id": "m2",
+     "t": "Nhập viện",
+     "d": "Dấu ấn tim, lactate, hình ảnh thất phải · 1",
+     "x": 885,
+     "y": 330,
+     "w": 320,
+     "h": 140,
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "id": "b2",
+     "t": "Heparin TLPT thấp · PERT",
+     "d": "Cân nhắc chuyển viện C3 (2b)",
+     "x": 885,
+     "y": 580,
+     "w": 320,
+     "h": 130,
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "id": "t3",
+     "t": "Nhóm D",
+     "d": "Tiền suy tim phổi",
+     "x": 1240,
+     "y": 85,
+     "w": 320,
+     "h": 110,
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "id": "m3",
+     "t": "Hồi sức hoặc trung gian",
+     "d": "Theo dõi sát 24–72 giờ",
+     "x": 1240,
+     "y": 330,
+     "w": 320,
+     "h": 140,
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "id": "b3",
+     "t": "PERT · cân nhắc điều trị nâng cao",
+     "d": "2b · vận mạch nếu cần",
+     "x": 1240,
+     "y": 580,
+     "w": 320,
+     "h": 130,
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "id": "t4",
+     "t": "Nhóm E",
+     "d": "Suy tim phổi",
+     "x": 1595,
+     "y": 85,
+     "w": 320,
+     "h": 110,
+     "c": "violet",
+     "at": 5
+    },
+    {
+     "id": "m4",
+     "t": "Ổn định tại chỗ",
+     "d": "Không chuyển viện khi chưa ổn định · 3",
+     "x": 1595,
+     "y": 330,
+     "w": 320,
+     "h": 140,
+     "c": "violet",
+     "at": 5
+    },
+    {
+     "id": "b4",
+     "t": "Điều trị nâng cao · 2a",
+     "d": "ECMO ở nhóm E2",
+     "x": 1595,
+     "y": 580,
+     "w": 320,
+     "h": 130,
+     "c": "violet",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "t0",
+     "b": "m0",
+     "c": "green",
+     "at": 1
+    },
+    {
+     "a": "m0",
+     "b": "b0",
+     "c": "green",
+     "at": 1
+    },
+    {
+     "a": "t1",
+     "b": "m1",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "a": "m1",
+     "b": "b1",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "a": "t2",
+     "b": "m2",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "a": "m2",
+     "b": "b2",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "a": "t3",
+     "b": "m3",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "a": "m3",
+     "b": "b3",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "a": "t4",
+     "b": "m4",
+     "c": "violet",
+     "at": 5
+    },
+    {
+     "a": "m4",
+     "b": "b4",
+     "c": "violet",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Trước khi làm tình huống, hãy nhìn toàn cảnh xử trí ban đầu theo từng nhóm, tổng hợp theo Hình 3 của hướng dẫn.",
+    "Nhóm A, thuyên tắc phổi không triệu chứng, có thể về nhà từ khoa cấp cứu với kháng đông và lịch tái khám sớm.",
+    "Nhóm B, có triệu chứng nhưng điểm độ nặng thấp, được điều trị ngoại trú hoặc ra viện sớm, dựa trên Hestia, PESI hay sPESI.",
+    "Nhóm C cần nhập viện, đo dấu ấn tim, lactate và đánh giá thất phải; dùng heparin trọng lượng phân tử thấp, kích hoạt đội phản ứng nhanh, và có thể cân nhắc chuyển viện ở nhóm C3.",
+    "Nhóm D cần theo dõi ở hồi sức hoặc đơn vị trung gian, đặc biệt trong 24 đến 72 giờ đầu, với đội phản ứng nhanh và cân nhắc điều trị nâng cao.",
+    "Và nhóm E phải được ổn định ngay tại chỗ, không chuyển viện khi chưa ổn định, với điều trị nâng cao là nhóm hai a, và ECMO ở nhóm E2."
+   ]
+  },
+  {
    "id": "s11",
    "layout": "quiz",
    "chapter": "Tình huống 1",

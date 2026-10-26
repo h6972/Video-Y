@@ -451,6 +451,178 @@
    ]
   },
   {
+   "id": "s7b",
+   "layout": "flow",
+   "chapter": "Lưu đồ chọn thuốc",
+   "title": "Chọn thuốc kháng đông: bốn câu hỏi",
+   "ref": "Tổng hợp từ Mục 4.2.1 · cân nhắc thêm thận, béo phì, u não, tương tác thuốc",
+   "nodes": [
+    {
+     "id": "q1",
+     "t": "Có thai hoặc cho con bú?",
+     "x": 160,
+     "y": 105,
+     "w": 280,
+     "h": 130,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "q2",
+     "t": "Kháng phospholipid huyết khối?",
+     "x": 520,
+     "y": 105,
+     "w": 280,
+     "h": 130,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "q3",
+     "t": "Xơ gan Child-Pugh C?",
+     "x": 880,
+     "y": 105,
+     "w": 280,
+     "h": 130,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "q4",
+     "t": "Cần thuốc tiêm?",
+     "x": 1240,
+     "y": 105,
+     "w": 280,
+     "h": 130,
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "id": "r1",
+     "t": "Thai: heparin TLPT thấp hoặc không phân đoạn",
+     "d": "DOAC, warfarin có hại · cho bú: thêm warfarin",
+     "x": 160,
+     "y": 420,
+     "w": 300,
+     "h": 180,
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "id": "r2",
+     "t": "Kháng vitamin K",
+     "d": "INR 2–3 · 1, A",
+     "x": 520,
+     "y": 420,
+     "w": 300,
+     "h": 180,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "r3",
+     "t": "Kháng vitamin K",
+     "d": "DOAC: có hại (3)",
+     "x": 880,
+     "y": 420,
+     "w": 300,
+     "h": 180,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "r4",
+     "t": "Heparin TLPT thấp",
+     "d": "Hơn không phân đoạn · 1, B-R · nhóm C1–E1, chờ can thiệp",
+     "x": 1240,
+     "y": 420,
+     "w": 300,
+     "h": 180,
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "id": "doac",
+     "t": "DOAC · 1, B-R",
+     "d": "Apixaban 10 mg × 2 × 7 ngày · rivaroxaban 15 mg × 2 × 21 ngày · edoxaban, dabigatran sau ≥ 5 ngày tiêm",
+     "x": 1600,
+     "y": 300,
+     "w": 330,
+     "h": 330,
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "q1",
+     "b": "r1",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "a": "q1",
+     "b": "q2",
+     "c": "teal",
+     "at": 1,
+     "label": "Không"
+    },
+    {
+     "a": "q2",
+     "b": "r2",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "q2",
+     "b": "q3",
+     "c": "teal",
+     "at": 2,
+     "label": "Không"
+    },
+    {
+     "a": "q3",
+     "b": "r3",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "q3",
+     "b": "q4",
+     "c": "teal",
+     "at": 3,
+     "label": "Không"
+    },
+    {
+     "a": "q4",
+     "b": "r4",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "a": "q4",
+     "b": "doac",
+     "c": "green",
+     "at": 4,
+     "label": "Không"
+    }
+   ],
+   "note": {
+    "t": "↓ Có  ·  → Không  ·  Lưu đồ giản lược để nhớ thứ tự ưu tiên · luôn kiểm tra chức năng thận, cân nặng và tương tác thuốc",
+    "at": 5,
+    "c": "amber",
+    "y": 610
+   },
+   "lines": [
+    "Tổng hợp lại, việc chọn thuốc kháng đông có thể đi qua bốn câu hỏi. Câu hỏi đầu tiên: bệnh nhân có thai hoặc đang cho con bú không? Nếu có thai, chỉ dùng heparin trọng lượng phân tử thấp hoặc không phân đoạn; khi cho con bú, warfarin cũng dùng được.",
+    "Câu thứ hai: có hội chứng kháng phospholipid huyết khối không? Nếu có, chọn kháng vitamin K với đích INR 2 đến 3.",
+    "Câu thứ ba: có xơ gan Child-Pugh C không? Nếu có, không dùng kháng đông uống trực tiếp.",
+    "Câu thứ tư: bệnh nhân có cần thuốc tiêm không, như nhóm C1 đến E1 hoặc đang chờ can thiệp? Nếu có, ưu tiên heparin trọng lượng phân tử thấp.",
+    "Nếu cả bốn câu đều là không, chọn kháng đông uống trực tiếp với đúng phác đồ khởi đầu: apixaban hoặc rivaroxaban uống ngay, còn edoxaban và dabigatran sau ít nhất 5 ngày thuốc tiêm.",
+    "Đây là lưu đồ giản lược để nhớ thứ tự ưu tiên; quý vị vẫn cần kiểm tra chức năng thận, cân nặng và tương tác thuốc ở từng bệnh nhân."
+   ]
+  },
+  {
    "id": "s8",
    "layout": "compare",
    "chapter": "Quanh thủ thuật · theo dõi",
@@ -516,6 +688,52 @@
     "Về theo dõi, nhóm một: khi cần đo anti Xa, phải đo nồng độ đỉnh 3 đến 5 giờ sau liều tiêm, khi đã đạt trạng thái ổn định, tức từ liều thứ ba trở đi, chứ không đo nồng độ đáy hay ngẫu nhiên.",
     "Nhóm hai b: ở người trên 150 kilôgam hoặc chỉ số khối cơ thể trên 40, và ở bệnh nhân hồi sức, lợi ích của đo anti Xa chưa được xác lập. Bệnh nhân hồi sức, nhất là sepsis hoặc đang dùng vận mạch, dễ không đạt đích nhưng chưa có nghiên cứu tiến cứu về chỉnh liều.",
     "Và nhóm ba, không lợi ích, mức A: ở đa số bệnh nhân dùng heparin trọng lượng phân tử thấp theo cân nặng, không đo anti Xa thường quy. Phân tích 48 nghiên cứu cho thấy đo anti Xa chỉ làm tăng số lần chỉnh liều mà không giảm chảy máu hay huyết khối."
+   ]
+  },
+  {
+   "id": "s9a",
+   "layout": "media",
+   "chapter": "Lọc TMCD · hình ảnh",
+   "title": "Lọc tĩnh mạch chủ dưới",
+   "ref": "Minh hoạ cho Mục 4.3",
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/ivc_3d.jpg",
+     "ar": 1.778,
+     "flex": 1.6,
+     "at": 0,
+     "cap": "Lọc đặt dưới tĩnh mạch thận, giữ huyết khối",
+     "credit": "Ảnh: Scientific Animations · CC BY-SA 4.0 · Wikimedia Commons",
+     "zoom": {
+      "x": 22,
+      "y": 50,
+      "s": 1.25,
+      "at": 0,
+      "out": "L1"
+     },
+     "marks": [
+      {
+       "type": "label",
+       "x": 22,
+       "y": 90,
+       "c": "coral",
+       "at": 0,
+       "t": "Huyết khối bị giữ lại"
+      }
+     ]
+    },
+    {
+     "src": "../../media/pe2026/raw/ivc_xray.png",
+     "ar": 0.873,
+     "flex": 1,
+     "at": 1,
+     "cap": "Lọc trên phim X-quang bụng",
+     "credit": "Ảnh: James Heilman, MD · CC BY-SA 4.0 · Wikimedia Commons"
+    }
+   ],
+   "lines": [
+    "Lọc tĩnh mạch chủ dưới là một dụng cụ kim loại hình nón, được đặt qua đường tĩnh mạch, thường ngay dưới chỗ đổ của tĩnh mạch thận, để giữ lại huyết khối trôi từ chân lên phổi.",
+    "Trên phim X-quang, lọc hiện lên như một cấu trúc kim loại nhỏ cạnh cột sống. Nó ngăn huyết khối đi lên, nhưng không điều trị huyết khối, và chính nó cũng có thể gây huyết khối tại chỗ."
    ]
   },
   {

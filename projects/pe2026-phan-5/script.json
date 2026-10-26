@@ -227,6 +227,120 @@
    ]
   },
   {
+   "id": "s3b",
+   "layout": "bars",
+   "chapter": "Số liệu thử nghiệm",
+   "title": "Nửa liều DOAC: RENOVE và API-CAT",
+   "ref": "Mục 5.2 · Khuyến cáo 7 (1, A) · số liệu theo hướng dẫn",
+   "notes_w": 470,
+   "groups": [
+    {
+     "t": "RENOVE · tái phát huyết khối",
+     "d": "2768 bệnh nhân",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Nửa liều",
+       "v": 2.2,
+       "lab": "2,2%",
+       "c": "teal"
+      },
+      {
+       "k": "Đủ liều",
+       "v": 1.8,
+       "lab": "1,8%"
+      }
+     ]
+    },
+    {
+     "t": "RENOVE · chảy máu nặng hoặc có ý nghĩa",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Nửa liều",
+       "v": 9.9,
+       "lab": "9,9%",
+       "c": "teal"
+      },
+      {
+       "k": "Đủ liều",
+       "v": 15.2,
+       "lab": "15,2%"
+      }
+     ]
+    },
+    {
+     "t": "API-CAT · tái phát (ung thư)",
+     "d": "1766 bệnh nhân",
+     "at": 2,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Apixaban 2,5 mg × 2",
+       "v": 2.1,
+       "lab": "2,1%",
+       "c": "violet"
+      },
+      {
+       "k": "Apixaban 5 mg × 2",
+       "v": 2.8,
+       "lab": "2,8%"
+      }
+     ]
+    },
+    {
+     "t": "API-CAT · chảy máu có ý nghĩa",
+     "at": 3,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Apixaban 2,5 mg × 2",
+       "v": 12.1,
+       "lab": "12,1%",
+       "c": "violet"
+      },
+      {
+       "k": "Apixaban 5 mg × 2",
+       "v": 15.6,
+       "lab": "15,6%"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "1 · A",
+     "t": "Nửa liều ở giai đoạn kéo dài",
+     "d": "Apixaban 2,5 mg × 2 hoặc rivaroxaban 10 mg × 1",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "THỜI ĐIỂM",
+     "t": "Sau 6 tháng điều trị ban đầu",
+     "d": "RENOVE: sau 6–24 tháng · API-CAT: sau ≥ 6 tháng",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "KẾT LUẬN",
+     "t": "Tái phát tương đương, chảy máu ít hơn",
+     "d": "Kể cả ở bệnh nhân ung thư",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Vì sao nửa liều lại được khuyến cáo nhóm một, mức A? Thử nghiệm RENOVE trên 2768 bệnh nhân nguy cơ tái phát cao: tái phát huyết khối thấp ở cả hai nhóm, 2,2% với nửa liều và 1,8% với đủ liều.",
+    "Trong khi đó chảy máu nặng hoặc có ý nghĩa lâm sàng giảm từ 15,2% xuống 9,9%.",
+    "Ở bệnh nhân ung thư, thử nghiệm API-CAT trên 1766 người: tái phát 2,1% với apixaban 2,5 miligam so với 2,8% với 5 miligam hai lần mỗi ngày.",
+    "Và chảy máu có ý nghĩa lâm sàng 12,1% so với 15,6%.",
+    "Kết luận: sau giai đoạn điều trị ban đầu, nửa liều giữ được hiệu quả phòng tái phát mà giảm chảy máu, kể cả ở bệnh nhân ung thư."
+   ]
+  },
+  {
    "id": "s4",
    "layout": "list",
    "chapter": "Tái phát · Mục 5.2.1",
@@ -463,6 +577,173 @@
     "Nhóm ba, không lợi ích: ở bệnh nhân đã hết triệu chứng và nghi ngờ thấp, không chụp lại cắt lớp hay xạ hình để xem huyết khối đã tan chưa. Tắc nghẽn tồn dư không liên quan đến kết cục, và chụp cắt lớp không dùng để quyết định thời gian kháng đông.",
     "Nhóm một: tiếp tục kháng đông trong lúc đánh giá, trừ khi nguy cơ chảy máu cao. Nếu đã loại trừ bệnh mạn mà vẫn khó thở, nhóm một, mức B-R: phục hồi chức năng hô hấp. Một thử nghiệm 211 bệnh nhân cho thấy chương trình tập 8 tuần tại nhà cải thiện khả năng gắng sức và chất lượng sống.",
     "Khi đã chẩn đoán bệnh huyết khối tắc mạch phổi mạn có tăng áp phổi, nhóm một: chuyển đến trung tâm chuyên sâu, nơi có phẫu thuật bóc nội mạc động mạch phổi và nong bóng động mạch phổi, vì kết quả gắn chặt với kinh nghiệm trung tâm. Không có tăng áp phổi, nhóm hai a, chuyển tuyến chọn lọc."
+   ]
+  },
+  {
+   "id": "s7b",
+   "layout": "flow",
+   "chapter": "Lưu đồ · Hình 8",
+   "title": "Đánh giá khó thở kéo dài sau thuyên tắc phổi",
+   "ref": "Vẽ giản lược theo Hình 8 và Mục 6.1",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Khó thở, giảm gắng sức",
+     "d": "Sau ≥ 3 tháng kháng đông · 1, B-NR",
+     "x": 200,
+     "y": 330,
+     "w": 340,
+     "h": 170,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Siêu âm tim + xạ hình tưới máu",
+     "d": "V/Q, SPECT · 2a · tiếp tục kháng đông",
+     "x": 640,
+     "y": 330,
+     "w": 360,
+     "h": 150,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "n",
+     "t": "Tưới máu bình thường",
+     "x": 1090,
+     "y": 100,
+     "w": 300,
+     "h": 100,
+     "c": "green",
+     "at": 2
+    },
+    {
+     "id": "n2",
+     "t": "Loại trừ bệnh mạn",
+     "d": "Tìm nguyên nhân khác · phục hồi chức năng (1, B-R)",
+     "x": 1560,
+     "y": 100,
+     "w": 340,
+     "h": 140,
+     "c": "green",
+     "at": 2
+    },
+    {
+     "id": "m",
+     "t": "Khuyết tưới máu không tương xứng",
+     "x": 1090,
+     "y": 400,
+     "w": 320,
+     "h": 110,
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "id": "hi",
+     "t": "Siêu âm: nguy cơ cao",
+     "d": "Thông tim phải, chụp mạch phổi · chuyển trung tâm (1)",
+     "x": 1560,
+     "y": 330,
+     "w": 340,
+     "h": 160,
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "id": "lo",
+     "t": "Siêu âm: nguy cơ thấp",
+     "d": "CPET: giới hạn do bệnh mạch phổi? (2a)",
+     "x": 1560,
+     "y": 565,
+     "w": 340,
+     "h": 150,
+     "c": "violet",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "n",
+     "c": "green",
+     "at": 2
+    },
+    {
+     "a": "n",
+     "b": "n2",
+     "c": "green",
+     "at": 2
+    },
+    {
+     "a": "b",
+     "b": "m",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "a": "m",
+     "b": "hi",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "a": "m",
+     "b": "lo",
+     "c": "violet",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Các khuyến cáo này được ghép thành lưu đồ ở Hình 8, vẽ giản lược ở đây. Điểm khởi đầu là bệnh nhân còn khó thở hoặc giảm gắng sức sau ít nhất 3 tháng kháng đông.",
+    "Bước một: siêu âm tim kèm xạ hình tưới máu, trong khi vẫn tiếp tục kháng đông.",
+    "Nếu tưới máu bình thường, loại trừ bệnh huyết khối tắc mạch phổi mạn, tìm nguyên nhân khó thở khác và cân nhắc phục hồi chức năng.",
+    "Nếu có khuyết tưới máu không tương xứng, bước tiếp theo dựa vào siêu âm tim.",
+    "Siêu âm có xác suất tăng áp phổi cao, ví dụ vận tốc hở ba lá từ 2,8 mét mỗi giây trở lên kèm dấu hiệu tăng áp phổi: thông tim phải, chụp mạch phổi và chuyển trung tâm chuyên sâu.",
+    "Siêu âm xác suất thấp: làm nghiệm pháp gắng sức tim phổi để tìm giới hạn do bệnh mạch phổi, và nếu bất thường thì thông tim phải khi gắng sức."
+   ]
+  },
+  {
+   "id": "s7c",
+   "layout": "media",
+   "chapter": "Bệnh mạn · hình ảnh",
+   "title": "Bóc nội mạc động mạch phổi",
+   "ref": "Minh hoạ cho Mục 6.1 · Khuyến cáo 7",
+   "notes_w": 520,
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/pea_specimen.jpg",
+     "ar": 1.478,
+     "at": 0,
+     "cap": "Bệnh phẩm bóc nội mạc hai động mạch phổi",
+     "credit": "Ảnh: ICA CTEPH · CC BY-SA 4.0 · Wikimedia Commons"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "BỆNH PHẨM",
+     "t": "Huyết khối mạn tổ chức hoá",
+     "d": "Bóc theo khuôn cây động mạch phổi",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "1 · C-LD",
+     "t": "Có tăng áp phổi → trung tâm chuyên sâu",
+     "d": "Bóc nội mạc, nong bóng động mạch phổi",
+     "at": 1,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Đây là bệnh phẩm được lấy ra trong phẫu thuật bóc nội mạc động mạch phổi ở một bệnh nhân tăng áp phổi do huyết khối tắc mạch mạn: huyết khối đã tổ chức hoá, được bóc ra theo đúng khuôn cây động mạch phổi hai bên.",
+    "Phẫu thuật này, cùng với nong bóng động mạch phổi, chủ yếu thực hiện ở trung tâm chuyên sâu, và kết quả gắn chặt với kinh nghiệm của trung tâm. Vì vậy khuyến cáo nhóm một là chuyển bệnh nhân có tăng áp phổi đến những nơi này."
    ]
   },
   {

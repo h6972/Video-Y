@@ -258,6 +258,61 @@
    ]
   },
   {
+   "id": "s4b",
+   "layout": "media",
+   "chapter": "ECMO · hình ảnh",
+   "title": "ECMO tĩnh mạch – động mạch tại hồi sức",
+   "ref": "Minh hoạ cho Mục 4.2.4",
+   "notes_w": 560,
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/ecmo_icu.jpg",
+     "ar": 1.333,
+     "at": 0,
+     "cap": "Hệ thống ECMO cạnh giường bệnh nhân hồi sức",
+     "credit": "Ảnh: Cmenesesoliveira · Public domain · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 62,
+       "y": 14,
+       "c": "teal",
+       "at": 1,
+       "t": "Bơm ly tâm · màng trao đổi oxy"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CƠ CHẾ",
+     "t": "Hút máu tĩnh mạch, trả máu đã oxy hoá vào động mạch",
+     "d": "Giảm tiền gánh thất phải ngay lập tức",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CHỈ ĐỊNH · 2a",
+     "t": "Nhóm E2: sốc tim kháng trị, ngừng tim",
+     "d": "Khi có đủ nguồn lực",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "KHÁNG ĐÔNG · 1",
+     "t": "Tiếp tục kháng đông tiêm",
+     "d": "Nếu không chảy máu · đánh giá lại liên tục",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Đây là một hệ thống ECMO tĩnh mạch động mạch đang chạy tại giường hồi sức. Máu được hút từ tĩnh mạch lớn, đi qua bơm ly tâm và màng trao đổi oxy, rồi được trả về hệ động mạch.",
+    "Ở thuyên tắc phổi, điều quan trọng nhất là ECMO giảm ngay tiền gánh cho thất phải đang suy, đồng thời duy trì tưới máu cơ quan. Vì vậy ECMO là lựa chọn nhóm hai a cho nhóm E2.",
+    "Trong suốt thời gian chạy ECMO, kháng đông đường tiêm vẫn được duy trì nếu không chảy máu."
+   ]
+  },
+  {
    "id": "s5",
    "layout": "compare",
    "chapter": "Bảng 7 · điều trị nâng cao",
@@ -620,6 +675,171 @@
    ]
   },
   {
+   "id": "s9b",
+   "layout": "media",
+   "chapter": "Lấy huyết khối · hình ảnh",
+   "title": "Lấy huyết khối cơ học: trước và sau",
+   "ref": "Minh hoạ cho Mục 4.4.3",
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/angio_selective.jpg",
+     "ar": 0.843,
+     "at": 0,
+     "cap": "Trước: huyết khối (A) tắc động mạch phổi trái",
+     "credit": "Ảnh: Myat A, Ahsan A · CC BY 2.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 57,
+       "y": 22,
+       "r": 14,
+       "c": "coral",
+       "at": 0,
+       "t": "Huyết khối gây tắc trung tâm",
+       "ly": 44
+      }
+     ]
+    },
+    {
+     "seq": "../../media/pe2026/mt_post/f_%03d.jpg",
+     "n": 96,
+     "fps": 33,
+     "ar": 1.0,
+     "at": 1,
+     "cap": "Sau lấy huyết khối: dòng chảy được tái lập",
+     "credit": "Clip: Myat A, Ahsan A · CC BY 2.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 60,
+       "y": 90,
+       "c": "green",
+       "at": 1,
+       "t": "Cây động mạch phổi trái ngấm thuốc"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Hình ảnh thực tế của lấy huyết khối cơ học qua ống thông. Bên trái là chụp động mạch phổi chọn lọc trước can thiệp: khối huyết khối đánh dấu A gây tắc trung tâm động mạch phổi trái.",
+    "Bên phải là ngay sau lấy huyết khối: thuốc cản quang lan vào toàn bộ cây động mạch phổi trái, dòng chảy được tái lập mà không cần thuốc tiêu sợi huyết."
+   ]
+  },
+  {
+   "id": "s9c",
+   "layout": "bars",
+   "chapter": "Số liệu thử nghiệm",
+   "title": "FLAME và PEITHO: lợi ích và cái giá phải trả",
+   "ref": "Mục 4.4.1 · 4.4.3 · số liệu theo hướng dẫn",
+   "notes_w": 470,
+   "groups": [
+    {
+     "t": "FLAME · biến cố gộp nội viện",
+     "d": "nhóm E1",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Lấy huyết khối",
+       "v": 17,
+       "lab": "17%",
+       "c": "teal"
+      },
+      {
+       "k": "Điều trị khác",
+       "v": 63.9,
+       "lab": "63,9%"
+      }
+     ]
+    },
+    {
+     "t": "FLAME · tử vong nội viện",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Lấy huyết khối",
+       "v": 1.9,
+       "lab": "1,9%",
+       "c": "teal"
+      },
+      {
+       "k": "Điều trị khác",
+       "v": 29.5,
+       "lab": "29,5%"
+      }
+     ]
+    },
+    {
+     "t": "PEITHO · chảy máu ngoài sọ",
+     "d": "nhóm C3–D2",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Tenecteplase",
+       "v": 6.3,
+       "lab": "6,3%",
+       "c": "coral"
+      },
+      {
+       "k": "Giả dược",
+       "v": 1.2,
+       "lab": "1,2%"
+      }
+     ]
+    },
+    {
+     "t": "PEITHO · đột quỵ",
+     "at": 3,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Tenecteplase",
+       "v": 2.4,
+       "lab": "2,4% (10 xuất huyết)",
+       "c": "coral"
+      },
+      {
+       "k": "Giả dược",
+       "v": 0.2,
+       "lab": "0,2%"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "FLAME",
+     "t": "Không ngẫu nhiên, 115 bệnh nhân",
+     "d": "68,9% nhóm so sánh dùng tiêu sợi huyết toàn thân",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "PEITHO",
+     "t": "RCT 1006 bệnh nhân",
+     "d": "Ngăn suy sụp tuần hoàn nhưng tăng chảy máu nặng",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "THÔNG ĐIỆP",
+     "t": "Lợi ích lớn nhất ở nhóm E",
+     "d": "Nhóm C3–D: cân nhắc kỹ chảy máu · tiêu sợi huyết cứu vãn có lợi",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hãy nhìn bằng con số. Nghiên cứu FLAME ở bệnh nhân nguy cơ cao, tương ứng nhóm E1: biến cố gộp nội viện chỉ 17% với lấy huyết khối, so với 63,9% ở nhóm điều trị khác.",
+    "Tử vong nội viện là 1,9% so với 29,5%. Nhưng xin lưu ý FLAME không phải thử nghiệm ngẫu nhiên, và nhóm so sánh chủ yếu được tiêu sợi huyết toàn thân.",
+    "Mặt trái của tiêu sợi huyết nằm ở thử nghiệm PEITHO, nhóm C3 đến D2: chảy máu ngoài sọ 6,3% với tenecteplase so với 1,2% với giả dược.",
+    "Và đột quỵ 2,4%, trong đó 10 ca là xuất huyết, so với 0,2%.",
+    "Thông điệp rút ra: lợi ích của điều trị nâng cao rõ nhất ở nhóm E; ở nhóm C3 đến D, phải cân nhắc kỹ nguy cơ chảy máu, và tiêu sợi huyết cứu vãn khi mất bù vẫn là chiến lược có lợi."
+   ]
+  },
+  {
    "id": "s10",
    "layout": "cards",
    "chapter": "Phẫu thuật · huyết khối di động",
@@ -665,6 +885,57 @@
     "Ở nhóm D1 đến D2, phẫu thuật là nhóm hai b, và có thể chọn phẫu thuật thay tiêu sợi huyết toàn thân ở người đủ điều kiện mổ để tránh xuất huyết nội sọ.",
     "Nhóm ba, không lợi ích: không phẫu thuật ở nhóm A đến C3, và ở nhóm E2 chưa có hỗ trợ tuần hoàn cơ học, vì các ca tử vong sau mổ chủ yếu do tổn thương não thiếu oxy sau ngừng tim. Ở nhóm này, ECMO là lựa chọn phù hợp hơn.",
     "Cuối cùng, huyết khối di động trong nhĩ phải hoặc thất phải, gặp ở 2 đến 4% bệnh nhân. Ở nhóm E, huyết khối di động liên quan độc lập với tử vong, tỷ số chênh 2,26. Nhóm hai a: ở nhóm C3 đến E2 có huyết khối di động, hợp lý chọn điều trị nâng cao thay vì kháng đông đơn thuần."
+   ]
+  },
+  {
+   "id": "s10b",
+   "layout": "media",
+   "chapter": "Huyết khối di động · hình ảnh",
+   "title": "Huyết khối di động trong tim phải: trước và sau tiêu sợi huyết",
+   "ref": "Minh hoạ cho Mục 4.4 · Khuyến cáo 1",
+   "panels": [
+    {
+     "seq": "../../media/pe2026/echo_thrombus/f_%03d.jpg",
+     "n": 29,
+     "fps": 25,
+     "ar": 1.105,
+     "at": 0,
+     "cap": "Khối huyết khối di động qua van ba lá",
+     "credit": "Clip: Hewing B và cộng sự · CC BY 2.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 92,
+       "c": "coral",
+       "at": 0,
+       "t": "Mặt cắt 4 buồng từ mỏm"
+      }
+     ]
+    },
+    {
+     "seq": "../../media/pe2026/echo_after_lysis/f_%03d.jpg",
+     "n": 33,
+     "fps": 25,
+     "ar": 1.105,
+     "at": 1,
+     "cap": "Ngày 2 sau tiêu sợi huyết: huyết khối tan hết",
+     "credit": "Clip: Hewing B và cộng sự · CC BY 2.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 92,
+       "c": "green",
+       "at": 1,
+       "t": "Không còn khối di động"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Đây là clip siêu âm tim của một bệnh nhân thuyên tắc phổi có huyết khối di động: theo mô tả của nhóm tác giả, khối huyết khối từ nhĩ phải di chuyển qua lỗ van ba lá vào thất phải trong mỗi chu chuyển tim.",
+    "Bên phải là cùng bệnh nhân vào ngày thứ hai sau tiêu sợi huyết: khối huyết khối đã biến mất hoàn toàn. Đây chính là tình huống mà hướng dẫn khuyến cáo nhóm hai a chọn điều trị nâng cao thay vì kháng đông đơn thuần."
    ]
   },
   {
