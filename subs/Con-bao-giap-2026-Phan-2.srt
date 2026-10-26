@@ -1,0 +1,935 @@
+1
+00:00:04,900 --> 00:00:09,394
+Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online,
+
+2
+00:00:09,244 --> 00:00:13,210
+phần hai của loạt bài về đồng thuận xử trí cơn bão giáp năm 2026.
+
+3
+00:00:13,410 --> 00:00:18,004
+Phần này đi vào điều trị: các biện pháp chung, chẹn beta, thuốc kháng giáp liều cao,
+
+4
+00:00:17,854 --> 00:00:20,120
+corticoid và iod, kèm đầy đủ liều thuốc.
+
+5
+00:00:20,320 --> 00:00:23,687
+Một nguyên tắc về thời điểm sẽ được nhấn mạnh nhiều lần:
+
+6
+00:00:23,537 --> 00:00:26,790
+iod chỉ được cho sau thuốc kháng giáp ít nhất một giờ.
+
+7
+00:00:26,990 --> 00:00:29,362
+Chúng ta cũng sẽ xem cách theo dõi đáp ứng,
+
+8
+00:00:29,212 --> 00:00:33,859
+quy trình leo thang khi kháng trị với thay huyết tương, cắt tuyến giáp cấp cứu và ECMO,
+
+9
+00:00:33,709 --> 00:00:36,340
+và kế hoạch điều trị triệt để trước khi ra viện.
+
+10
+00:00:37,790 --> 00:00:41,690
+Hình một của đồng thuận, dựa theo hướng dẫn của Hội Tuyến giáp Hoa Kỳ,
+
+11
+00:00:41,540 --> 00:00:46,725
+tóm tắt chiến lược điều trị. Người bệnh được xử trí tại đơn vị chăm sóc tích cực hoặc hồi sức,
+
+12
+00:00:46,575 --> 00:00:50,260
+bởi một nhóm đa chuyên khoa, với bốn mục tiêu tiến hành song song.
+
+13
+00:00:50,460 --> 00:00:54,787
+Một, điều chỉnh rối loạn toàn thân: làm mát, paracetamol, dịch truyền phù hợp;
+
+14
+00:00:54,637 --> 00:00:57,090
+làm test thai, điện tâm đồ và X-quang ngực.
+
+15
+00:00:57,290 --> 00:01:00,800
+Hai, giảm tác dụng ngoại biên của hormone tuyến giáp bằng chẹn beta.
+
+16
+00:01:01,000 --> 00:01:04,731
+Ba, giảm tổng hợp và phóng thích hormone: thuốc kháng giáp liều cao,
+
+17
+00:01:04,581 --> 00:01:07,470
+sau ít nhất một giờ mới đến iod, cùng với corticoid.
+
+18
+00:01:07,670 --> 00:01:11,900
+Bốn, điều trị tích cực yếu tố thúc đẩy, ví dụ kháng sinh khi có nhiễm trùng.
+
+19
+00:01:12,100 --> 00:01:12,979
+Khi đã ổn định,
+
+20
+00:01:12,829 --> 00:01:17,156
+người bệnh được duy trì thuốc kháng giáp và thường được khuyên điều trị triệt để cường
+
+21
+00:01:17,006 --> 00:01:19,050
+giáp bằng phẫu thuật hoặc iod phóng xạ.
+
+22
+00:01:20,500 --> 00:01:23,491
+Về biện pháp chung: tiếp cận theo nhóm đa chuyên khoa,
+
+23
+00:01:23,341 --> 00:01:27,751
+xử trí tại đơn vị chăm sóc tích cực hoặc hồi sức. Cần mời chuyên gia hồi sức sớm,
+
+24
+00:01:27,601 --> 00:01:32,170
+và báo cho phẫu thuật viên để họ đánh giá, chuẩn bị nếu phải cắt tuyến giáp cấp cứu.
+
+25
+00:01:32,370 --> 00:01:36,361
+Xử trí ban đầu gồm làm mát, paracetamol và dịch truyền tĩnh mạch phù hợp,
+
+26
+00:01:36,211 --> 00:01:40,360
+cùng điều trị tích cực yếu tố thúc đẩy, ví dụ kháng sinh khi có nhiễm trùng.
+
+27
+00:01:40,560 --> 00:01:45,107
+Làm test thai cho mọi phụ nữ trong độ tuổi sinh sản. Cơn bão giáp khi mang thai hiếm
+
+28
+00:01:44,957 --> 00:01:47,044
+nhưng nguy cơ rất lớn cho mẹ và thai,
+
+29
+00:01:46,894 --> 00:01:49,190
+cần phối hợp sớm với sản khoa và sơ sinh.
+
+30
+00:01:49,390 --> 00:01:54,074
+Rung nhĩ: quyết định kháng đông theo phân tầng nguy cơ đột quỵ chuẩn như CHA₂DS₂-VASc,
+
+31
+00:01:53,924 --> 00:01:58,660
+cân nhắc nguy cơ chảy máu. Và luôn cảnh giác vì các bệnh nhân này dễ cần hỗ trợ hô hấp.
+
+32
+00:01:58,860 --> 00:02:03,598
+Nếu cần an thần, có thể cân nhắc chlorpromazine 50 đến 100 miligam tiêm bắp;
+
+33
+00:02:03,448 --> 00:02:05,650
+thuốc này đồng thời giúp hạ nhiệt.
+
+34
+00:02:05,850 --> 00:02:09,611
+Cuối cùng, theo dõi sát đường huyết vì nguy cơ hạ đường huyết,
+
+35
+00:02:09,461 --> 00:02:12,640
+và hỗ trợ dinh dưỡng kèm bù vitamin, ví dụ thiamine.
+
+36
+00:02:14,090 --> 00:02:15,987
+Một bẫy nhỏ nhưng quan trọng:
+
+37
+00:02:15,837 --> 00:02:21,832
+tránh aspirin. Aspirin cạnh tranh với hormone tuyến giáp tại vị trí gắn trên protein huyết tương,
+
+38
+00:02:21,682 --> 00:02:26,471
+trong đó có globulin gắn thyroxine, làm FT4 và FT3 tự do tăng lên thoáng qua,
+
+39
+00:02:26,321 --> 00:02:28,640
+tức là làm nặng thêm nhiễm độc giáp.
+
+40
+00:02:28,840 --> 00:02:34,030
+Vì vậy paracetamol là thuốc hạ sốt được ưu tiên, kết hợp các biện pháp làm mát.
+
+41
+00:02:35,480 --> 00:02:39,476
+Chẹn beta là nền tảng điều trị, làm giảm hoạt tính giao cảm,
+
+42
+00:02:39,326 --> 00:02:44,860
+và với propranolol còn giảm chuyển T4 thành T3 ở ngoại biên. Hướng dẫn của Hội Tuyến
+
+43
+00:02:44,710 --> 00:02:49,603
+giáp Hoa Kỳ và châu Âu khuyến cáo propranolol 60 đến 80 miligam mỗi 4 giờ;
+
+44
+00:02:49,453 --> 00:02:52,680
+liều cao này có lợi thế giảm chuyển T4 thành T3.
+
+45
+00:02:52,880 --> 00:02:55,920
+Đường tĩnh mạch là một lựa chọn khi người bệnh không ổn định,
+
+46
+00:02:55,770 --> 00:02:57,910
+hoặc không uống được vì nôn hay kích động.
+
+47
+00:02:58,110 --> 00:03:02,019
+Cân nhắc esmolol tĩnh mạch thay propranolol vì bán thải ngắn,
+
+48
+00:03:01,869 --> 00:03:08,180
+có thể ngừng nhanh nếu có tác dụng bất lợi. Nhiều bác sĩ dùng esmolol thay propranolol vì lý do này.
+
+49
+00:03:08,380 --> 00:03:10,634
+Nếu chẹn beta bị chống chỉ định,
+
+50
+00:03:10,484 --> 00:03:16,158
+ví dụ hen phế quản hoặc mất bù tim khi đang dùng chẹn beta, diltiazem có thể có lợi,
+
+51
+00:03:16,008 --> 00:03:21,090
+liều 60 đến 90 miligam uống mỗi 6 giờ, và cũng có thể dùng đường tĩnh mạch.
+
+52
+00:03:22,540 --> 00:03:27,928
+Box hai đưa ra các phác đồ chẹn beta tĩnh mạch. Propranolol: 1 đến 3 miligam tĩnh mạch,
+
+53
+00:03:27,778 --> 00:03:31,841
+tốc độ tối đa 1 miligam mỗi phút, chỉ lặp lại một lần sau 2 phút;
+
+54
+00:03:31,691 --> 00:03:34,610
+có thể bắt đầu truyền 2 đến 3 miligam mỗi giờ.
+
+55
+00:03:34,810 --> 00:03:40,480
+Labetalol: 5 đến 20 miligam tĩnh mạch trong 2 phút, sau đó 0,5 miligam mỗi phút.
+
+56
+00:03:40,680 --> 00:03:45,091
+Esmolol: liều tấn công 500 micrôgam mỗi kilôgam trong 1 phút,
+
+57
+00:03:44,941 --> 00:03:51,167
+với người 70 kilôgam là 35 miligam; duy trì từ 0 đến 200 micrôgam mỗi kilôgam mỗi phút,
+
+58
+00:03:51,017 --> 00:03:54,590
+tức 0 đến 14 miligam mỗi phút ở người 70 kilôgam.
+
+59
+00:03:56,040 --> 00:04:00,524
+Bây giờ là bẫy quan trọng nhất của chẹn beta. Ở người bệnh ổn định huyết động,
+
+60
+00:04:00,374 --> 00:04:02,913
+không rối loạn chức năng thất trái đáng kể,
+
+61
+00:04:02,763 --> 00:04:07,747
+chẹn beta không chọn lọc như propranolol kiểm soát tần số hiệu quả. Nhưng khi nghi bệnh
+
+62
+00:04:07,597 --> 00:04:09,136
+cơ tim do nhiễm độc giáp,
+
+63
+00:04:08,986 --> 00:04:11,414
+tụt huyết áp hay sốc tim đang hình thành,
+
+64
+00:04:11,264 --> 00:04:15,470
+chẹn beta có thể gây trụy huyết động vì lấy đi sự hỗ trợ giao cảm bù trừ.
+
+65
+00:04:15,670 --> 00:04:19,725
+Đồng thuận khuyến cáo đánh giá chức năng tim sớm, gồm siêu âm tim;
+
+66
+00:04:19,575 --> 00:04:24,163
+cân nhắc liều khởi đầu thấp và thận trọng, đặc biệt khi có suy tim tâm thu;
+
+67
+00:04:24,013 --> 00:04:26,708
+ưu tiên esmolol tĩnh mạch vì dễ chỉnh liều;
+
+68
+00:04:26,558 --> 00:04:30,140
+và cân nhắc theo dõi xâm lấn ở người có hoặc nghi suy tim.
+
+69
+00:04:30,340 --> 00:04:31,347
+Về chọn thuốc:
+
+70
+00:04:31,197 --> 00:04:36,612
+một số dữ liệu hồi cứu gợi ý tử vong cao hơn với propranolol so với chẹn beta một chọn
+
+71
+00:04:36,462 --> 00:04:39,857
+lọc như landiolol hay bisoprolol ở bệnh nhân suy tim,
+
+72
+00:04:39,707 --> 00:04:42,490
+là cơ sở để Nhật Bản ưu tiên nhóm chọn lọc.
+
+73
+00:04:42,690 --> 00:04:43,387
+Tuy nhiên,
+
+74
+00:04:43,237 --> 00:04:47,762
+một nghiên cứu đoàn hệ lớn hơn sau đó cho thấy tử vong nội viện tương đương giữa
+
+75
+00:04:47,612 --> 00:04:49,839
+propranolol và chẹn beta một chọn lọc,
+
+76
+00:04:49,689 --> 00:04:54,542
+kể cả ở bệnh nhân suy tim cấp. Vì vậy việc chọn thuốc nên cá thể hoá theo thuốc sẵn có
+
+77
+00:04:54,392 --> 00:04:55,800
+và đặc điểm người bệnh.
+
+78
+00:04:57,250 --> 00:05:00,124
+Thuốc kháng giáp liều cao là thành phần trung tâm,
+
+79
+00:04:59,974 --> 00:05:04,754
+nhằm nhanh chóng ức chế tổng hợp hormone mới. Liều cao là cần thiết để ức chế gần như
+
+80
+00:05:04,604 --> 00:05:08,840
+hoàn toàn men peroxidase tuyến giáp trong bối cảnh mất bù đe doạ tính mạng.
+
+81
+00:05:09,040 --> 00:05:12,874
+Đồng thuận đề xuất methimazole 60 đến 80 miligam mỗi ngày,
+
+82
+00:05:12,724 --> 00:05:15,732
+hoặc carbimazole 80 đến 100 miligam mỗi ngày,
+
+83
+00:05:15,582 --> 00:05:21,195
+vì hai thuốc này có hiệu quả tương đương propylthiouracil trong cơn bão giáp. Ở một số
+
+84
+00:05:21,045 --> 00:05:23,990
+nước châu Âu có methimazole đường tĩnh mạch.
+
+85
+00:05:24,190 --> 00:05:29,030
+Hoặc propylthiouracil, liều tấn công 500 đến 1000 miligam đường uống,
+
+86
+00:05:28,880 --> 00:05:33,380
+qua sonde dạ dày hoặc đặt hậu môn, sau đó 250 miligam mỗi 4 giờ.
+
+87
+00:05:33,580 --> 00:05:38,748
+Lợi thế tiềm năng của propylthiouracil là ức chế thêm sự chuyển T4 thành T3 ở ngoại
+
+88
+00:05:38,598 --> 00:05:43,948
+biên. Tuy nhiên dữ liệu quan sát gần đây ở bệnh nhân nặng không cho thấy lợi ích rõ về
+
+89
+00:05:43,798 --> 00:05:46,850
+tử vong của propylthiouracil so với methimazole.
+
+90
+00:05:47,050 --> 00:05:52,502
+Khi có thể, giảm liều càng sớm càng tốt: propylthiouracil 400 miligam mỗi ngày,
+
+91
+00:05:52,352 --> 00:05:57,200
+methimazole 30 miligam mỗi ngày, hoặc carbimazole 40 miligam mỗi ngày.
+
+92
+00:05:58,650 --> 00:06:03,289
+Chọn thuốc nào phụ thuộc nhiều vào gan. Bất thường men gan rất thường gặp trong nhiễm
+
+93
+00:06:03,139 --> 00:06:04,873
+độc giáp nặng và cơn bão giáp,
+
+94
+00:06:04,723 --> 00:06:06,193
+có thể do sung huyết gan,
+
+95
+00:06:06,043 --> 00:06:10,682
+thiếu oxy hoặc tác động trực tiếp của hormone. Tăng men gan nhẹ đến vừa không tự động
+
+96
+00:06:10,532 --> 00:06:12,530
+là chống chỉ định thuốc kháng giáp.
+
+97
+00:06:12,730 --> 00:06:16,850
+Nhưng vì propylthiouracil có nguy cơ độc gan nặng đã được ghi nhận,
+
+98
+00:06:16,700 --> 00:06:19,102
+khi rối loạn chức năng gan có ý nghĩa,
+
+99
+00:06:18,952 --> 00:06:23,369
+ví dụ men gan vượt khoảng ba lần giới hạn trên hoặc bilirubin đang tăng,
+
+100
+00:06:23,219 --> 00:06:27,636
+cần cân nhắc mạnh methimazole hoặc carbimazole thay vì propylthiouracil,
+
+101
+00:06:27,486 --> 00:06:30,480
+trừ hoàn cảnh đặc biệt như ba tháng đầu thai kỳ.
+
+102
+00:06:30,680 --> 00:06:34,910
+Khi có suy gan cấp hoặc rối loạn gan nặng, nên hội chẩn chuyên khoa gan.
+
+103
+00:06:35,110 --> 00:06:39,771
+Nếu chức năng gan bình thường hoặc chỉ tăng nhẹ, có thể dùng methimazole,
+
+104
+00:06:39,621 --> 00:06:44,220
+carbimazole hoặc propylthiouracil, vì hiệu quả trên kết cục tương đương.
+
+105
+00:06:45,670 --> 00:06:50,423
+Hai thuốc hỗ trợ có thể dùng thêm. Cholestyramine 4 gam ba lần mỗi ngày có thể hữu ích,
+
+106
+00:06:50,273 --> 00:06:54,074
+làm tăng thải hormone tuyến giáp bằng cách chặn chu trình gan – ruột,
+
+107
+00:06:53,924 --> 00:06:55,820
+dù đây là sử dụng ngoài chỉ định.
+
+108
+00:06:56,020 --> 00:06:59,178
+Lithium có thể được cân nhắc, nhưng độc tính là vấn đề;
+
+109
+00:06:59,028 --> 00:07:04,154
+cần ý kiến chuyên gia trước khi dùng. Liều khởi đầu hợp lý là 300 miligam hai lần mỗi ngày,
+
+110
+00:07:04,004 --> 00:07:04,810
+có thể tăng.
+
+111
+00:07:05,010 --> 00:07:09,088
+Corticoid: hydrocortisone tĩnh mạch liều tấn công 100 miligam,
+
+112
+00:07:08,938 --> 00:07:14,346
+sau đó 50 miligam bốn lần mỗi ngày. Corticoid liều cao làm giảm chuyển T4 thành T3,
+
+113
+00:07:14,196 --> 00:07:17,640
+và có thể đặc biệt hiệu quả khi bệnh nền là Basedow.
+
+114
+00:07:17,840 --> 00:07:18,751
+Một lưu ý mới:
+
+115
+00:07:18,601 --> 00:07:23,427
+corticoid liều cao như trong cơn bão giáp đã được báo cáo gây liệt chu kỳ do nhiễm độc
+
+116
+00:07:23,277 --> 00:07:28,211
+giáp ở người cường giáp kiểm soát kém. Cần theo dõi sát kali máu sau khi dùng corticoid,
+
+117
+00:07:28,061 --> 00:07:32,180
+nhất là ở nhóm nguy cơ như nam giới trẻ người châu Á hoặc gốc Mỹ La-tinh.
+
+118
+00:07:33,630 --> 00:07:38,660
+Iod là phần dễ sai nhất về thời điểm. Bước đầu tiên luôn là thuốc kháng giáp liều cao.
+
+119
+00:07:38,860 --> 00:07:43,777
+Đồng thuận nhấn mạnh phải chờ một giờ sau thuốc kháng giáp mới cho iod. Sự trì hoãn này là bắt buộc,
+
+120
+00:07:43,627 --> 00:07:45,446
+vì nếu không, tuỳ theo nguyên nhân,
+
+121
+00:07:45,296 --> 00:07:49,546
+nhiễm độc giáp có thể nặng thêm. Cũng cần biết hiệu ứng Wolff–Chaikoff chỉ thoáng qua,
+
+122
+00:07:49,396 --> 00:07:50,690
+gọi là hiện tượng thoát.
+
+123
+00:07:50,890 --> 00:07:53,928
+Liều dùng: dung dịch Lugol 8 giọt bốn lần mỗi ngày,
+
+124
+00:07:53,778 --> 00:07:59,309
+hoặc dung dịch kali iodide bão hoà 5 giọt bốn lần mỗi ngày. Dung dịch iod gây kích ứng tại chỗ,
+
+125
+00:07:59,159 --> 00:08:03,840
+phải pha loãng, ví dụ trong sữa hay nước cam, trước khi uống hoặc bơm qua sonde.
+
+126
+00:08:04,040 --> 00:08:07,790
+Ngừng iod ngay khi người bệnh ổn định và hormone được kiểm soát.
+
+127
+00:08:07,990 --> 00:08:10,169
+Iod làm bão hoà kho iod trong tuyến,
+
+128
+00:08:10,019 --> 00:08:14,904
+ức chế bắt giữ iod và có thể làm giảm hiệu quả điều trị iod phóng xạ sau này. Vì vậy
+
+129
+00:08:14,754 --> 00:08:18,060
+iod phóng xạ thường được trì hoãn ít nhất 2 đến 3 tháng.
+
+130
+00:08:19,510 --> 00:08:24,708
+Hiệu quả của iod phụ thuộc nguyên nhân. Iod hiệu quả nhất khi cường giáp do tăng tổng hợp hormone,
+
+131
+00:08:24,558 --> 00:08:26,408
+như Basedow hay bướu đa nhân độc,
+
+132
+00:08:26,258 --> 00:08:30,220
+nơi nó gây hiệu ứng Wolff–Chaikoff cấp và ức chế phóng thích thêm hormone.
+
+133
+00:08:30,420 --> 00:08:34,156
+Ở viêm giáp phá huỷ, như viêm giáp bán cấp, viêm giáp không đau,
+
+134
+00:08:34,006 --> 00:08:38,190
+nhiễm độc giáp do amiodarone típ hai, và nhiễm độc giáp do dùng hormone,
+
+135
+00:08:38,040 --> 00:08:42,729
+lượng hormone thừa đến từ hormone có sẵn bị phóng thích hoặc từ nguồn ngoại sinh,
+
+136
+00:08:42,579 --> 00:08:44,970
+không phải tổng hợp mới; iod khó có lợi.
+
+137
+00:08:45,170 --> 00:08:49,783
+Với nhiễm độc giáp do amiodarone típ một, là tăng tổng hợp do quá tải iod,
+
+138
+00:08:49,633 --> 00:08:53,040
+lợi ích thêm của iod có thể hạn chế vì tải iod đã cao;
+
+139
+00:08:52,890 --> 00:08:56,840
+nếu dùng phải thận trọng và luôn kèm thuốc kháng giáp liều cao.
+
+140
+00:08:58,290 --> 00:08:59,129
+Về theo dõi:
+
+141
+00:08:58,979 --> 00:09:03,898
+cơn bão giáp thường cải thiện rõ trong 24 đến 72 giờ. Khi đã ổn định về huyết động,
+
+142
+00:09:03,748 --> 00:09:07,000
+thân nhiệt và thần kinh, chuyển sang điều trị duy trì.
+
+143
+00:09:07,200 --> 00:09:10,179
+Các chỉ dấu có ý nghĩa nhất gồm hết sốt, giảm nhịp tim,
+
+144
+00:09:10,029 --> 00:09:14,550
+huyết động ổn hơn với giảm nhu cầu vận mạch, tri giác hồi phục và tiêu hoá cải thiện.
+
+145
+00:09:14,750 --> 00:09:17,950
+FT3 và FT4 dự kiến giảm dần trong vài ngày,
+
+146
+00:09:17,800 --> 00:09:25,540
+FT3 có thể giảm nhanh hơn khi dùng propylthiouracil hoặc corticoid. Không dùng TSH để đánh giá đáp ứng sớm.
+
+147
+00:09:25,740 --> 00:09:30,657
+Nếu không ổn định sau 24 đến 48 giờ, phải đánh giá lại: yếu tố thúc đẩy còn tồn tại,
+
+148
+00:09:30,507 --> 00:09:35,650
+thuốc không được hấp thu do rối loạn tiêu hoá, bệnh cơ tim, hoặc cần leo thang điều trị.
+
+149
+00:09:35,850 --> 00:09:38,942
+Ngừng iod càng sớm càng tốt khi hormone đã được kiểm soát,
+
+150
+00:09:38,792 --> 00:09:42,240
+nhưng tiếp tục chẹn beta chừng nào người bệnh còn nhiễm độc giáp.
+
+151
+00:09:42,440 --> 00:09:46,867
+Có thể ngừng corticoid khi đã ổn định nếu không nghi suy thượng thận đi kèm. Thuốc
+
+152
+00:09:46,717 --> 00:09:50,570
+kháng giáp tiếp tục cho đến khi quyết định điều trị lâu dài bằng thuốc,
+
+153
+00:09:50,420 --> 00:09:52,030
+phẫu thuật hay iod phóng xạ.
+
+154
+00:09:53,480 --> 00:09:56,629
+Khi người bệnh không ổn định dù đã điều trị chuẩn đầy đủ,
+
+155
+00:09:56,479 --> 00:09:59,470
+đồng thuận đề xuất leo thang có cấu trúc theo ba bước.
+
+156
+00:09:59,670 --> 00:10:04,105
+Bước một, tối ưu điều trị đầu tay: xác nhận liều và sự hấp thu thuốc kháng giáp,
+
+157
+00:10:03,955 --> 00:10:07,158
+nhất là khi người bệnh nặng có rối loạn hấp thu tiêu hoá;
+
+158
+00:10:07,008 --> 00:10:10,425
+bảo đảm iod được cho đúng thời điểm; tìm lại yếu tố thúc đẩy;
+
+159
+00:10:10,275 --> 00:10:12,300
+tối ưu hỗ trợ huyết động và hô hấp.
+
+160
+00:10:12,500 --> 00:10:15,112
+Bước hai, thuốc hỗ trợ: thêm cholestyramine,
+
+161
+00:10:14,962 --> 00:10:19,195
+và ở ca chọn lọc có thể tăng liều corticoid. Đây chỉ là biện pháp hỗ trợ,
+
+162
+00:10:19,045 --> 00:10:20,650
+chưa phải cứu vãn thực sự.
+
+163
+00:10:20,850 --> 00:10:21,433
+Bước ba,
+
+164
+00:10:21,283 --> 00:10:26,138
+các biện pháp cứu vãn đã được dùng. Thay huyết tương có thể cân nhắc khi nhiễm độc giáp
+
+165
+00:10:25,988 --> 00:10:29,274
+nặng kháng trị hoặc suy đa cơ quan dù điều trị nội tối đa;
+
+166
+00:10:29,124 --> 00:10:30,680
+bằng chứng chỉ từ loạt ca,
+
+167
+00:10:30,530 --> 00:10:34,520
+nhưng nó làm giảm hormone tạm thời và là cầu nối đến điều trị triệt để.
+
+168
+00:10:34,720 --> 00:10:39,465
+Cắt tuyến giáp cấp cứu nên được cân nhắc ở trung tâm chuyên sâu khi điều trị nội thất
+
+169
+00:10:39,315 --> 00:10:40,924
+bại hoặc bị chống chỉ định,
+
+170
+00:10:40,774 --> 00:10:46,384
+với nhóm phẫu thuật nội tiết và hồi sức giàu kinh nghiệm. Ở người nguy cơ cao không chịu được gây mê,
+
+171
+00:10:46,234 --> 00:10:48,600
+có thể mổ với gây tê tại chỗ kèm an thần.
+
+172
+00:10:48,800 --> 00:10:52,649
+Và ECMO tĩnh mạch – động mạch có thể phù hợp khi sốc tim kháng trị,
+
+173
+00:10:52,499 --> 00:10:57,287
+nhất là có bệnh cơ tim nhiễm độc giáp nặng. Vì sốc tim là yếu tố quyết định tử vong,
+
+174
+00:10:57,137 --> 00:11:00,710
+ECMO giúp ổn định huyết động trong lúc chờ kiểm soát nội tiết.
+
+175
+00:11:02,160 --> 00:11:06,236
+Đây là hình ảnh minh hoạ cho ba biện pháp cứu vãn. Bên trái là máy tách thành phần máu,
+
+176
+00:11:06,086 --> 00:11:07,590
+loại dùng để thay huyết tương.
+
+177
+00:11:07,790 --> 00:11:11,963
+Ở giữa là bệnh phẩm cắt toàn bộ tuyến giáp của một bướu giáp độc lan toả,
+
+178
+00:11:11,813 --> 00:11:12,900
+tức bệnh Basedow.
+
+179
+00:11:13,100 --> 00:11:17,603
+Bên phải là một bệnh nhân đang hỗ trợ ECMO tại hồi sức. Đồng thuận ghi nhận ECMO đã
+
+180
+00:11:17,453 --> 00:11:21,170
+được dùng thành công trong cơn bão giáp có suy đa cơ quan kháng trị.
+
+181
+00:11:22,620 --> 00:11:27,032
+Cuối cùng là các thuốc hiếm dùng. Perchlorate và thuốc cản quang chứa iod như acid
+
+182
+00:11:26,882 --> 00:11:29,526
+iopanoic chỉ được báo cáo trong các ca riêng lẻ,
+
+183
+00:11:29,376 --> 00:11:34,411
+không sẵn có rộng rãi và thiếu dữ liệu kết cục vững chắc. Chỉ nên dùng ở trung tâm chuyên sâu,
+
+184
+00:11:34,261 --> 00:11:36,750
+dưới sự hướng dẫn của người giàu kinh nghiệm.
+
+185
+00:11:36,950 --> 00:11:38,549
+Theo các ca bệnh và loạt ca,
+
+186
+00:11:38,399 --> 00:11:43,001
+perchlorate có thể được cân nhắc như thuốc thêm vào ở ca nặng cần tăng cường điều trị,
+
+187
+00:11:42,851 --> 00:11:44,140
+nhờ giảm tiết hormone.
+
+188
+00:11:44,340 --> 00:11:49,536
+Acid iopanoic ức chế mạnh sự phóng thích hormone và sự chuyển T4 thành T3 ngoại biên,
+
+189
+00:11:49,386 --> 00:11:53,573
+làm hormone giảm nhanh và mạnh. Thuốc khó tìm và chưa được cấp phép,
+
+190
+00:11:53,423 --> 00:11:55,770
+nhưng đã cứu sống một số ca chọn lọc.
+
+191
+00:11:57,220 --> 00:12:01,682
+Trước khi ra viện, nếu người bệnh chưa được cắt tuyến giáp trong đợt nằm viện,
+
+192
+00:12:01,532 --> 00:12:06,327
+cần cân nhắc và thảo luận các phương án điều trị triệt để. Lựa chọn ưa chuộng là cắt
+
+193
+00:12:06,177 --> 00:12:07,930
+tuyến giáp hoặc iod phóng xạ.
+
+194
+00:12:08,130 --> 00:12:13,886
+Iod phóng xạ thường phải trì hoãn ít nhất 2 đến 3 tháng nếu người bệnh đã dùng iod. Ở một số trường hợp,
+
+195
+00:12:13,736 --> 00:12:15,880
+có thể dùng thuốc kháng giáp dài hạn.
+
+196
+00:12:17,330 --> 00:12:23,687
+Tình huống thứ nhất. Nam 52 tuổi, cơn bão giáp do viêm phổi. Rung nhĩ 156 lần mỗi phút,
+
+197
+00:12:23,537 --> 00:12:29,038
+huyết áp 92 trên 60, ran hai đáy phổi, lactate 2,8. Siêu âm tim tại giường:
+
+198
+00:12:28,888 --> 00:12:32,320
+thất trái giãn, phân suất tống máu khoảng 25%.
+
+199
+00:12:32,520 --> 00:12:35,070
+Kiểm soát tần số thế nào là phù hợp nhất?
+
+200
+00:12:35,270 --> 00:12:37,900
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+201
+00:12:46,500 --> 00:12:51,318
+Đáp án là B. Đây là bệnh cảnh nghi bệnh cơ tim nhiễm độc giáp với tụt huyết áp và sốc
+
+202
+00:12:51,168 --> 00:12:55,986
+đang hình thành. Chẹn beta liều cao có thể gây trụy huyết động vì lấy mất hỗ trợ giao
+
+203
+00:12:55,836 --> 00:12:59,610
+cảm bù trừ. Đồng thuận ưu tiên esmolol tĩnh mạch vì bán thải ngắn,
+
+204
+00:12:59,460 --> 00:13:03,180
+dễ chỉnh liều, khởi đầu thận trọng, và cân nhắc theo dõi xâm lấn.
+
+205
+00:13:03,380 --> 00:13:05,669
+Nếu tiến triển thành sốc tim kháng trị,
+
+206
+00:13:05,519 --> 00:13:10,330
+hãy nghĩ sớm đến ECMO tĩnh mạch – động mạch như cầu nối trong lúc kiểm soát nội tiết.
+
+207
+00:13:11,780 --> 00:13:14,757
+Tình huống thứ hai. Nữ 29 tuổi, Basedow,
+
+208
+00:13:14,607 --> 00:13:19,775
+vào cơn bão giáp. Lúc 8 giờ được cho Lugol 8 giọt. Đến 9 giờ 30 mới cho
+
+209
+00:13:19,625 --> 00:13:22,532
+propylthiouracil 600 miligam qua sonde,
+
+210
+00:13:22,382 --> 00:13:26,490
+kèm propranolol và hydrocortisone 100 miligam tĩnh mạch.
+
+211
+00:13:26,690 --> 00:13:28,040
+Nhận xét nào đúng?
+
+212
+00:13:28,240 --> 00:13:30,950
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+213
+00:13:39,550 --> 00:13:44,376
+Đáp án là B. Đồng thuận yêu cầu chờ một giờ sau thuốc kháng giáp rồi mới cho iod,
+
+214
+00:13:44,226 --> 00:13:46,800
+và nhấn mạnh sự trì hoãn này là thiết yếu,
+
+215
+00:13:46,650 --> 00:13:49,860
+vì cho iod trước có thể làm nhiễm độc giáp nặng thêm.
+
+216
+00:13:50,060 --> 00:13:53,718
+Lựa chọn C sai, vì Basedow chính là nhóm mà iod hiệu quả nhất,
+
+217
+00:13:53,568 --> 00:13:58,413
+khi được cho đúng thời điểm. Còn Lugol hay kali iodide bão hoà chỉ là hai dạng iod,
+
+218
+00:13:58,263 --> 00:14:00,450
+không thay đổi nguyên tắc thời điểm.
+
+219
+00:14:01,900 --> 00:14:07,685
+Xin tổng kết toàn loạt bài bằng tám thông điệp. Cơn bão giáp là chẩn đoán lâm sàng và cần điều trị ngay,
+
+220
+00:14:07,535 --> 00:14:11,261
+không chờ xét nghiệm. Xử trí tại hồi sức theo nhóm đa chuyên khoa,
+
+221
+00:14:11,111 --> 00:14:13,970
+hạ sốt bằng paracetamol và làm mát, tránh aspirin.
+
+222
+00:14:14,170 --> 00:14:19,360
+Chẹn beta là nền tảng: propranolol 60 đến 80 miligam mỗi 4 giờ, hoặc esmolol tĩnh mạch;
+
+223
+00:14:19,210 --> 00:14:24,400
+nhưng luôn nghĩ đến bệnh cơ tim nhiễm độc giáp, siêu âm tim sớm và khởi đầu thận trọng.
+
+224
+00:14:24,600 --> 00:14:28,012
+Thuốc kháng giáp liều cao: methimazole 60 đến 80,
+
+225
+00:14:27,862 --> 00:14:30,675
+carbimazole 80 đến 100 miligam mỗi ngày,
+
+226
+00:14:30,525 --> 00:14:35,868
+hoặc propylthiouracil tấn công 500 đến 1000 miligam rồi 250 miligam mỗi 4 giờ;
+
+227
+00:14:35,718 --> 00:14:42,592
+ưu tiên methimazole khi men gan tăng trên ba lần. Hydrocortisone 100 rồi 50 miligam bốn lần mỗi ngày,
+
+228
+00:14:42,442 --> 00:14:43,790
+nhớ theo dõi kali.
+
+229
+00:14:43,990 --> 00:14:47,147
+Iod chỉ được cho sau thuốc kháng giáp ít nhất một giờ,
+
+230
+00:14:46,997 --> 00:14:49,820
+và chủ yếu có ích ở cường giáp do tăng tổng hợp.
+
+231
+00:14:50,020 --> 00:14:54,156
+Cuối cùng, khi kháng trị hãy leo thang có cấu trúc, đến thay huyết tương,
+
+232
+00:14:54,006 --> 00:14:55,958
+cắt tuyến giáp cấp cứu hoặc ECMO,
+
+233
+00:14:55,808 --> 00:15:00,491
+và luôn lên kế hoạch điều trị triệt để trước khi ra viện. Cảm ơn quý đồng nghiệp đã
+
+234
+00:15:00,341 --> 00:15:05,460
+theo dõi loạt bài của Thư Viện Y Khoa Online. Hẹn gặp lại quý vị ở các chuyên đề tiếp theo.

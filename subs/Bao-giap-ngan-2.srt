@@ -1,0 +1,43 @@
+1
+00:00:00,700 --> 00:00:02,445
+Sốt, mạch nhanh, TSH thấp:
+
+2
+00:00:02,295 --> 00:00:06,370
+đã là cơn bão giáp chưa? Chưa chắc. Có hai bẫy ngược chiều nhau.
+
+3
+00:00:07,820 --> 00:00:12,814
+Bẫy thứ nhất là chẩn đoán quá mức: người bệnh hồi sức bị nhiễm khuẩn huyết hay sốc tim,
+
+4
+00:00:12,664 --> 00:00:14,930
+tình cờ có cường giáp trên xét nghiệm.
+
+5
+00:00:15,130 --> 00:00:18,784
+Vì thang Burch–Wartofsky dồn nhiều điểm vào sốt và nhịp nhanh,
+
+6
+00:00:18,634 --> 00:00:21,440
+nên dễ cho điểm cao dù không phải cơn bão giáp.
+
+7
+00:00:21,640 --> 00:00:25,485
+Bẫy thứ hai ngược lại: người cao tuổi có thể vào cơn kiểu cường giáp vô cảm,
+
+8
+00:00:25,335 --> 00:00:26,992
+mạch không nhanh, ít kích động,
+
+9
+00:00:26,842 --> 00:00:30,590
+triệu chứng mơ hồ. Hãy xét nghiệm tuyến giáp dù bệnh cảnh không điển hình.
+
+10
+00:00:30,790 --> 00:00:35,447
+Nguyên tắc: thang điểm chỉ là công cụ hỗ trợ; chẩn đoán dựa trên nhận định lâm sàng,
+
+11
+00:00:35,297 --> 00:00:39,900
+diễn tiến và đáp ứng điều trị. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online.

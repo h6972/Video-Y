@@ -1,0 +1,823 @@
+1
+00:00:04,900 --> 00:00:06,312
+Thưa quý đồng nghiệp,
+
+2
+00:00:06,162 --> 00:00:11,478
+chào mừng quý vị đến với Thư Viện Y Khoa Online. Loạt bài hai phần này trình bày tuyên
+
+3
+00:00:11,328 --> 00:00:14,241
+bố đồng thuận năm 2026 về xử trí cơn bão giáp,
+
+4
+00:00:14,091 --> 00:00:17,005
+do Hội Tuyến giáp châu Âu, Hội Tuyến giáp Anh,
+
+5
+00:00:16,855 --> 00:00:21,390
+Hội Nội tiết học và Hội Nội tiết – Đái tháo đường xứ Wales cùng xây dựng.
+
+6
+00:00:21,590 --> 00:00:22,672
+Thông điệp đầu tiên:
+
+7
+00:00:22,522 --> 00:00:26,537
+cơn bão giáp là một chẩn đoán lâm sàng. Không có ngưỡng hormone tuyến giáp nào tách
+
+8
+00:00:26,387 --> 00:00:28,540
+được cơn bão giáp khỏi nhiễm độc giáp nặng.
+
+9
+00:00:28,740 --> 00:00:32,399
+Phần một tập trung vào nhận diện: ai dễ vào cơn, biểu hiện gợi ý,
+
+10
+00:00:32,249 --> 00:00:35,530
+hai thang điểm Burch–Wartofsky và tiêu chuẩn của Nhật Bản,
+
+11
+00:00:35,380 --> 00:00:37,690
+cùng những bẫy chẩn đoán ở khoa hồi sức.
+
+12
+00:00:37,890 --> 00:00:42,851
+Cần lưu ý, đây là đồng thuận chuyên gia. Vì bệnh hiếm và dữ liệu chủ yếu là quan sát,
+
+13
+00:00:42,701 --> 00:00:45,682
+nhóm tác giả không phân mức bằng chứng theo GRADE;
+
+14
+00:00:45,532 --> 00:00:50,040
+các khuyến cáo là sự kết hợp giữa bằng chứng hiện có và kinh nghiệm lâm sàng.
+
+15
+00:00:51,490 --> 00:00:52,928
+Cơn bão giáp hiếm gặp,
+
+16
+00:00:52,778 --> 00:00:57,727
+và khó ước tính chính xác tần suất vì tiêu chuẩn chẩn đoán còn khác nhau. Tuy vậy,
+
+17
+00:00:57,577 --> 00:01:02,760
+trong số người nhập viện vì nhiễm độc giáp nặng, cơn bão giáp chiếm khoảng 10 đến 16%.
+
+18
+00:01:02,960 --> 00:01:06,670
+Tử vong được báo cáo dao động từ khoảng 8% đến hơn 30%,
+
+19
+00:01:06,520 --> 00:01:08,870
+tuỳ định nghĩa ca bệnh và độ nặng.
+
+20
+00:01:09,070 --> 00:01:15,931
+Trong một nghiên cứu đa trung tâm tại các khoa hồi sức ở Pháp gồm 92 bệnh nhân cơn bão giáp chắc chắn,
+
+21
+00:01:15,781 --> 00:01:19,220
+tử vong tại hồi sức là 17%, và sau 6 tháng là 22%.
+
+22
+00:01:19,420 --> 00:01:22,061
+Điều quan trọng nhất với người làm hồi sức:
+
+23
+00:01:21,911 --> 00:01:26,348
+sốc tim trong 48 giờ đầu nhập hồi sức là yếu tố độc lập liên quan tử vong,
+
+24
+00:01:26,198 --> 00:01:31,215
+với tỉ số chênh 9,43. Mức độ rối loạn chức năng các cơ quan ngoài tim mạch theo điểm
+
+25
+00:01:31,065 --> 00:01:35,386
+SOFA cũng liên quan tử vong. Các nghiên cứu khác ghi nhận thêm tuổi cao,
+
+26
+00:01:35,236 --> 00:01:38,920
+thở máy, lọc máu và bệnh tim có sẵn là yếu tố tiên lượng xấu.
+
+27
+00:01:40,370 --> 00:01:41,586
+Về nguyên nhân nền,
+
+28
+00:01:41,436 --> 00:01:46,018
+bệnh Basedow là nguyên nhân được báo cáo nhiều nhất trong các loạt ca và sổ bộ,
+
+29
+00:01:45,868 --> 00:01:49,720
+tiếp theo là bướu đa nhân độc, và ít gặp hơn là viêm giáp phá huỷ.
+
+30
+00:01:49,920 --> 00:01:52,777
+Về phía người bệnh, các yếu tố nguy cơ gồm tuổi cao,
+
+31
+00:01:52,627 --> 00:01:56,630
+cường giáp kéo dài hoặc kiểm soát kém, và không tuân thủ thuốc kháng giáp.
+
+32
+00:01:56,830 --> 00:02:01,104
+Và rất thường có một biến cố thúc đẩy: nhiễm trùng, phẫu thuật, chấn thương,
+
+33
+00:02:00,954 --> 00:02:04,740
+nhồi máu cơ tim, đột quỵ, sinh nở, nhiễm toan ceton đái tháo đường,
+
+34
+00:02:04,590 --> 00:02:07,833
+hoặc dùng thuốc cản quang có iod. Từ nhiễm độc giáp nặng,
+
+35
+00:02:07,683 --> 00:02:11,631
+bệnh nhân có thể chuyển sang cơn bão rất nhanh khi gặp các stress này,
+
+36
+00:02:11,481 --> 00:02:15,050
+nên phải nhận ra sớm dấu hiệu xấu đi để điều trị tích cực ngay.
+
+37
+00:02:16,500 --> 00:02:20,069
+Đây là hình ảnh tư liệu của một người bệnh có bướu giáp kèm lồi mắt,
+
+38
+00:02:19,919 --> 00:02:21,930
+bệnh cảnh điển hình của bệnh Basedow.
+
+39
+00:02:22,130 --> 00:02:26,609
+Trên lâm sàng, bướu giáp, lồi mắt và tiền sử bệnh tuyến giáp là manh mối quan trọng,
+
+40
+00:02:26,459 --> 00:02:31,093
+nhất là khi chưa có kết quả xét nghiệm. Tiêu chuẩn Nhật Bản mà chúng ta sẽ gặp ngay sau
+
+41
+00:02:30,943 --> 00:02:33,000
+đây cũng dùng chính các dấu hiệu này.
+
+42
+00:02:33,200 --> 00:02:37,583
+Hình bên phải là xạ hình tuyến giáp của năm bệnh cảnh khác nhau. Hình B là Basedow:
+
+43
+00:02:37,433 --> 00:02:41,510
+hai thuỳ bắt xạ tăng lan toả. Hình C là bướu đa nhân độc với nhiều nhân nóng.
+
+44
+00:02:41,710 --> 00:02:46,110
+Cả hai đều là cường giáp do tăng tổng hợp hormone, và như phần hai sẽ trình bày,
+
+45
+00:02:45,960 --> 00:02:48,820
+đây chính là nhóm mà điều trị bằng iod có hiệu quả.
+
+46
+00:02:49,020 --> 00:02:52,498
+Ngược lại, hình E là viêm giáp: tuyến hầu như không bắt xạ,
+
+47
+00:02:52,348 --> 00:02:57,010
+vì nhiễm độc giáp do hormone có sẵn bị phóng thích ra chứ không do tổng hợp mới.
+
+48
+00:02:58,460 --> 00:03:04,050
+Những dấu hiệu chủ chốt gợi ý cơn bão giáp gồm, trước hết, sốt, thường trên 38,5 độ.
+
+49
+00:03:04,250 --> 00:03:08,445
+Thứ hai là nhịp tim nhanh không tương xứng với mức sốt, cùng các rối loạn nhịp,
+
+50
+00:03:08,295 --> 00:03:09,520
+đặc biệt là rung nhĩ.
+
+51
+00:03:09,720 --> 00:03:12,350
+Thứ ba là suy tim mất bù và phù phổi.
+
+52
+00:03:12,550 --> 00:03:16,581
+Tiếp theo là rối loạn tri giác, từ kích động đến mê sảng, loạn thần, hôn mê,
+
+53
+00:03:16,431 --> 00:03:19,900
+và rối loạn tiêu hoá – gan như nôn, tiêu chảy, đau bụng, vàng da.
+
+54
+00:03:20,100 --> 00:03:24,221
+Ngoài ra, đông máu nội mạch lan toả ngày càng được ghi nhận là biến chứng nặng;
+
+55
+00:03:24,071 --> 00:03:26,633
+hãy nghĩ đến nó khi bệnh nhân chảy máu, bầm tím,
+
+56
+00:03:26,483 --> 00:03:30,956
+hoặc rối loạn đông máu không giải thích được. Đồng thuận cũng nhắc rằng người nghèo và
+
+57
+00:03:30,806 --> 00:03:34,926
+người không có bảo hiểm y tế có tỉ lệ nhập viện vì cơn bão giáp cao hơn rõ rệt,
+
+58
+00:03:34,776 --> 00:03:37,590
+nên cần cảnh giác với khả năng đến muộn và bị bỏ sót.
+
+59
+00:03:39,040 --> 00:03:44,710
+Rung nhĩ là rối loạn nhịp thường gặp trong cơn bão giáp. Đây là một điện tâm đồ rung nhĩ đáp ứng thất nhanh.
+
+60
+00:03:44,910 --> 00:03:48,975
+Khoảng RR hoàn toàn không đều, không thấy sóng P, tần số thất rất nhanh;
+
+61
+00:03:48,825 --> 00:03:52,020
+một số nhát dẫn truyền lệch hướng làm phức bộ giãn rộng.
+
+62
+00:03:52,220 --> 00:03:53,187
+Theo đồng thuận,
+
+63
+00:03:53,037 --> 00:03:58,091
+quyết định kháng đông cho rung nhĩ trong cơn bão giáp tuân theo phân tầng nguy cơ đột quỵ chuẩn,
+
+64
+00:03:57,941 --> 00:04:00,850
+như thang CHA₂DS₂-VASc, cân nhắc với nguy cơ chảy máu.
+
+65
+00:04:01,050 --> 00:04:05,543
+Cũng cần nhớ nhiều bệnh nhân tự về nhịp xoang khi tình trạng bình giáp được phục hồi.
+
+66
+00:04:05,393 --> 00:04:09,120
+Chi tiết kiểm soát tần số bằng chẹn beta sẽ được trình bày ở phần hai.
+
+67
+00:04:10,570 --> 00:04:14,897
+Cơ chế bệnh sinh của cơn bão giáp chưa được hiểu đầy đủ. Điều nghịch lý là nồng độ
+
+68
+00:04:14,747 --> 00:04:19,737
+hormone tuyến giáp trong máu thường tương tự ở người nhiễm độc giáp nặng nhưng chưa biến chứng,
+
+69
+00:04:19,587 --> 00:04:22,080
+hai nhóm chồng lấp nhau rất nhiều về sinh hoá.
+
+70
+00:04:22,280 --> 00:04:25,862
+Các cơ chế được đề xuất gồm: mô tăng đáp ứng với catecholamine,
+
+71
+00:04:25,712 --> 00:04:30,111
+hoạt hoá các con đường cytokine viêm, ưu thế tương đối của tác dụng T3 tại mô,
+
+72
+00:04:29,961 --> 00:04:33,870
+và có thể có thay đổi về gắn kết cũng như hấp thu hormone vào tế bào.
+
+73
+00:04:34,070 --> 00:04:36,007
+Các yếu tố này tương tác với nhau,
+
+74
+00:04:35,857 --> 00:04:39,580
+tạo ra trạng thái tăng chuyển hoá với rối loạn chức năng đa cơ quan.
+
+75
+00:04:39,780 --> 00:04:41,141
+Hệ quả thực hành rất rõ:
+
+76
+00:04:40,991 --> 00:04:45,479
+không có nồng độ hormone hay xét nghiệm đặc hiệu nào tách được cơn bão giáp khỏi nhiễm
+
+77
+00:04:45,329 --> 00:04:47,850
+độc giáp nặng. Chẩn đoán phải dựa vào lâm sàng.
+
+78
+00:04:49,300 --> 00:04:55,926
+Bây giờ chúng ta đi vào hai công cụ hỗ trợ chẩn đoán. Thứ nhất là thang điểm Burch–Wartofsky,
+
+79
+00:04:55,776 --> 00:05:01,009
+công bố năm 1993, cho điểm theo bốn nhóm biểu hiện, bắt đầu với nhiệt độ:
+
+80
+00:05:00,859 --> 00:05:06,301
+từ 38 đến 38,5 độ được 5 điểm, và cứ mỗi bậc khoảng nửa độ cộng thêm 5 điểm,
+
+81
+00:05:06,151 --> 00:05:08,390
+đến trên 40,6 độ được 30 điểm.
+
+82
+00:05:08,590 --> 00:05:13,156
+Rối loạn thần kinh trung ương: không có là 0; nhẹ, tức kích động, 10 điểm; vừa,
+
+83
+00:05:13,006 --> 00:05:18,020
+gồm mê sảng, loạn thần hay li bì nặng, 20 điểm; nặng, gồm co giật hoặc hôn mê, 30 điểm.
+
+84
+00:05:18,220 --> 00:05:22,638
+Rối loạn tiêu hoá – gan: mức vừa, gồm tiêu chảy, đau bụng, buồn nôn hoặc nôn,
+
+85
+00:05:22,488 --> 00:05:25,410
+được 10 điểm; mức nặng, tức vàng da, được 20 điểm.
+
+86
+00:05:26,860 --> 00:05:33,083
+Nhóm tim mạch gồm ba tiêu chí. Nhịp tim dưới 90 được 0 điểm, từ 90 đến 109 được 5 điểm,
+
+87
+00:05:32,933 --> 00:05:37,970
+và cứ mỗi bậc 10 nhịp cộng thêm 5 điểm, đến từ 140 trở lên là 25 điểm.
+
+88
+00:05:38,170 --> 00:05:43,251
+Suy tim sung huyết: nhẹ, tức phù chân, 5 điểm; vừa, có ran đáy phổi, 10 điểm; nặng,
+
+89
+00:05:43,101 --> 00:05:44,320
+phù phổi, 15 điểm.
+
+90
+00:05:44,520 --> 00:05:46,590
+Rung nhĩ có mặt được 10 điểm.
+
+91
+00:05:46,790 --> 00:05:47,487
+Cuối cùng,
+
+92
+00:05:47,337 --> 00:05:52,241
+có biến cố thúc đẩy ở người cường giáp chưa điều trị hoặc điều trị chưa phù hợp được 10
+
+93
+00:05:52,091 --> 00:05:54,591
+điểm. Biến cố thúc đẩy gồm nhiễm trùng cấp,
+
+94
+00:05:54,441 --> 00:05:58,308
+chấn thương, phẫu thuật, sinh nở, nhiễm toan ceton, nhồi máu cơ tim,
+
+95
+00:05:58,158 --> 00:06:02,516
+đột quỵ hoặc cơn thiếu máu não thoáng qua, hiếm khi là điều trị iod phóng xạ,
+
+96
+00:06:02,366 --> 00:06:04,210
+và dùng thuốc cản quang có iod.
+
+97
+00:06:05,660 --> 00:06:10,424
+Hãy cộng điểm cho một ví dụ minh hoạ. Ngưỡng của thang là: dưới 25 điểm,
+
+98
+00:06:10,274 --> 00:06:15,936
+khó là cơn bão giáp; từ 25 đến 44 điểm, gợi ý cơn bão đang đe doạ; từ 45 điểm trở lên,
+
+99
+00:06:15,786 --> 00:06:17,410
+rất gợi ý cơn bão giáp.
+
+100
+00:06:17,610 --> 00:06:23,600
+Người bệnh có Basedow, bỏ thuốc, nay sốt 39,4 độ được 15 điểm, mê sảng được 20 điểm.
+
+101
+00:06:23,800 --> 00:06:28,190
+Tiêu chảy và nôn được 10 điểm, mạch 142 được 25 điểm.
+
+102
+00:06:28,390 --> 00:06:33,340
+Ran đáy phổi 10 điểm, rung nhĩ 10 điểm, và yếu tố thúc đẩy là viêm phổi thêm 10 điểm.
+
+103
+00:06:33,540 --> 00:06:37,853
+Tổng cộng 100 điểm trên tối đa 140, vượt xa ngưỡng 45. Theo bảng gốc,
+
+104
+00:06:37,703 --> 00:06:43,042
+mức này đòi hỏi điều trị nhanh, tích cực, đặc hiệu và hỗ trợ. Với vùng 25 đến 44 điểm,
+
+105
+00:06:42,892 --> 00:06:48,111
+đồng thuận khuyên quyết định có bắt đầu điều trị tích cực như cơn bão giáp hay không
+
+106
+00:06:47,961 --> 00:06:51,610
+nên do bác sĩ giàu kinh nghiệm hoặc bác sĩ hồi sức đưa ra,
+
+107
+00:06:51,460 --> 00:06:53,360
+phối hợp với bác sĩ nội tiết.
+
+108
+00:06:54,810 --> 00:07:00,127
+Công cụ thứ hai là tiêu chuẩn của Hiệp hội Tuyến giáp và Hội Nội tiết Nhật Bản,
+
+109
+00:06:59,977 --> 00:07:06,470
+xây dựng từ dữ liệu sổ bộ toàn quốc năm 2012 và sửa đổi năm 2016. Khác với thang Burch–Wartofsky,
+
+110
+00:07:06,320 --> 00:07:12,160
+điều kiện bắt buộc là có bằng chứng sinh hoá của nhiễm độc giáp: FT3 và, hoặc FT4 tăng.
+
+111
+00:07:12,360 --> 00:07:17,727
+Năm nhóm biểu hiện được dùng: thần kinh trung ương như bồn chồn, mê sảng, loạn thần,
+
+112
+00:07:17,577 --> 00:07:23,130
+li bì, hôn mê; sốt từ 38 độ; nhịp nhanh từ 130 lần mỗi phút; suy tim như phù phổi, ran,
+
+113
+00:07:22,980 --> 00:07:27,664
+sốc tim hoặc độ IV theo Hội Tim mạch New York; và tiêu hoá – gan như nôn,
+
+114
+00:07:27,514 --> 00:07:31,390
+tiêu chảy hoặc bilirubin toàn phần từ 3 miligam mỗi đêxilít.
+
+115
+00:07:31,590 --> 00:07:34,328
+Chẩn đoán cơn bão giáp chắc chắn, gọi là TS1,
+
+116
+00:07:34,178 --> 00:07:38,700
+khi có ít nhất một biểu hiện thần kinh cộng thêm ít nhất một biểu hiện khác,
+
+117
+00:07:38,900 --> 00:07:43,530
+hoặc khi có ít nhất ba trong bốn biểu hiện sốt, nhịp nhanh, suy tim và tiêu hoá – gan.
+
+118
+00:07:43,730 --> 00:07:47,473
+Cơn bão giáp nghi ngờ, TS2, khi có hai trong bốn biểu hiện này;
+
+119
+00:07:47,323 --> 00:07:50,781
+hoặc khi người bệnh có tiền sử bệnh tuyến giáp, bướu giáp,
+
+120
+00:07:50,631 --> 00:07:55,400
+lồi mắt và đủ tiêu chí TS1 nhưng chưa có kết quả xét nghiệm chức năng tuyến giáp.
+
+121
+00:07:56,850 --> 00:08:01,462
+Bảng ba so sánh hai công cụ. Thang Burch–Wartofsky dựa trên ý kiến chuyên gia,
+
+122
+00:08:01,312 --> 00:08:02,663
+không cần xét nghiệm;
+
+123
+00:08:02,513 --> 00:08:08,040
+tiêu chuẩn Nhật Bản xây dựng từ sổ bộ toàn quốc và bắt buộc có nhiễm độc giáp trên xét nghiệm.
+
+124
+00:08:08,240 --> 00:08:11,959
+Burch–Wartofsky cộng điểm có trọng số với ngưỡng 45 và 25;
+
+125
+00:08:11,809 --> 00:08:16,390
+tiêu chuẩn Nhật Bản dùng tổ hợp biểu hiện để chia chắc chắn và nghi ngờ.
+
+126
+00:08:16,590 --> 00:08:21,473
+Điểm mạnh: Burch–Wartofsky linh hoạt, thiên về độ nhạy; tiêu chuẩn Nhật Bản có cấu trúc,
+
+127
+00:08:21,323 --> 00:08:25,776
+thiên về độ đặc hiệu. Cả hai đều liên quan với tử vong và thời gian nằm hồi sức,
+
+128
+00:08:25,626 --> 00:08:26,260
+nằm viện.
+
+129
+00:08:26,460 --> 00:08:30,138
+Hạn chế: Burch–Wartofsky dồn trọng số nặng vào sốt và nhịp nhanh,
+
+130
+00:08:29,988 --> 00:08:32,037
+nên dễ chẩn đoán quá mức ở hồi sức,
+
+131
+00:08:31,887 --> 00:08:37,628
+khi người bệnh có nhiễm khuẩn huyết hay sốc tim vì nguyên nhân khác. Tiêu chuẩn Nhật Bản thì cứng nhắc,
+
+132
+00:08:37,478 --> 00:08:40,450
+có thể bỏ sót các ca sớm hoặc chưa đầy đủ biểu hiện.
+
+133
+00:08:40,650 --> 00:08:44,881
+Và điều quan trọng: chưa công cụ nào được thẩm định so với một tiêu chuẩn vàng,
+
+134
+00:08:44,731 --> 00:08:45,862
+dữ liệu về độ nhạy,
+
+135
+00:08:45,712 --> 00:08:49,840
+độ đặc hiệu còn hạn chế. Cả hai chỉ là công cụ hỗ trợ cho nhận định lâm sàng.
+
+136
+00:08:51,290 --> 00:08:53,558
+Từ những hạn chế đó, đồng thuận nhấn mạnh:
+
+137
+00:08:53,408 --> 00:08:56,785
+thang điểm chẩn đoán nên được xem là công cụ hỗ trợ có cấu trúc,
+
+138
+00:08:56,635 --> 00:09:01,373
+không phải công cụ chẩn đoán quyết định. Trung tâm của chẩn đoán vẫn là nhận định lâm sàng,
+
+139
+00:09:01,223 --> 00:09:03,440
+diễn tiến xấu đi và đáp ứng với điều trị.
+
+140
+00:09:03,640 --> 00:09:07,678
+Bẫy thứ nhất gặp ở hồi sức: người bệnh nặng vì nguyên nhân không phải tuyến giáp,
+
+141
+00:09:07,528 --> 00:09:12,190
+tình cờ có cường giáp trên xét nghiệm. Cần thận trọng để không chẩn đoán quá mức cơn bão giáp.
+
+142
+00:09:12,390 --> 00:09:14,215
+Bẫy thứ hai theo chiều ngược lại:
+
+143
+00:09:14,065 --> 00:09:17,464
+người cao tuổi có thể vào cơn bão giáp một cách không điển hình,
+
+144
+00:09:17,314 --> 00:09:20,661
+gọi là cường giáp vô cảm, với nhịp nhanh mờ nhạt, ít kích động,
+
+145
+00:09:20,511 --> 00:09:25,077
+triệu chứng mơ hồ. Cần nghi ngờ cao và cân nhắc xét nghiệm chức năng tuyến giáp ngay cả
+
+146
+00:09:24,927 --> 00:09:26,600
+khi bệnh cảnh không kinh điển.
+
+147
+00:09:28,050 --> 00:09:33,080
+Box một liệt kê các chẩn đoán phân biệt chính. Gần nhất là nhiễm độc giáp nặng chưa biến chứng:
+
+148
+00:09:32,930 --> 00:09:34,261
+cường giáp sinh hoá rõ,
+
+149
+00:09:34,111 --> 00:09:37,960
+nhưng không có rối loạn thần kinh trung ương đáng kể hay suy đa cơ quan.
+
+150
+00:09:38,160 --> 00:09:41,888
+Nhiễm khuẩn huyết cũng có sốt, nhịp nhanh và đáp ứng viêm toàn thân,
+
+151
+00:09:41,738 --> 00:09:46,465
+nhưng có ổ nhiễm khuẩn xác định và dấu ấn viêm tăng. Lưu ý là nhiễm trùng cũng chính là
+
+152
+00:09:46,315 --> 00:09:47,991
+yếu tố thúc đẩy hay gặp nhất,
+
+153
+00:09:47,841 --> 00:09:49,990
+nên hai bệnh cảnh có thể cùng tồn tại.
+
+154
+00:09:50,190 --> 00:09:52,404
+Viêm não, viêm màng não có dấu màng não,
+
+155
+00:09:52,254 --> 00:09:56,789
+dấu thần kinh khu trú hoặc dịch não tuỷ bất thường. Bệnh não do tăng huyết áp có tăng
+
+156
+00:09:56,639 --> 00:09:58,130
+huyết áp nặng với đau đầu,
+
+157
+00:09:57,980 --> 00:10:01,380
+lú lẫn, rối loạn thị giác, mà không có nhiễm độc giáp sinh hoá.
+
+158
+00:10:01,580 --> 00:10:04,423
+Sốc nhiệt xảy ra sau phơi nhiễm nóng hoặc gắng sức,
+
+159
+00:10:04,273 --> 00:10:09,703
+thường mất tiết mồ hôi. Ngộ độc thuốc cường giao cảm như cocaine hay amphetamine gây kích động nặng,
+
+160
+00:10:09,553 --> 00:10:12,290
+tăng huyết áp, nhịp nhanh, kèm tiền sử dùng chất.
+
+161
+00:10:12,490 --> 00:10:16,743
+Và hội chứng an thần kinh ác tính: mới dùng thuốc đối kháng dopamine,
+
+162
+00:10:16,593 --> 00:10:19,360
+cứng cơ toàn thân kiểu ống chì, men CK tăng.
+
+163
+00:10:20,810 --> 00:10:25,440
+Đồng thuận khuyến cáo xử trí cơn bão giáp tại đơn vị chăm sóc tích cực hoặc hồi sức.
+
+164
+00:10:25,290 --> 00:10:27,360
+Các tiêu chí gợi ý nhập hồi sức gồm:
+
+165
+00:10:27,560 --> 00:10:31,955
+huyết động không ổn định cần vận mạch hoặc theo dõi xâm lấn, và rối loạn ý thức,
+
+166
+00:10:31,805 --> 00:10:32,910
+lơ mơ hoặc hôn mê;
+
+167
+00:10:33,110 --> 00:10:37,425
+suy hô hấp cần hỗ trợ thông khí không xâm lấn hay xâm lấn, cùng suy tim cấp,
+
+168
+00:10:37,275 --> 00:10:40,220
+sốc tim hoặc loạn nhịp kéo dài có ý nghĩa lâm sàng;
+
+169
+00:10:40,420 --> 00:10:42,666
+bằng chứng rối loạn chức năng đa cơ quan,
+
+170
+00:10:42,516 --> 00:10:47,419
+và xấu đi nhanh dù đã điều trị ban đầu. Đồng thuận cũng khuyên mời chuyên gia hồi sức từ sớm,
+
+171
+00:10:47,269 --> 00:10:51,610
+đồng thời báo cho phẫu thuật viên biết để chuẩn bị nếu cần cắt tuyến giáp cấp cứu.
+
+172
+00:10:53,060 --> 00:10:58,074
+Tình huống thứ nhất. Một phụ nữ 38 tuổi bị Basedow, tự ngưng thuốc hai tháng,
+
+173
+00:10:57,924 --> 00:11:02,875
+đang viêm đường tiết niệu ba ngày. Nay sốt 39,8 độ, mạch 138 đều, kích động,
+
+174
+00:11:02,725 --> 00:11:07,170
+tiêu chảy nhiều lần, không phù, phổi không ran. Chưa có kết quả FT4.
+
+175
+00:11:07,370 --> 00:11:11,280
+Điểm Burch–Wartofsky của bệnh nhân là bao nhiêu, và cần làm gì?
+
+176
+00:11:11,480 --> 00:11:14,350
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+177
+00:11:22,950 --> 00:11:28,612
+Hãy cộng lại: sốt 39,8 độ được 20 điểm, kích động 10, tiêu chảy 10, mạch 138 được 20,
+
+178
+00:11:28,462 --> 00:11:34,318
+không suy tim và không rung nhĩ, cộng 10 điểm cho nhiễm trùng thúc đẩy. Tổng là 70 điểm,
+
+179
+00:11:34,168 --> 00:11:37,690
+đáp án C: vượt xa ngưỡng 45, rất gợi ý cơn bão giáp.
+
+180
+00:11:37,890 --> 00:11:40,795
+Thang Burch–Wartofsky không đòi hỏi xét nghiệm,
+
+181
+00:11:40,645 --> 00:11:45,601
+và cơn bão giáp là chẩn đoán lâm sàng. Không chờ kết quả FT4 mới bắt đầu điều trị;
+
+182
+00:11:45,451 --> 00:11:49,000
+lấy máu xét nghiệm rồi điều trị tích cực ngay tại hồi sức.
+
+183
+00:11:50,450 --> 00:11:55,522
+Tình huống thứ hai. Một ông cụ 81 tuổi, ba tuần nay mệt lả, sụt cân, ăn kém,
+
+184
+00:11:55,372 --> 00:11:58,954
+lú lẫn từng lúc. Nhiệt độ 37,6 độ, mạch 98 không đều,
+
+185
+00:11:58,804 --> 00:12:02,840
+điện tâm đồ có rung nhĩ mới. Không kích động, không run tay.
+
+186
+00:12:03,040 --> 00:12:05,110
+Bước tiếp theo phù hợp nhất là gì?
+
+187
+00:12:05,310 --> 00:12:08,180
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+188
+00:12:16,780 --> 00:12:17,545
+Đáp án là B:
+
+189
+00:12:17,395 --> 00:12:22,982
+làm xét nghiệm chức năng tuyến giáp ngay. Người cao tuổi có thể vào cơn bão giáp một cách không điển hình,
+
+190
+00:12:22,832 --> 00:12:25,495
+gọi là cường giáp vô cảm, với nhịp nhanh mờ nhạt,
+
+191
+00:12:25,345 --> 00:12:28,777
+ít kích động và triệu chứng mơ hồ như ông cụ này. Không sốt cao,
+
+192
+00:12:28,627 --> 00:12:30,880
+mạch không nhanh không cho phép loại trừ.
+
+193
+00:12:31,080 --> 00:12:34,150
+Lựa chọn D là sai nguy hiểm: như phần hai sẽ phân tích,
+
+194
+00:12:34,000 --> 00:12:37,070
+iod chỉ được dùng sau thuốc kháng giáp ít nhất một giờ.
+
+195
+00:12:38,520 --> 00:12:42,676
+Tóm lại phần một với sáu thông điệp. Một, cơn bão giáp là chẩn đoán lâm sàng;
+
+196
+00:12:42,526 --> 00:12:46,110
+không có ngưỡng hormone nào tách được nó khỏi nhiễm độc giáp nặng.
+
+197
+00:12:46,310 --> 00:12:52,140
+Hai, tử vong từ khoảng 8% đến hơn 30%, và sốc tim sớm là yếu tố tiên lượng mạnh nhất.
+
+198
+00:12:52,340 --> 00:12:55,867
+Ba và bốn, thang Burch–Wartofsky với ngưỡng 25 và 45,
+
+199
+00:12:55,717 --> 00:12:59,818
+và tiêu chuẩn Nhật Bản đòi hỏi nhiễm độc giáp trên xét nghiệm,
+
+200
+00:12:59,668 --> 00:13:03,450
+chia chắc chắn và nghi ngờ. Cả hai chỉ là công cụ hỗ trợ.
+
+201
+00:13:03,650 --> 00:13:06,614
+Năm, cẩn thận chẩn đoán quá mức ở bệnh nhân hồi sức,
+
+202
+00:13:06,464 --> 00:13:09,320
+và đừng bỏ sót cường giáp vô cảm ở người cao tuổi.
+
+203
+00:13:09,520 --> 00:13:14,320
+Sáu, xử trí tại hồi sức, phối hợp đa chuyên khoa từ đầu. Phần hai sẽ đi vào điều trị:
+
+204
+00:13:14,170 --> 00:13:17,548
+chẹn beta, thuốc kháng giáp, corticoid, iod đúng thời điểm,
+
+205
+00:13:17,398 --> 00:13:22,143
+cách theo dõi và các biện pháp cứu vãn khi kháng trị. Cảm ơn quý đồng nghiệp đã theo
+
+206
+00:13:21,993 --> 00:13:23,620
+dõi Thư Viện Y Khoa Online.
