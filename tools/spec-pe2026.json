@@ -1,0 +1,82 @@
+[
+ {
+  "title": "File:Pulmonary embolism ECG.jpg",
+  "out": "media/pe2026/raw/ecg_tachy_rbbb.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:Pulm embolism.jpg",
+  "out": "media/pe2026/raw/ecg_s1q3t3.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:ECG QR pattern in V1 (Kucher sing) in pulmonary embolism.jpg",
+  "out": "media/pe2026/raw/ecg_qr_v1.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:E000584 (CardioNetworks ECGpedia).jpg",
+  "out": "media/pe2026/raw/ecg_rbbb_massive.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:Pulmonary embolism CTPA.JPEG",
+  "out": "media/pe2026/raw/ct_saddle_ctpa.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:Pulmonary embolism.jpg",
+  "out": "media/pe2026/raw/ct_filling_defects.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:Pulmonary Embolism.jpg",
+  "out": "media/pe2026/raw/ct_saddle_heilman.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:CTA Chest With Massive Pulmonary Embolism and Complete Occlusion.jpg",
+  "out": "media/pe2026/raw/ct_massive_occlusion.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:RVstraininPE.png",
+  "out": "media/pe2026/raw/ct_rv_strain.png",
+  "width": 1800
+ },
+ {
+  "title": "File:Missmatch V-P Szintigrahie der Lunge bei Lungenembolie 58M - NM - 001.jpg",
+  "out": "media/pe2026/raw/vq_mismatch.jpg",
+  "width": 1800
+ },
+ {
+  "title": "File:Pulmonary embolism scintigraphy PLoS.png",
+  "out": "media/pe2026/raw/vq_plos.png",
+  "width": 1800
+ },
+ {
+  "title": "File:DVTInGroinNoCompresible.png",
+  "out": "media/pe2026/raw/dvt_femoral.png",
+  "width": 1800
+ },
+ {
+  "title": "File:DVTInGroinNoCompresibleMark.png",
+  "out": "media/pe2026/raw/dvt_femoral_mark.png",
+  "width": 1800
+ },
+ {
+  "title": "File:Echocardiographic-diagnosis-management-and-monitoring-of-pulmonary-embolism-with-right-heart-1476-7120-8-18-S2.ogv",
+  "out": "media/pe2026/raw/echo_a4c_admission.ogv",
+  "width": 1800
+ },
+ {
+  "title": "File:Echocardiographic-diagnosis-management-and-monitoring-of-pulmonary-embolism-with-right-heart-1476-7120-8-18-S3.ogv",
+  "out": "media/pe2026/raw/echo_a4c_thrombus.ogv",
+  "width": 1800
+ },
+ {
+  "title": "File:Echocardiographic-diagnosis-management-and-monitoring-of-pulmonary-embolism-with-right-heart-1476-7120-8-18-S4.ogv",
+  "out": "media/pe2026/raw/echo_a4c_after_lysis.ogv",
+  "width": 1800
+ }
+]

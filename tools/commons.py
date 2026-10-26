@@ -38,10 +38,10 @@ else:
     spec = json.load(open(sys.argv[2])); credits = {}
     for s in spec:
         i = info({"titles": s["title"], "iiurlwidth": str(s.get("width", 1600))})[0]
-        src = i["thumb"] or i["url"]
+        src = i["url"] if (s.get("orig") or (i["mime"] or "").startswith(("video","application/ogg"))) else (i["thumb"] or i["url"])
         os.makedirs(os.path.dirname(s["out"]), exist_ok=True)
         open(s["out"], "wb").write(get(src, raw=True))
-        d = os.path.dirname(s["out"]); credits.setdefault(d, {})[os.path.basename(s["out"])] = {k: i[k] for k in ("title", "page", "license", "artist")}
+        d = os.path.dirname(s["out"]); credits.setdefault(d, {})[os.path.basename(s["out"])] = {k: i[k] for k in ("title", "page", "license", "artist", "w", "h")}
         print("ok", s["out"], i["license"])
     for d, c in credits.items():
         p = os.path.join(d, "credits.json"); old = json.load(open(p)) if os.path.exists(p) else {}
