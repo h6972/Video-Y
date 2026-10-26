@@ -245,6 +245,80 @@
    ]
   },
   {
+   "id": "s3b",
+   "layout": "media",
+   "chapter": "Điện tâm đồ · bổ sung",
+   "title": "Điện tâm đồ: gợi ý, không chẩn đoán",
+   "ref": "Kiến thức bổ sung – hướng dẫn 2026 không có khuyến cáo về điện tâm đồ",
+   "notes_w": 470,
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/ecg_s1q3t3.jpg",
+     "ar": 2.851,
+     "at": 0,
+     "cap": "Điện tâm đồ 12 chuyển đạo ở bệnh nhân thuyên tắc phổi",
+     "credit": "Ảnh: R.W. Koster · CC BY 3.0 · Wikimedia Commons",
+     "zoom": {
+      "x": 12,
+      "y": 34,
+      "s": 1.6,
+      "at": 1,
+      "out": "L3"
+     },
+     "marks": [
+      {
+       "type": "circle",
+       "x": 12.3,
+       "y": 12.5,
+       "r": 2.1,
+       "c": "coral",
+       "at": 1,
+       "t": "S sâu ở DI"
+      },
+      {
+       "type": "circle",
+       "x": 13,
+       "y": 61,
+       "r": 2.6,
+       "c": "amber",
+       "at": 2,
+       "t": "Q và T đảo ở DIII"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "S1Q3T3",
+     "t": "S sâu DI, Q và T đảo DIII",
+     "d": "Gợi ý quá tải thất phải cấp, không đặc hiệu",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CĂNG THẤT PHẢI",
+     "t": "Block nhánh phải · T đảo V1–V4 · QR ở V1",
+     "d": "Liên quan tiên lượng xấu hơn",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "THƯỜNG GẶP NHẤT",
+     "t": "Nhịp nhanh xoang",
+     "d": "Điện tâm đồ bình thường không loại trừ · giúp tìm chẩn đoán khác",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trước khi đến hình ảnh học, chúng ta nhìn qua điện tâm đồ. Hướng dẫn 2026 không đưa ra khuyến cáo riêng về điện tâm đồ, nên phần này là kiến thức bổ sung để quý vị đọc hình ảnh thực tế.",
+    "Đây là điện tâm đồ của một bệnh nhân thuyên tắc phổi. Ở chuyển đạo DI có sóng S sâu,",
+    "và ở DIII có sóng Q kèm sóng T đảo ngược. Đó là hình ảnh S1Q3T3 kinh điển, phản ánh quá tải thất phải cấp.",
+    "Các dấu hiệu khác gợi ý căng thất phải gồm block nhánh phải, sóng T đảo từ V1 đến V4, và dạng QR ở V1, còn gọi là dấu Kucher, liên quan với tiên lượng xấu hơn.",
+    "Tuy vậy, bất thường thường gặp nhất chỉ là nhịp nhanh xoang. Các dấu hiệu trên vừa không nhạy vừa không đặc hiệu, và điện tâm đồ bình thường không loại trừ thuyên tắc phổi. Giá trị lớn nhất của điện tâm đồ là tìm chẩn đoán khác, như hội chứng vành cấp."
+   ]
+  },
+  {
    "id": "s4",
    "layout": "cards",
    "chapter": "Thang điểm · Bảng 3",
@@ -461,6 +535,170 @@
    ]
   },
   {
+   "id": "s7b",
+   "layout": "media",
+   "chapter": "CT mạch phổi · hình ảnh thực tế",
+   "title": "Huyết khối trên CT mạch phổi",
+   "ref": "Minh hoạ cho Mục 3.1.2 · Khuyến cáo 2 (1, A)",
+   "notes_w": 420,
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/ct_saddle_heilman.jpg",
+     "ar": 1.27,
+     "at": 0,
+     "cap": "Huyết khối yên ngựa",
+     "credit": "Ảnh: James Heilman, MD · CC BY-SA 4.0 · Wikimedia Commons",
+     "zoom": {
+      "x": 52,
+      "y": 42,
+      "s": 1.5,
+      "at": 1,
+      "out": "L3"
+     },
+     "marks": [
+      {
+       "type": "arrow",
+       "x": 50,
+       "y": 43,
+       "dx": -14,
+       "dy": -22,
+       "c": "coral",
+       "at": 1,
+       "t": "Huyết khối yên ngựa"
+      },
+      {
+       "type": "circle",
+       "x": 59,
+       "y": 46,
+       "r": 4.5,
+       "c": "amber",
+       "at": 2,
+       "t": "Lan vào nhánh trái"
+      }
+     ]
+    },
+    {
+     "src": "../../media/pe2026/raw/ct_filling_defects.jpg",
+     "ar": 1.376,
+     "at": 3,
+     "cap": "Khuyết thuốc ở động mạch thuỳ hai bên",
+     "credit": "Ảnh: Serra W và cộng sự · CC BY 2.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 34.5,
+       "y": 51,
+       "r": 4.5,
+       "c": "coral",
+       "at": 3,
+       "t": "Huyết khối"
+      },
+      {
+       "type": "circle",
+       "x": 63,
+       "y": 57,
+       "r": 4.5,
+       "c": "coral",
+       "at": 3,
+       "t": "Huyết khối"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "DẤU HIỆU",
+     "t": "Khuyết thuốc cản quang",
+     "d": "Vùng tối trong lòng động mạch ngấm thuốc sáng",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "3 · KHÔNG LỢI ÍCH",
+     "t": "Không dùng gánh huyết khối để phân tầng",
+     "d": "Quyết định dựa vào huyết động, thất phải, dấu ấn sinh học",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "1 · A",
+     "t": "CT dương tính đủ để chẩn đoán",
+     "d": "Đồng thời đánh giá thất phải, tìm chẩn đoán khác",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Đây là hình ảnh thực tế trên chụp cắt lớp mạch phổi. Huyết khối hiện lên như một vùng khuyết thuốc cản quang, tối hơn, nằm trong lòng động mạch đã ngấm thuốc sáng trắng.",
+    "Ở hình bên trái, khối huyết khối cưỡi lên chạc ba động mạch phổi, gọi là huyết khối yên ngựa.",
+    "Huyết khối lan vào cả nhánh động mạch phổi hai bên. Hình ảnh rất ấn tượng, nhưng xin nhớ hướng dẫn không dùng gánh huyết khối để phân tầng nguy cơ ngắn hạn; điều quyết định là huyết động, thất phải và dấu ấn sinh học.",
+    "Hình bên phải là khuyết thuốc ở các động mạch thuỳ hai bên. Theo khuyến cáo nhóm một, mức A, một phim chụp cắt lớp mạch phổi dương tính như vậy là đủ để chẩn đoán."
+   ]
+  },
+  {
+   "id": "s7c",
+   "layout": "media",
+   "chapter": "Xạ hình · siêu âm nén",
+   "title": "Xạ hình thông khí – tưới máu và siêu âm nén tĩnh mạch",
+   "ref": "Minh hoạ cho Mục 3.1.2 · Khuyến cáo 2, 5, 6 · Mục 3.1.1 · Khuyến cáo 4",
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/vq_plos.png",
+     "ar": 2.096,
+     "flex": 1.45,
+     "at": 0,
+     "cap": "Thông khí đồng đều (A) – tưới máu khuyết (B)",
+     "credit": "Ảnh: Westgate EJ, FitzGerald GA · CC BY 2.5 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "box",
+       "x": 11,
+       "y": 24,
+       "w": 30,
+       "h": 52,
+       "c": "teal",
+       "at": 1,
+       "t": "Thông khí: đồng đều"
+      },
+      {
+       "type": "box",
+       "x": 63,
+       "y": 24,
+       "w": 30,
+       "h": 52,
+       "c": "coral",
+       "at": 2,
+       "t": "Tưới máu: nhiều vùng khuyết"
+      }
+     ]
+    },
+    {
+     "src": "../../media/pe2026/raw/dvt_femoral_mark.png",
+     "ar": 1.06,
+     "flex": 1,
+     "at": 3,
+     "cap": "Tĩnh mạch đùi chung có huyết khối",
+     "credit": "Ảnh: James Heilman, MD · CC BY-SA 4.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 86,
+       "c": "coral",
+       "at": 3,
+       "t": "Không đè xẹp khi ấn đầu dò"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Khi không chụp được cắt lớp, xạ hình thông khí tưới máu là lựa chọn thay thế. Dấu hiệu chẩn đoán là bất tương xứng:",
+    "phổi được thông khí đồng đều,",
+    "nhưng tưới máu lại khuyết ở nhiều vùng, vì động mạch nuôi các vùng đó đã bị huyết khối bít tắc. Một phim xạ hình xác suất cao đủ để chẩn đoán, và SPECT có độ đặc hiệu cao hơn xạ hình phẳng.",
+    "Bên phải là siêu âm tĩnh mạch đùi chung: lòng tĩnh mạch có huyết khối và không đè xẹp được khi ấn đầu dò. Ở thai phụ có triệu chứng chân, một kết quả như thế này cho phép bắt đầu kháng đông mà không nhất thiết phải chụp cắt lớp."
+   ]
+  },
+  {
    "id": "s8",
    "layout": "cards",
    "chapter": "Không nên làm · Mục 3.1.2",
@@ -585,6 +823,108 @@
     "TAPSE dưới 1,6 centimét là bất thường.",
     "Bằng chứng tăng áp phổi trên Doppler gồm thời gian tăng tốc động mạch phổi dưới 90 mili giây, chênh áp thất phải nhĩ phải trên 30 milimét thủy ngân, vận tốc hở ba lá trên 2,6 mét mỗi giây. Ngoài ra cần mô tả dấu McConnell, tức giảm động thành tự do thất phải nhưng mỏm còn co bóp, vách liên thất di động nghịch thường, và tĩnh mạch chủ dưới kém xẹp theo hô hấp. Độ chính xác tăng khi có từ hai thông số bất thường.",
     "Cuối cùng, nhóm hai b: có thể báo cáo dấu hiệu mạn tính trên phim chụp cắt lớp ngay lúc chẩn đoán, như màng trong lòng mạch, động mạch phổi co rút hoặc giãn, giãn động mạch phế quản, phì đại thất phải, vách liên thất dẹt. Có từ ba dấu hiệu trở lên liên quan mạnh với bệnh huyết khối tắc mạch phổi mạn khi theo dõi."
+   ]
+  },
+  {
+   "id": "s8b",
+   "layout": "media",
+   "chapter": "Thất phải · hình ảnh thực tế",
+   "title": "Thất phải trên CT và siêu âm tim",
+   "ref": "Minh hoạ cho Mục 3.1.2 · Khuyến cáo 11, 12",
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/ct_rv_strain.png",
+     "ar": 1.212,
+     "at": 0,
+     "cap": "CT: thất phải giãn, vách liên thất dẹt",
+     "credit": "Ảnh: Michellescot · CC0 · Wikimedia Commons",
+     "zoom": {
+      "x": 62,
+      "y": 40,
+      "s": 1.55,
+      "at": 1,
+      "out": "L4"
+     },
+     "marks": [
+      {
+       "type": "label",
+       "x": 64,
+       "y": 30,
+       "c": "coral",
+       "at": 1,
+       "t": "Thất phải giãn"
+      },
+      {
+       "type": "label",
+       "x": 77,
+       "y": 50,
+       "c": "teal",
+       "at": 2,
+       "t": "Thất trái"
+      },
+      {
+       "type": "arrow",
+       "x": 64,
+       "y": 44,
+       "dx": -12,
+       "dy": 22,
+       "c": "amber",
+       "at": 3,
+       "t": "Vách liên thất dẹt, lệch trái",
+       "ly": 70
+      }
+     ]
+    },
+    {
+     "seq": "../../media/pe2026/echo_admission/f_%03d.jpg",
+     "n": 41,
+     "fps": 25,
+     "ar": 1.105,
+     "at": 4,
+     "cap": "Siêu âm tim mặt cắt 4 buồng từ mỏm",
+     "credit": "Clip: Hewing B và cộng sự · CC BY 2.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 38,
+       "y": 40,
+       "c": "coral",
+       "at": 4,
+       "t": "Thất phải"
+      },
+      {
+       "type": "label",
+       "x": 63,
+       "y": 40,
+       "c": "teal",
+       "at": 4,
+       "t": "Thất trái"
+      },
+      {
+       "type": "label",
+       "x": 33,
+       "y": 72,
+       "c": "amber",
+       "at": 4,
+       "t": "Nhĩ phải"
+      },
+      {
+       "type": "label",
+       "x": 57,
+       "y": 72,
+       "c": "blue",
+       "at": 4,
+       "t": "Nhĩ trái"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Và đây là hình ảnh thất phải, nền tảng của phân tầng nguy cơ. Trên lát cắt ngang của chụp cắt lớp mạch phổi,",
+    "thất phải giãn rộng,",
+    "lớn hơn thất trái. Tỷ số đường kính trong thất phải trên thất trái từ 1 trở lên là bất thường, và cần được đo, ghi bằng con số.",
+    "Vách liên thất bị đẩy dẹt và lệch về phía thất trái, dấu hiệu của quá tải áp lực thất phải.",
+    "Bên phải là clip siêu âm tim mặt cắt bốn buồng từ mỏm ở một bệnh nhân thuyên tắc phổi lúc nhập viện: thất phải giãn, kích thước gần bằng thất trái. Trên siêu âm, quý vị đo đường kính thất phải, tỷ số thất phải trên thất trái, TAPSE, và tìm dấu McConnell như Bảng 4 đã nêu."
    ]
   },
   {
