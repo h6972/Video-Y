@@ -52,6 +52,16 @@ def audio_len(path):
                         "-of", "csv=p=0", path], capture_output=True, text=True)
     return float(r.stdout.strip())
 
+# ---- nhận diện thương hiệu: đoạn mở logo + màn hình kết (YouTube end screen) ----
+BR = S.get("brand")
+if BR and not any(sc.get("layout") == "brand" for sc in S["scenes"]):
+    if BR.get("intro", True):
+        S["scenes"].insert(0, {"id": "intro", "layout": "brand", "chapter": "", "title": "", "lines": [],
+                               "hold": BR.get("intro_s", 4.2), "_brand": 1})
+    if BR.get("outro", True):
+        S["scenes"].append({"id": "outro", "layout": "endscreen", "chapter": "", "title": "", "lines": [],
+                            "hold": BR.get("outro_s", 18), "next": BR.get("next", ""), "_brand": 1})
+
 t = 0.0
 for sc in S["scenes"]:
     sc["start"] = round(t, 3)
@@ -74,8 +84,12 @@ for sc in S["scenes"]:
         sc_lines.append({"t0": round(local, 3), "t1": round(local + dur, 3), "subs": subs,
                          "say": line, "mp3": os.path.basename(mp3) if mp3 else f"{sc['id']}_{i+1}.mp3"})
         local += dur + LINE_GAP
+        cd = sc.get("countdown")  # đếm ngược sau câu "tạm dừng video": {"after": chỉ số câu, "s": giây}
+        if cd and cd.get("after") == i:
+            sc["cd"] = {"t0": round(local - LINE_GAP + 0.2, 3), "s": cd.get("s", 8)}
+            local += cd.get("s", 8) + 0.4
     sc["L"] = sc_lines
-    sc["dur"] = round(local - LINE_GAP + TAIL, 3)
+    sc["dur"] = round(max(local - LINE_GAP + TAIL, sc.get("hold", 0)), 3)
     t += sc["dur"]
 S["total"] = round(t, 3)
 
@@ -88,7 +102,9 @@ th = S.get("theme")  # giao diện theo loại loạt bài: engine/themes/<theme
 _cd = os.path.join(os.path.dirname(os.path.abspath(__file__)), "themes", "common")  # layout dùng chung mọi giao diện
 if os.path.isdir(_cd):
     _rc = lambda f: open(os.path.join(_cd, f), encoding="utf-8").read() if os.path.exists(os.path.join(_cd, f)) else ""
-    tpl = tpl.replace("/*__THEME_CSS__*/", _rc("theme.css") + "\n/*__THEME_CSS__*/").replace("/*__THEME_JS__*/", _rc("layouts.js") + "\n/*__THEME_JS__*/")
+    _css = "".join(_rc(f) for f in ["theme.css"] + sorted(f for f in os.listdir(_cd) if f.endswith(".css") and f != "theme.css"))
+    _js = "".join(_rc(f) for f in ["layouts.js"] + sorted(f for f in os.listdir(_cd) if f.endswith(".js") and f != "layouts.js"))
+    tpl = tpl.replace("/*__THEME_CSS__*/", _css + "\n/*__THEME_CSS__*/").replace("/*__THEME_JS__*/", _js + "\n/*__THEME_JS__*/")
 if th and th != "guideline":
     tdir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "themes", th)
     rd = lambda f: open(os.path.join(tdir, f), encoding="utf-8").read() if os.path.exists(os.path.join(tdir, f)) else ""
@@ -114,7 +130,7 @@ for sc in S["scenes"]:
         body = (f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="vi-VN">'
                 f'<voice name="{S["voice"]}"><prosody rate="{S["rate"]}">{to_ssml(ln["say"])}</prosody></voice></speak>')
         open(os.path.join(D, "ssml", f"{sc['id']}_{i+1}.ssml"), "w", encoding="utf-8").write(body)
-    full.append(f'<!-- {sc["id"]} · {sc["chapter"]} -->\n' + "\n".join(
+    full.append(f'<!-- {sc["id"]} · {sc.get("chapter", "")} -->\n' + "\n".join(
         f'<p>{to_ssml(l["say"])}</p><break time="350ms"/>' for l in sc["L"]))
 open(os.path.join(D, "kich-ban-full.ssml"), "w", encoding="utf-8").write(
     f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="vi-VN">\n'

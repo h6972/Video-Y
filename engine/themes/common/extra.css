@@ -1,0 +1,27 @@
+/* EXTRA: stats + gauge */
+.stg{display:grid;gap:24px}
+.stt{display:flex;flex-direction:column;justify-content:center;padding:28px 32px}
+.stv{font-size:104px;font-weight:800;letter-spacing:-2px;line-height:1;margin-top:14px;font-variant-numeric:tabular-nums}
+.sts{font-size:60px;margin-left:4px}
+.stl{font-size:31px;font-weight:700;margin-top:18px;line-height:1.3}
+.std{font-size:23px;color:var(--mut);margin-top:10px;line-height:1.4}
+.gwrap{position:relative;height:640px}
+.gtr{position:relative;height:74px;margin-top:70px;border-radius:16px;background:rgba(255,255,255,.04);border:1.5px solid var(--line)}
+.gzs{position:absolute;inset:0;border-radius:16px;overflow:hidden}
+.gz{position:absolute;top:0;bottom:0;background:color-mix(in srgb,var(--c) 13%,transparent);border-right:2px dashed color-mix(in srgb,var(--c) 60%,transparent)}
+.gzl{position:absolute;top:-46px;margin-left:12px;font-size:22px;font-weight:800;color:var(--c);white-space:nowrap}
+.gsg{position:absolute;top:12px;bottom:12px}
+.gfl{height:100%;background:var(--c);border-right:3px solid #07122a;box-shadow:0 0 18px -4px var(--c)}
+.gsg:first-of-type .gfl{border-radius:10px 0 0 10px}
+.gmk{position:absolute;top:-16px;bottom:-16px;width:0;border-left:4px solid #fff;opacity:0}
+.gmn{position:absolute;left:-46px;top:120px;width:92px;text-align:center;font-size:44px;font-weight:800;color:#fff;font-variant-numeric:tabular-nums}
+.gtks{position:relative;height:40px;margin-top:8px}
+.gtk{position:absolute;top:0;transform:translateX(-50%);font-size:22px;font-weight:700;color:var(--mut)}
+.gtk:first-child{transform:none}
+.gchs{display:grid;gap:16px;margin-top:64px}
+.gch{padding:16px 22px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.gct{font-size:25px;font-weight:700;line-height:1.25}
+.gcv{font-size:36px;font-weight:800;flex:none}
+.gvd{position:relative;margin-top:34px;padding:20px 30px;display:flex;align-items:center;gap:22px}
+.gvt{font-size:31px;font-weight:700;line-height:1.35}
+body[data-format=vertical] .stv{font-size:120px}

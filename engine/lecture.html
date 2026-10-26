@@ -50,6 +50,12 @@ body{font-family:Inter,sans-serif;color:var(--tx)}
 b,strong{font-weight:700} em{font-style:normal;color:var(--amber);font-weight:700}
 .mlab{position:absolute;font-size:19px;font-weight:800;color:#fff;background:rgba(2,6,18,.78);border:2px solid var(--c);padding:3px 11px;border-radius:9px;white-space:nowrap;z-index:2}
 .mcap{height:52px;margin-top:8px;text-align:center;line-height:1.25}.mcap b{display:block;font-size:22px}.mcap span{display:block;font-size:15px;color:var(--mut);margin-top:3px}
+.cdw{position:absolute;right:0;bottom:6px;width:240px;display:flex;flex-direction:column;align-items:center;opacity:0;z-index:4;pointer-events:none}
+.cdw svg{filter:drop-shadow(0 0 18px rgba(251,191,36,.35))}
+.cdb{fill:rgba(2,6,18,.82);stroke:rgba(255,255,255,.14);stroke-width:10}
+.cdr{fill:none;stroke:var(--amber);stroke-width:10;stroke-linecap:round}
+.cdn{position:absolute;top:0;width:168px;height:168px;display:flex;align-items:center;justify-content:center;font-size:76px;font-weight:800;color:var(--amber)}
+.cdt{margin-top:10px;font-size:20px;font-weight:700;color:var(--mut);letter-spacing:.3px;white-space:nowrap}
 /* title */
 .t-title .big{font-size:76px;font-weight:800;line-height:1.08;letter-spacing:-1.5px}
 /* list */
@@ -74,6 +80,28 @@ b,strong{font-weight:700} em{font-style:normal;color:var(--amber);font-weight:70
 .td b{font-size:24px}
 .op{font-size:30px;font-weight:800;text-align:center;color:var(--amber);margin:18px 0}
 .ans{font-size:31px;font-weight:700;line-height:1.4}
+/* video dọc 1080x1920 (TikTok/Reels/Shorts): "format": "vertical" */
+body[data-format=vertical] #stage{width:1080px;height:1920px}
+body[data-format=vertical] #top{left:56px;right:56px;top:70px;flex-direction:column;align-items:flex-start;gap:14px}
+body[data-format=vertical] #series{font-size:24px}
+body[data-format=vertical] #part{font-size:24px}
+body[data-format=vertical] .scene{left:56px;right:56px;top:250px;bottom:520px}
+body[data-format=vertical] .ttl{font-size:60px;line-height:1.1}
+body[data-format=vertical] .kick{font-size:25px}
+body[data-format=vertical] .ref{display:none}
+body[data-format=vertical] .body{top:190px}
+body[data-format=vertical] #subs{bottom:300px;max-width:968px;width:968px;font-size:42px;line-height:1.3;padding:16px 26px}
+body[data-format=vertical] #foot{left:56px;right:56px;bottom:60px;font-size:22px;flex-direction:column;gap:6px}
+body[data-format=vertical] .lst{grid-template-columns:1fr!important}
+body[data-format=vertical] .li .tx{font-size:40px}
+body[data-format=vertical] .li .ds{font-size:31px}
+body[data-format=vertical] .qopts{grid-template-columns:1fr 1fr!important}
+body[data-format=vertical] .cgrid{grid-template-columns:1fr!important;height:auto!important}
+body[data-format=vertical] .cdw{bottom:-40px}
+body[data-format=vertical] .l-quiz .body,body[data-format=vertical] .l-box .body{zoom:1.22}
+.hook{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center}
+.hook .hq{font-size:84px;font-weight:800;line-height:1.08;letter-spacing:-1px}
+.hook .hs{font-size:40px;font-weight:700;margin-top:34px;line-height:1.3}
 </style>
 <style>/*__THEME_CSS__*/</style>
 </head>
@@ -94,6 +122,7 @@ const esc=s=>String(s??'');           // nội dung do Claude soạn, cho phép 
 const at=v=>v==null?'0':(typeof v==='number'?'L'+v:v);
 const C=c=>'c-'+(c||'teal');
 
+const VERT=TL.format==='vertical'; document.body.dataset.format=VERT?'vertical':'wide';
 document.getElementById('series').innerHTML=`<b>${esc(TL.series||'VIDEO Y KHOA')}</b>  ·  ${esc(TL.subtitle||'')}`;
 document.getElementById('part').textContent=TL.part||'';
 document.getElementById('src').textContent=TL.source_short||'';
@@ -102,7 +131,13 @@ document.getElementById('sign').textContent=TL.sign||'';
 /* ---------- các layout ---------- */
 const L={
  title:s=>`<svg style="position:absolute;right:-20px;top:120px" width="760" height="620" viewBox="0 0 760 620">
-   ${s.art==='sepsis'?`<path d="M380 110 C330 200 230 290 230 390 C230 475 298 540 380 540 C462 540 530 475 530 390 C530 290 430 200 380 110 Z" fill="rgba(251,113,133,.12)" stroke="rgba(251,113,133,.75)" stroke-width="5" data-a="draw" data-in="0.3"/>
+   ${s.art==='thyroid'?`<path d="M380 80 V560" stroke="rgba(148,163,184,.35)" stroke-width="44" stroke-linecap="round" data-a="draw" data-in="0.2"/>
+   <path d="M380 80 V560" stroke="rgba(148,163,184,.25)" stroke-width="44" stroke-dasharray="6 26" data-a="draw" data-in="0.3"/>
+   <path d="M352 300 C330 210 300 150 255 150 C205 150 180 230 190 320 C200 410 240 470 290 470 C335 470 350 410 352 360 Z" fill="rgba(251,113,133,.13)" stroke="rgba(251,113,133,.85)" stroke-width="5" data-a="draw" data-in="0.5"/>
+   <path d="M408 300 C430 210 460 150 505 150 C555 150 580 230 570 320 C560 410 520 470 470 470 C425 470 410 410 408 360 Z" fill="rgba(251,113,133,.13)" stroke="rgba(251,113,133,.85)" stroke-width="5" data-a="draw" data-in="0.7"/>
+   <path d="M350 335 C365 352 395 352 410 335 L410 372 C395 388 365 388 350 372 Z" fill="rgba(251,113,133,.25)" stroke="rgba(251,113,133,.85)" stroke-width="4" data-a="draw" data-in="0.9"/>
+   <path d="M120 250 C100 215 135 195 120 160 M640 250 C660 215 625 195 640 160 M90 400 C70 365 105 345 90 310 M670 400 C690 365 655 345 670 310" fill="none" stroke="rgba(251,191,36,.75)" stroke-width="5" stroke-linecap="round" data-a="draw" data-in="1.2"/>
+   <path d="M0 590 H120 L140 560 L160 590 H190 L205 610 L228 470 L250 680 L268 590 H300 L320 560 L340 590 H370 L385 610 L408 470 L430 680 L448 590 H480 L500 560 L520 590 H550 L565 610 L588 470 L610 680 L628 590 H760" fill="none" stroke="rgba(96,165,250,.85)" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" data-a="draw" data-in="1.5"/>`:s.art==='sepsis'?`<path d="M380 110 C330 200 230 290 230 390 C230 475 298 540 380 540 C462 540 530 475 530 390 C530 290 430 200 380 110 Z" fill="rgba(251,113,133,.12)" stroke="rgba(251,113,133,.75)" stroke-width="5" data-a="draw" data-in="0.3"/>
    <circle cx="300" cy="420" r="13" fill="rgba(45,212,191,.2)" stroke="#2dd4bf" stroke-width="3" data-a="pop" data-in="0.9"/>
    <circle cx="455" cy="455" r="10" fill="rgba(45,212,191,.2)" stroke="#2dd4bf" stroke-width="3" data-a="pop" data-in="1.0"/>
    <circle cx="400" cy="300" r="9" fill="rgba(45,212,191,.2)" stroke="#2dd4bf" stroke-width="3" data-a="pop" data-in="1.1"/>
@@ -150,7 +185,7 @@ const L={
      <div class="n" style="margin-bottom:16px">${i+1}</div><div style="font-size:33px;font-weight:700;line-height:1.28">${esc(o.t)}</div>
      <div class="mut" style="font-size:26px;margin-top:12px;line-height:1.42">${esc(o.d||'')}</div></div>`).join('')}</div>`,
 
- cards:s=>`<div style="display:grid;grid-template-columns:repeat(${s.cards.length},1fr);gap:24px;height:${s.h||640}px">
+ cards:s=>`<div class="cgrid" style="display:grid;grid-template-columns:repeat(${s.cards.length},1fr);gap:24px;height:${s.h||640}px">
    ${s.cards.map((c,i)=>`<div class="card ${C(c.c)}" style="display:flex;flex-direction:column" data-in="${at(c.at)}" data-a="up" data-hl="${at(c.at)}${c.hl?','+c.hl:''}">
      <div class="tagc ${C(c.c)}">${esc(c.tag||'')}</div>
      <div style="font-size:41px;font-weight:800;margin-top:14px;line-height:1.15" class="acc">${esc(c.t)}</div>
@@ -171,12 +206,13 @@ const L={
  quiz:s=>`<div class="card c-blue" data-in="${at(s.case_at??0)}"><div class="tagc c-blue">TÌNH HUỐNG</div>
      <div style="font-size:31px;font-weight:600;margin-top:14px;line-height:1.45">${esc(s.case)}</div></div>
    <div style="font-size:38px;font-weight:800;margin:30px 0 20px" data-in="${at(s.q_at??0)}">${esc(s.q)}</div>
-   <div style="display:grid;grid-template-columns:repeat(${s.options.length},1fr);gap:18px">
+   <div class="qopts" style="display:grid;grid-template-columns:repeat(${s.options.length},1fr);gap:18px">
    ${s.options.map((o,i)=>`<div class="card ${i===s.answer?'c-green':'c-coral'}" data-in="${at(s.q_at??0)}+${0.3+i*0.25}" data-a="up" ${i===s.answer?`data-hl="${at(s.answer_at)}+" data-mark="${at(s.answer_at)}"`:`data-dim="${at(s.answer_at)}"`}>
      <div style="font-size:30px;font-weight:700">${String.fromCharCode(65+i)}. ${esc(o)}</div></div>`).join('')}</div>
    <div class="card c-green" style="margin-top:22px" data-in="${at(s.explain_at??s.answer_at)}" data-a="up"><div class="ans"><span class="acc">Đáp án ${String.fromCharCode(65+s.answer)}.</span> ${esc(s.explain)}</div></div>`,
 };
 L.summary=L.list;
+L.hook=s=>`<div class="hook"><div class="kick" data-in="0">${esc(s.kicker||'')}</div><div class="hq" style="margin-top:20px" data-in="0.1" data-a="pop">${esc(s.hook)}</div><div class="hs acc ${C(s.c||'amber')}" data-in="${at(s.sub_at??0.6)}">${esc(s.sub||'')}</div></div>`;
 
 /* ---------- media: ảnh / clip thật + chú thích động ---------- */
 L.media=s=>{
@@ -218,8 +254,9 @@ document.body.dataset.theme=TL.theme||'guideline';
 const root=document.getElementById('scenes');
 TL.scenes.forEach(sc=>{
   const el=document.createElement('section'); el.className='scene l-'+sc.layout; el.id=sc.id;
-  const hdr=sc.layout==='title'?'':`<div class="hdr"><div class="kick" data-in="0">${esc(sc.chapter)}</div><div class="ttl" data-in="0.15">${esc(sc.title)}</div>${sc.ref?`<div class="ref" data-in="0.4">${esc(sc.ref)}</div>`:''}</div>`;
-  el.innerHTML=hdr+`<div class="body" ${sc.layout==='title'?'style="top:0"':''}>${(L[sc.layout]||L.list)(sc)}</div>`;
+  const NOH=['title','hook','brand','endscreen'].includes(sc.layout); const hdr=NOH?'':`<div class="hdr"><div class="kick" data-in="0">${esc(sc.chapter)}</div><div class="ttl" data-in="0.15">${esc(sc.title)}</div>${sc.ref?`<div class="ref" data-in="0.4">${esc(sc.ref)}</div>`:''}</div>`;
+  el.innerHTML=hdr+`<div class="body" ${NOH?'style="top:0"':''}>${(L[sc.layout]||L.list)(sc)}</div>`;
+  if(sc.cd) el.insertAdjacentHTML('beforeend',`<div class="cdw"><svg width="168" height="168" viewBox="0 0 168 168"><circle cx="84" cy="84" r="72" class="cdb"/><circle cx="84" cy="84" r="72" class="cdr" transform="rotate(-90 84 84)" stroke-dasharray="452.4"/></svg><div class="cdn"></div><div class="cdt">Tạm dừng để suy nghĩ</div></div>`);
   root.appendChild(el);
 });
 
@@ -237,13 +274,14 @@ const scenes=TL.scenes.map(sc=>{const el=document.getElementById(sc.id);
   const items=[...el.querySelectorAll('[data-in]')].map(e=>{
     const v=e.dataset.in; let tin; const mm=v.match(/^(L\d+)\+([\d.]+)$/); tin=mm?parseT(mm[1],sc)+parseFloat(mm[2]):parseT(v,sc);
     const o={e,tin,a:e.dataset.a||'fade',to:e.dataset.to?parseT(e.dataset.to,sc):null};
-    if(o.a==='draw'&&e.getTotalLength){o.len=e.getTotalLength();e.style.strokeDasharray=o.len;}
+    if(o.a==='draw'&&e.getTotalLength){o.len=e.getTotalLength();e.style.strokeDasharray=o.len+2;}
     return o;});
   const hls=[...el.querySelectorAll('[data-hl]')].map(e=>({e,r:e.dataset.hl.split(',').map(x=>lineRange(x,sc)).filter(Boolean)}));
   const dims=[...el.querySelectorAll('[data-dim]')].map(e=>({e,t:parseT(e.dataset.dim,sc)}));
   const seqs=[...el.querySelectorAll('[data-seq]')].map(e=>({imgs:[...e.children],n:+e.dataset.seq,fps:+e.dataset.fps,k:0}));
   const zooms=[...el.querySelectorAll('[data-zoom]')].map(e=>({e,s:+e.dataset.zoom,tin:parseT(e.dataset.zin,sc),tout:e.dataset.zout?parseT(e.dataset.zout,sc):null}));
-  return {sc,el,items,hls,dims,seqs,zooms};});
+  const cdw=el.querySelector('.cdw');
+  return {sc,el,items,hls,dims,seqs,zooms,cd:cdw?{w:cdw,r:cdw.querySelector('.cdr'),n:cdw.querySelector('.cdn')}:null};});
 
 function render(t){
   let sub='', cur=0;
@@ -268,11 +306,15 @@ function render(t){
     for(const q of S.seqs){const k=Math.floor(Math.max(0,lt)*q.fps)%q.n; if(k!==q.k){q.imgs[q.k].style.visibility='hidden';q.imgs[k].style.visibility='visible';q.k=k;}}
     for(const z of S.zooms){let p=ease((lt-z.tin)/1.4); if(z.tout!=null) p*=1-ease((lt-z.tout)/1.2); z.e.style.transform=`scale(${1+(z.s-1)*p})`;}
     for(const d of S.dims){d.e.style.opacity=lt>=d.t?0.35:d.e.style.opacity;}
+    if(S.cd){const c=sc.cd, q=lt-c.t0, on=q>=0&&q<c.s+0.3; S.cd.w.style.opacity=on?Math.min(1,q/0.3,(c.s+0.3-q)/0.3):0;
+      if(on){const left=Math.max(0,c.s-q); S.cd.n.textContent=Math.ceil(left-1e-6)||''; S.cd.r.style.strokeDashoffset=452.4*(1-left/c.s);
+        S.cd.w.style.transform=`scale(${1+0.05*Math.max(0,1-((q%1)/0.25))})`;}}
     for(const ln of sc.L) for(const s of ln.subs) if(lt>=s.t0&&lt<s.t1+0.25) sub=s.text;
   });
   if(window.COMMON_TICK) window.COMMON_TICK(t,cur,scenes);
   if(window.THEME_TICK) window.THEME_TICK(t,cur,scenes);
   document.getElementById('subs').textContent=sub;
+  const br=!!(scenes[cur]&&scenes[cur].sc._brand); for(const id of ['top','foot','prog']) document.getElementById(id).style.visibility=br?'hidden':'visible';
   document.getElementById('prog').style.width=(clamp(t/TL.total)*100)+'%';
   document.getElementById('bg').style.transform=`translate(${Math.sin(t*0.05)*60}px,${Math.cos(t*0.04)*40}px)`;
 }

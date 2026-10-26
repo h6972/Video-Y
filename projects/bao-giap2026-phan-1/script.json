@@ -1,0 +1,1193 @@
+{
+ "title": "Cơn bão giáp ETA/BTA 2026 – Phần 1: Nhận diện và chẩn đoán",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Nội tiết – Hồi sức",
+ "part": "Cơn bão giáp 2026 · Phần 1/2",
+ "source_short": "Nguồn: Management of thyroid emergencies – joint consensus statement on management of thyroid storm (ETA/BTA/SfE/WEDS 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "Taylor P, Okosieme O, Effraimidis G, et al. Management of thyroid emergencies: joint consensus statement on management of thyroid storm. European Thyroid Association, British Thyroid Association, Society for Endocrinology, Welsh Endocrine and Diabetes Society, 2026.",
+ "lexicon": {
+  "propylthiouracil": "prô pin thi ô u ra xin",
+  "Burch–Wartofsky": "Bớt Oa tốp xki",
+  "Burch-Wartofsky": "Bớt Oa tốp xki",
+  "hydrocortisone": "hy đrô cooc ti dôn",
+  "cholestyramine": "cô lét ti ra min",
+  "chlorpromazine": "clo prô ma din",
+  "Wolff–Chaikoff": "Vôn Chai cốp",
+  "CHA₂DS₂-VASc": "cha hai đi ét hai vát",
+  "propranolol": "prô pra nô lôn",
+  "methimazole": "mê thi ma dôn",
+  "carbimazole": "các bi ma dôn",
+  "perchlorate": "péc clo rát",
+  "ETA/BTA/SfE": "e tê a, bê tê a, ét ép e",
+  "bisoprolol": "bi sô prô lôn",
+  "amiodarone": "a mi ô đa rôn",
+  "µg/kg/phút": "micrôgam mỗi kilôgam mỗi phút",
+  "labetalol": "la bê ta lôn",
+  "landiolol": "lan đi ô lôn",
+  "diltiazem": "đin ti a dem",
+  "thiamine": "thi a min",
+  "iopanoic": "i ô pa nô ích",
+  "JTA/JES": "giây tê a, giây e ét",
+  "esmolol": "ét mô lôn",
+  "Basedow": "Ba dơ đô",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "OR 9,43": "tỉ số chênh 9,43",
+  "mg/ngày": "miligam mỗi ngày",
+  "Graves": "Grêu",
+  "Lugol": "Lu gôn",
+  "µg/kg": "micrôgam mỗi kilôgam",
+  "mg/dL": "miligam mỗi đêxilít",
+  "BWPS": "thang Bớt Oa tốp xki",
+  "SSKI": "ét ét ca i",
+  "ECMO": "ếch mô",
+  "SOFA": "sô pha",
+  "NYHA": "en uy hát a",
+  "TS1": "tê ét một",
+  "TS2": "tê ét hai",
+  "FT3": "ép tê ba",
+  "FT4": "ép tê bốn",
+  "TSH": "tê ét hát",
+  "PTU": "pê tê u",
+  "MMI": "em em i",
+  "CBZ": "xê bê dét",
+  "ETA": "e tê a",
+  "ATA": "a tê a",
+  "°C": "độ xê"
+ },
+ "brand": {
+  "next": "Phần 2: Điều trị, theo dõi và xử trí kháng trị"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "thyroid",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 1/2",
+   "title": "Cơn bão giáp<br>nhận diện và chẩn đoán",
+   "subtitle": "Đồng thuận ETA · BTA · SfE · WEDS 2026",
+   "badges": [
+    {
+     "t": "Chẩn đoán lâm sàng",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Burch–Wartofsky · JTA/JES",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Bẫy ở hồi sức",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "note": "Đồng thuận chuyên gia · không phân mức bằng chứng GRADE",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online. Loạt bài hai phần này trình bày tuyên bố đồng thuận năm 2026 về xử trí cơn bão giáp, do Hội Tuyến giáp châu Âu, Hội Tuyến giáp Anh, Hội Nội tiết học và Hội Nội tiết – Đái tháo đường xứ Wales cùng xây dựng.",
+    "Thông điệp đầu tiên: cơn bão giáp là một chẩn đoán lâm sàng. Không có ngưỡng hormone tuyến giáp nào tách được cơn bão giáp khỏi nhiễm độc giáp nặng.",
+    "Phần một tập trung vào nhận diện: ai dễ vào cơn, biểu hiện gợi ý, hai thang điểm Burch–Wartofsky và tiêu chuẩn của Nhật Bản, cùng những bẫy chẩn đoán ở khoa hồi sức.",
+    "Cần lưu ý, đây là đồng thuận chuyên gia. Vì bệnh hiếm và dữ liệu chủ yếu là quan sát, nhóm tác giả không phân mức bằng chứng theo GRADE; các khuyến cáo là sự kết hợp giữa bằng chứng hiện có và kinh nghiệm lâm sàng."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "stats",
+   "chapter": "Gánh nặng bệnh",
+   "title": "Hiếm gặp nhưng tử vong cao",
+   "ref": "Mục Giới thiệu · tài liệu 1, 7",
+   "tiles": [
+    {
+     "tag": "NHẬP VIỆN",
+     "v": 16,
+     "pre": "10–",
+     "suf": "%",
+     "l": "số ca nhập viện vì nhiễm độc giáp nặng là cơn bão giáp",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "TỬ VONG",
+     "v": 30,
+     "pre": "8–",
+     "suf": "%+",
+     "l": "tử vong trong các loạt ca đã công bố",
+     "d": "Từ khoảng 8% đến hơn 30%, tuỳ định nghĩa ca và độ nặng",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "HỒI SỨC · PHÁP",
+     "v": 17,
+     "suf": "%",
+     "l": "tử vong tại hồi sức · 22% sau 6 tháng",
+     "d": "92 bệnh nhân cơn bão giáp chắc chắn",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "note": {
+    "t": "Sốc tim trong 48 giờ đầu ở hồi sức: yếu tố độc lập liên quan tử vong, <b>tỉ số chênh 9,43</b> · điểm SOFA ngoài tim mạch cao cũng liên quan tử vong",
+    "at": 3,
+    "c": "coral"
+   },
+   "lines": [
+    "Cơn bão giáp hiếm gặp, và khó ước tính chính xác tần suất vì tiêu chuẩn chẩn đoán còn khác nhau. Tuy vậy, trong số người nhập viện vì nhiễm độc giáp nặng, cơn bão giáp chiếm khoảng 10 đến 16%.",
+    "Tử vong được báo cáo dao động từ khoảng 8% đến hơn 30%, tuỳ định nghĩa ca bệnh và độ nặng.",
+    "Trong một nghiên cứu đa trung tâm tại các khoa hồi sức ở Pháp gồm 92 bệnh nhân cơn bão giáp chắc chắn, tử vong tại hồi sức là 17%, và sau 6 tháng là 22%.",
+    "Điều quan trọng nhất với người làm hồi sức: sốc tim trong 48 giờ đầu nhập hồi sức là yếu tố độc lập liên quan tử vong, với tỉ số chênh 9,43. Mức độ rối loạn chức năng các cơ quan ngoài tim mạch theo điểm SOFA cũng liên quan tử vong. Các nghiên cứu khác ghi nhận thêm tuổi cao, thở máy, lọc máu và bệnh tim có sẵn là yếu tố tiên lượng xấu."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "cards",
+   "chapter": "Nguyên nhân · yếu tố thúc đẩy",
+   "title": "Ai dễ vào cơn bão giáp?",
+   "ref": "Mục Giới thiệu · tài liệu 2, 3",
+   "cards": [
+    {
+     "tag": "BỆNH NỀN",
+     "t": "Basedow là nhiều nhất",
+     "items": [
+      "Bướu đa nhân độc",
+      "Viêm giáp phá huỷ: ít gặp hơn"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "NGƯỜI BỆNH",
+     "t": "Yếu tố nguy cơ",
+     "items": [
+      "Tuổi cao",
+      "Cường giáp lâu năm hoặc kiểm soát kém",
+      "Không tuân thủ thuốc kháng giáp"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "THÚC ĐẨY",
+     "t": "Biến cố khởi phát",
+     "items": [
+      "Nhiễm trùng · phẫu thuật · chấn thương",
+      "Nhồi máu cơ tim · đột quỵ · sinh nở",
+      "Nhiễm toan ceton đái tháo đường",
+      "Thuốc cản quang có iod"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Về nguyên nhân nền, bệnh Basedow là nguyên nhân được báo cáo nhiều nhất trong các loạt ca và sổ bộ, tiếp theo là bướu đa nhân độc, và ít gặp hơn là viêm giáp phá huỷ.",
+    "Về phía người bệnh, các yếu tố nguy cơ gồm tuổi cao, cường giáp kéo dài hoặc kiểm soát kém, và không tuân thủ thuốc kháng giáp.",
+    "Và rất thường có một biến cố thúc đẩy: nhiễm trùng, phẫu thuật, chấn thương, nhồi máu cơ tim, đột quỵ, sinh nở, nhiễm toan ceton đái tháo đường, hoặc dùng thuốc cản quang có iod. Từ nhiễm độc giáp nặng, bệnh nhân có thể chuyển sang cơn bão rất nhanh khi gặp các stress này, nên phải nhận ra sớm dấu hiệu xấu đi để điều trị tích cực ngay."
+   ]
+  },
+  {
+   "id": "s3b",
+   "layout": "media",
+   "chapter": "Hình ảnh minh hoạ · bệnh nền",
+   "title": "Basedow: bướu giáp lan toả và lồi mắt",
+   "ref": "Hình ảnh minh hoạ · kiến thức bổ sung",
+   "notes_w": 440,
+   "panels": [
+    {
+     "src": "../../media/tg2026/raw/exo_goitre.jpg",
+     "ar": 0.774,
+     "flex": 0.8,
+     "at": 0,
+     "cap": "Bướu giáp kèm lồi mắt (ảnh tư liệu)",
+     "credit": "Ảnh: Wellcome Collection · CC BY 4.0 · Wikimedia Commons"
+    },
+    {
+     "src": "../../media/tg2026/raw/scinti5.jpg",
+     "ar": 1.361,
+     "flex": 1.35,
+     "at": 2,
+     "cap": "Xạ hình tuyến giáp trong 5 bệnh cảnh (A: bình thường)",
+     "credit": "Ảnh: Petros Perros · CC BY-SA 3.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 89.8,
+       "y": 33,
+       "r": 10.5,
+       "c": "coral",
+       "at": 2,
+       "t": "B · Basedow",
+       "lx": 89,
+       "ly": 51
+      },
+      {
+       "type": "circle",
+       "x": 68,
+       "y": 51,
+       "r": 10.5,
+       "c": "amber",
+       "at": "L2+4",
+       "t": "C · bướu đa nhân độc",
+       "lx": 40,
+       "ly": 51
+      },
+      {
+       "type": "circle",
+       "x": 68,
+       "y": 82,
+       "r": 10.5,
+       "c": "teal",
+       "at": 4,
+       "t": "E · viêm giáp",
+       "lx": 44,
+       "ly": 82
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "KHÁM",
+     "t": "Bướu giáp, lồi mắt",
+     "d": "Gợi ý bệnh tuyến giáp nền khi chưa có xét nghiệm",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "TĂNG TỔNG HỢP",
+     "t": "Basedow · bướu đa nhân độc",
+     "d": "Xạ hình bắt xạ tăng",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "PHÁ HUỶ",
+     "t": "Viêm giáp",
+     "d": "Bắt xạ thấp · hormone có sẵn bị phóng thích",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Đây là hình ảnh tư liệu của một người bệnh có bướu giáp kèm lồi mắt, bệnh cảnh điển hình của bệnh Basedow.",
+    "Trên lâm sàng, bướu giáp, lồi mắt và tiền sử bệnh tuyến giáp là manh mối quan trọng, nhất là khi chưa có kết quả xét nghiệm. Tiêu chuẩn Nhật Bản mà chúng ta sẽ gặp ngay sau đây cũng dùng chính các dấu hiệu này.",
+    "Hình bên phải là xạ hình tuyến giáp của năm bệnh cảnh khác nhau. Hình B là Basedow: hai thuỳ bắt xạ tăng lan toả. Hình C là bướu đa nhân độc với nhiều nhân nóng.",
+    "Cả hai đều là cường giáp do tăng tổng hợp hormone, và như phần hai sẽ trình bày, đây chính là nhóm mà điều trị bằng iod có hiệu quả.",
+    "Ngược lại, hình E là viêm giáp: tuyến hầu như không bắt xạ, vì nhiễm độc giáp do hormone có sẵn bị phóng thích ra chứ không do tổng hợp mới."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "list",
+   "chapter": "Biểu hiện lâm sàng",
+   "title": "Những dấu hiệu chủ chốt",
+   "ref": "Mục Giới thiệu · tài liệu 3–5, 14",
+   "items": [
+    {
+     "t": "Sốt, thường trên 38,5 °C",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Nhịp nhanh <em>không tương xứng</em> với mức sốt",
+     "d": "Loạn nhịp, đặc biệt rung nhĩ",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Suy tim mất bù, phù phổi",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Rối loạn tri giác",
+     "d": "Kích động, mê sảng, loạn thần, hôn mê",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Rối loạn tiêu hoá – gan",
+     "d": "Nôn, tiêu chảy, đau bụng, vàng da",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Đông máu nội mạch lan toả",
+     "d": "Nghĩ đến khi chảy máu, bầm tím, rối loạn đông máu không giải thích được",
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Những dấu hiệu chủ chốt gợi ý cơn bão giáp gồm, trước hết, sốt, thường trên 38,5 độ.",
+    "Thứ hai là nhịp tim nhanh không tương xứng với mức sốt, cùng các rối loạn nhịp, đặc biệt là rung nhĩ.",
+    "Thứ ba là suy tim mất bù và phù phổi.",
+    "Tiếp theo là rối loạn tri giác, từ kích động đến mê sảng, loạn thần, hôn mê, và rối loạn tiêu hoá – gan như nôn, tiêu chảy, đau bụng, vàng da.",
+    "Ngoài ra, đông máu nội mạch lan toả ngày càng được ghi nhận là biến chứng nặng; hãy nghĩ đến nó khi bệnh nhân chảy máu, bầm tím, hoặc rối loạn đông máu không giải thích được. Đồng thuận cũng nhắc rằng người nghèo và người không có bảo hiểm y tế có tỉ lệ nhập viện vì cơn bão giáp cao hơn rõ rệt, nên cần cảnh giác với khả năng đến muộn và bị bỏ sót."
+   ]
+  },
+  {
+   "id": "s4b",
+   "layout": "media",
+   "chapter": "Điện tâm đồ · hình ảnh thực tế",
+   "title": "Rung nhĩ đáp ứng thất nhanh",
+   "ref": "Hình ảnh minh hoạ · kiến thức bổ sung",
+   "notes_w": 470,
+   "panels": [
+    {
+     "src": "../../media/tg2026/raw/af_rvr.png",
+     "ar": 1.835,
+     "at": 0,
+     "cap": "Rung nhĩ đáp ứng thất nhanh, có dẫn truyền lệch hướng",
+     "credit": "Ảnh: Jer5150 · CC BY-SA 3.0 · Wikimedia Commons",
+     "zoom": {
+      "x": 30,
+      "y": 50,
+      "s": 1.5,
+      "at": 1,
+      "out": "L3"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐIỆN TÂM ĐỒ",
+     "t": "RR hoàn toàn không đều, không có sóng P",
+     "d": "Tần số thất rất nhanh",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "KHÁNG ĐÔNG",
+     "t": "Theo CHA₂DS₂-VASc và nguy cơ chảy máu",
+     "d": "Như rung nhĩ thông thường",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "TIÊN LƯỢNG",
+     "t": "Nhiều ca về nhịp xoang",
+     "d": "khi bình giáp trở lại",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Rung nhĩ là rối loạn nhịp thường gặp trong cơn bão giáp. Đây là một điện tâm đồ rung nhĩ đáp ứng thất nhanh.",
+    "Khoảng RR hoàn toàn không đều, không thấy sóng P, tần số thất rất nhanh; một số nhát dẫn truyền lệch hướng làm phức bộ giãn rộng.",
+    "Theo đồng thuận, quyết định kháng đông cho rung nhĩ trong cơn bão giáp tuân theo phân tầng nguy cơ đột quỵ chuẩn, như thang CHA₂DS₂-VASc, cân nhắc với nguy cơ chảy máu.",
+    "Cũng cần nhớ nhiều bệnh nhân tự về nhịp xoang khi tình trạng bình giáp được phục hồi. Chi tiết kiểm soát tần số bằng chẹn beta sẽ được trình bày ở phần hai."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "flow",
+   "chapter": "Cơ chế bệnh sinh",
+   "title": "Vì sao cùng mức hormone, người này vào cơn?",
+   "ref": "Mục Giới thiệu · tài liệu 2, 4, 6",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Nhiễm độc giáp nặng",
+     "d": "FT3, FT4 tương tự nhóm không vào cơn",
+     "x": 230,
+     "y": 360,
+     "w": 380,
+     "h": 150,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Tăng nhạy catecholamine",
+     "d": "tại mô",
+     "x": 860,
+     "y": 150,
+     "w": 440,
+     "h": 110,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Hoạt hoá cytokine viêm",
+     "x": 860,
+     "y": 290,
+     "w": 440,
+     "h": 100,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Ưu thế tác dụng T3 tại mô",
+     "x": 860,
+     "y": 430,
+     "w": 440,
+     "h": 100,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "e",
+     "t": "Thay đổi gắn kết, hấp thu hormone",
+     "d": "vào tế bào",
+     "x": 860,
+     "y": 580,
+     "w": 440,
+     "h": 120,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "f",
+     "t": "Tăng chuyển hoá",
+     "d": "→ rối loạn chức năng đa cơ quan",
+     "x": 1530,
+     "y": 360,
+     "w": 420,
+     "h": 160,
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "id": "g",
+     "t": "Biến cố thúc đẩy",
+     "d": "nhiễm trùng, phẫu thuật…",
+     "x": 230,
+     "y": 590,
+     "w": 380,
+     "h": 110,
+     "c": "violet",
+     "at": 0
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "c",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "d",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "e",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "g",
+     "b": "a",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "f",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "f",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "a": "d",
+     "b": "f",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "a": "e",
+     "b": "f",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "Không có xét nghiệm hay ngưỡng hormone nào phân biệt cơn bão giáp với nhiễm độc giáp nặng chưa biến chứng",
+    "at": 3,
+    "c": "coral",
+    "y": 0
+   },
+   "lines": [
+    "Cơ chế bệnh sinh của cơn bão giáp chưa được hiểu đầy đủ. Điều nghịch lý là nồng độ hormone tuyến giáp trong máu thường tương tự ở người nhiễm độc giáp nặng nhưng chưa biến chứng, hai nhóm chồng lấp nhau rất nhiều về sinh hoá.",
+    "Các cơ chế được đề xuất gồm: mô tăng đáp ứng với catecholamine, hoạt hoá các con đường cytokine viêm, ưu thế tương đối của tác dụng T3 tại mô, và có thể có thay đổi về gắn kết cũng như hấp thu hormone vào tế bào.",
+    "Các yếu tố này tương tác với nhau, tạo ra trạng thái tăng chuyển hoá với rối loạn chức năng đa cơ quan.",
+    "Hệ quả thực hành rất rõ: không có nồng độ hormone hay xét nghiệm đặc hiệu nào tách được cơn bão giáp khỏi nhiễm độc giáp nặng. Chẩn đoán phải dựa vào lâm sàng."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "compare",
+   "chapter": "Thang Burch–Wartofsky · Bảng 1",
+   "title": "Burch–Wartofsky (1): nhiệt độ, thần kinh, tiêu hoá",
+   "ref": "Bảng 1",
+   "head": [
+    "Tiêu chí",
+    "Mức độ → điểm",
+    "Ghi chú"
+   ],
+   "widths": "0.9fr 2.1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Nhiệt độ</b>",
+      "38–38,5 °C: <b>5</b> · 38,6–39: <b>10</b> · 39,1–39,5: <b>15</b> · 39,6–40: <b>20</b> · 40,1–40,6: <b>25</b> · > 40,6: <b>30</b>",
+      "Mỗi bậc khoảng 0,5 °C thêm 5 điểm"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Thần kinh trung ương</b>",
+      "Không: 0 · nhẹ (kích động): <b>10</b> · vừa (mê sảng, loạn thần, li bì nặng): <b>20</b> · nặng (co giật, hôn mê): <b>30</b>",
+      "Tối đa 30 điểm"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Tiêu hoá – gan</b>",
+      "Không: 0 · vừa (tiêu chảy, đau bụng, buồn nôn, nôn): <b>10</b> · nặng (vàng da): <b>20</b>",
+      "Tối đa 20 điểm"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bây giờ chúng ta đi vào hai công cụ hỗ trợ chẩn đoán. Thứ nhất là thang điểm Burch–Wartofsky, công bố năm 1993, cho điểm theo bốn nhóm biểu hiện, bắt đầu với nhiệt độ: từ 38 đến 38,5 độ được 5 điểm, và cứ mỗi bậc khoảng nửa độ cộng thêm 5 điểm, đến trên 40,6 độ được 30 điểm.",
+    "Rối loạn thần kinh trung ương: không có là 0; nhẹ, tức kích động, 10 điểm; vừa, gồm mê sảng, loạn thần hay li bì nặng, 20 điểm; nặng, gồm co giật hoặc hôn mê, 30 điểm.",
+    "Rối loạn tiêu hoá – gan: mức vừa, gồm tiêu chảy, đau bụng, buồn nôn hoặc nôn, được 10 điểm; mức nặng, tức vàng da, được 20 điểm."
+   ]
+  },
+  {
+   "id": "s6b",
+   "layout": "compare",
+   "chapter": "Thang Burch–Wartofsky · Bảng 1",
+   "title": "Burch–Wartofsky (2): tim mạch và yếu tố thúc đẩy",
+   "ref": "Bảng 1",
+   "head": [
+    "Tiêu chí",
+    "Mức độ → điểm",
+    "Ghi chú"
+   ],
+   "widths": "0.9fr 2.1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Nhịp tim</b> (lần/phút)",
+      "< 90: 0 · 90–109: <b>5</b> · 110–119: <b>10</b> · 120–129: <b>15</b> · 130–139: <b>20</b> · ≥ 140: <b>25</b>",
+      "Tối đa 25 điểm"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Suy tim sung huyết</b>",
+      "Không: 0 · nhẹ (phù chân): <b>5</b> · vừa (ran đáy phổi): <b>10</b> · nặng (phù phổi): <b>15</b>",
+      "Tối đa 15 điểm"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Rung nhĩ</b>",
+      "Không: 0 · có: <b>10</b>",
+      ""
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Biến cố thúc đẩy</b>",
+      "Không: 0 · có: <b>10</b>",
+      "Nhiễm trùng, chấn thương, phẫu thuật, sinh, nhiễm toan ceton, nhồi máu, đột quỵ, iod phóng xạ (hiếm), thuốc cản quang"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Nhóm tim mạch gồm ba tiêu chí. Nhịp tim dưới 90 được 0 điểm, từ 90 đến 109 được 5 điểm, và cứ mỗi bậc 10 nhịp cộng thêm 5 điểm, đến từ 140 trở lên là 25 điểm.",
+    "Suy tim sung huyết: nhẹ, tức phù chân, 5 điểm; vừa, có ran đáy phổi, 10 điểm; nặng, phù phổi, 15 điểm.",
+    "Rung nhĩ có mặt được 10 điểm.",
+    "Cuối cùng, có biến cố thúc đẩy ở người cường giáp chưa điều trị hoặc điều trị chưa phù hợp được 10 điểm. Biến cố thúc đẩy gồm nhiễm trùng cấp, chấn thương, phẫu thuật, sinh nở, nhiễm toan ceton, nhồi máu cơ tim, đột quỵ hoặc cơn thiếu máu não thoáng qua, hiếm khi là điều trị iod phóng xạ, và dùng thuốc cản quang có iod."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "gauge",
+   "chapter": "Cộng điểm · ngưỡng",
+   "title": "Cộng điểm Burch–Wartofsky: một ví dụ",
+   "ref": "Bảng 1 · ví dụ minh hoạ",
+   "max": 140,
+   "zones": [
+    {
+     "to": 25,
+     "t": "< 25: khó là bão giáp",
+     "c": "green"
+    },
+    {
+     "to": 45,
+     "t": "25–44: dọa bão giáp",
+     "c": "amber"
+    },
+    {
+     "to": 140,
+     "t": "≥ 45: rất gợi ý cơn bão giáp",
+     "c": "coral"
+    }
+   ],
+   "parts": [
+    {
+     "t": "Sốt 39,4 °C",
+     "v": 15,
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Mê sảng",
+     "v": 20,
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Tiêu chảy, nôn",
+     "v": 10,
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Mạch 142",
+     "v": 25,
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Ran đáy phổi",
+     "v": 10,
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Rung nhĩ",
+     "v": 10,
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Viêm phổi",
+     "v": 10,
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "verdict": "Rất gợi ý cơn bão giáp → điều trị nhanh, tích cực, đặc hiệu và hỗ trợ",
+   "verdict_at": 4,
+   "lines": [
+    "Hãy cộng điểm cho một ví dụ minh hoạ. Ngưỡng của thang là: dưới 25 điểm, khó là cơn bão giáp; từ 25 đến 44 điểm, gợi ý cơn bão đang đe doạ; từ 45 điểm trở lên, rất gợi ý cơn bão giáp.",
+    "Người bệnh có Basedow, bỏ thuốc, nay sốt 39,4 độ được 15 điểm, mê sảng được 20 điểm.",
+    "Tiêu chảy và nôn được 10 điểm, mạch 142 được 25 điểm.",
+    "Ran đáy phổi 10 điểm, rung nhĩ 10 điểm, và yếu tố thúc đẩy là viêm phổi thêm 10 điểm.",
+    "Tổng cộng 100 điểm trên tối đa 140, vượt xa ngưỡng 45. Theo bảng gốc, mức này đòi hỏi điều trị nhanh, tích cực, đặc hiệu và hỗ trợ. Với vùng 25 đến 44 điểm, đồng thuận khuyên quyết định có bắt đầu điều trị tích cực như cơn bão giáp hay không nên do bác sĩ giàu kinh nghiệm hoặc bác sĩ hồi sức đưa ra, phối hợp với bác sĩ nội tiết."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "flow",
+   "chapter": "Tiêu chuẩn Nhật Bản · Bảng 2",
+   "title": "Tiêu chuẩn JTA/JES: TS1 và TS2",
+   "ref": "Bảng 2 · Hiệp hội Tuyến giáp và Hội Nội tiết Nhật Bản",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Nhiễm độc giáp",
+     "d": "FT3 và/hoặc FT4 tăng · điều kiện bắt buộc",
+     "x": 230,
+     "y": 346,
+     "w": 400,
+     "h": 160,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "≥ 1 biểu hiện thần kinh",
+     "d": "+ ≥ 1 biểu hiện khác",
+     "x": 860,
+     "y": 110,
+     "w": 440,
+     "h": 130,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "c",
+     "t": "≥ 3 trong 4",
+     "d": "sốt · nhịp nhanh · suy tim · tiêu hoá – gan",
+     "x": 860,
+     "y": 346,
+     "w": 440,
+     "h": 130,
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "id": "d",
+     "t": "2 trong 4",
+     "d": "sốt · nhịp nhanh · suy tim · tiêu hoá – gan",
+     "x": 860,
+     "y": 582,
+     "w": 440,
+     "h": 130,
+     "c": "teal",
+     "at": 4
+    },
+    {
+     "id": "e",
+     "t": "TS1 · chắc chắn",
+     "x": 1530,
+     "y": 228,
+     "w": 380,
+     "h": 120,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "f",
+     "t": "TS2 · nghi ngờ",
+     "d": "hoặc đủ TS1 nhưng chưa có xét nghiệm: tiền sử bệnh giáp, bướu giáp, lồi mắt",
+     "x": 1530,
+     "y": 560,
+     "w": 420,
+     "h": 190,
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "a",
+     "b": "c",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "a": "a",
+     "b": "d",
+     "c": "teal",
+     "at": 4
+    },
+    {
+     "a": "b",
+     "b": "e",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "e",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "a": "d",
+     "b": "f",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Công cụ thứ hai là tiêu chuẩn của Hiệp hội Tuyến giáp và Hội Nội tiết Nhật Bản, xây dựng từ dữ liệu sổ bộ toàn quốc năm 2012 và sửa đổi năm 2016. Khác với thang Burch–Wartofsky, điều kiện bắt buộc là có bằng chứng sinh hoá của nhiễm độc giáp: FT3 và, hoặc FT4 tăng.",
+    "Năm nhóm biểu hiện được dùng: thần kinh trung ương như bồn chồn, mê sảng, loạn thần, li bì, hôn mê; sốt từ 38 độ; nhịp nhanh từ 130 lần mỗi phút; suy tim như phù phổi, ran, sốc tim hoặc độ IV theo Hội Tim mạch New York; và tiêu hoá – gan như nôn, tiêu chảy hoặc bilirubin toàn phần từ 3 miligam mỗi đêxilít.",
+    "Chẩn đoán cơn bão giáp chắc chắn, gọi là TS1, khi có ít nhất một biểu hiện thần kinh cộng thêm ít nhất một biểu hiện khác,",
+    "hoặc khi có ít nhất ba trong bốn biểu hiện sốt, nhịp nhanh, suy tim và tiêu hoá – gan.",
+    "Cơn bão giáp nghi ngờ, TS2, khi có hai trong bốn biểu hiện này; hoặc khi người bệnh có tiền sử bệnh tuyến giáp, bướu giáp, lồi mắt và đủ tiêu chí TS1 nhưng chưa có kết quả xét nghiệm chức năng tuyến giáp."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "compare",
+   "chapter": "So sánh hai công cụ · Bảng 3",
+   "title": "Burch–Wartofsky hay JTA/JES?",
+   "ref": "Bảng 3",
+   "head": [
+    "Đặc điểm",
+    "Burch–Wartofsky",
+    "JTA/JES"
+   ],
+   "widths": "0.8fr 1.4fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Cơ sở",
+      "Ý kiến chuyên gia, thang điểm số (1993)",
+      "Sổ bộ toàn quốc (2012, sửa đổi 2016)"
+     ],
+     "at": 0
+    },
+    {
+     "cells": [
+      "Cần xét nghiệm?",
+      "<b>Không</b>",
+      "<b>Có</b>: FT3 và/hoặc FT4 tăng"
+     ],
+     "at": 0
+    },
+    {
+     "cells": [
+      "Cấu trúc · ngưỡng",
+      "Cộng điểm có trọng số · ≥ 45 rất gợi ý, 25–44 ủng hộ",
+      "Tổ hợp biểu hiện · chắc chắn (TS1) hoặc nghi ngờ (TS2)"
+     ],
+     "at": 1
+    },
+    {
+     "cells": [
+      "Điểm mạnh",
+      "Linh hoạt, có thể ưu tiên độ nhạy",
+      "Có cấu trúc, có thể ưu tiên độ đặc hiệu"
+     ],
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "Hạn chế",
+      "Trọng số chủ quan · sốt và nhịp nhanh giảm độ đặc hiệu ở hồi sức, nhiễm khuẩn huyết",
+      "Cứng nhắc · có thể bỏ sót ca sớm hoặc đang tiến triển"
+     ],
+     "at": 3,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "Vai trò",
+      "Hỗ trợ cho nhận định lâm sàng",
+      "Hỗ trợ cho nhận định lâm sàng"
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bảng ba so sánh hai công cụ. Thang Burch–Wartofsky dựa trên ý kiến chuyên gia, không cần xét nghiệm; tiêu chuẩn Nhật Bản xây dựng từ sổ bộ toàn quốc và bắt buộc có nhiễm độc giáp trên xét nghiệm.",
+    "Burch–Wartofsky cộng điểm có trọng số với ngưỡng 45 và 25; tiêu chuẩn Nhật Bản dùng tổ hợp biểu hiện để chia chắc chắn và nghi ngờ.",
+    "Điểm mạnh: Burch–Wartofsky linh hoạt, thiên về độ nhạy; tiêu chuẩn Nhật Bản có cấu trúc, thiên về độ đặc hiệu. Cả hai đều liên quan với tử vong và thời gian nằm hồi sức, nằm viện.",
+    "Hạn chế: Burch–Wartofsky dồn trọng số nặng vào sốt và nhịp nhanh, nên dễ chẩn đoán quá mức ở hồi sức, khi người bệnh có nhiễm khuẩn huyết hay sốc tim vì nguyên nhân khác. Tiêu chuẩn Nhật Bản thì cứng nhắc, có thể bỏ sót các ca sớm hoặc chưa đầy đủ biểu hiện.",
+    "Và điều quan trọng: chưa công cụ nào được thẩm định so với một tiêu chuẩn vàng, dữ liệu về độ nhạy, độ đặc hiệu còn hạn chế. Cả hai chỉ là công cụ hỗ trợ cho nhận định lâm sàng."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "box",
+   "chapter": "Bẫy chẩn đoán",
+   "title": "Hai bẫy: chẩn đoán quá mức và bỏ sót",
+   "ref": "Mục Nhận diện và chẩn đoán · tài liệu 10",
+   "box": {
+    "tag": "NGUYÊN TẮC",
+    "t": "Thang điểm là <b>công cụ hỗ trợ có cấu trúc</b>, không phải công cụ chẩn đoán quyết định. Trung tâm vẫn là nhận định lâm sàng, <em>diễn tiến xấu đi</em> và <em>đáp ứng với điều trị</em>.",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "BẪY 1 · HỒI SỨC",
+     "t": "Bệnh nặng không do tuyến giáp kèm cường giáp sinh hoá tình cờ → dễ chẩn đoán quá mức",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "BẪY 2 · NGƯỜI CAO TUỔI",
+     "t": "Cường giáp vô cảm: nhịp nhanh mờ nhạt, ít kích động, triệu chứng mơ hồ → làm xét nghiệm tuyến giáp dù bệnh cảnh không điển hình",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Từ những hạn chế đó, đồng thuận nhấn mạnh: thang điểm chẩn đoán nên được xem là công cụ hỗ trợ có cấu trúc, không phải công cụ chẩn đoán quyết định. Trung tâm của chẩn đoán vẫn là nhận định lâm sàng, diễn tiến xấu đi và đáp ứng với điều trị.",
+    "Bẫy thứ nhất gặp ở hồi sức: người bệnh nặng vì nguyên nhân không phải tuyến giáp, tình cờ có cường giáp trên xét nghiệm. Cần thận trọng để không chẩn đoán quá mức cơn bão giáp.",
+    "Bẫy thứ hai theo chiều ngược lại: người cao tuổi có thể vào cơn bão giáp một cách không điển hình, gọi là cường giáp vô cảm, với nhịp nhanh mờ nhạt, ít kích động, triệu chứng mơ hồ. Cần nghi ngờ cao và cân nhắc xét nghiệm chức năng tuyến giáp ngay cả khi bệnh cảnh không kinh điển."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "compare",
+   "chapter": "Chẩn đoán phân biệt · Box 1",
+   "title": "Chẩn đoán phân biệt",
+   "ref": "Box 1",
+   "head": [
+    "Bệnh cảnh",
+    "Điểm gợi ý",
+    ""
+   ],
+   "widths": "1fr 2.4fr 0.01fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Nhiễm độc giáp nặng chưa biến chứng</b>",
+      "Cường giáp sinh hoá rõ nhưng <b>không</b> rối loạn thần kinh trung ương đáng kể hay suy đa cơ quan",
+      ""
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Nhiễm khuẩn huyết</b>",
+      "Sốt, nhịp nhanh, đáp ứng viêm toàn thân với <b>ổ nhiễm khuẩn xác định</b>, dấu ấn viêm tăng",
+      ""
+     ],
+     "at": 1,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Viêm não, viêm màng não</b>",
+      "Rối loạn ý thức kèm dấu màng não, dấu thần kinh khu trú hoặc dịch não tuỷ bất thường",
+      ""
+     ],
+     "at": 2
+    },
+    {
+     "cells": [
+      "<b>Bệnh não do tăng huyết áp</b>",
+      "Tăng huyết áp nặng kèm đau đầu, lú lẫn, rối loạn thị giác, không có nhiễm độc giáp sinh hoá",
+      ""
+     ],
+     "at": 2
+    },
+    {
+     "cells": [
+      "<b>Sốc nhiệt</b>",
+      "Tăng thân nhiệt sau phơi nhiễm môi trường hoặc gắng sức, thường mất tiết mồ hôi",
+      ""
+     ],
+     "at": 3
+    },
+    {
+     "cells": [
+      "<b>Ngộ độc thuốc cường giao cảm</b>",
+      "Cocaine, amphetamine: kích động nặng, tăng huyết áp, nhịp nhanh, có tiền sử dùng chất",
+      ""
+     ],
+     "at": 3
+    },
+    {
+     "cells": [
+      "<b>Hội chứng an thần kinh ác tính</b>",
+      "Mới dùng thuốc đối kháng dopamine, cứng cơ kiểu ống chì, CK tăng",
+      ""
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Box một liệt kê các chẩn đoán phân biệt chính. Gần nhất là nhiễm độc giáp nặng chưa biến chứng: cường giáp sinh hoá rõ, nhưng không có rối loạn thần kinh trung ương đáng kể hay suy đa cơ quan.",
+    "Nhiễm khuẩn huyết cũng có sốt, nhịp nhanh và đáp ứng viêm toàn thân, nhưng có ổ nhiễm khuẩn xác định và dấu ấn viêm tăng. Lưu ý là nhiễm trùng cũng chính là yếu tố thúc đẩy hay gặp nhất, nên hai bệnh cảnh có thể cùng tồn tại.",
+    "Viêm não, viêm màng não có dấu màng não, dấu thần kinh khu trú hoặc dịch não tuỷ bất thường. Bệnh não do tăng huyết áp có tăng huyết áp nặng với đau đầu, lú lẫn, rối loạn thị giác, mà không có nhiễm độc giáp sinh hoá.",
+    "Sốc nhiệt xảy ra sau phơi nhiễm nóng hoặc gắng sức, thường mất tiết mồ hôi. Ngộ độc thuốc cường giao cảm như cocaine hay amphetamine gây kích động nặng, tăng huyết áp, nhịp nhanh, kèm tiền sử dùng chất.",
+    "Và hội chứng an thần kinh ác tính: mới dùng thuốc đối kháng dopamine, cứng cơ toàn thân kiểu ống chì, men CK tăng."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "list",
+   "chapter": "Nơi điều trị",
+   "title": "Khi nào cần nhập hồi sức?",
+   "ref": "Mục Điều trị · tiêu chí gợi ý nhập hồi sức",
+   "items": [
+    {
+     "t": "Huyết động không ổn định",
+     "d": "Cần vận mạch hoặc theo dõi xâm lấn",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Rối loạn ý thức, lơ mơ, hôn mê",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Suy hô hấp cần hỗ trợ thông khí",
+     "d": "Không xâm lấn hoặc xâm lấn",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Suy tim cấp, sốc tim, loạn nhịp kéo dài có ý nghĩa",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Bằng chứng rối loạn chức năng đa cơ quan",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "t": "Xấu đi nhanh dù đã điều trị ban đầu",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Đồng thuận khuyến cáo xử trí cơn bão giáp tại đơn vị chăm sóc tích cực hoặc hồi sức. Các tiêu chí gợi ý nhập hồi sức gồm:",
+    "huyết động không ổn định cần vận mạch hoặc theo dõi xâm lấn, và rối loạn ý thức, lơ mơ hoặc hôn mê;",
+    "suy hô hấp cần hỗ trợ thông khí không xâm lấn hay xâm lấn, cùng suy tim cấp, sốc tim hoặc loạn nhịp kéo dài có ý nghĩa lâm sàng;",
+    "bằng chứng rối loạn chức năng đa cơ quan, và xấu đi nhanh dù đã điều trị ban đầu. Đồng thuận cũng khuyên mời chuyên gia hồi sức từ sớm, đồng thời báo cho phẫu thuật viên biết để chuẩn bị nếu cần cắt tuyến giáp cấp cứu."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: cộng điểm và quyết định",
+   "ref": "Bảng 1 · Mục Nhận diện và chẩn đoán",
+   "case": "Nữ 38 tuổi, Basedow, tự ngưng thuốc 2 tháng. Viêm đường tiết niệu 3 ngày. Nay nhiệt độ 39,8 °C, mạch 138 đều, kích động, tiêu chảy nhiều lần, không phù, phổi không ran. Chưa có kết quả FT4.",
+   "q": "Điểm Burch–Wartofsky và hướng xử trí?",
+   "options": [
+    "35 · theo dõi, chờ FT4",
+    "45 · hội chẩn nội tiết rồi quyết định",
+    "70 · điều trị tích cực ngay",
+    "Chưa chẩn đoán được khi chưa có FT4"
+   ],
+   "answer": 2,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Sốt 39,8 °C = 20 · kích động = 10 · tiêu chảy = 10 · mạch 138 = 20 · không suy tim, không rung nhĩ = 0 · nhiễm trùng thúc đẩy = 10 → <b>70 điểm</b>, vượt ngưỡng 45. Thang này không cần xét nghiệm; điều trị ngay, không chờ FT4.",
+   "lines": [
+    "Tình huống thứ nhất. Một phụ nữ 38 tuổi bị Basedow, tự ngưng thuốc hai tháng, đang viêm đường tiết niệu ba ngày. Nay sốt 39,8 độ, mạch 138 đều, kích động, tiêu chảy nhiều lần, không phù, phổi không ran. Chưa có kết quả FT4.",
+    "Điểm Burch–Wartofsky của bệnh nhân là bao nhiêu, và cần làm gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Hãy cộng lại: sốt 39,8 độ được 20 điểm, kích động 10, tiêu chảy 10, mạch 138 được 20, không suy tim và không rung nhĩ, cộng 10 điểm cho nhiễm trùng thúc đẩy. Tổng là 70 điểm, đáp án C: vượt xa ngưỡng 45, rất gợi ý cơn bão giáp.",
+    "Thang Burch–Wartofsky không đòi hỏi xét nghiệm, và cơn bão giáp là chẩn đoán lâm sàng. Không chờ kết quả FT4 mới bắt đầu điều trị; lấy máu xét nghiệm rồi điều trị tích cực ngay tại hồi sức."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: ông cụ mệt lả",
+   "ref": "Mục Nhận diện và chẩn đoán · tài liệu 10",
+   "case": "Nam 81 tuổi, 3 tuần nay mệt lả, sụt cân, ăn kém, lú lẫn từng lúc. Nhiệt độ 37,6 °C, mạch 98 không đều, điện tâm đồ rung nhĩ mới. Không kích động, không run tay.",
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "options": [
+    "Loại trừ bệnh tuyến giáp vì không sốt, mạch không nhanh",
+    "Làm xét nghiệm chức năng tuyến giáp ngay",
+    "Chẩn đoán xác định cơn bão giáp theo Burch–Wartofsky",
+    "Cho Lugol ngay để phòng cơn bão giáp"
+   ],
+   "answer": 1,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Người cao tuổi có thể bị <b>cường giáp vô cảm</b>: nhịp nhanh mờ nhạt, ít kích động, triệu chứng mơ hồ. Cần nghi ngờ cao và xét nghiệm chức năng tuyến giáp dù bệnh cảnh không điển hình. Iod không bao giờ dùng trước thuốc kháng giáp.",
+   "lines": [
+    "Tình huống thứ hai. Một ông cụ 81 tuổi, ba tuần nay mệt lả, sụt cân, ăn kém, lú lẫn từng lúc. Nhiệt độ 37,6 độ, mạch 98 không đều, điện tâm đồ có rung nhĩ mới. Không kích động, không run tay.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B: làm xét nghiệm chức năng tuyến giáp ngay. Người cao tuổi có thể vào cơn bão giáp một cách không điển hình, gọi là cường giáp vô cảm, với nhịp nhanh mờ nhạt, ít kích động và triệu chứng mơ hồ như ông cụ này. Không sốt cao, mạch không nhanh không cho phép loại trừ.",
+    "Lựa chọn D là sai nguy hiểm: như phần hai sẽ phân tích, iod chỉ được dùng sau thuốc kháng giáp ít nhất một giờ."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 1",
+   "title": "Sáu thông điệp của Phần 1",
+   "items": [
+    {
+     "t": "Chẩn đoán lâm sàng",
+     "d": "Không có ngưỡng hormone tách cơn bão giáp khỏi nhiễm độc giáp nặng",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Tử vong tới hơn 30%",
+     "d": "Sốc tim trong 48 giờ đầu: tỉ số chênh 9,43",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Burch–Wartofsky",
+     "d": "< 25 khó · 25–44 dọa · ≥ 45 rất gợi ý",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "JTA/JES",
+     "d": "Bắt buộc FT3/FT4 tăng · TS1 chắc chắn, TS2 nghi ngờ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Bẫy hồi sức và người cao tuổi",
+     "d": "Quá mức ở nhiễm khuẩn huyết · bỏ sót cường giáp vô cảm",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Nhập hồi sức sớm",
+     "d": "Mời hồi sức, báo phẫu thuật viên từ đầu",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần một với sáu thông điệp. Một, cơn bão giáp là chẩn đoán lâm sàng; không có ngưỡng hormone nào tách được nó khỏi nhiễm độc giáp nặng.",
+    "Hai, tử vong từ khoảng 8% đến hơn 30%, và sốc tim sớm là yếu tố tiên lượng mạnh nhất.",
+    "Ba và bốn, thang Burch–Wartofsky với ngưỡng 25 và 45, và tiêu chuẩn Nhật Bản đòi hỏi nhiễm độc giáp trên xét nghiệm, chia chắc chắn và nghi ngờ. Cả hai chỉ là công cụ hỗ trợ.",
+    "Năm, cẩn thận chẩn đoán quá mức ở bệnh nhân hồi sức, và đừng bỏ sót cường giáp vô cảm ở người cao tuổi.",
+    "Sáu, xử trí tại hồi sức, phối hợp đa chuyên khoa từ đầu. Phần hai sẽ đi vào điều trị: chẹn beta, thuốc kháng giáp, corticoid, iod đúng thời điểm, cách theo dõi và các biện pháp cứu vãn khi kháng trị. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

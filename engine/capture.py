@@ -7,7 +7,8 @@ FPS = 25
 
 def open_page(p, D):
     b = p.chromium.launch()
-    pg = b.new_page(viewport={'width': 1920, 'height': 1080})
+    v = json.load(open(f'{D}/timeline.json', encoding='utf-8')).get('format') == 'vertical'
+    pg = b.new_page(viewport={'width': 1080, 'height': 1920} if v else {'width': 1920, 'height': 1080})
     pg.goto(f'file://{D}/video.html?capture'); pg.evaluate('FONTS_READY'); pg.wait_for_timeout(500)
     return b, pg
 
