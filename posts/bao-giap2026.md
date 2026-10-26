@@ -139,27 +139,27 @@ Cho Lugol trước PTU: sai ở đâu? 💊 Cơn bão giáp 2026 Phần 2: đầ
 
 Mỗi video ngắn dẫn về video dài. Trên YouTube Shorts có thể gắn video liên quan là phần tương ứng.
 
-### Video ngắn 1 – Cộng điểm Burch–Wartofsky (37 giây · từ Phần 1)
+### Video ngắn 1 – Cộng điểm Burch–Wartofsky (43 giây · từ Phần 1)
 
 ```
-Sốt 39,8, mạch 138, kích động: bao nhiêu điểm? 🔥 Cộng điểm Burch–Wartofsky trong 37 giây – cơn bão giáp là chẩn đoán lâm sàng!
+Sốt 39,8, mạch 138, kích động: bao nhiêu điểm? 🔥 Cộng điểm Burch–Wartofsky trong 43 giây – cơn bão giáp là chẩn đoán lâm sàng!
 
 🎓 Trọn bài giảng Phần 1: link ở bio / bình luận ghim · [LINK_VIDEO_DAI]
 
 #baogiap #thyroidstorm #noitiet #hoisuc #capcuu #bacsi #yhoc #thuvienykhoaonline
 ```
 
-### Video ngắn 2 – Bão giáp hay nhiễm khuẩn huyết? (44 giây · từ Phần 1)
+### Video ngắn 2 – Bão giáp hay nhiễm khuẩn huyết? (49 giây · từ Phần 1)
 
 ```
-Sốt + mạch nhanh + TSH thấp = bão giáp? ⚠️ Hai bẫy ngược chiều ở hồi sức và ở người cao tuổi – 44 giây!
+Sốt + mạch nhanh + TSH thấp = bão giáp? ⚠️ Hai bẫy ngược chiều ở hồi sức và ở người cao tuổi – 49 giây!
 
 🎓 Trọn bài giảng Phần 1: link ở bio / bình luận ghim · [LINK_VIDEO_DAI]
 
 #baogiap #thyroidstorm #noitiet #hoisuc #capcuu #bacsi #yhoc #thuvienykhoaonline
 ```
 
-### Video ngắn 3 – Iod phải sau thuốc kháng giáp (45 giây · từ Phần 2)
+### Video ngắn 3 – Iod phải sau thuốc kháng giáp (52 giây · từ Phần 2)
 
 ```
 PTU lúc 8:00 – sớm nhất mấy giờ được cho Lugol? ⏱️ Thử trả lời trong 5 giây! Cơn bão giáp 2026
@@ -169,7 +169,7 @@ PTU lúc 8:00 – sớm nhất mấy giờ được cho Lugol? ⏱️ Thử tr�
 #baogiap #thyroidstorm #noitiet #hoisuc #capcuu #bacsi #yhoc #thuvienykhoaonline
 ```
 
-### Video ngắn 4 – 5 liều thuốc phải thuộc (60 giây · từ Phần 2)
+### Video ngắn 4 – 5 liều thuốc phải thuộc (71 giây · từ Phần 2)
 
 ```
 5 liều thuốc cơn bão giáp phải thuộc 💊 Propranolol, MMI/PTU, hydrocortisone, Lugol, paracetamol – lưu lại khi trực!

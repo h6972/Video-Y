@@ -1,55 +1,55 @@
 1
-00:00:00,700 --> 00:00:03,197
+00:00:00,700 --> 00:00:03,725
 Năm liều thuốc cơn bão giáp phải thuộc,
 
 2
-00:00:03,047 --> 00:00:07,170
+00:00:03,575 --> 00:00:08,590
 theo đồng thuận châu Âu và Anh năm 2026. Lưu lại để dùng khi trực.
 
 3
-00:00:08,620 --> 00:00:12,084
+00:00:10,040 --> 00:00:14,246
 Một, propranolol 60 đến 80 miligam uống mỗi 4 giờ,
 
 4
-00:00:11,934 --> 00:00:15,266
+00:00:14,096 --> 00:00:18,139
 hoặc esmolol tĩnh mạch 500 micrôgam mỗi kilôgam,
 
 5
-00:00:15,116 --> 00:00:20,370
+00:00:17,989 --> 00:00:24,385
 rồi 0 đến 200 micrôgam mỗi kilôgam mỗi phút. Thận trọng khi nghi bệnh cơ tim.
 
 6
-00:00:20,570 --> 00:00:26,406
+00:00:24,585 --> 00:00:31,420
 Hai, methimazole 60 đến 80 miligam mỗi ngày, hoặc carbimazole 80 đến 100,
 
 7
-00:00:26,256 --> 00:00:32,560
+00:00:31,270 --> 00:00:38,654
 hoặc propylthiouracil tấn công 500 đến 1000 miligam, rồi 250 miligam mỗi 4 giờ.
 
 8
-00:00:32,760 --> 00:00:37,672
+00:00:38,854 --> 00:00:45,099
 Ba, hydrocortisone 100 miligam tĩnh mạch, rồi 50 miligam bốn lần mỗi ngày,
 
 9
-00:00:37,522 --> 00:00:38,830
+00:00:44,949 --> 00:00:46,581
 nhớ theo dõi kali.
 
 10
-00:00:39,030 --> 00:00:43,861
+00:00:46,781 --> 00:00:52,252
 Bốn, sau thuốc kháng giáp một giờ: Lugol 8 giọt hoặc kali iodide bão hoà 5 giọt,
 
 11
-00:00:43,711 --> 00:00:45,500
+00:00:52,102 --> 00:00:54,114
 bốn lần mỗi ngày, pha loãng.
 
 12
-00:00:45,700 --> 00:00:48,636
+00:00:54,314 --> 00:00:57,773
 Năm, hạ sốt bằng paracetamol, tránh aspirin;
 
 13
-00:00:48,486 --> 00:00:54,081
+00:00:57,623 --> 00:01:04,242
 cần an thần có thể dùng chlorpromazine 50 đến 100 miligam tiêm bắp. Xem trọn bài giảng
 
 14
-00:00:53,931 --> 00:00:56,170
+00:01:04,092 --> 00:01:06,724
 trên kênh Thư Viện Y Khoa Online.
