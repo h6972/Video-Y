@@ -1,6 +1,9 @@
 name: Voice samples (VieNeu-TTS)
 on:
   workflow_dispatch:
+    inputs:
+      lines: {description: "tệp JSON {lines, voices} trong repo (bỏ trống = mặc định)", required: false, default: ""}
+      tempo: {description: "các tốc độ thêm cho mỗi giọng, cách nhau bởi dấu cách (vd 1.15 1.25)", required: false, default: ""}
 permissions:
   contents: write
 jobs:
@@ -22,9 +25,16 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           OUT: ${{ runner.temp }}/samples
+          LINES_FILE: ${{ inputs.lines }}
         run: |
           set -o pipefail
           python engine/vieneu_samples.py 2>&1 | tee "$RUNNER_TEMP/vieneu.log"
+          sudo apt-get install -y -qq ffmpeg >/dev/null
+          cd "$OUT"
+          for f in *.wav; do
+            for t in ${{ inputs.tempo }}; do ffmpeg -loglevel error -y -i "$f" -af "atempo=$t" "${f%.wav}-x$t.wav"; done
+          done
+          for f in *.wav; do ffmpeg -loglevel error -y -i "$f" -af loudnorm=I=-16:TP=-1.5 -b:a 128k "${f%.wav}.mp3" && rm "$f"; done
       - name: Lưu lên nhánh samples-vieneu
         if: always()
         run: |

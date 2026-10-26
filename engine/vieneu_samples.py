@@ -15,6 +15,9 @@ LINES = [
     "Xin quý vị lưu ý: không có một tiêu chuẩn đơn lẻ nào đủ để khẳng định nhồi máu cơ tim cấp.",
 ]
 VOICES = ["Adam", "Thái Sơn", "Minh Triết", "Đức Trí", "Thục Đoan", "Mỹ Duyên", "Kim Thanh", "Thùy Dung"]
+if os.environ.get("LINES_FILE"):  # bộ câu tuỳ chọn (ví dụ lời video ngắn): {"lines": [...], "voices": [...]}
+    _c = json.load(open(os.environ["LINES_FILE"], encoding="utf-8"))
+    LINES = _c.get("lines", LINES); VOICES = _c.get("voices", VOICES)
 import numpy as np, soundfile as sf
 info = {}
 for v in VOICES:
