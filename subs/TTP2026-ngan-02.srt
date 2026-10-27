@@ -1,0 +1,27 @@
+1
+00:00:00,700 --> 00:00:04,826
+Ba câu hỏi giúp bạn bớt chụp CT mạch phổi: thuật toán YEARS.
+
+2
+00:00:06,276 --> 00:00:11,271
+Hỏi ba tiêu chí: có dấu hiệu huyết khối tĩnh mạch sâu không, có ho máu không,
+
+3
+00:00:11,121 --> 00:00:14,858
+và thuyên tắc phổi có phải chẩn đoán khả năng nhất không.
+
+4
+00:00:15,058 --> 00:00:18,964
+Nếu không có tiêu chí nào, D-dimer dưới 1000 là loại trừ.
+
+5
+00:00:19,164 --> 00:00:22,255
+Nếu có từ một tiêu chí, ngưỡng là 500.
+
+6
+00:00:22,455 --> 00:00:28,061
+Với thai phụ có triệu chứng ở chân, siêu âm nén trước; dương tính thì điều trị luôn,
+
+7
+00:00:27,911 --> 00:00:34,426
+tránh được khoảng 65% phim CT ở ba tháng đầu. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online.

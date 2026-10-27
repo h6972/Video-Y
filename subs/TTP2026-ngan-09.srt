@@ -1,0 +1,31 @@
+1
+00:00:00,700 --> 00:00:06,060
+Thuyên tắc phổi không có yếu tố thúc đẩy, đã kháng đông đủ 6 tháng: dừng được chưa?
+
+2
+00:00:07,510 --> 00:00:13,691
+Nữ 58 tuổi, thuyên tắc phổi không yếu tố thúc đẩy, đã dùng apixaban đủ 6 tháng,
+
+3
+00:00:13,541 --> 00:00:16,363
+không chảy máu. Kế hoạch tiếp theo?
+
+4
+00:00:16,563 --> 00:00:17,830
+Bạn có 5 giây.
+
+5
+00:00:23,430 --> 00:00:26,851
+Đáp án B: tiếp tục kéo dài, giảm còn nửa liều,
+
+6
+00:00:26,701 --> 00:00:32,186
+apixaban 2,5 miligam hai lần mỗi ngày hoặc rivaroxaban 10 miligam mỗi ngày,
+
+7
+00:00:32,036 --> 00:00:38,160
+và đánh giá lại định kỳ. Không cần PET-CT tìm ung thư thường quy. Xem trọn bài giảng
+
+8
+00:00:38,010 --> 00:00:40,507
+trên kênh Thư Viện Y Khoa Online.

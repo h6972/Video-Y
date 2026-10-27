@@ -1,0 +1,31 @@
+1
+00:00:00,700 --> 00:00:06,132
+D-dimer 620 ở người 72 tuổi: có cần chụp CT mạch phổi không?
+
+2
+00:00:07,582 --> 00:00:13,327
+Nữ 72 tuổi, xác suất lâm sàng thấp, không có tiêu chí YEARS nào,
+
+3
+00:00:13,177 --> 00:00:16,299
+D-dimer 620. Bước tiếp theo là gì?
+
+4
+00:00:16,499 --> 00:00:17,902
+Bạn có 5 giây.
+
+5
+00:00:23,502 --> 00:00:28,077
+Đáp án B: loại trừ, không cần chụp. Với người trên 50 tuổi,
+
+6
+00:00:27,927 --> 00:00:31,827
+ngưỡng D-dimer theo tuổi là tuổi nhân 10, tức 720;
+
+7
+00:00:31,677 --> 00:00:38,202
+còn YEARS không tiêu chí thì ngưỡng là 1000. 620 nằm dưới cả hai ngưỡng. Xem trọn bài
+
+8
+00:00:38,052 --> 00:00:41,127
+giảng trên kênh Thư Viện Y Khoa Online.

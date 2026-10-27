@@ -1,0 +1,27 @@
+1
+00:00:00,700 --> 00:00:06,706
+Giảm nửa liều kháng đông sau 6 tháng: có sợ tái phát không? Hai thử nghiệm trả lời.
+
+2
+00:00:08,157 --> 00:00:15,335
+Thử nghiệm RENOVE trên 2768 bệnh nhân: tái phát huyết khối thấp ở cả hai nhóm,
+
+3
+00:00:15,185 --> 00:00:18,758
+2,2% với nửa liều và 1,8% với đủ liều.
+
+4
+00:00:18,958 --> 00:00:24,193
+Nhưng chảy máu nặng hoặc có ý nghĩa giảm từ 15,2 xuống 9,9%.
+
+5
+00:00:24,393 --> 00:00:30,778
+Ở bệnh nhân ung thư, API-CAT cho kết quả tương tự: tái phát 2,1 so với 2,8%,
+
+6
+00:00:30,628 --> 00:00:37,095
+chảy máu 12,1 so với 15,6%. Vì vậy Hướng dẫn 2026 khuyến cáo nhóm một, mức A,
+
+7
+00:00:36,945 --> 00:00:44,233
+dùng nửa liều ở giai đoạn kéo dài. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online.

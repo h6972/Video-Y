@@ -1,0 +1,35 @@
+1
+00:00:00,700 --> 00:00:04,544
+Liều thuốc tiêu sợi huyết trong thuyên tắc phổi: nhớ đúng trong một phút.
+
+2
+00:00:05,994 --> 00:00:10,065
+Liều chuẩn: alteplase 100 miligam truyền trong 2 giờ,
+
+3
+00:00:09,915 --> 00:00:13,395
+thường tiêm 10 miligam rồi truyền 90 miligam.
+
+4
+00:00:13,595 --> 00:00:18,833
+Liều thấp 50 miligam, hoặc 25 miligam trong 6 giờ, có thể cân nhắc.
+
+5
+00:00:19,033 --> 00:00:25,489
+Khi ngừng tim, theo Hội Tim mạch châu Âu: 0,6 miligam mỗi kilôgam trong 15 phút,
+
+6
+00:00:25,339 --> 00:00:26,908
+tối đa 50 miligam.
+
+7
+00:00:27,108 --> 00:00:31,725
+Tenecteplase tiêm một lần theo cân nặng, từ 30 đến 50 miligam.
+
+8
+00:00:31,925 --> 00:00:35,812
+Và nhớ ngừng heparin không phân đoạn khi truyền alteplase,
+
+9
+00:00:35,662 --> 00:00:41,482
+dùng lại khi aPTT dưới 2 lần chứng. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online.

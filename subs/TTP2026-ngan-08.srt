@@ -1,0 +1,35 @@
+1
+00:00:00,700 --> 00:00:05,448
+Sốc do thuyên tắc phổi ở bệnh viện không có can thiệp mạch: bạn làm gì?
+
+2
+00:00:06,898 --> 00:00:12,718
+Nữ 52 tuổi, huyết áp 76 trên 48 dù đang dùng norepinephrine, lactate 4,8,
+
+3
+00:00:12,568 --> 00:00:13,884
+thất phải giãn,
+
+4
+00:00:13,734 --> 00:00:19,709
+không có chống chỉ định. Bệnh viện không có can thiệp mạch. Xử trí thế nào?
+
+5
+00:00:19,909 --> 00:00:21,592
+Bạn có 5 giây.
+
+6
+00:00:27,192 --> 00:00:29,748
+Đáp án B: tiêu sợi huyết toàn thân,
+
+7
+00:00:29,598 --> 00:00:35,657
+alteplase 100 miligam trong 2 giờ. Đây là nhóm E1. Không chuyển viện khi chưa ổn định,
+
+8
+00:00:35,507 --> 00:00:41,567
+vì đó là khuyến cáo có hại. Dịch truyền không quá 500 mililít. Xem trọn bài giảng trên
+
+9
+00:00:41,417 --> 00:00:43,491
+kênh Thư Viện Y Khoa Online.
