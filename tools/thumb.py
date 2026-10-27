@@ -27,7 +27,7 @@ body{{width:1280px;height:720px;overflow:hidden;font-family:Inter;color:#fff;bac
 .ph::after{{content:"";position:absolute;inset:0}}
 .tint{{position:absolute;right:0;top:0;width:560px;height:720px;background:linear-gradient(90deg,#07122a 0%,rgba(7,18,42,.2) 45%,rgba(20,184,166,.18));mix-blend-mode:normal}}
 .art{{position:absolute;right:-20px;top:70px;filter:drop-shadow(0 0 40px rgba(251,113,133,.35))}}
-.brand{{position:absolute;left:56px;top:44px;display:flex;align-items:center;gap:14px;font-size:24px;font-weight:800;letter-spacing:2.5px}}
+.brand{{position:absolute;left:46px;top:30px;display:flex;align-items:center;gap:14px;font-size:24px;font-weight:800;letter-spacing:2.5px}}
 .badge{{position:absolute;right:40px;top:36px;background:{c};color:#0b1020;font-weight:800;font-size:30px;padding:12px 22px;border-radius:16px;box-shadow:0 8px 30px rgba(0,0,0,.4)}}
 .txt{{position:absolute;left:56px;top:150px;width:780px}}
 .tag{{display:inline-block;font-size:26px;font-weight:700;color:#2dd4bf;border:2.5px solid #2dd4bf;padding:6px 16px;border-radius:12px}}
@@ -37,7 +37,7 @@ body{{width:1280px;height:720px;overflow:hidden;font-family:Inter;color:#fff;bac
 .chips span{{font-size:27px;font-weight:700;background:rgba(255,255,255,.1);border:2px solid rgba(255,255,255,.25);padding:8px 16px;border-radius:12px}}
 .bar{{position:absolute;left:0;bottom:0;height:12px;width:100%;background:linear-gradient(90deg,#2dd4bf,#60a5fa,{c})}}
 </style></head><body><div class="bg"></div>{img}{'<div class="tint"></div>' if s.get("img") else ''}
-<div class="brand">{LOGO}THƯ VIỆN Y KHOA ONLINE</div><div class="badge">{s.get("badge","")}</div>
+<div class="brand"><img src="file://{R}/assets/brand/logo.png" style="width:78px;height:78px;border-radius:50%;box-shadow:0 0 24px rgba(45,212,191,.45)">THƯ VIỆN Y KHOA ONLINE</div><div class="badge">{s.get("badge","")}</div>
 <div class="txt"><div class="tag">{s.get("tag","")}</div><div class="hook">{s["hook"]}</div><div class="l2">{s.get("line2","")}</div><div class="chips">{chips}</div></div>
 <div class="bar"></div></body></html>'''
 if __name__ == "__main__":

@@ -21,3 +21,12 @@
 .essub{position:absolute;left:112px;top:730px;width:200px;height:200px;border-radius:50%;border:2.5px dashed rgba(251,191,36,.6);display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.035)}
 .essubt{position:absolute;left:350px;top:778px}.essubt b{display:block;font-size:40px;font-weight:800;color:var(--amber)}.essubt span{display:block;font-size:26px;color:var(--mut);margin-top:8px}
 .esfoot{position:absolute;left:72px;right:72px;bottom:40px;text-align:right;font-size:19px;color:rgba(255,255,255,.4)}
+.blimg{position:relative;border-radius:50%;box-shadow:0 0 60px rgba(45,212,191,.35),0 20px 60px rgba(0,0,0,.45)}
+.blwrap{position:relative}
+.bring{position:absolute;left:50%;top:50%;width:calc(100% + 56px);height:calc(100% + 56px);border-radius:50%;transform:translate(-50%,-50%);
+  background:conic-gradient(from 0deg,transparent 0 55%,rgba(45,212,191,.9) 78%,rgba(96,165,250,.95) 92%,transparent 100%);
+  -webkit-mask:radial-gradient(farthest-side,transparent calc(100% - 9px),#000 calc(100% - 8px))}
+.bweb{position:relative;margin-top:30px;font-size:34px;font-weight:700;color:var(--teal);letter-spacing:1.5px}
+.essub{border:none!important;background:none!important;width:184px!important;height:184px!important;top:720px!important}
+.esweb{display:block;font-size:26px;color:var(--teal);font-weight:700;margin-top:10px}
+#sign img{display:inline-block}
