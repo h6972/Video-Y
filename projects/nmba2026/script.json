@@ -1,0 +1,1152 @@
+{
+ "title": "Giãn cơ trong ARDS – Hướng dẫn SCCM 2026",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức",
+ "part": "Giãn cơ trong ARDS · SCCM 2026",
+ "source_short": "Nguồn: SCCM Guidelines for the Administration of Neuromuscular Blockade in Adults With ARDS (Crit Care Med 2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "cisatracurium": "xi xa tra cu ri um",
+  "PETAL-ROSE": "pê tan rô dơ",
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "PaO2/FiO2": "pa ô hai trên phi ô hai",
+  "ACURASYS": "a cu ra xít",
+  "COVID-19": "cô vít mười chín",
+  "PROSEVA": "prô xê va",
+  "Ramsay": "Ram xi",
+  "mg/giờ": "miligam mỗi giờ",
+  "GRADE": "grết",
+  "ROSE": "rô dơ",
+  "SCCM": "ét xê xê em",
+  "PICO": "pi cô",
+  "RASS": "rát",
+  "CPOT": "xi pốt",
+  "PEEP": "píp",
+  "ARDS": "suy hô hấp cấp tiến triển",
+  "BIS": "bít",
+  "TOF": "tê ô ép"
+ },
+ "brand": {
+  "next": "Video ngắn: P/F 140 có giãn cơ ngay?"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Bài giảng chuyên đề Hồi sức",
+   "title": "Thuốc giãn cơ<br>trong ARDS",
+   "subtitle": "Hướng dẫn SCCM 2026 · 5 câu hỏi PICO",
+   "badges": [
+    {
+     "t": "PaO₂/FiO₂ < 150",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "≤ 48 giờ",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "An thần sâu trước",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "note": "Phương pháp GRADE · 5 khuyến cáo có điều kiện",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online. Hôm nay chúng ta cùng đi qua hướng dẫn năm 2026 của Hội Hồi sức Hoa Kỳ về sử dụng thuốc giãn cơ ở người lớn bị hội chứng suy hô hấp cấp tiến triển.",
+    "Câu hỏi trung tâm: bệnh nhân nào nên giãn cơ? Câu trả lời ngắn gọn: khi tỉ số PaO₂/FiO₂ dưới 150 và đã tối ưu máy thở, an thần mà vẫn thất bại.",
+    "Nếu dùng, giãn cơ nên giới hạn thời gian, thường không quá 48 giờ.",
+    "Và nguyên tắc không bao giờ được quên: phải bảo đảm an thần, giảm đau đủ sâu trước và trong suốt thời gian giãn cơ."
+   ]
+  },
+  {
+   "id": "s2",
+   "layout": "timeline",
+   "chapter": "Bối cảnh",
+   "title": "Bản hướng dẫn thứ 4",
+   "ref": "Mục Giới thiệu · Phương pháp",
+   "events": [
+    {
+     "year": "1995",
+     "t": "Bản đầu tiên",
+     "d": "Giãn cơ kéo dài ở người bệnh nặng",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "year": "2002",
+     "t": "Cập nhật",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "year": "2016",
+     "t": "Chỉ định, chọn thuốc, biến chứng",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "year": "2026",
+     "t": "Tập trung ARDS",
+     "d": "5 câu hỏi PICO · GRADE · 21 chuyên gia",
+     "at": 1,
+     "c": "coral"
+    }
+   ],
+   "note": {
+    "t": "Lý do cập nhật: chiến lược an thần thay đổi, dữ liệu mới về giãn cơ trong ARDS, nằm sấp ngày càng phổ biến",
+    "at": 2,
+    "c": "teal"
+   },
+   "lines": [
+    "Đây là bản thứ tư của hướng dẫn về thuốc giãn cơ ở người bệnh nặng, sau các bản 1995, 2002 và 2016.",
+    "Bản 2026 tập trung vào hội chứng suy hô hấp cấp tiến triển, chỉ định thường gặp nhất của giãn cơ kéo dài tại hồi sức. Hội đồng 21 chuyên gia đa ngành đặt ra năm câu hỏi theo khung PICO và đánh giá bằng chứng theo phương pháp GRADE.",
+    "Lý do cập nhật gồm: chiến lược an thần đã thay đổi, có dữ liệu mới về giãn cơ trong suy hô hấp cấp tiến triển, và nằm sấp ngày càng được dùng rộng rãi."
+   ]
+  },
+  {
+   "id": "s3",
+   "layout": "compare",
+   "chapter": "Tổng quan · Bảng 1",
+   "title": "5 khuyến cáo trong một bảng",
+   "ref": "Bảng 1",
+   "head": [
+    "Câu hỏi",
+    "Khuyến cáo",
+    "Mức"
+   ],
+   "widths": "1fr 2.3fr 0.9fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>1</b> · Giãn cơ hay không?",
+      "<b>Nên dùng</b> khi PaO₂/FiO₂ < 150 và còn giảm oxy kéo dài và/hoặc không đạt mục tiêu thở máy dù đã an thần",
+      "Có điều kiện · <b>thấp</b>"
+     ],
+     "at": 0,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>2</b> · Liều cố định hay chỉnh theo độ sâu giãn cơ?",
+      "Dùng <b>cách nào cũng được</b>",
+      "Có điều kiện · rất thấp"
+     ],
+     "at": 1
+    },
+    {
+     "cells": [
+      "<b>3</b> · Đánh giá an thần trước khi giãn cơ",
+      "Thang điểm hoặc đánh giá lâm sàng đều được",
+      "Có điều kiện · rất thấp"
+     ],
+     "at": 1
+    },
+    {
+     "cells": [
+      "<b>4</b> · Theo dõi an thần khi đang giãn cơ",
+      "Có hoặc không dùng công cụ theo dõi đều được",
+      "Có điều kiện · rất thấp"
+     ],
+     "at": 1
+    },
+    {
+     "cells": [
+      "<b>5</b> · Giãn cơ khi nằm sấp",
+      "Dùng hoặc không dùng đều được",
+      "Có điều kiện · rất thấp"
+     ],
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Bảng một tóm tắt năm khuyến cáo. Chỉ khuyến cáo đầu tiên có hướng rõ ràng: nên dùng thuốc giãn cơ khi PaO₂/FiO₂ dưới 150 ở người còn giảm oxy máu kéo dài, hoặc không đạt mục tiêu thở máy dù đã an thần. Đây là khuyến cáo có điều kiện, mức bằng chứng thấp.",
+    "Bốn câu hỏi còn lại, về cách chỉnh liều, cách đánh giá an thần, theo dõi an thần khi đang giãn cơ, và giãn cơ khi nằm sấp, hội đồng đều kết luận cân bằng: chọn cách nào cũng được, vì bằng chứng rất thấp."
+   ]
+  },
+  {
+   "id": "s4",
+   "layout": "cards",
+   "chapter": "Đọc khuyến cáo · Bảng 2",
+   "title": "\"Có điều kiện\" nghĩa là gì?",
+   "ref": "Bảng 2",
+   "h": 560,
+   "cards": [
+    {
+     "tag": "KHUYẾN CÁO MẠNH",
+     "t": "Gần như mọi người bệnh",
+     "items": [
+      "Hầu hết người bệnh đều muốn can thiệp",
+      "Có thể dùng làm chỉ số chất lượng"
+     ],
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "tag": "CÓ ĐIỀU KIỆN",
+     "t": "Đa số, nhưng không phải tất cả",
+     "items": [
+      "Một nhóm đáng kể sẽ không chọn",
+      "Lựa chọn khác nhau cho người bệnh khác nhau",
+      "Cần thêm thời gian ra quyết định cá thể"
+     ],
+     "at": 1,
+     "c": "amber",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Trước khi đi vào từng khuyến cáo, cần hiểu đúng chữ có điều kiện. Khuyến cáo mạnh nghĩa là gần như mọi người bệnh đều nên nhận can thiệp, và có thể dùng làm chỉ số chất lượng.",
+    "Khuyến cáo có điều kiện nghĩa là đa số người bệnh sẽ chọn, nhưng một nhóm đáng kể thì không. Bác sĩ cần cân nhắc hoàn cảnh cụ thể, và chấp nhận rằng lựa chọn có thể khác nhau giữa các người bệnh. Cả năm khuyến cáo hôm nay đều thuộc loại này."
+   ]
+  },
+  {
+   "id": "s5",
+   "layout": "box",
+   "chapter": "Khuyến cáo 1",
+   "title": "Ai nên được giãn cơ?",
+   "ref": "Khuyến cáo 1 · có điều kiện, bằng chứng thấp",
+   "box": {
+    "tag": "KHUYẾN CÁO 1",
+    "t": "Gợi ý dùng thuốc giãn cơ ở người lớn ARDS có <b>PaO₂/FiO₂ < 150</b> còn <em>giảm oxy máu kéo dài</em> và/hoặc <em>không đạt mục tiêu thở máy dù đã an thần</em>.",
+    "at": 0,
+    "c": "coral",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "TRƯỚC KHI DÙNG",
+     "t": "Tối ưu máy thở và an thần: thông khí bảo vệ phổi, xử lý mất đồng bộ, cải thiện oxy hoá",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "THỜI GIAN",
+     "t": "Giới hạn, thường <b>không quá 48 giờ</b>",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo một: hội đồng gợi ý dùng thuốc giãn cơ ở người lớn suy hô hấp cấp tiến triển có PaO₂/FiO₂ dưới 150, còn giảm oxy máu kéo dài và, hoặc không đạt mục tiêu thở máy dù đã an thần.",
+    "Phần ghi chú rất quan trọng: phải tối ưu máy thở và an thần trước, để đạt thông khí bảo vệ phổi, xử lý mất đồng bộ người bệnh – máy thở, và cải thiện oxy hoá, rồi mới cân nhắc giãn cơ.",
+    "Nếu dùng, giãn cơ nên giới hạn thời gian, thường không vượt quá 48 giờ."
+   ]
+  },
+  {
+   "id": "s5b",
+   "layout": "media",
+   "chapter": "Hình ảnh minh hoạ",
+   "title": "ARDS trên X-quang ngực",
+   "ref": "Hình ảnh minh hoạ · kiến thức bổ sung",
+   "notes_w": 440,
+   "panels": [
+    {
+     "src": "../../media/nmba2026/raw/ards.png",
+     "ar": 1.135,
+     "at": 0,
+     "cap": "ARDS: mờ phế nang lan toả hai bên",
+     "credit": "Ảnh: James Heilman, MD · CC BY-SA 3.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 24,
+       "y": 55,
+       "c": "amber",
+       "at": 0,
+       "t": "Phổi phải"
+      },
+      {
+       "type": "label",
+       "x": 76,
+       "y": 55,
+       "c": "amber",
+       "at": 0,
+       "t": "Phổi trái"
+      }
+     ]
+    },
+    {
+     "src": "../../media/nmba2026/raw/ards_severe.png",
+     "ar": 1.252,
+     "at": 1,
+     "cap": "ARDS nặng, đã đặt nội khí quản",
+     "credit": "Ảnh: James Heilman, MD · CC BY-SA 4.0 · Wikimedia Commons",
+     "zoom": {
+      "x": 50,
+      "y": 50,
+      "s": 1.25,
+      "at": 1,
+      "out": "L2+3"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "tag": "BERLIN",
+     "t": "Mờ hai bên, không giải thích hoàn toàn bằng suy tim",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "NẶNG",
+     "t": "PaO₂/FiO₂ < 150 là ngưỡng các thử nghiệm giãn cơ dùng",
+     "d": "ACURASYS, ROSE",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "TRƯỚC GIÃN CƠ",
+     "t": "Thông khí bảo vệ phổi, PEEP, nằm sấp",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Đây là hình ảnh X-quang ngực của suy hô hấp cấp tiến triển: mờ phế nang lan toả cả hai phổi, không giải thích hoàn toàn bằng suy tim hay quá tải dịch.",
+    "Bên phải là một ca nặng, người bệnh đã đặt nội khí quản. Phần lớn các thử nghiệm giãn cơ tuyển bệnh nhân có PaO₂/FiO₂ dưới 150, đúng nhóm như thế này.",
+    "Nhưng trước khi nghĩ đến giãn cơ, hãy chắc rằng người bệnh đã được thông khí bảo vệ phổi, PEEP phù hợp và được cân nhắc nằm sấp."
+   ]
+  },
+  {
+   "id": "s6",
+   "layout": "bars",
+   "chapter": "Bằng chứng · khuyến cáo 1",
+   "title": "Phân tích gộp: nguy cơ tương đối",
+   "ref": "Khuyến cáo 1 · Lý giải · RR < 1 nghĩa là giảm",
+   "notes_w": 470,
+   "max": 1.45,
+   "groups": [
+    {
+     "t": "Tử vong 28 ngày",
+     "d": "7 RCT · 1598 bệnh nhân",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Giãn cơ / chứng",
+       "v": 0.74,
+       "lab": "RR 0,74",
+       "c": "teal"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    },
+    {
+     "t": "Tử vong 28 ngày · PaO₂/FiO₂ < 150",
+     "d": "3 RCT · 428",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Giãn cơ / chứng",
+       "v": 0.7,
+       "lab": "RR 0,70",
+       "c": "teal"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    },
+    {
+     "t": "Chấn thương áp lực",
+     "d": "4 RCT · 1437",
+     "at": 2,
+     "c": "green",
+     "bars": [
+      {
+       "k": "Giãn cơ / chứng",
+       "v": 0.55,
+       "lab": "RR 0,55",
+       "c": "green"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    },
+    {
+     "t": "Yếu cơ mắc phải tại hồi sức",
+     "d": "4 RCT · 1437",
+     "at": 3,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Giãn cơ / chứng",
+       "v": 1.16,
+       "lab": "RR 1,16",
+       "c": "coral"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TỬ VONG HỒI SỨC",
+     "t": "RR 0,73 (0,58–0,93)",
+     "d": "4 RCT · 455 bệnh nhân",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "TỬ VONG NỘI VIỆN",
+     "t": "RR 0,78 (0,60–1,01)",
+     "d": "Chưa có ý nghĩa thống kê",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BIẾN CỐ BẤT LỢI CHUNG",
+     "t": "RR 1,63 (0,98–2,72)",
+     "d": "Bằng chứng tổng thể: thấp",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bằng chứng cho khuyến cáo một đến từ các phân tích gộp. Bảy thử nghiệm ngẫu nhiên với 1598 bệnh nhân cho thấy giãn cơ giảm tử vong 28 ngày, nguy cơ tương đối 0,74, khoảng tin cậy 0,56 đến 0,98.",
+    "Ở phân nhóm PaO₂/FiO₂ dưới 150, gồm ba thử nghiệm với 428 bệnh nhân, nguy cơ tương đối là 0,70. Tử vong tại hồi sức cũng giảm, nguy cơ tương đối 0,73.",
+    "Giãn cơ còn giảm chấn thương áp lực, nguy cơ tương đối 0,55. Tuy nhiên tử vong nội viện, 0,78, chưa đạt ý nghĩa thống kê.",
+    "Cái giá phải trả: yếu cơ mắc phải tại hồi sức có xu hướng tăng, nguy cơ tương đối 1,16, và biến cố bất lợi chung 1,63, đều có khoảng tin cậy chạm mốc 1. Mức bằng chứng tổng thể chỉ là thấp."
+   ]
+  },
+  {
+   "id": "s7",
+   "layout": "compare",
+   "chapter": "Hai thử nghiệm lớn",
+   "title": "ACURASYS 2010 và ROSE 2019: vì sao khác nhau?",
+   "ref": "Khuyến cáo 1 · Tử vong 90 ngày",
+   "head": [
+    "",
+    "ACURASYS (Papazian 2010)",
+    "PETAL-ROSE (Moss 2019)"
+   ],
+   "widths": "0.9fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Can thiệp",
+      "Cisatracurium truyền liên tục 48 giờ",
+      "Cisatracurium truyền liên tục 48 giờ"
+     ],
+     "at": 0
+    },
+    {
+     "cells": [
+      "Nhóm chứng",
+      "<b>An thần sâu</b> (Ramsay 6)",
+      "<b>An thần nhẹ</b> (RASS 0 đến −1)"
+     ],
+     "at": 1,
+     "c": "amber",
+     "hl": true
+    },
+    {
+     "cells": [
+      "Tử vong 90 ngày",
+      "<b>Giảm có ý nghĩa</b>",
+      "Không khác biệt"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Khác biệt khác",
+      "Có làm mù",
+      "Không làm mù · ít nằm sấp hơn · PEEP cao hơn"
+     ],
+     "at": 2
+    },
+    {
+     "cells": [
+      "Thông điệp",
+      "Giãn cơ cho ARDS vừa – nặng <b>đang an thần sâu</b>",
+      "85,5% bác sĩ Hoa Kỳ chỉ truyền giãn cơ sau khi thử an thần sâu"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Hai thử nghiệm lớn nhất cho kết quả trái ngược. ACURASYS năm 2010 cho thấy truyền cisatracurium liên tục 48 giờ cùng an thần sâu giảm có ý nghĩa tử vong 90 ngày so với an thần sâu đơn thuần. PETAL-ROSE năm 2019 thì không thấy khác biệt.",
+    "Khác biệt then chốt là nhóm chứng: ACURASYS so với an thần sâu, còn ROSE so với an thần nhẹ, RASS từ 0 đến âm 1.",
+    "Ngoài ra ROSE không làm mù, ít dùng nằm sấp hơn và dùng PEEP cao hơn, có thể làm giảm xẹp phổi ở nhóm chứng.",
+    "Thông điệp rút ra: truyền giãn cơ liên tục nên dành cho suy hô hấp cấp tiến triển vừa đến nặng, ở người bệnh đã được an thần sâu. Điều này phù hợp thực hành: 85,5% bác sĩ hồi sức Hoa Kỳ được khảo sát chỉ truyền giãn cơ sau khi đã thử an thần sâu."
+   ]
+  },
+  {
+   "id": "s8",
+   "layout": "box",
+   "chapter": "Liều dùng · kiến thức bổ sung",
+   "title": "Liều cisatracurium trong các thử nghiệm",
+   "ref": "Kiến thức bổ sung · phác đồ ACURASYS và ROSE (NEJM 2010, 2019)",
+   "box": {
+    "tag": "PHÁC ĐỒ THỬ NGHIỆM",
+    "t": "Cisatracurium <b>15 mg tiêm tĩnh mạch nhanh</b>, sau đó <b>truyền 37,5 mg/giờ</b> trong <b>48 giờ</b> · liều cố định, không chỉnh theo TOF.",
+    "at": 0,
+    "c": "amber",
+    "size": 36
+   },
+   "notes": [
+    {
+     "tag": "HƯỚNG DẪN 2026",
+     "t": "Chưa đủ bằng chứng để khuyến cáo về chọn thuốc, tiêm ngắt quãng hay truyền, và thời gian dùng",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Đây là liều cao; chưa rõ mọi người bệnh có cần liều, thuốc và thời gian này không",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn SCCM không đưa ra liều cụ thể. Phần này là kiến thức bổ sung từ chính hai thử nghiệm: cisatracurium tiêm tĩnh mạch nhanh 15 miligam, sau đó truyền liên tục 37,5 miligam mỗi giờ trong 48 giờ, liều cố định.",
+    "Hội đồng 2026 đã thảo luận về liều, cách tiêm ngắt quãng hay truyền, chọn thuốc và thời gian dùng, nhưng kết luận chưa đủ bằng chứng để khuyến cáo chính thức.",
+    "Hội đồng cũng lưu ý đây là liều truyền cao, và chưa rõ liều, thời gian hay loại thuốc này có cần thiết cho mọi người bệnh hay không."
+   ]
+  },
+  {
+   "id": "s8b",
+   "layout": "media",
+   "chapter": "Quy đổi liều · kiến thức bổ sung",
+   "title": "Từ liều thử nghiệm đến mililít",
+   "ref": "Tính từ phác đồ ACURASYS/ROSE với ống 2 mg/mL · kiểm tra theo thuốc của đơn vị",
+   "notes_w": 560,
+   "panels": [
+    {
+     "src": "../../media/nmba2026/raw/cisatracurium.jpg",
+     "ar": 1.674,
+     "at": 0,
+     "cap": "Ống cisatracurium 10 mg/5 mL (2 mg/mL)",
+     "credit": "Ảnh: CYP3A42D6 · CC BY-SA 4.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "box",
+       "x": 19,
+       "y": 33,
+       "w": 31,
+       "h": 47,
+       "c": "amber",
+       "at": 0,
+       "t": "2 mg/mL"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TIÊM NHANH",
+     "t": "15 mg = 7,5 mL",
+     "d": "ống 2 mg/mL không pha",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "TRUYỀN",
+     "t": "37,5 mg/giờ ≈ 18,8 mL/giờ",
+     "d": "trong 48 giờ ≈ 1800 mg, khoảng 180 ống 10 mg",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "CHI PHÍ",
+     "t": "Hội đồng đánh giá chi phí ở mức vừa",
+     "d": "Thuốc + an thần + nằm viện, phục hồi do yếu cơ",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Để dễ hình dung liều trong thử nghiệm, chúng ta quy đổi với ống cisatracurium nồng độ 2 miligam mỗi mililít. Quý vị cần kiểm tra lại theo chế phẩm của đơn vị mình.",
+    "Liều tiêm nhanh 15 miligam tương đương 7,5 mililít.",
+    "Liều truyền 37,5 miligam mỗi giờ tương đương khoảng 18,8 mililít mỗi giờ; 48 giờ cần khoảng 1800 miligam, tức chừng 180 ống 10 miligam.",
+    "Vì vậy hội đồng đánh giá chi phí ở mức vừa, gồm cả thuốc giãn cơ, thuốc an thần đi kèm, thời gian nằm viện và phục hồi chức năng do yếu cơ."
+   ]
+  },
+  {
+   "id": "s9",
+   "layout": "cards",
+   "chapter": "Khuyến cáo 2",
+   "title": "Liều cố định hay chỉnh theo TOF?",
+   "ref": "Khuyến cáo 2 · có điều kiện, bằng chứng rất thấp",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "LIỀU CỐ ĐỊNH",
+     "t": "Không theo dõi độ sâu giãn cơ",
+     "items": [
+      "Như ACURASYS, ROSE",
+      "Nguy cơ giãn cơ hoành quá ít hoặc quá nhiều"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "CHỈNH LIỀU",
+     "t": "Theo dõi chuỗi bốn kích thích (TOF)",
+     "items": [
+      "Không có RCT trực tiếp",
+      "Dữ liệu hiện có: kết cục không khác rõ"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "BẪY",
+     "t": "Cơ hoành ≠ cơ ngoại biên",
+     "items": [
+      "Cơ hoành kháng giãn cơ hơn",
+      "Đáp ứng TOF ở tay không phản ánh đúng cơ hoành",
+      "Luôn đánh giá giãn cơ tồn dư khi ngừng thuốc"
+     ],
+     "at": 2,
+     "c": "coral",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Khuyến cáo hai: dùng liều cố định không theo dõi độ sâu giãn cơ, hay chỉnh liều theo chuỗi bốn kích thích, đều được. Liều cố định có nguy cơ giãn cơ hoành quá ít hoặc quá nhiều.",
+    "Không có thử nghiệm ngẫu nhiên nào trả lời trực tiếp câu hỏi này; các dữ liệu hiện có so sánh liều cố định với chỉnh liều theo chuỗi bốn kích thích không thấy khác biệt rõ về kết cục.",
+    "Một bẫy sinh lý cần nhớ: cơ hoành kháng thuốc giãn cơ hơn cơ ngoại biên, nên đáp ứng đo ở tay có thể không phản ánh đúng cơ hoành. Dù chọn cách nào, phải đánh giá độ sâu giãn cơ và khả năng giãn cơ tồn dư sau khi ngừng thuốc. Trong gây mê, các hướng dẫn yêu cầu theo dõi định lượng đến khi tỉ số chuỗi bốn kích thích trên 0,9."
+   ]
+  },
+  {
+   "id": "s9b",
+   "layout": "media",
+   "chapter": "Theo dõi giãn cơ · hình ảnh",
+   "title": "Theo dõi giãn cơ định lượng",
+   "ref": "Hình ảnh minh hoạ cho Khuyến cáo 2",
+   "notes_w": 400,
+   "panels": [
+    {
+     "src": "../../media/nmba2026/raw/amg_hand.jpg",
+     "ar": 1.702,
+     "flex": 1.35,
+     "at": 0,
+     "cap": "Đo gia tốc cơ: kích thích thần kinh trụ, cảm biến ở ngón cái",
+     "credit": "Ảnh: Paul Anthony Stewart · CC BY-SA 4.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 15,
+       "y": 88,
+       "r": 9,
+       "c": "amber",
+       "at": 0,
+       "t": "Điện cực kích thích",
+       "lx": 14,
+       "ly": 66
+      },
+      {
+       "type": "circle",
+       "x": 59,
+       "y": 38,
+       "r": 7,
+       "c": "teal",
+       "at": 1,
+       "t": "Cảm biến ngón cái",
+       "lx": 62,
+       "ly": 18
+      }
+     ]
+    },
+    {
+     "src": "../../media/nmba2026/raw/tof_watch.jpg",
+     "ar": 0.913,
+     "flex": 0.7,
+     "at": 2,
+     "cap": "Máy đo chuỗi bốn kích thích",
+     "credit": "Ảnh: Paul Anthony Stewart · CC BY-SA 4.0 · Wikimedia Commons"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TOF",
+     "t": "4 kích thích liên tiếp ở thần kinh trụ",
+     "d": "Đếm đáp ứng hoặc tính tỉ số",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "GÂY MÊ",
+     "t": "Theo dõi định lượng đến tỉ số > 0,9",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "HỒI SỨC",
+     "t": "Cơ hoành kháng thuốc hơn cơ ngón cái",
+     "d": "Chưa rõ mục tiêu tối ưu",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Đây là cách theo dõi giãn cơ định lượng bằng đo gia tốc cơ. Điện cực kích thích được dán dọc dây thần kinh trụ ở cổ tay,",
+    "và cảm biến gắn ở ngón cái ghi nhận đáp ứng với chuỗi bốn kích thích liên tiếp.",
+    "Trong gây mê, các hướng dẫn yêu cầu theo dõi định lượng cho đến khi tỉ số chuỗi bốn kích thích trên 0,9.",
+    "Nhưng tại hồi sức, cơ hoành kháng thuốc giãn cơ hơn cơ ngón cái, và mục tiêu độ sâu giãn cơ tối ưu vẫn chưa được xác định. Đó là lý do hướng dẫn cho phép cả hai chiến lược."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "Khuyến cáo 3 và 4",
+   "title": "An thần – giảm đau trước và trong khi giãn cơ",
+   "ref": "Khuyến cáo 3, 4 · có điều kiện, bằng chứng rất thấp",
+   "head": [
+    "Cách đánh giá",
+    "Ví dụ",
+    "Lưu ý"
+   ],
+   "widths": "1fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Dựa trên thang điểm</b>",
+      "RASS (an thần) · CPOT (đau)",
+      "Chuẩn hoá, khách quan · <b>mất giá trị khi đã liệt cơ</b>"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Thiết bị</b>",
+      "Điện não · chỉ số lưỡng phổ BIS",
+      "BIS có thể sai khi giãn cơ"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Lâm sàng</b>",
+      "Nhịp nhanh, tăng huyết áp, vã mồ hôi, cử động, tương tác với máy thở",
+      "Dựa vào kinh nghiệm người đánh giá"
+     ],
+     "at": 2
+    },
+    {
+     "cells": [
+      "<b>Đang nghiên cứu</b>",
+      "Chỉ số đau dựa trên biến thiên nhịp tim · đo đồng tử bằng video",
+      "Chưa được thẩm định rộng"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo ba và bốn bàn về an thần, giảm đau. Trước khi giãn cơ, đánh giá bằng thang điểm như RASS cho an thần và CPOT cho đau, hay bằng nhận định lâm sàng, đều được. Khi đang giãn cơ, có hoặc không dùng công cụ theo dõi chuyên biệt cũng đều được.",
+    "Thiết bị như điện não đồ hay chỉ số lưỡng phổ có thể hỗ trợ, nhưng có giới hạn.",
+    "Đánh giá lâm sàng dựa vào dấu hiệu sinh tồn như nhịp nhanh, tăng huyết áp, vã mồ hôi, cử động và tương tác với máy thở.",
+    "Các công cụ mới như chỉ số đau dựa trên biến thiên nhịp tim, hay đo đồng tử bằng video, còn cần thẩm định thêm."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "stats",
+   "chapter": "Bẫy an thần",
+   "title": "Liệt nhưng có thể vẫn tỉnh",
+   "ref": "Khuyến cáo 4 · Schuller 2015",
+   "tiles": [
+    {
+     "tag": "NGƯỜI TÌNH NGUYỆN TỈNH",
+     "v": 2,
+     "suf": "/10",
+     "l": "có chỉ số BIS như đang an thần sâu khi được giãn cơ",
+     "d": "Hoàn toàn tỉnh táo",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "v": 85.5,
+     "dec": 1,
+     "suf": "%",
+     "l": "bác sĩ hồi sức Hoa Kỳ chỉ truyền giãn cơ sau khi thử an thần sâu",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "note": {
+    "t": "Nguyên tắc bắt buộc dù bằng chứng thấp: <b>bảo đảm an thần, giảm đau đủ sâu trước khi bắt đầu và trong suốt thời gian giãn cơ</b> · đánh giá lại mỗi lần tạm ngừng thuốc giãn cơ",
+    "at": 3,
+    "c": "amber"
+   },
+   "lines": [
+    "Đây là lý do phải hết sức cẩn trọng. Trong một nghiên cứu, khi cho người tình nguyện hoàn toàn tỉnh táo dùng thuốc giãn cơ, hai trên mười người có chỉ số lưỡng phổ ở mức tương ứng an thần sâu.",
+    "Nghĩa là một con số BIS thấp không bảo đảm người bệnh đã mất ý thức.",
+    "Trong thực hành, 85,5% bác sĩ hồi sức Hoa Kỳ chỉ truyền giãn cơ sau khi đã thử an thần sâu.",
+    "Vì vậy, dù bằng chứng thấp, hướng dẫn nhấn mạnh: phải bảo đảm an thần và giảm đau đủ sâu trước khi bắt đầu và trong suốt thời gian giãn cơ, và tận dụng mỗi lần tạm ngừng thuốc giãn cơ để đánh giá lại."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "Khuyến cáo 5",
+   "title": "Giãn cơ khi nằm sấp",
+   "ref": "Khuyến cáo 5 · có điều kiện, bằng chứng rất thấp",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "PROSEVA 2013",
+     "t": "Nằm sấp giảm tử vong",
+     "items": [
+      "Giãn cơ dùng ở <b>91%</b> nhóm nằm sấp",
+      "82,3% ở nhóm chứng",
+      "Không tách được tác dụng của giãn cơ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "COVID-19",
+     "t": "Dữ liệu quan sát",
+     "items": [
+      "Giãn cơ khi nằm sấp cải thiện oxy hoá",
+      "Chưa chứng minh cải thiện kết cục người bệnh"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Rất khác nhau",
+     "items": [
+      "<b>34%</b> bác sĩ: để dành giãn cơ đến sau khi nằm sấp",
+      "Khuyến cáo: dùng hay không đều được"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo năm: ở bệnh nhân nằm sấp, dùng hay không dùng giãn cơ đều được. Trong thử nghiệm PROSEVA, nằm sấp giảm tử vong, nhưng giãn cơ được dùng ở 91% nhóm nằm sấp và 82,3% nhóm chứng, nên không tách được vai trò riêng của giãn cơ.",
+    "Dữ liệu quan sát ở suy hô hấp do COVID-19 cho thấy giãn cơ khi nằm sấp cải thiện oxy hoá, nhưng chưa có bằng chứng cải thiện kết cục người bệnh.",
+    "Thực hành rất khác nhau: 34% bác sĩ trong một khảo sát cho rằng nên để dành giãn cơ đến sau khi đã nằm sấp. Câu hỏi giãn cơ trước hay nằm sấp trước vẫn đang chờ nghiên cứu."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "flow",
+   "chapter": "Lưu đồ thực hành",
+   "title": "Khi nào bắt đầu và cách dùng an toàn",
+   "ref": "Tổng hợp từ khuyến cáo 1–5 · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "ARDS đang thở máy",
+     "x": 190,
+     "y": 150,
+     "w": 320,
+     "h": 110,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Tối ưu trước",
+     "d": "Thông khí bảo vệ phổi · an thần · xử lý mất đồng bộ · cân nhắc nằm sấp",
+     "x": 640,
+     "y": 150,
+     "w": 460,
+     "h": 160,
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "PaO₂/FiO₂ < 150?",
+     "d": "còn giảm oxy và/hoặc không đạt mục tiêu thở máy",
+     "x": 1130,
+     "y": 150,
+     "w": 420,
+     "h": 160,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Tiếp tục tối ưu",
+     "d": "Không giãn cơ thường quy",
+     "x": 1580,
+     "y": 150,
+     "w": 340,
+     "h": 130,
+     "c": "green",
+     "at": 1
+    },
+    {
+     "id": "e",
+     "t": "An thần, giảm đau đủ sâu",
+     "d": "Thang điểm hoặc lâm sàng",
+     "x": 1130,
+     "y": 520,
+     "w": 420,
+     "h": 140,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "f",
+     "t": "Giãn cơ ≤ 48 giờ",
+     "d": "Liều cố định hoặc chỉnh theo TOF",
+     "x": 640,
+     "y": 520,
+     "w": 420,
+     "h": 140,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "g",
+     "t": "Ngừng · đánh giá tồn dư",
+     "d": "Đánh giá lại an thần, yếu cơ",
+     "x": 190,
+     "y": 520,
+     "w": 340,
+     "h": 140,
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "green",
+     "at": 1,
+     "label": "Không"
+    },
+    {
+     "a": "c",
+     "b": "e",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "a": "e",
+     "b": "f",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "a": "f",
+     "b": "g",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Tổng hợp lại thành lưu đồ thực hành. Lưu ý đây là sơ đồ chúng tôi tổng hợp từ các khuyến cáo, không phải hình gốc của hướng dẫn. Với bệnh nhân suy hô hấp cấp tiến triển đang thở máy, bước đầu luôn là tối ưu: thông khí bảo vệ phổi, an thần, xử lý mất đồng bộ, và cân nhắc nằm sấp.",
+    "Sau đó hỏi: PaO₂/FiO₂ có dưới 150, còn giảm oxy hoặc không đạt mục tiêu thở máy không? Nếu không, tiếp tục tối ưu, không giãn cơ thường quy.",
+    "Nếu có, bảo đảm an thần và giảm đau đủ sâu trước.",
+    "Rồi mới giãn cơ, giới hạn khoảng 48 giờ, dùng liều cố định hoặc chỉnh theo chuỗi bốn kích thích.",
+    "Khi ngừng, đánh giá giãn cơ tồn dư, an thần và nguy cơ yếu cơ mắc phải tại hồi sức."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: P/F 140, mất đồng bộ",
+   "ref": "Khuyến cáo 1",
+   "case": "Nam 54 tuổi, viêm phổi, ARDS ngày 1, thở máy Vt 6 mL/kg. PaO₂/FiO₂ <b>140</b> với PEEP 12. Ho, chống máy liên tục, RASS <b>+1</b>, áp lực bình nguyên dao động.",
+   "case_at": 0,
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Bắt đầu cisatracurium ngay",
+    "Tối ưu an thần, giảm đau và cài đặt máy thở trước",
+    "Không bao giờ giãn cơ khi P/F > 100",
+    "Giãn cơ 7 ngày liên tục"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Khuyến cáo 1 áp dụng khi <b>vẫn</b> giảm oxy hoặc không đạt mục tiêu thở máy <b>dù đã an thần</b>. RASS +1 → chưa an thần đủ: tối ưu an thần, máy thở trước; nếu vẫn thất bại → giãn cơ, thường ≤ 48 giờ.",
+   "lines": [
+    "Tình huống thứ nhất. Nam 54 tuổi, viêm phổi, suy hô hấp cấp tiến triển ngày đầu, thở máy thể tích khí lưu thông 6 mililít mỗi kilôgam. PaO₂/FiO₂ là 140 với PEEP 12. Người bệnh ho, chống máy liên tục, RASS cộng 1.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Khuyến cáo một chỉ áp dụng khi người bệnh vẫn giảm oxy hoặc không đạt mục tiêu thở máy dù đã được an thần. Ở đây RASS cộng 1, tức chưa an thần đủ. Phải tối ưu an thần, giảm đau và cài đặt máy thở trước.",
+    "Nếu sau đó vẫn thất bại với PaO₂/FiO₂ dưới 150, giãn cơ là hợp lý, và nên giới hạn khoảng 48 giờ. Lựa chọn D sai vì thời gian dùng kéo dài không có cơ sở và làm tăng nguy cơ yếu cơ."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: BIS 45 có đủ an toàn?",
+   "ref": "Khuyến cáo 3, 4",
+   "case": "Nữ 47 tuổi, ARDS nặng, đang truyền cisatracurium. Bác sĩ trực giảm dần propofol, fentanyl vì <b>BIS 45</b> ổn định. Nhịp tim tăng từ 88 lên 124, huyết áp tăng, vã mồ hôi.",
+   "case_at": 0,
+   "q": "Nhận định nào đúng?",
+   "q_at": 1,
+   "options": [
+    "BIS 45 chứng tỏ người bệnh đã mất ý thức",
+    "Có thể đang tỉnh hoặc đau: tăng lại an thần, giảm đau, đánh giá lại",
+    "Tăng liều cisatracurium",
+    "Ngừng mọi thuốc an thần cho tỉnh sớm"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Khi đã liệt cơ, BIS có thể sai (2/10 người tỉnh có BIS như an thần sâu). Nhịp nhanh, tăng huyết áp, vã mồ hôi là dấu hiệu lâm sàng của đau hoặc tỉnh → bảo đảm an thần, giảm đau đủ sâu.",
+   "lines": [
+    "Tình huống thứ hai. Nữ 47 tuổi, suy hô hấp cấp tiến triển nặng, đang truyền cisatracurium. Bác sĩ trực giảm dần propofol và fentanyl vì chỉ số lưỡng phổ ổn định ở 45. Sau đó nhịp tim tăng từ 88 lên 124, huyết áp tăng, vã mồ hôi.",
+    "Nhận định nào đúng?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Khi người bệnh đã bị liệt cơ, chỉ số lưỡng phổ có thể sai, như hai trên mười người tình nguyện tỉnh táo vẫn có giá trị tương ứng an thần sâu. Nhịp nhanh, tăng huyết áp, vã mồ hôi là những dấu hiệu lâm sàng gợi ý đau hoặc tỉnh.",
+    "Cần tăng lại an thần, giảm đau và đánh giá lại ngay. Tăng liều giãn cơ chỉ che giấu vấn đề, còn ngừng an thần khi người bệnh đang liệt là điều tuyệt đối tránh."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "list",
+   "chapter": "Câu hỏi còn bỏ ngỏ · Bảng 3",
+   "title": "Những gì chúng ta chưa biết",
+   "ref": "Bảng 3 · Ưu tiên nghiên cứu",
+   "items": [
+    {
+     "t": "Ngưỡng bắt đầu tối ưu",
+     "d": "Sớm hay muộn · ngưỡng PaO₂/FiO₂ · cơ học phổi · rối loạn thất phải",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Thuốc, liều và độ sâu giãn cơ",
+     "d": "Giãn cơ hoàn toàn hay một phần · mục tiêu TOF · thời gian",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Giãn cơ trước hay nằm sấp trước?",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Phối hợp với PEEP cao, nằm sấp, corticoid",
+     "d": "Hiệp đồng hay đối kháng?",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Kết cục người bệnh",
+     "d": "Chất lượng sống, nhận thức, tâm lý sau hồi sức",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bảng ba liệt kê các câu hỏi còn bỏ ngỏ. Thứ nhất, thời điểm và ngưỡng bắt đầu tối ưu: sớm hay muộn, ngưỡng PaO₂/FiO₂ nào, có dựa vào cơ học phổi hay rối loạn thất phải không.",
+    "Thứ hai, chọn thuốc, liều, và độ sâu giãn cơ cần đạt.",
+    "Thứ ba, nên giãn cơ trước hay nằm sấp trước.",
+    "Thứ tư, giãn cơ phối hợp với PEEP cao, nằm sấp và corticoid là hiệp đồng hay đối kháng.",
+    "Và cuối cùng, các kết cục người bệnh quan tâm như chất lượng sống, nhận thức và tâm lý sau hồi sức."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp mang về",
+   "items": [
+    {
+     "t": "Tối ưu máy thở, an thần trước",
+     "d": "Giãn cơ không phải bước đầu",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Giãn cơ khi PaO₂/FiO₂ < 150",
+     "d": "Vẫn thất bại dù đã an thần · có điều kiện, bằng chứng thấp",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Giới hạn ≈ 48 giờ",
+     "d": "Thử nghiệm: cisatracurium 15 mg rồi 37,5 mg/giờ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Liều cố định hay chỉnh theo TOF",
+     "d": "Đều được · nhớ đánh giá giãn cơ tồn dư",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "An thần, giảm đau đủ sâu",
+     "d": "BIS có thể sai khi liệt cơ",
+     "at": 3,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "t": "Nằm sấp: giãn cơ hay không đều được",
+     "d": "Cá thể hoá theo người bệnh, quy trình đơn vị",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Xin tóm lại bằng sáu thông điệp. Giãn cơ không phải bước đầu tiên: luôn tối ưu máy thở và an thần trước. Khi PaO₂/FiO₂ dưới 150 mà vẫn thất bại dù đã an thần, giãn cơ là lựa chọn hợp lý.",
+    "Giới hạn thời gian khoảng 48 giờ; phác đồ trong thử nghiệm là cisatracurium 15 miligam rồi 37,5 miligam mỗi giờ.",
+    "Liều cố định hay chỉnh theo chuỗi bốn kích thích đều được, nhưng luôn đánh giá giãn cơ tồn dư.",
+    "Bảo đảm an thần, giảm đau đủ sâu, và nhớ rằng chỉ số lưỡng phổ có thể sai khi người bệnh đã liệt cơ.",
+    "Ở bệnh nhân nằm sấp, dùng hay không giãn cơ đều được, cá thể hoá theo người bệnh và quy trình của đơn vị. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online. Hẹn gặp lại quý vị ở các chuyên đề tiếp theo."
+   ]
+  }
+ ]
+}
