@@ -1,0 +1,898 @@
+{
+ "title": "ARDS chuyên sâu – Phần 6: Điều trị hỗ trợ, cập nhật mới và ôn tập",
+ "theme": "sinh-ly",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "ARDS chuyên sâu",
+ "part": "ARDS chuyên sâu · Phần 6/6",
+ "source_short": "Nguồn: FACTT (NEJM 2006) · DEXA-ARDS (Lancet Respir Med 2020) · ATS 2023 · ESICM 2023 · Matthay 2024 · Murray & Nadel 7e · Textbook of Critical Care 8e",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "SpO₂/FiO₂": "ét pê ô hai trên phi ô hai",
+  "LUNG SAFE": "lung sêi",
+  "Gattinoni": "Ga ti nô ni",
+  "DEXA-ARDS": "đếch xa a rờ đê ét",
+  "COVID-19": "cô vít mười chín",
+  "Ashbaugh": "Át bâu",
+  "ARDSNet": "a rờ đê ét nét",
+  "PROVENT": "prô ven",
+  "ALVEOLI": "an vê ô li",
+  "BALTI-2": "ban ti hai",
+  "Kigali": "Ki ga li",
+  "HARP-2": "háp hai",
+  "Calfee": "Can phi",
+  "L/phút": "lít mỗi phút",
+  "PaCO₂": "pa cô hai",
+  "FACTT": "phác",
+  "ESICM": "e sích",
+  "Amato": "A ma tô",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "AUROC": "diện tích dưới đường cong",
+  "SAILS": "seo",
+  "LaSRS": "la ét",
+  "PaO₂": "pa ô hai",
+  "SpO₂": "ét pê ô hai",
+  "FiO₂": "phi ô hai",
+  "PEEP": "píp",
+  "ARDS": "a rờ đê ét",
+  "AECC": "a e xê xê",
+  "CPAP": "xi páp",
+  "ECMO": "éc mô",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NETs": "nét",
+  "RAGE": "rết",
+  "HFNO": "oxy dòng cao qua mũi",
+  "PAOP": "áp lực mao mạch phổi bít",
+  "EDEN": "i đần",
+  "SCCM": "ét xê xê em",
+  "DLCO": "khả năng khuếch tán",
+  "P/F": "pê trên ép",
+  "S/F": "ét trên ép",
+  "ATS": "a tê ét",
+  "CVP": "áp lực tĩnh mạch trung tâm",
+  "Vt": "vê tê",
+  "mg": "mi li gam"
+ },
+ "brand": {
+  "next": "Trọn bộ ARDS chuyên sâu: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "art": "ards",
+   "chapter": "Mở đầu",
+   "kicker": "ARDS CHUYÊN SÂU · PHẦN 6/6",
+   "title": "Điều trị hỗ trợ, cập nhật mới<br>và ôn tập toàn loạt",
+   "subtitle": "Dịch, corticoid, hỗ trợ không xâm lấn và một ca lâm sàng xuyên suốt",
+   "badges": [
+    {
+     "t": "FACTT",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "DEXA-ARDS · ATS 2023",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Ôn tập",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "note": "Phần cuối của loạt bài ARDS chuyên sâu · Thư Viện Y Khoa Online",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Phần 6, phần cuối của loạt bài ARDS chuyên sâu.",
+    "Sau năm phần về định nghĩa, chẩn đoán, thở máy và các biện pháp cứu vãn, phần này đi vào điều trị hỗ trợ: chiến lược dịch, corticoid, dinh dưỡng, những thuốc đã thất bại, và hỗ trợ hô hấp không xâm lấn.",
+    "Chúng ta cũng nhìn lại các cập nhật mới nhất, và những gì xảy ra với người bệnh sau khi rời hồi sức.",
+    "Cuối cùng, chúng ta sẽ ôn tập toàn bộ loạt bài qua một ca lâm sàng xuyên suốt, với từng điểm quyết định."
+   ]
+  },
+  {
+   "id": "s02",
+   "layout": "timeline",
+   "chapter": "Cập nhật mới",
+   "title": "Bốn cập nhật quan trọng 2023–2026",
+   "ref": "ESICM 2023 · ATS 2023 · Matthay 2024 · SCCM 2026",
+   "events": [
+    {
+     "year": "2023",
+     "t": "ESICM",
+     "d": "Định nghĩa, phân nhóm, hỗ trợ hô hấp",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "year": "2023",
+     "t": "ATS",
+     "d": "Corticoid · ECMO · giãn cơ · PEEP cao không huy động",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "year": "2024",
+     "t": "Định nghĩa toàn cầu",
+     "d": "Oxy dòng cao · SpO₂/FiO₂ · siêu âm · nơi thiếu phương tiện",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "2026",
+     "t": "SCCM",
+     "d": "Giãn cơ trong ARDS · an thần trước và trong khi giãn cơ",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Trước khi vào điều trị hỗ trợ, hãy điểm lại bốn cập nhật quan trọng. Năm 2023, ESICM ban hành hướng dẫn về định nghĩa, phân nhóm và các chiến lược hỗ trợ hô hấp.",
+    "Cũng năm 2023, ATS cập nhật bốn câu hỏi: corticoid, ECMO, giãn cơ và PEEP cao không kèm huy động.",
+    "Năm 2024, định nghĩa toàn cầu mở rộng ARDS sang người bệnh thở oxy dòng cao, chấp nhận SpO₂/FiO₂ và siêu âm phổi, với tiêu chí riêng cho nơi thiếu phương tiện.",
+    "Và năm 2026, SCCM ban hành hướng dẫn chuyên về giãn cơ trong ARDS, đã được phân tích trong một video riêng của kênh."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "cards",
+   "chapter": "Chiến lược dịch",
+   "title": "FACTT: dịch hạn chế hay dịch tự do?",
+   "ref": "ARDS Network, FACTT, NEJM 2006 · Murray & Nadel 7e",
+   "cards": [
+    {
+     "tag": "THIẾT KẾ",
+     "t": "1000 người bệnh, 7 ngày",
+     "items": [
+      "Phác đồ 20 ô dựa trên áp lực đổ đầy, sốc, thiểu niệu, tuần hoàn hiệu quả",
+      "Dịch hạn chế: áp lực đổ đầy thấp hơn · lợi tiểu",
+      "Dịch tự do: áp lực đổ đầy cao hơn"
+     ],
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "tag": "ĐIỀU KIỆN",
+     "t": "Chỉ hạn chế khi hết sốc",
+     "items": [
+      "Sốc: huyết áp trung bình < 60 hoặc cần vận mạch",
+      "Sốc được hồi sức trước",
+      "Lợi tiểu khi tuần hoàn hiệu quả"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "CÂU HỎI",
+     "t": "Phù phổi hay tưới máu?",
+     "items": [
+      "Giảm dịch: phổi khô hơn",
+      "Nhưng có thể giảm tưới máu cơ quan",
+      "→ FACTT trả lời"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Chiến lược dịch luôn là bài toán khó trong ARDS: lợi tiểu hay hạn chế dịch có thể giúp phổi khô hơn, nhưng có thể làm giảm tưới máu các cơ quan khác.",
+    "Thử nghiệm FACTT của mạng lưới ARDS năm 2006 trả lời câu hỏi này trên 1000 người bệnh, áp dụng trong 7 ngày. Mỗi 4 giờ, người bệnh được xếp vào một trong 20 ô của phác đồ, dựa trên áp lực đổ đầy, có sốc hay không, có thiểu niệu hay không, và tuần hoàn có hiệu quả hay không.",
+    "Điểm then chốt: chiến lược hạn chế dịch chỉ áp dụng khi người bệnh đã hết sốc. Khi còn sốc, người bệnh được hồi sức trước, dùng dịch và vận mạch.",
+    "Nhóm hạn chế nhắm áp lực đổ đầy thấp hơn và dùng lợi tiểu, nhóm tự do nhắm áp lực đổ đầy cao hơn."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "stats",
+   "chapter": "Chiến lược dịch",
+   "title": "FACTT: kết quả",
+   "ref": "ARDS Network, FACTT, NEJM 2006",
+   "tiles": [
+    {
+     "tag": "CÂN BẰNG DỊCH 7 NGÀY",
+     "v": -136,
+     "suf": " mL",
+     "l": "nhóm hạn chế, so với +6.992 mL",
+     "d": "Người còn sốc ban đầu: +2.904 so với +10.138 mL",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "tag": "NGÀY KHÔNG THỞ MÁY",
+     "v": 14.6,
+     "dec": 1,
+     "l": "so với 12,1 ngày (P < 0,001)",
+     "d": "Ngày không nằm ICU: 13,4 so với 11,2",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "TỬ VONG 60 NGÀY",
+     "v": 25.5,
+     "dec": 1,
+     "suf": "%",
+     "l": "so với 28,4% (P = 0,30)",
+     "d": "Không khác biệt có ý nghĩa",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "cols": 3,
+   "h": 420,
+   "note": {
+    "t": "Nhóm hạn chế cải thiện oxy hoá, <b>không tăng sốc hay lọc máu</b> · “hạn chế dịch khi đã hết sốc, tránh lợi tiểu quá mức”",
+    "at": 3,
+    "c": "green"
+   },
+   "lines": [
+    "Kết quả: cân bằng dịch 7 ngày ở nhóm hạn chế là âm 136 mililít, so với dương gần 7 lít ở nhóm tự do. Ngay cả ở người bệnh có sốc ban đầu, cân bằng cũng là dương 2,9 lít so với dương 10 lít.",
+    "Nhóm hạn chế dịch có nhiều ngày không thở máy hơn, 14,6 so với 12,1 ngày, và nhiều ngày không nằm hồi sức hơn.",
+    "Tử vong 60 ngày không khác biệt có ý nghĩa: 25,5 so với 28,4 phần trăm.",
+    "Quan trọng là nhóm hạn chế dịch cải thiện oxy hoá mà không tăng sốc hay nhu cầu lọc máu. Thông điệp của Murray và Nadel: quản lý dịch theo hướng hạn chế ở người bệnh đã hết sốc, tránh lợi tiểu quá mức gây giảm thể tích."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "cards",
+   "chapter": "Chiến lược dịch",
+   "title": "Dịch trong thực hành: những gì đã rõ và chưa rõ",
+   "ref": "Murray & Nadel 7e · Textbook of Critical Care 8e",
+   "cards": [
+    {
+     "tag": "ĐÃ RÕ",
+     "t": "Nên làm",
+     "items": [
+      "Hồi sức sốc trước, hạn chế dịch khi hết sốc",
+      "Không đặt catheter động mạch phổi thường quy",
+      "Cân bằng dịch dương ngày 4: tiên lượng xấu"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "LOẠI DỊCH",
+     "t": "Suy ra từ người bệnh nặng",
+     "items": [
+      "Ưu tiên tinh thể cân bằng hơn nước muối sinh lý",
+      "Tránh tinh bột (tăng suy thận trong nhiễm khuẩn huyết)",
+      "Albumin: cải thiện oxy, chưa thấy giảm tử vong"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "CHƯA RÕ",
+     "t": "Phenotype",
+     "items": [
+      "Phân tích lại FACTT: nhóm giảm viêm có thể có lợi với dịch tự do",
+      "Nhóm tăng viêm có lợi với dịch hạn chế",
+      "Chưa dùng để chọn điều trị (Phần 2)"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Trong thực hành, những gì đã rõ: hồi sức sốc trước, hạn chế dịch khi đã hết sốc, không đặt catheter động mạch phổi thường quy vì không cải thiện kết cục.",
+    "Theo Textbook of Critical Care, cân bằng dịch dương vào ngày thứ 4 là yếu tố tiên lượng tử vong.",
+    "Về loại dịch, dữ liệu riêng cho ARDS còn ít. Suy ra từ người bệnh nặng và nhiễm khuẩn huyết, nên ưu tiên dịch tinh thể cân bằng hơn nước muối sinh lý, tránh dung dịch tinh bột. Albumin cải thiện oxy hoá nhưng chưa thấy giảm tử vong.",
+    "Và như Phần 2, phân tích lại FACTT gợi ý hai phenotype đáp ứng ngược nhau với chiến lược dịch, nhưng đây vẫn là giả thuyết, chưa dùng để chọn điều trị."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "timeline",
+   "chapter": "Corticoid",
+   "title": "Corticoid trong ARDS: 40 năm tranh luận",
+   "ref": "Murray & Nadel 7e · ATS 2023",
+   "events": [
+    {
+     "year": "1980s",
+     "t": "Liều rất cao",
+     "d": "Methylprednisolon 30 mg/kg mỗi 6 giờ × 1–2 ngày · không lợi, tăng nhiễm khuẩn",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "year": "2006",
+     "t": "ARDS muộn",
+     "d": "≥ 7 ngày: không giảm tử vong · bắt đầu > 14 ngày: tăng tử vong",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "year": "2016",
+     "t": "Liều thấp, sớm",
+     "d": "Gộp 4 thử nghiệm: rút máy nhanh hơn · trước ngày 14: tử vong 20% so với 39%",
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "year": "2020",
+     "t": "DEXA-ARDS",
+     "d": "Dexamethasone sớm · 277 người bệnh · tử vong 21% so với 36%",
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "year": "2023",
+     "t": "ATS",
+     "d": "Gợi ý dùng corticoid · có điều kiện, bằng chứng vừa",
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Corticoid là chủ đề tranh luận lâu nhất trong ARDS. Những thử nghiệm đầu dùng liều rất cao, methylprednisolon 30 miligam mỗi ký mỗi 6 giờ trong 1 đến 2 ngày, không có lợi, một thử nghiệm còn tăng nhiễm khuẩn. Tất cả đều trước kỷ nguyên thông khí bảo vệ phổi.",
+    "Năm 2006, thử nghiệm của mạng lưới ARDS dùng corticoid ở ARDS kéo dài từ 7 ngày trở lên: cải thiện oxy và ngày không thở máy, nhưng không giảm tử vong, và nhóm bắt đầu sau ngày 14 có tử vong tăng.",
+    "Năm 2016, phân tích gộp dữ liệu từng người bệnh từ 4 thử nghiệm dùng methylprednisolon liều thấp cho thấy rút máy nhanh hơn, và nếu bắt đầu trước ngày 14, tử vong bệnh viện 20 so với 39 phần trăm.",
+    "Năm 2020, thử nghiệm DEXA-ARDS ở Tây Ban Nha cung cấp bằng chứng mạnh nhất cho dexamethasone sớm.",
+    "Và năm 2023, ATS lần đầu đưa ra khuyến cáo: gợi ý dùng corticoid cho ARDS."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "stats",
+   "chapter": "Corticoid",
+   "title": "DEXA-ARDS 2020",
+   "ref": "Villar J và cs., Lancet Respir Med 2020",
+   "tiles": [
+    {
+     "tag": "TỬ VONG 60 NGÀY",
+     "v": 21,
+     "suf": "%",
+     "l": "dexamethasone, so với 36%",
+     "d": "Khác biệt −15,3% (−25,9 đến −4,9) · P = 0,0047",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "NGÀY KHÔNG THỞ MÁY",
+     "v": 4.8,
+     "dec": 1,
+     "pre": "+",
+     "suf": " ngày",
+     "l": "so với nhóm chứng",
+     "d": "Khoảng tin cậy 95%: 2,57–7,03",
+     "c": "green",
+     "at": 3
+    },
+    {
+     "tag": "TÁC DỤNG PHỤ",
+     "v": 76,
+     "suf": "%",
+     "l": "tăng đường huyết (so với 70%)",
+     "d": "Nhiễm khuẩn mới 24% so với 25% · chấn thương áp lực 10% so với 7%",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "cols": 3,
+   "h": 420,
+   "note": {
+    "t": "277 người bệnh · P/F ≤ 200 với PEEP ≥ 10, FiO₂ ≥ 0,5 sau 24 giờ · <b>dexamethasone 20 mg/ngày × 5 ngày → 10 mg/ngày × 5 ngày</b> · thông khí bảo vệ phổi cả hai nhóm",
+    "at": 0,
+    "c": "blue"
+   },
+   "lines": [
+    "DEXA-ARDS tuyển 277 người bệnh ARDS vừa và nặng đã ổn định: PaO₂/FiO₂ không quá 200 với PEEP từ 10 và FiO₂ từ 0,5, đánh giá sau 24 giờ.",
+    "Nhóm can thiệp dùng dexamethasone tĩnh mạch 20 miligam mỗi ngày từ ngày 1 đến 5, rồi 10 miligam mỗi ngày từ ngày 6 đến 10. Cả hai nhóm đều được thông khí bảo vệ phổi.",
+    "Tử vong 60 ngày giảm từ 36 xuống 21 phần trăm.",
+    "Số ngày không thở máy tăng thêm 4,8 ngày.",
+    "Tác dụng phụ không khác biệt có ý nghĩa: tăng đường huyết 76 so với 70 phần trăm, nhiễm khuẩn mới 24 so với 25 phần trăm. Lưu ý thử nghiệm dừng sớm do tuyển chọn chậm, đạt 88 phần trăm cỡ mẫu dự kiến."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "box",
+   "chapter": "Corticoid",
+   "title": "Khuyến cáo ATS 2023 về corticoid",
+   "ref": "ATS 2023, Câu hỏi 1",
+   "box": {
+    "tag": "ATS 2023 · CÓ ĐIỀU KIỆN · BẰNG CHỨNG VỪA",
+    "t": "<b>Gợi ý dùng corticoid</b> cho người bệnh ARDS · 19 thử nghiệm, 2790 người bệnh · tử vong <b>RR 0,84</b> (0,73–0,96) · thở máy ngắn hơn ~4 ngày",
+    "at": 0,
+    "c": "teal"
+   },
+   "notes": [
+    {
+     "tag": "VÌ SAO CÓ ĐIỀU KIỆN",
+     "t": "Liều, thời điểm, thời gian rất khác nhau giữa các thử nghiệm · dữ liệu tác dụng phụ còn ít",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "TÁC DỤNG PHỤ",
+     "t": "Tăng đường huyết nặng RR 1,11 · xuất huyết tiêu hoá chưa chắc chắn",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "ESICM 2023",
+     "t": "Không đề cập corticoid trong phạm vi hướng dẫn",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "ATS 2023 gợi ý dùng corticoid cho người bệnh ARDS, khuyến cáo có điều kiện, bằng chứng mức vừa. Phân tích gộp 19 thử nghiệm, 2790 người bệnh: nguy cơ tương đối tử vong 0,84, thời gian thở máy ngắn hơn khoảng 4 ngày.",
+    "Khuyến cáo chỉ ở mức có điều kiện vì liều, thời điểm bắt đầu và thời gian dùng rất khác nhau giữa các thử nghiệm, và dữ liệu về tác dụng phụ, đặc biệt nhiễm khuẩn, còn hạn chế.",
+    "Tác dụng phụ được ghi nhận là tăng đường huyết nặng, nguy cơ tương đối 1,11, còn xuất huyết tiêu hoá chưa chắc chắn.",
+    "Lưu ý ESICM 2023 không đề cập corticoid, vì hướng dẫn này tập trung vào định nghĩa, phân nhóm và hỗ trợ hô hấp."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "cards",
+   "chapter": "Corticoid",
+   "title": "Dùng corticoid an toàn trong thực hành",
+   "ref": "ATS 2023 · Murray & Nadel 7e",
+   "cards": [
+    {
+     "tag": "CHỌN PHÁC ĐỒ",
+     "t": "Theo nguyên nhân",
+     "items": [
+      "Có phác đồ riêng: viêm phổi cộng đồng nặng, viêm phổi Pneumocystis ở người nhiễm HIV, COVID-19",
+      "Nguyên nhân khác: chọn một phác đồ đã thử nghiệm, như DEXA-ARDS",
+      "Nhiều thử nghiệm ngừng khi rút ống"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "THỜI ĐIỂM",
+     "t": "Sớm, không muộn",
+     "items": [
+      "Bắt đầu > 2 tuần sau khởi phát: có thể hại",
+      "Áp dụng chủ yếu cho người bệnh đã đặt ống"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "THẬN TRỌNG",
+     "t": "Theo dõi sát",
+     "items": [
+      "Suy giảm miễn dịch, hội chứng chuyển hoá",
+      "Vùng lưu hành lao, ký sinh trùng",
+      "Đường huyết, nhiễm khuẩn mới"
+     ],
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Trong thực hành, ATS không chỉ định một phác đồ cụ thể. Với những nguyên nhân đã có phác đồ được chứng minh, như viêm phổi cộng đồng nặng, viêm phổi do Pneumocystis ở người nhiễm HIV, và COVID-19, hãy dùng đúng phác đồ đó.",
+    "Với các nguyên nhân khác, có thể chọn một trong các phác đồ đã được thử nghiệm, chẳng hạn DEXA-ARDS, tuỳ nguy cơ tác dụng phụ của từng người. Nhiều thử nghiệm ngừng corticoid khi rút ống.",
+    "Về thời điểm, bắt đầu corticoid sau 2 tuần kể từ khởi phát ARDS có thể có hại. Khuyến cáo áp dụng chủ yếu cho người bệnh đã đặt nội khí quản.",
+    "Và cần theo dõi sát ở người suy giảm miễn dịch, có hội chứng chuyển hoá, và đặc biệt ở vùng lưu hành lao và ký sinh trùng như Việt Nam. Kiểm soát đường huyết và theo dõi nhiễm khuẩn mới."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "Những thuốc đã thất bại",
+   "title": "Hấp dẫn trên lý thuyết, thất bại trên lâm sàng",
+   "ref": "Murray & Nadel 7e · Irwin & Rippe 9e · ESICM 2023",
+   "head": [
+    "Liệu pháp",
+    "Cơ sở",
+    "Kết quả"
+   ],
+   "widths": "1fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Surfactant",
+      "Surfactant bất hoạt trong ARDS",
+      "4 thử nghiệm lớn ở người lớn: không giảm tử vong"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Đồng vận β₂ tĩnh mạch",
+      "Tăng thanh thải dịch phế nang",
+      "Kết quả thất vọng"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Statin",
+      "Chống viêm",
+      "HARP-2, SAILS: không lợi ích chung"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Protein C hoạt hoá · ức chế elastase",
+      "Viêm – đông máu · bạch cầu",
+      "Dừng sớm vì không hiệu quả"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Omega-3, nuôi dưỡng miễn dịch · aspirin dự phòng",
+      "Điều hoà miễn dịch · tiểu cầu",
+      "Không lợi ích · không dự phòng được ARDS"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "ARDS là nghĩa địa của nhiều liệu pháp hấp dẫn trên lý thuyết. Surfactant: dù surfactant bị bất hoạt trong ARDS, bốn thử nghiệm lớn ở người lớn không giảm tử vong.",
+    "Đồng vận bê ta hai tĩnh mạch, nhằm tăng thanh thải dịch phế nang, cho kết quả thất vọng. Statin trong HARP-2 và SAILS không có lợi ích chung, chỉ còn giả thuyết ở phenotype tăng viêm.",
+    "Protein C hoạt hoá và thuốc ức chế elastase bạch cầu đều dừng sớm vì không hiệu quả.",
+    "Omega-3 và nuôi dưỡng miễn dịch không cải thiện kết cục, và aspirin dùng sớm cũng không dự phòng được ARDS ở người có nguy cơ cao. Bài học: đến nay, chưa có thuốc nào điều trị đặc hiệu tổn thương phổi trong ARDS; nền tảng vẫn là chăm sóc hỗ trợ tốt."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "compare",
+   "chapter": "Hỗ trợ không xâm lấn",
+   "title": "Oxy dòng cao, CPAP, thở máy không xâm lấn: ESICM 2023",
+   "ref": "ESICM 2023, Khuyến cáo 3.1–4.3",
+   "head": [
+    "So sánh",
+    "Khuyến cáo",
+    "Ghi chú"
+   ],
+   "widths": "1.2fr 1.8fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Oxy dòng cao so với oxy thường",
+      "<b>Khuyến cáo mạnh</b> dùng oxy dòng cao để giảm đặt ống",
+      "Không giảm tử vong · áp dụng cả COVID-19"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Oxy dòng cao so với CPAP / thở máy không xâm lấn",
+      "Không khuyến cáo theo hay chống",
+      "COVID-19: gợi ý CPAP / thở máy không xâm lấn để giảm đặt ống"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "CPAP / thở máy không xâm lấn so với oxy thường · mũ trùm so với mặt nạ · thở máy không xâm lấn so với CPAP",
+      "Không khuyến cáo theo hay chống",
+      "COVID-19: gợi ý CPAP thay oxy thường"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Nằm sấp khi tỉnh",
+      "Gợi ý cho COVID-19 để giảm đặt ống",
+      "Theo dõi sát, tránh trì hoãn đặt ống"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Với ARDS không đặt ống, nhóm mới của định nghĩa 2024, ESICM 2023 khuyến cáo mạnh dùng oxy dòng cao qua mũi thay vì oxy thông thường để giảm nguy cơ đặt nội khí quản, dù không giảm tử vong.",
+    "Giữa oxy dòng cao và CPAP hay thở máy không xâm lấn, ESICM không khuyến cáo theo hay chống, trừ COVID-19, nơi CPAP hoặc thở máy không xâm lấn được gợi ý để giảm đặt ống.",
+    "Các so sánh khác, như mũ trùm so với mặt nạ, hay thở máy không xâm lấn so với CPAP, đều chưa đủ bằng chứng.",
+    "Nằm sấp khi tỉnh được gợi ý cho COVID-19. Với mọi hình thức hỗ trợ không xâm lấn, cần theo dõi sát để không trì hoãn đặt ống, vì gắng sức hít vào mạnh kéo dài có thể gây tổn thương phổi do tự thở, như đã bàn ở phần đầu loạt bài. Quý vị có thể xem phân tích chi tiết trong loạt bài ATS 2026 về hỗ trợ hô hấp không xâm lấn của kênh."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "Sau hồi sức",
+   "title": "Sau ARDS: phổi hồi phục, người bệnh thì chưa",
+   "ref": "Murray & Nadel 7e · Textbook of Critical Care 8e",
+   "cards": [
+    {
+     "tag": "PHỔI",
+     "t": "Gần bình thường sau 6–12 tháng",
+     "items": [
+      "Thể tích, lưu lượng bình thường hoặc giảm nhẹ",
+      "Khả năng khuếch tán có thể giảm nhẹ",
+      "Xơ dạng đường ở vùng không phụ thuộc: dấu vết thở máy"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "THỂ CHẤT",
+     "t": "Hạn chế kéo dài ≥ 5 năm",
+     "items": [
+      "Yếu cơ mắc phải ở hồi sức",
+      "Giảm quãng đường đi bộ 6 phút",
+      "Nguy cơ tăng khi dùng corticoid, suy đa cơ quan"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "TÂM THẦN – NHẬN THỨC",
+     "t": "Gánh nặng ẩn",
+     "items": [
+      "Giảm chú ý, trí nhớ, chức năng điều hành tới 2 năm",
+      "Rối loạn stress sau sang chấn, trầm cảm, lo âu",
+      "Tử vong 1 năm 41% so với 24% khi ra viện"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Điều gì xảy ra sau khi người bệnh rời hồi sức? Điều đáng ngạc nhiên là phổi hồi phục khá tốt: sau 6 đến 12 tháng, thể tích và lưu lượng phổi bình thường hoặc giảm nhẹ, khả năng khuếch tán có thể còn giảm nhẹ.",
+    "Khi còn tổn thương, thường là xơ dạng đường ở vùng không phụ thuộc phía trước, phù hợp với dấu vết của tổn thương do thở máy.",
+    "Nhưng chức năng thể chất giảm kéo dài ít nhất 5 năm, chủ yếu do yếu cơ mắc phải ở hồi sức, với nguy cơ tăng khi dùng corticoid và suy đa cơ quan.",
+    "Gánh nặng ẩn là tâm thần và nhận thức: giảm chú ý, trí nhớ và chức năng điều hành tới 2 năm, rối loạn stress sau sang chấn, trầm cảm và lo âu. Và tử vong sau một năm tăng lên 41 phần trăm, so với 24 phần trăm lúc ra viện. Chăm sóc người bệnh ARDS không kết thúc khi rút ống."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "timeline",
+   "chapter": "Ca lâm sàng ôn tập",
+   "title": "Ca lâm sàng xuyên suốt: diễn tiến",
+   "ref": "Ca minh hoạ, đã thay đổi chi tiết nhận dạng",
+   "events": [
+    {
+     "year": "Giờ 0",
+     "t": "Cấp cứu",
+     "d": "Nam 58 tuổi, cao 165 cm, nặng 80 kg · viêm phổi thuỳ dưới phải · sốt 39°C",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "year": "Giờ 4",
+     "t": "Oxy dòng cao",
+     "d": "50 L/phút, FiO₂ 0,8, SpO₂ 90% · X-quang mờ hai phổi",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "year": "Giờ 8",
+     "t": "Đặt ống",
+     "d": "Thở nhanh 38 lần/phút, co kéo · tụt huyết áp, noradrenaline",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "year": "Giờ 20",
+     "t": "Sau 12 giờ thở máy",
+     "d": "Vt 370 mL, PEEP 14, FiO₂ 0,8 · Pplat 29 · P/F 105",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Bây giờ, hãy ôn tập toàn bộ loạt bài qua một ca lâm sàng minh hoạ. Một người đàn ông 58 tuổi, cao 165 xăng ti mét, nặng 80 ký, vào cấp cứu vì viêm phổi thuỳ dưới phải, sốt 39 độ.",
+    "Sau 4 giờ, ông cần oxy dòng cao qua mũi 50 lít mỗi phút, FiO₂ 0,8, SpO₂ 90 phần trăm. X-quang mờ hai phổi, siêu âm tim chức năng thất trái bình thường.",
+    "Theo định nghĩa toàn cầu 2024, SpO₂/FiO₂ bằng 90 chia 0,8, khoảng 112, ông đã đủ tiêu chí ARDS không đặt nội khí quản ngay từ thời điểm này.",
+    "Giờ thứ 8, ông thở nhanh 38 lần mỗi phút, co kéo cơ hô hấp phụ, kèm tụt huyết áp cần noradrenaline, và được đặt nội khí quản.",
+    "Chúng ta sẽ đi qua ba điểm quyết định."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Ca lâm sàng ôn tập",
+   "title": "Điểm quyết định 1: cài Vt ban đầu",
+   "ref": "Ôn tập Phần 3 · ARDS Network 2000",
+   "case": "Nam, cao <b>165 cm</b>, nặng <b>80 kg</b>. Vừa đặt nội khí quản vì ARDS do viêm phổi. Thể tích kiểm soát.",
+   "q": "Vt ban đầu theo ARMA?",
+   "options": [
+    "Khoảng 480 mL (6 × 80 kg)",
+    "Khoảng 370 mL (6 × cân nặng dự đoán ≈ 61,5 kg)",
+    "Khoảng 550 mL",
+    "Khoảng 250 mL"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Cân nặng dự đoán nam = 50 + 0,91 × (165 − 152,4) ≈ <b>61,5 kg</b> → Vt 6 mL/kg ≈ <b>370 mL</b> · tính theo 80 kg (480 mL) tương đương ~7,8 mL/kg dự đoán · đo Pplat, ΔP sau cài",
+   "lines": [
+    "Điểm quyết định thứ nhất. Người bệnh nam, cao 165 xăng ti mét, nặng 80 ký, vừa đặt nội khí quản, thở thể tích kiểm soát.",
+    "Vt ban đầu theo ARMA là bao nhiêu?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Cân nặng dự đoán bằng 50 cộng 0,91 nhân 165 trừ 152,4, khoảng 61,5 ký. Vt 6 mililít mỗi ký là khoảng 370 mililít. Nếu tính theo cân nặng thực 80 ký, ta sẽ cài 480 mililít, tương đương gần 8 mililít mỗi ký cân nặng dự đoán.",
+    "Sau khi cài, đo ngay áp lực bình nguyên và tính driving pressure, chỉnh PEEP theo bảng, như Phần 3 và Phần 4."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Ca lâm sàng ôn tập",
+   "title": "Điểm quyết định 2: sau 12 giờ, P/F 105",
+   "ref": "Ôn tập Phần 4 và 5 · ESICM 2023",
+   "case": "Giờ 20: Vt 370 mL, PEEP 14, FiO₂ 0,8 · Pplat 29, ΔP 15 · P/F <b>105</b> · huyết áp trung bình 70 với noradrenaline 0,1 µg/kg/phút · thỉnh thoảng có kích hoạt kép.",
+   "q": "Kế hoạch hợp lý nhất?",
+   "options": [
+    "Huy động bậc thang lên 45 cmH₂O",
+    "Nằm sấp ≥ 16 giờ · tối ưu an thần, cân nhắc giãn cơ ngắn",
+    "Chuyển thông khí dao động tần số cao",
+    "ECMO ngay"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "P/F < 150 sau ổn định → <b>nằm sấp ≥ 16 giờ</b> (ESICM mạnh) · kích hoạt kép ở ARDS sớm, nặng → tối ưu an thần, cân nhắc giãn cơ ≤ 48 giờ (ATS, SCCM) · không huy động kéo dài (ART), không HFOV (OSCILLATE) · chưa đạt tiêu chí EOLIA",
+   "lines": [
+    "Điểm quyết định thứ hai, giờ thứ 20. Vt 370, PEEP 14, FiO₂ 0,8, áp lực bình nguyên 29, driving pressure 15, PaO₂/FiO₂ 105. Huyết áp trung bình 70 với noradrenaline 0,1 microgam mỗi ký mỗi phút, thỉnh thoảng có kích hoạt kép.",
+    "Kế hoạch hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. PaO₂/FiO₂ dưới 150 sau giai đoạn ổn định: nằm sấp ít nhất 16 giờ, khuyến cáo mạnh của ESICM. Kích hoạt kép ở ARDS sớm và nặng làm Vt thực tế tăng gấp đôi: tối ưu an thần, giảm đau, và cân nhắc giãn cơ ngắn, không quá 48 giờ, theo ATS và SCCM.",
+    "Không huy động kéo dài vì bài học từ ART, không dùng thông khí dao động tần số cao vì OSCILLATE. Người bệnh chưa đạt tiêu chí EOLIA, nhưng nếu xấu đi, hãy liên hệ trung tâm ECMO sớm."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "quiz",
+   "chapter": "Ca lâm sàng ôn tập",
+   "title": "Điểm quyết định 3: ngày 2, điều trị hỗ trợ",
+   "ref": "Ôn tập Phần 6 · DEXA-ARDS · ATS 2023 · FACTT",
+   "case": "Ngày 2: sau 2 phiên nằm sấp, P/F nằm ngửa <b>170</b>, PEEP 12. Đã ngừng noradrenaline 12 giờ, nước tiểu tốt. Cân bằng dịch +5 lít từ lúc vào viện.",
+   "q": "Điều trị hỗ trợ nào phù hợp nhất?",
+   "options": [
+    "Surfactant khí dung",
+    "Dexamethasone (theo DEXA-ARDS) và chiến lược dịch hạn chế",
+    "Truyền dịch tự do để giữ huyết áp cao",
+    "Salbutamol truyền tĩnh mạch"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Viêm phổi cộng đồng nặng gây ARDS, còn sớm → corticoid (ATS: có điều kiện) · hết sốc → <b>dịch hạn chế</b>, lợi tiểu tránh quá mức (FACTT) · surfactant, đồng vận β₂ tĩnh mạch đã thất bại",
+   "lines": [
+    "Điểm quyết định thứ ba, ngày thứ 2. Sau hai phiên nằm sấp, PaO₂/FiO₂ khi nằm ngửa là 170, PEEP 12. Đã ngừng noradrenaline 12 giờ, nước tiểu tốt, nhưng cân bằng dịch dương 5 lít từ lúc vào viện.",
+    "Điều trị hỗ trợ nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. ARDS do viêm phổi cộng đồng nặng, còn ở giai đoạn sớm: corticoid được ATS gợi ý, có thể theo phác đồ viêm phổi cộng đồng nặng hoặc phác đồ DEXA-ARDS, kèm theo dõi đường huyết và nhiễm khuẩn. Người bệnh đã hết sốc: chuyển sang chiến lược dịch hạn chế, lợi tiểu tránh quá mức, như FACTT.",
+    "Surfactant và đồng vận bê ta hai tĩnh mạch đều đã thất bại trong các thử nghiệm lớn. Tiếp tục nằm sấp cho tới khi cải thiện bền vững, và lên kế hoạch giảm an thần, đánh giá cai máy sớm."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "summary",
+   "chapter": "Tổng kết toàn loạt",
+   "title": "Mười thông điệp của loạt ARDS chuyên sâu",
+   "dense": true,
+   "items": [
+    {
+     "t": "Định nghĩa 2024: ba nhóm, SpO₂/FiO₂, siêu âm",
+     "d": "Phần 1",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Phổi em bé: không cứng, mà nhỏ",
+     "d": "Phần 1 · nền tảng của driving pressure",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Tìm nguyên nhân, nghĩ đến bệnh giả ARDS",
+     "d": "Phần 2 · phenotype chưa dùng để chọn điều trị",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "Vt 6 mL/kg cân nặng dự đoán, Pplat ≤ 30",
+     "d": "Phần 3 · ARMA: 31,0% so với 39,8%",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "t": "Theo dõi driving pressure",
+     "d": "Phần 3 · mỗi 7 cmH₂O: RR 1,41",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "t": "PEEP cao hơn khi P/F ≤ 200, không huy động kéo dài",
+     "d": "Phần 4 · Briel, ART",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "t": "Nằm sấp sớm, ≥ 16 giờ khi P/F < 150",
+     "d": "Phần 5 · PROSEVA",
+     "c": "green",
+     "at": 4
+    },
+    {
+     "t": "Giãn cơ chọn lọc · ECMO theo EOLIA, liên hệ sớm",
+     "d": "Phần 5",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "t": "Dịch hạn chế khi hết sốc · corticoid sớm",
+     "d": "Phần 6 · FACTT, DEXA-ARDS, ATS 2023",
+     "c": "teal",
+     "at": 5
+    },
+    {
+     "t": "Chăm sóc không dừng khi rút ống",
+     "d": "Phần 6 · phục hồi thể chất, tâm thần",
+     "c": "violet",
+     "at": 6
+    }
+   ],
+   "lines": [
+    "Xin tổng kết toàn bộ loạt bài bằng mười thông điệp. Từ Phần 1: định nghĩa toàn cầu 2024 với ba nhóm, SpO₂/FiO₂ và siêu âm phổi, và khái niệm phổi em bé, không cứng mà nhỏ.",
+    "Từ Phần 2: luôn tìm nguyên nhân và nghĩ đến bệnh giả ARDS. Phenotype có giá trị tiên lượng nhưng chưa dùng để chọn điều trị.",
+    "Từ Phần 3: Vt 6 mililít mỗi ký cân nặng dự đoán, áp lực bình nguyên không quá 30, và theo dõi driving pressure.",
+    "Từ Phần 4: PEEP cao hơn khi PaO₂/FiO₂ không quá 200, không dùng huy động kéo dài.",
+    "Từ Phần 5: nằm sấp sớm, ít nhất 16 giờ khi PaO₂/FiO₂ dưới 150, giãn cơ chọn lọc, ECMO theo tiêu chí EOLIA và liên hệ sớm.",
+    "Từ Phần 6: dịch hạn chế khi đã hết sốc, corticoid sớm theo ATS 2023.",
+    "Và cuối cùng, chăm sóc người bệnh ARDS không dừng lại khi rút ống."
+   ]
+  },
+  {
+   "id": "s18",
+   "layout": "box",
+   "chapter": "Lời kết",
+   "title": "Cảm ơn quý đồng nghiệp đã đồng hành",
+   "ref": "Thư Viện Y Khoa Online",
+   "box": {
+    "tag": "TRỌN BỘ",
+    "t": "6 phần ARDS chuyên sâu · tóm tắt và tài liệu tham khảo tại <b>thuvienykhoa.online</b>",
+    "at": 0,
+    "c": "teal"
+   },
+   "notes": [
+    {
+     "tag": "XEM THÊM",
+     "t": "Giãn cơ trong ARDS – SCCM 2026 · Hỗ trợ hô hấp không xâm lấn – ATS 2026 · Sepsis – SSC 2026",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "GÓP Ý",
+     "t": "Để lại câu hỏi và chủ đề quý vị muốn ở phần bình luận",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Loạt bài ARDS chuyên sâu đến đây là kết thúc. Trọn bộ 6 phần, cùng tóm tắt và danh sách tài liệu tham khảo, có tại trang thuvienykhoa.online.",
+    "Quý vị có thể xem thêm các loạt bài liên quan trên kênh: giãn cơ trong ARDS theo SCCM 2026, hỗ trợ hô hấp không xâm lấn theo ATS 2026, và nhiễm khuẩn huyết theo SSC 2026.",
+    "Nếu có câu hỏi hay muốn đề xuất chủ đề tiếp theo, xin để lại bình luận. Cảm ơn quý đồng nghiệp đã đồng hành cùng Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
