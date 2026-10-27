@@ -54,5 +54,61 @@
   "artist": "Hellerhoff",
   "w": 950,
   "h": 862
+ },
+ "lus_gargani_s1.ogv": {
+  "title": "File:Lung-ultrasound-a-new-tool-for-the-cardiologist-1476-7120-9-6-S1.ogv",
+  "page": "https://commons.wikimedia.org/wiki/File:Lung-ultrasound-a-new-tool-for-the-cardiologist-1476-7120-9-6-S1.ogv",
+  "license": "CC BY 2.0",
+  "artist": "Gargani L",
+  "w": 800,
+  "h": 652
+ },
+ "lus_gargani_s2.ogv": {
+  "title": "File:Lung-ultrasound-a-new-tool-for-the-cardiologist-1476-7120-9-6-S2.ogv",
+  "page": "https://commons.wikimedia.org/wiki/File:Lung-ultrasound-a-new-tool-for-the-cardiologist-1476-7120-9-6-S2.ogv",
+  "license": "CC BY 2.0",
+  "artist": "Gargani L",
+  "w": 800,
+  "h": 652
+ },
+ "lus_volpicelli_s3.ogv": {
+  "title": "File:How-I-do-it-Lung-ultrasound-1476-7120-12-25-S3.ogv",
+  "page": "https://commons.wikimedia.org/wiki/File:How-I-do-it-Lung-ultrasound-1476-7120-12-25-S3.ogv",
+  "license": "CC BY 4.0",
+  "artist": "Gargani L, Volpicelli G",
+  "w": 800,
+  "h": 539
+ },
+ "ct_covid_ax1.jpg": {
+  "title": "File:COVID-19 Pneumonie - 74m CTax - 001.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:COVID-19_Pneumonie_-_74m_CTax_-_001.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Hellerhoff",
+  "w": 882,
+  "h": 752
+ },
+ "ct_covid_ax3.jpg": {
+  "title": "File:COVID-19 Pneumonie - 74m CTax - 003.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:COVID-19_Pneumonie_-_74m_CTax_-_003.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Hellerhoff",
+  "w": 882,
+  "h": 752
+ },
+ "ct_crazy_paving.jpg": {
+  "title": "File:Crazy paving pattern on chest CT scan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Crazy_paving_pattern_on_chest_CT_scan.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Rajanshu Verma and Mamoun Abdoh",
+  "w": 709,
+  "h": 500
+ },
+ "cxr_kerley.jpg": {
+  "title": "File:Chest radiograph of a lung with Kerley B lines - annotated.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chest_radiograph_of_a_lung_with_Kerley_B_lines_-_annotated.jpg",
+  "license": "CC0",
+  "artist": "Mikael Häggström",
+  "w": 1222,
+  "h": 1097
  }
 }
