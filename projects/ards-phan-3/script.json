@@ -1,0 +1,1284 @@
+{
+ "title": "ARDS chuyên sâu – Phần 3: Thở máy bảo vệ phổi",
+ "theme": "may-tho",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "ARDS chuyên sâu · Thở máy",
+ "part": "ARDS chuyên sâu · Phần 3/6",
+ "source_short": "Nguồn: ARDS Network 2000 (NEJM) · Amato 2015 (NEJM) · ESICM 2023 · Tobin 3e, ch. 29 · sóng: mô phỏng theo phương trình chuyển động",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "SpO₂/FiO₂": "ét pê ô hai trên phi ô hai",
+  "LUNG SAFE": "lung sêi",
+  "Gattinoni": "Ga ti nô ni",
+  "auto-PEEP": "ô tô píp",
+  "COVID-19": "cô vít mười chín",
+  "Ashbaugh": "Át bâu",
+  "mL/cmH₂O": "mi li lít trên xăng ti mét nước",
+  "ARDSNet": "a rờ đê ét nét",
+  "PROVENT": "prô ven",
+  "ALVEOLI": "an vê ô li",
+  "Kigali": "Ki ga li",
+  "HARP-2": "háp hai",
+  "Calfee": "Can phi",
+  "L/phút": "lít mỗi phút",
+  "P đỉnh": "pê đỉnh",
+  "PaCO₂": "pa cô hai",
+  "FACTT": "phác",
+  "ESICM": "e sích",
+  "Amato": "A ma tô",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "AUROC": "diện tích dưới đường cong",
+  "Pplat": "pê bình nguyên",
+  "PaO₂": "pa ô hai",
+  "SpO₂": "ét pê ô hai",
+  "FiO₂": "phi ô hai",
+  "PEEP": "píp",
+  "ARDS": "a rờ đê ét",
+  "AECC": "a e xê xê",
+  "CPAP": "xi páp",
+  "ECMO": "éc mô",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NETs": "nét",
+  "RAGE": "rết",
+  "ARMA": "a ma",
+  "P/F": "pê trên ép",
+  "S/F": "ét trên ép",
+  "ATS": "a tê ét",
+  "Vt": "vê tê",
+  "ΔP": "đen ta pê",
+  "mL": "mi li lít"
+ },
+ "brand": {
+  "next": "Phần 4: PEEP và huy động phế nang"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "ARDS CHUYÊN SÂU · PHẦN 3/6",
+   "title": "Thở máy bảo vệ phổi<br>trong ARDS",
+   "subtitle": "Thể tích nhỏ, áp lực thấp, nhìn tận mắt trên sóng máy thở",
+   "badges": [
+    {
+     "t": "ARMA 2000",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Driving pressure",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Mô phỏng sóng",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "note": "Mọi con số trên sóng được tính từ mô phỏng theo phương trình chuyển động của hệ hô hấp",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Phần 3 của loạt bài ARDS chuyên sâu, trọng tâm của cả loạt: thông khí bảo vệ phổi.",
+    "Ở Phần 1, chúng ta đã thấy phổi em bé, và thấy thở máy có thể gây tổn thương phổi. Phần này trả lời câu hỏi: làm sao thở máy mà không làm hại phổi?",
+    "Chúng ta sẽ đi qua thử nghiệm ARMA năm 2000, khái niệm driving pressure của Amato năm 2015, và khuyến cáo của ESICM 2023.",
+    "Đặc biệt, quý vị sẽ nhìn tận mắt các thông số này trên màn hình máy thở mô phỏng. Mọi con số được đọc ra đều được tính từ mô phỏng, không ước lượng tay."
+   ]
+  },
+  {
+   "id": "s02",
+   "layout": "timeline",
+   "chapter": "Lịch sử",
+   "title": "Từ “khí máu bình thường” đến “phổi được bảo vệ”",
+   "ref": "ESICM 2023, Domain 5 · Tobin 3e · ARDS Network 2000",
+   "events": [
+    {
+     "year": "1960s",
+     "t": "Vt lớn",
+     "d": "12–15 mL/kg để tránh xẹp phổi, giữ khí máu bình thường",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "year": "1980s–90s",
+     "t": "Tăng CO₂ cho phép",
+     "d": "Áp dụng trước ở hen nặng, sau đó ở ARDS",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "year": "1998",
+     "t": "Amato",
+     "d": "Chiến lược bảo vệ phổi giảm tử vong (thử nghiệm nhỏ)",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "2000",
+     "t": "ARMA",
+     "d": "Vt 6 so với 12 mL/kg · 861 người bệnh · tử vong giảm",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "year": "2015",
+     "t": "Driving pressure",
+     "d": "3562 người bệnh, 9 thử nghiệm · ΔP liên quan sống còn mạnh nhất",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "year": "2023",
+     "t": "ESICM",
+     "d": "Khuyến cáo mạnh Vt 4–8 mL/kg cân nặng dự đoán",
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Những năm 1960, người ta nhận thấy thở máy với thể tích nhỏ gây mất dần thể tích phổi và thiếu oxy, nên khuyến cáo dùng thể tích khí lưu lớn, 12 đến 15 mililít mỗi ký, để giữ khí máu bình thường.",
+    "Quan niệm thay đổi khi người ta nhận ra tăng CO₂ được dung nạp tốt nếu oxy hoá đủ. Chiến lược tăng CO₂ cho phép được áp dụng trước ở hen phế quản nặng, rồi sang ARDS.",
+    "Năm 1998, Amato báo cáo chiến lược bảo vệ phổi giảm tử vong trong một thử nghiệm nhỏ, và năm 2000, thử nghiệm ARMA của mạng lưới ARDS với 861 người bệnh đã thay đổi thực hành toàn cầu.",
+    "Năm 2015, Amato và cộng sự phân tích dữ liệu từ 9 thử nghiệm, 3562 người bệnh, cho thấy driving pressure là biến số thông khí liên quan sống còn mạnh nhất.",
+    "Và năm 2023, ESICM khuyến cáo mạnh thể tích khí lưu 4 đến 8 mililít mỗi ký cân nặng dự đoán."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "compare",
+   "chapter": "Thử nghiệm ARMA",
+   "title": "ARMA 2000: hai chiến lược được so sánh",
+   "ref": "ARDS Network, NEJM 2000, Bảng 1",
+   "head": [
+    "Thông số",
+    "Vt thấp",
+    "Vt truyền thống"
+   ],
+   "widths": "1.2fr 1.5fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "Vt ban đầu",
+      "<b>6 mL/kg</b> cân nặng dự đoán · giảm dần tới 4 nếu cần",
+      "12 mL/kg cân nặng dự đoán"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Áp lực bình nguyên (nghỉ 0,5 giây)",
+      "<b>≤ 30 cmH₂O</b>",
+      "≤ 50 cmH₂O"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Tần số",
+      "6–35 lần/phút để đạt pH 7,30–7,45",
+      "6–35 lần/phút"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Mục tiêu oxy",
+      "PaO₂ 55–80 mmHg hoặc SpO₂ 88–95% · bảng PEEP–FiO₂ chung",
+      "Như nhóm Vt thấp"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Ngoại lệ",
+      "Cho phép Pplat > 30 nếu Vt đã 4 mL/kg hoặc pH < 7,15 · khó thở nặng: Vt 7–8 nếu Pplat ≤ 30",
+      "—"
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Thử nghiệm ARMA so sánh hai chiến lược, cùng thể tích kiểm soát hỗ trợ. Nhóm Vt thấp bắt đầu với 6 mililít mỗi ký cân nặng dự đoán, giảm dần từng 1 mililít mỗi ký, tối thiểu 4, nếu cần. Nhóm truyền thống dùng 12 mililít mỗi ký.",
+    "Áp lực bình nguyên, đo với khoảng nghỉ cuối thì hít vào 0,5 giây, phải giữ không quá 30 xăng ti mét nước ở nhóm Vt thấp, so với 50 ở nhóm truyền thống.",
+    "Tần số thở được chỉnh từ 6 đến 35 lần mỗi phút để đạt pH 7,30 đến 7,45.",
+    "Mục tiêu oxy giống nhau ở hai nhóm: PaO₂ 55 đến 80 milimét thuỷ ngân hoặc SpO₂ 88 đến 95 phần trăm, với bảng phối hợp PEEP và FiO₂ chung.",
+    "Có những ngoại lệ thực tế: cho phép áp lực bình nguyên trên 30 nếu Vt đã xuống 4 mililít mỗi ký hoặc pH dưới 7,15. Người bệnh khó thở nặng có thể tăng Vt lên 7 đến 8 mililít mỗi ký, nếu áp lực bình nguyên vẫn không quá 30."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "stats",
+   "chapter": "Thử nghiệm ARMA",
+   "title": "ARMA 2000: kết quả",
+   "ref": "ARDS Network, NEJM 2000",
+   "tiles": [
+    {
+     "tag": "TỬ VONG · VT THẤP",
+     "v": 31.0,
+     "dec": 1,
+     "suf": "%",
+     "l": "so với 39,8% (P = 0,007)",
+     "d": "Dừng sớm sau 861 người bệnh vì hiệu quả",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "NGÀY KHÔNG THỞ MÁY",
+     "v": 12,
+     "l": "so với 10 ngày (28 ngày đầu)",
+     "d": "Nhiều ngày không suy tuần hoàn, đông máu, thận hơn",
+     "c": "green",
+     "at": 1
+    },
+    {
+     "tag": "VT THỰC TẾ (NGÀY 1–3)",
+     "v": 6.2,
+     "dec": 1,
+     "suf": " mL/kg",
+     "l": "so với 11,8 mL/kg",
+     "d": "Pplat 25 so với 33 cmH₂O · tần số 29 so với 16",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "cols": 3,
+   "h": 430,
+   "note": {
+    "t": "IL-6 huyết tương giảm nhiều hơn ở nhóm Vt thấp · giảm tuyệt đối 8,8% → khoảng <b>11 người bệnh</b> thở Vt thấp cứu thêm 1 người (tính từ kết quả)",
+    "at": 3,
+    "c": "amber"
+   },
+   "lines": [
+    "Thử nghiệm dừng sớm sau 861 người bệnh vì hiệu quả rõ rệt. Tử vong ở nhóm Vt thấp là 31,0 phần trăm, so với 39,8 phần trăm ở nhóm truyền thống.",
+    "Số ngày không thở máy trong 28 ngày đầu là 12 so với 10, và nhóm Vt thấp có nhiều ngày không suy tuần hoàn, không suy đông máu, không suy thận hơn.",
+    "Thực tế đạt được: Vt trung bình 6,2 so với 11,8 mililít mỗi ký, áp lực bình nguyên 25 so với 33. Để bù thông khí phút, tần số thở ở nhóm Vt thấp là 29 lần mỗi phút, so với 16.",
+    "Interleukin 6 huyết tương giảm nhiều hơn ở nhóm Vt thấp, phù hợp với giả thuyết giảm tổn thương do viêm.",
+    "Giảm tuyệt đối 8,8 phần trăm tử vong, tức là cứ khoảng 11 người bệnh được thở với Vt thấp thì cứu thêm được một người. Ít can thiệp nào trong hồi sức có hiệu quả như vậy mà gần như không tốn kém."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "cards",
+   "chapter": "Cân nặng dự đoán",
+   "title": "Tính Vt theo cân nặng dự đoán, không theo cân nặng thực",
+   "ref": "ARDS Network 2000 · ESICM 2023",
+   "cards": [
+    {
+     "tag": "CÔNG THỨC",
+     "t": "Cân nặng dự đoán (kg)",
+     "items": [
+      "Nam: 50 + 0,91 × (chiều cao cm − 152,4)",
+      "Nữ: 45,5 + 0,91 × (chiều cao cm − 152,4)",
+      "Dựa vào giới và chiều cao, vì thể tích phổi phụ thuộc chiều cao"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "VÍ DỤ 1",
+     "t": "Nam cao 170 cm",
+     "items": [
+      "Cân nặng dự đoán ≈ 66 kg",
+      "Vt 6 mL/kg ≈ 400 mL",
+      "Dù nặng 60 hay 100 kg"
+     ],
+     "c": "green",
+     "at": 1
+    },
+    {
+     "tag": "VÍ DỤ 2",
+     "t": "Nữ cao 155 cm, nặng 80 kg",
+     "items": [
+      "Cân nặng dự đoán ≈ 48 kg → Vt ≈ 290 mL",
+      "Nếu tính theo 80 kg: 480 mL",
+      "= 10 mL/kg cân nặng dự đoán!"
+     ],
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Bẫy thường gặp nhất trong thực hành là tính Vt theo cân nặng thực. ARMA và ESICM đều dùng cân nặng dự đoán, dựa trên giới và chiều cao, vì kích thước phổi phụ thuộc chiều cao, không phụ thuộc cân nặng. Với nam: 50 cộng 0,91 nhân chiều cao trừ 152,4. Với nữ: 45,5 cộng 0,91 nhân chiều cao trừ 152,4.",
+    "Ví dụ, một người đàn ông cao 170 xăng ti mét có cân nặng dự đoán khoảng 66 ký, Vt 6 mililít mỗi ký là khoảng 400 mililít, dù người đó nặng 60 hay 100 ký.",
+    "Ví dụ thứ hai, một phụ nữ cao 155 xăng ti mét, nặng 80 ký. Cân nặng dự đoán chỉ khoảng 48 ký, Vt đúng là khoảng 290 mililít. Nếu tính nhầm theo 80 ký, ta sẽ cài 480 mililít, tức 10 mililít mỗi ký cân nặng dự đoán, gần gấp đôi. Người bệnh nữ, thấp, béo phì là nhóm dễ bị cài Vt quá lớn nhất."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "vent",
+   "chapter": "Đọc sóng máy thở",
+   "title": "Một nhịp thở thể tích kiểm soát: bốn con số then chốt",
+   "ref": "Mô phỏng: VC, Vt 450 mL, R 10, C 50",
+   "vent": {
+    "mode": "VC",
+    "vt": 450,
+    "rr": 16,
+    "ti": 1.0,
+    "pause": 0.3,
+    "peep": 5,
+    "R": 10,
+    "C": 50,
+    "fio2": 40
+   },
+   "freeze": "L1",
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "crs"
+   ],
+   "marks": [
+    {
+     "k": "ppeak",
+     "at": "L2",
+     "c": "amber"
+    },
+    {
+     "k": "pplat",
+     "at": "L3",
+     "c": "teal"
+    },
+    {
+     "k": "res",
+     "at": "L3+3",
+     "c": "blue"
+    },
+    {
+     "k": "peep",
+     "at": "L4",
+     "c": "green"
+    },
+    {
+     "k": "dp",
+     "at": "L4+3",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CÔNG THỨC",
+     "t": "ΔP = Pplat − PEEP = Vt / C · C = Vt / ΔP",
+     "c": "coral",
+     "at": "L4+3"
+    }
+   ],
+   "lines": [
+    "Trước khi bàn về bằng chứng, hãy cùng đọc một nhịp thở thể tích kiểm soát trên phổi bình thường: Vt 450 mililít, PEEP 5.",
+    "Ta đóng băng màn hình.",
+    "Áp lực đỉnh, P đỉnh, khoảng 19 xăng ti mét nước, là áp lực cần để vừa thắng sức cản đường thở, vừa làm phổi giãn ra.",
+    "Khi máy giữ khoảng nghỉ cuối thì hít vào, lưu lượng bằng không, áp lực tụt xuống bình nguyên, khoảng 14. Áp lực bình nguyên phản ánh áp lực phế nang cuối thì hít vào. Hiệu số P đỉnh trừ Pplat phản ánh sức cản.",
+    "Áp lực cuối thì thở ra là PEEP, 5. Và Pplat trừ PEEP chính là driving pressure, hay áp lực đẩy, khoảng 9. Driving pressure bằng Vt chia độ giãn nở. Ở đây độ giãn nở là 450 chia 9, khoảng 50 mililít trên xăng ti mét nước."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "vent",
+   "chapter": "ARMA trên máy thở",
+   "title": "Nhóm truyền thống: Vt 12 mL/kg trên phổi ARDS",
+   "ref": "Mô phỏng: người bệnh 66 kg dự đoán, C 30, PEEP 8",
+   "vent": {
+    "mode": "VC",
+    "vt": 800,
+    "rr": 16,
+    "ti": 1.0,
+    "pause": 0.3,
+    "peep": 8,
+    "R": 12,
+    "C": 30,
+    "fio2": 60
+   },
+   "freeze": "L1",
+   "alarm": {
+    "pplat": 30,
+    "dp": 15
+   },
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "mv"
+   ],
+   "marks": [
+    {
+     "k": "pplat",
+     "at": "L2",
+     "c": "coral"
+    },
+    {
+     "k": "dp",
+     "at": "L2+3",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "VƯỢT NGƯỠNG",
+     "t": "Pplat ≈ 35 · ΔP ≈ 27 cmH₂O",
+     "c": "coral",
+     "at": "L2"
+    }
+   ],
+   "lines": [
+    "Bây giờ, hãy đặt hai nhóm của ARMA lên cùng một người bệnh mô phỏng: nam, cân nặng dự đoán 66 ký, ARDS với độ giãn nở 30, PEEP 8. Đầu tiên là nhóm truyền thống, Vt 12 mililít mỗi ký, khoảng 800 mililít.",
+    "Ta đóng băng màn hình.",
+    "Áp lực bình nguyên khoảng 35 xăng ti mét nước, vượt ngưỡng 30, và driving pressure khoảng 27. Toàn bộ 800 mililít dồn vào phổi em bé. Lá phổi ở bên phải màn hình chuyển sang màu đỏ cảnh báo căng giãn quá mức.",
+    "Thông khí phút khoảng 12,8 lít mỗi phút, khí máu có thể rất đẹp, nhưng cái giá là tổn thương phổi do thở máy."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "vent",
+   "chapter": "ARMA trên máy thở",
+   "title": "Nhóm Vt thấp: 6 mL/kg và tăng tần số",
+   "ref": "Mô phỏng: cùng người bệnh, Vt 400 mL, tần số 28",
+   "vent": {
+    "mode": "VC",
+    "vt": 800,
+    "rr": 16,
+    "ti": 1.0,
+    "pause": 0.3,
+    "peep": 8,
+    "R": 12,
+    "C": 30,
+    "fio2": 60
+   },
+   "changes": [
+    {
+     "at": "L0+3",
+     "set": {
+      "vt": 400,
+      "rr": 28,
+      "ti": 0.7,
+      "pause": 0.25
+     },
+     "label": "Vt 800 → 400 mL · tần số 16 → 28",
+     "c": "green",
+     "hold": 5
+    }
+   ],
+   "freeze": "L2",
+   "alarm": {
+    "pplat": 30,
+    "dp": 15
+   },
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "mv"
+   ],
+   "marks": [
+    {
+     "k": "pplat",
+     "at": "L3",
+     "c": "teal"
+    },
+    {
+     "k": "dp",
+     "at": "L3+3",
+     "c": "teal"
+    },
+    {
+     "k": "te",
+     "at": "L4",
+     "c": "amber"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐỔI LẠI",
+     "t": "Thông khí phút gần như giữ nguyên · PaCO₂ có thể tăng nhẹ",
+     "c": "amber",
+     "at": "L4"
+    }
+   ],
+   "lines": [
+    "Bây giờ ta áp dụng phác đồ ARMA: giảm Vt xuống 6 mililít mỗi ký, khoảng 400 mililít, và tăng tần số từ 16 lên 28 để bù thông khí phút.",
+    "Sau vài nhịp, máy thở ổn định với thông số mới.",
+    "Ta đóng băng màn hình.",
+    "Áp lực bình nguyên giảm còn khoảng 22, driving pressure khoảng 14. Cả hai đều vào vùng an toàn, lá phổi trở lại màu bình thường.",
+    "Thông khí phút gần như giữ nguyên, khoảng 11 lít mỗi phút. Nhưng hãy để ý thì thở ra: với tần số 28, thời gian thở ra ngắn lại, lưu lượng cuối thì thở ra chưa hoàn toàn về 0, có một chút auto-PEEP. Đây là điều cần theo dõi khi tăng tần số."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "stats",
+   "chapter": "Driving pressure",
+   "title": "Amato 2015: driving pressure và sống còn",
+   "ref": "Amato MBP và cs., NEJM 2015 · 9 thử nghiệm, 3562 người bệnh",
+   "tiles": [
+    {
+     "tag": "MỖI 7 cmH₂O ΔP",
+     "v": 1.41,
+     "dec": 2,
+     "pre": "RR ",
+     "l": "nguy cơ tử vong tăng",
+     "d": "Khoảng tin cậy 95%: 1,31–1,51",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "DÙ ĐÃ “BẢO VỆ”",
+     "v": 1.36,
+     "dec": 2,
+     "pre": "RR ",
+     "l": "khi Pplat và Vt đã trong giới hạn",
+     "d": "Khoảng tin cậy 95%: 1,17–1,58",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "TRUNG GIAN LỢI ÍCH",
+     "v": 75,
+     "suf": "%",
+     "l": "lợi ích của Vt thấp qua giảm ΔP",
+     "d": "45% lợi ích của PEEP cao qua giảm ΔP",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "cols": 3,
+   "h": 420,
+   "note": {
+    "t": "Giảm Vt hay tăng PEEP chỉ liên quan sống còn <b>khi làm giảm ΔP</b> · Vt, PEEP, Pplat riêng lẻ không thêm thông tin khi đã biết ΔP",
+    "at": 4,
+    "c": "teal"
+   },
+   "lines": [
+    "Năm 2015, Amato và cộng sự đặt câu hỏi: trong các thành phần của thông khí bảo vệ phổi, cái nào thực sự quan trọng? Họ phân tích dữ liệu từng người bệnh của 9 thử nghiệm, tổng cộng 3562 người bệnh ARDS không tự thở.",
+    "Driving pressure là biến số thông khí liên quan với sống còn mạnh nhất. Mỗi lần tăng một độ lệch chuẩn, khoảng 7 xăng ti mét nước, nguy cơ tử vong tăng 1,41 lần.",
+    "Và mối liên quan này vẫn tồn tại ngay cả khi áp lực bình nguyên và Vt đã nằm trong giới hạn bảo vệ, với nguy cơ tương đối 1,36.",
+    "Phân tích trung gian cho thấy giảm driving pressure giải thích 75 phần trăm lợi ích của các thử nghiệm Vt thấp, và 45 phần trăm lợi ích của các thử nghiệm PEEP cao.",
+    "Nói cách khác, giảm Vt hay tăng PEEP chỉ có lợi khi chúng làm giảm driving pressure. Khi đã biết driving pressure, Vt, PEEP hay áp lực bình nguyên không cho thêm thông tin tiên lượng."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "vent",
+   "chapter": "Driving pressure",
+   "title": "Cùng 6 mL/kg, hai lá phổi, hai driving pressure",
+   "ref": "Mô phỏng: Vt 400 mL, PEEP 10 · độ giãn nở 40 rồi 20 mL/cmH₂O",
+   "vent": {
+    "mode": "VC",
+    "vt": 400,
+    "rr": 20,
+    "ti": 0.8,
+    "pause": 0.3,
+    "peep": 10,
+    "R": 12,
+    "C": 40,
+    "fio2": 50
+   },
+   "alarm": {
+    "pplat": 30,
+    "dp": 15
+   },
+   "changes": [
+    {
+     "at": "L1+1",
+     "set": {
+      "C": 20
+     },
+     "label": "Độ giãn nở 40 → 20 mL/cmH₂O (phổi em bé nhỏ hơn)",
+     "c": "coral",
+     "hold": 5
+    }
+   ],
+   "freeze": "L3",
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "crs"
+   ],
+   "marks": [
+    {
+     "k": "pplat",
+     "at": "L4",
+     "c": "coral"
+    },
+    {
+     "k": "dp",
+     "at": "L4+3",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "VÌ SAO",
+     "t": "ΔP = Vt / C: Vt chuẩn hoá theo kích thước phổi còn hoạt động",
+     "c": "violet",
+     "at": "L5"
+    }
+   ],
+   "lines": [
+    "Hãy xem vì sao driving pressure mạnh hơn Vt. Đây là người bệnh Vt 400 mililít, đúng 6 mililít mỗi ký, độ giãn nở 40. Áp lực bình nguyên khoảng 20, driving pressure khoảng 10. Rất an toàn.",
+    "Bây giờ giả sử một người bệnh khác cùng chiều cao, cùng Vt, nhưng phổi em bé nhỏ hơn một nửa, độ giãn nở chỉ còn 20.",
+    "Cùng 6 mililít mỗi ký, cùng tuân thủ ARMA trên giấy tờ.",
+    "Ta đóng băng màn hình.",
+    "Áp lực bình nguyên vọt lên khoảng 30, driving pressure khoảng 20, gấp đôi.",
+    "Vì driving pressure bằng Vt chia độ giãn nở, nó chuẩn hoá Vt theo kích thước phổi còn hoạt động thực sự, chứ không theo phổi dự đoán của người khoẻ. Đó là lý do một con số 6 mililít mỗi ký không thể an toàn cho mọi người bệnh."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: đã 6 mL/kg, Pplat 30, ΔP 20",
+   "ref": "Ca minh hoạ · áp dụng ARDS Network 2000 · ESICM 2023 · Amato 2015",
+   "case": "Nam 170 cm, ARDS nặng do viêm phổi, an thần sâu, không tự thở. VC: Vt <b>400 mL</b> (6 mL/kg), tần số 20, PEEP 10. P đỉnh 36, Pplat <b>30</b>, ΔP <b>20</b>. pH 7,36, PaCO₂ 45.",
+   "q": "Bước điều chỉnh hợp lý nhất?",
+   "options": [
+    "Giữ nguyên vì Vt đã đúng 6 mL/kg",
+    "Giảm Vt từng 1 mL/kg (tới 4), tăng tần số, chấp nhận tăng CO₂",
+    "Tăng PEEP lên 18 để mở phổi",
+    "Chuyển áp lực kiểm soát 30 cmH₂O"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Pplat chạm 30, ΔP 20 → giảm Vt (ARMA: 1 mL/kg mỗi bước, tối thiểu 4) · tăng tần số tới 35 · chấp nhận PaCO₂ tăng nếu pH ≥ 7,15–7,30 · tìm nguyên nhân: thành ngực, bụng · cân nhắc nằm sấp (Phần 5)",
+   "lines": [
+    "Tình huống thứ nhất. Một người đàn ông cao 170 xăng ti mét, ARDS nặng do viêm phổi, an thần sâu, không tự thở. Thở thể tích kiểm soát Vt 400 mililít, đúng 6 mililít mỗi ký, tần số 20, PEEP 10. Áp lực đỉnh 36, áp lực bình nguyên 30, driving pressure 20. pH 7,36.",
+    "Bước điều chỉnh hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Áp lực bình nguyên đã chạm 30 và driving pressure 20 là cao. Theo phác đồ ARMA, giảm Vt từng 1 mililít mỗi ký, tối thiểu 4, tăng tần số để bù, và chấp nhận PaCO₂ tăng, miễn pH không quá thấp.",
+    "Tăng PEEP lên 18 mà không đánh giá khả năng huy động có thể chỉ làm tăng áp lực bình nguyên, như chúng ta sẽ thấy ở Phần 4. Chuyển sang áp lực kiểm soát 30 không giải quyết vấn đề, vì áp lực phế nang vẫn cao. Song song, hãy tìm nguyên nhân như thành ngực cứng, tăng áp lực ổ bụng, và cân nhắc nằm sấp."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "vent",
+   "chapter": "Tình huống 1",
+   "title": "Giảm Vt: driving pressure đi xuống",
+   "ref": "Mô phỏng: C 20, PEEP 10 · Vt 400 → 330 mL, tần số 20 → 26",
+   "vent": {
+    "mode": "VC",
+    "vt": 400,
+    "rr": 20,
+    "ti": 0.8,
+    "pause": 0.3,
+    "peep": 10,
+    "R": 12,
+    "C": 20,
+    "fio2": 60
+   },
+   "alarm": {
+    "pplat": 30,
+    "dp": 15
+   },
+   "changes": [
+    {
+     "at": "L0+3",
+     "set": {
+      "vt": 330,
+      "rr": 26,
+      "ti": 0.7
+     },
+     "label": "Vt 400 → 330 mL (5 mL/kg) · tần số 20 → 26",
+     "c": "green",
+     "hold": 5
+    }
+   ],
+   "freeze": "L2",
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "crs"
+   ],
+   "marks": [
+    {
+     "k": "pplat",
+     "at": "L3",
+     "c": "teal"
+    },
+    {
+     "k": "dp",
+     "at": "L3+3",
+     "c": "amber"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "VẪN CHƯA ĐỦ?",
+     "t": "Tiếp tục 4 mL/kg · nằm sấp · đánh giá PEEP (Phần 4, 5)",
+     "c": "amber",
+     "at": "L4"
+    }
+   ],
+   "lines": [
+    "Hãy áp dụng ngay trên mô phỏng: giảm Vt xuống 5 mililít mỗi ký, khoảng 330 mililít, tăng tần số lên 26.",
+    "Sau vài nhịp, máy thở ổn định.",
+    "Ta đóng băng màn hình.",
+    "Áp lực bình nguyên giảm còn khoảng 27 và driving pressure khoảng 17. Đã tốt hơn rõ rệt, dù driving pressure vẫn còn hơi cao.",
+    "Nếu vẫn chưa đủ, có thể giảm tiếp tới 4 mililít mỗi ký, và quan trọng hơn là các biện pháp như nằm sấp và đánh giá PEEP mà chúng ta sẽ bàn ở Phần 4 và Phần 5."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "cards",
+   "chapter": "Không có ngưỡng an toàn tuyệt đối",
+   "title": "Pplat 30 có phải là ngưỡng an toàn?",
+   "ref": "Tobin 3e, ch. 29 · Amato 2015",
+   "cards": [
+    {
+     "tag": "ARMA PHÂN TÍCH LẠI",
+     "t": "Tử vong song song với Pplat",
+     "items": [
+      "Liên quan gần tuyến tính, kể cả dưới 20 cmH₂O",
+      "Gợi ý không có ngưỡng an toàn rõ ràng"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "XUYÊN PHỔI",
+     "t": "Áp lực thực sự làm căng phổi",
+     "items": [
+      "Áp lực xuyên phổi 15–20 cmH₂O lặp lại đã đáng lo",
+      "Ứng với Pplat khoảng 25–35 nếu thành ngực bình thường",
+      "Ở phổi bình thường, 15 cmH₂O ≈ 2/3 dung tích phổi, Vt > 2.500 mL"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Càng thấp càng tốt, trong giới hạn",
+     "items": [
+      "Pplat ≤ 30 là giới hạn trên, không phải mục tiêu",
+      "Theo dõi ΔP ở người bệnh không tự thở",
+      "Nhiều chuyên gia dùng mốc ΔP ≤ 15 (kiến thức bổ sung)"
+     ],
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Áp lực bình nguyên 30 có phải là ngưỡng an toàn? Tobin trích một phân tích lại thử nghiệm ARMA: tử vong tăng song song với áp lực bình nguyên, gần như tuyến tính, kể cả ở mức dưới 20 xăng ti mét nước.",
+    "Điều này gợi ý với phổi đã tổn thương, không có ngưỡng an toàn tuyệt đối. Tuy nhiên, các phân tích khác cho thấy dưới 30, ảnh hưởng của áp lực bình nguyên lên tử vong không còn rõ khi đã tính PEEP và mức độ nặng.",
+    "Thứ thực sự làm căng phổi là áp lực xuyên phổi. Theo Tobin, áp lực xuyên phổi 15 đến 20 xăng ti mét nước lặp lại mỗi nhịp đã đáng lo, tương ứng áp lực bình nguyên khoảng 25 đến 35 nếu thành ngực bình thường.",
+    "Để dễ hình dung, ở phổi bình thường, áp lực xuyên phổi chỉ 15 xăng ti mét nước đã đưa phổi lên khoảng hai phần ba dung tích, với thể tích trên 2.500 mililít.",
+    "Thông điệp thực hành: áp lực bình nguyên 30 là giới hạn trên, không phải mục tiêu. Ở người bệnh không tự thở, theo dõi driving pressure, càng thấp càng tốt. Nhiều chuyên gia dùng mốc driving pressure không quá 15, đây là kiến thức bổ sung, chưa phải khuyến cáo chính thức."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "cards",
+   "chapter": "Thành ngực",
+   "title": "Khi Pplat cao không phải do phổi",
+   "ref": "Tobin 3e, ch. 29 · Amato 2015 (hạn chế)",
+   "cards": [
+    {
+     "tag": "NGUYÊN NHÂN",
+     "t": "Thành ngực, ổ bụng cứng",
+     "items": [
+      "Béo phì",
+      "Tăng áp lực ổ bụng, viêm phúc mạc",
+      "Bỏng có phù, vảy da thành ngực",
+      "Gắng sức thở ra"
+     ],
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "HẬU QUẢ",
+     "t": "Cùng Pplat, áp lực xuyên phổi thấp hơn",
+     "items": [
+      "Một phần áp lực dùng để đẩy thành ngực",
+      "Giảm Vt theo Pplat có thể quá mức cần thiết",
+      "ΔP kém chính xác khi thành ngực rất cứng"
+     ],
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "CÔNG CỤ",
+     "t": "Ước tính áp lực xuyên phổi",
+     "items": [
+      "Áp lực bàng quang (ổ bụng)",
+      "Áp lực thực quản (thay áp lực màng phổi)",
+      "Chi tiết ở Phần 4"
+     ],
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Một tình huống đặc biệt: áp lực bình nguyên cao nhưng không phải do phổi. Thành ngực và ổ bụng cứng gặp trong béo phì, tăng áp lực ổ bụng, viêm phúc mạc, bỏng có phù hay vảy da thành ngực, và khi người bệnh gắng sức thở ra.",
+    "Khi đó, một phần áp lực đường thở chỉ dùng để đẩy thành ngực. Cùng một áp lực bình nguyên, áp lực xuyên phổi thực sự thấp hơn. Giảm Vt chỉ dựa vào áp lực bình nguyên có thể là quá mức cần thiết.",
+    "Chính Amato cũng lưu ý driving pressure kém chính xác ở người bệnh có độ giãn nở thành ngực rất thấp.",
+    "Tobin khuyên đo áp lực bàng quang để ước tính áp lực ổ bụng, và áp lực thực quản để ước tính áp lực màng phổi, từ đó tính áp lực xuyên phổi. Chúng ta sẽ trở lại áp lực thực quản ở Phần 4."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "vent",
+   "chapter": "Gắng sức tự thở",
+   "title": "Bẫy: kích hoạt kép làm Vt thực tế tăng gấp đôi",
+   "ref": "Mô phỏng: VC Vt 400 mL, thời gian hít vào máy 0,6 giây, người bệnh gắng sức mạnh, kéo dài",
+   "vent": {
+    "mode": "VC",
+    "vt": 400,
+    "ti": 0.6,
+    "pause": 0,
+    "rr": 12,
+    "effort": 12,
+    "rrp": 15,
+    "tin": 1.8,
+    "R": 8,
+    "C": 35,
+    "peep": 8,
+    "fio2": 60
+   },
+   "freeze": "L2",
+   "showPmus": true,
+   "nums": [
+    "ppeak",
+    "peep",
+    "vt",
+    "rr",
+    "mv",
+    "autopeep"
+   ],
+   "notes": [
+    {
+     "tag": "HẬU QUẢ",
+     "t": "Hai nhịp 400 mL chồng nhau ≈ 800 mL ≈ 12 mL/kg",
+     "c": "coral",
+     "at": "L3"
+    },
+    {
+     "tag": "XỬ TRÍ",
+     "t": "Tăng an thần, kéo dài thời gian hít vào · cân nhắc giãn cơ sớm (Phần 5)",
+     "c": "green",
+     "at": "L4"
+    }
+   ],
+   "lines": [
+    "Có một bẫy rất thường gặp khi dùng Vt thấp: người bệnh đói khí, gắng sức hít vào mạnh và kéo dài hơn thời gian hít vào của máy.",
+    "Đường đứt màu đỏ trên dải áp lực là gắng sức cơ hô hấp của người bệnh. Thời gian hít vào của máy chỉ 0,6 giây, nhưng người bệnh vẫn tiếp tục hít vào.",
+    "Ta đóng băng màn hình.",
+    "Hãy nhìn: ngay khi máy vừa kết thúc nhịp thứ nhất, gắng sức còn lại kích hoạt nhịp thứ hai chồng lên, khi phổi chưa kịp thở ra. Đây là kích hoạt kép. Hai nhịp 400 mililít chồng nhau. Hãy nhìn dải thể tích: thì thở ra kéo xuống tận âm 400 so với mốc của nhịp thứ hai, nghĩa là khí thở ra gần 800 mililít, tức 12 mililít mỗi ký, đúng bằng nhóm truyền thống của ARMA. Áp lực đỉnh của nhịp chồng lên khoảng 33.",
+    "Màn hình máy thở vẫn hiện Vt 400, nên rất dễ bỏ sót. Xử trí: điều chỉnh an thần, giảm đau, kéo dài thời gian hít vào, và ở ARDS nặng giai đoạn sớm, cân nhắc giãn cơ như đã bàn trong loạt bài giãn cơ SCCM 2026 và Phần 5."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "cards",
+   "chapter": "Tăng CO₂ cho phép",
+   "title": "Tăng CO₂ cho phép: chấp nhận gì, cẩn thận khi nào",
+   "ref": "ARDS Network 2000 · Tobin 3e · ESICM 2023",
+   "cards": [
+    {
+     "tag": "ARMA",
+     "t": "Giới hạn thực hành",
+     "items": [
+      "Mục tiêu pH 7,30–7,45",
+      "Tần số tới 35 lần/phút",
+      "pH < 7,15: cho phép tăng Vt, Pplat > 30"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "SINH LÝ",
+     "t": "Thường dung nạp tốt",
+     "items": [
+      "Lệch nhẹ – vừa của pH, PaCO₂ dung nạp tốt",
+      "Có thể ức chế viêm (thực nghiệm)",
+      "Nhưng kích thích hô hấp, giãn mạch não"
+     ],
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "THẬN TRỌNG",
+     "t": "Không phù hợp khi",
+     "items": [
+      "Tăng áp lực nội sọ (bị loại khỏi ARMA)",
+      "Suy thất phải nặng, tăng áp phổi (kiến thức bổ sung)",
+      "Toan chuyển hoá nặng kèm theo"
+     ],
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Giảm Vt đồng nghĩa với chấp nhận PaCO₂ tăng. Trong ARMA, mục tiêu pH là 7,30 đến 7,45, tần số tối đa 35, và khi pH dưới 7,15 thì cho phép tăng Vt dù áp lực bình nguyên vượt 30.",
+    "Theo Tobin, lệch nhẹ đến vừa của pH và PaCO₂ thường được dung nạp tốt. Trên thực nghiệm, toan hô hấp còn có thể ức chế viêm. Nhưng tăng CO₂ cũng kích thích trung tâm hô hấp, làm người bệnh đói khí hơn, và gây giãn mạch não.",
+    "Hiện nay, nguy cơ của tổn thương phổi do thở máy được xem là lớn hơn nguy cơ của tăng CO₂ hay FiO₂ cao.",
+    "Cần thận trọng ở người bệnh tăng áp lực nội sọ, nhóm đã bị loại khỏi thử nghiệm ARMA. Theo kinh nghiệm lâm sàng, cũng cần thận trọng với suy thất phải nặng, tăng áp phổi, và toan chuyển hoá nặng kèm theo. ESICM 2023 cũng lưu ý tác động của tăng CO₂ chưa được đánh giá riêng trong các thử nghiệm."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "vent",
+   "chapter": "Chọn phương thức",
+   "title": "Áp lực kiểm soát: áp lực được giới hạn, Vt thì không",
+   "ref": "Mô phỏng: PC, áp lực hít vào 15 trên PEEP 10 · độ giãn nở 40 → 22",
+   "vent": {
+    "mode": "PC",
+    "pi": 15,
+    "rr": 20,
+    "ti": 0.9,
+    "peep": 10,
+    "R": 12,
+    "C": 40,
+    "fio2": 50
+   },
+   "changes": [
+    {
+     "at": "L1+1",
+     "set": {
+      "C": 22
+     },
+     "label": "Phổi xấu đi: độ giãn nở 40 → 22",
+     "c": "coral",
+     "hold": 5
+    }
+   ],
+   "freeze": "L3",
+   "nums": [
+    "ppeak",
+    "peep",
+    "vt",
+    "rr",
+    "mv",
+    "crs"
+   ],
+   "marks": [
+    {
+     "k": "vt",
+     "at": "L4",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TOBIN",
+     "t": "Chọn phương thức ít quan trọng hơn cách cài đặt · theo dõi sát Vt và áp lực nghỉ cuối hít vào",
+     "c": "teal",
+     "at": "L5"
+    }
+   ],
+   "lines": [
+    "Nhiều trung tâm chọn áp lực kiểm soát làm mặc định. Ở đây, áp lực hít vào 15 trên PEEP 10. Khi độ giãn nở 40, Vt khoảng 500 mililít. Lưu lượng giảm dần, áp lực phế nang không vượt quá 25.",
+    "Bây giờ phổi xấu đi, độ giãn nở giảm còn 22.",
+    "Với áp lực kiểm soát, áp lực vẫn giữ nguyên, nhưng Vt tự giảm.",
+    "Ta đóng băng màn hình.",
+    "Vt chỉ còn khoảng 320 mililít. Ưu điểm: áp lực phế nang được giới hạn khi người bệnh không tự thở. Nhược điểm: Vt thay đổi theo độ giãn nở, sức cản và gắng sức của người bệnh, nên phải đặt báo động thể tích và thông khí phút chặt chẽ.",
+    "Tobin kết luận: khi người bệnh không gắng sức và Vt cùng áp lực nghỉ cuối hít vào được theo dõi sát, chọn thể tích hay áp lực kiểm soát gần như không khác biệt về sinh lý và kết cục. Cách cài đặt quan trọng hơn tên phương thức."
+   ]
+  },
+  {
+   "id": "s18",
+   "layout": "cards",
+   "chapter": "Năng lượng cơ học",
+   "title": "Ngoài Vt và ΔP: tần số và năng lượng cơ học",
+   "ref": "Tobin 3e · Gattinoni 2018 (bình luận EOLIA) · Chen 2022 · ESICM 2023",
+   "cards": [
+    {
+     "tag": "TẦN SỐ",
+     "t": "Mỗi nhịp là một lần “căng”",
+     "items": [
+      "Thực nghiệm: giảm tần số làm chậm tổn thương khi áp lực cao",
+      "Tăng tần số để bù Vt thấp có giá của nó"
+     ],
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "NĂNG LƯỢNG CƠ HỌC",
+     "t": "Tổng năng lượng truyền vào phổi mỗi phút",
+     "items": [
+      "Gộp Vt, áp lực, tần số, lưu lượng (kiến thức bổ sung)",
+      "EOLIA: ECMO giảm từ 28 xuống 10 J/phút",
+      "Chen 2022: liên quan tử vong ở phenotype cơ học"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "ESICM 2023",
+     "t": "Câu hỏi nghiên cứu",
+     "items": [
+      "Cân bằng Vt và tần số",
+      "Vt cá thể hoá theo ΔP hay độ đàn hồi",
+      "Loại CO₂ ngoài cơ thể khi thông khí vẫn gây hại"
+     ],
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Còn một yếu tố nữa ngoài Vt và driving pressure: tần số. Mỗi nhịp thở là một lần phổi bị kéo căng. Tobin dẫn chứng thực nghiệm: với cùng Vt và PEEP, giảm tần số làm chậm hoặc giảm tổn thương khi áp lực đủ cao.",
+    "Điều này có nghĩa là tăng tần số để bù cho Vt thấp không hoàn toàn miễn phí.",
+    "Khái niệm năng lượng cơ học, hay mechanical power, gộp Vt, áp lực, tần số và lưu lượng thành tổng năng lượng truyền vào phổi mỗi phút. Đây là kiến thức bổ sung về định nghĩa. Bình luận của Gattinoni về thử nghiệm EOLIA ước tính ECMO giảm năng lượng cơ học từ 28 xuống 10 jun mỗi phút, nhờ giảm Vt 43 phần trăm và tần số 23 phần trăm.",
+    "Và như đã thấy ở Phần 2, nghiên cứu của Chen năm 2022 cho thấy năng lượng cơ học liên quan tử vong rõ nhất ở phenotype rối loạn cơ học phổi.",
+    "ESICM 2023 xếp các câu hỏi này vào nhóm cần nghiên cứu: cân bằng giữa Vt và tần số, cá thể hoá Vt theo driving pressure hay độ đàn hồi, và vai trò của loại bỏ CO₂ ngoài cơ thể khi thông khí bảo vệ vẫn còn gây hại."
+   ]
+  },
+  {
+   "id": "s19",
+   "layout": "box",
+   "chapter": "ESICM 2023",
+   "title": "Khuyến cáo ESICM 2023 về Vt thấp",
+   "ref": "ESICM 2023, Khuyến cáo 5.1",
+   "box": {
+    "tag": "KHUYẾN CÁO 5.1 · MẠNH",
+    "t": "Dùng <b>Vt thấp 4–8 mL/kg cân nặng dự đoán</b> thay vì Vt lớn để giảm tử vong ở ARDS · áp dụng cả ARDS do COVID-19 · kèm <b>Pplat < 30 cmH₂O</b>",
+    "at": 0,
+    "c": "teal"
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "7 thử nghiệm · phân tích chính RR 0,96 (0,72–1,28) · phân tích phụ RR 0,82 (0,66–1,02)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "VÌ SAO VẪN MẠNH",
+     "t": "Cơ sở sinh lý rất mạnh · nhánh chứng không còn là “thông thường” · không còn thử nghiệm mới từ 2006",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Dùng cân nặng dự đoán · Vt thấp có thể cần thêm an thần, giãn cơ",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo 5.1 của ESICM 2023 là khuyến cáo mạnh: dùng Vt thấp 4 đến 8 mililít mỗi ký cân nặng dự đoán, thay vì Vt lớn, để giảm tử vong ở ARDS, áp dụng cả với ARDS do COVID-19, kèm áp lực bình nguyên dưới 30.",
+    "Điều thú vị là phân tích gộp 7 thử nghiệm không đạt ý nghĩa thống kê: phân tích chính có nguy cơ tương đối 0,96, phân tích phụ 0,82, với dị biệt lớn giữa các thử nghiệm.",
+    "Hội đồng vẫn khuyến cáo mạnh vì cơ sở sinh lý rất vững từ nghiên cứu động vật và người, vì Vt ở nhánh chứng ngày nay không còn được xem là thông thường, và vì gần như không thể có thử nghiệm mới khi không còn sự cân bằng lâm sàng.",
+    "Đây là một ví dụ hiếm hoi khuyến cáo mạnh dựa trên ý kiến chuyên gia dù thống kê không có ý nghĩa, và đáng để quý vị hiểu lý do.",
+    "Lưu ý thực hành: luôn dùng cân nặng dự đoán, và chuẩn bị cho việc Vt thấp có thể cần thêm an thần, thậm chí giãn cơ."
+   ]
+  },
+  {
+   "id": "s20",
+   "layout": "flow",
+   "chapter": "Thực hành",
+   "title": "Quy trình cài đặt thông khí bảo vệ phổi",
+   "ref": "Tổng hợp từ ARDS Network 2000 · ESICM 2023 · Tobin 3e · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Tính cân nặng dự đoán",
+     "d": "Giới + chiều cao",
+     "x": 230,
+     "y": 110,
+     "w": 360,
+     "h": 110,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Vt 6 mL/kg",
+     "d": "VC hoặc PC · PEEP–FiO₂ theo bảng (Phần 4)",
+     "x": 680,
+     "y": 110,
+     "w": 380,
+     "h": 110,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "Đo Pplat (nghỉ 0,5 giây), tính ΔP",
+     "d": "Mỗi 4 giờ và sau mỗi thay đổi",
+     "x": 1170,
+     "y": 110,
+     "w": 420,
+     "h": 110,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Pplat > 30 hoặc ΔP cao",
+     "d": "Giảm Vt 1 mL/kg mỗi bước, tối thiểu 4",
+     "x": 1170,
+     "y": 340,
+     "w": 420,
+     "h": 120,
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "Tăng tần số tới 35",
+     "d": "pH mục tiêu 7,30–7,45 · chấp nhận PaCO₂ tăng",
+     "x": 680,
+     "y": 340,
+     "w": 380,
+     "h": 120,
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "id": "f",
+     "t": "Kiểm tra mất đồng bộ",
+     "d": "Kích hoạt kép, đói lưu lượng → an thần, cân nhắc giãn cơ",
+     "x": 230,
+     "y": 340,
+     "w": 360,
+     "h": 140,
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "id": "g",
+     "t": "Vẫn không đạt",
+     "d": "Nằm sấp · đánh giá PEEP · ECMO (Phần 4, 5)",
+     "x": 1170,
+     "y": 560,
+     "w": 420,
+     "h": 110,
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "a": "e",
+     "b": "f",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "a": "d",
+     "b": "g",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng hợp thành một quy trình thực hành. Bước một, tính cân nặng dự đoán từ giới và chiều cao. Bước hai, cài Vt 6 mililít mỗi ký, thể tích hoặc áp lực kiểm soát, PEEP và FiO₂ theo bảng mà chúng ta sẽ phân tích ở Phần 4.",
+    "Bước ba, đo áp lực bình nguyên với khoảng nghỉ 0,5 giây và tính driving pressure, lặp lại mỗi 4 giờ và sau mỗi lần thay đổi máy thở.",
+    "Nếu áp lực bình nguyên trên 30, hoặc driving pressure cao, giảm Vt từng 1 mililít mỗi ký, tối thiểu 4.",
+    "Tăng tần số tối đa 35 để giữ pH 7,30 đến 7,45, chấp nhận PaCO₂ tăng.",
+    "Luôn kiểm tra mất đồng bộ như kích hoạt kép và đói lưu lượng, điều chỉnh an thần và cân nhắc giãn cơ khi cần.",
+    "Và nếu vẫn không đạt mục tiêu bảo vệ phổi hay oxy hoá, chuyển sang các biện pháp ở Phần 4 và Phần 5: đánh giá PEEP, nằm sấp, và ECMO."
+   ]
+  },
+  {
+   "id": "s21",
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Bảy thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Vt 6 mL/kg cân nặng dự đoán",
+     "d": "ARMA: tử vong 31,0% so với 39,8% · ESICM 2023: 4–8 mL/kg, khuyến cáo mạnh",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Cân nặng dự đoán, không phải cân nặng thực",
+     "d": "Nữ, thấp, béo phì: nguy cơ Vt quá lớn",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Pplat ≤ 30 là giới hạn trên",
+     "d": "Không có ngưỡng an toàn tuyệt đối",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Driving pressure: Vt chuẩn hoá theo phổi em bé",
+     "d": "Mỗi 7 cmH₂O: RR 1,41 · giảm Vt, tăng PEEP có lợi khi giảm ΔP",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "t": "Chú ý thành ngực",
+     "d": "Pplat cao chưa chắc do phổi · áp lực bàng quang, thực quản",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "t": "Màn hình không thấy hết",
+     "d": "Kích hoạt kép: Vt thực tế có thể gấp đôi",
+     "c": "coral",
+     "at": 5
+    },
+    {
+     "t": "Tăng CO₂ cho phép, có giới hạn",
+     "d": "pH 7,30–7,45 · thận trọng tăng áp lực nội sọ",
+     "c": "green",
+     "at": 6
+    }
+   ],
+   "lines": [
+    "Xin tổng kết bảy thông điệp. Một, Vt 6 mililít mỗi ký cân nặng dự đoán: ARMA giảm tử vong từ 39,8 xuống 31,0 phần trăm, và ESICM 2023 khuyến cáo mạnh 4 đến 8 mililít mỗi ký.",
+    "Hai, luôn dùng cân nặng dự đoán. Người bệnh nữ, thấp, béo phì dễ bị cài Vt quá lớn nhất.",
+    "Ba, áp lực bình nguyên 30 là giới hạn trên, không phải mục tiêu, vì không có ngưỡng an toàn tuyệt đối.",
+    "Bốn, driving pressure chuẩn hoá Vt theo phổi em bé. Giảm Vt hay tăng PEEP chỉ có lợi khi chúng làm giảm driving pressure.",
+    "Năm, áp lực bình nguyên cao chưa chắc do phổi. Hãy nghĩ đến thành ngực và ổ bụng.",
+    "Sáu, màn hình máy thở không cho thấy hết: kích hoạt kép có thể làm Vt thực tế tăng gấp đôi.",
+    "Và bảy, tăng CO₂ cho phép là một phần của chiến lược, nhưng có giới hạn. Ở Phần 4, chúng ta sẽ giải bài toán khó hơn: PEEP bao nhiêu là đủ, và có nên huy động phế nang hay không. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
