@@ -1,0 +1,1021 @@
+{
+ "title": "ARDS chuyên sâu – Phần 4: PEEP và huy động phế nang",
+ "theme": "may-tho",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "ARDS chuyên sâu · Thở máy",
+ "part": "ARDS chuyên sâu · Phần 4/6",
+ "source_short": "Nguồn: ESICM 2023 (Domain 6) · LOVS, EXPRESS (JAMA 2008) · Briel 2010 (JAMA) · Tobin 3e · Murray & Nadel 7e · sóng: mô phỏng",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "SpO₂/FiO₂": "ét pê ô hai trên phi ô hai",
+  "LUNG SAFE": "lung sêi",
+  "Gattinoni": "Ga ti nô ni",
+  "auto-PEEP": "ô tô píp",
+  "COVID-19": "cô vít mười chín",
+  "Ashbaugh": "Át bâu",
+  "ARDSNet": "a rờ đê ét nét",
+  "PROVENT": "prô ven",
+  "ALVEOLI": "an vê ô li",
+  "EXPRESS": "ếch prét",
+  "PHARLAP": "pha láp",
+  "Kigali": "Ki ga li",
+  "HARP-2": "háp hai",
+  "Calfee": "Can phi",
+  "L/phút": "lít mỗi phút",
+  "EPVent": "e pê ven",
+  "PaCO₂": "pa cô hai",
+  "FACTT": "phác",
+  "ESICM": "e sích",
+  "Amato": "A ma tô",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "AUROC": "diện tích dưới đường cong",
+  "Pplat": "pê bình nguyên",
+  "ScvO₂": "ét xê vê ô hai",
+  "PaO₂": "pa ô hai",
+  "SpO₂": "ét pê ô hai",
+  "FiO₂": "phi ô hai",
+  "PEEP": "píp",
+  "ARDS": "a rờ đê ét",
+  "AECC": "a e xê xê",
+  "CPAP": "xi páp",
+  "ECMO": "éc mô",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NETs": "nét",
+  "RAGE": "rết",
+  "LOVS": "lốp",
+  "P/F": "pê trên ép",
+  "S/F": "ét trên ép",
+  "ATS": "a tê ét",
+  "ART": "át",
+  "Vt": "vê tê",
+  "ΔP": "đen ta pê",
+  "mL": "mi li lít"
+ },
+ "brand": {
+  "next": "Phần 5: Nằm sấp, giãn cơ, ECMO"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "ARDS CHUYÊN SÂU · PHẦN 4/6",
+   "title": "PEEP và huy động<br>phế nang trong ARDS",
+   "subtitle": "Mở phổi bao nhiêu là đủ, và với giá nào?",
+   "badges": [
+    {
+     "t": "ALVEOLI · LOVS · EXPRESS",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "ART 2017",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Mô phỏng PEEP",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "note": "Sóng máy thở mô phỏng · thay đổi độ giãn nở khi tăng PEEP là giả định minh hoạ, được ghi rõ trên màn hình",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Phần 4 của loạt bài ARDS chuyên sâu: PEEP và huy động phế nang.",
+    "Nếu Vt thấp là câu trả lời đã rõ, thì PEEP là câu hỏi gây tranh cãi nhất trong thở máy ARDS suốt hơn 20 năm qua.",
+    "Chúng ta sẽ đi từ sinh lý mở và đóng phế nang, qua ba thử nghiệm PEEP lớn, phân tích gộp của Briel, đến bài học đắt giá từ thử nghiệm ART và khuyến cáo ESICM 2023.",
+    "Và như Phần 3, quý vị sẽ nhìn trên mô phỏng máy thở để thấy khi nào PEEP giúp phổi, khi nào PEEP hại phổi. Lưu ý, thay đổi độ giãn nở khi tăng PEEP trong mô phỏng là giả định minh hoạ, được ghi rõ trên màn hình."
+   ]
+  },
+  {
+   "id": "s02",
+   "layout": "compare",
+   "chapter": "Hai mặt của PEEP",
+   "title": "PEEP: lợi và hại",
+   "ref": "Tobin 3e, ch. 29 · Murray & Nadel 7e · ESICM 2023",
+   "head": [
+    "Khía cạnh",
+    "Có thể có lợi",
+    "Có thể có hại"
+   ],
+   "widths": "1fr 1.7fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "Phổi",
+      "Giữ phế nang mở · giảm xẹp – mở mỗi nhịp · giảm ΔP nếu huy động được",
+      "Căng giãn phế nang đã mở · tăng Pplat · chấn thương áp lực"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Trao đổi khí",
+      "Tăng PaO₂ · cho phép giảm FiO₂",
+      "Tăng khoảng chết · đôi khi giảm PaO₂ (chuyển hướng dòng máu, shunt qua lỗ bầu dục)"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Tuần hoàn",
+      "—",
+      "Giảm máu tĩnh mạch về, tăng hậu tải thất phải · cần thêm dịch, vận mạch"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "PEEP có hai mặt, Murray và Nadel gọi là âm dương của PEEP. Về phổi, PEEP giữ cho phế nang không xẹp ở cuối thì thở ra, giảm tổn thương do xẹp – mở mỗi nhịp, và nếu huy động được phế nang, nó làm giảm driving pressure. Nhưng PEEP cũng làm căng thêm những phế nang đã mở, tăng áp lực bình nguyên và nguy cơ chấn thương áp lực.",
+    "Về trao đổi khí, PEEP gần như luôn cải thiện PaO₂ và cho phép giảm FiO₂. Nhưng PEEP có thể tăng khoảng chết, và đôi khi còn làm giảm PaO₂ do chuyển hướng dòng máu, hoặc gây shunt qua lỗ bầu dục khi áp lực động mạch phổi tăng.",
+    "Về tuần hoàn, PEEP giảm máu tĩnh mạch về tim, tăng hậu tải thất phải, khiến người bệnh cần thêm dịch hoặc vận mạch. PEEP tốt hay xấu phụ thuộc vào cán cân giữa các tác động này ở từng người bệnh."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "cards",
+   "chapter": "Sinh lý mở – đóng phế nang",
+   "title": "Phế nang mở và đóng ở áp lực nào?",
+   "ref": "ESICM 2023, Câu hỏi 6.3 (sinh lý) · Tobin 3e",
+   "cards": [
+    {
+     "tag": "ÁP LỰC MỞ",
+     "t": "Trung vị 20–30 cmH₂O",
+     "items": [
+      "Dao động 10–50, phân bố gần chuẩn (CT)",
+      "Chỉ khoảng 10% đơn vị mở ở áp lực > 45",
+      "→ trên 45: lợi ít, giá huyết động cao"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "ÁP LỰC ĐÓNG",
+     "t": "Trung vị khoảng 10 cmH₂O",
+     "items": [
+      "Nhưng có đơn vị xẹp ngay ở 20–25",
+      "Huy động ở 45 muốn giữ mở: cần PEEP > 20–25",
+      "Pplat giữ ≤ 30 → một phần sẽ xẹp lại"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "HAI KIỂU XẸP",
+     "t": "“Lỏng” và “dính”",
+     "items": [
+      "Xẹp do đè ép: mở ở áp lực thấp",
+      "Xẹp do hấp thu khí (FiO₂ cao): cần áp lực rất cao",
+      "PEEP chỉ giữ những gì đã được mở"
+     ],
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Để hiểu PEEP và huy động, cần biết phế nang mở và đóng ở áp lực nào. Theo các nghiên cứu CT được ESICM tổng hợp, áp lực mở có trung vị 20 đến 30 xăng ti mét nước, dao động từ 10 đến 50.",
+    "Chỉ khoảng 10 phần trăm đơn vị phổi cần áp lực trên 45 để mở. Vì vậy, dùng áp lực trên 45 thu được rất ít, mà phải trả giá đắt về huyết động.",
+    "Áp lực đóng có trung vị khoảng 10, nhưng một số đơn vị xẹp ngay ở 20 đến 25. Hệ quả: nếu huy động ở 45, muốn giữ phổi mở hoàn toàn cần PEEP trên 20 đến 25.",
+    "Còn nếu giữ áp lực bình nguyên không quá 30, một phần phế nang vừa mở sẽ xẹp lại, kèm xấu đi trao đổi khí và có thể gây thêm tổn thương do xẹp – mở.",
+    "Tobin phân biệt hai kiểu xẹp: xẹp lỏng do phổi nặng đè ép, mở ở áp lực thấp, và xẹp dính do khí bị hấp thu hết, thường khi FiO₂ cao, cần áp lực rất cao để mở. Và nguyên tắc cốt lõi: PEEP chỉ giữ những gì đã được mở, nó không tự mở phế nang."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "vent",
+   "chapter": "PEEP trên máy thở",
+   "title": "Phổi huy động được: tăng PEEP, ΔP giảm",
+   "ref": "Mô phỏng: Vt 400 mL · PEEP 5 → 12 · giả định huy động: độ giãn nở 25 → 35",
+   "vent": {
+    "mode": "VC",
+    "vt": 400,
+    "rr": 22,
+    "ti": 0.8,
+    "pause": 0.3,
+    "peep": 5,
+    "R": 12,
+    "C": 25,
+    "fio2": 70
+   },
+   "alarm": {
+    "pplat": 30,
+    "dp": 15
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "peep": 12,
+      "C": 35
+     },
+     "label": "PEEP 5 → 12 · giả định huy động: C 25 → 35",
+     "c": "green",
+     "hold": 5
+    }
+   ],
+   "freeze": "L3",
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "crs"
+   ],
+   "marks": [
+    {
+     "k": "peep",
+     "at": "L4",
+     "c": "green"
+    },
+    {
+     "k": "dp",
+     "at": "L4+2",
+     "c": "teal"
+    },
+    {
+     "k": "pplat",
+     "at": "L5",
+     "c": "amber"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐÁP ỨNG TỐT",
+     "t": "ΔP 16 → 12 · Pplat chỉ tăng 21 → 24",
+     "c": "teal",
+     "at": "L5"
+    }
+   ],
+   "lines": [
+    "Hãy bắt đầu với một người bệnh có phổi huy động được. Vt 400 mililít, PEEP 5, độ giãn nở 25. Áp lực bình nguyên khoảng 21, driving pressure khoảng 16.",
+    "Bây giờ tăng PEEP lên 12. Giả định rằng PEEP mở thêm nhiều phế nang, phổi em bé lớn lên, độ giãn nở tăng từ 25 lên 35.",
+    "Quan sát vài nhịp.",
+    "Ta đóng băng màn hình.",
+    "PEEP đã lên 12, và driving pressure giảm từ 16 xuống khoảng 12. Cùng một Vt, nhưng giờ được phân bố cho nhiều phế nang hơn, mỗi phế nang chịu căng ít hơn.",
+    "Áp lực bình nguyên chỉ tăng nhẹ từ 21 lên khoảng 24, ít hơn nhiều so với mức tăng 7 của PEEP. Đây là dấu hiệu của huy động: PEEP tăng 7, nhưng áp lực bình nguyên chỉ tăng khoảng 3."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "vent",
+   "chapter": "PEEP trên máy thở",
+   "title": "Phổi không huy động được: tăng PEEP, chỉ thêm căng giãn",
+   "ref": "Mô phỏng: Vt 400 mL · PEEP 5 → 12 · giả định căng giãn: độ giãn nở 25 → 23",
+   "vent": {
+    "mode": "VC",
+    "vt": 400,
+    "rr": 22,
+    "ti": 0.8,
+    "pause": 0.3,
+    "peep": 5,
+    "R": 12,
+    "C": 25,
+    "fio2": 70
+   },
+   "alarm": {
+    "pplat": 30,
+    "dp": 15
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "peep": 12,
+      "C": 23
+     },
+     "label": "PEEP 5 → 12 · giả định không huy động: C 25 → 23",
+     "c": "coral",
+     "hold": 5
+    }
+   ],
+   "freeze": "L3",
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "crs"
+   ],
+   "marks": [
+    {
+     "k": "pplat",
+     "at": "L4",
+     "c": "coral"
+    },
+    {
+     "k": "dp",
+     "at": "L4+2",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "KHÔNG ĐÁP ỨNG",
+     "t": "Pplat 21 → 30 · ΔP 16 → 18 · nguy cơ huyết động",
+     "c": "coral",
+     "at": "L5"
+    }
+   ],
+   "lines": [
+    "Cùng một người bệnh, cùng thao tác tăng PEEP từ 5 lên 12, nhưng lần này phổi không huy động được. Phần lớn tổn thương là đông đặc, không phải xẹp.",
+    "PEEP không mở thêm phế nang nào, chỉ làm căng thêm những phế nang đã mở. Độ giãn nở thậm chí giảm nhẹ, từ 25 xuống 23.",
+    "Quan sát vài nhịp.",
+    "Ta đóng băng màn hình.",
+    "Áp lực bình nguyên tăng từ 21 lên khoảng 30, gần như tăng bằng toàn bộ mức tăng PEEP, và driving pressure còn tăng nhẹ lên khoảng 18. Lá phổi bên phải đổi màu cảnh báo.",
+    "Người bệnh này không có lợi từ PEEP cao, mà chịu thêm nguy cơ chấn thương áp lực và tụt huyết áp. Hai người bệnh có cùng chẩn đoán ARDS nặng, cùng thao tác, nhưng kết quả ngược nhau. Đó là lý do một con số PEEP không thể đúng cho mọi người."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "cards",
+   "chapter": "Đánh giá đáp ứng PEEP",
+   "title": "Nhận biết huy động tại giường",
+   "ref": "Tobin 3e, ch. 29 · Amato 2015",
+   "cards": [
+    {
+     "tag": "GỢI Ý HUY ĐỘNG",
+     "t": "Đáp ứng tốt khi",
+     "items": [
+      "ΔP giảm, độ giãn nở tăng",
+      "Pplat tăng ít hơn mức tăng PEEP",
+      "PaO₂ tăng và thông khí phút / PaCO₂ cải thiện",
+      "Huyết áp, ScvO₂ ít thay đổi"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "GỢI Ý CĂNG GIÃN",
+     "t": "Đáp ứng xấu khi",
+     "items": [
+      "Pplat tăng gần bằng mức tăng PEEP",
+      "ΔP không giảm hoặc tăng",
+      "PaCO₂ tăng, khoảng chết tăng",
+      "Tụt huyết áp, cần thêm dịch, vận mạch"
+     ],
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "BẪY",
+     "t": "PaO₂ tăng chưa chắc là huy động",
+     "items": [
+      "Có thể do giảm, chuyển hướng dòng máu phổi",
+      "Khi đó PaCO₂ thường tăng",
+      "Ran nổ cuối thì hít vào vùng lưng: gợi ý xẹp – mở"
+     ],
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Tại giường, làm sao biết PEEP đang huy động hay đang căng giãn? Theo Tobin, đáp ứng tốt khi driving pressure giảm, độ giãn nở tăng, áp lực bình nguyên tăng ít hơn mức tăng PEEP, PaO₂ tăng và hiệu quả thải CO₂ cải thiện, trong khi huyết áp và độ bão hoà oxy tĩnh mạch trung tâm ít thay đổi.",
+    "Tobin dùng tỉ số thông khí phút trên PaCO₂ như một chỉ số hiệu quả thải CO₂: cải thiện khi huy động, xấu đi khi căng giãn.",
+    "Ngược lại, gợi ý căng giãn khi áp lực bình nguyên tăng gần bằng mức tăng PEEP, driving pressure không giảm, PaCO₂ và khoảng chết tăng, huyết áp tụt.",
+    "Và một bẫy quan trọng: PaO₂ tăng chưa chắc là do huy động. Nó có thể do PEEP làm giảm hoặc chuyển hướng dòng máu phổi khỏi vùng shunt, khi đó PaCO₂ thường tăng theo. Ran nổ cuối thì hít vào ở vùng lưng gợi ý xẹp – mở mỗi nhịp, có thể cần PEEP cao hơn."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "compare",
+   "chapter": "Ba thử nghiệm PEEP",
+   "title": "ALVEOLI, LOVS, EXPRESS: PEEP cao so với thấp",
+   "ref": "Murray & Nadel 7e · Meade 2008 (LOVS) · Mercat 2008 (EXPRESS)",
+   "head": [
+    "Thử nghiệm",
+    "Thiết kế",
+    "Kết quả"
+   ],
+   "widths": "0.9fr 1.8fr 1.9fr",
+   "rows": [
+    {
+     "cells": [
+      "ALVEOLI 2004 · n = 549",
+      "Bảng PEEP–FiO₂ cao so với thấp (cao hơn trung bình ~5) · huy động bỏ sau 80 người bệnh",
+      "Tử vong ~25% cả hai nhóm · dừng vì vô ích"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "LOVS 2008 · n = 983",
+      "Áp lực kiểm soát, huy động 40 cmH₂O × 40 giây, bảng PEEP cao, Pplat ≤ 40 · PEEP 14,6 so với 9,8",
+      "Tử vong 36,4% so với 40,4% (RR 0,90; P = 0,19) · thiếu oxy kháng trị 4,6% so với 10,2% · cứu vãn 5,1% so với 9,3%"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "EXPRESS 2008 · n = 767",
+      "PEEP chỉnh tới Pplat 28–30 so với PEEP 5–9 (ngày 1: 15 so với 7)",
+      "Tử vong 28 ngày 27,8% so với 31,2% (P = 0,31) · ngày không thở máy 7 so với 3 · cần nhiều dịch hơn"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Ba thử nghiệm lớn đã so sánh PEEP cao với PEEP thấp. ALVEOLI của mạng lưới ARDS, 549 người bệnh, dùng bảng PEEP–FiO₂ cao so với thấp, chênh trung bình khoảng 5. Huy động phế nang bị bỏ sau 80 người bệnh vì không hiệu quả. Tử vong khoảng 25 phần trăm ở cả hai nhóm, thử nghiệm dừng vì vô ích.",
+    "LOVS, 983 người bệnh, dùng chiến lược mở phổi: áp lực kiểm soát, huy động 40 xăng ti mét nước trong 40 giây, bảng PEEP cao, áp lực bình nguyên tới 40. PEEP trung bình 14,6 so với 9,8.",
+    "Tử vong 36,4 so với 40,4 phần trăm, không có ý nghĩa thống kê. Nhưng nhóm mở phổi ít thiếu oxy kháng trị hơn, 4,6 so với 10,2 phần trăm, ít tử vong do thiếu oxy kháng trị và ít cần biện pháp cứu vãn hơn.",
+    "EXPRESS ở Pháp, 767 người bệnh, tăng PEEP tới khi áp lực bình nguyên đạt 28 đến 30, so với PEEP tối thiểu 5 đến 9. Ngày đầu, PEEP là 15 so với 7. Tử vong 28 ngày 27,8 so với 31,2 phần trăm, không khác biệt. Nhưng nhóm PEEP cao có nhiều ngày không thở máy và không suy cơ quan hơn, đổi lại cần truyền dịch nhiều hơn."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "bars",
+   "chapter": "Phân tích gộp Briel",
+   "title": "Briel 2010: PEEP cao có lợi khi P/F ≤ 200",
+   "ref": "Briel M và cs., JAMA 2010 · dữ liệu từng người bệnh, 3 thử nghiệm, 2299 người bệnh",
+   "groups": [
+    {
+     "t": "Toàn bộ · tử vong bệnh viện",
+     "d": "RR 0,94 (0,86–1,04)",
+     "at": 0,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "PEEP cao",
+       "v": 32.9,
+       "lab": "32,9%"
+      },
+      {
+       "k": "PEEP thấp",
+       "v": 35.2,
+       "lab": "35,2%"
+      }
+     ],
+     "note": "Không khác biệt"
+    },
+    {
+     "t": "Có ARDS (P/F ≤ 200) · n = 1892",
+     "d": "RR 0,90 (0,81–1,00) · P = 0,049",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "PEEP cao",
+       "v": 34.1,
+       "lab": "34,1%"
+      },
+      {
+       "k": "PEEP thấp",
+       "v": 39.1,
+       "lab": "39,1%"
+      }
+     ],
+     "note": "PEEP cao có lợi"
+    },
+    {
+     "t": "Không ARDS (P/F > 200) · n = 404",
+     "d": "RR 1,37 (0,98–1,92) · P = 0,07",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "PEEP cao",
+       "v": 27.2,
+       "lab": "27,2%"
+      },
+      {
+       "k": "PEEP thấp",
+       "v": 19.4,
+       "lab": "19,4%"
+      }
+     ],
+     "note": "Có xu hướng hại"
+    }
+   ],
+   "max": 45,
+   "notes": [
+    {
+     "tag": "Ý NGHĨA",
+     "t": "Hiệu quả PEEP phụ thuộc mức độ nặng (tương tác P = 0,02)",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "tag": "AN TOÀN",
+     "t": "Tràn khí màng phổi, dùng vận mạch tương tự",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Vì từng thử nghiệm không đủ lực, Briel và cộng sự gộp dữ liệu từng người bệnh của ba thử nghiệm, tổng cộng 2299 người bệnh. Tính chung, PEEP cao không giảm tử vong: 32,9 so với 35,2 phần trăm.",
+    "Nhưng ở nhóm có ARDS thực sự, PaO₂/FiO₂ không quá 200, PEEP cao giảm tử vong từ 39,1 xuống 34,1 phần trăm, nguy cơ tương đối 0,90, vừa đạt ý nghĩa thống kê.",
+    "Ngược lại, ở nhóm nhẹ hơn, PaO₂/FiO₂ trên 200, PEEP cao có xu hướng làm tăng tử vong, 27,2 so với 19,4 phần trăm.",
+    "Tương tác giữa hiệu quả PEEP và mức độ nặng có ý nghĩa thống kê, trong khi tràn khí màng phổi và dùng vận mạch tương tự giữa hai nhóm. Thông điệp: PEEP cao hơn có thể phù hợp với ARDS vừa và nặng, nhưng không nên áp dụng máy móc cho người bệnh nhẹ."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "compare",
+   "chapter": "Bảng PEEP – FiO₂",
+   "title": "Bảng PEEP – FiO₂: thấp (ARMA) và cao (LOVS)",
+   "ref": "ARDS Network 2000, Bảng 1 · Meade 2008 (LOVS), Bảng 2",
+   "head": [
+    "FiO₂",
+    "PEEP thấp (ARMA · nhóm chứng LOVS)",
+    "PEEP cao (LOVS, sau điều chỉnh)"
+   ],
+   "widths": "0.8fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "0,3 · 0,4",
+      "5 · 5–8",
+      "5–10 · 10–18"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "0,5 · 0,6",
+      "8–10 · 10",
+      "18–20 · 20"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "0,7 · 0,8",
+      "10–14 · 14",
+      "20 · 20–22"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "0,9 · 1,0",
+      "14–18 · 18–24",
+      "22 · 22–24"
+     ],
+     "at": 1,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Trong thực hành, bảng phối hợp PEEP và FiO₂ là công cụ đơn giản nhất. Bảng PEEP thấp dùng trong ARMA và nhóm chứng của LOVS: FiO₂ 0,3 đi với PEEP 5, FiO₂ 0,5 với PEEP 8 đến 10, FiO₂ 0,7 với PEEP 10 đến 14, và FiO₂ 1,0 với PEEP 18 đến 24.",
+    "Bảng PEEP cao của LOVS đẩy PEEP lên sớm hơn nhiều: FiO₂ 0,4 đã đi với PEEP 10 đến 18, FiO₂ 0,5 với 18 đến 20, và từ FiO₂ 0,6 trở lên, PEEP ít nhất 20. Mục tiêu là dùng tổ hợp thấp nhất cho phép đạt mục tiêu oxy, PaO₂ 55 đến 80 hoặc SpO₂ 88 đến 95 phần trăm.",
+    "ESICM 2023 không khuyến cáo bảng nào hơn bảng nào, vì tử vong không khác biệt. Nhưng với ARDS vừa và nặng, dữ liệu của Briel ủng hộ nghiêng về phía PEEP cao hơn, nếu người bệnh dung nạp."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "stats",
+   "chapter": "Thử nghiệm ART",
+   "title": "ART 2017: khi “mở phổi” trở thành có hại",
+   "ref": "ESICM 2023, Câu hỏi 6.2 và 6.3 · Murray & Nadel 7e",
+   "tiles": [
+    {
+     "tag": "TỬ VONG",
+     "v": 1.12,
+     "dec": 2,
+     "pre": "RR ",
+     "l": "cao hơn ở nhóm huy động + PEEP theo độ giãn nở",
+     "d": "Khoảng tin cậy 95%: 1,00–1,26 · n = 1010",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "CHẤN THƯƠNG ÁP LỰC",
+     "v": 3.56,
+     "dec": 2,
+     "pre": "RR ",
+     "l": "tràn khí tăng hơn 3 lần",
+     "d": "Khoảng tin cậy 95%: 1,64–7,73",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "NGỪNG TIM",
+     "v": 3,
+     "l": "ca được cho là do thủ thuật huy động",
+     "d": "→ phải đổi sang huy động nhẹ hơn giữa chừng",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "cols": 3,
+   "h": 420,
+   "note": {
+    "t": "Huy động bậc thang PEEP 25 → 35 → <b>45 cmH₂O</b> (tổng ~4 phút), rồi chọn PEEP cao hơn 2 so với mức có độ giãn nở tốt nhất",
+    "at": 0,
+    "c": "violet"
+   },
+   "lines": [
+    "Bài học đắt giá nhất đến từ thử nghiệm ART, năm 2017, với 1010 người bệnh ARDS vừa và nặng. Nhóm can thiệp được huy động theo bậc thang, PEEP 25 trong 1 phút, 35 trong 1 phút, rồi 45 trong 2 phút, sau đó giảm dần PEEP để tìm mức có độ giãn nở tốt nhất, và đặt PEEP cao hơn mức đó 2 xăng ti mét nước.",
+    "Kết quả ngược với mong đợi: tử vong cao hơn ở nhóm huy động, nguy cơ tương đối 1,12.",
+    "Chấn thương áp lực tăng hơn 3 lần, nguy cơ tương đối 3,56. Nhóm can thiệp cũng có nhiều bất ổn huyết động hơn trong giờ đầu, và ít ngày không thở máy hơn.",
+    "Ít nhất 3 ca ngừng tim được cho là do chính thủ thuật huy động, buộc thử nghiệm phải đổi sang cách huy động nhẹ hơn giữa chừng. ART là lý do chính khiến ESICM khuyến cáo không dùng huy động kéo dài áp lực cao."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "PEEP theo cơ học",
+   "title": "Chỉnh PEEP theo cơ học hay theo bảng?",
+   "ref": "ESICM 2023, Câu hỏi 6.2 · Murray & Nadel 7e",
+   "cards": [
+    {
+     "tag": "ÁP LỰC THỰC QUẢN",
+     "t": "EPVent, EPVent-2",
+     "items": [
+      "Áp lực xuyên phổi = áp lực đường thở − áp lực thực quản",
+      "Lý do: béo phì, phù thành ngực, cổ trướng làm áp lực màng phổi cao",
+      "EPVent-2 (n = 200): không khác biệt tử vong"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "ĐỘ GIÃN NỞ TỐT NHẤT",
+     "t": "Pintado, ART",
+     "items": [
+      "Pintado (n = 70): PEEP theo độ giãn nở tốt nhất · không khác biệt",
+      "ART (n = 1010): kèm huy động kéo dài · tử vong tăng"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "GỘP",
+     "t": "Không lợi ích tử vong",
+     "items": [
+      "RR gộp 0,85 (0,57–1,29)",
+      "ESICM: không khuyến cáo theo hay chống",
+      "Cá thể hoá PEEP vẫn là câu hỏi mở"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Nếu bảng PEEP quá chung chung, chỉnh PEEP theo cơ học từng người có tốt hơn không? Hướng thứ nhất là áp lực thực quản. Áp lực thực quản ước tính áp lực màng phổi, từ đó tính áp lực xuyên phổi, áp lực thực sự làm căng phổi.",
+    "Lý do là ở người bệnh béo phì, phù thành ngực hay cổ trướng, áp lực màng phổi cao, nên có thể dùng PEEP cao hơn mà phổi không bị căng giãn. Nhưng thử nghiệm EPVent-2 với 200 người bệnh không thấy khác biệt về tử vong so với bảng PEEP cao.",
+    "Hướng thứ hai là chọn PEEP cho độ giãn nở tốt nhất, tức driving pressure thấp nhất. Nghiên cứu của Pintado với 70 người bệnh không thấy khác biệt, còn ART thì như chúng ta vừa thấy, có hại, có lẽ chủ yếu do huy động kéo dài đi kèm.",
+    "Gộp lại, chỉnh PEEP theo cơ học không giảm tử vong, nguy cơ tương đối 0,85, khoảng tin cậy rộng. ESICM 2023 không khuyến cáo theo hay chống. Cá thể hoá PEEP vẫn là câu hỏi nghiên cứu mở, có thể cần chọn trước những người bệnh có khả năng huy động cao."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "box",
+   "chapter": "ESICM 2023",
+   "title": "Khuyến cáo ESICM 2023 về PEEP và huy động",
+   "ref": "ESICM 2023, Khuyến cáo 6.1–6.4",
+   "box": {
+    "tag": "6.3 · KHÔNG DÙNG",
+    "t": "<b>Huy động kéo dài áp lực cao</b> (≥ 35 cmH₂O trong ≥ 1 phút): khuyến cáo <b>không dùng</b> để giảm tử vong · bằng chứng mức vừa",
+    "at": 0,
+    "c": "coral"
+   },
+   "notes": [
+    {
+     "tag": "6.4 · GỢI Ý KHÔNG",
+     "t": "Không dùng thường quy huy động ngắn (≥ 35 cmH₂O, < 1 phút) · bằng chứng thấp",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "6.1 · 6.2",
+     "t": "Không khuyến cáo theo hay chống: bảng PEEP cao hay thấp · PEEP theo cơ học hay theo bảng",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "Ý KIẾN CHUYÊN GIA",
+     "t": "Huy động ngắn có thể dùng khi tụt oxy do xẹp sau tách máy, hút đờm, nội soi, đổi tư thế · dừng ngay nếu bất ổn huyết động",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Tổng hợp lại, ESICM 2023 đưa ra bốn khuyến cáo. Khuyến cáo 6.3: không dùng huy động kéo dài áp lực cao, định nghĩa là áp lực đường thở từ 35 xăng ti mét nước trở lên trong ít nhất 1 phút, chủ yếu dựa trên ART.",
+    "Khuyến cáo 6.4: gợi ý không dùng thường quy huy động ngắn, dưới 1 phút, vì không có lợi ích tử vong và có nguy cơ. Khoảng 10 phần trăm người bệnh bị tụt huyết áp hoặc giảm bão hoà trong hay ngay sau huy động, có thể kèm nhịp chậm.",
+    "Khuyến cáo 6.1 và 6.2: không khuyến cáo theo hay chống bảng PEEP cao so với thấp, và PEEP theo cơ học so với theo bảng.",
+    "Nhưng ý kiến chuyên gia để ngỏ một vai trò hạn chế cho huy động ngắn: khi tụt oxy rõ ràng do xẹp phổi sau tách máy, hút đờm, nội soi phế quản hay đổi tư thế, và phải có kế hoạch dừng ngay nếu huyết động bất ổn."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "vent",
+   "chapter": "Mất PEEP",
+   "title": "Tách máy, hút đờm hở: mất PEEP là mất phổi",
+   "ref": "Mô phỏng: PEEP 12, C 35 → tách máy (PEEP 0) → nối lại · giả định xẹp: C 35 → 26",
+   "vent": {
+    "mode": "VC",
+    "vt": 400,
+    "rr": 22,
+    "ti": 0.8,
+    "pause": 0.3,
+    "peep": 12,
+    "R": 12,
+    "C": 35,
+    "fio2": 60
+   },
+   "alarm": {
+    "pplat": 30,
+    "dp": 15
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "peep": 0
+     },
+     "label": "Tách máy / hút đờm hở: PEEP về 0",
+     "c": "amber",
+     "hold": 4
+    },
+    {
+     "at": "L2",
+     "set": {
+      "peep": 12,
+      "C": 26
+     },
+     "label": "Nối lại PEEP 12 · phổi đã xẹp: C 35 → 26",
+     "c": "coral",
+     "hold": 5
+    }
+   ],
+   "freeze": "L3",
+   "nums": [
+    "ppeak",
+    "pplat",
+    "dp",
+    "peep",
+    "vt",
+    "crs"
+   ],
+   "marks": [
+    {
+     "k": "dp",
+     "at": "L4",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "PHÒNG NGỪA",
+     "t": "Hút đờm kín · hạn chế tách máy · kẹp ống khi phải tách",
+     "c": "teal",
+     "at": "L5"
+    }
+   ],
+   "lines": [
+    "Một tình huống rất hay gặp ở khoa hồi sức. Người bệnh đang ổn với PEEP 12, độ giãn nở 35, driving pressure khoảng 12.",
+    "Điều dưỡng tách máy để hút đờm hở. Trong vài giây, PEEP về 0, những phế nang PEEP đang giữ mở bắt đầu xẹp.",
+    "Nối máy lại với PEEP 12, nhưng PEEP chỉ giữ những gì đã mở. Phần phổi vừa xẹp không tự mở lại, độ giãn nở giảm xuống còn khoảng 26.",
+    "Ta đóng băng màn hình.",
+    "Driving pressure tăng lên khoảng 16, và trên lâm sàng, SpO₂ tụt sâu. Đây chính là tình huống ESICM cho rằng một lần huy động ngắn có thể có vai trò, với theo dõi huyết động sát.",
+    "Nhưng tốt nhất là phòng ngừa: dùng hệ thống hút đờm kín, hạn chế tách máy, và kẹp ống nội khí quản khi buộc phải tách."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: đọc kết quả thử nghiệm PEEP",
+   "ref": "Ca minh hoạ · áp dụng Tobin 3e · Amato 2015",
+   "case": "ARDS nặng, VC Vt 380 mL. Tăng PEEP 8 → 14: Pplat <b>26 → 29</b>, ΔP <b>18 → 15</b>, SpO₂ 88% → 94%, PaCO₂ 52 → 49, huyết áp ổn định.",
+   "q": "Nhận định đúng nhất?",
+   "options": [
+    "Không đáp ứng vì Pplat tăng",
+    "Có dấu hiệu huy động: giữ PEEP 14, theo dõi",
+    "Cần huy động 45 cmH₂O để mở thêm",
+    "Phải giảm PEEP về 8 vì Pplat gần 30"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "PEEP +6 nhưng Pplat chỉ +3 · <b>ΔP giảm</b> 18 → 15 · oxy tăng, PaCO₂ giảm, huyết động ổn → gợi ý huy động · giữ PEEP 14, Pplat vẫn < 30 · không cần huy động kéo dài (ESICM 6.3)",
+   "lines": [
+    "Tình huống thứ nhất. Người bệnh ARDS nặng, thể tích kiểm soát Vt 380 mililít. Quý vị thử tăng PEEP từ 8 lên 14. Áp lực bình nguyên tăng từ 26 lên 29, driving pressure giảm từ 18 xuống 15, SpO₂ từ 88 lên 94 phần trăm, PaCO₂ giảm từ 52 xuống 49, huyết áp ổn định.",
+    "Nhận định nào đúng nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. PEEP tăng 6 nhưng áp lực bình nguyên chỉ tăng 3, driving pressure giảm, oxy cải thiện và PaCO₂ giảm, huyết động ổn định. Tất cả gợi ý PEEP đang huy động phế nang.",
+    "Giữ PEEP 14 và theo dõi, áp lực bình nguyên vẫn dưới 30. Không cần, và không nên, làm huy động kéo dài 45 xăng ti mét nước, vì ESICM khuyến cáo không dùng."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: tụt oxy sau hút đờm",
+   "ref": "Ca minh hoạ · áp dụng ESICM 2023, ý kiến chuyên gia 6.4",
+   "case": "ARDS vừa, PEEP 12, FiO₂ 0,5, SpO₂ 93%. Sau hút đờm hở, SpO₂ tụt <b>82%</b> và không tự hồi phục sau 2 phút dù FiO₂ 1,0. Huyết áp 125/70, nhịp tim 98.",
+   "q": "Xử trí hợp lý nhất?",
+   "options": [
+    "Huy động bậc thang 25 → 35 → 45 cmH₂O như ART",
+    "Huy động ngắn có theo dõi sát, dừng ngay nếu tụt áp, rồi giữ PEEP",
+    "Tăng Vt lên 10 mL/kg để mở phổi",
+    "Chỉ chờ, không can thiệp gì thêm"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Tụt oxy do xẹp sau tách máy, huyết động ổn → huy động ngắn có thể cân nhắc (ESICM: không thường quy, nhưng có vai trò hạn chế) · theo dõi huyết áp, nhịp tim, dừng ngay nếu bất ổn · sau đó hút đờm kín",
+   "lines": [
+    "Tình huống thứ hai. Người bệnh ARDS vừa, PEEP 12, FiO₂ 0,5, SpO₂ 93 phần trăm. Sau một lần hút đờm hở, SpO₂ tụt còn 82 phần trăm và không tự hồi phục sau 2 phút dù đã tăng FiO₂ lên 1,0. Huyết áp 125 trên 70, nhịp tim 98.",
+    "Xử trí nào hợp lý nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Đây đúng là tình huống ESICM mô tả: tụt oxy nhiều khả năng do xẹp phổi sau tách máy, huyết động đang ổn. Một lần huy động ngắn, dưới 1 phút, có thể cân nhắc, với theo dõi huyết áp và nhịp tim liên tục, dừng ngay nếu tụt áp hay nhịp chậm, sau đó giữ lại mức PEEP.",
+    "Huy động bậc thang kéo dài kiểu ART bị khuyến cáo không dùng. Tăng Vt lên 10 mililít mỗi ký đi ngược nguyên tắc bảo vệ phổi. Và về lâu dài, hãy chuyển sang hút đờm kín."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "flow",
+   "chapter": "Thực hành",
+   "title": "Chọn PEEP trong thực hành: một cách tiếp cận",
+   "ref": "Tổng hợp từ ESICM 2023 · Briel 2010 · Tobin 3e · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Bắt đầu theo bảng PEEP – FiO₂",
+     "d": "P/F ≤ 200: cân nhắc bảng PEEP cao hơn",
+     "x": 250,
+     "y": 110,
+     "w": 440,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Thử tăng PEEP từng bước",
+     "d": "Theo dõi Pplat, ΔP, SpO₂, PaCO₂, huyết áp",
+     "x": 820,
+     "y": 110,
+     "w": 440,
+     "h": 120,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Đáp ứng tốt",
+     "d": "ΔP giảm, Pplat tăng ít, oxy tốt hơn, huyết động ổn → giữ",
+     "x": 1420,
+     "y": 110,
+     "w": 420,
+     "h": 140,
+     "c": "green",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Đáp ứng xấu",
+     "d": "Pplat tăng ≈ PEEP, ΔP không giảm, tụt áp → quay lại PEEP thấp hơn",
+     "x": 1420,
+     "y": 360,
+     "w": 420,
+     "h": 150,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "Không huy động kéo dài",
+     "d": "Huy động ngắn chỉ khi xẹp sau tách máy · theo dõi sát",
+     "x": 820,
+     "y": 360,
+     "w": 440,
+     "h": 130,
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "id": "f",
+     "t": "PEEP > 10–15 với FiO₂ ≥ 0,7",
+     "d": "Nằm sấp (Phần 5)",
+     "x": 250,
+     "y": 360,
+     "w": 440,
+     "h": 120,
+     "c": "blue",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "green",
+     "at": 2
+    },
+    {
+     "a": "b",
+     "b": "d",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Xin tổng hợp một cách tiếp cận thực hành, dựa trên ESICM, Briel và Tobin. Bắt đầu theo bảng PEEP–FiO₂. Với ARDS vừa và nặng, PaO₂/FiO₂ không quá 200, có thể cân nhắc bảng PEEP cao hơn.",
+    "Khi cần, thử tăng PEEP từng bước nhỏ, theo dõi đồng thời áp lực bình nguyên, driving pressure, SpO₂, PaCO₂ và huyết áp.",
+    "Nếu driving pressure giảm, áp lực bình nguyên tăng ít, oxy và thải CO₂ tốt hơn, huyết động ổn định, giữ mức PEEP đó.",
+    "Nếu áp lực bình nguyên tăng gần bằng mức tăng PEEP, driving pressure không giảm, hoặc tụt huyết áp, quay lại mức PEEP thấp hơn.",
+    "Không dùng huy động kéo dài. Huy động ngắn chỉ cân nhắc khi xẹp phổi cấp sau tách máy, có theo dõi sát.",
+    "Và theo Tobin, khi người bệnh cần PEEP trên 10 đến 15 với FiO₂ từ 0,7 trở lên để giữ bão hoà, hãy nghĩ ngay đến nằm sấp, chủ đề của Phần 5."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Bảy thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "PEEP có hai mặt",
+     "d": "Giữ phổi mở, giảm ΔP nếu huy động · căng giãn, tụt áp nếu không",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "PEEP chỉ giữ cái đã mở",
+     "d": "Mất PEEP khi tách máy → xẹp nhanh, khó mở lại",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Ba thử nghiệm lớn: không giảm tử vong",
+     "d": "Nhưng LOVS ít thiếu oxy kháng trị · EXPRESS nhiều ngày không thở máy hơn",
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "t": "Briel: PEEP cao có lợi khi P/F ≤ 200",
+     "d": "Có xu hướng hại khi P/F > 200",
+     "c": "green",
+     "at": 3
+    },
+    {
+     "t": "Không huy động kéo dài áp lực cao",
+     "d": "ART: tử vong RR 1,12 · chấn thương áp lực RR 3,56",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "t": "Đánh giá đáp ứng từng người",
+     "d": "ΔP, Pplat so với mức tăng PEEP, PaCO₂, huyết động",
+     "c": "violet",
+     "at": 5
+    },
+    {
+     "t": "PEEP cao + FiO₂ cao → nằm sấp",
+     "d": "Đừng chỉ tăng PEEP mãi",
+     "c": "teal",
+     "at": 6
+    }
+   ],
+   "lines": [
+    "Xin tổng kết bảy thông điệp. Một, PEEP có hai mặt: giữ phổi mở và giảm driving pressure nếu huy động được, nhưng căng giãn và tụt huyết áp nếu không.",
+    "Hai, PEEP chỉ giữ những gì đã mở. Mất PEEP khi tách máy làm phổi xẹp nhanh và khó mở lại.",
+    "Ba, ba thử nghiệm PEEP lớn không giảm tử vong, nhưng LOVS giảm thiếu oxy kháng trị và EXPRESS tăng số ngày không thở máy.",
+    "Bốn, phân tích gộp của Briel cho thấy PEEP cao có lợi khi PaO₂/FiO₂ không quá 200, và có xu hướng hại ở người bệnh nhẹ hơn.",
+    "Năm, không dùng huy động kéo dài áp lực cao, bài học từ ART.",
+    "Sáu, đánh giá đáp ứng PEEP ở từng người: driving pressure, áp lực bình nguyên so với mức tăng PEEP, PaCO₂ và huyết động.",
+    "Và bảy, khi cần PEEP cao với FiO₂ cao, đừng chỉ tăng PEEP mãi, hãy nghĩ đến nằm sấp. Ở Phần 5, chúng ta sẽ đi vào các biện pháp cứu vãn: nằm sấp, giãn cơ và ECMO. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
