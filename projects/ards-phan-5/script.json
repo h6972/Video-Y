@@ -1,0 +1,1061 @@
+{
+ "title": "ARDS chuyên sâu – Phần 5: Nằm sấp, giãn cơ, ECMO và những gì không nên làm",
+ "theme": "sinh-ly",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "ARDS chuyên sâu",
+ "part": "ARDS chuyên sâu · Phần 5/6",
+ "source_short": "Nguồn: ESICM 2023 · ATS 2023 · EOLIA (NEJM 2018) và bình luận Gattinoni · OSCILLATE, OSCAR (NEJM 2013) · Murray & Nadel 7e · Tobin 3e",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "SpO₂/FiO₂": "ét pê ô hai trên phi ô hai",
+  "LUNG SAFE": "lung sêi",
+  "Gattinoni": "Ga ti nô ni",
+  "OSCILLATE": "ốt xi lết",
+  "COVID-19": "cô vít mười chín",
+  "Ashbaugh": "Át bâu",
+  "ACURASYS": "a cu ra xít",
+  "ARDSNet": "a rờ đê ét nét",
+  "PROVENT": "prô ven",
+  "ALVEOLI": "an vê ô li",
+  "PROSEVA": "prô xê va",
+  "VV-ECMO": "éc mô tĩnh mạch – tĩnh mạch",
+  "Kigali": "Ki ga li",
+  "HARP-2": "háp hai",
+  "Calfee": "Can phi",
+  "L/phút": "lít mỗi phút",
+  "ECCO₂R": "loại bỏ CO₂ ngoài cơ thể",
+  "J/phút": "jun mỗi phút",
+  "PaCO₂": "pa cô hai",
+  "FACTT": "phác",
+  "ESICM": "e sích",
+  "Amato": "A ma tô",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "AUROC": "diện tích dưới đường cong",
+  "EOLIA": "ê ô li a",
+  "CESAR": "xê da",
+  "OSCAR": "ốt ca",
+  "PaO₂": "pa ô hai",
+  "SpO₂": "ét pê ô hai",
+  "FiO₂": "phi ô hai",
+  "PEEP": "píp",
+  "ARDS": "a rờ đê ét",
+  "AECC": "a e xê xê",
+  "CPAP": "xi páp",
+  "ECMO": "éc mô",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NETs": "nét",
+  "RAGE": "rết",
+  "ROSE": "rô dơ",
+  "HFOV": "thông khí dao động tần số cao",
+  "SCCM": "ét xê xê em",
+  "SaO₂": "ét a ô hai",
+  "P/F": "pê trên ép",
+  "S/F": "ét trên ép",
+  "ATS": "a tê ét",
+  "Vt": "vê tê"
+ },
+ "brand": {
+  "next": "Phần 6: Điều trị hỗ trợ, cập nhật mới và ôn tập"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "art": "ards",
+   "chapter": "Mở đầu",
+   "kicker": "ARDS CHUYÊN SÂU · PHẦN 5/6",
+   "title": "Các biện pháp cứu vãn:<br>nằm sấp, giãn cơ, ECMO",
+   "subtitle": "Leo thang đúng lúc, và biết những gì không nên làm",
+   "badges": [
+    {
+     "t": "PROSEVA",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "ACURASYS · ROSE",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "EOLIA",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "OSCILLATE",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "note": "Đối chiếu ESICM 2023, ATS 2023 và SCCM 2026 · bằng chứng thử nghiệm gốc",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Phần 5 của loạt bài ARDS chuyên sâu.",
+    "Khi thông khí bảo vệ phổi và PEEP hợp lý vẫn không đủ, chúng ta cần các biện pháp cứu vãn. Phần này phân tích ba biện pháp có bằng chứng: nằm sấp, giãn cơ và ECMO,",
+    "đặt cạnh nhau khuyến cáo của ESICM 2023, ATS 2023 và SCCM 2026, vì ba hội không hoàn toàn đồng thuận.",
+    "Và quan trọng không kém, chúng ta sẽ xem những biện pháp từng được kỳ vọng nhưng thất bại, thậm chí có hại, như thông khí dao động tần số cao."
+   ]
+  },
+  {
+   "id": "s02",
+   "layout": "flow",
+   "chapter": "Thang leo thang",
+   "title": "Thang leo thang trong ARDS nặng",
+   "ref": "Tổng hợp từ ESICM 2023 · ATS 2023 · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Nền tảng",
+     "d": "Vt 4–8 mL/kg · Pplat < 30 · PEEP hợp lý · an thần phù hợp",
+     "x": 230,
+     "y": 120,
+     "w": 380,
+     "h": 140,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "P/F < 150 sau ổn định",
+     "d": "Nằm sấp sớm, ≥ 16 giờ mỗi phiên",
+     "x": 700,
+     "y": 120,
+     "w": 380,
+     "h": 140,
+     "c": "green",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Mất đồng bộ nặng, ARDS sớm, nặng",
+     "d": "Cân nhắc giãn cơ ≤ 48 giờ (khác biệt giữa các hội)",
+     "x": 700,
+     "y": 380,
+     "w": 380,
+     "h": 150,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Vẫn thất bại",
+     "d": "P/F < 80 hoặc pH < 7,25 với PaCO₂ ≥ 60 · liên hệ trung tâm ECMO",
+     "x": 1180,
+     "y": 120,
+     "w": 400,
+     "h": 150,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "Không làm thường quy",
+     "d": "HFOV · huy động kéo dài · NO hít (chỉ tạm thời) · loại CO₂ ngoài cơ thể",
+     "x": 1180,
+     "y": 400,
+     "w": 400,
+     "h": 150,
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "green",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "b",
+     "b": "d",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Trước hết, một bức tranh tổng thể. Nền tảng luôn là thông khí bảo vệ phổi: Vt 4 đến 8 mililít mỗi ký, áp lực bình nguyên dưới 30, PEEP hợp lý và an thần phù hợp.",
+    "Nếu sau một thời gian ổn định, PaO₂/FiO₂ vẫn dưới 150, nằm sấp sớm, mỗi phiên ít nhất 16 giờ, là bước leo thang có bằng chứng mạnh nhất.",
+    "Ở ARDS sớm và nặng, có mất đồng bộ nặng, có thể cân nhắc giãn cơ không quá 48 giờ. Như chúng ta sẽ thấy, các hội chưa thống nhất ở điểm này.",
+    "Nếu vẫn thất bại, với PaO₂/FiO₂ dưới 80, hoặc toan hô hấp pH dưới 7,25 với PaCO₂ từ 60 trở lên, hãy liên hệ trung tâm ECMO sớm.",
+    "Và có những biện pháp không nên dùng thường quy: thông khí dao động tần số cao, huy động kéo dài, nitric oxide hít ngoài mục đích cứu vãn tạm thời, và loại bỏ CO₂ ngoài cơ thể ngoài nghiên cứu."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "babylung",
+   "chapter": "Nằm sấp: sinh lý",
+   "title": "Vì sao nằm sấp giúp phổi?",
+   "ref": "Murray & Nadel 7e · ESICM 2023 · Tobin 3e · sơ đồ tự vẽ",
+   "zones": {
+    "aer": 0,
+    "poor": 0,
+    "cons": 0,
+    "prone": 2
+   },
+   "prone_t": "Lật sấp: lưng thành vùng không phụ thuộc",
+   "notes": [
+    {
+     "t": "Nằm ngửa: vùng lưng bị đè",
+     "d": "Trọng lượng phổi phù, tim, tạng bụng · thành ngực sau giãn nở kém",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "t": "Nằm sấp: thông khí đồng đều hơn",
+     "d": "Thành ngực trước bị cố định bởi giường · tim không còn đè lên phổi",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "t": "Căng giãn phân bố đều hơn",
+     "d": "Giảm tổn thương do thở máy · cải thiện tương xứng thông khí – tưới máu",
+     "c": "green",
+     "at": 3
+    },
+    {
+     "t": "Giảm gánh thất phải",
+     "d": "Dẫn lưu đờm, bạch huyết tốt hơn",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Nằm sấp giúp phổi như thế nào? Khi nằm ngửa, vùng lưng bị đè bởi trọng lượng của chính phổi phù nề, của tim và các tạng trong ổ bụng. Thành ngực phía sau lại kém giãn nở, nên khí ưu tiên đi vào vùng phía trước.",
+    "Đây là bức tranh quen thuộc từ Phần 1: phía trước thông khí tốt, phía lưng kính mờ và đông đặc.",
+    "Khi lật người bệnh nằm sấp, thành ngực trước bị cố định bởi mặt giường và trở nên kém giãn nở, cân bằng với thành ngực sau. Tim không còn đè lên phần lớn phổi. Vùng lưng, vốn có nhiều mô phổi hơn, trở thành vùng không phụ thuộc và được mở ra.",
+    "Kết quả là thông khí đồng đều hơn, căng giãn phân bố đều hơn trên toàn bộ phổi, giảm tổn thương do thở máy, và cải thiện tương xứng giữa thông khí và tưới máu.",
+    "Nằm sấp còn giảm gánh thất phải, cải thiện dẫn lưu đờm và bạch huyết. Lợi ích bảo vệ phổi tồn tại ngay cả khi oxy hoá không cải thiện nhiều."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "stats",
+   "chapter": "PROSEVA",
+   "title": "PROSEVA 2013: nằm sấp kéo dài cứu sống",
+   "ref": "Murray & Nadel 7e · ESICM 2023, Câu hỏi 7.1",
+   "tiles": [
+    {
+     "tag": "TỬ VONG 28 NGÀY",
+     "v": 16,
+     "suf": "%",
+     "l": "nằm sấp, so với 33% nằm ngửa",
+     "d": "Hơn 400 người bệnh ARDS sớm, nặng",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "NGẮN HẠN · ESICM",
+     "v": 0.49,
+     "dec": 2,
+     "pre": "RR ",
+     "l": "khoảng tin cậy 0,35–0,69",
+     "d": "90 ngày: RR 0,58 (0,44–0,76)",
+     "c": "green",
+     "at": 2
+    },
+    {
+     "tag": "LIỀU NẰM SẤP",
+     "v": 16,
+     "pre": "≥ ",
+     "suf": " giờ",
+     "l": "liên tục mỗi ngày, tới ngày 28",
+     "d": "Bắt đầu trong 1 giờ sau phân nhóm",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "cols": 3,
+   "h": 420,
+   "note": {
+    "t": "≥ 80% người bệnh ở cả hai nhóm dùng giãn cơ · thực hiện ở các trung tâm giàu kinh nghiệm nằm sấp",
+    "at": 4,
+    "c": "violet"
+   },
+   "lines": [
+    "Bằng chứng then chốt là thử nghiệm PROSEVA năm 2013, hơn 400 người bệnh ARDS sớm và nặng.",
+    "Tử vong 28 ngày là 16 phần trăm ở nhóm nằm sấp, so với 33 phần trăm ở nhóm nằm ngửa, giảm gần một nửa.",
+    "ESICM tính nguy cơ tương đối tử vong ngắn hạn 0,49, và tử vong 90 ngày 0,58, cả hai đều có ý nghĩa thống kê.",
+    "Điểm khác biệt của PROSEVA là liều nằm sấp: người bệnh được lật sấp trong vòng 1 giờ sau phân nhóm, giữ ít nhất 16 giờ liên tục mỗi ngày, cho tới ngày 28.",
+    "Cần lưu ý bối cảnh: hơn 80 phần trăm người bệnh ở cả hai nhóm được dùng giãn cơ, và thử nghiệm thực hiện ở các trung tâm rất giàu kinh nghiệm nằm sấp."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "cards",
+   "chapter": "Vì sao các thử nghiệm cũ thất bại",
+   "title": "Bài học từ các thử nghiệm nằm sấp trước PROSEVA",
+   "ref": "ESICM 2023 · Murray & Nadel 7e",
+   "cards": [
+    {
+     "tag": "TRƯỚC 2013",
+     "t": "Năm thử nghiệm đầu",
+     "items": [
+      "Gộp: RR 0,91 (0,77–1,08), không khác biệt",
+      "Một thử nghiệm: 6 giờ mỗi ngày × 10 ngày",
+      "Oxy cải thiện ở ~70% lần lật, phần lớn trong 1 giờ đầu"
+     ],
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "tag": "VÌ SAO",
+     "t": "Liều và chọn người bệnh",
+     "items": [
+      "Thời gian nằm sấp quá ngắn",
+      "Chọn cả người bệnh ít thiếu oxy",
+      "Chưa kết hợp thông khí bảo vệ phổi"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "PHÂN TÍCH GỘP 2017",
+     "t": "Tín hiệu lợi ích",
+     "items": [
+      "Khi nằm sấp > 12 giờ mỗi ngày",
+      "Khi P/F ≤ 200",
+      "Dữ liệu từng người bệnh: P/F ≤ 100"
+     ],
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Nằm sấp được đề xuất từ những năm 1970, nhưng năm thử nghiệm đầu tiên gộp lại không thấy lợi ích, nguy cơ tương đối 0,91.",
+    "Một thử nghiệm lớn với hơn 300 người bệnh chỉ cho nằm sấp 6 giờ mỗi ngày trong 10 ngày. Oxy cải thiện ở khoảng 70 phần trăm số lần lật, phần lớn trong 1 giờ đầu, nhưng tử vong không thay đổi. Người bệnh vẫn nằm ngửa phần lớn thời gian trong ngày.",
+    "Các bài học được rút ra qua từng thử nghiệm: thời gian nằm sấp quá ngắn, chọn cả người bệnh ít thiếu oxy, và chưa kết hợp với thông khí bảo vệ phổi.",
+    "Phân tích gộp năm 2017 của ESICM và ATS cho thấy tín hiệu lợi ích khi nằm sấp trên 12 giờ mỗi ngày hoặc khi PaO₂/FiO₂ không quá 200, và dữ liệu từng người bệnh gợi ý lợi ích khi PaO₂/FiO₂ không quá 100. PROSEVA thiết kế dựa trên chính những bài học này."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "box",
+   "chapter": "Khuyến cáo nằm sấp",
+   "title": "Khuyến cáo nằm sấp: ESICM 2023 và ATS",
+   "ref": "ESICM 2023, Khuyến cáo 7.1–7.3 · ATS 2023 (giữ khuyến cáo 2017)",
+   "box": {
+    "tag": "ESICM 7.1 · 7.2 · MẠNH",
+    "t": "Nằm sấp cho ARDS vừa – nặng (<b>P/F < 150</b>, PEEP ≥ 5, đã tối ưu máy thở) · bắt đầu <b>sớm</b> sau giai đoạn ổn định · phiên kéo dài <b>≥ 16 giờ liên tục</b> · áp dụng cả COVID-19",
+    "at": 0,
+    "c": "teal"
+   },
+   "notes": [
+    {
+     "tag": "ATS",
+     "t": "Khuyến cáo mạnh: nằm sấp > 12 giờ mỗi ngày ở ARDS nặng",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "tag": "TIẾP TỤC",
+     "t": "Kể cả khi oxy chưa cải thiện ngay: lợi ích bảo vệ phổi",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "TỈNH",
+     "t": "Nằm sấp khi tỉnh: gợi ý cho COVID-19 để giảm đặt ống · chưa đủ dữ liệu ngoài COVID-19",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "ESICM 2023 đưa ra hai khuyến cáo mạnh, bằng chứng cao. Nằm sấp cho ARDS vừa và nặng, định nghĩa là PaO₂/FiO₂ dưới 150 với PEEP ít nhất 5, sau khi đã tối ưu máy thở.",
+    "Bắt đầu sớm sau đặt nội khí quản, sau một giai đoạn ổn định để chỉnh Vt thấp, PEEP và huyết động. Mỗi phiên kéo dài ít nhất 16 giờ liên tục. Khuyến cáo áp dụng cả với ARDS do COVID-19.",
+    "ATS 2023 giữ nguyên khuyến cáo mạnh từ năm 2017: nằm sấp hơn 12 giờ mỗi ngày ở ARDS nặng.",
+    "ESICM nhấn mạnh tiếp tục nằm sấp ngay cả khi oxy hoá chưa cải thiện rõ ban đầu, vì lợi ích chính là làm đồng đều căng giãn và bảo vệ phổi.",
+    "Riêng nằm sấp khi tỉnh, ESICM chỉ gợi ý cho suy hô hấp do COVID-19 để giảm đặt ống, và chưa đủ dữ liệu để khuyến cáo cho các nguyên nhân khác. Chi tiết về hỗ trợ không xâm lấn, quý vị có thể xem trong loạt bài ATS 2026 của kênh."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "cards",
+   "chapter": "Nằm sấp an toàn",
+   "title": "Nằm sấp an toàn: chống chỉ định và chăm sóc",
+   "ref": "Murray & Nadel 7e · Tobin 3e",
+   "cards": [
+    {
+     "tag": "CHỐNG CHỈ ĐỊNH",
+     "t": "PROSEVA đã loại trừ",
+     "items": [
+      "Tổn thương cột sống không vững (tuyệt đối)",
+      "Tăng áp lực nội sọ",
+      "Ho ra máu ồ ạt",
+      "Phẫu thuật khí quản, mặt gần đây",
+      "Huyết áp trung bình < 65 mmHg"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "NGUY CƠ",
+     "t": "Khi lật và khi nằm",
+     "items": [
+      "Tuột ống nội khí quản, catheter",
+      "Loét tì đè: gối, gai chậu trước, cằm, vai",
+      "Không để vật lạ dưới người bệnh",
+      "Ngừng tim: phải lật ngửa"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Theo Tobin",
+     "items": [
+      "Đủ nhân lực, sẵn sàng đặt lại ống",
+      "Tư thế đầu cao 15–30°",
+      "Giữ nguyên Vt",
+      "Lật ngửa ≥ 1 lần mỗi ngày để chăm sóc"
+     ],
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Nằm sấp có lợi lớn, nhưng phải làm an toàn. PROSEVA đã loại trừ người bệnh có tổn thương cột sống không vững, đây là chống chỉ định tuyệt đối, tăng áp lực nội sọ, ho ra máu ồ ạt, phẫu thuật khí quản hay mặt gần đây, và huyết áp trung bình dưới 65.",
+    "Nguy cơ chính khi lật là tuột ống nội khí quản và catheter, cần đủ nhân lực và sẵn sàng đặt lại ống ngay.",
+    "Khi nằm sấp, cần phòng loét tì đè ở gối, gai chậu trước, cằm và vai, không để sót ống tiêm hay dây điện tim dưới người bệnh. Nếu ngừng tim, phải lật ngửa ngay để ép tim.",
+    "Tobin gợi ý tư thế đầu cao 15 đến 30 độ, giữ nguyên Vt như khi nằm ngửa. Nếu áp lực bình nguyên tăng khi lật sấp, đó là do thay đổi giãn nở thành ngực. Lật ngửa ít nhất một lần mỗi ngày để chăm sóc, trừ khi người bệnh không dung nạp tư thế ngửa."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: P/F 118 sau 12 giờ tối ưu máy thở",
+   "ref": "Ca minh hoạ · áp dụng ESICM 2023, Khuyến cáo 7.1–7.2",
+   "case": "Nam 45 tuổi, viêm phổi do phế cầu, ARDS. Đặt ống 12 giờ: Vt 6 mL/kg, PEEP 12, FiO₂ 0,7, Pplat 27. P/F <b>118</b>. Huyết áp trung bình 72 với noradrenaline liều thấp.",
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "options": [
+    "Chuyển ECMO ngay",
+    "Nằm sấp, phiên ≥ 16 giờ",
+    "Thông khí dao động tần số cao",
+    "Nitric oxide hít kéo dài"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "P/F < 150 sau ổn định và tối ưu máy thở → <b>nằm sấp sớm, ≥ 16 giờ</b> (ESICM: mạnh, bằng chứng cao) · huyết áp trung bình 72 không chống chỉ định · chưa đạt tiêu chí ECMO · HFOV có hại · NO không giảm tử vong",
+   "lines": [
+    "Tình huống thứ nhất. Một người đàn ông 45 tuổi, viêm phổi do phế cầu, ARDS. Sau 12 giờ đặt ống với Vt 6 mililít mỗi ký, PEEP 12, FiO₂ 0,7, áp lực bình nguyên 27, PaO₂/FiO₂ là 118. Huyết áp trung bình 72 với noradrenaline liều thấp.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Sau giai đoạn ổn định và tối ưu máy thở, PaO₂/FiO₂ vẫn dưới 150. Đây đúng là chỉ định nằm sấp sớm của ESICM, mỗi phiên ít nhất 16 giờ. Huyết áp trung bình 72 không phải chống chỉ định.",
+    "Người bệnh chưa đạt tiêu chí ECMO. Thông khí dao động tần số cao có thể có hại, và nitric oxide chỉ cải thiện oxy thoáng qua mà không giảm tử vong, như chúng ta sẽ thấy ở cuối bài."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "compare",
+   "chapter": "Giãn cơ",
+   "title": "Giãn cơ: ba hội, ba khuyến cáo",
+   "ref": "ESICM 2023, Khuyến cáo 8.1 · ATS 2023 · SCCM 2026",
+   "head": [
+    "Hội",
+    "Khuyến cáo",
+    "Cơ sở"
+   ],
+   "widths": "0.8fr 2fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "ESICM 2023",
+      "<b>Không dùng thường quy</b> truyền liên tục cho ARDS vừa – nặng không do COVID-19 · mạnh, bằng chứng vừa",
+      "ACURASYS và ROSE gộp: không có ý nghĩa · dị biệt cao"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "ATS 2023",
+      "<b>Gợi ý dùng</b> cho ARDS sớm (< 48 giờ), nặng (P/F ≤ 100) · có điều kiện, bằng chứng thấp",
+      "7 thử nghiệm, 1598 người bệnh: RR 0,74 (0,56–0,98)"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "SCCM 2026",
+      "<b>Gợi ý dùng</b> khi P/F < 150 và còn thất bại dù đã an thần · thường ≤ 48 giờ",
+      "Xem loạt bài giãn cơ SCCM 2026 của kênh"
+     ],
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Giãn cơ là chủ đề ba hội đưa ra ba khuyến cáo khác nhau. ESICM 2023 khuyến cáo mạnh không dùng thường quy giãn cơ truyền liên tục cho ARDS vừa và nặng không do COVID-19.",
+    "Lý do: gộp ACURASYS và ROSE không có ý nghĩa thống kê, với dị biệt lớn giữa hai thử nghiệm.",
+    "ATS 2023 lại gợi ý dùng giãn cơ cho ARDS sớm, dưới 48 giờ, và nặng, PaO₂/FiO₂ không quá 100, với khuyến cáo có điều kiện, bằng chứng thấp.",
+    "Cơ sở là phân tích gộp 7 thử nghiệm, 1598 người bệnh, nguy cơ tương đối tử vong 0,74.",
+    "Và SCCM 2026, hướng dẫn mới nhất chuyên về giãn cơ trong ARDS, gợi ý dùng khi PaO₂/FiO₂ dưới 150 và người bệnh vẫn thất bại dù đã an thần, thường không quá 48 giờ. Quý vị có thể xem phân tích chi tiết trong video giãn cơ SCCM 2026 của kênh."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "cards",
+   "chapter": "Giãn cơ",
+   "title": "Hiểu sự khác biệt: ACURASYS và ROSE",
+   "ref": "ESICM 2023 · ATS 2023",
+   "cards": [
+    {
+     "tag": "SO VỚI AN THẦN SÂU",
+     "t": "Có lợi",
+     "items": [
+      "3 thử nghiệm, 431 người bệnh",
+      "RR 0,72 (0,58–0,91)",
+      "ACURASYS: nhóm chứng an thần sâu, nằm sấp 44,8%"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "SO VỚI AN THẦN NHẸ",
+     "t": "Không lợi",
+     "items": [
+      "ROSE: RR 0,99 (0,86–1,15)",
+      "Nhóm chứng an thần nhẹ · nằm sấp chỉ 15,8%",
+      "PEEP cao hơn"
+     ],
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "CHẮC CHẮN HƠN",
+     "t": "Lợi và hại",
+     "items": [
+      "Giảm chấn thương áp lực: RR 0,55",
+      "Tăng yếu cơ mắc phải ở ICU: RR 1,16",
+      "Cần an thần sâu đi kèm"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Vì sao các hội khác nhau? Chìa khoá nằm ở nhóm chứng. Khi so với an thần sâu, giãn cơ giảm tử vong, nguy cơ tương đối 0,72 trong 3 thử nghiệm với 431 người bệnh. ACURASYS thuộc nhóm này: nhóm chứng an thần sâu, và 44,8 phần trăm được nằm sấp.",
+    "Khi so với an thần nhẹ, như trong ROSE, giãn cơ không có lợi, nguy cơ tương đối 0,99. ROSE dùng PEEP cao hơn và chỉ 15,8 phần trăm nằm sấp.",
+    "ESICM đặt câu hỏi: có thể an thần sâu ở nhóm chứng ACURASYS đã làm tăng tử vong của nhóm chứng, tạo ra lợi ích giả cho giãn cơ.",
+    "Điều chắc chắn hơn là giãn cơ giảm chấn thương áp lực, nguy cơ tương đối 0,55, nhưng có xu hướng tăng yếu cơ mắc phải ở ICU, 1,16, và luôn đòi hỏi an thần sâu đi kèm.",
+    "Cách tiếp cận dung hoà mà ATS đề xuất: dành giãn cơ cho ARDS sớm, nặng, đã an thần sâu, hoặc mất đồng bộ nặng gây xấu đi lâm sàng dù đã chỉnh máy thở và an thần, tối đa 48 giờ. Và luôn nhớ bẫy an thần: người bệnh liệt có thể vẫn tỉnh."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "ECMO · EOLIA",
+   "title": "EOLIA 2018: thiết kế",
+   "ref": "Combes A và cs., NEJM 2018",
+   "cards": [
+    {
+     "tag": "TIÊU CHÍ (1 TRONG 3)",
+     "t": "ARDS rất nặng",
+     "items": [
+      "P/F < 50 mmHg kéo dài > 3 giờ",
+      "P/F < 80 mmHg kéo dài > 6 giờ",
+      "pH < 7,25 với PaCO₂ ≥ 60 kéo dài > 6 giờ"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "ĐÃ TỐI ƯU",
+     "t": "Trước khi phân nhóm",
+     "items": [
+      "FiO₂ ≥ 0,8 · Vt 6 mL/kg · PEEP ≥ 10",
+      "Tần số tới 35 · Pplat ≤ 32",
+      "Khuyến khích giãn cơ, nằm sấp (59% đã nằm sấp)"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "HAI NHÓM",
+     "t": "n = 249",
+     "items": [
+      "ECMO tĩnh mạch – tĩnh mạch ngay (trung bình 3,3 giờ)",
+      "Chứng: 90% nằm sấp, 100% giãn cơ",
+      "Cho phép chuyển sang ECMO cứu vãn"
+     ],
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Khi nằm sấp và giãn cơ vẫn không đủ, ECMO tĩnh mạch – tĩnh mạch là bước cuối. Bằng chứng then chốt là EOLIA năm 2018. Người bệnh phải có ARDS rất nặng theo một trong ba tiêu chí: PaO₂/FiO₂ dưới 50 kéo dài trên 3 giờ, dưới 80 kéo dài trên 6 giờ, hoặc pH dưới 7,25 với PaCO₂ từ 60 trở lên kéo dài trên 6 giờ.",
+    "Các tiêu chí này chỉ áp dụng sau khi đã tối ưu thở máy: FiO₂ từ 0,8, Vt 6 mililít mỗi ký, PEEP từ 10,",
+    "tần số tăng tới 35, áp lực bình nguyên không quá 32. Giãn cơ và nằm sấp được khuyến khích trước phân nhóm, 59 phần trăm người bệnh đã được nằm sấp.",
+    "249 người bệnh được chia hai nhóm: ECMO ngay, trung bình 3,3 giờ sau phân nhóm, hoặc tiếp tục điều trị thường quy rất tích cực, 90 phần trăm nằm sấp và 100 phần trăm giãn cơ, với khả năng chuyển sang ECMO cứu vãn khi thiếu oxy kháng trị."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "bars",
+   "chapter": "ECMO · EOLIA",
+   "title": "EOLIA: kết quả",
+   "ref": "Combes A và cs., NEJM 2018, Bảng 2 và 3",
+   "groups": [
+    {
+     "t": "Tử vong 60 ngày (chính)",
+     "d": "RR 0,76 (0,55–1,04) · P = 0,09",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "ECMO",
+       "v": 35,
+       "lab": "35%"
+      },
+      {
+       "k": "Chứng",
+       "v": 46,
+       "lab": "46%"
+      }
+     ],
+     "note": "Không đạt ý nghĩa thống kê"
+    },
+    {
+     "t": "Thất bại điều trị (phụ)",
+     "d": "Tử vong hoặc chuyển ECMO · RR 0,62 (0,47–0,82)",
+     "at": 2,
+     "c": "green",
+     "bars": [
+      {
+       "k": "ECMO",
+       "v": 35,
+       "lab": "35%"
+      },
+      {
+       "k": "Chứng",
+       "v": 58,
+       "lab": "58%"
+      }
+     ],
+     "note": "P < 0,001"
+    },
+    {
+     "t": "Chảy máu cần truyền máu",
+     "d": "Giảm tiểu cầu nặng 27% so với 16%",
+     "at": 3,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "ECMO",
+       "v": 46,
+       "lab": "46%"
+      },
+      {
+       "k": "Chứng",
+       "v": 28,
+       "lab": "28%"
+      }
+     ],
+     "note": "Đột quỵ thiếu máu: 0 so với 5%"
+    }
+   ],
+   "max": 65,
+   "notes": [
+    {
+     "tag": "CHUYỂN NHÓM",
+     "t": "28% nhóm chứng (35 người) chuyển ECMO sau trung bình 6,5 ngày · 57% trong số đó tử vong",
+     "c": "amber",
+     "at": 1
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Kết quả chính: tử vong 60 ngày 35 phần trăm ở nhóm ECMO, so với 46 phần trăm ở nhóm chứng, nguy cơ tương đối 0,76, P bằng 0,09, không đạt ý nghĩa thống kê. Thử nghiệm dừng theo quy tắc vô ích đã định trước.",
+    "Một yếu tố quan trọng: 28 phần trăm nhóm chứng, 35 người bệnh, phải chuyển sang ECMO cứu vãn sau trung bình 6,5 ngày, và 57 phần trăm trong số họ tử vong.",
+    "Tiêu chí phụ, thất bại điều trị, gồm tử vong hoặc chuyển sang ECMO, giảm rõ ở nhóm ECMO: 35 so với 58 phần trăm, nguy cơ tương đối 0,62.",
+    "Về an toàn, ECMO tăng chảy máu cần truyền máu, 46 so với 28 phần trăm, và giảm tiểu cầu nặng, 27 so với 16 phần trăm. Ngược lại, không có đột quỵ thiếu máu nào ở nhóm ECMO, so với 5 phần trăm ở nhóm chứng."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "cards",
+   "chapter": "ECMO · đọc EOLIA",
+   "title": "Đọc EOLIA: góc nhìn của Gattinoni",
+   "ref": "Gattinoni L, Vasques F, Quintel M. Bình luận EOLIA, 2018",
+   "cards": [
+    {
+     "tag": "CỨU VÃN",
+     "t": "35 người chuyển ECMO",
+     "items": [
+      "SaO₂ trung vị 77% · 9 ca ngừng tim",
+      "15 người sống sót",
+      "Khó sống nếu không có ECMO"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "BẢO VỆ PHỔI",
+     "t": "Thở máy “nhẹ” hơn khi có ECMO",
+     "items": [
+      "Vt giảm 43%, tần số giảm 23%",
+      "Năng lượng cơ học ước tính: 28 → 10 J/phút (giảm ~66%)"
+     ],
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "THỐNG KÊ",
+     "t": "RR 0,76 với P = 0,07–0,09",
+     "items": [
+      "Giảm tuyệt đối 11% là đáng kể",
+      "Cần ~624 người bệnh để chứng minh",
+      "“Thống kê là công cụ, không phải tôn giáo”"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Gattinoni và cộng sự viết một bình luận đáng đọc về EOLIA. Thứ nhất, 35 người bệnh nhóm chứng chuyển sang ECMO cứu vãn có SaO₂ trung vị chỉ 77 phần trăm, 9 người đã ngừng tim. 15 người sống sót, và rất khó tin họ sống được nếu không có ECMO.",
+    "Thứ hai, ECMO cho phép thở máy nhẹ hơn nhiều.",
+    "Vt giảm 43 phần trăm, tần số giảm 23 phần trăm. Họ ước tính năng lượng cơ học truyền vào phổi giảm khoảng 66 phần trăm, từ 28 xuống 10 jun mỗi phút. Đây chính là cơ chế bảo vệ phổi của ECMO.",
+    "Thứ ba, về thống kê: giảm tuyệt đối 11 phần trăm tử vong là rất đáng kể. Với tỷ lệ tuyển chọn thực tế, cần khoảng 624 người bệnh và nhiều năm để chứng minh. Câu kết của họ: thống kê là công cụ vận hành, không phải tôn giáo, kiến thức và kinh nghiệm của thầy thuốc mới là đối trọng với con số 0,05."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "compare",
+   "chapter": "ECMO · khuyến cáo",
+   "title": "Khuyến cáo ECMO: ESICM 2023 và ATS 2023",
+   "ref": "ESICM 2023, Khuyến cáo 9.1–9.2 · ATS 2023, Câu hỏi 2",
+   "head": [
+    "",
+    "ESICM 2023",
+    "ATS 2023"
+   ],
+   "widths": "0.8fr 1.9fr 1.9fr",
+   "rows": [
+    {
+     "cells": [
+      "Khuyến cáo",
+      "<b>Mạnh</b>, bằng chứng vừa: ECMO cho ARDS nặng theo tiêu chí EOLIA, tại trung tâm đạt chuẩn",
+      "<b>Có điều kiện</b>, bằng chứng thấp: ECMO cho người bệnh chọn lọc, ARDS nặng"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Phân tích gộp CESAR + EOLIA",
+      "Tử vong 60 ngày RR 0,72 (0,57–0,91)",
+      "Tử vong RR 0,76 (0,60–0,95) · thêm 8 ngày không thở máy · chảy máu RR 1,64"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Chọn người bệnh",
+      "Theo tiêu chí EOLIA · cần mạng lưới, ECMO di động",
+      "Nguyên nhân hồi phục được · P/F < 80 hoặc pH < 7,25 với PaCO₂ ≥ 60 · sớm (< 7 ngày) · ít yếu tố vô ích"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Loại CO₂ ngoài cơ thể",
+      "Không dùng ngoài nghiên cứu",
+      "—"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Hai hội gộp CESAR và EOLIA, nhưng mức khuyến cáo khác nhau. ESICM khuyến cáo mạnh, bằng chứng vừa: ECMO cho ARDS nặng theo tiêu chí EOLIA, tại trung tâm ECMO đạt chuẩn tổ chức. ATS chỉ gợi ý có điều kiện, bằng chứng thấp, cho người bệnh chọn lọc.",
+    "Phân tích gộp của ESICM cho nguy cơ tương đối tử vong 60 ngày 0,72, của ATS là 0,76, kèm thêm 8 ngày không thở máy, đổi lại nguy cơ chảy máu tăng 1,64 lần. ATS hạ mức bằng chứng vì CESAR không chuẩn hoá thở máy nhóm chứng, một phần tư nhóm can thiệp không được ECMO, và khi đó nằm sấp chưa phổ biến.",
+    "ATS nêu rõ người bệnh phù hợp: nguyên nhân có thể hồi phục, PaO₂/FiO₂ dưới 80 hoặc pH dưới 7,25 với PaCO₂ từ 60, còn sớm, dưới 7 ngày, và ít yếu tố tiên lượng vô ích. Cả hai hội nhấn mạnh ECMO phải ở trung tâm có số ca lớn, với đội ECMO di động.",
+    "Các biện pháp ít xâm lấn hơn như thông khí bảo vệ phổi, PEEP cao hơn, giãn cơ và nằm sấp phải được áp dụng trước.",
+    "Riêng loại bỏ CO₂ ngoài cơ thể với lưu lượng máu thấp, ESICM khuyến cáo không dùng ngoài thử nghiệm lâm sàng."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "media",
+   "chapter": "ECMO · tổ chức",
+   "title": "ECMO là một hệ thống, không chỉ là một chiếc máy",
+   "ref": "Ảnh Wikimedia Commons · ESICM 2023 · ATS 2023",
+   "panels": [
+    {
+     "src": "../../media/ards/raw/ecmo_lisbon.jpg",
+     "ar": 1.333,
+     "at": 0,
+     "cap": "ECMO cho người bệnh cúm A H1N1 (Lisbon)",
+     "credit": "Ảnh: Cmenesesoliveira · Public domain · Wikimedia Commons"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TRUNG TÂM",
+     "t": "Số ca lớn → kết cục tốt hơn · tổ chức mạng lưới vùng",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "ĐỘI DI ĐỘNG",
+     "t": "EOLIA: 39% người bệnh được đội ECMO đón từ bệnh viện khác",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "LIÊN HỆ SỚM",
+     "t": "Đừng chờ tới khi ngừng tim · tiêu chí EOLIA là ngưỡng hội chẩn",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "SAU ECMO",
+     "t": "Chất lượng sống dài hạn của người sống sót còn ít dữ liệu",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 600,
+   "lines": [
+    "ECMO không chỉ là một chiếc máy, mà là cả một hệ thống.",
+    "Cả hai hội nhấn mạnh trung tâm có số ca lớn có kết cục tốt hơn, và khuyến khích tổ chức mạng lưới ECMO theo vùng.",
+    "Trong EOLIA, 39 phần trăm người bệnh nhóm ECMO được đội ECMO di động đến lắp máy tại bệnh viện khác rồi chuyển về trung tâm.",
+    "Thông điệp thực hành cho các khoa hồi sức chưa có ECMO: hãy dùng tiêu chí EOLIA như ngưỡng để hội chẩn sớm với trung tâm ECMO, đừng chờ tới khi người bệnh ngừng tim mới gọi.",
+    "Và câu hỏi còn mở là chất lượng sống dài hạn của người sống sót sau ECMO, ATS ghi nhận có thể giảm nhiều hơn, nhưng dữ liệu còn ít."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "bars",
+   "chapter": "Những gì không nên làm",
+   "title": "Thông khí dao động tần số cao: OSCILLATE và OSCAR",
+   "ref": "Ferguson ND và cs. (OSCILLATE) · Young D và cs. (OSCAR), NEJM 2013",
+   "groups": [
+    {
+     "t": "OSCILLATE · n = 548 (dự kiến 1200)",
+     "d": "RR 1,33 (1,09–1,64) · P = 0,005 · dừng sớm",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "HFOV",
+       "v": 47,
+       "lab": "47%"
+      },
+      {
+       "k": "Chứng",
+       "v": 35,
+       "lab": "35%"
+      }
+     ],
+     "note": "Tử vong trong viện tăng"
+    },
+    {
+     "t": "OSCAR · n = 795",
+     "d": "Tử vong 30 ngày · P = 0,85",
+     "at": 2,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "HFOV",
+       "v": 41.7,
+       "lab": "41,7%"
+      },
+      {
+       "k": "Chứng",
+       "v": 41.1,
+       "lab": "41,1%"
+      }
+     ],
+     "note": "Không khác biệt"
+    }
+   ],
+   "max": 55,
+   "notes": [
+    {
+     "tag": "VÌ SAO HẠI?",
+     "t": "OSCILLATE: midazolam 199 so với 141 mg/ngày · giãn cơ 83% so với 68% · vận mạch 91% so với 84%",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "ATS",
+     "t": "Khuyến cáo mạnh không dùng HFOV thường quy ở ARDS vừa – nặng",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Bây giờ là những gì không nên làm. Thông khí dao động tần số cao, về lý thuyết, là thông khí bảo vệ phổi lý tưởng: Vt cực nhỏ, áp lực trung bình cao giữ phổi mở. Nhưng thử nghiệm OSCILLATE phải dừng sớm sau 548 người bệnh: tử vong trong viện 47 phần trăm ở nhóm dao động tần số cao, so với 35 phần trăm ở nhóm chứng.",
+    "Nhóm này cần nhiều an thần hơn, midazolam 199 so với 141 miligam mỗi ngày, nhiều giãn cơ hơn và nhiều vận mạch hơn, gợi ý tác hại về huyết động.",
+    "Thử nghiệm OSCAR ở Anh, 795 người bệnh, không thấy khác biệt: tử vong 30 ngày 41,7 so với 41,1 phần trăm. Khi gộp thêm OSCAR, lợi ích trong các phân tích gộp trước đó biến mất.",
+    "ATS khuyến cáo mạnh, bằng chứng cao, không dùng thường quy thông khí dao động tần số cao ở ARDS vừa và nặng. Bài học: một phương pháp hợp lý trên lý thuyết vẫn có thể có hại trên lâm sàng."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "cards",
+   "chapter": "Những gì không nên làm",
+   "title": "Nitric oxide hít và các thuốc giãn mạch phổi",
+   "ref": "Murray & Nadel 7e, ch. 134",
+   "cards": [
+    {
+     "tag": "NITRIC OXIDE HÍT",
+     "t": "Oxy tốt hơn, sống không hơn",
+     "items": [
+      "60% cải thiện oxy trong 4 giờ, nhưng không bền",
+      "Không giảm tử vong, không rút ngắn thở máy",
+      "Tăng nguy cơ suy thận (phân tích gộp)"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "PROSTACYCLIN KHÍ DUNG",
+     "t": "Dung nạp tốt",
+     "items": [
+      "Giãn mạch chọn lọc vùng thông khí tốt",
+      "Chưa có thử nghiệm lớn có đối chứng"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "VAI TRÒ",
+     "t": "Chỉ là cầu nối",
+     "items": [
+      "Cứu vãn tạm thời khi thiếu oxy đe doạ tính mạng",
+      "Trong lúc chờ nằm sấp hoặc chuyển ECMO",
+      "Không dùng thường quy"
+     ],
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Nitric oxide hít là ví dụ kinh điển của một liệu pháp cải thiện con số mà không cải thiện kết cục. Thuốc giãn mạch chọn lọc ở vùng phổi được thông khí tốt, cải thiện tương xứng thông khí – tưới máu. Trong thử nghiệm lớn nhất, 60 phần trăm người bệnh cải thiện oxy trong 4 giờ, nhưng hiệu quả không bền.",
+    "Không giảm tử vong, không rút ngắn thời gian thở máy, và phân tích gộp ghi nhận tăng nguy cơ suy thận. Một phân tích dữ liệu từng người bệnh cũng không thấy lợi ích ở bất kỳ mức độ thiếu oxy nào.",
+    "Prostacyclin khí dung có cơ chế tương tự, dung nạp tốt, nhưng chưa có thử nghiệm lớn có đối chứng.",
+    "Vai trò còn lại chỉ là cầu nối: cứu vãn tạm thời khi thiếu oxy đe doạ tính mạng, trong lúc chuẩn bị nằm sấp hoặc chuyển ECMO, không dùng thường quy."
+   ]
+  },
+  {
+   "id": "s18",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: đã nằm sấp, đã giãn cơ, vẫn thất bại",
+   "ref": "Ca minh hoạ · áp dụng tiêu chí EOLIA · ESICM 2023 · ATS 2023",
+   "case": "Nữ 32 tuổi, cúm A, ARDS ngày 2. Đã nằm sấp, giãn cơ, Vt 6 mL/kg, PEEP 14, FiO₂ 1,0, tần số 35. Trong <b>4 giờ</b> qua: P/F <b>48</b>, pH 7,19, PaCO₂ 68, Pplat 31. Bệnh viện chưa có ECMO.",
+   "q": "Hướng xử trí đúng nhất?",
+   "options": [
+    "Chuyển sang thông khí dao động tần số cao",
+    "Liên hệ ngay trung tâm ECMO, đội di động",
+    "Tăng Vt lên 10 mL/kg để thải CO₂",
+    "Chỉ thêm nitric oxide và chờ"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Đạt tiêu chí EOLIA (P/F < 50 > 3 giờ · pH < 7,25, PaCO₂ ≥ 60) dù đã tối ưu, nằm sấp, giãn cơ · trẻ, nguyên nhân hồi phục được, ngày 2 → <b>VV-ECMO tại trung tâm</b>, đội di động · NO chỉ là cầu nối",
+   "lines": [
+    "Tình huống thứ hai. Một phụ nữ 32 tuổi, viêm phổi cúm A, ARDS ngày thứ 2. Đã nằm sấp, đã giãn cơ, Vt 6 mililít mỗi ký, PEEP 14, FiO₂ 1,0, tần số 35. Trong 4 giờ qua, PaO₂/FiO₂ là 48, pH 7,19, PaCO₂ 68, áp lực bình nguyên 31. Bệnh viện chưa có ECMO.",
+    "Hướng xử trí đúng nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh đạt tiêu chí EOLIA: PaO₂/FiO₂ dưới 50 kéo dài trên 3 giờ, kèm toan hô hấp, dù đã tối ưu thở máy, nằm sấp và giãn cơ. Người bệnh trẻ, nguyên nhân có thể hồi phục, mới ngày thứ 2. Đây là ứng viên ECMO lý tưởng, cần liên hệ ngay trung tâm ECMO và đội di động.",
+    "Thông khí dao động tần số cao có thể có hại, tăng Vt đi ngược nguyên tắc bảo vệ phổi khi áp lực bình nguyên đã 31. Nitric oxide chỉ có thể dùng như cầu nối trong lúc chờ chuyển."
+   ]
+  },
+  {
+   "id": "s19",
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Bảy thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Nằm sấp sớm, kéo dài",
+     "d": "P/F < 150 sau ổn định · ≥ 16 giờ · PROSEVA: tử vong 16% so với 33%",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Tiếp tục nằm sấp dù oxy chưa cải thiện",
+     "d": "Lợi ích chính là bảo vệ phổi",
+     "c": "green",
+     "at": 1
+    },
+    {
+     "t": "Giãn cơ: các hội chưa thống nhất",
+     "d": "Dành cho ARDS sớm, nặng, mất đồng bộ · ≤ 48 giờ · an thần đủ sâu",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "ECMO theo tiêu chí EOLIA",
+     "d": "Tại trung tâm số ca lớn · gộp: RR 0,72–0,76",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "t": "Liên hệ ECMO sớm",
+     "d": "Đội di động · đừng chờ ngừng tim",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "t": "Không dùng thường quy",
+     "d": "HFOV (OSCILLATE tăng tử vong) · huy động kéo dài · loại CO₂ ngoài cơ thể",
+     "c": "coral",
+     "at": 5
+    },
+    {
+     "t": "NO hít chỉ là cầu nối",
+     "d": "Cải thiện oxy thoáng qua, không giảm tử vong",
+     "c": "blue",
+     "at": 6
+    }
+   ],
+   "lines": [
+    "Xin tổng kết bảy thông điệp. Một, nằm sấp sớm và kéo dài ít nhất 16 giờ khi PaO₂/FiO₂ dưới 150 sau ổn định. PROSEVA giảm tử vong 28 ngày từ 33 xuống 16 phần trăm.",
+    "Hai, tiếp tục nằm sấp ngay cả khi oxy hoá chưa cải thiện, vì lợi ích chính là bảo vệ phổi.",
+    "Ba, giãn cơ: các hội chưa thống nhất. Hãy dành cho ARDS sớm, nặng, có mất đồng bộ, tối đa 48 giờ, với an thần đủ sâu.",
+    "Bốn, ECMO tĩnh mạch – tĩnh mạch cho người bệnh đạt tiêu chí EOLIA, tại trung tâm có số ca lớn.",
+    "Năm, liên hệ trung tâm ECMO sớm, đừng chờ tới khi ngừng tim.",
+    "Sáu, không dùng thường quy thông khí dao động tần số cao, huy động kéo dài và loại bỏ CO₂ ngoài cơ thể.",
+    "Và bảy, nitric oxide hít chỉ là cầu nối. Ở Phần 6, phần cuối của loạt bài, chúng ta sẽ đi vào điều trị hỗ trợ: dịch, corticoid, hỗ trợ không xâm lấn, và ôn tập toàn bộ loạt bài bằng một tình huống lâm sàng. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
