@@ -31,3 +31,15 @@ body[data-format=vertical] .l-bars .btr{height:50px}
 body[data-format=vertical] .l-bars .bv{font-size:34px;line-height:50px}
 body[data-format=vertical] .l-bars .bnt{font-size:26px}
 body[data-format=vertical] .l-stats .body{zoom:1.4}
+/* ARDS: alveolus · babylung */
+.alw{display:flex;gap:28px;height:692px;align-items:flex-start}
+.alfig{position:relative;flex:none}
+.alsvg{display:block;font-family:Inter}
+.alsvg g{transform-box:fill-box;transform-origin:center}
+.alcap{position:absolute;left:0;right:0;bottom:-6px;text-align:center;font-size:22px;color:var(--mut)}
+.alvn{display:flex;flex-direction:column;gap:14px;flex:none}
+.alc{padding:14px 20px}
+.alh{display:flex;align-items:center;gap:12px}
+.aln{flex:none;width:40px;height:40px;border-radius:50%;border:3px solid;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:800}
+.alt{font-size:26px;font-weight:800;line-height:1.25;color:var(--c)}
+.ald{font-size:21px;color:var(--mut);margin-top:6px;line-height:1.38}

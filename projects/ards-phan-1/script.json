@@ -1,0 +1,1443 @@
+{
+ "title": "ARDS chuyên sâu – Phần 1: Định nghĩa toàn cầu 2024 và bệnh sinh",
+ "theme": "sinh-ly",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "ARDS chuyên sâu",
+ "part": "ARDS chuyên sâu · Phần 1/6",
+ "source_short": "Nguồn: Matthay 2024 (AJRCCM) · ESICM 2023 · ATS 2023 · Murray & Nadel 7e · Textbook of Critical Care 8e · Irwin & Rippe 9e · Tobin 3e",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "SpO₂/FiO₂": "ét pê ô hai trên phi ô hai",
+  "LUNG SAFE": "lung sêi",
+  "Gattinoni": "Ga ti nô ni",
+  "COVID-19": "cô vít mười chín",
+  "Ashbaugh": "Át bâu",
+  "ARDSNet": "a rờ đê ét nét",
+  "PROVENT": "prô ven",
+  "ALVEOLI": "an vê ô li",
+  "Kigali": "Ki ga li",
+  "HARP-2": "háp hai",
+  "Calfee": "Can phi",
+  "L/phút": "lít mỗi phút",
+  "PaCO₂": "pa cô hai",
+  "FACTT": "phác",
+  "ESICM": "e sích",
+  "Amato": "A ma tô",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "AUROC": "diện tích dưới đường cong",
+  "PaO₂": "pa ô hai",
+  "SpO₂": "ét pê ô hai",
+  "FiO₂": "phi ô hai",
+  "PEEP": "píp",
+  "ARDS": "a rờ đê ét",
+  "AECC": "a e xê xê",
+  "CPAP": "xi páp",
+  "ECMO": "éc mô",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NETs": "nét",
+  "RAGE": "rết",
+  "P/F": "pê trên ép",
+  "S/F": "ét trên ép",
+  "ATS": "a tê ét",
+  "Vt": "vê tê"
+ },
+ "brand": {
+  "next": "Phần 2: Chẩn đoán, chẩn đoán phân biệt và phân nhóm"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "art": "ards",
+   "chapter": "Mở đầu",
+   "kicker": "ARDS CHUYÊN SÂU · PHẦN 1/6",
+   "title": "Định nghĩa toàn cầu 2024<br>và bệnh sinh ARDS",
+   "subtitle": "Từ phế nang tổn thương đến “phổi em bé”",
+   "badges": [
+    {
+     "t": "Định nghĩa toàn cầu 2024",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Bệnh sinh",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Tổn thương phổi do thở máy",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: định nghĩa toàn cầu 2024 (AJRCCM), ESICM 2023, ATS 2023 và các textbook hồi sức – hô hấp",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với loạt bài giảng chuyên sâu về hội chứng suy hô hấp cấp tiến triển, ARDS.",
+    "Đây là loạt sáu phần, đi từ bệnh sinh, chẩn đoán, đến thở máy và các biện pháp cứu vãn, bám sát định nghĩa toàn cầu năm 2024, hướng dẫn của ESICM 2023 và ATS 2023.",
+    "Phần 1 hôm nay trả lời hai câu hỏi nền tảng: ARDS ngày nay được định nghĩa thế nào, và điều gì thực sự xảy ra bên trong phế nang.",
+    "Hiểu đúng hai điều này, quý vị sẽ thấy mọi khuyến cáo thở máy ở các phần sau đều có lý do sinh lý rất rõ ràng."
+   ]
+  },
+  {
+   "id": "s02",
+   "layout": "list",
+   "chapter": "Lộ trình",
+   "title": "Lộ trình loạt bài ARDS chuyên sâu",
+   "cols1": false,
+   "items": [
+    {
+     "t": "Phần 1 · Định nghĩa toàn cầu 2024 và bệnh sinh",
+     "d": "Lịch sử định nghĩa, dịch tễ, phế nang tổn thương, “phổi em bé”, tổn thương phổi do thở máy",
+     "c": "teal",
+     "at": 0,
+     "hl": "L0"
+    },
+    {
+     "t": "Phần 2 · Chẩn đoán, phân biệt, phân nhóm",
+     "d": "X-quang, CT, siêu âm phổi · phù phổi do tim · phenotype tăng viêm và giảm viêm",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "Phần 3 · Thở máy bảo vệ phổi",
+     "d": "ARMA 2000 · Vt 6 mL/kg · áp lực bình nguyên · driving pressure · mô phỏng",
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "t": "Phần 4 · PEEP và huy động phế nang",
+     "d": "ALVEOLI, LOVS, EXPRESS · bảng PEEP–FiO₂ · ART · vòng áp lực – thể tích",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Phần 5 · Các biện pháp cứu vãn",
+     "d": "Nằm sấp · giãn cơ · ECMO (EOLIA) · HFOV (OSCILLATE, OSCAR)",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Phần 6 · Điều trị hỗ trợ và cập nhật",
+     "d": "Dịch (FACTT) · corticoid (DEXA-ARDS) · hỗ trợ không xâm lấn · ôn tập",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Trước hết là lộ trình của cả loạt. Phần 1 đặt nền móng: định nghĩa, dịch tễ và bệnh sinh.",
+    "Phần 2 đi vào chẩn đoán hình ảnh, chẩn đoán phân biệt và khái niệm phân nhóm. Phần 3 là thông khí bảo vệ phổi, với mô phỏng máy thở để quý vị nhìn thấy driving pressure thay đổi thế nào.",
+    "Phần 4 dành riêng cho PEEP và huy động phế nang. Phần 5 là các biện pháp cứu vãn như nằm sấp, giãn cơ và ECMO.",
+    "Phần 6 tổng hợp điều trị hỗ trợ, các cập nhật mới, và ôn tập toàn loạt bằng tình huống lâm sàng."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "timeline",
+   "chapter": "Lịch sử định nghĩa",
+   "title": "Gần 60 năm định nghĩa một hội chứng",
+   "ref": "Murray & Nadel 7e, ch. 134 · Matthay 2024",
+   "events": [
+    {
+     "year": "1967",
+     "t": "Ashbaugh",
+     "d": "12 người bệnh 11–48 tuổi · thiếu oxy, mờ hai phổi, giảm giãn nở · PEEP giúp cải thiện oxy",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "year": "1988",
+     "t": "Lung Injury Score",
+     "d": "Định nghĩa 3 phần · điểm > 2,5 là ARDS",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "year": "1994",
+     "t": "AECC",
+     "d": "P/F ≤ 300: tổn thương phổi cấp · P/F ≤ 200: ARDS · áp lực mao mạch phổi bít ≤ 18 mmHg",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "2012",
+     "t": "Berlin",
+     "d": "3 mức độ · PEEP ≥ 5 cmH₂O · bỏ thuật ngữ tổn thương phổi cấp và tiêu chí áp lực bít",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "year": "2024",
+     "t": "Toàn cầu",
+     "d": "Thêm oxy dòng cao · SpO₂/FiO₂ · siêu âm phổi · nơi thiếu phương tiện",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Năm 1967, Ashbaugh mô tả 12 người bệnh từ 11 đến 48 tuổi, suy hô hấp thiếu oxy cấp, mờ lan toả hai phổi, giãn nở phổi giảm, phần lớn xuất hiện trong 48 đến 72 giờ sau chấn thương nặng hoặc nhiễm virus, và một số cải thiện oxy khi được dùng PEEP.",
+    "Năm 1988, định nghĩa ba phần ra đời, dùng thang điểm tổn thương phổi, điểm trên 2,5 được xem là ARDS.",
+    "Năm 1994, hội nghị đồng thuận Âu – Mỹ, AECC, đưa ra định nghĩa đơn giản: khởi phát cấp, mờ hai bên, áp lực mao mạch phổi bít không quá 18 milimét thuỷ ngân, và tỉ số PaO₂/FiO₂ không quá 200 cho ARDS.",
+    "Năm 2012, định nghĩa Berlin chia 3 mức độ, yêu cầu PEEP ít nhất 5 xăng ti mét nước, bỏ thuật ngữ tổn thương phổi cấp và bỏ tiêu chí áp lực bít.",
+    "Và năm 2024, định nghĩa toàn cầu mở rộng sang người bệnh thở oxy dòng cao, chấp nhận SpO₂/FiO₂, siêu âm phổi, và có tiêu chí riêng cho nơi thiếu phương tiện."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "cards",
+   "chapter": "Vì sao phải định nghĩa lại",
+   "title": "Những điểm yếu của các định nghĩa cũ",
+   "ref": "Murray & Nadel 7e · Matthay 2024",
+   "cards": [
+    {
+     "tag": "HÌNH ẢNH",
+     "t": "Đọc X-quang không thống nhất",
+     "items": [
+      "Chuyên gia đọc cùng bộ phim: kappa 0,55",
+      "Tỷ lệ phim “phù hợp ARDS”: từ 36% đến 71% tuỳ người đọc",
+      "Berlin: 67% sai biệt do đọc hình ảnh"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "PEEP",
+     "t": "P/F thay đổi theo máy thở",
+     "items": [
+      "Tăng PEEP lên ≥ 10: chỉ 70% còn đạt tiêu chí",
+      "Sau 1 ngày: chỉ 50% còn đạt tiêu chí AECC"
+     ],
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "TIÊN LƯỢNG",
+     "t": "Dự báo tử vong kém",
+     "items": [
+      "AUROC: Berlin 0,58 · AECC 0,54",
+      "Chỉ nhỉnh hơn ngẫu nhiên"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "THỰC HÀNH MỚI",
+     "t": "Oxy dòng cao và nơi thiếu khí máu",
+     "items": [
+      "COVID-19: 93% người bệnh thở oxy dòng cao vẫn đạt tiêu chí sau đặt nội khí quản",
+      "Khí máu động mạch ngày càng ít làm"
+     ],
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Vì sao cần định nghĩa lại? Thứ nhất là hình ảnh. Khi các chuyên gia cùng đọc một bộ phim X-quang, mức đồng thuận chỉ đạt kappa 0,55, tỷ lệ phim được xem là phù hợp ARDS dao động từ 36 đến 71 phần trăm tuỳ người đọc.",
+    "Thứ hai, tỉ số PaO₂/FiO₂ phụ thuộc máy thở: khi tăng PEEP lên từ 10 trở lên, chỉ 70 phần trăm người bệnh còn đạt tiêu chí, và sau một ngày chỉ còn một nửa.",
+    "Thứ ba, khả năng dự báo tử vong thấp: diện tích dưới đường cong của Berlin là 0,58, của AECC là 0,54, chỉ nhỉnh hơn ngẫu nhiên.",
+    "Và thứ tư, thực hành đã thay đổi: oxy dòng cao qua mũi dùng rộng rãi, trong đại dịch COVID-19 có 93 phần trăm người bệnh thở oxy dòng cao vẫn đạt tiêu chí ARDS sau khi đặt nội khí quản, trong khi khí máu động mạch ngày càng ít được làm."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "box",
+   "chapter": "Định nghĩa toàn cầu 2024",
+   "title": "Mô hình khái niệm: ARDS là gì?",
+   "ref": "Matthay 2024, Bảng 1",
+   "box": {
+    "tag": "MÔ HÌNH KHÁI NIỆM 2024",
+    "t": "Tổn thương phổi <b>cấp, lan toả, do viêm</b>, khởi phát bởi một yếu tố nguy cơ (viêm phổi, nhiễm khuẩn ngoài phổi, chấn thương, truyền máu, bỏng, hít sặc, sốc) → <b>tăng tính thấm</b> mạch máu phổi và biểu mô → phù phổi và xẹp phổi phụ thuộc trọng lực → <b>mất mô phổi có khí</b>",
+    "at": 0,
+    "c": "teal"
+   },
+   "notes": [
+    {
+     "tag": "DẤU ẤN",
+     "t": "Thiếu oxy máu, mờ lan toả · tăng shunt, tăng khoảng chết phế nang, giảm giãn nở phổi",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "CHÚ Ý",
+     "t": "Biểu hiện thay đổi theo điều trị: tư thế, an thần, giãn cơ, PEEP, cân bằng dịch",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "MÔ BỆNH HỌC",
+     "t": "Phù, viêm, màng hyaline, xuất huyết phế nang · không bắt buộc để chẩn đoán",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Định nghĩa 2024 giữ mô hình khái niệm của Berlin, với vài chỉnh sửa nhỏ.",
+    "ARDS là một tổn thương phổi cấp, lan toả, có bản chất viêm, được khởi phát bởi một yếu tố nguy cơ như viêm phổi, nhiễm khuẩn ngoài phổi, chấn thương, truyền máu, bỏng, hít sặc hay sốc. Hậu quả là tăng tính thấm của mạch máu phổi và biểu mô phế nang, gây phù phổi và xẹp phổi vùng phụ thuộc, tức là mất mô phổi có khí.",
+    "Các dấu ấn lâm sàng là thiếu oxy máu và mờ lan toả trên phim, đi kèm tăng shunt, tăng khoảng chết phế nang và giảm giãn nở phổi.",
+    "Lưu ý quan trọng: biểu hiện lâm sàng bị ảnh hưởng bởi chính điều trị, gồm tư thế, an thần, giãn cơ, mức PEEP và cân bằng dịch.",
+    "Về mô bệnh học, có thể thấy phù trong phế nang, viêm, màng hyaline và xuất huyết, gọi chung là tổn thương phế nang lan toả, nhưng những hình ảnh này không phải lúc nào cũng có, và không bắt buộc để chẩn đoán."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "compare",
+   "chapter": "Định nghĩa toàn cầu 2024",
+   "title": "Tiêu chí chung cho mọi nhóm ARDS",
+   "ref": "Matthay 2024, Bảng 1",
+   "head": [
+    "Tiêu chí",
+    "Định nghĩa toàn cầu 2024",
+    "Ghi chú thực hành"
+   ],
+   "widths": "1fr 2.1fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Yếu tố nguy cơ",
+      "Có yếu tố khởi phát cấp · phù không chủ yếu do tim hay quá tải dịch · thiếu oxy không chủ yếu do xẹp phổi",
+      "Vẫn chẩn đoán được ARDS khi có kèm các tình trạng trên, nếu có yếu tố nguy cơ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Thời gian",
+      "Khởi phát hoặc nặng lên trong vòng 1 tuần kể từ yếu tố nguy cơ hoặc triệu chứng hô hấp",
+      "Giữ nguyên như Berlin"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Hình ảnh",
+      "Mờ hai bên trên X-quang hoặc CT, hoặc đường B hai bên và/hoặc đông đặc trên siêu âm",
+      "Không giải thích hoàn toàn bởi tràn dịch, xẹp phổi, nốt hay khối · người làm siêu âm phải được đào tạo"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Có ba tiêu chí áp dụng chung cho mọi nhóm.",
+    "Một, yếu tố nguy cơ và nguồn gốc phù: phải có một yếu tố khởi phát cấp, phù phổi không chủ yếu do tim hay quá tải dịch, và thiếu oxy không chủ yếu do xẹp phổi. Nhưng điểm tinh tế là: vẫn chẩn đoán được ARDS khi có kèm các tình trạng này, miễn là có yếu tố nguy cơ và thầy thuốc nhận định chúng không phải nguyên nhân chính.",
+    "Hai, thời gian: khởi phát hoặc nặng lên trong vòng một tuần, giữ nguyên như Berlin. Hội đồng đã cân nhắc kéo dài mốc này vì COVID-19 thường diễn tiến âm ỉ, nhưng cho rằng việc đưa oxy dòng cao vào định nghĩa đã giúp nhận diện sớm hơn.",
+    "Ba, hình ảnh: mờ hai bên trên X-quang hay CT, hoặc nay có thể dùng siêu âm phổi với đường B và hoặc đông đặc hai bên, không giải thích hoàn toàn bởi tràn dịch, xẹp phổi hay khối u. Với siêu âm, người thực hiện phải được đào tạo tốt."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "compare",
+   "chapter": "Định nghĩa toàn cầu 2024",
+   "title": "Ba nhóm ARDS và tiêu chí oxy hoá",
+   "ref": "Matthay 2024, Bảng 1",
+   "head": [
+    "Nhóm",
+    "Tiêu chí oxy hoá",
+    "Điều kiện hỗ trợ"
+   ],
+   "widths": "1fr 2fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "ARDS không đặt nội khí quản <b>(mới)</b>",
+      "P/F ≤ 300 hoặc S/F ≤ 315 (khi SpO₂ ≤ 97%)",
+      "Oxy dòng cao ≥ 30 L/phút, hoặc thở máy không xâm lấn / CPAP với áp lực cuối thở ra ≥ 5 cmH₂O"
+     ],
+     "at": 1,
+     "c": "teal",
+     "hl": "L2"
+    },
+    {
+     "cells": [
+      "ARDS đặt nội khí quản",
+      "Nhẹ: 200 < P/F ≤ 300 hoặc 235 < S/F ≤ 315<br>Vừa: 100 < P/F ≤ 200 hoặc 148 < S/F ≤ 235<br>Nặng: P/F ≤ 100 hoặc S/F ≤ 148",
+      "PEEP ≥ 5 cmH₂O cho mọi mức độ"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Nơi thiếu phương tiện <b>(mới)</b>",
+      "S/F ≤ 315 (khi SpO₂ ≤ 97%)",
+      "Không yêu cầu PEEP hay lưu lượng oxy tối thiểu · theo cải biên Kigali"
+     ],
+     "at": 5,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Điểm đổi mới lớn nhất là chia ARDS thành ba nhóm theo hoàn cảnh hỗ trợ hô hấp.",
+    "Nhóm thứ nhất, hoàn toàn mới, là ARDS không đặt nội khí quản: PaO₂/FiO₂ không quá 300, hoặc SpO₂/FiO₂ không quá 315 khi SpO₂ không vượt 97 phần trăm,",
+    "trên nền oxy dòng cao qua mũi ít nhất 30 lít mỗi phút, hoặc thở máy không xâm lấn hay CPAP với áp lực cuối thở ra ít nhất 5 xăng ti mét nước.",
+    "Nhóm thứ hai là ARDS đặt nội khí quản, giữ 3 mức độ: nhẹ khi PaO₂/FiO₂ trên 200 đến 300, vừa khi trên 100 đến 200, nặng khi không quá 100. Các ngưỡng SpO₂/FiO₂ tương ứng là 315, 235 và 148.",
+    "Mọi mức độ trong nhóm này đều cần PEEP ít nhất 5 xăng ti mét nước, và người bệnh có thể chuyển nhóm trong quá trình bệnh.",
+    "Nhóm thứ ba dành cho nơi thiếu phương tiện, chính thức tiếp nhận cải biên Kigali: chỉ cần SpO₂/FiO₂ không quá 315, không yêu cầu PEEP hay lưu lượng oxy tối thiểu."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "cards",
+   "chapter": "Định nghĩa toàn cầu 2024",
+   "title": "Dùng SpO₂/FiO₂ cho đúng",
+   "ref": "Matthay 2024, Bảng 1 và phần thảo luận",
+   "cards": [
+    {
+     "tag": "ĐIỀU KIỆN",
+     "t": "Khi nào S/F đáng tin?",
+     "items": [
+      "SpO₂ ≤ 97% (đường cong phân ly phẳng phía trên)",
+      "Đo khi nghỉ, ≥ 30 phút sau đổi tư thế, FiO₂ hay lưu lượng",
+      "Sóng mạch tốt, đặt đầu đo đúng"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "ƯỚC TÍNH FiO₂",
+     "t": "Thở oxy thông thường",
+     "items": [
+      "FiO₂ ≈ 0,21 + 0,03 × lưu lượng (L/phút)",
+      "Độ cao > 1.000 m: hiệu chỉnh theo áp suất khí quyển / 760"
+     ],
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "tag": "HẠN CHẾ",
+     "t": "Khi nào nên làm khí máu?",
+     "items": [
+      "Sốc, tưới máu kém",
+      "Da sẫm màu: máy đo có thể bỏ sót thiếu oxy",
+      "Nghi bất thường hemoglobin (methemoglobin, carboxyhemoglobin)",
+      "Khi kết quả thay đổi chẩn đoán hay xử trí"
+     ],
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "SpO₂/FiO₂ là công cụ rẻ và sẵn có, nhưng phải dùng đúng.",
+    "Chỉ dùng khi SpO₂ không quá 97 phần trăm, vì ở phần phẳng phía trên của đường cong phân ly, SpO₂ không còn phản ánh PaO₂. Đo khi người bệnh nghỉ ngơi, ít nhất 30 phút sau khi đổi tư thế, FiO₂ hay lưu lượng oxy, với sóng mạch tốt. Hội đồng chọn phương trình tuyến tính của Rice để quy đổi ngưỡng vì đơn giản mà độ chính xác tương đương.",
+    "Khi thở oxy thông thường, ước tính FiO₂ bằng 0,21 cộng 0,03 nhân lưu lượng oxy tính bằng lít mỗi phút. Ở độ cao trên 1.000 mét, cần hiệu chỉnh theo áp suất khí quyển.",
+    "Và cần biết hạn chế: máy đo SpO₂ có thể bỏ sót thiếu oxy ở người bệnh sốc và người da sẫm màu, không dùng khi nghi bất thường hemoglobin. Khi kết quả có thể thay đổi chẩn đoán hay xử trí, hãy làm khí máu động mạch."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: oxy dòng cao có phải ARDS?",
+   "ref": "Dựa theo ca minh hoạ, Matthay 2024, Hình 1",
+   "case": "Nữ 54 tuổi, viêm phổi COVID-19, khó thở tăng dần <b>6 ngày</b>. Oxy dòng cao qua mũi <b>40 L/phút</b>, FiO₂ <b>0,8</b>, SpO₂ <b>91%</b>. X-quang: mờ hai phổi, không giải thích bởi tràn dịch hay xẹp phổi.",
+   "q": "Theo định nghĩa toàn cầu 2024, chẩn đoán phù hợp nhất?",
+   "options": [
+    "Chưa phải ARDS vì chưa thở máy",
+    "ARDS không đặt nội khí quản (S/F ≈ 114)",
+    "ARDS nặng đặt nội khí quản",
+    "Không phải ARDS vì đã quá 1 tuần"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "S/F = 91 / 0,8 ≈ <b>114</b> (≤ 315, SpO₂ ≤ 97%) · oxy dòng cao ≥ 30 L/phút · trong vòng 1 tuần → <b>ARDS không đặt nội khí quản</b> · theo Berlin, người bệnh này <b>chưa</b> được xếp là ARDS",
+   "lines": [
+    "Tình huống thứ nhất. Một phụ nữ 54 tuổi, viêm phổi COVID-19, khó thở tăng dần trong 6 ngày. Bà đang thở oxy dòng cao qua mũi 40 lít mỗi phút, FiO₂ 0,8, SpO₂ 91 phần trăm, X-quang mờ hai phổi.",
+    "Theo định nghĩa toàn cầu 2024, chẩn đoán nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. SpO₂/FiO₂ bằng 91 chia 0,8, khoảng 114, thấp hơn nhiều so với ngưỡng 315, SpO₂ không quá 97 phần trăm, oxy dòng cao trên 30 lít mỗi phút, khởi phát trong một tuần. Đây là ARDS không đặt nội khí quản.",
+    "Điều đáng suy nghĩ là: theo Berlin, người bệnh này chưa được gọi là ARDS. Định nghĩa mới cho phép nhận diện sớm hơn, và chính điều đó mở đường cho các thử nghiệm can thiệp sớm."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "cards",
+   "chapter": "Dịch tễ",
+   "title": "ARDS phổ biến đến mức nào?",
+   "ref": "Textbook of Critical Care 8e, ch. 60 · Murray & Nadel 7e",
+   "cards": [
+    {
+     "tag": "TẦN SUẤT",
+     "t": "78,9 / 100.000 người-năm",
+     "items": [
+      "Nghiên cứu King County (Hoa Kỳ)",
+      "Ước tính dao động 7–85 / 100.000 tuỳ định nghĩa"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "TOÀN CẦU",
+     "t": "LUNG SAFE: 459 ICU, 50 nước",
+     "items": [
+      "Tỷ lệ ARDS rất khác nhau giữa các ICU",
+      "ARDS nặng: 25% ở châu Âu và nước thu nhập trung bình"
+     ],
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "TIẾN TRIỂN",
+     "t": "Nhanh, thường trong 1–2 ngày",
+     "items": [
+      "> 90% xuất hiện trong 5 ngày sau yếu tố khởi phát",
+      "Chỉ 7% người bệnh ICU có nguy cơ tiến triển thành ARDS (PROVENT)"
+     ],
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Về dịch tễ, tần suất ARDS khó xác định vì định nghĩa thay đổi nhiều lần, các ước tính dao động từ 7 đến 85 ca trên 100.000 dân. Nghiên cứu tiến cứu ở King County, Hoa Kỳ, ghi nhận 78,9 ca trên 100.000 người-năm, được xem là con số đáng tin cậy.",
+    "Nghiên cứu LUNG SAFE tại 459 đơn vị hồi sức ở 50 quốc gia cho thấy tỷ lệ ARDS rất khác nhau giữa các đơn vị, và khoảng một phần tư là ARDS nặng ở châu Âu và các nước thu nhập trung bình.",
+    "ARDS thường khởi phát nhanh, trung vị 1 đến 2 ngày, hơn 90 phần trăm xuất hiện trong 5 ngày đầu sau yếu tố khởi phát. Tuy vậy, trong nghiên cứu PROVENT, chỉ 7 phần trăm người bệnh hồi sức có nguy cơ thực sự tiến triển thành ARDS."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "Yếu tố nguy cơ",
+   "title": "Yếu tố nguy cơ: trực tiếp và gián tiếp",
+   "ref": "Textbook of Critical Care 8e, Bảng 60.1 · Irwin & Rippe 9e, Bảng 163.1",
+   "cards": [
+    {
+     "tag": "TRỰC TIẾP (PHỔI)",
+     "t": "Tổn thương biểu mô trước",
+     "items": [
+      "Viêm phổi (vi khuẩn, virus, nấm)",
+      "Hít sặc dịch dạ dày",
+      "Đụng dập phổi",
+      "Hít khí độc, đuối nước",
+      "Thuốc lá điện tử (EVALI)"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "GIÁN TIẾP (NGOÀI PHỔI)",
+     "t": "Tổn thương nội mô trước",
+     "items": [
+      "Nhiễm khuẩn huyết: 30–40% ở ICU tiến triển ARDS",
+      "Đa chấn thương, sốc, truyền máu nhiều",
+      "Viêm tuỵ cấp",
+      "Tuần hoàn ngoài cơ thể, ngộ độc thuốc"
+     ],
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "VÙNG NHIỆT ĐỚI",
+     "t": "Rất gần với Việt Nam",
+     "items": [
+      "Leptospira 18,7%",
+      "Viêm phế quản phổi 17,3%",
+      "Sốt mò 12% · sốt xuất huyết 12%",
+      "(Nghiên cứu tại Ấn Độ)"
+     ],
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Các yếu tố nguy cơ được chia thành trực tiếp và gián tiếp. Nhóm trực tiếp tổn thương biểu mô trước, gồm viêm phổi, hít sặc dịch dạ dày, đụng dập phổi, hít khí độc, đuối nước, và gần đây là tổn thương phổi do thuốc lá điện tử.",
+    "Nhóm gián tiếp tổn thương nội mô trước, đứng đầu là nhiễm khuẩn huyết: 30 đến 40 phần trăm người bệnh nhiễm khuẩn huyết nằm hồi sức tiến triển thành ARDS. Tiếp theo là đa chấn thương, sốc, truyền máu nhiều, viêm tuỵ cấp.",
+    "Hai nhóm này khác nhau về dấu ấn sinh học: tổn thương trực tiếp có dấu ấn tổn thương biểu mô cao hơn, gián tiếp có dấu ấn tổn thương nội mô cao hơn, nhưng trong nghiên cứu lớn nhất, tử vong không khác nhau.",
+    "Riêng với vùng nhiệt đới như Việt Nam, một nghiên cứu tại Ấn Độ cho thấy bốn nguyên nhân hàng đầu là leptospira 18,7 phần trăm, viêm phế quản phổi 17,3 phần trăm, sốt mò 12 phần trăm và sốt xuất huyết 12 phần trăm. Đây là những nguyên nhân quý vị gặp hằng ngày."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "media",
+   "chapter": "Hình ảnh minh hoạ",
+   "title": "ARDS trên X-quang: từ nhiễm khuẩn nhiệt đới đến viêm phổi",
+   "ref": "Ảnh Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/ards/raw/cxr_typhus.jpg",
+     "ar": 1.033,
+     "at": 0,
+     "cap": "ARDS biến chứng sốt phát ban chuột (murine typhus), nam 40 tuổi",
+     "credit": "Ảnh: van der Vaart TW và cs. · Public domain · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 30,
+       "y": 58,
+       "r": 15,
+       "c": "amber",
+       "at": 1
+      },
+      {
+       "type": "circle",
+       "x": 70,
+       "y": 58,
+       "r": 15,
+       "c": "amber",
+       "at": 1
+      }
+     ]
+    },
+    {
+     "src": "../../media/nmba2026/raw/ards_severe.png",
+     "ar": 1.252,
+     "at": 2,
+     "cap": "ARDS nặng: mờ lan toả hai phổi, có ống nội khí quản",
+     "credit": "Ảnh: James Heilman, MD · CC BY-SA 4.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 10,
+       "t": "Mờ lan toả hai bên",
+       "c": "coral",
+       "at": 3
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "GỢI Ý",
+     "t": "Mờ hai bên, thường không kèm dấu hiệu tăng áp lực như đường Kerley B hay tràn dịch nhiều",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Hãy nhìn hai phim X-quang. Bên trái là một ca ARDS biến chứng sốt phát ban do Rickettsia, một nguyên nhân nhiệt đới, với mờ lan toả hai phế trường.",
+    "Chính vì đặc điểm này, ở vùng nhiệt đới, khi gặp suy hô hấp cấp kèm sốt, quý vị cần nghĩ đến leptospira, sốt mò, sốt xuất huyết, bên cạnh viêm phổi thông thường.",
+    "Bên phải là ARDS nặng ở người bệnh thở máy, mờ lan toả gần như toàn bộ hai phổi.",
+    "Điểm gợi ý ARDS trên phim là mờ hai bên, thường không kèm các dấu hiệu tăng áp lực như đường vách liên tiểu thuỳ hay tràn dịch màng phổi nhiều. Tuy nhiên, như chúng ta sẽ bàn ở Phần 2, X-quang đơn thuần không thể phân biệt chắc chắn ARDS với phù phổi do tim."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "alveolus",
+   "chapter": "Bệnh sinh",
+   "title": "Phế nang – mao mạch bình thường: hàng rào hai lớp",
+   "ref": "Sơ đồ tự vẽ · Murray & Nadel 7e · Textbook of Critical Care 8e",
+   "labels_at": 0,
+   "lines": [
+    "Bây giờ chúng ta đi vào bệnh sinh. Hãy bắt đầu từ một phế nang bình thường.",
+    "Hàng rào phế nang – mao mạch gồm hai lớp: lớp nội mô mao mạch phía dưới, và lớp biểu mô phế nang phía trên, ngăn cách bởi một lớp mô kẽ rất mỏng.",
+    "Biểu mô phế nang có hai loại tế bào. Tế bào type một mỏng, phủ phần lớn bề mặt, là nơi trao đổi khí. Tế bào type hai hình khối, nhỏ hơn, sản xuất surfactant và là tế bào gốc để tái tạo biểu mô.",
+    "Lớp surfactant làm giảm sức căng bề mặt, giữ cho phế nang không xẹp ở cuối thì thở ra. Và đại thực bào phế nang thường trú, là tế bào canh gác đầu tiên.",
+    "Trong ARDS, cả hai lớp của hàng rào này đều bị tổn thương. Hãy xem điều gì xảy ra từng bước."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "alveolus",
+   "chapter": "Bệnh sinh",
+   "title": "Hàng rào bị phá vỡ: tổn thương nội mô và biểu mô",
+   "ref": "Murray & Nadel 7e · Irwin & Rippe 9e, ch. 163",
+   "steps": [
+    {
+     "k": "endo",
+     "t": "Tổn thương, hoạt hoá nội mô",
+     "d": "↑ vWF, angiopoietin-2, selectin, ICAM-1 · tăng tính thấm",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "k": "epi",
+     "t": "Chết tế bào biểu mô type I",
+     "d": "Hoại tử, chết theo chương trình · RAGE tăng trong máu và dịch phù",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "k": "edema",
+     "t": "Phù giàu protein",
+     "d": "Khác phù do tim (ít protein) · cản trở thanh thải dịch phế nang",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "k": "neut",
+     "t": "Bạch cầu đa nhân",
+     "d": "Kẹt trong mao mạch, xuyên mạch · elastase, gốc oxy hoá, NETs",
+     "c": "violet",
+     "at": 5
+    }
+   ],
+   "notes_w": 600,
+   "lines": [
+    "Bước thứ nhất: tổn thương xảy ra ở cả hai phía của hàng rào. Với nhiễm khuẩn huyết, tổn thương thường bắt đầu ở nội mô; với hít sặc, bắt đầu ở biểu mô, nhưng khi chẩn đoán thì cả hai đều đã bị tổn thương.",
+    "Nội mô bị hoạt hoá, tăng giải phóng yếu tố von Willebrand, angiopoietin 2, tăng biểu hiện selectin và ICAM-1, làm tăng tính thấm. Yếu tố von Willebrand cao dự báo khả năng xuất hiện ARDS và tiên lượng xấu.",
+    "Tế bào biểu mô type một chết do hoại tử và chết theo chương trình. Dấu ấn RAGE, vốn biểu hiện nhiều trên tế bào biểu mô phế nang, tăng cao trong máu và dịch phù.",
+    "Hậu quả là dịch phù giàu protein tràn vào phế nang. Đây là điểm khác biệt cơ bản với phù phổi do tim, nơi dịch phù nghèo protein. Biểu mô tổn thương còn mất khả năng bơm natri và nước ra khỏi phế nang.",
+    "Những người bệnh còn giữ được tốc độ thanh thải dịch phế nang nhanh có ít ngày thở máy hơn và tử vong thấp hơn.",
+    "Bước tiếp theo, bạch cầu đa nhân trung tính bị kẹt lại trong mao mạch phổi, vì khi hoạt hoá chúng trở nên cứng, không biến dạng để đi qua lòng mao mạch hẹp được. Chúng xuyên mạch vào phế nang, giải phóng elastase, gốc oxy hoá và bẫy ngoại bào, gọi là NETs."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "alveolus",
+   "chapter": "Bệnh sinh",
+   "title": "Khuếch đại tổn thương: viêm, màng hyaline, surfactant, huyết khối",
+   "ref": "Murray & Nadel 7e · Textbook of Critical Care 8e",
+   "base": [
+    "endo",
+    "epi",
+    "edema",
+    "neut"
+   ],
+   "steps": [
+    {
+     "k": "cyto",
+     "t": "Bão cytokine tại chỗ",
+     "d": "Đại thực bào: TNF-α, IL-1β, IL-6, IL-8 · thu hút thêm bạch cầu",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "k": "hyaline",
+     "t": "Màng hyaline",
+     "d": "Mảnh vụn tế bào, protein, surfactant lót thành phế nang",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "k": "surf",
+     "t": "Surfactant bất hoạt",
+     "d": "Protein huyết tương, elastase phá huỷ → tăng sức căng bề mặt → xẹp",
+     "c": "green",
+     "at": 2
+    },
+    {
+     "k": "thromb",
+     "t": "Viêm – đông máu",
+     "d": "↑ yếu tố mô, ↓ tiêu sợi huyết → vi huyết khối, fibrin trong phế nang",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "notes_w": 600,
+   "lines": [
+    "Tổn thương sau đó tự khuếch đại. Đại thực bào phế nang và bạch cầu giải phóng TNF anpha, interleukin 1 bêta, interleukin 6, interleukin 8, kéo thêm bạch cầu vào phổi.",
+    "Mảnh vụn tế bào, protein và surfactant kết đặc lại thành màng hyaline lót thành phế nang, hình ảnh kinh điển của tổn thương phế nang lan toả.",
+    "Surfactant bị bất hoạt bởi protein huyết tương tràn vào và bị elastase phá huỷ, tế bào type hai tổn thương sản xuất kém đi. Sức căng bề mặt tăng, phế nang dễ xẹp.",
+    "Khác với hội chứng suy hô hấp ở trẻ sơ sinh, bổ sung surfactant ở người lớn ARDS đã thất bại trong bốn thử nghiệm lớn, cho thấy thiếu surfactant không phải là cơ chế chính.",
+    "Song song là vòng xoắn viêm – đông máu: TNF anpha tăng yếu tố mô, ức chế tiêu sợi huyết, tạo vi huyết khối trong mao mạch và fibrin trong phế nang. Bằng chứng rõ nhất là các ca tử vong do COVID-19, với huyết khối vi mạch lan rộng."
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "cards",
+   "chapter": "Bệnh sinh",
+   "title": "Bạch cầu đa nhân: thủ phạm hay nhân chứng?",
+   "ref": "Murray & Nadel 7e · Irwin & Rippe 9e",
+   "cards": [
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Vai trò trung tâm",
+     "items": [
+      "Giảm bạch cầu thoáng qua: dấu hiệu sớm, trước cả thiếu oxy",
+      "Bạch cầu trong dịch rửa phế quản: tiên lượng xấu",
+      "Chuột thiếu bạch cầu: ít tổn thương hơn"
+     ],
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "NETs",
+     "t": "Bẫy ngoại bào",
+     "items": [
+      "Lưới DNA, histone, enzyme",
+      "Tổn thương nội mô, tạo huyết khối",
+      "DNase giảm tổn thương trên mô hình chuột"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "NGHỊCH LÝ",
+     "t": "Không bắt buộc",
+     "items": [
+      "ARDS vẫn xảy ra khi giảm bạch cầu nặng",
+      "Có thể nặng lên khi hồi phục bạch cầu hoặc dùng G-CSF",
+      "Ức chế elastase: thất bại lâm sàng"
+     ],
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Vai trò của bạch cầu đa nhân có nhiều bằng chứng. Một trong những dấu hiệu sớm nhất của ARDS, có khi trước cả thiếu oxy, là giảm bạch cầu thoáng qua do bạch cầu bị giữ lại trong phổi.",
+    "Có bạch cầu trong dịch rửa phế quản phế nang ở người bệnh ARDS do nhiễm khuẩn huyết là dấu hiệu tiên lượng xấu, và chuột thiếu bạch cầu bị tổn thương phổi ít hơn.",
+    "Bẫy ngoại bào bạch cầu là những lưới DNA, histone và enzyme. Chúng giúp bắt giữ vi khuẩn, nhưng cũng làm tổn thương nội mô và tạo huyết khối. Trên mô hình chuột, phân huỷ chúng bằng DNase làm giảm tổn thương phổi.",
+    "Tuy nhiên, ARDS vẫn xảy ra ở người bệnh giảm bạch cầu nặng, và có thể nặng lên khi bạch cầu hồi phục hoặc khi dùng G-CSF. Thử nghiệm thuốc ức chế elastase đã dừng vì không hiệu quả. Bạch cầu quan trọng, nhưng không phải là toàn bộ câu chuyện."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "flow",
+   "chapter": "Sinh lý bệnh",
+   "title": "Từ phế nang tổn thương đến suy hô hấp",
+   "ref": "Tổng hợp từ Irwin & Rippe 9e · Murray & Nadel 7e · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Tăng tính thấm",
+     "d": "Phù giàu protein",
+     "x": 220,
+     "y": 120,
+     "w": 320,
+     "h": 120,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Phế nang ngập dịch, xẹp",
+     "d": "Surfactant bất hoạt",
+     "x": 660,
+     "y": 120,
+     "w": 360,
+     "h": 120,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "Shunt",
+     "d": "Mất co mạch do thiếu oxy",
+     "x": 1120,
+     "y": 120,
+     "w": 360,
+     "h": 120,
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "id": "f",
+     "t": "Thiếu oxy kháng trị",
+     "d": "Ít đáp ứng với tăng FiO₂",
+     "x": 1560,
+     "y": 120,
+     "w": 330,
+     "h": 120,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "h",
+     "t": "Giảm giãn nở phổi",
+     "d": "Ít phế nang tham gia thông khí",
+     "x": 220,
+     "y": 340,
+     "w": 330,
+     "h": 120,
+     "c": "teal",
+     "at": 4
+    },
+    {
+     "id": "d",
+     "t": "Vi huyết khối, co mạch",
+     "d": "Vùng có khí nhưng thiếu máu",
+     "x": 660,
+     "y": 340,
+     "w": 360,
+     "h": 120,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "Tăng khoảng chết",
+     "d": "↑ thông khí phút cần thiết",
+     "x": 1120,
+     "y": 340,
+     "w": 360,
+     "h": 120,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "g",
+     "t": "Tăng áp phổi, suy thất phải",
+     "d": "Thất phải cấp: 22% ARDS vừa – nặng",
+     "x": 1340,
+     "y": 560,
+     "w": 420,
+     "h": 120,
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "f",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "d",
+     "b": "g",
+     "c": "green",
+     "at": 3
+    },
+    {
+     "a": "b",
+     "b": "h",
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Từ những thay đổi ở phế nang, hãy nối sang sinh lý bệnh trao đổi khí. Phế nang ngập dịch hoặc xẹp vẫn được tưới máu, tạo ra shunt.",
+    "Thêm vào đó, phản xạ co mạch do thiếu oxy, vốn giúp chuyển máu khỏi vùng kém thông khí, bị suy giảm trong vùng tổn thương. Kết quả là thiếu oxy máu kháng trị, ít đáp ứng với tăng FiO₂.",
+    "Ngược lại, vi huyết khối và co mạch ở vùng phổi còn thông khí tạo ra khoảng chết, buộc người bệnh phải tăng thông khí phút để giữ PaCO₂.",
+    "Tăng sức cản mạch phổi dẫn đến tăng áp phổi và suy thất phải cấp. Siêu âm tim qua thực quản phát hiện suy thất phải cấp ở 22 phần trăm trong 226 người bệnh ARDS vừa và nặng, liên quan với tử vong 28 ngày tăng gần gấp đôi. Điều thú vị là sildenafil làm giảm áp lực động mạch phổi nhưng lại tăng shunt, gợi ý tăng áp phổi một phần là phản ứng bù trừ.",
+    "Và cuối cùng, giãn nở hệ hô hấp giảm, chủ yếu do phổi, nhưng thành ngực và ổ bụng cũng góp phần trong chấn thương hay viêm phúc mạc. Vì sao phổi kém giãn nở? Câu trả lời nằm ở khái niệm phổi em bé."
+   ]
+  },
+  {
+   "id": "s18",
+   "layout": "babylung",
+   "chapter": "Phổi em bé",
+   "title": "“Phổi em bé”: không cứng, mà nhỏ",
+   "ref": "Sơ đồ tự vẽ theo khái niệm của Gattinoni & Pesenti · Amato 2015 · Irwin & Rippe 9e",
+   "zones": {
+    "aer": 1,
+    "poor": 2,
+    "cons": 2,
+    "baby": 3
+   },
+   "notes": [
+    {
+     "t": "Tổn thương không đồng nhất",
+     "d": "CT: đông đặc ở vùng phụ thuộc trọng lực (phía lưng khi nằm ngửa), vùng phía trước tương đối lành",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Phổi có khí còn lại rất nhỏ",
+     "d": "Như phổi của một đứa trẻ → giãn nở đo được giảm",
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "t": "Không cứng, mà nhỏ",
+     "d": "Phần phổi có khí có độ giãn nở riêng gần bình thường (Amato 2015)",
+     "c": "green",
+     "at": 4
+    },
+    {
+     "t": "Hệ quả",
+     "d": "Vt tính theo cân nặng lý tưởng có thể vẫn quá lớn với phổi em bé",
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Đây là lát cắt ngang lồng ngực của một người bệnh ARDS nằm ngửa, vẽ lại theo khái niệm mà Gattinoni và Pesenti mô tả từ phim CT.",
+    "Vùng phía trước, không phụ thuộc trọng lực, còn thông khí tương đối bình thường.",
+    "Đi dần về phía lưng, phổi chuyển thành kính mờ, rồi đông đặc và xẹp ở vùng phụ thuộc trọng lực. Tổn thương ARDS không đồng nhất như X-quang gợi ý.",
+    "Phần phổi còn khí để thông khí thực sự rất nhỏ, như phổi của một đứa trẻ. Đó là phổi em bé.",
+    "Amato và cộng sự nhấn mạnh: phổi có khí trong ARDS không cứng, mà nhỏ. Độ giãn nở riêng của phần phổi lành gần như bình thường. Giãn nở đo được giảm chủ yếu vì số phế nang tham gia thông khí ít đi.",
+    "Hệ quả lâm sàng cực kỳ quan trọng: một thể tích khí lưu tính theo cân nặng lý tưởng, nghe có vẻ an toàn, vẫn có thể quá lớn đối với phổi em bé. Đây chính là nền tảng của khái niệm driving pressure mà chúng ta sẽ phân tích ở Phần 3."
+   ]
+  },
+  {
+   "id": "s19",
+   "layout": "babylung",
+   "chapter": "Tổn thương phổi do thở máy",
+   "title": "Thở máy có thể làm tổn thương phổi",
+   "ref": "Murray & Nadel 7e · Textbook of Critical Care 8e · Tobin 3e",
+   "zones": {
+    "aer": 0,
+    "poor": 0,
+    "cons": 0,
+    "baby": 0,
+    "vt": 1,
+    "atel": 3
+   },
+   "notes": [
+    {
+     "t": "Tổn thương do thể tích",
+     "d": "Vt dồn vào phổi em bé → căng giãn quá mức",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Tổn thương do xẹp – mở",
+     "d": "Lực xé tại ranh giới vùng xẹp và vùng có khí",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "t": "Tổn thương do viêm",
+     "d": "Cytokine tăng trong phổi và máu → suy đa cơ quan",
+     "c": "violet",
+     "at": 5
+    },
+    {
+     "t": "Chấn thương áp lực · ngộ độc oxy",
+     "d": "Tràn khí ~12–13% · FiO₂ cao làm nặng thêm tổn thương",
+     "c": "blue",
+     "at": 6
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Thở máy cứu sống người bệnh ARDS, nhưng chính nó cũng có thể làm tổn thương phổi. Đây gọi là tổn thương phổi do thở máy.",
+    "Cơ chế thứ nhất là tổn thương do thể tích. Khi bơm một thể tích khí vào phổi em bé, khí dồn vào vùng phổi lành, gây căng giãn quá mức. Thí nghiệm kinh điển trên chuột: khi bó ngực để giới hạn thể tích, cùng một áp lực đường thở cao nhưng không gây phù phổi; còn thể tích lớn, dù áp lực thấp, gây phù nặng nhất. Chính thể tích, không phải áp lực đơn thuần, là thủ phạm.",
+    "Đây cũng là lý do người ta đặt ra thuật ngữ volutrauma.",
+    "Cơ chế thứ hai là tổn thương do xẹp – mở lặp đi lặp lại. Tại ranh giới giữa vùng xẹp và vùng có khí, mỗi nhịp thở mở ra rồi đóng lại các đơn vị phế nang, tạo lực xé rất lớn. PEEP về lý thuyết hạn chế cơ chế này, nhưng phải cân bằng với nguy cơ căng giãn quá mức.",
+    "Hai cơ chế cơ học này dẫn tới cơ chế thứ ba: tổn thương do viêm. Thông khí với thể tích lớn và không có PEEP làm tăng cytokine trong phổi và trong máu.",
+    "Ở người, chiến lược bảo vệ phổi trong 36 giờ làm giảm cytokine, còn chiến lược kiểm soát làm tăng. Thậm chí chỉ một giờ sau khi bỏ thông khí bảo vệ, cytokine đã tăng trở lại.",
+    "Thêm vào đó là chấn thương áp lực, với tràn khí màng phổi khoảng 12 đến 13 phần trăm trong kỷ nguyên thông khí bảo vệ, và ngộ độc oxy khi dùng FiO₂ cao kéo dài."
+   ]
+  },
+  {
+   "id": "s20",
+   "layout": "flow",
+   "chapter": "Tổn thương phổi do thở máy",
+   "title": "Vì sao người bệnh ARDS tử vong do suy đa cơ quan?",
+   "ref": "Murray & Nadel 7e, Hình 134.5 (tóm lược) · ESICM 2023 · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Thông khí gây hại",
+     "d": "Vt lớn, không đủ PEEP",
+     "x": 220,
+     "y": 160,
+     "w": 330,
+     "h": 120,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "p",
+     "t": "Gắng sức tự thở mạnh",
+     "d": "Áp lực xuyên phổi lớn (P-SILI)",
+     "x": 220,
+     "y": 430,
+     "w": 330,
+     "h": 120,
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "id": "b",
+     "t": "Căng giãn + xẹp – mở",
+     "d": "Tổn thương cơ học",
+     "x": 660,
+     "y": 290,
+     "w": 330,
+     "h": 120,
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "Cytokine vào máu",
+     "d": "Mất “khoanh vùng” viêm tại phổi",
+     "x": 1090,
+     "y": 290,
+     "w": 330,
+     "h": 120,
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Suy đa cơ quan",
+     "d": "Thận: chết theo chương trình tế bào ống thận (thực nghiệm)",
+     "x": 1530,
+     "y": 290,
+     "w": 360,
+     "h": 140,
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "a": "p",
+     "b": "b",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "Phần lớn người bệnh ARDS <b>không chết vì thiếu oxy</b>, mà vì nhiễm khuẩn huyết và suy đa cơ quan",
+    "at": 4,
+    "c": "teal",
+    "y": 600
+   },
+   "lines": [
+    "Tại sao điều này quan trọng? Vì tổn thương phổi do thở máy không dừng lại ở phổi. Thông khí gây hại tạo tổn thương cơ học do căng giãn và xẹp – mở.",
+    "Phản ứng viêm mất tính khoanh vùng tại phổi, cytokine tràn vào máu.",
+    "Và dẫn tới suy đa cơ quan. Trên thực nghiệm, thông khí gây hại ở chuột làm tăng chết theo chương trình của tế bào ống thận và suy thận.",
+    "Một nguồn tổn thương khác cần biết là tổn thương phổi do người bệnh tự gắng sức, viết tắt P-SILI. Hướng dẫn ESICM 2023 lưu ý: khi thở máy không xâm lấn với mức hỗ trợ cao, gắng sức hít vào mạnh, hoặc cả hai, áp lực xuyên phổi có thể rất lớn, tương tự như tổn thương do thở máy xâm lấn.",
+    "Điều này giải thích một nghịch lý kinh điển: phần lớn người bệnh ARDS không chết vì thiếu oxy, mà vì nhiễm khuẩn huyết và suy đa cơ quan. Bảo vệ phổi, vì vậy, cũng là bảo vệ các cơ quan khác."
+   ]
+  },
+  {
+   "id": "s21",
+   "layout": "timeline",
+   "chapter": "Diễn tiến mô bệnh học",
+   "title": "Ba giai đoạn: xuất tiết, tăng sinh, xơ hoá",
+   "ref": "Murray & Nadel 7e · Textbook of Critical Care 8e · Irwin & Rippe 9e",
+   "events": [
+    {
+     "year": "Tuần 1",
+     "t": "Xuất tiết",
+     "d": "Màng hyaline, phù giàu protein, bạch cầu đa nhân · tổn thương phế nang lan toả",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "year": "Ngày 7–10",
+     "t": "Tăng sinh",
+     "d": "Tổ chức hoá dịch xuất tiết, tăng sinh nguyên bào sợi · mô hạt bít ống phế nang",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "year": "> 2 tuần",
+     "t": "Xơ hoá",
+     "d": "Lắng đọng collagen · giảm giãn nở, tăng khoảng chết, tăng áp phổi",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "Hồi phục",
+     "t": "Tái tạo",
+     "d": "Tế bào type II → type I · thanh thải dịch, protein · chức năng cải thiện đến 1 năm",
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "note": {
+    "t": "Xơ hoá có thể bắt đầu sớm: procollagen III tăng trong dịch rửa phế quản ngay từ <b>24 giờ</b> đầu",
+    "at": 3,
+    "c": "amber"
+   },
+   "lines": [
+    "Về mô bệnh học, ARDS diễn tiến qua ba giai đoạn chồng lấp nhau. Giai đoạn xuất tiết trong tuần đầu: màng hyaline, phù giàu protein, bạch cầu đa nhân thâm nhiễm, gọi là tổn thương phế nang lan toả.",
+    "Ở một số người bệnh, sau khoảng 7 đến 10 ngày, chuyển sang giai đoạn tăng sinh: dịch xuất tiết được tổ chức hoá, nguyên bào sợi tăng sinh, mô hạt bít ống phế nang giống viêm phổi tổ chức hoá.",
+    "Nếu kéo dài quá 2 tuần, có thể tiến tới xơ hoá: lắng đọng collagen, giãn nở phổi giảm thêm, khoảng chết tăng, tăng áp phổi do mất giường mao mạch, và thường gắn với thời gian thở máy rất dài.",
+    "Tuy nhiên, các ranh giới thời gian này không cứng nhắc. Procollagen typ ba, dấu ấn tổng hợp collagen, đã tăng trong dịch rửa phế quản ngay từ 24 giờ đầu, gợi ý xơ hoá bắt đầu song song với viêm. Người bệnh có xơ hoá trên sinh thiết có tử vong cao hơn.",
+    "May mắn là ở phần lớn người sống sót, phổi tái tạo gần như bình thường: tế bào type hai tăng sinh và biệt hoá thành type một, dịch và protein được thanh thải, chức năng phổi tiếp tục cải thiện đến một năm hoặc hơn."
+   ]
+  },
+  {
+   "id": "s22",
+   "layout": "media",
+   "chapter": "Diễn tiến mô bệnh học",
+   "title": "Màng hyaline dưới kính hiển vi",
+   "ref": "Ảnh Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/ards/raw/hyaline_high.jpg",
+     "ar": 1.5,
+     "at": 0,
+     "cap": "Tổn thương phế nang lan toả: màng hyaline lót thành phế nang (nhuộm H&E, độ phóng đại lớn)",
+     "credit": "Ảnh: Nephron · CC BY-SA 3.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 8,
+       "t": "Tổn thương phế nang lan toả",
+       "c": "coral",
+       "at": 1
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CHỈ ~50%",
+     "t": "Khám nghiệm tử thi hoặc sinh thiết: chỉ khoảng một nửa người bệnh ARDS có tổn thương phế nang lan toả",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "NẶNG HƠN",
+     "t": "Có tổn thương phế nang lan toả: giãn nở kém hơn, P/F thấp hơn, tử vong cao hơn",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "KHÔNG CÓ",
+     "t": "Nửa còn lại: viêm phổi, xuất huyết phế nang, viêm phổi tăng bạch cầu ái toan, viêm phổi do thuốc",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Đây là hình ảnh tổn thương phế nang lan toả dưới kính hiển vi: màng hyaline là những dải hồng, đồng nhất như thuỷ tinh, lót dọc thành phế nang, kèm hồng cầu và tế bào viêm trong lòng phế nang.",
+    "Hình này dễ khiến ta nghĩ mọi ARDS đều như vậy. Nhưng các nghiên cứu khám nghiệm tử thi và sinh thiết cho thấy chỉ khoảng một nửa người bệnh ARDS có tổn thương phế nang lan toả.",
+    "Nhóm này thường trẻ hơn, nặng hơn, giãn nở phổi kém hơn, PaO₂/FiO₂ thấp hơn, cần driving pressure cao hơn và tử vong cao hơn, có nghiên cứu cho thấy nguy cơ tử vong do suy hô hấp thiếu oxy cao gấp năm lần.",
+    "Nửa còn lại là những bệnh có thể điều trị đặc hiệu: viêm phổi nhiễm khuẩn, xuất huyết phế nang lan toả, viêm phổi tăng bạch cầu ái toan cấp, viêm phổi do thuốc.",
+    "Thông điệp thực hành: ARDS là một hội chứng, không phải một bệnh. Luôn tìm nguyên nhân có thể điều trị được. Đây chính là chủ đề chẩn đoán phân biệt của Phần 2."
+   ]
+  },
+  {
+   "id": "s23",
+   "layout": "stats",
+   "chapter": "Tiên lượng",
+   "title": "Tử vong vẫn cao, và kéo dài sau xuất viện",
+   "ref": "Murray & Nadel 7e · Textbook of Critical Care 8e",
+   "tiles": [
+    {
+     "tag": "BERLIN · NHẸ",
+     "v": 27,
+     "suf": "%",
+     "l": "tử vong",
+     "d": "Thở máy trung vị 5 ngày",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "BERLIN · VỪA",
+     "v": 32,
+     "suf": "%",
+     "l": "tử vong",
+     "d": "Thở máy trung vị 7 ngày",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "BERLIN · NẶNG",
+     "v": 45,
+     "suf": "%",
+     "l": "tử vong",
+     "d": "Thở máy trung vị 9 ngày",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "SAU 1 NĂM",
+     "v": 41,
+     "suf": "%",
+     "l": "tử vong",
+     "d": "so với 24% khi ra viện (641 người bệnh)",
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "cols": 4,
+   "h": 420,
+   "note": {
+    "t": "Theo nguyên nhân (ARMA): nhiễm khuẩn huyết 43% · viêm phổi 36% · hít sặc 37% · đa chấn thương <b>11%</b>",
+    "at": 3,
+    "c": "amber"
+   },
+   "lines": [
+    "Về tiên lượng, theo các mức độ Berlin, tử vong lần lượt là 27, 32 và 45 phần trăm, với thời gian thở máy trung vị 5, 7 và 9 ngày.",
+    "Tử vong đã giảm từ trên 60 phần trăm xuống dưới 40 phần trăm trong 30 năm, có lẽ nhờ thông khí bảo vệ phổi và chăm sóc hỗ trợ tốt hơn. Nhưng mức độ thiếu oxy ban đầu dự báo tử vong không tốt.",
+    "Điều đáng lo là tử vong tiếp tục tăng sau xuất viện: trong 641 người bệnh, tử vong sau một năm là 41 phần trăm, so với 24 phần trăm khi ra viện.",
+    "Tử vong cũng khác nhau theo nguyên nhân. Trong thử nghiệm ARMA, nhiễm khuẩn huyết có tử vong 43 phần trăm, viêm phổi 36 phần trăm, hít sặc 37 phần trăm, trong khi đa chấn thương chỉ 11 phần trăm. Tuổi cao, bệnh gan mạn, nghiện rượu và suy cơ quan ngoài phổi đều làm tăng tử vong."
+   ]
+  },
+  {
+   "id": "s24",
+   "layout": "compare",
+   "chapter": "Nhìn trước Phần 2",
+   "title": "Một ARDS hay nhiều ARDS? Phân nhóm tăng viêm và giảm viêm",
+   "ref": "Murray & Nadel 7e · Textbook of Critical Care 8e · ESICM 2023",
+   "head": [
+    "Thử nghiệm phân tích lại",
+    "Giảm viêm (phenotype 1)",
+    "Tăng viêm (phenotype 2)"
+   ],
+   "widths": "1.2fr 1.5fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "Đặc điểm",
+      "IL-6, IL-8 thấp · ít vận mạch · hay gặp chấn thương",
+      "IL-6, IL-8 cao · protein C thấp · nhiễm khuẩn huyết, sốc · tử vong cao hơn"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "ALVEOLI (PEEP)",
+      "PEEP thấp tốt hơn: tử vong 16% so với 24%",
+      "PEEP cao tốt hơn: 42% so với 51%"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "FACTT (dịch)",
+      "Dịch tự do tốt hơn: 18% so với 26%",
+      "Dịch hạn chế tốt hơn: 40% so với 50%"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "HARP-2 (simvastatin)",
+      "Không khác biệt",
+      "Có lợi về sống còn 28 ngày"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Và một câu hỏi lớn để chuyển sang Phần 2: ARDS có thực sự là một bệnh? Phân tích lớp tiềm ẩn của Calfee trên các thử nghiệm lớn tìm ra hai phân nhóm: giảm viêm và tăng viêm. Nhóm tăng viêm có interleukin 6, interleukin 8 cao, protein C thấp, sốc nhiều hơn và tử vong cao hơn.",
+    "Khi phân tích lại thử nghiệm ALVEOLI, nhóm giảm viêm có lợi với PEEP thấp, tử vong 16 so với 24 phần trăm, còn nhóm tăng viêm lại có lợi với PEEP cao, 42 so với 51 phần trăm.",
+    "Với thử nghiệm dịch FACTT, nhóm giảm viêm có lợi với chiến lược dịch tự do, còn nhóm tăng viêm có lợi với chiến lược dịch hạn chế.",
+    "Với HARP-2, simvastatin chỉ có lợi ở nhóm tăng viêm. Các phân tích này chưa được kiểm chứng tiến cứu, và ESICM 2023 chưa khuyến cáo dùng phân nhóm để chọn điều trị. Chúng ta sẽ phân tích sâu ở Phần 2."
+   ]
+  },
+  {
+   "id": "s25",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: suy tim kèm quá tải dịch có loại trừ ARDS?",
+   "ref": "Ca minh hoạ · áp dụng Matthay 2024",
+   "case": "Nam 72 tuổi, suy tim EF 35%, viêm phổi thuỳ → sốc nhiễm khuẩn. Sau 48 giờ: cân bằng dịch <b>+4 lít</b>, X-quang mờ hai phổi, thở máy PEEP 8, P/F <b>150</b>. Siêu âm: thất trái giảm động nhẹ, không thay đổi so với trước.",
+   "q": "Nhận định nào đúng theo định nghĩa 2024?",
+   "options": [
+    "Không thể là ARDS vì có quá tải dịch",
+    "Không thể là ARDS vì có suy tim",
+    "Có thể chẩn đoán ARDS vừa nếu quá tải dịch, suy tim không phải nguyên nhân chính",
+    "Cần áp lực mao mạch phổi bít ≤ 18 mmHg mới chẩn đoán được"
+   ],
+   "answer": 2,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Có yếu tố nguy cơ (viêm phổi, sốc nhiễm khuẩn) · quá tải dịch, suy tim <b>không loại trừ</b> nếu không phải nguyên nhân chính · P/F 150 với PEEP ≥ 5 → <b>ARDS vừa</b> · tiêu chí áp lực bít đã bỏ từ Berlin 2012",
+   "lines": [
+    "Tình huống thứ hai. Một người đàn ông 72 tuổi, suy tim phân suất tống máu 35 phần trăm, viêm phổi thuỳ dẫn đến sốc nhiễm khuẩn. Sau 48 giờ hồi sức, cân bằng dịch dương 4 lít, X-quang mờ hai phổi, thở máy PEEP 8, PaO₂/FiO₂ 150. Siêu âm tim không thay đổi so với trước.",
+    "Nhận định nào đúng theo định nghĩa 2024?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là C. Người bệnh có yếu tố nguy cơ rõ ràng là viêm phổi và sốc nhiễm khuẩn. Định nghĩa cho phép chẩn đoán ARDS khi có kèm quá tải dịch hay suy tim, nếu thầy thuốc nhận định đó không phải nguyên nhân chính của thiếu oxy. Với PaO₂/FiO₂ 150 trên PEEP 8, đây là ARDS mức độ vừa.",
+    "Tiêu chí áp lực mao mạch phổi bít đã bị bỏ từ Berlin 2012, và nhiều người bệnh ARDS thực sự có tăng áp nhĩ trái trong quá trình bệnh. BNP cũng không phân biệt tốt hai tình trạng này. Đánh giá tổng hợp lâm sàng, siêu âm tim và đáp ứng điều trị mới là chìa khoá."
+   ]
+  },
+  {
+   "id": "s26",
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Bảy thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Định nghĩa 2024: ba nhóm",
+     "d": "Không đặt nội khí quản (oxy dòng cao ≥ 30 L/phút) · đặt nội khí quản · nơi thiếu phương tiện",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "SpO₂/FiO₂ ≤ 315 thay được P/F ≤ 300",
+     "d": "Khi SpO₂ ≤ 97% · siêu âm phổi được chấp nhận",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "Quá tải dịch, suy tim không loại trừ ARDS",
+     "d": "Nếu có yếu tố nguy cơ và không phải nguyên nhân chính",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Hàng rào hai lớp bị phá vỡ",
+     "d": "Nội mô + biểu mô → phù giàu protein, viêm, màng hyaline, vi huyết khối",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "t": "Shunt và khoảng chết",
+     "d": "Thiếu oxy kháng trị, tăng thông khí phút, tăng áp phổi",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "t": "Phổi em bé: không cứng, mà nhỏ",
+     "d": "Vt “chuẩn” vẫn có thể quá lớn",
+     "c": "green",
+     "at": 5
+    },
+    {
+     "t": "Thở máy và gắng sức tự thở có thể gây hại",
+     "d": "Thể tích, xẹp – mở, viêm → suy đa cơ quan",
+     "c": "coral",
+     "at": 6
+    }
+   ],
+   "lines": [
+    "Xin tổng kết bảy thông điệp. Một, định nghĩa toàn cầu 2024 chia ARDS thành ba nhóm: không đặt nội khí quản với oxy dòng cao ít nhất 30 lít mỗi phút, đặt nội khí quản, và nơi thiếu phương tiện.",
+    "Hai, SpO₂/FiO₂ không quá 315 có thể thay cho PaO₂/FiO₂ không quá 300 khi SpO₂ không quá 97 phần trăm, và siêu âm phổi đã được chấp nhận.",
+    "Ba, quá tải dịch hay suy tim không loại trừ ARDS nếu có yếu tố nguy cơ và chúng không phải nguyên nhân chính.",
+    "Bốn, bản chất của ARDS là phá vỡ hàng rào hai lớp, dẫn tới phù giàu protein, viêm, màng hyaline và vi huyết khối.",
+    "Năm, shunt và khoảng chết giải thích thiếu oxy kháng trị, nhu cầu thông khí phút cao và tăng áp phổi.",
+    "Sáu, phổi em bé không cứng mà nhỏ, nên thể tích khí lưu tưởng là chuẩn vẫn có thể quá lớn.",
+    "Và bảy, chính thở máy và cả gắng sức tự thở mạnh có thể gây tổn thương phổi, dẫn tới suy đa cơ quan. Ở Phần 2, chúng ta sẽ đi vào chẩn đoán hình ảnh, chẩn đoán phân biệt và phân nhóm ARDS. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
