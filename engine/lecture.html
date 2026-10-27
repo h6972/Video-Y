@@ -255,7 +255,7 @@ document.body.dataset.theme=TL.theme||'guideline';
 const root=document.getElementById('scenes');
 TL.scenes.forEach(sc=>{
   const el=document.createElement('section'); el.className='scene l-'+sc.layout; el.id=sc.id;
-  const NOH=['title','hook','brand','endscreen'].includes(sc.layout); const hdr=NOH?'':`<div class="hdr"><div class="kick" data-in="0">${esc(sc.chapter)}</div><div class="ttl" data-in="0.15">${esc(sc.title)}</div>${sc.ref?`<div class="ref" data-in="0.4">${esc(sc.ref)}</div>`:''}</div>`;
+  const NOH=['title','hook','brand','endscreen','reel'].includes(sc.layout); const hdr=NOH?'':`<div class="hdr"><div class="kick" data-in="0">${esc(sc.chapter)}</div><div class="ttl" data-in="0.15">${esc(sc.title)}</div>${sc.ref?`<div class="ref" data-in="0.4">${esc(sc.ref)}</div>`:''}</div>`;
   el.innerHTML=hdr+`<div class="body" ${NOH?'style="top:0"':''}>${(L[sc.layout]||L.list)(sc)}</div>`;
   if(sc.cd) el.insertAdjacentHTML('beforeend',`<div class="cdw"><svg width="168" height="168" viewBox="0 0 168 168"><circle cx="84" cy="84" r="72" class="cdb"/><circle cx="84" cy="84" r="72" class="cdr" transform="rotate(-90 84 84)" stroke-dasharray="452.4"/></svg><div class="cdn"></div><div class="cdt">Tạm dừng để suy nghĩ</div></div>`);
   root.appendChild(el);

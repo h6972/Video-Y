@@ -1,0 +1,291 @@
+{
+ "title": "ARDS chuyên sâu – trailer",
+ "theme": "sinh-ly",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Hồi sức",
+ "part": "ARDS chuyên sâu · 6 phần",
+ "source_short": "Ảnh: van der Vaart TW và cs. · Verma R, Abdoh M (CC BY 4.0) · Cmenesesoliveira – Wikimedia Commons",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "SpO₂/FiO₂": "ét pê ô hai trên phi ô hai",
+  "LUNG SAFE": "lung sêi",
+  "Gattinoni": "Ga ti nô ni",
+  "COVID-19": "cô vít mười chín",
+  "Ashbaugh": "Át bâu",
+  "ARDSNet": "a rờ đê ét nét",
+  "PROVENT": "prô ven",
+  "ALVEOLI": "an vê ô li",
+  "Kigali": "Ki ga li",
+  "HARP-2": "háp hai",
+  "Calfee": "Can phi",
+  "L/phút": "lít mỗi phút",
+  "PaCO₂": "pa cô hai",
+  "FACTT": "phác",
+  "ESICM": "e sích",
+  "Amato": "A ma tô",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "AUROC": "diện tích dưới đường cong",
+  "PaO₂": "pa ô hai",
+  "SpO₂": "ét pê ô hai",
+  "FiO₂": "phi ô hai",
+  "PEEP": "píp",
+  "ARDS": "a rờ đê ét",
+  "AECC": "a e xê xê",
+  "CPAP": "xi páp",
+  "ECMO": "éc mô",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NETs": "nét",
+  "RAGE": "rết",
+  "P/F": "pê trên ép",
+  "S/F": "ét trên ép",
+  "ATS": "a tê ét",
+  "Vt": "vê tê"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 4,
+  "next": "Trọn bộ 6 phần: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "r1",
+   "layout": "reel",
+   "bg": "../../media/ards/raw/cxr_typhus.jpg",
+   "card": true,
+   "card_h": 680,
+   "pos": "50% 45%",
+   "kicker": "ARDS chuyên sâu",
+   "beats": [
+    {
+     "t": "Hai lá phổi trắng xoá.",
+     "at": 0,
+     "big": true
+    },
+    {
+     "t": "Gần 4/10 người bệnh không qua khỏi.",
+     "at": 1,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Hai lá phổi trắng xoá.",
+    "Cứ mười người bệnh ARDS, gần bốn người không qua khỏi."
+   ]
+  },
+  {
+   "id": "r2",
+   "layout": "reel",
+   "c": "violet",
+   "fig": "babylung",
+   "figs": {
+    "zones": {
+     "aer": 0,
+     "poor": 0,
+     "cons": 0,
+     "baby": 0
+    }
+   },
+   "fig_h": 520,
+   "beats": [
+    {
+     "t": "Phổi không cứng.",
+     "at": 0,
+     "big": true
+    },
+    {
+     "t": "Phổi nhỏ.",
+     "at": 1,
+     "big": true,
+     "c": "teal"
+    },
+    {
+     "t": "Một “lá phổi em bé” – và mỗi nhịp thở máy quá tay đều làm nó tổn thương thêm.",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Nhưng lá phổi ấy không cứng.",
+    "Nó chỉ nhỏ.",
+    "Một lá phổi em bé, và mỗi nhịp thở máy quá tay đều có thể làm nó tổn thương thêm."
+   ]
+  },
+  {
+   "id": "r3",
+   "layout": "reel",
+   "c": "teal",
+   "align": "center",
+   "kicker": "Thở máy: cứu hay hại?",
+   "chips": [
+    {
+     "v": "6 mL/kg",
+     "l": "cân nặng dự đoán",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "v": "Pplat ≤ 30",
+     "l": "nhưng chưa chắc đã an toàn",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "v": "ΔP",
+     "l": "driving pressure – con số gắn với sống còn",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Sáu mi li lít mỗi ký cân nặng dự đoán.",
+    "Áp lực bình nguyên dưới 30, nhưng chưa chắc đã an toàn.",
+    "Và driving pressure, con số gắn chặt nhất với sống còn."
+   ]
+  },
+  {
+   "id": "r4",
+   "layout": "reel",
+   "bg": "../../media/ards/raw/ct_crazy_paving.jpg",
+   "card": true,
+   "card_h": 600,
+   "kicker": "Chẩn đoán",
+   "beats": [
+    {
+     "t": "Mờ hai phổi.",
+     "at": 0,
+     "big": true
+    },
+    {
+     "t": "Nhưng có thật là ARDS?",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Hay một bệnh giả ARDS bạn đang bỏ sót?",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Mờ hai phổi, nhưng có thật là ARDS?",
+    "Hay một bệnh giả ARDS bạn đang bỏ sót?"
+   ]
+  },
+  {
+   "id": "r5",
+   "layout": "reel",
+   "bg": "../../media/ards/raw/ecmo_lisbon.jpg",
+   "kicker": "ARDS nặng",
+   "beats": [
+    {
+     "t": "Nằm sấp.",
+     "at": 0,
+     "big": true
+    },
+    {
+     "t": "Giãn cơ.",
+     "at": 0,
+     "big": true
+    },
+    {
+     "t": "ECMO.",
+     "at": 0,
+     "big": true,
+     "c": "coral"
+    },
+    {
+     "t": "Khi nào leo thang – và khi nào là quá muộn?",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Nằm sấp, giãn cơ, ECMO.",
+    "Khi nào leo thang, và khi nào là quá muộn?"
+   ]
+  },
+  {
+   "id": "r6",
+   "layout": "reel",
+   "c": "blue",
+   "align": "center",
+   "kicker": "6 phần · gần 2 giờ chuyên sâu",
+   "rows": [
+    {
+     "n": "1",
+     "t": "Định nghĩa 2024 và bệnh sinh",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "n": "2",
+     "t": "Chẩn đoán, phân biệt, phân nhóm",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "n": "3",
+     "t": "Thở máy bảo vệ phổi",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "n": "4",
+     "t": "PEEP và huy động phế nang",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "n": "5",
+     "t": "Nằm sấp, giãn cơ, ECMO",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "n": "6",
+     "t": "Dịch, corticoid, cập nhật mới",
+     "at": 2,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Từ định nghĩa toàn cầu 2024, bệnh sinh, chẩn đoán,",
+    "đến thở máy bảo vệ phổi, PEEP, các biện pháp cứu vãn,",
+    "và những cập nhật mới nhất. Sáu phần, gần hai giờ, giảng chuyên sâu cho bác sĩ hồi sức."
+   ]
+  },
+  {
+   "id": "r7",
+   "layout": "reel",
+   "c": "teal",
+   "align": "center",
+   "beats": [
+    {
+     "t": "ARDS",
+     "at": 0,
+     "big": true,
+     "c": "teal"
+    },
+    {
+     "t": "CHUYÊN SÂU",
+     "at": 0,
+     "big": true
+    },
+    {
+     "t": "Đã có trên kênh Thư Viện Y Khoa Online",
+     "at": 0
+    }
+   ],
+   "lines": [
+    "Loạt bài ARDS chuyên sâu, đã có trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
