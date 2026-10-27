@@ -1,0 +1,1417 @@
+{
+ "title": "ARDS chuyên sâu – Phần 2: Chẩn đoán, chẩn đoán phân biệt và phân nhóm",
+ "theme": "sinh-ly",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "ARDS chuyên sâu",
+ "part": "ARDS chuyên sâu · Phần 2/6",
+ "source_short": "Nguồn: Matthay 2024 (AJRCCM) · ESICM 2023 · ATS 2023 · Murray & Nadel 7e · Textbook of Critical Care 8e · Irwin & Rippe 9e · Tobin 3e",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "SpO₂/FiO₂": "ét pê ô hai trên phi ô hai",
+  "LUNG SAFE": "lung sêi",
+  "Gattinoni": "Ga ti nô ni",
+  "NT-proBNP": "en tê prô bê en pê",
+  "COVID-19": "cô vít mười chín",
+  "Ashbaugh": "Át bâu",
+  "ARDSNet": "a rờ đê ét nét",
+  "PROVENT": "prô ven",
+  "ALVEOLI": "an vê ô li",
+  "Kigali": "Ki ga li",
+  "HARP-2": "háp hai",
+  "Calfee": "Can phi",
+  "L/phút": "lít mỗi phút",
+  "PaCO₂": "pa cô hai",
+  "FACTT": "phác",
+  "ESICM": "e sích",
+  "Amato": "A ma tô",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "AUROC": "diện tích dưới đường cong",
+  "PaO₂": "pa ô hai",
+  "SpO₂": "ét pê ô hai",
+  "FiO₂": "phi ô hai",
+  "PEEP": "píp",
+  "ARDS": "a rờ đê ét",
+  "AECC": "a e xê xê",
+  "CPAP": "xi páp",
+  "ECMO": "éc mô",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NETs": "nét",
+  "RAGE": "rết",
+  "IL-8": "interleukin 8",
+  "IL-6": "interleukin 6",
+  "LIVE": "lai",
+  "CDIC": "xê đê i xê",
+  "RALE": "ra lê",
+  "P/F": "pê trên ép",
+  "S/F": "ét trên ép",
+  "ATS": "a tê ét",
+  "BNP": "bê en pê",
+  "Vt": "vê tê"
+ },
+ "brand": {
+  "next": "Phần 3: Thở máy bảo vệ phổi"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "art": "ards",
+   "chapter": "Mở đầu",
+   "kicker": "ARDS CHUYÊN SÂU · PHẦN 2/6",
+   "title": "Chẩn đoán, chẩn đoán phân biệt<br>và phân nhóm ARDS",
+   "subtitle": "Một hội chứng, nhiều gương mặt",
+   "badges": [
+    {
+     "t": "X-quang · CT · siêu âm phổi",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Bệnh giả ARDS",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Phenotype",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: Matthay 2024, ESICM 2023, Chen 2022 (Crit Care), Textbook of Critical Care 8e, Irwin & Rippe 9e, Murray & Nadel 7e",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Phần 2 của loạt bài ARDS chuyên sâu.",
+    "Ở Phần 1, chúng ta đã thấy ARDS được định nghĩa hoàn toàn bằng tiêu chí lâm sàng, và chỉ khoảng một nửa người bệnh có tổn thương phế nang lan toả thực sự.",
+    "Phần 2 trả lời ba câu hỏi thực hành: dùng hình ảnh thế nào cho đúng, làm sao không bỏ sót một bệnh giả ARDS có thể điều trị đặc hiệu,",
+    "và vì sao khái niệm phân nhóm, hay phenotype, có thể thay đổi cách chúng ta điều trị ARDS trong tương lai."
+   ]
+  },
+  {
+   "id": "s02",
+   "layout": "box",
+   "chapter": "Nguyên tắc",
+   "title": "ARDS là một hội chứng, không phải một bệnh",
+   "ref": "Textbook of Critical Care 8e, ch. 60 · Murray & Nadel 7e",
+   "box": {
+    "tag": "NGUYÊN TẮC",
+    "t": "Chẩn đoán ARDS = <b>nhận diện hội chứng</b> (để thông khí bảo vệ phổi ngay) <b>+ tìm nguyên nhân</b> (để điều trị đặc hiệu)",
+    "at": 0,
+    "c": "teal"
+   },
+   "notes": [
+    {
+     "tag": "KHÔNG CÓ",
+     "t": "Không có xét nghiệm “tiêu chuẩn vàng” · hình ảnh không đặc hiệu",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "HẬU QUẢ",
+     "t": "Chẩn đoán không chắc chắn là lý do chính khiến thông khí bảo vệ phổi bị chậm trễ",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "CẢI THIỆN NHANH",
+     "t": "> 10% “ARDS” cải thiện nhanh trong 24 giờ (P/F > 300 hoặc rút ống) · ESICM 2023",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Nguyên tắc đầu tiên: chẩn đoán ARDS gồm hai việc song song. Nhận diện hội chứng để bắt đầu thông khí bảo vệ phổi ngay, và tìm nguyên nhân để điều trị đặc hiệu.",
+    "Không có xét nghiệm nào xác định chắc chắn ARDS, và mờ hai bên trên phim có thể do rất nhiều bệnh khác nhau.",
+    "Sự không chắc chắn này có hậu quả thực tế: nó là một trong những lý do chính khiến bác sĩ không bắt đầu thông khí bảo vệ phổi cho những người bệnh lẽ ra cần được bảo vệ.",
+    "Ngược lại, hướng dẫn ESICM 2023 lưu ý: trong sáu thử nghiệm của mạng lưới ARDS, hơn 10 phần trăm người bệnh cải thiện rất nhanh, PaO₂/FiO₂ trên 300 hoặc rút ống trong 24 giờ. Vì vậy, đánh giá lại sau khi tối ưu máy thở là việc rất nên làm."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "flow",
+   "chapter": "Tiếp cận",
+   "title": "Tiếp cận người bệnh thiếu oxy cấp, mờ hai phổi",
+   "ref": "Tổng hợp từ Matthay 2024 · Textbook of Critical Care 8e · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Thiếu oxy cấp + mờ hai bên",
+     "d": "X-quang, CT hoặc siêu âm phổi",
+     "x": 250,
+     "y": 110,
+     "w": 400,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Có yếu tố nguy cơ ARDS?",
+     "d": "Viêm phổi, nhiễm khuẩn huyết, hít sặc, chấn thương…",
+     "x": 800,
+     "y": 110,
+     "w": 440,
+     "h": 120,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Có",
+     "d": "ARDS · phân nhóm theo hỗ trợ hô hấp, mức độ · thông khí bảo vệ phổi · điều trị nguyên nhân",
+     "x": 1420,
+     "y": 110,
+     "w": 480,
+     "h": 150,
+     "c": "green",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Không / không giải thích đủ",
+     "d": "Đánh giá tim: siêu âm tim, siêu âm phổi",
+     "x": 800,
+     "y": 360,
+     "w": 440,
+     "h": 120,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "Tìm bệnh giả ARDS",
+     "d": "CT ngực · nội soi phế quản, rửa phế quản phế nang · hiếm khi sinh thiết",
+     "x": 1420,
+     "y": 360,
+     "w": 480,
+     "h": 140,
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "id": "f",
+     "t": "Đánh giá lại sau tối ưu máy thở",
+     "d": "Mức độ thay đổi theo PEEP, tư thế, thời gian",
+     "x": 250,
+     "y": 370,
+     "w": 420,
+     "h": 150,
+     "c": "blue",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "green",
+     "at": 2,
+     "label": "có"
+    },
+    {
+     "a": "b",
+     "b": "d",
+     "c": "coral",
+     "at": 3,
+     "label": "không"
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "a": "a",
+     "b": "f",
+     "c": "blue",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Đây là một sơ đồ tiếp cận tổng hợp. Điểm xuất phát là người bệnh thiếu oxy cấp, kèm mờ hai bên trên X-quang, CT hoặc siêu âm phổi.",
+    "Câu hỏi then chốt đầu tiên: có yếu tố nguy cơ ARDS hay không?",
+    "Nếu có, chẩn đoán ARDS, phân nhóm theo hỗ trợ hô hấp và mức độ, bắt đầu thông khí bảo vệ phổi, và điều trị nguyên nhân.",
+    "Nếu không có yếu tố nguy cơ, hoặc yếu tố nguy cơ không giải thích đủ bệnh cảnh, định nghĩa Berlin và định nghĩa 2024 đều yêu cầu đánh giá khách quan nguyên nhân tim, thường là siêu âm tim.",
+    "Đồng thời, chủ động tìm các bệnh giả ARDS bằng CT ngực, nội soi phế quản rửa phế quản phế nang, và hiếm khi là sinh thiết phổi.",
+    "Và luôn đánh giá lại sau khi tối ưu máy thở, vì mức độ nặng thay đổi theo PEEP, tư thế và thời gian."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "compare",
+   "chapter": "Chẩn đoán hình ảnh",
+   "title": "Ba công cụ hình ảnh: mạnh và yếu",
+   "ref": "Irwin & Rippe 9e, ch. 163 · Textbook of Critical Care 8e · Matthay 2024",
+   "head": [
+    "Công cụ",
+    "Điểm mạnh",
+    "Hạn chế"
+   ],
+   "widths": "0.9fr 1.8fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "X-quang ngực",
+      "Sẵn có, theo dõi tại giường · điểm RALE (mật độ × mức lan rộng mỗi góc phần tư) có giá trị tiên lượng",
+      "Đồng thuận giữa người đọc thấp · bóng tim, cuống mạch không phân biệt tin cậy với phù do tim"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "CT ngực",
+      "Thấy rõ tổn thương không đồng nhất: vùng lành xen kính mờ, đông đặc vùng phụ thuộc · phát hiện tràn khí, áp xe, bệnh giả ARDS",
+      "Phải vận chuyển người bệnh nặng · vùng “lành” trên CT vẫn viêm trên PET"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Siêu âm phổi",
+      "Tại giường, lặp lại được · tốt hơn nghe phổi và X-quang, tương đương CT để phân biệt ARDS với phù do tim",
+      "Phụ thuộc người làm · không thấy căng giãn quá mức · cần đào tạo"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Chúng ta có ba công cụ hình ảnh. X-quang ngực sẵn có và theo dõi được tại giường. Điểm RALE, đánh giá mật độ và mức lan rộng của tổn thương ở từng góc phần tư, có giá trị tiên lượng.",
+    "Nhưng đồng thuận giữa người đọc thấp, và các dấu hiệu như kích thước bóng tim hay độ rộng cuống mạch không phân biệt đáng tin cậy ARDS với phù phổi do tim.",
+    "CT ngực cho thấy rõ bản chất không đồng nhất của ARDS: vùng phổi lành xen kẽ kính mờ, đông đặc tập trung ở vùng phụ thuộc trọng lực. CT còn phát hiện tràn khí, áp xe và các bệnh giả ARDS.",
+    "Hạn chế là phải vận chuyển người bệnh nặng, và nghiên cứu PET cho thấy ngay cả những vùng trông lành trên CT vẫn có viêm.",
+    "Siêu âm phổi thực hiện tại giường, lặp lại được, tốt hơn nghe phổi và X-quang, và theo Irwin và Rippe, có giá trị tương đương CT để phân biệt ARDS với phù phổi do tim.",
+    "Hạn chế là phụ thuộc người làm, và không phát hiện được căng giãn quá mức. Đó là lý do định nghĩa 2024 nhấn mạnh người làm siêu âm phải được đào tạo tốt."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "media",
+   "chapter": "Chẩn đoán hình ảnh",
+   "title": "X-quang: ARDS hay phù phổi do tim?",
+   "ref": "Ảnh Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/nmba2026/raw/ards.png",
+     "ar": 1.135,
+     "at": 0,
+     "cap": "ARDS: mờ lan toả hai phổi",
+     "credit": "Ảnh: James Heilman, MD · CC BY-SA 3.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 10,
+       "t": "Lan toả, cả ngoại vi",
+       "c": "coral",
+       "at": 1
+      }
+     ]
+    },
+    {
+     "src": "../../media/ards/raw/cxr_cardiogenic.jpg",
+     "ar": 1.0,
+     "at": 2,
+     "cap": "Phù phổi cấp do tim (phim tại giường)",
+     "credit": "Ảnh: Frank Gaillard, Jeremy Jones · CC BY-SA 3.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 35,
+       "y": 42,
+       "r": 13,
+       "c": "amber",
+       "at": 3
+      },
+      {
+       "type": "circle",
+       "x": 66,
+       "y": 42,
+       "r": 13,
+       "c": "amber",
+       "at": 3
+      },
+      {
+       "type": "label",
+       "x": 50,
+       "y": 10,
+       "t": "Ưu thế quanh rốn phổi",
+       "c": "amber",
+       "at": 3
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CẢNH BÁO",
+     "t": "Các khác biệt này chỉ là gợi ý · không loại trừ hay khẳng định ARDS trên một phim",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "So sánh hai phim. Bên trái là ARDS, mờ lan toả hai phổi, lan cả ra ngoại vi.",
+    "Trong ARDS, thâm nhiễm thường không đồng nhất lúc đầu, rồi đồng nhất dần sau vài giờ đến vài ngày.",
+    "Bên phải là phù phổi cấp do tim, chụp tại giường.",
+    "Thâm nhiễm ưu thế quanh rốn phổi hai bên, hình ảnh gợi ý tăng áp lực thuỷ tĩnh.",
+    "Nhưng xin nhấn mạnh: đây chỉ là gợi ý. Hai tình trạng thường chồng lấp, và không thể khẳng định hay loại trừ ARDS chỉ dựa trên một phim X-quang."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "media",
+   "chapter": "Chẩn đoán hình ảnh",
+   "title": "CT: tổn thương không đồng nhất",
+   "ref": "Ảnh Wikimedia Commons · Irwin & Rippe 9e",
+   "panels": [
+    {
+     "src": "../../media/ards/raw/ct_covid_ax3.jpg",
+     "ar": 1.173,
+     "at": 0,
+     "cap": "Viêm phổi COVID-19, nam 74 tuổi: CT ngang, cửa sổ phổi",
+     "credit": "Ảnh: Hellerhoff · CC BY-SA 3.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 17,
+       "y": 55,
+       "r": 9,
+       "c": "amber",
+       "at": 1
+      },
+      {
+       "type": "label",
+       "x": 30,
+       "y": 8,
+       "t": "Kính mờ ngoại vi",
+       "c": "amber",
+       "at": 1
+      },
+      {
+       "type": "circle",
+       "x": 24,
+       "y": 79,
+       "r": 9,
+       "c": "coral",
+       "at": 2
+      },
+      {
+       "type": "circle",
+       "x": 74,
+       "y": 79,
+       "r": 9,
+       "c": "coral",
+       "at": 2
+      },
+      {
+       "type": "label",
+       "x": 50,
+       "y": 93,
+       "t": "Đặc hơn ở vùng phía lưng",
+       "c": "coral",
+       "at": 2
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "PHÂN BỐ",
+     "t": "Vùng lành – kính mờ – đông đặc xen kẽ, đông đặc tập trung vùng phụ thuộc trọng lực",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "PET",
+     "t": "Vùng trông lành trên CT vẫn có hoạt động viêm",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "tag": "HÌNH THÁI",
+     "t": "Khu trú (đông đặc phía lưng) hay không khu trú (lan toả) → khác nhau về đáp ứng PEEP, huy động",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Đây là một lát CT ngang của người bệnh viêm phổi COVID-19 nặng.",
+    "Quý vị thấy kính mờ ở vùng ngoại vi,",
+    "và tổn thương đặc hơn ở vùng phía lưng, vùng phụ thuộc trọng lực khi người bệnh nằm ngửa. Đây chính là hình ảnh thực tế của mô hình phổi em bé ở Phần 1.",
+    "Điều đáng chú ý là nghiên cứu PET cho thấy cả những vùng trông bình thường trên CT vẫn có hoạt động viêm.",
+    "Hình thái CT còn chia ARDS thành dạng khu trú, với đông đặc chủ yếu ở phía lưng, và dạng không khu trú, lan toả. Hai dạng này được giả thuyết là đáp ứng khác nhau với PEEP và huy động phế nang, như chúng ta sẽ thấy trong thử nghiệm LIVE ở phần sau của bài."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "media",
+   "chapter": "Siêu âm phổi",
+   "title": "Siêu âm phổi: đường A và đường B",
+   "ref": "Video Wikimedia Commons (Gargani L, Cardiovasc Ultrasound 2011)",
+   "panels": [
+    {
+     "seq": "../../media/ards/gargani_s1/f_%03d.jpg",
+     "n": 45,
+     "fps": 15,
+     "ar": 0.889,
+     "at": 0,
+     "cap": "Đường A: phổi thông khí",
+     "credit": "Gargani L · CC BY 2.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 14,
+       "t": "Màng phổi",
+       "c": "teal",
+       "at": 1
+      },
+      {
+       "type": "arrow",
+       "x": 50,
+       "y": 44,
+       "dx": 18,
+       "dy": 0,
+       "t": "Đường A",
+       "c": "teal",
+       "at": 1
+      }
+     ]
+    },
+    {
+     "seq": "../../media/ards/gargani_s2/f_%03d.jpg",
+     "n": 44,
+     "fps": 15,
+     "ar": 0.889,
+     "at": 2,
+     "cap": "Nhiều đường B: hội chứng phế nang – mô kẽ",
+     "credit": "Gargani L · CC BY 2.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 92,
+       "t": "Đường B từ màng phổi xuống đáy",
+       "c": "coral",
+       "at": 3
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐƯỜNG A",
+     "t": "Ảnh lặp ngang của màng phổi · phổi chứa khí",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "ĐƯỜNG B",
+     "t": "Vệt sáng dọc từ màng phổi, chạy hết chiều sâu, xoá đường A · tăng nước ngoài mạch phổi",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "KHÔNG ĐẶC HIỆU",
+     "t": "Gặp cả trong ARDS và phù phổi do tim → cần xem phân bố, màng phổi, đông đặc",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "notes_w": 540,
+   "lines": [
+    "Hãy làm quen hai hình ảnh cơ bản của siêu âm phổi. Bên trái là phổi thông khí bình thường.",
+    "Dưới màng phổi là các đường A, ảnh lặp nằm ngang của chính màng phổi, xuất hiện khi phổi chứa khí.",
+    "Bên phải là hình ảnh nhiều đường B.",
+    "Đường B là các vệt sáng thẳng đứng xuất phát từ màng phổi, chạy hết chiều sâu màn hình, di động theo nhịp thở và xoá đường A. Nhiều đường B gọi là hội chứng phế nang – mô kẽ, tương quan với tăng lượng nước ngoài mạch phổi.",
+    "Nhưng đường B không đặc hiệu: gặp cả trong ARDS, nơi tính thấm tăng, và trong phù phổi do tim, nơi áp lực nhĩ trái tăng. Để phân biệt, quý vị phải nhìn thêm phân bố, màng phổi và đông đặc."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "compare",
+   "chapter": "Siêu âm phổi",
+   "title": "Siêu âm phổi – tim: ARDS hay phù phổi do tim?",
+   "ref": "Irwin & Rippe 9e, ch. 163",
+   "head": [
+    "Dấu hiệu",
+    "Gợi ý ARDS",
+    "Gợi ý phù phổi do tim"
+   ],
+   "widths": "1fr 1.5fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "Phân bố đường B",
+      "<b>Không đồng nhất</b>, xen kẽ vùng phổi lành",
+      "<b>Đồng nhất</b>, lan toả hai bên"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Đường màng phổi",
+      "Dày, không đều, mất trượt từng vùng",
+      "Mịn, đều"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Đông đặc",
+      "Đông đặc dưới màng phổi, vùng phụ thuộc",
+      "Thường không có"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Tim – tĩnh mạch chủ dưới",
+      "Chức năng thất trái thường bảo tồn",
+      "Giảm chức năng thất trái · tràn dịch màng phổi trái · tĩnh mạch chủ dưới giãn"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bảng này tóm tắt cách kết hợp siêu âm phổi và siêu âm tim theo Irwin và Rippe. Trong ARDS, đường B phân bố không đồng nhất, xen kẽ những vùng phổi lành.",
+    "Đường màng phổi dày, không đều, có thể mất dấu hiệu trượt từng vùng.",
+    "Và thường có đông đặc dưới màng phổi, nhất là vùng phụ thuộc. Tổ hợp ba dấu hiệu này dự báo mạnh ARDS.",
+    "Ngược lại, đường B đồng nhất, màng phổi mịn, không đông đặc, kèm giảm chức năng thất trái, tràn dịch màng phổi trái và tĩnh mạch chủ dưới giãn, gợi ý mạnh phù phổi do tim. Siêu âm tim nâng cao với Doppler mô có thể ước tính áp lực nhĩ trái khi vẫn còn nghi ngờ."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "stats",
+   "chapter": "Phân biệt với phù do tim",
+   "title": "Vì sao phân biệt với phù do tim khó?",
+   "ref": "Textbook of Critical Care 8e, ch. 60",
+   "tiles": [
+    {
+     "tag": "FACTT",
+     "v": 29,
+     "suf": "%",
+     "l": "người bệnh ARDS có áp lực bít > 18 mmHg",
+     "d": "khi đặt catheter động mạch phổi",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "NHƯNG",
+     "v": 97,
+     "suf": "%",
+     "l": "có chỉ số tim bình thường hoặc tăng",
+     "d": "→ không phải suy tim lâm sàng",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "cols": 2,
+   "h": 400,
+   "note": {
+    "t": "BNP lúc nhập viện không phân biệt tin cậy, không tương quan huyết động xâm lấn · NT-proBNP cũng tăng trong ARDS · hai tình trạng <b>có thể cùng tồn tại</b>",
+    "at": 2,
+    "c": "violet"
+   },
+   "lines": [
+    "Vì sao phân biệt ARDS với phù phổi do tim lại khó? Trong thử nghiệm FACTT, 29 phần trăm người bệnh được chẩn đoán lâm sàng là ARDS có áp lực mao mạch phổi bít trên 18 milimét thuỷ ngân khi đặt catheter.",
+    "Nhưng 97 phần trăm trong số đó có chỉ số tim bình thường hoặc tăng, tức là không có suy tim lâm sàng. Áp lực đổ đầy cao và ARDS có thể cùng tồn tại.",
+    "BNP cũng không giúp được nhiều. BNP lúc nhập viện không phân biệt tin cậy hai tình trạng và không tương quan với huyết động xâm lấn, NT-proBNP cũng tăng trong ARDS.",
+    "Vì vậy, định nghĩa Berlin và định nghĩa 2024 không đòi hỏi phải loại trừ tuyệt đối phù do tim. Chỉ khi yếu tố nguy cơ không giải thích đủ bệnh cảnh, mới cần đánh giá khách quan bằng siêu âm tim."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "Bệnh giả ARDS",
+   "title": "Những bệnh giả ARDS không được bỏ sót",
+   "ref": "Textbook of Critical Care 8e, Bảng 60.2 · Murray & Nadel 7e",
+   "head": [
+    "Bệnh",
+    "Gợi ý hình ảnh",
+    "Xét nghiệm giúp chẩn đoán"
+   ],
+   "widths": "1.2fr 1.8fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "Xuất huyết phế nang lan toả",
+      "Thâm nhiễm phế nang và kính mờ hai bên",
+      "Rửa phế quản phế nang tuần tự: dịch hồng tăng dần"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Viêm phổi tăng bạch cầu ái toan cấp",
+      "Kính mờ, dày vách, tràn dịch",
+      "Rửa phế quản phế nang: bạch cầu ái toan tăng · đáp ứng corticoid"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Bệnh protein phế nang",
+      "Hình cánh dơi, “lát đá vỉa” trên CT",
+      "CT độ phân giải cao, rửa phế quản phế nang nhuộm PAS"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Viêm phổi kẽ cấp",
+      "Kính mờ, dày vách, giãn phế quản co kéo",
+      "Không có nguyên nhân ARDS · sinh thiết"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Viêm phổi tổ chức hoá · đợt cấp xơ phổi vô căn",
+      "Thâm nhiễm ngoại vi, di chuyển · kính mờ trên nền xơ",
+      "Sinh thiết xuyên phế quản · CT nền xơ"
+     ],
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Phần quan trọng nhất của chẩn đoán phân biệt là các bệnh giả ARDS, vì chúng có điều trị đặc hiệu. Đứng đầu là xuất huyết phế nang lan toả: thâm nhiễm phế nang và kính mờ hai bên, rửa phế quản phế nang tuần tự cho dịch ngày càng hồng hơn.",
+    "Viêm phổi tăng bạch cầu ái toan cấp: dịch rửa phế quản phế nang có bạch cầu ái toan tăng, đáp ứng rất tốt với corticoid.",
+    "Bệnh protein phế nang: hình cánh dơi trên X-quang, hình lát đá vỉa trên CT, chẩn đoán bằng rửa phế quản phế nang nhuộm PAS.",
+    "Viêm phổi kẽ cấp: kính mờ, dày vách, giãn phế quản co kéo, không tìm thấy nguyên nhân ARDS, thường cần sinh thiết.",
+    "Và viêm phổi tổ chức hoá với thâm nhiễm ngoại vi di chuyển, cùng đợt cấp xơ phổi vô căn với kính mờ chồng lên nền xơ. Bên cạnh đó, đừng quên viêm phổi do thuốc và nhiễm trùng cơ hội ở người suy giảm miễn dịch."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "media",
+   "chapter": "Bệnh giả ARDS",
+   "title": "Hình “lát đá vỉa” trên CT",
+   "ref": "Ảnh Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/ards/raw/ct_crazy_paving.jpg",
+     "ar": 1.418,
+     "at": 0,
+     "cap": "Hình lát đá vỉa: kính mờ chồng lên dày vách liên tiểu thuỳ",
+     "credit": "Ảnh: Rajanshu Verma và cs. · CC BY 4.0 · Wikimedia Commons",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 30,
+       "y": 42,
+       "r": 10,
+       "c": "amber",
+       "at": 1
+      },
+      {
+       "type": "circle",
+       "x": 75,
+       "y": 45,
+       "r": 10,
+       "c": "amber",
+       "at": 1
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "HÌNH ẢNH",
+     "t": "Kính mờ + dày vách liên tiểu thuỳ → giống những viên đá lát đường",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "KINH ĐIỂN",
+     "t": "Bệnh protein phế nang",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "NHƯNG",
+     "t": "Không đặc hiệu: gặp cả trong ARDS, viêm phổi, xuất huyết phế nang",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Đây là ví dụ hình lát đá vỉa trên CT.",
+    "Kính mờ chồng lên các vách liên tiểu thuỳ dày, tạo hình ảnh giống những viên đá lát đường.",
+    "Hình ảnh này kinh điển cho bệnh protein phế nang,",
+    "nhưng không đặc hiệu: có thể gặp trong chính ARDS, viêm phổi nhiễm khuẩn, xuất huyết phế nang. Một lần nữa, hình ảnh gợi ý hướng đi, còn chẩn đoán cần thêm bệnh cảnh và xét nghiệm."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "cards",
+   "chapter": "Thủ thuật xâm lấn",
+   "title": "Khi nào nội soi phế quản, khi nào sinh thiết?",
+   "ref": "Textbook of Critical Care 8e, ch. 60",
+   "cards": [
+    {
+     "tag": "NỘI SOI · RỬA PQ PHẾ NANG",
+     "t": "Thủ thuật hay dùng nhất",
+     "items": [
+      "Không có yếu tố nguy cơ rõ",
+      "Người bệnh suy giảm miễn dịch",
+      "Tìm tác nhân, nhiễm trùng cơ hội",
+      "Xuất huyết phế nang, bạch cầu ái toan, PAS"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "SINH THIẾT PHỔI",
+     "t": "Chọn lọc kỹ",
+     "items": [
+      "Thay đổi xử trí: 73% (phân tích gộp)",
+      "Biến chứng sau mổ: 22–35%",
+      "Chẩn đoán bất ngờ: 40–60% (lao kê, nấm…)"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "MÔ BỆNH HỌC THỰC TẾ",
+     "t": "ARDS lâm sàng rất đa dạng",
+     "items": [
+      "Tổn thương phế nang lan toả 48%",
+      "Xơ phổi 39%",
+      "Viêm phổi tổ chức hoá 24%"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Khi nào cần thủ thuật xâm lấn? Nội soi phế quản và rửa phế quản phế nang là thủ thuật hay dùng nhất, có chỉ định trong giai đoạn sớm khi không có yếu tố nguy cơ rõ ràng, và ở người bệnh suy giảm miễn dịch.",
+    "Nó giúp tìm tác nhân gây viêm phổi, đặc biệt nhiễm trùng cơ hội, và đôi khi tìm ra một chẩn đoán điều trị được như viêm phổi tăng bạch cầu ái toan, bệnh protein phế nang hay xuất huyết phế nang.",
+    "Sinh thiết phổi mở hay nội soi lồng ngực phải chọn lọc rất kỹ. Một phân tích gộp cho thấy sinh thiết ở người bệnh được chọn lọc làm thay đổi xử trí trong 73 phần trăm trường hợp, nhưng biến chứng sau mổ gặp ở 22 đến 35 phần trăm. Các loạt ca hồi cứu ghi nhận 40 đến 60 phần trăm có chẩn đoán bất ngờ cần điều trị đặc hiệu như lao kê, nấm, viêm phổi tổ chức hoá.",
+    "Và mô bệnh học của ARDS lâm sàng rất đa dạng: một nghiên cứu sinh thiết thấy tổn thương phế nang lan toả 48 phần trăm, xơ phổi 39 phần trăm và viêm phổi tổ chức hoá 24 phần trăm."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: mờ hai phổi không có yếu tố nguy cơ",
+   "ref": "Ca minh hoạ · áp dụng Textbook of Critical Care 8e",
+   "case": "Nữ 35 tuổi, khó thở 3 ngày, ho ra ít máu. Không sốt cao, không hít sặc, không chấn thương. Hb giảm <b>3 g/dL</b> trong 24 giờ, X-quang mờ hai phổi, thở máy P/F <b>120</b>. Siêu âm tim bình thường.",
+   "q": "Bước tiếp theo quan trọng nhất?",
+   "options": [
+    "Chẩn đoán ARDS nặng, chỉ cần thông khí bảo vệ phổi",
+    "Nội soi phế quản, rửa phế quản phế nang tuần tự",
+    "Đặt catheter động mạch phổi đo áp lực bít",
+    "Sinh thiết phổi mở ngay"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Không có yếu tố nguy cơ ARDS + ho ra máu + Hb giảm → nghĩ <b>xuất huyết phế nang lan toả</b> · rửa PQ phế nang tuần tự (dịch hồng tăng dần) · tìm nguyên nhân miễn dịch để điều trị đặc hiệu · vẫn thông khí bảo vệ phổi",
+   "lines": [
+    "Tình huống thứ nhất. Một phụ nữ 35 tuổi, khó thở 3 ngày, ho ra ít máu, không sốt cao, không hít sặc, không chấn thương. Hemoglobin giảm 3 gam mỗi đề xi lít trong 24 giờ. X-quang mờ hai phổi, thở máy với PaO₂/FiO₂ 120, siêu âm tim bình thường.",
+    "Bước tiếp theo quan trọng nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh không có yếu tố nguy cơ ARDS, lại có ho ra máu và hemoglobin giảm nhanh. Cần nghĩ ngay đến xuất huyết phế nang lan toả. Nội soi phế quản rửa phế quản phế nang tuần tự, nếu dịch ngày càng hồng thì gần như khẳng định.",
+    "Sau đó tìm nguyên nhân như viêm mạch, bệnh tự miễn, rối loạn đông máu để điều trị đặc hiệu, trong khi vẫn thông khí bảo vệ phổi. Đặt catheter động mạch phổi không cần thiết khi siêu âm tim đã bình thường, và sinh thiết mở là bước cuối cùng chứ không phải đầu tiên."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "cards",
+   "chapter": "Phân nhóm",
+   "title": "Phân nhóm: bốn khái niệm cần phân biệt",
+   "ref": "ESICM 2023, Câu hỏi 2.1",
+   "cards": [
+    {
+     "tag": "PHENOTYPE",
+     "t": "Kiểu hình",
+     "d": "Tập hợp đặc điểm quan sát được do kiểu gen tương tác với môi trường · ARDS là một kiểu hình",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "SUBGROUP",
+     "t": "Phân nhóm theo ngưỡng",
+     "d": "Cắt theo một ngưỡng tuỳ ý, người bệnh dễ “nhảy nhóm” · ví dụ: nhẹ, vừa, nặng theo P/F",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "SUB-PHENOTYPE",
+     "t": "Phân nhóm kiểu hình",
+     "d": "Phân biệt tin cậy dựa trên nhiều đặc điểm, thường bằng phân tích dữ liệu · phải tái lập được ở quần thể khác",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "ENDOTYPE",
+     "t": "Nội kiểu hình",
+     "d": "Phân nhóm có cơ chế bệnh sinh riêng, lý tưởng là đáp ứng khác với điều trị nhắm trúng đích",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bây giờ chúng ta chuyển sang phân nhóm. Hướng dẫn ESICM 2023 đưa ra bốn khái niệm cần phân biệt. Thứ nhất, kiểu hình, hay phenotype, là tập hợp đặc điểm quan sát được do kiểu gen tương tác với môi trường. ARDS chính là một kiểu hình.",
+    "Thứ hai, phân nhóm theo ngưỡng, cắt theo một giá trị tuỳ ý như mức độ nhẹ, vừa, nặng theo PaO₂/FiO₂. Người bệnh nằm sát ngưỡng dễ nhảy từ nhóm này sang nhóm khác.",
+    "Thứ ba, phân nhóm kiểu hình, hay sub-phenotype, được phân biệt tin cậy dựa trên nhiều đặc điểm, thường bằng phân tích dữ liệu, và phải tái lập được ở quần thể khác.",
+    "Và thứ tư, nội kiểu hình, hay endotype, là phân nhóm có cơ chế bệnh sinh riêng, lý tưởng nhất là đáp ứng khác biệt với một điều trị nhắm trúng đích. Đây chính là đích đến của y học chính xác trong ARDS."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "compare",
+   "chapter": "Phân nhóm",
+   "title": "Năm cách phân nhóm ARDS và giá trị tiên lượng",
+   "ref": "ESICM 2023, Câu hỏi 2.4 · Textbook of Critical Care 8e",
+   "head": [
+    "Dựa trên",
+    "Các nhóm",
+    "Tử vong cao hơn ở"
+   ],
+   "widths": "1fr 1.6fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "Nguyên nhân",
+      "Trực tiếp (phổi) · gián tiếp (ngoài phổi)",
+      "Không khác biệt trong nghiên cứu lớn nhất"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Hình thái hình ảnh",
+      "Khu trú · không khu trú",
+      "Không khu trú"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Khả năng huy động",
+      "Huy động được · không huy động được",
+      "Huy động được"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Sinh học (dấu ấn viêm)",
+      "Giảm viêm · tăng viêm",
+      "Tăng viêm"
+     ],
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Diễn tiến theo thời gian",
+      "Quỹ đạo tỉ số thông khí, năng lượng cơ học",
+      "Quỹ đạo đi lên"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Có ít nhất năm cách phân nhóm ARDS. Theo nguyên nhân, trực tiếp hay gián tiếp: dấu ấn sinh học khác nhau, nhưng trong nghiên cứu lớn nhất, tử vong không khác.",
+    "Theo hình thái hình ảnh: dạng không khu trú có tử vong cao hơn dạng khu trú.",
+    "Theo khả năng huy động phế nang: nhóm huy động được, nghịch lý thay, có tử vong cao hơn, vì đó thường là nhóm có nhiều phổi bị tổn thương hơn.",
+    "Theo sinh học: nhóm tăng viêm có tử vong cao hơn nhóm giảm viêm.",
+    "Và theo diễn tiến: những người bệnh có tỉ số thông khí và năng lượng cơ học tăng dần theo thời gian có tử vong cao hơn nhóm ổn định. Đây là giá trị tiên lượng, hay làm giàu tiên lượng. Câu hỏi khó hơn là: các nhóm có đáp ứng khác nhau với điều trị không?"
+   ]
+  },
+  {
+   "id": "s16",
+   "layout": "cards",
+   "chapter": "Tăng viêm và giảm viêm",
+   "title": "Phenotype tăng viêm và giảm viêm (Calfee)",
+   "ref": "Murray & Nadel 7e · Textbook of Critical Care 8e",
+   "cards": [
+    {
+     "tag": "PHƯƠNG PHÁP",
+     "t": "Phân tích lớp tiềm ẩn",
+     "items": [
+      "Dữ liệu lâm sàng + 8 protein huyết tương",
+      "ARMA, ALVEOLI → mô hình 2 lớp phù hợp nhất",
+      "Tái lập ở 5 quần thể độc lập"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "GIẢM VIÊM",
+     "t": "Phenotype 1",
+     "items": [
+      "IL-6, IL-8, sTNFR-1, PAI-1 thấp",
+      "Huyết áp cao hơn, ít vận mạch",
+      "Hay gặp chấn thương"
+     ],
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "TĂNG VIÊM",
+     "t": "Phenotype 2",
+     "items": [
+      "Dấu ấn viêm cao, protein C thấp, bicarbonate thấp",
+      "Nhịp nhanh, tụt huyết áp, nhiễm khuẩn huyết",
+      "Thở máy lâu hơn, tử vong cao hơn"
+     ],
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "RÚT GỌN",
+     "t": "Ba biến số",
+     "items": [
+      "IL-8 · protein C · bicarbonate",
+      "Dấu ấn sinh học quyết định hơn lâm sàng",
+      "→ khó nhận biết tại giường"
+     ],
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Phân nhóm được nghiên cứu nhiều nhất là tăng viêm và giảm viêm của Calfee. Dùng phân tích lớp tiềm ẩn trên dữ liệu lâm sàng và tám protein huyết tương từ thử nghiệm ARMA và ALVEOLI, mô hình hai lớp phù hợp nhất, và được tái lập ở năm quần thể độc lập.",
+    "Nhóm giảm viêm có interleukin 6, interleukin 8, thụ thể TNF hoà tan và PAI-1 thấp, huyết áp cao hơn, ít dùng vận mạch, hay gặp ARDS do chấn thương.",
+    "Nhóm tăng viêm có dấu ấn viêm cao, protein C thấp, bicarbonate thấp, nhịp nhanh, tụt huyết áp, hay gặp nhiễm khuẩn huyết, thở máy lâu hơn và tử vong cao hơn.",
+    "Đáng chú ý, dấu ấn sinh học đóng góp vào phân nhóm nhiều hơn biến số lâm sàng, nên rất khó nhận biết bằng mắt tại giường.",
+    "Mô hình sau đó được rút gọn còn ba biến số: interleukin 8, protein C và bicarbonate, mà vẫn phân loại rất tốt. Hai nhóm này còn có kiểu biểu hiện gen khác nhau trong bạch cầu máu."
+   ]
+  },
+  {
+   "id": "s17",
+   "layout": "bars",
+   "chapter": "Tăng viêm và giảm viêm",
+   "title": "Đáp ứng điều trị khác nhau: phân tích lại ALVEOLI và FACTT",
+   "ref": "Murray & Nadel 7e (phân tích thứ cấp, hồi cứu)",
+   "groups": [
+    {
+     "t": "ALVEOLI · giảm viêm",
+     "d": "Tử vong 90 ngày",
+     "at": 0,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "PEEP thấp",
+       "v": 16,
+       "lab": "16%"
+      },
+      {
+       "k": "PEEP cao",
+       "v": 24,
+       "lab": "24%"
+      }
+     ],
+     "note": "PEEP thấp tốt hơn"
+    },
+    {
+     "t": "ALVEOLI · tăng viêm",
+     "d": "Tử vong 90 ngày",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "PEEP cao",
+       "v": 42,
+       "lab": "42%"
+      },
+      {
+       "k": "PEEP thấp",
+       "v": 51,
+       "lab": "51%"
+      }
+     ],
+     "note": "PEEP cao tốt hơn"
+    },
+    {
+     "t": "FACTT · giảm viêm",
+     "d": "Tử vong 90 ngày",
+     "at": 2,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "Dịch tự do",
+       "v": 18,
+       "lab": "18%"
+      },
+      {
+       "k": "Dịch hạn chế",
+       "v": 26,
+       "lab": "26%"
+      }
+     ],
+     "note": "Dịch tự do tốt hơn"
+    },
+    {
+     "t": "FACTT · tăng viêm",
+     "d": "Tử vong 90 ngày",
+     "at": 3,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Dịch hạn chế",
+       "v": 40,
+       "lab": "40%"
+      },
+      {
+       "k": "Dịch tự do",
+       "v": 50,
+       "lab": "50%"
+      }
+     ],
+     "note": "Dịch hạn chế tốt hơn"
+    }
+   ],
+   "max": 60,
+   "h": 560,
+   "notes": [
+    {
+     "tag": "HARP-2",
+     "t": "Simvastatin: lợi ích chỉ ở nhóm tăng viêm (tương tác không có ý nghĩa thống kê theo ESICM)",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "tag": "SAILS",
+     "t": "Rosuvastatin: không khác biệt giữa hai nhóm",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Điều làm khái niệm phân nhóm hấp dẫn là đáp ứng điều trị khác nhau. Khi phân tích lại thử nghiệm ALVEOLI, nhóm giảm viêm có tử vong 90 ngày 16 phần trăm với PEEP thấp, so với 24 phần trăm với PEEP cao.",
+    "Ngược lại, nhóm tăng viêm có tử vong 42 phần trăm với PEEP cao, so với 51 phần trăm với PEEP thấp. Hai nhóm đáp ứng ngược chiều nhau, và khi gộp lại, thử nghiệm gốc cho kết quả trung tính.",
+    "Với thử nghiệm dịch FACTT, nhóm giảm viêm có tử vong 18 phần trăm với chiến lược dịch tự do, so với 26 phần trăm với dịch hạn chế.",
+    "Còn nhóm tăng viêm có tử vong 40 phần trăm với dịch hạn chế, so với 50 phần trăm với dịch tự do.",
+    "Với statin, phân tích lại HARP-2 gợi ý simvastatin chỉ có lợi ở nhóm tăng viêm, dù ESICM lưu ý tương tác không có ý nghĩa thống kê, và phân tích SAILS với rosuvastatin không thấy khác biệt. Tất cả đều là phân tích thứ cấp, hồi cứu, cần được kiểm chứng tiến cứu."
+   ]
+  },
+  {
+   "id": "s18",
+   "layout": "cards",
+   "chapter": "Bài học từ LIVE",
+   "title": "Thử nghiệm LIVE: phân nhóm sai thì điều trị sai",
+   "ref": "ESICM 2023, Câu hỏi 2.2 và 2.3",
+   "cards": [
+    {
+     "tag": "THIẾT KẾ",
+     "t": "Thông khí theo hình thái phổi",
+     "items": [
+      "Khu trú: PEEP thấp + nằm sấp",
+      "Không khu trú: PEEP cao + huy động",
+      "So với thông khí bảo vệ phổi chuẩn"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "KẾT QUẢ",
+     "t": "Phân tích theo ý định điều trị: không lợi ích",
+     "items": [
+      "Phân loại sai hình thái thường gặp",
+      "→ điều trị “lệch” hình thái",
+      "Loại người phân loại sai: có lợi về tử vong 90 ngày"
+     ],
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "BÀI HỌC",
+     "t": "Điều kiện để phân nhóm vào thực hành",
+     "items": [
+      "Có kết quả nhanh, tại chỗ, theo thời gian thực",
+      "Không phụ thuộc người đánh giá",
+      "Ổn định theo thời gian"
+     ],
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Nếu phân nhóm có lợi, sao chưa dùng? Thử nghiệm LIVE trả lời rất rõ. Người bệnh được thông khí theo hình thái phổi: dạng khu trú dùng PEEP thấp và nằm sấp, dạng không khu trú dùng PEEP cao và huy động phế nang, so với thông khí bảo vệ phổi chuẩn.",
+    "Hình thái được xác định chủ yếu trên X-quang.",
+    "Kết quả theo ý định điều trị: không có lợi ích. Lý do là phân loại sai hình thái rất thường gặp, dẫn tới điều trị ngược với hình thái thực.",
+    "Khi loại những người bị phân loại sai, chiến lược cá thể hoá lại cho thấy giảm tử vong 90 ngày.",
+    "Bài học mà ESICM rút ra: muốn đưa phân nhóm vào thực hành, cần xét nghiệm có kết quả nhanh, tại chỗ, theo thời gian thực, không phụ thuộc người đánh giá, và phân nhóm phải đủ ổn định theo thời gian."
+   ]
+  },
+  {
+   "id": "s19",
+   "layout": "stats",
+   "chapter": "Phenotype theo thời gian",
+   "title": "Phenotype theo diễn tiến 4 ngày đầu (Chen 2022)",
+   "ref": "Chen H và cs. Critical Care 2022 · cơ sở dữ liệu CDIC, 605 người bệnh",
+   "tiles": [
+    {
+     "tag": "LỚP 1 · 66,1%",
+     "v": 30.5,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong 28 ngày",
+     "d": "Ít bất thường, ít suy cơ quan",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "LỚP 2 · 16,9%",
+     "v": 47.1,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong 28 ngày",
+     "d": "Rối loạn cơ học phổi: thông khí phút, ΔP, năng lượng cơ học, tỉ số thông khí cao nhất · P/F thấp nhất",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "LỚP 3 · 17%",
+     "v": 56.3,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong 28 ngày",
+     "d": "Rối loạn ngoài phổi: creatinine, lactate cao · bicarbonate, HA trung bình thấp · vận mạch · IL-6 cao nhất",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "cols": 3,
+   "h": 440,
+   "note": {
+    "t": "<b>56,9%</b> người bệnh đổi lớp ít nhất một lần trong 4 ngày đầu · năng lượng cơ học liên quan tử vong rõ nhất ở <b>lớp 2</b>",
+    "at": 4,
+    "c": "violet"
+   },
+   "lines": [
+    "Một hướng mới là phân nhóm theo diễn tiến. Nghiên cứu của Chen và cộng sự năm 2022 trên 605 người bệnh ARDS ở Trung Quốc, dùng dữ liệu mỗi 24 giờ trong 4 ngày đầu thở máy, tìm ra ba lớp.",
+    "Lớp 1 chiếm 66 phần trăm, ít bất thường, ít suy cơ quan, tử vong 28 ngày 30,5 phần trăm.",
+    "Lớp 2 chiếm 17 phần trăm, là kiểu rối loạn cơ học phổi: thông khí phút, driving pressure, năng lượng cơ học và tỉ số thông khí cao nhất, PaO₂/FiO₂ thấp nhất, tử vong 47,1 phần trăm.",
+    "Lớp 3 cũng chiếm 17 phần trăm, là kiểu rối loạn ngoài phổi: creatinine và lactate cao nhất, bicarbonate và huyết áp trung bình thấp nhất, dùng vận mạch nhiều, interleukin 6 cao nhất, tử vong cao nhất, 56,3 phần trăm.",
+    "Hai phát hiện quan trọng: 56,9 phần trăm người bệnh đổi lớp ít nhất một lần trong 4 ngày đầu, tức phenotype là động chứ không tĩnh. Và năng lượng cơ học liên quan với tử vong rõ nhất ở lớp 2, gợi ý đây là nhóm cần chú ý nhất đến thông số máy thở."
+   ]
+  },
+  {
+   "id": "s20",
+   "layout": "compare",
+   "chapter": "Phenotype theo thời gian",
+   "title": "Kiểm chứng trên ALVEOLI và FACTT: đáp ứng ngược chiều",
+   "ref": "Chen H và cs. Critical Care 2022 · phân tích hồi cứu",
+   "head": [
+    "Thử nghiệm",
+    "Lớp 2 · rối loạn cơ học phổi",
+    "Lớp 3 · rối loạn ngoài phổi"
+   ],
+   "widths": "1fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "ALVEOLI · tử vong 60 ngày",
+      "PEEP thấp <b>23,6%</b> · PEEP cao 54,2%",
+      "PEEP cao <b>30,9%</b> · PEEP thấp 41,6%"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "FACTT · tử vong 60 ngày",
+      "Dịch hạn chế <b>30,8%</b> · dịch tự do 39,3%",
+      "Dịch tự do <b>35,6%</b> · dịch hạn chế 58,5%"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Mô hình rút gọn",
+      "Năng lượng cơ học, tỉ số thông khí, tần số thở, pH (ngày 0)",
+      "Phân loại lớp 3 kém nhất (AUROC 0,67)"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khi áp dụng ba lớp này vào dữ liệu các thử nghiệm của mạng lưới ARDS, Chen tìm thấy đáp ứng điều trị ngược chiều. Trong ALVEOLI, lớp 2 có tử vong 60 ngày 23,6 phần trăm với PEEP thấp, so với 54,2 phần trăm với PEEP cao.",
+    "Ngược lại, lớp 3 có tử vong thấp hơn với PEEP cao, 30,9 so với 41,6 phần trăm.",
+    "Trong FACTT, lớp 2 có lợi với dịch hạn chế, 30,8 so với 39,3 phần trăm,",
+    "còn lớp 3, nhóm sốc và suy cơ quan ngoài phổi, lại có lợi rõ với dịch tự do, 35,6 so với 58,5 phần trăm.",
+    "Tác giả xây dựng mô hình rút gọn chỉ dùng năng lượng cơ học, tỉ số thông khí, tần số thở và pH, phân loại tốt lớp 1 và lớp 2, nhưng kém với lớp 3. Xin nhấn mạnh: đây là phân tích hồi cứu, kết quả gợi ý giả thuyết, chưa phải căn cứ để chỉnh PEEP hay dịch cho từng người bệnh."
+   ]
+  },
+  {
+   "id": "s21",
+   "layout": "cards",
+   "chapter": "Tiên lượng tại giường",
+   "title": "Chỉ số tiên lượng có thể dùng tại giường",
+   "ref": "Textbook of Critical Care 8e, ch. 60 · Murray & Nadel 7e",
+   "cards": [
+    {
+     "tag": "CƠ HỌC – TRAO ĐỔI KHÍ",
+     "t": "Từ máy thở và khí máu",
+     "items": [
+      "Phân suất khoảng chết, tỉ số thông khí",
+      "Driving pressure cao",
+      "PaCO₂ > 50 mmHg"
+     ],
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "LÂM SÀNG",
+     "t": "Từ bệnh cảnh",
+     "items": [
+      "Tuổi cao, bệnh gan mạn, ung thư huyết học",
+      "Suy cơ quan ngoài phổi, sốc",
+      "Cân bằng dịch dương ngày 4"
+     ],
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "CÓ THỂ THAY ĐỔI",
+     "t": "LUNG SAFE",
+     "items": [
+      "PEEP thấp",
+      "Áp lực bình nguyên, driving pressure cao",
+      "Tần số thở cao"
+     ],
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Trong khi chờ phân nhóm sinh học trở thành công cụ thực hành, chúng ta có những chỉ số tiên lượng ngay tại giường. Từ máy thở và khí máu: phân suất khoảng chết, tỉ số thông khí, driving pressure cao, và tăng CO₂ nặng trên 50 milimét thuỷ ngân.",
+    "Tỉ số thông khí là thông khí phút thực tế nhân PaCO₂, so với giá trị dự đoán của người bình thường cùng cân nặng lý tưởng, phản ánh khoảng chết. Đây là kiến thức bổ sung để quý vị dễ hình dung.",
+    "Từ bệnh cảnh: tuổi cao, bệnh gan mạn, ung thư huyết học, suy cơ quan ngoài phổi, và cân bằng dịch dương vào ngày thứ 4.",
+    "Và quan trọng nhất, LUNG SAFE xác định các yếu tố tiên lượng có thể thay đổi được: PEEP thấp, áp lực bình nguyên và driving pressure cao, tần số thở cao. Đây chính là những thứ chúng ta điều chỉnh trên máy thở, và là chủ đề của Phần 3 và Phần 4."
+   ]
+  },
+  {
+   "id": "s22",
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: biết phenotype rồi, điều trị gì?",
+   "ref": "Ca minh hoạ · áp dụng ESICM 2023",
+   "case": "Nam 58 tuổi, viêm phổi → sốc nhiễm khuẩn, ARDS vừa. Nghiên cứu viên báo: xét nghiệm IL-8, protein C, bicarbonate xếp vào <b>phenotype tăng viêm</b>.",
+   "q": "Theo ESICM 2023, nên làm gì?",
+   "options": [
+    "Chọn PEEP cao vì phenotype tăng viêm",
+    "Dùng simvastatin",
+    "Điều trị theo khuyến cáo chung · phân nhóm hiện dùng cho nghiên cứu",
+    "Hạn chế dịch tối đa ngay từ đầu"
+   ],
+   "answer": 2,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Bằng chứng phân nhóm đến từ <b>phân tích thứ cấp</b>, chưa kiểm chứng tiến cứu · ESICM 2023 chưa khuyến cáo dùng phân nhóm để chọn điều trị · cần xét nghiệm nhanh, chính xác và thử nghiệm tiến cứu",
+   "lines": [
+    "Tình huống thứ hai. Một người đàn ông 58 tuổi, viêm phổi dẫn đến sốc nhiễm khuẩn, ARDS mức độ vừa. Nghiên cứu viên báo kết quả: dựa trên interleukin 8, protein C và bicarbonate, người bệnh thuộc phenotype tăng viêm.",
+    "Theo ESICM 2023, quý vị nên làm gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là C. Toàn bộ bằng chứng về đáp ứng điều trị khác nhau giữa các phân nhóm đến từ phân tích thứ cấp, hồi cứu, chưa được kiểm chứng tiến cứu. ESICM 2023 chưa khuyến cáo dùng phân nhóm để chọn PEEP, dịch hay thuốc.",
+    "Người bệnh này được điều trị theo các khuyến cáo chung mà chúng ta sẽ học ở các phần sau. Phân nhóm hiện là công cụ cho nghiên cứu, với mục tiêu tương lai là các thử nghiệm làm giàu theo phenotype."
+   ]
+  },
+  {
+   "id": "s23",
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Nhận diện hội chứng + tìm nguyên nhân",
+     "d": "Đừng để chẩn đoán không chắc chắn làm chậm thông khí bảo vệ phổi",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Hình ảnh gợi ý, không khẳng định",
+     "d": "X-quang kém đồng thuận · CT thấy không đồng nhất · siêu âm phổi – tim tại giường rất giá trị",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "ARDS và phù do tim có thể cùng tồn tại",
+     "d": "Áp lực bít > 18 mmHg ở 29% ARDS · BNP không phân biệt",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Luôn nghĩ đến bệnh giả ARDS",
+     "d": "Xuất huyết phế nang, viêm phổi bạch cầu ái toan, protein phế nang… · rửa PQ phế nang khi không có yếu tố nguy cơ",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "t": "Phân nhóm có giá trị tiên lượng và gợi ý đáp ứng khác nhau",
+     "d": "Tăng viêm – giảm viêm · hình thái · diễn tiến theo thời gian",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "t": "Nhưng chưa dùng để chọn điều trị",
+     "d": "Cần xét nghiệm nhanh, chính xác và thử nghiệm tiến cứu",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết sáu thông điệp. Một, chẩn đoán ARDS là nhận diện hội chứng để bảo vệ phổi ngay, đồng thời tìm nguyên nhân để điều trị đặc hiệu.",
+    "Hai, hình ảnh chỉ gợi ý: X-quang kém đồng thuận, CT cho thấy tổn thương không đồng nhất, siêu âm phổi kết hợp siêu âm tim tại giường rất có giá trị.",
+    "Ba, ARDS và phù phổi do tim có thể cùng tồn tại, và BNP không giúp phân biệt.",
+    "Bốn, luôn nghĩ đến bệnh giả ARDS, nhất là khi không có yếu tố nguy cơ, và đừng ngần ngại nội soi rửa phế quản phế nang.",
+    "Năm, phân nhóm ARDS có giá trị tiên lượng và gợi ý đáp ứng điều trị khác nhau.",
+    "Sáu, nhưng hiện chưa dùng phân nhóm để chọn điều trị cho từng người bệnh. Ở Phần 3, chúng ta bước vào trọng tâm của loạt bài: thông khí bảo vệ phổi, với mô phỏng máy thở để quý vị nhìn thấy tận mắt driving pressure. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
