@@ -1,13 +1,23 @@
 ---
-name: video-thuc-hanh-hscc
-description: Video bài giảng thực hành Hồi sức (thở máy; sau mở rộng siêu âm POCUS, thủ thuật) có mô phỏng động chính xác, giọng Adam, dựng qua repo h6972/Video-Y. Quy trình đạo diễn → spec cảnh → subagent dựng → QA. Video guideline/case/bệnh học/sinh lý vẫn dùng video-bai-giang-y-khoa.
+name: "video-thuc-hanh-hscc"
+description: "Video bài giảng thực hành Hồi sức (thở máy; sau mở rộng siêu âm POCUS, thủ thuật) có mô phỏng động chính xác, giọng Adam, dựng qua repo h6972/Video-Y. Video guideline/case/bệnh học/sinh lý vẫn dùng video-bai-giang-y-khoa."
 ---
 
 # Video thực hành HSCC (skill v2)
 
 Phiên bản nâng cấp, tách riêng khỏi skill `video-bai-giang-y-khoa` (skill gốc giữ nguyên cho guideline, case, bệnh học, sinh lý). Skill này dành cho chủ đề mà người xem cần **thấy** hiện tượng: sóng máy thở, vòng P-V, bất đồng bộ; sau này siêu âm và thủ thuật.
 
-Hạ tầng (repo, workflow dựng, giọng VieNeu **Adam**, thương hiệu **Thư Viện Y Khoa Online**, bài đăng FB/TikTok/YouTube, đưa lên web, lưu Project "Video Y Khoa") dùng **y hệt skill gốc**. Đọc SKILL.md của `video-bai-giang-y-khoa` nếu có trong phiên để lấy chi tiết các bước đó; ở đây chỉ ghi phần khác.
+Hạ tầng (repo, workflow dựng, giọng VieNeu **Adam** cho bài dài và **Mỹ Duyên ×1.15** cho video ngắn, logo và website kênh, thương hiệu **Thư Viện Y Khoa Online**, bài đăng FB/TikTok/YouTube, đưa lên web, lưu Project "Video Y Khoa") dùng **y hệt skill gốc**. Đọc SKILL.md của `video-bai-giang-y-khoa` nếu có trong phiên để lấy chi tiết các bước đó; ở đây chỉ ghi phần khác. Bản lưu của skill này nằm trong repo: `skills/video-thuc-hanh-hscc/SKILL.md`.
+
+## Nhận diện kênh và các nâng cấp dùng chung (áp dụng như skill gốc, cập nhật 27/10/2026)
+- **Logo**: `assets/brand/logo.png` (huy hiệu tròn "THƯ VIỆN Y KHOA ONLINE · Học từ bằng chứng · Ứng dụng vào lâm sàng"). Tự hiện ở đoạn mở, chân trang mọi cảnh, màn hình kết và ảnh bìa (`tools/thumb.py`). Đổi logo bằng cách ghi đè file, giữ tên.
+- **Website**: https://thuvienykhoa.online/ — hiện trên video (đoạn mở, chân trang, màn hình kết); luôn ghi trong bài đăng Facebook, mô tả YouTube và bình luận ghim.
+- **`"brand": {"next": "…"}`** trong mọi script.json: đoạn mở logo 4,2 giây + màn hình kết YouTube 18 giây + nhạc nền tự tổng hợp (~−38 LUFS dưới giọng, `engine/music.py`). Chương đầu vẫn 00:00 (chapters.py bỏ qua 2 cảnh brand).
+- **Đếm ngược** ở `quiz`: `"countdown": {"after": <chỉ số câu "tạm dừng video">, "s": 8}`.
+- **Layout dùng chung thêm**: `stats` (ô số đếm tăng dần), `gauge` (thang điểm cộng dồn), `bars`, `flow`, `media` (ảnh/clip Commons có chú thích) — xem skill gốc.
+- **Ảnh bìa** `tools/thumb.py tools/thumb-<slug>.json`, **phụ đề** `tools/srt.py projects/<dự án> out.srt` (sau khi có audio thật), gửi kèm video.
+- **Video ngắn dọc**: 2 video/phần, `projects/<slug>-ngan-K`, `"format": "vertical"`, giọng **Mỹ Duyên ×1.15** (`"vieneu": {"voice": "Mỹ Duyên", "tempo": 1.15}`; Adam chỉ cho bài dài), `"brand": {"intro": false, "outro_s": 3.5, "next": "Trọn bài giảng: link ở bio · bình luận ghim"}`, cấu trúc `hook` → 1 cảnh nội dung → câu mời xem trọn bài, 45–70 giây. Với thở máy, cảnh nội dung có thể là `vent` đóng băng + 2–3 mark (kiểm tra still khung dọc).
+- **Render**: workflow chỉ dựng dự án đầu tiên trong diff mỗi lần push → các dự án khác commit `[skip ci]` rồi dispatch `gh api -X POST repos/h6972/Video-Y/actions/workflows/render.yml/dispatches -f ref=main -f "inputs[project]=<dự án>"`. Repo công khai → Actions miễn phí. Commit + push mọi file mới trước khi kết thúc lượt.
 
 ## Nguyên tắc cốt lõi
 1. **Mô phỏng là nguồn số liệu.** Mọi con số được đọc lên (P đỉnh, P bình nguyên, ΔP, auto-PEEP, Vt…) phải lấy từ mô phỏng chạy thử, không ước lượng tay. Lời đọc và hình phải khớp.
@@ -87,7 +97,7 @@ Trường mỗi nhịp: `t0, trig ('may'|'bn'), ppeak, pplat, vt, auto (auto-PEE
 ## Lời giảng
 - Như skill gốc: "Thưa quý đồng nghiệp", giải thích vì sao, nhấn bẫy thực hành, 1 tình huống "Quý vị có thể tạm dừng video để suy nghĩ." (layout `quiz`), kết thúc bằng tổng kết và câu chào Thư Viện Y Khoa Online.
 - Mỗi cảnh mô phỏng: câu 1 mô tả bối cảnh, câu 2 "ta đóng băng màn hình", các câu sau đọc từng chi tiết đúng lúc mark hiện.
-- Script: `theme:"may-tho"`, `subtitle:"Thở máy thực hành"`, `part:"Thở máy · Phần N/M"`.
+- Script: `theme:"may-tho"`, `subtitle:"Thở máy thực hành"`, `part:"Thở máy · Phần N/M"`, `brand:{next:"…"}`.
 - Lexicon gợi ý: `{"PEEP":"píp","auto-PEEP":"ô tô píp","Pplat":"pê bình nguyên","Vt":"vê tê","FiO₂":"phi ô hai","COPD":"bệnh phổi tắc nghẽn mạn tính","ARDS":"suy hô hấp cấp tiến triển"}` (sắp khoá dài trước; viết lời đọc ưu tiên chữ đầy đủ).
 
 ## Mở rộng (chưa xây, làm khi người dùng yêu cầu)
