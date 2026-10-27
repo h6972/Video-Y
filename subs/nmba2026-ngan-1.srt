@@ -1,0 +1,31 @@
+1
+00:00:00,700 --> 00:00:06,010
+PaO₂/FiO₂ 140, bệnh nhân chống máy: giãn cơ ngay hay chưa?
+
+2
+00:00:07,460 --> 00:00:13,568
+Suy hô hấp cấp tiến triển ngày đầu, PaO₂/FiO₂ 140, chống máy liên tục,
+
+3
+00:00:13,418 --> 00:00:16,462
+RASS cộng 1. Bước tiếp theo là gì?
+
+4
+00:00:16,662 --> 00:00:17,997
+Bạn có 5 giây.
+
+5
+00:00:23,597 --> 00:00:24,512
+Đáp án B:
+
+6
+00:00:24,362 --> 00:00:31,908
+tối ưu an thần và máy thở trước. Hướng dẫn 2026 gợi ý giãn cơ khi PaO₂/FiO₂ dưới 150 mà
+
+7
+00:00:31,758 --> 00:00:35,054
+vẫn thất bại dù đã an thần. Nếu dùng,
+
+8
+00:00:34,904 --> 00:00:41,600
+thường không quá 48 giờ. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online.

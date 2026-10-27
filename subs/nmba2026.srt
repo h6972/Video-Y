@@ -1,0 +1,719 @@
+1
+00:00:04,900 --> 00:00:06,201
+Thưa quý đồng nghiệp,
+
+2
+00:00:06,051 --> 00:00:10,970
+chào mừng quý vị đến với Thư Viện Y Khoa Online. Hôm nay chúng ta cùng đi qua hướng dẫn
+
+3
+00:00:10,820 --> 00:00:16,890
+năm 2026 của Hội Hồi sức Hoa Kỳ về sử dụng thuốc giãn cơ ở người lớn bị hội chứng suy hô hấp cấp tiến triển.
+
+4
+00:00:17,090 --> 00:00:21,732
+Câu hỏi trung tâm: bệnh nhân nào nên giãn cơ? Câu trả lời ngắn gọn:
+
+5
+00:00:21,582 --> 00:00:26,760
+khi tỉ số PaO₂/FiO₂ dưới 150 và đã tối ưu máy thở, an thần mà vẫn thất bại.
+
+6
+00:00:26,960 --> 00:00:30,870
+Nếu dùng, giãn cơ nên giới hạn thời gian, thường không quá 48 giờ.
+
+7
+00:00:31,070 --> 00:00:34,378
+Và nguyên tắc không bao giờ được quên: phải bảo đảm an thần,
+
+8
+00:00:34,228 --> 00:00:37,220
+giảm đau đủ sâu trước và trong suốt thời gian giãn cơ.
+
+9
+00:00:38,670 --> 00:00:45,898
+Đây là bản thứ tư của hướng dẫn về thuốc giãn cơ ở người bệnh nặng, sau các bản 1995,
+
+10
+00:00:45,748 --> 00:00:46,980
+2002 và 2016.
+
+11
+00:00:47,180 --> 00:00:50,793
+Bản 2026 tập trung vào hội chứng suy hô hấp cấp tiến triển,
+
+12
+00:00:50,643 --> 00:00:55,664
+chỉ định thường gặp nhất của giãn cơ kéo dài tại hồi sức. Hội đồng 21 chuyên gia đa
+
+13
+00:00:55,514 --> 00:01:00,770
+ngành đặt ra năm câu hỏi theo khung PICO và đánh giá bằng chứng theo phương pháp GRADE.
+
+14
+00:01:00,970 --> 00:01:03,858
+Lý do cập nhật gồm: chiến lược an thần đã thay đổi,
+
+15
+00:01:03,708 --> 00:01:06,972
+có dữ liệu mới về giãn cơ trong suy hô hấp cấp tiến triển,
+
+16
+00:01:06,822 --> 00:01:09,120
+và nằm sấp ngày càng được dùng rộng rãi.
+
+17
+00:01:10,570 --> 00:01:14,986
+Bảng một tóm tắt năm khuyến cáo. Chỉ khuyến cáo đầu tiên có hướng rõ ràng:
+
+18
+00:01:14,836 --> 00:01:19,540
+nên dùng thuốc giãn cơ khi PaO₂/FiO₂ dưới 150 ở người còn giảm oxy máu kéo dài,
+
+19
+00:01:19,390 --> 00:01:24,037
+hoặc không đạt mục tiêu thở máy dù đã an thần. Đây là khuyến cáo có điều kiện,
+
+20
+00:01:23,887 --> 00:01:25,190
+mức bằng chứng thấp.
+
+21
+00:01:25,390 --> 00:01:28,775
+Bốn câu hỏi còn lại, về cách chỉnh liều, cách đánh giá an thần,
+
+22
+00:01:28,625 --> 00:01:31,753
+theo dõi an thần khi đang giãn cơ, và giãn cơ khi nằm sấp,
+
+23
+00:01:31,603 --> 00:01:35,860
+hội đồng đều kết luận cân bằng: chọn cách nào cũng được, vì bằng chứng rất thấp.
+
+24
+00:01:37,310 --> 00:01:39,169
+Trước khi đi vào từng khuyến cáo,
+
+25
+00:01:39,019 --> 00:01:44,504
+cần hiểu đúng chữ có điều kiện. Khuyến cáo mạnh nghĩa là gần như mọi người bệnh đều nên nhận can thiệp,
+
+26
+00:01:44,354 --> 00:01:46,420
+và có thể dùng làm chỉ số chất lượng.
+
+27
+00:01:46,620 --> 00:01:49,753
+Khuyến cáo có điều kiện nghĩa là đa số người bệnh sẽ chọn,
+
+28
+00:01:49,603 --> 00:01:53,404
+nhưng một nhóm đáng kể thì không. Bác sĩ cần cân nhắc hoàn cảnh cụ thể,
+
+29
+00:01:53,254 --> 00:01:57,827
+và chấp nhận rằng lựa chọn có thể khác nhau giữa các người bệnh. Cả năm khuyến cáo hôm
+
+30
+00:01:57,677 --> 00:01:59,010
+nay đều thuộc loại này.
+
+31
+00:02:00,460 --> 00:02:01,497
+Khuyến cáo một:
+
+32
+00:02:01,347 --> 00:02:07,055
+hội đồng gợi ý dùng thuốc giãn cơ ở người lớn suy hô hấp cấp tiến triển có PaO₂/FiO₂ dưới 150,
+
+33
+00:02:06,905 --> 00:02:11,490
+còn giảm oxy máu kéo dài và, hoặc không đạt mục tiêu thở máy dù đã an thần.
+
+34
+00:02:11,690 --> 00:02:15,350
+Phần ghi chú rất quan trọng: phải tối ưu máy thở và an thần trước,
+
+35
+00:02:15,200 --> 00:02:19,020
+để đạt thông khí bảo vệ phổi, xử lý mất đồng bộ người bệnh – máy thở,
+
+36
+00:02:18,870 --> 00:02:21,520
+và cải thiện oxy hoá, rồi mới cân nhắc giãn cơ.
+
+37
+00:02:21,720 --> 00:02:25,950
+Nếu dùng, giãn cơ nên giới hạn thời gian, thường không vượt quá 48 giờ.
+
+38
+00:02:27,400 --> 00:02:30,548
+Đây là hình ảnh X-quang ngực của suy hô hấp cấp tiến triển:
+
+39
+00:02:30,398 --> 00:02:32,174
+mờ phế nang lan toả cả hai phổi,
+
+40
+00:02:32,024 --> 00:02:35,070
+không giải thích hoàn toàn bằng suy tim hay quá tải dịch.
+
+41
+00:02:35,270 --> 00:02:36,912
+Bên phải là một ca nặng,
+
+42
+00:02:36,762 --> 00:02:43,252
+người bệnh đã đặt nội khí quản. Phần lớn các thử nghiệm giãn cơ tuyển bệnh nhân có PaO₂/FiO₂ dưới 150,
+
+43
+00:02:43,102 --> 00:02:44,620
+đúng nhóm như thế này.
+
+44
+00:02:44,820 --> 00:02:46,667
+Nhưng trước khi nghĩ đến giãn cơ,
+
+45
+00:02:46,517 --> 00:02:49,496
+hãy chắc rằng người bệnh đã được thông khí bảo vệ phổi,
+
+46
+00:02:49,346 --> 00:02:51,450
+PEEP phù hợp và được cân nhắc nằm sấp.
+
+47
+00:02:52,900 --> 00:02:59,218
+Bằng chứng cho khuyến cáo một đến từ các phân tích gộp. Bảy thử nghiệm ngẫu nhiên với
+
+48
+00:02:59,068 --> 00:03:03,064
+1598 bệnh nhân cho thấy giãn cơ giảm tử vong 28 ngày,
+
+49
+00:03:02,914 --> 00:03:06,910
+nguy cơ tương đối 0,74, khoảng tin cậy 0,56 đến 0,98.
+
+50
+00:03:07,110 --> 00:03:12,189
+Ở phân nhóm PaO₂/FiO₂ dưới 150, gồm ba thử nghiệm với 428 bệnh nhân,
+
+51
+00:03:12,039 --> 00:03:18,060
+nguy cơ tương đối là 0,70. Tử vong tại hồi sức cũng giảm, nguy cơ tương đối 0,73.
+
+52
+00:03:18,260 --> 00:03:23,807
+Giãn cơ còn giảm chấn thương áp lực, nguy cơ tương đối 0,55. Tuy nhiên tử vong nội viện,
+
+53
+00:03:23,657 --> 00:03:25,770
+0,78, chưa đạt ý nghĩa thống kê.
+
+54
+00:03:25,970 --> 00:03:31,368
+Cái giá phải trả: yếu cơ mắc phải tại hồi sức có xu hướng tăng, nguy cơ tương đối 1,16,
+
+55
+00:03:31,218 --> 00:03:33,178
+và biến cố bất lợi chung 1,63,
+
+56
+00:03:33,028 --> 00:03:37,400
+đều có khoảng tin cậy chạm mốc 1. Mức bằng chứng tổng thể chỉ là thấp.
+
+57
+00:03:38,850 --> 00:03:44,317
+Hai thử nghiệm lớn nhất cho kết quả trái ngược. ACURASYS năm 2010 cho thấy truyền
+
+58
+00:03:44,167 --> 00:03:49,896
+cisatracurium liên tục 48 giờ cùng an thần sâu giảm có ý nghĩa tử vong 90 ngày so với
+
+59
+00:03:49,746 --> 00:03:54,360
+an thần sâu đơn thuần. PETAL-ROSE năm 2019 thì không thấy khác biệt.
+
+60
+00:03:54,560 --> 00:03:58,842
+Khác biệt then chốt là nhóm chứng: ACURASYS so với an thần sâu,
+
+61
+00:03:58,692 --> 00:04:01,990
+còn ROSE so với an thần nhẹ, RASS từ 0 đến âm 1.
+
+62
+00:04:02,190 --> 00:04:06,261
+Ngoài ra ROSE không làm mù, ít dùng nằm sấp hơn và dùng PEEP cao hơn,
+
+63
+00:04:06,111 --> 00:04:08,420
+có thể làm giảm xẹp phổi ở nhóm chứng.
+
+64
+00:04:08,620 --> 00:04:09,805
+Thông điệp rút ra:
+
+65
+00:04:09,655 --> 00:04:14,174
+truyền giãn cơ liên tục nên dành cho suy hô hấp cấp tiến triển vừa đến nặng,
+
+66
+00:04:14,024 --> 00:04:17,681
+ở người bệnh đã được an thần sâu. Điều này phù hợp thực hành:
+
+67
+00:04:17,531 --> 00:04:22,740
+85,5% bác sĩ hồi sức Hoa Kỳ được khảo sát chỉ truyền giãn cơ sau khi đã thử an thần sâu.
+
+68
+00:04:24,190 --> 00:04:30,537
+Hướng dẫn SCCM không đưa ra liều cụ thể. Phần này là kiến thức bổ sung từ chính hai thử nghiệm:
+
+69
+00:04:30,387 --> 00:04:33,538
+cisatracurium tiêm tĩnh mạch nhanh 15 miligam,
+
+70
+00:04:33,388 --> 00:04:38,170
+sau đó truyền liên tục 37,5 miligam mỗi giờ trong 48 giờ, liều cố định.
+
+71
+00:04:38,370 --> 00:04:42,356
+Hội đồng 2026 đã thảo luận về liều, cách tiêm ngắt quãng hay truyền,
+
+72
+00:04:42,206 --> 00:04:43,992
+chọn thuốc và thời gian dùng,
+
+73
+00:04:43,842 --> 00:04:47,320
+nhưng kết luận chưa đủ bằng chứng để khuyến cáo chính thức.
+
+74
+00:04:47,520 --> 00:04:50,565
+Hội đồng cũng lưu ý đây là liều truyền cao, và chưa rõ liều,
+
+75
+00:04:50,415 --> 00:04:53,990
+thời gian hay loại thuốc này có cần thiết cho mọi người bệnh hay không.
+
+76
+00:04:55,440 --> 00:04:57,837
+Để dễ hình dung liều trong thử nghiệm,
+
+77
+00:04:57,687 --> 00:05:02,863
+chúng ta quy đổi với ống cisatracurium nồng độ 2 miligam mỗi mililít. Quý vị cần kiểm
+
+78
+00:05:02,713 --> 00:05:05,110
+tra lại theo chế phẩm của đơn vị mình.
+
+79
+00:05:05,310 --> 00:05:08,740
+Liều tiêm nhanh 15 miligam tương đương 7,5 mililít.
+
+80
+00:05:08,940 --> 00:05:14,625
+Liều truyền 37,5 miligam mỗi giờ tương đương khoảng 18,8 mililít mỗi giờ;
+
+81
+00:05:14,475 --> 00:05:19,250
+48 giờ cần khoảng 1800 miligam, tức chừng 180 ống 10 miligam.
+
+82
+00:05:19,450 --> 00:05:24,089
+Vì vậy hội đồng đánh giá chi phí ở mức vừa, gồm cả thuốc giãn cơ, thuốc an thần đi kèm,
+
+83
+00:05:23,939 --> 00:05:26,720
+thời gian nằm viện và phục hồi chức năng do yếu cơ.
+
+84
+00:05:28,170 --> 00:05:31,714
+Khuyến cáo hai: dùng liều cố định không theo dõi độ sâu giãn cơ,
+
+85
+00:05:31,564 --> 00:05:33,888
+hay chỉnh liều theo chuỗi bốn kích thích,
+
+86
+00:05:33,738 --> 00:05:37,600
+đều được. Liều cố định có nguy cơ giãn cơ hoành quá ít hoặc quá nhiều.
+
+87
+00:05:37,800 --> 00:05:41,398
+Không có thử nghiệm ngẫu nhiên nào trả lời trực tiếp câu hỏi này;
+
+88
+00:05:41,248 --> 00:05:46,012
+các dữ liệu hiện có so sánh liều cố định với chỉnh liều theo chuỗi bốn kích thích không
+
+89
+00:05:45,862 --> 00:05:47,550
+thấy khác biệt rõ về kết cục.
+
+90
+00:05:47,750 --> 00:05:51,803
+Một bẫy sinh lý cần nhớ: cơ hoành kháng thuốc giãn cơ hơn cơ ngoại biên,
+
+91
+00:05:51,653 --> 00:05:55,869
+nên đáp ứng đo ở tay có thể không phản ánh đúng cơ hoành. Dù chọn cách nào,
+
+92
+00:05:55,719 --> 00:06:00,748
+phải đánh giá độ sâu giãn cơ và khả năng giãn cơ tồn dư sau khi ngừng thuốc. Trong gây mê,
+
+93
+00:06:00,598 --> 00:06:05,410
+các hướng dẫn yêu cầu theo dõi định lượng đến khi tỉ số chuỗi bốn kích thích trên 0,9.
+
+94
+00:06:06,860 --> 00:06:11,641
+Đây là cách theo dõi giãn cơ định lượng bằng đo gia tốc cơ. Điện cực kích thích được
+
+95
+00:06:11,491 --> 00:06:13,570
+dán dọc dây thần kinh trụ ở cổ tay,
+
+96
+00:06:13,770 --> 00:06:17,840
+và cảm biến gắn ở ngón cái ghi nhận đáp ứng với chuỗi bốn kích thích liên tiếp.
+
+97
+00:06:18,040 --> 00:06:18,947
+Trong gây mê,
+
+98
+00:06:18,797 --> 00:06:24,190
+các hướng dẫn yêu cầu theo dõi định lượng cho đến khi tỉ số chuỗi bốn kích thích trên 0,9.
+
+99
+00:06:24,390 --> 00:06:27,834
+Nhưng tại hồi sức, cơ hoành kháng thuốc giãn cơ hơn cơ ngón cái,
+
+100
+00:06:27,684 --> 00:06:33,340
+và mục tiêu độ sâu giãn cơ tối ưu vẫn chưa được xác định. Đó là lý do hướng dẫn cho phép cả hai chiến lược.
+
+101
+00:06:34,790 --> 00:06:38,336
+Khuyến cáo ba và bốn bàn về an thần, giảm đau. Trước khi giãn cơ,
+
+102
+00:06:38,186 --> 00:06:41,575
+đánh giá bằng thang điểm như RASS cho an thần và CPOT cho đau,
+
+103
+00:06:41,425 --> 00:06:44,501
+hay bằng nhận định lâm sàng, đều được. Khi đang giãn cơ,
+
+104
+00:06:44,351 --> 00:06:47,740
+có hoặc không dùng công cụ theo dõi chuyên biệt cũng đều được.
+
+105
+00:06:47,940 --> 00:06:52,570
+Thiết bị như điện não đồ hay chỉ số lưỡng phổ có thể hỗ trợ, nhưng có giới hạn.
+
+106
+00:06:52,770 --> 00:06:57,530
+Đánh giá lâm sàng dựa vào dấu hiệu sinh tồn như nhịp nhanh, tăng huyết áp, vã mồ hôi,
+
+107
+00:06:57,380 --> 00:06:59,320
+cử động và tương tác với máy thở.
+
+108
+00:06:59,520 --> 00:07:04,542
+Các công cụ mới như chỉ số đau dựa trên biến thiên nhịp tim, hay đo đồng tử bằng video,
+
+109
+00:07:04,392 --> 00:07:05,830
+còn cần thẩm định thêm.
+
+110
+00:07:07,280 --> 00:07:10,385
+Đây là lý do phải hết sức cẩn trọng. Trong một nghiên cứu,
+
+111
+00:07:10,235 --> 00:07:13,646
+khi cho người tình nguyện hoàn toàn tỉnh táo dùng thuốc giãn cơ,
+
+112
+00:07:13,496 --> 00:07:17,110
+hai trên mười người có chỉ số lưỡng phổ ở mức tương ứng an thần sâu.
+
+113
+00:07:17,310 --> 00:07:20,980
+Nghĩa là một con số BIS thấp không bảo đảm người bệnh đã mất ý thức.
+
+114
+00:07:21,180 --> 00:07:22,382
+Trong thực hành,
+
+115
+00:07:22,232 --> 00:07:27,250
+85,5% bác sĩ hồi sức Hoa Kỳ chỉ truyền giãn cơ sau khi đã thử an thần sâu.
+
+116
+00:07:27,450 --> 00:07:30,082
+Vì vậy, dù bằng chứng thấp, hướng dẫn nhấn mạnh:
+
+117
+00:07:29,932 --> 00:07:34,737
+phải bảo đảm an thần và giảm đau đủ sâu trước khi bắt đầu và trong suốt thời gian giãn cơ,
+
+118
+00:07:34,587 --> 00:07:37,840
+và tận dụng mỗi lần tạm ngừng thuốc giãn cơ để đánh giá lại.
+
+119
+00:07:39,290 --> 00:07:41,591
+Khuyến cáo năm: ở bệnh nhân nằm sấp,
+
+120
+00:07:41,441 --> 00:07:46,668
+dùng hay không dùng giãn cơ đều được. Trong thử nghiệm PROSEVA, nằm sấp giảm tử vong,
+
+121
+00:07:46,518 --> 00:07:50,432
+nhưng giãn cơ được dùng ở 91% nhóm nằm sấp và 82,3% nhóm chứng,
+
+122
+00:07:50,282 --> 00:07:53,180
+nên không tách được vai trò riêng của giãn cơ.
+
+123
+00:07:53,380 --> 00:07:58,609
+Dữ liệu quan sát ở suy hô hấp do COVID-19 cho thấy giãn cơ khi nằm sấp cải thiện oxy hoá,
+
+124
+00:07:58,459 --> 00:08:01,690
+nhưng chưa có bằng chứng cải thiện kết cục người bệnh.
+
+125
+00:08:01,890 --> 00:08:03,395
+Thực hành rất khác nhau:
+
+126
+00:08:03,245 --> 00:08:08,252
+34% bác sĩ trong một khảo sát cho rằng nên để dành giãn cơ đến sau khi đã nằm sấp. Câu
+
+127
+00:08:08,102 --> 00:08:11,640
+hỏi giãn cơ trước hay nằm sấp trước vẫn đang chờ nghiên cứu.
+
+128
+00:08:13,090 --> 00:08:18,072
+Tổng hợp lại thành lưu đồ thực hành. Lưu ý đây là sơ đồ chúng tôi tổng hợp từ các khuyến cáo,
+
+129
+00:08:17,922 --> 00:08:22,644
+không phải hình gốc của hướng dẫn. Với bệnh nhân suy hô hấp cấp tiến triển đang thở máy,
+
+130
+00:08:22,494 --> 00:08:26,541
+bước đầu luôn là tối ưu: thông khí bảo vệ phổi, an thần, xử lý mất đồng bộ,
+
+131
+00:08:26,391 --> 00:08:27,580
+và cân nhắc nằm sấp.
+
+132
+00:08:27,780 --> 00:08:30,019
+Sau đó hỏi: PaO₂/FiO₂ có dưới 150,
+
+133
+00:08:29,869 --> 00:08:34,874
+còn giảm oxy hoặc không đạt mục tiêu thở máy không? Nếu không, tiếp tục tối ưu,
+
+134
+00:08:34,724 --> 00:08:36,410
+không giãn cơ thường quy.
+
+135
+00:08:36,610 --> 00:08:39,800
+Nếu có, bảo đảm an thần và giảm đau đủ sâu trước.
+
+136
+00:08:40,000 --> 00:08:42,441
+Rồi mới giãn cơ, giới hạn khoảng 48 giờ,
+
+137
+00:08:42,291 --> 00:08:45,590
+dùng liều cố định hoặc chỉnh theo chuỗi bốn kích thích.
+
+138
+00:08:45,790 --> 00:08:50,340
+Khi ngừng, đánh giá giãn cơ tồn dư, an thần và nguy cơ yếu cơ mắc phải tại hồi sức.
+
+139
+00:08:51,790 --> 00:08:57,201
+Tình huống thứ nhất. Nam 54 tuổi, viêm phổi, suy hô hấp cấp tiến triển ngày đầu,
+
+140
+00:08:57,051 --> 00:09:03,646
+thở máy thể tích khí lưu thông 6 mililít mỗi kilôgam. PaO₂/FiO₂ là 140 với PEEP 12. Người bệnh ho,
+
+141
+00:09:03,496 --> 00:09:05,750
+chống máy liên tục, RASS cộng 1.
+
+142
+00:09:05,950 --> 00:09:08,100
+Bước tiếp theo phù hợp nhất là gì?
+
+143
+00:09:08,300 --> 00:09:11,330
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+144
+00:09:19,930 --> 00:09:25,248
+Đáp án là B. Khuyến cáo một chỉ áp dụng khi người bệnh vẫn giảm oxy hoặc không đạt mục
+
+145
+00:09:25,098 --> 00:09:28,313
+tiêu thở máy dù đã được an thần. Ở đây RASS cộng 1,
+
+146
+00:09:28,163 --> 00:09:32,880
+tức chưa an thần đủ. Phải tối ưu an thần, giảm đau và cài đặt máy thở trước.
+
+147
+00:09:33,080 --> 00:09:37,507
+Nếu sau đó vẫn thất bại với PaO₂/FiO₂ dưới 150, giãn cơ là hợp lý,
+
+148
+00:09:37,357 --> 00:09:43,080
+và nên giới hạn khoảng 48 giờ. Lựa chọn D sai vì thời gian dùng kéo dài không có cơ sở
+
+149
+00:09:42,930 --> 00:09:44,830
+và làm tăng nguy cơ yếu cơ.
+
+150
+00:09:46,280 --> 00:09:50,776
+Tình huống thứ hai. Nữ 47 tuổi, suy hô hấp cấp tiến triển nặng,
+
+151
+00:09:50,626 --> 00:09:56,570
+đang truyền cisatracurium. Bác sĩ trực giảm dần propofol và fentanyl vì chỉ số lưỡng
+
+152
+00:09:56,420 --> 00:10:00,226
+phổ ổn định ở 45. Sau đó nhịp tim tăng từ 88 lên 124,
+
+153
+00:10:00,076 --> 00:10:01,950
+huyết áp tăng, vã mồ hôi.
+
+154
+00:10:02,150 --> 00:10:03,580
+Nhận định nào đúng?
+
+155
+00:10:03,780 --> 00:10:06,410
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+156
+00:10:15,010 --> 00:10:18,899
+Đáp án là B. Khi người bệnh đã bị liệt cơ, chỉ số lưỡng phổ có thể sai,
+
+157
+00:10:18,749 --> 00:10:23,849
+như hai trên mười người tình nguyện tỉnh táo vẫn có giá trị tương ứng an thần sâu. Nhịp nhanh,
+
+158
+00:10:23,699 --> 00:10:27,640
+tăng huyết áp, vã mồ hôi là những dấu hiệu lâm sàng gợi ý đau hoặc tỉnh.
+
+159
+00:10:27,840 --> 00:10:29,071
+Cần tăng lại an thần,
+
+160
+00:10:28,921 --> 00:10:32,622
+giảm đau và đánh giá lại ngay. Tăng liều giãn cơ chỉ che giấu vấn đề,
+
+161
+00:10:32,472 --> 00:10:36,070
+còn ngừng an thần khi người bệnh đang liệt là điều tuyệt đối tránh.
+
+162
+00:10:37,520 --> 00:10:42,623
+Bảng ba liệt kê các câu hỏi còn bỏ ngỏ. Thứ nhất, thời điểm và ngưỡng bắt đầu tối ưu:
+
+163
+00:10:42,473 --> 00:10:47,750
+sớm hay muộn, ngưỡng PaO₂/FiO₂ nào, có dựa vào cơ học phổi hay rối loạn thất phải không.
+
+164
+00:10:47,950 --> 00:10:51,060
+Thứ hai, chọn thuốc, liều, và độ sâu giãn cơ cần đạt.
+
+165
+00:10:51,260 --> 00:10:53,890
+Thứ ba, nên giãn cơ trước hay nằm sấp trước.
+
+166
+00:10:54,090 --> 00:10:59,280
+Thứ tư, giãn cơ phối hợp với PEEP cao, nằm sấp và corticoid là hiệp đồng hay đối kháng.
+
+167
+00:10:59,480 --> 00:11:03,078
+Và cuối cùng, các kết cục người bệnh quan tâm như chất lượng sống,
+
+168
+00:11:02,928 --> 00:11:04,750
+nhận thức và tâm lý sau hồi sức.
+
+169
+00:11:06,200 --> 00:11:10,482
+Xin tóm lại bằng sáu thông điệp. Giãn cơ không phải bước đầu tiên:
+
+170
+00:11:10,332 --> 00:11:16,180
+luôn tối ưu máy thở và an thần trước. Khi PaO₂/FiO₂ dưới 150 mà vẫn thất bại dù đã an thần,
+
+171
+00:11:16,030 --> 00:11:17,870
+giãn cơ là lựa chọn hợp lý.
+
+172
+00:11:18,070 --> 00:11:20,741
+Giới hạn thời gian khoảng 48 giờ;
+
+173
+00:11:20,591 --> 00:11:26,700
+phác đồ trong thử nghiệm là cisatracurium 15 miligam rồi 37,5 miligam mỗi giờ.
+
+174
+00:11:26,900 --> 00:11:29,944
+Liều cố định hay chỉnh theo chuỗi bốn kích thích đều được,
+
+175
+00:11:29,794 --> 00:11:31,690
+nhưng luôn đánh giá giãn cơ tồn dư.
+
+176
+00:11:31,890 --> 00:11:34,013
+Bảo đảm an thần, giảm đau đủ sâu,
+
+177
+00:11:33,863 --> 00:11:37,960
+và nhớ rằng chỉ số lưỡng phổ có thể sai khi người bệnh đã liệt cơ.
+
+178
+00:11:38,160 --> 00:11:41,164
+Ở bệnh nhân nằm sấp, dùng hay không giãn cơ đều được,
+
+179
+00:11:41,014 --> 00:11:45,795
+cá thể hoá theo người bệnh và quy trình của đơn vị. Cảm ơn quý đồng nghiệp đã theo dõi
+
+180
+00:11:45,645 --> 00:11:49,510
+Thư Viện Y Khoa Online. Hẹn gặp lại quý vị ở các chuyên đề tiếp theo.
