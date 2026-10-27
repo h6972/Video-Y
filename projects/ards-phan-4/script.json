@@ -10,7 +10,7 @@
  "series": "THƯ VIỆN Y KHOA ONLINE",
  "subtitle": "ARDS chuyên sâu · Thở máy",
  "part": "ARDS chuyên sâu · Phần 4/6",
- "source_short": "Nguồn: ESICM 2023 (Domain 6) · LOVS, EXPRESS (JAMA 2008) · Briel 2010 (JAMA) · Tobin 3e · Murray & Nadel 7e · sóng: mô phỏng",
+ "source_short": "Nguồn: ESICM 2023 (Domain 6) · ATS 2023 · LOVS, EXPRESS (JAMA 2008) · Briel 2010 (JAMA) · Tobin 3e · Murray & Nadel 7e · sóng: mô phỏng",
  "sign": "Thư Viện Y Khoa Online",
  "lexicon": {
   "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
@@ -578,7 +578,7 @@
    "lines": [
     "Trong thực hành, bảng phối hợp PEEP và FiO₂ là công cụ đơn giản nhất. Bảng PEEP thấp dùng trong ARMA và nhóm chứng của LOVS: FiO₂ 0,3 đi với PEEP 5, FiO₂ 0,5 với PEEP 8 đến 10, FiO₂ 0,7 với PEEP 10 đến 14, và FiO₂ 1,0 với PEEP 18 đến 24.",
     "Bảng PEEP cao của LOVS đẩy PEEP lên sớm hơn nhiều: FiO₂ 0,4 đã đi với PEEP 10 đến 18, FiO₂ 0,5 với 18 đến 20, và từ FiO₂ 0,6 trở lên, PEEP ít nhất 20. Mục tiêu là dùng tổ hợp thấp nhất cho phép đạt mục tiêu oxy, PaO₂ 55 đến 80 hoặc SpO₂ 88 đến 95 phần trăm.",
-    "ESICM 2023 không khuyến cáo bảng nào hơn bảng nào, vì tử vong không khác biệt. Nhưng với ARDS vừa và nặng, dữ liệu của Briel ủng hộ nghiêng về phía PEEP cao hơn, nếu người bệnh dung nạp."
+    "ESICM 2023 không khuyến cáo bảng nào hơn bảng nào, vì tử vong không khác biệt. Trong khi đó, ATS 2023 gợi ý dùng PEEP cao hơn, không kèm huy động, cho ARDS vừa và nặng, khuyến cáo có điều kiện. Cả hai đều thống nhất với dữ liệu của Briel: với ARDS vừa và nặng, nghiêng về PEEP cao hơn nếu người bệnh dung nạp."
    ]
   },
   {
@@ -683,7 +683,7 @@
    "layout": "box",
    "chapter": "ESICM 2023",
    "title": "Khuyến cáo ESICM 2023 về PEEP và huy động",
-   "ref": "ESICM 2023, Khuyến cáo 6.1–6.4",
+   "ref": "ESICM 2023, Khuyến cáo 6.1–6.4 · ATS 2023",
    "box": {
     "tag": "6.3 · KHÔNG DÙNG",
     "t": "<b>Huy động kéo dài áp lực cao</b> (≥ 35 cmH₂O trong ≥ 1 phút): khuyến cáo <b>không dùng</b> để giảm tử vong · bằng chứng mức vừa",
@@ -698,8 +698,8 @@
      "c": "amber"
     },
     {
-     "tag": "6.1 · 6.2",
-     "t": "Không khuyến cáo theo hay chống: bảng PEEP cao hay thấp · PEEP theo cơ học hay theo bảng",
+     "tag": "6.1 · 6.2 · ATS 2023",
+     "t": "ESICM: không khuyến cáo theo hay chống bảng PEEP cao/thấp · ATS 2023: gợi ý PEEP cao hơn, không huy động, ở ARDS vừa – nặng",
      "at": 2,
      "c": "blue"
     },
@@ -713,7 +713,7 @@
    "lines": [
     "Tổng hợp lại, ESICM 2023 đưa ra bốn khuyến cáo. Khuyến cáo 6.3: không dùng huy động kéo dài áp lực cao, định nghĩa là áp lực đường thở từ 35 xăng ti mét nước trở lên trong ít nhất 1 phút, chủ yếu dựa trên ART.",
     "Khuyến cáo 6.4: gợi ý không dùng thường quy huy động ngắn, dưới 1 phút, vì không có lợi ích tử vong và có nguy cơ. Khoảng 10 phần trăm người bệnh bị tụt huyết áp hoặc giảm bão hoà trong hay ngay sau huy động, có thể kèm nhịp chậm.",
-    "Khuyến cáo 6.1 và 6.2: không khuyến cáo theo hay chống bảng PEEP cao so với thấp, và PEEP theo cơ học so với theo bảng.",
+    "Khuyến cáo 6.1 và 6.2: không khuyến cáo theo hay chống bảng PEEP cao so với thấp, và PEEP theo cơ học so với theo bảng. Để so sánh, ATS 2023 gợi ý PEEP cao hơn không kèm huy động ở ARDS vừa và nặng, và cũng khuyến cáo mạnh không dùng huy động kéo dài.",
     "Nhưng ý kiến chuyên gia để ngỏ một vai trò hạn chế cho huy động ngắn: khi tụt oxy rõ ràng do xẹp phổi sau tách máy, hút đờm, nội soi phế quản hay đổi tư thế, và phải có kế hoạch dừng ngay nếu huyết động bất ổn."
    ]
   },
@@ -984,7 +984,7 @@
     },
     {
      "t": "Briel: PEEP cao có lợi khi P/F ≤ 200",
-     "d": "Có xu hướng hại khi P/F > 200",
+     "d": "ATS 2023: gợi ý PEEP cao hơn ở ARDS vừa – nặng · có xu hướng hại khi P/F > 200",
      "c": "green",
      "at": 3
     },
