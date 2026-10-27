@@ -30,3 +30,4 @@ body[data-format=vertical] .l-bars .bk{width:190px;font-size:27px}
 body[data-format=vertical] .l-bars .btr{height:50px}
 body[data-format=vertical] .l-bars .bv{font-size:34px;line-height:50px}
 body[data-format=vertical] .l-bars .bnt{font-size:26px}
+body[data-format=vertical] .l-stats .body{zoom:1.4}

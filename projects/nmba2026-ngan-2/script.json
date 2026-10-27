@@ -1,0 +1,84 @@
+{
+ "title": "Giãn cơ trong ARDS – video ngắn 2: Liệt nhưng có thể vẫn tỉnh",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Hồi sức",
+ "part": "Giãn cơ trong ARDS · ôn nhanh",
+ "source_short": "Nguồn: Hướng dẫn SCCM 2026 về giãn cơ trong ARDS",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "cisatracurium": "xi xa tra cu ri um",
+  "PETAL-ROSE": "pê tan rô dơ",
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "PaO2/FiO2": "pa ô hai trên phi ô hai",
+  "ACURASYS": "a cu ra xít",
+  "COVID-19": "cô vít mười chín",
+  "PROSEVA": "prô xê va",
+  "Ramsay": "Ram xi",
+  "mg/giờ": "miligam mỗi giờ",
+  "GRADE": "grết",
+  "ROSE": "rô dơ",
+  "SCCM": "ét xê xê em",
+  "PICO": "pi cô",
+  "RASS": "rát",
+  "CPOT": "xi pốt",
+  "PEEP": "píp",
+  "ARDS": "suy hô hấp cấp tiến triển",
+  "BIS": "bít",
+  "TOF": "tê ô ép"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "GIÃN CƠ TRONG ARDS · BẪY",
+   "hook": "Bệnh nhân giãn cơ có thể đang tỉnh!",
+   "sub": "Và chỉ số BIS chưa chắc phát hiện",
+   "c": "coral",
+   "lines": [
+    "Bệnh nhân đang giãn cơ có thể vẫn tỉnh, và chỉ số BIS chưa chắc phát hiện được."
+   ]
+  },
+  {
+   "id": "s",
+   "layout": "stats",
+   "chapter": "BẰNG CHỨNG",
+   "title": "Người tỉnh, BIS như ngủ sâu",
+   "cols": 1,
+   "h": 330,
+   "tiles": [
+    {
+     "tag": "NGƯỜI TÌNH NGUYỆN TỈNH",
+     "v": 2,
+     "suf": "/10",
+     "l": "có BIS như đang an thần sâu khi được giãn cơ",
+     "at": 0,
+     "c": "coral"
+    }
+   ],
+   "note": {
+    "t": "Nhịp nhanh, tăng huyết áp, vã mồ hôi khi đang giãn cơ → nghĩ đến <b>đau hoặc tỉnh</b> · an thần, giảm đau đủ sâu <b>trước và suốt</b> thời gian giãn cơ",
+    "at": 2,
+    "c": "amber"
+   },
+   "lines": [
+    "Trong một nghiên cứu, khi cho người tình nguyện hoàn toàn tỉnh táo dùng thuốc giãn cơ, hai trên mười người có chỉ số lưỡng phổ như đang an thần sâu.",
+    "Nghĩa là một con số BIS thấp không bảo đảm người bệnh đã mất ý thức.",
+    "Khi đang giãn cơ mà nhịp nhanh, tăng huyết áp, vã mồ hôi, hãy nghĩ đến đau hoặc tỉnh. Hướng dẫn 2026 nhấn mạnh: an thần, giảm đau đủ sâu trước và suốt thời gian giãn cơ. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

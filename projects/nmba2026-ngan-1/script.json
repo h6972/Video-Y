@@ -1,0 +1,83 @@
+{
+ "title": "Giãn cơ trong ARDS – video ngắn 1: P/F 140 có giãn cơ ngay?",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Hồi sức",
+ "part": "Giãn cơ trong ARDS · ôn nhanh",
+ "source_short": "Nguồn: Hướng dẫn SCCM 2026 về giãn cơ trong ARDS",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "cisatracurium": "xi xa tra cu ri um",
+  "PETAL-ROSE": "pê tan rô dơ",
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "PaO2/FiO2": "pa ô hai trên phi ô hai",
+  "ACURASYS": "a cu ra xít",
+  "COVID-19": "cô vít mười chín",
+  "PROSEVA": "prô xê va",
+  "Ramsay": "Ram xi",
+  "mg/giờ": "miligam mỗi giờ",
+  "GRADE": "grết",
+  "ROSE": "rô dơ",
+  "SCCM": "ét xê xê em",
+  "PICO": "pi cô",
+  "RASS": "rát",
+  "CPOT": "xi pốt",
+  "PEEP": "píp",
+  "ARDS": "suy hô hấp cấp tiến triển",
+  "BIS": "bít",
+  "TOF": "tê ô ép"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "GIÃN CƠ TRONG ARDS",
+   "hook": "P/F 140: giãn cơ ngay hay chưa?",
+   "sub": "Hướng dẫn SCCM 2026 nói gì",
+   "c": "coral",
+   "lines": [
+    "PaO₂/FiO₂ 140, bệnh nhân chống máy: giãn cơ ngay hay chưa?"
+   ]
+  },
+  {
+   "id": "q",
+   "layout": "quiz",
+   "chapter": "TÌNH HUỐNG",
+   "title": "Bạn chọn gì?",
+   "case": "ARDS ngày 1, Vt 6 mL/kg, PEEP 12. PaO₂/FiO₂ <b>140</b>. Chống máy liên tục, RASS <b>+1</b>.",
+   "q": "Bước tiếp theo?",
+   "options": [
+    "Giãn cơ ngay",
+    "Tối ưu an thần, máy thở trước",
+    "Không giãn cơ khi P/F > 100",
+    "Giãn cơ 7 ngày"
+   ],
+   "answer": 1,
+   "q_at": 0,
+   "answer_at": 2,
+   "countdown": {
+    "after": 1,
+    "s": 5
+   },
+   "explain": "Giãn cơ khi P/F < 150 <b>và vẫn thất bại dù đã an thần</b> · RASS +1 là chưa đủ · nếu dùng: thường ≤ 48 giờ.",
+   "lines": [
+    "Suy hô hấp cấp tiến triển ngày đầu, PaO₂/FiO₂ 140, chống máy liên tục, RASS cộng 1. Bước tiếp theo là gì?",
+    "Bạn có 5 giây.",
+    "Đáp án B: tối ưu an thần và máy thở trước. Hướng dẫn 2026 gợi ý giãn cơ khi PaO₂/FiO₂ dưới 150 mà vẫn thất bại dù đã an thần. Nếu dùng, thường không quá 48 giờ. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
