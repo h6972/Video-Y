@@ -1,0 +1,887 @@
+1
+00:00:04,900 --> 00:00:09,619
+Thưa quý đồng nghiệp, chào mừng quý vị đến với Phần 4 của loạt bài ARDS chuyên sâu:
+
+2
+00:00:09,469 --> 00:00:11,050
+PEEP và huy động phế nang.
+
+3
+00:00:11,250 --> 00:00:13,517
+Nếu Vt thấp là câu trả lời đã rõ,
+
+4
+00:00:13,367 --> 00:00:18,520
+thì PEEP là câu hỏi gây tranh cãi nhất trong thở máy ARDS suốt hơn 20 năm qua.
+
+5
+00:00:18,720 --> 00:00:23,365
+Chúng ta sẽ đi từ sinh lý mở và đóng phế nang, qua ba thử nghiệm PEEP lớn,
+
+6
+00:00:23,215 --> 00:00:28,710
+phân tích gộp của Briel, đến bài học đắt giá từ thử nghiệm ART và khuyến cáo ESICM 2023.
+
+7
+00:00:28,910 --> 00:00:33,178
+Và như Phần 3, quý vị sẽ nhìn trên mô phỏng máy thở để thấy khi nào PEEP giúp phổi,
+
+8
+00:00:33,028 --> 00:00:34,617
+khi nào PEEP hại phổi. Lưu ý,
+
+9
+00:00:34,467 --> 00:00:38,090
+thay đổi độ giãn nở khi tăng PEEP trong mô phỏng là giả định minh hoạ,
+
+10
+00:00:37,940 --> 00:00:39,380
+được ghi rõ trên màn hình.
+
+11
+00:00:40,830 --> 00:00:44,644
+PEEP có hai mặt, Murray và Nadel gọi là âm dương của PEEP. Về phổi,
+
+12
+00:00:44,494 --> 00:00:49,457
+PEEP giữ cho phế nang không xẹp ở cuối thì thở ra, giảm tổn thương do xẹp – mở mỗi nhịp,
+
+13
+00:00:49,307 --> 00:00:51,097
+và nếu huy động được phế nang,
+
+14
+00:00:50,947 --> 00:00:55,527
+nó làm giảm driving pressure. Nhưng PEEP cũng làm căng thêm những phế nang đã mở,
+
+15
+00:00:55,377 --> 00:00:58,480
+tăng áp lực bình nguyên và nguy cơ chấn thương áp lực.
+
+16
+00:00:58,680 --> 00:00:59,729
+Về trao đổi khí,
+
+17
+00:00:59,579 --> 00:01:04,845
+PEEP gần như luôn cải thiện PaO₂ và cho phép giảm FiO₂. Nhưng PEEP có thể tăng khoảng chết,
+
+18
+00:01:04,695 --> 00:01:07,881
+và đôi khi còn làm giảm PaO₂ do chuyển hướng dòng máu,
+
+19
+00:01:07,731 --> 00:01:11,310
+hoặc gây shunt qua lỗ bầu dục khi áp lực động mạch phổi tăng.
+
+20
+00:01:11,510 --> 00:01:15,321
+Về tuần hoàn, PEEP giảm máu tĩnh mạch về tim, tăng hậu tải thất phải,
+
+21
+00:01:15,171 --> 00:01:19,778
+khiến người bệnh cần thêm dịch hoặc vận mạch. PEEP tốt hay xấu phụ thuộc vào cán cân
+
+22
+00:01:19,628 --> 00:01:21,900
+giữa các tác động này ở từng người bệnh.
+
+23
+00:01:23,350 --> 00:01:25,063
+Để hiểu PEEP và huy động,
+
+24
+00:01:24,913 --> 00:01:30,439
+cần biết phế nang mở và đóng ở áp lực nào. Theo các nghiên cứu CT được ESICM tổng hợp,
+
+25
+00:01:30,289 --> 00:01:34,940
+áp lực mở có trung vị 20 đến 30 xăng ti mét nước, dao động từ 10 đến 50.
+
+26
+00:01:35,140 --> 00:01:39,351
+Chỉ khoảng 10 phần trăm đơn vị phổi cần áp lực trên 45 để mở. Vì vậy,
+
+27
+00:01:39,201 --> 00:01:43,530
+dùng áp lực trên 45 thu được rất ít, mà phải trả giá đắt về huyết động.
+
+28
+00:01:43,730 --> 00:01:49,247
+Áp lực đóng có trung vị khoảng 10, nhưng một số đơn vị xẹp ngay ở 20 đến 25. Hệ quả:
+
+29
+00:01:49,097 --> 00:01:53,720
+nếu huy động ở 45, muốn giữ phổi mở hoàn toàn cần PEEP trên 20 đến 25.
+
+30
+00:01:53,920 --> 00:01:58,654
+Còn nếu giữ áp lực bình nguyên không quá 30, một phần phế nang vừa mở sẽ xẹp lại,
+
+31
+00:01:58,504 --> 00:02:02,390
+kèm xấu đi trao đổi khí và có thể gây thêm tổn thương do xẹp – mở.
+
+32
+00:02:02,590 --> 00:02:07,255
+Tobin phân biệt hai kiểu xẹp: xẹp lỏng do phổi nặng đè ép, mở ở áp lực thấp,
+
+33
+00:02:07,105 --> 00:02:10,523
+và xẹp dính do khí bị hấp thu hết, thường khi FiO₂ cao,
+
+34
+00:02:10,373 --> 00:02:15,394
+cần áp lực rất cao để mở. Và nguyên tắc cốt lõi: PEEP chỉ giữ những gì đã được mở,
+
+35
+00:02:15,244 --> 00:02:16,820
+nó không tự mở phế nang.
+
+36
+00:02:18,270 --> 00:02:23,588
+Hãy bắt đầu với một người bệnh có phổi huy động được. Vt 400 mililít, PEEP 5,
+
+37
+00:02:23,438 --> 00:02:28,420
+độ giãn nở 25. Áp lực bình nguyên khoảng 21, driving pressure khoảng 16.
+
+38
+00:02:28,620 --> 00:02:34,366
+Bây giờ tăng PEEP lên 12. Giả định rằng PEEP mở thêm nhiều phế nang, phổi em bé lớn lên,
+
+39
+00:02:34,216 --> 00:02:36,210
+độ giãn nở tăng từ 25 lên 35.
+
+40
+00:02:36,410 --> 00:02:37,840
+Quan sát vài nhịp.
+
+41
+00:02:38,040 --> 00:02:39,550
+Ta đóng băng màn hình.
+
+42
+00:02:39,750 --> 00:02:44,549
+PEEP đã lên 12, và driving pressure giảm từ 16 xuống khoảng 12. Cùng một Vt,
+
+43
+00:02:44,399 --> 00:02:49,260
+nhưng giờ được phân bố cho nhiều phế nang hơn, mỗi phế nang chịu căng ít hơn.
+
+44
+00:02:49,460 --> 00:02:52,625
+Áp lực bình nguyên chỉ tăng nhẹ từ 21 lên khoảng 24,
+
+45
+00:02:52,475 --> 00:02:57,437
+ít hơn nhiều so với mức tăng 7 của PEEP. Đây là dấu hiệu của huy động: PEEP tăng 7,
+
+46
+00:02:57,287 --> 00:02:59,930
+nhưng áp lực bình nguyên chỉ tăng khoảng 3.
+
+47
+00:03:01,380 --> 00:03:04,392
+Cùng một người bệnh, cùng thao tác tăng PEEP từ 5 lên 12,
+
+48
+00:03:04,242 --> 00:03:08,810
+nhưng lần này phổi không huy động được. Phần lớn tổn thương là đông đặc, không phải xẹp.
+
+49
+00:03:09,010 --> 00:03:11,020
+PEEP không mở thêm phế nang nào,
+
+50
+00:03:10,870 --> 00:03:15,960
+chỉ làm căng thêm những phế nang đã mở. Độ giãn nở thậm chí giảm nhẹ, từ 25 xuống 23.
+
+51
+00:03:16,160 --> 00:03:17,510
+Quan sát vài nhịp.
+
+52
+00:03:17,710 --> 00:03:19,220
+Ta đóng băng màn hình.
+
+53
+00:03:19,420 --> 00:03:24,416
+Áp lực bình nguyên tăng từ 21 lên khoảng 30, gần như tăng bằng toàn bộ mức tăng PEEP,
+
+54
+00:03:24,266 --> 00:03:29,090
+và driving pressure còn tăng nhẹ lên khoảng 18. Lá phổi bên phải đổi màu cảnh báo.
+
+55
+00:03:29,290 --> 00:03:31,479
+Người bệnh này không có lợi từ PEEP cao,
+
+56
+00:03:31,329 --> 00:03:36,576
+mà chịu thêm nguy cơ chấn thương áp lực và tụt huyết áp. Hai người bệnh có cùng chẩn đoán ARDS nặng,
+
+57
+00:03:36,426 --> 00:03:37,289
+cùng thao tác,
+
+58
+00:03:37,139 --> 00:03:41,520
+nhưng kết quả ngược nhau. Đó là lý do một con số PEEP không thể đúng cho mọi người.
+
+59
+00:03:42,970 --> 00:03:47,295
+Tại giường, làm sao biết PEEP đang huy động hay đang căng giãn? Theo Tobin,
+
+60
+00:03:47,145 --> 00:03:50,356
+đáp ứng tốt khi driving pressure giảm, độ giãn nở tăng,
+
+61
+00:03:50,206 --> 00:03:55,199
+áp lực bình nguyên tăng ít hơn mức tăng PEEP, PaO₂ tăng và hiệu quả thải CO₂ cải thiện,
+
+62
+00:03:55,049 --> 00:03:59,040
+trong khi huyết áp và độ bão hoà oxy tĩnh mạch trung tâm ít thay đổi.
+
+63
+00:03:59,240 --> 00:04:03,661
+Tobin dùng tỉ số thông khí phút trên PaCO₂ như một chỉ số hiệu quả thải CO₂:
+
+64
+00:04:03,511 --> 00:04:06,190
+cải thiện khi huy động, xấu đi khi căng giãn.
+
+65
+00:04:06,390 --> 00:04:10,445
+Ngược lại, gợi ý căng giãn khi áp lực bình nguyên tăng gần bằng mức tăng PEEP,
+
+66
+00:04:10,295 --> 00:04:13,900
+driving pressure không giảm, PaCO₂ và khoảng chết tăng, huyết áp tụt.
+
+67
+00:04:14,100 --> 00:04:15,497
+Và một bẫy quan trọng:
+
+68
+00:04:15,347 --> 00:04:20,315
+PaO₂ tăng chưa chắc là do huy động. Nó có thể do PEEP làm giảm hoặc chuyển hướng dòng
+
+69
+00:04:20,165 --> 00:04:21,732
+máu phổi khỏi vùng shunt,
+
+70
+00:04:21,582 --> 00:04:26,890
+khi đó PaCO₂ thường tăng theo. Ran nổ cuối thì hít vào ở vùng lưng gợi ý xẹp – mở mỗi nhịp,
+
+71
+00:04:26,740 --> 00:04:28,250
+có thể cần PEEP cao hơn.
+
+72
+00:04:29,700 --> 00:04:34,826
+Ba thử nghiệm lớn đã so sánh PEEP cao với PEEP thấp. ALVEOLI của mạng lưới ARDS,
+
+73
+00:04:34,676 --> 00:04:38,060
+549 người bệnh, dùng bảng PEEP–FiO₂ cao so với thấp,
+
+74
+00:04:37,910 --> 00:04:43,471
+chênh trung bình khoảng 5. Huy động phế nang bị bỏ sau 80 người bệnh vì không hiệu quả.
+
+75
+00:04:43,321 --> 00:04:46,083
+Tử vong khoảng 25 phần trăm ở cả hai nhóm,
+
+76
+00:04:45,933 --> 00:04:47,700
+thử nghiệm dừng vì vô ích.
+
+77
+00:04:47,900 --> 00:04:52,123
+LOVS, 983 người bệnh, dùng chiến lược mở phổi: áp lực kiểm soát,
+
+78
+00:04:51,973 --> 00:04:55,815
+huy động 40 xăng ti mét nước trong 40 giây, bảng PEEP cao,
+
+79
+00:04:55,665 --> 00:04:59,570
+áp lực bình nguyên tới 40. PEEP trung bình 14,6 so với 9,8.
+
+80
+00:04:59,770 --> 00:05:02,328
+Tử vong 36,4 so với 40,4 phần trăm,
+
+81
+00:05:02,178 --> 00:05:07,350
+không có ý nghĩa thống kê. Nhưng nhóm mở phổi ít thiếu oxy kháng trị hơn,
+
+82
+00:05:07,200 --> 00:05:09,139
+4,6 so với 10,2 phần trăm,
+
+83
+00:05:08,989 --> 00:05:13,680
+ít tử vong do thiếu oxy kháng trị và ít cần biện pháp cứu vãn hơn.
+
+84
+00:05:13,880 --> 00:05:19,608
+EXPRESS ở Pháp, 767 người bệnh, tăng PEEP tới khi áp lực bình nguyên đạt 28 đến 30,
+
+85
+00:05:19,458 --> 00:05:22,296
+so với PEEP tối thiểu 5 đến 9. Ngày đầu,
+
+86
+00:05:22,146 --> 00:05:26,597
+PEEP là 15 so với 7. Tử vong 28 ngày 27,8 so với 31,2 phần trăm,
+
+87
+00:05:26,447 --> 00:05:32,645
+không khác biệt. Nhưng nhóm PEEP cao có nhiều ngày không thở máy và không suy cơ quan hơn,
+
+88
+00:05:32,495 --> 00:05:34,930
+đổi lại cần truyền dịch nhiều hơn.
+
+89
+00:05:36,380 --> 00:05:38,575
+Vì từng thử nghiệm không đủ lực,
+
+90
+00:05:38,425 --> 00:05:42,602
+Briel và cộng sự gộp dữ liệu từng người bệnh của ba thử nghiệm,
+
+91
+00:05:42,452 --> 00:05:46,884
+tổng cộng 2299 người bệnh. Tính chung, PEEP cao không giảm tử vong:
+
+92
+00:05:46,734 --> 00:05:48,610
+32,9 so với 35,2 phần trăm.
+
+93
+00:05:48,810 --> 00:05:53,028
+Nhưng ở nhóm có ARDS thực sự, PaO₂/FiO₂ không quá 200,
+
+94
+00:05:52,878 --> 00:05:58,677
+PEEP cao giảm tử vong từ 39,1 xuống 34,1 phần trăm, nguy cơ tương đối 0,90,
+
+95
+00:05:58,527 --> 00:06:00,560
+vừa đạt ý nghĩa thống kê.
+
+96
+00:06:00,760 --> 00:06:07,103
+Ngược lại, ở nhóm nhẹ hơn, PaO₂/FiO₂ trên 200, PEEP cao có xu hướng làm tăng tử vong,
+
+97
+00:06:06,953 --> 00:06:09,070
+27,2 so với 19,4 phần trăm.
+
+98
+00:06:09,270 --> 00:06:12,910
+Tương tác giữa hiệu quả PEEP và mức độ nặng có ý nghĩa thống kê,
+
+99
+00:06:12,760 --> 00:06:17,327
+trong khi tràn khí màng phổi và dùng vận mạch tương tự giữa hai nhóm. Thông điệp:
+
+100
+00:06:17,177 --> 00:06:19,999
+PEEP cao hơn có thể phù hợp với ARDS vừa và nặng,
+
+101
+00:06:19,849 --> 00:06:22,780
+nhưng không nên áp dụng máy móc cho người bệnh nhẹ.
+
+102
+00:06:24,230 --> 00:06:25,533
+Trong thực hành,
+
+103
+00:06:25,383 --> 00:06:33,242
+bảng phối hợp PEEP và FiO₂ là công cụ đơn giản nhất. Bảng PEEP thấp dùng trong ARMA và nhóm chứng của LOVS:
+
+104
+00:06:33,092 --> 00:06:39,006
+FiO₂ 0,3 đi với PEEP 5, FiO₂ 0,5 với PEEP 8 đến 10, FiO₂ 0,7 với PEEP 10 đến 14,
+
+105
+00:06:38,856 --> 00:06:41,240
+và FiO₂ 1,0 với PEEP 18 đến 24.
+
+106
+00:06:41,440 --> 00:06:48,102
+Bảng PEEP cao của LOVS đẩy PEEP lên sớm hơn nhiều: FiO₂ 0,4 đã đi với PEEP 10 đến 18,
+
+107
+00:06:47,952 --> 00:06:51,703
+FiO₂ 0,5 với 18 đến 20, và từ FiO₂ 0,6 trở lên,
+
+108
+00:06:51,553 --> 00:06:57,602
+PEEP ít nhất 20. Mục tiêu là dùng tổ hợp thấp nhất cho phép đạt mục tiêu oxy,
+
+109
+00:06:57,452 --> 00:07:01,050
+PaO₂ 55 đến 80 hoặc SpO₂ 88 đến 95 phần trăm.
+
+110
+00:07:01,250 --> 00:07:04,754
+ESICM 2023 không khuyến cáo bảng nào hơn bảng nào,
+
+111
+00:07:04,604 --> 00:07:09,785
+vì tử vong không khác biệt. Trong khi đó, ATS 2023 gợi ý dùng PEEP cao hơn,
+
+112
+00:07:09,635 --> 00:07:12,536
+không kèm huy động, cho ARDS vừa và nặng,
+
+113
+00:07:12,386 --> 00:07:17,164
+khuyến cáo có điều kiện. Cả hai đều thống nhất với dữ liệu của Briel:
+
+114
+00:07:17,014 --> 00:07:21,860
+với ARDS vừa và nặng, nghiêng về PEEP cao hơn nếu người bệnh dung nạp.
+
+115
+00:07:23,310 --> 00:07:26,936
+Bài học đắt giá nhất đến từ thử nghiệm ART, năm 2017,
+
+116
+00:07:26,786 --> 00:07:32,315
+với 1010 người bệnh ARDS vừa và nặng. Nhóm can thiệp được huy động theo bậc thang,
+
+117
+00:07:32,165 --> 00:07:36,185
+PEEP 25 trong 1 phút, 35 trong 1 phút, rồi 45 trong 2 phút,
+
+118
+00:07:36,035 --> 00:07:39,793
+sau đó giảm dần PEEP để tìm mức có độ giãn nở tốt nhất,
+
+119
+00:07:39,643 --> 00:07:42,810
+và đặt PEEP cao hơn mức đó 2 xăng ti mét nước.
+
+120
+00:07:43,010 --> 00:07:48,120
+Kết quả ngược với mong đợi: tử vong cao hơn ở nhóm huy động, nguy cơ tương đối 1,12.
+
+121
+00:07:48,320 --> 00:07:50,331
+Chấn thương áp lực tăng hơn 3 lần,
+
+122
+00:07:50,181 --> 00:07:55,203
+nguy cơ tương đối 3,56. Nhóm can thiệp cũng có nhiều bất ổn huyết động hơn trong giờ đầu,
+
+123
+00:07:55,053 --> 00:07:56,790
+và ít ngày không thở máy hơn.
+
+124
+00:07:56,990 --> 00:08:00,500
+Ít nhất 3 ca ngừng tim được cho là do chính thủ thuật huy động,
+
+125
+00:08:00,350 --> 00:08:04,873
+buộc thử nghiệm phải đổi sang cách huy động nhẹ hơn giữa chừng. ART là lý do chính
+
+126
+00:08:04,723 --> 00:08:08,180
+khiến ESICM khuyến cáo không dùng huy động kéo dài áp lực cao.
+
+127
+00:08:09,630 --> 00:08:11,413
+Nếu bảng PEEP quá chung chung,
+
+128
+00:08:11,263 --> 00:08:16,148
+chỉnh PEEP theo cơ học từng người có tốt hơn không? Hướng thứ nhất là áp lực thực quản.
+
+129
+00:08:15,998 --> 00:08:18,489
+Áp lực thực quản ước tính áp lực màng phổi,
+
+130
+00:08:18,339 --> 00:08:21,700
+từ đó tính áp lực xuyên phổi, áp lực thực sự làm căng phổi.
+
+131
+00:08:21,900 --> 00:08:26,386
+Lý do là ở người bệnh béo phì, phù thành ngực hay cổ trướng, áp lực màng phổi cao,
+
+132
+00:08:26,236 --> 00:08:30,934
+nên có thể dùng PEEP cao hơn mà phổi không bị căng giãn. Nhưng thử nghiệm EPVent-2 với
+
+133
+00:08:30,784 --> 00:08:34,530
+200 người bệnh không thấy khác biệt về tử vong so với bảng PEEP cao.
+
+134
+00:08:34,730 --> 00:08:37,446
+Hướng thứ hai là chọn PEEP cho độ giãn nở tốt nhất,
+
+135
+00:08:37,296 --> 00:08:42,174
+tức driving pressure thấp nhất. Nghiên cứu của Pintado với 70 người bệnh không thấy khác biệt,
+
+136
+00:08:42,024 --> 00:08:46,400
+còn ART thì như chúng ta vừa thấy, có hại, có lẽ chủ yếu do huy động kéo dài đi kèm.
+
+137
+00:08:46,600 --> 00:08:51,277
+Gộp lại, chỉnh PEEP theo cơ học không giảm tử vong, nguy cơ tương đối 0,85,
+
+138
+00:08:51,127 --> 00:08:56,529
+khoảng tin cậy rộng. ESICM 2023 không khuyến cáo theo hay chống. Cá thể hoá PEEP vẫn là
+
+139
+00:08:56,379 --> 00:08:57,857
+câu hỏi nghiên cứu mở,
+
+140
+00:08:57,707 --> 00:09:01,720
+có thể cần chọn trước những người bệnh có khả năng huy động cao.
+
+141
+00:09:03,170 --> 00:09:07,283
+Tổng hợp lại, ESICM 2023 đưa ra bốn khuyến cáo. Khuyến cáo 6.3:
+
+142
+00:09:07,133 --> 00:09:09,737
+không dùng huy động kéo dài áp lực cao,
+
+143
+00:09:09,587 --> 00:09:14,959
+định nghĩa là áp lực đường thở từ 35 xăng ti mét nước trở lên trong ít nhất 1 phút,
+
+144
+00:09:14,809 --> 00:09:16,280
+chủ yếu dựa trên ART.
+
+145
+00:09:16,480 --> 00:09:20,383
+Khuyến cáo 6.4: gợi ý không dùng thường quy huy động ngắn, dưới 1 phút,
+
+146
+00:09:20,233 --> 00:09:24,930
+vì không có lợi ích tử vong và có nguy cơ. Khoảng 10 phần trăm người bệnh bị tụt huyết
+
+147
+00:09:24,780 --> 00:09:27,520
+áp hoặc giảm bão hoà trong hay ngay sau huy động,
+
+148
+00:09:27,370 --> 00:09:28,630
+có thể kèm nhịp chậm.
+
+149
+00:09:28,830 --> 00:09:34,301
+Khuyến cáo 6.1 và 6.2: không khuyến cáo theo hay chống bảng PEEP cao so với thấp,
+
+150
+00:09:34,151 --> 00:09:37,519
+và PEEP theo cơ học so với theo bảng. Để so sánh,
+
+151
+00:09:37,369 --> 00:09:41,854
+ATS 2023 gợi ý PEEP cao hơn không kèm huy động ở ARDS vừa và nặng,
+
+152
+00:09:41,704 --> 00:09:45,270
+và cũng khuyến cáo mạnh không dùng huy động kéo dài.
+
+153
+00:09:45,470 --> 00:09:49,309
+Nhưng ý kiến chuyên gia để ngỏ một vai trò hạn chế cho huy động ngắn:
+
+154
+00:09:49,159 --> 00:09:53,960
+khi tụt oxy rõ ràng do xẹp phổi sau tách máy, hút đờm, nội soi phế quản hay đổi tư thế,
+
+155
+00:09:53,810 --> 00:09:56,740
+và phải có kế hoạch dừng ngay nếu huyết động bất ổn.
+
+156
+00:09:58,190 --> 00:10:02,729
+Một tình huống rất hay gặp ở khoa hồi sức. Người bệnh đang ổn với PEEP 12,
+
+157
+00:10:02,579 --> 00:10:05,220
+độ giãn nở 35, driving pressure khoảng 12.
+
+158
+00:10:05,420 --> 00:10:08,963
+Điều dưỡng tách máy để hút đờm hở. Trong vài giây, PEEP về 0,
+
+159
+00:10:08,813 --> 00:10:11,410
+những phế nang PEEP đang giữ mở bắt đầu xẹp.
+
+160
+00:10:11,610 --> 00:10:13,174
+Nối máy lại với PEEP 12,
+
+161
+00:10:13,024 --> 00:10:17,239
+nhưng PEEP chỉ giữ những gì đã mở. Phần phổi vừa xẹp không tự mở lại,
+
+162
+00:10:17,089 --> 00:10:19,360
+độ giãn nở giảm xuống còn khoảng 26.
+
+163
+00:10:19,560 --> 00:10:21,070
+Ta đóng băng màn hình.
+
+164
+00:10:21,270 --> 00:10:24,679
+Driving pressure tăng lên khoảng 16, và trên lâm sàng,
+
+165
+00:10:24,529 --> 00:10:30,290
+SpO₂ tụt sâu. Đây chính là tình huống ESICM cho rằng một lần huy động ngắn có thể có vai trò,
+
+166
+00:10:30,140 --> 00:10:31,980
+với theo dõi huyết động sát.
+
+167
+00:10:32,180 --> 00:10:35,922
+Nhưng tốt nhất là phòng ngừa: dùng hệ thống hút đờm kín, hạn chế tách máy,
+
+168
+00:10:35,772 --> 00:10:38,010
+và kẹp ống nội khí quản khi buộc phải tách.
+
+169
+00:10:39,460 --> 00:10:42,758
+Tình huống thứ nhất. Người bệnh ARDS nặng,
+
+170
+00:10:42,608 --> 00:10:50,704
+thể tích kiểm soát Vt 380 mililít. Quý vị thử tăng PEEP từ 8 lên 14. Áp lực bình nguyên tăng từ 26 lên 29,
+
+171
+00:10:50,554 --> 00:10:55,652
+driving pressure giảm từ 18 xuống 15, SpO₂ từ 88 lên 94 phần trăm,
+
+172
+00:10:55,502 --> 00:10:58,950
+PaCO₂ giảm từ 52 xuống 49, huyết áp ổn định.
+
+173
+00:10:59,150 --> 00:11:00,660
+Nhận định nào đúng nhất?
+
+174
+00:11:00,860 --> 00:11:03,570
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+175
+00:11:12,170 --> 00:11:17,059
+Đáp án là B. PEEP tăng 6 nhưng áp lực bình nguyên chỉ tăng 3, driving pressure giảm,
+
+176
+00:11:16,909 --> 00:11:18,639
+oxy cải thiện và PaCO₂ giảm,
+
+177
+00:11:18,489 --> 00:11:22,080
+huyết động ổn định. Tất cả gợi ý PEEP đang huy động phế nang.
+
+178
+00:11:22,280 --> 00:11:27,016
+Giữ PEEP 14 và theo dõi, áp lực bình nguyên vẫn dưới 30. Không cần, và không nên,
+
+179
+00:11:26,866 --> 00:11:31,150
+làm huy động kéo dài 45 xăng ti mét nước, vì ESICM khuyến cáo không dùng.
+
+180
+00:11:32,600 --> 00:11:37,481
+Tình huống thứ hai. Người bệnh ARDS vừa, PEEP 12, FiO₂ 0,5,
+
+181
+00:11:37,331 --> 00:11:40,849
+SpO₂ 93 phần trăm. Sau một lần hút đờm hở,
+
+182
+00:11:40,699 --> 00:11:49,188
+SpO₂ tụt còn 82 phần trăm và không tự hồi phục sau 2 phút dù đã tăng FiO₂ lên 1,0. Huyết áp 125 trên 70,
+
+183
+00:11:49,038 --> 00:11:50,150
+nhịp tim 98.
+
+184
+00:11:50,350 --> 00:11:52,180
+Xử trí nào hợp lý nhất?
+
+185
+00:11:52,380 --> 00:11:55,170
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+186
+00:12:03,770 --> 00:12:06,522
+Đáp án là B. Đây đúng là tình huống ESICM mô tả:
+
+187
+00:12:06,372 --> 00:12:09,124
+tụt oxy nhiều khả năng do xẹp phổi sau tách máy,
+
+188
+00:12:08,974 --> 00:12:13,027
+huyết động đang ổn. Một lần huy động ngắn, dưới 1 phút, có thể cân nhắc,
+
+189
+00:12:12,877 --> 00:12:17,309
+với theo dõi huyết áp và nhịp tim liên tục, dừng ngay nếu tụt áp hay nhịp chậm,
+
+190
+00:12:17,159 --> 00:12:18,610
+sau đó giữ lại mức PEEP.
+
+191
+00:12:18,810 --> 00:12:23,696
+Huy động bậc thang kéo dài kiểu ART bị khuyến cáo không dùng. Tăng Vt lên 10 mililít
+
+192
+00:12:23,546 --> 00:12:26,741
+mỗi ký đi ngược nguyên tắc bảo vệ phổi. Và về lâu dài,
+
+193
+00:12:26,591 --> 00:12:28,320
+hãy chuyển sang hút đờm kín.
+
+194
+00:12:29,770 --> 00:12:33,703
+Xin tổng hợp một cách tiếp cận thực hành, dựa trên ESICM,
+
+195
+00:12:33,553 --> 00:12:38,084
+Briel và Tobin. Bắt đầu theo bảng PEEP–FiO₂. Với ARDS vừa và nặng,
+
+196
+00:12:37,934 --> 00:12:42,000
+PaO₂/FiO₂ không quá 200, có thể cân nhắc bảng PEEP cao hơn.
+
+197
+00:12:42,200 --> 00:12:47,090
+Khi cần, thử tăng PEEP từng bước nhỏ, theo dõi đồng thời áp lực bình nguyên,
+
+198
+00:12:46,940 --> 00:12:49,710
+driving pressure, SpO₂, PaCO₂ và huyết áp.
+
+199
+00:12:49,910 --> 00:12:54,731
+Nếu driving pressure giảm, áp lực bình nguyên tăng ít, oxy và thải CO₂ tốt hơn,
+
+200
+00:12:54,581 --> 00:12:56,860
+huyết động ổn định, giữ mức PEEP đó.
+
+201
+00:12:57,060 --> 00:13:01,273
+Nếu áp lực bình nguyên tăng gần bằng mức tăng PEEP, driving pressure không giảm,
+
+202
+00:13:01,123 --> 00:13:03,610
+hoặc tụt huyết áp, quay lại mức PEEP thấp hơn.
+
+203
+00:13:03,810 --> 00:13:08,344
+Không dùng huy động kéo dài. Huy động ngắn chỉ cân nhắc khi xẹp phổi cấp sau tách máy,
+
+204
+00:13:08,194 --> 00:13:09,160
+có theo dõi sát.
+
+205
+00:13:09,360 --> 00:13:10,368
+Và theo Tobin,
+
+206
+00:13:10,218 --> 00:13:15,151
+khi người bệnh cần PEEP trên 10 đến 15 với FiO₂ từ 0,7 trở lên để giữ bão hoà,
+
+207
+00:13:15,001 --> 00:13:17,910
+hãy nghĩ ngay đến nằm sấp, chủ đề của Phần 5.
+
+208
+00:13:19,360 --> 00:13:22,095
+Xin tổng kết bảy thông điệp. Một, PEEP có hai mặt:
+
+209
+00:13:21,945 --> 00:13:24,939
+giữ phổi mở và giảm driving pressure nếu huy động được,
+
+210
+00:13:24,789 --> 00:13:27,110
+nhưng căng giãn và tụt huyết áp nếu không.
+
+211
+00:13:27,310 --> 00:13:27,678
+Hai,
+
+212
+00:13:27,528 --> 00:13:32,260
+PEEP chỉ giữ những gì đã mở. Mất PEEP khi tách máy làm phổi xẹp nhanh và khó mở lại.
+
+213
+00:13:32,460 --> 00:13:35,063
+Ba, ba thử nghiệm PEEP lớn không giảm tử vong,
+
+214
+00:13:34,913 --> 00:13:39,010
+nhưng LOVS giảm thiếu oxy kháng trị và EXPRESS tăng số ngày không thở máy.
+
+215
+00:13:39,210 --> 00:13:44,146
+Bốn, phân tích gộp của Briel cho thấy PEEP cao có lợi khi PaO₂/FiO₂ không quá 200,
+
+216
+00:13:43,996 --> 00:13:46,480
+và có xu hướng hại ở người bệnh nhẹ hơn.
+
+217
+00:13:46,680 --> 00:13:50,110
+Năm, không dùng huy động kéo dài áp lực cao, bài học từ ART.
+
+218
+00:13:50,310 --> 00:13:53,813
+Sáu, đánh giá đáp ứng PEEP ở từng người: driving pressure,
+
+219
+00:13:53,663 --> 00:13:57,340
+áp lực bình nguyên so với mức tăng PEEP, PaCO₂ và huyết động.
+
+220
+00:13:57,540 --> 00:14:01,178
+Và bảy, khi cần PEEP cao với FiO₂ cao, đừng chỉ tăng PEEP mãi,
+
+221
+00:14:01,028 --> 00:14:05,791
+hãy nghĩ đến nằm sấp. Ở Phần 5, chúng ta sẽ đi vào các biện pháp cứu vãn: nằm sấp,
+
+222
+00:14:05,641 --> 00:14:10,010
+giãn cơ và ECMO. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

@@ -1,0 +1,1063 @@
+1
+00:00:04,900 --> 00:00:09,874
+Thưa quý đồng nghiệp, chào mừng quý vị đến với Phần 3 của loạt bài ARDS chuyên sâu,
+
+2
+00:00:09,724 --> 00:00:12,490
+trọng tâm của cả loạt: thông khí bảo vệ phổi.
+
+3
+00:00:12,690 --> 00:00:14,978
+Ở Phần 1, chúng ta đã thấy phổi em bé,
+
+4
+00:00:14,828 --> 00:00:18,862
+và thấy thở máy có thể gây tổn thương phổi. Phần này trả lời câu hỏi:
+
+5
+00:00:18,712 --> 00:00:20,000
+làm sao thở máy mà không làm hại phổi?
+
+6
+00:00:21,200 --> 00:00:24,694
+Chúng ta sẽ đi qua thử nghiệm ARMA năm 2000,
+
+7
+00:00:24,544 --> 00:00:30,470
+khái niệm driving pressure của Amato năm 2015, và khuyến cáo của ESICM 2023.
+
+8
+00:00:30,670 --> 00:00:31,294
+Đặc biệt,
+
+9
+00:00:31,144 --> 00:00:35,871
+quý vị sẽ nhìn tận mắt các thông số này trên màn hình máy thở mô phỏng. Mọi con số được
+
+10
+00:00:35,721 --> 00:00:37,608
+đọc ra đều được tính từ mô phỏng,
+
+11
+00:00:37,458 --> 00:00:38,660
+không ước lượng tay.
+
+12
+00:00:40,110 --> 00:00:41,210
+Những năm 1960,
+
+13
+00:00:41,060 --> 00:00:46,467
+người ta nhận thấy thở máy với thể tích nhỏ gây mất dần thể tích phổi và thiếu oxy,
+
+14
+00:00:46,317 --> 00:00:50,710
+nên khuyến cáo dùng thể tích khí lưu lớn, 12 đến 15 mililít mỗi ký,
+
+15
+00:00:50,560 --> 00:00:52,420
+để giữ khí máu bình thường.
+
+16
+00:00:52,620 --> 00:00:57,930
+Quan niệm thay đổi khi người ta nhận ra tăng CO₂ được dung nạp tốt nếu oxy hoá đủ.
+
+17
+00:00:57,780 --> 00:01:02,209
+Chiến lược tăng CO₂ cho phép được áp dụng trước ở hen phế quản nặng,
+
+18
+00:01:02,059 --> 00:01:03,090
+rồi sang ARDS.
+
+19
+00:01:03,290 --> 00:01:09,269
+Năm 1998, Amato báo cáo chiến lược bảo vệ phổi giảm tử vong trong một thử nghiệm nhỏ,
+
+20
+00:01:09,119 --> 00:01:10,091
+và năm 2000,
+
+21
+00:01:09,941 --> 00:01:15,920
+thử nghiệm ARMA của mạng lưới ARDS với 861 người bệnh đã thay đổi thực hành toàn cầu.
+
+22
+00:01:16,120 --> 00:01:21,456
+Năm 2015, Amato và cộng sự phân tích dữ liệu từ 9 thử nghiệm, 3562 người bệnh,
+
+23
+00:01:21,306 --> 00:01:26,510
+cho thấy driving pressure là biến số thông khí liên quan sống còn mạnh nhất.
+
+24
+00:01:26,710 --> 00:01:27,725
+Và năm 2023,
+
+25
+00:01:27,575 --> 00:01:33,420
+ESICM khuyến cáo mạnh thể tích khí lưu 4 đến 8 mililít mỗi ký cân nặng dự đoán.
+
+26
+00:01:34,870 --> 00:01:37,388
+Thử nghiệm ARMA so sánh hai chiến lược,
+
+27
+00:01:37,238 --> 00:01:42,913
+cùng thể tích kiểm soát hỗ trợ. Nhóm Vt thấp bắt đầu với 6 mililít mỗi ký cân nặng dự đoán,
+
+28
+00:01:42,763 --> 00:01:45,584
+giảm dần từng 1 mililít mỗi ký, tối thiểu 4,
+
+29
+00:01:45,434 --> 00:01:48,620
+nếu cần. Nhóm truyền thống dùng 12 mililít mỗi ký.
+
+30
+00:01:48,820 --> 00:01:52,749
+Áp lực bình nguyên, đo với khoảng nghỉ cuối thì hít vào 0,5 giây,
+
+31
+00:01:52,599 --> 00:01:57,690
+phải giữ không quá 30 xăng ti mét nước ở nhóm Vt thấp, so với 50 ở nhóm truyền thống.
+
+32
+00:01:57,890 --> 00:02:03,960
+Tần số thở được chỉnh từ 6 đến 35 lần mỗi phút để đạt pH 7,30 đến 7,45.
+
+33
+00:02:04,160 --> 00:02:06,840
+Mục tiêu oxy giống nhau ở hai nhóm:
+
+34
+00:02:06,690 --> 00:02:11,395
+PaO₂ 55 đến 80 milimét thuỷ ngân hoặc SpO₂ 88 đến 95 phần trăm,
+
+35
+00:02:11,245 --> 00:02:14,070
+với bảng phối hợp PEEP và FiO₂ chung.
+
+36
+00:02:14,270 --> 00:02:16,087
+Có những ngoại lệ thực tế:
+
+37
+00:02:15,937 --> 00:02:21,664
+cho phép áp lực bình nguyên trên 30 nếu Vt đã xuống 4 mililít mỗi ký hoặc pH dưới 7,15.
+
+38
+00:02:21,514 --> 00:02:25,896
+Người bệnh khó thở nặng có thể tăng Vt lên 7 đến 8 mililít mỗi ký,
+
+39
+00:02:25,746 --> 00:02:28,460
+nếu áp lực bình nguyên vẫn không quá 30.
+
+40
+00:02:29,910 --> 00:02:36,821
+Thử nghiệm dừng sớm sau 861 người bệnh vì hiệu quả rõ rệt. Tử vong ở nhóm Vt thấp là 31,0 phần trăm,
+
+41
+00:02:36,671 --> 00:02:39,660
+so với 39,8 phần trăm ở nhóm truyền thống.
+
+42
+00:02:39,860 --> 00:02:43,161
+Số ngày không thở máy trong 28 ngày đầu là 12 so với 10,
+
+43
+00:02:43,011 --> 00:02:47,101
+và nhóm Vt thấp có nhiều ngày không suy tuần hoàn, không suy đông máu,
+
+44
+00:02:46,951 --> 00:02:48,170
+không suy thận hơn.
+
+45
+00:02:48,370 --> 00:02:53,152
+Thực tế đạt được: Vt trung bình 6,2 so với 11,8 mililít mỗi ký,
+
+46
+00:02:53,002 --> 00:02:57,123
+áp lực bình nguyên 25 so với 33. Để bù thông khí phút,
+
+47
+00:02:56,973 --> 00:03:01,240
+tần số thở ở nhóm Vt thấp là 29 lần mỗi phút, so với 16.
+
+48
+00:03:01,440 --> 00:03:04,722
+Interleukin 6 huyết tương giảm nhiều hơn ở nhóm Vt thấp,
+
+49
+00:03:04,572 --> 00:03:07,350
+phù hợp với giả thuyết giảm tổn thương do viêm.
+
+50
+00:03:07,550 --> 00:03:09,694
+Giảm tuyệt đối 8,8 phần trăm tử vong,
+
+51
+00:03:09,544 --> 00:03:14,382
+tức là cứ khoảng 11 người bệnh được thở với Vt thấp thì cứu thêm được một người. Ít can
+
+52
+00:03:14,232 --> 00:03:18,100
+thiệp nào trong hồi sức có hiệu quả như vậy mà gần như không tốn kém.
+
+53
+00:03:19,550 --> 00:03:26,889
+Bẫy thường gặp nhất trong thực hành là tính Vt theo cân nặng thực. ARMA và ESICM đều dùng cân nặng dự đoán,
+
+54
+00:03:26,739 --> 00:03:31,390
+dựa trên giới và chiều cao, vì kích thước phổi phụ thuộc chiều cao,
+
+55
+00:03:31,240 --> 00:03:36,833
+không phụ thuộc cân nặng. Với nam: 50 cộng 0,91 nhân chiều cao trừ 152,4. Với nữ:
+
+56
+00:03:36,683 --> 00:03:39,520
+45,5 cộng 0,91 nhân chiều cao trừ 152,4.
+
+57
+00:03:39,720 --> 00:03:45,248
+Ví dụ, một người đàn ông cao 170 xăng ti mét có cân nặng dự đoán khoảng 66 ký,
+
+58
+00:03:45,098 --> 00:03:50,350
+Vt 6 mililít mỗi ký là khoảng 400 mililít, dù người đó nặng 60 hay 100 ký.
+
+59
+00:03:50,550 --> 00:03:53,825
+Ví dụ thứ hai, một phụ nữ cao 155 xăng ti mét,
+
+60
+00:03:53,675 --> 00:03:56,950
+nặng 80 ký. Cân nặng dự đoán chỉ khoảng 48 ký,
+
+61
+00:03:56,800 --> 00:04:02,317
+Vt đúng là khoảng 290 mililít. Nếu tính nhầm theo 80 ký, ta sẽ cài 480 mililít,
+
+62
+00:04:02,167 --> 00:04:07,277
+tức 10 mililít mỗi ký cân nặng dự đoán, gần gấp đôi. Người bệnh nữ, thấp,
+
+63
+00:04:07,127 --> 00:04:10,130
+béo phì là nhóm dễ bị cài Vt quá lớn nhất.
+
+64
+00:04:11,580 --> 00:04:13,363
+Trước khi bàn về bằng chứng,
+
+65
+00:04:13,213 --> 00:04:18,202
+hãy cùng đọc một nhịp thở thể tích kiểm soát trên phổi bình thường: Vt 450 mililít,
+
+66
+00:04:18,052 --> 00:04:18,610
+PEEP 5.
+
+67
+00:04:18,810 --> 00:04:20,320
+Ta đóng băng màn hình.
+
+68
+00:04:20,520 --> 00:04:23,341
+Áp lực đỉnh, P đỉnh, khoảng 19 xăng ti mét nước,
+
+69
+00:04:23,191 --> 00:04:27,070
+là áp lực cần để vừa thắng sức cản đường thở, vừa làm phổi giãn ra.
+
+70
+00:04:27,270 --> 00:04:30,747
+Khi máy giữ khoảng nghỉ cuối thì hít vào, lưu lượng bằng không,
+
+71
+00:04:30,597 --> 00:04:32,279
+áp lực tụt xuống bình nguyên,
+
+72
+00:04:32,129 --> 00:04:36,874
+khoảng 14. Áp lực bình nguyên phản ánh áp lực phế nang cuối thì hít vào. Hiệu số P đỉnh
+
+73
+00:04:36,724 --> 00:04:38,300
+trừ Pplat phản ánh sức cản.
+
+74
+00:04:38,500 --> 00:04:43,423
+Áp lực cuối thì thở ra là PEEP, 5. Và Pplat trừ PEEP chính là driving pressure,
+
+75
+00:04:43,273 --> 00:04:44,329
+hay áp lực đẩy,
+
+76
+00:04:44,179 --> 00:04:49,343
+khoảng 9. Driving pressure bằng Vt chia độ giãn nở. Ở đây độ giãn nở là 450 chia 9,
+
+77
+00:04:49,193 --> 00:04:51,760
+khoảng 50 mililít trên xăng ti mét nước.
+
+78
+00:04:53,210 --> 00:04:57,828
+Bây giờ, hãy đặt hai nhóm của ARMA lên cùng một người bệnh mô phỏng: nam,
+
+79
+00:04:57,678 --> 00:05:03,091
+cân nặng dự đoán 66 ký, ARDS với độ giãn nở 30, PEEP 8. Đầu tiên là nhóm truyền thống,
+
+80
+00:05:02,941 --> 00:05:05,600
+Vt 12 mililít mỗi ký, khoảng 800 mililít.
+
+81
+00:05:05,800 --> 00:05:07,230
+Ta đóng băng màn hình.
+
+82
+00:05:07,430 --> 00:05:11,360
+Áp lực bình nguyên khoảng 35 xăng ti mét nước, vượt ngưỡng 30,
+
+83
+00:05:11,210 --> 00:05:16,482
+và driving pressure khoảng 27. Toàn bộ 800 mililít dồn vào phổi em bé. Lá phổi ở bên
+
+84
+00:05:16,332 --> 00:05:20,140
+phải màn hình chuyển sang màu đỏ cảnh báo căng giãn quá mức.
+
+85
+00:05:20,340 --> 00:05:24,093
+Thông khí phút khoảng 12,8 lít mỗi phút, khí máu có thể rất đẹp,
+
+86
+00:05:23,943 --> 00:05:26,570
+nhưng cái giá là tổn thương phổi do thở máy.
+
+87
+00:05:28,020 --> 00:05:33,475
+Bây giờ ta áp dụng phác đồ ARMA: giảm Vt xuống 6 mililít mỗi ký, khoảng 400 mililít,
+
+88
+00:05:33,325 --> 00:05:36,570
+và tăng tần số từ 16 lên 28 để bù thông khí phút.
+
+89
+00:05:36,770 --> 00:05:39,480
+Sau vài nhịp, máy thở ổn định với thông số mới.
+
+90
+00:05:39,680 --> 00:05:41,110
+Ta đóng băng màn hình.
+
+91
+00:05:41,310 --> 00:05:43,631
+Áp lực bình nguyên giảm còn khoảng 22,
+
+92
+00:05:43,481 --> 00:05:46,831
+driving pressure khoảng 14. Cả hai đều vào vùng an toàn,
+
+93
+00:05:46,681 --> 00:05:48,660
+lá phổi trở lại màu bình thường.
+
+94
+00:05:48,860 --> 00:05:54,006
+Thông khí phút gần như giữ nguyên, khoảng 11 lít mỗi phút. Nhưng hãy để ý thì thở ra:
+
+95
+00:05:53,856 --> 00:05:59,178
+với tần số 28, thời gian thở ra ngắn lại, lưu lượng cuối thì thở ra chưa hoàn toàn về 0,
+
+96
+00:05:59,028 --> 00:06:02,940
+có một chút auto-PEEP. Đây là điều cần theo dõi khi tăng tần số.
+
+97
+00:06:04,390 --> 00:06:10,262
+Năm 2015, Amato và cộng sự đặt câu hỏi: trong các thành phần của thông khí bảo vệ phổi,
+
+98
+00:06:10,112 --> 00:06:15,656
+cái nào thực sự quan trọng? Họ phân tích dữ liệu từng người bệnh của 9 thử nghiệm,
+
+99
+00:06:15,506 --> 00:06:18,550
+tổng cộng 3562 người bệnh ARDS không tự thở.
+
+100
+00:06:18,750 --> 00:06:24,565
+Driving pressure là biến số thông khí liên quan với sống còn mạnh nhất. Mỗi lần tăng một độ lệch chuẩn,
+
+101
+00:06:24,415 --> 00:06:27,700
+khoảng 7 xăng ti mét nước, nguy cơ tử vong tăng 1,41 lần.
+
+102
+00:06:27,900 --> 00:06:34,210
+Và mối liên quan này vẫn tồn tại ngay cả khi áp lực bình nguyên và Vt đã nằm trong giới hạn bảo vệ,
+
+103
+00:06:34,060 --> 00:06:35,890
+với nguy cơ tương đối 1,36.
+
+104
+00:06:36,090 --> 00:06:41,009
+Phân tích trung gian cho thấy giảm driving pressure giải thích 75 phần trăm lợi ích của
+
+105
+00:06:40,859 --> 00:06:42,270
+các thử nghiệm Vt thấp,
+
+106
+00:06:42,120 --> 00:06:45,120
+và 45 phần trăm lợi ích của các thử nghiệm PEEP cao.
+
+107
+00:06:45,320 --> 00:06:46,237
+Nói cách khác,
+
+108
+00:06:46,087 --> 00:06:51,663
+giảm Vt hay tăng PEEP chỉ có lợi khi chúng làm giảm driving pressure. Khi đã biết driving pressure,
+
+109
+00:06:51,513 --> 00:06:55,390
+Vt, PEEP hay áp lực bình nguyên không cho thêm thông tin tiên lượng.
+
+110
+00:06:56,840 --> 00:07:01,847
+Hãy xem vì sao driving pressure mạnh hơn Vt. Đây là người bệnh Vt 400 mililít,
+
+111
+00:07:01,697 --> 00:07:06,019
+đúng 6 mililít mỗi ký, độ giãn nở 40. Áp lực bình nguyên khoảng 20,
+
+112
+00:07:05,869 --> 00:07:08,510
+driving pressure khoảng 10. Rất an toàn.
+
+113
+00:07:08,710 --> 00:07:12,102
+Bây giờ giả sử một người bệnh khác cùng chiều cao, cùng Vt,
+
+114
+00:07:11,952 --> 00:07:15,180
+nhưng phổi em bé nhỏ hơn một nửa, độ giãn nở chỉ còn 20.
+
+115
+00:07:15,380 --> 00:07:18,970
+Cùng 6 mililít mỗi ký, cùng tuân thủ ARMA trên giấy tờ.
+
+116
+00:07:19,170 --> 00:07:20,600
+Ta đóng băng màn hình.
+
+117
+00:07:20,800 --> 00:07:25,350
+Áp lực bình nguyên vọt lên khoảng 30, driving pressure khoảng 20, gấp đôi.
+
+118
+00:07:25,550 --> 00:07:28,194
+Vì driving pressure bằng Vt chia độ giãn nở,
+
+119
+00:07:28,044 --> 00:07:31,538
+nó chuẩn hoá Vt theo kích thước phổi còn hoạt động thực sự,
+
+120
+00:07:31,388 --> 00:07:36,243
+chứ không theo phổi dự đoán của người khoẻ. Đó là lý do một con số 6 mililít mỗi ký
+
+121
+00:07:36,093 --> 00:07:38,340
+không thể an toàn cho mọi người bệnh.
+
+122
+00:07:39,790 --> 00:07:46,016
+Tình huống thứ nhất. Một người đàn ông cao 170 xăng ti mét, ARDS nặng do viêm phổi,
+
+123
+00:07:45,866 --> 00:07:52,458
+an thần sâu, không tự thở. Thở thể tích kiểm soát Vt 400 mililít, đúng 6 mililít mỗi ký,
+
+124
+00:07:52,308 --> 00:07:58,900
+tần số 20, PEEP 10. Áp lực đỉnh 36, áp lực bình nguyên 30, driving pressure 20. pH 7,36.
+
+125
+00:07:59,100 --> 00:08:01,090
+Bước điều chỉnh hợp lý nhất là gì?
+
+126
+00:08:01,290 --> 00:08:04,160
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+127
+00:08:12,760 --> 00:08:18,302
+Đáp án là B. Áp lực bình nguyên đã chạm 30 và driving pressure 20 là cao. Theo phác đồ ARMA,
+
+128
+00:08:18,152 --> 00:08:23,402
+giảm Vt từng 1 mililít mỗi ký, tối thiểu 4, tăng tần số để bù, và chấp nhận PaCO₂ tăng,
+
+129
+00:08:23,252 --> 00:08:24,750
+miễn pH không quá thấp.
+
+130
+00:08:24,950 --> 00:08:30,191
+Tăng PEEP lên 18 mà không đánh giá khả năng huy động có thể chỉ làm tăng áp lực bình nguyên,
+
+131
+00:08:30,041 --> 00:08:35,005
+như chúng ta sẽ thấy ở Phần 4. Chuyển sang áp lực kiểm soát 30 không giải quyết vấn đề,
+
+132
+00:08:34,855 --> 00:08:39,377
+vì áp lực phế nang vẫn cao. Song song, hãy tìm nguyên nhân như thành ngực cứng,
+
+133
+00:08:39,227 --> 00:08:41,590
+tăng áp lực ổ bụng, và cân nhắc nằm sấp.
+
+134
+00:08:43,040 --> 00:08:48,984
+Hãy áp dụng ngay trên mô phỏng: giảm Vt xuống 5 mililít mỗi ký, khoảng 330 mililít,
+
+135
+00:08:48,834 --> 00:08:50,310
+tăng tần số lên 26.
+
+136
+00:08:50,510 --> 00:08:52,500
+Sau vài nhịp, máy thở ổn định.
+
+137
+00:08:52,700 --> 00:08:54,210
+Ta đóng băng màn hình.
+
+138
+00:08:54,410 --> 00:08:59,936
+Áp lực bình nguyên giảm còn khoảng 27 và driving pressure khoảng 17. Đã tốt hơn rõ rệt,
+
+139
+00:08:59,786 --> 00:09:02,160
+dù driving pressure vẫn còn hơi cao.
+
+140
+00:09:02,360 --> 00:09:05,761
+Nếu vẫn chưa đủ, có thể giảm tiếp tới 4 mililít mỗi ký,
+
+141
+00:09:05,611 --> 00:09:11,790
+và quan trọng hơn là các biện pháp như nằm sấp và đánh giá PEEP mà chúng ta sẽ bàn ở Phần 4 và Phần 5.
+
+142
+00:09:13,240 --> 00:09:18,802
+Áp lực bình nguyên 30 có phải là ngưỡng an toàn? Tobin trích một phân tích lại thử nghiệm ARMA:
+
+143
+00:09:18,652 --> 00:09:22,562
+tử vong tăng song song với áp lực bình nguyên, gần như tuyến tính,
+
+144
+00:09:22,412 --> 00:09:24,670
+kể cả ở mức dưới 20 xăng ti mét nước.
+
+145
+00:09:24,870 --> 00:09:29,372
+Điều này gợi ý với phổi đã tổn thương, không có ngưỡng an toàn tuyệt đối. Tuy nhiên,
+
+146
+00:09:29,222 --> 00:09:31,237
+các phân tích khác cho thấy dưới 30,
+
+147
+00:09:31,087 --> 00:09:35,900
+ảnh hưởng của áp lực bình nguyên lên tử vong không còn rõ khi đã tính PEEP và mức độ nặng.
+
+148
+00:09:36,100 --> 00:09:39,819
+Thứ thực sự làm căng phổi là áp lực xuyên phổi. Theo Tobin,
+
+149
+00:09:39,669 --> 00:09:44,234
+áp lực xuyên phổi 15 đến 20 xăng ti mét nước lặp lại mỗi nhịp đã đáng lo,
+
+150
+00:09:44,084 --> 00:09:48,650
+tương ứng áp lực bình nguyên khoảng 25 đến 35 nếu thành ngực bình thường.
+
+151
+00:09:48,850 --> 00:09:51,118
+Để dễ hình dung, ở phổi bình thường,
+
+152
+00:09:50,968 --> 00:09:56,237
+áp lực xuyên phổi chỉ 15 xăng ti mét nước đã đưa phổi lên khoảng hai phần ba dung tích,
+
+153
+00:09:56,087 --> 00:09:58,120
+với thể tích trên 2.500 mililít.
+
+154
+00:09:58,320 --> 00:10:01,708
+Thông điệp thực hành: áp lực bình nguyên 30 là giới hạn trên,
+
+155
+00:10:01,558 --> 00:10:05,637
+không phải mục tiêu. Ở người bệnh không tự thở, theo dõi driving pressure,
+
+156
+00:10:05,487 --> 00:10:09,671
+càng thấp càng tốt. Nhiều chuyên gia dùng mốc driving pressure không quá 15,
+
+157
+00:10:09,521 --> 00:10:12,750
+đây là kiến thức bổ sung, chưa phải khuyến cáo chính thức.
+
+158
+00:10:14,200 --> 00:10:15,581
+Một tình huống đặc biệt:
+
+159
+00:10:15,431 --> 00:10:20,349
+áp lực bình nguyên cao nhưng không phải do phổi. Thành ngực và ổ bụng cứng gặp trong béo phì,
+
+160
+00:10:20,199 --> 00:10:23,887
+tăng áp lực ổ bụng, viêm phúc mạc, bỏng có phù hay vảy da thành ngực,
+
+161
+00:10:23,737 --> 00:10:25,630
+và khi người bệnh gắng sức thở ra.
+
+162
+00:10:25,830 --> 00:10:26,342
+Khi đó,
+
+163
+00:10:26,192 --> 00:10:30,578
+một phần áp lực đường thở chỉ dùng để đẩy thành ngực. Cùng một áp lực bình nguyên,
+
+164
+00:10:30,428 --> 00:10:35,900
+áp lực xuyên phổi thực sự thấp hơn. Giảm Vt chỉ dựa vào áp lực bình nguyên có thể là quá mức cần thiết.
+
+165
+00:10:36,100 --> 00:10:42,250
+Chính Amato cũng lưu ý driving pressure kém chính xác ở người bệnh có độ giãn nở thành ngực rất thấp.
+
+166
+00:10:42,450 --> 00:10:46,129
+Tobin khuyên đo áp lực bàng quang để ước tính áp lực ổ bụng,
+
+167
+00:10:45,979 --> 00:10:49,010
+và áp lực thực quản để ước tính áp lực màng phổi,
+
+168
+00:10:48,860 --> 00:10:53,480
+từ đó tính áp lực xuyên phổi. Chúng ta sẽ trở lại áp lực thực quản ở Phần 4.
+
+169
+00:10:54,930 --> 00:10:58,280
+Có một bẫy rất thường gặp khi dùng Vt thấp: người bệnh đói khí,
+
+170
+00:10:58,130 --> 00:11:01,480
+gắng sức hít vào mạnh và kéo dài hơn thời gian hít vào của máy.
+
+171
+00:11:01,680 --> 00:11:06,539
+Đường đứt màu đỏ trên dải áp lực là gắng sức cơ hô hấp của người bệnh. Thời gian hít
+
+172
+00:11:06,389 --> 00:11:07,940
+vào của máy chỉ 0,6 giây,
+
+173
+00:11:07,790 --> 00:11:10,070
+nhưng người bệnh vẫn tiếp tục hít vào.
+
+174
+00:11:10,270 --> 00:11:11,700
+Ta đóng băng màn hình.
+
+175
+00:11:11,900 --> 00:11:14,784
+Hãy nhìn: ngay khi máy vừa kết thúc nhịp thứ nhất,
+
+176
+00:11:14,634 --> 00:11:17,519
+gắng sức còn lại kích hoạt nhịp thứ hai chồng lên,
+
+177
+00:11:17,369 --> 00:11:23,152
+khi phổi chưa kịp thở ra. Đây là kích hoạt kép. Hai nhịp 400 mililít chồng nhau. Hãy nhìn dải thể tích:
+
+178
+00:11:23,002 --> 00:11:26,433
+thì thở ra kéo xuống tận âm 400 so với mốc của nhịp thứ hai,
+
+179
+00:11:26,283 --> 00:11:29,660
+nghĩa là khí thở ra gần 800 mililít, tức 12 mililít mỗi ký,
+
+180
+00:11:29,510 --> 00:11:33,980
+đúng bằng nhóm truyền thống của ARMA. Áp lực đỉnh của nhịp chồng lên khoảng 33.
+
+181
+00:11:34,180 --> 00:11:40,070
+Màn hình máy thở vẫn hiện Vt 400, nên rất dễ bỏ sót. Xử trí: điều chỉnh an thần,
+
+182
+00:11:39,920 --> 00:11:44,806
+giảm đau, kéo dài thời gian hít vào, và ở ARDS nặng giai đoạn sớm,
+
+183
+00:11:44,656 --> 00:11:49,900
+cân nhắc giãn cơ như đã bàn trong loạt bài giãn cơ SCCM 2026 và Phần 5.
+
+184
+00:11:51,350 --> 00:11:57,985
+Giảm Vt đồng nghĩa với chấp nhận PaCO₂ tăng. Trong ARMA, mục tiêu pH là 7,30 đến 7,45,
+
+185
+00:11:57,835 --> 00:11:59,266
+tần số tối đa 35,
+
+186
+00:11:59,116 --> 00:12:04,620
+và khi pH dưới 7,15 thì cho phép tăng Vt dù áp lực bình nguyên vượt 30.
+
+187
+00:12:04,820 --> 00:12:10,035
+Theo Tobin, lệch nhẹ đến vừa của pH và PaCO₂ thường được dung nạp tốt. Trên thực nghiệm,
+
+188
+00:12:09,885 --> 00:12:14,870
+toan hô hấp còn có thể ức chế viêm. Nhưng tăng CO₂ cũng kích thích trung tâm hô hấp,
+
+189
+00:12:14,720 --> 00:12:17,690
+làm người bệnh đói khí hơn, và gây giãn mạch não.
+
+190
+00:12:17,890 --> 00:12:18,555
+Hiện nay,
+
+191
+00:12:18,405 --> 00:12:23,880
+nguy cơ của tổn thương phổi do thở máy được xem là lớn hơn nguy cơ của tăng CO₂ hay FiO₂ cao.
+
+192
+00:12:24,080 --> 00:12:26,937
+Cần thận trọng ở người bệnh tăng áp lực nội sọ,
+
+193
+00:12:26,787 --> 00:12:30,623
+nhóm đã bị loại khỏi thử nghiệm ARMA. Theo kinh nghiệm lâm sàng,
+
+194
+00:12:30,473 --> 00:12:33,906
+cũng cần thận trọng với suy thất phải nặng, tăng áp phổi,
+
+195
+00:12:33,756 --> 00:12:38,917
+và toan chuyển hoá nặng kèm theo. ESICM 2023 cũng lưu ý tác động của tăng CO₂ chưa được
+
+196
+00:12:38,767 --> 00:12:40,990
+đánh giá riêng trong các thử nghiệm.
+
+197
+00:12:42,440 --> 00:12:46,277
+Nhiều trung tâm chọn áp lực kiểm soát làm mặc định. Ở đây,
+
+198
+00:12:46,127 --> 00:12:49,455
+áp lực hít vào 15 trên PEEP 10. Khi độ giãn nở 40,
+
+199
+00:12:49,305 --> 00:12:54,350
+Vt khoảng 500 mililít. Lưu lượng giảm dần, áp lực phế nang không vượt quá 25.
+
+200
+00:12:54,550 --> 00:12:57,820
+Bây giờ phổi xấu đi, độ giãn nở giảm còn 22.
+
+201
+00:12:58,020 --> 00:13:02,010
+Với áp lực kiểm soát, áp lực vẫn giữ nguyên, nhưng Vt tự giảm.
+
+202
+00:13:02,210 --> 00:13:03,720
+Ta đóng băng màn hình.
+
+203
+00:13:03,920 --> 00:13:06,461
+Vt chỉ còn khoảng 320 mililít. Ưu điểm:
+
+204
+00:13:06,311 --> 00:13:10,752
+áp lực phế nang được giới hạn khi người bệnh không tự thở. Nhược điểm:
+
+205
+00:13:10,602 --> 00:13:14,675
+Vt thay đổi theo độ giãn nở, sức cản và gắng sức của người bệnh,
+
+206
+00:13:14,525 --> 00:13:18,230
+nên phải đặt báo động thể tích và thông khí phút chặt chẽ.
+
+207
+00:13:18,430 --> 00:13:19,378
+Tobin kết luận:
+
+208
+00:13:19,228 --> 00:13:23,848
+khi người bệnh không gắng sức và Vt cùng áp lực nghỉ cuối hít vào được theo dõi sát,
+
+209
+00:13:23,698 --> 00:13:28,425
+chọn thể tích hay áp lực kiểm soát gần như không khác biệt về sinh lý và kết cục. Cách
+
+210
+00:13:28,275 --> 00:13:30,500
+cài đặt quan trọng hơn tên phương thức.
+
+211
+00:13:31,950 --> 00:13:35,068
+Còn một yếu tố nữa ngoài Vt và driving pressure:
+
+212
+00:13:34,918 --> 00:13:39,891
+tần số. Mỗi nhịp thở là một lần phổi bị kéo căng. Tobin dẫn chứng thực nghiệm:
+
+213
+00:13:39,741 --> 00:13:44,900
+với cùng Vt và PEEP, giảm tần số làm chậm hoặc giảm tổn thương khi áp lực đủ cao.
+
+214
+00:13:45,100 --> 00:13:49,570
+Điều này có nghĩa là tăng tần số để bù cho Vt thấp không hoàn toàn miễn phí.
+
+215
+00:13:49,770 --> 00:13:54,004
+Khái niệm năng lượng cơ học, hay mechanical power, gộp Vt, áp lực,
+
+216
+00:13:53,854 --> 00:13:59,388
+tần số và lưu lượng thành tổng năng lượng truyền vào phổi mỗi phút. Đây là kiến thức bổ
+
+217
+00:13:59,238 --> 00:14:04,772
+sung về định nghĩa. Bình luận của Gattinoni về thử nghiệm EOLIA ước tính ECMO giảm năng
+
+218
+00:14:04,622 --> 00:14:07,310
+lượng cơ học từ 28 xuống 10 jun mỗi phút,
+
+219
+00:14:07,160 --> 00:14:10,280
+nhờ giảm Vt 43 phần trăm và tần số 23 phần trăm.
+
+220
+00:14:10,480 --> 00:14:12,077
+Và như đã thấy ở Phần 2,
+
+221
+00:14:11,927 --> 00:14:17,081
+nghiên cứu của Chen năm 2022 cho thấy năng lượng cơ học liên quan tử vong rõ nhất ở
+
+222
+00:14:16,931 --> 00:14:18,950
+phenotype rối loạn cơ học phổi.
+
+223
+00:14:19,150 --> 00:14:25,027
+ESICM 2023 xếp các câu hỏi này vào nhóm cần nghiên cứu: cân bằng giữa Vt và tần số,
+
+224
+00:14:24,877 --> 00:14:28,547
+cá thể hoá Vt theo driving pressure hay độ đàn hồi,
+
+225
+00:14:28,397 --> 00:14:33,860
+và vai trò của loại bỏ CO₂ ngoài cơ thể khi thông khí bảo vệ vẫn còn gây hại.
+
+226
+00:14:35,310 --> 00:14:39,818
+Khuyến cáo 5.1 của ESICM 2023 là khuyến cáo mạnh:
+
+227
+00:14:39,668 --> 00:14:45,954
+dùng Vt thấp 4 đến 8 mililít mỗi ký cân nặng dự đoán, thay vì Vt lớn,
+
+228
+00:14:45,804 --> 00:14:53,780
+để giảm tử vong ở ARDS, áp dụng cả với ARDS do COVID-19, kèm áp lực bình nguyên dưới 30.
+
+229
+00:14:53,980 --> 00:14:58,295
+Điều thú vị là phân tích gộp 7 thử nghiệm không đạt ý nghĩa thống kê:
+
+230
+00:14:58,145 --> 00:15:02,037
+phân tích chính có nguy cơ tương đối 0,96, phân tích phụ 0,82,
+
+231
+00:15:01,887 --> 00:15:04,210
+với dị biệt lớn giữa các thử nghiệm.
+
+232
+00:15:04,410 --> 00:15:09,108
+Hội đồng vẫn khuyến cáo mạnh vì cơ sở sinh lý rất vững từ nghiên cứu động vật và người,
+
+233
+00:15:08,958 --> 00:15:12,454
+vì Vt ở nhánh chứng ngày nay không còn được xem là thông thường,
+
+234
+00:15:12,304 --> 00:15:16,480
+và vì gần như không thể có thử nghiệm mới khi không còn sự cân bằng lâm sàng.
+
+235
+00:15:16,680 --> 00:15:22,201
+Đây là một ví dụ hiếm hoi khuyến cáo mạnh dựa trên ý kiến chuyên gia dù thống kê không có ý nghĩa,
+
+236
+00:15:22,051 --> 00:15:23,790
+và đáng để quý vị hiểu lý do.
+
+237
+00:15:23,990 --> 00:15:26,619
+Lưu ý thực hành: luôn dùng cân nặng dự đoán,
+
+238
+00:15:26,469 --> 00:15:30,620
+và chuẩn bị cho việc Vt thấp có thể cần thêm an thần, thậm chí giãn cơ.
+
+239
+00:15:32,070 --> 00:15:35,202
+Xin tổng hợp thành một quy trình thực hành. Bước một,
+
+240
+00:15:35,052 --> 00:15:39,589
+tính cân nặng dự đoán từ giới và chiều cao. Bước hai, cài Vt 6 mililít mỗi ký,
+
+241
+00:15:39,439 --> 00:15:41,333
+thể tích hoặc áp lực kiểm soát,
+
+242
+00:15:41,183 --> 00:15:44,540
+PEEP và FiO₂ theo bảng mà chúng ta sẽ phân tích ở Phần 4.
+
+243
+00:15:44,740 --> 00:15:49,738
+Bước ba, đo áp lực bình nguyên với khoảng nghỉ 0,5 giây và tính driving pressure,
+
+244
+00:15:49,588 --> 00:15:52,730
+lặp lại mỗi 4 giờ và sau mỗi lần thay đổi máy thở.
+
+245
+00:15:52,930 --> 00:15:56,663
+Nếu áp lực bình nguyên trên 30, hoặc driving pressure cao,
+
+246
+00:15:56,513 --> 00:15:59,320
+giảm Vt từng 1 mililít mỗi ký, tối thiểu 4.
+
+247
+00:15:59,520 --> 00:16:05,350
+Tăng tần số tối đa 35 để giữ pH 7,30 đến 7,45, chấp nhận PaCO₂ tăng.
+
+248
+00:16:05,550 --> 00:16:08,908
+Luôn kiểm tra mất đồng bộ như kích hoạt kép và đói lưu lượng,
+
+249
+00:16:08,758 --> 00:16:11,380
+điều chỉnh an thần và cân nhắc giãn cơ khi cần.
+
+250
+00:16:11,580 --> 00:16:14,774
+Và nếu vẫn không đạt mục tiêu bảo vệ phổi hay oxy hoá,
+
+251
+00:16:14,624 --> 00:16:19,170
+chuyển sang các biện pháp ở Phần 4 và Phần 5: đánh giá PEEP, nằm sấp, và ECMO.
+
+252
+00:16:20,620 --> 00:16:25,719
+Xin tổng kết bảy thông điệp. Một, Vt 6 mililít mỗi ký cân nặng dự đoán:
+
+253
+00:16:25,569 --> 00:16:28,995
+ARMA giảm tử vong từ 39,8 xuống 31,0 phần trăm,
+
+254
+00:16:28,845 --> 00:16:32,690
+và ESICM 2023 khuyến cáo mạnh 4 đến 8 mililít mỗi ký.
+
+255
+00:16:32,890 --> 00:16:37,000
+Hai, luôn dùng cân nặng dự đoán. Người bệnh nữ, thấp, béo phì dễ bị cài Vt quá lớn nhất.
+
+256
+00:16:38,200 --> 00:16:41,797
+Ba, áp lực bình nguyên 30 là giới hạn trên, không phải mục tiêu,
+
+257
+00:16:41,647 --> 00:16:43,790
+vì không có ngưỡng an toàn tuyệt đối.
+
+258
+00:16:43,990 --> 00:16:44,390
+Bốn,
+
+259
+00:16:44,240 --> 00:16:49,579
+driving pressure chuẩn hoá Vt theo phổi em bé. Giảm Vt hay tăng PEEP chỉ có lợi khi
+
+260
+00:16:49,429 --> 00:16:51,580
+chúng làm giảm driving pressure.
+
+261
+00:16:51,780 --> 00:16:56,090
+Năm, áp lực bình nguyên cao chưa chắc do phổi. Hãy nghĩ đến thành ngực và ổ bụng.
+
+262
+00:16:56,290 --> 00:16:58,809
+Sáu, màn hình máy thở không cho thấy hết:
+
+263
+00:16:58,659 --> 00:17:01,640
+kích hoạt kép có thể làm Vt thực tế tăng gấp đôi.
+
+264
+00:17:01,840 --> 00:17:06,540
+Và bảy, tăng CO₂ cho phép là một phần của chiến lược, nhưng có giới hạn. Ở Phần 4,
+
+265
+00:17:06,390 --> 00:17:09,648
+chúng ta sẽ giải bài toán khó hơn: PEEP bao nhiêu là đủ,
+
+266
+00:17:09,498 --> 00:17:15,030
+và có nên huy động phế nang hay không. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

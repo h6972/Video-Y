@@ -1,0 +1,1359 @@
+1
+00:00:04,900 --> 00:00:06,180
+Thưa quý đồng nghiệp,
+
+2
+00:00:06,030 --> 00:00:11,021
+chào mừng quý vị đến với loạt bài giảng chuyên sâu về hội chứng suy hô hấp cấp tiến triển,
+
+3
+00:00:10,871 --> 00:00:11,290
+ARDS.
+
+4
+00:00:11,490 --> 00:00:18,686
+Đây là loạt sáu phần, đi từ bệnh sinh, chẩn đoán, đến thở máy và các biện pháp cứu vãn,
+
+5
+00:00:18,536 --> 00:00:24,760
+bám sát định nghĩa toàn cầu năm 2024, hướng dẫn của ESICM 2023 và ATS 2023.
+
+6
+00:00:24,960 --> 00:00:29,934
+Phần 1 hôm nay trả lời hai câu hỏi nền tảng: ARDS ngày nay được định nghĩa thế nào,
+
+7
+00:00:29,784 --> 00:00:32,550
+và điều gì thực sự xảy ra bên trong phế nang.
+
+8
+00:00:32,750 --> 00:00:34,284
+Hiểu đúng hai điều này,
+
+9
+00:00:34,134 --> 00:00:39,460
+quý vị sẽ thấy mọi khuyến cáo thở máy ở các phần sau đều có lý do sinh lý rất rõ ràng.
+
+10
+00:00:40,910 --> 00:00:44,593
+Trước hết là lộ trình của cả loạt. Phần 1 đặt nền móng: định nghĩa,
+
+11
+00:00:44,443 --> 00:00:45,700
+dịch tễ và bệnh sinh.
+
+12
+00:00:45,900 --> 00:00:47,757
+Phần 2 đi vào chẩn đoán hình ảnh,
+
+13
+00:00:47,607 --> 00:00:51,690
+chẩn đoán phân biệt và khái niệm phân nhóm. Phần 3 là thông khí bảo vệ phổi,
+
+14
+00:00:51,540 --> 00:00:55,570
+với mô phỏng máy thở để quý vị nhìn thấy driving pressure thay đổi thế nào.
+
+15
+00:00:55,770 --> 00:01:01,790
+Phần 4 dành riêng cho PEEP và huy động phế nang. Phần 5 là các biện pháp cứu vãn như nằm sấp,
+
+16
+00:01:01,640 --> 00:01:02,800
+giãn cơ và ECMO.
+
+17
+00:01:03,000 --> 00:01:05,971
+Phần 6 tổng hợp điều trị hỗ trợ, các cập nhật mới,
+
+18
+00:01:05,821 --> 00:01:08,510
+và ôn tập toàn loạt bằng tình huống lâm sàng.
+
+19
+00:01:09,960 --> 00:01:15,618
+Năm 1967, Ashbaugh mô tả 12 người bệnh từ 11 đến 48 tuổi, suy hô hấp thiếu oxy cấp,
+
+20
+00:01:15,468 --> 00:01:18,206
+mờ lan toả hai phổi, giãn nở phổi giảm,
+
+21
+00:01:18,056 --> 00:01:23,316
+phần lớn xuất hiện trong 48 đến 72 giờ sau chấn thương nặng hoặc nhiễm virus,
+
+22
+00:01:23,166 --> 00:01:26,170
+và một số cải thiện oxy khi được dùng PEEP.
+
+23
+00:01:26,370 --> 00:01:31,819
+Năm 1988, định nghĩa ba phần ra đời, dùng thang điểm tổn thương phổi,
+
+24
+00:01:31,669 --> 00:01:34,200
+điểm trên 2,5 được xem là ARDS.
+
+25
+00:01:34,400 --> 00:01:40,909
+Năm 1994, hội nghị đồng thuận Âu – Mỹ, AECC, đưa ra định nghĩa đơn giản: khởi phát cấp,
+
+26
+00:01:40,759 --> 00:01:45,880
+mờ hai bên, áp lực mao mạch phổi bít không quá 18 milimét thuỷ ngân,
+
+27
+00:01:45,730 --> 00:01:48,950
+và tỉ số PaO₂/FiO₂ không quá 200 cho ARDS.
+
+28
+00:01:49,150 --> 00:01:54,490
+Năm 2012, định nghĩa Berlin chia 3 mức độ, yêu cầu PEEP ít nhất 5 xăng ti mét nước,
+
+29
+00:01:54,340 --> 00:01:58,180
+bỏ thuật ngữ tổn thương phổi cấp và bỏ tiêu chí áp lực bít.
+
+30
+00:01:58,380 --> 00:02:03,274
+Và năm 2024, định nghĩa toàn cầu mở rộng sang người bệnh thở oxy dòng cao,
+
+31
+00:02:03,124 --> 00:02:08,530
+chấp nhận SpO₂/FiO₂, siêu âm phổi, và có tiêu chí riêng cho nơi thiếu phương tiện.
+
+32
+00:02:09,980 --> 00:02:16,068
+Vì sao cần định nghĩa lại? Thứ nhất là hình ảnh. Khi các chuyên gia cùng đọc một bộ phim X-quang,
+
+33
+00:02:15,918 --> 00:02:18,150
+mức đồng thuận chỉ đạt kappa 0,55,
+
+34
+00:02:18,000 --> 00:02:23,170
+tỷ lệ phim được xem là phù hợp ARDS dao động từ 36 đến 71 phần trăm tuỳ người đọc.
+
+35
+00:02:23,370 --> 00:02:27,981
+Thứ hai, tỉ số PaO₂/FiO₂ phụ thuộc máy thở: khi tăng PEEP lên từ 10 trở lên,
+
+36
+00:02:27,831 --> 00:02:32,560
+chỉ 70 phần trăm người bệnh còn đạt tiêu chí, và sau một ngày chỉ còn một nửa.
+
+37
+00:02:32,760 --> 00:02:38,127
+Thứ ba, khả năng dự báo tử vong thấp: diện tích dưới đường cong của Berlin là 0,58,
+
+38
+00:02:37,977 --> 00:02:40,830
+của AECC là 0,54, chỉ nhỉnh hơn ngẫu nhiên.
+
+39
+00:02:41,030 --> 00:02:45,255
+Và thứ tư, thực hành đã thay đổi: oxy dòng cao qua mũi dùng rộng rãi,
+
+40
+00:02:45,105 --> 00:02:50,216
+trong đại dịch COVID-19 có 93 phần trăm người bệnh thở oxy dòng cao vẫn đạt tiêu chí
+
+41
+00:02:50,066 --> 00:02:51,987
+ARDS sau khi đặt nội khí quản,
+
+42
+00:02:51,837 --> 00:02:54,940
+trong khi khí máu động mạch ngày càng ít được làm.
+
+43
+00:02:56,390 --> 00:03:01,500
+Định nghĩa 2024 giữ mô hình khái niệm của Berlin, với vài chỉnh sửa nhỏ.
+
+44
+00:03:01,700 --> 00:03:05,071
+ARDS là một tổn thương phổi cấp, lan toả, có bản chất viêm,
+
+45
+00:03:04,921 --> 00:03:09,221
+được khởi phát bởi một yếu tố nguy cơ như viêm phổi, nhiễm khuẩn ngoài phổi,
+
+46
+00:03:09,071 --> 00:03:10,859
+chấn thương, truyền máu, bỏng,
+
+47
+00:03:10,709 --> 00:03:15,282
+hít sặc hay sốc. Hậu quả là tăng tính thấm của mạch máu phổi và biểu mô phế nang,
+
+48
+00:03:15,132 --> 00:03:18,940
+gây phù phổi và xẹp phổi vùng phụ thuộc, tức là mất mô phổi có khí.
+
+49
+00:03:19,140 --> 00:03:23,825
+Các dấu ấn lâm sàng là thiếu oxy máu và mờ lan toả trên phim, đi kèm tăng shunt,
+
+50
+00:03:23,675 --> 00:03:26,490
+tăng khoảng chết phế nang và giảm giãn nở phổi.
+
+51
+00:03:26,690 --> 00:03:31,609
+Lưu ý quan trọng: biểu hiện lâm sàng bị ảnh hưởng bởi chính điều trị, gồm tư thế,
+
+52
+00:03:31,459 --> 00:03:34,200
+an thần, giãn cơ, mức PEEP và cân bằng dịch.
+
+53
+00:03:34,400 --> 00:03:38,734
+Về mô bệnh học, có thể thấy phù trong phế nang, viêm, màng hyaline và xuất huyết,
+
+54
+00:03:38,584 --> 00:03:40,851
+gọi chung là tổn thương phế nang lan toả,
+
+55
+00:03:40,701 --> 00:03:45,190
+nhưng những hình ảnh này không phải lúc nào cũng có, và không bắt buộc để chẩn đoán.
+
+56
+00:03:46,640 --> 00:03:49,190
+Có ba tiêu chí áp dụng chung cho mọi nhóm.
+
+57
+00:03:49,390 --> 00:03:53,653
+Một, yếu tố nguy cơ và nguồn gốc phù: phải có một yếu tố khởi phát cấp,
+
+58
+00:03:53,503 --> 00:03:56,376
+phù phổi không chủ yếu do tim hay quá tải dịch,
+
+59
+00:03:56,226 --> 00:03:59,968
+và thiếu oxy không chủ yếu do xẹp phổi. Nhưng điểm tinh tế là:
+
+60
+00:03:59,818 --> 00:04:03,096
+vẫn chẩn đoán được ARDS khi có kèm các tình trạng này,
+
+61
+00:04:02,946 --> 00:04:08,020
+miễn là có yếu tố nguy cơ và thầy thuốc nhận định chúng không phải nguyên nhân chính.
+
+62
+00:04:08,220 --> 00:04:11,598
+Hai, thời gian: khởi phát hoặc nặng lên trong vòng một tuần,
+
+63
+00:04:11,448 --> 00:04:16,654
+giữ nguyên như Berlin. Hội đồng đã cân nhắc kéo dài mốc này vì COVID-19 thường diễn tiến âm ỉ,
+
+64
+00:04:16,504 --> 00:04:20,850
+nhưng cho rằng việc đưa oxy dòng cao vào định nghĩa đã giúp nhận diện sớm hơn.
+
+65
+00:04:21,050 --> 00:04:23,574
+Ba, hình ảnh: mờ hai bên trên X-quang hay CT,
+
+66
+00:04:23,424 --> 00:04:27,319
+hoặc nay có thể dùng siêu âm phổi với đường B và hoặc đông đặc hai bên,
+
+67
+00:04:27,169 --> 00:04:31,275
+không giải thích hoàn toàn bởi tràn dịch, xẹp phổi hay khối u. Với siêu âm,
+
+68
+00:04:31,125 --> 00:04:33,280
+người thực hiện phải được đào tạo tốt.
+
+69
+00:04:34,730 --> 00:04:39,280
+Điểm đổi mới lớn nhất là chia ARDS thành ba nhóm theo hoàn cảnh hỗ trợ hô hấp.
+
+70
+00:04:39,480 --> 00:04:46,510
+Nhóm thứ nhất, hoàn toàn mới, là ARDS không đặt nội khí quản: PaO₂/FiO₂ không quá 300,
+
+71
+00:04:46,360 --> 00:04:51,470
+hoặc SpO₂/FiO₂ không quá 315 khi SpO₂ không vượt 97 phần trăm,
+
+72
+00:04:51,670 --> 00:04:54,998
+trên nền oxy dòng cao qua mũi ít nhất 30 lít mỗi phút,
+
+73
+00:04:54,848 --> 00:05:00,060
+hoặc thở máy không xâm lấn hay CPAP với áp lực cuối thở ra ít nhất 5 xăng ti mét nước.
+
+74
+00:05:00,260 --> 00:05:08,278
+Nhóm thứ hai là ARDS đặt nội khí quản, giữ 3 mức độ: nhẹ khi PaO₂/FiO₂ trên 200 đến 300,
+
+75
+00:05:08,128 --> 00:05:16,146
+vừa khi trên 100 đến 200, nặng khi không quá 100. Các ngưỡng SpO₂/FiO₂ tương ứng là 315,
+
+76
+00:05:15,996 --> 00:05:17,130
+235 và 148.
+
+77
+00:05:17,330 --> 00:05:20,956
+Mọi mức độ trong nhóm này đều cần PEEP ít nhất 5 xăng ti mét nước,
+
+78
+00:05:20,806 --> 00:05:23,800
+và người bệnh có thể chuyển nhóm trong quá trình bệnh.
+
+79
+00:05:24,000 --> 00:05:29,382
+Nhóm thứ ba dành cho nơi thiếu phương tiện, chính thức tiếp nhận cải biên Kigali:
+
+80
+00:05:29,232 --> 00:05:34,550
+chỉ cần SpO₂/FiO₂ không quá 315, không yêu cầu PEEP hay lưu lượng oxy tối thiểu.
+
+81
+00:05:36,000 --> 00:05:40,470
+SpO₂/FiO₂ là công cụ rẻ và sẵn có, nhưng phải dùng đúng.
+
+82
+00:05:40,670 --> 00:05:43,348
+Chỉ dùng khi SpO₂ không quá 97 phần trăm,
+
+83
+00:05:43,198 --> 00:05:46,370
+vì ở phần phẳng phía trên của đường cong phân ly,
+
+84
+00:05:46,220 --> 00:05:49,947
+SpO₂ không còn phản ánh PaO₂. Đo khi người bệnh nghỉ ngơi,
+
+85
+00:05:49,797 --> 00:05:53,585
+ít nhất 30 phút sau khi đổi tư thế, FiO₂ hay lưu lượng oxy,
+
+86
+00:05:53,435 --> 00:05:58,888
+với sóng mạch tốt. Hội đồng chọn phương trình tuyến tính của Rice để quy đổi ngưỡng vì
+
+87
+00:05:58,738 --> 00:06:01,170
+đơn giản mà độ chính xác tương đương.
+
+88
+00:06:01,370 --> 00:06:03,032
+Khi thở oxy thông thường,
+
+89
+00:06:02,882 --> 00:06:09,141
+ước tính FiO₂ bằng 0,21 cộng 0,03 nhân lưu lượng oxy tính bằng lít mỗi phút. Ở độ cao trên 1.000 mét,
+
+90
+00:06:08,991 --> 00:06:11,440
+cần hiệu chỉnh theo áp suất khí quyển.
+
+91
+00:06:11,640 --> 00:06:12,988
+Và cần biết hạn chế:
+
+92
+00:06:12,838 --> 00:06:17,361
+máy đo SpO₂ có thể bỏ sót thiếu oxy ở người bệnh sốc và người da sẫm màu,
+
+93
+00:06:17,211 --> 00:06:22,872
+không dùng khi nghi bất thường hemoglobin. Khi kết quả có thể thay đổi chẩn đoán hay xử trí,
+
+94
+00:06:22,722 --> 00:06:24,430
+hãy làm khí máu động mạch.
+
+95
+00:06:25,880 --> 00:06:30,271
+Tình huống thứ nhất. Một phụ nữ 54 tuổi, viêm phổi COVID-19,
+
+96
+00:06:30,121 --> 00:06:35,926
+khó thở tăng dần trong 6 ngày. Bà đang thở oxy dòng cao qua mũi 40 lít mỗi phút,
+
+97
+00:06:35,776 --> 00:06:39,390
+FiO₂ 0,8, SpO₂ 91 phần trăm, X-quang mờ hai phổi.
+
+98
+00:06:39,590 --> 00:06:43,900
+Theo định nghĩa toàn cầu 2024, chẩn đoán nào phù hợp nhất?
+
+99
+00:06:44,100 --> 00:06:46,970
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+100
+00:06:55,570 --> 00:07:02,317
+Đáp án là B. SpO₂/FiO₂ bằng 91 chia 0,8, khoảng 114, thấp hơn nhiều so với ngưỡng 315,
+
+101
+00:07:02,167 --> 00:07:07,150
+SpO₂ không quá 97 phần trăm, oxy dòng cao trên 30 lít mỗi phút,
+
+102
+00:07:07,000 --> 00:07:11,830
+khởi phát trong một tuần. Đây là ARDS không đặt nội khí quản.
+
+103
+00:07:12,030 --> 00:07:14,111
+Điều đáng suy nghĩ là: theo Berlin,
+
+104
+00:07:13,961 --> 00:07:18,525
+người bệnh này chưa được gọi là ARDS. Định nghĩa mới cho phép nhận diện sớm hơn,
+
+105
+00:07:18,375 --> 00:07:21,780
+và chính điều đó mở đường cho các thử nghiệm can thiệp sớm.
+
+106
+00:07:23,230 --> 00:07:28,328
+Về dịch tễ, tần suất ARDS khó xác định vì định nghĩa thay đổi nhiều lần,
+
+107
+00:07:28,178 --> 00:07:34,444
+các ước tính dao động từ 7 đến 85 ca trên 100.000 dân. Nghiên cứu tiến cứu ở King County,
+
+108
+00:07:34,294 --> 00:07:40,010
+Hoa Kỳ, ghi nhận 78,9 ca trên 100.000 người-năm, được xem là con số đáng tin cậy.
+
+109
+00:07:40,210 --> 00:07:47,319
+Nghiên cứu LUNG SAFE tại 459 đơn vị hồi sức ở 50 quốc gia cho thấy tỷ lệ ARDS rất khác nhau giữa các đơn vị,
+
+110
+00:07:47,169 --> 00:07:52,280
+và khoảng một phần tư là ARDS nặng ở châu Âu và các nước thu nhập trung bình.
+
+111
+00:07:52,480 --> 00:07:55,627
+ARDS thường khởi phát nhanh, trung vị 1 đến 2 ngày,
+
+112
+00:07:55,477 --> 00:07:59,975
+hơn 90 phần trăm xuất hiện trong 5 ngày đầu sau yếu tố khởi phát. Tuy vậy,
+
+113
+00:07:59,825 --> 00:08:01,444
+trong nghiên cứu PROVENT,
+
+114
+00:08:01,294 --> 00:08:05,910
+chỉ 7 phần trăm người bệnh hồi sức có nguy cơ thực sự tiến triển thành ARDS.
+
+115
+00:08:07,360 --> 00:08:12,482
+Các yếu tố nguy cơ được chia thành trực tiếp và gián tiếp. Nhóm trực tiếp tổn thương biểu mô trước,
+
+116
+00:08:12,332 --> 00:08:16,199
+gồm viêm phổi, hít sặc dịch dạ dày, đụng dập phổi, hít khí độc, đuối nước,
+
+117
+00:08:16,049 --> 00:08:18,710
+và gần đây là tổn thương phổi do thuốc lá điện tử.
+
+118
+00:08:18,910 --> 00:08:22,854
+Nhóm gián tiếp tổn thương nội mô trước, đứng đầu là nhiễm khuẩn huyết:
+
+119
+00:08:22,704 --> 00:08:27,352
+30 đến 40 phần trăm người bệnh nhiễm khuẩn huyết nằm hồi sức tiến triển thành ARDS.
+
+120
+00:08:27,202 --> 00:08:28,869
+Tiếp theo là đa chấn thương,
+
+121
+00:08:28,719 --> 00:08:30,820
+sốc, truyền máu nhiều, viêm tuỵ cấp.
+
+122
+00:08:31,020 --> 00:08:33,371
+Hai nhóm này khác nhau về dấu ấn sinh học:
+
+123
+00:08:33,221 --> 00:08:36,411
+tổn thương trực tiếp có dấu ấn tổn thương biểu mô cao hơn,
+
+124
+00:08:36,261 --> 00:08:40,552
+gián tiếp có dấu ấn tổn thương nội mô cao hơn, nhưng trong nghiên cứu lớn nhất,
+
+125
+00:08:40,402 --> 00:08:41,810
+tử vong không khác nhau.
+
+126
+00:08:42,010 --> 00:08:44,444
+Riêng với vùng nhiệt đới như Việt Nam,
+
+127
+00:08:44,294 --> 00:08:49,735
+một nghiên cứu tại Ấn Độ cho thấy bốn nguyên nhân hàng đầu là leptospira 18,7 phần trăm,
+
+128
+00:08:49,585 --> 00:08:51,779
+viêm phế quản phổi 17,3 phần trăm,
+
+129
+00:08:51,629 --> 00:08:57,670
+sốt mò 12 phần trăm và sốt xuất huyết 12 phần trăm. Đây là những nguyên nhân quý vị gặp hằng ngày.
+
+130
+00:08:59,120 --> 00:09:04,391
+Hãy nhìn hai phim X-quang. Bên trái là một ca ARDS biến chứng sốt phát ban do Rickettsia,
+
+131
+00:09:04,241 --> 00:09:07,670
+một nguyên nhân nhiệt đới, với mờ lan toả hai phế trường.
+
+132
+00:09:07,870 --> 00:09:11,908
+Chính vì đặc điểm này, ở vùng nhiệt đới, khi gặp suy hô hấp cấp kèm sốt,
+
+133
+00:09:11,758 --> 00:09:16,660
+quý vị cần nghĩ đến leptospira, sốt mò, sốt xuất huyết, bên cạnh viêm phổi thông thường.
+
+134
+00:09:16,860 --> 00:09:21,890
+Bên phải là ARDS nặng ở người bệnh thở máy, mờ lan toả gần như toàn bộ hai phổi.
+
+135
+00:09:22,090 --> 00:09:24,580
+Điểm gợi ý ARDS trên phim là mờ hai bên,
+
+136
+00:09:24,430 --> 00:09:29,553
+thường không kèm các dấu hiệu tăng áp lực như đường vách liên tiểu thuỳ hay tràn dịch
+
+137
+00:09:29,403 --> 00:09:31,133
+màng phổi nhiều. Tuy nhiên,
+
+138
+00:09:30,983 --> 00:09:32,829
+như chúng ta sẽ bàn ở Phần 2,
+
+139
+00:09:32,679 --> 00:09:37,100
+X-quang đơn thuần không thể phân biệt chắc chắn ARDS với phù phổi do tim.
+
+140
+00:09:38,550 --> 00:09:42,540
+Bây giờ chúng ta đi vào bệnh sinh. Hãy bắt đầu từ một phế nang bình thường.
+
+141
+00:09:42,740 --> 00:09:46,970
+Hàng rào phế nang – mao mạch gồm hai lớp: lớp nội mô mao mạch phía dưới,
+
+142
+00:09:46,820 --> 00:09:51,050
+và lớp biểu mô phế nang phía trên, ngăn cách bởi một lớp mô kẽ rất mỏng.
+
+143
+00:09:51,250 --> 00:09:56,032
+Biểu mô phế nang có hai loại tế bào. Tế bào type một mỏng, phủ phần lớn bề mặt,
+
+144
+00:09:55,882 --> 00:09:59,316
+là nơi trao đổi khí. Tế bào type hai hình khối, nhỏ hơn,
+
+145
+00:09:59,166 --> 00:10:02,600
+sản xuất surfactant và là tế bào gốc để tái tạo biểu mô.
+
+146
+00:10:02,800 --> 00:10:05,254
+Lớp surfactant làm giảm sức căng bề mặt,
+
+147
+00:10:05,104 --> 00:10:09,977
+giữ cho phế nang không xẹp ở cuối thì thở ra. Và đại thực bào phế nang thường trú,
+
+148
+00:10:09,827 --> 00:10:11,590
+là tế bào canh gác đầu tiên.
+
+149
+00:10:11,790 --> 00:10:12,569
+Trong ARDS,
+
+150
+00:10:12,419 --> 00:10:17,140
+cả hai lớp của hàng rào này đều bị tổn thương. Hãy xem điều gì xảy ra từng bước.
+
+151
+00:10:18,590 --> 00:10:23,342
+Bước thứ nhất: tổn thương xảy ra ở cả hai phía của hàng rào. Với nhiễm khuẩn huyết,
+
+152
+00:10:23,192 --> 00:10:27,057
+tổn thương thường bắt đầu ở nội mô; với hít sặc, bắt đầu ở biểu mô,
+
+153
+00:10:26,907 --> 00:10:29,940
+nhưng khi chẩn đoán thì cả hai đều đã bị tổn thương.
+
+154
+00:10:30,140 --> 00:10:34,869
+Nội mô bị hoạt hoá, tăng giải phóng yếu tố von Willebrand, angiopoietin 2,
+
+155
+00:10:34,719 --> 00:10:36,972
+tăng biểu hiện selectin và ICAM-1,
+
+156
+00:10:36,822 --> 00:10:42,850
+làm tăng tính thấm. Yếu tố von Willebrand cao dự báo khả năng xuất hiện ARDS và tiên lượng xấu.
+
+157
+00:10:43,050 --> 00:10:47,268
+Tế bào biểu mô type một chết do hoại tử và chết theo chương trình. Dấu ấn RAGE,
+
+158
+00:10:47,118 --> 00:10:51,440
+vốn biểu hiện nhiều trên tế bào biểu mô phế nang, tăng cao trong máu và dịch phù.
+
+159
+00:10:51,640 --> 00:10:57,244
+Hậu quả là dịch phù giàu protein tràn vào phế nang. Đây là điểm khác biệt cơ bản với phù phổi do tim,
+
+160
+00:10:57,094 --> 00:11:02,590
+nơi dịch phù nghèo protein. Biểu mô tổn thương còn mất khả năng bơm natri và nước ra khỏi phế nang.
+
+161
+00:11:02,790 --> 00:11:07,318
+Những người bệnh còn giữ được tốc độ thanh thải dịch phế nang nhanh có ít ngày thở máy
+
+162
+00:11:07,168 --> 00:11:08,540
+hơn và tử vong thấp hơn.
+
+163
+00:11:08,740 --> 00:11:12,756
+Bước tiếp theo, bạch cầu đa nhân trung tính bị kẹt lại trong mao mạch phổi,
+
+164
+00:11:12,606 --> 00:11:14,560
+vì khi hoạt hoá chúng trở nên cứng,
+
+165
+00:11:14,410 --> 00:11:18,683
+không biến dạng để đi qua lòng mao mạch hẹp được. Chúng xuyên mạch vào phế nang,
+
+166
+00:11:18,533 --> 00:11:21,930
+giải phóng elastase, gốc oxy hoá và bẫy ngoại bào, gọi là NETs.
+
+167
+00:11:23,380 --> 00:11:28,735
+Tổn thương sau đó tự khuếch đại. Đại thực bào phế nang và bạch cầu giải phóng TNF anpha,
+
+168
+00:11:28,585 --> 00:11:33,290
+interleukin 1 bêta, interleukin 6, interleukin 8, kéo thêm bạch cầu vào phổi.
+
+169
+00:11:33,490 --> 00:11:34,496
+Mảnh vụn tế bào,
+
+170
+00:11:34,346 --> 00:11:38,350
+protein và surfactant kết đặc lại thành màng hyaline lót thành phế nang,
+
+171
+00:11:38,200 --> 00:11:41,080
+hình ảnh kinh điển của tổn thương phế nang lan toả.
+
+172
+00:11:41,280 --> 00:11:46,180
+Surfactant bị bất hoạt bởi protein huyết tương tràn vào và bị elastase phá huỷ,
+
+173
+00:11:46,030 --> 00:11:51,110
+tế bào type hai tổn thương sản xuất kém đi. Sức căng bề mặt tăng, phế nang dễ xẹp.
+
+174
+00:11:51,310 --> 00:11:54,069
+Khác với hội chứng suy hô hấp ở trẻ sơ sinh,
+
+175
+00:11:53,919 --> 00:11:58,397
+bổ sung surfactant ở người lớn ARDS đã thất bại trong bốn thử nghiệm lớn,
+
+176
+00:11:58,247 --> 00:12:01,540
+cho thấy thiếu surfactant không phải là cơ chế chính.
+
+177
+00:12:01,740 --> 00:12:06,954
+Song song là vòng xoắn viêm – đông máu: TNF anpha tăng yếu tố mô, ức chế tiêu sợi huyết,
+
+178
+00:12:06,804 --> 00:12:13,169
+tạo vi huyết khối trong mao mạch và fibrin trong phế nang. Bằng chứng rõ nhất là các ca tử vong do COVID-19,
+
+179
+00:12:13,019 --> 00:12:15,010
+với huyết khối vi mạch lan rộng.
+
+180
+00:12:16,460 --> 00:12:21,748
+Vai trò của bạch cầu đa nhân có nhiều bằng chứng. Một trong những dấu hiệu sớm nhất của ARDS,
+
+181
+00:12:21,598 --> 00:12:23,185
+có khi trước cả thiếu oxy,
+
+182
+00:12:23,035 --> 00:12:26,610
+là giảm bạch cầu thoáng qua do bạch cầu bị giữ lại trong phổi.
+
+183
+00:12:26,810 --> 00:12:31,647
+Có bạch cầu trong dịch rửa phế quản phế nang ở người bệnh ARDS do nhiễm khuẩn huyết là
+
+184
+00:12:31,497 --> 00:12:32,955
+dấu hiệu tiên lượng xấu,
+
+185
+00:12:32,805 --> 00:12:35,680
+và chuột thiếu bạch cầu bị tổn thương phổi ít hơn.
+
+186
+00:12:35,880 --> 00:12:38,264
+Bẫy ngoại bào bạch cầu là những lưới DNA,
+
+187
+00:12:38,114 --> 00:12:40,824
+histone và enzyme. Chúng giúp bắt giữ vi khuẩn,
+
+188
+00:12:40,674 --> 00:12:44,692
+nhưng cũng làm tổn thương nội mô và tạo huyết khối. Trên mô hình chuột,
+
+189
+00:12:44,542 --> 00:12:47,470
+phân huỷ chúng bằng DNase làm giảm tổn thương phổi.
+
+190
+00:12:47,670 --> 00:12:51,000
+Tuy nhiên, ARDS vẫn xảy ra ở người bệnh giảm bạch cầu nặng,
+
+191
+00:12:50,850 --> 00:12:55,580
+và có thể nặng lên khi bạch cầu hồi phục hoặc khi dùng G-CSF. Thử nghiệm thuốc ức chế
+
+192
+00:12:55,430 --> 00:12:58,598
+elastase đã dừng vì không hiệu quả. Bạch cầu quan trọng,
+
+193
+00:12:58,448 --> 00:13:00,700
+nhưng không phải là toàn bộ câu chuyện.
+
+194
+00:13:02,150 --> 00:13:03,931
+Từ những thay đổi ở phế nang,
+
+195
+00:13:03,781 --> 00:13:08,769
+hãy nối sang sinh lý bệnh trao đổi khí. Phế nang ngập dịch hoặc xẹp vẫn được tưới máu,
+
+196
+00:13:08,619 --> 00:13:09,500
+tạo ra shunt.
+
+197
+00:13:09,700 --> 00:13:14,707
+Thêm vào đó, phản xạ co mạch do thiếu oxy, vốn giúp chuyển máu khỏi vùng kém thông khí,
+
+198
+00:13:14,557 --> 00:13:18,614
+bị suy giảm trong vùng tổn thương. Kết quả là thiếu oxy máu kháng trị,
+
+199
+00:13:18,464 --> 00:13:20,010
+ít đáp ứng với tăng FiO₂.
+
+200
+00:13:20,210 --> 00:13:24,632
+Ngược lại, vi huyết khối và co mạch ở vùng phổi còn thông khí tạo ra khoảng chết,
+
+201
+00:13:24,482 --> 00:13:27,480
+buộc người bệnh phải tăng thông khí phút để giữ PaCO₂.
+
+202
+00:13:27,680 --> 00:13:32,970
+Tăng sức cản mạch phổi dẫn đến tăng áp phổi và suy thất phải cấp. Siêu âm tim qua thực
+
+203
+00:13:32,820 --> 00:13:38,110
+quản phát hiện suy thất phải cấp ở 22 phần trăm trong 226 người bệnh ARDS vừa và nặng,
+
+204
+00:13:37,960 --> 00:13:43,190
+liên quan với tử vong 28 ngày tăng gần gấp đôi. Điều thú vị là sildenafil làm giảm áp
+
+205
+00:13:43,040 --> 00:13:45,581
+lực động mạch phổi nhưng lại tăng shunt,
+
+206
+00:13:45,431 --> 00:13:48,390
+gợi ý tăng áp phổi một phần là phản ứng bù trừ.
+
+207
+00:13:48,590 --> 00:13:51,598
+Và cuối cùng, giãn nở hệ hô hấp giảm, chủ yếu do phổi,
+
+208
+00:13:51,448 --> 00:13:56,043
+nhưng thành ngực và ổ bụng cũng góp phần trong chấn thương hay viêm phúc mạc. Vì sao
+
+209
+00:13:55,893 --> 00:13:59,060
+phổi kém giãn nở? Câu trả lời nằm ở khái niệm phổi em bé.
+
+210
+00:14:00,510 --> 00:14:04,611
+Đây là lát cắt ngang lồng ngực của một người bệnh ARDS nằm ngửa,
+
+211
+00:14:04,461 --> 00:14:08,500
+vẽ lại theo khái niệm mà Gattinoni và Pesenti mô tả từ phim CT.
+
+212
+00:14:08,700 --> 00:14:12,690
+Vùng phía trước, không phụ thuộc trọng lực, còn thông khí tương đối bình thường.
+
+213
+00:14:12,890 --> 00:14:15,633
+Đi dần về phía lưng, phổi chuyển thành kính mờ,
+
+214
+00:14:15,483 --> 00:14:21,040
+rồi đông đặc và xẹp ở vùng phụ thuộc trọng lực. Tổn thương ARDS không đồng nhất như X-quang gợi ý.
+
+215
+00:14:21,240 --> 00:14:24,231
+Phần phổi còn khí để thông khí thực sự rất nhỏ,
+
+216
+00:14:24,081 --> 00:14:26,830
+như phổi của một đứa trẻ. Đó là phổi em bé.
+
+217
+00:14:27,030 --> 00:14:30,665
+Amato và cộng sự nhấn mạnh: phổi có khí trong ARDS không cứng,
+
+218
+00:14:30,515 --> 00:14:35,442
+mà nhỏ. Độ giãn nở riêng của phần phổi lành gần như bình thường. Giãn nở đo được giảm
+
+219
+00:14:35,292 --> 00:14:38,140
+chủ yếu vì số phế nang tham gia thông khí ít đi.
+
+220
+00:14:38,340 --> 00:14:43,117
+Hệ quả lâm sàng cực kỳ quan trọng: một thể tích khí lưu tính theo cân nặng lý tưởng,
+
+221
+00:14:42,967 --> 00:14:44,164
+nghe có vẻ an toàn,
+
+222
+00:14:44,014 --> 00:14:48,681
+vẫn có thể quá lớn đối với phổi em bé. Đây chính là nền tảng của khái niệm driving
+
+223
+00:14:48,531 --> 00:14:51,050
+pressure mà chúng ta sẽ phân tích ở Phần 3.
+
+224
+00:14:52,500 --> 00:14:54,514
+Thở máy cứu sống người bệnh ARDS,
+
+225
+00:14:54,364 --> 00:14:59,370
+nhưng chính nó cũng có thể làm tổn thương phổi. Đây gọi là tổn thương phổi do thở máy.
+
+226
+00:14:59,570 --> 00:15:03,927
+Cơ chế thứ nhất là tổn thương do thể tích. Khi bơm một thể tích khí vào phổi em bé,
+
+227
+00:15:03,777 --> 00:15:08,134
+khí dồn vào vùng phổi lành, gây căng giãn quá mức. Thí nghiệm kinh điển trên chuột:
+
+228
+00:15:07,984 --> 00:15:09,807
+khi bó ngực để giới hạn thể tích,
+
+229
+00:15:09,657 --> 00:15:13,507
+cùng một áp lực đường thở cao nhưng không gây phù phổi; còn thể tích lớn,
+
+230
+00:15:13,357 --> 00:15:17,512
+dù áp lực thấp, gây phù nặng nhất. Chính thể tích, không phải áp lực đơn thuần,
+
+231
+00:15:17,362 --> 00:15:18,120
+là thủ phạm.
+
+232
+00:15:18,320 --> 00:15:21,830
+Đây cũng là lý do người ta đặt ra thuật ngữ volutrauma.
+
+233
+00:15:22,030 --> 00:15:27,670
+Cơ chế thứ hai là tổn thương do xẹp – mở lặp đi lặp lại. Tại ranh giới giữa vùng xẹp và vùng có khí,
+
+234
+00:15:27,520 --> 00:15:30,525
+mỗi nhịp thở mở ra rồi đóng lại các đơn vị phế nang,
+
+235
+00:15:30,375 --> 00:15:33,655
+tạo lực xé rất lớn. PEEP về lý thuyết hạn chế cơ chế này,
+
+236
+00:15:33,505 --> 00:15:36,400
+nhưng phải cân bằng với nguy cơ căng giãn quá mức.
+
+237
+00:15:36,600 --> 00:15:39,261
+Hai cơ chế cơ học này dẫn tới cơ chế thứ ba:
+
+238
+00:15:39,111 --> 00:15:45,310
+tổn thương do viêm. Thông khí với thể tích lớn và không có PEEP làm tăng cytokine trong phổi và trong máu.
+
+239
+00:15:45,510 --> 00:15:49,352
+Ở người, chiến lược bảo vệ phổi trong 36 giờ làm giảm cytokine,
+
+240
+00:15:49,202 --> 00:15:54,275
+còn chiến lược kiểm soát làm tăng. Thậm chí chỉ một giờ sau khi bỏ thông khí bảo vệ,
+
+241
+00:15:54,125 --> 00:15:55,740
+cytokine đã tăng trở lại.
+
+242
+00:15:55,940 --> 00:15:58,001
+Thêm vào đó là chấn thương áp lực,
+
+243
+00:15:57,851 --> 00:16:02,666
+với tràn khí màng phổi khoảng 12 đến 13 phần trăm trong kỷ nguyên thông khí bảo vệ,
+
+244
+00:16:02,516 --> 00:16:04,970
+và ngộ độc oxy khi dùng FiO₂ cao kéo dài.
+
+245
+00:16:06,420 --> 00:16:11,146
+Tại sao điều này quan trọng? Vì tổn thương phổi do thở máy không dừng lại ở phổi. Thông
+
+246
+00:16:10,996 --> 00:16:14,250
+khí gây hại tạo tổn thương cơ học do căng giãn và xẹp – mở.
+
+247
+00:16:14,450 --> 00:16:18,280
+Phản ứng viêm mất tính khoanh vùng tại phổi, cytokine tràn vào máu.
+
+248
+00:16:18,480 --> 00:16:20,942
+Và dẫn tới suy đa cơ quan. Trên thực nghiệm,
+
+249
+00:16:20,792 --> 00:16:25,670
+thông khí gây hại ở chuột làm tăng chết theo chương trình của tế bào ống thận và suy thận.
+
+250
+00:16:25,870 --> 00:16:30,882
+Một nguồn tổn thương khác cần biết là tổn thương phổi do người bệnh tự gắng sức,
+
+251
+00:16:30,732 --> 00:16:33,557
+viết tắt P-SILI. Hướng dẫn ESICM 2023 lưu ý:
+
+252
+00:16:33,407 --> 00:16:38,480
+khi thở máy không xâm lấn với mức hỗ trợ cao, gắng sức hít vào mạnh, hoặc cả hai,
+
+253
+00:16:38,330 --> 00:16:43,160
+áp lực xuyên phổi có thể rất lớn, tương tự như tổn thương do thở máy xâm lấn.
+
+254
+00:16:43,360 --> 00:16:45,963
+Điều này giải thích một nghịch lý kinh điển:
+
+255
+00:16:45,813 --> 00:16:48,694
+phần lớn người bệnh ARDS không chết vì thiếu oxy,
+
+256
+00:16:48,544 --> 00:16:52,206
+mà vì nhiễm khuẩn huyết và suy đa cơ quan. Bảo vệ phổi, vì vậy,
+
+257
+00:16:52,056 --> 00:16:53,990
+cũng là bảo vệ các cơ quan khác.
+
+258
+00:16:55,440 --> 00:16:56,448
+Về mô bệnh học,
+
+259
+00:16:56,298 --> 00:17:01,196
+ARDS diễn tiến qua ba giai đoạn chồng lấp nhau. Giai đoạn xuất tiết trong tuần đầu:
+
+260
+00:17:01,046 --> 00:17:04,628
+màng hyaline, phù giàu protein, bạch cầu đa nhân thâm nhiễm,
+
+261
+00:17:04,478 --> 00:17:06,630
+gọi là tổn thương phế nang lan toả.
+
+262
+00:17:06,830 --> 00:17:11,160
+Ở một số người bệnh, sau khoảng 7 đến 10 ngày, chuyển sang giai đoạn tăng sinh:
+
+263
+00:17:11,010 --> 00:17:14,229
+dịch xuất tiết được tổ chức hoá, nguyên bào sợi tăng sinh,
+
+264
+00:17:14,079 --> 00:17:16,980
+mô hạt bít ống phế nang giống viêm phổi tổ chức hoá.
+
+265
+00:17:17,180 --> 00:17:20,705
+Nếu kéo dài quá 2 tuần, có thể tiến tới xơ hoá: lắng đọng collagen,
+
+266
+00:17:20,555 --> 00:17:24,634
+giãn nở phổi giảm thêm, khoảng chết tăng, tăng áp phổi do mất giường mao mạch,
+
+267
+00:17:24,484 --> 00:17:26,850
+và thường gắn với thời gian thở máy rất dài.
+
+268
+00:17:27,050 --> 00:17:31,426
+Tuy nhiên, các ranh giới thời gian này không cứng nhắc. Procollagen typ ba,
+
+269
+00:17:31,276 --> 00:17:35,764
+dấu ấn tổng hợp collagen, đã tăng trong dịch rửa phế quản ngay từ 24 giờ đầu,
+
+270
+00:17:35,614 --> 00:17:41,230
+gợi ý xơ hoá bắt đầu song song với viêm. Người bệnh có xơ hoá trên sinh thiết có tử vong cao hơn.
+
+271
+00:17:41,430 --> 00:17:45,358
+May mắn là ở phần lớn người sống sót, phổi tái tạo gần như bình thường:
+
+272
+00:17:45,208 --> 00:17:49,934
+tế bào type hai tăng sinh và biệt hoá thành type một, dịch và protein được thanh thải,
+
+273
+00:17:49,784 --> 00:17:52,860
+chức năng phổi tiếp tục cải thiện đến một năm hoặc hơn.
+
+274
+00:17:54,310 --> 00:17:57,540
+Đây là hình ảnh tổn thương phế nang lan toả dưới kính hiển vi:
+
+275
+00:17:57,390 --> 00:18:01,515
+màng hyaline là những dải hồng, đồng nhất như thuỷ tinh, lót dọc thành phế nang,
+
+276
+00:18:01,365 --> 00:18:03,900
+kèm hồng cầu và tế bào viêm trong lòng phế nang.
+
+277
+00:18:04,100 --> 00:18:08,798
+Hình này dễ khiến ta nghĩ mọi ARDS đều như vậy. Nhưng các nghiên cứu khám nghiệm tử thi
+
+278
+00:18:08,648 --> 00:18:13,450
+và sinh thiết cho thấy chỉ khoảng một nửa người bệnh ARDS có tổn thương phế nang lan toả.
+
+279
+00:18:13,650 --> 00:18:18,173
+Nhóm này thường trẻ hơn, nặng hơn, giãn nở phổi kém hơn, PaO₂/FiO₂ thấp hơn,
+
+280
+00:18:18,023 --> 00:18:20,935
+cần driving pressure cao hơn và tử vong cao hơn,
+
+281
+00:18:20,785 --> 00:18:25,480
+có nghiên cứu cho thấy nguy cơ tử vong do suy hô hấp thiếu oxy cao gấp năm lần.
+
+282
+00:18:25,680 --> 00:18:29,926
+Nửa còn lại là những bệnh có thể điều trị đặc hiệu: viêm phổi nhiễm khuẩn,
+
+283
+00:18:29,776 --> 00:18:34,630
+xuất huyết phế nang lan toả, viêm phổi tăng bạch cầu ái toan cấp, viêm phổi do thuốc.
+
+284
+00:18:34,830 --> 00:18:37,542
+Thông điệp thực hành: ARDS là một hội chứng,
+
+285
+00:18:37,392 --> 00:18:42,375
+không phải một bệnh. Luôn tìm nguyên nhân có thể điều trị được. Đây chính là chủ đề
+
+286
+00:18:42,225 --> 00:18:44,180
+chẩn đoán phân biệt của Phần 2.
+
+287
+00:18:45,630 --> 00:18:51,161
+Về tiên lượng, theo các mức độ Berlin, tử vong lần lượt là 27, 32 và 45 phần trăm,
+
+288
+00:18:51,011 --> 00:18:54,180
+với thời gian thở máy trung vị 5, 7 và 9 ngày.
+
+289
+00:18:54,380 --> 00:18:58,853
+Tử vong đã giảm từ trên 60 phần trăm xuống dưới 40 phần trăm trong 30 năm,
+
+290
+00:18:58,703 --> 00:19:03,876
+có lẽ nhờ thông khí bảo vệ phổi và chăm sóc hỗ trợ tốt hơn. Nhưng mức độ thiếu oxy ban
+
+291
+00:19:03,726 --> 00:19:05,570
+đầu dự báo tử vong không tốt.
+
+292
+00:19:05,770 --> 00:19:10,764
+Điều đáng lo là tử vong tiếp tục tăng sau xuất viện: trong 641 người bệnh,
+
+293
+00:19:10,614 --> 00:19:15,280
+tử vong sau một năm là 41 phần trăm, so với 24 phần trăm khi ra viện.
+
+294
+00:19:15,480 --> 00:19:19,415
+Tử vong cũng khác nhau theo nguyên nhân. Trong thử nghiệm ARMA,
+
+295
+00:19:19,265 --> 00:19:24,701
+nhiễm khuẩn huyết có tử vong 43 phần trăm, viêm phổi 36 phần trăm, hít sặc 37 phần trăm,
+
+296
+00:19:24,551 --> 00:19:28,666
+trong khi đa chấn thương chỉ 11 phần trăm. Tuổi cao, bệnh gan mạn,
+
+297
+00:19:28,516 --> 00:19:32,210
+nghiện rượu và suy cơ quan ngoài phổi đều làm tăng tử vong.
+
+298
+00:19:33,660 --> 00:19:36,235
+Và một câu hỏi lớn để chuyển sang Phần 2:
+
+299
+00:19:36,085 --> 00:19:42,565
+ARDS có thực sự là một bệnh? Phân tích lớp tiềm ẩn của Calfee trên các thử nghiệm lớn tìm ra hai phân nhóm:
+
+300
+00:19:42,415 --> 00:19:47,001
+giảm viêm và tăng viêm. Nhóm tăng viêm có interleukin 6, interleukin 8 cao,
+
+301
+00:19:46,851 --> 00:19:49,900
+protein C thấp, sốc nhiều hơn và tử vong cao hơn.
+
+302
+00:19:50,100 --> 00:19:54,862
+Khi phân tích lại thử nghiệm ALVEOLI, nhóm giảm viêm có lợi với PEEP thấp,
+
+303
+00:19:54,712 --> 00:19:59,537
+tử vong 16 so với 24 phần trăm, còn nhóm tăng viêm lại có lợi với PEEP cao,
+
+304
+00:19:59,387 --> 00:20:00,970
+42 so với 51 phần trăm.
+
+305
+00:20:01,170 --> 00:20:05,227
+Với thử nghiệm dịch FACTT, nhóm giảm viêm có lợi với chiến lược dịch tự do,
+
+306
+00:20:05,077 --> 00:20:08,040
+còn nhóm tăng viêm có lợi với chiến lược dịch hạn chế.
+
+307
+00:20:08,240 --> 00:20:09,119
+Với HARP-2,
+
+308
+00:20:08,969 --> 00:20:15,016
+simvastatin chỉ có lợi ở nhóm tăng viêm. Các phân tích này chưa được kiểm chứng tiến cứu,
+
+309
+00:20:14,866 --> 00:20:21,510
+và ESICM 2023 chưa khuyến cáo dùng phân nhóm để chọn điều trị. Chúng ta sẽ phân tích sâu ở Phần 2.
+
+310
+00:20:22,960 --> 00:20:28,880
+Tình huống thứ hai. Một người đàn ông 72 tuổi, suy tim phân suất tống máu 35 phần trăm,
+
+311
+00:20:28,730 --> 00:20:34,584
+viêm phổi thuỳ dẫn đến sốc nhiễm khuẩn. Sau 48 giờ hồi sức, cân bằng dịch dương 4 lít,
+
+312
+00:20:34,434 --> 00:20:36,972
+X-quang mờ hai phổi, thở máy PEEP 8,
+
+313
+00:20:36,822 --> 00:20:40,620
+PaO₂/FiO₂ 150. Siêu âm tim không thay đổi so với trước.
+
+314
+00:20:40,820 --> 00:20:44,090
+Nhận định nào đúng theo định nghĩa 2024?
+
+315
+00:20:44,290 --> 00:20:47,240
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+316
+00:20:55,840 --> 00:21:01,348
+Đáp án là C. Người bệnh có yếu tố nguy cơ rõ ràng là viêm phổi và sốc nhiễm khuẩn. Định
+
+317
+00:21:01,198 --> 00:21:05,412
+nghĩa cho phép chẩn đoán ARDS khi có kèm quá tải dịch hay suy tim,
+
+318
+00:21:05,262 --> 00:21:11,694
+nếu thầy thuốc nhận định đó không phải nguyên nhân chính của thiếu oxy. Với PaO₂/FiO₂ 150 trên PEEP 8,
+
+319
+00:21:11,544 --> 00:21:13,110
+đây là ARDS mức độ vừa.
+
+320
+00:21:13,310 --> 00:21:17,030
+Tiêu chí áp lực mao mạch phổi bít đã bị bỏ từ Berlin 2012,
+
+321
+00:21:16,880 --> 00:21:22,139
+và nhiều người bệnh ARDS thực sự có tăng áp nhĩ trái trong quá trình bệnh. BNP cũng
+
+322
+00:21:21,989 --> 00:21:26,264
+không phân biệt tốt hai tình trạng này. Đánh giá tổng hợp lâm sàng,
+
+323
+00:21:26,114 --> 00:21:29,280
+siêu âm tim và đáp ứng điều trị mới là chìa khoá.
+
+324
+00:21:30,730 --> 00:21:36,017
+Xin tổng kết bảy thông điệp. Một, định nghĩa toàn cầu 2024 chia ARDS thành ba nhóm:
+
+325
+00:21:35,867 --> 00:21:41,093
+không đặt nội khí quản với oxy dòng cao ít nhất 30 lít mỗi phút, đặt nội khí quản,
+
+326
+00:21:40,943 --> 00:21:42,640
+và nơi thiếu phương tiện.
+
+327
+00:21:42,840 --> 00:21:43,322
+Hai,
+
+328
+00:21:43,172 --> 00:21:51,289
+SpO₂/FiO₂ không quá 315 có thể thay cho PaO₂/FiO₂ không quá 300 khi SpO₂ không quá 97 phần trăm,
+
+329
+00:21:51,139 --> 00:21:54,110
+và siêu âm phổi đã được chấp nhận.
+
+330
+00:21:54,310 --> 00:21:54,618
+Ba,
+
+331
+00:21:54,468 --> 00:22:00,140
+quá tải dịch hay suy tim không loại trừ ARDS nếu có yếu tố nguy cơ và chúng không phải nguyên nhân chính.
+
+332
+00:22:00,340 --> 00:22:05,527
+Bốn, bản chất của ARDS là phá vỡ hàng rào hai lớp, dẫn tới phù giàu protein, viêm,
+
+333
+00:22:05,377 --> 00:22:07,370
+màng hyaline và vi huyết khối.
+
+334
+00:22:07,570 --> 00:22:10,958
+Năm, shunt và khoảng chết giải thích thiếu oxy kháng trị,
+
+335
+00:22:10,808 --> 00:22:13,400
+nhu cầu thông khí phút cao và tăng áp phổi.
+
+336
+00:22:13,600 --> 00:22:15,584
+Sáu, phổi em bé không cứng mà nhỏ,
+
+337
+00:22:15,434 --> 00:22:18,550
+nên thể tích khí lưu tưởng là chuẩn vẫn có thể quá lớn.
+
+338
+00:22:18,750 --> 00:22:23,168
+Và bảy, chính thở máy và cả gắng sức tự thở mạnh có thể gây tổn thương phổi,
+
+339
+00:22:23,018 --> 00:22:27,212
+dẫn tới suy đa cơ quan. Ở Phần 2, chúng ta sẽ đi vào chẩn đoán hình ảnh,
+
+340
+00:22:27,062 --> 00:22:32,660
+chẩn đoán phân biệt và phân nhóm ARDS. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

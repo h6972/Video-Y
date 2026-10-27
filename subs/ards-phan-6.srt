@@ -1,0 +1,779 @@
+1
+00:00:04,900 --> 00:00:08,162
+Thưa quý đồng nghiệp, chào mừng quý vị đến với Phần 6,
+
+2
+00:00:08,012 --> 00:00:10,410
+phần cuối của loạt bài ARDS chuyên sâu.
+
+3
+00:00:10,610 --> 00:00:14,677
+Sau năm phần về định nghĩa, chẩn đoán, thở máy và các biện pháp cứu vãn,
+
+4
+00:00:14,527 --> 00:00:18,594
+phần này đi vào điều trị hỗ trợ: chiến lược dịch, corticoid, dinh dưỡng,
+
+5
+00:00:18,444 --> 00:00:21,640
+những thuốc đã thất bại, và hỗ trợ hô hấp không xâm lấn.
+
+6
+00:00:21,840 --> 00:00:24,390
+Chúng ta cũng nhìn lại các cập nhật mới nhất,
+
+7
+00:00:24,240 --> 00:00:27,270
+và những gì xảy ra với người bệnh sau khi rời hồi sức.
+
+8
+00:00:27,470 --> 00:00:31,558
+Cuối cùng, chúng ta sẽ ôn tập toàn bộ loạt bài qua một ca lâm sàng xuyên suốt,
+
+9
+00:00:31,408 --> 00:00:32,820
+với từng điểm quyết định.
+
+10
+00:00:34,270 --> 00:00:39,022
+Trước khi vào điều trị hỗ trợ, hãy điểm lại bốn cập nhật quan trọng. Năm 2023,
+
+11
+00:00:38,872 --> 00:00:43,860
+ESICM ban hành hướng dẫn về định nghĩa, phân nhóm và các chiến lược hỗ trợ hô hấp.
+
+12
+00:00:44,060 --> 00:00:48,342
+Cũng năm 2023, ATS cập nhật bốn câu hỏi: corticoid, ECMO,
+
+13
+00:00:48,192 --> 00:00:51,170
+giãn cơ và PEEP cao không kèm huy động.
+
+14
+00:00:51,370 --> 00:00:57,061
+Năm 2024, định nghĩa toàn cầu mở rộng ARDS sang người bệnh thở oxy dòng cao,
+
+15
+00:00:56,911 --> 00:01:03,040
+chấp nhận SpO₂/FiO₂ và siêu âm phổi, với tiêu chí riêng cho nơi thiếu phương tiện.
+
+16
+00:01:03,240 --> 00:01:08,073
+Và năm 2026, SCCM ban hành hướng dẫn chuyên về giãn cơ trong ARDS,
+
+17
+00:01:07,923 --> 00:01:11,550
+đã được phân tích trong một video riêng của kênh.
+
+18
+00:01:13,000 --> 00:01:15,867
+Chiến lược dịch luôn là bài toán khó trong ARDS:
+
+19
+00:01:15,717 --> 00:01:18,753
+lợi tiểu hay hạn chế dịch có thể giúp phổi khô hơn,
+
+20
+00:01:18,603 --> 00:01:21,470
+nhưng có thể làm giảm tưới máu các cơ quan khác.
+
+21
+00:01:21,670 --> 00:01:27,228
+Thử nghiệm FACTT của mạng lưới ARDS năm 2006 trả lời câu hỏi này trên 1000 người bệnh,
+
+22
+00:01:27,078 --> 00:01:32,509
+áp dụng trong 7 ngày. Mỗi 4 giờ, người bệnh được xếp vào một trong 20 ô của phác đồ,
+
+23
+00:01:32,359 --> 00:01:36,659
+dựa trên áp lực đổ đầy, có sốc hay không, có thiểu niệu hay không,
+
+24
+00:01:36,509 --> 00:01:38,860
+và tuần hoàn có hiệu quả hay không.
+
+25
+00:01:39,060 --> 00:01:39,957
+Điểm then chốt:
+
+26
+00:01:39,807 --> 00:01:43,691
+chiến lược hạn chế dịch chỉ áp dụng khi người bệnh đã hết sốc. Khi còn sốc,
+
+27
+00:01:43,541 --> 00:01:46,330
+người bệnh được hồi sức trước, dùng dịch và vận mạch.
+
+28
+00:01:46,530 --> 00:01:50,257
+Nhóm hạn chế nhắm áp lực đổ đầy thấp hơn và dùng lợi tiểu,
+
+29
+00:01:50,107 --> 00:01:52,600
+nhóm tự do nhắm áp lực đổ đầy cao hơn.
+
+30
+00:01:54,050 --> 00:01:57,946
+Kết quả: cân bằng dịch 7 ngày ở nhóm hạn chế là âm 136 mililít,
+
+31
+00:01:57,796 --> 00:02:02,287
+so với dương gần 7 lít ở nhóm tự do. Ngay cả ở người bệnh có sốc ban đầu,
+
+32
+00:02:02,137 --> 00:02:05,320
+cân bằng cũng là dương 2,9 lít so với dương 10 lít.
+
+33
+00:02:05,520 --> 00:02:10,224
+Nhóm hạn chế dịch có nhiều ngày không thở máy hơn, 14,6 so với 12,1 ngày,
+
+34
+00:02:10,074 --> 00:02:12,470
+và nhiều ngày không nằm hồi sức hơn.
+
+35
+00:02:12,670 --> 00:02:18,180
+Tử vong 60 ngày không khác biệt có ý nghĩa: 25,5 so với 28,4 phần trăm.
+
+36
+00:02:18,380 --> 00:02:22,588
+Quan trọng là nhóm hạn chế dịch cải thiện oxy hoá mà không tăng sốc hay nhu cầu lọc
+
+37
+00:02:22,438 --> 00:02:24,348
+máu. Thông điệp của Murray và Nadel:
+
+38
+00:02:24,198 --> 00:02:27,086
+quản lý dịch theo hướng hạn chế ở người bệnh đã hết sốc,
+
+39
+00:02:26,936 --> 00:02:29,090
+tránh lợi tiểu quá mức gây giảm thể tích.
+
+40
+00:02:30,540 --> 00:02:34,732
+Trong thực hành, những gì đã rõ: hồi sức sốc trước, hạn chế dịch khi đã hết sốc,
+
+41
+00:02:34,582 --> 00:02:38,370
+không đặt catheter động mạch phổi thường quy vì không cải thiện kết cục.
+
+42
+00:02:38,570 --> 00:02:40,495
+Theo Textbook of Critical Care,
+
+43
+00:02:40,345 --> 00:02:44,160
+cân bằng dịch dương vào ngày thứ 4 là yếu tố tiên lượng tử vong.
+
+44
+00:02:44,360 --> 00:02:45,209
+Về loại dịch,
+
+45
+00:02:45,059 --> 00:02:49,406
+dữ liệu riêng cho ARDS còn ít. Suy ra từ người bệnh nặng và nhiễm khuẩn huyết,
+
+46
+00:02:49,256 --> 00:02:52,472
+nên ưu tiên dịch tinh thể cân bằng hơn nước muối sinh lý,
+
+47
+00:02:52,322 --> 00:02:56,830
+tránh dung dịch tinh bột. Albumin cải thiện oxy hoá nhưng chưa thấy giảm tử vong.
+
+48
+00:02:57,030 --> 00:02:57,902
+Và như Phần 2,
+
+49
+00:02:57,752 --> 00:03:01,974
+phân tích lại FACTT gợi ý hai phenotype đáp ứng ngược nhau với chiến lược dịch,
+
+50
+00:03:01,824 --> 00:03:04,860
+nhưng đây vẫn là giả thuyết, chưa dùng để chọn điều trị.
+
+51
+00:03:06,310 --> 00:03:11,817
+Corticoid là chủ đề tranh luận lâu nhất trong ARDS. Những thử nghiệm đầu dùng liều rất cao,
+
+52
+00:03:11,667 --> 00:03:16,467
+methylprednisolon 30 miligam mỗi ký mỗi 6 giờ trong 1 đến 2 ngày, không có lợi,
+
+53
+00:03:16,317 --> 00:03:21,530
+một thử nghiệm còn tăng nhiễm khuẩn. Tất cả đều trước kỷ nguyên thông khí bảo vệ phổi.
+
+54
+00:03:21,730 --> 00:03:27,795
+Năm 2006, thử nghiệm của mạng lưới ARDS dùng corticoid ở ARDS kéo dài từ 7 ngày trở lên:
+
+55
+00:03:27,645 --> 00:03:31,962
+cải thiện oxy và ngày không thở máy, nhưng không giảm tử vong,
+
+56
+00:03:31,812 --> 00:03:34,920
+và nhóm bắt đầu sau ngày 14 có tử vong tăng.
+
+57
+00:03:35,120 --> 00:03:35,848
+Năm 2016,
+
+58
+00:03:35,698 --> 00:03:41,374
+phân tích gộp dữ liệu từng người bệnh từ 4 thử nghiệm dùng methylprednisolon liều thấp
+
+59
+00:03:41,224 --> 00:03:43,108
+cho thấy rút máy nhanh hơn,
+
+60
+00:03:42,958 --> 00:03:47,670
+và nếu bắt đầu trước ngày 14, tử vong bệnh viện 20 so với 39 phần trăm.
+
+61
+00:03:47,870 --> 00:03:48,673
+Năm 2020,
+
+62
+00:03:48,523 --> 00:03:54,980
+thử nghiệm DEXA-ARDS ở Tây Ban Nha cung cấp bằng chứng mạnh nhất cho dexamethasone sớm.
+
+63
+00:03:55,180 --> 00:04:01,410
+Và năm 2023, ATS lần đầu đưa ra khuyến cáo: gợi ý dùng corticoid cho ARDS.
+
+64
+00:04:02,860 --> 00:04:08,434
+DEXA-ARDS tuyển 277 người bệnh ARDS vừa và nặng đã ổn định:
+
+65
+00:04:08,284 --> 00:04:15,330
+PaO₂/FiO₂ không quá 200 với PEEP từ 10 và FiO₂ từ 0,5, đánh giá sau 24 giờ.
+
+66
+00:04:15,530 --> 00:04:20,567
+Nhóm can thiệp dùng dexamethasone tĩnh mạch 20 miligam mỗi ngày từ ngày 1 đến 5,
+
+67
+00:04:20,417 --> 00:04:25,760
+rồi 10 miligam mỗi ngày từ ngày 6 đến 10. Cả hai nhóm đều được thông khí bảo vệ phổi.
+
+68
+00:04:25,960 --> 00:04:29,550
+Tử vong 60 ngày giảm từ 36 xuống 21 phần trăm.
+
+69
+00:04:29,750 --> 00:04:32,620
+Số ngày không thở máy tăng thêm 4,8 ngày.
+
+70
+00:04:32,820 --> 00:04:37,977
+Tác dụng phụ không khác biệt có ý nghĩa: tăng đường huyết 76 so với 70 phần trăm,
+
+71
+00:04:37,827 --> 00:04:43,232
+nhiễm khuẩn mới 24 so với 25 phần trăm. Lưu ý thử nghiệm dừng sớm do tuyển chọn chậm,
+
+72
+00:04:43,082 --> 00:04:45,210
+đạt 88 phần trăm cỡ mẫu dự kiến.
+
+73
+00:04:46,660 --> 00:04:52,032
+ATS 2023 gợi ý dùng corticoid cho người bệnh ARDS, khuyến cáo có điều kiện,
+
+74
+00:04:51,882 --> 00:04:56,557
+bằng chứng mức vừa. Phân tích gộp 19 thử nghiệm, 2790 người bệnh:
+
+75
+00:04:56,407 --> 00:05:01,640
+nguy cơ tương đối tử vong 0,84, thời gian thở máy ngắn hơn khoảng 4 ngày.
+
+76
+00:05:01,840 --> 00:05:04,114
+Khuyến cáo chỉ ở mức có điều kiện vì liều,
+
+77
+00:05:03,964 --> 00:05:07,654
+thời điểm bắt đầu và thời gian dùng rất khác nhau giữa các thử nghiệm,
+
+78
+00:05:07,504 --> 00:05:10,790
+và dữ liệu về tác dụng phụ, đặc biệt nhiễm khuẩn, còn hạn chế.
+
+79
+00:05:10,990 --> 00:05:15,158
+Tác dụng phụ được ghi nhận là tăng đường huyết nặng, nguy cơ tương đối 1,11,
+
+80
+00:05:15,008 --> 00:05:17,220
+còn xuất huyết tiêu hoá chưa chắc chắn.
+
+81
+00:05:17,420 --> 00:05:22,761
+Lưu ý ESICM 2023 không đề cập corticoid, vì hướng dẫn này tập trung vào định nghĩa,
+
+82
+00:05:22,611 --> 00:05:24,450
+phân nhóm và hỗ trợ hô hấp.
+
+83
+00:05:25,900 --> 00:05:26,991
+Trong thực hành,
+
+84
+00:05:26,841 --> 00:05:32,343
+ATS không chỉ định một phác đồ cụ thể. Với những nguyên nhân đã có phác đồ được chứng minh,
+
+85
+00:05:32,193 --> 00:05:37,460
+như viêm phổi cộng đồng nặng, viêm phổi do Pneumocystis ở người nhiễm HIV, và COVID-19,
+
+86
+00:05:37,310 --> 00:05:38,930
+hãy dùng đúng phác đồ đó.
+
+87
+00:05:39,130 --> 00:05:43,653
+Với các nguyên nhân khác, có thể chọn một trong các phác đồ đã được thử nghiệm,
+
+88
+00:05:43,503 --> 00:05:44,760
+chẳng hạn DEXA-ARDS,
+
+89
+00:05:44,610 --> 00:05:49,520
+tuỳ nguy cơ tác dụng phụ của từng người. Nhiều thử nghiệm ngừng corticoid khi rút ống.
+
+90
+00:05:49,720 --> 00:05:50,648
+Về thời điểm,
+
+91
+00:05:50,498 --> 00:05:55,856
+bắt đầu corticoid sau 2 tuần kể từ khởi phát ARDS có thể có hại. Khuyến cáo áp dụng chủ
+
+92
+00:05:55,706 --> 00:05:58,190
+yếu cho người bệnh đã đặt nội khí quản.
+
+93
+00:05:58,390 --> 00:06:02,203
+Và cần theo dõi sát ở người suy giảm miễn dịch, có hội chứng chuyển hoá,
+
+94
+00:06:02,053 --> 00:06:06,628
+và đặc biệt ở vùng lưu hành lao và ký sinh trùng như Việt Nam. Kiểm soát đường huyết và
+
+95
+00:06:06,478 --> 00:06:07,900
+theo dõi nhiễm khuẩn mới.
+
+96
+00:06:09,350 --> 00:06:13,962
+ARDS là nghĩa địa của nhiều liệu pháp hấp dẫn trên lý thuyết. Surfactant:
+
+97
+00:06:13,812 --> 00:06:19,340
+dù surfactant bị bất hoạt trong ARDS, bốn thử nghiệm lớn ở người lớn không giảm tử vong.
+
+98
+00:06:19,540 --> 00:06:23,310
+Đồng vận bê ta hai tĩnh mạch, nhằm tăng thanh thải dịch phế nang,
+
+99
+00:06:23,160 --> 00:06:27,487
+cho kết quả thất vọng. Statin trong HARP-2 và SAILS không có lợi ích chung,
+
+100
+00:06:27,337 --> 00:06:29,770
+chỉ còn giả thuyết ở phenotype tăng viêm.
+
+101
+00:06:29,970 --> 00:06:34,000
+Protein C hoạt hoá và thuốc ức chế elastase bạch cầu đều dừng sớm vì không hiệu quả.
+
+102
+00:06:35,200 --> 00:06:38,564
+Omega-3 và nuôi dưỡng miễn dịch không cải thiện kết cục,
+
+103
+00:06:38,414 --> 00:06:43,271
+và aspirin dùng sớm cũng không dự phòng được ARDS ở người có nguy cơ cao. Bài học:
+
+104
+00:06:43,121 --> 00:06:47,404
+đến nay, chưa có thuốc nào điều trị đặc hiệu tổn thương phổi trong ARDS;
+
+105
+00:06:47,254 --> 00:06:49,470
+nền tảng vẫn là chăm sóc hỗ trợ tốt.
+
+106
+00:06:50,920 --> 00:06:54,760
+Với ARDS không đặt ống, nhóm mới của định nghĩa 2024,
+
+107
+00:06:54,610 --> 00:07:00,678
+ESICM 2023 khuyến cáo mạnh dùng oxy dòng cao qua mũi thay vì oxy thông thường để giảm
+
+108
+00:07:00,528 --> 00:07:02,418
+nguy cơ đặt nội khí quản,
+
+109
+00:07:02,268 --> 00:07:03,950
+dù không giảm tử vong.
+
+110
+00:07:04,150 --> 00:07:07,389
+Giữa oxy dòng cao và CPAP hay thở máy không xâm lấn,
+
+111
+00:07:07,239 --> 00:07:10,478
+ESICM không khuyến cáo theo hay chống, trừ COVID-19,
+
+112
+00:07:10,328 --> 00:07:14,220
+nơi CPAP hoặc thở máy không xâm lấn được gợi ý để giảm đặt ống.
+
+113
+00:07:14,420 --> 00:07:19,707
+Các so sánh khác, như mũ trùm so với mặt nạ, hay thở máy không xâm lấn so với CPAP,
+
+114
+00:07:19,557 --> 00:07:21,130
+đều chưa đủ bằng chứng.
+
+115
+00:07:21,330 --> 00:07:26,434
+Nằm sấp khi tỉnh được gợi ý cho COVID-19. Với mọi hình thức hỗ trợ không xâm lấn,
+
+116
+00:07:26,284 --> 00:07:29,065
+cần theo dõi sát để không trì hoãn đặt ống,
+
+117
+00:07:28,915 --> 00:07:33,346
+vì gắng sức hít vào mạnh kéo dài có thể gây tổn thương phổi do tự thở,
+
+118
+00:07:33,196 --> 00:07:38,668
+như đã bàn ở phần đầu loạt bài. Quý vị có thể xem phân tích chi tiết trong loạt bài ATS
+
+119
+00:07:38,518 --> 00:07:41,420
+2026 về hỗ trợ hô hấp không xâm lấn của kênh.
+
+120
+00:07:42,870 --> 00:07:47,643
+Điều gì xảy ra sau khi người bệnh rời hồi sức? Điều đáng ngạc nhiên là phổi hồi phục khá tốt:
+
+121
+00:07:47,493 --> 00:07:51,272
+sau 6 đến 12 tháng, thể tích và lưu lượng phổi bình thường hoặc giảm nhẹ,
+
+122
+00:07:51,122 --> 00:07:53,260
+khả năng khuếch tán có thể còn giảm nhẹ.
+
+123
+00:07:53,460 --> 00:07:57,284
+Khi còn tổn thương, thường là xơ dạng đường ở vùng không phụ thuộc phía trước,
+
+124
+00:07:57,134 --> 00:07:59,450
+phù hợp với dấu vết của tổn thương do thở máy.
+
+125
+00:07:59,650 --> 00:08:02,855
+Nhưng chức năng thể chất giảm kéo dài ít nhất 5 năm,
+
+126
+00:08:02,705 --> 00:08:05,028
+chủ yếu do yếu cơ mắc phải ở hồi sức,
+
+127
+00:08:04,878 --> 00:08:08,200
+với nguy cơ tăng khi dùng corticoid và suy đa cơ quan.
+
+128
+00:08:08,400 --> 00:08:11,548
+Gánh nặng ẩn là tâm thần và nhận thức: giảm chú ý,
+
+129
+00:08:11,398 --> 00:08:15,865
+trí nhớ và chức năng điều hành tới 2 năm, rối loạn stress sau sang chấn,
+
+130
+00:08:15,715 --> 00:08:19,703
+trầm cảm và lo âu. Và tử vong sau một năm tăng lên 41 phần trăm,
+
+131
+00:08:19,553 --> 00:08:24,800
+so với 24 phần trăm lúc ra viện. Chăm sóc người bệnh ARDS không kết thúc khi rút ống.
+
+132
+00:08:26,250 --> 00:08:26,902
+Bây giờ,
+
+133
+00:08:26,752 --> 00:08:32,171
+hãy ôn tập toàn bộ loạt bài qua một ca lâm sàng minh hoạ. Một người đàn ông 58 tuổi,
+
+134
+00:08:32,021 --> 00:08:37,440
+cao 165 xăng ti mét, nặng 80 ký, vào cấp cứu vì viêm phổi thuỳ dưới phải, sốt 39 độ.
+
+135
+00:08:37,640 --> 00:08:42,120
+Sau 4 giờ, ông cần oxy dòng cao qua mũi 50 lít mỗi phút, FiO₂ 0,8,
+
+136
+00:08:41,970 --> 00:08:47,630
+SpO₂ 90 phần trăm. X-quang mờ hai phổi, siêu âm tim chức năng thất trái bình thường.
+
+137
+00:08:47,830 --> 00:08:53,822
+Theo định nghĩa toàn cầu 2024, SpO₂/FiO₂ bằng 90 chia 0,8, khoảng 112,
+
+138
+00:08:53,672 --> 00:08:59,580
+ông đã đủ tiêu chí ARDS không đặt nội khí quản ngay từ thời điểm này.
+
+139
+00:08:59,780 --> 00:09:03,954
+Giờ thứ 8, ông thở nhanh 38 lần mỗi phút, co kéo cơ hô hấp phụ,
+
+140
+00:09:03,804 --> 00:09:07,850
+kèm tụt huyết áp cần noradrenaline, và được đặt nội khí quản.
+
+141
+00:09:08,050 --> 00:09:10,360
+Chúng ta sẽ đi qua ba điểm quyết định.
+
+142
+00:09:11,810 --> 00:09:16,437
+Điểm quyết định thứ nhất. Người bệnh nam, cao 165 xăng ti mét, nặng 80 ký,
+
+143
+00:09:16,287 --> 00:09:19,160
+vừa đặt nội khí quản, thở thể tích kiểm soát.
+
+144
+00:09:19,360 --> 00:09:22,150
+Vt ban đầu theo ARMA là bao nhiêu?
+
+145
+00:09:22,350 --> 00:09:25,140
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+146
+00:09:33,740 --> 00:09:39,175
+Đáp án là B. Cân nặng dự đoán bằng 50 cộng 0,91 nhân 165 trừ 152,4,
+
+147
+00:09:39,025 --> 00:09:46,511
+khoảng 61,5 ký. Vt 6 mililít mỗi ký là khoảng 370 mililít. Nếu tính theo cân nặng thực 80 ký,
+
+148
+00:09:46,361 --> 00:09:52,270
+ta sẽ cài 480 mililít, tương đương gần 8 mililít mỗi ký cân nặng dự đoán.
+
+149
+00:09:52,470 --> 00:09:57,260
+Sau khi cài, đo ngay áp lực bình nguyên và tính driving pressure, chỉnh PEEP theo bảng,
+
+150
+00:09:57,110 --> 00:09:58,380
+như Phần 3 và Phần 4.
+
+151
+00:09:59,830 --> 00:10:06,525
+Điểm quyết định thứ hai, giờ thứ 20. Vt 370, PEEP 14, FiO₂ 0,8, áp lực bình nguyên 29,
+
+152
+00:10:06,375 --> 00:10:08,048
+driving pressure 15,
+
+153
+00:10:07,898 --> 00:10:14,517
+PaO₂/FiO₂ 105. Huyết áp trung bình 70 với noradrenaline 0,1 microgam mỗi ký mỗi phút,
+
+154
+00:10:14,367 --> 00:10:16,800
+thỉnh thoảng có kích hoạt kép.
+
+155
+00:10:17,000 --> 00:10:18,830
+Kế hoạch hợp lý nhất là gì?
+
+156
+00:10:19,030 --> 00:10:21,740
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+157
+00:10:30,340 --> 00:10:36,064
+Đáp án là B. PaO₂/FiO₂ dưới 150 sau giai đoạn ổn định: nằm sấp ít nhất 16 giờ,
+
+158
+00:10:35,914 --> 00:10:42,353
+khuyến cáo mạnh của ESICM. Kích hoạt kép ở ARDS sớm và nặng làm Vt thực tế tăng gấp đôi:
+
+159
+00:10:42,203 --> 00:10:48,570
+tối ưu an thần, giảm đau, và cân nhắc giãn cơ ngắn, không quá 48 giờ, theo ATS và SCCM.
+
+160
+00:10:48,770 --> 00:10:51,617
+Không huy động kéo dài vì bài học từ ART,
+
+161
+00:10:51,467 --> 00:10:57,537
+không dùng thông khí dao động tần số cao vì OSCILLATE. Người bệnh chưa đạt tiêu chí EOLIA,
+
+162
+00:10:57,387 --> 00:11:00,760
+nhưng nếu xấu đi, hãy liên hệ trung tâm ECMO sớm.
+
+163
+00:11:02,210 --> 00:11:06,223
+Điểm quyết định thứ ba, ngày thứ 2. Sau hai phiên nằm sấp,
+
+164
+00:11:06,073 --> 00:11:11,883
+PaO₂/FiO₂ khi nằm ngửa là 170, PEEP 12. Đã ngừng noradrenaline 12 giờ, nước tiểu tốt,
+
+165
+00:11:11,733 --> 00:11:15,080
+nhưng cân bằng dịch dương 5 lít từ lúc vào viện.
+
+166
+00:11:15,280 --> 00:11:17,270
+Điều trị hỗ trợ nào phù hợp nhất?
+
+167
+00:11:17,470 --> 00:11:20,260
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+168
+00:11:28,860 --> 00:11:32,898
+Đáp án là B. ARDS do viêm phổi cộng đồng nặng, còn ở giai đoạn sớm:
+
+169
+00:11:32,748 --> 00:11:34,349
+corticoid được ATS gợi ý,
+
+170
+00:11:34,199 --> 00:11:38,294
+có thể theo phác đồ viêm phổi cộng đồng nặng hoặc phác đồ DEXA-ARDS,
+
+171
+00:11:38,144 --> 00:11:41,950
+kèm theo dõi đường huyết và nhiễm khuẩn. Người bệnh đã hết sốc:
+
+172
+00:11:41,800 --> 00:11:46,070
+chuyển sang chiến lược dịch hạn chế, lợi tiểu tránh quá mức, như FACTT.
+
+173
+00:11:46,270 --> 00:11:51,010
+Surfactant và đồng vận bê ta hai tĩnh mạch đều đã thất bại trong các thử nghiệm lớn.
+
+174
+00:11:50,860 --> 00:11:53,633
+Tiếp tục nằm sấp cho tới khi cải thiện bền vững,
+
+175
+00:11:53,483 --> 00:11:56,420
+và lên kế hoạch giảm an thần, đánh giá cai máy sớm.
+
+176
+00:11:57,870 --> 00:12:01,982
+Xin tổng kết toàn bộ loạt bài bằng mười thông điệp. Từ Phần 1:
+
+177
+00:12:01,832 --> 00:12:06,072
+định nghĩa toàn cầu 2024 với ba nhóm, SpO₂/FiO₂ và siêu âm phổi,
+
+178
+00:12:05,922 --> 00:12:08,820
+và khái niệm phổi em bé, không cứng mà nhỏ.
+
+179
+00:12:09,020 --> 00:12:09,754
+Từ Phần 2:
+
+180
+00:12:09,604 --> 00:12:14,714
+luôn tìm nguyên nhân và nghĩ đến bệnh giả ARDS. Phenotype có giá trị tiên lượng nhưng
+
+181
+00:12:14,564 --> 00:12:16,290
+chưa dùng để chọn điều trị.
+
+182
+00:12:16,490 --> 00:12:21,824
+Từ Phần 3: Vt 6 mililít mỗi ký cân nặng dự đoán, áp lực bình nguyên không quá 30,
+
+183
+00:12:21,674 --> 00:12:23,680
+và theo dõi driving pressure.
+
+184
+00:12:23,880 --> 00:12:29,230
+Từ Phần 4: PEEP cao hơn khi PaO₂/FiO₂ không quá 200, không dùng huy động kéo dài.
+
+185
+00:12:29,430 --> 00:12:36,087
+Từ Phần 5: nằm sấp sớm, ít nhất 16 giờ khi PaO₂/FiO₂ dưới 150, giãn cơ chọn lọc,
+
+186
+00:12:35,937 --> 00:12:39,340
+ECMO theo tiêu chí EOLIA và liên hệ sớm.
+
+187
+00:12:39,540 --> 00:12:45,290
+Từ Phần 6: dịch hạn chế khi đã hết sốc, corticoid sớm theo ATS 2023.
+
+188
+00:12:45,490 --> 00:12:49,480
+Và cuối cùng, chăm sóc người bệnh ARDS không dừng lại khi rút ống.
+
+189
+00:12:50,930 --> 00:12:54,775
+Loạt bài ARDS chuyên sâu đến đây là kết thúc. Trọn bộ 6 phần,
+
+190
+00:12:54,625 --> 00:12:59,560
+cùng tóm tắt và danh sách tài liệu tham khảo, có tại trang thuvienykhoa.online.
+
+191
+00:12:59,760 --> 00:13:04,630
+Quý vị có thể xem thêm các loạt bài liên quan trên kênh:
+
+192
+00:13:04,480 --> 00:13:11,120
+giãn cơ trong ARDS theo SCCM 2026, hỗ trợ hô hấp không xâm lấn theo ATS 2026,
+
+193
+00:13:10,970 --> 00:13:14,070
+và nhiễm khuẩn huyết theo SSC 2026.
+
+194
+00:13:14,270 --> 00:13:17,149
+Nếu có câu hỏi hay muốn đề xuất chủ đề tiếp theo,
+
+195
+00:13:16,999 --> 00:13:21,940
+xin để lại bình luận. Cảm ơn quý đồng nghiệp đã đồng hành cùng Thư Viện Y Khoa Online.
