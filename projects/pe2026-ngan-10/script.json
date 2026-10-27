@@ -1,0 +1,153 @@
+{
+ "title": "Thuyên tắc phổi 2026 – video ngắn 10: Nửa liều DOAC: có đủ an toàn?",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Tim mạch – Hồi sức",
+ "part": "Thuyên tắc phổi 2026 · ôn nhanh · Phần 5",
+ "source_short": "Nguồn: Hướng dẫn AHA/ACC 2026 về thuyên tắc phổi cấp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê"
+ },
+ "theme": "guideline",
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng Phần 5: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "THUYÊN TẮC PHỔI · SỐ LIỆU",
+   "hook": "Giảm nửa liều kháng đông: có sợ tái phát?",
+   "sub": "RENOVE và API-CAT trả lời",
+   "c": "teal",
+   "lines": [
+    "Giảm nửa liều kháng đông sau 6 tháng: có sợ tái phát không? Hai thử nghiệm trả lời."
+   ]
+  },
+  {
+   "id": "b",
+   "layout": "bars",
+   "chapter": "RENOVE · 2768 BỆNH NHÂN",
+   "title": "Nửa liều so với đủ liều",
+   "h": 760,
+   "max": 21,
+   "groups": [
+    {
+     "t": "Tái phát huyết khối",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Nửa liều",
+       "v": 2.2,
+       "lab": "2,2%",
+       "c": "teal"
+      },
+      {
+       "k": "Đủ liều",
+       "v": 1.8,
+       "lab": "1,8%"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu nặng hoặc có ý nghĩa",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Nửa liều",
+       "v": 9.9,
+       "lab": "9,9%",
+       "c": "teal"
+      },
+      {
+       "k": "Đủ liều",
+       "v": 15.2,
+       "lab": "15,2%"
+      }
+     ]
+    },
+    {
+     "t": "API-CAT (ung thư) · chảy máu",
+     "d": "tái phát 2,1 so với 2,8%",
+     "at": 2,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "2,5 mg × 2",
+       "v": 12.1,
+       "lab": "12,1%",
+       "c": "violet"
+      },
+      {
+       "k": "5 mg × 2",
+       "v": 15.6,
+       "lab": "15,6%"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Thử nghiệm RENOVE trên 2768 bệnh nhân: tái phát huyết khối thấp ở cả hai nhóm, 2,2% với nửa liều và 1,8% với đủ liều.",
+    "Nhưng chảy máu nặng hoặc có ý nghĩa giảm từ 15,2 xuống 9,9%.",
+    "Ở bệnh nhân ung thư, API-CAT cho kết quả tương tự: tái phát 2,1 so với 2,8%, chảy máu 12,1 so với 15,6%. Vì vậy Hướng dẫn 2026 khuyến cáo nhóm một, mức A, dùng nửa liều ở giai đoạn kéo dài. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

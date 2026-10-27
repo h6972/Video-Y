@@ -1,0 +1,110 @@
+{
+ "title": "Thuyên tắc phổi 2026 – video ngắn 9: Đủ 6 tháng: dừng kháng đông?",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Tim mạch – Hồi sức",
+ "part": "Thuyên tắc phổi 2026 · ôn nhanh · Phần 5",
+ "source_short": "Nguồn: Hướng dẫn AHA/ACC 2026 về thuyên tắc phổi cấp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê"
+ },
+ "theme": "guideline",
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng Phần 5: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "THUYÊN TẮC PHỔI · SAU GIAI ĐOẠN CẤP",
+   "hook": "Đủ 6 tháng rồi: dừng kháng đông?",
+   "sub": "Thuyên tắc phổi không yếu tố thúc đẩy",
+   "c": "amber",
+   "lines": [
+    "Thuyên tắc phổi không có yếu tố thúc đẩy, đã kháng đông đủ 6 tháng: dừng được chưa?"
+   ]
+  },
+  {
+   "id": "q",
+   "layout": "quiz",
+   "chapter": "TÌNH HUỐNG",
+   "title": "Bạn chọn gì?",
+   "case": "Nữ 58 tuổi, thuyên tắc phổi <b>không yếu tố thúc đẩy</b>, đã dùng apixaban 5 mg × 2 đủ 6 tháng, không chảy máu.",
+   "q": "Kế hoạch tiếp theo?",
+   "options": [
+    "Dừng kháng đông",
+    "Apixaban 2,5 mg × 2, kéo dài",
+    "Chuyển warfarin",
+    "PET-CT tìm ung thư"
+   ],
+   "answer": 1,
+   "q_at": 0,
+   "answer_at": 2,
+   "countdown": {
+    "after": 1,
+    "s": 5
+   },
+   "explain": "Không yếu tố thúc đẩy → kéo dài (1, A) · nửa liều apixaban 2,5 mg × 2 hoặc rivaroxaban 10 mg (1, A) · không PET-CT thường quy (3).",
+   "lines": [
+    "Nữ 58 tuổi, thuyên tắc phổi không yếu tố thúc đẩy, đã dùng apixaban đủ 6 tháng, không chảy máu. Kế hoạch tiếp theo?",
+    "Bạn có 5 giây.",
+    "Đáp án B: tiếp tục kéo dài, giảm còn nửa liều, apixaban 2,5 miligam hai lần mỗi ngày hoặc rivaroxaban 10 miligam mỗi ngày, và đánh giá lại định kỳ. Không cần PET-CT tìm ung thư thường quy. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "title": "Thuyên tắc phổi 2026 – video ngắn 5: Liều kháng đông uống khởi đầu",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Tim mạch – Hồi sức",
+ "part": "Thuyên tắc phổi 2026 · ôn nhanh · Phần 3",
+ "source_short": "Nguồn: Hướng dẫn AHA/ACC 2026 về thuyên tắc phổi cấp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê"
+ },
+ "theme": "guideline",
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng Phần 3: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "THUYÊN TẮC PHỔI · LƯU LẠI",
+   "hook": "Liều DOAC khởi đầu: đừng nhầm!",
+   "sub": "Apixaban · rivaroxaban · edoxaban · dabigatran",
+   "c": "teal",
+   "lines": [
+    "Liều kháng đông uống khởi đầu trong thuyên tắc phổi: lưu lại để khỏi nhầm."
+   ]
+  },
+  {
+   "id": "l",
+   "layout": "list",
+   "chapter": "LIỀU KHỞI ĐẦU",
+   "title": "4 thuốc, 2 kiểu khởi đầu",
+   "items": [
+    {
+     "t": "Apixaban 10 mg × 2 × 7 ngày",
+     "d": "Rồi 5 mg × 2 lần/ngày",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Rivaroxaban 15 mg × 2 × 21 ngày",
+     "d": "Rồi 20 mg/ngày · uống cùng bữa ăn",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Edoxaban: thuốc tiêm ≥ 5 ngày trước",
+     "d": "60 mg/ngày · 30 mg nếu ClCr 15–50 hoặc ≤ 60 kg",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Dabigatran: thuốc tiêm ≥ 5 ngày trước",
+     "d": "150 mg × 2 lần/ngày",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Apixaban: 10 miligam hai lần mỗi ngày trong 7 ngày, rồi 5 miligam hai lần.",
+    "Rivaroxaban: 15 miligam hai lần mỗi ngày trong 21 ngày, rồi 20 miligam mỗi ngày, uống cùng bữa ăn.",
+    "Edoxaban phải dùng thuốc tiêm ít nhất 5 ngày trước, rồi 60 miligam mỗi ngày, giảm còn 30 khi suy thận vừa hoặc cân nặng từ 60 kilôgam trở xuống.",
+    "Dabigatran cũng cần thuốc tiêm ít nhất 5 ngày trước, rồi 150 miligam hai lần mỗi ngày. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

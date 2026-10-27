@@ -1,0 +1,110 @@
+{
+ "title": "Thuyên tắc phổi 2026 – video ngắn 8: Sốc tắc nghẽn, không có can thiệp mạch",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Tim mạch – Hồi sức",
+ "part": "Thuyên tắc phổi 2026 · ôn nhanh · Phần 4",
+ "source_short": "Nguồn: Hướng dẫn AHA/ACC 2026 về thuyên tắc phổi cấp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê"
+ },
+ "theme": "guideline",
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng Phần 4: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "THUYÊN TẮC PHỔI · QUYẾT ĐỊNH NHANH",
+   "hook": "Sốc tắc nghẽn, không có can thiệp mạch: làm gì?",
+   "sub": "Bệnh viện tuyến tỉnh, 1 quyết định",
+   "c": "coral",
+   "lines": [
+    "Sốc do thuyên tắc phổi ở bệnh viện không có can thiệp mạch: bạn làm gì?"
+   ]
+  },
+  {
+   "id": "q",
+   "layout": "quiz",
+   "chapter": "TÌNH HUỐNG",
+   "title": "Bạn chọn gì?",
+   "case": "Nữ 52 tuổi, HA <b>76/48</b> dù norepinephrine, lactate 4,8. Thất phải giãn. <b>Không chống chỉ định</b>. Không có can thiệp mạch, không ECMO.",
+   "q": "Xử trí phù hợp nhất?",
+   "options": [
+    "Chuyển viện ngay",
+    "Alteplase 100 mg trong 2 giờ",
+    "Truyền nhanh 2 lít dịch",
+    "Tăng norepinephrine, chờ CT"
+   ],
+   "answer": 1,
+   "q_at": 0,
+   "answer_at": 2,
+   "countdown": {
+    "after": 1,
+    "s": 5
+   },
+   "explain": "Nhóm <b>E1</b>, không chống chỉ định → tiêu sợi huyết toàn thân (2a) · không chuyển viện khi chưa ổn định (3: Có hại) · dịch ≤ 500 mL.",
+   "lines": [
+    "Nữ 52 tuổi, huyết áp 76 trên 48 dù đang dùng norepinephrine, lactate 4,8, thất phải giãn, không có chống chỉ định. Bệnh viện không có can thiệp mạch. Xử trí thế nào?",
+    "Bạn có 5 giây.",
+    "Đáp án B: tiêu sợi huyết toàn thân, alteplase 100 miligam trong 2 giờ. Đây là nhóm E1. Không chuyển viện khi chưa ổn định, vì đó là khuyến cáo có hại. Dịch truyền không quá 500 mililít. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}

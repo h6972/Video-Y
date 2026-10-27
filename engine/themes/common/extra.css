@@ -25,3 +25,8 @@
 .gvd{position:relative;margin-top:34px;padding:20px 30px;display:flex;align-items:center;gap:22px}
 .gvt{font-size:31px;font-weight:700;line-height:1.35}
 body[data-format=vertical] .stv{font-size:120px}
+body[data-format=vertical] .l-bars .bgt{font-size:34px}
+body[data-format=vertical] .l-bars .bk{width:190px;font-size:27px}
+body[data-format=vertical] .l-bars .btr{height:50px}
+body[data-format=vertical] .l-bars .bv{font-size:34px;line-height:50px}
+body[data-format=vertical] .l-bars .bnt{font-size:26px}

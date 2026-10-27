@@ -1,0 +1,135 @@
+{
+ "title": "Thuyên tắc phổi 2026 – video ngắn 3: Phân loại A–E trong 60 giây",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Tim mạch – Hồi sức",
+ "part": "Thuyên tắc phổi 2026 · ôn nhanh · Phần 2",
+ "source_short": "Nguồn: Hướng dẫn AHA/ACC 2026 về thuyên tắc phổi cấp",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.",
+ "lexicon": {
+  "fondaparinux": "phôn đa pa ri nút",
+  "tenecteplase": "tê nếch tê pla dơ",
+  "rivaroxaban": "ri va rô xa ban",
+  "dabigatran": "đa bi ga tran",
+  "enoxaparin": "e nô xa pa rin",
+  "dalteparin": "đan tê pa rin",
+  "Child-Pugh": "Chai pớt",
+  "McConnell": "Mắc con nồ",
+  "alteplase": "an tê pla dơ",
+  "HI-PEITHO": "hai pây thô",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "D-dimer": "đê đai mơ",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "anti-Xa": "anti xa",
+  "API-CAT": "a pi cát",
+  "HIGHLOW": "hai lâu",
+  "AHA/ACC": "a hát a, a xê xê",
+  "Geneva": "Giơ ne vơ",
+  "Hestia": "Hét ti a",
+  "PEITHO": "pây thô",
+  "RENOVE": "rơ nô vơ",
+  "YEARS": "diơ",
+  "Wells": "Oen",
+  "TAPSE": "táp xi",
+  "SPECT": "xờ péc",
+  "sPESI": "ét pê xi",
+  "NEWS2": "niu hai",
+  "CTEPD": "bệnh huyết khối tắc mạch phổi mạn",
+  "CTEPH": "tăng áp phổi do huyết khối tắc mạch mạn",
+  "rt-PA": "rờ tê pê a",
+  "mg/kg": "miligam mỗi kilôgam",
+  "PERC": "pớc",
+  "PESI": "pê xi",
+  "Bova": "Bô va",
+  "PERT": "pớt",
+  "SCAI": "ét ca i",
+  "ECMO": "ếch mô",
+  "SpO₂": "ét pê ô hai",
+  "mmHg": "milimét thủy ngân",
+  "µg/L": "micrôgam mỗi lít",
+  "U/kg": "đơn vị mỗi kilôgam",
+  "V/Q": "thông khí tưới máu",
+  "AHA": "a hát a",
+  "ESC": "e ét xê"
+ },
+ "theme": "guideline",
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng Phần 2: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "THUYÊN TẮC PHỔI · PHÂN LOẠI MỚI",
+   "hook": "Quên massive, submassive đi!",
+   "sub": "Phân loại A–E của AHA/ACC 2026",
+   "c": "coral",
+   "lines": [
+    "Quên massive và submassive đi. Đây là phân loại A đến E của Hướng dẫn 2026."
+   ]
+  },
+  {
+   "id": "l",
+   "layout": "list",
+   "chapter": "PHÂN LOẠI A–E",
+   "title": "5 nhóm + hệ số R",
+   "dense": true,
+   "items": [
+    {
+     "t": "A · cận lâm sàng",
+     "d": "Phát hiện tình cờ, không triệu chứng",
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "t": "B · triệu chứng, điểm thấp",
+     "d": "sPESI 0 hoặc PESI ≤ 85",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "C · điểm tăng",
+     "d": "C1–C3 theo thất phải và troponin, peptide lợi niệu",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "D · tiền suy tim phổi",
+     "d": "D1 tụt huyết áp thoáng qua · D2 sốc huyết áp bình thường",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "E · suy tim phổi",
+     "d": "E1 sốc tim · E2 kháng trị hoặc ngừng tim",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "+ R: hệ số hô hấp",
+     "d": "Giảm oxy, nhu cầu oxy cao hoặc cần thông khí",
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "A là thuyên tắc phổi cận lâm sàng, phát hiện tình cờ. B có triệu chứng nhưng điểm độ nặng thấp.",
+    "C có điểm độ nặng tăng, chia C1 đến C3 theo thất phải và dấu ấn sinh học.",
+    "D là tiền suy tim phổi: D1 tụt huyết áp thoáng qua, D2 sốc mà huyết áp vẫn bình thường.",
+    "E là suy tim phổi thực sự.",
+    "Và thêm chữ R khi bệnh cảnh nặng về hô hấp. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
