@@ -1,0 +1,16 @@
+[
+ {
+  "out": "thumbs/vap-phong-ngua-2026.png",
+  "hook": "PHÒNG NGỪA<br>VAP 2026",
+  "line2": "Bỏ gì, giữ gì, chờ gì?",
+  "chips": [
+   "Bỏ chlorhexidine",
+   "Hút dịch hạ thanh môn"
+  ],
+  "badge": "CẬP NHẬT 2026",
+  "tag": "Tổng quan Leone 2026 · SSC 2026",
+  "img": null,
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"540\" height=\"497\" style=\"margin-top:50px\">\n<path d=\"M380 40 V300\" stroke=\"rgba(148,163,184,.45)\" stroke-width=\"46\" stroke-linecap=\"round\"/>\n<path d=\"M380 300 L300 360 M380 300 L460 360\" stroke=\"rgba(148,163,184,.45)\" stroke-width=\"30\" stroke-linecap=\"round\"/>\n<path d=\"M330 330 C300 250 270 200 225 200 C160 200 120 300 125 420 C130 540 190 610 260 610 C320 610 345 540 345 470 Z\" fill=\"rgba(251,113,133,.20)\" stroke=\"#fb7185\" stroke-width=\"7\"/>\n<path d=\"M430 330 C460 250 490 200 535 200 C600 200 640 300 635 420 C630 540 570 610 500 610 C440 610 415 540 415 470 Z\" fill=\"rgba(251,113,133,.20)\" stroke=\"#fb7185\" stroke-width=\"7\"/>\n<path d=\"M300 360 C270 420 250 470 230 520 M300 360 C300 430 290 500 300 560 M460 360 C490 420 510 470 530 520 M460 360 C460 430 470 500 460 560\" fill=\"none\" stroke=\"#fb7185\" stroke-width=\"5\" stroke-linecap=\"round\" opacity=\".8\"/>\n<rect x=\"364\" y=\"0\" width=\"32\" height=\"250\" rx=\"12\" fill=\"rgba(45,212,191,.25)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/>\n<ellipse cx=\"380\" cy=\"215\" rx=\"34\" ry=\"20\" fill=\"rgba(45,212,191,.35)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/>\n<circle cx=\"372\" cy=\"70\" r=\"7\" fill=\"#fbbf24\"/><circle cx=\"388\" cy=\"110\" r=\"6\" fill=\"#fbbf24\"/><circle cx=\"374\" cy=\"150\" r=\"8\" fill=\"#fbbf24\"/><circle cx=\"386\" cy=\"185\" r=\"5\" fill=\"#fbbf24\"/>\n<path d=\"M330 185 C345 175 355 185 346 197\" fill=\"none\" stroke=\"#fbbf24\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n<path d=\"M300 390 l18 18 M318 390 l-18 18\" stroke=\"#fbbf24\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n</svg>",
+  "c": "teal"
+ }
+]

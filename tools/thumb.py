@@ -1,7 +1,7 @@
 """Ảnh bìa YouTube 1280x720 theo mẫu kênh Thư Viện Y Khoa Online.
 Dùng: python tools/thumb.py <spec.json>
 spec: [{"out": "thumbs/x.png", "hook": "CƠN BÃO GIÁP", "line2": "Nhận diện &amp; chẩn đoán", "chips": ["..."],
-        "badge": "PHẦN 1/2", "tag": "Đồng thuận ETA/BTA 2026", "img": "media/.../a.jpg" | null, "c": "coral"}]"""
+        "badge": "PHẦN 1/2", "tag": "Đồng thuận ETA/BTA 2026", "img": "media/.../a.jpg" | null, "art": "<svg…>" (tuỳ chọn, thay hình vẽ mặc định), "c": "coral"}]"""
 import json, os, sys
 from playwright.sync_api import sync_playwright
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -14,7 +14,7 @@ ART = '''<svg viewBox="0 0 760 700" width="640" height="590"><path d="M380 60 V6
 LOGO = '<svg width="44" height="44" viewBox="-1 -1 28 28"><rect x="1" y="1" width="24" height="24" rx="6" fill="none" stroke="#e6edf7" stroke-width="2"/><path d="M4 14h5l2-5 3 9 2-4h6" fill="none" stroke="#2dd4bf" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/></svg>'
 def page(s):
     c = {"coral": "#fb7185", "amber": "#fbbf24", "teal": "#2dd4bf"}.get(s.get("c", "coral"), "#fb7185")
-    img = f'<div class="ph" style="background-image:url(file://{os.path.join(R, s["img"])})"></div>' if s.get("img") else f'<div class="art">{ART}</div>'
+    img = f'<div class="ph" style="background-image:url(file://{os.path.join(R, s["img"])})"></div>' if s.get("img") else f'<div class="art">{s.get("art") or ART}</div>'
     chips = "".join(f"<span>{x}</span>" for x in s.get("chips", []))
     return f'''<!doctype html><html><head><meta charset="utf-8"><style>
 @font-face{{font-family:Inter;src:url(file://{R}/fonts/Inter-ExtraBold.otf);font-weight:800}}

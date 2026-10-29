@@ -1,0 +1,683 @@
+1
+00:00:04,900 --> 00:00:06,322
+Thưa quý đồng nghiệp,
+
+2
+00:00:06,172 --> 00:00:11,468
+chào mừng quý vị đến với Thư Viện Y Khoa Online. Hôm nay chúng ta cập nhật phòng ngừa
+
+3
+00:00:11,318 --> 00:00:13,164
+viêm phổi liên quan thở máy,
+
+4
+00:00:13,014 --> 00:00:18,250
+gọi tắt là VAP, qua bài tổng quan năm 2026 của nhóm tác giả Leone và Martin-Loeches.
+
+5
+00:00:18,450 --> 00:00:22,237
+Bài viết trả lời ba câu hỏi rất thực tế: biện pháp nào nên bỏ,
+
+6
+00:00:22,087 --> 00:00:23,880
+như súc miệng chlorhexidine;
+
+7
+00:00:24,080 --> 00:00:27,910
+biện pháp nào nên giữ và làm tốt hơn, như hút dịch hạ thanh môn;
+
+8
+00:00:28,110 --> 00:00:32,217
+và hướng đi nào đang đến, với trọng tâm là màng sinh học, hay biofilm,
+
+9
+00:00:32,067 --> 00:00:33,460
+trên ống nội khí quản.
+
+10
+00:00:33,660 --> 00:00:38,614
+Xin lưu ý: đây là một bài tổng quan tường thuật, không phải hướng dẫn thực hành,
+
+11
+00:00:38,464 --> 00:00:43,658
+nên không có phân loại mức khuyến cáo. Các khuyến cáo chính thức được trích từ hướng
+
+12
+00:00:43,508 --> 00:00:46,780
+dẫn Surviving Sepsis 2026 và hướng dẫn châu Âu 2017.
+
+13
+00:00:48,230 --> 00:00:53,880
+VAP vẫn là nhiễm khuẩn liên quan chăm sóc y tế thường gặp nhất ở người bệnh thở máy xâm
+
+14
+00:00:53,730 --> 00:00:56,472
+nhập. Tần suất báo cáo dao động rất rộng,
+
+15
+00:00:56,322 --> 00:01:01,340
+từ 5% đến 40%, chủ yếu vì khác nhau về định nghĩa chẩn đoán và cách giám sát.
+
+16
+00:01:01,540 --> 00:01:05,862
+Khái niệm biến cố liên quan thở máy ra đời sau này lại góp phần làm con số thật tại
+
+17
+00:01:05,712 --> 00:01:07,370
+giường bệnh càng khó xác định.
+
+18
+00:01:07,570 --> 00:01:12,181
+Dù thời gian phơi nhiễm với thở máy đã giảm, VAP vẫn kéo dài thời gian thở máy,
+
+19
+00:01:12,031 --> 00:01:14,440
+kéo dài nằm hồi sức và làm tăng tử vong.
+
+20
+00:01:15,890 --> 00:01:20,210
+Bài tổng quan chia lịch sử phòng ngừa VAP thành ba giai đoạn. Giai đoạn trước,
+
+21
+00:01:20,060 --> 00:01:23,738
+trọng tâm là giảm phơi nhiễm với thở máy và áp dụng gói biện pháp,
+
+22
+00:01:23,588 --> 00:01:27,480
+thường gộp nhiều can thiệp mà không rõ can thiệp nào thật sự hiệu quả.
+
+23
+00:01:27,680 --> 00:01:32,710
+Hiện nay là giai đoạn đánh giá lại từng biện pháp dựa trên các thử nghiệm và phân tích gộp mới.
+
+24
+00:01:32,910 --> 00:01:36,100
+Và tương lai hướng tới phòng ngừa dựa trên cơ chế bệnh sinh.
+
+25
+00:01:36,300 --> 00:01:40,753
+Ba hướng chính là ống nội khí quản chống biofilm, bảo tồn vi hệ vi khuẩn,
+
+26
+00:01:40,603 --> 00:01:43,170
+và trí tuệ nhân tạo để phân tầng nguy cơ.
+
+27
+00:01:44,620 --> 00:01:48,401
+Các hướng dẫn trước đây đều coi giảm phơi nhiễm với thở máy là trụ cột:
+
+28
+00:01:48,251 --> 00:01:51,060
+tránh đặt nội khí quản không cần thiết, an thần nhẹ,
+
+29
+00:01:50,910 --> 00:01:54,180
+đánh giá cai máy hằng ngày. Làm ẩm đường thở cũng quan trọng,
+
+30
+00:01:54,030 --> 00:01:55,970
+có lẽ vì giảm tắc ống và giảm viêm.
+
+31
+00:01:56,170 --> 00:02:00,313
+Nhóm biện pháp thứ hai nhắm vào vi hít dịch tiết nhiễm khuẩn: nằm đầu cao,
+
+32
+00:02:00,163 --> 00:02:03,335
+duy trì áp lực bóng chèn, và nuôi ăn đường tiêu hoá sớm,
+
+33
+00:02:03,185 --> 00:02:05,440
+vốn liên quan với giảm nhẹ nguy cơ VAP.
+
+34
+00:02:05,640 --> 00:02:08,604
+Ngược lại, probiotic, ống nội khí quản phủ kháng khuẩn,
+
+35
+00:02:08,454 --> 00:02:12,545
+mở khí quản sớm và thay dây máy thở thường xuyên không cho lợi ích nhất quán,
+
+36
+00:02:12,395 --> 00:02:17,150
+nên không được khuyến cáo thường quy. Khử khuẩn chọn lọc đường tiêu hoá thì còn tranh cãi.
+
+37
+00:02:18,600 --> 00:02:22,286
+Điểm thay đổi đầu tiên: chăm sóc răng miệng bằng chlorhexidine,
+
+38
+00:02:22,136 --> 00:02:24,699
+vốn có mặt trong hầu hết các gói biện pháp,
+
+39
+00:02:24,549 --> 00:02:30,030
+nay bị đặt lại vấn đề. Một phân tích gộp mạng cập nhật không thấy lợi ích ở bất kỳ nồng độ nào.
+
+40
+00:02:30,230 --> 00:02:34,774
+Thử nghiệm CHORAL, thiết kế cụm bậc thang, đa trung tâm với 3.260 người bệnh,
+
+41
+00:02:34,624 --> 00:02:38,940
+cho thấy ngừng chlorhexidine không làm tăng biến chứng liên quan thở máy.
+
+42
+00:02:39,140 --> 00:02:43,270
+Các phân tích chuỗi thời gian gợi ý vệ sinh răng miệng đơn giản như chải răng,
+
+43
+00:02:43,120 --> 00:02:46,536
+kết hợp nằm đầu cao, đạt kết quả tương tự. Kết luận của tác giả:
+
+44
+00:02:46,386 --> 00:02:48,730
+bằng chứng không ủng hộ dùng chlorhexidine.
+
+45
+00:02:50,180 --> 00:02:51,944
+Với kháng sinh dự phòng,
+
+46
+00:02:51,794 --> 00:02:57,930
+bức tranh tinh tế hơn. Ở thử nghiệm với 345 người bệnh tổn thương não cấp được phân nhóm,
+
+47
+00:02:57,780 --> 00:03:02,570
+dự phòng ngắn ngày giảm VAP sớm từ 32% xuống 14%, tỉ số nguy cơ 0,60.
+
+48
+00:03:02,770 --> 00:03:07,387
+Ở 194 người bệnh sau ngừng tim, VAP sớm giảm từ 34% xuống 19%,
+
+49
+00:03:07,237 --> 00:03:13,584
+tỉ số nguy cơ 0,53. Một phân tích gộp ba nghiên cứu ở người bệnh hôn mê do chấn thương
+
+50
+00:03:13,434 --> 00:03:16,610
+cũng cho kết quả tương tự với ceftriaxone.
+
+51
+00:03:16,810 --> 00:03:23,296
+Thử nghiệm INHALE năm 2023, 847 người bệnh, dùng amikacin khí dung ba ngày,
+
+52
+00:03:23,146 --> 00:03:29,040
+giảm VAP đến ngày 28 từ 22% xuống 15%, biến cố bất lợi nặng dưới 2%.
+
+53
+00:03:29,240 --> 00:03:33,226
+Giới hạn quan trọng: lợi ích tập trung ở VAP sớm. Với VAP muộn,
+
+54
+00:03:33,076 --> 00:03:36,270
+thường do vi khuẩn đề kháng, tác động còn hạn chế.
+
+55
+00:03:37,720 --> 00:03:39,778
+Xin điểm lại phác đồ. Trong INHALE,
+
+56
+00:03:39,628 --> 00:03:44,141
+amikacin khí dung liều 20 miligam mỗi ki lô gam cân nặng lý tưởng, tối đa 2 gam,
+
+57
+00:03:43,991 --> 00:03:47,358
+một lần mỗi ngày trong ba ngày, qua máy khí dung lưới rung,
+
+58
+00:03:47,208 --> 00:03:51,884
+cho người bệnh đã thở máy ít nhất 72 giờ và không suy thận nặng. Tác giả xem đây là
+
+59
+00:03:51,734 --> 00:03:55,210
+điểm cân bằng giữa hiệu quả và hạn chế phơi nhiễm kháng sinh.
+
+60
+00:03:55,410 --> 00:03:58,171
+Phần sau là kiến thức bổ sung từ thử nghiệm gốc,
+
+61
+00:03:58,021 --> 00:04:01,543
+không có trong bài tổng quan. Ở người bệnh tổn thương não cấp,
+
+62
+00:04:01,393 --> 00:04:05,894
+hôn mê với điểm Glasgow từ 12 trở xuống, phác đồ là ceftriaxone 2 gam tĩnh mạch,
+
+63
+00:04:05,744 --> 00:04:08,940
+một liều duy nhất trong 12 giờ đầu sau đặt nội khí quản.
+
+64
+00:04:09,140 --> 00:04:12,786
+Ở người bệnh sau ngừng tim ngoài viện có nhịp sốc được,
+
+65
+00:04:12,636 --> 00:04:18,571
+phác đồ là amoxicillin clavulanate 1 gam trên 200 miligam tĩnh mạch mỗi 8 giờ trong 48 giờ,
+
+66
+00:04:18,421 --> 00:04:21,050
+bắt đầu trong vòng 6 giờ sau ngừng tim.
+
+67
+00:04:21,250 --> 00:04:25,686
+Điểm chung: chỉ dành cho nhóm nguy cơ cao VAP sớm, không áp dụng đại trà,
+
+68
+00:04:25,536 --> 00:04:28,680
+và luôn đối chiếu với chế phẩm, phác đồ của đơn vị.
+
+69
+00:04:30,130 --> 00:04:33,012
+Khử khuẩn chọn lọc đường tiêu hoá, gọi tắt SDD,
+
+70
+00:04:32,862 --> 00:04:37,953
+là biện pháp được nghiên cứu nhiều nhất. Phân tích gộp 32 thử nghiệm với hơn 27 nghìn
+
+71
+00:04:37,803 --> 00:04:39,872
+người bệnh cho thấy giảm tử vong,
+
+72
+00:04:39,722 --> 00:04:42,081
+nguy cơ tương đối 0,91, cùng giảm VAP,
+
+73
+00:04:41,931 --> 00:04:45,220
+nhiễm khuẩn huyết mắc phải và nhiễm vi khuẩn đề kháng.
+
+74
+00:04:45,420 --> 00:04:49,007
+Nhưng thử nghiệm quốc tế lớn SuDDICU không giảm tử vong nội viện,
+
+75
+00:04:48,857 --> 00:04:51,810
+dù ít nhiễm khuẩn huyết mới và vi khuẩn đề kháng hơn.
+
+76
+00:04:52,010 --> 00:04:53,947
+Lo ngại lớn nhất là phá vỡ vi hệ,
+
+77
+00:04:53,797 --> 00:04:59,635
+với hậu quả lâu dài chưa rõ. Dữ liệu mới gợi ý kháng sinh diệt vi khuẩn kỵ khí liên quan kết cục xấu hơn,
+
+78
+00:04:59,485 --> 00:05:00,880
+kể cả tử vong. Tuy vậy,
+
+79
+00:05:00,730 --> 00:05:04,943
+SDD giảm số đợt nhiễm khuẩn nên có thể giảm tổng lượng kháng sinh phổ rộng;
+
+80
+00:05:04,793 --> 00:05:08,030
+trong SuDDICU, tổng liều kháng sinh hai nhóm tương đương.
+
+81
+00:05:08,230 --> 00:05:13,648
+Hướng dẫn Surviving Sepsis 2026 khuyến cáo có điều kiện dùng SDD cho người lớn thở máy
+
+82
+00:05:13,498 --> 00:05:16,221
+có nhiễm khuẩn huyết hoặc sốc nhiễm khuẩn,
+
+83
+00:05:16,071 --> 00:05:19,100
+nhưng chỉ tại đơn vị có tỷ lệ kháng thuốc thấp.
+
+84
+00:05:20,550 --> 00:05:25,831
+Tình huống thứ nhất. Khoa hồi sức của anh chị có tỷ lệ Klebsiella và Acinetobacter đa
+
+85
+00:05:25,681 --> 00:05:32,109
+kháng cao. Một đồng nghiệp đề xuất áp dụng SDD thường quy cho mọi người bệnh thở máy có sốc nhiễm khuẩn,
+
+86
+00:05:31,959 --> 00:05:33,980
+viện dẫn Surviving Sepsis 2026.
+
+87
+00:05:34,180 --> 00:05:35,930
+Nhận định nào phù hợp nhất?
+
+88
+00:05:36,130 --> 00:05:39,080
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+89
+00:05:47,680 --> 00:05:52,411
+Đáp án là B. Khuyến cáo của Surviving Sepsis 2026 là khuyến cáo có điều kiện,
+
+90
+00:05:52,261 --> 00:05:57,469
+và chỉ áp dụng ở đơn vị có tỷ lệ kháng thuốc thấp. Phần lớn bằng chứng đến từ các hồi
+
+91
+00:05:57,319 --> 00:05:58,956
+sức ít vi khuẩn đề kháng,
+
+92
+00:05:58,806 --> 00:06:02,050
+nên khó suy rộng cho bối cảnh như khoa của chúng ta.
+
+93
+00:06:02,250 --> 00:06:04,852
+Probiotic không được khuyến cáo thường quy,
+
+94
+00:06:04,702 --> 00:06:07,760
+và chlorhexidine không có lợi ở bất kỳ nồng độ nào.
+
+95
+00:06:09,210 --> 00:06:10,272
+Với đường thở,
+
+96
+00:06:10,122 --> 00:06:15,220
+duy trì áp lực bóng chèn giúp giảm vi hít. Tổng quan hệ thống 11 thử nghiệm,
+
+97
+00:06:15,070 --> 00:06:17,760
+2.092 người bệnh, cho tỉ số chênh 0,51.
+
+98
+00:06:17,960 --> 00:06:18,896
+Tuy nhiên,
+
+99
+00:06:18,746 --> 00:06:26,438
+hệ thống điều chỉnh áp lực tự động không hơn chăm sóc chuẩn trong một thử nghiệm 434 người bệnh:
+
+100
+00:06:26,288 --> 00:06:31,230
+VAP 33,8% so với 29,4%, tỉ số nguy cơ 0,96, không có ý nghĩa.
+
+101
+00:06:31,430 --> 00:06:36,202
+Hút dịch hạ thanh môn là biện pháp đường thở duy nhất giảm VAP nhất quán qua các thử
+
+102
+00:06:36,052 --> 00:06:37,523
+nghiệm và phân tích gộp,
+
+103
+00:06:37,373 --> 00:06:41,760
+vì tác động trực tiếp vào dịch đọng phía trên bóng chèn. Vậy mà trên thực tế,
+
+104
+00:06:41,610 --> 00:06:42,860
+nó vẫn ít được dùng.
+
+105
+00:06:43,060 --> 00:06:46,108
+Ngược lại, nằm đầu cao được áp dụng ở hầu hết hồi sức,
+
+106
+00:06:45,958 --> 00:06:51,850
+dù chủ yếu dựa trên lý lẽ cơ chế và bằng chứng còn yếu. Đây là khoảng cách rõ giữa bằng chứng và thực hành.
+
+107
+00:06:53,300 --> 00:06:58,432
+Vận động sớm và vật lý trị liệu không trực tiếp giảm VAP. Nhưng phân tích gộp năm thử
+
+108
+00:06:58,282 --> 00:07:03,356
+nghiệm cho thấy giảm thời gian nằm hồi sức 0,85 ngày và thời gian thở máy 1,02 ngày,
+
+109
+00:07:03,206 --> 00:07:06,170
+nên vẫn được khuyến khích đưa vào gói biện pháp.
+
+110
+00:07:06,370 --> 00:07:10,480
+Các biện pháp ở cấp hệ thống, gồm đào tạo nhân viên, chăm sóc đa chuyên khoa,
+
+111
+00:07:10,330 --> 00:07:12,897
+chương trình kiểm soát nhiễm khuẩn và giám sát,
+
+112
+00:07:12,747 --> 00:07:15,880
+nằm trong nhóm hiệu quả và dễ lặp lại nhất ngoài đời thực.
+
+113
+00:07:16,080 --> 00:07:17,312
+Và tác giả nhấn mạnh:
+
+114
+00:07:17,162 --> 00:07:22,310
+đào tạo và huấn luyện điều dưỡng có lẽ là một trong những cách hiệu quả nhất để giảm nguy cơ VAP.
+
+115
+00:07:23,760 --> 00:07:26,114
+Thay đổi quan trọng nhất về bệnh sinh:
+
+116
+00:07:25,964 --> 00:07:31,858
+màng sinh học trên ống nội khí quản có lẽ là động lực chính gây VAP. Chỉ trong vài giờ sau đặt ống,
+
+117
+00:07:31,708 --> 00:07:33,830
+vi khuẩn đã bám vào mặt trong ống.
+
+118
+00:07:34,030 --> 00:07:37,553
+Chúng tiết exopolysaccharide, fibrin và lipoprotein,
+
+119
+00:07:37,403 --> 00:07:42,678
+tạo chất nền ngoại bào bao bọc quần thể vi khuẩn. Tác nhân chính gồm S. aureus,
+
+120
+00:07:42,528 --> 00:07:47,674
+S. epidermidis và các trực khuẩn Gram âm đa kháng như E. coli, K. pneumoniae,
+
+121
+00:07:47,524 --> 00:07:49,490
+P. aeruginosa, A. baumannii.
+
+122
+00:07:49,690 --> 00:07:53,360
+Chất nền này giúp vi khuẩn né tránh cả kháng sinh lẫn hệ miễn dịch.
+
+123
+00:07:53,560 --> 00:07:55,459
+Biofilm trở thành ổ chứa dai dẳng,
+
+124
+00:07:55,309 --> 00:07:59,833
+liên tục gieo vi khuẩn xuống đường hô hấp dưới qua vi hít. Điều này giải thích vì sao
+
+125
+00:07:59,683 --> 00:08:01,634
+nhiều biện pháp toàn thân thất bại,
+
+126
+00:08:01,484 --> 00:08:04,670
+và VAP nên được nhìn như một nhiễm khuẩn liên quan dụng cụ.
+
+127
+00:08:06,120 --> 00:08:10,242
+Nhìn về tương lai, bước tiến kế tiếp có lẽ đến từ chính ống nội khí quản:
+
+128
+00:08:10,092 --> 00:08:14,322
+lớp phủ chống biofilm, bề mặt nano, vật liệu nhiều lớp, vi cấu trúc bề mặt,
+
+129
+00:08:14,172 --> 00:08:19,273
+và hệ thống chủ động loại bỏ biofilm. Mục tiêu là ngăn vi khuẩn bám ngay từ gốc. Xin lưu ý,
+
+130
+00:08:19,123 --> 00:08:23,680
+một tác giả của bài có liên quan lợi ích với công nghệ ống nội khí quản loại này.
+
+131
+00:08:23,880 --> 00:08:27,985
+Hướng thứ hai là vi hệ phổi. Thời gian thở máy, chứ không phải kháng sinh,
+
+132
+00:08:27,835 --> 00:08:33,009
+liên quan với giảm đa dạng vi hệ. Ưu tiên có thể làm ngay là quản lý kháng sinh bảo tồn vi hệ:
+
+133
+00:08:32,859 --> 00:08:36,750
+phổ hẹp, xuống thang có hệ thống, và thời gian ngắn nhất còn hiệu quả.
+
+134
+00:08:36,950 --> 00:08:43,307
+Còn bổ sung vi khuẩn có lợi thì chưa thành công. Thử nghiệm 2.650 người bệnh với
+
+135
+00:08:43,157 --> 00:08:47,963
+Lactobacillus rhamnosus GG cho tỷ lệ VAP 21,9% so với 21,3%,
+
+136
+00:08:47,813 --> 00:08:54,558
+và Surviving Sepsis 2026 không khuyến cáo dùng probiotic thường quy. Ghép vi sinh vật
+
+137
+00:08:54,408 --> 00:08:58,360
+phân và liệu pháp phage vẫn còn ở mức nghiên cứu.
+
+138
+00:08:59,810 --> 00:09:04,854
+Trí tuệ nhân tạo có thể giúp nhận diện người bệnh nguy cơ cao trước khi có biểu hiện lâm sàng,
+
+139
+00:09:04,704 --> 00:09:07,405
+để áp dụng biện pháp nhắm đích thay vì đồng loạt,
+
+140
+00:09:07,255 --> 00:09:10,737
+và giám sát tuân thủ gói biện pháp theo thời gian thực. Tuy vậy,
+
+141
+00:09:10,587 --> 00:09:13,080
+các công cụ này cần được kiểm chứng tiến cứu.
+
+142
+00:09:13,280 --> 00:09:16,388
+Nhiều câu hỏi vẫn còn bỏ ngỏ. Định nghĩa VAP còn chủ quan,
+
+143
+00:09:16,238 --> 00:09:21,590
+và khác biệt giữa định nghĩa lâm sàng với tiêu chí giám sát khiến các nghiên cứu khó so sánh với nhau.
+
+144
+00:09:21,790 --> 00:09:25,241
+Chọn cách lấy mẫu xâm lấn hay không xâm lấn vẫn chưa ngã ngũ,
+
+145
+00:09:25,091 --> 00:09:29,300
+nhất là khi xét nghiệm nhanh có độ nhạy cao nhưng độ đặc hiệu chỉ vừa phải.
+
+146
+00:09:29,500 --> 00:09:33,575
+Viêm khí phế quản liên quan thở máy nằm trên một dải liên tục với VAP,
+
+147
+00:09:33,425 --> 00:09:36,210
+nhưng thời điểm bắt đầu kháng sinh vẫn chưa rõ.
+
+148
+00:09:36,410 --> 00:09:38,794
+Và ở nơi nguồn lực hạn chế, chi phí công nghệ,
+
+149
+00:09:38,644 --> 00:09:42,971
+kiến thức và tuân thủ hướng dẫn mới là rào cản chính. Hướng dẫn tương lai cần có thuật
+
+150
+00:09:42,821 --> 00:09:44,720
+toán phù hợp với từng mức nguồn lực.
+
+151
+00:09:46,170 --> 00:09:50,031
+Tình huống thứ hai. Nam 58 tuổi, ngừng tim ngoài viện do rung thất,
+
+152
+00:09:49,881 --> 00:09:52,357
+đã có tuần hoàn tự nhiên nhưng còn hôn mê,
+
+153
+00:09:52,207 --> 00:09:57,120
+vừa được đặt nội khí quản. Khoa có sẵn ống nội khí quản có cổng hút dịch hạ thanh môn.
+
+154
+00:09:57,320 --> 00:10:00,350
+Phối hợp nào có bằng chứng giảm VAP tốt nhất?
+
+155
+00:10:00,550 --> 00:10:03,340
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+156
+00:10:11,940 --> 00:10:16,401
+Đáp án là B. Người bệnh sau ngừng tim thuộc nhóm nguy cơ cao VAP sớm,
+
+157
+00:10:16,251 --> 00:10:21,711
+và kháng sinh dự phòng ngắn ngày giảm VAP sớm từ 34% xuống 19%. Hút dịch hạ thanh môn
+
+158
+00:10:21,561 --> 00:10:25,210
+là biện pháp đường thở duy nhất có bằng chứng nhất quán.
+
+159
+00:10:25,410 --> 00:10:27,982
+Chlorhexidine, probiotic, mở khí quản sớm,
+
+160
+00:10:27,832 --> 00:10:33,000
+thay dây máy thở thường xuyên và hệ thống bóng chèn tự động đều không cho thấy lợi ích.
+
+161
+00:10:34,450 --> 00:10:39,000
+Xin tóm lại bằng sáu thông điệp. Thứ nhất, giảm phơi nhiễm với thở máy vẫn là trụ cột.
+
+162
+00:10:39,200 --> 00:10:43,261
+Thứ hai, bỏ chlorhexidine, thay bằng chải răng và nằm đầu cao. Thứ ba,
+
+163
+00:10:43,111 --> 00:10:46,558
+làm tốt hút dịch hạ thanh môn và theo dõi áp lực bóng chèn,
+
+164
+00:10:46,408 --> 00:10:49,910
+những biện pháp có bằng chứng tốt nhất nhưng còn bị bỏ quên.
+
+165
+00:10:50,110 --> 00:10:53,700
+Thứ tư, đầu tư đào tạo điều dưỡng, biện pháp hệ thống hiệu quả nhất.
+
+166
+00:10:53,900 --> 00:10:58,046
+Thứ năm, kháng sinh dự phòng chỉ dành cho nhóm nguy cơ cao VAP sớm,
+
+167
+00:10:57,896 --> 00:11:00,610
+và SDD chỉ cân nhắc ở nơi kháng thuốc thấp.
+
+168
+00:11:00,810 --> 00:11:04,116
+Và thứ sáu, tương lai thuộc về phòng ngừa dựa trên cơ chế:
+
+169
+00:11:03,966 --> 00:11:06,619
+ống nội khí quản chống biofilm, bảo tồn vi hệ,
+
+170
+00:11:06,469 --> 00:11:11,299
+và trí tuệ nhân tạo phân tầng nguy cơ. Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn gặp lại
+
+171
+00:11:11,149 --> 00:11:13,040
+quý vị ở Thư Viện Y Khoa Online.
