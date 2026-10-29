@@ -1,0 +1,918 @@
+{
+ "title": "Phòng ngừa viêm phổi liên quan thở máy 2026",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Hồi sức",
+ "part": "Phòng ngừa VAP · cập nhật 2026",
+ "source_short": "Nguồn: Leone M, et al. Ventilator-associated pneumonia prevention: Past, present, perspective (2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "Lactobacillus rhamnosus GG": "lắc tô ba xi lút ram nô xút giê giê",
+  "S. epidermidis": "tụ cầu da",
+  "S. aureus": "tụ cầu vàng",
+  "K. pneumoniae": "kờ lép si en la",
+  "P. aeruginosa": "trực khuẩn mủ xanh",
+  "A. baumannii": "a xi nê tô bác tơ bô ma ni",
+  "E. coli": "e cô li",
+  "SuDDICU": "xu đi cu",
+  "INHALE": "in heo",
+  "CHORAL": "co ran",
+  "ESICM": "e ét i xê em",
+  "SDD": "ét đê đê",
+  "SSC": "ét ét xê",
+  "VAP": "vê a pê",
+  "ARDS": "suy hô hấp cấp tiến triển"
+ },
+ "brand": {
+  "next": "Video ngắn: Chlorhexidine răng miệng – đã đến lúc bỏ?"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "lungs",
+   "kicker": "Bài giảng chuyên đề Hồi sức",
+   "title": "Phòng ngừa viêm phổi<br>liên quan thở máy",
+   "subtitle": "Quá khứ · Hiện tại · Tương lai — cập nhật 2026",
+   "badges": [
+    {
+     "t": "Bỏ chlorhexidine",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Hút dịch hạ thanh môn",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "t": "Biofilm ống NKQ",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "note": "Tổng quan tường thuật · không phân loại GRADE · khuyến cáo trích từ SSC 2026 và ERS/ESICM 2017",
+   "note_at": 4,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online. Hôm nay chúng ta cập nhật phòng ngừa viêm phổi liên quan thở máy, gọi tắt là VAP, qua bài tổng quan năm 2026 của nhóm tác giả Leone và Martin-Loeches.",
+    "Bài viết trả lời ba câu hỏi rất thực tế: biện pháp nào nên bỏ, như súc miệng chlorhexidine;",
+    "biện pháp nào nên giữ và làm tốt hơn, như hút dịch hạ thanh môn;",
+    "và hướng đi nào đang đến, với trọng tâm là màng sinh học, hay biofilm, trên ống nội khí quản.",
+    "Xin lưu ý: đây là một bài tổng quan tường thuật, không phải hướng dẫn thực hành, nên không có phân loại mức khuyến cáo. Các khuyến cáo chính thức được trích từ hướng dẫn Surviving Sepsis 2026 và hướng dẫn châu Âu 2017."
+   ],
+   "id": "s1"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Mở đầu",
+   "title": "Vì sao VAP vẫn là vấn đề lớn?",
+   "ref": "Phần mở đầu · TLTK [1–4]",
+   "tiles": [
+    {
+     "tag": "TẦN SUẤT BÁO CÁO",
+     "v": 5,
+     "suf": "–40%",
+     "l": "người bệnh thở máy xâm nhập",
+     "d": "Khác biệt chủ yếu do định nghĩa và cách giám sát",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "VỊ TRÍ",
+     "v": 1,
+     "pre": "Số ",
+     "l": "nhiễm khuẩn liên quan chăm sóc y tế thường gặp nhất ở người bệnh thở máy",
+     "at": 1,
+     "c": "amber"
+    }
+   ],
+   "note": {
+    "t": "Hậu quả: kéo dài thở máy · kéo dài nằm hồi sức · tăng tử vong — dù đã giảm phơi nhiễm với thở máy",
+    "at": 2,
+    "c": "teal"
+   },
+   "lines": [
+    "VAP vẫn là nhiễm khuẩn liên quan chăm sóc y tế thường gặp nhất ở người bệnh thở máy xâm nhập. Tần suất báo cáo dao động rất rộng, từ 5% đến 40%, chủ yếu vì khác nhau về định nghĩa chẩn đoán và cách giám sát.",
+    "Khái niệm biến cố liên quan thở máy ra đời sau này lại góp phần làm con số thật tại giường bệnh càng khó xác định.",
+    "Dù thời gian phơi nhiễm với thở máy đã giảm, VAP vẫn kéo dài thời gian thở máy, kéo dài nằm hồi sức và làm tăng tử vong."
+   ],
+   "id": "s2"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Mở đầu",
+   "title": "Ba giai đoạn của phòng ngừa VAP",
+   "ref": "Vẽ lại theo Hình 1 · tổng hợp, không phải hình gốc",
+   "note": {
+    "t": "Từ gói biện pháp chung → đánh giá lại từng biện pháp → phòng ngừa dựa trên cơ chế",
+    "at": 0,
+    "c": "teal",
+    "y": 70
+   },
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Quá khứ",
+     "d": "Giảm phơi nhiễm · gói biện pháp (bundle)",
+     "x": 300,
+     "y": 300,
+     "w": 440,
+     "h": 170,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Hiện tại",
+     "d": "Đánh giá lại: bỏ gì, giữ gì, chọn lọc gì",
+     "x": 888,
+     "y": 300,
+     "w": 440,
+     "h": 170,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Tương lai",
+     "d": "Nhắm vào cơ chế: biofilm, vi hít, vi hệ",
+     "x": 1476,
+     "y": 300,
+     "w": 440,
+     "h": 170,
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Ống NKQ chống biofilm",
+     "x": 1180,
+     "y": 560,
+     "w": 380,
+     "h": 110,
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "Bảo tồn vi hệ",
+     "x": 1600,
+     "y": 560,
+     "w": 330,
+     "h": 110,
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "id": "f",
+     "t": "Trí tuệ nhân tạo",
+     "d": "Phân tầng nguy cơ",
+     "x": 760,
+     "y": 560,
+     "w": 360,
+     "h": 130,
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "a": "c",
+     "b": "e",
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "a": "c",
+     "b": "f",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bài tổng quan chia lịch sử phòng ngừa VAP thành ba giai đoạn. Giai đoạn trước, trọng tâm là giảm phơi nhiễm với thở máy và áp dụng gói biện pháp, thường gộp nhiều can thiệp mà không rõ can thiệp nào thật sự hiệu quả.",
+    "Hiện nay là giai đoạn đánh giá lại từng biện pháp dựa trên các thử nghiệm và phân tích gộp mới.",
+    "Và tương lai hướng tới phòng ngừa dựa trên cơ chế bệnh sinh.",
+    "Ba hướng chính là ống nội khí quản chống biofilm, bảo tồn vi hệ vi khuẩn, và trí tuệ nhân tạo để phân tầng nguy cơ."
+   ],
+   "id": "s3"
+  },
+  {
+   "layout": "cards",
+   "chapter": "1. Quá khứ",
+   "title": "Nền tảng cũ: giảm phơi nhiễm, chống vi hít",
+   "ref": "Mục 1 · TLTK [7–20]",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "GIẢM PHƠI NHIỄM",
+     "t": "Trụ cột chính",
+     "items": [
+      "Tránh đặt nội khí quản không cần thiết",
+      "An thần nhẹ",
+      "Đánh giá cai máy hằng ngày",
+      "Làm ẩm đường thở"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "CHỐNG VI HÍT",
+     "t": "Biện pháp hỗ trợ",
+     "items": [
+      "Nằm đầu cao",
+      "Duy trì áp lực bóng chèn",
+      "Nuôi ăn đường tiêu hoá sớm"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "KHÔNG KHUYẾN CÁO THƯỜNG QUY",
+     "t": "Không lợi ích nhất quán",
+     "items": [
+      "Probiotic",
+      "Ống NKQ phủ kháng khuẩn",
+      "Mở khí quản sớm",
+      "Thay dây máy thở thường xuyên"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Các hướng dẫn trước đây đều coi giảm phơi nhiễm với thở máy là trụ cột: tránh đặt nội khí quản không cần thiết, an thần nhẹ, đánh giá cai máy hằng ngày. Làm ẩm đường thở cũng quan trọng, có lẽ vì giảm tắc ống và giảm viêm.",
+    "Nhóm biện pháp thứ hai nhắm vào vi hít dịch tiết nhiễm khuẩn: nằm đầu cao, duy trì áp lực bóng chèn, và nuôi ăn đường tiêu hoá sớm, vốn liên quan với giảm nhẹ nguy cơ VAP.",
+    "Ngược lại, probiotic, ống nội khí quản phủ kháng khuẩn, mở khí quản sớm và thay dây máy thở thường xuyên không cho lợi ích nhất quán, nên không được khuyến cáo thường quy. Khử khuẩn chọn lọc đường tiêu hoá thì còn tranh cãi."
+   ],
+   "id": "s4"
+  },
+  {
+   "layout": "box",
+   "chapter": "2. Hiện tại · Chăm sóc răng miệng",
+   "title": "Đã đến lúc bỏ chlorhexidine",
+   "ref": "Mục 2.1 · TLTK [2,21]",
+   "box": {
+    "tag": "THÔNG ĐIỆP",
+    "t": "Bằng chứng hiện tại <b>không ủng hộ</b> dùng chlorhexidine chăm sóc răng miệng để phòng VAP — <em>ở mọi nồng độ</em>.",
+    "at": 0,
+    "c": "coral",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "CHORAL · n = 3.260",
+     "t": "Thử nghiệm cụm bậc thang đa trung tâm: ngừng chlorhexidine <b>không làm tăng</b> biến chứng liên quan thở máy",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "THAY THẾ",
+     "t": "Vệ sinh răng miệng đơn giản: <b>chải răng + nằm đầu cao</b> cho kết quả tương tự",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Điểm thay đổi đầu tiên: chăm sóc răng miệng bằng chlorhexidine, vốn có mặt trong hầu hết các gói biện pháp, nay bị đặt lại vấn đề. Một phân tích gộp mạng cập nhật không thấy lợi ích ở bất kỳ nồng độ nào.",
+    "Thử nghiệm CHORAL, thiết kế cụm bậc thang, đa trung tâm với 3.260 người bệnh, cho thấy ngừng chlorhexidine không làm tăng biến chứng liên quan thở máy.",
+    "Các phân tích chuỗi thời gian gợi ý vệ sinh răng miệng đơn giản như chải răng, kết hợp nằm đầu cao, đạt kết quả tương tự. Kết luận của tác giả: bằng chứng không ủng hộ dùng chlorhexidine."
+   ],
+   "id": "s5"
+  },
+  {
+   "layout": "bars",
+   "chapter": "2. Hiện tại · Kháng sinh dự phòng",
+   "title": "Kháng sinh dự phòng ngắn ngày: giảm VAP sớm",
+   "ref": "Mục 2.2 · TLTK [23–25] · tỷ lệ VAP, can thiệp so với chứng",
+   "max": 40,
+   "notes_w": 460,
+   "groups": [
+    {
+     "t": "Tổn thương não cấp",
+     "d": "345 người được phân nhóm · VAP sớm",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Dự phòng",
+       "v": 14,
+       "lab": "14%",
+       "c": "teal"
+      },
+      {
+       "k": "Chứng",
+       "v": 32,
+       "lab": "32%"
+      }
+     ]
+    },
+    {
+     "t": "Sau ngừng tim",
+     "d": "194 người được phân tích · VAP sớm",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Dự phòng",
+       "v": 19,
+       "lab": "19%",
+       "c": "teal"
+      },
+      {
+       "k": "Chứng",
+       "v": 34,
+       "lab": "34%"
+      }
+     ]
+    },
+    {
+     "t": "INHALE · amikacin hít",
+     "d": "n = 847 · VAP đến ngày 28",
+     "at": 2,
+     "c": "green",
+     "bars": [
+      {
+       "k": "Amikacin",
+       "v": 15,
+       "lab": "15%",
+       "c": "green"
+      },
+      {
+       "k": "Giả dược",
+       "v": 22,
+       "lab": "22%"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TỔN THƯƠNG NÃO",
+     "t": "HR 0,60 (0,38–0,95)",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "SAU NGỪNG TIM",
+     "t": "HR 0,53 (0,31–0,92)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "GIỚI HẠN",
+     "t": "Lợi ích chủ yếu ở <b>VAP sớm</b>; ít tác động lên VAP muộn do vi khuẩn đề kháng",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Với kháng sinh dự phòng, bức tranh tinh tế hơn. Ở thử nghiệm với 345 người bệnh tổn thương não cấp được phân nhóm, dự phòng ngắn ngày giảm VAP sớm từ 32% xuống 14%, tỉ số nguy cơ 0,60.",
+    "Ở 194 người bệnh sau ngừng tim, VAP sớm giảm từ 34% xuống 19%, tỉ số nguy cơ 0,53. Một phân tích gộp ba nghiên cứu ở người bệnh hôn mê do chấn thương cũng cho kết quả tương tự với ceftriaxone.",
+    "Thử nghiệm INHALE năm 2023, 847 người bệnh, dùng amikacin khí dung ba ngày, giảm VAP đến ngày 28 từ 22% xuống 15%, biến cố bất lợi nặng dưới 2%.",
+    "Giới hạn quan trọng: lợi ích tập trung ở VAP sớm. Với VAP muộn, thường do vi khuẩn đề kháng, tác động còn hạn chế."
+   ],
+   "id": "s6"
+  },
+  {
+   "layout": "list",
+   "chapter": "2. Hiện tại · Liều dùng",
+   "title": "Phác đồ trong các thử nghiệm",
+   "ref": "Mục 2.2 · TLTK [23–25] · liều ceftriaxone, amoxicillin–clavulanate: kiến thức bổ sung từ thử nghiệm gốc",
+   "items": [
+    {
+     "t": "Amikacin khí dung (INHALE)",
+     "d": "<b>20 mg/kg cân nặng lý tưởng</b> (tối đa 2 g), 1 lần/ngày × <b>3 ngày</b> · máy khí dung lưới rung · thở máy ≥ 72 giờ · loại trừ suy thận nặng",
+     "at": 0,
+     "c": "green",
+     "hl": true
+    },
+    {
+     "t": "Ceftriaxone (tổn thương não cấp)",
+     "d": "<b>2 g tĩnh mạch, 1 liều duy nhất</b> trong 12 giờ đầu sau đặt nội khí quản · hôn mê GCS ≤ 12 · kiến thức bổ sung",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Amoxicillin–clavulanate (sau ngừng tim)",
+     "d": "<b>1 g/200 mg tĩnh mạch mỗi 8 giờ × 48 giờ</b>, bắt đầu trong 6 giờ · ngừng tim ngoài viện, nhịp sốc được · kiến thức bổ sung",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Chọn lọc người bệnh",
+     "d": "Nhóm nguy cơ cao VAP sớm · không áp dụng đại trà · kiểm tra theo chế phẩm và phác đồ đơn vị",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Xin điểm lại phác đồ. Trong INHALE, amikacin khí dung liều 20 miligam mỗi ki lô gam cân nặng lý tưởng, tối đa 2 gam, một lần mỗi ngày trong ba ngày, qua máy khí dung lưới rung, cho người bệnh đã thở máy ít nhất 72 giờ và không suy thận nặng. Tác giả xem đây là điểm cân bằng giữa hiệu quả và hạn chế phơi nhiễm kháng sinh.",
+    "Phần sau là kiến thức bổ sung từ thử nghiệm gốc, không có trong bài tổng quan. Ở người bệnh tổn thương não cấp, hôn mê với điểm Glasgow từ 12 trở xuống, phác đồ là ceftriaxone 2 gam tĩnh mạch, một liều duy nhất trong 12 giờ đầu sau đặt nội khí quản.",
+    "Ở người bệnh sau ngừng tim ngoài viện có nhịp sốc được, phác đồ là amoxicillin clavulanate 1 gam trên 200 miligam tĩnh mạch mỗi 8 giờ trong 48 giờ, bắt đầu trong vòng 6 giờ sau ngừng tim.",
+    "Điểm chung: chỉ dành cho nhóm nguy cơ cao VAP sớm, không áp dụng đại trà, và luôn đối chiếu với chế phẩm, phác đồ của đơn vị."
+   ],
+   "id": "s7"
+  },
+  {
+   "layout": "compare",
+   "chapter": "2. Hiện tại · Khử khuẩn chọn lọc",
+   "title": "SDD: bằng chứng nhiều nhất, tranh cãi cũng nhiều nhất",
+   "ref": "Mục 2.2 · TLTK [26–33]",
+   "head": [
+    "",
+    "Lợi ích",
+    "Lo ngại"
+   ],
+   "widths": "0.9fr 1.7fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "Phân tích gộp",
+      "32 RCT, n = 27.332: <b>giảm tử vong</b> RR 0,91 (0,82–0,99), giảm VAP, nhiễm khuẩn huyết, vi khuẩn đề kháng",
+      "Dữ liệu chủ yếu từ hồi sức có <b>tỷ lệ kháng thuốc thấp</b>"
+     ],
+     "at": 0
+    },
+    {
+     "cells": [
+      "SuDDICU",
+      "Ít nhiễm khuẩn huyết mới và vi khuẩn đề kháng hơn",
+      "<b>Không giảm</b> tử vong nội viện · ngày sống không thở máy tương đương"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Vi hệ",
+      "Giảm số đợt nhiễm khuẩn → có thể giảm tổng phơi nhiễm kháng sinh",
+      "Phá vỡ vi hệ; kháng sinh diệt kỵ khí liên quan kết cục xấu hơn"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "SSC 2026",
+      "<b>Khuyến cáo có điều kiện</b>: người lớn thở máy có nhiễm khuẩn huyết/sốc nhiễm khuẩn",
+      "Chỉ tại đơn vị <b>tỷ lệ kháng thuốc thấp</b>"
+     ],
+     "at": 3,
+     "c": "teal",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Khử khuẩn chọn lọc đường tiêu hoá, gọi tắt SDD, là biện pháp được nghiên cứu nhiều nhất. Phân tích gộp 32 thử nghiệm với hơn 27 nghìn người bệnh cho thấy giảm tử vong, nguy cơ tương đối 0,91, cùng giảm VAP, nhiễm khuẩn huyết mắc phải và nhiễm vi khuẩn đề kháng.",
+    "Nhưng thử nghiệm quốc tế lớn SuDDICU không giảm tử vong nội viện, dù ít nhiễm khuẩn huyết mới và vi khuẩn đề kháng hơn.",
+    "Lo ngại lớn nhất là phá vỡ vi hệ, với hậu quả lâu dài chưa rõ. Dữ liệu mới gợi ý kháng sinh diệt vi khuẩn kỵ khí liên quan kết cục xấu hơn, kể cả tử vong. Tuy vậy, SDD giảm số đợt nhiễm khuẩn nên có thể giảm tổng lượng kháng sinh phổ rộng; trong SuDDICU, tổng liều kháng sinh hai nhóm tương đương.",
+    "Hướng dẫn Surviving Sepsis 2026 khuyến cáo có điều kiện dùng SDD cho người lớn thở máy có nhiễm khuẩn huyết hoặc sốc nhiễm khuẩn, nhưng chỉ tại đơn vị có tỷ lệ kháng thuốc thấp."
+   ],
+   "id": "s8"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống 1",
+   "title": "Tình huống 1: SDD ở hồi sức nhiều vi khuẩn đa kháng?",
+   "ref": "Mục 2.2 · SSC 2026 [28]",
+   "case": "Khoa hồi sức của anh chị có tỷ lệ <b>Klebsiella, Acinetobacter đa kháng cao</b>. Một đồng nghiệp đề xuất áp dụng <b>SDD thường quy</b> cho mọi người bệnh thở máy có sốc nhiễm khuẩn, dựa trên SSC 2026.",
+   "case_at": 0,
+   "q": "Nhận định nào phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Đồng ý: SSC 2026 khuyến cáo mạnh SDD cho mọi đơn vị",
+    "Chưa nên áp dụng thường quy: khuyến cáo có điều kiện, chỉ ở nơi kháng thuốc thấp",
+    "Thay SDD bằng probiotic",
+    "Dùng chlorhexidine nồng độ cao thay thế"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "SSC 2026: khuyến cáo <b>có điều kiện</b>, ở đơn vị <b>tỷ lệ kháng thuốc thấp</b>. Bằng chứng SDD chủ yếu từ hồi sức kháng thuốc thấp; lo ngại phá vỡ vi hệ. Probiotic và chlorhexidine đều không được ủng hộ.",
+   "lines": [
+    "Tình huống thứ nhất. Khoa hồi sức của anh chị có tỷ lệ Klebsiella và Acinetobacter đa kháng cao. Một đồng nghiệp đề xuất áp dụng SDD thường quy cho mọi người bệnh thở máy có sốc nhiễm khuẩn, viện dẫn Surviving Sepsis 2026.",
+    "Nhận định nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Khuyến cáo của Surviving Sepsis 2026 là khuyến cáo có điều kiện, và chỉ áp dụng ở đơn vị có tỷ lệ kháng thuốc thấp. Phần lớn bằng chứng đến từ các hồi sức ít vi khuẩn đề kháng, nên khó suy rộng cho bối cảnh như khoa của chúng ta.",
+    "Probiotic không được khuyến cáo thường quy, và chlorhexidine không có lợi ở bất kỳ nồng độ nào."
+   ],
+   "id": "s9"
+  },
+  {
+   "layout": "bars",
+   "chapter": "2. Hiện tại · Đường thở",
+   "title": "Bóng chèn và hút dịch hạ thanh môn",
+   "ref": "Mục 2.3 · TLTK [14,34–37]",
+   "max": 40,
+   "notes_w": 520,
+   "groups": [
+    {
+     "t": "Áp lực bóng chèn tự động",
+     "d": "RCT n = 434 · tỷ lệ VAP",
+     "at": 1,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Tự động",
+       "v": 33.8,
+       "lab": "33,8%",
+       "c": "amber"
+      },
+      {
+       "k": "Chuẩn",
+       "v": 29.4,
+       "lab": "29,4%"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "DUY TRÌ ÁP LỰC BÓNG CHÈN",
+     "t": "11 RCT, n = 2.092: OR 0,51 (0,31–0,82)",
+     "d": "Giảm vi hít và VAP",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "HỆ THỐNG TỰ ĐỘNG",
+     "t": "Không hơn chăm sóc chuẩn · HR 0,96 (0,76–1,20)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "HÚT DỊCH HẠ THANH MÔN",
+     "t": "Biện pháp đường thở <b>duy nhất</b> giảm VAP nhất quán qua RCT và phân tích gộp",
+     "d": "…nhưng vẫn ít được dùng",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "NẰM ĐẦU CAO",
+     "t": "Hợp lý về cơ chế, bằng chứng còn yếu",
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Với đường thở, duy trì áp lực bóng chèn giúp giảm vi hít. Tổng quan hệ thống 11 thử nghiệm, 2.092 người bệnh, cho tỉ số chênh 0,51.",
+    "Tuy nhiên, hệ thống điều chỉnh áp lực tự động không hơn chăm sóc chuẩn trong một thử nghiệm 434 người bệnh: VAP 33,8% so với 29,4%, tỉ số nguy cơ 0,96, không có ý nghĩa.",
+    "Hút dịch hạ thanh môn là biện pháp đường thở duy nhất giảm VAP nhất quán qua các thử nghiệm và phân tích gộp, vì tác động trực tiếp vào dịch đọng phía trên bóng chèn. Vậy mà trên thực tế, nó vẫn ít được dùng.",
+    "Ngược lại, nằm đầu cao được áp dụng ở hầu hết hồi sức, dù chủ yếu dựa trên lý lẽ cơ chế và bằng chứng còn yếu. Đây là khoảng cách rõ giữa bằng chứng và thực hành."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "cards",
+   "chapter": "2. Hiện tại · Vận động và hệ thống",
+   "title": "Vận động sớm và sức mạnh của hệ thống",
+   "ref": "Mục 2.4 · TLTK [38–42]",
+   "h": 560,
+   "cards": [
+    {
+     "tag": "VẬN ĐỘNG SỚM",
+     "t": "Không giảm VAP trực tiếp",
+     "items": [
+      "Phân tích gộp 5 RCT",
+      "Giảm nằm hồi sức: −0,85 ngày",
+      "Giảm thời gian thở máy: −1,02 ngày",
+      "→ Nên có trong gói biện pháp"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "BIỆN PHÁP HỆ THỐNG",
+     "t": "Hiệu quả và lặp lại được",
+     "items": [
+      "Đào tạo nhân viên",
+      "Chăm sóc đa chuyên khoa",
+      "Chương trình kiểm soát nhiễm khuẩn",
+      "Giám sát VAP"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "ƯU TIÊN",
+     "t": "Đào tạo điều dưỡng",
+     "items": [
+      "Có lẽ là cách <b>hiệu quả nhất</b> để giảm nguy cơ VAP"
+     ],
+     "at": 2,
+     "c": "coral",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Vận động sớm và vật lý trị liệu không trực tiếp giảm VAP. Nhưng phân tích gộp năm thử nghiệm cho thấy giảm thời gian nằm hồi sức 0,85 ngày và thời gian thở máy 1,02 ngày, nên vẫn được khuyến khích đưa vào gói biện pháp.",
+    "Các biện pháp ở cấp hệ thống, gồm đào tạo nhân viên, chăm sóc đa chuyên khoa, chương trình kiểm soát nhiễm khuẩn và giám sát, nằm trong nhóm hiệu quả và dễ lặp lại nhất ngoài đời thực.",
+    "Và tác giả nhấn mạnh: đào tạo và huấn luyện điều dưỡng có lẽ là một trong những cách hiệu quả nhất để giảm nguy cơ VAP."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "flow",
+   "chapter": "2. Hiện tại · Cơ chế mới",
+   "title": "Biofilm ống nội khí quản: động lực chính",
+   "ref": "Mục 2.5 · TLTK [43–46] · sơ đồ tự vẽ",
+   "note": {
+    "t": "Tác nhân chính: <b>S. aureus, S. epidermidis</b> · Gram âm đa kháng: <b>E. coli, K. pneumoniae, P. aeruginosa, A. baumannii</b>",
+    "at": 1,
+    "c": "amber",
+    "y": 70
+   },
+   "nodes": [
+    {
+     "id": "a",
+     "t": "1. Bám dính",
+     "d": "Vài giờ sau đặt ống, vi khuẩn bám mặt trong ống",
+     "x": 230,
+     "y": 360,
+     "w": 380,
+     "h": 230,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "2. Tạo chất nền",
+     "d": "Exopolysaccharide, fibrin, lipoprotein → màng bảo vệ",
+     "x": 670,
+     "y": 360,
+     "w": 380,
+     "h": 230,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "3. Né miễn dịch",
+     "d": "Kháng cả kháng sinh lẫn cơ chế bảo vệ",
+     "x": 1110,
+     "y": 360,
+     "w": 380,
+     "h": 230,
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "4. Gieo xuống phổi",
+     "d": "Ổ chứa dai dẳng + vi hít liên tục → VAP",
+     "x": 1550,
+     "y": 360,
+     "w": 380,
+     "h": 230,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "VAP = nhiễm khuẩn liên quan dụng cụ",
+     "x": 1110,
+     "y": 600,
+     "w": 820,
+     "h": 100,
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Thay đổi quan trọng nhất về bệnh sinh: màng sinh học trên ống nội khí quản có lẽ là động lực chính gây VAP. Chỉ trong vài giờ sau đặt ống, vi khuẩn đã bám vào mặt trong ống.",
+    "Chúng tiết exopolysaccharide, fibrin và lipoprotein, tạo chất nền ngoại bào bao bọc quần thể vi khuẩn. Tác nhân chính gồm S. aureus, S. epidermidis và các trực khuẩn Gram âm đa kháng như E. coli, K. pneumoniae, P. aeruginosa, A. baumannii.",
+    "Chất nền này giúp vi khuẩn né tránh cả kháng sinh lẫn hệ miễn dịch.",
+    "Biofilm trở thành ổ chứa dai dẳng, liên tục gieo vi khuẩn xuống đường hô hấp dưới qua vi hít. Điều này giải thích vì sao nhiều biện pháp toàn thân thất bại, và VAP nên được nhìn như một nhiễm khuẩn liên quan dụng cụ."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "cards",
+   "chapter": "3. Tương lai",
+   "title": "Ống nội khí quản mới và vi hệ phổi",
+   "ref": "Mục 3, 3.1 · TLTK [17,28,47–51]",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "THIẾT BỊ",
+     "t": "Ống NKQ thế hệ mới",
+     "items": [
+      "Lớp phủ chống biofilm",
+      "Bề mặt nano, vật liệu nhiều lớp",
+      "Vi cấu trúc bề mặt",
+      "Hệ thống loại bỏ biofilm chủ động"
+     ],
+     "at": 0,
+     "c": "violet"
+    },
+    {
+     "tag": "VI HỆ PHỔI",
+     "t": "Bảo tồn, không triệt phá",
+     "items": [
+      "Thở máy càng lâu, đa dạng vi hệ càng giảm",
+      "Kháng sinh phổ hẹp, xuống thang, ngắn nhất có hiệu quả"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "PROBIOTIC",
+     "t": "Không dùng thường quy",
+     "items": [
+      "RCT n = 2.650: VAP 21,9% vs 21,3%",
+      "HR 1,03 (0,87–1,22)",
+      "SSC 2026 không khuyến cáo thường quy"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Nhìn về tương lai, bước tiến kế tiếp có lẽ đến từ chính ống nội khí quản: lớp phủ chống biofilm, bề mặt nano, vật liệu nhiều lớp, vi cấu trúc bề mặt, và hệ thống chủ động loại bỏ biofilm. Mục tiêu là ngăn vi khuẩn bám ngay từ gốc. Xin lưu ý, một tác giả của bài có liên quan lợi ích với công nghệ ống nội khí quản loại này.",
+    "Hướng thứ hai là vi hệ phổi. Thời gian thở máy, chứ không phải kháng sinh, liên quan với giảm đa dạng vi hệ. Ưu tiên có thể làm ngay là quản lý kháng sinh bảo tồn vi hệ: phổ hẹp, xuống thang có hệ thống, và thời gian ngắn nhất còn hiệu quả.",
+    "Còn bổ sung vi khuẩn có lợi thì chưa thành công. Thử nghiệm 2.650 người bệnh với Lactobacillus rhamnosus GG cho tỷ lệ VAP 21,9% so với 21,3%, và Surviving Sepsis 2026 không khuyến cáo dùng probiotic thường quy. Ghép vi sinh vật phân và liệu pháp phage vẫn còn ở mức nghiên cứu."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "list",
+   "chapter": "3. Tương lai",
+   "title": "Trí tuệ nhân tạo và những câu hỏi còn bỏ ngỏ",
+   "ref": "Mục 3.2, 3.3 · TLTK [52–59]",
+   "dense": true,
+   "items": [
+    {
+     "t": "Trí tuệ nhân tạo, học máy",
+     "d": "Phân tầng nguy cơ sớm · giám sát tuân thủ theo thời gian thực · cần kiểm chứng tiến cứu",
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "t": "Định nghĩa VAP",
+     "d": "Còn chủ quan · khác biệt giữa định nghĩa lâm sàng và tiêu chí giám sát",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Chẩn đoán",
+     "d": "Lấy mẫu xâm lấn hay không · xét nghiệm nhanh: nhạy cao, đặc hiệu vừa",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Viêm khí phế quản liên quan thở máy",
+     "d": "Liên tục với VAP · thời điểm dùng kháng sinh chưa rõ",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Nguồn lực hạn chế",
+     "d": "Công nghệ đắt · kiến thức, tuân thủ là rào cản chính",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Trí tuệ nhân tạo có thể giúp nhận diện người bệnh nguy cơ cao trước khi có biểu hiện lâm sàng, để áp dụng biện pháp nhắm đích thay vì đồng loạt, và giám sát tuân thủ gói biện pháp theo thời gian thực. Tuy vậy, các công cụ này cần được kiểm chứng tiến cứu.",
+    "Nhiều câu hỏi vẫn còn bỏ ngỏ. Định nghĩa VAP còn chủ quan, và khác biệt giữa định nghĩa lâm sàng với tiêu chí giám sát khiến các nghiên cứu khó so sánh với nhau.",
+    "Chọn cách lấy mẫu xâm lấn hay không xâm lấn vẫn chưa ngã ngũ, nhất là khi xét nghiệm nhanh có độ nhạy cao nhưng độ đặc hiệu chỉ vừa phải.",
+    "Viêm khí phế quản liên quan thở máy nằm trên một dải liên tục với VAP, nhưng thời điểm bắt đầu kháng sinh vẫn chưa rõ.",
+    "Và ở nơi nguồn lực hạn chế, chi phí công nghệ, kiến thức và tuân thủ hướng dẫn mới là rào cản chính. Hướng dẫn tương lai cần có thuật toán phù hợp với từng mức nguồn lực."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống 2",
+   "title": "Tình huống 2: hôn mê sau ngừng tim",
+   "ref": "Mục 2.2, 2.3 · TLTK [24,37]",
+   "case": "Nam 58 tuổi, <b>ngừng tim ngoài viện</b> do rung thất, đã có tuần hoàn tự nhiên, hôn mê, vừa đặt nội khí quản. Khoa có sẵn ống nội khí quản <b>có cổng hút dịch hạ thanh môn</b>.",
+   "case_at": 0,
+   "q": "Phối hợp nào có bằng chứng giảm VAP tốt nhất?",
+   "q_at": 1,
+   "options": [
+    "Súc miệng chlorhexidine + probiotic",
+    "Kháng sinh dự phòng ngắn ngày + hút dịch hạ thanh môn",
+    "Mở khí quản sớm + thay dây máy thở mỗi ngày",
+    "Hệ thống chỉnh áp lực bóng chèn tự động đơn thuần"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Sau ngừng tim: dự phòng ngắn ngày giảm VAP sớm 34% → 19% (HR 0,53). Hút dịch hạ thanh môn: biện pháp đường thở duy nhất có bằng chứng nhất quán. Các lựa chọn còn lại không có lợi ích.",
+   "lines": [
+    "Tình huống thứ hai. Nam 58 tuổi, ngừng tim ngoài viện do rung thất, đã có tuần hoàn tự nhiên nhưng còn hôn mê, vừa được đặt nội khí quản. Khoa có sẵn ống nội khí quản có cổng hút dịch hạ thanh môn.",
+    "Phối hợp nào có bằng chứng giảm VAP tốt nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh sau ngừng tim thuộc nhóm nguy cơ cao VAP sớm, và kháng sinh dự phòng ngắn ngày giảm VAP sớm từ 34% xuống 19%. Hút dịch hạ thanh môn là biện pháp đường thở duy nhất có bằng chứng nhất quán.",
+    "Chlorhexidine, probiotic, mở khí quản sớm, thay dây máy thở thường xuyên và hệ thống bóng chèn tự động đều không cho thấy lợi ích."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp mang về",
+   "ref": "Mục 4 · Kết luận",
+   "items": [
+    {
+     "t": "Giảm phơi nhiễm vẫn là trụ cột",
+     "d": "Tránh đặt ống không cần · an thần nhẹ · cai máy sớm",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "Bỏ chlorhexidine",
+     "d": "Chải răng + nằm đầu cao",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Hút dịch hạ thanh môn, theo dõi bóng chèn",
+     "d": "Bằng chứng tốt nhất nhưng còn ít dùng",
+     "at": 1,
+     "c": "teal",
+     "hl": true
+    },
+    {
+     "t": "Đào tạo điều dưỡng",
+     "d": "Biện pháp hệ thống hiệu quả nhất",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Kháng sinh dự phòng: chọn lọc",
+     "d": "Nhóm nguy cơ cao VAP sớm · SDD chỉ nơi kháng thuốc thấp",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Tương lai: biofilm, vi hệ, AI",
+     "d": "Phòng ngừa dựa trên cơ chế, theo nguy cơ",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Xin tóm lại bằng sáu thông điệp. Thứ nhất, giảm phơi nhiễm với thở máy vẫn là trụ cột.",
+    "Thứ hai, bỏ chlorhexidine, thay bằng chải răng và nằm đầu cao. Thứ ba, làm tốt hút dịch hạ thanh môn và theo dõi áp lực bóng chèn, những biện pháp có bằng chứng tốt nhất nhưng còn bị bỏ quên.",
+    "Thứ tư, đầu tư đào tạo điều dưỡng, biện pháp hệ thống hiệu quả nhất.",
+    "Thứ năm, kháng sinh dự phòng chỉ dành cho nhóm nguy cơ cao VAP sớm, và SDD chỉ cân nhắc ở nơi kháng thuốc thấp.",
+    "Và thứ sáu, tương lai thuộc về phòng ngừa dựa trên cơ chế: ống nội khí quản chống biofilm, bảo tồn vi hệ, và trí tuệ nhân tạo phân tầng nguy cơ. Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn gặp lại quý vị ở Thư Viện Y Khoa Online."
+   ],
+   "id": "s16"
+  }
+ ]
+}
