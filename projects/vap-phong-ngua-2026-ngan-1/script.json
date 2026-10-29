@@ -1,0 +1,80 @@
+{
+ "title": "Phòng ngừa VAP 2026 – video ngắn: Chlorhexidine răng miệng – đã đến lúc bỏ?",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Hồi sức",
+ "part": "Phòng ngừa VAP · ôn nhanh",
+ "source_short": "Nguồn: Leone M, et al. VAP prevention: Past, present, perspective (2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "Lactobacillus rhamnosus GG": "lắc tô ba xi lút ram nô xút giê giê",
+  "S. epidermidis": "tụ cầu da",
+  "S. aureus": "tụ cầu vàng",
+  "K. pneumoniae": "kờ lép si en la",
+  "P. aeruginosa": "trực khuẩn mủ xanh",
+  "A. baumannii": "a xi nê tô bác tơ bô ma ni",
+  "E. coli": "e cô li",
+  "SuDDICU": "xu đi cu",
+  "INHALE": "in heo",
+  "CHORAL": "co ran",
+  "ESICM": "e ét i xê em",
+  "SDD": "ét đê đê",
+  "SSC": "ét ét xê",
+  "VAP": "vê a pê",
+  "ARDS": "suy hô hấp cấp tiến triển"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "PHÒNG NGỪA VAP 2026",
+   "hook": "Súc miệng chlorhexidine cho người thở máy: bỏ được chưa?",
+   "sub": "Thử nghiệm 3.260 người bệnh trả lời",
+   "c": "coral",
+   "lines": [
+    "Bạn vẫn súc miệng chlorhexidine cho người bệnh thở máy để phòng viêm phổi? Có lẽ đã đến lúc bỏ."
+   ]
+  },
+  {
+   "id": "s",
+   "layout": "stats",
+   "chapter": "BẰNG CHỨNG",
+   "title": "Ngừng chlorhexidine có sao không?",
+   "ref": "Leone 2026 · Mục 2.1",
+   "cols": 1,
+   "h": 330,
+   "tiles": [
+    {
+     "tag": "THỬ NGHIỆM CHORAL",
+     "v": 3260,
+     "l": "người bệnh thở máy: ngừng chlorhexidine <b>không tăng</b> biến chứng liên quan thở máy",
+     "at": 0,
+     "c": "coral"
+    }
+   ],
+   "note": {
+    "t": "Phân tích gộp mạng: <b>không hiệu quả ở mọi nồng độ</b> · thay bằng <b>chải răng + nằm đầu cao</b>",
+    "at": 1,
+    "c": "teal"
+   },
+   "lines": [
+    "Thử nghiệm CHORAL trên 3.260 người bệnh thở máy cho thấy: ngừng chlorhexidine không làm tăng biến chứng liên quan thở máy.",
+    "Phân tích gộp mạng cũng không thấy lợi ích ở bất kỳ nồng độ nào. Chải răng kết hợp nằm đầu cao cho kết quả tương tự. Kết luận của bài tổng quan 2026: bằng chứng không ủng hộ dùng chlorhexidine. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
