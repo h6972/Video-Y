@@ -1,0 +1,85 @@
+{
+ "title": "Phòng ngừa VAP 2026 – video ngắn: Biện pháp hiệu quả nhất lại ít được dùng",
+ "theme": "guideline",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Hồi sức",
+ "part": "Phòng ngừa VAP · ôn nhanh",
+ "source_short": "Nguồn: Leone M, et al. VAP prevention: Past, present, perspective (2026)",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "PaO₂/FiO₂": "pa ô hai trên phi ô hai",
+  "Lactobacillus rhamnosus GG": "lắc tô ba xi lút ram nô xút giê giê",
+  "S. epidermidis": "tụ cầu da",
+  "S. aureus": "tụ cầu vàng",
+  "K. pneumoniae": "kờ lép si en la",
+  "P. aeruginosa": "trực khuẩn mủ xanh",
+  "A. baumannii": "a xi nê tô bác tơ bô ma ni",
+  "E. coli": "e cô li",
+  "SuDDICU": "xu đi cu",
+  "INHALE": "in heo",
+  "CHORAL": "co ran",
+  "ESICM": "e ét i xê em",
+  "SDD": "ét đê đê",
+  "SSC": "ét ét xê",
+  "VAP": "vê a pê",
+  "ARDS": "suy hô hấp cấp tiến triển"
+ },
+ "format": "vertical",
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "id": "h",
+   "layout": "hook",
+   "kicker": "PHÒNG NGỪA VAP 2026",
+   "hook": "Biện pháp chống VAP tốt nhất lại bị bỏ quên",
+   "sub": "Không phải nằm đầu cao",
+   "c": "coral",
+   "lines": [
+    "Biện pháp đường thở chống viêm phổi thở máy có bằng chứng tốt nhất lại ít khoa hồi sức dùng. Và nó không phải nằm đầu cao."
+   ]
+  },
+  {
+   "id": "b",
+   "layout": "box",
+   "chapter": "ĐƯỜNG THỞ",
+   "title": "Hút dịch hạ thanh môn",
+   "ref": "Leone 2026 · Mục 2.3",
+   "box": {
+    "tag": "BẰNG CHỨNG NHẤT QUÁN",
+    "t": "<b>Hút dịch hạ thanh môn</b>: biện pháp đường thở <b>duy nhất</b> giảm VAP nhất quán qua RCT và phân tích gộp",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "NẰM ĐẦU CAO",
+     "t": "Làm ở hầu hết hồi sức, nhưng bằng chứng còn yếu",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BÓNG CHÈN",
+     "t": "Duy trì áp lực: OR 0,51 · máy chỉnh tự động không hơn chuẩn",
+     "at": 1,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Đó là hút dịch hạ thanh môn, hút dịch đọng phía trên bóng chèn ống nội khí quản. Đây là biện pháp đường thở duy nhất giảm viêm phổi nhất quán qua các thử nghiệm và phân tích gộp.",
+    "Trong khi đó, nằm đầu cao được làm ở hầu hết hồi sức nhưng bằng chứng còn yếu. Xem trọn bài giảng trên kênh Thư Viện Y Khoa Online."
+   ]
+  }
+ ]
+}
