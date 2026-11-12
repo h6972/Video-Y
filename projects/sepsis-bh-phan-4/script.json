@@ -1,0 +1,924 @@
+{
+ "title": "Nhiễm khuẩn huyết và sốc nhiễm khuẩn – Phần 4: Ca lâm sàng, kiểu hình và tranh cãi",
+ "theme": "case",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Nhiễm khuẩn huyết · Bệnh học · Phần 4/4",
+ "source_short": "Nguồn: Sepsis-3 2016 · SOFA-2 2025 · SSC 2026 · Mandell 10e · Meyer NEJM 2024",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "S. pneumoniae": "phế cầu",
+  "SSSP-2": "ét ét ét pê hai",
+  "SRS1": "ét a ét một",
+  "SRS2": "ét a ét hai",
+  "VASSPR": "vát xờ pơ",
+  "Tigris": "ti gờ rít",
+  "ADRENAL": "a đờ ri nan",
+  "APROCCHSS": "a prốc",
+  "MALS": "man",
+  "CVP": "áp lực tĩnh mạch trung tâm",
+  "ScvO₂": "ét xê vê ô hai",
+  "IL-7": "in tơ lơ kin bảy",
+  "PD-L1": "pê đê e lờ một",
+  "PD-1": "pê đê một",
+  "HLA-DR": "hát e lờ a đê e",
+  "Sepsis-1": "Sép xít một",
+  "Sepsis-2": "Sép xít hai",
+  "Sepsis-3": "Sép xít ba",
+  "SOFA-2": "sô pha hai",
+  "qSOFA": "quick sô pha",
+  "SOFA": "sô pha",
+  "NEWS2": "niu hai",
+  "NEWS": "niu",
+  "MEWS": "miu",
+  "SIRS": "xia",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "AUROC": "diện tích dưới đường cong",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SpO₂": "ét pê ô hai",
+  "PaCO₂": "pê a cê ô hai",
+  "GCS": "điểm Glasgow",
+  "ECMO": "ếch mô",
+  "HFNC": "oxy dòng cao qua mũi",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micro mol mỗi lít",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "µg/kg/phút": "microgam mỗi ký mỗi phút",
+  "ICU": "hồi sức",
+  "SSC": "ét ét xê",
+  "PIRO": "pi rô",
+  "MODS": "suy đa cơ quan"
+ },
+ "brand": {
+  "next": "Loạt Surviving Sepsis Campaign 2026 · 5 phần"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng · Nhiễm khuẩn huyết · Phần 4/4",
+   "title": "Sốt, ho đờm<br>và lơ mơ",
+   "subtitle": "Nam 58 tuổi · khoa cấp cứu · 22:40",
+   "badges": [
+    {
+     "t": "Sốc",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Lactate 4,6",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "3 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "note": "Ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng",
+   "note_at": 2,
+   "monitor": {
+    "hr": 122,
+    "bp": "82/45"
+   },
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn, phần cuối của loạt bài bệnh học nhiễm khuẩn huyết. Hôm nay chúng ta sẽ đi trọn một ca lâm sàng, từ khoa cấp cứu vào hồi sức, và áp dụng mọi điều đã học: định nghĩa, SOFA-2, bệnh sinh, huyết động, lactate và chẩn đoán phân biệt.",
+    "Ca bệnh có ba điểm quyết định. Ở mỗi điểm, quý vị hãy tạm dừng video và tự trả lời trước khi xem đáp án.",
+    "Đây là ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng. Cuối phần, chúng ta sẽ bàn về kiểu hình sepsis, những câu hỏi còn bỏ ngỏ và cuộc sống của người bệnh sau khi ra viện."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Vào viện · 22:40",
+   "title": "Sinh hiệu lúc tiếp nhận",
+   "patient": {
+    "tag": "BỆNH NHÂN",
+    "t": "Nam 58 tuổi, 70 kg",
+    "d": "Sốt, ho đờm 3 ngày · lơ mơ từ chiều",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Ran nổ đáy phổi phải",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Da chi nổi bông · đổ đầy mao mạch 5 giây",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Glasgow 13",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "HR",
+     "v": "122",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "f": "↑",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "HA",
+     "v": "82/45",
+     "u": "mmHg",
+     "c": "coral",
+     "f": "TB 57",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "SpO₂",
+     "v": "88",
+     "u": "%",
+     "c": "blue",
+     "f": "khí trời",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "NHỊP THỞ",
+     "v": "28",
+     "u": "l/ph",
+     "c": "amber",
+     "f": "↑",
+     "at": 2
+    },
+    {
+     "k": "NHIỆT ĐỘ",
+     "v": "39,2",
+     "u": "°C",
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "22 giờ 40, một người đàn ông 58 tuổi, nặng 70 ký, được đưa vào khoa cấp cứu vì sốt, ho khạc đờm 3 ngày, và từ chiều thì lơ mơ. Nhịp tim 122 lần mỗi phút.",
+    "Huyết áp 82 trên 45, tức huyết áp trung bình 57. SpO₂ chỉ 88 phần trăm khi thở khí trời. Nghe phổi có ran nổ ở đáy phổi phải.",
+    "Nhịp thở 28 lần mỗi phút, nhiệt độ 39,2 độ. Da hai chi dưới nổi bông, thời gian đổ đầy mao mạch kéo dài tới 5 giây.",
+    "Điểm Glasgow 13. Hãy để ý: người bệnh này có đủ cả ba tiêu chí qSOFA, nhịp thở từ 22, huyết áp tâm thu từ 100 trở xuống và thay đổi ý thức; và chắc chắn điểm NEWS2 rất cao. Nhưng như phần một đã nhấn mạnh, qSOFA chỉ báo nguy cơ, còn chẩn đoán phải dựa trên rối loạn chức năng cơ quan."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "media",
+   "chapter": "Hình ảnh tại giường",
+   "title": "Hình ảnh tại khoa cấp cứu",
+   "h": 640,
+   "ref": "Ảnh và clip thật minh hoạ · Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/cxr_lobar.jpg",
+     "ar": 1.257,
+     "credit": "Ảnh: Mikael Häggström · CC0 · Wikimedia Commons",
+     "flex": 1.2,
+     "at": 0,
+     "cap": "X-quang ngực: đông đặc thuỳ giữa phải",
+     "zoom": {
+      "x": 30,
+      "y": 55,
+      "s": 1.6,
+      "at": 0,
+      "out": "L1"
+     }
+    },
+    {
+     "seq": "../../media/sepsis/lus_consol/f_%03d.jpg",
+     "n": 150,
+     "fps": 15,
+     "ar": 1.2,
+     "credit": "Ảnh: Gillman L, Kirkpatrick A · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 1,
+     "cap": "Siêu âm phổi: đông đặc"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "Ổ NHIỄM",
+     "t": "Viêm phổi cộng đồng · ổ hay gặp nhất",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "SIÊU ÂM TIM",
+     "t": "Thất trái tăng động, thất phải không giãn · tĩnh mạch chủ dưới nhỏ",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "KẾT LUẬN",
+     "t": "Sốc phân bố do nhiễm khuẩn, có thành phần giảm thể tích",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "X-quang ngực tại giường cho thấy đám mờ đông đặc thuỳ giữa phổi phải. Ổ nhiễm đã rõ: viêm phổi cộng đồng.",
+    "Siêu âm phổi xác nhận vùng phổi đông đặc. Nhưng người bác sĩ hồi sức không dừng ở đó: cùng đầu dò, họ áp dụng bốn câu hỏi của phần ba.",
+    "Siêu âm tim cho thấy thất trái tăng động, thất phải không giãn, không có dịch màng tim, và tĩnh mạch chủ dưới nhỏ. Không có gợi ý sốc tắc nghẽn hay sốc tim.",
+    "Kết luận huyết động: sốc phân bố do nhiễm khuẩn, có thêm thành phần giảm thể tích do ăn uống kém và mất dịch qua sốt, thở nhanh."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "labs",
+   "chapter": "Cận lâm sàng · 23:10",
+   "title": "Kết quả xét nghiệm ban đầu",
+   "groups": [
+    {
+     "g": "Khí máu · tưới máu",
+     "c": "teal",
+     "at": 0,
+     "rows": [
+      {
+       "k": "pH",
+       "v": "7,29",
+       "r": "7,35–7,45",
+       "f": "L"
+      },
+      {
+       "k": "PaCO₂",
+       "v": "30",
+       "r": "35–45 mmHg",
+       "f": "L"
+      },
+      {
+       "k": "Lactate",
+       "v": "4,6",
+       "r": "< 2 mmol/L",
+       "f": "H"
+      }
+     ],
+     "note": "Toan chuyển hoá tăng lactate, kiềm hô hấp bù"
+    },
+    {
+     "g": "Sinh hoá",
+     "c": "amber",
+     "at": 1,
+     "rows": [
+      {
+       "k": "Creatinin",
+       "v": "159",
+       "r": "≤ 110 µmol/L",
+       "f": "H"
+      },
+      {
+       "k": "Bilirubin TP",
+       "v": "17",
+       "r": "≤ 20,6 µmol/L",
+       "f": "N"
+      },
+      {
+       "k": "Glucose",
+       "v": "9,8",
+       "r": "3,9–6,4",
+       "f": "H"
+      }
+     ]
+    },
+    {
+     "g": "Huyết học",
+     "c": "coral",
+     "at": 2,
+     "rows": [
+      {
+       "k": "Bạch cầu",
+       "v": "18,6",
+       "r": "4–10 G/L",
+       "f": "H"
+      },
+      {
+       "k": "Tiểu cầu",
+       "v": "95",
+       "r": "150–400 G/L",
+       "f": "L"
+      },
+      {
+       "k": "INR",
+       "v": "1,4",
+       "r": "0,8–1,2",
+       "f": "H"
+      }
+     ],
+     "note": "Cấy máu 2 bộ + đờm: đã lấy"
+    }
+   ],
+   "lines": [
+    "23 giờ 10, có kết quả xét nghiệm. Khí máu cho thấy toan chuyển hoá kèm kiềm hô hấp bù, đúng kiểu thường gặp mà Mandell mô tả, với lactate 4,6 mi li mol mỗi lít.",
+    "Creatinin 159 micro mol mỗi lít, tức khoảng 1,8 mi li gam mỗi đề xi lít. Bilirubin bình thường. Đường huyết tăng.",
+    "Bạch cầu 18,6, tiểu cầu giảm còn 95 nghìn, INR 1,4. Và quan trọng: hai bộ cấy máu cùng mẫu đờm đã được lấy trước khi dùng bất kỳ kháng sinh nào. Người bệnh có rối loạn chức năng ít nhất ở não, hô hấp, tuần hoàn, thận và đông máu."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 1",
+   "title": "Mức chắc chắn và kháng sinh",
+   "step": "ĐIỂM QUYẾT ĐỊNH 1",
+   "q": "Phân loại và thời điểm kháng sinh nào đúng?",
+   "q_at": 0,
+   "context": "Sốt, ổ viêm phổi rõ, tụt huyết áp, lactate 4,6. Cấy máu đã lấy.",
+   "options": [
+    "Nhiễm khuẩn huyết “có thể” · đánh giá thêm, kháng sinh trong 3 giờ",
+    "Sốc nhiễm khuẩn nhiều khả năng · kháng sinh trong 1 giờ",
+    "Chờ procalcitonin để quyết định có dùng kháng sinh",
+    "Chờ kết quả cấy máu rồi dùng kháng sinh đúng đích"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Sốc + ổ nhiễm rõ → <b>mức nhiều khả năng</b>, có sốc → kháng sinh <b>trong 1 giờ</b> (SSC 2026, KC 16) · procalcitonin không dùng để quyết định bắt đầu (KC 22) · β-lactam liều nạp rồi truyền kéo dài (KC 33)",
+   "lines": [
+    "Điểm quyết định thứ nhất. Surviving Sepsis Campaign 2026 phân mức chắc chắn chẩn đoán thành chắc chắn, nhiều khả năng, có thể và ít khả năng, và thời điểm kháng sinh phụ thuộc mức này cùng việc có sốc hay không.",
+    "Với người bệnh này, mức chắc chắn là gì, và kháng sinh cần dùng khi nào?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: sốc nhiễm khuẩn ở mức nhiều khả năng, vì có ổ viêm phổi rõ, tụt huyết áp và lactate cao, chẩn đoán khác ít khả năng hơn. Kháng sinh phải dùng trong vòng 1 giờ. Procalcitonin không dùng để quyết định có bắt đầu kháng sinh hay không, và không chờ kết quả cấy. Kháng sinh kinh nghiệm chọn theo nguy cơ đa kháng của người bệnh và dữ liệu vi sinh tại khoa; với beta-lactam, dùng liều nạp rồi truyền kéo dài. Chi tiết phác đồ, quý vị xem phần hai của loạt Surviving Sepsis Campaign 2026."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 2",
+   "title": "Hồi sức huyết động giờ đầu",
+   "step": "ĐIỂM QUYẾT ĐỊNH 2",
+   "q": "Hồi sức huyết động thế nào trong 3 giờ đầu?",
+   "q_at": 0,
+   "context": "70 kg · HA trung bình 57 · da nổi bông · đổ đầy mao mạch 5 giây · 2 đường truyền ngoại vi.",
+   "options": [
+    "Truyền dịch cho tới khi CVP 8–12 rồi mới dùng vận mạch",
+    "Tinh thể cân bằng ~2.100 mL/3 giờ từng phần + norepinephrine sớm qua ngoại vi · MAP 65",
+    "Gelatin 500 mL rồi dopamine",
+    "Đặt catheter tĩnh mạch trung tâm xong mới bắt đầu vận mạch"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "≥ 30 mL/kg tinh thể <b>cân bằng</b> trong 3 giờ, đánh giá lại sau mỗi lần · sốc không ổn định → <b>norepinephrine sớm, qua ngoại vi</b>, đích MAP 65 · không đích CVP, ScvO₂ (EGDT đã bỏ) · không gelatin",
+   "lines": [
+    "Điểm quyết định thứ hai. Người bệnh nặng 70 ký, huyết áp trung bình 57, da nổi bông, thời gian đổ đầy mao mạch 5 giây, và hiện có hai đường truyền ngoại vi.",
+    "Quý vị sẽ hồi sức huyết động thế nào trong 3 giờ đầu?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: dịch tinh thể cân bằng ít nhất 30 mi li lít mỗi ký, tức khoảng 2.100 mi li lít trong 3 giờ, truyền từng phần và đánh giá lại sau mỗi lần. Vì sốc có dấu hiệu không ổn định, bắt đầu norepinephrine sớm, ngay qua đường truyền ngoại vi, cùng lúc với dịch, đích huyết áp trung bình 65. Không chờ catheter trung tâm, không dùng đích áp lực tĩnh mạch trung tâm hay ScvO₂ như hồi sức theo mục tiêu sớm kiểu cũ, và không dùng gelatin. Hãy nhớ phần hai: mao mạch đang rò, nên dịch phải có mục tiêu, không truyền vô hạn."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 3",
+   "title": "Giờ thứ 3–6 tại hồi sức",
+   "step": "ĐIỂM QUYẾT ĐỊNH 3",
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 0,
+   "context": "Đã 2.100 mL · norepinephrine tăng dần đến <b>0,3 µg/kg/phút</b> · lactate 3,1 · đổ đầy mao mạch 3 giây · oxy dòng cao qua mũi.",
+   "options": [
+    "Thêm vasopressin, cân nhắc hydrocortisone · nâng chân thụ động trước khi bù thêm",
+    "Bolus thêm 2 lít vì lactate chưa về bình thường",
+    "Thêm dobutamine thường quy",
+    "Lọc máu liên tục để lọc cytokine"
+   ],
+   "answer": 0,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Norepinephrine tăng liều → <b>thêm vasopressin</b> (KC 56) · sốc cần vận mạch → cân nhắc <b>hydrocortisone</b> (nhóm soạn SSC: 200 mg/ngày) · dịch theo <b>đáp ứng</b> (nâng chân thụ động), theo mức <b>giảm</b> lactate · không lọc máu khi không có chỉ định thận",
+   "lines": [
+    "Điểm quyết định thứ ba. Người bệnh đã vào hồi sức. Sau 2.100 mi li lít dịch, norepinephrine phải tăng dần lên 0,3 microgam mỗi ký mỗi phút. Lactate giảm từ 4,6 xuống 3,1, thời gian đổ đầy mao mạch còn 3 giây, và ông đang thở oxy dòng cao qua mũi.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: thêm vasopressin vì norepinephrine đang tăng liều, và cân nhắc hydrocortisone vì sốc cần vận mạch; nhóm soạn Surviving Sepsis Campaign 2026 thực hành với liều 200 mi li gam mỗi ngày. Trước khi bù thêm dịch, đánh giá đáp ứng bù dịch bằng nghiệm pháp nâng chân thụ động. Không truyền thêm 2 lít chỉ vì lactate chưa về bình thường, vì ta theo dõi mức giảm, mà lactate đang giảm tốt. Dobutamine chỉ dành cho rối loạn chức năng tim kèm giảm tưới máu dai dẳng, và lọc máu không dùng để lọc cytokine."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "gauge",
+   "chapter": "SOFA-2 lúc vào hồi sức",
+   "title": "SOFA-2 lúc vào hồi sức",
+   "ref": "Áp dụng Ranzani 2025, Bảng 2",
+   "max": 24,
+   "chip_cols": 3,
+   "zones": [
+    {
+     "to": 2,
+     "t": "< 2",
+     "c": "green"
+    },
+    {
+     "to": 24,
+     "t": "≥ 2: rối loạn chức năng cơ quan",
+     "c": "coral"
+    }
+   ],
+   "parts": [
+    {
+     "t": "Não · GCS 13 → 1",
+     "v": 1,
+     "at": 0,
+     "c": "violet"
+    },
+    {
+     "t": "Hô hấp · P/F 140 + oxy dòng cao → 3",
+     "v": 3,
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Tim mạch · NE 0,3 + vasopressin → 4",
+     "v": 4,
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Thận · creatinin 159 → 1",
+     "v": 1,
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Tiểu cầu 95 → 2",
+     "v": 2,
+     "at": 1,
+     "c": "amber"
+    }
+   ],
+   "verdict": "11 điểm · sốc nhiễm khuẩn (vận mạch + lactate > 2 sau đủ dịch)",
+   "verdict_at": 2,
+   "lines": [
+    "Lúc vào hồi sức, SOFA-2 của người bệnh là bao nhiêu? Chúng ta đã tính ở phần một: não 1 điểm, hô hấp 3 điểm vì pê a ô hai trên ép i ô hai 140 khi đang thở oxy dòng cao.",
+    "Tim mạch 4 điểm vì norepinephrine 0,3 kèm vasopressin; thận 1 điểm; tiểu cầu 95 được 2 điểm; gan 0 điểm.",
+    "Tổng cộng 11 điểm. Và vì cần vận mạch để giữ huyết áp trung bình 65, với lactate vẫn trên 2 sau khi đã bù đủ dịch, người bệnh đạt đủ tiêu chuẩn sốc nhiễm khuẩn theo Sepsis-3, nhóm có tử vong nội viện trên 40 phần trăm."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "course",
+   "chapter": "Diễn tiến",
+   "title": "Diễn tiến 7 ngày",
+   "events": [
+    {
+     "time": "Giờ 0–1",
+     "t": "Cấy máu · kháng sinh · dịch · norepinephrine ngoại vi",
+     "d": "Lactate 4,6",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "time": "Giờ 3–6",
+     "t": "Vasopressin · hydrocortisone · oxy dòng cao",
+     "d": "Lactate 3,1 · đổ đầy mao mạch 3 giây",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "time": "Ngày 2",
+     "t": "Cấy máu: phế cầu nhạy",
+     "d": "Xuống thang kháng sinh",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "time": "Ngày 3–4",
+     "t": "Cai vận mạch · rút dịch chủ động",
+     "d": "Thảo luận mục tiêu điều trị với gia đình trong 72 giờ",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "time": "Ngày 7",
+     "t": "Ra hồi sức",
+     "d": "Kháng sinh thời gian ngắn · phục hồi chức năng",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Hãy xem diễn tiến. Trong giờ đầu: cấy máu, kháng sinh, dịch tinh thể và norepinephrine qua đường ngoại vi.",
+    "Từ giờ thứ 3 đến 6: thêm vasopressin, hydrocortisone, và hỗ trợ oxy dòng cao. Lactate giảm dần, tưới máu da cải thiện.",
+    "Ngày thứ 2, cấy máu mọc phế cầu nhạy kháng sinh, và kháng sinh được xuống thang về phổ hẹp.",
+    "Ngày thứ 3 đến 4, người bệnh cai được vận mạch. Khi đã qua giai đoạn hồi sức, dịch dư được rút chủ động. Và trong 72 giờ đầu, bác sĩ đã thảo luận mục tiêu điều trị và tiên lượng với gia đình.",
+    "Ngày thứ 7, người bệnh ra hồi sức, với thời gian kháng sinh ngắn, có thể hướng dẫn bằng procalcitonin để ngừng, và bắt đầu phục hồi chức năng."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "media",
+   "chapter": "Vi sinh",
+   "title": "Thủ phạm: phế cầu",
+   "h": 640,
+   "ref": "Ảnh thật · Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/gram_pneumo.jpg",
+     "ar": 1.283,
+     "credit": "Ảnh: Arnold Kaufman · CC0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Nhuộm Gram: song cầu khuẩn Gram dương (phế cầu)",
+     "zoom": {
+      "x": 50,
+      "y": 50,
+      "s": 1.8,
+      "at": 0,
+      "out": "L2"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "tag": "VI SINH",
+     "t": "Cấy máu lấy trước kháng sinh → xác định được tác nhân",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "XUỐNG THANG",
+     "t": "Phổ hẹp theo kháng sinh đồ ngay khi có kết quả",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "BÀI HỌC",
+     "t": "Chỉ ~2/3 ca xác định được tác nhân · lấy mẫu đúng lúc là then chốt",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Đây là hình ảnh nhuộm Gram của phế cầu, những song cầu khuẩn Gram dương hình ngọn nến, tác nhân hàng đầu của viêm phổi cộng đồng. Nhờ cấy máu được lấy trước kháng sinh, tác nhân đã được xác định.",
+    "Khi có kháng sinh đồ, kháng sinh được xuống thang về phổ hẹp, giảm áp lực chọn lọc vi khuẩn đa kháng và tác dụng phụ.",
+    "Nhớ lại con số ở phần ba: chỉ khoảng hai phần ba người bệnh xác định được tác nhân. Lấy mẫu đúng lúc, trước kháng sinh, là bước nhỏ nhưng quyết định khả năng xuống thang về sau."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "list",
+   "chapter": "Bài học từ ca bệnh",
+   "title": "Năm bài học từ ca bệnh",
+   "dense": true,
+   "items": [
+    {
+     "t": "qSOFA, NEWS2 báo động; SOFA-2 chẩn đoán",
+     "d": "11 điểm · đủ tiêu chuẩn sốc nhiễm khuẩn",
+     "c": "teal",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "Phân mức chắc chắn để quyết định giờ kháng sinh",
+     "d": "Sốc, nhiều khả năng → trong 1 giờ · cấy máu trước",
+     "c": "coral",
+     "at": 1,
+     "n": "2"
+    },
+    {
+     "t": "Bốn câu hỏi + siêu âm: loại trừ sốc khác",
+     "d": "Phân bố + giảm thể tích",
+     "c": "violet",
+     "at": 2,
+     "n": "3"
+    },
+    {
+     "t": "Norepinephrine sớm qua ngoại vi khi sốc không ổn định",
+     "d": "Không chờ catheter trung tâm, không đích CVP, ScvO₂",
+     "c": "amber",
+     "at": 3,
+     "n": "4"
+    },
+    {
+     "t": "Lactate theo mức giảm, dịch theo đáp ứng",
+     "d": "Mao mạch đang rò: dịch có mục tiêu, rút dịch khi qua giai đoạn cấp",
+     "c": "blue",
+     "at": 4,
+     "n": "5"
+    }
+   ],
+   "lines": [
+    "Năm bài học từ ca bệnh. Một, qSOFA và NEWS2 giúp báo động, nhưng chẩn đoán dựa trên rối loạn chức năng cơ quan, đo bằng SOFA-2.",
+    "Hai, phân mức chắc chắn để quyết định giờ dùng kháng sinh, và luôn lấy cấy máu trước.",
+    "Ba, dùng bốn câu hỏi cùng siêu âm tại giường để loại trừ các loại sốc khác và nhận ra cơ chế phối hợp.",
+    "Bốn, bắt đầu norepinephrine sớm qua đường ngoại vi khi sốc không ổn định.",
+    "Năm, theo dõi lactate theo mức giảm, truyền dịch theo đáp ứng, và rút dịch khi đã qua giai đoạn cấp, vì mao mạch đang rò."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Kiểu hình sepsis",
+   "title": "Một hội chứng, nhiều kiểu hình",
+   "ref": "Mandell 10e, tr. 941 · Meyer 2024, tr. 2136, 2143–2144",
+   "cards": [
+    {
+     "tag": "KHÁI NIỆM",
+     "t": "Kiểu hình và nội kiểu hình",
+     "items": [
+      "Kiểu hình: chung đặc điểm, chưa chắc chung cơ chế",
+      "Nội kiểu hình: nhóm có cơ chế sinh học riêng"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "LÂM SÀNG",
+     "t": "Bốn kiểu hình",
+     "items": [
+      "Từ dữ liệu thường quy lúc vào cấp cứu",
+      "Làm thay đổi kết quả thử nghiệm mô phỏng"
+     ],
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "GEN BẠCH CẦU",
+     "t": "SRS1 và SRS2",
+     "items": [
+      "SRS1: ức chế miễn dịch, tử vong cao hơn",
+      "Corticoid có vẻ có hại ở SRS2"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "PROTEIN",
+     "t": "Đáp ứng khác nhau",
+     "items": [
+      "Với corticoid, protein C hoạt hoá",
+      "MALS: tăng viêm cực độ"
+     ],
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "h": 560,
+   "lines": [
+    "Bây giờ, hãy nhìn rộng hơn ca bệnh. Vì sao rất nhiều thử nghiệm trong nhiễm khuẩn huyết thất bại? Một lý do là người bệnh quá khác nhau. Kiểu hình là nhóm người bệnh có chung đặc điểm, chưa chắc chung cơ chế; nội kiểu hình là nhóm có cơ chế sinh học riêng.",
+    "Một nghiên cứu mốc đã tìm ra bốn kiểu hình lâm sàng chỉ từ dữ liệu lâm sàng và xét nghiệm thường quy lúc vào cấp cứu, và việc phân bố các kiểu hình này làm thay đổi kết quả của các thử nghiệm trên mô hình mô phỏng.",
+    "Theo biểu hiện gen bạch cầu, có hai nội kiểu hình SRS1 và SRS2. SRS1 mang dấu ấn ức chế miễn dịch và tử vong cao hơn. Khi phân tích lại một thử nghiệm sốc nhiễm khuẩn, corticoid có vẻ có hại ở nhóm SRS2 và không có tác dụng ở SRS1.",
+    "Các kiểu hình dựa trên protein huyết tương cũng đáp ứng khác nhau với corticoid hay protein C hoạt hoá, và có một nhóm nhỏ giống hội chứng hoạt hoá đại thực bào, tăng viêm cực độ. Tuy vậy, các cách phân nhóm còn chưa thống nhất giữa các nghiên cứu, nên chưa dùng được tại giường."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bài học từ Zambia",
+   "title": "Cùng một gói điều trị, khác bối cảnh",
+   "ref": "SSSP-2, Zambia (Meyer 2024, Bảng 2, tr. 2140) · P = 0,03",
+   "groups": [
+    {
+     "t": "Tử vong nội viện",
+     "d": "%",
+     "at": 1,
+     "c": "coral",
+     "hl": true,
+     "bars": [
+      {
+       "k": "Gói 6 giờ",
+       "v": 48.1,
+       "lab": "48,1%"
+      },
+      {
+       "k": "Chăm sóc thường",
+       "v": 33.0,
+       "lab": "33,0%"
+      }
+     ],
+     "note": "Bù dịch lớn có hại nơi thiếu máy thở"
+    }
+   ],
+   "max": 55,
+   "h": 300,
+   "notes": [
+    {
+     "tag": "LƯỢNG DỊCH 6 GIỜ",
+     "t": "Trung vị 3,5 L so với 2,0 L",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "tag": "BỐI CẢNH",
+     "t": "Phần lớn thử nghiệm làm ở nước giàu",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "HÀM Ý",
+     "t": "Áp dụng khuyến cáo phải tính đến nguồn lực tại chỗ",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Một bài học nữa về bối cảnh. Thử nghiệm SSSP-2 tại Zambia áp dụng một gói hồi sức 6 giờ sớm, làm lượng dịch trung vị tăng từ 2,0 lên 3,5 lít.",
+    "Kết quả là tử vong nội viện tăng từ 33,0 lên 48,1 phần trăm, với P bằng 0,03. Ở nơi thiếu máy thở và phương tiện theo dõi, bù dịch lớn có thể gây hại.",
+    "Phần lớn thử nghiệm về nhiễm khuẩn huyết được thực hiện ở các nước giàu.",
+    "Vì vậy, khi áp dụng khuyến cáo tại các bệnh viện ở Việt Nam, chúng ta cần tính đến nguồn lực tại chỗ: khả năng thở máy, theo dõi, và nhân lực."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Câu hỏi bỏ ngỏ",
+   "title": "Những câu hỏi còn bỏ ngỏ",
+   "ref": "Meyer 2024, tr. 2143 · Mandell 10e, tr. 946 · SSC 2026, KC 6, 84 · Peltan 2026 · Tigris 2026",
+   "cards": [
+    {
+     "tag": "CHẨN ĐOÁN",
+     "t": "Chưa có xét nghiệm xác nhận",
+     "items": [
+      "Tới 1/3 người được điều trị như sepsis không nhiễm khuẩn",
+      "Xét nghiệm đáp ứng vật chủ nhanh: chưa đủ bằng chứng"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "VẬN MẠCH",
+     "t": "Thêm vasopressin lúc nào?",
+     "items": [
+      "VASSPR: bắt đầu sớm (0,1) không hơn muộn (0,4)"
+     ],
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "CORTICOID",
+     "t": "Cho ai, liều nào?",
+     "items": [
+      "ADRENAL so với APROCCHSS",
+      "Có thêm fludrocortisone không?"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "MIỄN DỊCH",
+     "t": "Lọc hấp phụ, điều hoà miễn dịch",
+     "items": [
+      "Polymyxin B (Tigris): SSC 2026 vẫn không dùng",
+      "IL-7, kháng PD-1/PD-L1: đang thử nghiệm"
+     ],
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "h": 560,
+   "lines": [
+    "Và những câu hỏi còn bỏ ngỏ. Về chẩn đoán, đến nay chưa có định nghĩa chính xác cho đáp ứng mất điều hoà, và chưa có xét nghiệm xác nhận. Tới một phần ba người được điều trị như nhiễm khuẩn huyết do vi khuẩn hoá ra không nhiễm khuẩn. Surviving Sepsis Campaign 2026 cũng cho rằng chưa đủ bằng chứng cho các xét nghiệm đáp ứng vật chủ nhanh.",
+    "Về vận mạch, thêm vasopressin khi nào? Thử nghiệm VASSPR năm 2026 không thấy lợi ích khi bắt đầu sớm ở ngưỡng norepinephrine 0,1 so với 0,4 microgam mỗi ký mỗi phút.",
+    "Về corticoid, kết quả của ADRENAL và APROCCHSS chưa hoàn toàn thống nhất; có thêm fludrocortisone không, và bắt đầu ở liều vận mạch nào, chính nhóm soạn hướng dẫn cũng thực hành rất khác nhau.",
+    "Về điều hoà miễn dịch, lọc máu hấp phụ polymyxin B trong thử nghiệm Tigris cho xác suất có lợi cao, nhưng mức lợi ích nhỏ và phụ thuộc giả định ban đầu, nên Surviving Sepsis Campaign 2026 vẫn khuyến cáo không dùng; còn IL-7 và kháng PD-1, PD-L1 làm tăng HLA-DR nhưng chưa chứng minh được lợi ích lâm sàng."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Sau khi ra viện",
+   "title": "Sống sót chưa phải là hồi phục",
+   "ref": "Meyer 2024, tr. 2143 · SSC 2026, KC 108–129",
+   "tiles": [
+    {
+     "tag": "NHẬN THỨC",
+     "v": 16.7,
+     "dec": 1,
+     "suf": "%",
+     "l": "suy giảm vừa – nặng",
+     "d": "Từ 6,1% trước nhập viện (người cao tuổi)",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "VIỆC LÀM",
+     "v": 40,
+     "suf": "%",
+     "l": "chưa đi làm lại sau 6 tháng",
+     "d": "12.260 người sống sót, Na Uy",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "MIỄN DỊCH",
+     "v": 2,
+     "suf": "/3",
+     "l": "còn hoạt hoá viêm, ức chế miễn dịch",
+     "d": "Liên quan tử vong mọi nguyên nhân",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "TRẺ EM",
+     "v": 35,
+     "suf": "%",
+     "l": "chưa về chất lượng sống nền sau 1 năm",
+     "d": "Sốc nhiễm khuẩn",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "cols": 4,
+   "h": 440,
+   "note": {
+    "t": "SSC 2026: chương trình chuyển tiếp · tóm tắt ra viện về sepsis · tái khám · phục hồi chức năng khi thở máy > 48 giờ · hỗ trợ tâm thần",
+    "at": 4,
+    "c": "teal"
+   },
+   "lines": [
+    "Cuối cùng, sống sót chưa phải là hồi phục. Theo Meyer, ở người cao tuổi, tỷ lệ suy giảm nhận thức vừa đến nặng tăng từ 6,1 phần trăm trước nhập viện lên 16,7 phần trăm sau nhập viện vì nhiễm khuẩn huyết.",
+    "Tại Na Uy, trong 12.260 người sống sót từng đi làm, 40 phần trăm chưa đi làm lại sau 6 tháng.",
+    "Hai phần ba người sống sót vẫn còn hoạt hoá kéo dài các chỉ dấu viêm và ức chế miễn dịch, liên quan với tăng tử vong mọi nguyên nhân, đúng như cơ chế ta đã học ở phần hai.",
+    "Ở trẻ em bị sốc nhiễm khuẩn, 35 phần trăm chưa lấy lại chất lượng sống nền sau 1 năm.",
+    "Vì vậy, Surviving Sepsis Campaign 2026 dành hẳn một nhóm khuyến cáo cho giai đoạn chuyển tiếp: chương trình chuyển tiếp khi ra khỏi hồi sức, ghi thông tin về nhiễm khuẩn huyết trong tóm tắt ra viện, hẹn tái khám, phục hồi chức năng thể chất cho người thở máy trên 48 giờ, và hỗ trợ sức khoẻ tâm thần."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết toàn loạt",
+   "title": "Bảy thông điệp của cả loạt bài",
+   "dense": true,
+   "items": [
+    {
+     "t": "Rối loạn chức năng cơ quan do đáp ứng mất điều hoà",
+     "d": "SOFA tăng ≥ 2 · sốc = vận mạch + lactate > 2",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "t": "SOFA-2 đo, qSOFA báo động, NEWS2 sàng lọc",
+     "d": "Đúng công cụ cho đúng việc",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Tăng viêm và ức chế miễn dịch song song",
+     "d": "Vòng xoắn DAMP · miễn dịch – huyết khối · glycocalyx",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "t": "Giãn mạch + bệnh cơ tim + rò mao mạch",
+     "d": "Dịch có mục tiêu · lactate theo mức giảm",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Tìm ổ, cấy máu trước kháng sinh",
+     "d": "Kháng sinh + kiểm soát ổ: điều trị nguyên nhân",
+     "c": "amber",
+     "at": 4
+    },
+    {
+     "t": "Sốt + tụt áp chưa chắc là sepsis",
+     "d": "Bốn câu hỏi + siêu âm tại giường",
+     "c": "green",
+     "at": 5
+    },
+    {
+     "t": "Sống sót chưa phải là hồi phục",
+     "d": "Kiểu hình, cá thể hoá, chăm sóc sau ra viện",
+     "c": "coral",
+     "at": 6
+    }
+   ],
+   "lines": [
+    "Xin khép lại loạt bài bằng bảy thông điệp. Một, nhiễm khuẩn huyết là rối loạn chức năng cơ quan đe doạ tính mạng do đáp ứng mất điều hoà với nhiễm khuẩn.",
+    "Hai, dùng đúng công cụ cho đúng việc: SOFA-2 để đo, qSOFA để báo động, NEWS2 hay MEWS để sàng lọc.",
+    "Ba, tăng viêm và ức chế miễn dịch diễn ra song song, với vòng xoắn DAMP, miễn dịch huyết khối và glycocalyx bị phá vỡ.",
+    "Bốn, sốc nhiễm khuẩn là giãn mạch, bệnh cơ tim và rò mao mạch, nên dịch phải có mục tiêu và lactate theo dõi theo mức giảm.",
+    "Năm, tìm ổ nhiễm, cấy máu trước kháng sinh; kháng sinh cùng kiểm soát ổ là điều trị nguyên nhân.",
+    "Sáu, sốt kèm tụt huyết áp chưa chắc là nhiễm khuẩn huyết.",
+    "Và bảy, sống sót chưa phải là hồi phục.",
+    "Cảm ơn quý đồng nghiệp đã đồng hành cùng bốn phần của loạt bài.",
+    "Phần điều trị chi tiết, mời quý vị xem tiếp loạt Surviving Sepsis Campaign 2026 trên kênh.",
+    "Hẹn gặp lại trên Thư Viện Y Khoa Online."
+   ],
+   "id": "s16"
+  }
+ ]
+}
