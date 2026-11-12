@@ -1,0 +1,867 @@
+1
+00:00:04,900 --> 00:00:06,098
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,948 --> 00:00:10,290
+ở phần một chúng ta đã định nghĩa nhiễm khuẩn huyết là rối loạn chức năng cơ quan do
+
+3
+00:00:10,140 --> 00:00:13,833
+đáp ứng mất điều hoà của cơ thể. Phần hai sẽ trả lời câu hỏi tiếp theo:
+
+4
+00:00:13,683 --> 00:00:15,130
+mất điều hoà cụ thể là gì?
+
+5
+00:00:15,330 --> 00:00:19,980
+Chúng ta sẽ đi qua bốn tầng: miễn dịch bẩm sinh nhận diện mầm bệnh và khởi phát viêm;
+
+6
+00:00:19,830 --> 00:00:23,580
+miễn dịch và đông máu kích hoạt lẫn nhau thành miễn dịch huyết khối;
+
+7
+00:00:23,430 --> 00:00:27,233
+nội mô và lớp glycocalyx bị phá vỡ; và cuối cùng là ức chế miễn dịch,
+
+8
+00:00:27,083 --> 00:00:29,880
+mặt ít được nói tới nhưng quyết định kết cục muộn.
+
+9
+00:00:30,080 --> 00:00:35,144
+Nội dung chính dựa trên chương nhiễm khuẩn huyết của giáo trình Mandell ấn bản thứ 10
+
+10
+00:00:34,994 --> 00:00:40,290
+năm 2026 và tổng quan của Meyer trên tạp chí New England năm 2024. Cần lưu ý ngay từ đầu:
+
+11
+00:00:40,140 --> 00:00:44,105
+phần lớn hiểu biết về diễn tiến miễn dịch đến từ mô hình động vật,
+
+12
+00:00:43,955 --> 00:00:46,360
+vốn kém tương đồng với người bệnh thật.
+
+13
+00:00:47,810 --> 00:00:52,084
+Hãy xem tuyến phòng thủ đầu tiên làm việc. Đây là một đoạn phim kính hiển vi thật,
+
+14
+00:00:51,934 --> 00:00:52,839
+tăng tốc 8 lần:
+
+15
+00:00:52,689 --> 00:00:56,863
+một bạch cầu trung tính trong máu người đang lần theo một vi khuẩn hình que nhỏ,
+
+16
+00:00:56,713 --> 00:00:58,120
+giữa những hồng cầu tròn.
+
+17
+00:00:58,320 --> 00:01:03,329
+Bạch cầu kéo dài chân giả, đổi hướng theo con mồi, rồi bao lấy và nuốt nó. Bình thường,
+
+18
+00:01:03,179 --> 00:01:08,467
+lần gặp gỡ đầu tiên giữa mầm bệnh và miễn dịch bẩm sinh như thế tạo ra một đáp ứng cân bằng:
+
+19
+00:01:08,317 --> 00:01:11,651
+có viêm, có chống viêm, có sửa chữa, vi khuẩn bị loại bỏ,
+
+20
+00:01:11,501 --> 00:01:13,550
+và cơ thể trở về cân bằng nội môi.
+
+21
+00:01:13,750 --> 00:01:18,003
+Hình bên phải là phết máu của một người bệnh nhiễm khuẩn huyết do Pseudomonas:
+
+22
+00:01:17,853 --> 00:01:21,580
+ở giữa là một bạch cầu đã thực bào nhiều trực khuẩn bắt màu Gram âm.
+
+23
+00:01:21,780 --> 00:01:24,998
+Vậy điều gì xảy ra trong nhiễm khuẩn huyết? Theo Mandell,
+
+24
+00:01:24,848 --> 00:01:26,829
+mầm bệnh né được miễn dịch bảo vệ,
+
+25
+00:01:26,679 --> 00:01:31,189
+nhưng vẫn tiếp tục kích thích tế bào cơ thể. Đáp ứng vì vậy trở nên mất cân bằng,
+
+26
+00:01:31,039 --> 00:01:33,450
+gây hại, và không trở về nội môi được nữa.
+
+27
+00:01:33,650 --> 00:01:38,200
+Một điểm rất quan trọng: người bệnh có đồng thời cả tăng viêm lẫn ức chế miễn dịch,
+
+28
+00:01:38,050 --> 00:01:42,600
+hai phản ứng tưởng như ngược nhau, xảy ra ở những nhóm tế bào và cơ quan khác nhau.
+
+29
+00:01:44,050 --> 00:01:48,858
+Bước đầu tiên là nhận diện. Trên đại thực bào, bạch cầu đơn nhân, bạch cầu trung tính,
+
+30
+00:01:48,708 --> 00:01:52,379
+tế bào tua và cả tế bào biểu mô có sẵn các thụ thể nhận diện mẫu,
+
+31
+00:01:52,229 --> 00:01:56,495
+mã hoá từ dòng mầm. Chúng nhận ra các mẫu phân tử của mầm bệnh, gọi là PAMP,
+
+32
+00:01:56,345 --> 00:02:00,720
+như nội độc tố, và các mẫu phân tử báo động từ tế bào tổn thương, gọi là DAMP.
+
+33
+00:02:00,920 --> 00:02:06,216
+Điểm đặc trưng của nhiễm khuẩn huyết là nhiều PAMP và DAMP được nhận diện cùng một lúc,
+
+34
+00:02:06,066 --> 00:02:09,706
+hoạt hoá nhiều họ thụ thể, hội tụ về yếu tố phiên mã NF-κB,
+
+35
+00:02:09,556 --> 00:02:12,190
+dẫn tới phiên mã ồ ạt các gen đáp ứng sớm.
+
+36
+00:02:12,390 --> 00:02:19,820
+Sản phẩm quan trọng nhất là các cytokine tiền viêm: TNF, IL-1β, IL-12 và IL-18.
+
+37
+00:02:20,020 --> 00:02:25,117
+Song song, họ thụ thể NLR tạo nên inflammasome, một phức hợp trong bào tương,
+
+38
+00:02:24,967 --> 00:02:28,394
+hoạt hoá caspase-1, cắt và giải phóng IL-1β, IL-18,
+
+39
+00:02:28,244 --> 00:02:33,855
+đồng thời gây chết tế bào có viêm. Chính sự chết tế bào này lại giải phóng thêm DAMP,
+
+40
+00:02:33,705 --> 00:02:35,140
+và vòng lặp bắt đầu.
+
+41
+00:02:36,590 --> 00:02:40,580
+Hãy ghép các mảnh lại thành một vòng. Mầm bệnh mang PAMP kích hoạt miễn dịch.
+
+42
+00:02:40,780 --> 00:02:46,098
+Miễn dịch được hoạt hoá giải phóng cytokine và hoạt hoá bổ thể. Bổ thể sinh ra C3a và C5a,
+
+43
+00:02:45,948 --> 00:02:51,095
+những anaphylatoxin tác động mạnh lên bạch cầu, nội mô và tiểu cầu. Khi được kiểm soát,
+
+44
+00:02:50,945 --> 00:02:54,942
+bổ thể giúp opsonin hoá và tiêu diệt vi khuẩn; khi không kiểm soát,
+
+45
+00:02:54,792 --> 00:02:56,780
+nó làm tổn thương mô xung quanh.
+
+46
+00:02:56,980 --> 00:03:00,170
+Kết quả là tổn thương tế bào: nội mô, biểu mô, nhu mô cơ quan.
+
+47
+00:03:00,370 --> 00:03:05,395
+Tế bào tổn thương giải phóng DAMP, còn gọi là alarmin, tiêu biểu là HMGB1,
+
+48
+00:03:05,245 --> 00:03:07,372
+một protein nhân, và S100A8/9,
+
+49
+00:03:07,222 --> 00:03:11,720
+hay calprotectin. DAMP gắn vào chính những thụ thể nhận diện PAMP.
+
+50
+00:03:11,920 --> 00:03:15,643
+Vòng khép lại: hoạt hoá miễn dịch và rối loạn chức năng tự duy trì,
+
+51
+00:03:15,493 --> 00:03:18,470
+ngay cả khi số lượng vi khuẩn đã giảm nhờ kháng sinh.
+
+52
+00:03:18,670 --> 00:03:22,968
+Từ đây ra đời giả thuyết bão cytokine, và hàng loạt thử nghiệm kháng TNF,
+
+53
+00:03:22,818 --> 00:03:24,673
+kháng IL-1β đã được tiến hành,
+
+54
+00:03:24,523 --> 00:03:29,674
+nhưng đều thất bại. Hiện nay người ta cho rằng mô hình động vật ít tương đồng với người,
+
+55
+00:03:29,524 --> 00:03:34,390
+dù tử vong sớm, do trụy tim mạch và suy đa cơ quan, có lẽ vẫn chủ yếu do tăng viêm.
+
+56
+00:03:35,840 --> 00:03:40,481
+Tầng thứ hai là đông máu. Cần hiểu rằng đông máu là một phần của miễn dịch bẩm sinh:
+
+57
+00:03:40,331 --> 00:03:42,245
+nó giải phóng peptid kháng khuẩn,
+
+58
+00:03:42,095 --> 00:03:45,613
+thu hút thực bào và khu trú vi khuẩn. Trên mô hình thực nghiệm,
+
+59
+00:03:45,463 --> 00:03:50,745
+ức chế đông máu còn làm giảm thanh thải vi khuẩn và tăng tử vong. Nhưng trong nhiễm khuẩn huyết,
+
+60
+00:03:50,595 --> 00:03:55,235
+ba cơ chế cùng đẩy về trạng thái tăng đông. Cơ chế thứ nhất là yếu tố mô bộc lộ trên
+
+61
+00:03:55,085 --> 00:03:59,566
+bạch cầu đơn nhân và nội mô khi gặp PAMP và cytokine. Gasdermin D gây pyroptosis,
+
+62
+00:03:59,416 --> 00:04:01,544
+một kiểu chết tế bào ly giải có viêm,
+
+63
+00:04:01,394 --> 00:04:04,270
+giải phóng các vi túi mang yếu tố mô vào tuần hoàn.
+
+64
+00:04:04,470 --> 00:04:08,881
+Cơ chế thứ hai là suy giảm ba hệ chống đông tự nhiên: antithrombin,
+
+65
+00:04:08,731 --> 00:04:12,823
+chất ức chế đường yếu tố mô TFPI, và hệ protein C. Đáng chú ý,
+
+66
+00:04:12,673 --> 00:04:16,193
+antithrombin và TFPI cần lớp glycocalyx để hoạt động,
+
+67
+00:04:16,043 --> 00:04:19,500
+mà glycocalyx lại bị phá vỡ trong nhiễm khuẩn huyết.
+
+68
+00:04:19,700 --> 00:04:22,762
+Cơ chế thứ ba là ức chế tiêu sợi huyết do tăng PAI-1,
+
+69
+00:04:22,612 --> 00:04:25,290
+nên cục đông hình thành mà không được tiêu đi.
+
+70
+00:04:25,490 --> 00:04:29,185
+Ba cơ chế hội tụ: thrombin tăng, fibrin lắng đọng, tiểu cầu hoạt hoá,
+
+71
+00:04:29,035 --> 00:04:31,240
+tạo vi huyết khối trong hệ vi tuần hoàn.
+
+72
+00:04:31,440 --> 00:04:33,434
+Hậu quả là đông máu nội mạch lan toả,
+
+73
+00:04:33,284 --> 00:04:38,220
+gặp khoảng 35 phần trăm người bệnh nhiễm khuẩn huyết và làm nguy cơ tử vong tăng khoảng gấp đôi,
+
+74
+00:04:38,070 --> 00:04:41,510
+cùng với giảm tiểu cầu dưới 100 nghìn ở tới một nửa số người bệnh.
+
+75
+00:04:41,710 --> 00:04:47,170
+Và bổ thể với đông máu kích hoạt lẫn nhau: các yếu tố đông máu và thrombin cắt được C3,
+
+76
+00:04:47,020 --> 00:04:51,686
+C5; ngược lại C5a làm nội mô bộc lộ yếu tố mô và làm bong heparan sulfate,
+
+77
+00:04:51,536 --> 00:04:53,700
+khiến antithrombin hoạt động kém.
+
+78
+00:04:55,150 --> 00:04:59,107
+Đây là hình ảnh hiển vi điện tử quét, đã tô màu, của một cơ chế đặc biệt:
+
+79
+00:04:58,957 --> 00:05:00,881
+bẫy ngoại bào bạch cầu trung tính,
+
+80
+00:05:00,731 --> 00:05:05,940
+viết tắt NET. Bạch cầu màu vàng đã phóng ra một tấm lưới màu xanh lá để bắt các vi khuẩn màu tím.
+
+81
+00:05:06,140 --> 00:05:08,855
+Tấm lưới này làm từ chính DNA của bạch cầu,
+
+82
+00:05:08,705 --> 00:05:13,330
+đính kèm histone và các protease. Nó bắt giữ và giết vi khuẩn rất hiệu quả.
+
+83
+00:05:13,530 --> 00:05:17,838
+Bên phải là tranh minh hoạ của Viện Dị ứng và Bệnh truyền nhiễm Hoa Kỳ: bạch cầu vỡ ra,
+
+84
+00:05:17,688 --> 00:05:21,040
+giải phóng lưới, nên quá trình này còn được gọi là bạch cầu tự sát.
+
+85
+00:05:21,240 --> 00:05:24,942
+Nhưng mặt trái rất rõ: lưới NET trở thành giá đỡ cho tiểu cầu,
+
+86
+00:05:24,792 --> 00:05:27,464
+fibrinogen và yếu tố von Willebrand bám vào,
+
+87
+00:05:27,314 --> 00:05:32,105
+hoạt hoá đường đông máu nội sinh. Histone tự do còn gây độc trực tiếp cho tế bào,
+
+88
+00:05:31,955 --> 00:05:34,110
+sinh thrombin và hoạt hoá tiểu cầu.
+
+89
+00:05:34,310 --> 00:05:38,558
+Về phía tiểu cầu, nhiễm khuẩn huyết gây thiếu tương đối enzyme ADAMTS13,
+
+90
+00:05:38,408 --> 00:05:41,233
+làm tồn tại các phân tử von Willebrand cực lớn,
+
+91
+00:05:41,083 --> 00:05:46,070
+giúp tiểu cầu bám vào nội mô tổn thương. Tiểu cầu thấp liên quan độc lập với tử vong,
+
+92
+00:05:45,920 --> 00:05:49,940
+và tiểu cầu hoạt hoá quá mức góp phần vào đông máu nội mạch lan toả,
+
+93
+00:05:49,790 --> 00:05:52,160
+tổn thương phổi và tổn thương thận cấp.
+
+94
+00:05:53,610 --> 00:05:58,386
+Đây là lúc miễn dịch huyết khối hiện ra ngoài da. Hình bên trái là bàn tay và cẳng tay
+
+95
+00:05:58,236 --> 00:06:01,183
+của một người bệnh sốc nhiễm khuẩn có giảm tiểu cầu,
+
+96
+00:06:01,033 --> 00:06:03,120
+với ban xuất huyết tím sẫm lan rộng.
+
+97
+00:06:03,320 --> 00:06:04,160
+Theo Mandell,
+
+98
+00:06:04,010 --> 00:06:08,458
+đông máu nội mạch lan toả gặp ở khoảng 35 phần trăm người bệnh nhiễm khuẩn huyết,
+
+99
+00:06:08,308 --> 00:06:14,030
+và làm tăng nguy cơ tử vong khoảng gấp đôi. Giảm tiểu cầu dưới 100 nghìn gặp ở tới một nửa số người bệnh.
+
+100
+00:06:14,230 --> 00:06:19,580
+Bên phải là phết máu ngoại vi của một người bệnh đông máu nội mạch lan toả kèm thiếu máu tan máu vi mạch.
+
+101
+00:06:19,780 --> 00:06:23,819
+Quý vị thấy rất nhiều mảnh vỡ hồng cầu, hình răng cưa, hình mũ,
+
+102
+00:06:23,669 --> 00:06:27,277
+do hồng cầu bị cắt khi đi qua lưới fibrin trong vi mạch,
+
+103
+00:06:27,127 --> 00:06:29,499
+và rất ít tiểu cầu. Trên xét nghiệm,
+
+104
+00:06:29,349 --> 00:06:33,944
+gợi ý đông máu nội mạch lan toả khi INR trên 1,5 hoặc aPTT trên 60 giây,
+
+105
+00:06:33,794 --> 00:06:35,920
+fibrinogen thấp và D-dimer tăng.
+
+106
+00:06:36,120 --> 00:06:40,380
+Và đây là một bài học khiêm tốn của y học: dù cơ sở lý thuyết rất rõ,
+
+107
+00:06:40,230 --> 00:06:43,537
+các thử nghiệm bổ sung antithrombin, TFPI tái tổ hợp,
+
+108
+00:06:43,387 --> 00:06:48,660
+protein C hoạt hoá và thrombomodulin hoà tan đều không cải thiện tử vong. Đến nay chưa
+
+109
+00:06:48,510 --> 00:06:51,340
+có điều trị đặc hiệu ngoài điều trị bệnh nền.
+
+110
+00:06:52,790 --> 00:06:57,761
+Tầng thứ ba là nội mô. Hình minh hoạ ba chiều này cho thấy lòng mạch phía trên với hồng cầu,
+
+111
+00:06:57,611 --> 00:07:01,272
+và lớp tế bào nội mô màu cam. Bạch cầu lăn dọc thành mạch, bám vào,
+
+112
+00:07:01,122 --> 00:07:04,940
+rồi xuyên qua khe giữa các tế bào nội mô để đi vào mô nơi có vi khuẩn.
+
+113
+00:07:05,140 --> 00:07:06,025
+Bình thường,
+
+114
+00:07:05,875 --> 00:07:10,802
+nội mô là một hàng rào bán thấm rất tinh vi. Phía lòng mạch có lớp glycocalyx,
+
+115
+00:07:10,652 --> 00:07:16,068
+một lớp gel giàu proteoglycan và heparan sulfate. Giữa các tế bào có mối nối dính chứa
+
+116
+00:07:15,918 --> 00:07:18,640
+VE-cadherin và mối nối chặt chứa occludin,
+
+117
+00:07:18,490 --> 00:07:19,130
+claudin.
+
+118
+00:07:19,330 --> 00:07:20,851
+Trong nhiễm khuẩn huyết,
+
+119
+00:07:20,701 --> 00:07:25,423
+hàng rào này gần như luôn bị phá vỡ. Collagen và yếu tố mô dưới nội mô bị lộ ra,
+
+120
+00:07:25,273 --> 00:07:27,137
+hoạt hoá tiểu cầu và đông máu;
+
+121
+00:07:26,987 --> 00:07:31,480
+và glycocalyx bị phá huỷ làm hỏng thêm cả hàng rào lẫn chức năng chống đông.
+
+122
+00:07:32,930 --> 00:07:37,326
+Hãy xem rò mao mạch hình thành thế nào. Thứ nhất, glycocalyx bị phá huỷ,
+
+123
+00:07:37,176 --> 00:07:41,160
+mất heparan sulfate, nên hàng rào mỏng đi và chống đông suy giảm.
+
+124
+00:07:41,360 --> 00:07:46,304
+Thứ hai, thrombin gắn thụ thể PAR1 trên tế bào nội mô, làm tế bào co lại, tròn đi,
+
+125
+00:07:46,154 --> 00:07:47,590
+các mối nối bị kéo hở.
+
+126
+00:07:47,790 --> 00:07:49,783
+Thứ ba, angiopoietin-2 tăng,
+
+127
+00:07:49,633 --> 00:07:54,260
+đối kháng tác dụng ổn định mạch của angiopoietin-1 qua thụ thể Tie2.
+
+128
+00:07:54,460 --> 00:07:59,007
+Ba cơ chế này dẫn tới rò mao mạch: dịch và protein thoát từ lòng mạch ra mô kẽ,
+
+129
+00:07:58,857 --> 00:08:01,010
+gọi là thoát dịch vào khoang thứ ba.
+
+130
+00:08:01,210 --> 00:08:04,926
+Hệ quả lâm sàng là giảm thể tích tuần hoàn hiệu dụng, tụt huyết áp, phù,
+
+131
+00:08:04,776 --> 00:08:09,234
+và cân bằng dịch dương. Theo Meyer, đây là biểu hiện chính của mất kiểm soát tính thấm,
+
+132
+00:08:09,084 --> 00:08:11,760
+còn đông máu nội mạch lan toả rõ ràng thì hiếm hơn.
+
+133
+00:08:11,960 --> 00:08:17,184
+Cũng có cơ chế bảo vệ: protein C hoạt hoá, qua thụ thể EPCR và PAR1,
+
+134
+00:08:17,034 --> 00:08:23,750
+tác động lên S1P1 để giữ hàng rào, cùng với angiopoietin-1. Thú vị là cùng thụ thể PAR1,
+
+135
+00:08:23,600 --> 00:08:27,630
+thrombin thì phá, còn protein C hoạt hoá thì bảo vệ.
+
+136
+00:08:27,830 --> 00:08:30,940
+Và đây là chỗ nối sang thực hành: khi mao mạch đang rò,
+
+137
+00:08:30,790 --> 00:08:35,085
+dịch ta truyền vào cũng sẽ rò ra mô kẽ. Đó là lý do bù dịch phải có mục tiêu,
+
+138
+00:08:34,935 --> 00:08:36,700
+và dịch quá nhiều cũng có hại.
+
+139
+00:08:38,150 --> 00:08:43,057
+Tầng thứ tư, và là mặt ít được nói tới: ức chế miễn dịch. Ở miễn dịch bẩm sinh,
+
+140
+00:08:42,907 --> 00:08:47,092
+bạch cầu trung tính chậm chết theo chương trình, giảm hoá ứng động,
+
+141
+00:08:46,942 --> 00:08:49,802
+giảm sản xuất gốc oxy hoá. Bạch cầu đơn nhân,
+
+142
+00:08:49,652 --> 00:08:52,752
+đại thực bào và tế bào tua giảm biểu hiện HLA-DR,
+
+143
+00:08:52,602 --> 00:08:55,643
+giảm tiết cytokine tiền viêm. Mandell nhấn mạnh:
+
+144
+00:08:55,493 --> 00:09:00,159
+gọi đây là liệt miễn dịch là không chính xác, vì tế bào được tái lập trình,
+
+145
+00:09:00,009 --> 00:09:01,725
+vẫn tiết IL-10 chống viêm,
+
+146
+00:09:01,575 --> 00:09:05,940
+một phần do thay đổi biểu sinh như methyl hoá DNA và biến đổi histone.
+
+147
+00:09:06,140 --> 00:09:09,944
+Về chuyển hoá, tế bào miễn dịch hoạt hoá chuyển sang đường phân,
+
+148
+00:09:09,794 --> 00:09:13,427
+gọi là hiệu ứng Warburg. Nhưng ở người bệnh ức chế miễn dịch,
+
+149
+00:09:13,277 --> 00:09:17,824
+bạch cầu đơn nhân suy cả đường phân, oxy hoá acid béo lẫn phosphoryl oxy hoá,
+
+150
+00:09:17,674 --> 00:09:20,450
+tức là không đơn giản chỉ đổi kênh năng lượng.
+
+151
+00:09:20,650 --> 00:09:23,327
+Ở miễn dịch thích ứng, tế bào T CD4, CD8,
+
+152
+00:09:23,177 --> 00:09:28,691
+tế bào B và tế bào tua chết theo chương trình hàng loạt. Tử thiết thấy tế bào T lách bị
+
+153
+00:09:28,541 --> 00:09:30,972
+kiệt quệ. Có tăng PD-1 trên tế bào T,
+
+154
+00:09:30,822 --> 00:09:33,068
+PD-L1 trên đại thực bào và nội mô,
+
+155
+00:09:32,918 --> 00:09:38,431
+tăng tế bào T điều hoà và tế bào ức chế dòng tuỷ. Giảm lympho tuyệt đối rất thường gặp,
+
+156
+00:09:38,281 --> 00:09:40,650
+và nếu kéo dài thì báo hiệu tử vong.
+
+157
+00:09:40,850 --> 00:09:46,546
+Hậu quả lâm sàng là nhiễm khuẩn thứ phát do những vi khuẩn độc lực thấp như Stenotrophomonas,
+
+158
+00:09:46,396 --> 00:09:51,078
+Acinetobacter, Enterococcus, nấm Candida, và tái hoạt virus tiềm ẩn như CMV,
+
+159
+00:09:50,928 --> 00:09:56,088
+HSV. Một nhóm người bệnh không hồi phục sau điều trị ban đầu rơi vào hội chứng viêm,
+
+160
+00:09:55,938 --> 00:10:00,620
+ức chế miễn dịch và dị hoá kéo dài, viết tắt PICS, phải nằm hồi sức rất lâu.
+
+161
+00:10:02,070 --> 00:10:05,780
+Đồ thị khái niệm này giúp gom hai mặt lại. Trục ngang là thời gian,
+
+162
+00:10:05,630 --> 00:10:09,500
+trục dọc là cường độ đáp ứng. Đường đỏ là tăng viêm, bùng lên rất sớm.
+
+163
+00:10:09,700 --> 00:10:13,690
+Đường tím là ức chế miễn dịch. Quan niệm cũ cho rằng có hai pha nối tiếp:
+
+164
+00:10:13,540 --> 00:10:15,163
+đáp ứng viêm hệ thống trước,
+
+165
+00:10:15,013 --> 00:10:19,266
+rồi đáp ứng chống viêm bù trừ sau. Mandell khẳng định quan niệm đó không đúng:
+
+166
+00:10:19,116 --> 00:10:21,212
+không có ranh giới thời gian rõ ràng,
+
+167
+00:10:21,062 --> 00:10:24,210
+ức chế miễn dịch bắt đầu gần như song song với tăng viêm.
+
+168
+00:10:24,410 --> 00:10:25,402
+Ở giai đoạn sớm,
+
+169
+00:10:25,252 --> 00:10:30,560
+tăng viêm chiếm ưu thế và là nguyên nhân chính của tử vong sớm do trụy tim mạch và suy đa cơ quan.
+
+170
+00:10:30,760 --> 00:10:34,830
+Ở người hồi phục, cả hai đường cùng lắng xuống, như đường đứt nét màu xanh.
+
+171
+00:10:35,030 --> 00:10:38,220
+Nhưng ở những người không hồi phục, ức chế miễn dịch kéo dài,
+
+172
+00:10:38,070 --> 00:10:41,210
+kéo theo nhiễm khuẩn thứ phát và hội chứng PICS. Theo Meyer,
+
+173
+00:10:41,060 --> 00:10:45,994
+khoảng hai phần ba người sống sót vẫn còn hoạt hoá kéo dài các chỉ dấu viêm và ức chế miễn dịch,
+
+174
+00:10:45,844 --> 00:10:47,340
+liên quan với tăng tử vong.
+
+175
+00:10:47,540 --> 00:10:49,294
+Hàm ý điều trị rất quan trọng:
+
+176
+00:10:49,144 --> 00:10:52,717
+một liệu pháp chống viêm có thể có lợi cho người đang tăng viêm,
+
+177
+00:10:52,567 --> 00:10:57,315
+nhưng có hại cho người đang ức chế miễn dịch. Đó là lý do các thử nghiệm điều hoà miễn
+
+178
+00:10:57,165 --> 00:10:58,866
+dịch đại trà thường thất bại,
+
+179
+00:10:58,716 --> 00:11:02,930
+và vì sao các kiểu hình sepsis, mà ta sẽ bàn ở phần bốn, đang được quan tâm.
+
+180
+00:11:04,380 --> 00:11:08,744
+Để kết nối bệnh sinh với giường bệnh, hãy xem bảng này. Với mầm bệnh và ổ nhiễm,
+
+181
+00:11:08,594 --> 00:11:12,010
+đích điều trị là kháng sinh sớm và kiểm soát ổ nhiễm. Đến nay,
+
+182
+00:11:11,860 --> 00:11:15,170
+đây vẫn là điều trị nguyên nhân duy nhất đã được chứng minh.
+
+183
+00:11:15,370 --> 00:11:18,965
+Với giãn mạch và rò mao mạch, biểu hiện là tụt huyết áp, chi ấm, phù,
+
+184
+00:11:18,815 --> 00:11:22,560
+và đích điều trị là vận mạch cùng dịch truyền có kiểm soát theo đáp ứng.
+
+185
+00:11:22,760 --> 00:11:26,971
+Với miễn dịch huyết khối, ta chỉ có thể điều trị bệnh nền và dự phòng huyết khối,
+
+186
+00:11:26,821 --> 00:11:30,030
+vì các thuốc nhằm sửa đông máu nội mạch lan toả đều thất bại.
+
+187
+00:11:30,230 --> 00:11:31,105
+Với tăng viêm,
+
+188
+00:11:30,955 --> 00:11:35,820
+các liệu pháp kháng cytokine và lọc máu hấp phụ đến nay thất bại hoặc chưa được chứng minh.
+
+189
+00:11:36,020 --> 00:11:40,139
+Và với ức chế miễn dịch, các thuốc như IL-7 hay kháng PD-1,
+
+190
+00:11:39,989 --> 00:11:45,789
+PD-L1 vẫn đang ở giai đoạn thử nghiệm, chưa được khuyến cáo. Phần điều trị chi tiết,
+
+191
+00:11:45,639 --> 00:11:49,960
+quý vị xem trong loạt Surviving Sepsis Campaign 2026 của kênh.
+
+192
+00:11:51,410 --> 00:11:56,458
+Đến với tình huống. Một người đàn ông 66 tuổi, sốc nhiễm khuẩn do viêm phúc mạc,
+
+193
+00:11:56,308 --> 00:12:01,234
+đã được phẫu thuật, cai vận mạch từ ngày thứ 4. Đến ngày thứ 12 trong hồi sức,
+
+194
+00:12:01,084 --> 00:12:06,071
+ông sốt trở lại, cấy máu mọc nấm Candida, lympho máu kéo dài chỉ 0,4 G mỗi lít,
+
+195
+00:12:05,921 --> 00:12:08,030
+và PCR CMV trong máu dương tính.
+
+196
+00:12:08,230 --> 00:12:10,780
+Cơ chế nào giải thích tốt nhất diễn tiến này?
+
+197
+00:12:10,980 --> 00:12:13,690
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+198
+00:12:22,290 --> 00:12:26,481
+Đáp án là ức chế miễn dịch do nhiễm khuẩn huyết. Ba manh mối cùng hướng:
+
+199
+00:12:26,331 --> 00:12:29,456
+giảm lympho kéo dài do lympho chết theo chương trình;
+
+200
+00:12:29,306 --> 00:12:31,869
+nhiễm một tác nhân độc lực thấp là Candida;
+
+201
+00:12:31,719 --> 00:12:35,686
+và tái hoạt virus tiềm ẩn CMV. Đây không phải bão cytokine tái phát,
+
+202
+00:12:35,536 --> 00:12:40,569
+và kháng sinh ban đầu sai phổ không giải thích được tái hoạt CMV hay giảm lympho. Người
+
+203
+00:12:40,419 --> 00:12:43,151
+bệnh này cần tìm và kiểm soát nguồn nhiễm mới,
+
+204
+00:12:43,001 --> 00:12:45,340
+chứ không cần một liệu pháp chống viêm.
+
+205
+00:12:46,790 --> 00:12:51,012
+Xin tổng kết sáu thông điệp của phần hai. Một, trong nhiễm khuẩn huyết,
+
+206
+00:12:50,862 --> 00:12:55,257
+mầm bệnh né được miễn dịch bảo vệ nhưng vẫn kích thích liên tục, qua PAMP,
+
+207
+00:12:55,107 --> 00:12:56,060
+DAMP và NF-κB.
+
+208
+00:12:56,260 --> 00:13:00,090
+Hai, vòng xoắn DAMP làm viêm tự duy trì ngay cả khi vi khuẩn đã giảm.
+
+209
+00:13:00,290 --> 00:13:03,017
+Ba, miễn dịch và đông máu kích hoạt lẫn nhau,
+
+210
+00:13:02,867 --> 00:13:05,880
+với ba cơ chế tăng đông và bẫy ngoại bào bạch cầu.
+
+211
+00:13:06,080 --> 00:13:11,830
+Bốn, glycocalyx và nội mô bị phá vỡ dẫn tới rò mao mạch, nên dịch quá nhiều cũng có hại.
+
+212
+00:13:12,030 --> 00:13:16,237
+Năm, tăng viêm và ức chế miễn dịch diễn ra song song, không nối tiếp. Và sáu,
+
+213
+00:13:16,087 --> 00:13:20,980
+kháng sinh cùng kiểm soát ổ nhiễm vẫn là điều trị nguyên nhân duy nhất đã được chứng minh.
+
+214
+00:13:21,180 --> 00:13:25,300
+Trong phần ba, chúng ta sẽ ra giường bệnh: huyết động của sốc nhiễm khuẩn,
+
+215
+00:13:25,150 --> 00:13:29,378
+vì sao lactate tăng, rối loạn chức năng từng cơ quan, ổ nhiễm trên hình ảnh,
+
+216
+00:13:29,228 --> 00:13:34,046
+và cách phân biệt sốc nhiễm khuẩn với các loại sốc khác. Cảm ơn quý đồng nghiệp đã theo
+
+217
+00:13:33,896 --> 00:13:36,460
+dõi. Hẹn gặp lại trên Thư Viện Y Khoa Online.

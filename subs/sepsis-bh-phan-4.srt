@@ -1,0 +1,703 @@
+1
+00:00:04,900 --> 00:00:07,966
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn,
+
+2
+00:00:07,816 --> 00:00:12,912
+phần cuối của loạt bài bệnh học nhiễm khuẩn huyết. Hôm nay chúng ta sẽ đi trọn một ca lâm sàng,
+
+3
+00:00:12,762 --> 00:00:17,441
+từ khoa cấp cứu vào hồi sức, và áp dụng mọi điều đã học: định nghĩa, SOFA-2, bệnh sinh,
+
+4
+00:00:17,291 --> 00:00:19,680
+huyết động, lactate và chẩn đoán phân biệt.
+
+5
+00:00:19,880 --> 00:00:22,313
+Ca bệnh có ba điểm quyết định. Ở mỗi điểm,
+
+6
+00:00:22,163 --> 00:00:25,630
+quý vị hãy tạm dừng video và tự trả lời trước khi xem đáp án.
+
+7
+00:00:25,830 --> 00:00:29,564
+Đây là ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng. Cuối phần,
+
+8
+00:00:29,414 --> 00:00:31,489
+chúng ta sẽ bàn về kiểu hình sepsis,
+
+9
+00:00:31,339 --> 00:00:35,180
+những câu hỏi còn bỏ ngỏ và cuộc sống của người bệnh sau khi ra viện.
+
+10
+00:00:36,630 --> 00:00:42,721
+22 giờ 40, một người đàn ông 58 tuổi, nặng 70 ký, được đưa vào khoa cấp cứu vì sốt,
+
+11
+00:00:42,571 --> 00:00:47,660
+ho khạc đờm 3 ngày, và từ chiều thì lơ mơ. Nhịp tim 122 lần mỗi phút.
+
+12
+00:00:47,860 --> 00:00:49,468
+Huyết áp 82 trên 45,
+
+13
+00:00:49,318 --> 00:00:57,050
+tức huyết áp trung bình 57. SpO₂ chỉ 88 phần trăm khi thở khí trời. Nghe phổi có ran nổ ở đáy phổi phải.
+
+14
+00:00:57,250 --> 00:01:01,855
+Nhịp thở 28 lần mỗi phút, nhiệt độ 39,2 độ. Da hai chi dưới nổi bông,
+
+15
+00:01:01,705 --> 00:01:04,760
+thời gian đổ đầy mao mạch kéo dài tới 5 giây.
+
+16
+00:01:04,960 --> 00:01:10,340
+Điểm Glasgow 13. Hãy để ý: người bệnh này có đủ cả ba tiêu chí qSOFA, nhịp thở từ 22,
+
+17
+00:01:10,190 --> 00:01:13,601
+huyết áp tâm thu từ 100 trở xuống và thay đổi ý thức;
+
+18
+00:01:13,451 --> 00:01:19,016
+và chắc chắn điểm NEWS2 rất cao. Nhưng như phần một đã nhấn mạnh, qSOFA chỉ báo nguy cơ,
+
+19
+00:01:18,866 --> 00:01:22,400
+còn chẩn đoán phải dựa trên rối loạn chức năng cơ quan.
+
+20
+00:01:23,850 --> 00:01:28,135
+X-quang ngực tại giường cho thấy đám mờ đông đặc thuỳ giữa phổi phải. Ổ nhiễm đã rõ:
+
+21
+00:01:27,985 --> 00:01:29,120
+viêm phổi cộng đồng.
+
+22
+00:01:29,320 --> 00:01:33,867
+Siêu âm phổi xác nhận vùng phổi đông đặc. Nhưng người bác sĩ hồi sức không dừng ở đó:
+
+23
+00:01:33,717 --> 00:01:36,350
+cùng đầu dò, họ áp dụng bốn câu hỏi của phần ba.
+
+24
+00:01:36,550 --> 00:01:41,460
+Siêu âm tim cho thấy thất trái tăng động, thất phải không giãn, không có dịch màng tim,
+
+25
+00:01:41,310 --> 00:01:45,180
+và tĩnh mạch chủ dưới nhỏ. Không có gợi ý sốc tắc nghẽn hay sốc tim.
+
+26
+00:01:45,380 --> 00:01:48,100
+Kết luận huyết động: sốc phân bố do nhiễm khuẩn,
+
+27
+00:01:47,950 --> 00:01:52,330
+có thêm thành phần giảm thể tích do ăn uống kém và mất dịch qua sốt, thở nhanh.
+
+28
+00:01:53,780 --> 00:01:58,863
+23 giờ 10, có kết quả xét nghiệm. Khí máu cho thấy toan chuyển hoá kèm kiềm hô hấp bù,
+
+29
+00:01:58,713 --> 00:02:03,050
+đúng kiểu thường gặp mà Mandell mô tả, với lactate 4,6 mi li mol mỗi lít.
+
+30
+00:02:03,250 --> 00:02:05,503
+Creatinin 159 micro mol mỗi lít,
+
+31
+00:02:05,353 --> 00:02:10,760
+tức khoảng 1,8 mi li gam mỗi đề xi lít. Bilirubin bình thường. Đường huyết tăng.
+
+32
+00:02:10,960 --> 00:02:14,988
+Bạch cầu 18,6, tiểu cầu giảm còn 95 nghìn, INR 1,4. Và quan trọng:
+
+33
+00:02:14,838 --> 00:02:19,865
+hai bộ cấy máu cùng mẫu đờm đã được lấy trước khi dùng bất kỳ kháng sinh nào. Người
+
+34
+00:02:19,715 --> 00:02:22,275
+bệnh có rối loạn chức năng ít nhất ở não,
+
+35
+00:02:22,125 --> 00:02:24,390
+hô hấp, tuần hoàn, thận và đông máu.
+
+36
+00:02:25,840 --> 00:02:31,846
+Điểm quyết định thứ nhất. Surviving Sepsis Campaign 2026 phân mức chắc chắn chẩn đoán thành chắc chắn,
+
+37
+00:02:31,696 --> 00:02:34,028
+nhiều khả năng, có thể và ít khả năng,
+
+38
+00:02:33,878 --> 00:02:37,990
+và thời điểm kháng sinh phụ thuộc mức này cùng việc có sốc hay không.
+
+39
+00:02:38,190 --> 00:02:42,260
+Với người bệnh này, mức chắc chắn là gì, và kháng sinh cần dùng khi nào?
+
+40
+00:02:42,460 --> 00:02:45,410
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+41
+00:02:54,010 --> 00:02:58,080
+Đáp án: sốc nhiễm khuẩn ở mức nhiều khả năng, vì có ổ viêm phổi rõ,
+
+42
+00:02:57,930 --> 00:02:59,718
+tụt huyết áp và lactate cao,
+
+43
+00:02:59,568 --> 00:03:04,633
+chẩn đoán khác ít khả năng hơn. Kháng sinh phải dùng trong vòng 1 giờ. Procalcitonin
+
+44
+00:03:04,483 --> 00:03:07,967
+không dùng để quyết định có bắt đầu kháng sinh hay không,
+
+45
+00:03:07,817 --> 00:03:12,940
+và không chờ kết quả cấy. Kháng sinh kinh nghiệm chọn theo nguy cơ đa kháng của người
+
+46
+00:03:12,790 --> 00:03:14,871
+bệnh và dữ liệu vi sinh tại khoa;
+
+47
+00:03:14,721 --> 00:03:18,850
+với beta-lactam, dùng liều nạp rồi truyền kéo dài. Chi tiết phác đồ,
+
+48
+00:03:18,700 --> 00:03:22,360
+quý vị xem phần hai của loạt Surviving Sepsis Campaign 2026.
+
+49
+00:03:23,810 --> 00:03:28,382
+Điểm quyết định thứ hai. Người bệnh nặng 70 ký, huyết áp trung bình 57, da nổi bông,
+
+50
+00:03:28,232 --> 00:03:32,120
+thời gian đổ đầy mao mạch 5 giây, và hiện có hai đường truyền ngoại vi.
+
+51
+00:03:32,320 --> 00:03:35,430
+Quý vị sẽ hồi sức huyết động thế nào trong 3 giờ đầu?
+
+52
+00:03:35,630 --> 00:03:38,500
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+53
+00:03:47,100 --> 00:03:50,624
+Đáp án: dịch tinh thể cân bằng ít nhất 30 mi li lít mỗi ký,
+
+54
+00:03:50,474 --> 00:03:52,855
+tức khoảng 2.100 mi li lít trong 3 giờ,
+
+55
+00:03:52,705 --> 00:03:57,373
+truyền từng phần và đánh giá lại sau mỗi lần. Vì sốc có dấu hiệu không ổn định,
+
+56
+00:03:57,223 --> 00:04:01,834
+bắt đầu norepinephrine sớm, ngay qua đường truyền ngoại vi, cùng lúc với dịch,
+
+57
+00:04:01,684 --> 00:04:05,151
+đích huyết áp trung bình 65. Không chờ catheter trung tâm,
+
+58
+00:04:05,001 --> 00:04:10,355
+không dùng đích áp lực tĩnh mạch trung tâm hay ScvO₂ như hồi sức theo mục tiêu sớm kiểu cũ,
+
+59
+00:04:10,205 --> 00:04:15,216
+và không dùng gelatin. Hãy nhớ phần hai: mao mạch đang rò, nên dịch phải có mục tiêu,
+
+60
+00:04:15,066 --> 00:04:16,360
+không truyền vô hạn.
+
+61
+00:04:17,810 --> 00:04:22,872
+Điểm quyết định thứ ba. Người bệnh đã vào hồi sức. Sau 2.100 mi li lít dịch,
+
+62
+00:04:22,722 --> 00:04:28,883
+norepinephrine phải tăng dần lên 0,3 microgam mỗi ký mỗi phút. Lactate giảm từ 4,6 xuống 3,1,
+
+63
+00:04:28,733 --> 00:04:33,730
+thời gian đổ đầy mao mạch còn 3 giây, và ông đang thở oxy dòng cao qua mũi.
+
+64
+00:04:33,930 --> 00:04:36,240
+Bước tiếp theo phù hợp nhất là gì?
+
+65
+00:04:36,440 --> 00:04:39,150
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+66
+00:04:47,750 --> 00:04:51,110
+Đáp án: thêm vasopressin vì norepinephrine đang tăng liều,
+
+67
+00:04:50,960 --> 00:04:53,711
+và cân nhắc hydrocortisone vì sốc cần vận mạch;
+
+68
+00:04:53,561 --> 00:04:59,633
+nhóm soạn Surviving Sepsis Campaign 2026 thực hành với liều 200 mi li gam mỗi ngày. Trước khi bù thêm dịch,
+
+69
+00:04:59,483 --> 00:05:04,337
+đánh giá đáp ứng bù dịch bằng nghiệm pháp nâng chân thụ động. Không truyền thêm 2 lít
+
+70
+00:05:04,187 --> 00:05:06,274
+chỉ vì lactate chưa về bình thường,
+
+71
+00:05:06,124 --> 00:05:07,603
+vì ta theo dõi mức giảm,
+
+72
+00:05:07,453 --> 00:05:13,137
+mà lactate đang giảm tốt. Dobutamine chỉ dành cho rối loạn chức năng tim kèm giảm tưới máu dai dẳng,
+
+73
+00:05:12,987 --> 00:05:15,240
+và lọc máu không dùng để lọc cytokine.
+
+74
+00:05:16,690 --> 00:05:21,768
+Lúc vào hồi sức, SOFA-2 của người bệnh là bao nhiêu? Chúng ta đã tính ở phần một:
+
+75
+00:05:21,618 --> 00:05:27,000
+não 1 điểm, hô hấp 3 điểm vì pê a ô hai trên ép i ô hai 140 khi đang thở oxy dòng cao.
+
+76
+00:05:27,200 --> 00:05:32,138
+Tim mạch 4 điểm vì norepinephrine 0,3 kèm vasopressin; thận 1 điểm;
+
+77
+00:05:31,988 --> 00:05:34,710
+tiểu cầu 95 được 2 điểm; gan 0 điểm.
+
+78
+00:05:34,910 --> 00:05:39,159
+Tổng cộng 11 điểm. Và vì cần vận mạch để giữ huyết áp trung bình 65,
+
+79
+00:05:39,009 --> 00:05:41,872
+với lactate vẫn trên 2 sau khi đã bù đủ dịch,
+
+80
+00:05:41,722 --> 00:05:45,428
+người bệnh đạt đủ tiêu chuẩn sốc nhiễm khuẩn theo Sepsis-3,
+
+81
+00:05:45,278 --> 00:05:48,020
+nhóm có tử vong nội viện trên 40 phần trăm.
+
+82
+00:05:49,470 --> 00:05:52,459
+Hãy xem diễn tiến. Trong giờ đầu: cấy máu, kháng sinh,
+
+83
+00:05:52,309 --> 00:05:55,140
+dịch tinh thể và norepinephrine qua đường ngoại vi.
+
+84
+00:05:55,340 --> 00:05:59,078
+Từ giờ thứ 3 đến 6: thêm vasopressin, hydrocortisone,
+
+85
+00:05:58,928 --> 00:06:03,410
+và hỗ trợ oxy dòng cao. Lactate giảm dần, tưới máu da cải thiện.
+
+86
+00:06:03,610 --> 00:06:06,277
+Ngày thứ 2, cấy máu mọc phế cầu nhạy kháng sinh,
+
+87
+00:06:06,127 --> 00:06:08,480
+và kháng sinh được xuống thang về phổ hẹp.
+
+88
+00:06:08,680 --> 00:06:13,230
+Ngày thứ 3 đến 4, người bệnh cai được vận mạch. Khi đã qua giai đoạn hồi sức,
+
+89
+00:06:13,080 --> 00:06:15,916
+dịch dư được rút chủ động. Và trong 72 giờ đầu,
+
+90
+00:06:15,766 --> 00:06:19,630
+bác sĩ đã thảo luận mục tiêu điều trị và tiên lượng với gia đình.
+
+91
+00:06:19,830 --> 00:06:23,447
+Ngày thứ 7, người bệnh ra hồi sức, với thời gian kháng sinh ngắn,
+
+92
+00:06:23,297 --> 00:06:27,500
+có thể hướng dẫn bằng procalcitonin để ngừng, và bắt đầu phục hồi chức năng.
+
+93
+00:06:28,950 --> 00:06:33,235
+Đây là hình ảnh nhuộm Gram của phế cầu, những song cầu khuẩn Gram dương hình ngọn nến,
+
+94
+00:06:33,085 --> 00:06:37,130
+tác nhân hàng đầu của viêm phổi cộng đồng. Nhờ cấy máu được lấy trước kháng sinh,
+
+95
+00:06:36,980 --> 00:06:38,380
+tác nhân đã được xác định.
+
+96
+00:06:38,580 --> 00:06:41,927
+Khi có kháng sinh đồ, kháng sinh được xuống thang về phổ hẹp,
+
+97
+00:06:41,777 --> 00:06:44,810
+giảm áp lực chọn lọc vi khuẩn đa kháng và tác dụng phụ.
+
+98
+00:06:45,010 --> 00:06:46,531
+Nhớ lại con số ở phần ba:
+
+99
+00:06:46,381 --> 00:06:50,646
+chỉ khoảng hai phần ba người bệnh xác định được tác nhân. Lấy mẫu đúng lúc,
+
+100
+00:06:50,496 --> 00:06:54,760
+trước kháng sinh, là bước nhỏ nhưng quyết định khả năng xuống thang về sau.
+
+101
+00:06:56,210 --> 00:06:59,674
+Năm bài học từ ca bệnh. Một, qSOFA và NEWS2 giúp báo động,
+
+102
+00:06:59,524 --> 00:07:03,560
+nhưng chẩn đoán dựa trên rối loạn chức năng cơ quan, đo bằng SOFA-2.
+
+103
+00:07:03,760 --> 00:07:08,470
+Hai, phân mức chắc chắn để quyết định giờ dùng kháng sinh, và luôn lấy cấy máu trước.
+
+104
+00:07:08,670 --> 00:07:08,982
+Ba,
+
+105
+00:07:08,832 --> 00:07:14,260
+dùng bốn câu hỏi cùng siêu âm tại giường để loại trừ các loại sốc khác và nhận ra cơ chế phối hợp.
+
+106
+00:07:14,460 --> 00:07:18,370
+Bốn, bắt đầu norepinephrine sớm qua đường ngoại vi khi sốc không ổn định.
+
+107
+00:07:18,570 --> 00:07:21,903
+Năm, theo dõi lactate theo mức giảm, truyền dịch theo đáp ứng,
+
+108
+00:07:21,753 --> 00:07:24,880
+và rút dịch khi đã qua giai đoạn cấp, vì mao mạch đang rò.
+
+109
+00:07:26,330 --> 00:07:26,890
+Bây giờ,
+
+110
+00:07:26,740 --> 00:07:31,142
+hãy nhìn rộng hơn ca bệnh. Vì sao rất nhiều thử nghiệm trong nhiễm khuẩn huyết thất
+
+111
+00:07:30,992 --> 00:07:35,803
+bại? Một lý do là người bệnh quá khác nhau. Kiểu hình là nhóm người bệnh có chung đặc điểm,
+
+112
+00:07:35,653 --> 00:07:39,440
+chưa chắc chung cơ chế; nội kiểu hình là nhóm có cơ chế sinh học riêng.
+
+113
+00:07:39,640 --> 00:07:44,091
+Một nghiên cứu mốc đã tìm ra bốn kiểu hình lâm sàng chỉ từ dữ liệu lâm sàng và xét
+
+114
+00:07:43,941 --> 00:07:45,875
+nghiệm thường quy lúc vào cấp cứu,
+
+115
+00:07:45,725 --> 00:07:50,910
+và việc phân bố các kiểu hình này làm thay đổi kết quả của các thử nghiệm trên mô hình mô phỏng.
+
+116
+00:07:51,110 --> 00:07:53,292
+Theo biểu hiện gen bạch cầu,
+
+117
+00:07:53,142 --> 00:07:59,317
+có hai nội kiểu hình SRS1 và SRS2. SRS1 mang dấu ấn ức chế miễn dịch và tử vong cao
+
+118
+00:07:59,167 --> 00:08:03,237
+hơn. Khi phân tích lại một thử nghiệm sốc nhiễm khuẩn,
+
+119
+00:08:03,087 --> 00:08:07,810
+corticoid có vẻ có hại ở nhóm SRS2 và không có tác dụng ở SRS1.
+
+120
+00:08:08,010 --> 00:08:13,459
+Các kiểu hình dựa trên protein huyết tương cũng đáp ứng khác nhau với corticoid hay protein C hoạt hoá,
+
+121
+00:08:13,309 --> 00:08:17,781
+và có một nhóm nhỏ giống hội chứng hoạt hoá đại thực bào, tăng viêm cực độ. Tuy vậy,
+
+122
+00:08:17,631 --> 00:08:20,817
+các cách phân nhóm còn chưa thống nhất giữa các nghiên cứu,
+
+123
+00:08:20,667 --> 00:08:22,360
+nên chưa dùng được tại giường.
+
+124
+00:08:23,810 --> 00:08:30,111
+Một bài học nữa về bối cảnh. Thử nghiệm SSSP-2 tại Zambia áp dụng một gói hồi sức 6 giờ sớm,
+
+125
+00:08:29,961 --> 00:08:33,320
+làm lượng dịch trung vị tăng từ 2,0 lên 3,5 lít.
+
+126
+00:08:33,520 --> 00:08:37,465
+Kết quả là tử vong nội viện tăng từ 33,0 lên 48,1 phần trăm,
+
+127
+00:08:37,315 --> 00:08:41,322
+với P bằng 0,03. Ở nơi thiếu máy thở và phương tiện theo dõi,
+
+128
+00:08:41,172 --> 00:08:43,030
+bù dịch lớn có thể gây hại.
+
+129
+00:08:43,230 --> 00:08:46,820
+Phần lớn thử nghiệm về nhiễm khuẩn huyết được thực hiện ở các nước giàu.
+
+130
+00:08:47,020 --> 00:08:50,268
+Vì vậy, khi áp dụng khuyến cáo tại các bệnh viện ở Việt Nam,
+
+131
+00:08:50,118 --> 00:08:54,450
+chúng ta cần tính đến nguồn lực tại chỗ: khả năng thở máy, theo dõi, và nhân lực.
+
+132
+00:08:55,900 --> 00:08:58,382
+Và những câu hỏi còn bỏ ngỏ. Về chẩn đoán,
+
+133
+00:08:58,232 --> 00:09:01,824
+đến nay chưa có định nghĩa chính xác cho đáp ứng mất điều hoà,
+
+134
+00:09:01,674 --> 00:09:06,433
+và chưa có xét nghiệm xác nhận. Tới một phần ba người được điều trị như nhiễm khuẩn
+
+135
+00:09:06,283 --> 00:09:11,041
+huyết do vi khuẩn hoá ra không nhiễm khuẩn. Surviving Sepsis Campaign 2026 cũng cho
+
+136
+00:09:10,891 --> 00:09:14,650
+rằng chưa đủ bằng chứng cho các xét nghiệm đáp ứng vật chủ nhanh.
+
+137
+00:09:14,850 --> 00:09:15,836
+Về vận mạch,
+
+138
+00:09:15,686 --> 00:09:21,900
+thêm vasopressin khi nào? Thử nghiệm VASSPR năm 2026 không thấy lợi ích khi bắt đầu sớm
+
+139
+00:09:21,750 --> 00:09:26,360
+ở ngưỡng norepinephrine 0,1 so với 0,4 microgam mỗi ký mỗi phút.
+
+140
+00:09:26,560 --> 00:09:30,829
+Về corticoid, kết quả của ADRENAL và APROCCHSS chưa hoàn toàn thống nhất;
+
+141
+00:09:30,679 --> 00:09:34,327
+có thêm fludrocortisone không, và bắt đầu ở liều vận mạch nào,
+
+142
+00:09:34,177 --> 00:09:37,430
+chính nhóm soạn hướng dẫn cũng thực hành rất khác nhau.
+
+143
+00:09:37,630 --> 00:09:39,277
+Về điều hoà miễn dịch,
+
+144
+00:09:39,127 --> 00:09:44,448
+lọc máu hấp phụ polymyxin B trong thử nghiệm Tigris cho xác suất có lợi cao,
+
+145
+00:09:44,298 --> 00:09:47,986
+nhưng mức lợi ích nhỏ và phụ thuộc giả định ban đầu,
+
+146
+00:09:47,836 --> 00:09:53,769
+nên Surviving Sepsis Campaign 2026 vẫn khuyến cáo không dùng; còn IL-7 và kháng PD-1,
+
+147
+00:09:53,619 --> 00:09:58,260
+PD-L1 làm tăng HLA-DR nhưng chưa chứng minh được lợi ích lâm sàng.
+
+148
+00:09:59,710 --> 00:10:04,159
+Cuối cùng, sống sót chưa phải là hồi phục. Theo Meyer, ở người cao tuổi,
+
+149
+00:10:04,009 --> 00:10:09,173
+tỷ lệ suy giảm nhận thức vừa đến nặng tăng từ 6,1 phần trăm trước nhập viện lên 16,7
+
+150
+00:10:09,023 --> 00:10:11,860
+phần trăm sau nhập viện vì nhiễm khuẩn huyết.
+
+151
+00:10:12,060 --> 00:10:15,713
+Tại Na Uy, trong 12.260 người sống sót từng đi làm,
+
+152
+00:10:15,563 --> 00:10:18,530
+40 phần trăm chưa đi làm lại sau 6 tháng.
+
+153
+00:10:18,730 --> 00:10:23,822
+Hai phần ba người sống sót vẫn còn hoạt hoá kéo dài các chỉ dấu viêm và ức chế miễn dịch,
+
+154
+00:10:23,672 --> 00:10:28,320
+liên quan với tăng tử vong mọi nguyên nhân, đúng như cơ chế ta đã học ở phần hai.
+
+155
+00:10:28,520 --> 00:10:33,390
+Ở trẻ em bị sốc nhiễm khuẩn, 35 phần trăm chưa lấy lại chất lượng sống nền sau 1 năm.
+
+156
+00:10:33,590 --> 00:10:34,132
+Vì vậy,
+
+157
+00:10:33,982 --> 00:10:38,943
+Surviving Sepsis Campaign 2026 dành hẳn một nhóm khuyến cáo cho giai đoạn chuyển tiếp:
+
+158
+00:10:38,793 --> 00:10:41,461
+chương trình chuyển tiếp khi ra khỏi hồi sức,
+
+159
+00:10:41,311 --> 00:10:45,433
+ghi thông tin về nhiễm khuẩn huyết trong tóm tắt ra viện, hẹn tái khám,
+
+160
+00:10:45,283 --> 00:10:50,300
+phục hồi chức năng thể chất cho người thở máy trên 48 giờ, và hỗ trợ sức khoẻ tâm thần.
+
+161
+00:10:51,750 --> 00:10:54,374
+Xin khép lại loạt bài bằng bảy thông điệp. Một,
+
+162
+00:10:54,224 --> 00:10:59,900
+nhiễm khuẩn huyết là rối loạn chức năng cơ quan đe doạ tính mạng do đáp ứng mất điều hoà với nhiễm khuẩn.
+
+163
+00:11:00,100 --> 00:11:04,638
+Hai, dùng đúng công cụ cho đúng việc: SOFA-2 để đo, qSOFA để báo động,
+
+164
+00:11:04,488 --> 00:11:06,330
+NEWS2 hay MEWS để sàng lọc.
+
+165
+00:11:06,530 --> 00:11:11,603
+Ba, tăng viêm và ức chế miễn dịch diễn ra song song, với vòng xoắn DAMP,
+
+166
+00:11:11,453 --> 00:11:14,680
+miễn dịch huyết khối và glycocalyx bị phá vỡ.
+
+167
+00:11:14,880 --> 00:11:18,526
+Bốn, sốc nhiễm khuẩn là giãn mạch, bệnh cơ tim và rò mao mạch,
+
+168
+00:11:18,376 --> 00:11:21,910
+nên dịch phải có mục tiêu và lactate theo dõi theo mức giảm.
+
+169
+00:11:22,110 --> 00:11:24,614
+Năm, tìm ổ nhiễm, cấy máu trước kháng sinh;
+
+170
+00:11:24,464 --> 00:11:27,460
+kháng sinh cùng kiểm soát ổ là điều trị nguyên nhân.
+
+171
+00:11:27,660 --> 00:11:31,090
+Sáu, sốt kèm tụt huyết áp chưa chắc là nhiễm khuẩn huyết.
+
+172
+00:11:31,290 --> 00:11:33,680
+Và bảy, sống sót chưa phải là hồi phục.
+
+173
+00:11:33,880 --> 00:11:37,150
+Cảm ơn quý đồng nghiệp đã đồng hành cùng bốn phần của loạt bài.
+
+174
+00:11:37,350 --> 00:11:39,175
+Phần điều trị chi tiết,
+
+175
+00:11:39,025 --> 00:11:43,980
+mời quý vị xem tiếp loạt Surviving Sepsis Campaign 2026 trên kênh.
+
+176
+00:11:44,180 --> 00:11:46,730
+Hẹn gặp lại trên Thư Viện Y Khoa Online.

@@ -1,0 +1,991 @@
+1
+00:00:04,900 --> 00:00:08,288
+Thưa quý đồng nghiệp, sau khi đi vào bên trong cơ thể ở phần hai,
+
+2
+00:00:08,138 --> 00:00:10,330
+phần ba đưa chúng ta trở lại giường bệnh.
+
+3
+00:00:10,530 --> 00:00:12,895
+Chúng ta sẽ trả lời năm câu hỏi thực hành:
+
+4
+00:00:12,745 --> 00:00:15,636
+ổ nhiễm thường ở đâu và trông thế nào trên hình ảnh;
+
+5
+00:00:15,486 --> 00:00:19,169
+người bệnh nhiễm khuẩn huyết biểu hiện ra sao và cần xét nghiệm gì;
+
+6
+00:00:19,019 --> 00:00:23,809
+huyết động của sốc nhiễm khuẩn và ý nghĩa thật của lactate; các cơ quan suy như thế nào;
+
+7
+00:00:23,659 --> 00:00:26,920
+và làm sao phân biệt sốc nhiễm khuẩn với các loại sốc khác.
+
+8
+00:00:27,120 --> 00:00:27,879
+Cuối phần,
+
+9
+00:00:27,729 --> 00:00:34,150
+chúng ta sẽ đặt định nghĩa hiện hành cạnh hướng dẫn trong nước năm 2015 để thấy những điểm đã thay đổi.
+
+10
+00:00:35,600 --> 00:00:40,722
+Bắt đầu từ ổ nhiễm. Theo tổng quan của Meyer năm 2024, hô hấp là ổ hay gặp nhất,
+
+11
+00:00:40,572 --> 00:00:43,830
+chiếm 40 đến 60 phần trăm số ca nhiễm khuẩn huyết.
+
+12
+00:00:44,030 --> 00:00:48,740
+Tiếp theo là ổ bụng và đường tiết niệu sinh dục, mỗi nhóm 15 đến 30 phần trăm.
+
+13
+00:00:48,940 --> 00:00:52,877
+Theo Mandell, ở người lớn tại các nước thu nhập cao, bốn ổ phổi, ổ bụng,
+
+14
+00:00:52,727 --> 00:00:57,191
+tiết niệu và da mô mềm chiếm 80 đến 90 phần trăm. Khoảng 6 phần trăm có hơn một ổ,
+
+15
+00:00:57,041 --> 00:01:00,610
+và ở những nơi nghèo nguồn lực, tiêu chảy là nguyên nhân nổi bật.
+
+16
+00:01:00,810 --> 00:01:02,992
+Nhưng có hai con số khiêm tốn cần nhớ:
+
+17
+00:01:02,842 --> 00:01:05,880
+khoảng một phần sáu người bệnh không tìm được ổ nhiễm,
+
+18
+00:01:05,730 --> 00:01:11,389
+và tác nhân vi sinh chỉ xác định được ở khoảng hai phần ba. Vi khuẩn Gram dương và Gram âm chiếm đa số,
+
+19
+00:01:11,239 --> 00:01:16,095
+sau đó là nấm và virus. Bệnh nền hay gặp gồm bệnh phổi tắc nghẽn mạn tính, ung thư, HIV,
+
+20
+00:01:15,945 --> 00:01:19,090
+bệnh gan, bệnh thận mạn, đái tháo đường và bệnh tự miễn.
+
+21
+00:01:20,540 --> 00:01:26,290
+Đây là hình ảnh của ổ nhiễm hay gặp nhất. Phim X-quang ngực cho thấy đám mờ đông đặc ở thuỳ giữa phổi phải.
+
+22
+00:01:26,490 --> 00:01:31,392
+Mandell khuyên chụp hình ảnh sớm để xác định ổ nhiễm: X-quang ngực, chụp cắt lớp xoang,
+
+23
+00:01:31,242 --> 00:01:34,560
+phổi, gan, ổ bụng tuỳ bệnh cảnh, và siêu âm túi mật, thận.
+
+24
+00:01:34,760 --> 00:01:40,217
+Bên phải là một đoạn siêu âm phổi tại giường. Vùng phổi đông đặc mất khí nên sóng siêu âm đi qua được,
+
+25
+00:01:40,067 --> 00:01:43,390
+nhu mô phổi hiện lên đặc như mô gan, gọi là hình ảnh gan hoá.
+
+26
+00:01:43,590 --> 00:01:47,869
+Siêu âm tại giường có lợi thế lớn trong hồi sức: cùng một đầu dò, trong vài phút,
+
+27
+00:01:47,719 --> 00:01:51,590
+ta vừa tìm ổ nhiễm ở phổi, túi mật, thận, vừa đánh giá tim và huyết động,
+
+28
+00:01:51,440 --> 00:01:54,700
+điều sẽ rất quan trọng khi phân biệt các loại sốc ở cuối bài.
+
+29
+00:01:56,150 --> 00:01:56,919
+Ngoài phổi,
+
+30
+00:01:56,769 --> 00:02:01,588
+quý vị cần chủ động tìm các ổ nhiễm có thể dẫn lưu hoặc can thiệp. Bên trái là phim
+
+31
+00:02:01,438 --> 00:02:04,232
+chụp cắt lớp ổ bụng với một vùng áp xe gan lớn,
+
+32
+00:02:04,082 --> 00:02:05,020
+giảm tỷ trọng.
+
+33
+00:02:05,220 --> 00:02:08,896
+Ở giữa là viêm thận bể thận trên phim chụp cắt lớp có cản quang,
+
+34
+00:02:08,746 --> 00:02:11,210
+với vùng giảm tưới máu ở nhu mô thận trái.
+
+35
+00:02:11,410 --> 00:02:14,626
+Bên phải là viêm mô tế bào cẳng chân: đỏ, nề, giới hạn rõ,
+
+36
+00:02:14,476 --> 00:02:17,480
+mà người khám đã vẽ đường viền để theo dõi tiến triển.
+
+37
+00:02:17,680 --> 00:02:22,857
+Vì sao phải tìm kỹ như vậy? Surviving Sepsis Campaign 2026 khuyên nhanh chóng tìm ổ
+
+38
+00:02:22,707 --> 00:02:24,371
+nhiễm cần kiểm soát khẩn,
+
+39
+00:02:24,221 --> 00:02:25,522
+và kiểm soát ổ sớm,
+
+40
+00:02:25,372 --> 00:02:30,670
+lý tưởng trong vòng 6 giờ. Kháng sinh không thể thay thế việc dẫn lưu một ổ áp xe hay
+
+41
+00:02:30,520 --> 00:02:32,790
+giải phóng một đường mật tắc nghẽn.
+
+42
+00:02:34,240 --> 00:02:35,023
+Về lâm sàng,
+
+43
+00:02:34,873 --> 00:02:40,561
+Mandell nhấn mạnh biểu hiện của nhiễm khuẩn huyết thay đổi và không đặc hiệu. Các dấu hiệu chung gồm sốt,
+
+44
+00:02:40,411 --> 00:02:45,150
+nhịp tim nhanh, thở nhanh và thay đổi ý thức, nhưng mức độ phụ thuộc ổ nhiễm, tác nhân,
+
+45
+00:02:45,000 --> 00:02:49,000
+loại và mức suy cơ quan, thuốc đang dùng, bệnh nền và thời gian đến viện.
+
+46
+00:02:49,200 --> 00:02:54,703
+Phù rõ hoặc cân bằng dịch dương trên 20 mi li lít mỗi ký trong 24 giờ cũng là một dấu hiệu,
+
+47
+00:02:54,553 --> 00:02:57,350
+phản ánh rò mao mạch mà ta đã bàn ở phần hai.
+
+48
+00:02:57,550 --> 00:03:00,259
+Hạ thân nhiệt gặp ở 9 đến 35 phần trăm người bệnh,
+
+49
+00:03:00,109 --> 00:03:04,609
+và là dấu hiệu tiên lượng xấu. Một người bệnh nhiễm khuẩn lạnh run và thân nhiệt thấp
+
+50
+00:03:04,459 --> 00:03:05,940
+đáng lo hơn người sốt cao.
+
+51
+00:03:06,140 --> 00:03:11,003
+Có ba cái bẫy cần nhớ. Thứ nhất, thuốc che dấu hiệu: chẹn beta che nhịp tim nhanh,
+
+52
+00:03:10,853 --> 00:03:12,210
+thuốc hạ sốt che sốt.
+
+53
+00:03:12,410 --> 00:03:16,192
+Thứ hai, nhiễm khuẩn huyết có thể khoác áo một đợt mất bù bệnh mạn,
+
+54
+00:03:16,042 --> 00:03:19,120
+như nhiễm toan ceton đái tháo đường hay xơ gan mất bù.
+
+55
+00:03:19,320 --> 00:03:22,952
+Thứ ba, theo Meyer, việc không có thay đổi ý thức, không tụt huyết áp,
+
+56
+00:03:22,802 --> 00:03:25,390
+không thở nhanh không loại trừ nhiễm khuẩn huyết.
+
+57
+00:03:26,840 --> 00:03:31,287
+Một trong những công cụ đánh giá tưới máu đơn giản nhất nằm ngay trên da người bệnh.
+
+58
+00:03:31,137 --> 00:03:34,715
+Hình bên trái là cẳng chân của một người bệnh sốc nhiễm khuẩn nặng:
+
+59
+00:03:34,565 --> 00:03:38,910
+da loang lổ những mảng tím xen vàng nhạt, với các vùng thiếu máu do vi huyết khối.
+
+60
+00:03:39,110 --> 00:03:42,340
+Da nổi bông và đầu chi lạnh là dấu hiệu giảm tưới máu mô,
+
+61
+00:03:42,190 --> 00:03:44,124
+gợi ý vi tuần hoàn đang thất bại,
+
+62
+00:03:43,974 --> 00:03:47,420
+dù huyết áp trung bình có thể đã được nâng lên bằng vận mạch.
+
+63
+00:03:47,620 --> 00:03:50,333
+Bên phải là cách đo thời gian đổ đầy mao mạch:
+
+64
+00:03:50,183 --> 00:03:53,732
+ấn lên đầu ngón tay hoặc ngón chân cho tới khi trắng, thả ra,
+
+65
+00:03:53,582 --> 00:03:55,850
+rồi đếm thời gian để màu hồng trở lại.
+
+66
+00:03:56,050 --> 00:04:01,772
+Surviving Sepsis Campaign 2026 gợi ý dùng thời gian đổ đầy mao mạch để hướng dẫn hồi sức,
+
+67
+00:04:01,622 --> 00:04:04,840
+bổ sung cho các chỉ số tưới máu khác như lactate.
+
+68
+00:04:05,040 --> 00:04:11,234
+Thử nghiệm ANDROMEDA-SHOCK-2 năm 2025 trên 1.467 người bệnh cho thấy hồi sức cá thể hoá
+
+69
+00:04:11,084 --> 00:04:16,445
+theo thời gian đổ đầy mao mạch trong 6 giờ đầu có kết cục phân cấp tốt hơn,
+
+70
+00:04:16,295 --> 00:04:21,030
+với win ratio 1,16, chủ yếu nhờ rút ngắn thời gian hỗ trợ cơ quan,
+
+71
+00:04:20,880 --> 00:04:23,670
+không phải nhờ giảm tử vong đơn thuần.
+
+72
+00:04:25,120 --> 00:04:26,128
+Về cận lâm sàng,
+
+73
+00:04:25,978 --> 00:04:30,635
+Mandell khuyên mọi người bệnh nghi nhiễm khuẩn huyết cần có công thức máu, sinh hoá,
+
+74
+00:04:30,485 --> 00:04:31,439
+chức năng thận,
+
+75
+00:04:31,289 --> 00:04:35,516
+gan và đông máu. Dấu hiệu viêm gồm bạch cầu trên 12 nghìn hoặc dưới 4 nghìn,
+
+76
+00:04:35,366 --> 00:04:38,413
+hoặc bình thường nhưng trên 10 phần trăm bạch cầu non,
+
+77
+00:04:38,263 --> 00:04:41,310
+cùng CRP và procalcitonin tăng trên hai độ lệch chuẩn.
+
+78
+00:04:41,510 --> 00:04:45,460
+Về thận, creatinin tăng trên 0,5 mi li gam mỗi đề xi lít,
+
+79
+00:04:45,310 --> 00:04:51,327
+hoặc nước tiểu dưới 0,5 mi li lít mỗi ký mỗi giờ ít nhất 2 giờ dù đã bù đủ dịch. Về gan,
+
+80
+00:04:51,177 --> 00:04:52,460
+bilirubin trên 4.
+
+81
+00:04:52,660 --> 00:04:57,829
+Về đông máu, tiểu cầu dưới 100 nghìn, INR trên 1,5 hoặc aPTT trên 60 giây;
+
+82
+00:04:57,679 --> 00:05:02,170
+fibrinogen thấp và D-dimer tăng gợi ý đông máu nội mạch lan toả.
+
+83
+00:05:02,370 --> 00:05:06,778
+Về chuyển hoá, lactate tăng báo giảm tưới máu và càng cao tiên lượng càng xấu;
+
+84
+00:05:06,628 --> 00:05:09,670
+khí máu thường là toan chuyển hoá kèm kiềm hô hấp bù;
+
+85
+00:05:09,520 --> 00:05:13,055
+có thể tăng đường huyết trên 140 ở người không đái tháo đường,
+
+86
+00:05:12,905 --> 00:05:16,766
+và albumin thấp. Xin nhớ hai điều từ Surviving Sepsis Campaign 2026:
+
+87
+00:05:16,616 --> 00:05:18,950
+nhiễm khuẩn huyết là chẩn đoán lâm sàng,
+
+88
+00:05:18,800 --> 00:05:22,061
+không khẳng định hay loại trừ bằng một xét nghiệm đơn lẻ;
+
+89
+00:05:21,911 --> 00:05:26,100
+và procalcitonin không dùng để quyết định có bắt đầu kháng sinh hay không.
+
+90
+00:05:27,550 --> 00:05:33,867
+Cấy máu là xét nghiệm then chốt để tìm tác nhân. Surviving Sepsis Campaign 2026 đưa ra khuyến cáo mạnh,
+
+91
+00:05:33,717 --> 00:05:35,962
+mới: lấy cấy máu càng sớm càng tốt,
+
+92
+00:05:35,812 --> 00:05:40,931
+lý tưởng là trước khi dùng kháng sinh. Bên trái là chai cấy máu không mọc vi khuẩn,
+
+93
+00:05:40,781 --> 00:05:41,590
+dịch trong.
+
+94
+00:05:41,790 --> 00:05:43,593
+Ở giữa là chai đã mọc vi khuẩn,
+
+95
+00:05:43,443 --> 00:05:47,860
+dịch đục. Các máy cấy máu tự động phát hiện sự phát triển này và báo dương tính.
+
+96
+00:05:48,060 --> 00:05:49,500
+Ngay khi chai dương tính,
+
+97
+00:05:49,350 --> 00:05:53,884
+phòng xét nghiệm nhuộm Gram một giọt dịch cấy. Ở đây là các cầu khuẩn Gram dương. Kết
+
+98
+00:05:53,734 --> 00:05:55,587
+quả nhuộm Gram cho thông tin sớm,
+
+99
+00:05:55,437 --> 00:05:57,650
+trước khi có định danh và kháng sinh đồ.
+
+100
+00:05:57,850 --> 00:06:01,024
+Về kỹ thuật, theo Mandell, luôn lấy 2 bộ cấy máu,
+
+101
+00:06:00,874 --> 00:06:06,208
+mỗi bộ gồm chai hiếu khí và chai kỵ khí. Nếu người bệnh có catheter lưu trên 48 giờ,
+
+102
+00:06:06,058 --> 00:06:08,059
+lấy ít nhất 1 bộ qua catheter,
+
+103
+00:06:07,909 --> 00:06:13,428
+cùng lúc với máu ngoại vi. Cấy thêm các bệnh phẩm khác theo ổ nghi ngờ: nước tiểu, đờm,
+
+104
+00:06:13,278 --> 00:06:15,650
+vết thương, dịch não tuỷ, dịch khớp.
+
+105
+00:06:15,850 --> 00:06:20,885
+Các kỹ thuật nhanh như khối phổ MALDI-TOF và PCR rút ngắn thời gian định danh;
+
+106
+00:06:20,735 --> 00:06:26,960
+Surviving Sepsis Campaign 2026 gợi ý dùng xét nghiệm nhanh đặc hiệu tác nhân tuỳ từng trường hợp.
+
+107
+00:06:28,410 --> 00:06:32,689
+Bây giờ đến huyết động. Sốc nhiễm khuẩn có hai thành phần. Thứ nhất là giãn mạch:
+
+108
+00:06:32,539 --> 00:06:35,849
+sức cản mạch hệ thống giảm, thể tích tuần hoàn giảm tương đối,
+
+109
+00:06:35,699 --> 00:06:38,499
+hồi lưu tĩnh mạch giảm. Trên lâm sàng, hiệu áp rộng,
+
+110
+00:06:38,349 --> 00:06:40,640
+huyết áp tâm trương thấp và chi thường ấm.
+
+111
+00:06:40,840 --> 00:06:45,160
+Thứ hai là rối loạn chức năng cơ tim, gọi là bệnh cơ tim nhiễm khuẩn. Theo Mandell,
+
+112
+00:06:45,010 --> 00:06:49,079
+phân suất tống máu thất trái và thất phải giảm, thể tích cuối tâm trương tăng,
+
+113
+00:06:48,929 --> 00:06:53,501
+trong khi nhịp tim và cung lượng tim lại tăng. Đáng chú ý, nó không do thiếu máu cơ tim,
+
+114
+00:06:53,351 --> 00:06:55,410
+và thường không cần thuốc tăng co bóp.
+
+115
+00:06:55,610 --> 00:06:59,965
+Cơ chế là các chất trung gian viêm tác động lên tế bào cơ tim và vi tuần hoàn:
+
+116
+00:06:59,815 --> 00:07:03,469
+rối loạn cân bằng canxi, rối loạn ty thể, chết theo chương trình,
+
+117
+00:07:03,319 --> 00:07:08,159
+các chất ức chế tim lưu hành và nitric oxide. Tử thiết hiếm thấy hoại tử tế bào cơ tim,
+
+118
+00:07:08,009 --> 00:07:12,580
+nhưng tổn thương ty thể khu trú gặp ở nhiều tế bào, phù hợp với khả năng hồi phục.
+
+119
+00:07:12,780 --> 00:07:14,511
+Và đây là cái bẫy, theo Hall:
+
+120
+00:07:14,361 --> 00:07:19,144
+cung lượng tim cao không có nghĩa là tim khoẻ. Cung lượng tim có thể tăng ngay cả khi
+
+121
+00:07:18,994 --> 00:07:21,652
+co bóp giảm. Người sống sót có thất trái giãn,
+
+122
+00:07:21,502 --> 00:07:24,704
+thể tích cuối tâm trương lớn giúp giữ thể tích nhát bóp;
+
+123
+00:07:24,554 --> 00:07:27,430
+còn người tử vong thường có thất cứng, đổ đầy kém.
+
+124
+00:07:28,880 --> 00:07:32,335
+Lactate là xét nghiệm được nhắc nhiều nhất trong nhiễm khuẩn huyết,
+
+125
+00:07:32,185 --> 00:07:35,294
+nhưng cũng hay bị hiểu sai. Nguồn thứ nhất, quen thuộc nhất,
+
+126
+00:07:35,144 --> 00:07:38,550
+là giảm tưới máu toàn thân do tụt huyết áp và giảm cung lượng tim.
+
+127
+00:07:38,750 --> 00:07:42,758
+Nguồn thứ hai là rối loạn vi tuần hoàn và ty thể: mô vẫn thiếu oxy,
+
+128
+00:07:42,608 --> 00:07:46,500
+hoặc không dùng được oxy, dù huyết áp trung bình đã đạt mục tiêu.
+
+129
+00:07:46,700 --> 00:07:49,004
+Nguồn thứ ba không liên quan thiếu oxy:
+
+130
+00:07:48,854 --> 00:07:52,318
+epinephrine liều cao và albuterol kích thích thụ thể beta 2,
+
+131
+00:07:52,168 --> 00:07:57,123
+làm tăng tốc đường phân và sinh lactate có nguồn gốc hiếu khí. Một người bệnh đang dùng
+
+132
+00:07:56,973 --> 00:08:00,050
+epinephrine có lactate tăng chưa chắc là đang xấu đi.
+
+133
+00:08:00,250 --> 00:08:03,323
+Vì vậy Surviving Sepsis Campaign 2026 viết rõ:
+
+134
+00:08:03,173 --> 00:08:07,009
+lactate là chỉ dấu của thiếu oxy và rối loạn chức năng mô,
+
+135
+00:08:06,859 --> 00:08:09,360
+nhưng không đo trực tiếp tưới máu mô.
+
+136
+00:08:09,560 --> 00:08:13,949
+Cách dùng đúng là đo lặp lại, và cá thể hoá hồi sức theo mức giảm của lactate;
+
+137
+00:08:13,799 --> 00:08:16,830
+không truyền dịch cho tới khi lactate về bình thường.
+
+138
+00:08:17,030 --> 00:08:21,410
+Dù vậy, giá trị tiên lượng của lactate rất rõ: ở người bệnh đã cần vận mạch,
+
+139
+00:08:21,260 --> 00:08:26,140
+lactate trên 4 đi kèm tử vong gần một nửa, 49,7 phần trăm, như ta đã thấy ở phần một.
+
+140
+00:08:27,590 --> 00:08:30,634
+Rối loạn chức năng cơ quan là trung tâm của định nghĩa,
+
+141
+00:08:30,484 --> 00:08:32,738
+nên cần hiểu từng cơ quan. Theo Mandell,
+
+142
+00:08:32,588 --> 00:08:35,316
+hô hấp và tim mạch hay bị ảnh hưởng nhất. Ở phổi,
+
+143
+00:08:35,166 --> 00:08:39,262
+hội chứng suy hô hấp cấp tiến triển là tổn thương lan toả biểu mô phế nang,
+
+144
+00:08:39,112 --> 00:08:43,576
+tăng tính thấm, dịch giàu protein tràn vào mô kẽ và phế nang, gây shunt phải trái,
+
+145
+00:08:43,426 --> 00:08:45,470
+tăng khoảng chết và giảm độ giãn nở.
+
+146
+00:08:45,670 --> 00:08:49,094
+Ở thận, tử thiết cho thấy tổn thương ống thận cấp khu trú,
+
+147
+00:08:48,944 --> 00:08:52,762
+cầu thận ít bị ảnh hưởng. Cơ chế gồm giảm thể tích, tụt huyết áp,
+
+148
+00:08:52,612 --> 00:08:57,842
+co mạch thận và các thuốc độc thận như aminoglycoside hay thuốc cản quang. Đa số hồi phục,
+
+149
+00:08:57,692 --> 00:09:02,470
+nhưng ngay cả một mức tăng creatinin cấp nhỏ cũng liên quan giảm sống còn dài hạn.
+
+150
+00:09:02,670 --> 00:09:06,153
+Ở não, bệnh não do nhiễm khuẩn huyết, với mê sảng hoặc hôn mê,
+
+151
+00:09:06,003 --> 00:09:10,184
+gặp ở tới 50 phần trăm người bệnh khi vào hồi sức. Đây là rối loạn lan toả,
+
+152
+00:09:10,034 --> 00:09:13,140
+không do nhiễm khuẩn trực tiếp hệ thần kinh trung ương,
+
+153
+00:09:12,990 --> 00:09:15,613
+và có thể để lại di chứng nhận thức nhiều năm,
+
+154
+00:09:15,463 --> 00:09:18,300
+kèm bệnh đa dây thần kinh và bệnh cơ do bệnh nặng.
+
+155
+00:09:18,500 --> 00:09:22,273
+Ở gan, biểu hiện thường gặp là vàng da ứ mật; gan sốc thì hiếm,
+
+156
+00:09:22,123 --> 00:09:26,355
+chỉ khi sốc kéo dài. Ruột bị tổn thương biểu mô gây chuyển vị vi khuẩn,
+
+157
+00:09:26,205 --> 00:09:31,990
+liệt ruột kéo dài sau sốc và loét dạ dày tá tràng. Khoảng 20 phần trăm người bệnh suy hai cơ quan,
+
+158
+00:09:31,840 --> 00:09:35,843
+5 phần trăm suy từ ba cơ quan, và tử vong tăng theo số cơ quan suy:
+
+159
+00:09:35,693 --> 00:09:39,580
+một nghiên cứu châu Âu ghi nhận 26 phần trăm khi suy hai cơ quan,
+
+160
+00:09:39,430 --> 00:09:41,650
+lên 65 phần trăm khi từ bốn cơ quan.
+
+161
+00:09:43,100 --> 00:09:47,202
+Đây là phim X-quang của một người bệnh hội chứng suy hô hấp cấp tiến triển:
+
+162
+00:09:47,052 --> 00:09:49,890
+mờ lan toả cả hai phổi, kiểu phù phổi không do tim.
+
+163
+00:09:50,090 --> 00:09:53,430
+Ở người bệnh nhiễm khuẩn huyết, phổi có thể là ổ nhiễm ban đầu,
+
+164
+00:09:53,280 --> 00:09:56,974
+nhưng cũng có thể là cơ quan đích bị tổn thương dù ổ nhiễm ở nơi khác,
+
+165
+00:09:56,824 --> 00:09:58,240
+như ổ bụng hay đường mật.
+
+166
+00:09:58,440 --> 00:10:00,873
+Bên phải là siêu âm phổi với nhiều đường B,
+
+167
+00:10:00,723 --> 00:10:04,589
+những vệt sáng dọc xuất phát từ màng phổi chạy hết chiều sâu màn hình,
+
+168
+00:10:04,439 --> 00:10:08,465
+phản ánh tăng nước ngoài mạch phổi. Hình ảnh này cần đặt trong bệnh cảnh,
+
+169
+00:10:08,315 --> 00:10:10,270
+vì cũng gặp trong phù phổi do tim.
+
+170
+00:10:10,470 --> 00:10:12,823
+Liên hệ với phần một: trên thang SOFA-2,
+
+171
+00:10:12,673 --> 00:10:17,448
+người bệnh chỉ được 3 hoặc 4 điểm hô hấp khi đang cần hỗ trợ hô hấp nâng cao như oxy
+
+172
+00:10:17,298 --> 00:10:19,100
+dòng cao hay thông khí cơ học.
+
+173
+00:10:20,550 --> 00:10:25,061
+Bây giờ là câu hỏi chẩn đoán phân biệt. Sốc nhiễm khuẩn là sốc phân bố điển hình:
+
+174
+00:10:24,911 --> 00:10:29,423
+cung lượng tim cao, sức cản thấp, hiệu áp rộng, huyết áp tâm trương thấp, chi ấm,
+
+175
+00:10:29,273 --> 00:10:34,430
+đổ đầy mao mạch nhanh. Nhưng kiểu huyết động này cũng gặp ở sốc phân bố không do nhiễm khuẩn.
+
+176
+00:10:34,630 --> 00:10:38,900
+Sốc giảm thể tích có cung lượng tim thấp, hiệu áp hẹp, chi lạnh, tĩnh mạch cổ xẹp,
+
+177
+00:10:38,750 --> 00:10:40,860
+và trên siêu âm tĩnh mạch chủ dưới xẹp.
+
+178
+00:10:41,060 --> 00:10:43,437
+Sốc tắc nghẽn cũng có cung lượng tim thấp,
+
+179
+00:10:43,287 --> 00:10:47,837
+nhưng tĩnh mạch cổ nổi trong khi phổi có thể hoàn toàn trong. Siêu âm cho thấy thất
+
+180
+00:10:47,687 --> 00:10:49,533
+phải giãn trong thuyên tắc phổi,
+
+181
+00:10:49,383 --> 00:10:52,502
+mất dấu trượt màng phổi trong tràn khí màng phổi áp lực,
+
+182
+00:10:52,352 --> 00:10:54,410
+hay dịch màng tim trong chèn ép tim.
+
+183
+00:10:54,610 --> 00:10:57,850
+Sốc tim có cung lượng tim thấp, tĩnh mạch đầy, ran phổi,
+
+184
+00:10:57,700 --> 00:11:00,498
+có thể có âm thổi hay dấu hiệu thiếu máu cơ tim,
+
+185
+00:11:00,348 --> 00:11:04,360
+và siêu âm thấy giảm phân suất tống máu, bệnh van nặng, nhiều đường B.
+
+186
+00:11:04,560 --> 00:11:09,250
+Và rất thường gặp là sốc phối hợp: nhiễm khuẩn kèm giảm thể tích do nôn, tiêu chảy,
+
+187
+00:11:09,100 --> 00:11:13,352
+hoặc nhiễm khuẩn kèm bệnh cơ tim. Khi các dấu hiệu không khớp vào một nhóm,
+
+188
+00:11:13,202 --> 00:11:15,430
+đó chính là gợi ý của cơ chế phối hợp.
+
+189
+00:11:16,880 --> 00:11:21,194
+Để đặt giả thuyết nguyên nhân ngay khi bắt đầu hồi sức, Hall đề xuất bốn câu hỏi:
+
+190
+00:11:21,044 --> 00:11:25,614
+cung lượng tim tăng hay giảm; tĩnh mạch trung tâm rỗng hay đầy; phổi trong hay có ran;
+
+191
+00:11:25,464 --> 00:11:28,390
+và có điều gì không khớp cần tìm nguyên nhân phối hợp.
+
+192
+00:11:28,590 --> 00:11:29,064
+Ví dụ,
+
+193
+00:11:28,914 --> 00:11:33,596
+một người bệnh tụt huyết áp với tĩnh mạch cổ nổi nhưng phổi trong phải gợi ý sốc tắc
+
+194
+00:11:33,446 --> 00:11:36,941
+nghẽn. Hình bên trái là phim chụp cắt lớp của thuyên tắc phổi:
+
+195
+00:11:36,791 --> 00:11:40,340
+thất phải giãn to, vách liên thất bị đẩy dẹt về phía thất trái.
+
+196
+00:11:40,540 --> 00:11:44,949
+Bên phải là siêu âm tim mặt cắt bốn buồng từ mỏm của một người bệnh thuyên tắc phổi:
+
+197
+00:11:44,799 --> 00:11:49,410
+thất phải lớn hơn thất trái, một hình ảnh không bao giờ gặp ở sốc nhiễm khuẩn đơn thuần.
+
+198
+00:11:49,610 --> 00:11:54,480
+Siêu âm tại giường vì vậy là công cụ không thể thiếu khi người bệnh vừa sốt vừa tụt huyết áp.
+
+199
+00:11:54,680 --> 00:11:55,525
+Cũng cần nhớ:
+
+200
+00:11:55,375 --> 00:12:00,124
+không phải mọi trường hợp tụt huyết áp với cung lượng tim cao đều là nhiễm khuẩn. Hall
+
+201
+00:11:59,974 --> 00:12:01,407
+liệt kê suy thượng thận,
+
+202
+00:12:01,257 --> 00:12:05,257
+cơn bão giáp, hôn mê phù niêm, ngộ độc cyanide, carbon monoxide hay sắt;
+
+203
+00:12:05,107 --> 00:12:09,161
+ngoài ra còn viêm tuỵ nặng, suy gan, sau chấn thương, bỏng, tái tưới máu,
+
+204
+00:12:09,011 --> 00:12:11,300
+kể cả sau ngừng tim, phản vệ và sốc tuỷ.
+
+205
+00:12:12,750 --> 00:12:13,550
+Cuối cùng,
+
+206
+00:12:13,400 --> 00:12:19,200
+hãy đặt định nghĩa hiện hành cạnh hướng dẫn chẩn đoán và xử trí hồi sức tích cực của Bộ
+
+207
+00:12:19,050 --> 00:12:22,773
+Y tế năm 2015. Văn bản này được viết trên nền Sepsis-1,
+
+208
+00:12:22,623 --> 00:12:26,150
+Sepsis-2 và Surviving Sepsis Campaign 2008 đến 2012,
+
+209
+00:12:26,000 --> 00:12:31,606
+nên vẫn dùng chuỗi liên tục từ hội chứng đáp ứng viêm hệ thống đến nhiễm khuẩn nặng,
+
+210
+00:12:31,456 --> 00:12:32,840
+sốc và suy đa tạng.
+
+211
+00:12:33,040 --> 00:12:37,324
+Tiêu chuẩn sốc của Bộ Y tế là không đáp ứng bù dịch và phải dùng vận mạch,
+
+212
+00:12:37,174 --> 00:12:39,670
+không đòi hỏi lactate trên 2 như Sepsis-3.
+
+213
+00:12:39,870 --> 00:12:46,046
+Mục tiêu 6 giờ đầu trong văn bản là áp lực tĩnh mạch trung tâm 11 đến 16 centimet nước,
+
+214
+00:12:45,896 --> 00:12:47,570
+ScvO₂ từ 70 phần trăm,
+
+215
+00:12:47,420 --> 00:12:53,873
+tức các đích của hồi sức theo mục tiêu sớm kiểu Rivers 2001. Sau ba thử nghiệm lớn ProCESS,
+
+216
+00:12:53,723 --> 00:12:58,860
+ARISE và ProMISe không lặp lại được lợi ích, cách tiếp cận này đã bị bỏ.
+
+217
+00:12:59,060 --> 00:13:03,761
+Về dịch, văn bản cho phép NaCl 0,9 phần trăm, Ringer lactat và cả gelatin;
+
+218
+00:13:03,611 --> 00:13:07,575
+hiện nay khuyến cáo ít nhất 30 mi li lít mỗi ký dịch tinh thể,
+
+219
+00:13:07,425 --> 00:13:10,650
+ưu tiên dung dịch cân bằng, và không dùng gelatin.
+
+220
+00:13:10,850 --> 00:13:12,687
+Khác biệt lớn nhất là lọc máu:
+
+221
+00:13:12,537 --> 00:13:17,355
+văn bản 2015 khuyên lọc máu liên tục sớm nhất có thể sau chẩn đoán sốc nhiễm khuẩn,
+
+222
+00:13:17,205 --> 00:13:20,897
+trong khi hiện nay không lọc máu khi không có chỉ định thận rõ,
+
+223
+00:13:20,747 --> 00:13:25,677
+và không dùng lọc máu để lọc độc tố hay cytokine. Bảng này giúp quý vị hiểu thực hành
+
+224
+00:13:25,527 --> 00:13:27,252
+trong nước đang dựa vào đâu,
+
+225
+00:13:27,102 --> 00:13:29,220
+chứ không phải để chọn theo bản cũ.
+
+226
+00:13:30,670 --> 00:13:36,767
+Đến với tình huống. Một phụ nữ 62 tuổi, ngày thứ 3 sau mổ thay khớp háng, sốt 38,2 độ,
+
+227
+00:13:36,617 --> 00:13:42,092
+huyết áp 84 trên 56, mạch 124, SpO₂ 89 phần trăm. Khám thấy tĩnh mạch cổ nổi,
+
+228
+00:13:41,942 --> 00:13:47,970
+phổi trong, chi lạnh. Siêu âm tại giường: thất phải giãn, thất trái nhỏ và tăng động.
+
+229
+00:13:48,170 --> 00:13:49,920
+Loại sốc nào phù hợp nhất?
+
+230
+00:13:50,120 --> 00:13:52,750
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+231
+00:14:01,350 --> 00:14:05,667
+Đáp án là sốc tắc nghẽn, cần nghĩ ngay tới thuyên tắc phổi. Áp dụng bốn câu hỏi:
+
+232
+00:14:05,517 --> 00:14:08,896
+chi lạnh gợi ý cung lượng tim thấp; tĩnh mạch đầy; phổi trong;
+
+233
+00:14:08,746 --> 00:14:13,583
+và siêu âm thấy thất phải giãn. Sốc nhiễm khuẩn điển hình có chi ấm và cung lượng tim cao,
+
+234
+00:14:13,433 --> 00:14:16,552
+còn sốc tim do thất trái thì phổi thường có ran. Bài học:
+
+235
+00:14:16,402 --> 00:14:19,260
+sốt kèm tụt huyết áp chưa chắc là nhiễm khuẩn huyết.
+
+236
+00:14:20,710 --> 00:14:24,154
+Xin tổng kết sáu thông điệp của phần ba. Một, phổi, ổ bụng,
+
+237
+00:14:24,004 --> 00:14:28,620
+tiết niệu và da mô mềm chiếm phần lớn ổ nhiễm; hãy chủ động tìm ổ cần kiểm soát.
+
+238
+00:14:28,820 --> 00:14:31,850
+Hai, biểu hiện lâm sàng không đặc hiệu và có nhiều bẫy.
+
+239
+00:14:32,050 --> 00:14:35,880
+Ba, cấy máu hai bộ, càng sớm càng tốt, lý tưởng trước kháng sinh.
+
+240
+00:14:36,080 --> 00:14:39,735
+Bốn, huyết động sốc nhiễm khuẩn gồm giãn mạch và bệnh cơ tim,
+
+241
+00:14:39,585 --> 00:14:42,550
+và cung lượng tim cao không có nghĩa là tim khoẻ.
+
+242
+00:14:42,750 --> 00:14:47,172
+Năm, lactate là chỉ dấu, không đo trực tiếp tưới máu, hãy theo dõi mức giảm. Và sáu,
+
+243
+00:14:47,022 --> 00:14:50,580
+dùng bốn câu hỏi cùng siêu âm tại giường để phân biệt các loại sốc.
+
+244
+00:14:50,780 --> 00:14:52,303
+Trong phần bốn, phần cuối,
+
+245
+00:14:52,153 --> 00:14:55,681
+chúng ta sẽ đi trọn một ca lâm sàng từ khoa cấp cứu vào hồi sức,
+
+246
+00:14:55,531 --> 00:14:56,948
+áp dụng mọi điều đã học,
+
+247
+00:14:56,798 --> 00:15:01,330
+và bàn về kiểu hình sepsis cùng những câu hỏi còn bỏ ngỏ. Cảm ơn quý đồng nghiệp đã
+
+248
+00:15:01,180 --> 00:15:03,970
+theo dõi. Hẹn gặp lại trên Thư Viện Y Khoa Online.

@@ -1,0 +1,915 @@
+1
+00:00:04,900 --> 00:00:06,058
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,908 --> 00:00:10,186
+chào mừng quý vị đến với loạt bài bệnh học về nhiễm khuẩn huyết và sốc nhiễm khuẩn của
+
+3
+00:00:10,036 --> 00:00:11,290
+Thư Viện Y Khoa Online.
+
+4
+00:00:11,490 --> 00:00:16,485
+Loạt bài gồm bốn phần. Phần một hôm nay trả lời ba câu hỏi: nhiễm khuẩn huyết là gì,
+
+5
+00:00:16,335 --> 00:00:18,907
+vì sao định nghĩa đã phải viết lại ba lần,
+
+6
+00:00:18,757 --> 00:00:24,040
+và thang điểm SOFA-2 năm 2025 thay đổi cách ta đo rối loạn chức năng cơ quan như thế nào.
+
+7
+00:00:24,240 --> 00:00:29,206
+Phần điều trị chi tiết theo khuyến cáo Surviving Sepsis Campaign 2026 đã có trong loạt
+
+8
+00:00:29,056 --> 00:00:30,550
+năm phần riêng của kênh;
+
+9
+00:00:30,400 --> 00:00:35,030
+loạt bài này tập trung vào bệnh học: định nghĩa, cơ chế, biểu hiện và chẩn đoán.
+
+10
+00:00:36,480 --> 00:00:42,032
+Hãy bắt đầu bằng hai hình ảnh thật. Bên trái là phim X-quang ngực của một người đàn ông 67 tuổi,
+
+11
+00:00:41,882 --> 00:00:45,689
+với đám mờ đông đặc ở thuỳ giữa phổi phải. Đây là viêm phổi thuỳ,
+
+12
+00:00:45,539 --> 00:00:48,390
+loại ổ nhiễm hay gặp nhất của nhiễm khuẩn huyết.
+
+13
+00:00:48,590 --> 00:00:52,736
+Phần lớn những người bệnh như vậy được điều trị khỏi bằng kháng sinh mà không có rối
+
+14
+00:00:52,586 --> 00:00:54,020
+loạn chức năng cơ quan nào.
+
+15
+00:00:54,220 --> 00:00:58,744
+Nhưng ở một số người, cùng một ổ nhiễm như thế lại dẫn tới bệnh cảnh ở hình bên phải:
+
+16
+00:00:58,594 --> 00:01:01,523
+một người bệnh sốc nhiễm khuẩn nặng, da chi tím loang,
+
+17
+00:01:01,373 --> 00:01:04,610
+có những vùng thiếu máu và hoại tử do vi huyết khối lan toả.
+
+18
+00:01:04,810 --> 00:01:07,750
+Khác biệt giữa hai bệnh cảnh không chỉ nằm ở vi khuẩn,
+
+19
+00:01:07,600 --> 00:01:09,920
+mà nằm ở cách cơ thể đáp ứng với vi khuẩn.
+
+20
+00:01:10,120 --> 00:01:12,663
+Và đó chính là cốt lõi của định nghĩa hiện hành:
+
+21
+00:01:12,513 --> 00:01:15,306
+nhiễm khuẩn huyết là một rối loạn của đáp ứng cơ thể,
+
+22
+00:01:15,156 --> 00:01:17,550
+chứ không đơn thuần là vi khuẩn có trong máu.
+
+23
+00:01:19,000 --> 00:01:24,710
+Vì sao phải hiểu thật kỹ bệnh này? Hãy nhìn vào con số. Theo nghiên cứu gánh nặng bệnh
+
+24
+00:01:24,560 --> 00:01:26,650
+tật toàn cầu công bố năm 2020,
+
+25
+00:01:26,500 --> 00:01:31,240
+chỉ riêng năm 2017, thế giới có khoảng 48,9 triệu ca nhiễm khuẩn huyết.
+
+26
+00:01:31,440 --> 00:01:34,470
+Trong đó có khoảng 11 triệu ca tử vong liên quan.
+
+27
+00:01:34,670 --> 00:01:37,863
+Con số này chiếm 19,7 phần trăm tổng số ca tử vong toàn cầu,
+
+28
+00:01:37,713 --> 00:01:42,175
+tức là gần một trong năm người chết trên thế giới có liên quan đến nhiễm khuẩn huyết.
+
+29
+00:01:42,025 --> 00:01:44,559
+Ước tính này cao gấp đôi các ước tính trước đó,
+
+30
+00:01:44,409 --> 00:01:48,870
+chủ yếu vì gánh nặng rất cao ở những vùng thu nhập thấp, nơi trước đây thiếu dữ liệu.
+
+31
+00:01:49,070 --> 00:01:51,357
+Tin tốt là từ năm 1990 đến 2017,
+
+32
+00:01:51,207 --> 00:01:55,365
+tử vong chuẩn hoá theo tuổi đã giảm 52,8 phần trăm. Tuy vậy,
+
+33
+00:01:55,215 --> 00:01:58,438
+gánh nặng vẫn dồn về các nước nghèo nguồn lực,
+
+34
+00:01:58,288 --> 00:02:02,980
+và hiện chúng ta chưa có số liệu quốc gia đáng tin cậy cho Việt Nam.
+
+35
+00:02:03,180 --> 00:02:07,647
+Một con số nữa cần nhớ: theo phân tích gộp được dẫn trong giáo trình Mandell,
+
+36
+00:02:07,497 --> 00:02:09,553
+gần một nửa số ca, 48,7 phần trăm,
+
+37
+00:02:09,403 --> 00:02:14,936
+khởi phát ngay trong bệnh viện. Nghĩa là nhiễm khuẩn huyết không chỉ là chuyện của khoa cấp cứu,
+
+38
+00:02:14,786 --> 00:02:16,730
+mà là chuyện của mọi khoa phòng.
+
+39
+00:02:18,180 --> 00:02:22,058
+Định nghĩa nhiễm khuẩn huyết đã được viết lại nhiều lần. Năm 1991,
+
+40
+00:02:21,908 --> 00:02:27,762
+hội nghị đồng thuận của Hội Bác sĩ Lồng ngực Hoa Kỳ và Hội Hồi sức Hoa Kỳ đưa ra định nghĩa đầu tiên,
+
+41
+00:02:27,612 --> 00:02:28,665
+gọi là Sepsis-1:
+
+42
+00:02:28,515 --> 00:02:33,579
+nhiễm khuẩn huyết là đáp ứng viêm hệ thống với nhiễm khuẩn. Từ đây ra đời khái niệm hội
+
+43
+00:02:33,429 --> 00:02:35,160
+chứng đáp ứng viêm hệ thống,
+
+44
+00:02:35,010 --> 00:02:39,453
+viết tắt SIRS, và chuỗi bậc thang nhiễm khuẩn huyết, nhiễm khuẩn huyết nặng,
+
+45
+00:02:39,303 --> 00:02:41,260
+sốc nhiễm khuẩn, suy đa cơ quan.
+
+46
+00:02:41,460 --> 00:02:47,690
+Năm 1996, thang điểm SOFA gốc được công bố để mô tả rối loạn chức năng sáu hệ cơ quan.
+
+47
+00:02:47,890 --> 00:02:51,533
+Năm 2001, hội nghị của năm hội chuyên ngành, gọi là Sepsis-2,
+
+48
+00:02:51,383 --> 00:02:56,113
+giữ nguyên khái niệm cũ nhưng mở rộng danh sách dấu hiệu, và đề xuất khung PIRO,
+
+49
+00:02:55,963 --> 00:02:59,720
+mà chính các tác giả gọi là một công trình còn đang hoàn thiện.
+
+50
+00:02:59,920 --> 00:03:02,038
+Bước ngoặt là năm 2016 với Sepsis-3:
+
+51
+00:03:01,888 --> 00:03:06,794
+nhiễm khuẩn huyết được định nghĩa lại là rối loạn chức năng cơ quan do đáp ứng mất điều
+
+52
+00:03:06,644 --> 00:03:08,489
+hoà của cơ thể với nhiễm khuẩn,
+
+53
+00:03:08,339 --> 00:03:13,190
+vận hành bằng mức tăng SOFA từ 2 điểm, và thuật ngữ nhiễm khuẩn huyết nặng bị loại bỏ.
+
+54
+00:03:13,390 --> 00:03:17,514
+Gần đây nhất, năm 2025 có thang SOFA-2 sau 30 năm,
+
+55
+00:03:17,364 --> 00:03:25,540
+và năm 2026 Surviving Sepsis Campaign đưa ra bộ 129 khuyến cáo với khái niệm mức chắc chắn chẩn đoán.
+
+56
+00:03:25,740 --> 00:03:28,915
+Nếu phải tóm tắt cả chặng đường này trong một câu, thì đó là:
+
+57
+00:03:28,765 --> 00:03:31,890
+trọng tâm đã chuyển từ viêm sang rối loạn chức năng cơ quan.
+
+58
+00:03:33,340 --> 00:03:39,302
+Vì sao phải bỏ SIRS? Hãy thử chấm điểm. SIRS dương tính khi có ít nhất 2 trong 4 tiêu chí:
+
+59
+00:03:39,152 --> 00:03:43,757
+thân nhiệt trên 38 độ hoặc dưới 36 độ; nhịp tim trên 90 lần mỗi phút;
+
+60
+00:03:43,607 --> 00:03:49,375
+nhịp thở trên 20 lần mỗi phút hoặc PaCO₂ dưới 32; bạch cầu trên 12 nghìn, dưới 4 nghìn,
+
+61
+00:03:49,225 --> 00:03:51,700
+hoặc trên 10 phần trăm bạch cầu non.
+
+62
+00:03:51,900 --> 00:03:56,210
+Một sinh viên 20 tuổi bị cúm, sốt 38,6 độ, được 1 điểm.
+
+63
+00:03:56,410 --> 00:03:59,360
+Mạch 104 lần mỗi phút, thêm 1 điểm.
+
+64
+00:03:59,560 --> 00:04:02,350
+Thở 22 lần mỗi phút, thêm 1 điểm nữa.
+
+65
+00:04:02,550 --> 00:04:07,087
+Ba trên bốn tiêu chí, SIRS dương tính. Theo Sepsis-1, nếu có nhiễm khuẩn,
+
+66
+00:04:06,937 --> 00:04:09,131
+người này đã là nhiễm khuẩn huyết,
+
+67
+00:04:08,981 --> 00:04:13,999
+dù hoàn toàn không có cơ quan nào bị tổn thương. Ngay trong bài báo gốc năm 1992,
+
+68
+00:04:13,849 --> 00:04:15,862
+SIRS đã nhận diện 503 trên 519,
+
+69
+00:04:15,712 --> 00:04:20,310
+tức 96,9 phần trăm người bệnh nhập hồi sức vì nhiễm khuẩn huyết. Rất nhạy,
+
+70
+00:04:20,160 --> 00:04:24,817
+nhưng quá rộng: sốt và mạch nhanh là phản ứng bình thường, thậm chí có lợi,
+
+71
+00:04:24,667 --> 00:04:26,560
+của cơ thể trước nhiễm khuẩn.
+
+72
+00:04:28,010 --> 00:04:30,928
+Đây là định nghĩa hiện hành, Sepsis-3 năm 2016:
+
+73
+00:04:30,778 --> 00:04:34,756
+nhiễm khuẩn huyết là rối loạn chức năng cơ quan đe doạ tính mạng,
+
+74
+00:04:34,606 --> 00:04:37,760
+do đáp ứng mất điều hoà của cơ thể với nhiễm khuẩn.
+
+75
+00:04:37,960 --> 00:04:41,754
+Xin quý vị chú ý hai cụm từ. Cụm thứ nhất, rối loạn chức năng cơ quan:
+
+76
+00:04:41,604 --> 00:04:46,490
+chính đó là điều phân biệt nhiễm khuẩn huyết với một nhiễm khuẩn thông thường. Cụm thứ hai,
+
+77
+00:04:46,340 --> 00:04:50,863
+đáp ứng mất điều hoà: tức là đáp ứng của cơ thể không còn giữ được cân bằng nội môi,
+
+78
+00:04:50,713 --> 00:04:52,320
+và chính đáp ứng đó gây hại.
+
+79
+00:04:52,520 --> 00:04:53,375
+Trên lâm sàng,
+
+80
+00:04:53,225 --> 00:04:57,756
+rối loạn chức năng cơ quan được vận hành bằng mức tăng cấp tổng điểm SOFA từ 2 điểm trở
+
+81
+00:04:57,606 --> 00:05:01,331
+lên do nhiễm khuẩn. Nếu không biết người bệnh có bệnh cơ quan từ trước,
+
+82
+00:05:01,181 --> 00:05:02,590
+điểm nền được coi bằng 0.
+
+83
+00:05:02,790 --> 00:05:05,059
+Mức tăng này không phải con số tuỳ tiện:
+
+84
+00:05:04,909 --> 00:05:08,131
+SOFA từ 2 điểm gắn với tử vong nội viện trên 10 phần trăm,
+
+85
+00:05:07,981 --> 00:05:10,780
+tức là cứ mười người thì có hơn một người tử vong.
+
+86
+00:05:10,980 --> 00:05:14,344
+Và vì định nghĩa mới đã bao hàm rối loạn chức năng cơ quan,
+
+87
+00:05:14,194 --> 00:05:18,920
+thuật ngữ nhiễm khuẩn huyết nặng trở nên thừa và bị loại bỏ. Quý vị sẽ còn gặp thuật
+
+88
+00:05:18,770 --> 00:05:20,609
+ngữ này trong nhiều văn bản cũ,
+
+89
+00:05:20,459 --> 00:05:22,570
+kể cả hướng dẫn trong nước năm 2015.
+
+90
+00:05:24,020 --> 00:05:29,455
+Sepsis-3 không phải ý kiến chuyên gia đơn thuần. Nhóm của Seymour đã phân tích hơn 1,3
+
+91
+00:05:29,305 --> 00:05:31,359
+triệu lượt khám ở 12 bệnh viện,
+
+92
+00:05:31,209 --> 00:05:35,968
+và kiểm định ngoài trên hơn 706 nghìn lượt nghi nhiễm khuẩn. Trong hồi sức,
+
+93
+00:05:35,818 --> 00:05:40,700
+khả năng dự báo tử vong nội viện của SOFA đạt diện tích dưới đường cong 0,74,
+
+94
+00:05:40,550 --> 00:05:41,990
+so với 0,64 của SIRS.
+
+95
+00:05:42,190 --> 00:05:47,657
+qSOFA trong hồi sức chỉ đạt 0,66, kém SOFA, vì người bệnh hồi sức đã được thở máy,
+
+96
+00:05:47,507 --> 00:05:52,260
+an thần, dùng vận mạch, nên ba dấu hiệu đơn giản của qSOFA mất giá trị.
+
+97
+00:05:52,460 --> 00:05:58,699
+Ngược lại, ngoài hồi sức, tại khoa cấp cứu và các khoa phòng, qSOFA lại dự báo tốt nhất:
+
+98
+00:05:58,549 --> 00:06:00,290
+0,81, so với SIRS 0,76.
+
+99
+00:06:00,490 --> 00:06:05,860
+Và thậm chí nhỉnh hơn cả SOFA đầy đủ là 0,79, trong khi chỉ cần ba dấu hiệu tại giường,
+
+100
+00:06:05,710 --> 00:06:07,120
+không cần xét nghiệm.
+
+101
+00:06:07,320 --> 00:06:08,479
+Thông điệp rút ra:
+
+102
+00:06:08,329 --> 00:06:13,300
+đo rối loạn chức năng cơ quan dự báo kết cục tốt hơn đo mức độ viêm. Đó là nền tảng dữ
+
+103
+00:06:13,150 --> 00:06:15,150
+liệu để chuyển từ SIRS sang SOFA.
+
+104
+00:06:16,600 --> 00:06:20,755
+Từ dữ liệu đó ra đời qSOFA, gồm ba tiêu chí, mỗi tiêu chí 1 điểm:
+
+105
+00:06:20,605 --> 00:06:25,870
+nhịp thở từ 22 lần mỗi phút; huyết áp tâm thu từ 100 trở xuống; và thay đổi ý thức.
+
+106
+00:06:26,070 --> 00:06:30,940
+Rất dễ nhớ, rất dễ làm tại giường. Nhưng đây cũng là chỗ thực hành hay sai nhất.
+
+107
+00:06:31,140 --> 00:06:36,845
+qSOFA từ 2 điểm chỉ có nghĩa là người bệnh đã nghi nhiễm khuẩn có nguy cơ diễn tiến xấu cao,
+
+108
+00:06:36,695 --> 00:06:40,770
+tử vong tăng từ 3 đến 14 lần tuỳ nguy cơ nền. Ngay trong bài gốc,
+
+109
+00:06:40,620 --> 00:06:42,280
+các tác giả đã nhấn mạnh:
+
+110
+00:06:42,130 --> 00:06:47,473
+qSOFA không phải tiêu chuẩn chẩn đoán nhiễm khuẩn huyết. Một người qSOFA 0 hoặc 1 điểm
+
+111
+00:06:47,323 --> 00:06:50,130
+vẫn có thể đang suy thận cấp do nhiễm khuẩn.
+
+112
+00:06:50,330 --> 00:06:55,834
+Vì độ nhạy thấp, Surviving Sepsis Campaign 2026 khuyến cáo mạnh, với bằng chứng mức vừa:
+
+113
+00:06:55,684 --> 00:07:00,883
+khi dùng một công cụ đơn độc để sàng lọc người bệnh nội viện, hãy dùng NEWS, NEWS2,
+
+114
+00:07:00,733 --> 00:07:05,386
+MEWS hoặc SIRS thay vì qSOFA. Nói cách khác, SIRS bị loại khỏi định nghĩa,
+
+115
+00:07:05,236 --> 00:07:08,610
+nhưng vẫn còn chỗ đứng như một công cụ sàng lọc nhạy.
+
+116
+00:07:10,060 --> 00:07:12,595
+Tiếp theo là sốc nhiễm khuẩn. Theo Sepsis-3,
+
+117
+00:07:12,445 --> 00:07:17,201
+đây là nhiễm khuẩn huyết cần thuốc vận mạch để giữ huyết áp trung bình từ 65 trở lên,
+
+118
+00:07:17,051 --> 00:07:20,290
+và có lactate trên 2 mi li mol mỗi lít, dù đã bù đủ dịch.
+
+119
+00:07:20,490 --> 00:07:24,496
+Về khái niệm, sốc nhiễm khuẩn là một nhóm con của nhiễm khuẩn huyết,
+
+120
+00:07:24,346 --> 00:07:26,368
+trong đó bất thường về tuần hoàn,
+
+121
+00:07:26,218 --> 00:07:29,600
+tế bào và chuyển hoá đủ nặng để làm tăng đáng kể tử vong.
+
+122
+00:07:29,800 --> 00:07:31,362
+Và mức tăng đó rất rõ:
+
+123
+00:07:31,212 --> 00:07:38,038
+tử vong nội viện trên 40 phần trăm. Tổng quan hệ thống của chính nhóm Sepsis-3 cho tỷ lệ 46,5 phần trăm,
+
+124
+00:07:37,888 --> 00:07:40,670
+dù dao động rất rộng giữa các nghiên cứu.
+
+125
+00:07:40,870 --> 00:07:43,063
+Xin nhấn mạnh: phải đủ cả hai điều kiện,
+
+126
+00:07:42,913 --> 00:07:45,719
+vận mạch và lactate. Tụt huyết áp đơn thuần chưa đủ,
+
+127
+00:07:45,569 --> 00:07:47,660
+mà lactate cao đơn thuần cũng chưa đủ.
+
+128
+00:07:47,860 --> 00:07:51,440
+Một điểm thực hành: Sepsis-3 không quy định liều vận mạch tối thiểu,
+
+129
+00:07:51,290 --> 00:07:53,608
+cũng không định nghĩa bao nhiêu dịch là đủ,
+
+130
+00:07:53,458 --> 00:07:57,290
+hay tụt huyết áp bao lâu. Những chỗ trống này đòi hỏi phán đoán lâm sàng.
+
+131
+00:07:58,740 --> 00:08:04,166
+Vì sao lactate được đưa vào tiêu chuẩn sốc? Nhóm của Shankar-Hari phân tích cơ sở dữ
+
+132
+00:08:04,016 --> 00:08:09,128
+liệu của Surviving Sepsis Campaign với 18.840 người bệnh. Nhóm có đủ ba yếu tố,
+
+133
+00:08:08,978 --> 00:08:14,404
+tụt huyết áp sau bù dịch, cần vận mạch và lactate trên 2, có tử vong 42,3 phần trăm,
+
+134
+00:08:14,254 --> 00:08:16,540
+cao hơn mọi nhóm thiếu một yếu tố.
+
+135
+00:08:16,740 --> 00:08:20,330
+Trong số người đã cần vận mạch, tử vong tăng dần theo lactate.
+
+136
+00:08:20,530 --> 00:08:26,640
+Từ 33,3 phần trăm khi lactate trên 2 đến 3, lên 36,2 phần trăm khi trên 3 đến 4,
+
+137
+00:08:26,490 --> 00:08:30,440
+và gần một nửa, 49,7 phần trăm, khi lactate trên 4.
+
+138
+00:08:30,640 --> 00:08:36,846
+Ngưỡng 2 được chọn vì là ngưỡng thấp nhất còn liên quan độc lập với tử vong và có độ nhạy cao nhất,
+
+139
+00:08:36,696 --> 00:08:42,230
+82,5 phần trăm. Mỗi 1 mi li mol lactate tăng thêm làm odds tử vong tăng khoảng 1,09 lần.
+
+140
+00:08:42,430 --> 00:08:44,473
+Và đừng bỏ qua nhóm cuối: sốc kín,
+
+141
+00:08:44,323 --> 00:08:47,592
+tức lactate trên 2 sau bù dịch nhưng không tụt huyết áp,
+
+142
+00:08:47,442 --> 00:08:50,599
+không cần vận mạch. Nhóm này không đạt tiêu chuẩn sốc,
+
+143
+00:08:50,449 --> 00:08:56,000
+nhưng tử vong vẫn 25,7 phần trăm. Huyết áp bình thường không có nghĩa là tưới máu mô bình thường.
+
+144
+00:08:57,450 --> 00:09:02,857
+Bây giờ đến công cụ đo rối loạn chức năng cơ quan: thang SOFA-2, công bố năm 2025,
+
+145
+00:09:02,707 --> 00:09:08,178
+sau 30 năm dùng SOFA gốc. Vẫn sáu cơ quan, mỗi cơ quan 0 đến 4 điểm, tổng 0 đến 24,
+
+146
+00:09:08,028 --> 00:09:11,833
+lấy điểm xấu nhất của từng cơ quan trong 24 giờ. Với não,
+
+147
+00:09:11,683 --> 00:09:15,551
+điểm chấm theo điểm Glasgow như cũ, nhưng có một điểm mới:
+
+148
+00:09:15,401 --> 00:09:21,001
+người bệnh đang cần thuốc điều trị sảng được 1 điểm dù Glasgow 15. Người đang an thần
+
+149
+00:09:20,851 --> 00:09:23,950
+thì dùng điểm Glasgow cuối cùng trước an thần.
+
+150
+00:09:24,150 --> 00:09:30,460
+Với hô hấp, ngưỡng pê a ô hai trên ép i ô hai là 300, 225, 150 và 75.
+
+151
+00:09:30,660 --> 00:09:33,176
+Điểm mới quan trọng: để được 3 hoặc 4 điểm,
+
+152
+00:09:33,026 --> 00:09:37,192
+người bệnh phải đang có hỗ trợ hô hấp nâng cao, gồm oxy dòng cao qua mũi,
+
+153
+00:09:37,042 --> 00:09:38,402
+áp lực dương liên tục,
+
+154
+00:09:38,252 --> 00:09:43,739
+thở máy không xâm nhập hoặc xâm nhập. ECMO vì suy hô hấp được thẳng 4 điểm. Khi không có khí máu,
+
+155
+00:09:43,589 --> 00:09:46,710
+có thể dùng tỷ số SpO₂ trên FiO₂ với các ngưỡng riêng.
+
+156
+00:09:46,910 --> 00:09:51,391
+Với tim mạch, SOFA-2 cộng tổng liều norepinephrine và epinephrine:
+
+157
+00:09:51,241 --> 00:09:56,969
+đến 0,2 microgam mỗi ký mỗi phút được 2 điểm; trên 0,2 đến 0,4 được 3 điểm; trên 0,4,
+
+158
+00:09:56,819 --> 00:10:01,103
+hoặc liều vừa kèm thêm một thuốc vận mạch khác như vasopressin,
+
+159
+00:10:00,953 --> 00:10:06,878
+hoặc hỗ trợ tuần hoàn cơ học, được 4 điểm. Chỉ tính thuốc truyền liên tục ít nhất 1 giờ,
+
+160
+00:10:06,728 --> 00:10:09,700
+và liều norepinephrine tính theo dạng base.
+
+161
+00:10:11,150 --> 00:10:15,102
+Ba cơ quan còn lại. Gan vẫn chấm theo bilirubin toàn phần,
+
+162
+00:10:14,952 --> 00:10:20,083
+ngưỡng 1 điểm là đến 3 mi li gam mỗi đề xi lít, 2 điểm đến 6, 3 điểm đến 12,
+
+163
+00:10:19,933 --> 00:10:21,460
+và trên 12 là 4 điểm.
+
+164
+00:10:21,660 --> 00:10:26,129
+Thận có hai thay đổi lớn. Thứ nhất, lượng nước tiểu được chấm song song với creatinin,
+
+165
+00:10:25,979 --> 00:10:29,695
+theo thời gian thiểu niệu. Thứ hai, 4 điểm dành cho người đang lọc máu,
+
+166
+00:10:29,545 --> 00:10:33,010
+hoặc đủ tiêu chuẩn lọc máu nhưng chưa lọc, chẳng hạn vì thiếu máy.
+
+167
+00:10:33,210 --> 00:10:36,046
+Đủ tiêu chuẩn ở đây có định nghĩa cụ thể:
+
+168
+00:10:35,896 --> 00:10:41,221
+creatinin trên 1,2 hoặc nước tiểu dưới 0,3 mi li lít mỗi ký mỗi giờ trên 6 giờ,
+
+169
+00:10:41,071 --> 00:10:42,663
+kèm kali từ 6 trở lên,
+
+170
+00:10:42,513 --> 00:10:48,559
+hoặc pH từ 7,20 trở xuống với bicarbonat từ 12 trở xuống. Lọc máu chỉ vì lý do ngoài thận,
+
+171
+00:10:48,409 --> 00:10:51,900
+như lọc độc chất hay lọc cytokine, không được tính.
+
+172
+00:10:52,100 --> 00:10:55,241
+Cầm máu có ngưỡng tiểu cầu mới: 150, 100,
+
+173
+00:10:55,091 --> 00:10:59,690
+rồi 80 và 50 nghìn. Ngưỡng 80 và 50 là ngưỡng mới của SOFA-2.
+
+174
+00:11:01,140 --> 00:11:04,222
+SOFA-2 được xây dựng trên dữ liệu rất lớn:
+
+175
+00:11:04,072 --> 00:11:08,970
+hơn 3,3 triệu lượt nhập hồi sức tại 1.319 khoa hồi sức ở 9 quốc gia.
+
+176
+00:11:09,170 --> 00:11:14,397
+Điểm mới cốt lõi là chấm theo các biện pháp hỗ trợ cơ quan mà năm 1996 chưa phổ biến:
+
+177
+00:11:14,247 --> 00:11:18,459
+oxy dòng cao, thở máy không xâm nhập, ECMO, hỗ trợ tuần hoàn cơ học,
+
+178
+00:11:18,309 --> 00:11:22,760
+thuốc điều trị sảng, lượng nước tiểu và tiêu chuẩn đủ điều kiện lọc máu.
+
+179
+00:11:22,960 --> 00:11:27,807
+Khả năng dự báo tử vong hồi sức của SOFA-2 đạt diện tích dưới đường cong 0,79,
+
+180
+00:11:27,657 --> 00:11:33,648
+so với 0,77 của SOFA gốc. Mỗi điểm tăng thêm làm tăng odds tử vong khoảng 1,38 lần. Khi chấm lại,
+
+181
+00:11:33,498 --> 00:11:36,358
+49 phần trăm người bệnh giữ nguyên tổng điểm,
+
+182
+00:11:36,208 --> 00:11:39,610
+40 phần trăm có điểm thấp hơn và 11 phần trăm cao hơn.
+
+183
+00:11:39,810 --> 00:11:41,368
+Nhưng cần nhớ ba giới hạn:
+
+184
+00:11:41,218 --> 00:11:46,134
+SOFA-2 không phải định nghĩa nhiễm khuẩn huyết mới và không tự thay tiêu chuẩn Sepsis-3;
+
+185
+00:11:45,984 --> 00:11:49,816
+nó mới được kiểm định trong hồi sức, chưa rõ giá trị ở khoa cấp cứu,
+
+186
+00:11:49,666 --> 00:11:54,040
+ngoài hồi sức hay ở trẻ em; và hệ tiêu hoá, miễn dịch vẫn chưa có trong thang.
+
+187
+00:11:55,490 --> 00:11:59,855
+Hãy cùng tính SOFA-2 trên một ca minh hoạ. Nam 58 tuổi, viêm phổi cộng đồng,
+
+188
+00:11:59,705 --> 00:12:04,291
+được chuyển vào hồi sức trong tình trạng sốc, chưa rõ bệnh cơ quan nào từ trước,
+
+189
+00:12:04,141 --> 00:12:05,400
+nên điểm nền bằng 0.
+
+190
+00:12:05,600 --> 00:12:08,230
+Não: điểm Glasgow 13, được 1 điểm.
+
+191
+00:12:08,430 --> 00:12:13,454
+Hô hấp: pê a ô hai trên ép i ô hai 140 trong khi đang thở oxy dòng cao qua mũi,
+
+192
+00:12:13,304 --> 00:12:18,144
+tức là có hỗ trợ hô hấp nâng cao, được 3 điểm. Nếu không có hỗ trợ nâng cao,
+
+193
+00:12:17,994 --> 00:12:20,180
+người này chỉ được tối đa 2 điểm.
+
+194
+00:12:20,380 --> 00:12:25,733
+Tim mạch: norepinephrine 0,3 microgam mỗi ký mỗi phút, là liều vừa, kèm vasopressin,
+
+195
+00:12:25,583 --> 00:12:28,210
+tức là thêm một thuốc khác, được 4 điểm.
+
+196
+00:12:28,410 --> 00:12:34,099
+Gan: bilirubin 1,0, được 0 điểm. Thận: creatinin 1,8 mi li gam mỗi đề xi lít,
+
+197
+00:12:33,949 --> 00:12:37,120
+khoảng 160 micro mol mỗi lít, được 1 điểm.
+
+198
+00:12:37,320 --> 00:12:41,150
+Tiểu cầu 95 nghìn, nhỏ hơn hoặc bằng 100, được 2 điểm.
+
+199
+00:12:41,350 --> 00:12:44,883
+Tổng cộng 11 điểm. Người bệnh có rối loạn chức năng cơ quan rõ,
+
+200
+00:12:44,733 --> 00:12:46,655
+đạt tiêu chuẩn nhiễm khuẩn huyết;
+
+201
+00:12:46,505 --> 00:12:49,661
+và vì cần vận mạch với lactate vẫn trên 2 dù đã bù dịch,
+
+202
+00:12:49,511 --> 00:12:53,420
+đây là sốc nhiễm khuẩn. Chúng ta sẽ gặp lại người bệnh này ở phần bốn.
+
+203
+00:12:54,870 --> 00:13:00,603
+Đến với tình huống. Một bà cụ 70 tuổi, viêm thận bể thận. Sốt 39 độ, mạch 110,
+
+204
+00:13:00,453 --> 00:13:03,610
+thở 20 lần mỗi phút, huyết áp 118 trên 70,
+
+205
+00:13:03,460 --> 00:13:08,334
+hoàn toàn tỉnh táo. Xét nghiệm có creatinin 212 micro mol mỗi lít,
+
+206
+00:13:08,184 --> 00:13:11,770
+không rõ bệnh thận trước đó, tiểu cầu 140 nghìn.
+
+207
+00:13:11,970 --> 00:13:15,320
+Câu hỏi: theo Sepsis-3, chẩn đoán phù hợp nhất là gì?
+
+208
+00:13:15,520 --> 00:13:18,390
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+209
+00:13:26,990 --> 00:13:29,787
+Đáp án là nhiễm khuẩn huyết. Tính SOFA-2:
+
+210
+00:13:29,637 --> 00:13:34,049
+creatinin 212 nằm trong khoảng trên 170 đến 300, được 2 điểm thận;
+
+211
+00:13:33,899 --> 00:13:38,310
+tiểu cầu 140 được 1 điểm. Điểm nền coi là 0, vậy SOFA tăng 3 điểm,
+
+212
+00:13:38,160 --> 00:13:43,475
+đủ tiêu chuẩn. qSOFA của bà bằng 0, vì thở 20, huyết áp tâm thu 118 và tỉnh táo;
+
+213
+00:13:43,325 --> 00:13:44,766
+đây đúng là cái bẫy:
+
+214
+00:13:44,616 --> 00:13:50,255
+qSOFA thấp không loại trừ nhiễm khuẩn huyết. Bà không cần vận mạch nên chưa phải sốc,
+
+215
+00:13:50,105 --> 00:13:53,160
+và thuật ngữ nhiễm khuẩn huyết nặng đã bị bỏ.
+
+216
+00:13:54,610 --> 00:13:57,221
+Xin tổng kết sáu thông điệp của phần một. Một,
+
+217
+00:13:57,071 --> 00:14:02,840
+nhiễm khuẩn huyết là rối loạn chức năng cơ quan đe doạ tính mạng do đáp ứng mất điều hoà với nhiễm khuẩn.
+
+218
+00:14:03,040 --> 00:14:08,470
+Hai, trên lâm sàng đó là SOFA tăng từ 2 điểm, đi kèm tử vong nội viện trên 10 phần trăm.
+
+219
+00:14:08,670 --> 00:14:08,988
+Ba,
+
+220
+00:14:08,838 --> 00:14:14,321
+sốc nhiễm khuẩn cần đủ vận mạch để giữ huyết áp trung bình 65 và lactate trên 2 sau bù đủ dịch,
+
+221
+00:14:14,171 --> 00:14:15,780
+tử vong trên 40 phần trăm.
+
+222
+00:14:15,980 --> 00:14:20,290
+Bốn, qSOFA chỉ báo nguy cơ, không dùng để chẩn đoán hay sàng lọc đơn độc.
+
+223
+00:14:20,490 --> 00:14:24,614
+Năm, SOFA-2 chấm theo các biện pháp hỗ trợ cơ quan hiện đại. Và sáu,
+
+224
+00:14:24,464 --> 00:14:27,360
+thuật ngữ nhiễm khuẩn huyết nặng đã bị loại bỏ.
+
+225
+00:14:27,560 --> 00:14:31,274
+Trong phần hai, chúng ta sẽ đi vào bên trong cơ thể người bệnh:
+
+226
+00:14:31,124 --> 00:14:34,839
+điều gì thực sự xảy ra khi đáp ứng bảo vệ trở nên mất điều hoà,
+
+227
+00:14:34,689 --> 00:14:37,328
+từ thụ thể nhận diện mầm bệnh, bão cytokine,
+
+228
+00:14:37,178 --> 00:14:42,194
+đến miễn dịch huyết khối và lớp glycocalyx bị bóc trần. Cảm ơn quý đồng nghiệp đã theo
+
+229
+00:14:42,044 --> 00:14:44,740
+dõi. Hẹn gặp lại trên Thư Viện Y Khoa Online.
