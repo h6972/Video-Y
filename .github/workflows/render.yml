@@ -40,10 +40,6 @@ jobs:
         run: |
           T=$(python -c "import json;print(json.load(open('projects/${{ steps.p.outputs.project }}/script.json')).get('tts','edge'))")
           echo "tts=$T" >> "$GITHUB_OUTPUT"; echo "Bộ giọng đọc: $T"
-          if [ "$T" = "omni" ] && ! ls projects/${{ steps.p.outputs.project }}/audio/*.flac >/dev/null 2>&1; then
-            echo "skip=1" >> "$GITHUB_OUTPUT"
-            echo "::notice::Chờ giọng OmniVoice — chạy tao-giong.bat ${{ steps.p.outputs.project }} trên máy"
-          fi
 
       - name: Kiểm tra key Azure
         if: steps.t.outputs.tts == 'azure'
@@ -90,7 +86,6 @@ jobs:
                 (cd "$D" && unzip -oq /tmp/do-dang.zip) && echo "Dùng lại giọng đã đọc ở lần trước"
               fi
               python engine/tts_gemini.py "$D" ;;
-            omni)  ls "$D"/audio/*.flac >/dev/null 2>&1 || { echo "Chưa có giọng OmniVoice: chạy tao-giong.bat trên máy"; exit 1; } ;;
             *)     python engine/tts_edge.py "$D" ;;
           esac
           python engine/build.py "$D"          # căn thời lượng theo giọng thật

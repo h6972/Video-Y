@@ -67,7 +67,7 @@ Giao diện nằm ở `engine/themes/<theme>/{theme.css,layouts.js}`; `build.py`
 - `"vieneu": {"tempo": 1.15}`: tăng tốc giữ cao độ (ffmpeg atempo trong tts_vieneu.py), thời lượng thật đo lại sau đó.
 - Giọng miền Nam khác: Thái Sơn, Minh Triết, Đức Trí (nam); Thục Đoan, Mỹ Duyên, Kim Thanh, Thùy Dung (nữ). Đổi bằng `"vieneu": {"voice": "..."}`.
 - Nghe thử giọng với lời tuỳ chọn: workflow `vieneu-samples.yml` (dispatch với `inputs[lines]=tools/<file>.json` ({lines, voices}) và `inputs[tempo]="1.15 1.25"`), kết quả mp3 ở nhánh `samples-vieneu`.
-- Chế độ khác: `tts` = `edge` | `azure` (secret AZURE_SPEECH_KEY/REGION) | `gemini` (secret GEMINI_API_KEY) | `omni` (người dùng chạy `tao-giong.bat <dự án>` trên máy, repo ở `D:\Video-Y`).
+- Chế độ khác: `tts` = `edge` | `azure` (secret AZURE_SPEECH_KEY/REGION) | `gemini` (secret GEMINI_API_KEY). OmniVoice đã gỡ khỏi repo (12/11/2026).
 
 ## Hạ tầng
 - Repo `h6972/video-y` (nhánh `main`). Gắn bằng `add_repo` (access push), clone `--depth 1` vào `/home/claude/video-y`; luôn `git pull` trước khi sửa. `gh` không dùng được GraphQL → gọi REST (`gh api …`), kể cả dispatch workflow.
