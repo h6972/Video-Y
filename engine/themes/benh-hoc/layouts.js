@@ -12,4 +12,4 @@ const _title=L.title; L.title=s=>_title({...s,art:'none'}).replace(/<svg[\s\S]*?
   <path d="M400 330 h40 v-40 h30 v40 h40 v30 h-40 v40 h-30 v-40 h-40 Z" fill="rgba(15,118,110,.15)" stroke="#0f766e" stroke-width="4" data-a="pop" data-in="1.3"/></svg>`);
 window.THEME_TICK=(t,cur,S)=>{if(!TL.rail)return;const k=S[cur].sc.rail;const keys=TL.rail.map(x=>x.k);const ci=keys.indexOf(k);
  document.querySelectorAll('#rail .ri').forEach((e,i)=>{e.classList.toggle('on',i===ci);e.classList.toggle('done',ci>=0&&i<ci);});
- const r=document.getElementById('rail'); if(r) r.style.display=S[cur].sc.layout==='title'?'none':'flex';};
+ const r=document.getElementById('rail'); if(r) r.style.display=['title','brand','endscreen'].includes(S[cur].sc.layout)?'none':'flex';};
