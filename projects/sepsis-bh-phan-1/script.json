@@ -1,0 +1,989 @@
+{
+ "title": "Nhiễm khuẩn huyết và sốc nhiễm khuẩn – Phần 1: Định nghĩa, lịch sử và SOFA-2",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Nhiễm khuẩn huyết · Bệnh học · Phần 1/4",
+ "source_short": "Nguồn: Sepsis-3 2016 · SOFA-2 2025 · SSC 2026 · Mandell 10e · Meyer NEJM 2024",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "Sepsis-1": "Sép xít một",
+  "Sepsis-2": "Sép xít hai",
+  "Sepsis-3": "Sép xít ba",
+  "SOFA-2": "sô pha hai",
+  "qSOFA": "quick sô pha",
+  "SOFA": "sô pha",
+  "NEWS2": "niu hai",
+  "NEWS": "niu",
+  "MEWS": "miu",
+  "SIRS": "xia",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "AUROC": "diện tích dưới đường cong",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SpO₂": "ét pê ô hai",
+  "PaCO₂": "pê a cê ô hai",
+  "GCS": "điểm Glasgow",
+  "ECMO": "ếch mô",
+  "HFNC": "oxy dòng cao qua mũi",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micro mol mỗi lít",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "µg/kg/phút": "microgam mỗi ký mỗi phút",
+  "ICU": "hồi sức",
+  "SSC": "ét ét xê",
+  "PIRO": "pi rô",
+  "MODS": "suy đa cơ quan"
+ },
+ "brand": {
+  "next": "Phần 2: Bệnh sinh – từ viêm đến suy cơ quan"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Bệnh sinh"
+  },
+  {
+   "k": "ls",
+   "t": "Lâm sàng"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "tl",
+   "t": "Tiên lượng"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Nhiễm khuẩn huyết",
+   "title": "Nhiễm khuẩn huyết<br>và sốc nhiễm khuẩn",
+   "subtitle": "Phần 1 · Định nghĩa, lịch sử và thang điểm SOFA-2",
+   "badges": [
+    {
+     "t": "Sepsis-3",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "SOFA-2 2025",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "SSC 2026",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · 4 phần",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với loạt bài bệnh học về nhiễm khuẩn huyết và sốc nhiễm khuẩn của Thư Viện Y Khoa Online.",
+    "Loạt bài gồm bốn phần. Phần một hôm nay trả lời ba câu hỏi: nhiễm khuẩn huyết là gì, vì sao định nghĩa đã phải viết lại ba lần, và thang điểm SOFA-2 năm 2025 thay đổi cách ta đo rối loạn chức năng cơ quan như thế nào.",
+    "Phần điều trị chi tiết theo khuyến cáo Surviving Sepsis Campaign 2026 đã có trong loạt năm phần riêng của kênh; loạt bài này tập trung vào bệnh học: định nghĩa, cơ chế, biểu hiện và chẩn đoán."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "media",
+   "rail": "dn",
+   "chapter": "Một bệnh cảnh, nhiều gương mặt",
+   "title": "Một bệnh cảnh, nhiều gương mặt",
+   "ref": "Ảnh minh hoạ thật · Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/cxr_lobar.jpg",
+     "ar": 1.257,
+     "credit": "Ảnh: Mikael Häggström · CC0 · Wikimedia Commons",
+     "flex": 1.15,
+     "at": 0,
+     "cap": "Viêm phổi thuỳ giữa phải: ổ nhiễm hay gặp nhất",
+     "zoom": {
+      "x": 30,
+      "y": 55,
+      "s": 1.5,
+      "at": 0,
+      "out": "L1"
+     },
+     "marks": [
+      {
+       "type": "circle",
+       "x": 30,
+       "y": 57,
+       "r": 11,
+       "c": "coral",
+       "at": 0,
+       "t": "Đông đặc"
+      }
+     ]
+    },
+    {
+     "src": "../../media/sepsis/raw/mikro1.jpg",
+     "ar": 1.778,
+     "credit": "Ảnh: Emergency doc · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1.6,
+     "at": 2,
+     "cap": "Sốc nhiễm khuẩn nặng: vùng thiếu máu da do vi huyết khối",
+     "marks": [
+      {
+       "type": "label",
+       "x": 45,
+       "y": 18,
+       "t": "Da tím loang, hoại tử",
+       "c": "coral",
+       "at": 3
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "Ổ NHIỄM",
+     "t": "Một viêm phổi thuỳ tưởng như thường gặp…",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "ĐÁP ỨNG CƠ THỂ",
+     "t": "…có thể đi đến tụt huyết áp, vi huyết khối, suy đa cơ quan",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "CÂU HỎI",
+     "t": "Điều gì biến một nhiễm khuẩn thành nhiễm khuẩn huyết?",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Hãy bắt đầu bằng hai hình ảnh thật. Bên trái là phim X-quang ngực của một người đàn ông 67 tuổi, với đám mờ đông đặc ở thuỳ giữa phổi phải. Đây là viêm phổi thuỳ, loại ổ nhiễm hay gặp nhất của nhiễm khuẩn huyết.",
+    "Phần lớn những người bệnh như vậy được điều trị khỏi bằng kháng sinh mà không có rối loạn chức năng cơ quan nào.",
+    "Nhưng ở một số người, cùng một ổ nhiễm như thế lại dẫn tới bệnh cảnh ở hình bên phải: một người bệnh sốc nhiễm khuẩn nặng, da chi tím loang, có những vùng thiếu máu và hoại tử do vi huyết khối lan toả.",
+    "Khác biệt giữa hai bệnh cảnh không chỉ nằm ở vi khuẩn, mà nằm ở cách cơ thể đáp ứng với vi khuẩn.",
+    "Và đó chính là cốt lõi của định nghĩa hiện hành: nhiễm khuẩn huyết là một rối loạn của đáp ứng cơ thể, chứ không đơn thuần là vi khuẩn có trong máu."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "stats",
+   "rail": "dn",
+   "chapter": "Dịch tễ",
+   "title": "Gánh nặng toàn cầu: gần 1 trong 5 ca tử vong",
+   "ref": "Rudd KE và cs., Lancet 2020 (Gánh nặng bệnh tật toàn cầu 2017) · Mandell 10e, tr. 934",
+   "tiles": [
+    {
+     "tag": "CA MẮC · 2017",
+     "v": 48.9,
+     "dec": 1,
+     "l": "triệu ca",
+     "d": "KBĐ 95%: 38,9–62,9",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "TỬ VONG",
+     "v": 11.0,
+     "dec": 1,
+     "l": "triệu ca tử vong",
+     "d": "KBĐ 95%: 10,1–12,0",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "TỶ LỆ",
+     "v": 19.7,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong toàn cầu",
+     "d": "Gần 1 trong 5",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "TRONG BỆNH VIỆN",
+     "v": 48.7,
+     "dec": 1,
+     "suf": "%",
+     "l": "khởi phát tại viện",
+     "d": "Phân tích gộp",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "cols": 4,
+   "h": 460,
+   "note": {
+    "t": "1990 → 2017: tử vong chuẩn hoá theo tuổi giảm 52,8% · Việt Nam: chưa có số liệu quốc gia",
+    "at": 3,
+    "c": "amber"
+   },
+   "lines": [
+    "Vì sao phải hiểu thật kỹ bệnh này? Hãy nhìn vào con số. Theo nghiên cứu gánh nặng bệnh tật toàn cầu công bố năm 2020, chỉ riêng năm 2017, thế giới có khoảng 48,9 triệu ca nhiễm khuẩn huyết.",
+    "Trong đó có khoảng 11 triệu ca tử vong liên quan.",
+    "Con số này chiếm 19,7 phần trăm tổng số ca tử vong toàn cầu, tức là gần một trong năm người chết trên thế giới có liên quan đến nhiễm khuẩn huyết. Ước tính này cao gấp đôi các ước tính trước đó, chủ yếu vì gánh nặng rất cao ở những vùng thu nhập thấp, nơi trước đây thiếu dữ liệu.",
+    "Tin tốt là từ năm 1990 đến 2017, tử vong chuẩn hoá theo tuổi đã giảm 52,8 phần trăm. Tuy vậy, gánh nặng vẫn dồn về các nước nghèo nguồn lực, và hiện chúng ta chưa có số liệu quốc gia đáng tin cậy cho Việt Nam.",
+    "Một con số nữa cần nhớ: theo phân tích gộp được dẫn trong giáo trình Mandell, gần một nửa số ca, 48,7 phần trăm, khởi phát ngay trong bệnh viện. Nghĩa là nhiễm khuẩn huyết không chỉ là chuyện của khoa cấp cứu, mà là chuyện của mọi khoa phòng."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "timeline",
+   "rail": "dn",
+   "chapter": "Lịch sử định nghĩa",
+   "title": "35 năm định nghĩa lại một hội chứng",
+   "ref": "Bone 1992 · Levy 2003 · Vincent 1996 · Singer 2016 · Ranzani 2025 · Prescott 2026",
+   "events": [
+    {
+     "year": "1991",
+     "t": "Sepsis-1",
+     "d": "Đáp ứng viêm hệ thống với nhiễm khuẩn · SIRS · chuỗi sepsis → nặng → sốc → MODS",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "year": "2001",
+     "t": "Sepsis-2",
+     "d": "Danh sách dấu hiệu dài hơn · khung PIRO",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "2016",
+     "t": "Sepsis-3",
+     "d": "Rối loạn chức năng cơ quan do đáp ứng mất điều hoà · SOFA ≥ 2 · bỏ “sepsis nặng”",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "year": "2025–26",
+     "t": "SOFA-2 · SSC 2026",
+     "d": "Chấm hỗ trợ cơ quan hiện đại · 129 khuyến cáo · mức chắc chắn chẩn đoán",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "note": {
+    "t": "Xu hướng: từ “viêm” sang “rối loạn chức năng cơ quan”",
+    "at": 5,
+    "c": "coral"
+   },
+   "lines": [
+    "Định nghĩa nhiễm khuẩn huyết đã được viết lại nhiều lần. Năm 1991, hội nghị đồng thuận của Hội Bác sĩ Lồng ngực Hoa Kỳ và Hội Hồi sức Hoa Kỳ đưa ra định nghĩa đầu tiên, gọi là Sepsis-1: nhiễm khuẩn huyết là đáp ứng viêm hệ thống với nhiễm khuẩn. Từ đây ra đời khái niệm hội chứng đáp ứng viêm hệ thống, viết tắt SIRS, và chuỗi bậc thang nhiễm khuẩn huyết, nhiễm khuẩn huyết nặng, sốc nhiễm khuẩn, suy đa cơ quan.",
+    "Năm 1996, thang điểm SOFA gốc được công bố để mô tả rối loạn chức năng sáu hệ cơ quan.",
+    "Năm 2001, hội nghị của năm hội chuyên ngành, gọi là Sepsis-2, giữ nguyên khái niệm cũ nhưng mở rộng danh sách dấu hiệu, và đề xuất khung PIRO, mà chính các tác giả gọi là một công trình còn đang hoàn thiện.",
+    "Bước ngoặt là năm 2016 với Sepsis-3: nhiễm khuẩn huyết được định nghĩa lại là rối loạn chức năng cơ quan do đáp ứng mất điều hoà của cơ thể với nhiễm khuẩn, vận hành bằng mức tăng SOFA từ 2 điểm, và thuật ngữ nhiễm khuẩn huyết nặng bị loại bỏ.",
+    "Gần đây nhất, năm 2025 có thang SOFA-2 sau 30 năm, và năm 2026 Surviving Sepsis Campaign đưa ra bộ 129 khuyến cáo với khái niệm mức chắc chắn chẩn đoán.",
+    "Nếu phải tóm tắt cả chặng đường này trong một câu, thì đó là: trọng tâm đã chuyển từ viêm sang rối loạn chức năng cơ quan."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "gauge",
+   "rail": "dn",
+   "chapter": "SIRS: quá nhạy",
+   "title": "Thử chấm SIRS: một ca cúm thông thường",
+   "ref": "Tiêu chuẩn SIRS: Bone 1992, Bảng 1 · ca minh hoạ",
+   "max": 4,
+   "chip_cols": 2,
+   "zones": [
+    {
+     "to": 2,
+     "t": "< 2",
+     "c": "green"
+    },
+    {
+     "to": 4,
+     "t": "≥ 2: SIRS (+)",
+     "c": "coral"
+    }
+   ],
+   "parts": [
+    {
+     "t": "Sốt 38,6 °C",
+     "v": 1,
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Mạch 104 lần/phút",
+     "v": 1,
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Thở 22 lần/phút",
+     "v": 1,
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "verdict": "SIRS (+) nhưng không có rối loạn chức năng cơ quan nào",
+   "verdict_at": 4,
+   "lines": [
+    "Vì sao phải bỏ SIRS? Hãy thử chấm điểm. SIRS dương tính khi có ít nhất 2 trong 4 tiêu chí: thân nhiệt trên 38 độ hoặc dưới 36 độ; nhịp tim trên 90 lần mỗi phút; nhịp thở trên 20 lần mỗi phút hoặc PaCO₂ dưới 32; bạch cầu trên 12 nghìn, dưới 4 nghìn, hoặc trên 10 phần trăm bạch cầu non.",
+    "Một sinh viên 20 tuổi bị cúm, sốt 38,6 độ, được 1 điểm.",
+    "Mạch 104 lần mỗi phút, thêm 1 điểm.",
+    "Thở 22 lần mỗi phút, thêm 1 điểm nữa.",
+    "Ba trên bốn tiêu chí, SIRS dương tính. Theo Sepsis-1, nếu có nhiễm khuẩn, người này đã là nhiễm khuẩn huyết, dù hoàn toàn không có cơ quan nào bị tổn thương. Ngay trong bài báo gốc năm 1992, SIRS đã nhận diện 503 trên 519, tức 96,9 phần trăm người bệnh nhập hồi sức vì nhiễm khuẩn huyết. Rất nhạy, nhưng quá rộng: sốt và mạch nhanh là phản ứng bình thường, thậm chí có lợi, của cơ thể trước nhiễm khuẩn."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "box",
+   "rail": "dn",
+   "chapter": "Định nghĩa Sepsis-3",
+   "title": "Định nghĩa hiện hành (Sepsis-3, 2016)",
+   "ref": "Singer M và cs., JAMA 2016, tr. 801, 804–805",
+   "box": {
+    "tag": "NHIỄM KHUẨN HUYẾT",
+    "t": "<b>Rối loạn chức năng cơ quan đe doạ tính mạng</b>, do <em>đáp ứng mất điều hoà</em> của cơ thể với nhiễm khuẩn",
+    "at": 0,
+    "c": "coral",
+    "size": 38
+   },
+   "notes": [
+    {
+     "tag": "VẬN HÀNH",
+     "t": "Tăng cấp tổng điểm SOFA <b>≥ 2</b> do nhiễm khuẩn · nền = 0 nếu không biết bệnh cơ quan có trước",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "TIÊN LƯỢNG",
+     "t": "SOFA ≥ 2: tử vong nội viện <b>> 10%</b>",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "BỎ",
+     "t": "“Nhiễm khuẩn huyết nặng” · thuật ngữ thừa",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Đây là định nghĩa hiện hành, Sepsis-3 năm 2016: nhiễm khuẩn huyết là rối loạn chức năng cơ quan đe doạ tính mạng, do đáp ứng mất điều hoà của cơ thể với nhiễm khuẩn.",
+    "Xin quý vị chú ý hai cụm từ. Cụm thứ nhất, rối loạn chức năng cơ quan: chính đó là điều phân biệt nhiễm khuẩn huyết với một nhiễm khuẩn thông thường. Cụm thứ hai, đáp ứng mất điều hoà: tức là đáp ứng của cơ thể không còn giữ được cân bằng nội môi, và chính đáp ứng đó gây hại.",
+    "Trên lâm sàng, rối loạn chức năng cơ quan được vận hành bằng mức tăng cấp tổng điểm SOFA từ 2 điểm trở lên do nhiễm khuẩn. Nếu không biết người bệnh có bệnh cơ quan từ trước, điểm nền được coi bằng 0.",
+    "Mức tăng này không phải con số tuỳ tiện: SOFA từ 2 điểm gắn với tử vong nội viện trên 10 phần trăm, tức là cứ mười người thì có hơn một người tử vong.",
+    "Và vì định nghĩa mới đã bao hàm rối loạn chức năng cơ quan, thuật ngữ nhiễm khuẩn huyết nặng trở nên thừa và bị loại bỏ. Quý vị sẽ còn gặp thuật ngữ này trong nhiều văn bản cũ, kể cả hướng dẫn trong nước năm 2015."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "bars",
+   "rail": "dn",
+   "chapter": "Bằng chứng của Sepsis-3",
+   "title": "SOFA hay SIRS? Dữ liệu 1,3 triệu lượt khám",
+   "ref": "Seymour CW và cs., JAMA 2016, tr. 762 · diện tích dưới đường cong ROC dự báo tử vong nội viện",
+   "groups": [
+    {
+     "t": "Trong hồi sức",
+     "d": "SOFA so với SIRS",
+     "at": 0,
+     "c": "teal",
+     "hl": true,
+     "bars": [
+      {
+       "k": "SOFA",
+       "v": 74,
+       "lab": "0,74"
+      },
+      {
+       "k": "SIRS",
+       "v": 64,
+       "lab": "0,64"
+      }
+     ],
+     "note": "SOFA tốt hơn rõ"
+    },
+    {
+     "t": "Trong hồi sức",
+     "d": "SOFA so với qSOFA",
+     "at": 1,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "SOFA",
+       "v": 74,
+       "lab": "0,74"
+      },
+      {
+       "k": "qSOFA",
+       "v": 66,
+       "lab": "0,66"
+      }
+     ]
+    },
+    {
+     "t": "Ngoài hồi sức",
+     "d": "qSOFA so với SIRS",
+     "at": 2,
+     "c": "coral",
+     "hl": true,
+     "bars": [
+      {
+       "k": "qSOFA",
+       "v": 81,
+       "lab": "0,81"
+      },
+      {
+       "k": "SIRS",
+       "v": 76,
+       "lab": "0,76"
+      }
+     ],
+     "note": "qSOFA đơn giản mà tốt"
+    },
+    {
+     "t": "Ngoài hồi sức",
+     "d": "qSOFA so với SOFA",
+     "at": 3,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "qSOFA",
+       "v": 81,
+       "lab": "0,81"
+      },
+      {
+       "k": "SOFA",
+       "v": 79,
+       "lab": "0,79"
+      }
+     ]
+    }
+   ],
+   "max": 90,
+   "h": 540,
+   "notes": [
+    {
+     "tag": "DỮ LIỆU",
+     "t": "> 1,3 triệu lượt khám, 12 bệnh viện · kiểm định ngoài 706.399 lượt nghi nhiễm khuẩn",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "Ý NGHĨA",
+     "t": "Đo rối loạn cơ quan dự báo tử vong tốt hơn đo viêm",
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Sepsis-3 không phải ý kiến chuyên gia đơn thuần. Nhóm của Seymour đã phân tích hơn 1,3 triệu lượt khám ở 12 bệnh viện, và kiểm định ngoài trên hơn 706 nghìn lượt nghi nhiễm khuẩn. Trong hồi sức, khả năng dự báo tử vong nội viện của SOFA đạt diện tích dưới đường cong 0,74, so với 0,64 của SIRS.",
+    "qSOFA trong hồi sức chỉ đạt 0,66, kém SOFA, vì người bệnh hồi sức đã được thở máy, an thần, dùng vận mạch, nên ba dấu hiệu đơn giản của qSOFA mất giá trị.",
+    "Ngược lại, ngoài hồi sức, tại khoa cấp cứu và các khoa phòng, qSOFA lại dự báo tốt nhất: 0,81, so với SIRS 0,76.",
+    "Và thậm chí nhỉnh hơn cả SOFA đầy đủ là 0,79, trong khi chỉ cần ba dấu hiệu tại giường, không cần xét nghiệm.",
+    "Thông điệp rút ra: đo rối loạn chức năng cơ quan dự báo kết cục tốt hơn đo mức độ viêm. Đó là nền tảng dữ liệu để chuyển từ SIRS sang SOFA."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "list",
+   "rail": "cd",
+   "chapter": "qSOFA: dùng đúng chỗ",
+   "title": "qSOFA: báo nguy cơ, không để chẩn đoán",
+   "dense": true,
+   "ref": "Seymour 2016, Bảng 4, tr. 771–772 · SSC 2026, KC 4 (mạnh, bằng chứng vừa)",
+   "items": [
+    {
+     "t": "Nhịp thở ≥ 22 lần/phút",
+     "d": "1 điểm",
+     "c": "teal",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "Huyết áp tâm thu ≤ 100 mmHg",
+     "d": "1 điểm",
+     "c": "coral",
+     "at": 0,
+     "n": "2"
+    },
+    {
+     "t": "Thay đổi ý thức",
+     "d": "1 điểm · GCS ≤ 13 trong mô hình gốc",
+     "c": "violet",
+     "at": 0,
+     "n": "3"
+    },
+    {
+     "t": "≥ 2 điểm: nguy cơ diễn tiến xấu cao",
+     "d": "Tử vong tăng 3–14 lần tuỳ nguy cơ nền · KHÔNG dùng để chẩn đoán",
+     "c": "amber",
+     "at": 2,
+     "hl": true,
+     "n": "!"
+    },
+    {
+     "t": "SSC 2026: không dùng qSOFA đơn độc để sàng lọc",
+     "d": "Ưu tiên NEWS, NEWS2, MEWS hoặc SIRS · khuyến cáo mạnh",
+     "c": "blue",
+     "at": 3,
+     "n": "✓"
+    }
+   ],
+   "lines": [
+    "Từ dữ liệu đó ra đời qSOFA, gồm ba tiêu chí, mỗi tiêu chí 1 điểm: nhịp thở từ 22 lần mỗi phút; huyết áp tâm thu từ 100 trở xuống; và thay đổi ý thức.",
+    "Rất dễ nhớ, rất dễ làm tại giường. Nhưng đây cũng là chỗ thực hành hay sai nhất.",
+    "qSOFA từ 2 điểm chỉ có nghĩa là người bệnh đã nghi nhiễm khuẩn có nguy cơ diễn tiến xấu cao, tử vong tăng từ 3 đến 14 lần tuỳ nguy cơ nền. Ngay trong bài gốc, các tác giả đã nhấn mạnh: qSOFA không phải tiêu chuẩn chẩn đoán nhiễm khuẩn huyết. Một người qSOFA 0 hoặc 1 điểm vẫn có thể đang suy thận cấp do nhiễm khuẩn.",
+    "Vì độ nhạy thấp, Surviving Sepsis Campaign 2026 khuyến cáo mạnh, với bằng chứng mức vừa: khi dùng một công cụ đơn độc để sàng lọc người bệnh nội viện, hãy dùng NEWS, NEWS2, MEWS hoặc SIRS thay vì qSOFA. Nói cách khác, SIRS bị loại khỏi định nghĩa, nhưng vẫn còn chỗ đứng như một công cụ sàng lọc nhạy."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "box",
+   "rail": "dn",
+   "chapter": "Sốc nhiễm khuẩn",
+   "title": "Sốc nhiễm khuẩn: phải đủ cả hai điều kiện",
+   "ref": "Singer 2016, tr. 801, 806 · Shankar-Hari 2016, tr. 775, 781",
+   "box": {
+    "tag": "SỐC NHIỄM KHUẨN",
+    "t": "Nhiễm khuẩn huyết <b>+</b> cần <b>vận mạch</b> để giữ MAP ≥ 65 mmHg <b>+</b> <b>lactate > 2 mmol/L</b> (> 18 mg/dL) <em>dù đã bù đủ dịch</em>",
+    "at": 0,
+    "c": "coral",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "KHÁI NIỆM",
+     "t": "Một nhóm con của nhiễm khuẩn huyết · rối loạn tuần hoàn, tế bào, chuyển hoá đủ nặng",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "TỬ VONG",
+     "t": "Nội viện > 40% · tổng quan hệ thống: 46,5% (KTC 95% 42,7–50,3)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CHƯA QUY ĐỊNH",
+     "t": "Liều vận mạch tối thiểu, thể tích dịch “đủ”, thời gian tụt huyết áp",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Tiếp theo là sốc nhiễm khuẩn. Theo Sepsis-3, đây là nhiễm khuẩn huyết cần thuốc vận mạch để giữ huyết áp trung bình từ 65 trở lên, và có lactate trên 2 mi li mol mỗi lít, dù đã bù đủ dịch.",
+    "Về khái niệm, sốc nhiễm khuẩn là một nhóm con của nhiễm khuẩn huyết, trong đó bất thường về tuần hoàn, tế bào và chuyển hoá đủ nặng để làm tăng đáng kể tử vong.",
+    "Và mức tăng đó rất rõ: tử vong nội viện trên 40 phần trăm. Tổng quan hệ thống của chính nhóm Sepsis-3 cho tỷ lệ 46,5 phần trăm, dù dao động rất rộng giữa các nghiên cứu.",
+    "Xin nhấn mạnh: phải đủ cả hai điều kiện, vận mạch và lactate. Tụt huyết áp đơn thuần chưa đủ, mà lactate cao đơn thuần cũng chưa đủ.",
+    "Một điểm thực hành: Sepsis-3 không quy định liều vận mạch tối thiểu, cũng không định nghĩa bao nhiêu dịch là đủ, hay tụt huyết áp bao lâu. Những chỗ trống này đòi hỏi phán đoán lâm sàng."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "stats",
+   "rail": "tl",
+   "chapter": "Vì sao chọn lactate > 2",
+   "title": "Lactate và tử vong trong cơ sở dữ liệu 18.840 người bệnh",
+   "ref": "Shankar-Hari M và cs., JAMA 2016, Bảng 3–4, tr. 781–783",
+   "tiles": [
+    {
+     "tag": "ĐỦ 3 YẾU TỐ",
+     "v": 42.3,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong",
+     "d": "Tụt áp sau dịch + vận mạch + lactate > 2",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "LACTATE > 2–3",
+     "v": 33.3,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong",
+     "d": "Đã có vận mạch",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "LACTATE > 4",
+     "v": 49.7,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong",
+     "d": "Đã có vận mạch · (> 3–4: 36,2%)",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "SỐC KÍN",
+     "v": 25.7,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong",
+     "d": "Lactate > 2, không tụt huyết áp",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "cols": 4,
+   "h": 420,
+   "note": {
+    "t": "Ngưỡng 2 mmol/L: thấp nhất còn liên quan độc lập với tử vong, độ nhạy cao nhất (82,5%) · mỗi 1 mmol/L tăng: OR 1,09",
+    "at": 3,
+    "c": "teal"
+   },
+   "lines": [
+    "Vì sao lactate được đưa vào tiêu chuẩn sốc? Nhóm của Shankar-Hari phân tích cơ sở dữ liệu của Surviving Sepsis Campaign với 18.840 người bệnh. Nhóm có đủ ba yếu tố, tụt huyết áp sau bù dịch, cần vận mạch và lactate trên 2, có tử vong 42,3 phần trăm, cao hơn mọi nhóm thiếu một yếu tố.",
+    "Trong số người đã cần vận mạch, tử vong tăng dần theo lactate.",
+    "Từ 33,3 phần trăm khi lactate trên 2 đến 3, lên 36,2 phần trăm khi trên 3 đến 4, và gần một nửa, 49,7 phần trăm, khi lactate trên 4.",
+    "Ngưỡng 2 được chọn vì là ngưỡng thấp nhất còn liên quan độc lập với tử vong và có độ nhạy cao nhất, 82,5 phần trăm. Mỗi 1 mi li mol lactate tăng thêm làm odds tử vong tăng khoảng 1,09 lần.",
+    "Và đừng bỏ qua nhóm cuối: sốc kín, tức lactate trên 2 sau bù dịch nhưng không tụt huyết áp, không cần vận mạch. Nhóm này không đạt tiêu chuẩn sốc, nhưng tử vong vẫn 25,7 phần trăm. Huyết áp bình thường không có nghĩa là tưới máu mô bình thường."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "SOFA-2 (1)",
+   "title": "Bảng SOFA-2: não, hô hấp, tim mạch",
+   "ref": "Ranzani OT và cs., JAMA 2025, Bảng 2 · lấy điểm cao nhất mỗi cơ quan trong 24 giờ",
+   "head": [
+    "Cơ quan",
+    "1 điểm",
+    "2 điểm",
+    "3 điểm",
+    "4 điểm"
+   ],
+   "widths": "0.85fr 1.2fr 1.2fr 1.3fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Não</b>",
+      "GCS 13–14 <b>hoặc cần thuốc trị sảng</b>",
+      "GCS 9–12",
+      "GCS 6–8",
+      "GCS 3–5"
+     ],
+     "at": 0,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Hô hấp</b><br>PaO₂/FiO₂",
+      "≤ 300",
+      "≤ 225",
+      "≤ 150 <b>+ hỗ trợ hô hấp nâng cao</b>",
+      "≤ 75 + hỗ trợ, <b>hoặc ECMO</b>"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Tim mạch</b><br>NE + E µg/kg/phút",
+      "MAP < 70, chưa thuốc",
+      "≤ 0,2 hoặc thuốc khác bất kỳ liều",
+      "> 0,2–0,4 hoặc ≤ 0,2 + thuốc khác",
+      "> 0,4 · liều vừa + thuốc khác · <b>hỗ trợ cơ học</b>"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bây giờ đến công cụ đo rối loạn chức năng cơ quan: thang SOFA-2, công bố năm 2025, sau 30 năm dùng SOFA gốc. Vẫn sáu cơ quan, mỗi cơ quan 0 đến 4 điểm, tổng 0 đến 24, lấy điểm xấu nhất của từng cơ quan trong 24 giờ. Với não, điểm chấm theo điểm Glasgow như cũ, nhưng có một điểm mới: người bệnh đang cần thuốc điều trị sảng được 1 điểm dù Glasgow 15. Người đang an thần thì dùng điểm Glasgow cuối cùng trước an thần.",
+    "Với hô hấp, ngưỡng pê a ô hai trên ép i ô hai là 300, 225, 150 và 75.",
+    "Điểm mới quan trọng: để được 3 hoặc 4 điểm, người bệnh phải đang có hỗ trợ hô hấp nâng cao, gồm oxy dòng cao qua mũi, áp lực dương liên tục, thở máy không xâm nhập hoặc xâm nhập. ECMO vì suy hô hấp được thẳng 4 điểm. Khi không có khí máu, có thể dùng tỷ số SpO₂ trên FiO₂ với các ngưỡng riêng.",
+    "Với tim mạch, SOFA-2 cộng tổng liều norepinephrine và epinephrine: đến 0,2 microgam mỗi ký mỗi phút được 2 điểm; trên 0,2 đến 0,4 được 3 điểm; trên 0,4, hoặc liều vừa kèm thêm một thuốc vận mạch khác như vasopressin, hoặc hỗ trợ tuần hoàn cơ học, được 4 điểm. Chỉ tính thuốc truyền liên tục ít nhất 1 giờ, và liều norepinephrine tính theo dạng base."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "SOFA-2 (2)",
+   "title": "Bảng SOFA-2: gan, thận, cầm máu",
+   "ref": "Ranzani 2025, Bảng 2 · bilirubin, creatinin: mg/dL (µmol/L)",
+   "head": [
+    "Cơ quan",
+    "1 điểm",
+    "2 điểm",
+    "3 điểm",
+    "4 điểm"
+   ],
+   "widths": "0.85fr 1.2fr 1.3fr 1.3fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Gan</b><br>bilirubin",
+      "≤ 3,0 (≤ 51)",
+      "≤ 6,0 (≤ 103)",
+      "≤ 12,0 (≤ 205)",
+      "> 12 (> 205)"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Thận</b>",
+      "Creatinin ≤ 2,0 (≤ 170) <b>hoặc</b> nước tiểu < 0,5 mL/kg/giờ 6–12 giờ",
+      "≤ 3,5 (≤ 300) hoặc < 0,5 ≥ 12 giờ",
+      "> 3,5 hoặc < 0,3 ≥ 24 giờ hoặc vô niệu ≥ 12 giờ",
+      "<b>Đang lọc máu hoặc đủ tiêu chuẩn lọc máu</b>"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Cầm máu</b><br>tiểu cầu ×10³/µL",
+      "≤ 150",
+      "≤ 100",
+      "<b>≤ 80</b>",
+      "<b>≤ 50</b>"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Ba cơ quan còn lại. Gan vẫn chấm theo bilirubin toàn phần, ngưỡng 1 điểm là đến 3 mi li gam mỗi đề xi lít, 2 điểm đến 6, 3 điểm đến 12, và trên 12 là 4 điểm.",
+    "Thận có hai thay đổi lớn. Thứ nhất, lượng nước tiểu được chấm song song với creatinin, theo thời gian thiểu niệu. Thứ hai, 4 điểm dành cho người đang lọc máu, hoặc đủ tiêu chuẩn lọc máu nhưng chưa lọc, chẳng hạn vì thiếu máy.",
+    "Đủ tiêu chuẩn ở đây có định nghĩa cụ thể: creatinin trên 1,2 hoặc nước tiểu dưới 0,3 mi li lít mỗi ký mỗi giờ trên 6 giờ, kèm kali từ 6 trở lên, hoặc pH từ 7,20 trở xuống với bicarbonat từ 12 trở xuống. Lọc máu chỉ vì lý do ngoài thận, như lọc độc chất hay lọc cytokine, không được tính.",
+    "Cầm máu có ngưỡng tiểu cầu mới: 150, 100, rồi 80 và 50 nghìn. Ngưỡng 80 và 50 là ngưỡng mới của SOFA-2."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "cards",
+   "rail": "tl",
+   "chapter": "SOFA-2 khác gì",
+   "title": "SOFA-2: điều gì mới, giá trị tiên lượng ra sao",
+   "ref": "Ranzani 2025, pdf 1–11",
+   "cards": [
+    {
+     "tag": "DỮ LIỆU",
+     "t": "3,34 triệu lượt nhập hồi sức",
+     "items": [
+      "1.319 khoa hồi sức, 9 nước",
+      "Tử vong hồi sức 8,1%"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "MỚI",
+     "t": "Chấm theo hỗ trợ hiện đại",
+     "items": [
+      "Oxy dòng cao, thở máy không xâm nhập, ECMO",
+      "Hỗ trợ tuần hoàn cơ học, thuốc trị sảng",
+      "Nước tiểu, “đủ tiêu chuẩn lọc máu”"
+     ],
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "DỰ BÁO",
+     "t": "Tương đương, nhỉnh hơn",
+     "items": [
+      "Diện tích dưới đường cong: 0,79 so với 0,77",
+      "Mỗi 1 điểm: OR tử vong 1,378",
+      "Phân loại lại: 40% điểm thấp hơn, 11% cao hơn"
+     ],
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "tag": "GIỚI HẠN",
+     "t": "Chưa phải định nghĩa mới",
+     "items": [
+      "Không thay tiêu chuẩn Sepsis-3",
+      "Mới kiểm định trong hồi sức",
+      "Chưa có tiêu hoá, miễn dịch"
+     ],
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "h": 600,
+   "lines": [
+    "SOFA-2 được xây dựng trên dữ liệu rất lớn: hơn 3,3 triệu lượt nhập hồi sức tại 1.319 khoa hồi sức ở 9 quốc gia.",
+    "Điểm mới cốt lõi là chấm theo các biện pháp hỗ trợ cơ quan mà năm 1996 chưa phổ biến: oxy dòng cao, thở máy không xâm nhập, ECMO, hỗ trợ tuần hoàn cơ học, thuốc điều trị sảng, lượng nước tiểu và tiêu chuẩn đủ điều kiện lọc máu.",
+    "Khả năng dự báo tử vong hồi sức của SOFA-2 đạt diện tích dưới đường cong 0,79, so với 0,77 của SOFA gốc. Mỗi điểm tăng thêm làm tăng odds tử vong khoảng 1,38 lần. Khi chấm lại, 49 phần trăm người bệnh giữ nguyên tổng điểm, 40 phần trăm có điểm thấp hơn và 11 phần trăm cao hơn.",
+    "Nhưng cần nhớ ba giới hạn: SOFA-2 không phải định nghĩa nhiễm khuẩn huyết mới và không tự thay tiêu chuẩn Sepsis-3; nó mới được kiểm định trong hồi sức, chưa rõ giá trị ở khoa cấp cứu, ngoài hồi sức hay ở trẻ em; và hệ tiêu hoá, miễn dịch vẫn chưa có trong thang."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "gauge",
+   "rail": "cd",
+   "chapter": "Tính SOFA-2 tại giường",
+   "title": "Tính SOFA-2: viêm phổi, sốc, vào hồi sức",
+   "ref": "Ca minh hoạ · áp dụng Ranzani 2025, Bảng 2",
+   "max": 24,
+   "chip_cols": 3,
+   "zones": [
+    {
+     "to": 2,
+     "t": "< 2",
+     "c": "green"
+    },
+    {
+     "to": 24,
+     "t": "≥ 2: rối loạn chức năng cơ quan",
+     "c": "coral"
+    }
+   ],
+   "parts": [
+    {
+     "t": "Não · GCS 13 → 1",
+     "v": 1,
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "t": "Hô hấp · P/F 140 + oxy dòng cao → 3",
+     "v": 3,
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Tim mạch · NE 0,3 + vasopressin → 4",
+     "v": 4,
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Thận · creatinin 1,8 mg/dL → 1",
+     "v": 1,
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "t": "Tiểu cầu 95 → 2",
+     "v": 2,
+     "at": 5,
+     "c": "amber"
+    }
+   ],
+   "verdict": "SOFA-2 = 11 điểm (gan 0) · nhiễm khuẩn huyết; kèm lactate > 2 → sốc nhiễm khuẩn",
+   "verdict_at": 6,
+   "lines": [
+    "Hãy cùng tính SOFA-2 trên một ca minh hoạ. Nam 58 tuổi, viêm phổi cộng đồng, được chuyển vào hồi sức trong tình trạng sốc, chưa rõ bệnh cơ quan nào từ trước, nên điểm nền bằng 0.",
+    "Não: điểm Glasgow 13, được 1 điểm.",
+    "Hô hấp: pê a ô hai trên ép i ô hai 140 trong khi đang thở oxy dòng cao qua mũi, tức là có hỗ trợ hô hấp nâng cao, được 3 điểm. Nếu không có hỗ trợ nâng cao, người này chỉ được tối đa 2 điểm.",
+    "Tim mạch: norepinephrine 0,3 microgam mỗi ký mỗi phút, là liều vừa, kèm vasopressin, tức là thêm một thuốc khác, được 4 điểm.",
+    "Gan: bilirubin 1,0, được 0 điểm. Thận: creatinin 1,8 mi li gam mỗi đề xi lít, khoảng 160 micro mol mỗi lít, được 1 điểm.",
+    "Tiểu cầu 95 nghìn, nhỏ hơn hoặc bằng 100, được 2 điểm.",
+    "Tổng cộng 11 điểm. Người bệnh có rối loạn chức năng cơ quan rõ, đạt tiêu chuẩn nhiễm khuẩn huyết; và vì cần vận mạch với lactate vẫn trên 2 dù đã bù dịch, đây là sốc nhiễm khuẩn. Chúng ta sẽ gặp lại người bệnh này ở phần bốn."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "quiz",
+   "rail": "cd",
+   "chapter": "Tình huống",
+   "title": "Tình huống: viêm thận bể thận",
+   "ref": "Ca minh hoạ · Sepsis-3 · SOFA-2 (Ranzani 2025)",
+   "case": "Nữ 70 tuổi, viêm thận bể thận. Sốt 39 °C, mạch 110, thở <b>20</b> lần/phút, HA <b>118/70</b>, tỉnh táo. Creatinin <b>212 µmol/L</b> (2,4 mg/dL), không rõ bệnh thận trước đó. Tiểu cầu <b>140</b> ×10³/µL.",
+   "q": "Theo Sepsis-3, chẩn đoán phù hợp nhất?",
+   "options": [
+    "Nhiễm khuẩn tiết niệu đơn thuần vì qSOFA = 0",
+    "Nhiễm khuẩn huyết",
+    "Sốc nhiễm khuẩn",
+    "Nhiễm khuẩn huyết nặng"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "SOFA-2: thận <b>2</b> (> 170, ≤ 300 µmol/L) + tiểu cầu <b>1</b> (≤ 150) = tăng <b>3 điểm</b> → <b>nhiễm khuẩn huyết</b> · qSOFA 0 không loại trừ · không cần vận mạch → không phải sốc · “nặng” đã bị bỏ",
+   "lines": [
+    "Đến với tình huống. Một bà cụ 70 tuổi, viêm thận bể thận. Sốt 39 độ, mạch 110, thở 20 lần mỗi phút, huyết áp 118 trên 70, hoàn toàn tỉnh táo. Xét nghiệm có creatinin 212 micro mol mỗi lít, không rõ bệnh thận trước đó, tiểu cầu 140 nghìn.",
+    "Câu hỏi: theo Sepsis-3, chẩn đoán phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là nhiễm khuẩn huyết. Tính SOFA-2: creatinin 212 nằm trong khoảng trên 170 đến 300, được 2 điểm thận; tiểu cầu 140 được 1 điểm. Điểm nền coi là 0, vậy SOFA tăng 3 điểm, đủ tiêu chuẩn. qSOFA của bà bằng 0, vì thở 20, huyết áp tâm thu 118 và tỉnh táo; đây đúng là cái bẫy: qSOFA thấp không loại trừ nhiễm khuẩn huyết. Bà không cần vận mạch nên chưa phải sốc, và thuật ngữ nhiễm khuẩn huyết nặng đã bị bỏ."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "summary",
+   "rail": "tl",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp của Phần 1",
+   "dense": true,
+   "items": [
+    {
+     "t": "Rối loạn chức năng cơ quan do đáp ứng mất điều hoà",
+     "d": "Không phải “vi khuẩn trong máu”, cũng không phải “viêm”",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "t": "Vận hành: SOFA tăng ≥ 2 → tử vong > 10%",
+     "d": "Nền = 0 nếu không biết bệnh có trước",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Sốc = vận mạch giữ MAP ≥ 65 + lactate > 2 sau đủ dịch",
+     "d": "Tử vong > 40% · sốc kín vẫn 25,7%",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "t": "qSOFA báo nguy cơ, không chẩn đoán",
+     "d": "Sàng lọc: NEWS, NEWS2, MEWS, SIRS (SSC 2026)",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "t": "SOFA-2: chấm theo hỗ trợ cơ quan hiện đại",
+     "d": "Hỗ trợ hô hấp nâng cao, NE + E, nước tiểu, tiểu cầu 80/50",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "t": "“Nhiễm khuẩn huyết nặng” đã bị bỏ",
+     "d": "Gặp trong văn bản cũ, kể cả hướng dẫn 2015",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết sáu thông điệp của phần một. Một, nhiễm khuẩn huyết là rối loạn chức năng cơ quan đe doạ tính mạng do đáp ứng mất điều hoà với nhiễm khuẩn.",
+    "Hai, trên lâm sàng đó là SOFA tăng từ 2 điểm, đi kèm tử vong nội viện trên 10 phần trăm.",
+    "Ba, sốc nhiễm khuẩn cần đủ vận mạch để giữ huyết áp trung bình 65 và lactate trên 2 sau bù đủ dịch, tử vong trên 40 phần trăm.",
+    "Bốn, qSOFA chỉ báo nguy cơ, không dùng để chẩn đoán hay sàng lọc đơn độc.",
+    "Năm, SOFA-2 chấm theo các biện pháp hỗ trợ cơ quan hiện đại. Và sáu, thuật ngữ nhiễm khuẩn huyết nặng đã bị loại bỏ.",
+    "Trong phần hai, chúng ta sẽ đi vào bên trong cơ thể người bệnh: điều gì thực sự xảy ra khi đáp ứng bảo vệ trở nên mất điều hoà, từ thụ thể nhận diện mầm bệnh, bão cytokine, đến miễn dịch huyết khối và lớp glycocalyx bị bóc trần. Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn gặp lại trên Thư Viện Y Khoa Online."
+   ],
+   "id": "s16"
+  }
+ ]
+}

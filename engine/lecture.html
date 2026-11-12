@@ -170,7 +170,7 @@ const L={
      ${s.numbered===false?`<div class="n" style="width:20px;height:20px;margin-top:12px"></div>`:`<div class="n">${it.n??i+1}</div>`}
      <div><div class="tx">${esc(it.t)}</div>${it.d?`<div class="ds">${esc(it.d)}</div>`:''}</div></div>`).join('')}</div>`},
 
- timeline:s=>{const n=s.events.length, w=1776/n;
+ timeline:s=>{const n=s.events.length, w=((typeof TL!=='undefined'&&TL.rail&&TL.rail.length)?1448:1776)/n;
    return `<div class="tl"></div><div class="tlf" data-a="growx" data-in="${at(s.events[0].at)}" data-to="${at(s.events[n-1].at)}" style="width:0"></div>
    ${s.events.map((e,i)=>`<div class="ev ${C(e.c)}" style="left:${i*w+w/2-145}px;top:${110}px" data-in="${at(e.at)}" data-hl="${at(e.at)}">
      <div class="yr acc">${esc(e.year)}</div><div class="dot"></div><div class="et">${esc(e.t)}</div><div class="ed">${esc(e.d||'')}</div></div>`).join('')}
@@ -218,7 +218,7 @@ L.hook=s=>`<div class="hook"><div class="kick" data-in="0">${esc(s.kicker||'')}<
 /* ---------- media: ảnh / clip thật + chú thích động ---------- */
 L.media=s=>{
  const P=s.panels||[], N=s.notes||[], gap=22, H=s.h||692;
- const nw=N.length?(s.notes_w||500):0, W=1776-(nw?nw+gap:0);
+ const nw=N.length?(s.notes_w||500):0, W0=(typeof TL!=='undefined'&&TL.rail&&TL.rail.length)?1448:1776, W=W0-(nw?nw+gap:0);
  const tw=P.reduce((a,p)=>a+(p.flex||1),0);
  const pan=P.map(p=>{
    const pw=(W-gap*(P.length-1))*(p.flex||1)/tw, capH=(p.cap||p.credit)?62:0, ah=H-capH-20, ar=p.ar||1.4;
