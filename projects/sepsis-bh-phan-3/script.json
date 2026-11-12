@@ -1,0 +1,1132 @@
+{
+ "title": "Nhiễm khuẩn huyết và sốc nhiễm khuẩn – Phần 3: Lâm sàng, huyết động và chẩn đoán phân biệt",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Nhiễm khuẩn huyết · Bệnh học · Phần 3/4",
+ "source_short": "Nguồn: Sepsis-3 2016 · SOFA-2 2025 · SSC 2026 · Mandell 10e · Meyer NEJM 2024",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "MALDI-TOF": "man đi tóp",
+  "PCR": "pê xê e",
+  "SAE": "bệnh não do nhiễm khuẩn huyết",
+  "ARDS": "a đờ",
+  "AKI": "tổn thương thận cấp",
+  "ScvO₂": "ét xê vê ô hai",
+  "SvO₂": "ét vê ô hai",
+  "CVP": "áp lực tĩnh mạch trung tâm",
+  "EGDT": "hồi sức theo mục tiêu sớm",
+  "aPTT": "a pê tê tê",
+  "INR": "i en e",
+  "COPD": "bệnh phổi tắc nghẽn mạn tính",
+  "HIV": "hát i vê",
+  "EF": "phân suất tống máu",
+  "Sepsis-1": "Sép xít một",
+  "Sepsis-2": "Sép xít hai",
+  "Sepsis-3": "Sép xít ba",
+  "SOFA-2": "sô pha hai",
+  "qSOFA": "quick sô pha",
+  "SOFA": "sô pha",
+  "NEWS2": "niu hai",
+  "NEWS": "niu",
+  "MEWS": "miu",
+  "SIRS": "xia",
+  "sepsis": "sép xít",
+  "Sepsis": "Sép xít",
+  "AUROC": "diện tích dưới đường cong",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SpO₂": "ét pê ô hai",
+  "PaCO₂": "pê a cê ô hai",
+  "GCS": "điểm Glasgow",
+  "ECMO": "ếch mô",
+  "HFNC": "oxy dòng cao qua mũi",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micro mol mỗi lít",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "µg/kg/phút": "microgam mỗi ký mỗi phút",
+  "ICU": "hồi sức",
+  "SSC": "ét ét xê",
+  "PIRO": "pi rô",
+  "MODS": "suy đa cơ quan"
+ },
+ "brand": {
+  "next": "Phần 4: Ca lâm sàng – từ cấp cứu vào hồi sức"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Bệnh sinh"
+  },
+  {
+   "k": "ls",
+   "t": "Lâm sàng"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "tl",
+   "t": "Tiên lượng"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Nhiễm khuẩn huyết",
+   "title": "Tại giường bệnh:<br>huyết động, cơ quan<br>và chẩn đoán phân biệt",
+   "subtitle": "Phần 3 · Lâm sàng, cận lâm sàng, phân biệt sốc",
+   "badges": [
+    {
+     "t": "Ổ nhiễm",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Lactate",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "4 loại sốc",
+     "c": "coral",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · Phần 3/4",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, sau khi đi vào bên trong cơ thể ở phần hai, phần ba đưa chúng ta trở lại giường bệnh.",
+    "Chúng ta sẽ trả lời năm câu hỏi thực hành: ổ nhiễm thường ở đâu và trông thế nào trên hình ảnh; người bệnh nhiễm khuẩn huyết biểu hiện ra sao và cần xét nghiệm gì; huyết động của sốc nhiễm khuẩn và ý nghĩa thật của lactate; các cơ quan suy như thế nào; và làm sao phân biệt sốc nhiễm khuẩn với các loại sốc khác.",
+    "Cuối phần, chúng ta sẽ đặt định nghĩa hiện hành cạnh hướng dẫn trong nước năm 2015 để thấy những điểm đã thay đổi."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "stats",
+   "rail": "dn",
+   "chapter": "Ổ nhiễm và tác nhân",
+   "title": "Ổ nhiễm: phổi đứng đầu",
+   "ref": "Meyer 2024, tr. 2133 · Mandell 10e, tr. 932, 942",
+   "tiles": [
+    {
+     "tag": "HÔ HẤP",
+     "v": 60,
+     "pre": "40–",
+     "suf": "%",
+     "l": "ca nhiễm khuẩn huyết",
+     "d": "Ổ hay gặp nhất",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "Ổ BỤNG",
+     "v": 30,
+     "pre": "15–",
+     "suf": "%",
+     "l": "ca",
+     "d": "Mật, ruột, phúc mạc",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "TIẾT NIỆU – SINH DỤC",
+     "v": 30,
+     "pre": "15–",
+     "suf": "%",
+     "l": "ca",
+     "d": "Viêm thận bể thận, tắc nghẽn",
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "tag": "KHÔNG TÌM ĐƯỢC Ổ",
+     "v": 6,
+     "pre": "1/",
+     "l": "người bệnh",
+     "d": "Tác nhân xác định được ở ~2/3",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "cols": 4,
+   "h": 430,
+   "note": {
+    "t": "Phổi, ổ bụng, tiết niệu, da – mô mềm: 80–90% · ~6% có > 1 ổ · nơi nghèo nguồn lực: tiêu chảy nổi bật",
+    "at": 2,
+    "c": "teal"
+   },
+   "lines": [
+    "Bắt đầu từ ổ nhiễm. Theo tổng quan của Meyer năm 2024, hô hấp là ổ hay gặp nhất, chiếm 40 đến 60 phần trăm số ca nhiễm khuẩn huyết.",
+    "Tiếp theo là ổ bụng và đường tiết niệu sinh dục, mỗi nhóm 15 đến 30 phần trăm.",
+    "Theo Mandell, ở người lớn tại các nước thu nhập cao, bốn ổ phổi, ổ bụng, tiết niệu và da mô mềm chiếm 80 đến 90 phần trăm. Khoảng 6 phần trăm có hơn một ổ, và ở những nơi nghèo nguồn lực, tiêu chảy là nguyên nhân nổi bật.",
+    "Nhưng có hai con số khiêm tốn cần nhớ: khoảng một phần sáu người bệnh không tìm được ổ nhiễm, và tác nhân vi sinh chỉ xác định được ở khoảng hai phần ba. Vi khuẩn Gram dương và Gram âm chiếm đa số, sau đó là nấm và virus. Bệnh nền hay gặp gồm bệnh phổi tắc nghẽn mạn tính, ung thư, HIV, bệnh gan, bệnh thận mạn, đái tháo đường và bệnh tự miễn."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "media",
+   "h": 640,
+   "rail": "ls",
+   "chapter": "Ổ nhiễm: phổi",
+   "title": "Ổ nhiễm hô hấp trên X-quang và siêu âm",
+   "ref": "Ảnh và clip thật · Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/cxr_lobar.jpg",
+     "ar": 1.257,
+     "credit": "Ảnh: Mikael Häggström · CC0 · Wikimedia Commons",
+     "flex": 1.2,
+     "at": 0,
+     "cap": "X-quang: đông đặc thuỳ giữa phổi phải",
+     "zoom": {
+      "x": 30,
+      "y": 55,
+      "s": 1.6,
+      "at": 0,
+      "out": "L2"
+     }
+    },
+    {
+     "seq": "../../media/sepsis/lus_consol/f_%03d.jpg",
+     "n": 150,
+     "fps": 15,
+     "ar": 1.2,
+     "credit": "Ảnh: Gillman L, Kirkpatrick A · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 2,
+     "cap": "Siêu âm phổi tại giường: đông đặc, hình ảnh “gan hoá”",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 88,
+       "t": "Phổi đông đặc, mất khí",
+       "c": "coral",
+       "at": 3
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "X-QUANG",
+     "t": "Chụp sớm để xác định ổ: ngực, CT xoang, phổi, gan, ổ bụng",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "SIÊU ÂM",
+     "t": "Tại giường, nhanh: phổi, túi mật, thận · đồng thời đánh giá huyết động",
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Đây là hình ảnh của ổ nhiễm hay gặp nhất. Phim X-quang ngực cho thấy đám mờ đông đặc ở thuỳ giữa phổi phải.",
+    "Mandell khuyên chụp hình ảnh sớm để xác định ổ nhiễm: X-quang ngực, chụp cắt lớp xoang, phổi, gan, ổ bụng tuỳ bệnh cảnh, và siêu âm túi mật, thận.",
+    "Bên phải là một đoạn siêu âm phổi tại giường. Vùng phổi đông đặc mất khí nên sóng siêu âm đi qua được, nhu mô phổi hiện lên đặc như mô gan, gọi là hình ảnh gan hoá.",
+    "Siêu âm tại giường có lợi thế lớn trong hồi sức: cùng một đầu dò, trong vài phút, ta vừa tìm ổ nhiễm ở phổi, túi mật, thận, vừa đánh giá tim và huyết động, điều sẽ rất quan trọng khi phân biệt các loại sốc ở cuối bài."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "media",
+   "h": 640,
+   "rail": "ls",
+   "chapter": "Ổ nhiễm: bụng, thận, da",
+   "title": "Những ổ nhiễm cần tìm và kiểm soát",
+   "ref": "Ảnh thật · Wikimedia Commons · SSC 2026, KC 23–24",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/liver_abscess.png",
+     "ar": 1.24,
+     "credit": "Ảnh: James Heilman, MD · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "CT: áp xe gan lớn"
+    },
+    {
+     "src": "../../media/sepsis/raw/pyelo_ct.jpg",
+     "ar": 1.28,
+     "credit": "Ảnh: Hellerhoff · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1.15,
+     "at": 1,
+     "cap": "CT: viêm thận bể thận trái, giảm tưới máu"
+    },
+    {
+     "src": "../../media/sepsis/raw/cellulitis.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: John Campbell · CC0 · Wikimedia Commons",
+     "flex": 1.15,
+     "at": 2,
+     "cap": "Viêm mô tế bào cẳng chân"
+    }
+   ],
+   "lines": [
+    "Ngoài phổi, quý vị cần chủ động tìm các ổ nhiễm có thể dẫn lưu hoặc can thiệp. Bên trái là phim chụp cắt lớp ổ bụng với một vùng áp xe gan lớn, giảm tỷ trọng.",
+    "Ở giữa là viêm thận bể thận trên phim chụp cắt lớp có cản quang, với vùng giảm tưới máu ở nhu mô thận trái.",
+    "Bên phải là viêm mô tế bào cẳng chân: đỏ, nề, giới hạn rõ, mà người khám đã vẽ đường viền để theo dõi tiến triển.",
+    "Vì sao phải tìm kỹ như vậy? Surviving Sepsis Campaign 2026 khuyên nhanh chóng tìm ổ nhiễm cần kiểm soát khẩn, và kiểm soát ổ sớm, lý tưởng trong vòng 6 giờ. Kháng sinh không thể thay thế việc dẫn lưu một ổ áp xe hay giải phóng một đường mật tắc nghẽn."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "list",
+   "rail": "ls",
+   "chapter": "Biểu hiện lâm sàng",
+   "title": "Biểu hiện: thay đổi và không đặc hiệu",
+   "dense": true,
+   "ref": "Mandell 10e, tr. 932 · Meyer 2024, tr. 2138, 2140",
+   "items": [
+    {
+     "t": "Sốt, nhịp tim nhanh, thở nhanh, thay đổi ý thức",
+     "d": "Phụ thuộc ổ nhiễm, tác nhân, cơ quan suy, thuốc, bệnh nền, thời gian đến viện",
+     "c": "teal",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "Phù rõ hoặc cân bằng dịch dương > 20 mL/kg/24 giờ",
+     "d": "Dấu hiệu của rò mao mạch",
+     "c": "blue",
+     "at": 1,
+     "n": "2"
+    },
+    {
+     "t": "Hạ thân nhiệt: 9–35%",
+     "d": "Tiên lượng xấu",
+     "c": "coral",
+     "at": 2,
+     "hl": true,
+     "n": "3"
+    },
+    {
+     "t": "Bẫy: thuốc che dấu hiệu",
+     "d": "Chẹn beta che nhịp nhanh · thuốc hạ sốt che sốt",
+     "c": "amber",
+     "at": 3,
+     "n": "!"
+    },
+    {
+     "t": "Bẫy: “mất bù bệnh mạn”",
+     "d": "Nhiễm toan ceton, xơ gan mất bù có thể là nhiễm khuẩn huyết",
+     "c": "violet",
+     "at": 4,
+     "n": "!"
+    },
+    {
+     "t": "Không có tụt áp, thở nhanh, lú lẫn: KHÔNG loại trừ",
+     "d": "",
+     "c": "coral",
+     "at": 5,
+     "n": "!"
+    }
+   ],
+   "lines": [
+    "Về lâm sàng, Mandell nhấn mạnh biểu hiện của nhiễm khuẩn huyết thay đổi và không đặc hiệu. Các dấu hiệu chung gồm sốt, nhịp tim nhanh, thở nhanh và thay đổi ý thức, nhưng mức độ phụ thuộc ổ nhiễm, tác nhân, loại và mức suy cơ quan, thuốc đang dùng, bệnh nền và thời gian đến viện.",
+    "Phù rõ hoặc cân bằng dịch dương trên 20 mi li lít mỗi ký trong 24 giờ cũng là một dấu hiệu, phản ánh rò mao mạch mà ta đã bàn ở phần hai.",
+    "Hạ thân nhiệt gặp ở 9 đến 35 phần trăm người bệnh, và là dấu hiệu tiên lượng xấu. Một người bệnh nhiễm khuẩn lạnh run và thân nhiệt thấp đáng lo hơn người sốt cao.",
+    "Có ba cái bẫy cần nhớ. Thứ nhất, thuốc che dấu hiệu: chẹn beta che nhịp tim nhanh, thuốc hạ sốt che sốt.",
+    "Thứ hai, nhiễm khuẩn huyết có thể khoác áo một đợt mất bù bệnh mạn, như nhiễm toan ceton đái tháo đường hay xơ gan mất bù.",
+    "Thứ ba, theo Meyer, việc không có thay đổi ý thức, không tụt huyết áp, không thở nhanh không loại trừ nhiễm khuẩn huyết."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "media",
+   "h": 640,
+   "rail": "ls",
+   "chapter": "Dấu hiệu tưới máu da",
+   "title": "Nhìn da để đánh giá tưới máu",
+   "ref": "Ảnh thật · Wikimedia Commons · SSC 2026, KC 52 · Hernández 2019, 2025",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/mikro3.jpg",
+     "ar": 1.778,
+     "credit": "Ảnh: Emergency doc · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1.5,
+     "at": 0,
+     "cap": "Sốc nhiễm khuẩn nặng: da loang lổ, vùng thiếu máu do vi huyết khối"
+    },
+    {
+     "src": "../../media/sepsis/raw/crt_dummy.jpg",
+     "ar": 1.51,
+     "credit": "Ảnh: G. R. Doyle, J. A. McCutcheon · CC BY 4.0 · Wikimedia Commons",
+     "flex": 1.3,
+     "at": 2,
+     "cap": "Đo thời gian đổ đầy mao mạch: ấn, thả, đếm thời gian hồng trở lại"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "DA",
+     "t": "Nổi bông, lạnh đầu chi: giảm tưới máu mô",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "CRT",
+     "t": "SSC 2026 gợi ý dùng để hướng dẫn hồi sức, bổ sung cho chỉ số khác",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "tag": "ANDROMEDA-SHOCK-2",
+     "t": "n = 1.467 · win ratio 1,16 · lợi ích chủ yếu rút ngắn hỗ trợ cơ quan",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Một trong những công cụ đánh giá tưới máu đơn giản nhất nằm ngay trên da người bệnh. Hình bên trái là cẳng chân của một người bệnh sốc nhiễm khuẩn nặng: da loang lổ những mảng tím xen vàng nhạt, với các vùng thiếu máu do vi huyết khối.",
+    "Da nổi bông và đầu chi lạnh là dấu hiệu giảm tưới máu mô, gợi ý vi tuần hoàn đang thất bại, dù huyết áp trung bình có thể đã được nâng lên bằng vận mạch.",
+    "Bên phải là cách đo thời gian đổ đầy mao mạch: ấn lên đầu ngón tay hoặc ngón chân cho tới khi trắng, thả ra, rồi đếm thời gian để màu hồng trở lại.",
+    "Surviving Sepsis Campaign 2026 gợi ý dùng thời gian đổ đầy mao mạch để hướng dẫn hồi sức, bổ sung cho các chỉ số tưới máu khác như lactate.",
+    "Thử nghiệm ANDROMEDA-SHOCK-2 năm 2025 trên 1.467 người bệnh cho thấy hồi sức cá thể hoá theo thời gian đổ đầy mao mạch trong 6 giờ đầu có kết cục phân cấp tốt hơn, với win ratio 1,16, chủ yếu nhờ rút ngắn thời gian hỗ trợ cơ quan, không phải nhờ giảm tử vong đơn thuần."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "Xét nghiệm",
+   "title": "Xét nghiệm cho mọi người bệnh nghi nhiễm khuẩn huyết",
+   "ref": "Mandell 10e, tr. 942 · SSC 2026, KC 5, 8, 22",
+   "head": [
+    "Hệ",
+    "Xét nghiệm",
+    "Ngưỡng gợi ý bất thường"
+   ],
+   "widths": "0.8fr 1.3fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Viêm</b>",
+      "Công thức máu, CRP, procalcitonin",
+      "Bạch cầu > 12.000 hoặc < 4.000/mm³, hoặc > 10% non · CRP, procalcitonin > 2 độ lệch chuẩn"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Thận</b>",
+      "Creatinin, nước tiểu",
+      "Creatinin tăng > 0,5 mg/dL · nước tiểu < 0,5 mL/kg/giờ ≥ 2 giờ dù đủ dịch"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Gan</b>",
+      "Bilirubin",
+      "> 4 mg/dL"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Đông máu</b>",
+      "Tiểu cầu, INR, aPTT, fibrinogen, D-dimer",
+      "Tiểu cầu < 100.000/µL · INR > 1,5 hoặc aPTT > 60 giây"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Chuyển hoá</b>",
+      "Lactate, khí máu, glucose, albumin",
+      "Lactate tăng · toan chuyển hoá + kiềm hô hấp bù · glucose > 140 mg/dL khi không đái tháo đường"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Về cận lâm sàng, Mandell khuyên mọi người bệnh nghi nhiễm khuẩn huyết cần có công thức máu, sinh hoá, chức năng thận, gan và đông máu. Dấu hiệu viêm gồm bạch cầu trên 12 nghìn hoặc dưới 4 nghìn, hoặc bình thường nhưng trên 10 phần trăm bạch cầu non, cùng CRP và procalcitonin tăng trên hai độ lệch chuẩn.",
+    "Về thận, creatinin tăng trên 0,5 mi li gam mỗi đề xi lít, hoặc nước tiểu dưới 0,5 mi li lít mỗi ký mỗi giờ ít nhất 2 giờ dù đã bù đủ dịch. Về gan, bilirubin trên 4.",
+    "Về đông máu, tiểu cầu dưới 100 nghìn, INR trên 1,5 hoặc aPTT trên 60 giây; fibrinogen thấp và D-dimer tăng gợi ý đông máu nội mạch lan toả.",
+    "Về chuyển hoá, lactate tăng báo giảm tưới máu và càng cao tiên lượng càng xấu; khí máu thường là toan chuyển hoá kèm kiềm hô hấp bù; có thể tăng đường huyết trên 140 ở người không đái tháo đường, và albumin thấp. Xin nhớ hai điều từ Surviving Sepsis Campaign 2026: nhiễm khuẩn huyết là chẩn đoán lâm sàng, không khẳng định hay loại trừ bằng một xét nghiệm đơn lẻ; và procalcitonin không dùng để quyết định có bắt đầu kháng sinh hay không."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "media",
+   "h": 640,
+   "rail": "cd",
+   "chapter": "Cấy máu",
+   "title": "Cấy máu: lấy sớm, đúng cách, trước kháng sinh",
+   "ref": "Ảnh thật · Wikimedia Commons · Mandell 10e, tr. 942 · SSC 2026, KC 7 (mạnh), KC 31",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/bc_nogrowth.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Chai cấy máu không mọc: trong"
+    },
+    {
+     "src": "../../media/sepsis/raw/bc_growth.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 1,
+     "cap": "Chai cấy máu mọc vi khuẩn: đục"
+    },
+    {
+     "src": "../../media/sepsis/raw/bc_gpc.jpg",
+     "ar": 1.057,
+     "credit": "Ảnh: Spicy · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 0.85,
+     "at": 2,
+     "cap": "Nhuộm Gram từ chai dương tính: cầu khuẩn Gram dương",
+     "zoom": {
+      "x": 45,
+      "y": 40,
+      "s": 2.0,
+      "at": 2,
+      "out": "L4"
+     }
+    }
+   ],
+   "lines": [
+    "Cấy máu là xét nghiệm then chốt để tìm tác nhân. Surviving Sepsis Campaign 2026 đưa ra khuyến cáo mạnh, mới: lấy cấy máu càng sớm càng tốt, lý tưởng là trước khi dùng kháng sinh. Bên trái là chai cấy máu không mọc vi khuẩn, dịch trong.",
+    "Ở giữa là chai đã mọc vi khuẩn, dịch đục. Các máy cấy máu tự động phát hiện sự phát triển này và báo dương tính.",
+    "Ngay khi chai dương tính, phòng xét nghiệm nhuộm Gram một giọt dịch cấy. Ở đây là các cầu khuẩn Gram dương. Kết quả nhuộm Gram cho thông tin sớm, trước khi có định danh và kháng sinh đồ.",
+    "Về kỹ thuật, theo Mandell, luôn lấy 2 bộ cấy máu, mỗi bộ gồm chai hiếu khí và chai kỵ khí. Nếu người bệnh có catheter lưu trên 48 giờ, lấy ít nhất 1 bộ qua catheter, cùng lúc với máu ngoại vi. Cấy thêm các bệnh phẩm khác theo ổ nghi ngờ: nước tiểu, đờm, vết thương, dịch não tuỷ, dịch khớp.",
+    "Các kỹ thuật nhanh như khối phổ MALDI-TOF và PCR rút ngắn thời gian định danh; Surviving Sepsis Campaign 2026 gợi ý dùng xét nghiệm nhanh đặc hiệu tác nhân tuỳ từng trường hợp."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "cards",
+   "rail": "bs",
+   "chapter": "Huyết động",
+   "title": "Huyết động sốc nhiễm khuẩn: hai thành phần",
+   "ref": "Mandell 10e, tr. 933 · Hall 5e, ch. 31",
+   "cards": [
+    {
+     "tag": "MẠCH MÁU",
+     "t": "Giãn mạch",
+     "items": [
+      "Sức cản mạch hệ thống thấp",
+      "Giảm thể tích tương đối, giảm hồi lưu tĩnh mạch",
+      "Hiệu áp rộng, tâm trương thấp, chi ấm"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "TIM",
+     "t": "Bệnh cơ tim nhiễm khuẩn",
+     "items": [
+      "↓ phân suất tống máu cả hai thất",
+      "↑ thể tích cuối tâm trương",
+      "Không do thiếu máu cơ tim · thường hồi phục"
+     ],
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "tag": "CƠ CHẾ",
+     "t": "Chất trung gian viêm",
+     "items": [
+      "Rối loạn canxi, ty thể",
+      "Chết theo chương trình, nitric oxide",
+      "Tử thiết: tổn thương ty thể khu trú"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "BẪY",
+     "t": "Cung lượng tim cao ≠ tim khoẻ",
+     "items": [
+      "Cung lượng tim có thể tăng dù co bóp giảm",
+      "Người sống: thất trái giãn, giữ được nhát bóp"
+     ],
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "h": 610,
+   "lines": [
+    "Bây giờ đến huyết động. Sốc nhiễm khuẩn có hai thành phần. Thứ nhất là giãn mạch: sức cản mạch hệ thống giảm, thể tích tuần hoàn giảm tương đối, hồi lưu tĩnh mạch giảm. Trên lâm sàng, hiệu áp rộng, huyết áp tâm trương thấp và chi thường ấm.",
+    "Thứ hai là rối loạn chức năng cơ tim, gọi là bệnh cơ tim nhiễm khuẩn. Theo Mandell, phân suất tống máu thất trái và thất phải giảm, thể tích cuối tâm trương tăng, trong khi nhịp tim và cung lượng tim lại tăng. Đáng chú ý, nó không do thiếu máu cơ tim, và thường không cần thuốc tăng co bóp.",
+    "Cơ chế là các chất trung gian viêm tác động lên tế bào cơ tim và vi tuần hoàn: rối loạn cân bằng canxi, rối loạn ty thể, chết theo chương trình, các chất ức chế tim lưu hành và nitric oxide. Tử thiết hiếm thấy hoại tử tế bào cơ tim, nhưng tổn thương ty thể khu trú gặp ở nhiều tế bào, phù hợp với khả năng hồi phục.",
+    "Và đây là cái bẫy, theo Hall: cung lượng tim cao không có nghĩa là tim khoẻ. Cung lượng tim có thể tăng ngay cả khi co bóp giảm. Người sống sót có thất trái giãn, thể tích cuối tâm trương lớn giúp giữ thể tích nhát bóp; còn người tử vong thường có thất cứng, đổ đầy kém."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "flow",
+   "rail": "cd",
+   "chapter": "Lactate",
+   "title": "Lactate tăng: không chỉ do thiếu oxy",
+   "ref": "SSC 2026, tr. 897 · Marino 5e, ch. 32 · Shankar-Hari 2016",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Giảm tưới máu",
+     "d": "Tụt áp, giảm cung lượng tim",
+     "x": 230,
+     "y": 200,
+     "w": 380,
+     "h": 140,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Rối loạn vi tuần hoàn, ty thể",
+     "d": "Thiếu oxy mô dù MAP đủ",
+     "x": 724,
+     "y": 200,
+     "w": 380,
+     "h": 140,
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Đường phân hiếu khí",
+     "d": "Epinephrine liều cao, albuterol (kích thích β2)",
+     "x": 1218,
+     "y": 200,
+     "w": 380,
+     "h": 140,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "l",
+     "t": "↑ Lactate",
+     "d": "Chỉ dấu thiếu oxy và rối loạn chức năng mô",
+     "x": 724,
+     "y": 460,
+     "w": 440,
+     "h": 150,
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "id": "u",
+     "t": "Dùng đúng",
+     "d": "Đo lặp lại · theo mức GIẢM · không truyền dịch “cho tới khi bình thường”",
+     "x": 1218,
+     "y": 460,
+     "w": 380,
+     "h": 150,
+     "c": "green",
+     "at": 4
+    },
+    {
+     "id": "p",
+     "t": "Tiên lượng",
+     "d": "> 4 mmol/L kèm vận mạch: tử vong 49,7%",
+     "x": 230,
+     "y": 460,
+     "w": 380,
+     "h": 150,
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "l",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "a": "b",
+     "b": "l",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "a": "c",
+     "b": "l",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "a": "l",
+     "b": "u",
+     "c": "green",
+     "at": 4
+    },
+    {
+     "a": "l",
+     "b": "p",
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "note": {
+    "t": "Lactate không đo trực tiếp tưới máu mô",
+    "at": 3,
+    "c": "blue",
+    "y": 40
+   },
+   "lines": [
+    "Lactate là xét nghiệm được nhắc nhiều nhất trong nhiễm khuẩn huyết, nhưng cũng hay bị hiểu sai. Nguồn thứ nhất, quen thuộc nhất, là giảm tưới máu toàn thân do tụt huyết áp và giảm cung lượng tim.",
+    "Nguồn thứ hai là rối loạn vi tuần hoàn và ty thể: mô vẫn thiếu oxy, hoặc không dùng được oxy, dù huyết áp trung bình đã đạt mục tiêu.",
+    "Nguồn thứ ba không liên quan thiếu oxy: epinephrine liều cao và albuterol kích thích thụ thể beta 2, làm tăng tốc đường phân và sinh lactate có nguồn gốc hiếu khí. Một người bệnh đang dùng epinephrine có lactate tăng chưa chắc là đang xấu đi.",
+    "Vì vậy Surviving Sepsis Campaign 2026 viết rõ: lactate là chỉ dấu của thiếu oxy và rối loạn chức năng mô, nhưng không đo trực tiếp tưới máu mô.",
+    "Cách dùng đúng là đo lặp lại, và cá thể hoá hồi sức theo mức giảm của lactate; không truyền dịch cho tới khi lactate về bình thường.",
+    "Dù vậy, giá trị tiên lượng của lactate rất rõ: ở người bệnh đã cần vận mạch, lactate trên 4 đi kèm tử vong gần một nửa, 49,7 phần trăm, như ta đã thấy ở phần một."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "cards",
+   "rail": "ls",
+   "chapter": "Suy từng cơ quan",
+   "title": "Rối loạn chức năng từng cơ quan",
+   "ref": "Mandell 10e, tr. 932–934, 942",
+   "cards": [
+    {
+     "tag": "PHỔI",
+     "t": "ARDS",
+     "items": [
+      "Tổn thương biểu mô phế nang lan toả",
+      "Phù giàu protein · shunt, khoảng chết"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "THẬN",
+     "t": "Tổn thương thận cấp",
+     "items": [
+      "Tổn thương ống thận khu trú",
+      "Tăng creatinin nhỏ cũng giảm sống còn dài hạn"
+     ],
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "NÃO",
+     "t": "Bệnh não do nhiễm khuẩn huyết",
+     "items": [
+      "Mê sảng, hôn mê: tới 50% khi vào hồi sức",
+      "Di chứng nhận thức nhiều năm"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "GAN · RUỘT",
+     "t": "Vàng da ứ mật",
+     "items": [
+      "“Gan sốc” hiếm · chuyển vị vi khuẩn",
+      "Liệt ruột, loét dạ dày"
+     ],
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "h": 560,
+   "lines": [
+    "Rối loạn chức năng cơ quan là trung tâm của định nghĩa, nên cần hiểu từng cơ quan. Theo Mandell, hô hấp và tim mạch hay bị ảnh hưởng nhất. Ở phổi, hội chứng suy hô hấp cấp tiến triển là tổn thương lan toả biểu mô phế nang, tăng tính thấm, dịch giàu protein tràn vào mô kẽ và phế nang, gây shunt phải trái, tăng khoảng chết và giảm độ giãn nở.",
+    "Ở thận, tử thiết cho thấy tổn thương ống thận cấp khu trú, cầu thận ít bị ảnh hưởng. Cơ chế gồm giảm thể tích, tụt huyết áp, co mạch thận và các thuốc độc thận như aminoglycoside hay thuốc cản quang. Đa số hồi phục, nhưng ngay cả một mức tăng creatinin cấp nhỏ cũng liên quan giảm sống còn dài hạn.",
+    "Ở não, bệnh não do nhiễm khuẩn huyết, với mê sảng hoặc hôn mê, gặp ở tới 50 phần trăm người bệnh khi vào hồi sức. Đây là rối loạn lan toả, không do nhiễm khuẩn trực tiếp hệ thần kinh trung ương, và có thể để lại di chứng nhận thức nhiều năm, kèm bệnh đa dây thần kinh và bệnh cơ do bệnh nặng.",
+    "Ở gan, biểu hiện thường gặp là vàng da ứ mật; gan sốc thì hiếm, chỉ khi sốc kéo dài. Ruột bị tổn thương biểu mô gây chuyển vị vi khuẩn, liệt ruột kéo dài sau sốc và loét dạ dày tá tràng. Khoảng 20 phần trăm người bệnh suy hai cơ quan, 5 phần trăm suy từ ba cơ quan, và tử vong tăng theo số cơ quan suy: một nghiên cứu châu Âu ghi nhận 26 phần trăm khi suy hai cơ quan, lên 65 phần trăm khi từ bốn cơ quan."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "media",
+   "h": 640,
+   "rail": "ls",
+   "chapter": "Phổi suy",
+   "title": "Khi phổi là cơ quan suy",
+   "ref": "Ảnh và clip thật · Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/ards/raw/cxr_ards_samir.jpg",
+     "ar": 1.172,
+     "credit": "Ảnh: Samir · CC BY-SA 3.0 · Wikimedia Commons",
+     "flex": 1.15,
+     "at": 0,
+     "cap": "X-quang: mờ lan toả hai phổi trong hội chứng suy hô hấp cấp"
+    },
+    {
+     "seq": "../../media/ards/gargani_s2/f_%03d.jpg",
+     "n": 44,
+     "fps": 15,
+     "ar": 0.889,
+     "credit": "Ảnh: Gargani L · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 2,
+     "cap": "Siêu âm phổi: nhiều đường B",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 92,
+       "t": "Đường B từ màng phổi xuống đáy",
+       "c": "coral",
+       "at": 2
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ARDS",
+     "t": "Mờ hai phổi · thiếu oxy · không giải thích hoàn toàn bởi tim, quá tải dịch",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "SOFA-2",
+     "t": "PaO₂/FiO₂ ≤ 150 cần hỗ trợ nâng cao mới được 3 điểm",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Đây là phim X-quang của một người bệnh hội chứng suy hô hấp cấp tiến triển: mờ lan toả cả hai phổi, kiểu phù phổi không do tim.",
+    "Ở người bệnh nhiễm khuẩn huyết, phổi có thể là ổ nhiễm ban đầu, nhưng cũng có thể là cơ quan đích bị tổn thương dù ổ nhiễm ở nơi khác, như ổ bụng hay đường mật.",
+    "Bên phải là siêu âm phổi với nhiều đường B, những vệt sáng dọc xuất phát từ màng phổi chạy hết chiều sâu màn hình, phản ánh tăng nước ngoài mạch phổi. Hình ảnh này cần đặt trong bệnh cảnh, vì cũng gặp trong phù phổi do tim.",
+    "Liên hệ với phần một: trên thang SOFA-2, người bệnh chỉ được 3 hoặc 4 điểm hô hấp khi đang cần hỗ trợ hô hấp nâng cao như oxy dòng cao hay thông khí cơ học."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "Phân biệt sốc",
+   "title": "Sốc nhiễm khuẩn hay sốc khác?",
+   "ref": "Vẽ lại theo Hall 5e, Bảng 31-1 · Bộ Y tế 2015, tr. 74",
+   "head": [
+    "Loại sốc",
+    "Huyết động, khám",
+    "Siêu âm, dữ kiện phân biệt"
+   ],
+   "widths": "0.9fr 1.6fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Nhiễm khuẩn / phân bố</b>",
+      "Cung lượng tim cao, sức cản thấp · hiệu áp rộng, chi ấm, đổ đầy mao mạch nhanh",
+      "Có ổ nhiễm · kiểu này cũng gặp ở sốc phân bố không nhiễm khuẩn"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Giảm thể tích</b>",
+      "Cung lượng tim thấp · hiệu áp hẹp, chi lạnh · tĩnh mạch cổ xẹp",
+      "Mất máu, mất dịch · tĩnh mạch chủ dưới xẹp"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Tắc nghẽn</b>",
+      "Cung lượng tim thấp · tĩnh mạch cổ nổi · phổi có thể trong",
+      "Thuyên tắc phổi: thất phải giãn · tràn khí: mất trượt màng phổi · chèn ép: dịch màng tim"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Tim</b>",
+      "Cung lượng tim thấp · tĩnh mạch đầy, ran phổi, âm thổi",
+      "Giảm phân suất tống máu, bệnh van nặng, đường B"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Phối hợp</b>",
+      "Dấu hiệu không khớp một nhóm",
+      "Nhiễm khuẩn + giảm thể tích, + bệnh cơ tim"
+     ],
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bây giờ là câu hỏi chẩn đoán phân biệt. Sốc nhiễm khuẩn là sốc phân bố điển hình: cung lượng tim cao, sức cản thấp, hiệu áp rộng, huyết áp tâm trương thấp, chi ấm, đổ đầy mao mạch nhanh. Nhưng kiểu huyết động này cũng gặp ở sốc phân bố không do nhiễm khuẩn.",
+    "Sốc giảm thể tích có cung lượng tim thấp, hiệu áp hẹp, chi lạnh, tĩnh mạch cổ xẹp, và trên siêu âm tĩnh mạch chủ dưới xẹp.",
+    "Sốc tắc nghẽn cũng có cung lượng tim thấp, nhưng tĩnh mạch cổ nổi trong khi phổi có thể hoàn toàn trong. Siêu âm cho thấy thất phải giãn trong thuyên tắc phổi, mất dấu trượt màng phổi trong tràn khí màng phổi áp lực, hay dịch màng tim trong chèn ép tim.",
+    "Sốc tim có cung lượng tim thấp, tĩnh mạch đầy, ran phổi, có thể có âm thổi hay dấu hiệu thiếu máu cơ tim, và siêu âm thấy giảm phân suất tống máu, bệnh van nặng, nhiều đường B.",
+    "Và rất thường gặp là sốc phối hợp: nhiễm khuẩn kèm giảm thể tích do nôn, tiêu chảy, hoặc nhiễm khuẩn kèm bệnh cơ tim. Khi các dấu hiệu không khớp vào một nhóm, đó chính là gợi ý của cơ chế phối hợp."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "media",
+   "h": 640,
+   "rail": "cd",
+   "chapter": "Siêu âm phân biệt",
+   "title": "Tĩnh mạch cổ nổi, phổi trong: nghĩ tới tắc nghẽn",
+   "ref": "Ảnh và clip thật · Wikimedia Commons · Hall 5e, ch. 31",
+   "panels": [
+    {
+     "src": "../../media/pe2026/raw/ct_rv_strain.png",
+     "ar": 1.212,
+     "credit": "Ảnh: Michellescot · CC0 · Wikimedia Commons",
+     "flex": 1.1,
+     "at": 0,
+     "cap": "CT: thất phải giãn, vách liên thất dẹt",
+     "marks": [
+      {
+       "type": "label",
+       "x": 64,
+       "y": 30,
+       "c": "coral",
+       "at": 0,
+       "t": "Thất phải giãn"
+      },
+      {
+       "type": "label",
+       "x": 77,
+       "y": 50,
+       "c": "teal",
+       "at": 0,
+       "t": "Thất trái"
+      }
+     ]
+    },
+    {
+     "seq": "../../media/pe2026/echo_admission/f_%03d.jpg",
+     "n": 41,
+     "fps": 25,
+     "ar": 1.105,
+     "credit": "Ảnh: Hewing B và cs. · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 2,
+     "cap": "Siêu âm tim 4 buồng: thất phải lớn hơn thất trái",
+     "marks": [
+      {
+       "type": "label",
+       "x": 38,
+       "y": 40,
+       "c": "coral",
+       "at": 2,
+       "t": "Thất phải"
+      },
+      {
+       "type": "label",
+       "x": 63,
+       "y": 40,
+       "c": "teal",
+       "at": 2,
+       "t": "Thất trái"
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "BỐN CÂU HỎI",
+     "t": "Cung lượng tim tăng hay giảm? · tĩnh mạch rỗng hay đầy? · phổi trong hay ran? · gì không khớp?",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CUNG LƯỢNG CAO, KHÔNG NHIỄM KHUẨN",
+     "t": "Suy thượng thận, bão giáp, viêm tuỵ nặng, suy gan, phản vệ, sau ngừng tim, ngộ độc",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Để đặt giả thuyết nguyên nhân ngay khi bắt đầu hồi sức, Hall đề xuất bốn câu hỏi: cung lượng tim tăng hay giảm; tĩnh mạch trung tâm rỗng hay đầy; phổi trong hay có ran; và có điều gì không khớp cần tìm nguyên nhân phối hợp.",
+    "Ví dụ, một người bệnh tụt huyết áp với tĩnh mạch cổ nổi nhưng phổi trong phải gợi ý sốc tắc nghẽn. Hình bên trái là phim chụp cắt lớp của thuyên tắc phổi: thất phải giãn to, vách liên thất bị đẩy dẹt về phía thất trái.",
+    "Bên phải là siêu âm tim mặt cắt bốn buồng từ mỏm của một người bệnh thuyên tắc phổi: thất phải lớn hơn thất trái, một hình ảnh không bao giờ gặp ở sốc nhiễm khuẩn đơn thuần.",
+    "Siêu âm tại giường vì vậy là công cụ không thể thiếu khi người bệnh vừa sốt vừa tụt huyết áp.",
+    "Cũng cần nhớ: không phải mọi trường hợp tụt huyết áp với cung lượng tim cao đều là nhiễm khuẩn. Hall liệt kê suy thượng thận, cơn bão giáp, hôn mê phù niêm, ngộ độc cyanide, carbon monoxide hay sắt; ngoài ra còn viêm tuỵ nặng, suy gan, sau chấn thương, bỏng, tái tưới máu, kể cả sau ngừng tim, phản vệ và sốc tuỷ."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "So với hướng dẫn 2015",
+   "title": "Hướng dẫn Bộ Y tế 2015 và hiện nay",
+   "ref": "QĐ 1493/QĐ-BYT 2015, bài 11, tr. 73–78 · Sepsis-3 · SSC 2026",
+   "head": [
+    "Nội dung",
+    "Bộ Y tế 2015",
+    "Sepsis-3 · SSC 2026"
+   ],
+   "widths": "0.9fr 1.7fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Khái niệm</b>",
+      "Chuỗi SIRS → nhiễm khuẩn nặng → sốc → suy đa tạng",
+      "Bỏ “nhiễm khuẩn nặng” · SOFA ≥ 2"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Chẩn đoán sốc</b>",
+      "Không đáp ứng bù dịch, phải dùng vận mạch",
+      "Vận mạch giữ MAP ≥ 65 <b>+ lactate > 2</b>"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Mục tiêu 6 giờ</b>",
+      "CVP 11–16 cmH₂O, ScvO₂ ≥ 70% (kiểu EGDT)",
+      "Bỏ EGDT · lactate, đổ đầy mao mạch, chỉ số động"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Dịch</b>",
+      "NaCl 0,9% hoặc Ringer lactat · gelatin",
+      "≥ 30 mL/kg tinh thể <b>cân bằng</b> · không gelatin"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Lọc máu</b>",
+      "Lọc máu liên tục sớm sau chẩn đoán sốc",
+      "<b>Không</b> lọc máu khi không có chỉ định thận"
+     ],
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Cuối cùng, hãy đặt định nghĩa hiện hành cạnh hướng dẫn chẩn đoán và xử trí hồi sức tích cực của Bộ Y tế năm 2015. Văn bản này được viết trên nền Sepsis-1, Sepsis-2 và Surviving Sepsis Campaign 2008 đến 2012, nên vẫn dùng chuỗi liên tục từ hội chứng đáp ứng viêm hệ thống đến nhiễm khuẩn nặng, sốc và suy đa tạng.",
+    "Tiêu chuẩn sốc của Bộ Y tế là không đáp ứng bù dịch và phải dùng vận mạch, không đòi hỏi lactate trên 2 như Sepsis-3.",
+    "Mục tiêu 6 giờ đầu trong văn bản là áp lực tĩnh mạch trung tâm 11 đến 16 centimet nước, ScvO₂ từ 70 phần trăm, tức các đích của hồi sức theo mục tiêu sớm kiểu Rivers 2001. Sau ba thử nghiệm lớn ProCESS, ARISE và ProMISe không lặp lại được lợi ích, cách tiếp cận này đã bị bỏ.",
+    "Về dịch, văn bản cho phép NaCl 0,9 phần trăm, Ringer lactat và cả gelatin; hiện nay khuyến cáo ít nhất 30 mi li lít mỗi ký dịch tinh thể, ưu tiên dung dịch cân bằng, và không dùng gelatin.",
+    "Khác biệt lớn nhất là lọc máu: văn bản 2015 khuyên lọc máu liên tục sớm nhất có thể sau chẩn đoán sốc nhiễm khuẩn, trong khi hiện nay không lọc máu khi không có chỉ định thận rõ, và không dùng lọc máu để lọc độc tố hay cytokine. Bảng này giúp quý vị hiểu thực hành trong nước đang dựa vào đâu, chứ không phải để chọn theo bản cũ."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "quiz",
+   "rail": "cd",
+   "chapter": "Tình huống",
+   "title": "Tình huống: sốt và tụt áp sau mổ",
+   "ref": "Ca minh hoạ · Hall 5e, Bảng 31-1",
+   "case": "Nữ 62 tuổi, ngày 3 sau mổ thay khớp háng. Sốt <b>38,2 °C</b>, HA <b>84/56</b>, mạch 124, SpO₂ 89%. <b>Tĩnh mạch cổ nổi</b>, phổi <b>trong</b>, chi lạnh. Siêu âm: <b>thất phải giãn</b>, thất trái nhỏ, tăng động.",
+   "q": "Loại sốc nào phù hợp nhất?",
+   "options": [
+    "Sốc nhiễm khuẩn",
+    "Sốc tắc nghẽn (nghĩ thuyên tắc phổi)",
+    "Sốc giảm thể tích",
+    "Sốc tim do giảm co bóp thất trái"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Tĩnh mạch đầy + phổi trong + chi lạnh (cung lượng thấp) + <b>thất phải giãn</b> → <b>sốc tắc nghẽn</b>. Sốt không đồng nghĩa nhiễm khuẩn huyết · sốc nhiễm khuẩn điển hình: chi ấm, cung lượng cao",
+   "lines": [
+    "Đến với tình huống. Một phụ nữ 62 tuổi, ngày thứ 3 sau mổ thay khớp háng, sốt 38,2 độ, huyết áp 84 trên 56, mạch 124, SpO₂ 89 phần trăm. Khám thấy tĩnh mạch cổ nổi, phổi trong, chi lạnh. Siêu âm tại giường: thất phải giãn, thất trái nhỏ và tăng động.",
+    "Loại sốc nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là sốc tắc nghẽn, cần nghĩ ngay tới thuyên tắc phổi. Áp dụng bốn câu hỏi: chi lạnh gợi ý cung lượng tim thấp; tĩnh mạch đầy; phổi trong; và siêu âm thấy thất phải giãn. Sốc nhiễm khuẩn điển hình có chi ấm và cung lượng tim cao, còn sốc tim do thất trái thì phổi thường có ran. Bài học: sốt kèm tụt huyết áp chưa chắc là nhiễm khuẩn huyết."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "summary",
+   "rail": "tl",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp của Phần 3",
+   "dense": true,
+   "items": [
+    {
+     "t": "Phổi, ổ bụng, tiết niệu, da: 80–90% ổ nhiễm",
+     "d": "1/6 không tìm được ổ · tác nhân xác định ~2/3 · tìm ổ cần kiểm soát",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Biểu hiện không đặc hiệu, nhiều bẫy",
+     "d": "Hạ thân nhiệt tiên lượng xấu · thuốc che dấu hiệu · “mất bù bệnh mạn”",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Cấy máu 2 bộ, trước kháng sinh",
+     "d": "Khuyến cáo mạnh SSC 2026 · catheter > 48 giờ: thêm 1 bộ qua catheter",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Giãn mạch + bệnh cơ tim nhiễm khuẩn",
+     "d": "Cung lượng tim cao không có nghĩa là tim khoẻ",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "t": "Lactate: chỉ dấu, không đo trực tiếp tưới máu",
+     "d": "Theo dõi mức giảm · epinephrine làm tăng lactate hiếu khí",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "t": "Bốn câu hỏi phân biệt sốc + siêu âm tại giường",
+     "d": "Sốt + tụt áp chưa chắc là nhiễm khuẩn huyết",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết sáu thông điệp của phần ba. Một, phổi, ổ bụng, tiết niệu và da mô mềm chiếm phần lớn ổ nhiễm; hãy chủ động tìm ổ cần kiểm soát.",
+    "Hai, biểu hiện lâm sàng không đặc hiệu và có nhiều bẫy.",
+    "Ba, cấy máu hai bộ, càng sớm càng tốt, lý tưởng trước kháng sinh.",
+    "Bốn, huyết động sốc nhiễm khuẩn gồm giãn mạch và bệnh cơ tim, và cung lượng tim cao không có nghĩa là tim khoẻ.",
+    "Năm, lactate là chỉ dấu, không đo trực tiếp tưới máu, hãy theo dõi mức giảm. Và sáu, dùng bốn câu hỏi cùng siêu âm tại giường để phân biệt các loại sốc.",
+    "Trong phần bốn, phần cuối, chúng ta sẽ đi trọn một ca lâm sàng từ khoa cấp cứu vào hồi sức, áp dụng mọi điều đã học, và bàn về kiểu hình sepsis cùng những câu hỏi còn bỏ ngỏ. Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn gặp lại trên Thư Viện Y Khoa Online."
+   ],
+   "id": "s17"
+  }
+ ]
+}
