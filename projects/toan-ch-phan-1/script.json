@@ -1,0 +1,878 @@
+{
+ "title": "Toan chuyển hoá – Phần 1: Đọc khí máu toan chuyển hoá theo 7 bước",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Toan chuyển hoá · Phần 1/4",
+ "source_short": "Nguồn: SRLF/SFMU 2019 · BICAR-ICU 2018 · BICARICU-2 2025 · ĐT DKA 2024 · AHA/ERC 2025 · DTQG 2018",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "BICARICU-2": "bi ca i xi u hai",
+  "BICAR-ICU": "bi ca i xi u",
+  "SRLF/SFMU": "hội hồi sức và hội cấp cứu Pháp",
+  "SODa-BIC": "sô đa bích",
+  "mmol/kg": "mi li mol mỗi ký",
+  "mOsm/kg": "mi li ô sơ mol mỗi ký",
+  "MOSAICC": "mô sai",
+  "NaHCO₃": "natri bicarbonat",
+  "NaHCO3": "natri bicarbonat",
+  "mmol/L": "mi li mol mỗi lít",
+  "mOsm/L": "mi li ô sơ mol mỗi lít",
+  "BaSICS": "ba xích",
+  "MAKE30": "biến cố thận nặng trong 30 ngày",
+  "PaCO₂": "pê a cê ô hai",
+  "PaCO2": "pê a cê ô hai",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "mL/kg": "mi li lít mỗi ký",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "SMART": "smát",
+  "GRADE": "grết",
+  "SGLT2": "ét gê eo tê hai",
+  "CHEST": "chét",
+  "SRLF": "hội hồi sức Pháp",
+  "HCO₃": "bicarbonat",
+  "HCO3": "bicarbonat",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "PLUS": "plát",
+  "THAM": "tham",
+  "UKKA": "hội thận Anh",
+  "DTQG": "Dược thư quốc gia",
+  "g/L": "gam mỗi lít",
+  "SBE": "kiềm dư chuẩn",
+  "ICU": "hồi sức",
+  "BYT": "Bộ Y tế"
+ },
+ "brand": {
+  "next": "Phần 2: Nguyên nhân và điều trị chung"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa"
+  },
+  {
+   "k": "sl",
+   "t": "Sinh lý"
+  },
+  {
+   "k": "nn",
+   "t": "Nguyên nhân"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "bc",
+   "t": "Bicarbonat"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Toan chuyển hoá",
+   "title": "Toan chuyển hoá<br>trong hồi sức cấp cứu",
+   "subtitle": "Phần 1 · Đọc khí máu toan chuyển hoá theo 7 bước",
+   "badges": [
+    {
+     "t": "SRLF/SFMU 2019",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Khoảng trống anion",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Stewart",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · 4 phần",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với loạt bài về toan chuyển hoá trong hồi sức cấp cứu của Thư Viện Y Khoa Online.",
+    "Loạt bài gồm bốn phần. Phần một hôm nay trả lời câu hỏi rất thực tế: khi khí máu báo bicarbonat thấp, ta đọc tiếp thế nào cho đúng, theo bảy bước, dựa trên hướng dẫn của hội hồi sức và hội cấp cứu Pháp năm 2019 cùng các sách hồi sức kinh điển.",
+    "Phần hai bàn về nguyên nhân và điều trị chung, phần ba dành trọn cho natri bicarbonat, và phần bốn là ba ca lâm sàng."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "stats",
+   "rail": "dn",
+   "chapter": "Vì sao quan trọng",
+   "title": "Toan máu nặng ở hồi sức: không hiếm, rất nặng",
+   "ref": "Jung và cs., CHEST Crit Care 2026, tr. 1 · BICARICU-2, JAMA 2025, tr. 1 · SRLF/SFMU 2019",
+   "tiles": [
+    {
+     "tag": "TẦN SUẤT",
+     "v": 10,
+     "pre": "2–",
+     "suf": "%",
+     "l": "bệnh nhân hồi sức",
+     "d": "toan máu nặng pH < 7,20",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "TỬ VONG NGÀY 90",
+     "v": 62,
+     "suf": "%",
+     "l": "toan nặng + tổn thương thận cấp",
+     "d": "cả hai nhánh BICARICU-2",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "HƯỚNG DẪN",
+     "v": 29,
+     "l": "khuyến cáo SRLF/SFMU 2019",
+     "d": "4 mạnh · 10 yếu · 15 ý kiến chuyên gia",
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "cols": 3,
+   "h": 460,
+   "note": {
+    "t": "Việt Nam: chưa có số liệu dịch tễ trong nguồn đã thu thập",
+    "at": 3,
+    "c": "amber"
+   },
+   "lines": [
+    "Vì sao phải đọc khí máu toan chuyển hoá thật kỹ? Theo tổng quan năm 2026 của chính nhóm tác giả các thử nghiệm Pháp, toan máu nặng, với pH dưới 7,20, có thành phần chuyển hoá gặp ở 2 đến 10 phần trăm bệnh nhân hồi sức.",
+    "Và đó là nhóm rất nặng: trong thử nghiệm BICARICU-2 năm 2025, ở người toan nặng kèm tổn thương thận cấp, tử vong ngày 90 khoảng 62 phần trăm ở cả hai nhánh.",
+    "Khung chính của bài hôm nay là hướng dẫn của hội hồi sức và hội cấp cứu Pháp năm 2019, gồm 29 khuyến cáo theo phương pháp GRADE: 4 khuyến cáo mạnh, 10 khuyến cáo yếu và 15 ý kiến chuyên gia.",
+    "Rất tiếc, hiện chúng ta chưa có số liệu dịch tễ trong nước về toan chuyển hoá ở hồi sức trong các nguồn đã thu thập."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "rail": "dn",
+   "chapter": "Định nghĩa",
+   "title": "Toan chuyển hoá là gì?",
+   "ref": "SRLF/SFMU 2019, Giới thiệu · Jung, CHEST 2026, tr. 1 · BYT 2015, tr. 203",
+   "box": {
+    "tag": "TOAN CHUYỂN HOÁ",
+    "t": "Rối loạn acid–base với <b>HCO₃ huyết tương < 20 mmol/L</b> · kèm pH giảm là <em>toan máu</em>, nặng khi <b>pH ≤ 7,20</b>",
+    "at": 0,
+    "c": "coral",
+    "size": 36
+   },
+   "notes": [
+    {
+     "tag": "TOAN HOÁ ≠ TOAN MÁU",
+     "t": "Toan hoá: mọi quá trình làm giảm pH · toan máu: pH < 7,38",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CƠ CHẾ",
+     "t": "Ứ acid cố định <b>hoặc</b> mất kiềm (BYT 2015)",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "BÙ TRỪ",
+     "t": "Tăng thông khí → giảm PaCO₂",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Trước hết là định nghĩa. Theo cách tiếp cận Henderson–Hasselbalch được hướng dẫn Pháp sử dụng, toan chuyển hoá là rối loạn acid–base với bicarbonat huyết tương dưới 20 mi li mol mỗi lít. Khi kèm pH giảm, ta gọi là toan máu, và toan máu được coi là nặng khi pH từ 7,20 trở xuống.",
+    "Cần phân biệt hai khái niệm: toan hoá là mọi quá trình bệnh lý có xu hướng làm giảm pH, bất kể pH đo được; còn toan máu là khi pH huyết tương thực sự dưới 7,38. Một người có thể có quá trình toan hoá mà pH vẫn bình thường, vì có quá trình kiềm hoá đối nghịch.",
+    "Hướng dẫn của Bộ Y tế năm 2015 mô tả cơ chế rất gọn: toan chuyển hoá là sự giảm bicarbonat, phản ánh hoặc sự ứ lại các acid cố định, hoặc tình trạng mất kiềm.",
+    "Và đáp ứng bù trừ là tăng thông khí để giảm PaCO₂."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "timeline",
+   "rail": "dn",
+   "chapter": "Lịch sử",
+   "title": "Từ Henderson–Hasselbalch đến BICARICU-2",
+   "ref": "Marino 5e, ch. 31 · Oh's 2026, ch. 57 · SRLF/SFMU 2019 · BICAR-ICU 2018 · BICARICU-2 2025",
+   "events": [
+    {
+     "year": "Kinh điển",
+     "t": "Henderson–Hasselbalch",
+     "d": "pH theo tỷ HCO₃/PaCO₂ · cách tiếp cận áp dụng trước",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "year": "Thế kỷ 20",
+     "t": "Kiềm dư · khoảng trống anion",
+     "d": "Phương trình Van Slyke · tìm anion chưa đo",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "year": "Lý hoá",
+     "t": "Stewart",
+     "d": "Biến độc lập: PaCO₂, SID, Atot",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "1999",
+     "t": "Đồng thuận SRLF",
+     "d": "Điều chỉnh toan chuyển hoá ở hồi sức",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "year": "2018–2025",
+     "t": "BICAR-ICU → SRLF 2019 → BICARICU-2",
+     "d": "RCT về kết cục lâm sàng của natri bicarbonat",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "note": {
+    "t": "Hướng dẫn 2019: dùng Henderson–Hasselbalch trước, Stewart khi chưa giải thích được (R1.4)",
+    "at": 5,
+    "c": "coral"
+   },
+   "lines": [
+    "Hãy điểm qua lịch sử. Cách tiếp cận kinh điển là Henderson–Hasselbalch: pH được quyết định bởi tỷ số giữa bicarbonat và PaCO₂. Marino viết dưới dạng nồng độ ion hydro bằng 24 nhân PaCO₂ chia bicarbonat.",
+    "Sau đó ra đời khái niệm kiềm dư, tính theo phương trình Van Slyke, và khoảng trống anion để tìm các anion không đo được.",
+    "Cách tiếp cận lý hoá của Stewart coi pH và bicarbonat chỉ là biến phụ thuộc; các biến độc lập thật sự là PaCO₂, chênh lệch ion mạnh và tổng acid yếu.",
+    "Năm 1999, hội hồi sức Pháp tổ chức hội nghị đồng thuận về điều chỉnh toan chuyển hoá ở hồi sức.",
+    "Và từ năm 2018 đến 2025 là giai đoạn của thử nghiệm ngẫu nhiên: BICAR-ICU năm 2018, hướng dẫn Pháp năm 2019, rồi BICARICU-2 năm 2025. Chúng ta sẽ phân tích kỹ hai thử nghiệm này ở phần ba.",
+    "Khuyến cáo R1.4 năm 2019 chốt lại cách dùng: áp dụng Henderson–Hasselbalch với khoảng trống anion hiệu chỉnh albumin trước, còn Stewart dùng khi gặp tình huống chưa giải thích được, như rối loạn natri, clo hay rối loạn phức tạp."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "cycle",
+   "rail": "sl",
+   "chapter": "Hệ đệm và bù trừ",
+   "title": "Ba tuyến giữ pH",
+   "ref": "TCC 8e, tr. 78–80 · Marino 5e, pdf 547 · Oh's 2026 ch. 57, pdf 2299 · sơ đồ tổng hợp",
+   "cx": 440,
+   "cy": 330,
+   "r": 260,
+   "center": "pH",
+   "center_c": "teal",
+   "center_at": 0,
+   "nodes": [
+    {
+     "t": "Đệm hoá học",
+     "d": "HCO₃, protein, phosphat · tức thì",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Phổi",
+     "d": "Tăng thông khí, giảm PaCO₂",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "Thận",
+     "d": "Giữ HCO₃, thải acid",
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "side": [
+    {
+     "tag": "PHỔI",
+     "t": "Bắt đầu sau 30–120 phút · đủ sau 12–24 giờ",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "MỨC BÙ",
+     "t": "PaCO₂ giảm ~1,25 mmHg mỗi 1 mEq/L HCO₃ giảm · tối thiểu 10–15 mmHg",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "4 CƠ CHẾ TOAN",
+     "t": "Mất HCO₃ · giảm thải acid · tăng tạo/giảm dùng acid nội sinh · nạp acid ngoại sinh",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Cơ thể giữ pH bằng ba tuyến. Tuyến đầu là hệ đệm hoá học, tác dụng tức thì.",
+    "Tuyến thứ hai là phổi: tăng thông khí để giảm PaCO₂. Đáp ứng này bắt đầu sau 30 đến 120 phút, và cần 12 đến 24 giờ mới đầy đủ.",
+    "Tuyến thứ ba là thận: tái hấp thu bicarbonat và thải acid dưới dạng acid chuẩn độ và ammonium.",
+    "Textbook of Critical Care cho một con số dễ nhớ: mỗi 1 mi li đương lượng bicarbonat giảm, PaCO₂ giảm khoảng 1,25 mi li mét thuỷ ngân, và không xuống dưới mức tối thiểu khoảng 10 đến 15.",
+    "Từ ba tuyến đó suy ra bốn cơ chế gây toan chuyển hoá: mất bicarbonat; giảm thải acid; tăng tạo hoặc giảm sử dụng acid nội sinh; và nạp acid từ ngoài vào. Cách phân loại này sẽ dẫn đường cho phần nguyên nhân."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "cards",
+   "rail": "sl",
+   "chapter": "Hậu quả của toan máu",
+   "title": "Toan máu làm gì với cơ thể?",
+   "ref": "Jung, CHEST 2026, tr. 1, 3, 8 · BYT 2015, tr. 203–204",
+   "cards": [
+    {
+     "tag": "TIM MẠCH",
+     "t": "Tụt áp, loạn nhịp",
+     "items": [
+      "Giãn động mạch, giảm co bóp, giảm cung lượng tim",
+      "Rõ khi pH < 7,10–7,20",
+      "Giảm đáp ứng catecholamin"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "HÔ HẤP",
+     "t": "Tăng nhu cầu thông khí",
+     "items": [
+      "Thở nhanh sâu",
+      "Đặt nội khí quản: PaCO₂ có thể tăng vọt"
+     ],
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "OXY",
+     "t": "Bohr rồi 2,3-DPG",
+     "items": [
+      "Ban đầu nhả oxy dễ hơn",
+      "Sau 12–24 giờ bị trung hoà"
+     ],
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "CHUYỂN HOÁ",
+     "t": "Năng lượng, miễn dịch",
+     "items": [
+      "Kháng insulin, ức chế phosphofructokinase",
+      "Thay đổi đại thực bào, lympho",
+      "Lú lẫn, lơ mơ"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "h": 600,
+   "lines": [
+    "Vì sao toan máu nguy hiểm? Trước hết là tim mạch: giãn động mạch, giảm co bóp cơ tim và giảm cung lượng tim, rõ khi pH xuống khoảng 7,10 đến 7,20; kèm theo giảm đáp ứng với catecholamin và tăng nguy cơ loạn nhịp thất.",
+    "Về hô hấp, người bệnh phải tăng thông khí rất nhiều để bù. Đây là lý do thời điểm đặt nội khí quản cực kỳ nguy hiểm: nếu máy thở cài thông khí thấp hơn nhịp thở tự nhiên, PaCO₂ tăng vọt và pH tụt sâu thêm.",
+    "Về vận chuyển oxy, toan máu ban đầu dịch đường cong phân ly sang phải theo hiệu ứng Bohr, nhưng sau 12 đến 24 giờ hiệu ứng này bị trung hoà do giảm 2,3-DPG.",
+    "Và về chuyển hoá, toan máu gây kháng insulin, ức chế men phosphofructokinase, thay đổi chức năng đại thực bào và lympho, cùng biểu hiện thần kinh như lú lẫn, lơ mơ."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "flow",
+   "rail": "cd",
+   "chapter": "Bảy bước",
+   "title": "Đọc khí máu toan chuyển hoá: 7 bước",
+   "ref": "Tổng hợp từ SRLF/SFMU 2019 R1.1–R1.7 · Marino 5e ch. 31 · TCC 8e ch. 15 · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "b1",
+     "t": "1. Xác nhận",
+     "d": "pH < 7,38 · HCO₃ < 20",
+     "x": 190,
+     "y": 220,
+     "w": 300,
+     "h": 130,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b2",
+     "t": "2. Bù trừ",
+     "d": "Winter: 1,5 × HCO₃ + 8 ± 2",
+     "x": 540,
+     "y": 220,
+     "w": 330,
+     "h": 130,
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "id": "b3",
+     "t": "3. AG hiệu chỉnh",
+     "d": "Theo albumin",
+     "x": 900,
+     "y": 220,
+     "w": 300,
+     "h": 130,
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "id": "b4",
+     "t": "4. Tỷ số delta",
+     "d": "Rối loạn phối hợp?",
+     "x": 1240,
+     "y": 220,
+     "w": 300,
+     "h": 130,
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "id": "b5",
+     "t": "5. Khoảng trống thẩm thấu",
+     "d": "Nghi rượu độc",
+     "x": 1200,
+     "y": 490,
+     "w": 380,
+     "h": 150,
+     "c": "amber",
+     "at": 4
+    },
+    {
+     "id": "b6",
+     "t": "6. AG niệu",
+     "d": "Toan AG bình thường",
+     "x": 760,
+     "y": 490,
+     "w": 330,
+     "h": 150,
+     "c": "green",
+     "at": 5
+    },
+    {
+     "id": "b7",
+     "t": "7. Nguyên nhân",
+     "d": "Dùng lưu đồ (R1.5)",
+     "x": 330,
+     "y": 490,
+     "w": 330,
+     "h": 150,
+     "c": "coral",
+     "at": 6
+    }
+   ],
+   "edges": [
+    {
+     "a": "b1",
+     "b": "b2",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "b2",
+     "b": "b3",
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "a": "b3",
+     "b": "b4",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "a": "b4",
+     "b": "b5",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "a": "b5",
+     "b": "b6",
+     "c": "amber",
+     "at": 5
+    },
+    {
+     "a": "b6",
+     "b": "b7",
+     "c": "green",
+     "at": 6
+    }
+   ],
+   "note": {
+    "t": "Tổng hợp từ khuyến cáo · không phải hình gốc",
+    "at": 0,
+    "c": "teal",
+    "y": 60
+   },
+   "lines": [
+    "Đây là bản đồ của cả phần một: bảy bước. Bước một, xác nhận có toan chuyển hoá bằng khí máu: pH dưới 7,38 và bicarbonat dưới 20.",
+    "Bước hai, đánh giá bù trừ hô hấp bằng công thức Winter.",
+    "Bước ba, tính khoảng trống anion và hiệu chỉnh theo albumin.",
+    "Bước bốn, dùng tỷ số delta để tìm rối loạn chuyển hoá phối hợp.",
+    "Bước năm, khi khoảng trống anion tăng mà chưa rõ nguyên nhân, đặc biệt nghi rượu độc, tính khoảng trống thẩm thấu.",
+    "Bước sáu, nếu khoảng trống anion bình thường, dùng khoảng trống anion niệu để phân biệt mất qua tiêu hoá với toan ống thận.",
+    "Và bước bảy, ghép tất cả để chẩn đoán nguyên nhân. Khuyến cáo R1.5 của hướng dẫn Pháp đề nghị dùng một lưu đồ để cải thiện chẩn đoán nguyên nhân. Chúng ta sẽ đi qua từng bước."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "list",
+   "rail": "cd",
+   "chapter": "Bước 1: xét nghiệm nào",
+   "title": "Bước 1: dùng xét nghiệm nào cho đúng?",
+   "dense": true,
+   "ref": "SRLF/SFMU 2019, R1.1–R1.2, R1.8–R1.11 và lý giải",
+   "items": [
+    {
+     "t": "Khí máu động mạch khi HCO₃ giảm",
+     "d": "Loại kiềm hô hấp, xác nhận toan, tìm toan hỗn hợp · R1.1 · ý kiến chuyên gia",
+     "c": "teal",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "Khí máu tĩnh mạch: pH được, PaCO₂ thì không",
+     "d": "pH chênh TB −0,033 · PaCO₂ chênh 4,41 mmHg, giới hạn −20,4 đến 25,8",
+     "c": "blue",
+     "at": 1,
+     "n": "2"
+    },
+    {
+     "t": "Không ưu tiên base deficit hơn HCO₃",
+     "d": "R1.2 · GRADE 2−",
+     "c": "violet",
+     "at": 2,
+     "n": "3"
+    },
+    {
+     "t": "Lactate: TM bình thường loại trừ · TM tăng → đo ĐM",
+     "d": "R1.8 ý kiến chuyên gia · R1.9 GRADE 2+ · không đo lactate mao mạch (R1.10 GRADE 1−)",
+     "c": "coral",
+     "at": 3,
+     "n": "4"
+    },
+    {
+     "t": "Ceton máu mao mạch thay ceton niệu",
+     "d": "R1.11 · GRADE 1+ (khuyến cáo mạnh)",
+     "c": "amber",
+     "at": 4,
+     "hl": true,
+     "n": "5"
+    }
+   ],
+   "lines": [
+    "Bước một bắt đầu bằng câu hỏi: dùng xét nghiệm nào? Khuyến cáo R1.1: khi bicarbonat giảm, nên làm khí máu động mạch để loại trừ kiềm hô hấp, xác nhận toan chuyển hoá và tìm toan hỗn hợp.",
+    "Khí máu tĩnh mạch có dùng được không? Với pH thì được: phân tích gộp cho thấy pH tĩnh mạch chênh trung bình chỉ âm 0,033 so với động mạch. Nhưng với PaCO₂ thì không: chênh trung bình 4,41, và giới hạn đồng thuận dao động từ âm 20,4 đến 25,8 mi li mét thuỷ ngân. Muốn đánh giá bù trừ hô hấp, phải có PaCO₂ động mạch.",
+    "R1.2, mức GRADE hai trừ: không nên ưu tiên base deficit hơn bicarbonat để nhận diện toan chuyển hoá.",
+    "Về lactate: lactate tĩnh mạch bình thường thì loại trừ tăng lactate máu; nếu lactate tĩnh mạch tăng, nên xác nhận bằng lactate động mạch, GRADE hai cộng. Và không dùng lactate máu mao mạch, đây là khuyến cáo mạnh, GRADE một trừ.",
+    "Cuối cùng là một khuyến cáo mạnh khác, GRADE một cộng: khi chẩn đoán nhiễm toan ceton, đo ceton máu mao mạch, tức beta hydroxybutyrat, thay vì ceton niệu."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "formula",
+   "rail": "cd",
+   "chapter": "Bước 2: Winter",
+   "title": "Bước 2: phổi đã bù đủ chưa?",
+   "ref": "SRLF/SFMU 2019, lý giải R1.1 · TCC 8e, Bảng 15.2, tr. 80 · Marino 5e, pdf 548–551",
+   "main": {
+    "tag": "CÔNG THỨC WINTER",
+    "t": "PaCO₂ dự kiến = 1,5 × HCO₃ + 8 ± 2 mmHg",
+    "d": "Marino dùng cách khác: 40 − 1,2 × (24 − HCO₃)",
+    "at": 0,
+    "c": "blue"
+   },
+   "op": "SO VỚI PaCO₂ ĐO",
+   "op_at": 1,
+   "options": [
+    {
+     "t": "Cao hơn dự kiến",
+     "d": "Kèm toan hô hấp: mệt cơ, an thần, máy thở cài thấp",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Trong khoảng",
+     "d": "Bù trừ thích hợp",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Thấp hơn dự kiến",
+     "d": "Kèm kiềm hô hấp: ví dụ ngộ độc salicylat",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bước hai là bù trừ. Công thức Winter: PaCO₂ dự kiến bằng 1,5 nhân bicarbonat cộng 8, cộng trừ 2 mi li mét thuỷ ngân. Marino đưa ra một cách tính khác: 40 trừ 1,2 nhân hiệu số giữa 24 và bicarbonat; hai cách cho kết quả gần nhau.",
+    "Nếu PaCO₂ đo được cao hơn dự kiến, người bệnh có thêm toan hô hấp: cơ hô hấp đã mệt, đang dùng an thần, hay máy thở cài thông khí phút quá thấp. Đây là tình huống báo động vì pH có thể tụt rất nhanh.",
+    "Nếu PaCO₂ nằm trong khoảng dự kiến, bù trừ thích hợp.",
+    "Và nếu thấp hơn dự kiến, có thêm kiềm hô hấp; ví dụ điển hình là ngộ độc salicylat, gây kiềm hô hấp kèm toan chuyển hoá. Điều quan trọng là nhận ra rối loạn phối hợp."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "Bước 3: khoảng trống anion",
+   "title": "Bước 3: khoảng trống anion phải hiệu chỉnh albumin",
+   "ref": "SRLF/SFMU 2019 R1.3 (GRADE 2+) · Marino 5e, pdf 552–553 · TCC 8e, tr. 81 · Oh's 2026 ch. 57, pdf 2305",
+   "head": [
+    "",
+    "Công thức",
+    "Khoảng tham chiếu",
+    "Hiệu chỉnh albumin"
+   ],
+   "widths": "0.8fr 1.4fr 1fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Marino</b>",
+      "Na − (Cl + HCO₃)",
+      "8–12 mEq/L",
+      "AG + 2,5 × (4,5 − albumin <b>g/dL</b>)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>TCC</b>",
+      "Na − (Cl + HCO₃)",
+      "12 ± 4 mEq/L",
+      "Albumin giảm 1 g/dL → AG giảm ~2,5"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Oh's</b>",
+      "(Na + K) − (Cl + HCO₃), K thường bỏ",
+      "3–13 mEq/L",
+      "AG + 0,25 × (42 − albumin <b>g/L</b>)"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Thực hành</b>",
+      "Dùng AG hiệu chỉnh, không dùng AG thô",
+      "Theo phòng xét nghiệm",
+      "R1.3 · GRADE 2+"
+     ],
+     "at": 3,
+     "c": "coral",
+     "hl": true
+    }
+   ],
+   "lines": [
+    "Bước ba là khoảng trống anion: natri trừ tổng clo và bicarbonat. Marino cho khoảng tham chiếu 8 đến 12, và công thức hiệu chỉnh khi albumin đo bằng gam mỗi đề xi lít: cộng 2,5 nhân hiệu số giữa 4,5 và albumin.",
+    "Textbook of Critical Care cho khoảng 12 cộng trừ 4, và quy tắc dễ nhớ: albumin giảm 1 gam mỗi đề xi lít thì khoảng trống anion giảm khoảng 2,5.",
+    "Oh's Intensive Care Manual tính có cả kali, thường bỏ qua, khoảng tham chiếu 3 đến 13, và vì albumin ở nước ta thường báo bằng gam mỗi lít, quý vị dùng công thức của Oh's: cộng 0,25 nhân hiệu số giữa 42 và albumin tính bằng gam mỗi lít.",
+    "Ba sách cho ba khoảng tham chiếu khác nhau, nên hãy dùng khoảng của phòng xét nghiệm nơi mình làm việc. Điều quan trọng nhất là khuyến cáo R1.3, GRADE hai cộng: dùng khoảng trống anion đã hiệu chỉnh albumin, không dùng khoảng trống thô. Ở hồi sức, albumin thấp là chuyện thường ngày, và nó che khuất cả một toan tăng khoảng trống anion."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "list",
+   "rail": "cd",
+   "chapter": "Bước 4–6",
+   "title": "Bước 4–6: delta, thẩm thấu, anion niệu",
+   "dense": true,
+   "ref": "Marino 5e, pdf 554–555 · TCC 8e, tr. 85–87 · SRLF/SFMU 2019 R1.6–R1.7",
+   "items": [
+    {
+     "t": "Tỷ số delta = (AG − 12) / (24 − HCO₃)",
+     "d": "≈ 1: toan tăng AG đơn thuần · < 1: kèm toan tăng clo · > 1: kèm kiềm chuyển hoá (Marino)",
+     "c": "violet",
+     "at": 0,
+     "n": "4"
+    },
+    {
+     "t": "Khoảng trống thẩm thấu = đo − tính",
+     "d": "Tính: 2 × Na + glucose/18 + BUN/2,8 (mg/dL) · > 10 mOsm/kg là tăng · rượu độc thường > 20",
+     "c": "amber",
+     "at": 2,
+     "n": "5"
+    },
+    {
+     "t": "Khoảng trống thẩm thấu bình thường",
+     "d": "Không loại trừ ngộ độc rượu độc",
+     "c": "coral",
+     "at": 3,
+     "n": "!"
+    },
+    {
+     "t": "AG niệu = Na + K − Cl niệu",
+     "d": "Âm: thải ammonium tốt → mất qua tiêu hoá · 0/dương: RTA · bỏ qua khi Na niệu < 25",
+     "c": "green",
+     "at": 4,
+     "n": "6"
+    },
+    {
+     "t": "Chỉ làm AG niệu, pH niệu khi không rõ nguyên nhân",
+     "d": "R1.6–R1.7 · ý kiến chuyên gia",
+     "c": "blue",
+     "at": 5,
+     "n": "✓"
+    }
+   ],
+   "lines": [
+    "Bước bốn là tỷ số delta: khoảng trống anion trừ 12, chia cho 24 trừ bicarbonat. Theo Marino, tỷ số xấp xỉ 1 là toan tăng khoảng trống anion đơn thuần.",
+    "Tỷ số dưới 1 gợi ý có thêm toan tăng clo, ví dụ người nhiễm toan ceton đã truyền nhiều natri clorid; trên 1 gợi ý có thêm kiềm chuyển hoá, ví dụ người nôn nhiều. Các sách dùng ngưỡng hơi khác nhau, nên xem đây là gợi ý chứ không phải chẩn đoán.",
+    "Bước năm, khoảng trống thẩm thấu bằng độ thẩm thấu đo được trừ độ thẩm thấu tính. Độ thẩm thấu tính bằng 2 nhân natri, cộng glucose chia 18, cộng urê máu chia 2,8, khi glucose và urê tính bằng mi li gam mỗi đề xi lít. Trên 10 là tăng, và ngộ độc rượu độc như methanol hay ethylen glycol thường trên 20.",
+    "Nhưng xin nhớ: khoảng trống thẩm thấu bình thường không loại trừ ngộ độc, vì rượu độc đã chuyển hoá thành acid thì không còn góp vào độ thẩm thấu.",
+    "Bước sáu dành cho toan không tăng khoảng trống anion: khoảng trống anion niệu bằng natri cộng kali trừ clo niệu. Giá trị âm cho thấy thận thải ammonium tốt, gợi ý mất bicarbonat qua tiêu hoá; bằng 0 hoặc dương gợi ý toan ống thận. Không diễn giải khi natri niệu dưới 25, hoặc khi có anion lạ như ceton trong nước tiểu.",
+    "Và theo hướng dẫn Pháp, chỉ làm khoảng trống anion niệu và pH niệu khi toan không có anion chưa đo và không rõ nguyên nhân, còn pH niệu dành cho người nghi toan ống thận."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "list",
+   "rail": "cd",
+   "chapter": "Bẫy chẩn đoán",
+   "title": "Bốn cái bẫy khi đọc khí máu",
+   "dense": true,
+   "ref": "Marino 5e, pdf 553–555, 563 · Oh's 2026 ch. 57, pdf 2306–2309 · TCC 8e, tr. 84 · SRLF R2.1",
+   "items": [
+    {
+     "t": "Albumin thấp che khuất AG tăng",
+     "d": "Luôn hiệu chỉnh",
+     "c": "coral",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "pH “bình thường” không loại trừ",
+     "d": "Toan và kiềm đối nghịch có thể cùng tồn tại",
+     "c": "violet",
+     "at": 1,
+     "n": "2"
+    },
+    {
+     "t": "Ceton niệu âm tính giả",
+     "d": "Que nitroprussid không đo β-hydroxybutyrat (ưu thế trong toan ceton rượu)",
+     "c": "amber",
+     "at": 2,
+     "n": "3"
+    },
+    {
+     "t": "D-lactate không hiện trên xét nghiệm thường",
+     "d": "Ruột ngắn · phải yêu cầu riêng",
+     "c": "teal",
+     "at": 3,
+     "n": "4"
+    },
+    {
+     "t": "pH không dùng một mình để đánh giá mức nặng",
+     "d": "R2.1 GRADE 2− · lactate tăng là dấu hiệu nặng (R2.2 GRADE 1+)",
+     "c": "blue",
+     "at": 4,
+     "hl": true,
+     "n": "!"
+    }
+   ],
+   "lines": [
+    "Trước khi sang tình huống, xin lưu ý bốn cái bẫy. Một, albumin thấp che khuất khoảng trống anion tăng; vì vậy luôn hiệu chỉnh.",
+    "Hai, pH bình thường không loại trừ rối loạn: một toan chuyển hoá có thể bị che bởi kiềm do giảm albumin hoặc kiềm chuyển hoá do nôn.",
+    "Ba, que thử ceton niệu dùng phản ứng nitroprussid, không đo được beta hydroxybutyrat, nên có thể âm tính giả, nhất là trong toan ceton do rượu.",
+    "Bốn, D-lactate ở người hội chứng ruột ngắn không hiện trên xét nghiệm lactate thường quy, vì máy chỉ đo L-lactate; phải yêu cầu xét nghiệm riêng.",
+    "Và một nguyên tắc về mức nặng: pH không dùng một mình để xác định bệnh nặng, GRADE hai trừ; trong khi tăng lactate, ở bất kỳ mức nào, là dấu hiệu nặng cần xử trí nhanh, khuyến cáo mạnh GRADE một cộng."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "quiz",
+   "rail": "cd",
+   "chapter": "Tình huống",
+   "title": "Tình huống: đọc một khí máu",
+   "ref": "Ca minh hoạ · áp dụng Winter, AG hiệu chỉnh (Oh's), tỷ số delta (Marino)",
+   "case": "Nam 65 tuổi, sốc nhiễm khuẩn đường mật, thở máy. pH <b>7,12</b> · PaCO₂ <b>24</b> · HCO₃ <b>8</b> · Na 138 · Cl 104 · albumin <b>25 g/L</b> · lactate 5,2.",
+   "q": "Nhận định nào đúng nhất?",
+   "options": [
+    "Toan tăng AG đơn thuần, bù trừ hô hấp đầy đủ",
+    "Toan tăng AG (≈ 30), delta ≈ 1,1; bù hô hấp chưa đủ (PaCO₂ cao hơn dự kiến 20 ± 2)",
+    "Toan AG bình thường vì AG thô = 26 chỉ tăng nhẹ",
+    "Toan tăng AG kèm toan tăng clo vì delta < 1"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Winter <b>20 ± 2</b> → PaCO₂ 24: <b>bù chưa đủ</b> · AG 26 → hiệu chỉnh <b>≈ 30</b> · delta <b>≈ 1,1</b>: tăng AG đơn thuần",
+   "lines": [
+    "Đến với tình huống. Nam 65 tuổi, sốc nhiễm khuẩn đường mật, đang thở máy. Khí máu: pH 7,12; PaCO₂ 24; bicarbonat 8. Natri 138, clo 104, albumin 25 gam mỗi lít, lactate 5,2.",
+    "Nhận định nào đúng nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Winter: 1,5 nhân 8 cộng 8 bằng 20, cộng trừ 2; PaCO₂ đo 24 cao hơn giới hạn trên 2 mi li mét thuỷ ngân, tức bù trừ hô hấp chưa đủ, nên tăng tần số máy thở. Khoảng trống anion thô bằng 138 trừ 112, bằng 26; hiệu chỉnh với albumin 25 gam mỗi lít: cộng 0,25 nhân 17, được khoảng 30. Tỷ số delta bằng 18 chia 16, khoảng 1,1: toan tăng khoảng trống anion đơn thuần, do lactate và suy thận. Chúng ta sẽ gặp lại người bệnh này ở phần bốn."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "summary",
+   "rail": "cd",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp của Phần 1",
+   "dense": true,
+   "items": [
+    {
+     "t": "Toan chuyển hoá: HCO₃ < 20 · nặng khi pH ≤ 7,20",
+     "d": "Toan hoá ≠ toan máu",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "t": "Khí máu động mạch để có PaCO₂ đúng",
+     "d": "pH tĩnh mạch dùng được, PaCO₂ tĩnh mạch thì không",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Winter: 1,5 × HCO₃ + 8 ± 2",
+     "d": "Cao hơn → kèm toan hô hấp",
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "t": "Luôn hiệu chỉnh AG theo albumin",
+     "d": "R1.3 · GRADE 2+",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "t": "Delta, thẩm thấu, AG niệu khi cần",
+     "d": "Khoảng trống thẩm thấu bình thường không loại trừ rượu độc",
+     "c": "amber",
+     "at": 4
+    },
+    {
+     "t": "Ceton máu, lactate động mạch",
+     "d": "R1.11 GRADE 1+ · lactate tăng là dấu hiệu nặng",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết sáu thông điệp. Một, toan chuyển hoá là bicarbonat dưới 20, nặng khi pH từ 7,20 trở xuống.",
+    "Hai, cần khí máu động mạch để có PaCO₂ đúng.",
+    "Ba, công thức Winter: 1,5 nhân bicarbonat cộng 8, cộng trừ 2.",
+    "Bốn, luôn hiệu chỉnh khoảng trống anion theo albumin.",
+    "Năm, dùng tỷ số delta, khoảng trống thẩm thấu và khoảng trống anion niệu đúng chỗ.",
+    "Và sáu, đo ceton máu thay ceton niệu, lactate động mạch khi lactate tĩnh mạch tăng. Trong phần hai, chúng ta sẽ đi vào nguyên nhân, từ toan lactic, toan ceton, rượu độc đến toan tăng clo, và các biện pháp điều trị chung: thở máy, lọc máu, chất đệm. Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn gặp lại trên Thư Viện Y Khoa Online."
+   ],
+   "id": "s14"
+  }
+ ]
+}
