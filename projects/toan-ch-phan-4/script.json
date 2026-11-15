@@ -1,0 +1,675 @@
+{
+ "title": "Toan chuyển hoá – Phần 4: Ba ca lâm sàng",
+ "theme": "case",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Toan chuyển hoá · Phần 4/4",
+ "source_short": "Nguồn: SRLF/SFMU 2019 · BICAR-ICU 2018 · BICARICU-2 2025 · ĐT DKA 2024 · AHA/ERC 2025 · DTQG 2018",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "amitriptylin": "a mi trip ti lin",
+  "BICARICU-2": "bi ca i xi u hai",
+  "BICAR-ICU": "bi ca i xi u",
+  "SRLF/SFMU": "hội hồi sức và hội cấp cứu Pháp",
+  "SODa-BIC": "sô đa bích",
+  "mmol/kg": "mi li mol mỗi ký",
+  "mOsm/kg": "mi li ô sơ mol mỗi ký",
+  "MOSAICC": "mô sai",
+  "NaHCO₃": "natri bicarbonat",
+  "NaHCO3": "natri bicarbonat",
+  "mmol/L": "mi li mol mỗi lít",
+  "mOsm/L": "mi li ô sơ mol mỗi lít",
+  "BaSICS": "ba xích",
+  "MAKE30": "biến cố thận nặng trong 30 ngày",
+  "PaCO₂": "pê a cê ô hai",
+  "PaCO2": "pê a cê ô hai",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "mL/kg": "mi li lít mỗi ký",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "SMART": "smát",
+  "GRADE": "grết",
+  "SGLT2": "ét gê eo tê hai",
+  "CHEST": "chét",
+  "SRLF": "hội hồi sức Pháp",
+  "HCO₃": "bicarbonat",
+  "HCO3": "bicarbonat",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "PLUS": "plát",
+  "THAM": "tham",
+  "UKKA": "hội thận Anh",
+  "DTQG": "Dược thư quốc gia",
+  "g/L": "gam mỗi lít",
+  "SBE": "kiềm dư chuẩn",
+  "ICU": "hồi sức",
+  "BYT": "Bộ Y tế",
+  "QRS": "qui rờ ét"
+ },
+ "brand": {
+  "next": "Trọn loạt: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng · Toan chuyển hoá · Phần 4/4",
+   "title": "Ba ca toan<br>chuyển hoá",
+   "subtitle": "Sốc nhiễm khuẩn · nhiễm toan ceton · ngộ độc",
+   "badges": [
+    {
+     "t": "4 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Natri bicarbonat",
+     "c": "coral",
+     "at": 1
+    }
+   ],
+   "note": "Ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng",
+   "note_at": 2,
+   "monitor": {
+    "hr": 118,
+    "bp": "84/48"
+   },
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn, phần cuối của loạt bài toan chuyển hoá trên Thư Viện Y Khoa Online. Hôm nay chúng ta áp dụng toàn bộ kiến thức vào ba ca lâm sàng.",
+    "Có bốn điểm quyết định. Ở mỗi điểm, quý vị hãy tạm dừng video và tự trả lời trước khi xem đáp án.",
+    "Đây là các ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Ca 1 · Vào hồi sức",
+   "title": "Ca 1: sốc nhiễm khuẩn, thiểu niệu",
+   "patient": {
+    "tag": "CA 1",
+    "t": "Nam 65 tuổi, 70 kg",
+    "d": "Sốc nhiễm khuẩn đường mật · đã thở máy, noradrenalin",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Thiểu niệu 12 giờ",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Da nổi bông",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Thở máy, đang an thần",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "HR",
+     "v": "118",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "HA",
+     "v": "84/48",
+     "u": "mmHg",
+     "c": "coral",
+     "f": "noradrenalin",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "SpO₂",
+     "v": "95",
+     "u": "%",
+     "c": "blue",
+     "f": "thở máy",
+     "at": 1
+    },
+    {
+     "k": "NHIỆT ĐỘ",
+     "v": "38,9",
+     "u": "°C",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Ca thứ nhất. Một người đàn ông 65 tuổi, nặng 70 ký, sốc nhiễm khuẩn đường mật, đã đặt nội khí quản, thở máy và đang dùng noradrenalin. Nhịp tim 118, huyết áp 84 trên 48.",
+    "Người bệnh thiểu niệu đã 12 giờ, da chi nổi bông. SpO₂ 95 phần trăm trên máy thở, nhiệt độ 38,9 độ.",
+    "Người bệnh đang được an thần. Hãy nhớ điều này khi đọc khí máu."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "labs",
+   "chapter": "Ca 1 · Xét nghiệm",
+   "title": "Ca 1: khí máu và sinh hoá",
+   "groups": [
+    {
+     "g": "Khí máu động mạch",
+     "c": "teal",
+     "at": 0,
+     "rows": [
+      {
+       "k": "pH",
+       "v": "7,12",
+       "r": "7,35–7,45",
+       "f": "L"
+      },
+      {
+       "k": "PaCO₂",
+       "v": "24",
+       "r": "35–45 mmHg",
+       "f": "L"
+      },
+      {
+       "k": "HCO₃",
+       "v": "8",
+       "r": "22–26 mmol/L",
+       "f": "L"
+      },
+      {
+       "k": "Lactate",
+       "v": "5,2",
+       "r": "≤ 2 mmol/L",
+       "f": "H"
+      }
+     ]
+    },
+    {
+     "g": "Điện giải",
+     "c": "amber",
+     "at": 1,
+     "rows": [
+      {
+       "k": "Na",
+       "v": "138",
+       "r": "135–145",
+       "f": "N"
+      },
+      {
+       "k": "Cl",
+       "v": "104",
+       "r": "98–107",
+       "f": "N"
+      },
+      {
+       "k": "K",
+       "v": "4,6",
+       "r": "3,5–5,0",
+       "f": "N"
+      },
+      {
+       "k": "Ca ion hoá",
+       "v": "1,05",
+       "r": "1,12–1,32 mmol/L",
+       "f": "L"
+      }
+     ]
+    },
+    {
+     "g": "Khác",
+     "c": "coral",
+     "at": 2,
+     "rows": [
+      {
+       "k": "Creatinin",
+       "v": "3,8",
+       "r": "mg/dL · AKI 3",
+       "f": "H"
+      },
+      {
+       "k": "Albumin",
+       "v": "25",
+       "r": "35–50 g/L",
+       "f": "L"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Khí máu động mạch: pH 7,12, PaCO₂ 24, bicarbonat 8, lactate 5,2 mi li mol mỗi lít.",
+    "Điện giải: natri 138, clo 104, kali 4,6, calci ion hoá 1,05, thấp nhẹ.",
+    "Creatinin 3,8 mi li gam mỗi đề xi lít, tổn thương thận cấp giai đoạn 3; albumin 25 gam mỗi lít."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 1",
+   "title": "Đọc khí máu",
+   "step": "ĐIỂM QUYẾT ĐỊNH 1",
+   "q": "Nhận định và chỉnh máy thở nào phù hợp?",
+   "q_at": 0,
+   "context": "pH 7,12 · PaCO₂ 24 · HCO₃ 8 · Na 138 · Cl 104 · albumin 25 g/L · đang an thần, thở máy.",
+   "options": [
+    "Bù trừ đủ, giữ nguyên máy thở",
+    "Bù chưa đủ (dự kiến 20 ± 2) · tăng tần số, tối đa 35, không auto-PEEP · AG hiệu chỉnh ≈ 30",
+    "Toan hỗn hợp nặng → tăng Vt lên 12 mL/kg",
+    "Toan AG bình thường → nghĩ mất qua tiêu hoá"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Winter: 1,5 × 8 + 8 = <b>20 ± 2</b> → PaCO₂ 24 hơi cao → tăng <b>tần số</b> (R3.14) · AG 26 → hiệu chỉnh <b>≈ 30</b> · delta ≈ 1,1: toan tăng AG (lactate + suy thận)",
+   "lines": [
+    "Điểm quyết định thứ nhất. Với khí máu này, người bệnh đang an thần và thở máy, quý vị nhận định thế nào và chỉnh máy thở ra sao?",
+    "Hãy nhớ công thức Winter, khoảng trống anion hiệu chỉnh và khuyến cáo R3.14.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: PaCO₂ dự kiến bằng 1,5 nhân 8 cộng 8, bằng 20 cộng trừ 2. PaCO₂ 24 hơi cao hơn, tức bù trừ chưa đủ, điều dễ hiểu ở người đang an thần thở máy. Ta tăng tần số thở, tối đa 35 lần mỗi phút, không để tạo auto-PEEP, không tăng thể tích khí lưu thông quá 8 mi li lít mỗi ký. Khoảng trống anion hiệu chỉnh khoảng 30, tỷ số delta khoảng 1,1: toan tăng khoảng trống anion đơn thuần, do lactate và suy thận."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 2",
+   "title": "Có dùng natri bicarbonat?",
+   "step": "ĐIỂM QUYẾT ĐỊNH 2",
+   "q": "Lựa chọn nào phù hợp nhất?",
+   "q_at": 0,
+   "context": "pH 7,12 · PaCO₂ < 45 · AKI giai đoạn 3 · K 4,6 · Ca ion 1,05 · 70 kg.",
+   "options": [
+    "8,4% 1 mmol/kg bolus nhanh, nhắc lại tới pH 7,40",
+    "Bù calci trước · 4,2% 250 mL trong 30–60 phút · khí máu sau 1–4 giờ · đích pH ≥ 7,30",
+    "Không dùng vì BICARICU-2 âm tính",
+    "Lọc máu ngay lập tức, không cần điều trị khác"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Đủ tiêu chuẩn <b>R3.6</b> (GRADE 2+) · bù <b>Ca ion</b> trước · 4,2% 250 mL = 125 mmol ≈ 1,8 mmol/kg → SBE dự kiến tăng ~5 · ≤ 1000 mL/24 giờ · mục đích: <b>tránh, trì hoãn lọc máu</b>",
+   "lines": [
+    "Điểm quyết định thứ hai. Người bệnh có pH 7,12, PaCO₂ dưới 45, tổn thương thận cấp giai đoạn 3, kali 4,6, calci ion hoá 1,05. Quý vị có dùng natri bicarbonat không, và dùng thế nào?",
+    "Nhớ lại khuyến cáo R3.6 và kết quả BICARICU-2.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án: người bệnh đủ tiêu chuẩn của khuyến cáo R3.6, mức GRADE hai cộng. Calci ion hoá thấp nhẹ, nên bù calci tĩnh mạch trước, vì bicarbonat làm giảm thêm calci ion hoá. Sau đó truyền natri bicarbonat 4,2 phần trăm 250 mi li lít trong 30 đến 60 phút, tức 125 mi li mol, khoảng 1,8 mi li mol mỗi ký, dự kiến kiềm dư chuẩn tăng khoảng 5. Làm khí máu sau 1 đến 4 giờ, đích pH từ 7,30, tổng không quá 1000 mi li lít trong 24 giờ. Và nói rõ mục đích: tránh hoặc trì hoãn lọc máu, không phải giảm tử vong."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "course",
+   "chapter": "Ca 1 · Diễn tiến",
+   "title": "Ca 1: diễn tiến 24 giờ",
+   "events": [
+    {
+     "time": "Giờ 0",
+     "t": "Calci tĩnh mạch · NaHCO₃ 4,2% 250 mL",
+     "d": "Tăng tần số máy thở",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "time": "Giờ 3",
+     "t": "pH 7,22 → nhắc 250 mL",
+     "d": "Na, K, Ca ion ổn",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "time": "Giờ 24",
+     "t": "Vô niệu · K 6,7 · sóng T cao",
+     "d": "Đủ tiêu chuẩn lọc máu kiểu BICARICU-2",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "time": "Sau đó",
+     "t": "Lọc máu liên tục 25–30 mL/kg/giờ",
+     "d": "Huyết động chưa ổn định",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Diễn tiến. Giờ 0: bù calci, truyền 250 mi li lít natri bicarbonat 4,2 phần trăm, tăng tần số máy thở.",
+    "Giờ thứ 3: pH 7,22, vẫn dưới 7,30, nên nhắc lại 250 mi li lít; natri, kali, calci ion hoá ổn định.",
+    "Giờ thứ 24: người bệnh vô niệu, kali 6,7 kèm sóng T cao. Đây là tiêu chuẩn lọc máu ngay trong BICARICU-2.",
+    "Người bệnh được lọc máu liên tục 25 đến 30 mi li lít mỗi ký mỗi giờ vì huyết động chưa ổn định. Bài học: natri bicarbonat giúp mua thời gian, không thay thế lọc máu khi có chỉ định."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "labs",
+   "chapter": "Ca 2 · Nhiễm toan ceton",
+   "title": "Ca 2: nhiễm toan ceton nặng",
+   "groups": [
+    {
+     "g": "Lúc vào viện",
+     "c": "coral",
+     "at": 0,
+     "note": "Nữ 32 tuổi, type 1, bỏ insulin, lơ mơ",
+     "rows": [
+      {
+       "k": "Glucose",
+       "v": "520",
+       "r": "mg/dL",
+       "f": "H"
+      },
+      {
+       "k": "β-OHB",
+       "v": "7,5",
+       "r": "< 0,6 mmol/L",
+       "f": "H"
+      },
+      {
+       "k": "pH",
+       "v": "6,92",
+       "r": "7,35–7,45",
+       "f": "L"
+      },
+      {
+       "k": "HCO₃",
+       "v": "4",
+       "r": "22–26",
+       "f": "L"
+      },
+      {
+       "k": "K",
+       "v": "4,1",
+       "r": "3,5–5,0",
+       "f": "N"
+      }
+     ]
+    },
+    {
+     "g": "Sau 8 giờ điều trị",
+     "c": "teal",
+     "at": 2,
+     "note": "Đã truyền nhiều NaCl 0,9%",
+     "rows": [
+      {
+       "k": "Glucose",
+       "v": "230",
+       "r": "mg/dL",
+       "f": "H"
+      },
+      {
+       "k": "β-OHB",
+       "v": "0,8",
+       "r": "< 0,6 mmol/L",
+       "f": "H"
+      },
+      {
+       "k": "pH",
+       "v": "7,28",
+       "r": "7,35–7,45",
+       "f": "L"
+      },
+      {
+       "k": "HCO₃",
+       "v": "13",
+       "r": "22–26",
+       "f": "L"
+      },
+      {
+       "k": "Cl",
+       "v": "118",
+       "r": "98–107",
+       "f": "H"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Ca thứ hai. Nữ 32 tuổi, đái tháo đường type 1, bỏ insulin, lơ mơ. Glucose 520, beta hydroxybutyrat 7,5, pH 6,92, bicarbonat 4, kali 4,1. Theo đồng thuận 2024, đây là nhiễm toan ceton nặng.",
+    "Người bệnh được truyền dịch, bù kali, truyền insulin 0,1 đơn vị mỗi ký mỗi giờ, và vì pH dưới 7,0, được xem xét 100 mi li mol natri bicarbonat pha trong 400 mi li lít nước cất, như chúng ta đã bàn ở phần ba.",
+    "Sau 8 giờ: glucose 230, beta hydroxybutyrat còn 0,8, pH 7,28, bicarbonat 13, nhưng clo tăng lên 118. Người bệnh đã được truyền khá nhiều natri clorid 0,9 phần trăm."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 3",
+   "title": "Bicarbonat còn thấp: DKA chưa đỡ?",
+   "step": "ĐIỂM QUYẾT ĐỊNH 3",
+   "q": "Diễn giải và xử trí nào đúng?",
+   "q_at": 0,
+   "context": "Sau 8 giờ: β-hydroxybutyrat 0,8 · pH 7,28 · HCO₃ 13 · Cl 118.",
+   "options": [
+    "DKA thất bại điều trị → tăng gấp đôi insulin",
+    "Thêm NaHCO₃ vì HCO₃ vẫn < 18",
+    "Phần lớn là toan tăng clo do NaCl · theo dõi ceton máu, tiếp tục insulin + dextrose",
+    "Ngừng insulin vì glucose đã < 250"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Ceton giảm 7,5 → 0,8: DKA <b>đang hồi phục</b> · Cl 118: <b>toan tăng clo</b> do NaCl thay cho toan ceton · đánh giá bằng <b>ceton máu</b> (hết khi < 0,6), không bằng HCO₃ · glucose < 250: thêm dextrose, giảm insulin 0,05",
+   "lines": [
+    "Điểm quyết định thứ ba. Sau 8 giờ, bicarbonat vẫn chỉ 13, pH 7,28. Một đồng nghiệp lo rằng điều trị thất bại. Quý vị diễn giải và xử trí thế nào?",
+    "Gợi ý: hãy nhìn vào ceton máu và clo.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án ba. Beta hydroxybutyrat đã giảm từ 7,5 xuống 0,8: nhiễm toan ceton đang hồi phục tốt. Bicarbonat còn thấp chủ yếu vì toan tăng clo do truyền nhiều natri clorid, thay thế cho thành phần tăng khoảng trống anion, đúng như Marino mô tả. Vì vậy đánh giá bằng ceton máu, hết nhiễm toan ceton khi dưới 0,6, chứ không bằng bicarbonat. Tiếp tục insulin, và vì glucose dưới 250, thêm dextrose và giảm insulin còn 0,05 đơn vị mỗi ký mỗi giờ. Không dùng thêm bicarbonat."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Ca 3 · Ngộ độc",
+   "title": "Ca 3: uống thuốc chống trầm cảm",
+   "patient": {
+    "tag": "CA 3",
+    "t": "Nam 28 tuổi",
+    "d": "Uống amitriptylin · co giật 1 lần tại nhà",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "QRS 150 ms",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Lơ mơ sau co giật",
+     "at": 1,
+     "c": "violet"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "HR",
+     "v": "132",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "f": "QRS rộng",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "HA",
+     "v": "80/50",
+     "u": "mmHg",
+     "c": "coral",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "SpO₂",
+     "v": "94",
+     "u": "%",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "k": "NHỊP THỞ",
+     "v": "14",
+     "u": "l/ph",
+     "c": "amber",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Ca thứ ba. Nam 28 tuổi, uống amitriptylin, co giật một lần tại nhà. Nhịp tim 132, huyết áp 80 trên 50.",
+    "Điện tim có QRS rộng 150 mi li giây; người bệnh lơ mơ sau cơn co giật.",
+    "Đây là bệnh cảnh ngộ độc thuốc chống trầm cảm ba vòng có độc tính tim đe doạ tính mạng."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 4",
+   "title": "Natri bicarbonat trong ngộ độc ba vòng",
+   "step": "ĐIỂM QUYẾT ĐỊNH 4",
+   "q": "Cách dùng natri bicarbonat nào đúng?",
+   "q_at": 0,
+   "context": "QRS 150 ms · HA 80/50 · pH 7,36 · Na 140.",
+   "options": [
+    "Không dùng vì pH gần bình thường",
+    "Bolus ưu trương 1 mEq/mL, 50–150 mEq, nhắc lại tới khi QRS hẹp, hết tụt áp · Na ≤ 150–155, pH ≤ 7,50–7,55",
+    "NaHCO₃ 1,4% 500 mL trong 4 giờ",
+    "Đích pH 7,65 để chắc chắn"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "AHA 2023: <b>COR 1, LOE B-NR</b> · bolus 50–150 mEq dung dịch 1 mEq/mL · chỉnh theo <b>QRS và huyết áp</b> · có thể duy trì 150 mEq/L, 1–3 mL/kg/giờ · tránh Na > 150–155, pH > 7,50–7,55 · bù kali",
+   "lines": [
+    "Điểm quyết định thứ tư. QRS 150 mi li giây, huyết áp 80 trên 50, nhưng pH 7,36, natri 140. Quý vị dùng natri bicarbonat thế nào?",
+    "Lưu ý: ở đây chỉ định không dựa vào pH.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Đây là chỉ định có khuyến cáo mạnh nhất của natri bicarbonat: AHA 2023, mức 1, bằng chứng B-NR. Bolus dung dịch ưu trương 1 mi li đương lượng mỗi mi li lít, người lớn 50 đến 150 mi li đương lượng, nhắc lại cho tới khi QRS hẹp lại và hết tụt huyết áp; có thể truyền duy trì. Mục tiêu là natri và kiềm hoá để vượt qua ức chế kênh natri, nên không phụ thuộc pH ban đầu. Nhưng phải giữ natri không quá 150 đến 155, pH không quá 7,50 đến 7,55, và theo dõi bù kali."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "list",
+   "chapter": "Tranh cãi",
+   "title": "Câu hỏi còn bỏ ngỏ",
+   "dense": true,
+   "ref": "BICARICU-2 2025 · Jung, CHEST 2026, tr. 1, 4 và TLTK 11, 12, 31 · DTQG 2018 · BYT 2015",
+   "items": [
+    {
+     "t": "Đọc lại BICAR-ICU sau BICARICU-2",
+     "d": "Lợi ích tử vong ở phân nhóm AKI không được xác nhận · còn lợi ích giảm lọc máu",
+     "c": "coral",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "Đích pH bao nhiêu?",
+     "d": "7,30 (thử nghiệm) · > 7,20 ở một số người (CHEST) · 7,1 (Dược thư)",
+     "c": "amber",
+     "at": 1,
+     "n": "2"
+    },
+    {
+     "t": "Bicarbonat hay lọc máu sớm?",
+     "d": "Thử nghiệm thời điểm lọc máu: lọc sớm không cải thiện sống còn",
+     "c": "violet",
+     "at": 2,
+     "n": "3"
+    },
+    {
+     "t": "Đang chờ kết quả",
+     "d": "SODa-BIC (NCT05697770) · MOSAICC (ISRCTN14027629)",
+     "c": "teal",
+     "at": 3,
+     "n": "4"
+    },
+    {
+     "t": "Văn bản trong nước",
+     "d": "Dược thư 2018, Bộ Y tế 2015 chưa cập nhật hai thử nghiệm Pháp",
+     "c": "blue",
+     "at": 4,
+     "n": "5"
+    }
+   ],
+   "lines": [
+    "Trước khi kết thúc, xin điểm qua những câu hỏi còn bỏ ngỏ. Một, đọc lại BICAR-ICU sau BICARICU-2: lợi ích tử vong ở phân nhóm tổn thương thận cấp không được xác nhận, chỉ còn lợi ích giảm lọc máu.",
+    "Hai, đích pH bao nhiêu: thử nghiệm dùng 7,30; nhóm tác giả CHEST viết nâng và giữ pH trên 7,20 ở một số người; Dược thư là 7,1.",
+    "Ba, bicarbonat hay lọc máu sớm: các thử nghiệm về thời điểm lọc máu cho thấy lọc sớm không cải thiện sống còn.",
+    "Bốn, hai thử nghiệm đang chờ kết quả: SODa-BIC và MOSAICC.",
+    "Và năm, văn bản trong nước chưa cập nhật bằng chứng mới, một việc cần làm khi xây dựng phác đồ."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết loạt bài",
+   "title": "Bảy thông điệp của toàn loạt",
+   "dense": true,
+   "items": [
+    {
+     "t": "Khí máu động mạch, Winter, AG hiệu chỉnh albumin",
+     "d": "Delta, thẩm thấu, AG niệu khi cần",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Lactate tăng là dấu hiệu nặng",
+     "d": "pH không dùng một mình",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Điều trị nguyên nhân là chính",
+     "d": "Dịch cân bằng · DKA: kali trước, insulin TM",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Thở máy: tần số ≤ 35, đích pH ≥ 7,15",
+     "d": "Cẩn trọng lúc đặt nội khí quản",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "NaHCO₃: toan nặng + AKI · ngộ độc ba vòng",
+     "d": "4,2% 125–250 mL, đích ≥ 7,30 · giảm lọc máu, không giảm tử vong",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "t": "Không thường quy: DKA (trừ pH < 7,0), ngừng tim",
+     "d": "Bù K, Ca ion trước · không chung đường calci",
+     "c": "green",
+     "at": 5
+    },
+    {
+     "t": "Lọc máu: pH ≤ 7,15 dù điều trị",
+     "d": "Sớm với metformin, rượu độc, salicylat",
+     "c": "coral",
+     "at": 6
+    }
+   ],
+   "lines": [
+    "Xin tổng kết bảy thông điệp của toàn loạt bài. Một, khí máu động mạch, công thức Winter, khoảng trống anion hiệu chỉnh albumin.",
+    "Hai, lactate tăng là dấu hiệu nặng; pH không dùng một mình.",
+    "Ba, điều trị nguyên nhân là chính.",
+    "Bốn, thở máy tăng tần số tới 35, đích pH từ 7,15.",
+    "Năm, natri bicarbonat dành cho toan nặng kèm tổn thương thận cấp và ngộ độc thuốc chống trầm cảm ba vòng; giảm lọc máu nhưng không giảm tử vong.",
+    "Sáu, không dùng thường quy trong nhiễm toan ceton, trừ khi pH dưới 7,0, và trong ngừng tim; luôn bù kali, calci ion hoá trước.",
+    "Và bảy, lọc máu khi pH từ 7,15 trở xuống dù đã điều trị. Tài liệu chuyên đề đầy đủ có trên thuvienykhoa.online. Cảm ơn quý đồng nghiệp đã đồng hành cùng loạt bài. Hẹn gặp lại trên Thư Viện Y Khoa Online."
+   ],
+   "id": "s12"
+  }
+ ]
+}
