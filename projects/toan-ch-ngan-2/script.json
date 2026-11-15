@@ -1,0 +1,101 @@
+{
+ "title": "Toan chuyển hoá – Video ngắn 2: Nhiễm toan ceton: khi nào cho bicarbonat?",
+ "theme": "benh-hoc",
+ "format": "vertical",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Toan chuyển hoá",
+ "part": "Toan chuyển hoá · Video ngắn 2",
+ "source_short": "Nguồn: SRLF/SFMU 2019 · ĐT DKA 2024 · DTQG 2018",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "BICARICU-2": "bi ca i xi u hai",
+  "BICAR-ICU": "bi ca i xi u",
+  "SRLF/SFMU": "hội hồi sức và hội cấp cứu Pháp",
+  "SODa-BIC": "sô đa bích",
+  "mmol/kg": "mi li mol mỗi ký",
+  "mOsm/kg": "mi li ô sơ mol mỗi ký",
+  "MOSAICC": "mô sai",
+  "NaHCO₃": "natri bicarbonat",
+  "NaHCO3": "natri bicarbonat",
+  "mmol/L": "mi li mol mỗi lít",
+  "mOsm/L": "mi li ô sơ mol mỗi lít",
+  "BaSICS": "ba xích",
+  "MAKE30": "biến cố thận nặng trong 30 ngày",
+  "PaCO₂": "pê a cê ô hai",
+  "PaCO2": "pê a cê ô hai",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "mL/kg": "mi li lít mỗi ký",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "SMART": "smát",
+  "GRADE": "grết",
+  "SGLT2": "ét gê eo tê hai",
+  "CHEST": "chét",
+  "SRLF": "hội hồi sức Pháp",
+  "HCO₃": "bicarbonat",
+  "HCO3": "bicarbonat",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "PLUS": "plát",
+  "THAM": "tham",
+  "UKKA": "hội thận Anh",
+  "DTQG": "Dược thư quốc gia",
+  "g/L": "gam mỗi lít",
+  "SBE": "kiềm dư chuẩn",
+  "ICU": "hồi sức",
+  "BYT": "Bộ Y tế"
+ },
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "TOAN CHUYỂN HOÁ",
+   "hook": "Nhiễm toan ceton: khi nào mới cho bicarbonat?",
+   "sub": "Đồng thuận 2024 trả lời",
+   "c": "violet",
+   "lines": [
+    "Nhiễm toan ceton đái tháo đường, pH rất thấp: có cho natri bicarbonat không?"
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "TÌNH HUỐNG",
+   "title": "DKA, pH 6,92",
+   "ref": "Đồng thuận cơn tăng đường huyết 2024, tr. 1266",
+   "case": "DKA nặng · pH <b>6,92</b> · K 4,1 · đã dịch, kali, insulin",
+   "q": "Natri bicarbonat?",
+   "options": [
+    "Không bao giờ",
+    "100 mmol 8,4% + 400 mL nước cất, mỗi 2 giờ tới pH > 7,0",
+    "Truyền tới pH 7,40",
+    "Chỉ khi HCO₃ < 18"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 0,
+   "answer_at": 2,
+   "countdown": {
+    "after": 1,
+    "s": 5
+   },
+   "explain": "Chỉ xem xét khi <b>pH < 7,0</b> · đích pH > 7,0 · theo dõi <b>kali</b> sát",
+   "lines": [
+    "Người bệnh nhiễm toan ceton nặng, pH 6,92, kali 4,1, đã được truyền dịch, bù kali và insulin. Bạn chọn gì?",
+    "Tạm dừng để suy nghĩ nhé.",
+    "Đáp án: đồng thuận 2024 chỉ xem xét bicarbonat khi pH dưới 7,0: 100 mi li mol 8,4 phần trăm pha 400 mi li lít nước cất, mỗi 2 giờ tới khi pH trên 7,0, và theo dõi kali thật sát. Trọn bài giảng ở link trong bio!"
+   ],
+   "id": "s02"
+  }
+ ]
+}
