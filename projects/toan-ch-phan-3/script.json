@@ -1,0 +1,1111 @@
+{
+ "title": "Toan chuyển hoá – Phần 3: Natri bicarbonat – dùng khi nào, dùng thế nào",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Toan chuyển hoá · Phần 3/4",
+ "source_short": "Nguồn: SRLF/SFMU 2019 · BICAR-ICU 2018 · BICARICU-2 2025 · ĐT DKA 2024 · AHA/ERC 2025 · DTQG 2018",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "BICARICU-2": "bi ca i xi u hai",
+  "BICAR-ICU": "bi ca i xi u",
+  "SRLF/SFMU": "hội hồi sức và hội cấp cứu Pháp",
+  "SODa-BIC": "sô đa bích",
+  "mmol/kg": "mi li mol mỗi ký",
+  "mOsm/kg": "mi li ô sơ mol mỗi ký",
+  "MOSAICC": "mô sai",
+  "NaHCO₃": "natri bicarbonat",
+  "NaHCO3": "natri bicarbonat",
+  "mmol/L": "mi li mol mỗi lít",
+  "mOsm/L": "mi li ô sơ mol mỗi lít",
+  "BaSICS": "ba xích",
+  "MAKE30": "biến cố thận nặng trong 30 ngày",
+  "PaCO₂": "pê a cê ô hai",
+  "PaCO2": "pê a cê ô hai",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "mL/kg": "mi li lít mỗi ký",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "SMART": "smát",
+  "GRADE": "grết",
+  "SGLT2": "ét gê eo tê hai",
+  "CHEST": "chét",
+  "SRLF": "hội hồi sức Pháp",
+  "HCO₃": "bicarbonat",
+  "HCO3": "bicarbonat",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "PLUS": "plát",
+  "THAM": "tham",
+  "UKKA": "hội thận Anh",
+  "DTQG": "Dược thư quốc gia",
+  "g/L": "gam mỗi lít",
+  "SBE": "kiềm dư chuẩn",
+  "ICU": "hồi sức",
+  "BYT": "Bộ Y tế"
+ },
+ "brand": {
+  "next": "Phần 4: Ba ca lâm sàng"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa"
+  },
+  {
+   "k": "sl",
+   "t": "Sinh lý"
+  },
+  {
+   "k": "nn",
+   "t": "Nguyên nhân"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "bc",
+   "t": "Bicarbonat"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Toan chuyển hoá",
+   "title": "Natri bicarbonat:<br>dùng khi nào, dùng thế nào",
+   "subtitle": "Phần 3 · Chế phẩm, liều, đường truyền, chỉ định",
+   "badges": [
+    {
+     "t": "BICAR-ICU 2018",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "BICARICU-2 2025",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Dược thư QG",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · Phần 3/4",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba, phần trọng tâm của loạt bài toan chuyển hoá trên Thư Viện Y Khoa Online: natri bicarbonat.",
+    "Đây là thuốc có mặt ở mọi khoa hồi sức, cấp cứu, nhưng cũng là thuốc bị dùng theo thói quen nhiều nhất. Hôm nay chúng ta trả lời đủ năm câu hỏi: chế phẩm nào, liều bao nhiêu, truyền đường nào và tốc độ ra sao, bằng chứng nói gì, và dùng trong những tình huống nào.",
+    "Mọi liều trong bài đều lấy từ guideline, thử nghiệm gốc và Dược thư quốc gia, đã được rà soát. Tuy vậy, xin quý vị luôn đối chiếu với chế phẩm có tại đơn vị mình."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "cards",
+   "rail": "bc",
+   "chapter": "Dược lý",
+   "title": "Cơ chế và cái giá phải trả",
+   "ref": "DTQG 2018, tr. 1028 · SRLF/SFMU 2019, lý giải R3.5, R3.8 · ĐT DKA 2024, tr. 1266 · CHEST 2026, tr. 5",
+   "cards": [
+    {
+     "tag": "CƠ CHẾ",
+     "t": "HCO₃ + H⁺ → CO₂ + H₂O",
+     "items": [
+      "Kiềm hoá ngay",
+      "Chỉ hiệu quả khi thông khí đủ thải CO₂"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "ĐIỆN GIẢI",
+     "t": "K, Ca, Na",
+     "items": [
+      "Hạ kali",
+      "Hạ calci ion hoá (tetani)",
+      "Tăng natri, tăng thẩm thấu"
+     ],
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "DỊCH, KIỀM",
+     "t": "Quá tải, dội lại",
+     "items": [
+      "Quá tải natri – nước, phù phổi",
+      "Kiềm máu dội lại",
+      "Hoại tử khi thoát mạch"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "RIÊNG DKA",
+     "t": "Toan nghịch thường",
+     "items": [
+      "Giảm thu nhận oxy mô",
+      "Phù não",
+      "Toan thần kinh trung ương"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "h": 600,
+   "lines": [
+    "Bắt đầu từ dược lý. Bicarbonat kết hợp ion hydro tạo acid carbonic, rồi phân ly thành CO₂ và nước. Tác dụng kiềm hoá xảy ra ngay, nhưng Dược thư nhấn mạnh: thuốc chỉ hiệu quả khi thông khí đủ để thải lượng CO₂ sinh ra. Đó là lý do người đang toan hô hấp hay thở máy cài thông khí thấp sẽ hưởng lợi rất ít.",
+    "Cái giá thứ nhất là điện giải: hạ kali, hạ calci ion hoá, có thể gây tetani, và tăng natri, tăng áp lực thẩm thấu. Tổng quan CHEST năm 2026 coi hạ calci ion hoá là một trong những tác dụng bất lợi có ý nghĩa lâm sàng nhất.",
+    "Cái giá thứ hai là quá tải natri và nước, nhất là ở người suy tim, suy thận thiểu niệu; kiềm máu dội lại; và hoại tử mô nếu thoát mạch.",
+    "Riêng trong nhiễm toan ceton, đồng thuận 2024 còn nêu giảm thu nhận oxy mô, phù não và toan nghịch thường ở hệ thần kinh trung ương."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "compare",
+   "rail": "bc",
+   "chapter": "Chế phẩm",
+   "title": "Chế phẩm và quy đổi",
+   "ref": "DTQG 2018, tr. 1027, 1029 · Marino 5e, Bảng 32.2, pdf 565 · AHA 2023 ngộ độc, pdf 7 · mmol/mL, mOsm/L tính từ phân tử lượng 84",
+   "head": [
+    "Nồng độ",
+    "mmol HCO₃ (= Na) / mL",
+    "mOsm/L",
+    "Ghi chú"
+   ],
+   "widths": "0.7fr 1fr 0.8fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>1,4%</b>",
+      "0,167",
+      "≈ 333",
+      "Gần đẳng trương · truyền ngoại vi"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>4,2%</b>",
+      "0,5",
+      "≈ 1000",
+      "Dùng trong BICAR-ICU, BICARICU-2 · loại 0,5 mEq/mL cho trẻ em · vẫn ưu trương"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>7,5%</b>",
+      "0,89",
+      "≈ 1790",
+      "Ống 50 mL = 45 mEq (Marino)"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>8,4%</b>",
+      "<b>1,0</b>",
+      "≈ 2000",
+      "Ống 50 mL = 50 mEq · không pha loãng → tĩnh mạch trung tâm"
+     ],
+     "at": 3,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Uống</b>",
+      "1 g = 11,9 mmol",
+      "—",
+      "Viên 325–1000 mg · 1 mEq = 84 mg"
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Ở Việt Nam, Dược thư quốc gia ghi các dung dịch tiêm 1,4 phần trăm, 4,2, 7,5 và 8,4 phần trăm. Dung dịch 1,4 phần trăm chứa 0,167 mi li mol mỗi mi li lít, khoảng 333 mi li ô sơ mol mỗi lít, gần đẳng trương, truyền được qua tĩnh mạch ngoại vi.",
+    "Dung dịch 4,2 phần trăm chứa 0,5 mi li mol mỗi mi li lít, khoảng 1000 mi li ô sơ mol mỗi lít; đây là dung dịch dùng trong cả hai thử nghiệm Pháp. Xin lưu ý: 4,2 phần trăm vẫn là dung dịch ưu trương.",
+    "Dung dịch 7,5 phần trăm chứa khoảng 0,9 mi li mol mỗi mi li lít; Marino ghi ống 50 mi li lít chứa 45 mi li đương lượng.",
+    "Và dung dịch 8,4 phần trăm là con số vàng để nhớ: 1 mi li lít bằng 1 mi li mol, tức 1 mi li đương lượng, khoảng 2000 mi li ô sơ mol mỗi lít, gấp gần bảy lần huyết tương. Ống 50 mi li lít chứa 50 mi li đương lượng. Dược thư quy định: dung dịch nồng độ cao không pha loãng chỉ được truyền qua tĩnh mạch trung tâm.",
+    "Còn đường uống: 1 gam natri bicarbonat chứa 11,9 mi li mol natri và 11,9 mi li mol bicarbonat."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "list",
+   "rail": "bc",
+   "chapter": "Tính liều",
+   "title": "Bốn cách tính liều",
+   "dense": true,
+   "ref": "DTQG 2018, tr. 1028–1029 · BYT 2015, tr. 204 · Marino 5e, pdf 565 · Oh's 2026 ch. 57, pdf 2312",
+   "items": [
+    {
+     "t": "Dược thư: mmol = BE × 0,3 × cân nặng",
+     "d": "Bù 1/2 liều rồi làm lại khí máu · kiểm tra sau 100–300 mL",
+     "c": "teal",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "Bộ Y tế 2015: 0,4 × kg × (HCO₃ đích − đo)",
+     "d": "Bù 1/2 thiếu hụt trong 3–4 giờ nếu không suy tim nặng",
+     "c": "blue",
+     "at": 1,
+     "n": "2"
+    },
+    {
+     "t": "Marino: 0,6 × kg × (15 − HCO₃)",
+     "d": "Ví dụ 70 kg, HCO₃ 5 → 420 mEq; dùng 200 mEq (4 ống 8,4%)",
+     "c": "violet",
+     "at": 2,
+     "n": "3"
+    },
+    {
+     "t": "Chưa có khí máu, đe doạ tính mạng",
+     "d": "1 mmol/kg, sau 10 phút ≤ 0,5 mmol/kg (Dược thư)",
+     "c": "coral",
+     "at": 3,
+     "n": "4"
+    },
+    {
+     "t": "Quy tắc thực hành: 1 mmol/kg ≈ SBE tăng 3 mEq/L",
+     "d": "Truyền 8,4% chậm ít nhất 30–60 phút, tăng thông khí khi cần (Oh's)",
+     "c": "amber",
+     "at": 4,
+     "hl": true,
+     "n": "★"
+    }
+   ],
+   "lines": [
+    "Liều bao nhiêu? Các nguồn đưa ra những công thức khác nhau. Dược thư quốc gia: số mi li mol bằng mức thiếu kiềm nhân 0,3 nhân cân nặng. Ban đầu chỉ dùng một nửa liều tính được, rồi làm lại khí máu; và kiểm tra toan kiềm sau khi đã truyền 100 đến 300 mi li lít.",
+    "Hướng dẫn Bộ Y tế năm 2015 dùng hệ số 0,4 nhân cân nặng nhân hiệu số giữa bicarbonat cần đạt và bicarbonat đo được, bù một nửa trong 3 đến 4 giờ nếu không suy tim nặng.",
+    "Marino, trong toan lactic, dùng hệ số 0,6 với đích bicarbonat 15: người 70 ký có bicarbonat 5 thì thiếu 420 mi li đương lượng, và chỉ bù khoảng một nửa, tức 4 ống 8,4 phần trăm, pha trong dextrose 5 phần trăm và truyền chậm trong nhiều giờ.",
+    "Khi chưa có khí máu mà tình huống đe doạ tính mạng, Dược thư cho liều kinh nghiệm: tiêm tĩnh mạch chậm 1 mi li mol mỗi ký, sau 10 phút không quá 0,5 mi li mol mỗi ký.",
+    "Ba hệ số 0,3, 0,4 và 0,6 khác nhau, nên cách thực tế hơn là quy tắc của Oh's: 1 mi li mol mỗi ký làm kiềm dư chuẩn tăng khoảng 3 mi li đương lượng mỗi lít. Truyền, rồi đo, rồi chỉnh. Và với dung dịch 8,4 phần trăm, truyền chậm ít nhất 30 đến 60 phút, kèm tăng thông khí nếu cần."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "bars",
+   "rail": "bc",
+   "chapter": "Quy đổi theo cân nặng",
+   "title": "1 mmol/kg bằng bao nhiêu mL?",
+   "ref": "Liều kinh nghiệm 1 mmol/kg: DTQG 2018, tr. 1029 · quy đổi do người soạn tính, đã rà soát liều",
+   "groups": [
+    {
+     "t": "50 kg",
+     "d": "50 mmol",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "8,4%",
+       "v": 50,
+       "lab": "50 mL"
+      },
+      {
+       "k": "4,2%",
+       "v": 100,
+       "lab": "100 mL"
+      }
+     ]
+    },
+    {
+     "t": "60 kg",
+     "d": "60 mmol",
+     "at": 0,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "8,4%",
+       "v": 60,
+       "lab": "60 mL"
+      },
+      {
+       "k": "4,2%",
+       "v": 120,
+       "lab": "120 mL"
+      }
+     ]
+    },
+    {
+     "t": "70 kg",
+     "d": "70 mmol",
+     "at": 1,
+     "c": "violet",
+     "hl": true,
+     "bars": [
+      {
+       "k": "8,4%",
+       "v": 70,
+       "lab": "70 mL"
+      },
+      {
+       "k": "4,2%",
+       "v": 140,
+       "lab": "140 mL"
+      }
+     ]
+    },
+    {
+     "t": "80 kg",
+     "d": "80 mmol",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "8,4%",
+       "v": 80,
+       "lab": "80 mL"
+      },
+      {
+       "k": "4,2%",
+       "v": 160,
+       "lab": "160 mL"
+      }
+     ]
+    }
+   ],
+   "max": 190,
+   "h": 560,
+   "notes": [
+    {
+     "tag": "NHỚ",
+     "t": "8,4%: mL = mmol · 4,2%: mL = 2 × mmol",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "VÍ DỤ BE",
+     "t": "60 kg, BE −15: 15 × 0,3 × 60 = 270 mmol → bù 1/2 = 135 mL 8,4% hoặc 270 mL 4,2%",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Để dễ nhớ ở giường bệnh: với dung dịch 8,4 phần trăm, số mi li lít bằng số mi li mol; với 4,2 phần trăm, số mi li lít gấp đôi. Liều 1 mi li mol mỗi ký ở người 50 ký là 50 mi li lít 8,4 phần trăm, hay 100 mi li lít 4,2 phần trăm; người 60 ký là 60 và 120 mi li lít.",
+    "Người 70 ký là 70 và 140; người 80 ký là 80 và 160 mi li lít.",
+    "Một ví dụ theo công thức Dược thư: người 60 ký, kiềm dư âm 15. Liều tính được bằng 15 nhân 0,3 nhân 60, bằng 270 mi li mol. Bù một nửa là 135 mi li mol, tức 135 mi li lít 8,4 phần trăm hoặc 270 mi li lít 4,2 phần trăm, sau đó làm lại khí máu."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "flow",
+   "rail": "bc",
+   "chapter": "Phác đồ tại giường",
+   "title": "Phác đồ kiểu BICAR-ICU tại hồi sức",
+   "ref": "BICAR-ICU 2018, tr. 3 · BICARICU-2 2025, tr. 3 · Jung, CHEST 2026, tr. 5–8 · tổng hợp, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Đủ tiêu chuẩn?",
+     "d": "pH ≤ 7,20 · PaCO₂ ≤ 45 · HCO₃ ≤ 20 · AKI vừa–nặng",
+     "x": 230,
+     "y": 230,
+     "w": 380,
+     "h": 160,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Bù K, Ca ion trước",
+     "d": "Kiểm tra trước mỗi lần truyền",
+     "x": 700,
+     "y": 230,
+     "w": 360,
+     "h": 160,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "NaHCO₃ 4,2%",
+     "d": "125–250 mL trong 30 phút",
+     "x": 1160,
+     "y": 230,
+     "w": 360,
+     "h": 160,
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Khí máu sau 1–4 giờ",
+     "d": "Na, K, Ca ion, PaCO₂",
+     "x": 1160,
+     "y": 500,
+     "w": 360,
+     "h": 150,
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "pH < 7,30 → nhắc lại",
+     "d": "Tối đa 1000 mL / 24 giờ",
+     "x": 700,
+     "y": 500,
+     "w": 360,
+     "h": 150,
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "id": "f",
+     "t": "Kháng trị → lọc máu",
+     "d": "Tiêu chuẩn BICARICU-2",
+     "x": 230,
+     "y": 500,
+     "w": 360,
+     "h": 150,
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "a": "e",
+     "b": "f",
+     "c": "violet",
+     "at": 5
+    }
+   ],
+   "note": {
+    "t": "Tổng hợp từ thử nghiệm và tổng quan · không phải hình gốc",
+    "at": 0,
+    "c": "teal",
+    "y": 60
+   },
+   "lines": [
+    "Đây là phác đồ tại giường, rút từ hai thử nghiệm Pháp và cách làm của chính nhóm tác giả. Bước một, kiểm tra tiêu chuẩn: pH từ 7,20 trở xuống, PaCO₂ không quá 45, bicarbonat không quá 20, và có tổn thương thận cấp mức vừa đến nặng.",
+    "Bước hai, trước khi truyền, kiểm tra và bù kali và calci ion hoá. Tổng quan CHEST viết rõ: hạ kali phải được điều chỉnh trước, và calci tĩnh mạch nên được cho trước khi truyền bicarbonat ở người hạ calci.",
+    "Bước ba, truyền natri bicarbonat 4,2 phần trăm, mỗi lần 125 đến 250 mi li lít trong 30 phút theo protocol thử nghiệm. Trong bài CHEST, các tác giả thực hành 250 mi li lít trong 60 phút.",
+    "Bước bốn, khí máu động mạch 1 đến 4 giờ sau mỗi lần truyền, kèm natri, kali, calci ion hoá và PaCO₂.",
+    "Bước năm, nếu pH còn dưới 7,30, nhắc lại, nhưng tổng không quá 1000 mi li lít trong 24 giờ đầu. Lưu ý tốc độ này nhanh hơn mức Dược thư khuyến cáo cho 4,2 phần trăm, nên chỉ áp dụng ở hồi sức có theo dõi liên tục.",
+    "Và nếu toan kháng trị, chuyển sang lọc máu theo các tiêu chuẩn đã nêu ở phần hai."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "list",
+   "rail": "bc",
+   "chapter": "Đường truyền, tương kỵ",
+   "title": "Đường truyền, tốc độ, tương kỵ, theo dõi",
+   "dense": true,
+   "ref": "DTQG 2018, tr. 1028–1029 · AHA 2023 ngộ độc, pdf 28",
+   "items": [
+    {
+     "t": "Chỉ tiêm truyền tĩnh mạch",
+     "d": "Thoát mạch gây hoại tử mô · 8,4% không pha loãng → tĩnh mạch trung tâm · 4,2% vẫn ưu trương: chọn tĩnh mạch lớn",
+     "c": "coral",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "Tốc độ theo Dược thư",
+     "d": "4,2%: tới 40 giọt/phút = 120 mL/giờ · 7,5–8,4%: 20–40 giọt/phút = 60–120 mL/giờ",
+     "c": "blue",
+     "at": 1,
+     "n": "2"
+    },
+    {
+     "t": "Không chung đường với calci, magnesi",
+     "d": "Kết tủa carbonat · bất hoạt catecholamin · tráng 5–10 mL NaCl 0,9% · không pha thuốc khác vào chai",
+     "c": "violet",
+     "at": 2,
+     "n": "3"
+    },
+    {
+     "t": "Theo dõi: khí máu, Na, K, Ca ion, dịch",
+     "d": "Ngộ độc chẹn kênh Na: Na ≤ 150–155, pH ≤ 7,50–7,55",
+     "c": "teal",
+     "at": 3,
+     "n": "4"
+    },
+    {
+     "t": "Quá liều: ngừng truyền",
+     "d": "NaCl 0,9% · KCl nếu hạ kali · calci gluconat nếu tetani",
+     "c": "amber",
+     "at": 4,
+     "n": "5"
+    }
+   ],
+   "lines": [
+    "Về đường truyền: natri bicarbonat chỉ được tiêm truyền tĩnh mạch, vì thoát mạch gây hoại tử mô. Dung dịch 8,4 phần trăm không pha loãng phải qua tĩnh mạch trung tâm. Dung dịch 4,2 phần trăm, khoảng 1000 mi li ô sơ mol mỗi lít, vẫn ưu trương; nếu truyền ngoại vi, chọn tĩnh mạch lớn và theo dõi viêm tĩnh mạch.",
+    "Tốc độ theo Dược thư: 4,2 phần trăm tới 40 giọt mỗi phút, tức 120 mi li lít mỗi giờ; 7,5 hoặc 8,4 phần trăm khoảng 20 đến 40 giọt mỗi phút, tức 60 đến 120 mi li lít mỗi giờ.",
+    "Tương kỵ: không truyền đồng thời với dung dịch chứa calci hoặc magnesi vì kết tủa carbonat; bicarbonat làm bất hoạt catecholamin. Vì vậy phải tráng đường truyền 5 đến 10 mi li lít natri clorid 0,9 phần trăm trước và giữa các thuốc khi hồi sinh tim phổi, và không pha thêm thuốc nào vào chai bicarbonat.",
+    "Theo dõi khí máu, natri, kali, calci ion hoá và cân bằng dịch. Trong ngộ độc chẹn kênh natri, AHA khuyên giữ natri không quá 150 đến 155 và pH không quá 7,50 đến 7,55.",
+    "Và khi quá liều: ngừng truyền, truyền natri clorid 0,9 phần trăm, bù kali clorid nếu hạ kali, và calci gluconat nếu có tetani."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "bars",
+   "rail": "bc",
+   "chapter": "Bằng chứng",
+   "title": "BICAR-ICU và BICARICU-2: kết quả chính",
+   "ref": "BICAR-ICU, Lancet 2018, tr. 1, 6 · BICARICU-2, JAMA 2025, tr. 1, 7",
+   "groups": [
+    {
+     "t": "BICAR-ICU · n = 389",
+     "d": "Tử vong 28 ngày + suy cơ quan ngày 7",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "NaHCO₃",
+       "v": 66,
+       "lab": "66%"
+      },
+      {
+       "k": "Chứng",
+       "v": 71,
+       "lab": "71%"
+      }
+     ],
+     "note": "p = 0,24 · không khác biệt"
+    },
+    {
+     "t": "BICAR-ICU · tầng AKIN 2–3",
+     "d": "Tử vong ngày 28",
+     "at": 1,
+     "c": "violet",
+     "hl": true,
+     "bars": [
+      {
+       "k": "NaHCO₃",
+       "v": 46,
+       "lab": "46%"
+      },
+      {
+       "k": "Chứng",
+       "v": 63,
+       "lab": "63%"
+      }
+     ],
+     "note": "p = 0,0166 · phân nhóm"
+    },
+    {
+     "t": "BICARICU-2 · n = 627",
+     "d": "Tử vong ngày 90 (toan + AKI)",
+     "at": 2,
+     "c": "coral",
+     "hl": true,
+     "bars": [
+      {
+       "k": "NaHCO₃",
+       "v": 62.1,
+       "lab": "62,1%"
+      },
+      {
+       "k": "Chứng",
+       "v": 61.7,
+       "lab": "61,7%"
+      }
+     ],
+     "note": "p = 0,91 · không khác biệt"
+    },
+    {
+     "t": "BICARICU-2 · lọc máu",
+     "d": "Dùng lọc máu",
+     "at": 3,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "NaHCO₃",
+       "v": 35,
+       "lab": "35%"
+      },
+      {
+       "k": "Chứng",
+       "v": 50,
+       "lab": "50%"
+      }
+     ]
+    }
+   ],
+   "max": 82,
+   "h": 480,
+   "notes": [
+    {
+     "tag": "LỌC MÁU",
+     "t": "HR bắt đầu lọc máu 0,59 (0,46–0,75)",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "tag": "KẾT LUẬN",
+     "t": "Không phải biện pháp cứu sống · giảm, trì hoãn lọc máu",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Bây giờ là bằng chứng. BICAR-ICU năm 2018 trên 389 người toan chuyển hoá nặng ở hồi sức: kết cục gộp tử vong ngày 28 hoặc suy cơ quan ngày 7 là 66 phần trăm ở nhóm bicarbonat so với 71 phần trăm nhóm chứng, không khác biệt. Lọc máu ít hơn ở nhóm bicarbonat: 35 so với 52 phần trăm.",
+    "Nhưng trong tầng định trước có tổn thương thận cấp AKIN 2 đến 3, tử vong ngày 28 giảm từ 63 xuống 46 phần trăm. Đây là kết quả phân nhóm, và chính nó dẫn tới khuyến cáo R3.6 năm 2019, cũng như thử nghiệm BICARICU-2.",
+    "BICARICU-2 năm 2025 thiết kế riêng cho người toan nặng kèm tổn thương thận cấp, 627 người được phân tích. Kết quả: tử vong ngày 90 là 62,1 so với 61,7 phần trăm, hoàn toàn không khác biệt.",
+    "Tuy nhiên, lọc máu giảm rõ: 35 so với 50 phần trăm, tỷ số nguy cơ bắt đầu lọc máu trong 28 ngày là 0,59. Và không thấy khác biệt về biến cố bất lợi.",
+    "Kết luận thực hành: ở người toan nặng kèm tổn thương thận cấp, natri bicarbonat an toàn và giúp giảm hoặc trì hoãn lọc máu, nhưng không phải biện pháp cứu sống."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "box",
+   "rail": "bc",
+   "chapter": "Một lỗi hay gặp",
+   "title": "Cẩn thận khi trích dẫn BICAR-ICU",
+   "ref": "BICAR-ICU 2018, tr. 1 và Bảng 2, tr. 6 · SRLF/SFMU 2019, lý giải R3.6",
+   "box": {
+    "tag": "BẢNG 2 · TRANG 6",
+    "t": "Tầng AKIN 2–3: <b>tử vong</b> ngày 28 là <b>63%</b> (chứng, 57/90) và <b>46%</b> (NaHCO₃, 42/92)",
+    "at": 0,
+    "c": "violet",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "TÓM TẮT BÀI GỐC",
+     "t": "Gọi cặp số 63% – 46% là “survival” (sống còn)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "HƯỚNG DẪN 2019",
+     "t": "Chép lại thành “sống còn 46% chứng – 63% bicarbonat”",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "ĐÚNG",
+     "t": "Chiều lợi ích giữ nguyên, nhưng đó là tỷ lệ tử vong",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Một chi tiết nhỏ nhưng quan trọng cho những ai trình bày hay viết luận văn. Trong Bảng 2 trang 6 của BICAR-ICU, ở tầng tổn thương thận cấp, tử vong ngày 28 là 63 phần trăm ở nhóm chứng, tức 57 trên 90, và 46 phần trăm ở nhóm bicarbonat, 42 trên 92.",
+    "Nhưng phần tóm tắt của bài lại gọi cặp số này là xác suất sống còn.",
+    "Và hướng dẫn Pháp năm 2019 chép lại thành sống còn 46 phần trăm ở nhóm chứng, 63 phần trăm ở nhóm bicarbonat.",
+    "Chiều lợi ích không đổi: bicarbonat tốt hơn ở tầng này. Nhưng khi trích dẫn, xin gọi đúng tên: đó là tỷ lệ tử vong, không phải tỷ lệ sống."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "compare",
+   "rail": "bc",
+   "chapter": "Chỉ định 1: hồi sức",
+   "title": "Chỉ định theo tình huống (1): toan ở hồi sức",
+   "ref": "SRLF R3.6–R3.8 · ĐT DKA 2024 · AHA 2025 P9 · ERC 2025 · TCC 8e",
+   "head": [
+    "Tình huống",
+    "Khuyến nghị",
+    "Cách dùng",
+    "Mức khuyến cáo"
+   ],
+   "widths": "1.2fr 1.1fr 1.6fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Toan nặng + AKI vừa–nặng</b>",
+      "Có thể dùng",
+      "4,2% · 125–250 mL/30 phút · ≤ 1000 mL/24 giờ · đích pH ≥ 7,30",
+      "SRLF R3.6 GRADE 2+ · BICARICU-2: không giảm tử vong"
+     ],
+     "at": 0,
+     "c": "teal",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Toan lactic, sốc không AKI</b>",
+      "Không thường quy",
+      "—",
+      "BICAR-ICU tổng thể âm tính"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Nhiễm toan ceton (DKA)</b>",
+      "Chỉ khi pH < 7,0",
+      "100 mmol (8,4%) + 400 mL nước cất, mỗi 2 giờ tới pH > 7,0",
+      "Đồng thuận 2024 · SRLF R3.8 GRADE 2−"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Toan ceton do rượu</b>",
+      "Khi không đáp ứng dịch",
+      "pH < 7,1",
+      "TCC 8e (sách)"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Ngừng tim</b>",
+      "Không thường quy",
+      "Trừ tăng kali, ngộ độc chẹn kênh Na",
+      "AHA 2025: 3 – No Benefit, B-R · ERC 2025: yếu · SRLF R3.7 GRADE 1−"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bây giờ là bảng chỉ định theo từng tình huống, chia làm ba nhóm. Nhóm một, toan ở hồi sức. Toan nặng kèm tổn thương thận cấp mức vừa đến nặng: có thể dùng, theo khuyến cáo R3.6 mức GRADE hai cộng, với cách dùng như phác đồ vừa nêu; nhưng nhớ BICARICU-2 không cho thấy giảm tử vong.",
+    "Toan lactic hay sốc không kèm tổn thương thận cấp: không dùng thường quy.",
+    "Nhiễm toan ceton đái tháo đường: không thường quy; chỉ xem xét khi pH dưới 7,0. Khi đó, đồng thuận 2024 cho 100 mi li mol, tức 100 mi li lít dung dịch 8,4 phần trăm, pha trong 400 mi li lít nước cất, nhắc lại mỗi 2 giờ cho tới khi pH trên 7,0. Văn bản gọi đây là dung dịch đẳng trương, nhưng tính ra nồng độ là 200 mi li mol natri mỗi lít, tức ưu trương nhẹ.",
+    "Toan ceton do rượu: chỉ khi pH dưới 7,1 và không đáp ứng với dịch.",
+    "Và ngừng tim: không dùng thường quy. AHA 2025 xếp mức 3, không có lợi, bằng chứng B-R; ERC 2025 khuyến cáo yếu không dùng; hướng dẫn Pháp mức GRADE một trừ, ngoại trừ tăng kali có trước hoặc ngộ độc thuốc ổn định màng."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "compare",
+   "rail": "bc",
+   "chapter": "Chỉ định 2: kali, ngộ độc",
+   "title": "Chỉ định theo tình huống (2): tăng kali và ngộ độc",
+   "ref": "AHA 2025 P10 · UKKA 2023 dự thảo · AHA 2023 ngộ độc · SRLF R3.9 · TCC 8e",
+   "head": [
+    "Tình huống",
+    "Khuyến nghị",
+    "Cách dùng",
+    "Mức khuyến cáo"
+   ],
+   "widths": "1.2fr 1fr 1.7fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ngừng tim do tăng kali</b>",
+      "Có thể cân nhắc",
+      "—",
+      "AHA 2025: 2b, C-EO · UKKA dự thảo: đề nghị (2C)"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Tăng kali cấp</b>",
+      "Không truyền thường quy",
+      "UKKA dẫn tài liệu: 8,4% 100–250 mL khi pH < 7,2",
+      "UKKA dự thảo GL 16.5 (2C)"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Chống trầm cảm ba vòng</b>",
+      "Khuyến cáo dùng",
+      "Bolus 1 mEq/mL, 50–150 mEq · duy trì 150 mEq/L, 1–3 mL/kg/giờ",
+      "AHA 2023: 1, B-NR"
+     ],
+     "at": 2,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Chẹn kênh Na khác · cocain · thuốc tê</b>",
+      "Hợp lý",
+      "Như trên khi QRS rộng, ngừng tim",
+      "AHA 2023: 2a, C-LD"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Salicylat</b>",
+      "Đề nghị, bất kể pH",
+      "pH niệu đích 7,5 · pH máu không > 7,55",
+      "SRLF R3.9 ý kiến chuyên gia"
+     ],
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Nhóm hai, tăng kali và ngộ độc. Ngừng tim nghi do tăng kali: AHA 2025 ghi hiệu quả của bicarbonat chưa được xác lập, mức 2b; bản dự thảo hướng dẫn của hội thận Anh đề nghị dùng.",
+    "Tăng kali máu cấp không ngừng tim: không truyền bicarbonat thường quy, theo dự thảo của hội thận Anh. Phần lý giải của văn bản này có dẫn một tác giả khác đề nghị 100 đến 250 mi li lít dung dịch 8,4 phần trăm khi toan với pH dưới 7,2, nhưng đó không phải khuyến cáo có phân mức.",
+    "Ngộ độc thuốc chống trầm cảm ba vòng hoặc bốn vòng có độc tính tim đe doạ tính mạng: đây là chỉ định có khuyến cáo mạnh nhất, mức 1, bằng chứng B-NR. Bolus dung dịch ưu trương 1 mi li đương lượng mỗi mi li lít, người lớn 50 đến 150 mi li đương lượng, nhắc lại cho tới khi hết tụt huyết áp và QRS hẹp lại; có thể truyền duy trì dung dịch 150 mi li đương lượng mỗi lít với tốc độ 1 đến 3 mi li lít mỗi ký mỗi giờ.",
+    "Các chất chẹn kênh natri khác, cocain gây nhịp nhanh QRS rộng hoặc ngừng tim, và ngộ độc thuốc tê: dùng là hợp lý, mức 2a.",
+    "Và ngộ độc salicylat: đề nghị dùng bất kể pH, nhằm kiềm hoá máu và nước tiểu. Textbook of Critical Care đặt đích pH niệu 7,5 và không để pH máu vượt 7,55."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "compare",
+   "rail": "bc",
+   "chapter": "Chỉ định 3: mạn tính, tránh dùng",
+   "title": "Chỉ định theo tình huống (3): mất kiềm, mạn tính, nên tránh",
+   "ref": "SRLF R3.5 · CHEST 2026 · UKKA 2023 dự thảo · TCC 8e · VUNA 2023",
+   "head": [
+    "Tình huống",
+    "Khuyến nghị",
+    "Cách dùng",
+    "Nguồn"
+   ],
+   "widths": "1.2fr 1fr 1.7fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Mất HCO₃ tiêu hoá, thận</b>",
+      "Đề nghị khi dung nạp kém",
+      "Dung dịch đẳng trương 150 mEq/L",
+      "SRLF R3.5 · CHEST"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Bệnh thận mạn</b>",
+      "Uống",
+      "HCO₃ < 22: 0,5–1 mEq/kg/ngày · VUNA: 1–6 g/ngày, đích > 22",
+      "UKKA dự thảo GL 6.1 (1B) · KDIGO: cần đối chiếu"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Toan ống thận</b>",
+      "Uống",
+      "Xa: 1–2 mEq/kg/ngày · gần: 10–15 mEq/kg/ngày, ưu tiên kali citrat",
+      "TCC 8e (sách)"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Ly giải u có AKI</b>",
+      "Không dùng",
+      "Kết tủa calci phosphat · dùng rasburicase",
+      "CHEST 2026"
+     ],
+     "at": 3,
+     "c": "coral",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Hạ K, hạ Ca ion chưa bù</b>",
+      "Bù trước",
+      "Bù K, calci tĩnh mạch rồi mới truyền",
+      "CHEST 2026"
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Nhóm ba. Toan do mất bicarbonat qua tiêu hoá hoặc thận: hướng dẫn Pháp đề nghị dùng khi dung nạp lâm sàng kém, và tổng quan CHEST ghi đây là chỉ định được chấp nhận rộng rãi, dùng dung dịch đẳng trương 150 mi li đương lượng mỗi lít.",
+    "Bệnh thận mạn có bicarbonat dưới 22: bổ sung đường uống, 0,5 đến 1 mi li đương lượng mỗi ký mỗi ngày theo Textbook of Critical Care; khuyến cáo trong nước của Hội Tiết niệu Thận học dùng 1 đến 6 gam mỗi ngày để giữ bicarbonat trên 22. Ngưỡng của KDIGO 2024 có thể khác, cần đối chiếu.",
+    "Toan ống thận: type 1 dùng natri bicarbonat hoặc natri citrat 1 đến 2 mi li đương lượng mỗi ký mỗi ngày; type 2 cần tới 10 đến 15, ưu tiên kali citrat.",
+    "Còn đây là tình huống nên tránh: hội chứng ly giải u có tổn thương thận cấp. Kiềm hoá nước tiểu làm kết tủa calci phosphat trong ống thận, và từ khi có rasburicase, bicarbonat không còn được khuyến cáo.",
+    "Và khi kali hoặc calci ion hoá còn thấp: bù trước, rồi mới truyền bicarbonat."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "compare",
+   "rail": "bc",
+   "chapter": "Văn bản trong nước",
+   "title": "Văn bản trong nước và bằng chứng mới",
+   "ref": "DTQG 2018, tr. 1029 · BYT 2015, tr. 204 · SRLF/SFMU 2019 R3.6 · ĐT DKA 2024, tr. 1266",
+   "head": [
+    "Nguồn",
+    "Ngưỡng truyền tĩnh mạch",
+    "Đích"
+   ],
+   "widths": "1.2fr 2fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Dược thư QG 2018</b>",
+      "pH < 7,0 · toan lactic: “ý kiến còn tranh luận”",
+      "pH 7,1"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Bộ Y tế 2015</b>",
+      "pH < 7,20 · DKA: không bù bicarbonat",
+      "HCO₃ “cần đạt”"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>SRLF 2019, BICAR-ICU, BICARICU-2</b>",
+      "pH ≤ 7,20 + PaCO₂ < 45 + AKI vừa–nặng",
+      "pH ≥ 7,30"
+     ],
+     "at": 2,
+     "c": "teal",
+     "hl": true
+    },
+    {
+     "cells": [
+      "<b>Đồng thuận DKA 2024</b>",
+      "pH < 7,0",
+      "pH > 7,0"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Cuối cùng, so sánh với văn bản trong nước. Dược thư quốc gia năm 2018 viết: natri bicarbonat tĩnh mạch thường chỉ dành cho người toan nặng với pH dưới 7,0, nhằm nâng pH lên 7,1; với toan lactic, ý kiến còn tranh luận.",
+    "Hướng dẫn Bộ Y tế năm 2015 dùng ngưỡng pH dưới 7,20, và không bù bicarbonat trong nhiễm toan ceton.",
+    "Bằng chứng mới từ hướng dẫn Pháp và hai thử nghiệm thu hẹp chỉ định vào người toan nặng kèm tổn thương thận cấp, nhưng đặt đích cao hơn: pH từ 7,30.",
+    "Và đồng thuận nhiễm toan ceton 2024 giữ ngưỡng pH dưới 7,0. Hai văn bản trong nước chưa cập nhật các thử nghiệm này; quý vị nên lưu ý khi xây dựng phác đồ tại đơn vị."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "quiz",
+   "rail": "bc",
+   "chapter": "Tình huống",
+   "title": "Tình huống: nhiễm toan ceton pH 6,92",
+   "ref": "Ca minh hoạ · ĐT DKA 2024, tr. 1263, 1265–1266",
+   "case": "Nữ 32 tuổi, đái tháo đường type 1, bỏ insulin, lơ mơ. Glucose 520 mg/dL · β-hydroxybutyrat <b>7,5</b> · pH <b>6,92</b> · HCO₃ <b>4</b> · K <b>4,1</b>. Đã truyền dịch, bù kali, insulin 0,1 đơn vị/kg/giờ.",
+   "q": "Về natri bicarbonat, chọn phương án đúng?",
+   "options": [
+    "Không bao giờ dùng trong nhiễm toan ceton",
+    "100 mmol (100 mL 8,4%) pha 400 mL nước cất, mỗi 2 giờ tới pH > 7,0; theo dõi kali",
+    "Bolus 1 mmol/kg 8,4% rồi truyền đến pH 7,40",
+    "Truyền 4,2% đến khi HCO₃ ≥ 18"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "DKA nặng pH < 7,0 → <b>xem xét</b> 100 mmol 8,4% + 400 mL nước cất, mỗi 2 giờ tới <b>pH > 7,0</b> · bicarbonat làm <b>hạ kali</b> · không nhằm bình thường hoá pH",
+   "lines": [
+    "Đến với tình huống. Nữ 32 tuổi, đái tháo đường type 1, bỏ insulin, lơ mơ. Glucose 520, beta hydroxybutyrat 7,5, pH 6,92, bicarbonat 4, kali 4,1. Người bệnh đã được truyền dịch, bù kali và truyền insulin 0,1 đơn vị mỗi ký mỗi giờ.",
+    "Về natri bicarbonat, phương án nào đúng?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Đây là nhiễm toan ceton nặng theo đồng thuận 2024, với pH dưới 7,0, nên có thể xem xét bicarbonat: 100 mi li mol, tức 100 mi li lít 8,4 phần trăm, pha trong 400 mi li lít nước cất, nhắc lại mỗi 2 giờ cho tới khi pH trên 7,0, không nhằm đưa pH về bình thường. Và vì bicarbonat làm hạ kali, phải theo dõi kali thật sát."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "summary",
+   "rail": "bc",
+   "chapter": "Tổng kết",
+   "title": "Bảy thông điệp về natri bicarbonat",
+   "dense": true,
+   "items": [
+    {
+     "t": "8,4%: 1 mL = 1 mmol · 4,2%: 0,5 mmol/mL",
+     "d": "Cả hai đều ưu trương",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "t": "Chỉ hiệu quả khi thông khí đủ",
+     "d": "Bù K, Ca ion trước khi truyền",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Toan nặng + AKI: 4,2% 125–250 mL, đích pH ≥ 7,30",
+     "d": "≤ 1000 mL/24 giờ · giảm lọc máu, không giảm tử vong",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "t": "DKA: chỉ khi pH < 7,0",
+     "d": "100 mmol + 400 mL nước cất mỗi 2 giờ",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "t": "Ngừng tim: không thường quy",
+     "d": "Trừ tăng kali, ngộ độc chẹn kênh Na",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Chống trầm cảm ba vòng: khuyến cáo mạnh",
+     "d": "50–150 mEq bolus · Na ≤ 150–155, pH ≤ 7,50–7,55",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "t": "Không chung đường với calci, magnesi",
+     "d": "8,4% không pha loãng → tĩnh mạch trung tâm",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết bảy thông điệp. Một, dung dịch 8,4 phần trăm: 1 mi li lít bằng 1 mi li mol; 4,2 phần trăm bằng 0,5; cả hai đều ưu trương.",
+    "Hai, bicarbonat chỉ hiệu quả khi thông khí đủ, và phải bù kali, calci ion hoá trước khi truyền.",
+    "Ba, ở người toan nặng kèm tổn thương thận cấp: 4,2 phần trăm 125 đến 250 mi li lít mỗi lần, đích pH từ 7,30, tối đa 1000 mi li lít trong 24 giờ; giảm lọc máu, không giảm tử vong.",
+    "Bốn, nhiễm toan ceton chỉ xem xét khi pH dưới 7,0. Năm, ngừng tim không dùng thường quy, trừ tăng kali và ngộ độc chẹn kênh natri.",
+    "Sáu, ngộ độc thuốc chống trầm cảm ba vòng là chỉ định có khuyến cáo mạnh nhất.",
+    "Và bảy, không truyền chung đường với calci, magnesi; dung dịch 8,4 phần trăm không pha loãng phải qua tĩnh mạch trung tâm. Ở phần bốn, chúng ta sẽ áp dụng tất cả vào ba ca lâm sàng. Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn gặp lại trên Thư Viện Y Khoa Online."
+   ],
+   "id": "s15"
+  }
+ ]
+}
