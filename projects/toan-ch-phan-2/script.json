@@ -1,0 +1,701 @@
+{
+ "title": "Toan chuyển hoá – Phần 2: Nguyên nhân và điều trị chung",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Toan chuyển hoá · Phần 2/4",
+ "source_short": "Nguồn: SRLF/SFMU 2019 · BICAR-ICU 2018 · BICARICU-2 2025 · ĐT DKA 2024 · AHA/ERC 2025 · DTQG 2018",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "BICARICU-2": "bi ca i xi u hai",
+  "BICAR-ICU": "bi ca i xi u",
+  "SRLF/SFMU": "hội hồi sức và hội cấp cứu Pháp",
+  "SODa-BIC": "sô đa bích",
+  "mmol/kg": "mi li mol mỗi ký",
+  "mOsm/kg": "mi li ô sơ mol mỗi ký",
+  "MOSAICC": "mô sai",
+  "NaHCO₃": "natri bicarbonat",
+  "NaHCO3": "natri bicarbonat",
+  "mmol/L": "mi li mol mỗi lít",
+  "mOsm/L": "mi li ô sơ mol mỗi lít",
+  "BaSICS": "ba xích",
+  "MAKE30": "biến cố thận nặng trong 30 ngày",
+  "PaCO₂": "pê a cê ô hai",
+  "PaCO2": "pê a cê ô hai",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "mL/kg": "mi li lít mỗi ký",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "SMART": "smát",
+  "GRADE": "grết",
+  "SGLT2": "ét gê eo tê hai",
+  "CHEST": "chét",
+  "SRLF": "hội hồi sức Pháp",
+  "HCO₃": "bicarbonat",
+  "HCO3": "bicarbonat",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "PLUS": "plát",
+  "THAM": "tham",
+  "UKKA": "hội thận Anh",
+  "DTQG": "Dược thư quốc gia",
+  "g/L": "gam mỗi lít",
+  "SBE": "kiềm dư chuẩn",
+  "ICU": "hồi sức",
+  "BYT": "Bộ Y tế"
+ },
+ "brand": {
+  "next": "Phần 3: Natri bicarbonat – dùng khi nào, dùng thế nào"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa"
+  },
+  {
+   "k": "sl",
+   "t": "Sinh lý"
+  },
+  {
+   "k": "nn",
+   "t": "Nguyên nhân"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "bc",
+   "t": "Bicarbonat"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Toan chuyển hoá",
+   "title": "Nguyên nhân<br>và điều trị chung",
+   "subtitle": "Phần 2 · Từ toan lactic đến lọc máu",
+   "badges": [
+    {
+     "t": "Khoảng trống anion",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Thở máy R3.14",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "Lọc máu R3.10–R3.13",
+     "c": "coral",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · Phần 2/4",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với phần hai của loạt bài toan chuyển hoá trên Thư Viện Y Khoa Online.",
+    "Ở phần một chúng ta đã đọc khí máu theo bảy bước. Hôm nay, chúng ta trả lời câu hỏi tiếp theo: toan do đâu, và ngoài natri bicarbonat, ta có những vũ khí điều trị nào.",
+    "Thông điệp xuyên suốt phần này là: điều trị nguyên nhân là chính, còn các biện pháp đệm chỉ là cầu nối tạm thời."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "compare",
+   "rail": "nn",
+   "chapter": "Phân loại nguyên nhân",
+   "title": "Nguyên nhân theo khoảng trống anion",
+   "ref": "Marino 5e, Bảng 31.3 · TCC 8e, Hộp 15.2, tr. 82 · Oh's 2026 ch. 57, Bảng 57.4 · BYT 2015, tr. 203",
+   "head": [
+    "Nhóm",
+    "AG tăng",
+    "AG bình thường (tăng clo)"
+   ],
+   "widths": "0.8fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Acid hữu cơ</b>",
+      "L-lactate · D-lactate (ruột ngắn)",
+      "—"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Ceton</b>",
+      "Đái tháo đường · rượu · nhịn đói",
+      "Giai đoạn điều trị DKA"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Thận</b>",
+      "Suy thận tiến triển (AKI, CKD muộn)",
+      "Suy thận sớm · toan ống thận"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Độc chất</b>",
+      "Methanol · ethylen glycol · salicylat · propylen glycol · pyroglutamat",
+      "Acetazolamid · NH₄Cl"
+     ],
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Mất kiềm, dịch</b>",
+      "—",
+      "Tiêu chảy · dẫn lưu tuỵ, mật · nối niệu quản–ruột · NaCl 0,9%"
+     ],
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khoảng trống anion chia nguyên nhân thành hai nhóm lớn. Nhóm acid hữu cơ: L-lactate là hay gặp nhất ở hồi sức, còn D-lactate gặp ở người hội chứng ruột ngắn. Cả hai đều làm tăng khoảng trống anion.",
+    "Nhóm ceton: nhiễm toan ceton đái tháo đường, toan ceton do rượu và do nhịn đói làm tăng khoảng trống anion. Riêng giai đoạn đang điều trị nhiễm toan ceton, khi truyền nhiều natri clorid, toan có thể chuyển sang dạng tăng clo.",
+    "Nhóm thận: suy thận tiến triển giữ lại các anion nên tăng khoảng trống anion, còn suy thận sớm và toan ống thận cho toan tăng clo.",
+    "Nhóm độc chất: methanol, ethylen glycol, salicylat, propylen glycol, và pyroglutamat do dùng acetaminophen kéo dài làm tăng khoảng trống anion; còn acetazolamid và ammonium chlorid gây toan tăng clo.",
+    "Và nhóm mất kiềm: tiêu chảy, dẫn lưu tuỵ, mật, phẫu thuật nối niệu quản vào ruột, cùng với truyền natri clorid 0,9 phần trăm, đều gây toan khoảng trống anion bình thường."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "cards",
+   "rail": "nn",
+   "chapter": "Toan lactic",
+   "title": "Toan lactic: không chỉ là thiếu oxy",
+   "ref": "TCC 8e, tr. 82–83, Hộp 15.3 · Oh's 2026 ch. 57, Bảng 57.3, pdf 2299–2303 · Marino 5e, pdf 562–563",
+   "cards": [
+    {
+     "tag": "TYPE A",
+     "t": "Thiếu oxy mô",
+     "items": [
+      "Sốc tim, mất máu, nhiễm khuẩn",
+      "Thiếu oxy máu, thiếu máu rất nặng",
+      "Ngộ độc CO"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "TYPE B · BỆNH",
+     "t": "Không thiếu oxy mô",
+     "items": [
+      "Bệnh gan, đái tháo đường",
+      "Thiếu thiamin, ác tính",
+      "Co giật, thừa catecholamin"
+     ],
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "TYPE B · THUỐC",
+     "t": "Thuốc, độc chất",
+     "items": [
+      "Metformin, propofol, linezolid",
+      "Epinephrin, salbutamol",
+      "Propylen glycol, cyanid"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "NHIỄM KHUẨN",
+     "t": "Cơ chế hỗn hợp",
+     "items": [
+      "↑ pyruvat, ↓ pyruvat dehydrogenase",
+      "↓ thanh thải lactate",
+      "Lactate ≤ 2 là bình thường"
+     ],
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "h": 600,
+   "lines": [
+    "Toan lactic chia thành hai type. Type A có thiếu oxy mô: các loại sốc, thiếu oxy máu nặng, thiếu máu rất nặng, ngộ độc khí CO.",
+    "Type B không có thiếu oxy mô, gồm các bệnh nền như bệnh gan, đái tháo đường, thiếu thiamin, bệnh ác tính, co giật, thừa catecholamin.",
+    "Và type B do thuốc, độc chất: metformin, propofol, linezolid, thuốc kháng retrovirus, epinephrin, salbutamol, propylen glycol, cyanid. Một mẹo của Oh's: toan lactic do truyền salbutamol trong cơn hen thường hết khi giảm liều xuống dưới 10 microgam mỗi phút.",
+    "Trong nhiễm khuẩn huyết, lactate tăng không chỉ do thiếu oxy, mà còn do tăng tạo pyruvat, giảm hoạt tính pyruvat dehydrogenase và giảm thanh thải. Oh's nhấn mạnh các cơ chế này thường cùng tồn tại, nên phân loại type A, type B chỉ có giá trị tương đối. Lactate bình thường là từ 2 mi li mol mỗi lít trở xuống, và nhớ rằng khoảng trống anion bình thường không loại trừ toan lactic."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "cards",
+   "rail": "nn",
+   "chapter": "Ceton, rượu độc, thận",
+   "title": "Ceton, rượu độc, pyroglutamat, toan ống thận",
+   "ref": "TCC 8e, tr. 83–89 · Marino 5e, pdf 554, 566–571 · BYT 2015, tr. 203",
+   "cards": [
+    {
+     "tag": "CETON",
+     "t": "Không chỉ đái tháo đường",
+     "items": [
+      "DKA bình đường huyết: thuốc ức chế SGLT2, thai, nhịn đói",
+      "Do rượu: ưu thế β-hydroxybutyrat, que thử âm tính giả"
+     ],
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "RƯỢU ĐỘC",
+     "t": "Methanol · ethylen glycol",
+     "items": [
+      "Formate: độc thị giác, thần kinh",
+      "Glycolat, oxalat: hạ calci, hại thận",
+      "Isopropanol: ceton, không tăng AG"
+     ],
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "PYROGLUTAMAT",
+     "t": "Acetaminophen kéo dài",
+     "items": [
+      "Stress, nhiễm khuẩn, bệnh gan thận",
+      "Kể cả nồng độ thuốc bình thường",
+      "Chẩn đoán: oxoprolin niệu"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "TOAN ỐNG THẬN",
+     "t": "3 type",
+     "items": [
+      "Gần (2): mất HCO₃, Fanconi",
+      "Xa (1): hạ kali, sỏi thận",
+      "Tăng kali (4): thiếu, kháng aldosteron"
+     ],
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "h": 600,
+   "lines": [
+    "Nhóm ceton không chỉ có nhiễm toan ceton đái tháo đường điển hình. Hãy nhớ dạng bình đường huyết, liên quan thuốc ức chế SGLT2, thai kỳ, nhịn đói. Còn toan ceton do rượu có ưu thế beta hydroxybutyrat, nên que thử ceton niệu dễ âm tính giả.",
+    "Rượu độc: methanol chuyển thành formate, gây độc thị giác và thần kinh; ethylen glycol chuyển thành glycolat và oxalat, gây hạ calci và tổn thương thận. Riêng isopropanol chuyển thành aceton, thường có ceton nhưng không gây toan tăng khoảng trống anion.",
+    "Pyroglutamat, hay 5-oxoprolin, là nguyên nhân hay bị bỏ sót: gặp ở người dùng acetaminophen kéo dài trong bối cảnh stress, nhiễm khuẩn, bệnh gan thận, kể cả khi nồng độ thuốc trong giới hạn điều trị. Chẩn đoán bằng oxoprolin niệu.",
+    "Và toan ống thận có ba type: type 2, toan ống lượn gần, mất bicarbonat, có thể kèm hội chứng Fanconi; type 1, toan ống lượn xa, hạ kali, sỏi và vôi hoá thận; và type 4, toan ống thận tăng kali, do thiếu hoặc kháng aldosteron."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "bars",
+   "rail": "nn",
+   "chapter": "Toan tăng clo do dịch",
+   "title": "NaCl 0,9% hay dịch cân bằng?",
+   "ref": "SMART, NEJM 2018, tr. 1 · BaSICS, JAMA 2021, tr. 1 · PLUS, NEJM 2022, tr. 815",
+   "groups": [
+    {
+     "t": "SMART · n = 15.802",
+     "d": "Biến cố thận nặng 30 ngày",
+     "at": 0,
+     "c": "teal",
+     "hl": true,
+     "bars": [
+      {
+       "k": "Cân bằng",
+       "v": 14.3,
+       "lab": "14,3%"
+      },
+      {
+       "k": "NaCl",
+       "v": 15.4,
+       "lab": "15,4%"
+      }
+     ],
+     "note": "OR 0,91 (0,84–0,99)"
+    },
+    {
+     "t": "BaSICS · n = 10.520",
+     "d": "Tử vong 90 ngày",
+     "at": 1,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "Cân bằng",
+       "v": 26.4,
+       "lab": "26,4%"
+      },
+      {
+       "k": "NaCl",
+       "v": 27.2,
+       "lab": "27,2%"
+      }
+     ],
+     "note": "HR 0,97"
+    },
+    {
+     "t": "PLUS · n = 5.037",
+     "d": "Tử vong 90 ngày",
+     "at": 2,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Cân bằng",
+       "v": 21.8,
+       "lab": "21,8%"
+      },
+      {
+       "k": "NaCl",
+       "v": 22.0,
+       "lab": "22,0%"
+      }
+     ],
+     "note": "Không khác biệt"
+    }
+   ],
+   "max": 32,
+   "h": 520,
+   "notes": [
+    {
+     "tag": "CƠ CHẾ",
+     "t": "NaCl 0,9% giảm SID → toan tăng clo",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Dịch cân bằng khi cần lượng lớn · không kỳ vọng giảm tử vong",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Một nguyên nhân do chính chúng ta gây ra là toan tăng clo do truyền natri clorid 0,9 phần trăm. Theo Stewart, dịch này làm giảm chênh lệch ion mạnh. Thử nghiệm SMART trên 15.802 người bệnh hồi sức cho thấy dịch tinh thể cân bằng làm giảm biến cố thận nặng trong 30 ngày: 14,3 so với 15,4 phần trăm, tỷ số chênh 0,91.",
+    "Nhưng hai thử nghiệm lớn sau đó không thấy khác biệt tử vong: BaSICS, 26,4 so với 27,2 phần trăm ở ngày 90;",
+    "và PLUS, 21,8 so với 22,0 phần trăm.",
+    "Thông điệp thực hành: khi cần truyền lượng dịch lớn, ưu tiên dịch tinh thể cân bằng để hạn chế toan tăng clo, nhưng đừng kỳ vọng giảm tử vong."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "list",
+   "rail": "dt",
+   "chapter": "Điều trị nguyên nhân",
+   "title": "Điều trị nguyên nhân là chính",
+   "dense": true,
+   "ref": "Jung, CHEST 2026, tr. 7 · ĐT DKA 2024, tr. 1265–1266 · SRLF R3.1–R3.4 · TCC 8e, tr. 84–85",
+   "items": [
+    {
+     "t": "Toan lactic: hồi sức sốc, điều trị nguyên nhân sốc",
+     "d": "Ngừng metformin, giảm salbutamol, thiamin khi nghi thiếu",
+     "c": "coral",
+     "at": 0,
+     "n": "1"
+    },
+    {
+     "t": "DKA: dịch 500–1000 mL/giờ trong 2–4 giờ đầu",
+     "d": "Kali < 3,5: bù 10 mmol/giờ, hoãn insulin · K < 5,0: bù vào dịch để giữ 4–5",
+     "c": "amber",
+     "at": 1,
+     "n": "2"
+    },
+    {
+     "t": "DKA: insulin TM 0,1 đơn vị/kg/giờ, không bolus",
+     "d": "Glucose < 250 mg/dL: thêm dextrose, giảm 0,05 · SRLF R3.1 GRADE 2+, R3.2 GRADE 2−",
+     "c": "amber",
+     "at": 2,
+     "n": "3"
+    },
+    {
+     "t": "Toan ceton do rượu: dextrose + NaCl, thiamin trước glucose",
+     "d": "TCC 8e, tr. 84",
+     "c": "violet",
+     "at": 3,
+     "n": "4"
+    },
+    {
+     "t": "Rượu độc: fomepizol · acetaminophen: N-acetylcystein",
+     "d": "Liều theo hướng dẫn chống độc · propylen glycol: ngừng chế phẩm",
+     "c": "teal",
+     "at": 4,
+     "n": "5"
+    }
+   ],
+   "lines": [
+    "Sang điều trị. Nguyên tắc số một, mà tổng quan CHEST năm 2026 nhắc lại, là điều trị nguyên nhân. Với toan lactic: hồi sức sốc và điều trị nguyên nhân gây sốc; ngừng metformin, giảm truyền salbutamol, bổ sung thiamin khi nghi thiếu.",
+    "Với nhiễm toan ceton đái tháo đường, đồng thuận 2024: dịch tinh thể 500 đến 1000 mi li lít mỗi giờ trong 2 đến 4 giờ đầu, thận trọng ở người suy tim, suy thận. Kali dưới 3,5 thì bù 10 mi li mol mỗi giờ và hoãn insulin; kali dưới 5,0 thì bù vào dịch truyền để giữ kali 4 đến 5.",
+    "Insulin tĩnh mạch 0,1 đơn vị mỗi ký mỗi giờ; khi glucose dưới 250 mi li gam mỗi đề xi lít thì thêm dextrose và giảm còn 0,05. Hướng dẫn Pháp đề nghị insulin đường tĩnh mạch, và không bolus trước khi truyền.",
+    "Toan ceton do rượu: truyền dextrose trong natri clorid, và cho thiamin trước glucose.",
+    "Rượu độc dùng thuốc giải độc fomepizol, ngộ độc acetaminophen dùng N-acetylcystein; liều cụ thể xin theo hướng dẫn của trung tâm chống độc. Với propylen glycol trong chế phẩm thuốc, biện pháp chính là ngừng chế phẩm."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "box",
+   "rail": "dt",
+   "chapter": "Thở máy",
+   "title": "Thở máy ở người toan chuyển hoá nặng",
+   "ref": "SRLF/SFMU 2019, R3.14 (ý kiến chuyên gia) · Jung, CHEST 2026, tr. 7–8 · Oh's 2026 ch. 57, pdf 2312",
+   "box": {
+    "tag": "R3.14",
+    "t": "Tăng <b>tần số</b> để bù, tối đa <b>35 lần/phút</b> và/hoặc Vt tới <b>8 mL/kg</b> · không tạo auto-PEEP · theo dõi Pplat · đích <b>pH ≥ 7,15</b>, không bình thường hoá",
+    "at": 0,
+    "c": "blue",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "LÚC ĐẶT NỘI KHÍ QUẢN",
+     "t": "Cài tần số bằng nhịp thở trước đặt, Vt 8–10 mL/kg ngắn hạn → tránh PaCO₂ tăng vọt",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "SAU ĐÓ",
+     "t": "Chuyển về thông khí bảo vệ phổi · không cố bình thường hoá pH",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "tag": "NGUY CƠ",
+     "t": "Giảm thông khí → toan nặng hơn, tăng kali, loạn nhịp",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Một tình huống rất hay gặp ở hồi sức: người toan chuyển hoá nặng phải thở máy. Khuyến cáo R3.14 nguyên văn đề nghị bù toan máu bằng tăng tần số thở mà không tạo auto-PEEP, tối đa 35 chu kỳ mỗi phút và, hoặc, thể tích khí lưu thông tới 8 mi li lít mỗi ký, có theo dõi áp lực bình nguyên.",
+    "Và câu quan trọng: mục tiêu của thông khí không phải là bình thường hoá pH; đích pH từ 7,15 trở lên là hợp lý.",
+    "Thời điểm nguy hiểm nhất là lúc đặt nội khí quản. Nhóm tác giả CHEST khuyên cài tần số máy bằng nhịp thở của người bệnh trước khi đặt, và dùng thể tích khí lưu thông 8 đến 10 mi li lít mỗi ký cân nặng lý tưởng trong thời gian ngắn, để PaCO₂ không tăng vọt.",
+    "Sau đó nhanh chóng chuyển về thông khí bảo vệ phổi, theo dõi công cơ học và áp lực đẩy, và không cố bình thường hoá pH bằng tăng thông khí mạnh.",
+    "Vì sao phải cẩn thận như vậy? Oh's nhắc rằng giảm thông khí ở người đang bù trừ làm toan nặng hơn, tăng kali máu và gây loạn nhịp."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Lọc máu",
+   "title": "Khi nào lọc máu vì toan?",
+   "ref": "SRLF/SFMU 2019, R3.10–R3.13 (ý kiến chuyên gia) · BICARICU-2 2025, tr. 3 · CHEST 2026, tr. 3–4",
+   "head": [
+    "Tình huống",
+    "Chỉ định lọc máu",
+    "Nguồn"
+   ],
+   "widths": "1fr 2.2fr 0.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Sốc và/hoặc AKI</b>",
+      "pH ≤ 7,15 dù đã điều trị thích hợp, không có toan hô hấp nặng",
+      "R3.10"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Nghi ngộ độc metformin</b>",
+      "Sớm khi có suy cơ quan hoặc không cải thiện trong những giờ đầu",
+      "R3.11"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Methanol, ethylen glycol</b>",
+      "AG > 20 mEq/L, hoặc suy thận, hoặc rối loạn thị giác",
+      "R3.12"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Salicylat</b>",
+      "Tổn thương thần kinh và/hoặc > 6,5 mmol/L (90 mg/dL) và/hoặc pH ≤ 7,20",
+      "R3.13"
+     ],
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Trong BICARICU-2</b>",
+      "K > 6,5 có điện tim · phù phổi vô niệu · sau 24 giờ ≥ 2: nước tiểu < 0,3 mL/kg/giờ, pH ≤ 7,20, K > 6,5",
+      "RCT 2025"
+     ],
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khi nào lọc máu vì toan? Khuyến cáo R3.10: ở người sốc và, hoặc, tổn thương thận cấp, bắt đầu lọc máu nếu pH từ 7,15 trở xuống, khi không có toan hô hấp nặng và dù đã điều trị thích hợp. Tổng quan CHEST cũng ghi nhận các thử nghiệm về thời điểm lọc máu đều dùng ngưỡng pH 7,15 đến 7,20.",
+    "Với toan lactic nghi do metformin: lọc máu sớm khi có rối loạn chức năng cơ quan hoặc không cải thiện trong những giờ đầu.",
+    "Với methanol hoặc ethylen glycol: lọc máu khi khoảng trống anion trên 20, hoặc có suy thận, hoặc rối loạn thị giác.",
+    "Với salicylat: lọc máu khi có tổn thương thần kinh, và, hoặc, nồng độ trên 6,5 mi li mol mỗi lít, tức 90 mi li gam mỗi đề xi lít, và, hoặc, pH từ 7,20 trở xuống; giữa các lần lọc vẫn tiếp tục kiềm hoá.",
+    "Và đây là tiêu chuẩn lọc máu dùng trong thử nghiệm BICARICU-2, đáng tham khảo vì đã được chuẩn hoá: lọc ngay khi kali trên 6,5 kèm thay đổi điện tim, hoặc phù phổi do tim mà vô niệu; hoặc sau 24 giờ có ít nhất hai trong ba điều: nước tiểu dưới 0,3 mi li lít mỗi ký mỗi giờ, pH từ 7,20 trở xuống dù hồi sức, kali trên 6,5. Về phương thức, CHEST đề nghị lọc liên tục 25 đến 30 mi li lít mỗi ký mỗi giờ khi huyết động không ổn định."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "cards",
+   "rail": "dt",
+   "chapter": "Chất đệm khác",
+   "title": "Ngoài natri bicarbonat: THAM, carbicarb, natri lactat",
+   "ref": "TCC 8e, tr. 83 · DTQG 2018, tr. 1028 · BYT 2015, tr. 205 · CHEST 2026, tr. 7 · Oh's 2026 ch. 57, pdf 2313",
+   "cards": [
+    {
+     "tag": "THAM",
+     "t": "Tromethamin",
+     "items": [
+      "Đệm không sinh CO₂, thải qua thận",
+      "Khi cần kiềm mà phải hạn chế natri",
+      "Tăng kali, hạ đường, ức chế hô hấp, hoại tử gan",
+      "Ít dùng hiện nay"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "CARBICARB",
+     "t": "Natri carbonat + bicarbonat",
+     "items": [
+      "Sinh ít CO₂ hơn",
+      "Chưa chứng minh lợi ích"
+     ],
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "tag": "DICHLOROACETAT",
+     "t": "Toan lactic",
+     "items": [
+      "Cải thiện khí máu",
+      "Không cải thiện huyết động, sống còn"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "NATRI LACTAT",
+     "t": "0,167 M",
+     "items": [
+      "Khi chuyển hoá lactate còn tốt"
+     ],
+     "c": "blue",
+     "at": 3
+    }
+   ],
+   "h": 600,
+   "lines": [
+    "Ngoài natri bicarbonat còn có các chất đệm khác. THAM, hay tromethamin, là chất đệm không sinh CO₂, thải qua thận. Dược thư và hướng dẫn Bộ Y tế gợi ý dùng khi cần kiềm hoá mà phải hạn chế natri, với điều kiện thận còn tốt. Tác dụng phụ gồm tăng kali, hạ đường huyết, ức chế hô hấp, và hoại tử gan. Tổng quan CHEST ghi nhận THAM hiện rất ít được dùng.",
+    "Carbicarb là hỗn hợp natri carbonat và bicarbonat, sinh ít CO₂ hơn, nhưng chưa chứng minh lợi ích.",
+    "Dichloroacetat cải thiện khí máu trong toan lactic, nhưng không cải thiện huyết động hay sống còn.",
+    "Và natri lactat 0,167 mol là một lựa chọn thay thế khi gan còn chuyển hoá lactate tốt. Tóm lại, trên thực tế, chất đệm chính vẫn là natri bicarbonat, chủ đề của toàn bộ phần ba."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "quiz",
+   "rail": "nn",
+   "chapter": "Tình huống",
+   "title": "Tình huống: uống rượu tự nấu, nhìn mờ",
+   "ref": "Ca minh hoạ · SRLF/SFMU 2019 R3.12 · TCC 8e, tr. 85",
+   "case": "Nam 45 tuổi, uống rượu tự nấu, 24 giờ sau nhìn mờ. pH <b>7,10</b> · HCO₃ <b>6</b> · AG hiệu chỉnh <b>28</b> · khoảng trống thẩm thấu <b>32 mOsm/kg</b> · creatinin bình thường · lactate 2,1.",
+   "q": "Xử trí nào phù hợp nhất?",
+   "options": [
+    "Chỉ truyền NaHCO₃ đến khi pH bình thường",
+    "Thuốc giải độc + lọc máu: AG > 20 và có rối loạn thị giác",
+    "Chờ, vì creatinin bình thường",
+    "Truyền NaCl 0,9% 2 lít rồi đánh giá lại"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Toan tăng AG + khoảng trống thẩm thấu > 20 → nghĩ <b>methanol</b> · fomepizol · <b>lọc máu</b> theo R3.12: AG > 20 hoặc suy thận hoặc rối loạn thị giác",
+   "lines": [
+    "Đến với tình huống. Nam 45 tuổi, uống rượu tự nấu, 24 giờ sau xuất hiện nhìn mờ. Khí máu: pH 7,10, bicarbonat 6, khoảng trống anion hiệu chỉnh 28, khoảng trống thẩm thấu 32. Creatinin bình thường, lactate 2,1.",
+    "Xử trí nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án hai. Toan tăng khoảng trống anion kèm khoảng trống thẩm thấu trên 20 và nhìn mờ gợi ý mạnh ngộ độc methanol. Cần thuốc giải độc fomepizol, và lọc máu theo khuyến cáo R3.12: chỉ cần một trong ba điều, khoảng trống anion trên 20, suy thận, hoặc rối loạn thị giác; người này có hai điều. Creatinin bình thường không phải lý do để chờ."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "summary",
+   "rail": "dt",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp của Phần 2",
+   "dense": true,
+   "items": [
+    {
+     "t": "Phân loại theo AG hiệu chỉnh",
+     "d": "Lactate, ceton, thận, độc chất · mất kiềm, dịch",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Toan lactic: type A/B thường chồng lấp",
+     "d": "Nhớ metformin, salbutamol, propylen glycol, thiamin",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Dịch cân bằng khi cần lượng lớn",
+     "d": "Giảm biến cố thận (SMART), không giảm tử vong",
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "t": "Điều trị nguyên nhân là chính",
+     "d": "DKA: dịch, kali trước, insulin TM không bolus",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "t": "Thở máy: tần số ≤ 35, đích pH ≥ 7,15",
+     "d": "Cẩn trọng lúc đặt nội khí quản",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "t": "Lọc máu: pH ≤ 7,15 dù điều trị",
+     "d": "Sớm với metformin, rượu độc, salicylat",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết phần hai. Một, phân loại nguyên nhân theo khoảng trống anion hiệu chỉnh.",
+    "Hai, toan lactic type A và type B thường chồng lấp; đừng quên các nguyên nhân do thuốc.",
+    "Ba, dùng dịch tinh thể cân bằng khi cần lượng lớn, giảm biến cố thận nhưng không giảm tử vong.",
+    "Bốn, điều trị nguyên nhân là chính.",
+    "Năm, thở máy tăng tần số tới 35, đích pH từ 7,15, cẩn trọng lúc đặt nội khí quản.",
+    "Và sáu, lọc máu khi pH từ 7,15 trở xuống dù đã điều trị, và sớm với metformin, rượu độc, salicylat. Phần ba, phần quan trọng nhất của loạt bài, dành trọn cho natri bicarbonat: chế phẩm, liều, đường truyền, và chỉ định trong từng tình huống. Cảm ơn quý đồng nghiệp. Hẹn gặp lại trên Thư Viện Y Khoa Online."
+   ],
+   "id": "s11"
+  }
+ ]
+}
