@@ -1,0 +1,759 @@
+{
+ "title": "Viêm phổi bệnh viện và viêm phổi thở máy – Phần 2: Chẩn đoán",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Viêm phổi bệnh viện – thở máy · Phần 2/5",
+ "source_short": "Nguồn: IDSA/ATS 2016 · ERS/ESICM 2017 · IDSA 2026 · ESCMID 2022 · Hội Hô hấp, HSCC VN 2023",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ERS/ESICM/ESCMID/ALAT": "các hội hô hấp, hồi sức và vi sinh châu Âu, Mỹ La tinh",
+  "RESTORE-IMI 2": "ri sto i mi hai",
+  "CREDIBLE-CR": "cờ re đi bồ xê a",
+  "REGARD-VAP": "ri ga váp",
+  "INHALE WP3": "in heo, gói công việc 3",
+  "PROPHY-VAP": "prô phi váp",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SMART-COP": "smát cóp",
+  "REMAP-CAP": "ri máp cáp",
+  "CAP-START": "cáp sờ tát",
+  "MULTI-CAP": "mun ti cáp",
+  "ERS/ESICM": "hội hô hấp và hồi sức châu Âu",
+  "AMIKINHAL": "a mi kin han",
+  "ASPECT-NP": "át pếch en pê",
+  "ATS/IDSA": "ê tê ét và ai đi ét a",
+  "IDSA/ATS": "ai đi ét a và ê tê ét",
+  "CAPE COD": "kếp cót",
+  "APEKS-NP": "a péc en pê",
+  "OVERCOME": "âu vơ cam",
+  "CURB-65": "cớp sáu lăm",
+  "SMRT-CO": "smớt cô",
+  "SIAARTI": "hội gây mê hồi sức Ý",
+  "RECUVAP": "ri cu váp",
+  "PRORATA": "prô ra ta",
+  "SuDDICU": "sút đi cu",
+  "REPROVE": "ri pru",
+  "REVISIT": "ri vi dít",
+  "AUC/MIC": "a u xê trên mích",
+  "CRB-65": "xê e bê sáu lăm",
+  "ProACT": "prô ắc",
+  "ESCAPe": "ét kếp",
+  "ACCESS": "ác xét",
+  "mmol/L": "mi li mol mỗi lít",
+  "ESCMID": "hội vi sinh lâm sàng châu Âu",
+  "PneumA": "niu ma",
+  "INHALE": "in heo",
+  "ZEPHyR": "dê phia",
+  "ATTACK": "a tác",
+  "OXA-48": "ô xa bốn mươi tám",
+  "CFU/mL": "khuẩn lạc mỗi mi li lít",
+  "SONIA": "sô ni a",
+  "IL-1β": "in tơ lơ kin một bê ta",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "IASIS": "i a xít",
+  "SpO₂": "ét pê ô hai",
+  "PaO₂": "pê a ô hai",
+  "FiO₂": "ép i ô hai",
+  "MRSA": "tụ cầu vàng kháng methicillin",
+  "HCAP": "viêm phổi liên quan chăm sóc y tế",
+  "HFNC": "oxy dòng cao qua mũi",
+  "PEEP": "pi",
+  "SOFA": "sô pha",
+  "NICE": "nai",
+  "SCCM": "ét xê xê em",
+  "IL-8": "in tơ lơ kin tám",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mg/L": "mi li gam mỗi lít",
+  "SHEA": "sê a",
+  "NHSN": "en ếch ét en",
+  "AIDA": "ai đa",
+  "vHAP": "viêm phổi bệnh viện cần thở máy",
+  "IVAC": "ai váp",
+  "PVAP": "pê váp",
+  "CRAB": "a xi nê tô bác tơ kháng các ba pê nem",
+  "ESBL": "e ét bê eo",
+  "CPIS": "xê pít",
+  "CrCl": "độ thanh thải crê a ti nin",
+  "PTC": "pê tê xê",
+  "NIV": "thông khí không xâm nhập",
+  "PSI": "pê ét i",
+  "PCR": "pê xê e",
+  "CRP": "xê e pê",
+  "ATS": "ê tê ét",
+  "ERS": "e e ét",
+  "CAP": "viêm phổi cộng đồng",
+  "ICU": "hồi sức",
+  "BUN": "bun",
+  "HAP": "viêm phổi bệnh viện",
+  "VAP": "viêm phổi thở máy",
+  "VAT": "viêm khí phế quản thở máy",
+  "VAE": "biến cố liên quan thở máy",
+  "VAC": "váp",
+  "CRE": "vi khuẩn đường ruột kháng các ba pê nem",
+  "DTR": "kháng thuốc khó điều trị",
+  "KPC": "ca pê xê",
+  "NDM": "en đê em",
+  "MBL": "mê ta lô bê ta lác ta mê",
+  "MDR": "đa kháng",
+  "BAL": "rửa phế quản phế nang",
+  "PSB": "chải phế quản có bảo vệ",
+  "CBA": "xê bê a",
+  "TDM": "theo dõi nồng độ thuốc",
+  "MIC": "mích",
+  "SDD": "khử nhiễm chọn lọc đường tiêu hoá",
+  "NKQ": "nội khí quản",
+  "MIU": "triệu đơn vị",
+  "PCT": "prô can xi tô nin"
+ },
+ "brand": {
+  "next": "Phần 3: Kháng sinh kinh nghiệm và thời gian điều trị"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Bệnh sinh, vi sinh"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán"
+  },
+  {
+   "k": "dt",
+   "t": "Kháng sinh"
+  },
+  {
+   "k": "kt",
+   "t": "Vi khuẩn kháng thuốc"
+  },
+  {
+   "k": "pn",
+   "t": "Phòng ngừa"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Viêm phổi bệnh viện – thở máy",
+   "title": "Chẩn đoán khi không có<br>tiêu chuẩn vàng",
+   "subtitle": "Phần 2 · Lâm sàng, vi sinh, VAE và VAP tái phát",
+   "badges": [
+    {
+     "t": "Hút NKQ · BAL",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "VAE",
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "t": "RECUVAP",
+     "c": "coral",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · 5 phần",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần hai trong loạt bài viêm phổi bệnh viện và viêm phổi thở máy của Thư Viện Y Khoa Online.",
+    "Chẩn đoán viêm phổi ở người bệnh thở máy khó hơn nhiều so với ngoài cộng đồng: sốt, đờm mủ, thâm nhiễm đều có thể do nguyên nhân khác, và không có tiêu chuẩn vàng.",
+    "Phần này bàn về độ chính xác của từng dấu hiệu, cách lấy bệnh phẩm, định nghĩa giám sát của CDC, và cách gọi tên các đợt viêm phổi tái phát."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "rail": "cd",
+   "chapter": "Tiêu chuẩn",
+   "title": "Tiêu chuẩn chẩn đoán lâm sàng",
+   "ref": "Hội Hô hấp, HSCC VN 2023, tr. 46–47 · IDSA/ATS 2016, pdf 9",
+   "items": [
+    {
+     "t": "Sau 48 giờ nhập viện hoặc đặt ống: tổn thương mới hoặc tiến triển trên X-quang, CT",
+     "at": 0,
+     "c": "teal",
+     "n": "1"
+    },
+    {
+     "t": "≥ 1 dấu hiệu toàn thân: sốt > 38 °C (≥ 2 lần) hoặc < 36 °C; bạch cầu ≥ 12 hoặc ≤ 4 G/L; lú lẫn ở người > 70 tuổi",
+     "at": 1,
+     "c": "blue",
+     "n": "2"
+    },
+    {
+     "t": "≥ 2 dấu hiệu hô hấp: đờm mủ, tăng tiết; ho, khó thở, thở nhanh; ran; khí máu xấu đi",
+     "at": 2,
+     "c": "violet",
+     "n": "3"
+    },
+    {
+     "t": "Đủ tiêu chuẩn ⇒ kháng sinh kinh nghiệm ngay, không chờ PCT hay CRP",
+     "at": 3,
+     "c": "coral",
+     "n": "!"
+    }
+   ],
+   "lines": [
+    "Khuyến cáo Việt Nam 2023 đưa ra tiêu chuẩn thực hành: sau 48 giờ nhập viện hoặc sau đặt ống, có tổn thương mới hoặc tiến triển trên X-quang hay cắt lớp vi tính.",
+    "Kèm ít nhất một dấu hiệu toàn thân: sốt trên 38 độ ít nhất 2 lần hoặc hạ thân nhiệt dưới 36 độ; bạch cầu từ 12 hoặc không quá 4 G trên lít; hoặc thay đổi ý thức ở người trên 70 tuổi.",
+    "Và ít nhất hai dấu hiệu hô hấp: đờm mủ hoặc tăng tiết, tăng nhu cầu hút; ho, khó thở, thở nhanh; ran; hoặc khí máu xấu đi, cần tăng oxy hay tăng PEEP.",
+    "Khi đủ tiêu chuẩn, khuyến cáo nhấn mạnh: dùng kháng sinh kinh nghiệm ngay, không chờ kết quả procalcitonin hay CRP."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "bars",
+   "rail": "cd",
+   "chapter": "Độ chính xác",
+   "title": "Từng dấu hiệu đơn lẻ chính xác đến đâu?",
+   "ref": "Fernando SM và cs., ICM 2020 · 25 nghiên cứu, 1639 người bệnh",
+   "groups": [
+    {
+     "t": "Sốt",
+     "d": "nhạy / đặc hiệu",
+     "at": 0,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Nhạy",
+       "v": 66.4,
+       "lab": "66%"
+      },
+      {
+       "k": "Đặc hiệu",
+       "v": 53.9,
+       "lab": "54%"
+      }
+     ]
+    },
+    {
+     "t": "Đờm mủ",
+     "d": "",
+     "at": 1,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Nhạy",
+       "v": 77.0,
+       "lab": "77%"
+      },
+      {
+       "k": "Đặc hiệu",
+       "v": 39.0,
+       "lab": "39%"
+      }
+     ]
+    },
+    {
+     "t": "Thâm nhiễm X-quang",
+     "d": "",
+     "at": 2,
+     "c": "coral",
+     "hl": true,
+     "bars": [
+      {
+       "k": "Nhạy",
+       "v": 88.9,
+       "lab": "89%"
+      },
+      {
+       "k": "Đặc hiệu",
+       "v": 26.1,
+       "lab": "26%"
+      }
+     ]
+    },
+    {
+     "t": "CPIS > 6",
+     "d": "",
+     "at": 3,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Nhạy",
+       "v": 73.8,
+       "lab": "74%"
+      },
+      {
+       "k": "Đặc hiệu",
+       "v": 66.4,
+       "lab": "66%"
+      }
+     ]
+    }
+   ],
+   "max": 100,
+   "notes": [
+    {
+     "t": "Dùng riêng lẻ ⇒ chẩn đoán nhầm, kháng sinh thừa",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Hút NKQ: nhạy 75,7%, đặc hiệu 67,9%",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "BAL: nhạy 71,1%, đặc hiệu 79,6%",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Phân tích gộp của Fernando năm 2020 trên 25 nghiên cứu cho câu trả lời thẳng thắn. Sốt có độ nhạy 66 và độ đặc hiệu chỉ 54 phần trăm.",
+    "Đờm mủ nhạy 77 nhưng đặc hiệu 39 phần trăm.",
+    "Bất kỳ thâm nhiễm nào trên X-quang nhạy tới 89 phần trăm, nhưng độ đặc hiệu chỉ 26 phần trăm: ở người bệnh nằm hồi sức, xẹp phổi, phù phổi, ARDS đều tạo thâm nhiễm.",
+    "Điểm CPIS trên 6 cũng chỉ nhạy 74 và đặc hiệu 66 phần trăm. Kết luận của tác giả: các dấu hiệu kinh điển dùng riêng lẻ dễ dẫn tới chẩn đoán nhầm và kháng sinh không cần thiết. Vì vậy, bệnh phẩm vi sinh trở thành mảnh ghép quan trọng."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "media",
+   "rail": "cd",
+   "chapter": "X-quang",
+   "title": "Thâm nhiễm ở người bệnh nằm: VAP hay bệnh khác?",
+   "ref": "Fernando 2020 · Murray & Nadel 7e, ch. 49 · ảnh thật, Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/hapvap/raw/cxr_vap.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: James Heilman, MD · CC BY 3.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Viêm phổi thuỳ dưới phải"
+    },
+    {
+     "src": "../../media/ards/raw/cxr_cardiogenic.jpg",
+     "ar": 1.0,
+     "credit": "Ảnh: Frank Gaillard, Jeremy Jones · CC BY-SA 3.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 1,
+     "cap": "Phù phổi do tim – dễ nhầm"
+    },
+    {
+     "src": "../../media/ards/raw/cxr_ards_samir.jpg",
+     "ar": 1.172,
+     "credit": "Ảnh: Samir · CC BY-SA 3.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 2,
+     "cap": "ARDS – thâm nhiễm lan toả"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐẶC HIỆU 26%",
+     "t": "Thâm nhiễm mới không đồng nghĩa viêm phổi",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "PHÂN BIỆT",
+     "t": "Phù phổi, ARDS, xẹp phổi, xuất huyết phế nang",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "SIÊU ÂM",
+     "t": "Đông đặc dưới màng phổi có thể sớm hơn X-quang",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "notes_w": 380,
+   "lines": [
+    "Hình bên trái là viêm phổi thuỳ dưới phải trên phim thẳng. Nhưng ở người bệnh nằm hồi sức, phim chụp tại giường thường khó đọc.",
+    "Phim ở giữa là phù phổi do tim, cũng tạo hình mờ hai bên.",
+    "Và bên phải là ARDS với thâm nhiễm lan toả. VAP có thể chồng lên ARDS, nhưng ARDS đơn thuần không phải viêm phổi.",
+    "Siêu âm phổi tại giường có thể giúp: đông đặc dưới màng phổi có khi xuất hiện trước khi thấy trên X-quang, và giúp phân biệt với phù phổi."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "Lấy bệnh phẩm",
+   "title": "Hút nội khí quản hay rửa phế quản phế nang?",
+   "ref": "IDSA/ATS 2016, mục I–III · ERS 2017, câu hỏi 1 · Fagon 2000 · Canadian Critical Care Trials Group 2006",
+   "head": [
+    "",
+    "IDSA/ATS 2016",
+    "ERS 2017"
+   ],
+   "widths": "1fr 1.8fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ưu tiên</b>",
+      "Hút NKQ cấy <b>bán định lượng</b> (yếu, thấp)",
+      "Mẫu xa <b>định lượng</b> trước kháng sinh ở người <b>ổn định</b> (yếu, thấp)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Ngưỡng định lượng</b>",
+      "Hút NKQ ≥ 10⁵ · BAL ≥ 10⁴ · PSB ≥ 10³ CFU/mL",
+      "Như bên"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Dưới ngưỡng</b>",
+      "Gợi ý ngừng kháng sinh (yếu, rất thấp)",
+      "Thu hẹp dựa vào kết quả (mạnh, thấp)"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Bằng chứng</b>",
+      "Canadian 2006, n = 740: tử vong 18,9% vs 18,4%",
+      "Fagon 2000, n = 413: tử vong ngày 14 16,2% vs 25,8%"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Lấy bệnh phẩm thế nào? Hai hướng dẫn khác nhau. IDSA 2016 gợi ý hút nội khí quản cấy bán định lượng; hướng dẫn châu Âu 2017 gợi ý mẫu xa định lượng, lấy trước kháng sinh, ở người bệnh ổn định.",
+    "Ngưỡng cấy định lượng cần nhớ: hút nội khí quản từ 10 mũ 5, rửa phế quản phế nang từ 10 mũ 4, và chải phế quản có bảo vệ từ 10 mũ 3 khuẩn lạc mỗi mi li lít.",
+    "Nếu đã cấy định lượng và kết quả dưới ngưỡng, IDSA gợi ý ngừng kháng sinh, kèm đánh giá lâm sàng.",
+    "Vì sao khác nhau? Thử nghiệm của Fagon trên 413 người bệnh cho thấy chiến lược xâm lấn giảm tử vong ngày 14, từ 25,8 xuống 16,2 phần trăm. Nhưng thử nghiệm Canada lớn hơn, 740 người bệnh, không thấy khác biệt: tử vong 28 ngày 18,9 so với 18,4 phần trăm. Điều hai bên thống nhất: phải lấy bệnh phẩm đường hô hấp dưới trước khi dùng kháng sinh."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "media",
+   "rail": "cd",
+   "chapter": "Bệnh phẩm",
+   "title": "Bệnh phẩm thật: soi, cấy, nhuộm Gram",
+   "ref": "Hội Hô hấp, HSCC VN 2023, tr. 44–46 · ảnh thật, Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/hapvap/raw/bal.jpg",
+     "ar": 1.472,
+     "credit": "Ảnh: MrArifnajafov · CC BY-SA 3.0 · Wikimedia Commons",
+     "flex": 1.2,
+     "at": 0,
+     "cap": "Nội soi phế quản lấy BAL tại giường"
+    },
+    {
+     "src": "../../media/cap/raw/sputum_gram.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 1,
+     "cap": "Gram đờm: bạch cầu và vi khuẩn"
+    },
+    {
+     "src": "../../media/sepsis/raw/bc_growth.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 0.7,
+     "at": 2,
+     "cap": "Chai cấy máu có vi khuẩn mọc"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "BAL",
+     "t": "Bơm 150 mL NaCl 0,9% vào vùng tổn thương rồi hút lại",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "GRAM",
+     "t": "Định hướng sớm; mẫu chất lượng có nhiều bạch cầu",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "CẤY MÁU",
+     "t": "Hệ thống, 2 mẫu ở 2 vị trí",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "notes_w": 380,
+   "lines": [
+    "Đây là nội soi phế quản lấy dịch rửa phế quản phế nang ngay tại giường hồi sức, ở người bệnh đang thở máy. Theo khuyến cáo Việt Nam, bơm 150 mi li lít nước muối sinh lý vào vùng phổi tổn thương rồi hút lại toàn bộ để làm xét nghiệm vi sinh.",
+    "Nhuộm Gram cho thông tin sớm: mẫu tốt có nhiều bạch cầu đa nhân, và hình thái vi khuẩn gợi ý hướng điều trị trước khi có kết quả cấy.",
+    "Đồng thời cấy máu một cách hệ thống, hai mẫu ở hai vị trí khác nhau."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "list",
+   "rail": "cd",
+   "chapter": "PCR và chỉ dấu",
+   "title": "PCR đa mồi, procalcitonin, CPIS",
+   "ref": "IDSA/ATS 2016, mục IV–VII · INHALE WP3, ICM 2025 · Millot, ICM 2026 · VN 2023, tr. 45",
+   "items": [
+    {
+     "t": "Procalcitonin, sTREM-1: không dùng để khởi động kháng sinh (mạnh, trung bình)",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "CRP, CPIS: không dùng để khởi động kháng sinh (yếu, thấp)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "INHALE WP3: kê đơn phù hợp 24 giờ 76,5% vs 55,9%, nhưng khỏi bệnh ngày 14 không đạt không kém",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Millot 2026: điều trị đích 24 giờ 35,1% vs 23,6% (p = 0,13); có lợi khi cấy dương",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "t": "Biện luận thận trọng: PCR có thể phát hiện vi khuẩn cư trú",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Các chỉ dấu sinh học có giúp gì không? IDSA khuyến cáo mạnh không dùng procalcitonin, cũng như sTREM-1 dịch rửa phế quản, để quyết định có khởi động kháng sinh hay không.",
+    "CRP và điểm CPIS cũng không nên dùng cho mục đích này. Vai trò của procalcitonin nằm ở quyết định ngừng kháng sinh, sẽ bàn ở phần ba.",
+    "Còn PCR đa mồi? Thử nghiệm INHALE gói công việc 3 cho thấy tỷ lệ kê kháng sinh phù hợp tại 24 giờ tăng từ 55,9 lên 76,5 phần trăm, nhưng tỷ lệ khỏi viêm phổi ngày 14 là 56,7 so với 64,5 phần trăm, không chứng minh được không kém.",
+    "Thử nghiệm của Millot năm 2026 không tăng có ý nghĩa tỷ lệ điều trị đích tại 24 giờ, trừ ở nhóm có cấy dương tính.",
+    "Khuyến cáo Việt Nam nhắc: kết quả PCR phải biện luận thận trọng, vì có thể phát hiện vi khuẩn cư trú, hoặc nhiều tác nhân cùng lúc."
+   ],
+   "id": "s07",
+   "dense": true
+  },
+  {
+   "layout": "flow",
+   "rail": "cd",
+   "chapter": "VAE",
+   "title": "VAE: thuật toán giám sát, không để chẩn đoán",
+   "ref": "Vẽ lại theo NHSN 2026, chương 10, Hình 1 (pdf 187) · tài liệu công của CDC",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Thở máy ≥ 4 ngày lịch",
+     "d": "≥ 2 ngày ổn định hoặc cải thiện",
+     "x": 710,
+     "y": 215,
+     "w": 448,
+     "h": 100,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "VAC",
+     "d": "FiO₂ tối thiểu ↑ ≥ 0,20 hoặc PEEP ↑ ≥ 3 cmH₂O, ≥ 2 ngày",
+     "x": 710,
+     "y": 355,
+     "w": 608,
+     "h": 100,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "IVAC",
+     "d": "+ sốt/hạ thân nhiệt hoặc bạch cầu bất thường + kháng sinh mới ≥ 4 ngày",
+     "x": 710,
+     "y": 495,
+     "w": 688,
+     "h": 100,
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "PVAP",
+     "d": "+ cấy vượt ngưỡng, hoặc đờm mủ kèm vi khuẩn",
+     "x": 710,
+     "y": 630,
+     "w": 608,
+     "h": 100,
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "CDC dùng một định nghĩa khác, gọi là biến cố liên quan thở máy. Đối tượng là người lớn thở máy ít nhất 4 ngày lịch, có giai đoạn nền từ 2 ngày ổn định hoặc cải thiện.",
+    "Tầng một, VAC: FiO₂ tối thiểu hằng ngày tăng từ 0,20, hoặc PEEP tối thiểu tăng từ 3 xăng ti mét nước, kéo dài ít nhất 2 ngày.",
+    "Tầng hai, IVAC: thêm sốt hoặc hạ thân nhiệt hoặc bạch cầu bất thường, và một kháng sinh mới được dùng từ 4 ngày.",
+    "Tầng ba, PVAP: thêm tiêu chuẩn vi sinh, như cấy định lượng vượt ngưỡng, hoặc đờm mủ có từ 25 bạch cầu đa nhân và không quá 10 tế bào biểu mô mỗi vi trường kèm vi khuẩn.",
+    "Điểm mấu chốt: thuật toán này không dùng hình ảnh, được thiết kế để giám sát chất lượng ở mức quần thể. IDSA 2016 nhấn mạnh không dùng nó để chẩn đoán hay quyết định điều trị tại giường."
+   ],
+   "id": "s08",
+   "_scaled": 1
+  },
+  {
+   "layout": "cards",
+   "rail": "cd",
+   "chapter": "VAP tái phát",
+   "title": "VAP tái phát: bốn thực thể theo RECUVAP",
+   "ref": "Gaillet A và cs., RECUVAP, ICM 2025 (Delphi, 36 chuyên gia châu Âu), pdf 1, 6–8",
+   "cards": [
+    {
+     "tag": "CÙNG VI KHUẨN",
+     "t": "Tái phát (relapse)",
+     "items": [
+      "Đã cải thiện khi điều trị phù hợp",
+      "Chỉ chẩn đoán 2–3 ngày sau ngừng kháng sinh (92%)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CÙNG VI KHUẨN",
+     "t": "VAP dai dẳng",
+     "items": [
+      "Không cải thiện suốt liệu trình (81%)",
+      "Sau ≥ 5 ngày kháng sinh phù hợp (72%)"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "VI KHUẨN KHÁC",
+     "t": "Bội nhiễm",
+     "items": [
+      "Trong khi điều trị",
+      "hoặc < 48–72 giờ sau ngừng"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "VI KHUẨN KHÁC",
+     "t": "VAP do tác nhân mới",
+     "items": [
+      "> 48–72 giờ sau ngừng kháng sinh"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "h": 560,
+   "lines": [
+    "Khi người bệnh có đợt viêm phổi thứ hai, ta gọi tên thế nào? Đồng thuận RECUVAP năm 2025 của 36 chuyên gia châu Âu đề xuất bốn thực thể. Tái phát, hay relapse, là cùng tác nhân, sau khi đợt đầu đã cải thiện với điều trị phù hợp; chỉ chẩn đoán được từ 2 đến 3 ngày sau khi ngừng kháng sinh.",
+    "VAP dai dẳng cũng do cùng tác nhân, nhưng không cải thiện suốt liệu trình kháng sinh phù hợp; chỉ chẩn đoán sau tối thiểu 5 ngày kháng sinh đúng thuốc, đúng liều, đủ nồng độ. Procalcitonin không giảm là một dấu hiệu hữu ích.",
+    "Bội nhiễm là tác nhân khác, xuất hiện trong khi điều trị hoặc chưa quá 48 đến 72 giờ sau khi ngừng.",
+    "Và VAP do tác nhân mới là tác nhân khác xuất hiện sau mốc 48 đến 72 giờ. Gọi đúng tên giúp chọn hướng xử trí: cùng vi khuẩn thì xem lại liều, dược động học, ổ nhiễm chưa dẫn lưu; vi khuẩn khác thì đổi phổ."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "quiz",
+   "rail": "cd",
+   "chapter": "Tình huống",
+   "title": "Tình huống: cấy dương có phải viêm phổi?",
+   "case": "Thở máy ngày 9 sau chấn thương sọ não. Hút NKQ mọc A. baumannii 10⁶ CFU/mL. Không sốt, bạch cầu 9 G/L, FiO₂ và PEEP không đổi, X-quang không có thâm nhiễm mới.",
+   "case_at": 0,
+   "q": "Xử trí phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Colistin ngay vì vi khuẩn đa kháng",
+    "Không điều trị: cư trú, chưa đủ tiêu chuẩn viêm phổi",
+    "Điều trị như VAT 7 ngày",
+    "Làm BAL rồi điều trị theo kết quả"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Không có thâm nhiễm mới, không dấu hiệu toàn thân ⇒ cư trú. IDSA 2016 gợi ý không dùng kháng sinh cho cả VAT (mục VIII).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Một tình huống rất thường gặp. Người bệnh thở máy ngày 9 sau chấn thương sọ não. Hút nội khí quản mọc Acinetobacter baumannii 10 mũ 6. Nhưng không sốt, bạch cầu 9, FiO₂ và PEEP không đổi, X-quang không có thâm nhiễm mới.",
+    "Xử trí phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Không có thâm nhiễm mới và không có dấu hiệu toàn thân, đây là vi khuẩn cư trú, chưa đủ tiêu chuẩn viêm phổi. Điều trị kháng sinh lúc này chỉ chọn lọc thêm vi khuẩn kháng thuốc. Ngay cả khi có viêm khí phế quản, IDSA 2016 cũng gợi ý không dùng kháng sinh. Hãy theo dõi lâm sàng, không điều trị theo kết quả cấy."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "summary",
+   "rail": "cd",
+   "chapter": "Tổng kết",
+   "title": "Phần 2 – điều cần nhớ",
+   "items": [
+    {
+     "t": "Thâm nhiễm + ≥ 1 dấu hiệu toàn thân + ≥ 2 dấu hiệu hô hấp ⇒ kháng sinh ngay",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Từng dấu hiệu đơn lẻ kém chính xác; X-quang đặc hiệu chỉ 26%",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Lấy bệnh phẩm hô hấp dưới trước kháng sinh; ngưỡng 10⁵ · 10⁴ · 10³",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "PCT, CRP, CPIS không quyết định khởi động; VAE chỉ để giám sát",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "VAP tái phát: relapse, dai dẳng, bội nhiễm, tác nhân mới",
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần hai. Thâm nhiễm mới cộng ít nhất một dấu hiệu toàn thân và hai dấu hiệu hô hấp thì dùng kháng sinh kinh nghiệm ngay.",
+    "Từng dấu hiệu đơn lẻ đều kém chính xác; X-quang có độ đặc hiệu chỉ 26 phần trăm.",
+    "Luôn lấy bệnh phẩm đường hô hấp dưới trước kháng sinh, với các ngưỡng 10 mũ 5, 10 mũ 4 và 10 mũ 3.",
+    "Procalcitonin, CRP và CPIS không quyết định việc khởi động kháng sinh; biến cố liên quan thở máy chỉ dùng để giám sát.",
+    "Và đợt tái phát được gọi tên theo bốn thực thể của RECUVAP. Ở phần ba, chúng ta sẽ chọn kháng sinh kinh nghiệm và quyết định dừng khi nào. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s11",
+   "dense": true
+  }
+ ]
+}

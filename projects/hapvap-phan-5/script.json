@@ -1,0 +1,685 @@
+{
+ "title": "Viêm phổi bệnh viện và viêm phổi thở máy – Phần 5: Ca lâm sàng hồi sức và tổng kết",
+ "theme": "case",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Viêm phổi bệnh viện – thở máy · Phần 5/5",
+ "source_short": "Nguồn: IDSA/ATS 2016 · ERS/ESICM 2017 · IDSA 2026 · ESCMID 2022 · Hội Hô hấp, HSCC VN 2023",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ERS/ESICM/ESCMID/ALAT": "các hội hô hấp, hồi sức và vi sinh châu Âu, Mỹ La tinh",
+  "RESTORE-IMI 2": "ri sto i mi hai",
+  "CREDIBLE-CR": "cờ re đi bồ xê a",
+  "REGARD-VAP": "ri ga váp",
+  "INHALE WP3": "in heo, gói công việc 3",
+  "PROPHY-VAP": "prô phi váp",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SMART-COP": "smát cóp",
+  "REMAP-CAP": "ri máp cáp",
+  "CAP-START": "cáp sờ tát",
+  "MULTI-CAP": "mun ti cáp",
+  "ERS/ESICM": "hội hô hấp và hồi sức châu Âu",
+  "AMIKINHAL": "a mi kin han",
+  "ASPECT-NP": "át pếch en pê",
+  "ATS/IDSA": "ê tê ét và ai đi ét a",
+  "IDSA/ATS": "ai đi ét a và ê tê ét",
+  "CAPE COD": "kếp cót",
+  "APEKS-NP": "a péc en pê",
+  "OVERCOME": "âu vơ cam",
+  "CURB-65": "cớp sáu lăm",
+  "SMRT-CO": "smớt cô",
+  "SIAARTI": "hội gây mê hồi sức Ý",
+  "RECUVAP": "ri cu váp",
+  "PRORATA": "prô ra ta",
+  "SuDDICU": "sút đi cu",
+  "REPROVE": "ri pru",
+  "REVISIT": "ri vi dít",
+  "AUC/MIC": "a u xê trên mích",
+  "CRB-65": "xê e bê sáu lăm",
+  "ProACT": "prô ắc",
+  "ESCAPe": "ét kếp",
+  "ACCESS": "ác xét",
+  "mmol/L": "mi li mol mỗi lít",
+  "ESCMID": "hội vi sinh lâm sàng châu Âu",
+  "PneumA": "niu ma",
+  "INHALE": "in heo",
+  "ZEPHyR": "dê phia",
+  "ATTACK": "a tác",
+  "OXA-48": "ô xa bốn mươi tám",
+  "CFU/mL": "khuẩn lạc mỗi mi li lít",
+  "SONIA": "sô ni a",
+  "IL-1β": "in tơ lơ kin một bê ta",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "IASIS": "i a xít",
+  "SpO₂": "ét pê ô hai",
+  "PaO₂": "pê a ô hai",
+  "FiO₂": "ép i ô hai",
+  "MRSA": "tụ cầu vàng kháng methicillin",
+  "HCAP": "viêm phổi liên quan chăm sóc y tế",
+  "HFNC": "oxy dòng cao qua mũi",
+  "PEEP": "pi",
+  "SOFA": "sô pha",
+  "NICE": "nai",
+  "SCCM": "ét xê xê em",
+  "IL-8": "in tơ lơ kin tám",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mg/L": "mi li gam mỗi lít",
+  "SHEA": "sê a",
+  "NHSN": "en ếch ét en",
+  "AIDA": "ai đa",
+  "vHAP": "viêm phổi bệnh viện cần thở máy",
+  "IVAC": "ai váp",
+  "PVAP": "pê váp",
+  "CRAB": "a xi nê tô bác tơ kháng các ba pê nem",
+  "ESBL": "e ét bê eo",
+  "CPIS": "xê pít",
+  "CrCl": "độ thanh thải crê a ti nin",
+  "PTC": "pê tê xê",
+  "NIV": "thông khí không xâm nhập",
+  "PSI": "pê ét i",
+  "PCR": "pê xê e",
+  "CRP": "xê e pê",
+  "ATS": "ê tê ét",
+  "ERS": "e e ét",
+  "CAP": "viêm phổi cộng đồng",
+  "ICU": "hồi sức",
+  "BUN": "bun",
+  "HAP": "viêm phổi bệnh viện",
+  "VAP": "viêm phổi thở máy",
+  "VAT": "viêm khí phế quản thở máy",
+  "VAE": "biến cố liên quan thở máy",
+  "VAC": "váp",
+  "CRE": "vi khuẩn đường ruột kháng các ba pê nem",
+  "DTR": "kháng thuốc khó điều trị",
+  "KPC": "ca pê xê",
+  "NDM": "en đê em",
+  "MBL": "mê ta lô bê ta lác ta mê",
+  "MDR": "đa kháng",
+  "BAL": "rửa phế quản phế nang",
+  "PSB": "chải phế quản có bảo vệ",
+  "CBA": "xê bê a",
+  "TDM": "theo dõi nồng độ thuốc",
+  "MIC": "mích",
+  "SDD": "khử nhiễm chọn lọc đường tiêu hoá",
+  "NKQ": "nội khí quản",
+  "MIU": "triệu đơn vị",
+  "PCT": "prô can xi tô nin"
+ },
+ "brand": {
+  "next": "Trọn loạt: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng hồi sức · Viêm phổi thở máy",
+   "title": "Sốt lại ngày thứ 7<br>sau mổ bụng",
+   "subtitle": "Phần 5 · Nam 62 tuổi · hồi sức ngoại",
+   "badges": [
+    {
+     "t": "P/F 170",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Noradrenalin",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "3 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "note": "Ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng",
+   "note_at": 2,
+   "monitor": {
+    "hr": 118,
+    "bp": "92/55"
+   },
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm, phần cuối của loạt bài viêm phổi bệnh viện và viêm phổi thở máy của Thư Viện Y Khoa Online.",
+    "Hôm nay chúng ta cùng xử trí một ca viêm phổi thở máy tại hồi sức, từ lúc nghi ngờ đến khi ngừng kháng sinh, áp dụng những gì đã học về chẩn đoán, phân tầng, chọn thuốc và thời gian điều trị.",
+    "Đây là ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng. Ở mỗi điểm quyết định, quý vị hãy thử tự trả lời trước khi xem đáp án."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Nghi ngờ VAP",
+   "title": "Ngày thở máy thứ 7",
+   "patient": {
+    "tag": "BỆNH NHÂN",
+    "t": "Nam 62 tuổi, 70 kg, mổ thủng tạng rỗng",
+    "d": "Thở máy từ sau mổ; đã dùng piperacillin–tazobactam 5 ngày",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Đờm mủ đặc, tăng số lần hút",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Ran nổ đáy phổi phải",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "HR",
+     "v": "118",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "f": "↑",
+     "at": 0
+    },
+    {
+     "k": "HA",
+     "v": "92/55",
+     "u": "mmHg",
+     "c": "coral",
+     "f": "noradrenalin",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "SpO₂",
+     "v": "91",
+     "u": "%",
+     "c": "blue",
+     "wave": "pleth",
+     "f": "FiO₂ 0,6",
+     "at": 2,
+     "alarm": true
+    },
+    {
+     "k": "PEEP",
+     "v": "10",
+     "u": "cmH₂O",
+     "c": "amber",
+     "f": "từ 6",
+     "at": 2
+    },
+    {
+     "k": "NHIỆT ĐỘ",
+     "v": "38,8",
+     "u": "°C",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Người bệnh nam 62 tuổi, nặng 70 ký, thở máy từ sau mổ thủng tạng rỗng, đã dùng piperacillin tazobactam 5 ngày.",
+    "Ngày thứ 7, huyết áp tụt còn 92 trên 55, phải dùng lại noradrenalin. Điều dưỡng báo đờm mủ đặc, phải hút nhiều lần hơn.",
+    "SpO₂ 91 phần trăm với FiO₂ 0,6; PEEP phải tăng từ 6 lên 10. Nghe phổi có ran nổ đáy phải.",
+    "Nhiệt độ 38,8 độ. Quý vị đã có thể thấy cả dấu hiệu toàn thân lẫn dấu hiệu hô hấp của viêm phổi thở máy."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "labs",
+   "chapter": "Cận lâm sàng",
+   "title": "Xét nghiệm và hình ảnh",
+   "groups": [
+    {
+     "g": "Khí máu",
+     "c": "teal",
+     "at": 0,
+     "rows": [
+      {
+       "k": "PaO₂/FiO₂",
+       "v": "170",
+       "r": "280 hôm qua",
+       "f": "L"
+      },
+      {
+       "k": "Lactat",
+       "v": "3,1",
+       "r": "< 2 mmol/L",
+       "f": "H"
+      }
+     ]
+    },
+    {
+     "g": "Máu",
+     "c": "amber",
+     "at": 1,
+     "rows": [
+      {
+       "k": "Bạch cầu",
+       "v": "17,5",
+       "r": "4–10 G/L",
+       "f": "H"
+      },
+      {
+       "k": "Creatinin",
+       "v": "88",
+       "r": "µmol/L",
+       "f": "N"
+      },
+      {
+       "k": "CrCl ước tính",
+       "v": "90",
+       "r": "mL/phút",
+       "f": "N"
+      }
+     ]
+    },
+    {
+     "g": "Hình ảnh, khoa",
+     "c": "coral",
+     "at": 2,
+     "note": "Antibiogram ICU: A. baumannii kháng carbapenem > 80%; tỷ lệ MRSA chưa có số liệu",
+     "rows": [
+      {
+       "k": "X-quang",
+       "v": "Mới, đáy phải",
+       "r": "",
+       "f": "H"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Khí máu: PaO₂/FiO₂ giảm từ 280 hôm qua xuống 170, lactat 3,1.",
+    "Bạch cầu 17,5 G trên lít; chức năng thận còn tốt, độ thanh thải ước tính 90 mi li lít mỗi phút.",
+    "X-quang có thâm nhiễm mới thuỳ dưới phải. Và thông tin quan trọng từ khoa: kháng sinh đồ của hồi sức cho thấy hơn 80 phần trăm Acinetobacter kháng carbapenem, chưa có số liệu về tụ cầu kháng methicillin."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "media",
+   "chapter": "Hình ảnh",
+   "title": "Hình ảnh minh hoạ",
+   "ref": "Ảnh minh hoạ thật, Wikimedia Commons (không phải của người bệnh này)",
+   "panels": [
+    {
+     "src": "../../media/hapvap/raw/cxr_vap.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: James Heilman, MD · CC BY 3.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Thâm nhiễm thuỳ dưới phải (minh hoạ)"
+    },
+    {
+     "seq": "../../media/cap/lus_rml/f_%03d.jpg",
+     "n": 88,
+     "fps": 15,
+     "ar": 1.073,
+     "credit": "Ảnh: Tsung J, Kessler D, Shah V · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 1,
+     "cap": "Siêu âm: đông đặc có khí phế quản đồ"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "X-QUANG",
+     "t": "Thâm nhiễm mới, nhạy nhưng ít đặc hiệu",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "SIÊU ÂM",
+     "t": "Xác nhận đông đặc tại giường",
+     "at": 1,
+     "c": "teal"
+    }
+   ],
+   "notes_w": 380,
+   "lines": [
+    "Đây là hình ảnh minh hoạ, không phải của người bệnh này: thâm nhiễm mới trên phim chụp tại giường. Như đã biết, X-quang nhạy nhưng ít đặc hiệu.",
+    "Siêu âm phổi tại giường thấy đông đặc có khí phế quản đồ, củng cố chẩn đoán viêm phổi. Bệnh phẩm hút nội khí quản và hai mẫu cấy máu được lấy ngay."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 1",
+   "title": "Phác đồ kinh nghiệm",
+   "step": "ĐIỂM QUYẾT ĐỊNH 1",
+   "q": "Phác đồ ban đầu hợp lý nhất?",
+   "q_at": 0,
+   "context": "VAP ngày 7, sốc nhiễm khuẩn, kháng sinh tĩnh mạch 5 ngày qua. ICU: CRAB > 80%, MRSA chưa rõ. 70 kg, CrCl 90.",
+   "options": [
+    "Ceftriaxon + levofloxacin",
+    "Meropenem liều cao truyền kéo dài + amikacin + vancomycin",
+    "Piperacillin–tazobactam tiếp tục, chờ cấy",
+    "Colistin đơn trị"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Nguy cơ MDR (kháng sinh 90 ngày, sốc, nằm viện ≥ 5 ngày) + MRSA chưa rõ ⇒ 2 thuốc chống Pseudomonas khác nhóm + vancomycin (IDSA X; ERS Hình 2).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ nhất. Người bệnh viêm phổi thở máy ngày 7, có sốc nhiễm khuẩn, đã dùng kháng sinh tĩnh mạch. Khoa có Acinetobacter kháng carbapenem trên 80 phần trăm, chưa rõ tỷ lệ tụ cầu kháng methicillin.",
+    "Phác đồ ban đầu nào hợp lý nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh có ba yếu tố nguy cơ đa kháng: kháng sinh tĩnh mạch, sốc nhiễm khuẩn, nằm viện trên 5 ngày; lại ở khoa chưa rõ tỷ lệ tụ cầu kháng methicillin. Theo IDSA và châu Âu, cần hai thuốc chống trực khuẩn mủ xanh khác nhóm cộng thuốc phủ tụ cầu kháng methicillin. Phác đồ phổ hẹp như A không phù hợp; giữ nguyên piperacillin tazobactam khi đang thất bại là sai; còn colistin đơn trị không bao giờ được khuyến cáo."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "list",
+   "chapter": "Y lệnh giờ đầu",
+   "title": "Y lệnh giờ đầu (minh hoạ, đã qua kiểm liều)",
+   "ref": "VN 2023, tr. 56, 61–62 · IDSA 2026, Bảng 1 · IDSA/ATS 2016, Bảng 3 · kiểm tra theo chế phẩm tại đơn vị",
+   "items": [
+    {
+     "t": "Meropenem: nạp 1 g truyền 30–60 phút, sau đó 2 g mỗi 8 giờ truyền 3 giờ",
+     "at": 0,
+     "c": "teal",
+     "n": "1"
+    },
+    {
+     "t": "Amikacin 20 mg/kg = 1400 mg mỗi 24 giờ, định lượng nồng độ",
+     "at": 1,
+     "c": "amber",
+     "n": "2"
+    },
+    {
+     "t": "Vancomycin nạp 25–30 mg/kg (1750–2100 mg), sau đó 15 mg/kg mỗi 8–12 giờ, đích AUC/MIC 400–600",
+     "at": 2,
+     "c": "violet",
+     "n": "3"
+    },
+    {
+     "t": "Đánh giá lại 48–72 giờ theo cấy; theo dõi creatinin hằng ngày",
+     "at": 3,
+     "c": "coral",
+     "n": "4"
+    }
+   ],
+   "lines": [
+    "Y lệnh giờ đầu, minh hoạ cho người 70 ký, chức năng thận bình thường. Meropenem liều nạp 1 gam truyền 30 phút đến 1 giờ, sau đó 2 gam mỗi 8 giờ truyền kéo dài 3 giờ, liều cao vì sốc và nghi vi khuẩn kháng carbapenem.",
+    "Amikacin 20 mi li gam mỗi ký, tức 1400 mi li gam mỗi ngày, có định lượng nồng độ thuốc.",
+    "Vancomycin liều nạp 25 đến 30 mi li gam mỗi ký, tức 1750 đến 2100 mi li gam, sau đó 15 mi li gam mỗi ký mỗi 8 đến 12 giờ, chỉnh theo đích AUC trên MIC 400 đến 600.",
+    "Đặt lịch đánh giá lại ở 48 đến 72 giờ khi có kết quả cấy, và theo dõi creatinin hằng ngày vì đang dùng hai thuốc độc thận. Quý vị luôn kiểm tra liều theo chế phẩm đang có tại đơn vị."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 2",
+   "title": "Khi có kháng sinh đồ",
+   "step": "ĐIỂM QUYẾT ĐỊNH 2",
+   "q": "Điều chỉnh kháng sinh thế nào?",
+   "q_at": 0,
+   "context": "48 giờ: hút NKQ mọc A. baumannii 10⁶ CFU/mL – kháng carbapenem (MIC meropenem > 8 mg/L), kháng amikacin, colistin MIC 0,5 mg/L. Không có MRSA. Vẫn sốt, vẫn cần noradrenalin.",
+   "options": [
+    "Giữ nguyên ba thuốc thêm 5 ngày",
+    "Sulbactam–durlobactam + carbapenem; nếu chưa có: ampicillin–sulbactam 9 g sulbactam/ngày + polymyxin; ngừng vancomycin, amikacin",
+    "Colistin + meropenem, giữ vancomycin",
+    "Tigecyclin liều cao đơn trị"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "IDSA 2026 Q5.1–5.2, 5.5: sulbactam là nền; polymyxin phải phối hợp. MIC meropenem > 8 ⇒ carbapenem không còn vai trò trong phối hợp kiểu cũ (VN 2023).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ hai, sau 48 giờ. Hút nội khí quản mọc Acinetobacter baumannii 10 mũ 6, kháng carbapenem với MIC meropenem trên 8, kháng amikacin, colistin MIC 0,5. Không có tụ cầu kháng methicillin. Người bệnh vẫn sốt và vẫn cần noradrenalin.",
+    "Điều chỉnh kháng sinh thế nào?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Theo IDSA 2026, nếu có sulbactam durlobactam thì phối hợp với imipenem hoặc meropenem. Nếu chưa có, dùng ampicillin sulbactam liều cao, 9 gam sulbactam mỗi ngày, phối hợp một thuốc khác như polymyxin B, hoặc colistin theo liều của đồng thuận 2019 với liều nạp. Ngừng vancomycin vì không có tụ cầu kháng methicillin, ngừng amikacin vì vi khuẩn đã kháng. Phương án C dựa vào meropenem khi MIC trên 8, không phù hợp; tigecyclin không được khuyến cáo cho viêm phổi do Acinetobacter."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 3",
+   "title": "Ngừng kháng sinh khi nào?",
+   "step": "ĐIỂM QUYẾT ĐỊNH 3",
+   "q": "Ngày 7 của liệu trình đích – quyết định?",
+   "q_at": 0,
+   "context": "Hết sốt 48 giờ, ngừng noradrenalin từ ngày 4, PaO₂/FiO₂ 260, bạch cầu 9 G/L, PCT giảm > 80% so với đỉnh. Không áp xe, không mủ màng phổi.",
+   "options": [
+    "Tiếp tục đủ 14 ngày vì là CRAB",
+    "Có thể ngừng ở ngày 7–8, theo dõi sát tái phát",
+    "Ngừng ngay từ ngày 3 khi hết sốt",
+    "Chuyển sang colistin khí dung duy trì"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Đáp ứng tốt, đủ tiêu chí ổn định (REGARD-VAP), PCT giảm ≥ 80% (VN 2023). ERS xếp CRAB vào nhóm cá thể hoá ⇒ quyết định theo diễn tiến, theo dõi tái phát.",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ ba. Ngày thứ 7 của liệu trình kháng sinh đích. Người bệnh hết sốt 48 giờ, đã ngừng noradrenalin từ ngày 4, PaO₂/FiO₂ 260, bạch cầu về bình thường, procalcitonin giảm hơn 80 phần trăm so với đỉnh. Không có áp xe hay mủ màng phổi.",
+    "Quyết định nào hợp lý?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh đáp ứng tốt, đủ tiêu chí ngừng của REGARD-VAP, và procalcitonin giảm từ 80 phần trăm theo khuyến cáo Việt Nam. Hướng dẫn châu Âu xếp Acinetobacter kháng carbapenem vào nhóm cần cá thể hoá, nghĩa là quyết định dựa trên diễn tiến, không mặc định kéo dài 14 ngày. Ngừng từ ngày 3 là quá sớm với một ca sốc nhiễm khuẩn do vi khuẩn kháng thuốc; còn khí dung duy trì không có bằng chứng."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "course",
+   "chapter": "Diễn tiến",
+   "title": "Diễn tiến tại hồi sức",
+   "events": [
+    {
+     "time": "Giờ 0–1",
+     "t": "Hút NKQ, cấy máu · meropenem + amikacin + vancomycin",
+     "d": "Noradrenalin, PEEP 10",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "time": "48 giờ",
+     "t": "CRAB, colistin MIC 0,5 · không MRSA",
+     "d": "Đổi sang phác đồ dựa trên sulbactam + polymyxin",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "time": "Ngày 4",
+     "t": "Ngừng noradrenalin",
+     "d": "Creatinin ổn định",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "time": "Ngày 7",
+     "t": "Hết sốt 48 giờ, P/F 260, PCT ↓ > 80%",
+     "d": "Ngừng kháng sinh ngày 7–8",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "time": "Ngày 10",
+     "t": "Rút ống thành công",
+     "d": "Không tái phát đến ngày 21",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Diễn tiến. Giờ đầu: lấy bệnh phẩm, khởi động meropenem, amikacin và vancomycin, duy trì noradrenalin.",
+    "Ở 48 giờ, khi có kết quả Acinetobacter kháng carbapenem, chuyển sang phác đồ dựa trên sulbactam phối hợp polymyxin, ngừng vancomycin và amikacin.",
+    "Ngày thứ 4 ngừng được noradrenalin, creatinin ổn định.",
+    "Ngày thứ 7 người bệnh hết sốt 48 giờ, P/F 260, procalcitonin giảm hơn 80 phần trăm; kháng sinh được ngừng ở ngày 7 đến 8.",
+    "Ngày thứ 10 rút ống thành công, và không tái phát trong theo dõi đến ngày 21."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Trình tự",
+   "title": "Sáu bước xử trí tại giường",
+   "ref": "Tổng hợp từ IDSA/ATS 2016, ERS 2017, IDSA 2026, VN 2023 · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "1. Nghi ngờ",
+     "d": "Thâm nhiễm + dấu hiệu",
+     "x": 230,
+     "y": 230,
+     "w": 340,
+     "h": 110,
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "2. Bệnh phẩm",
+     "d": "Hút NKQ, cấy máu",
+     "x": 670,
+     "y": 230,
+     "w": 340,
+     "h": 110,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "3. Phân tầng",
+     "d": "MDR × tử vong × antibiogram",
+     "x": 1110,
+     "y": 230,
+     "w": 340,
+     "h": 110,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "4. Kinh nghiệm",
+     "d": "Liều cao, truyền kéo dài",
+     "x": 1550,
+     "y": 230,
+     "w": 340,
+     "h": 110,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "e",
+     "t": "5. 48–72 giờ",
+     "d": "Xuống thang theo cơ chế kháng",
+     "x": 1110,
+     "y": 520,
+     "w": 400,
+     "h": 120,
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "id": "f",
+     "t": "6. Ngày 7",
+     "d": "Ngừng nếu đáp ứng tốt",
+     "x": 550,
+     "y": 520,
+     "w": 400,
+     "h": 120,
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "a": "e",
+     "b": "f",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Toàn bộ ca bệnh gói gọn trong sáu bước. Một, nghi ngờ khi có thâm nhiễm mới kèm dấu hiệu toàn thân và hô hấp. Hai, lấy bệnh phẩm hô hấp dưới và cấy máu trước kháng sinh.",
+    "Ba, phân tầng theo nguy cơ đa kháng, nguy cơ tử vong và kháng sinh đồ của khoa. Bốn, kháng sinh kinh nghiệm liều cao, truyền kéo dài, có liều nạp.",
+    "Năm, sau 48 đến 72 giờ xuống thang, chọn thuốc theo cơ chế kháng.",
+    "Và sáu, ngừng ở ngày 7 nếu đáp ứng tốt, cá thể hoá với vi khuẩn kháng carbapenem."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết loạt bài",
+   "title": "Sáu thông điệp của loạt bài",
+   "items": [
+    {
+     "t": "Gọi đúng tên: HAP, VAP, vHAP, VAT; bỏ HCAP; tử vong quy kết ~13%",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Không tiêu chuẩn vàng: bệnh phẩm hô hấp dưới trước kháng sinh; PCT không quyết định khởi động",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Phân tầng theo nguy cơ đa kháng, tử vong và antibiogram; ICU Việt Nam phần lớn nguy cơ cao",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "7 ngày cho đa số; xuống thang ở 48–72 giờ",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Kháng carbapenem: chọn theo enzym; CRAB dựa trên sulbactam",
+     "at": 4,
+     "c": "coral"
+    },
+    {
+     "t": "Phòng ngừa: tránh đặt ống, giảm an thần, đầu cao, đánh răng; bỏ chlorhexidin",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Để khép lại loạt bài, xin tóm tắt sáu thông điệp. Một: gọi đúng tên viêm phổi bệnh viện, viêm phổi thở máy, viêm phổi bệnh viện cần thở máy và viêm khí phế quản; tử vong quy kết của VAP khoảng 13 phần trăm.",
+    "Hai: không có tiêu chuẩn vàng, nên luôn lấy bệnh phẩm hô hấp dưới trước kháng sinh; procalcitonin không quyết định việc khởi động.",
+    "Ba: phân tầng theo nguy cơ đa kháng, nguy cơ tử vong và kháng sinh đồ của khoa; phần lớn hồi sức Việt Nam thuộc nhóm nguy cơ cao.",
+    "Bốn: 7 ngày là đủ cho đa số người bệnh, với xuống thang ở 48 đến 72 giờ.",
+    "Năm: vi khuẩn kháng carbapenem chọn thuốc theo enzym; Acinetobacter kháng carbapenem dựa trên sulbactam.",
+    "Và sáu: phòng ngừa bằng tránh đặt ống, giảm an thần, nằm đầu cao, đánh răng, và bỏ chlorhexidin. Cảm ơn quý đồng nghiệp đã đồng hành cùng loạt bài. Trọn bộ chuyên đề có tại thuvienykhoa.online. Hẹn gặp lại quý vị trong những chuyên đề tiếp theo của Thư Viện Y Khoa Online."
+   ],
+   "id": "s11",
+   "dense": true
+  }
+ ]
+}
