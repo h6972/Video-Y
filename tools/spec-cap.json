@@ -1,0 +1,82 @@
+[
+ {
+  "title": "File:CT of lobar pneumonia.jpg",
+  "out": "media/cap/raw/ct_lobar.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Severe Pneumonia Caused by Legionella pneumophila Serogroup 11, Italy.jpg",
+  "out": "media/cap/raw/legionella_ct.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Encapsulated strain of Streptococcus pneumoniae in clinical sample sputum Gram staining.jpg",
+  "out": "media/cap/raw/spn_capsule.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Mixed Pathogen Growth of Streptococcus pneumoniae and Klebsiella pneumoniae on Blood Agar.jpg",
+  "out": "media/cap/raw/spn_kp_agar.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Streptococcus pneumoniae-263.jpg",
+  "out": "media/cap/raw/spn_sem.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:11108 lores.jpg",
+  "out": "media/cap/raw/legionella_sem.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Haemophilus influenzae sputum 1000x edited.jpg",
+  "out": "media/cap/raw/hi_sputum.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Bpseudomallei.JPG",
+  "out": "media/cap/raw/bps_ashdown.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Burkholderia pseudomallei gram stain safety pin apperance.jpg",
+  "out": "media/cap/raw/bps_gram.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Lung abscess (7468374820).jpg",
+  "out": "media/cap/raw/abscess_cxr.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Classic Style High Flow Nasal Cannula.png",
+  "out": "media/cap/raw/hfnc.png",
+  "width": 1600
+ },
+ {
+  "title": "File:EM of influenza virus.jpg",
+  "out": "media/cap/raw/flu_em.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Bacteria and pus cells in a Gram stained smear of sputum.jpg",
+  "out": "media/cap/raw/sputum_gram.jpg",
+  "width": 1600
+ },
+ {
+  "title": "File:Lung-ultrasound-imaging-in-avian-influenza-A-(H7N9)-respiratory-failure-2036-7902-6-6-S3.ogv",
+  "out": "media/cap/raw/lus_h7n9_airbronch.ogv",
+  "width": 1600
+ },
+ {
+  "title": "File:Prospective-application-of-clinician-performed-lung-ultrasonography-during-the-2009-H1N1-influenza-2036-7902-4-16-S3.ogv",
+  "out": "media/cap/raw/lus_rml_airbronch.ogv",
+  "width": 1600
+ },
+ {
+  "title": "File:Prospective-application-of-clinician-performed-lung-ultrasonography-during-the-2009-H1N1-influenza-2036-7902-4-16-S1.ogv",
+  "out": "media/cap/raw/lus_subpleural.ogv",
+  "width": 1600
+ }
+]
