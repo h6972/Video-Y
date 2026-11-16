@@ -1,0 +1,999 @@
+{
+ "title": "Viêm phổi mắc phải cộng đồng – Phần 1: Dịch tễ, bệnh sinh và vi sinh",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Viêm phổi cộng đồng · Phần 1/5",
+ "source_short": "Nguồn: ATS 2025 · ATS/IDSA 2019 · ERS/ESICM 2023 · NICE NG250 · SCCM 2024 · Hội Hô hấp VN 2025",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ERS/ESICM/ESCMID/ALAT": "các hội hô hấp, hồi sức và vi sinh châu Âu, Mỹ La tinh",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SMART-COP": "smát cóp",
+  "REMAP-CAP": "ri máp cáp",
+  "CAP-START": "cáp sờ tát",
+  "MULTI-CAP": "mun ti cáp",
+  "ATS/IDSA": "ê tê ét và ai đi ét a",
+  "IDSA/ATS": "ai đi ét a và ê tê ét",
+  "CAPE COD": "kếp cót",
+  "CURB-65": "cớp sáu lăm",
+  "SMRT-CO": "smớt cô",
+  "CRB-65": "xê e bê sáu lăm",
+  "ProACT": "prô ắc",
+  "ESCAPe": "ét kếp",
+  "ACCESS": "ác xét",
+  "mmol/L": "mi li mol mỗi lít",
+  "SONIA": "sô ni a",
+  "IL-1β": "in tơ lơ kin một bê ta",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "SpO₂": "ét pê ô hai",
+  "PaO₂": "pê a ô hai",
+  "FiO₂": "ép i ô hai",
+  "MRSA": "tụ cầu vàng kháng methicillin",
+  "HCAP": "viêm phổi liên quan chăm sóc y tế",
+  "HFNC": "oxy dòng cao qua mũi",
+  "PEEP": "pi",
+  "SOFA": "sô pha",
+  "NICE": "nai",
+  "SCCM": "ét xê xê em",
+  "IL-8": "in tơ lơ kin tám",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mg/L": "mi li gam mỗi lít",
+  "PTC": "pê tê xê",
+  "NIV": "thông khí không xâm nhập",
+  "PSI": "pê ét i",
+  "PCR": "pê xê e",
+  "CRP": "xê e pê",
+  "ATS": "ê tê ét",
+  "ERS": "e e ét",
+  "CAP": "viêm phổi cộng đồng",
+  "ICU": "hồi sức",
+  "BUN": "bun"
+ },
+ "brand": {
+  "next": "Phần 2: Chẩn đoán và phân tầng độ nặng"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Bệnh sinh, vi sinh"
+  },
+  {
+   "k": "ls",
+   "t": "Lâm sàng"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán, phân tầng"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "tl",
+   "t": "Tiên lượng"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Viêm phổi cộng đồng",
+   "title": "Viêm phổi mắc phải<br>cộng đồng 2026",
+   "subtitle": "Phần 1 · Dịch tễ, bệnh sinh, vi sinh Việt Nam",
+   "badges": [
+    {
+     "t": "ATS 2025",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "NICE 2025",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Hội Hô hấp VN 2025",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · 5 phần",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với loạt bài về viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.",
+    "Loạt bài gồm năm phần, cập nhật theo các hướng dẫn mới nhất: Hội Lồng ngực Hoa Kỳ 2025, hướng dẫn châu Âu cho viêm phổi nặng 2023, NICE 2025, Hội Hồi sức Hoa Kỳ 2024, và hướng dẫn của Hội Hô hấp Việt Nam bản cập nhật 2025.",
+    "Phần một hôm nay đặt nền móng: viêm phổi cộng đồng là gì, gánh nặng ra sao, vi khuẩn đi vào phổi và gây bệnh như thế nào, và đặc biệt là vi sinh vật cùng tình hình kháng thuốc tại Việt Nam."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "media",
+   "rail": "dn",
+   "chapter": "Hai gương mặt",
+   "title": "Cùng một chẩn đoán, hai mức độ",
+   "ref": "Ảnh minh hoạ thật · Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/cxr_lobar.jpg",
+     "ar": 1.257,
+     "credit": "Ảnh: Mikael Häggström · CC0 · Wikimedia Commons",
+     "flex": 1.15,
+     "at": 0,
+     "cap": "X-quang: đông đặc thuỳ giữa phải",
+     "zoom": {
+      "x": 30,
+      "y": 55,
+      "s": 1.5,
+      "at": 0,
+      "out": "L1"
+     },
+     "marks": [
+      {
+       "type": "circle",
+       "x": 30,
+       "y": 57,
+       "r": 11,
+       "c": "coral",
+       "at": 0,
+       "t": "Đông đặc"
+      }
+     ]
+    },
+    {
+     "src": "../../media/cap/raw/ct_lobar.jpg",
+     "ar": 1.026,
+     "credit": "Ảnh: Mikael Häggström · CC0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 2,
+     "cap": "CT ngực: viêm phổi thuỳ",
+     "marks": [
+      {
+       "type": "label",
+       "x": 30,
+       "y": 15,
+       "t": "Đông đặc thuỳ",
+       "c": "coral",
+       "at": 2
+      }
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐA SỐ",
+     "t": "Khỏi với kháng sinh uống, điều trị ngoại trú",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "MỘT SỐ",
+     "t": "Suy hô hấp, sốc, suy đa cơ quan – cần hồi sức",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "CÂU HỎI",
+     "t": "Nhận diện sớm ai sẽ nặng?",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Hãy bắt đầu với hai hình ảnh thật. Bên trái là X-quang ngực của một người đàn ông 67 tuổi, với đám mờ đông đặc ở thuỳ giữa phổi phải: hình ảnh kinh điển của viêm phổi thuỳ.",
+    "Phần lớn người bệnh như vậy khỏi bệnh với kháng sinh uống, thậm chí không cần nằm viện.",
+    "Bên phải là phim chụp cắt lớp vi tính ngực của một người bệnh viêm phổi thuỳ khác, cũng 67 tuổi, cho thấy rõ vùng đông đặc chiếm một thuỳ phổi.",
+    "Nhưng ở một số người bệnh khác, cùng một tổn thương như thế lại diễn tiến đến suy hô hấp, sốc nhiễm khuẩn và suy đa cơ quan.",
+    "Câu hỏi xuyên suốt loạt bài này là: làm sao nhận diện sớm người sẽ nặng, và điều trị họ thế nào cho đúng ngay từ giờ đầu."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "rail": "dn",
+   "chapter": "Định nghĩa",
+   "title": "Viêm phổi mắc phải cộng đồng là gì?",
+   "ref": "ATS 2025, pdf 9 · ATS/IDSA 2019, câu hỏi 11",
+   "box": {
+    "tag": "ĐỊNH NGHĨA – ATS 2025",
+    "t": "Nhiễm trùng hô hấp dưới gây <b>viêm phế nang</b>, mắc <b>ngoài bệnh viện</b>. Chẩn đoán chuẩn: <b>triệu chứng lâm sàng + hình ảnh ngực</b> xác nhận viêm phế nang; <em>không bắt buộc</em> xác định vi sinh.",
+    "at": 0,
+    "c": "coral",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "PHẠM VI",
+     "t": "Người lớn không suy giảm miễn dịch",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "ĐÃ BỎ",
+     "t": "Khái niệm viêm phổi liên quan chăm sóc y tế (HCAP)",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Theo Hội Lồng ngực Hoa Kỳ 2025, viêm phổi là nhiễm trùng hô hấp dưới gây viêm phế nang; viêm phổi mắc phải cộng đồng là viêm phổi mắc ngoài bệnh viện hoặc cơ sở chăm sóc y tế.",
+    "Điểm then chốt: vì không thể phân biệt viêm phổi với các nhiễm trùng hô hấp dưới khác nếu không có hình ảnh, chẩn đoán chuẩn đòi hỏi cả triệu chứng lâm sàng lẫn hình ảnh ngực xác nhận viêm phế nang. Ngược lại, không bắt buộc phải tìm được vi khuẩn, vì độ nhạy của xét nghiệm vi sinh thấp.",
+    "Các khuyến cáo trong loạt bài áp dụng cho người lớn không suy giảm miễn dịch.",
+    "Và từ năm 2019, ATS cùng Hội Bệnh truyền nhiễm Hoa Kỳ đã khuyến cáo mạnh bỏ khái niệm viêm phổi liên quan chăm sóc y tế, một khái niệm từng khiến rất nhiều người bệnh bị dùng kháng sinh phổ rộng không cần thiết."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "stats",
+   "rail": "dn",
+   "chapter": "Dịch tễ",
+   "title": "Gánh nặng toàn cầu",
+   "ref": "Reyes LF và cs., Lancet 2025;406:2371–2388, tr. 2371, 2373",
+   "tiles": [
+    {
+     "tag": "TẦN SUẤT · 2021",
+     "v": 4350,
+     "l": "ca / 100 000 dân",
+     "d": "Toàn cầu",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "TỬ VONG",
+     "v": 2.2,
+     "dec": 1,
+     "l": "triệu ca/năm",
+     "d": "27,7 / 100 000 dân",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "CAP NẶNG",
+     "v": 22,
+     "pre": "13–",
+     "suf": "%",
+     "l": "người nhập viện",
+     "d": "Thường cần hồi sức",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "TỬ VONG 30 NGÀY · ICU",
+     "v": 49.4,
+     "dec": 1,
+     "pre": "tới ",
+     "suf": "%",
+     "l": "ở người cần ICU",
+     "d": "Nội trú chung: 4,1–9,6%",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "cols": 4,
+   "h": 460,
+   "note": {
+    "t": "Tái nhập viện: 8,8% sau 30 ngày · 20,1% sau 180 ngày (Mỹ, 2020)",
+    "at": 4,
+    "c": "amber"
+   },
+   "lines": [
+    "Về gánh nặng, theo bài tổng quan trên Lancet tháng 10 năm 2025, viêm phổi cộng đồng là nguyên nhân nhiễm trùng gây bệnh và tử vong hàng đầu thế giới, với tần suất ước tính 4350 ca trên 100 nghìn dân năm 2021.",
+    "Mỗi năm có khoảng 2,2 triệu ca tử vong, tức 27,7 trên 100 nghìn dân, cao nhất ở các nước thu nhập trung bình thấp.",
+    "Trong số người bệnh phải nhập viện, 13 đến 22 phần trăm là viêm phổi nặng, thường cần hồi sức.",
+    "Tử vong 30 ngày ở người nội trú nói chung đã giảm còn 4,1 đến 9,6 phần trăm, nhưng ở người cần nằm hồi sức có thể lên tới 49,4 phần trăm.",
+    "Và viêm phổi không kết thúc khi ra viện: tái nhập viện là 8,8 phần trăm sau 30 ngày và 20,1 phần trăm sau 180 ngày."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "stats",
+   "rail": "dn",
+   "chapter": "Việt Nam",
+   "title": "Viêm phổi tại Việt Nam",
+   "ref": "Hội Hô hấp Việt Nam 2025, tr. 11",
+   "tiles": [
+    {
+     "tag": "TỶ LỆ TRONG BỆNH PHỔI",
+     "v": 12,
+     "suf": "%",
+     "l": "các bệnh phổi",
+     "d": "Nhiễm khuẩn thường gặp nhất",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "BẠCH MAI 1996–2000",
+     "v": 9.57,
+     "dec": 2,
+     "suf": "%",
+     "l": "đứng thứ 4",
+     "d": "Sau COPD, lao, ung thư phổi",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "TỶ LỆ MẮC · 2014",
+     "v": 561,
+     "l": "/ 100 000 dân",
+     "d": "Đứng thứ hai sau tăng huyết áp",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "cols": 3,
+   "h": 440,
+   "note": {
+    "t": "Tử vong do viêm phổi 1,32/100 000 dân – đứng đầu các nguyên nhân tử vong (2014)",
+    "at": 3,
+    "c": "amber"
+   },
+   "lines": [
+    "Còn tại Việt Nam, theo Hội Hô hấp Việt Nam, viêm phổi mắc phải cộng đồng là bệnh nhiễm khuẩn thường gặp nhất trên thực hành, chiếm 12 phần trăm các bệnh phổi.",
+    "Tại Trung tâm Hô hấp Bệnh viện Bạch Mai giai đoạn 1996 đến 2000, viêm phổi chiếm 9,57 phần trăm, đứng thứ tư sau bệnh phổi tắc nghẽn mạn tính, lao và ung thư phổi.",
+    "Năm 2014, tỷ lệ mắc viêm phổi ở nước ta là 561 trên 100 nghìn dân, đứng thứ hai sau tăng huyết áp.",
+    "Và tỷ lệ tử vong do viêm phổi là 1,32 trên 100 nghìn dân, đứng hàng đầu trong các nguyên nhân gây tử vong."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "timeline",
+   "rail": "dn",
+   "chapter": "Lịch sử",
+   "title": "Ba mươi năm thay đổi thực hành",
+   "ref": "Fine 1997 · Lim 2003 · Mandell 2007 · Metlay 2019 · Dinh 2021 · Dequin 2023 · Jones 2025",
+   "events": [
+    {
+     "year": "1997–2003",
+     "t": "PSI · CURB-65",
+     "d": "Thang điểm dự báo tử vong, quyết định nơi điều trị",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "year": "2007",
+     "t": "IDSA/ATS",
+     "d": "2 tiêu chuẩn chính, 9 tiêu chuẩn phụ cho CAP nặng",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "year": "2019",
+     "t": "ATS/IDSA",
+     "d": "Bỏ HCAP · không corticoid thường quy",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "2021–23",
+     "t": "PTC · CAPE COD",
+     "d": "Ngừng kháng sinh ngày 3 · hydrocortison giảm tử vong",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "year": "2025",
+     "t": "ATS · REMAP-CAP",
+     "d": "Cập nhật 4 câu hỏi · tranh luận corticoid",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Thực hành điều trị viêm phổi đã thay đổi đáng kể trong ba mươi năm. Cuối những năm 1990 và đầu 2000, hai thang điểm PSI và CURB-65 ra đời để dự báo tử vong và quyết định nơi điều trị.",
+    "Năm 2007, Hội Bệnh truyền nhiễm và Hội Lồng ngực Hoa Kỳ đưa ra bộ tiêu chuẩn viêm phổi nặng với 2 tiêu chuẩn chính và 9 tiêu chuẩn phụ, đến nay vẫn được dùng.",
+    "Năm 2019, hướng dẫn chung của hai hội bỏ khái niệm viêm phổi liên quan chăm sóc y tế, và khuyến cáo không dùng corticoid thường quy.",
+    "Sau đó, thử nghiệm PTC năm 2021 cho thấy có thể ngừng β-lactam ở ngày thứ 3, và thử nghiệm CAPE COD năm 2023 cho thấy hydrocortison giảm tử vong ở viêm phổi nặng.",
+    "Năm 2025, Hội Lồng ngực Hoa Kỳ cập nhật bốn câu hỏi, đúng lúc thử nghiệm REMAP-CAP mở ra một cuộc tranh luận mới về corticoid. Chúng ta sẽ lần lượt đi qua tất cả trong loạt bài."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "pathway",
+   "rail": "bs",
+   "chapter": "Bệnh sinh",
+   "title": "Từ hít vi lượng đến suy cơ quan",
+   "ref": "Reyes LF và cs., Lancet 2025, tr. 2374",
+   "steps": [
+    {
+     "n": "ĐƯỜNG VÀO",
+     "t": "Hít vi lượng, khí dung",
+     "d": "Mọi VPMPCĐ do vi khuẩn đều qua đường hít; xảy ra cả ở người khỏe",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "n": "VƯỢT NGƯỠNG",
+     "t": "Quá khả năng thanh thải",
+     "d": "Ho, nhầy – lông chuyển, đại thực bào phế nang bị vượt qua",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "n": "VIÊM PHẾ NANG",
+     "t": "IL-1β, IL-8, bạch cầu đa nhân",
+     "d": "Tổn thương biểu mô, rò protein, rối loạn trao đổi khí",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "n": "TOÀN THÂN",
+     "t": "Suy cơ quan ngoài phổi",
+     "d": "Nhiễm khuẩn huyết, viêm toàn thân, liệt miễn dịch, sốc",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bây giờ đến bệnh sinh. Mầm bệnh đi vào đường hô hấp dưới qua hít hạt khí dung, với virus, hoặc qua hít vi lượng dịch hầu họng. Hít vi lượng xảy ra cả ở người khỏe mạnh, vì thế bài tổng quan Lancet 2025 nhấn mạnh: về bản chất, mọi viêm phổi do vi khuẩn đều đi qua đường hít, và dữ liệu vi sinh hiện nay không ủng hộ tách bạch viêm phổi hít với các viêm phổi cộng đồng khác.",
+    "Bệnh chỉ xảy ra khi lượng vi khuẩn có độc lực vượt quá khả năng thanh thải của phổi, gồm phản xạ ho, hệ nhầy lông chuyển và đại thực bào phế nang.",
+    "Khi đại thực bào bị quá tải, các cytokine như interleukin 1 beta và interleukin 8 huy động bạch cầu đa nhân trung tính và bạch cầu đơn nhân từ máu. Enzym ly giải, chất oxy hoá và vật liệu nhân của chúng phá huỷ biểu mô phế nang mỏng manh, gây rò protein huyết tương vào phế nang và rối loạn trao đổi khí. Dịch phù và chất nhầy trong phế nang lại trở thành môi trường giàu dinh dưỡng cho vi khuẩn sinh sôi.",
+    "Đó là cơ sở của khó thở, sốt, giảm oxy máu và tăng CO₂.",
+    "Đáng chú ý, người bệnh nặng hiếm khi tử vong vì giảm oxy máu trơ. Họ tử vong vì suy cơ quan ngoài phổi, do nhiễm khuẩn huyết, hoạt hoá viêm toàn thân, liệt miễn dịch và sốc."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "media",
+   "rail": "bs",
+   "chapter": "Bạch cầu đa nhân",
+   "title": "Bạch cầu đa nhân: vũ khí hai lưỡi",
+   "ref": "Clip thật · Reyes LF và cs., Lancet 2025, tr. 2374",
+   "panels": [
+    {
+     "seq": "../../media/sepsis/phago/f_%03d.jpg",
+     "n": 192,
+     "fps": 12,
+     "ar": 1.353,
+     "credit": "Ảnh: Andrei Savitsky · CC BY 4.0 · Wikimedia Commons",
+     "flex": 1.3,
+     "at": 0,
+     "cap": "Bạch cầu đa nhân đuổi bắt vi khuẩn"
+    },
+    {
+     "src": "../../media/cap/raw/sputum_gram.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1.2,
+     "at": 2,
+     "cap": "Đàm nhuộm Gram: bạch cầu + vi khuẩn",
+     "zoom": {
+      "x": 50,
+      "y": 50,
+      "s": 1.5,
+      "at": 2,
+      "out": "L4"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "tag": "BẢO VỆ",
+     "t": "Thực bào, tiêu diệt vi khuẩn",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "TỔN THƯƠNG",
+     "t": "Enzym, chất oxy hoá phá biểu mô phế nang",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "LÂM SÀNG",
+     "t": "Đàm mủ: bạch cầu + vi khuẩn",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Đây là một clip thật dưới kính hiển vi: một bạch cầu đa nhân trung tính đang đuổi bắt và nuốt vi khuẩn. Đó là tuyến bảo vệ chính trong phế nang.",
+    "Nhưng chính những tế bào này, khi được huy động ồ ạt, lại phóng thích enzym và chất oxy hoá làm tổn thương biểu mô phế nang. Đáp ứng viêm vừa cần thiết vừa có hại, và đó là cơ sở cho các nghiên cứu điều hoà miễn dịch bằng corticoid hay macrolid mà ta sẽ bàn ở phần bốn.",
+    "Bên phải là tiêu bản đàm nhuộm Gram của một người bệnh viêm phổi: rất nhiều tế bào mủ, tức bạch cầu đa nhân, xen lẫn vi khuẩn.",
+    "Đàm mủ mà ta thấy trên lâm sàng chính là hình ảnh đại thể của cuộc chiến đó."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "cards",
+   "rail": "bs",
+   "chapter": "Kiểu hình",
+   "title": "Không chỉ một con đường tổn thương",
+   "ref": "Reyes LF và cs., Lancet 2025, tr. 2374 · ATS 2025, pdf 41 · Torres JAMA 2015",
+   "cards": [
+    {
+     "tag": "1",
+     "t": "Kiểu hình bạch cầu đa nhân",
+     "d": "Điển hình của viêm phổi vi khuẩn",
+     "items": [
+      "Đông đặc, đàm mủ",
+      "CRP, procalcitonin tăng"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "2",
+     "t": "Không tăng bạch cầu phế nang",
+     "d": "Tổn thương vẫn xảy ra",
+     "items": [
+      "Gặp ở người giảm bạch cầu",
+      "Giàu virus"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "3",
+     "t": "Kiểu hình tăng viêm",
+     "d": "CRP rất cao",
+     "items": [
+      "Dự báo lợi ích corticoid",
+      "Torres 2015: CRP > 150 mg/L"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "h": 560,
+   "lines": [
+    "Các nghiên cứu gần đây cho thấy viêm phổi không đi theo một con đường duy nhất. Kiểu hình kinh điển là viêm do bạch cầu đa nhân, với đông đặc, đàm mủ và chỉ dấu viêm tăng.",
+    "Nhưng tổn thương phổi vẫn xảy ra ở người giảm bạch cầu đa nhân, và có một kiểu hình tổn thương không tăng bạch cầu trong phế nang, giàu virus.",
+    "Và có một kiểu hình tăng viêm, với CRP rất cao. Một phân tích gộp dữ liệu cá thể 8 thử nghiệm được ATS 2025 trích dẫn cho thấy CRP cao dự báo lợi ích của corticoid; thử nghiệm của Torres năm 2015 cũng chỉ tuyển người bệnh có CRP trên 150 mi li gam mỗi lít. Đây là nền tảng cho xu hướng cá thể hoá điều trị mà ta sẽ thảo luận ở phần bốn."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "media",
+   "rail": "bs",
+   "chapter": "Vi sinh",
+   "title": "Những tác nhân thường gặp",
+   "ref": "Reyes LF và cs., Lancet 2025, tr. 2373 · ảnh thật, Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/cap/raw/spn_sem.jpg",
+     "ar": 1.433,
+     "credit": "Ảnh: Janice Haney Carr (CDC) · Public domain · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Phế cầu (kính hiển vi điện tử)"
+    },
+    {
+     "src": "../../media/cap/raw/hi_sputum.jpg",
+     "ar": 1.6,
+     "credit": "Ảnh: Microman12345 · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 2,
+     "cap": "H. influenzae trong đàm (Gram)"
+    },
+    {
+     "src": "../../media/cap/raw/legionella_sem.jpg",
+     "ar": 1.474,
+     "credit": "Ảnh: Janice Haney Carr (CDC) · Public domain · Wikimedia Commons",
+     "flex": 1,
+     "at": 3,
+     "cap": "Legionella pneumophila"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "HAY GẶP NHẤT",
+     "t": "Phế cầu – giảm nhờ vaccin",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "KHÁC",
+     "t": "H. influenzae, S. aureus, Mycoplasma, Chlamydophila, Enterobacteriaceae",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "XÁC ĐỊNH ĐƯỢC",
+     "t": "Dưới một nửa người bệnh",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "notes_w": 380,
+   "lines": [
+    "Về vi sinh, phế cầu, Streptococcus pneumoniae, vẫn là vi khuẩn thường gặp nhất trên toàn cầu, dù tỷ lệ đã giảm nhờ tiêm vaccin.",
+    "Đây là hình ảnh phế cầu dưới kính hiển vi điện tử quét, với những cặp song cầu đặc trưng.",
+    "Các tác nhân khác gồm Haemophilus influenzae, ở giữa là hình ảnh cầu trực khuẩn Gram âm trong đàm; tụ cầu vàng, Mycoplasma, Chlamydophila và vi khuẩn đường ruột.",
+    "Ở bên phải là Legionella, cùng với trực khuẩn mủ xanh, có thể trở nên quan trọng tuỳ bệnh nền, tình trạng ức chế miễn dịch và tiền sử khu trú.",
+    "Một con số khiêm tốn cần nhớ: dù xét nghiệm đầy đủ, ta chỉ xác định được tác nhân ở dưới một nửa người bệnh."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "compare",
+   "rail": "bs",
+   "chapter": "Tác nhân theo nơi điều trị",
+   "title": "Tác nhân theo nơi điều trị",
+   "ref": "Hội Hô hấp VN 2025, Bảng 3.2, tr. 34–35",
+   "head": [
+    "Nơi điều trị",
+    "Tác nhân thường gặp"
+   ],
+   "widths": "1fr 3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ngoại trú</b>",
+      "Phế cầu, <em>H. influenzae</em>, <em>M. catarrhalis</em>, <em>Mycoplasma</em>, <em>Chlamydophila</em>, virus hô hấp"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Nội trú</b>",
+      "Như trên + nhiễm trùng phối hợp, Gram âm đường ruột, kỵ khí (hít), <em>Legionella</em>, <em>B. pertussis</em>"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>ICU</b>",
+      "Phế cầu, Gram âm đường ruột, <b><em>S. aureus</em></b>, <em>Legionella</em>, <em>Mycoplasma</em>, <b><em>P. aeruginosa</em></b>, virus – <b>cúm</b> quan trọng nhất"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Hội Hô hấp Việt Nam xếp tác nhân theo nơi điều trị. Ở người bệnh ngoại trú: phế cầu, Haemophilus influenzae, Moraxella catarrhalis, Mycoplasma, Chlamydophila và virus hô hấp.",
+    "Ở người bệnh nội trú, ngoài các tác nhân trên còn có nhiễm trùng phối hợp, vi khuẩn Gram âm đường ruột, vi khuẩn kỵ khí khi có hít sặc, Legionella và ho gà.",
+    "Ở hồi sức, phổ tác nhân dịch về phía các vi khuẩn khó: tụ cầu vàng, trực khuẩn mủ xanh, Gram âm đường ruột, Legionella. Trong các virus, cúm quan trọng nhất, thường mở đường cho bội nhiễm tụ cầu vàng hoặc phế cầu."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "bars",
+   "rail": "bs",
+   "chapter": "Dữ liệu Việt Nam",
+   "title": "Vi khuẩn gây viêm phổi tại Việt Nam",
+   "ref": "Hội Hô hấp VN 2025, tr. 19–20",
+   "groups": [
+    {
+     "t": "Hà Nội · 3 bệnh viện",
+     "d": "142 người bệnh",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "M. pneumoniae",
+       "v": 16.2,
+       "lab": "16,2%"
+      },
+      {
+       "k": "K. pneumoniae",
+       "v": 14.8,
+       "lab": "14,8%"
+      }
+     ]
+    },
+    {
+     "t": "Hà Nội · tiếp",
+     "d": "cùng nghiên cứu",
+     "at": 0,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "C. pneumoniae",
+       "v": 10.6,
+       "lab": "10,6%"
+      },
+      {
+       "k": "S. pneumoniae",
+       "v": 9.9,
+       "lab": "9,9%"
+      }
+     ]
+    },
+    {
+     "t": "TP.HCM · ngoại trú",
+     "d": "Nuôi cấy",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "H. influenzae",
+       "v": 63.1,
+       "lab": "63,1%"
+      },
+      {
+       "k": "S. pneumoniae",
+       "v": 25.5,
+       "lab": "25,5%"
+      }
+     ]
+    },
+    {
+     "t": "TP.HCM · real-time PCR",
+     "d": "Đồng nhiễm 76,4%",
+     "at": 3,
+     "c": "violet",
+     "hl": 1,
+     "bars": [
+      {
+       "k": "S. pneumoniae",
+       "v": 71.3,
+       "lab": "71,3%"
+      },
+      {
+       "k": "Virus",
+       "v": 21.7,
+       "lab": "21,7%"
+      }
+     ]
+    }
+   ],
+   "max": 80,
+   "notes": [
+    {
+     "t": "Kết quả phụ thuộc phương pháp: PCR phát hiện phế cầu gấp gần 3 lần nuôi cấy",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Dữ liệu chủ yếu từ bệnh viện lớn, chưa đại diện cả nước",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Còn tại Việt Nam? Một nghiên cứu trên 142 người bệnh tại Bệnh viện Bệnh Nhiệt đới Trung ương, Đống Đa và Đức Giang cho thấy Mycoplasma pneumoniae chiếm 16,2 phần trăm, Klebsiella pneumoniae 14,8 phần trăm, Chlamydophila pneumoniae 10,6 phần trăm và phế cầu 9,9 phần trăm.",
+    "Một nghiên cứu ở Khánh Hoà trên 154 người bệnh nhập viện lại thấy Haemophilus influenzae và phế cầu đứng đầu, tiếp theo là Moraxella, trực khuẩn mủ xanh, tụ cầu vàng và Klebsiella.",
+    "Tại bốn bệnh viện ở Thành phố Hồ Chí Minh, ở người bệnh ngoại trú, nuôi cấy cho thấy Haemophilus influenzae 63,1 phần trăm và phế cầu 25,5 phần trăm.",
+    "Nhưng khi dùng real-time PCR trên cùng nhóm người bệnh, phế cầu lại chiếm tới 71,3 phần trăm, virus 21,7 phần trăm, và 76,4 phần trăm là đồng nhiễm nhiều tác nhân. Bài học: kết quả vi sinh phụ thuộc rất nhiều vào phương pháp, và dữ liệu hiện có chủ yếu từ bệnh viện lớn, chưa đại diện cho cả nước."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "media",
+   "rail": "bs",
+   "chapter": "Kháng thuốc",
+   "title": "Phế cầu và H. influenzae tại Việt Nam",
+   "ref": "Hội Hô hấp VN 2025, tr. 19, 50 · ảnh thật, Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/cap/raw/spn_capsule.jpg",
+     "ar": 1.778,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1.3,
+     "at": 0,
+     "cap": "Phế cầu có vỏ trong đàm (nhuộm Gram)",
+     "zoom": {
+      "x": 50,
+      "y": 50,
+      "s": 1.5,
+      "at": 0,
+      "out": "L2"
+     }
+    },
+    {
+     "src": "../../media/cap/raw/spn_kp_agar.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC0 · Wikimedia Commons",
+     "flex": 1.2,
+     "at": 2,
+     "cap": "Phế cầu và Klebsiella mọc trên thạch máu"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "PHẾ CẦU",
+     "t": "Kháng macrolid > 90% · còn nhạy penicillin tiêm 86,9%",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "GIÁM SÁT BYT",
+     "t": "Nhạy penicillin, ceftriaxon > 92%",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "H. INFLUENZAE",
+     "t": "Gần 50% tiết β-lactamase",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Về kháng thuốc, đây là số liệu quan trọng nhất cho người thầy thuốc Việt Nam. Trong nghiên cứu 11 bệnh viện giai đoạn 2009 đến 2011, phế cầu còn nhạy penicillin tiêm 86,9 phần trăm, nhưng kháng nhóm macrolid trên 90 phần trăm.",
+    "Số liệu giám sát kháng kháng sinh quốc gia mới nhất của Bộ Y tế cho thấy phế cầu từ bệnh phẩm hô hấp vẫn nhạy penicillin và ceftriaxon trên 92 phần trăm.",
+    "Bên phải là hình ảnh phế cầu và Klebsiella cùng mọc trên thạch máu, nhắc ta rằng đồng nhiễm không hiếm.",
+    "Với Haemophilus influenzae, gần một nửa số chủng tại Việt Nam tiết β-lactamase. Vì thế khi nghĩ đến tác nhân này, Hội Hô hấp Việt Nam khuyên dùng amoxicillin kèm acid clavulanic thay vì amoxicillin đơn thuần."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "media",
+   "rail": "bs",
+   "chapter": "Melioidosis",
+   "title": "Đừng quên Burkholderia pseudomallei",
+   "ref": "Hội Hô hấp VN 2025, tr. 40 · ảnh thật, Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/cap/raw/bps_gram.jpg",
+     "ar": 1.218,
+     "credit": "Ảnh: Shrestha N và cs. · CC BY 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Gram: hình “kim băng”"
+    },
+    {
+     "src": "../../media/cap/raw/bps_ashdown.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: Gak · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1.1,
+     "at": 1,
+     "cap": "Khuẩn lạc trên thạch Ashdown"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "DỊCH TỄ",
+     "t": "Đất, nước bề mặt Đông Nam Á · Việt Nam: tháng 9–11",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "NGUY CƠ",
+     "t": "Đái tháo đường, nghiện rượu, bệnh thận mạn, bệnh phổi mạn",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "NẶNG",
+     "t": "Nhiễm khuẩn huyết, sốc, suy đa tạng",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Một tác nhân đặc thù của khu vực chúng ta: Burkholderia pseudomallei, gây bệnh melioidosis. Vi khuẩn sống trong đất và nước bề mặt ở Đông Nam Á; tại Việt Nam, bệnh gặp nhiều từ tháng 9 đến tháng 11, mùa mưa.",
+    "Trên tiêu bản nhuộm Gram, vi khuẩn bắt màu đậm hai đầu, giống chiếc kim băng; bên phải là khuẩn lạc trên thạch Ashdown.",
+    "Yếu tố nguy cơ quan trọng nhất là đái tháo đường, nghiện rượu, bệnh thận mạn và bệnh phổi mạn.",
+    "Thể cấp tính có thể diễn tiến nhanh đến nhiễm khuẩn huyết, sốc và suy đa tạng. Một người bệnh đái tháo đường bị viêm phổi nặng trong mùa mưa ở nước ta cần được nghĩ đến tác nhân này."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "compare",
+   "rail": "bs",
+   "chapter": "Nguy cơ kháng thuốc",
+   "title": "Ai có nguy cơ vi khuẩn kháng thuốc?",
+   "ref": "ATS/IDSA 2019, Bảng 3, câu hỏi 11 · ERS 2023, câu hỏi 7 · Hội Hô hấp VN 2025, Bảng 4.1, tr. 43",
+   "head": [
+    "Nguồn",
+    "Yếu tố nguy cơ MRSA, P. aeruginosa, Gram âm kháng thuốc"
+   ],
+   "widths": "1fr 3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>ATS/IDSA 2019</b>",
+      "Từng phân lập MRSA hoặc <em>P. aeruginosa</em> đường hô hấp · nằm viện <b>và</b> kháng sinh đường tiêm trong 90 ngày · dữ liệu dịch tễ tại chỗ"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>ERS 2023</b>",
+      "Tích hợp yếu tố nguy cơ (có thể thành thang điểm) theo dịch tễ tại chỗ và khu trú trước đó"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Thang PES</b>",
+      "Tuổi 40–65: 1 · > 65: 2 · nam: 1 · kháng sinh gần đây: 2 · bệnh phổi mạn: 2 · suy thận mạn: 3 · giảm nhận thức tại cấp cứu: 2 · sốt: −1 ⇒ <b>≥ 5 điểm: nguy cơ cao</b>"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Câu hỏi cuối của phần một: ai có nguy cơ vi khuẩn kháng thuốc? ATS và IDSA 2019 chỉ công nhận hai yếu tố đã được xác nhận: từng phân lập tụ cầu vàng kháng methicillin hay trực khuẩn mủ xanh từ đường hô hấp, và mới nằm viện kèm dùng kháng sinh đường tiêm trong 90 ngày; ngoài ra cần dữ liệu dịch tễ tại cơ sở.",
+    "Hướng dẫn châu Âu 2023 gợi ý tích hợp các yếu tố nguy cơ, có thể dưới dạng thang điểm, dựa trên dịch tễ tại chỗ và tình trạng khu trú trước đó.",
+    "Hội Hô hấp Việt Nam giới thiệu thang điểm PES: tuổi 40 đến 65 được 1 điểm, trên 65 được 2 điểm; nam giới 1 điểm; dùng kháng sinh gần đây 2 điểm; bệnh phổi mạn 2 điểm; suy thận mạn 3 điểm; giảm nhận thức tại cấp cứu 2 điểm; còn sốt thì trừ 1 điểm. Từ 5 điểm trở lên là nguy cơ cao. Ở phần ba, chúng ta sẽ dùng các yếu tố này để quyết định có phủ vi khuẩn kháng thuốc hay không."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "quiz",
+   "rail": "bs",
+   "chapter": "Tình huống",
+   "title": "Tình huống: macrolid đơn trị?",
+   "case": "Nam 55 tuổi, khỏe mạnh, không bệnh nền, không dùng kháng sinh 3 tháng. Viêm phổi thuỳ dưới phải, CURB-65 = 0, điều trị ngoại trú tại Việt Nam.",
+   "case_at": 0,
+   "q": "Lựa chọn nào phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Azithromycin đơn trị 5 ngày",
+    "Amoxicillin 1 g × 3 lần/ngày",
+    "Levofloxacin 750 mg/ngày",
+    "Ceftriaxon tiêm bắp hằng ngày"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Phế cầu Việt Nam kháng macrolid > 90% (ngưỡng ATS: < 25%); quinolon nên dành cho người có bệnh nền hoặc dị ứng",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Một tình huống ngắn. Nam 55 tuổi, khỏe mạnh, không bệnh nền, không dùng kháng sinh trong 3 tháng. Viêm phổi thuỳ dưới phải, CURB-65 bằng 0, điều trị ngoại trú tại Việt Nam.",
+    "Lựa chọn nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B, amoxicillin 1 gam ba lần mỗi ngày. Azithromycin đơn trị không phù hợp vì phế cầu tại Việt Nam kháng macrolid trên 90 phần trăm, vượt xa ngưỡng 25 phần trăm của ATS. Levofloxacin nên dành cho người có bệnh nền hoặc dị ứng β-lactam, để hạn chế kháng thuốc. Chi tiết phác đồ sẽ ở phần ba."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "summary",
+   "rail": "bs",
+   "chapter": "Tổng kết",
+   "title": "Phần 1 – điều cần nhớ",
+   "items": [
+    {
+     "t": "Chẩn đoán: lâm sàng + hình ảnh; không bắt buộc vi sinh",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "13–22% người nhập viện là CAP nặng; tử vong ICU tới 49,4%",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Bệnh sinh: hít vi lượng → viêm phế nang → suy cơ quan",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Việt Nam: phế cầu kháng macrolid > 90%; H. influenzae ~50% tiết β-lactamase",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Nguy cơ kháng thuốc: tiền sử phân lập; nằm viện + kháng sinh tiêm 90 ngày",
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần một. Viêm phổi cộng đồng được chẩn đoán bằng lâm sàng cộng hình ảnh, không bắt buộc phải có vi sinh.",
+    "13 đến 22 phần trăm người bệnh nhập viện là viêm phổi nặng, với tử vong có thể tới 49,4 phần trăm ở hồi sức.",
+    "Bệnh sinh đi từ hít vi lượng, vượt ngưỡng thanh thải, viêm phế nang, đến suy cơ quan ngoài phổi.",
+    "Tại Việt Nam, phế cầu kháng macrolid trên 90 phần trăm và gần một nửa Haemophilus influenzae tiết β-lactamase.",
+    "Và nguy cơ vi khuẩn kháng thuốc dựa trên tiền sử phân lập và lần nằm viện kèm kháng sinh tiêm gần đây. Ở phần hai, chúng ta sẽ học cách chẩn đoán và phân tầng độ nặng. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s17",
+   "dense": true
+  }
+ ]
+}

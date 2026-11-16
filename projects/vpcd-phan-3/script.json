@@ -1,0 +1,921 @@
+{
+ "title": "Viêm phổi mắc phải cộng đồng – Phần 3: Kháng sinh kinh nghiệm",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Viêm phổi cộng đồng · Phần 3/5",
+ "source_short": "Nguồn: ATS 2025 · ATS/IDSA 2019 · ERS/ESICM 2023 · NICE NG250 · SCCM 2024 · Hội Hô hấp VN 2025",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ERS/ESICM/ESCMID/ALAT": "các hội hô hấp, hồi sức và vi sinh châu Âu, Mỹ La tinh",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SMART-COP": "smát cóp",
+  "REMAP-CAP": "ri máp cáp",
+  "CAP-START": "cáp sờ tát",
+  "MULTI-CAP": "mun ti cáp",
+  "ATS/IDSA": "ê tê ét và ai đi ét a",
+  "IDSA/ATS": "ai đi ét a và ê tê ét",
+  "CAPE COD": "kếp cót",
+  "CURB-65": "cớp sáu lăm",
+  "SMRT-CO": "smớt cô",
+  "CRB-65": "xê e bê sáu lăm",
+  "ProACT": "prô ắc",
+  "ESCAPe": "ét kếp",
+  "ACCESS": "ác xét",
+  "mmol/L": "mi li mol mỗi lít",
+  "SONIA": "sô ni a",
+  "IL-1β": "in tơ lơ kin một bê ta",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "SpO₂": "ét pê ô hai",
+  "PaO₂": "pê a ô hai",
+  "FiO₂": "ép i ô hai",
+  "MRSA": "tụ cầu vàng kháng methicillin",
+  "HCAP": "viêm phổi liên quan chăm sóc y tế",
+  "HFNC": "oxy dòng cao qua mũi",
+  "PEEP": "pi",
+  "SOFA": "sô pha",
+  "NICE": "nai",
+  "SCCM": "ét xê xê em",
+  "IL-8": "in tơ lơ kin tám",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mg/L": "mi li gam mỗi lít",
+  "PTC": "pê tê xê",
+  "NIV": "thông khí không xâm nhập",
+  "PSI": "pê ét i",
+  "PCR": "pê xê e",
+  "CRP": "xê e pê",
+  "ATS": "ê tê ét",
+  "ERS": "e e ét",
+  "CAP": "viêm phổi cộng đồng",
+  "ICU": "hồi sức",
+  "BUN": "bun"
+ },
+ "brand": {
+  "next": "Phần 4: Thời gian kháng sinh và corticoid"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Bệnh sinh, vi sinh"
+  },
+  {
+   "k": "ls",
+   "t": "Lâm sàng"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán, phân tầng"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "tl",
+   "t": "Tiên lượng"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Viêm phổi cộng đồng",
+   "title": "Kháng sinh kinh nghiệm<br>trong viêm phổi cộng đồng",
+   "subtitle": "Phần 3 · Phác đồ theo nơi điều trị và nguy cơ",
+   "badges": [
+    {
+     "t": "ATS/IDSA 2019",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "ERS 2023",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "Hội Hô hấp VN 2025",
+     "c": "coral",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · 5 phần",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với loạt bài về viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.",
+    "Ở hai phần trước, chúng ta đã đi qua dịch tễ, bệnh sinh, vi sinh tại Việt Nam, rồi đến chẩn đoán và phân tầng độ nặng. Phần ba hôm nay trả lời câu hỏi thực hành nhất: ngay giờ đầu, nên chọn kháng sinh nào.",
+    "Chúng ta sẽ đi theo ba trục: người bệnh điều trị ở đâu, có yếu tố nguy cơ vi khuẩn kháng thuốc hay không, và xét nghiệm virus dương tính thì có được bỏ kháng sinh hay không. Mọi liều thuốc trong bài đều lấy từ hướng dẫn gốc và đã được rà soát."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "box",
+   "rail": "dt",
+   "chapter": "Nguyên tắc",
+   "title": "Bốn nguyên tắc trước khi kê kháng sinh",
+   "ref": "NICE NG250, 1.5.1 · Hội Hô hấp VN 2025, tr. 49 · ATS/IDSA 2019, câu hỏi 11",
+   "box": {
+    "tag": "NGUYÊN TẮC",
+    "t": "Kháng sinh <b>trong 4 giờ</b> sau khi đến viện · lấy bệnh phẩm <b>trước</b> kháng sinh ở người nội trú · chọn phổ theo <b>nơi điều trị</b> và <b>yếu tố nguy cơ đã xác nhận</b> · đánh giá lại sau <b>48–72 giờ</b>",
+    "at": 0,
+    "c": "teal",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "BỎ HCAP",
+     "t": "Không phủ rộng chỉ vì “từng tiếp xúc cơ sở y tế”",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "DỮ LIỆU TẠI CHỖ",
+     "t": "Phác đồ phải dựa trên dịch tễ kháng thuốc của từng bệnh viện",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Trước khi đi vào từng phác đồ, xin nhắc lại bốn nguyên tắc. Thứ nhất, kháng sinh phải được khởi động sớm, trong vòng 4 giờ sau khi người bệnh đến viện, như cả NICE 2025 và Hội Hô hấp Việt Nam đều yêu cầu.",
+    "Thứ hai, ở người bệnh nội trú, lấy bệnh phẩm đàm và máu khi có chỉ định trước liều kháng sinh đầu tiên, nhưng không để việc lấy mẫu làm trì hoãn điều trị.",
+    "Thứ ba, ATS và IDSA năm 2019 đã khuyến cáo mạnh bỏ khái niệm viêm phổi liên quan chăm sóc y tế. Việc phủ tụ cầu vàng kháng methicillin hay trực khuẩn mủ xanh chỉ dựa trên yếu tố nguy cơ đã được xác nhận tại chỗ, chứ không phải chỉ vì người bệnh từng tới bệnh viện.",
+    "Và thứ tư, mọi phác đồ kinh nghiệm phải được đánh giá lại sau 48 đến 72 giờ, khi đã có đáp ứng lâm sàng và kết quả vi sinh."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "flow",
+   "rail": "dt",
+   "chapter": "Cây quyết định",
+   "title": "Chọn phác đồ: ba câu hỏi",
+   "ref": "Tổng hợp từ khuyến cáo ATS/IDSA 2019 (Bảng 3–4), ERS 2023 · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "VPMPCĐ đã chẩn đoán",
+     "d": "Phân tầng độ nặng",
+     "x": 710,
+     "y": 170,
+     "w": 368,
+     "h": 110,
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Ngoại trú",
+     "d": "Nhẹ",
+     "x": 264,
+     "y": 370,
+     "w": 264,
+     "h": 110,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Nội trú",
+     "d": "Không nặng",
+     "x": 710,
+     "y": 370,
+     "w": 264,
+     "h": 110,
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "id": "d",
+     "t": "CAP nặng",
+     "d": "Hồi sức",
+     "x": 1157,
+     "y": 370,
+     "w": 264,
+     "h": 110,
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "id": "e",
+     "t": "Không bệnh nền",
+     "d": "Amoxicillin hoặc doxycyclin",
+     "x": 148,
+     "y": 590,
+     "w": 264,
+     "h": 140,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "f",
+     "t": "Có bệnh nền",
+     "d": "β-lactam + macrolid, hoặc FQ",
+     "x": 428,
+     "y": 590,
+     "w": 264,
+     "h": 140,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "g",
+     "t": "β-lactam + macrolid",
+     "d": "hoặc FQ đơn trị",
+     "x": 710,
+     "y": 590,
+     "w": 272,
+     "h": 140,
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "id": "h",
+     "t": "β-lactam + macrolid",
+     "d": "ưu tiên hơn + FQ",
+     "x": 1032,
+     "y": 590,
+     "w": 272,
+     "h": 140,
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "id": "i",
+     "t": "+ MRSA, Pseudo.",
+     "d": "khi có yếu tố nguy cơ",
+     "x": 1312,
+     "y": 590,
+     "w": 256,
+     "h": 140,
+     "c": "amber",
+     "at": 5
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "c",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "a": "a",
+     "b": "d",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "a": "b",
+     "b": "e",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "f",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "g",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "a": "d",
+     "b": "h",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "a": "d",
+     "b": "i",
+     "c": "amber",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Toàn bộ việc chọn kháng sinh có thể gói trong một cây quyết định ba tầng. Tầng đầu tiên: người bệnh được phân tầng độ nặng như ở phần hai, để quyết định nơi điều trị.",
+    "Nếu điều trị ngoại trú và không có bệnh nền, không có yếu tố nguy cơ vi khuẩn kháng thuốc, lựa chọn chuẩn là amoxicillin, hoặc doxycyclin.",
+    "Nếu có bệnh nền như bệnh tim, phổi, gan, thận mạn, đái tháo đường, nghiện rượu, ung thư hay cắt lách, phổ cần rộng hơn: β-lactam có ức chế β-lactamase hoặc cephalosporin, phối hợp macrolid hay doxycyclin; hoặc một fluoroquinolon hô hấp đơn trị.",
+    "Người bệnh nội trú không nặng: β-lactam phối hợp macrolid, hoặc fluoroquinolon hô hấp đơn trị, cả hai đều là khuyến cáo mạnh, chứng cứ cao.",
+    "Người bệnh nặng nằm hồi sức: β-lactam phối hợp macrolid hoặc phối hợp fluoroquinolon; hướng dẫn châu Âu 2023 ưu tiên macrolid.",
+    "Và nhánh cuối cùng: chỉ thêm thuốc phủ tụ cầu vàng kháng methicillin hay trực khuẩn mủ xanh khi người bệnh có yếu tố nguy cơ đã được xác nhận. Chúng ta sẽ đi vào từng nhánh."
+   ],
+   "id": "s03",
+   "_scaled": 1
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Ngoại trú",
+   "title": "Ngoại trú: ba hướng dẫn, ba cách viết",
+   "ref": "ATS/IDSA 2019, câu hỏi 8, Bảng 3 · NICE NG250, Table 1 · Hội Hô hấp VN 2025, tr. 50–51",
+   "head": [
+    "Nhóm",
+    "ATS/IDSA 2019",
+    "NICE 2025 (CAP nhẹ)",
+    "Hội Hô hấp VN 2025"
+   ],
+   "widths": "1fr 1.5fr 1.5fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Khỏe mạnh</b>, không bệnh nền",
+      "Amoxicillin 1 g × 3/ngày; hoặc doxycyclin 100 mg × 2; macrolid <b>chỉ khi kháng &lt; 25%</b>",
+      "Amoxicillin 500 mg × 3/ngày × 5 ngày; dị ứng: doxycyclin hoặc clarithromycin",
+      "Amoxicillin 1 g × 3, doxycyclin 100 mg × 2 hoặc macrolid; nghĩ <em>H. influenzae</em>: amoxicillin/acid clavulanic"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Có bệnh nền</b>",
+      "Amoxicillin/clavulanat hoặc cefpodoxim/cefuroxim + macrolid/doxycyclin; hoặc FQ hô hấp",
+      "–",
+      "Amoxicillin/acid clavulanic hoặc cefpodoxim, cefdinir, cefditoren + macrolid/doxycyclin; hoặc quinolon hô hấp"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Với người bệnh ngoại trú khỏe mạnh, ATS và IDSA 2019 khuyến cáo amoxicillin 1 gam ba lần mỗi ngày, khuyến cáo mạnh; hoặc doxycyclin 100 mi li gam hai lần mỗi ngày. Macrolid đơn trị chỉ được chấp nhận ở vùng có tỷ lệ phế cầu kháng macrolid dưới 25 phần trăm.",
+    "NICE 2025 dùng amoxicillin 500 mi li gam ba lần mỗi ngày trong 5 ngày, có thể dùng liều cao hơn; dị ứng penicillin thì chuyển sang doxycyclin hoặc clarithromycin. Hội Hô hấp Việt Nam dùng liều 1 gam như ATS, và lưu ý chuyển sang amoxicillin kèm acid clavulanic khi nghĩ đến Haemophilus influenzae, vì gần một nửa chủng tại Việt Nam tiết β-lactamase.",
+    "Khi người bệnh có bệnh nền, cả hai hướng dẫn Mỹ và Việt Nam đều mở rộng phổ: β-lactam có ức chế β-lactamase hoặc cephalosporin uống, phối hợp macrolid hoặc doxycyclin; hoặc một quinolon hô hấp đơn trị.",
+    "Hội Hô hấp Việt Nam còn nhấn mạnh: người bệnh suy kiệt, hoặc X-quang có tổn thương nặng như thâm nhiễm hơn một thuỳ, hoại tử, tràn dịch màng phổi, nên nhập viện dùng kháng sinh tĩnh mạch, dù thang điểm chưa đủ tiêu chuẩn."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Macrolid ở Việt Nam",
+   "title": "Vì sao không dùng macrolid đơn trị ở Việt Nam?",
+   "ref": "Hội Hô hấp VN 2025, tr. 19 (nghiên cứu 11 bệnh viện, 2009–2011) · ngưỡng 25%: ATS/IDSA 2019, câu hỏi 8",
+   "groups": [
+    {
+     "t": "Phế cầu · Việt Nam",
+     "d": "289 chủng, 2009–2011",
+     "at": 0,
+     "c": "coral",
+     "hl": 1,
+     "bars": [
+      {
+       "k": "Kháng macrolid",
+       "v": 90,
+       "lab": "> 90%"
+      },
+      {
+       "k": "Ngưỡng ATS",
+       "v": 25,
+       "lab": "25%"
+      }
+     ]
+    },
+    {
+     "t": "Phế cầu · nhạy penicillin tiêm",
+     "d": "cùng nghiên cứu",
+     "at": 2,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Nhạy",
+       "v": 86.9,
+       "lab": "86,9%"
+      },
+      {
+       "k": "Giám sát BYT",
+       "v": 92,
+       "lab": "> 92%"
+      }
+     ]
+    }
+   ],
+   "max": 100,
+   "notes": [
+    {
+     "t": "Kháng macrolid > 90% ⇒ macrolid đơn trị <b>không phù hợp</b>",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "β-lactam vẫn là xương sống điều trị phế cầu",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Dữ liệu từ bệnh viện lớn, chưa đại diện cả nước",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Đây là con số quan trọng nhất cho người thầy thuốc Việt Nam. Trong nghiên cứu 11 bệnh viện giai đoạn 2009 đến 2011 được Hội Hô hấp Việt Nam trích dẫn, phế cầu kháng macrolid trên 90 phần trăm.",
+    "Ngưỡng mà ATS và IDSA đặt ra để còn được dùng macrolid đơn trị là dưới 25 phần trăm. Nghĩa là ở Việt Nam, macrolid đơn trị gần như chắc chắn thất bại với phế cầu.",
+    "Ngược lại, phế cầu vẫn còn nhạy penicillin tiêm khoảng 86,9 phần trăm, và số liệu giám sát quốc gia mới hơn của Bộ Y tế cho thấy nhạy penicillin và ceftriaxon trên 92 phần trăm. β-lactam vẫn là xương sống.",
+    "Cần lưu ý dữ liệu này chủ yếu đến từ các bệnh viện lớn và số chủng còn nhỏ, nên mỗi đơn vị vẫn cần số liệu kháng thuốc của chính mình."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Nội trú và ICU",
+   "title": "Nội trú và hồi sức: phác đồ và liều",
+   "ref": "ATS/IDSA 2019, câu hỏi 9, Bảng 4 · ERS 2023, câu hỏi 3 · NICE NG250, Table 1 · Hội Hô hấp VN 2025, Bảng 5.1",
+   "head": [
+    "Mức độ",
+    "Phác đồ",
+    "Thuốc, liều (người lớn, thận bình thường)"
+   ],
+   "widths": "0.9fr 1.4fr 2.2fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Nội trú không nặng</b>",
+      "β-lactam + macrolid <em>hoặc</em> FQ hô hấp đơn trị (mạnh, chứng cứ cao)",
+      "Ceftriaxon 1–2 g/ngày · cefotaxim 1–2 g mỗi 8 giờ · ampicillin/sulbactam 1,5–3 g mỗi 6 giờ · ceftarolin 600 mg mỗi 12 giờ + azithromycin 500 mg/ngày hoặc clarithromycin 500 mg × 2 · levofloxacin 750 mg/ngày · moxifloxacin 400 mg/ngày"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Chống chỉ định macrolid và FQ</b>",
+      "β-lactam + doxycyclin (có điều kiện, thấp)",
+      "Doxycyclin 100 mg × 2/ngày"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>CAP nặng – ICU</b>",
+      "β-lactam + macrolid (mạnh, trung bình) hoặc β-lactam + FQ (mạnh, thấp); ERS 2023: <b>ưu tiên macrolid</b>, 3–5 ngày",
+      "Liều như trên; Hội Hô hấp VN: không dùng quinolon đơn trị ở bệnh nặng; ưu tiên cephalosporin thế hệ 3–5 + macrolid"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Với người bệnh nội trú không nặng, ATS và IDSA khuyến cáo mạnh, chứng cứ cao, một trong hai lựa chọn ngang nhau: β-lactam phối hợp macrolid, hoặc fluoroquinolon hô hấp đơn trị.",
+    "β-lactam có thể là ceftriaxon 1 đến 2 gam mỗi ngày, cefotaxim 1 đến 2 gam mỗi 8 giờ, ampicillin sulbactam 1,5 đến 3 gam mỗi 6 giờ, hoặc ceftarolin 600 mi li gam mỗi 12 giờ; kèm azithromycin 500 mi li gam mỗi ngày hoặc clarithromycin 500 mi li gam hai lần mỗi ngày. Fluoroquinolon hô hấp là levofloxacin 750 mi li gam hoặc moxifloxacin 400 mi li gam mỗi ngày.",
+    "Nếu người bệnh có chống chỉ định cả macrolid lẫn fluoroquinolon, có thể dùng β-lactam phối hợp doxycyclin 100 mi li gam hai lần mỗi ngày, đây là khuyến cáo có điều kiện.",
+    "Ở người bệnh nặng nằm hồi sức, ATS và IDSA chấp nhận cả β-lactam phối hợp macrolid lẫn phối hợp fluoroquinolon, nhưng bằng chứng nghiêng về macrolid. Hướng dẫn châu Âu 2023 gợi ý rõ: thêm macrolid, không thêm fluoroquinolon, và macrolid dùng 3 đến 5 ngày là hợp lý. Hội Hô hấp Việt Nam cũng nhấn mạnh không dùng quinolon đơn trị ở người bệnh nặng, ưu tiên cephalosporin thế hệ 3 đến 5 phối hợp macrolid."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Bằng chứng macrolid",
+   "title": "Có cần macrolid? Ba thử nghiệm",
+   "ref": "CAP-START, NEJM 2015 · Garin, JAMA Intern Med 2014 · ACCESS, Lancet Respir Med 2024",
+   "groups": [
+    {
+     "t": "CAP-START · khoa thường",
+     "d": "Tử vong 90 ngày",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "β-lactam",
+       "v": 9.0,
+       "lab": "9,0%"
+      },
+      {
+       "k": "+ macrolid",
+       "v": 11.1,
+       "lab": "11,1%"
+      }
+     ]
+    },
+    {
+     "t": "Garin · CAP trung bình–nặng",
+     "d": "Chưa ổn định ngày 7",
+     "at": 2,
+     "c": "coral",
+     "hl": 1,
+     "bars": [
+      {
+       "k": "Đơn trị",
+       "v": 41.2,
+       "lab": "41,2%"
+      },
+      {
+       "k": "+ macrolid",
+       "v": 33.6,
+       "lab": "33,6%"
+      }
+     ]
+    },
+    {
+     "t": "ACCESS · SOFA ≥ 2",
+     "d": "Đáp ứng sớm ngày 4",
+     "at": 4,
+     "c": "violet",
+     "hl": 1,
+     "bars": [
+      {
+       "k": "+ clarithromycin",
+       "v": 68,
+       "lab": "68%"
+      },
+      {
+       "k": "Giả dược",
+       "v": 38,
+       "lab": "38%"
+      }
+     ]
+    }
+   ],
+   "max": 75,
+   "notes": [
+    {
+     "t": "Khoa thường, nhẹ: β-lactam đơn trị <b>không kém</b>",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Nặng hơn, vi khuẩn không điển hình: phối hợp tốt hơn",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "ACCESS: OR 3,40 (KTC 95% 2,06–5,63)",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Vậy macrolid có thật sự cần không? Ba thử nghiệm cho ba câu trả lời bổ sung nhau. Thử nghiệm CAP-START ở Hà Lan, so sánh theo cụm các khoa thường: tử vong 90 ngày thô là 9,0 phần trăm với β-lactam đơn trị, 11,1 phần trăm với β-lactam phối hợp macrolid, và 8,8 phần trăm với fluoroquinolon.",
+    "Kết luận: ở khoa thường, β-lactam đơn trị không kém hai chiến lược còn lại.",
+    "Nhưng thử nghiệm của Garin ở Thụy Sĩ, trên người bệnh trung bình đến nặng, lại cho kết quả khác: sau 7 ngày, 41,2 phần trăm người dùng β-lactam đơn trị chưa ổn định, so với 33,6 phần trăm khi phối hợp macrolid, và đơn trị không đạt tiêu chuẩn không kém.",
+    "Người nhiễm vi khuẩn không điển hình và người thuộc nhóm PSI bốn là những người chậm ổn định nhất khi đơn trị; tỷ lệ tái nhập viện 30 ngày cũng cao hơn, 7,9 so với 3,1 phần trăm.",
+    "Gần đây nhất, thử nghiệm ACCESS ở Hy Lạp năm 2024, trên người bệnh có SOFA từ 2 điểm và procalcitonin từ 0,25, cho thấy thêm clarithromycin 500 mi li gam hai lần mỗi ngày trong 7 ngày làm tăng đáp ứng lâm sàng sớm ở ngày 4 từ 38 lên 68 phần trăm.",
+    "Thông điệp: bệnh càng nặng, vai trò của macrolid càng rõ, có lẽ không chỉ nhờ phủ vi khuẩn không điển hình mà còn nhờ tác dụng điều hoà miễn dịch."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "MRSA và trực khuẩn mủ xanh",
+   "title": "Khi nào phủ MRSA và P. aeruginosa?",
+   "ref": "ATS/IDSA 2019, câu hỏi 11, Bảng 4",
+   "head": [
+    "Tình huống",
+    "Nội trú không nặng",
+    "CAP nặng"
+   ],
+   "widths": "1.6fr 1.5fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Từng phân lập</b> MRSA hoặc <em>P. aeruginosa</em> đường hô hấp",
+      "Thêm phủ; cấy, PCR mũi để xuống thang",
+      "Thêm phủ; cấy, PCR mũi để xuống thang"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Nằm viện + kháng sinh tiêm 90 ngày</b> + yếu tố nguy cơ tại chỗ",
+      "Cấy nhưng <b>chưa phủ</b>; PCR MRSA mũi âm thì không phủ",
+      "Thêm phủ; cấy để xuống thang"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Thuốc</b>",
+      "MRSA: vancomycin 15 mg/kg mỗi 12 giờ (chỉnh theo nồng độ) hoặc linezolid 600 mg mỗi 12 giờ",
+      "<em>P. aeruginosa</em>: piperacillin/tazobactam 4,5 g mỗi 6 giờ · cefepim 2 g mỗi 8 giờ · meropenem 1 g mỗi 8 giờ"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bây giờ đến nhánh khó nhất: khi nào phủ tụ cầu vàng kháng methicillin và trực khuẩn mủ xanh. ATS và IDSA chỉ công nhận hai loại yếu tố nguy cơ.",
+    "Loại thứ nhất mạnh nhất: người bệnh đã từng phân lập được các vi khuẩn này từ đường hô hấp. Trường hợp này, dù nặng hay không nặng, đều thêm thuốc phủ, đồng thời cấy hoặc làm PCR tụ cầu ở mũi để có thể xuống thang.",
+    "Loại thứ hai: người bệnh mới nằm viện và dùng kháng sinh đường tiêm trong 90 ngày, kèm yếu tố nguy cơ đã được xác nhận tại cơ sở.",
+    "Với nhóm này, nếu bệnh không nặng, chỉ cấy mà chưa phủ, chờ kết quả; nếu PCR tụ cầu ở mũi âm tính thì không cần phủ tụ cầu vàng kháng methicillin. Nếu bệnh nặng thì phủ ngay rồi xuống thang theo cấy.",
+    "Thuốc phủ tụ cầu vàng kháng methicillin là vancomycin 15 mi li gam mỗi ký mỗi 12 giờ, chỉnh theo nồng độ, hoặc linezolid 600 mi li gam mỗi 12 giờ. Thuốc phủ trực khuẩn mủ xanh gồm piperacillin tazobactam 4,5 gam mỗi 6 giờ, cefepim 2 gam mỗi 8 giờ, hoặc meropenem 1 gam mỗi 8 giờ. Lưu ý các phác đồ này không phủ vi khuẩn đường ruột sinh β-lactamase phổ rộng.",
+    "Hội Hô hấp Việt Nam còn đưa thêm thang điểm PES để ước lượng nguy cơ này, như chúng ta đã thấy ở phần một."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "media",
+   "rail": "dt",
+   "chapter": "Bệnh phẩm trước kháng sinh",
+   "title": "Lấy mẫu trước kháng sinh – để xuống thang",
+   "ref": "ATS/IDSA 2019, câu hỏi 1–2 · ảnh minh hoạ thật",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/bc_growth.jpg",
+     "ar": 1.333,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Chai cấy máu có vi khuẩn mọc (đục)"
+    },
+    {
+     "src": "../../media/sepsis/raw/gram_pneumo.jpg",
+     "ar": 1.283,
+     "credit": "Ảnh: Arnold Kaufman · CC0 · Wikimedia Commons",
+     "flex": 1.2,
+     "at": 1,
+     "cap": "Gram: song cầu – phế cầu",
+     "zoom": {
+      "x": 50,
+      "y": 50,
+      "s": 1.6,
+      "at": 1,
+      "out": "L3"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CẤY MÁU",
+     "t": "CAP nặng; người đang phủ MRSA/P. aeruginosa",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "GRAM, CẤY ĐÀM",
+     "t": "Trước kháng sinh, nhất là khi đặt NKQ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "MỤC ĐÍCH",
+     "t": "Xuống thang khi cấy âm tính hoặc nhạy thuốc hẹp",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Phủ rộng chỉ an toàn khi ta có đường lui. Đường lui đó chính là bệnh phẩm lấy trước kháng sinh. Bên trái là chai cấy máu đã có vi khuẩn mọc. ATS và IDSA khuyến cáo cấy máu ở mọi người bệnh viêm phổi nặng và ở người đang được phủ tụ cầu kháng methicillin hay trực khuẩn mủ xanh.",
+    "Bên phải là tiêu bản nhuộm Gram đàm với những song cầu Gram dương hình ngọn nến, gợi ý phế cầu.",
+    "Nhuộm Gram và cấy đàm được khuyến cáo trước kháng sinh ở người bệnh nặng, nhất là khi đã đặt nội khí quản, vì lúc đó bệnh phẩm đường hô hấp dưới dễ lấy và đáng tin cậy.",
+    "Mục đích cuối cùng là xuống thang: khi cấy âm tính với vi khuẩn kháng thuốc, hãy ngừng thuốc phủ rộng sớm."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Virus dương tính",
+   "title": "Xét nghiệm virus dương tính: có bỏ kháng sinh?",
+   "ref": "ATS 2025, câu hỏi 2, pdf 4–5 (mọi khuyến cáo: có điều kiện, chứng cứ rất thấp)",
+   "head": [
+    "Nhóm người bệnh",
+    "ATS 2025",
+    "Phiếu"
+   ],
+   "widths": "1.3fr 2fr 0.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Ngoại trú <b>không</b> bệnh nền",
+      "Gợi ý <b>không</b> kê kháng sinh kinh nghiệm",
+      "14/15"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Ngoại trú có bệnh nền",
+      "Gợi ý kê kháng sinh (lo đồng nhiễm vi khuẩn)",
+      "11/15"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Nội trú không nặng",
+      "Gợi ý kê kháng sinh",
+      "12/15"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Nội trú CAP nặng",
+      "Gợi ý kê kháng sinh – đồng thuận tuyệt đối",
+      "15/15"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Một câu hỏi mới của ATS 2025: khi xét nghiệm virus hô hấp dương tính, có được bỏ kháng sinh hay không? Câu trả lời chỉ là có ở một nhóm duy nhất: người bệnh ngoại trú không có bệnh nền, với 14 trên 15 phiếu đồng ý không kê kháng sinh kinh nghiệm.",
+    "Người ngoại trú có bệnh nền thì vẫn gợi ý dùng kháng sinh vì lo ngại đồng nhiễm vi khuẩn.",
+    "Người bệnh nội trú không nặng cũng vậy.",
+    "Và với viêm phổi nặng, hội đồng nhất trí 15 trên 15 phiếu dùng kháng sinh. Tất cả đều là khuyến cáo có điều kiện, chứng cứ rất thấp, nên cần cá thể hoá: đàm mủ, chỉ dấu viêm tăng, đông đặc trên phim, hay bệnh nặng lên lần hai sau giai đoạn cúm đều gợi ý có vi khuẩn đi kèm."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "list",
+   "rail": "dt",
+   "chapter": "Thuốc kháng virus cúm",
+   "title": "Viêm phổi do cúm: oseltamivir",
+   "ref": "ATS/IDSA 2019, câu hỏi 13 · ERS 2023, câu hỏi 5 · IDSA 2018, Bảng 8 · Hội Hô hấp VN 2025, tr. 57–58",
+   "items": [
+    {
+     "t": "Nội trú cúm dương tính: dùng oseltamivir",
+     "d": "Bất kể thời gian bệnh trước chẩn đoán – khuyến cáo mạnh, chứng cứ trung bình",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "CAP nặng trong mùa cúm, chưa có PCR",
+     "d": "ERS 2023: gợi ý oseltamivir kinh nghiệm",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Liều: 75 mg uống × 2 lần/ngày × 5 ngày",
+     "d": "Cả thai phụ; cân nhắc kéo dài ở người suy giảm miễn dịch, bệnh nặng",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Không uống được: peramivir 600 mg tĩnh mạch 1 lần",
+     "d": "Hội Hô hấp VN: khi độ thanh thải creatinin > 60 mL/phút",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "t": "Vẫn dùng kháng sinh chuẩn",
+     "d": "Bội nhiễm S. aureus, phế cầu sau cúm",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khi viêm phổi có cúm, ATS và IDSA khuyến cáo mạnh dùng oseltamivir cho mọi người bệnh nội trú, bất kể đã bệnh bao nhiêu ngày trước khi được chẩn đoán.",
+    "Hướng dẫn châu Âu còn gợi ý dùng oseltamivir kinh nghiệm cho người bệnh nặng trong mùa cúm khi chưa có kết quả PCR.",
+    "Liều cho người lớn, kể cả thai phụ, là 75 mi li gam uống hai lần mỗi ngày trong 5 ngày; ở người suy giảm miễn dịch hoặc bệnh rất nặng có thể cân nhắc kéo dài. Oseltamivir thải qua thận nên cần chỉnh liều khi suy thận.",
+    "Nếu người bệnh không uống được, Hội Hô hấp Việt Nam gợi ý peramivir 600 mi li gam tĩnh mạch một lần khi độ thanh thải creatinin trên 60 mi li lít mỗi phút.",
+    "Và đừng quên: người bệnh viêm phổi có cúm vẫn được dùng kháng sinh chuẩn, vì bội nhiễm tụ cầu vàng và phế cầu sau cúm là nguyên nhân tử vong quan trọng."
+   ],
+   "id": "s11",
+   "dense": true
+  },
+  {
+   "layout": "quiz",
+   "rail": "dt",
+   "chapter": "Tình huống",
+   "title": "Tình huống: phủ trực khuẩn mủ xanh?",
+   "case": "Nam 68 tuổi, giãn phế quản, <b>đờm cấy P. aeruginosa 4 tháng trước</b>. Nay viêm phổi thuỳ dưới trái, tỉnh, HA 124/76 mmHg, thở 22 lần/phút, SpO₂ 93%. Không có tiêu chuẩn CAP nặng.",
+   "case_at": 0,
+   "q": "Phác đồ kinh nghiệm phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Ceftriaxon + azithromycin, chờ cấy",
+    "β-lactam chống P. aeruginosa (vd. piperacillin/tazobactam) + cấy đàm để xuống thang",
+    "Azithromycin đơn trị",
+    "Vancomycin + meropenem"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Đã từng phân lập P. aeruginosa đường hô hấp ⇒ thêm phủ ngay, kể cả khi không nặng (ATS/IDSA 2019, Bảng 4)",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Bây giờ là một tình huống. Nam 68 tuổi, giãn phế quản, đờm cấy ra trực khuẩn mủ xanh cách đây 4 tháng. Nay viêm phổi thuỳ dưới trái, tỉnh, huyết áp 124 trên 76, thở 22 lần mỗi phút, SpO₂ 93 phần trăm, không có tiêu chuẩn viêm phổi nặng.",
+    "Câu hỏi: phác đồ kinh nghiệm nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là phương án B. Người bệnh đã từng phân lập trực khuẩn mủ xanh từ đường hô hấp, đây là yếu tố nguy cơ mạnh nhất, nên theo ATS và IDSA, dù bệnh không nặng vẫn thêm thuốc phủ trực khuẩn mủ xanh ngay, đồng thời cấy đàm để xuống thang. Ceftriaxon không phủ trực khuẩn mủ xanh; azithromycin đơn trị không đủ; còn vancomycin phối hợp meropenem là phủ quá rộng khi không có yếu tố nguy cơ tụ cầu kháng methicillin."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "list",
+   "rail": "dt",
+   "chapter": "Bẫy thực hành",
+   "title": "Năm bẫy khi chọn kháng sinh",
+   "ref": "ATS/IDSA 2019, câu hỏi 5, 8, 10, 11 · ERS 2023, câu hỏi 8 · Hội Hô hấp VN 2025, tr. 19",
+   "items": [
+    {
+     "t": "Macrolid đơn trị ngoại trú",
+     "d": "Phế cầu Việt Nam kháng > 90%",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Phủ MRSA/Pseudomonas vì “từng nằm viện”",
+     "d": "HCAP đã bỏ – cần yếu tố nguy cơ đã xác nhận",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Phủ kỵ khí thường quy cho “viêm phổi hít”",
+     "d": "Chỉ khi nghi áp xe phổi hoặc mủ màng phổi",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Chờ procalcitonin để quyết định kháng sinh",
+     "d": "Khởi động kháng sinh bất kể procalcitonin",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "t": "Quinolon đơn trị ở CAP nặng",
+     "d": "Phối hợp β-lactam; ưu tiên macrolid",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Xin tổng kết năm bẫy thường gặp. Bẫy thứ nhất: kê macrolid đơn trị cho người bệnh ngoại trú, trong khi phế cầu ở Việt Nam kháng trên 90 phần trăm.",
+    "Bẫy thứ hai: phủ tụ cầu kháng methicillin hay trực khuẩn mủ xanh chỉ vì người bệnh từng nằm viện. Khái niệm viêm phổi liên quan chăm sóc y tế đã bị bỏ.",
+    "Bẫy thứ ba: tự động thêm thuốc phủ kỵ khí cho mọi ca nghi viêm phổi hít. ATS và IDSA chỉ gợi ý khi nghi áp xe phổi hoặc mủ màng phổi; hướng dẫn châu Âu cũng gợi ý dùng phác đồ chuẩn.",
+    "Bẫy thứ tư: chờ procalcitonin rồi mới quyết định có dùng kháng sinh. Khuyến cáo mạnh là khởi động kháng sinh cho mọi viêm phổi đã xác nhận, bất kể nồng độ procalcitonin ban đầu.",
+    "Và bẫy thứ năm: dùng quinolon đơn trị cho người bệnh nặng. Ở viêm phổi nặng, luôn phối hợp với β-lactam."
+   ],
+   "id": "s13",
+   "dense": true
+  },
+  {
+   "layout": "summary",
+   "rail": "dt",
+   "chapter": "Tổng kết",
+   "title": "Phần 3 – điều cần nhớ",
+   "items": [
+    {
+     "t": "Ngoại trú khỏe mạnh: amoxicillin 1 g × 3 hoặc doxycyclin",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Nội trú: β-lactam + macrolid hoặc FQ hô hấp",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "CAP nặng: β-lactam + macrolid (ưu tiên)",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "MRSA/P. aeruginosa: chỉ khi có yếu tố nguy cơ đã xác nhận",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Virus (+): chỉ bỏ kháng sinh ở ngoại trú không bệnh nền",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần ba. Người bệnh ngoại trú khỏe mạnh: amoxicillin 1 gam ba lần mỗi ngày hoặc doxycyclin; không dùng macrolid đơn trị ở Việt Nam.",
+    "Người bệnh nội trú không nặng: β-lactam phối hợp macrolid, hoặc fluoroquinolon hô hấp đơn trị.",
+    "Người bệnh nặng: β-lactam phối hợp macrolid là lựa chọn ưu tiên.",
+    "Chỉ phủ tụ cầu kháng methicillin và trực khuẩn mủ xanh khi có yếu tố nguy cơ đã được xác nhận, và luôn có bệnh phẩm để xuống thang.",
+    "Xét nghiệm virus dương tính chỉ cho phép bỏ kháng sinh ở người ngoại trú không bệnh nền. Ở phần bốn, chúng ta sẽ trả lời hai câu hỏi tiếp theo: dùng kháng sinh bao lâu, và có nên dùng corticoid hay không. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s14",
+   "dense": true
+  }
+ ]
+}

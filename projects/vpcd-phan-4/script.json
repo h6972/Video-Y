@@ -1,0 +1,800 @@
+{
+ "title": "Viêm phổi mắc phải cộng đồng – Phần 4: Thời gian kháng sinh và corticoid",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Viêm phổi cộng đồng · Phần 4/5",
+ "source_short": "Nguồn: ATS 2025 · ATS/IDSA 2019 · ERS/ESICM 2023 · NICE NG250 · SCCM 2024 · Hội Hô hấp VN 2025",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ERS/ESICM/ESCMID/ALAT": "các hội hô hấp, hồi sức và vi sinh châu Âu, Mỹ La tinh",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SMART-COP": "smát cóp",
+  "REMAP-CAP": "ri máp cáp",
+  "CAP-START": "cáp sờ tát",
+  "MULTI-CAP": "mun ti cáp",
+  "ATS/IDSA": "ê tê ét và ai đi ét a",
+  "IDSA/ATS": "ai đi ét a và ê tê ét",
+  "CAPE COD": "kếp cót",
+  "CURB-65": "cớp sáu lăm",
+  "SMRT-CO": "smớt cô",
+  "CRB-65": "xê e bê sáu lăm",
+  "ProACT": "prô ắc",
+  "ESCAPe": "ét kếp",
+  "ACCESS": "ác xét",
+  "mmol/L": "mi li mol mỗi lít",
+  "SONIA": "sô ni a",
+  "IL-1β": "in tơ lơ kin một bê ta",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "SpO₂": "ét pê ô hai",
+  "PaO₂": "pê a ô hai",
+  "FiO₂": "ép i ô hai",
+  "MRSA": "tụ cầu vàng kháng methicillin",
+  "HCAP": "viêm phổi liên quan chăm sóc y tế",
+  "HFNC": "oxy dòng cao qua mũi",
+  "PEEP": "pi",
+  "SOFA": "sô pha",
+  "NICE": "nai",
+  "SCCM": "ét xê xê em",
+  "IL-8": "in tơ lơ kin tám",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mg/L": "mi li gam mỗi lít",
+  "PTC": "pê tê xê",
+  "NIV": "thông khí không xâm nhập",
+  "PSI": "pê ét i",
+  "PCR": "pê xê e",
+  "CRP": "xê e pê",
+  "ATS": "ê tê ét",
+  "ERS": "e e ét",
+  "CAP": "viêm phổi cộng đồng",
+  "ICU": "hồi sức",
+  "BUN": "bun"
+ },
+ "brand": {
+  "next": "Phần 5: Ca lâm sàng hồi sức và tổng kết"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Bệnh sinh, vi sinh"
+  },
+  {
+   "k": "ls",
+   "t": "Lâm sàng"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán, phân tầng"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "tl",
+   "t": "Tiên lượng"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Viêm phổi cộng đồng",
+   "title": "Bao lâu thì ngừng kháng sinh?<br>Có nên dùng corticoid?",
+   "subtitle": "Phần 4 · PTC, CAPE COD, REMAP-CAP, SONIA",
+   "badges": [
+    {
+     "t": "ATS 2025",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "CAPE COD",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "REMAP-CAP",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · 5 phần",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn trong loạt bài viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.",
+    "Phần này dành cho hai câu hỏi đã thay đổi nhiều nhất từ năm 2019 đến nay: dùng kháng sinh bao lâu thì đủ, và corticoid có cứu được người bệnh viêm phổi nặng hay không.",
+    "Cả hai câu hỏi đều được Hội Lồng ngực Hoa Kỳ cập nhật năm 2025, trong bối cảnh nhiều thử nghiệm lớn cho kết quả trái chiều."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "rail": "dt",
+   "chapter": "Ổn định lâm sàng",
+   "title": "Ổn định lâm sàng: phải đạt tất cả",
+   "ref": "ATS 2025, Bảng 6, pdf 63 (theo tiêu chuẩn thử nghiệm PTC)",
+   "items": [
+    {
+     "t": "Nhiệt độ ≤ 37,8 °C",
+     "at": 0,
+     "c": "coral",
+     "n": "1"
+    },
+    {
+     "t": "Mạch < 100 lần/phút",
+     "at": 0,
+     "c": "amber",
+     "n": "2"
+    },
+    {
+     "t": "Nhịp thở < 24 lần/phút",
+     "at": 0,
+     "c": "teal",
+     "n": "3"
+    },
+    {
+     "t": "SpO₂ ≥ 90% hoặc PaO₂ ≥ 60 mmHg khí trời (hoặc nhu cầu oxy nền)",
+     "at": 1,
+     "c": "blue",
+     "n": "4"
+    },
+    {
+     "t": "HA tâm thu ≥ 90 mmHg",
+     "at": 1,
+     "c": "violet",
+     "n": "5"
+    },
+    {
+     "t": "Tri giác bình thường",
+     "at": 1,
+     "c": "green",
+     "n": "6"
+    }
+   ],
+   "lines": [
+    "Mọi quyết định về thời gian kháng sinh xoay quanh một khái niệm: ổn định lâm sàng. ATS 2025 dùng định nghĩa của thử nghiệm PTC, gồm sáu tiêu chí: nhiệt độ không quá 37,8 độ, mạch dưới 100, nhịp thở dưới 24 lần mỗi phút.",
+    "SpO₂ từ 90 phần trăm hoặc PaO₂ từ 60 mi li mét thuỷ ngân khi thở khí trời, hoặc trở về mức oxy nền với người thở oxy dài hạn; huyết áp tâm thu từ 90; và tri giác bình thường.",
+    "Điểm khác biệt quan trọng: trong thử nghiệm PTC, người bệnh phải đạt tất cả sáu tiêu chí. Các hướng dẫn cũ năm 2007 và thử nghiệm của Uranga dùng tiêu chuẩn lỏng hơn: hết sốt và không quá một dấu hiệu mất ổn định."
+   ],
+   "id": "s02",
+   "dense": true
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Thử nghiệm PTC",
+   "title": "PTC: ngừng β-lactam ở ngày 3",
+   "ref": "Dinh A và cs., Lancet 2021;397:1195 · biên không kém 10%",
+   "groups": [
+    {
+     "t": "Khỏi ở ngày 15",
+     "d": "n = 310 · tuổi trung vị 73",
+     "at": 1,
+     "c": "teal",
+     "hl": 1,
+     "bars": [
+      {
+       "k": "Ngừng ngày 3",
+       "v": 77,
+       "lab": "77%"
+      },
+      {
+       "k": "Thêm 5 ngày",
+       "v": 68,
+       "lab": "68%"
+      }
+     ]
+    },
+    {
+     "t": "Biến cố bất lợi",
+     "d": "chủ yếu tiêu hoá",
+     "at": 3,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Ngừng ngày 3",
+       "v": 14,
+       "lab": "14%"
+      },
+      {
+       "k": "Thêm 5 ngày",
+       "v": 19,
+       "lab": "19%"
+      }
+     ]
+    }
+   ],
+   "max": 85,
+   "notes": [
+    {
+     "t": "Chênh 9,42% (KTC 95% −0,38 đến 20,04) ⇒ <b>không kém</b>",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Chỉ người bệnh khoa thường, đã ổn định sau 3 ngày",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Thêm 5 ngày: amoxicillin/acid clavulanic 1 g/125 mg × 3",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 430,
+   "lines": [
+    "Bằng chứng then chốt là thử nghiệm PTC tại 16 trung tâm ở Pháp, công bố trên Lancet năm 2021. Người bệnh nằm khoa thường, đã ổn định sau 3 ngày β-lactam, được chia ngẫu nhiên: dùng thêm amoxicillin kèm acid clavulanic 5 ngày, hoặc giả dược.",
+    "Kết quả: khỏi bệnh ở ngày 15 đạt 77 phần trăm ở nhóm ngừng sớm, so với 68 phần trăm ở nhóm dùng tiếp.",
+    "Chênh lệch 9,42 điểm phần trăm, khoảng tin cậy từ âm 0,38 đến 20,04, đủ để kết luận ngừng ở ngày 3 không kém hơn.",
+    "Biến cố bất lợi ít hơn ở nhóm ngừng sớm, 14 so với 19 phần trăm, chủ yếu là rối loạn tiêu hoá.",
+    "Cần nhớ quần thể của thử nghiệm: người bệnh khoa thường, tuổi trung vị 73, đã ổn định đủ sáu tiêu chí. Đây không phải người bệnh hồi sức."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Khuyến cáo thời gian",
+   "title": "Thời gian kháng sinh: 2019 và 2025",
+   "ref": "ATS/IDSA 2019, câu hỏi 15 · ATS 2025, câu hỏi 3, pdf 5–6 · NICE NG250, 1.6.3 · Hội Hô hấp VN 2025, tr. 49, 53",
+   "head": [
+    "Nguồn",
+    "Khuyến cáo",
+    "Mức"
+   ],
+   "widths": "1fr 2.4fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "ATS/IDSA 2019",
+      "Đến khi ổn định và <b>không dưới 5 ngày</b>",
+      "Mạnh, trung bình"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "ATS 2025 · ngoại trú, nội trú không nặng",
+      "<b>&lt; 5 ngày (tối thiểu 3)</b> khi đã ổn định",
+      "Có điều kiện, thấp"
+     ],
+     "at": 1,
+     "c": "teal",
+     "hl": 1
+    },
+    {
+     "cells": [
+      "ATS 2025 · CAP nặng",
+      "<b>≥ 5 ngày</b> – điều trị thiếu có thể gây tử vong",
+      "Mạnh, thấp"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "NICE 2025",
+      "Ngừng sau 5 ngày nếu ổn định, trừ khi vi sinh cần dài hơn",
+      "–"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Hội Hô hấp VN 2025",
+      "Phế cầu: 3–5 ngày sau hết sốt (tối thiểu 5); <em>H. influenzae</em>: 5–7 ngày",
+      "–"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Năm 2019, ATS và IDSA khuyến cáo mạnh: dùng kháng sinh đến khi ổn định, và tổng thời gian không dưới 5 ngày.",
+    "Năm 2025, ATS hạ ngưỡng: với người bệnh ngoại trú và nội trú không nặng đã ổn định, gợi ý dưới 5 ngày, tối thiểu 3 ngày. Đây là khuyến cáo có điều kiện, chứng cứ thấp; ở nhóm nội trú chỉ 11 trên 16 thành viên đồng ý.",
+    "Với viêm phổi nặng, ATS 2025 giữ khuyến cáo mạnh từ 5 ngày trở lên, vì chưa có thử nghiệm nào trên nhóm này và điều trị thiếu có thể gây hậu quả nặng, kể cả tử vong.",
+    "NICE và Hội Hô hấp Việt Nam vẫn dùng mốc 5 ngày; Hội Hô hấp Việt Nam ghi phế cầu cần 3 đến 5 ngày sau khi hết sốt, tối thiểu 5 ngày, và Haemophilus influenzae cần 5 đến 7 ngày."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "cards",
+   "rail": "dt",
+   "chapter": "Khi nào không rút ngắn",
+   "title": "Khi nào không rút ngắn kháng sinh?",
+   "ref": "ATS 2025, Bảng 1, pdf 58–59 · pdf 33",
+   "cards": [
+    {
+     "tag": "VI KHUẨN",
+     "t": "Cần điều trị dài",
+     "items": [
+      "S. aureus, P. aeruginosa",
+      "Nghi Legionella, vi khuẩn nội bào"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "BIẾN CHỨNG",
+     "t": "Ổ nhiễm phức tạp",
+     "items": [
+      "Mủ màng phổi, áp xe, hoại tử",
+      "Nhiễm khuẩn huyết, ổ ngoài phổi"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "NỀN",
+     "t": "Người bệnh nguy cơ",
+     "items": [
+      "Giãn phế quản, sau tắc nghẽn",
+      "Có thai, mới dùng kháng sinh, khó theo dõi"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "h": 560,
+   "lines": [
+    "Rút ngắn kháng sinh không áp dụng cho mọi người. ATS 2025 liệt kê ba nhóm yếu tố làm yếu khuyến cáo. Thứ nhất là vi khuẩn cần điều trị dài: tụ cầu vàng, trực khuẩn mủ xanh, nghi Legionella hay vi khuẩn nội bào.",
+    "Thứ hai là biến chứng: mủ màng phổi, tràn dịch cận viêm, áp xe hay hoại tử, nhiễm khuẩn huyết, ổ nhiễm ngoài phổi.",
+    "Thứ ba là người bệnh nền: giãn phế quản, viêm phổi sau tắc nghẽn, giảm oxy máu mạn, có thai, mới dùng kháng sinh, mới nằm viện hoặc khó theo dõi sau ra viện.",
+    "ATS 2025 còn nhấn mạnh: không ấn định thời gian từ lúc nhập viện, mà quyết định từng ngày. Thực tế, hơn một nửa người bệnh nội trú không nặng không đủ điều kiện cho liệu trình ngắn."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "media",
+   "rail": "dt",
+   "chapter": "Biến chứng cần điều trị dài",
+   "title": "Áp xe phổi: không phải ca để rút ngắn",
+   "ref": "Ảnh minh hoạ thật · ATS 2025, Bảng 1",
+   "panels": [
+    {
+     "src": "../../media/cap/raw/abscess_cxr.jpg",
+     "ar": 1.091,
+     "credit": "Ảnh: Yale Rosen · CC BY-SA 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Áp xe phổi phải: hang có mức khí – dịch"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "DẤU HIỆU",
+     "t": "Hang có mức khí – dịch, thành dày",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "XỬ TRÍ",
+     "t": "Kháng sinh kéo dài, cân nhắc phủ kỵ khí, dẫn lưu khi cần",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "notes_w": 460,
+   "lines": [
+    "Đây là ví dụ điển hình của biến chứng làm khuyến cáo rút ngắn không còn áp dụng: một áp xe phổi phải.",
+    "Trên phim là một hang có mức khí dịch nằm ngang, đặc trưng của áp xe phổi.",
+    "Ở người bệnh này, ATS và IDSA cho phép phủ kỵ khí, và thời gian kháng sinh phải kéo dài theo diễn tiến hình ảnh và lâm sàng, không thể ngừng ở ngày 3."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Corticoid: các thử nghiệm",
+   "title": "Corticoid trong CAP nặng: bốn thử nghiệm",
+   "ref": "CAPE COD NEJM 2023 · REMAP-CAP ICM 2025 · ESCAPe ICM 2022 · SONIA NEJM 2025",
+   "groups": [
+    {
+     "t": "CAPE COD",
+     "d": "Tử vong ngày 28 · n = 800",
+     "at": 0,
+     "c": "teal",
+     "hl": 1,
+     "bars": [
+      {
+       "k": "Hydrocortison",
+       "v": 6.2,
+       "lab": "6,2%"
+      },
+      {
+       "k": "Giả dược",
+       "v": 11.9,
+       "lab": "11,9%"
+      }
+     ]
+    },
+    {
+     "t": "ESCAPe",
+     "d": "Tử vong ngày 60 · n = 586",
+     "at": 2,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "Methylpred.",
+       "v": 16,
+       "lab": "16%"
+      },
+      {
+       "k": "Giả dược",
+       "v": 18,
+       "lab": "18%"
+      }
+     ]
+    },
+    {
+     "t": "REMAP-CAP",
+     "d": "Tử vong ngày 90 · dừng vì vô ích",
+     "at": 3,
+     "c": "coral",
+     "hl": 1,
+     "bars": [
+      {
+       "k": "Hydrocortison",
+       "v": 15,
+       "lab": "15%"
+      },
+      {
+       "k": "Chứng",
+       "v": 9.8,
+       "lab": "9,8%"
+      }
+     ]
+    },
+    {
+     "t": "SONIA · Kenya",
+     "d": "Tử vong ngày 30 · n = 2180",
+     "at": 4,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Glucocorticoid",
+       "v": 22.6,
+       "lab": "22,6%"
+      },
+      {
+       "k": "Chuẩn",
+       "v": 26.0,
+       "lab": "26,0%"
+      }
+     ]
+    }
+   ],
+   "max": 30,
+   "notes": [
+    {
+     "t": "CAPE COD: chênh −5,6 điểm % (KTC 95% −9,6 đến −1,7)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "REMAP-CAP: OR 1,52–1,63, CrI 95% cắt qua 1",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "SONIA: HR 0,84 (KTC 95% 0,73–0,97)",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Bây giờ đến corticoid. Thử nghiệm làm thay đổi khuyến cáo là CAPE COD, công bố năm 2023: 800 người bệnh viêm phổi nặng tại hồi sức ở Pháp, hydrocortison 200 mi li gam mỗi ngày làm tử vong ngày 28 giảm từ 11,9 xuống 6,2 phần trăm.",
+    "Hydrocortison còn giảm đặt nội khí quản từ 29,5 xuống 18 phần trăm và giảm khởi động vận mạch từ 25 xuống 15,3 phần trăm.",
+    "Trước đó, thử nghiệm ESCAPe ở các bệnh viện cựu chiến binh Hoa Kỳ, dùng methylprednisolon kéo dài 20 ngày, không giảm tử vong ngày 60: 16 so với 18 phần trăm.",
+    "Năm 2025, nhánh hydrocortison cố định 7 ngày của thử nghiệm nền tảng REMAP-CAP bị dừng vì vô ích: tử vong ngày 90 là 15 phần trăm ở nhóm hydrocortison so với 9,8 phần trăm ở nhóm chứng, tỷ số chênh hiệu chỉnh 1,52 đến 1,63, khoảng tin cậy Bayes cắt qua 1. Không loại trừ lợi ích nhỏ, nhưng cũng không loại trừ tác hại.",
+    "Cùng năm, thử nghiệm SONIA trên 2180 người bệnh ở Kenya, dùng glucocorticoid liều thấp 10 ngày ở khoa nội, lại cho thấy giảm tử vong ngày 30 từ 26,0 xuống 22,6 phần trăm, tỷ số nguy cơ 0,84."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Vì sao trái chiều",
+   "title": "Vì sao kết quả trái chiều?",
+   "ref": "ATS 2025, pdf 40–41 · Dequin 2023 · REMAP-CAP 2025 · Lucinde 2025",
+   "head": [
+    "Yếu tố",
+    "CAPE COD",
+    "REMAP-CAP",
+    "ESCAPe"
+   ],
+   "widths": "1fr 1.4fr 1.4fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Thời điểm</b>",
+      "Trong 24 giờ sau tiêu chí nặng",
+      "–",
+      "Trong 72–96 giờ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Quần thể</b>",
+      "Suy hô hấp; <b>loại sốc nhiễm khuẩn, cúm</b>",
+      "Có cả cúm và sốc",
+      "Cựu chiến binh, chủ yếu nam"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Thuốc</b>",
+      "Hydrocortison 200 mg/ngày truyền liên tục, 8 hoặc 14 ngày",
+      "Hydrocortison 50 mg mỗi 6 giờ × 7 ngày",
+      "Methylprednisolon 40 mg/ngày, giảm dần 20 ngày"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "ATS 2025 phân tích vì sao CAPE COD dương tính còn ESCAPe âm tính. Thứ nhất là thời điểm: CAPE COD bắt đầu corticoid trong 24 giờ sau khi người bệnh đủ tiêu chí nặng, trong khi ESCAPe tuyển trong 72 đến 96 giờ.",
+    "Thứ hai là quần thể: CAPE COD chọn người bệnh có suy hô hấp, loại sốc nhiễm khuẩn và loại cúm; còn REMAP-CAP có cả người bệnh cúm và sốc. ESCAPe chủ yếu là nam giới cựu chiến binh, trong khi CAPE COD có nhiều nữ hơn.",
+    "Thứ ba là cách dùng thuốc: CAPE COD truyền liên tục hydrocortison 200 mi li gam mỗi ngày, giảm dần, tổng 8 hoặc 14 ngày; REMAP-CAP tiêm ngắt quãng 50 mi li gam mỗi 6 giờ trong 7 ngày; ESCAPe dùng methylprednisolon giảm dần trong 20 ngày. Một phân tích gộp dữ liệu cá thể còn cho thấy CRP cao dự báo lợi ích."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Khuyến cáo các hội",
+   "title": "Sáu hội, sáu cách nói về corticoid",
+   "ref": "ATS/IDSA 2019 · ERS 2023, câu hỏi 6 · SCCM 2024, 3A · ATS 2025, pdf 6–7 · NICE NG250, 1.8 · Hội Hô hấp VN 2025, tr. 52",
+   "head": [
+    "Hội",
+    "CAP nặng",
+    "Ghi chú"
+   ],
+   "widths": "0.9fr 1.6fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "ATS/IDSA 2019",
+      "Gợi ý <b>không</b> dùng thường quy",
+      "Trước CAPE COD"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "ERS 2023",
+      "Gợi ý dùng <b>chỉ khi có sốc</b>",
+      "Methylprednisolon 0,5 mg/kg mỗi 12 giờ × 5 ngày"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "SCCM 2024",
+      "<b>Khuyến cáo mạnh</b> dùng (CAP do vi khuẩn)",
+      "Phân tích gộp: RR tử vong 0,62; trước REMAP-CAP"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "ATS 2025",
+      "<b>Gợi ý dùng</b> (có điều kiện), trừ cúm",
+      "Không dùng cho CAP không nặng (mạnh)"
+     ],
+     "at": 3,
+     "c": "amber",
+     "hl": 1
+    },
+    {
+     "cells": [
+      "NICE 2025",
+      "Cân nhắc 4–7 ngày",
+      "Ưu tiên hydrocortison tĩnh mạch"
+     ],
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Hội Hô hấp VN 2025",
+      "Dùng sớm trong 24 giờ; xét nghiệm cúm, COVID trước",
+      "Hydrocortison 200 mg/ngày; đánh giá ngày 4; tổng 8–14 ngày"
+     ],
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Kết quả trái chiều dẫn đến khuyến cáo trái chiều. Năm 2019, ATS và IDSA gợi ý không dùng corticoid thường quy cho viêm phổi nặng.",
+    "Hướng dẫn châu Âu 2023 gợi ý chỉ dùng khi có sốc, và đề xuất methylprednisolon 0,5 mi li gam mỗi ký mỗi 12 giờ trong 5 ngày; hướng dẫn này ra trước CAPE COD.",
+    "Năm 2024, Hội Hồi sức Hoa Kỳ khuyến cáo mạnh dùng corticoid cho viêm phổi nặng do vi khuẩn, dựa trên phân tích gộp 18 thử nghiệm với tỷ số nguy cơ tử vong 0,62, nhưng ra trước REMAP-CAP và SONIA.",
+    "ATS 2025 chỉ gợi ý dùng, khuyến cáo có điều kiện, chứng cứ thấp, và loại trừ viêm phổi do cúm; đồng thời khuyến cáo mạnh không dùng cho viêm phổi không nặng.",
+    "NICE 2025 cân nhắc dùng 4 đến 7 ngày, ưu tiên hydrocortison tĩnh mạch.",
+    "Và Hội Hô hấp Việt Nam 2025 khuyên dùng sớm trong 24 giờ, xét nghiệm cúm và COVID trước, hydrocortison 200 mi li gam mỗi ngày hoặc methylprednisolon 0,5 mi li gam mỗi ký mỗi 12 giờ, đánh giá ngày 4 để giảm liều, tổng 8 đến 14 ngày."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "box",
+   "rail": "dt",
+   "chapter": "Áp dụng thực hành",
+   "title": "Áp dụng: ai được dùng corticoid?",
+   "ref": "ATS 2025, Bảng 1, pdf 59–60; pdf 42 · Dequin 2023 · kết luận chuyên đề",
+   "box": {
+    "tag": "KIỂU HÌNH CAPE COD",
+    "t": "CAP nặng do vi khuẩn · <b>suy hô hấp</b> (P/F &lt; 300) · <b>trong 24 giờ</b> · <b>CRP cao</b> · không cúm, không chống chỉ định ⇒ <b>hydrocortison 200 mg/ngày truyền liên tục</b>, đánh giá ngày 4, giảm dần, tổng 8 hoặc 14 ngày",
+    "at": 0,
+    "c": "teal",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "TRÁNH",
+     "t": "Cúm, Aspergillus, đái tháo đường không kiểm soát, xuất huyết tiêu hoá gần đây",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "KHÔNG DÙNG",
+     "t": "CAP không nặng không có chỉ định khác (COPD, hen, nghi Pneumocystis)",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "THEO DÕI",
+     "t": "Đường huyết, nhiễm trùng mới, xuất huyết tiêu hoá",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Vậy tại giường, ta nên làm gì? Kết luận thực hành của chuyên đề, bám theo ATS 2025, là dùng corticoid cho người bệnh có kiểu hình giống CAPE COD: viêm phổi nặng do vi khuẩn, có suy hô hấp với P/F dưới 300, bắt đầu trong 24 giờ sau khi đủ tiêu chí nặng, chỉ dấu viêm như CRP tăng cao, không có cúm và không có chống chỉ định.",
+    "Phác đồ là hydrocortison 200 mi li gam mỗi ngày truyền tĩnh mạch liên tục, đánh giá ở ngày 4: cải thiện nhanh thì giảm dần, tổng 8 ngày; chậm thì dùng đủ 7 ngày rồi giảm, tổng 14 ngày.",
+    "Tránh dùng khi viêm phổi do cúm, nhiễm Aspergillus, đái tháo đường không kiểm soát, xuất huyết tiêu hoá gần đây; người có thai cũng bị loại khỏi các thử nghiệm.",
+    "Không dùng corticoid cho viêm phổi không nặng, trừ khi có chỉ định khác như đợt cấp bệnh phổi tắc nghẽn mạn tính, hen hay nghi viêm phổi do Pneumocystis.",
+    "Khi dùng, theo dõi đường huyết vì tăng đường huyết là tác dụng phụ có bằng chứng vững nhất, kèm theo nhiễm trùng mới và xuất huyết tiêu hoá."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "media",
+   "rail": "dt",
+   "chapter": "Hỗ trợ hô hấp",
+   "title": "Oxy dòng cao qua mũi trước khi đặt nội khí quản",
+   "ref": "ERS 2023, câu hỏi 2 · NICE NG250, 1.9 · Hội Hô hấp VN 2025, tr. 51",
+   "panels": [
+    {
+     "src": "../../media/cap/raw/hfnc.png",
+     "ar": 0.563,
+     "credit": "Ảnh: BreathDriver · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 0.6,
+     "at": 0,
+     "cap": "Hệ thống oxy dòng cao"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ERS 2023",
+     "t": "Gợi ý oxy dòng cao thay oxy chuẩn khi chưa cần đặt NKQ ngay",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "NIV",
+     "t": "Có thể ở một số người giảm oxy máu kéo dài",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "NICE",
+     "t": "Thử oxy dòng cao khi oxy chuẩn không đạt đích; chọn nơi theo nguy cơ thất bại",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 760,
+   "lines": [
+    "Về hỗ trợ hô hấp, hướng dẫn châu Âu 2023 gợi ý dùng oxy dòng cao qua mũi thay oxy chuẩn cho người bệnh suy hô hấp giảm oxy máu chưa cần đặt nội khí quản ngay, và thông khí không xâm nhập có thể là lựa chọn ở một số người bệnh giảm oxy máu kéo dài.",
+    "Hội Hô hấp Việt Nam cũng khuyên dùng oxy dòng cao hoặc thông khí không xâm nhập nếu có điều kiện, nhằm tránh đặt nội khí quản.",
+    "NICE 2025 nhấn mạnh thêm: quyết định thử oxy dòng cao dựa trên đồng thuận đa chuyên khoa, và chọn nơi thực hiện theo nguy cơ thất bại, để không trì hoãn đặt nội khí quản khi cần."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "quiz",
+   "rail": "dt",
+   "chapter": "Tình huống",
+   "title": "Tình huống: ngừng kháng sinh ngày 3?",
+   "case": "Nữ 66 tuổi, viêm phổi thuỳ không nặng, ceftriaxon + azithromycin. <b>Ngày 3</b>: 37,3 °C, mạch 88, thở 20, SpO₂ 95% khí trời, HA 130/80, tỉnh, ăn được. Cấy máu âm tính, không biến chứng.",
+   "case_at": 0,
+   "q": "Quyết định nào phù hợp ATS 2025?",
+   "q_at": 1,
+   "options": [
+    "Tiếp tục đủ 7–10 ngày",
+    "Có thể ngừng kháng sinh (tối thiểu 3 ngày), dặn dấu hiệu tái phát",
+    "Chuyển levofloxacin 5 ngày",
+    "Thêm hydrocortison"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Đạt đủ 6 tiêu chí ổn định, không nặng, không biến chứng ⇒ < 5 ngày (tối thiểu 3) theo ATS 2025, câu hỏi 3",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Một tình huống để kết thúc. Nữ 66 tuổi, viêm phổi thuỳ không nặng, đang dùng ceftriaxon và azithromycin. Ngày thứ 3: nhiệt độ 37,3 độ, mạch 88, thở 20, SpO₂ 95 phần trăm khí trời, huyết áp 130 trên 80, tỉnh táo, ăn được. Cấy máu âm tính, không có biến chứng.",
+    "Quyết định nào phù hợp với ATS 2025?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh đạt đủ sáu tiêu chí ổn định, không nặng, không có biến chứng hay yếu tố làm yếu khuyến cáo, nên có thể ngừng kháng sinh khi đã đủ tối thiểu 3 ngày, kèm hướng dẫn rõ dấu hiệu tái phát. Thêm hydrocortison là sai, vì viêm phổi không nặng có khuyến cáo mạnh không dùng corticoid."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "summary",
+   "rail": "dt",
+   "chapter": "Tổng kết",
+   "title": "Phần 4 – điều cần nhớ",
+   "items": [
+    {
+     "t": "Ổn định lâm sàng: đủ 6 tiêu chí, đánh giá hằng ngày",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Không nặng, đã ổn định: < 5 ngày, tối thiểu 3 (ATS 2025)",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "CAP nặng: ≥ 5 ngày",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Corticoid: không cho CAP không nặng; CAP nặng – chọn lọc kiểu CAPE COD",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Tránh corticoid khi cúm; theo dõi đường huyết",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần bốn. Thời gian kháng sinh dựa trên ổn định lâm sàng với đủ sáu tiêu chí, đánh giá mỗi ngày.",
+    "Người bệnh không nặng đã ổn định có thể dùng dưới 5 ngày, tối thiểu 3 ngày, theo ATS 2025; người bệnh nặng cần từ 5 ngày trở lên.",
+    "Corticoid không dùng cho viêm phổi không nặng; với viêm phổi nặng, dùng có chọn lọc cho kiểu hình giống CAPE COD: suy hô hấp, dùng sớm, viêm cao.",
+    "Tránh corticoid khi viêm phổi do cúm và luôn theo dõi đường huyết. Ở phần năm, chúng ta sẽ đi qua một ca lâm sàng hồi sức trọn vẹn, áp dụng tất cả những điều đã học. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s13",
+   "dense": true
+  }
+ ]
+}

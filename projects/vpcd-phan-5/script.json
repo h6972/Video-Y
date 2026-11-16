@@ -1,0 +1,619 @@
+{
+ "title": "Viêm phổi mắc phải cộng đồng – Phần 5: Ca lâm sàng hồi sức và tổng kết",
+ "theme": "case",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Viêm phổi cộng đồng · Phần 5/5",
+ "source_short": "Nguồn: ATS 2025 · ATS/IDSA 2019 · ERS/ESICM 2023 · NICE NG250 · SCCM 2024 · Hội Hô hấp VN 2025",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ERS/ESICM/ESCMID/ALAT": "các hội hô hấp, hồi sức và vi sinh châu Âu, Mỹ La tinh",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SMART-COP": "smát cóp",
+  "REMAP-CAP": "ri máp cáp",
+  "CAP-START": "cáp sờ tát",
+  "MULTI-CAP": "mun ti cáp",
+  "ATS/IDSA": "ê tê ét và ai đi ét a",
+  "IDSA/ATS": "ai đi ét a và ê tê ét",
+  "CAPE COD": "kếp cót",
+  "CURB-65": "cớp sáu lăm",
+  "SMRT-CO": "smớt cô",
+  "CRB-65": "xê e bê sáu lăm",
+  "ProACT": "prô ắc",
+  "ESCAPe": "ét kếp",
+  "ACCESS": "ác xét",
+  "mmol/L": "mi li mol mỗi lít",
+  "SONIA": "sô ni a",
+  "IL-1β": "in tơ lơ kin một bê ta",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "SpO₂": "ét pê ô hai",
+  "PaO₂": "pê a ô hai",
+  "FiO₂": "ép i ô hai",
+  "MRSA": "tụ cầu vàng kháng methicillin",
+  "HCAP": "viêm phổi liên quan chăm sóc y tế",
+  "HFNC": "oxy dòng cao qua mũi",
+  "PEEP": "pi",
+  "SOFA": "sô pha",
+  "NICE": "nai",
+  "SCCM": "ét xê xê em",
+  "IL-8": "in tơ lơ kin tám",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mg/L": "mi li gam mỗi lít",
+  "PTC": "pê tê xê",
+  "NIV": "thông khí không xâm nhập",
+  "PSI": "pê ét i",
+  "PCR": "pê xê e",
+  "CRP": "xê e pê",
+  "ATS": "ê tê ét",
+  "ERS": "e e ét",
+  "CAP": "viêm phổi cộng đồng",
+  "ICU": "hồi sức",
+  "BUN": "bun"
+ },
+ "brand": {
+  "next": "Trọn loạt: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng hồi sức · Viêm phổi cộng đồng",
+   "title": "Khó thở, lú lẫn<br>và CRP 280",
+   "subtitle": "Phần 5 · Nữ 71 tuổi · khoa cấp cứu",
+   "badges": [
+    {
+     "t": "P/F 180",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "CRP 280",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "3 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "note": "Ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng",
+   "note_at": 2,
+   "monitor": {
+    "hr": 112,
+    "bp": "96/58"
+   },
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm, phần cuối của loạt bài viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.",
+    "Hôm nay chúng ta sẽ cùng xử trí một ca lâm sàng hồi sức từ lúc tiếp nhận đến khi ổn định, áp dụng tất cả những gì đã học về phân tầng, kháng sinh, corticoid và thời gian điều trị.",
+    "Đây là ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng. Ở mỗi điểm quyết định, quý vị hãy thử tự trả lời trước khi xem đáp án."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Vào viện",
+   "title": "Sinh hiệu lúc tiếp nhận",
+   "patient": {
+    "tag": "BỆNH NHÂN",
+    "t": "Nữ 71 tuổi, đái tháo đường týp 2 kiểm soát tốt",
+    "d": "Sốt, ho đàm, khó thở tăng dần 3 ngày; lú lẫn từ sáng",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Ran nổ hai đáy phổi",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Lú lẫn, mất định hướng mới",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "HR",
+     "v": "112",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "f": "↑",
+     "at": 0
+    },
+    {
+     "k": "HA",
+     "v": "96/58",
+     "u": "mmHg",
+     "c": "coral",
+     "f": "TT ≤ 60",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "SpO₂",
+     "v": "86",
+     "u": "%",
+     "c": "blue",
+     "wave": "pleth",
+     "f": "khí trời",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "NHỊP THỞ",
+     "v": "34",
+     "u": "l/ph",
+     "c": "amber",
+     "f": "≥ 30",
+     "at": 2,
+     "alarm": true
+    },
+    {
+     "k": "NHIỆT ĐỘ",
+     "v": "38,9",
+     "u": "°C",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Người bệnh nữ 71 tuổi, đái tháo đường týp 2 kiểm soát tốt. Ba ngày nay sốt, ho đàm, khó thở tăng dần. Từ sáng nay người nhà thấy bà lú lẫn.",
+    "Tại cấp cứu: mạch 112, huyết áp 96 trên 58, SpO₂ 86 phần trăm khi thở khí trời. Nghe phổi có ran nổ hai đáy.",
+    "Nhịp thở 34 lần mỗi phút, bà lú lẫn và mất định hướng.",
+    "Nhiệt độ 38,9 độ. Ngay trên màn hình này, quý vị đã có thể đếm được vài tiêu chí của CURB-65 và tiêu chuẩn viêm phổi nặng."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "labs",
+   "chapter": "Cận lâm sàng",
+   "title": "Xét nghiệm và hình ảnh ban đầu",
+   "groups": [
+    {
+     "g": "Khí máu (oxy 6 L/phút)",
+     "c": "teal",
+     "at": 0,
+     "rows": [
+      {
+       "k": "PaO₂/FiO₂",
+       "v": "180",
+       "r": "> 300",
+       "f": "L"
+      },
+      {
+       "k": "pH",
+       "v": "7,38",
+       "r": "7,35–7,45",
+       "f": "N"
+      },
+      {
+       "k": "Lactate",
+       "v": "2,4",
+       "r": "< 2 mmol/L",
+       "f": "H"
+      }
+     ]
+    },
+    {
+     "g": "Máu",
+     "c": "amber",
+     "at": 1,
+     "rows": [
+      {
+       "k": "Bạch cầu",
+       "v": "3,2",
+       "r": "4–10 G/L",
+       "f": "L"
+      },
+      {
+       "k": "Tiểu cầu",
+       "v": "165",
+       "r": "150–400 G/L",
+       "f": "N"
+      },
+      {
+       "k": "Urê",
+       "v": "11",
+       "r": "< 7 mmol/L",
+       "f": "H"
+      },
+      {
+       "k": "CRP",
+       "v": "280",
+       "r": "< 5 mg/L",
+       "f": "H"
+      }
+     ]
+    },
+    {
+     "g": "Hình ảnh, vi sinh",
+     "c": "coral",
+     "at": 2,
+     "note": "PCR cúm, SARS-CoV-2: âm tính",
+     "rows": [
+      {
+       "k": "X-quang",
+       "v": "2 thuỳ",
+       "r": "",
+       "f": "H"
+      },
+      {
+       "k": "Cấy máu, đàm",
+       "v": "đã lấy",
+       "r": "",
+       "f": "N"
+      }
+     ]
+    }
+   ],
+   "lines": [
+    "Khí máu khi thở oxy 6 lít mỗi phút cho PaO₂/FiO₂ bằng 180, lactate 2,4.",
+    "Bạch cầu chỉ 3,2 G/L, urê 11 mi li mol mỗi lít, tương đương BUN khoảng 31 mi li gam mỗi đề xi lít, và CRP rất cao, 280 mi li gam mỗi lít.",
+    "X-quang có tổn thương hai thuỳ. Cấy máu và cấy đàm đã lấy trước kháng sinh; PCR cúm và SARS-CoV-2 âm tính."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "media",
+   "chapter": "Siêu âm tại giường",
+   "title": "Siêu âm phổi tại giường",
+   "ref": "Clip minh hoạ thật: Tsung J và cs., CC BY 2.0 (không phải của người bệnh này)",
+   "panels": [
+    {
+     "seq": "../../media/cap/lus_sub/f_%03d.jpg",
+     "n": 88,
+     "fps": 15,
+     "ar": 1.073,
+     "credit": "Ảnh: Tsung J, Kessler D, Shah V · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Đông đặc dưới màng phổi"
+    },
+    {
+     "seq": "../../media/cap/lus_rml/f_%03d.jpg",
+     "n": 88,
+     "fps": 15,
+     "ar": 1.073,
+     "credit": "Ảnh: Tsung J, Kessler D, Shah V · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 1,
+     "cap": "Đông đặc có khí phế quản đồ"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "VAI TRÒ",
+     "t": "Xác nhận đông đặc, tìm tràn dịch màng phổi",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "PHÂN BIỆT",
+     "t": "Loại trừ phù phổi do tim – NICE 1.4.2",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Trong khi chờ X-quang, bác sĩ cấp cứu siêu âm phổi tại giường. Đây là clip minh hoạ thật, không phải của người bệnh này: hình ảnh đông đặc nhỏ dưới màng phổi.",
+    "Và một vùng đông đặc lớn hơn có khí phế quản đồ.",
+    "Siêu âm phổi tại giường giúp xác nhận đông đặc, tìm tràn dịch màng phổi, và loại trừ phù phổi do tim, đúng như NICE 2025 gợi ý cho người bệnh nặng hoặc đang xấu đi."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 1",
+   "title": "Phân tầng và nơi điều trị",
+   "step": "ĐIỂM QUYẾT ĐỊNH 1",
+   "q": "Mức độ nặng và nơi điều trị?",
+   "q_at": 0,
+   "context": "Lú lẫn, thở 34, P/F 180, tổn thương 2 thuỳ, BUN ≈ 31 mg/dL, bạch cầu 3,2 G/L, HA 96/58, 71 tuổi.",
+   "options": [
+    "CURB-65 = 3, điều trị khoa nội",
+    "CAP nặng (6 tiêu chuẩn phụ), CURB-65 = 5 – hồi sức",
+    "Chưa nặng vì chưa cần vận mạch",
+    "Ngoại trú, hẹn tái khám 48 giờ"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Tiêu chuẩn phụ: thở ≥ 30, P/F ≤ 250, nhiều thuỳ, lú lẫn, BUN ≥ 20, bạch cầu < 4000 ⇒ 6/9. CURB-65: C, U, R, B (tâm trương 58), 65 ⇒ 5 điểm.",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ nhất: người bệnh nặng đến đâu và điều trị ở đâu?",
+    "Hãy đếm cả tiêu chuẩn viêm phổi nặng lẫn CURB-65.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Bà có sáu tiêu chuẩn phụ: nhịp thở từ 30, PaO₂/FiO₂ không quá 250, tổn thương nhiều thuỳ, lú lẫn, BUN từ 20 và bạch cầu dưới 4 nghìn, vượt xa ngưỡng 3. CURB-65 là 5 điểm: lú lẫn, urê trên 7, thở từ 30, huyết áp tâm trương 58 không quá 60, và tuổi từ 65. Đây là viêm phổi nặng, cần hồi sức. Phương án C sai vì không cần có tiêu chuẩn chính mới gọi là nặng."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 2",
+   "title": "Kháng sinh kinh nghiệm",
+   "step": "ĐIỂM QUYẾT ĐỊNH 2",
+   "q": "Phác đồ kháng sinh ban đầu?",
+   "q_at": 0,
+   "context": "Không từng phân lập MRSA hay P. aeruginosa, không nằm viện hay dùng kháng sinh tiêm 90 ngày qua. Chức năng thận đủ, không dị ứng.",
+   "options": [
+    "Levofloxacin đơn trị",
+    "Ceftriaxon 2 g/ngày + azithromycin 500 mg/ngày",
+    "Vancomycin + piperacillin/tazobactam",
+    "Amoxicillin uống + azithromycin"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "CAP nặng không yếu tố nguy cơ kháng thuốc ⇒ β-lactam + macrolid (ATS/IDSA 2019; ERS 2023 ưu tiên macrolid, 3–5 ngày).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ hai: kháng sinh ban đầu. Bà chưa từng phân lập tụ cầu kháng methicillin hay trực khuẩn mủ xanh, không nằm viện hay dùng kháng sinh tiêm trong 90 ngày qua.",
+    "Phác đồ nào phù hợp?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B: ceftriaxon 2 gam mỗi ngày phối hợp azithromycin 500 mi li gam mỗi ngày. Viêm phổi nặng không dùng quinolon đơn trị; không có yếu tố nguy cơ nên không phủ tụ cầu kháng methicillin hay trực khuẩn mủ xanh; và kháng sinh uống không phù hợp với người bệnh hồi sức. Hướng dẫn châu Âu ưu tiên macrolid, dùng 3 đến 5 ngày."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 3",
+   "title": "Có dùng corticoid?",
+   "step": "ĐIỂM QUYẾT ĐỊNH 3",
+   "q": "Quyết định về corticoid lúc 12 giờ sau nhập viện?",
+   "q_at": 0,
+   "context": "Đang thở oxy dòng cao qua mũi, P/F 180, CRP 280, PCR cúm âm tính, không sốc, đường huyết kiểm soát được, không xuất huyết tiêu hoá.",
+   "options": [
+    "Không dùng – REMAP-CAP đã chứng minh vô ích",
+    "Hydrocortison 200 mg/ngày truyền liên tục, đánh giá ngày 4",
+    "Methylprednisolon 1 g/ngày × 3 ngày",
+    "Chỉ dùng khi xuất hiện sốc"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Kiểu hình CAPE COD: suy hô hấp, ≤ 24 giờ, CRP cao, không cúm ⇒ gợi ý dùng (ATS 2025, có điều kiện). Theo dõi đường huyết.",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ ba, khó nhất: có dùng corticoid hay không? Mười hai giờ sau nhập viện, bà thở oxy dòng cao qua mũi, P/F 180, CRP 280, PCR cúm âm tính, không sốc, đường huyết kiểm soát được.",
+    "Quyết định nào hợp lý?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh có đúng kiểu hình của thử nghiệm CAPE COD: viêm phổi nặng, suy hô hấp với P/F dưới 300, trong 24 giờ, CRP rất cao, không cúm và không chống chỉ định. ATS 2025 gợi ý dùng corticoid ở nhóm này. Phương án A chưa đúng, vì REMAP-CAP chỉ cho thấy hydrocortison cố định 7 ngày khó đem lại lợi ích lớn, không loại trừ lợi ích ở nhóm chọn lọc. Methylprednisolon liều xung không có bằng chứng; và chờ đến khi sốc là bỏ lỡ thời điểm. Khi dùng, cần theo dõi đường huyết chặt chẽ, nhất là ở người bệnh đái tháo đường."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "course",
+   "chapter": "Diễn tiến",
+   "title": "Diễn tiến tại hồi sức",
+   "events": [
+    {
+     "time": "Giờ 0–4",
+     "t": "Cấy máu, đàm · ceftriaxon + azithromycin",
+     "d": "Oxy dòng cao qua mũi, P/F 180",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "time": "Giờ 12",
+     "t": "Hydrocortison 200 mg/ngày truyền liên tục",
+     "d": "Insulin theo đường huyết mao mạch",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "time": "Ngày 3",
+     "t": "Cấy máu: phế cầu nhạy penicillin",
+     "d": "Ngừng azithromycin sau 3 ngày theo ERS 2023",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "time": "Ngày 4",
+     "t": "P/F 290, hết lú lẫn, CRP giảm",
+     "d": "Cải thiện nhanh ⇒ giảm dần hydrocortison, tổng 8 ngày",
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "time": "Ngày 6",
+     "t": "Đủ 6 tiêu chí ổn định",
+     "d": "Kháng sinh ≥ 5 ngày (CAP nặng) ⇒ ngừng, chuyển khoa",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Diễn tiến của người bệnh. Trong 4 giờ đầu: lấy bệnh phẩm, khởi động ceftriaxon và azithromycin, thở oxy dòng cao qua mũi.",
+    "Ở giờ thứ 12, bắt đầu hydrocortison 200 mi li gam mỗi ngày truyền liên tục, kèm insulin theo đường huyết mao mạch.",
+    "Ngày thứ 3, cấy máu mọc phế cầu nhạy penicillin. Azithromycin được ngừng sau 3 ngày, đúng gợi ý của hướng dẫn châu Âu.",
+    "Ngày thứ 4, P/F tăng lên 290, bà hết lú lẫn, CRP giảm. Cải thiện nhanh nên theo phác đồ CAPE COD, hydrocortison được giảm dần với tổng thời gian 8 ngày.",
+    "Ngày thứ 6, bà đạt đủ sáu tiêu chí ổn định lâm sàng. Với viêm phổi nặng, kháng sinh cần ít nhất 5 ngày, nên có thể ngừng và chuyển khoa."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Nếu không đáp ứng",
+   "title": "Nếu không đáp ứng sau 72 giờ?",
+   "ref": "Vẽ lại theo Hội Hô hấp VN 2025, Sơ đồ 5.1, tr. 60 · thất bại điều trị 10–15% (tr. 58)",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Không đáp ứng",
+     "d": "Sớm ≤ 72 giờ · muộn > 72 giờ",
+     "x": 888,
+     "y": 170,
+     "w": 460,
+     "h": 100,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Khám lại, điện tim, X-quang",
+     "d": "Làm lại vi sinh",
+     "x": 888,
+     "y": 330,
+     "w": 460,
+     "h": 100,
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Vi khuẩn kháng thuốc",
+     "d": "Sai tác nhân, đồng nhiễm",
+     "x": 230,
+     "y": 540,
+     "w": 330,
+     "h": 110,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Lao, nấm, cơ hội",
+     "d": "Tác nhân không phải vi khuẩn",
+     "x": 670,
+     "y": 540,
+     "w": 330,
+     "h": 110,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "Không nhiễm trùng",
+     "d": "Thuyên tắc phổi, ung thư, suy tim",
+     "x": 1110,
+     "y": 540,
+     "w": 330,
+     "h": 110,
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "id": "f",
+     "t": "Biến chứng",
+     "d": "Mủ màng phổi, áp xe, nhiễm khuẩn huyết",
+     "x": 1550,
+     "y": 540,
+     "w": 330,
+     "h": 110,
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "b",
+     "b": "d",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "a": "b",
+     "b": "e",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "a": "b",
+     "b": "f",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Không phải ca nào cũng thuận lợi như vậy. Theo Hội Hô hấp Việt Nam, thất bại điều trị chiếm khoảng 10 đến 15 phần trăm và có thể làm tử vong tăng tới 5 lần. Thất bại sớm là xấu đi trong 72 giờ đầu; thất bại muộn là sốt kéo dài hoặc tái phát, suy hô hấp hay tổn thương mới sau 72 giờ.",
+    "Bước đầu tiên là khám lại toàn diện, làm điện tim, chụp lại X-quang và làm lại xét nghiệm vi sinh.",
+    "Sau đó tìm nguyên nhân theo bốn nhóm. Thứ nhất là vi khuẩn kháng thuốc, dự đoán sai tác nhân hay đồng nhiễm. Thứ hai là tác nhân không phải vi khuẩn như lao, nấm, nhiễm trùng cơ hội.",
+    "Thứ ba là nguyên nhân không nhiễm trùng: thuyên tắc phổi, ung thư, suy tim. Thứ tư là biến chứng: tràn mủ màng phổi, áp xe phổi, nhiễm khuẩn huyết. Công cụ gồm chụp mạch phổi cắt lớp khi nghi thuyên tắc, siêu âm và chọc dịch màng phổi, chụp cắt lớp ngực và nội soi phế quản khi cần."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết loạt bài",
+   "title": "Bảy thông điệp của loạt bài",
+   "items": [
+    {
+     "t": "Chẩn đoán: lâm sàng + hình ảnh trong 4 giờ; siêu âm phổi là lựa chọn",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Phân tầng: CURB-65/PSI + tiêu chuẩn CAP nặng; SMART-COP cho nhu cầu hồi sức",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Việt Nam: không macrolid đơn trị; β-lactam là xương sống",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "CAP nặng: β-lactam + macrolid; MRSA/P. aeruginosa chỉ khi có nguy cơ",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Ngừng kháng sinh theo ổn định lâm sàng: ≥ 3 ngày (không nặng), ≥ 5 ngày (nặng)",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "Corticoid: chọn lọc kiểu CAPE COD; không dùng khi cúm, CAP không nặng",
+     "at": 5,
+     "c": "green"
+    },
+    {
+     "t": "Không đáp ứng 72 giờ: tìm 4 nhóm nguyên nhân",
+     "at": 6,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Để khép lại loạt bài, xin tóm tắt bảy thông điệp. Một: chẩn đoán viêm phổi cần lâm sàng cộng hình ảnh trong 4 giờ, và siêu âm phổi là lựa chọn thay thế ở nơi đủ chuyên môn.",
+    "Hai: phân tầng bằng CURB-65 hoặc PSI cùng tiêu chuẩn viêm phổi nặng, và SMART-COP khi cần dự báo nhu cầu hồi sức.",
+    "Ba: ở Việt Nam, không dùng macrolid đơn trị, β-lactam vẫn là xương sống.",
+    "Bốn: viêm phổi nặng dùng β-lactam phối hợp macrolid; chỉ phủ tụ cầu kháng methicillin và trực khuẩn mủ xanh khi có yếu tố nguy cơ đã xác nhận.",
+    "Năm: ngừng kháng sinh dựa trên ổn định lâm sàng, tối thiểu 3 ngày ở người không nặng và từ 5 ngày ở người nặng.",
+    "Sáu: corticoid dùng có chọn lọc cho kiểu hình giống CAPE COD, không dùng khi viêm phổi do cúm hay viêm phổi không nặng.",
+    "Và bảy: khi không đáp ứng sau 72 giờ, hãy tìm nguyên nhân theo bốn nhóm. Cảm ơn quý đồng nghiệp đã đồng hành cùng loạt bài. Trọn bộ chuyên đề có tại thuvienykhoa.online. Hẹn gặp lại quý vị trong những chuyên đề tiếp theo của Thư Viện Y Khoa Online."
+   ],
+   "id": "s10",
+   "dense": true
+  }
+ ]
+}

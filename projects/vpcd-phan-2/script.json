@@ -1,0 +1,740 @@
+{
+ "title": "Viêm phổi mắc phải cộng đồng – Phần 2: Chẩn đoán và phân tầng độ nặng",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Viêm phổi cộng đồng · Phần 2/5",
+ "source_short": "Nguồn: ATS 2025 · ATS/IDSA 2019 · ERS/ESICM 2023 · NICE NG250 · SCCM 2024 · Hội Hô hấp VN 2025",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ERS/ESICM/ESCMID/ALAT": "các hội hô hấp, hồi sức và vi sinh châu Âu, Mỹ La tinh",
+  "PaO₂/FiO₂": "pê a ô hai trên ép i ô hai",
+  "SMART-COP": "smát cóp",
+  "REMAP-CAP": "ri máp cáp",
+  "CAP-START": "cáp sờ tát",
+  "MULTI-CAP": "mun ti cáp",
+  "ATS/IDSA": "ê tê ét và ai đi ét a",
+  "IDSA/ATS": "ai đi ét a và ê tê ét",
+  "CAPE COD": "kếp cót",
+  "CURB-65": "cớp sáu lăm",
+  "SMRT-CO": "smớt cô",
+  "CRB-65": "xê e bê sáu lăm",
+  "ProACT": "prô ắc",
+  "ESCAPe": "ét kếp",
+  "ACCESS": "ác xét",
+  "mmol/L": "mi li mol mỗi lít",
+  "SONIA": "sô ni a",
+  "IL-1β": "in tơ lơ kin một bê ta",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "SpO₂": "ét pê ô hai",
+  "PaO₂": "pê a ô hai",
+  "FiO₂": "ép i ô hai",
+  "MRSA": "tụ cầu vàng kháng methicillin",
+  "HCAP": "viêm phổi liên quan chăm sóc y tế",
+  "HFNC": "oxy dòng cao qua mũi",
+  "PEEP": "pi",
+  "SOFA": "sô pha",
+  "NICE": "nai",
+  "SCCM": "ét xê xê em",
+  "IL-8": "in tơ lơ kin tám",
+  "mmHg": "mi li mét thuỷ ngân",
+  "mg/L": "mi li gam mỗi lít",
+  "PTC": "pê tê xê",
+  "NIV": "thông khí không xâm nhập",
+  "PSI": "pê ét i",
+  "PCR": "pê xê e",
+  "CRP": "xê e pê",
+  "ATS": "ê tê ét",
+  "ERS": "e e ét",
+  "CAP": "viêm phổi cộng đồng",
+  "ICU": "hồi sức",
+  "BUN": "bun"
+ },
+ "brand": {
+  "next": "Phần 3: Kháng sinh kinh nghiệm"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Bệnh sinh, vi sinh"
+  },
+  {
+   "k": "ls",
+   "t": "Lâm sàng"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán, phân tầng"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "tl",
+   "t": "Tiên lượng"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Viêm phổi cộng đồng",
+   "title": "Chẩn đoán và<br>phân tầng độ nặng",
+   "subtitle": "Phần 2 · Hình ảnh, vi sinh, thang điểm",
+   "badges": [
+    {
+     "t": "Siêu âm phổi",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "CURB-65 · PSI",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "CAP nặng",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · 5 phần",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần hai trong loạt bài viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.",
+    "Phần này trả lời ba câu hỏi: xác nhận viêm phổi bằng hình ảnh nào, cần xét nghiệm vi sinh gì cho ai, và làm sao phân tầng độ nặng để quyết định điều trị ngoại trú, nội trú hay hồi sức.",
+    "Chúng ta sẽ xem nhiều hình ảnh và clip siêu âm thật, và cùng tính điểm trên một ca minh hoạ."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "media",
+   "rail": "cd",
+   "chapter": "X-quang và CT",
+   "title": "Hình ảnh: bằng chứng của viêm phế nang",
+   "ref": "ATS 2025, pdf 9 · NICE NG250, 1.4.1 · ảnh thật, Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/cxr_lobar.jpg",
+     "ar": 1.257,
+     "credit": "Ảnh: Mikael Häggström · CC0 · Wikimedia Commons",
+     "flex": 1.15,
+     "at": 0,
+     "cap": "X-quang: đông đặc thuỳ giữa phải",
+     "marks": [
+      {
+       "type": "circle",
+       "x": 30,
+       "y": 57,
+       "r": 11,
+       "c": "coral",
+       "at": 0,
+       "t": "Đông đặc"
+      }
+     ]
+    },
+    {
+     "src": "../../media/cap/raw/legionella_ct.jpg",
+     "ar": 1.087,
+     "credit": "Ảnh: Grottola A và cs. (EID, CDC) · Public domain · Wikimedia Commons",
+     "flex": 1,
+     "at": 2,
+     "cap": "Viêm phổi nặng do Legionella"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "NICE",
+     "t": "Chẩn đoán, kể cả X-quang, trong 4 giờ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CT",
+     "t": "Khi X-quang không rõ, nghi biến chứng hoặc chẩn đoán khác",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Thâm nhiễm có thể tồn tại tới 6 tuần",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "notes_w": 400,
+   "lines": [
+    "Như đã nói ở phần một, chẩn đoán viêm phổi cần hình ảnh xác nhận tổn thương phế nang mới. X-quang ngực vẫn là công cụ đầu tay: đây là đông đặc thuỳ giữa phổi phải.",
+    "NICE 2025 đặt mục tiêu hệ thống: chẩn đoán, kể cả chụp X-quang, phải xong trong vòng 4 giờ sau khi người bệnh đến viện, để kịp khởi động kháng sinh.",
+    "Chụp cắt lớp vi tính hữu ích khi X-quang không rõ, khi nghi biến chứng hoặc chẩn đoán khác. Bên phải là hình ảnh của một người bệnh viêm phổi nặng do Legionella, được công bố trên tạp chí bệnh truyền nhiễm mới nổi của Trung tâm Kiểm soát Bệnh tật Hoa Kỳ.",
+    "Một lưu ý thực hành của Hội Hô hấp Việt Nam: hình ảnh thâm nhiễm có thể tồn tại tới 6 tuần, nên đừng đánh giá đáp ứng điều trị chỉ dựa vào X-quang."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "media",
+   "rail": "cd",
+   "chapter": "Siêu âm phổi",
+   "title": "Siêu âm phổi: đông đặc và khí ảnh động",
+   "ref": "ATS 2025, câu hỏi 1, pdf 4 · clip thật: Tsung J và cs., CC BY 2.0",
+   "panels": [
+    {
+     "seq": "../../media/cap/lus_rml/f_%03d.jpg",
+     "n": 88,
+     "fps": 15,
+     "ar": 1.073,
+     "credit": "Ảnh: Tsung J, Kessler D, Shah V · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Đông đặc có khí phế quản đồ",
+     "marks": [
+      {
+       "type": "label",
+       "x": 50,
+       "y": 18,
+       "t": "Màng phổi",
+       "c": "teal",
+       "at": 1
+      },
+      {
+       "type": "circle",
+       "x": 50,
+       "y": 52,
+       "r": 16,
+       "c": "coral",
+       "at": 2,
+       "t": "Mô phổi đặc lại"
+      }
+     ]
+    },
+    {
+     "seq": "../../media/sepsis/lus_consol/f_%03d.jpg",
+     "n": 150,
+     "fps": 12,
+     "ar": 1.2,
+     "credit": "Ảnh: Gillman L, Kirkpatrick A · CC BY 2.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 3,
+     "cap": "Đông đặc phổi – clip thứ hai"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐÔNG ĐẶC",
+     "t": "Phổi “hoá gan”: mô đặc, bờ sâu không đều",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "KHÍ PHẾ QUẢN ĐỒ",
+     "t": "Chấm sáng di động theo nhịp thở – phế quản còn thông",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "tag": "ATS 2025",
+     "t": "Thay thế X-quang nơi có chuyên môn (có điều kiện, chứng cứ thấp, 13/15)",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 420,
+   "lines": [
+    "Thay đổi đầu tiên của ATS 2025 liên quan đến siêu âm phổi. Đây là một clip siêu âm thật ở người bệnh viêm phổi thuỳ giữa phải.",
+    "Ở phía trên là đường màng phổi.",
+    "Bên dưới, thay vì các đường A của phổi chứa khí bình thường, ta thấy mô phổi đặc lại, có cấu trúc giống nhu mô gan, gọi là hình ảnh hoá gan.",
+    "Trong vùng đông đặc có những chấm sáng di động theo nhịp thở, đó là khí phế quản đồ động, gợi ý phế quản còn thông và hướng nhiều đến viêm phổi hơn là xẹp phổi. Clip thứ hai bên phải cũng là một vùng đông đặc phổi.",
+    "ATS 2025 gợi ý siêu âm phổi là lựa chọn thay thế chấp nhận được cho X-quang ngực ở những nơi có chuyên môn phù hợp. Đây là khuyến cáo có điều kiện, chứng cứ thấp, với 13 trên 15 thành viên đồng ý."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "cards",
+   "rail": "cd",
+   "chapter": "Chuyên môn siêu âm",
+   "title": "Siêu âm phổi: điều kiện để thay X-quang",
+   "ref": "ATS 2025, Bảng 4, pdf 61; Bảng 1, pdf 57 · NICE NG250, 1.4.2",
+   "cards": [
+    {
+     "tag": "THIẾT BỊ",
+     "t": "Đầu dò tần số thấp",
+     "items": [
+      "Xuyên sâu 14–16 cm",
+      "Máy xách tay hoặc máy xe đẩy"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "QUY TRÌNH",
+     "t": "Chuẩn hoá, có lưu trữ",
+     "items": [
+      "Trên – dưới; trước, bên, sau",
+      "Lưu clip 2–4 giây, báo cáo"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KHÔNG NÊN",
+     "t": "Khi nào vẫn cần X-quang/CT",
+     "items": [
+      "Nghi thuyên tắc phổi, ung thư",
+      "Béo phì, dẫn lưu, vết thương"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "h": 560,
+   "lines": [
+    "Nhưng thay X-quang bằng siêu âm đòi hỏi điều kiện. ATS 2025 liệt kê: đầu dò tần số thấp xuyên sâu 14 đến 16 xăng ti mét; người làm được đào tạo và đánh giá năng lực chính thức.",
+    "Quy trình phải chuẩn hoá, khảo sát phần trên và dưới của thành ngực trước, bên và sau; lưu clip 2 đến 4 giây, có báo cáo trong hồ sơ và kiểm định chất lượng định kỳ.",
+    "Và vẫn cần X-quang hoặc CT khi nghi chẩn đoán khác như thuyên tắc phổi hay ung thư, hoặc khi có trở ngại kỹ thuật như béo phì, ống dẫn lưu, vết thương. NICE 2025 cũng thừa nhận siêu âm phổi tại giường, đặc biệt ở người bệnh nặng hoặc đang xấu đi, khi cần phân biệt với suy tim, hoặc để khảo sát tràn dịch màng phổi."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "Vi sinh",
+   "title": "Xét nghiệm vi sinh: ai cần, cần gì?",
+   "ref": "ATS/IDSA 2019, câu hỏi 1–4 · ERS 2023, câu hỏi 1 · NICE NG250, 1.4.5–1.4.6",
+   "head": [
+    "Xét nghiệm",
+    "Ngoại trú",
+    "Nội trú không nặng",
+    "CAP nặng"
+   ],
+   "widths": "1.2fr 1fr 1.6fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Nhuộm Gram, cấy đàm</b>",
+      "Không",
+      "Khi phủ/từng nhiễm MRSA, <em>P. aeruginosa</em>; nằm viện + KS tiêm 90 ngày",
+      "<b>Có</b>, nhất là khi đặt NKQ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Cấy máu</b>",
+      "Không",
+      "Không thường quy, trừ như trên",
+      "<b>Có</b>"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Kháng nguyên niệu</b>",
+      "Không",
+      "<em>Legionella</em> khi có yếu tố dịch tễ",
+      "Phế cầu và <em>Legionella</em>"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Cúm</b>",
+      "Xét nghiệm phân tử nhanh khi cúm lưu hành (mạnh)",
+      "Như trên",
+      "Như trên"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>PCR đa mồi</b>",
+      "–",
+      "–",
+      "ERS 2023: khi dùng KS ngoài phác đồ chuẩn"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Về vi sinh, nguyên tắc là xét nghiệm càng nhiều khi bệnh càng nặng. Với nhuộm Gram và cấy đàm: không thường quy ở người ngoại trú; ở người nội trú không nặng chỉ khi đang hoặc từng nhiễm tụ cầu kháng methicillin hay trực khuẩn mủ xanh, hoặc mới nằm viện kèm kháng sinh tiêm; và luôn làm ở viêm phổi nặng, nhất là khi đã đặt nội khí quản.",
+    "Cấy máu tương tự: không làm ở người ngoại trú, không thường quy ở người nội trú không nặng, nhưng bắt buộc ở viêm phổi nặng.",
+    "Kháng nguyên niệu phế cầu và Legionella dành cho viêm phổi nặng; kháng nguyên Legionella còn làm khi có yếu tố dịch tễ như ổ dịch hay mới đi du lịch.",
+    "Khi cúm đang lưu hành, ATS và IDSA khuyến cáo mạnh xét nghiệm cúm bằng kỹ thuật phân tử nhanh, ưu tiên hơn test kháng nguyên.",
+    "Và hướng dẫn châu Âu gợi ý làm PCR đa mồi trên mẫu đường hô hấp dưới ở người bệnh nặng khi đang dùng hoặc cân nhắc kháng sinh ngoài phác đồ chuẩn."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "media",
+   "rail": "cd",
+   "chapter": "Bệnh phẩm",
+   "title": "Bệnh phẩm thật: chai cấy máu và đàm",
+   "ref": "Ảnh thật, Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/sepsis/raw/bc_bactec.jpg",
+     "ar": 0.75,
+     "credit": "Ảnh: Ajay Kumar Chaurasiya · CC0 · Wikimedia Commons",
+     "flex": 0.7,
+     "at": 0,
+     "cap": "Chai cấy máu dương tính: dịch đục"
+    },
+    {
+     "src": "../../media/sepsis/raw/bc_gpc.jpg",
+     "ar": 1.057,
+     "credit": "Ảnh: Spicy · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 1,
+     "cap": "Gram: cầu khuẩn Gram dương"
+    },
+    {
+     "src": "../../media/cap/raw/flu_em.jpg",
+     "ar": 0.942,
+     "credit": "Ảnh: Cynthia Goldsmith (CDC) · Public domain · Wikimedia Commons",
+     "flex": 0.95,
+     "at": 2,
+     "cap": "Virus cúm dưới kính hiển vi điện tử"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CẤY MÁU",
+     "t": "Lấy trước kháng sinh ở CAP nặng",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "GRAM",
+     "t": "Hướng dẫn chọn kháng sinh sớm",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CÚM",
+     "t": "PCR khi cúm lưu hành",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 340,
+   "lines": [
+    "Đây là những bệnh phẩm thật. Bên trái là chai cấy máu dương tính, dịch đục do vi khuẩn mọc.",
+    "Ở giữa là tiêu bản nhuộm Gram lấy từ chai cấy dương tính, với cầu khuẩn Gram dương, cho thông tin định hướng sớm trước khi có định danh và kháng sinh đồ.",
+    "Bên phải là hạt virus cúm dưới kính hiển vi điện tử. Xét nghiệm cúm quan trọng không chỉ để dùng thuốc kháng virus mà còn để quyết định corticoid, vì viêm phổi do cúm bị loại khỏi khuyến cáo corticoid."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "bars",
+   "rail": "cd",
+   "chapter": "Procalcitonin",
+   "title": "Procalcitonin không quyết định khởi động kháng sinh",
+   "ref": "ATS/IDSA 2019, câu hỏi 5 · ProACT, NEJM 2018 · MULTI-CAP, ICM 2025",
+   "groups": [
+    {
+     "t": "ProACT",
+     "d": "1656 người · số ngày kháng sinh",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Theo PCT",
+       "v": 4.2,
+       "lab": "4,2 ngày"
+      },
+      {
+       "k": "Thường quy",
+       "v": 4.3,
+       "lab": "4,3 ngày"
+      }
+     ]
+    },
+    {
+     "t": "MULTI-CAP · ICU",
+     "d": "Ngày sống không kháng sinh (ngày 28)",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "PCR + PCT",
+       "v": 19,
+       "lab": "19 ngày"
+      },
+      {
+       "k": "Thường quy",
+       "v": 19,
+       "lab": "19 ngày"
+      }
+     ]
+    }
+   ],
+   "max": 22,
+   "notes": [
+    {
+     "t": "ATS/IDSA: dùng kháng sinh bất kể procalcitonin (mạnh, trung bình)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "ERS 2023: PCT giúp <b>rút ngắn</b> kháng sinh ở CAP nặng",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "NICE: CRP/PCT ngày 3–4 nếu lo thất bại",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Còn procalcitonin? ATS và IDSA khuyến cáo mạnh: khởi động kháng sinh cho mọi viêm phổi đã có xác nhận lâm sàng và hình ảnh, bất kể nồng độ procalcitonin ban đầu.",
+    "Thử nghiệm ProACT trên 1656 người bệnh nghi nhiễm trùng hô hấp dưới tại cấp cứu cho thấy hướng dẫn bằng procalcitonin không làm giảm số ngày kháng sinh: 4,2 so với 4,3 ngày.",
+    "Gần đây, thử nghiệm MULTI-CAP ở hồi sức kết hợp PCR đa mồi với procalcitonin, cũng không làm tăng số ngày sống không kháng sinh: trung vị 19 ngày ở cả hai nhóm, dù tổng thời gian kháng sinh ngắn hơn khoảng 3 ngày.",
+    "Vai trò thực sự của procalcitonin nằm ở giai đoạn sau: hướng dẫn châu Âu gợi ý dùng để rút ngắn kháng sinh ở người bệnh nặng, NICE gợi ý đo CRP hoặc procalcitonin ngày 3 đến 4 khi lo thất bại điều trị, và Hội Hô hấp Việt Nam khuyên đo khi nhập viện, sau 48 đến 72 giờ và sau 5 đến 7 ngày."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "box",
+   "rail": "cd",
+   "chapter": "Tiêu chuẩn CAP nặng",
+   "title": "Tiêu chuẩn viêm phổi nặng IDSA/ATS 2007",
+   "ref": "IDSA/ATS 2007 · ATS/IDSA 2019, Bảng 1, câu hỏi 7 · ATS 2025, Bảng 2",
+   "box": {
+    "tag": "1 CHÍNH HOẶC ≥ 3 PHỤ",
+    "t": "<b>Chính:</b> sốc cần vận mạch · suy hô hấp cần thở máy<br><b>Phụ:</b> nhịp thở ≥ 30 · PaO₂/FiO₂ ≤ 250 · nhiều thuỳ · lú lẫn · BUN ≥ 20 mg/dL · bạch cầu &lt; 4000/µL · tiểu cầu &lt; 100 000/µL · nhiệt độ &lt; 36 °C · tụt huyết áp cần bù dịch tích cực",
+    "at": 0,
+    "c": "coral",
+    "size": 29
+   },
+   "notes": [
+    {
+     "tag": "ICU NGAY",
+     "t": "Có tiêu chuẩn chính (mạnh, chứng cứ thấp)",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "TIÊU CHUẨN PHỤ",
+     "t": "Kèm đánh giá lâm sàng để quyết định mức chăm sóc",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trước khi tính điểm, hãy nhớ định nghĩa viêm phổi nặng, vẫn dùng bộ tiêu chuẩn của IDSA và ATS năm 2007: có 1 tiêu chuẩn chính hoặc từ 3 tiêu chuẩn phụ trở lên.",
+    "Hai tiêu chuẩn chính là sốc nhiễm khuẩn cần thuốc vận mạch, và suy hô hấp cần thở máy. Chín tiêu chuẩn phụ gồm: nhịp thở từ 30, PaO₂/FiO₂ không quá 250, thâm nhiễm nhiều thuỳ, lú lẫn, BUN từ 20 mi li gam mỗi đề xi lít, bạch cầu dưới 4 nghìn, tiểu cầu dưới 100 nghìn, hạ thân nhiệt dưới 36 độ, và tụt huyết áp cần bù dịch tích cực.",
+    "Người bệnh có tiêu chuẩn chính được khuyến cáo nhập thẳng hồi sức.",
+    "Với người chưa có tiêu chuẩn chính, dùng các tiêu chuẩn phụ cùng đánh giá lâm sàng để quyết định có cần đơn vị chăm sóc mức cao hơn hay không. Hội Hô hấp Việt Nam dùng đúng bộ tiêu chuẩn này để chỉ định nhập khoa điều trị tích cực."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "gauge",
+   "rail": "cd",
+   "chapter": "Tính CURB-65",
+   "title": "Tính CURB-65: một ca minh hoạ",
+   "ref": "NICE NG250, Box 2 · Hội Hô hấp VN 2025, tr. 31 · ca minh hoạ",
+   "max": 5,
+   "chip_cols": 2,
+   "zones": [
+    {
+     "to": 1,
+     "t": "0–1 thấp",
+     "c": "green"
+    },
+    {
+     "to": 2,
+     "t": "2 trung bình",
+     "c": "amber"
+    },
+    {
+     "to": 5,
+     "t": "3–5 cao",
+     "c": "coral"
+    }
+   ],
+   "parts": [
+    {
+     "t": "C · lú lẫn mới",
+     "v": 1,
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "U · urê 9 mmol/L",
+     "v": 1,
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "R · thở 32 lần/phút",
+     "v": 1,
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "65 · tuổi 78",
+     "v": 1,
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "verdict": "CURB-65 = 4 · nguy cơ cao (> 15%) · nội trú, cân nhắc hồi sức",
+   "verdict_at": 5,
+   "lines": [
+    "Hãy cùng tính CURB-65. Mỗi yếu tố được 1 điểm: C là lú lẫn mới; U là urê trên 7 mi li mol mỗi lít; R là nhịp thở từ 30; B là huyết áp tâm thu dưới 90 hoặc tâm trương không quá 60; và 65 là tuổi từ 65.",
+    "Một cụ ông 78 tuổi, lơ mơ, mất định hướng mới xuất hiện: 1 điểm cho lú lẫn.",
+    "Urê 9 mi li mol mỗi lít, trên 7: thêm 1 điểm.",
+    "Thở 32 lần mỗi phút: thêm 1 điểm.",
+    "Huyết áp 118 trên 70, không đạt tiêu chí B. Tuổi 78: thêm 1 điểm.",
+    "Tổng cộng 4 điểm, nhóm nguy cơ cao. Theo NICE, nhóm 3 đến 5 điểm có nguy cơ tử vong trên 15 phần trăm, cần điều trị nội trú và cân nhắc chuyển hồi sức; Hội Hô hấp Việt Nam chỉ định hồi sức khi 4 đến 5 điểm."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "Ba thang điểm",
+   "title": "CURB-65, PSI, SMART-COP: dự báo điều gì?",
+   "ref": "NICE NG250 · Hội Hô hấp VN 2025, tr. 31–32 · ATS/IDSA 2019, câu hỏi 6 · Charles 2008, Bảng 5",
+   "head": [
+    "Thang",
+    "Dự báo",
+    "Ngưỡng và ý nghĩa",
+    "Ưu, nhược điểm"
+   ],
+   "widths": "0.8fr 1fr 2fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>CURB-65</b>",
+      "Tử vong 30 ngày",
+      "0–1: 1,5% · 2: 9,2% · 3–5: 22% (Hội Hô hấp VN)",
+      "Đơn giản; CRB-65 không cần urê"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>PSI</b>",
+      "Tử vong 30 ngày",
+      "≤ 70: &lt; 1% · 71–90: 2,8% · 91–130: 8,2–9,3% · &gt; 130: 27–31,3%",
+      "ATS/IDSA <b>ưu tiên</b> (mạnh); 20 biến, phức tạp"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>SMART-COP</b>",
+      "Cần hỗ trợ hô hấp/vận mạch",
+      "≥ 3 điểm: nhạy 92,3%, đặc hiệu 62,3%, AUC 0,87",
+      "Tốt nhất để dự báo nhu cầu hồi sức"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Ba thang điểm thường dùng trả lời những câu hỏi khác nhau. CURB-65 dự báo tử vong 30 ngày. Theo Hội Hô hấp Việt Nam, tử vong là 1,5 phần trăm ở nhóm 0 đến 1 điểm, 9,2 phần trăm ở nhóm 2 điểm và 22 phần trăm ở nhóm 3 đến 5 điểm. Phiên bản CRB-65 bỏ urê, dùng được ở tuyến cơ sở.",
+    "PSI cũng dự báo tử vong 30 ngày, với 20 biến số. Điểm từ 70 trở xuống thuộc nhóm một và hai, tử vong dưới 1 phần trăm; 71 đến 90 là nhóm ba, 2,8 phần trăm; 91 đến 130 là nhóm bốn, khoảng 8 đến 9 phần trăm; và trên 130 là nhóm năm, 27 đến 31 phần trăm.",
+    "ATS và IDSA khuyến cáo ưu tiên PSI, khuyến cáo mạnh, hơn CURB-65 để quyết định nhập viện, vì PSI xác định được nhiều người bệnh nguy cơ thấp hơn. Nhược điểm là phức tạp.",
+    "SMART-COP thì khác: nó không dự báo tử vong mà dự báo nhu cầu hỗ trợ hô hấp hoặc vận mạch tích cực. Huyết áp tâm thu dưới 90, oxy hoá kém và pH dưới 7,35 mỗi yếu tố 2 điểm; nhiều thuỳ, albumin thấp, thở nhanh, mạch từ 125 và lú lẫn mỗi yếu tố 1 điểm.",
+    "Từ 3 điểm, SMART-COP nhận diện 92 phần trăm người bệnh cần hỗ trợ tích cực, với diện tích dưới đường cong 0,87, tốt hơn PSI và CURB-65 cho mục đích này."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "quiz",
+   "rail": "cd",
+   "chapter": "Tình huống",
+   "title": "Tình huống: điều trị ở đâu?",
+   "case": "Nữ 62 tuổi. Thở 31 lần/phút, PaO₂/FiO₂ 230, thâm nhiễm hai thuỳ, tỉnh, HA 112/68, urê 6 mmol/L. Không cần vận mạch, chưa cần thở máy.",
+   "case_at": 0,
+   "q": "Nhận định nào đúng?",
+   "q_at": 1,
+   "options": [
+    "CURB-65 = 1 nên điều trị ngoại trú",
+    "CAP nặng: 3 tiêu chuẩn phụ – cân nhắc hồi sức hoặc đơn vị chăm sóc cao",
+    "Chưa phải CAP nặng vì không có tiêu chuẩn chính",
+    "Cần PSI trước khi quyết định bất cứ điều gì"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Nhịp thở ≥ 30 + P/F ≤ 250 + nhiều thuỳ = 3 tiêu chuẩn phụ ⇒ CAP nặng (ATS/IDSA 2019, câu hỏi 7), dù CURB-65 chỉ 1",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Một tình huống. Nữ 62 tuổi, thở 31 lần mỗi phút, PaO₂/FiO₂ 230, thâm nhiễm hai thuỳ, tỉnh, huyết áp 112 trên 68, urê 6. Không cần vận mạch, chưa cần thở máy.",
+    "Nhận định nào đúng?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. CURB-65 của người bệnh chỉ 1 điểm, cho nhịp thở; nhưng bà có ba tiêu chuẩn phụ: nhịp thở từ 30, PaO₂/FiO₂ không quá 250, và thâm nhiễm nhiều thuỳ. Đủ định nghĩa viêm phổi nặng, cần cân nhắc hồi sức hoặc đơn vị chăm sóc mức cao. Bài học: thang điểm tử vong có thể đánh giá thấp người bệnh trẻ có suy hô hấp; hãy luôn kiểm tra tiêu chuẩn viêm phổi nặng."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "summary",
+   "rail": "cd",
+   "chapter": "Tổng kết",
+   "title": "Phần 2 – điều cần nhớ",
+   "items": [
+    {
+     "t": "Hình ảnh trong 4 giờ; siêu âm phổi thay X-quang nơi đủ chuyên môn",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Vi sinh: càng nặng càng làm nhiều; CAP nặng cấy máu, đàm, kháng nguyên niệu",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Kháng sinh bất kể procalcitonin; PCT giúp rút ngắn về sau",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "CAP nặng: 1 chính hoặc ≥ 3 phụ",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "CURB-65, PSI dự báo tử vong; SMART-COP dự báo nhu cầu hồi sức",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần hai. Hình ảnh xác nhận viêm phổi trong 4 giờ; siêu âm phổi có thể thay X-quang ở nơi đủ chuyên môn.",
+    "Xét nghiệm vi sinh tăng dần theo độ nặng; viêm phổi nặng luôn cấy máu, cấy đàm và kháng nguyên niệu.",
+    "Khởi động kháng sinh bất kể procalcitonin; procalcitonin chỉ giúp rút ngắn kháng sinh về sau.",
+    "Viêm phổi nặng khi có 1 tiêu chuẩn chính hoặc từ 3 tiêu chuẩn phụ.",
+    "CURB-65 và PSI dự báo tử vong, còn SMART-COP dự báo nhu cầu hồi sức. Ở phần ba, chúng ta sẽ chọn kháng sinh kinh nghiệm cho từng nhóm người bệnh. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s12",
+   "dense": true
+  }
+ ]
+}
