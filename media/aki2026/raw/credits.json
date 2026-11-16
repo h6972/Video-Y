@@ -1,0 +1,66 @@
+{
+ "hydro_us.jpg": {
+  "title": "File:Ultrasonography of hydronephrosis with dilated anechoic pelvis and calyces, along with cortical atrophy.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ultrasonography_of_hydronephrosis_with_dilated_anechoic_pelvis_and_calyces,_along_with_cortical_atrophy.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Kristoffer Lindskov Hansen, Michael Bachmann Nielsen and Caroline Ewertsen",
+  "w": 1006,
+  "h": 741
+ },
+ "hydro_end.jpg": {
+  "title": "File:Ultrasonography of end-stage hydronephrosis with cortical thinning.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ultrasonography_of_end-stage_hydronephrosis_with_cortical_thinning.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Kristoffer Lindskov Hansen, Michael Bachmann Nielsen and Caroline Ewertsen",
+  "w": 919,
+  "h": 692
+ },
+ "us_postop_aki.jpg": {
+  "title": "File:Ultrasonography of postoperative renal failure.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ultrasonography_of_postoperative_renal_failure.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Kristoffer Lindskov Hansen, Michael Bachmann Nielsen and Caroline Ewertsen",
+  "w": 688,
+  "h": 573
+ },
+ "hd_machine.jpg": {
+  "title": "File:HCCH hemodialysis machine.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:HCCH_hemodialysis_machine.jpg",
+  "license": "Public domain",
+  "artist": "Jackhsiao",
+  "w": 1600,
+  "h": 1396
+ },
+ "hd_bbraun.jpg": {
+  "title": "File:Dialog-dialysis-machine-b-braun.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dialog-dialysis-machine-b-braun.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Jonas@sodratornet.se",
+  "w": 2750,
+  "h": 3819
+ },
+ "haemofilter.png": {
+  "title": "File:Haemofilter.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Haemofilter.png",
+  "license": "CC BY-SA 3.0",
+  "artist": "Jfdwolff",
+  "w": 368,
+  "h": 640
+ },
+ "nephron_cells.png": {
+  "title": "File:Kidney Nephron Cells.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Kidney_Nephron_Cells.png",
+  "license": "CC BY 3.0",
+  "artist": "Artwork by Holly Fischer",
+  "w": 857,
+  "h": 1125
+ },
+ "cdc_access.webm": {
+  "title": "File:Making Dialysis Safer for Patients- Optimal Vascular Access.webm",
+  "page": "https://commons.wikimedia.org/wiki/File:Making_Dialysis_Safer_for_Patients-_Optimal_Vascular_Access.webm",
+  "license": "Public domain",
+  "artist": "Centers for Disease Control and Prevention",
+  "w": 1280,
+  "h": 720
+ }
+}
