@@ -1,0 +1,475 @@
+1
+00:00:04,900 --> 00:00:06,062
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,912 --> 00:00:09,290
+chào mừng quý vị đến với phần bốn của loạt bài tổn thương thận cấp.
+
+3
+00:00:09,490 --> 00:00:11,304
+Nguyên tắc chung đã có ở phần ba;
+
+4
+00:00:11,154 --> 00:00:14,280
+nhưng mỗi bối cảnh có những điểm riêng làm thay đổi xử trí.
+
+5
+00:00:14,480 --> 00:00:18,419
+Hôm nay chúng ta đi qua năm tình huống: nhiễm khuẩn huyết, thuốc cản quang,
+
+6
+00:00:18,269 --> 00:00:21,350
+phẫu thuật tim, hội chứng gan thận và hội chứng ly giải u.
+
+7
+00:00:22,800 --> 00:00:26,038
+Với tổn thương thận cấp liên quan nhiễm khuẩn huyết,
+
+8
+00:00:25,888 --> 00:00:29,958
+ADQI 28 khuyến cáo xử trí huyết động như Surviving Sepsis, mức 2C;
+
+9
+00:00:29,808 --> 00:00:35,838
+quyết định truyền dịch dựa trên đánh giá đáp ứng dịch chứ không dựa vào áp lực tĩnh mạch trung tâm;
+
+10
+00:00:35,688 --> 00:00:38,630
+noradrenalin là thuốc vận mạch đầu tay, mức 1A.
+
+11
+00:00:38,830 --> 00:00:42,934
+Lượng dịch nhắm mục tiêu cụ thể; không dùng tinh bột, gelatin, dextran;
+
+12
+00:00:42,784 --> 00:00:44,660
+dùng lợi tiểu khi quá tải dịch.
+
+13
+00:00:44,860 --> 00:00:50,476
+Chỉ định lọc máu cấp cứu không khác các tổn thương thận cấp khác. KDIGO 2026 khuyến cáo
+
+14
+00:00:50,326 --> 00:00:54,057
+không dùng siêu lọc thể tích cao trong nhiễm khuẩn huyết,
+
+15
+00:00:53,907 --> 00:00:54,497
+mức 1B;
+
+16
+00:00:54,347 --> 00:01:00,340
+và cả ADQI lẫn hướng dẫn Trung Quốc 2026 đều chưa khuyên dùng thường quy các cột lọc hấp phụ.
+
+17
+00:01:01,790 --> 00:01:02,948
+Với thuốc cản quang,
+
+18
+00:01:02,798 --> 00:01:07,335
+bước đầu là đánh giá nguy cơ và sàng lọc suy thận sẵn có. Quyết định chụp phải cân nhắc
+
+19
+00:01:07,185 --> 00:01:08,444
+lợi ích của thủ thuật;
+
+20
+00:01:08,294 --> 00:01:11,620
+không nên bỏ một chẩn đoán cần thiết chỉ vì sợ tổn thương thận.
+
+21
+00:01:11,820 --> 00:01:14,716
+Dùng thuốc cản quang đẳng hoặc thấp áp lực thẩm thấu,
+
+22
+00:01:14,566 --> 00:01:16,530
+với liều thấp nhất đủ để chẩn đoán.
+
+23
+00:01:16,730 --> 00:01:21,796
+Ở người lớn nguy cơ cao và không quá tải dịch, KDIGO 2026 khuyến cáo, mức 1B,
+
+24
+00:01:21,646 --> 00:01:25,946
+mở rộng thể tích quanh thủ thuật bằng muối sinh lý 0,9 phần trăm,
+
+25
+00:01:25,796 --> 00:01:30,160
+thay vì dịch nhược trương, natri bicarbonat hay không truyền dịch.
+
+26
+00:01:30,360 --> 00:01:33,020
+Tạm ngừng lợi tiểu khi truyền dịch dự phòng;
+
+27
+00:01:32,870 --> 00:01:37,070
+nhưng không ngừng thường quy thuốc ức chế hệ renin angiotensin, mức 2C.
+
+28
+00:01:37,270 --> 00:01:38,970
+Và khi creatinin tăng sau chụp,
+
+29
+00:01:38,820 --> 00:01:41,820
+hãy nghĩ cả những nguyên nhân khác ngoài thuốc cản quang.
+
+30
+00:01:43,270 --> 00:01:48,704
+Thử nghiệm PRESERVE trên gần 5.000 người chụp mạch có suy thận đã trả lời dứt điểm hai
+
+31
+00:01:48,554 --> 00:01:52,144
+câu hỏi cũ. Natri bicarbonat không tốt hơn muối sinh lý:
+
+32
+00:01:51,994 --> 00:01:54,540
+kết cục chính 4,4 so với 4,7 phần trăm.
+
+33
+00:01:54,740 --> 00:01:58,010
+Tỷ số chênh 0,93, không có ý nghĩa thống kê.
+
+34
+00:01:58,210 --> 00:02:02,478
+Và N-acetylcystein uống, 1.200 mi li gam mỗi liều, tổng 10 liều,
+
+35
+00:02:02,328 --> 00:02:04,280
+cũng không tốt hơn giả dược.
+
+36
+00:02:04,480 --> 00:02:11,061
+Phác đồ của Hội Tiết niệu Thận học Việt Nam 2023 dùng muối sinh lý 1 đến 3 mi li lít mỗi ký mỗi giờ,
+
+37
+00:02:10,911 --> 00:02:13,698
+từ 1 giờ trước đến 3 đến 12 giờ sau tiêm;
+
+38
+00:02:13,548 --> 00:02:16,850
+tạm ngừng metformin khi mức lọc cầu thận dưới 30,
+
+39
+00:02:16,700 --> 00:02:21,030
+dùng lại sau ít nhất 48 giờ nếu creatinin tăng dưới 25 phần trăm.
+
+40
+00:02:22,480 --> 00:02:23,814
+Ở phẫu thuật tim,
+
+41
+00:02:23,664 --> 00:02:31,268
+có một can thiệp mới. Thử nghiệm PROTECTION trên 3.511 người mổ tim chương trình có tuần hoàn ngoài cơ thể:
+
+42
+00:02:31,118 --> 00:02:37,398
+truyền hỗn hợp acid amin cân bằng giảm tổn thương thận cấp từ 31,7 xuống 26,9 phần trăm,
+
+43
+00:02:37,248 --> 00:02:39,000
+nguy cơ tương đối 0,85.
+
+44
+00:02:39,200 --> 00:02:43,910
+Tỷ lệ lọc máu thấp và không khác biệt, 1,4 so với 1,9 phần trăm.
+
+45
+00:02:44,110 --> 00:02:47,922
+Liều trong thử nghiệm là 2 gam mỗi ký cân nặng lý tưởng mỗi ngày,
+
+46
+00:02:47,772 --> 00:02:52,205
+tối đa 100 gam mỗi ngày, truyền liên tục từ khi vào phòng mổ cho đến 72 giờ,
+
+47
+00:02:52,055 --> 00:02:54,740
+hoặc đến khi ra hồi sức, lọc máu hay tử vong.
+
+48
+00:02:54,940 --> 00:02:56,658
+KDIGO 2026 gợi ý, mức 2A,
+
+49
+00:02:56,508 --> 00:03:01,799
+có thể dùng acid amin tĩnh mạch dự phòng ở người lớn mổ tim không có bệnh thận mạn
+
+50
+00:03:01,649 --> 00:03:04,370
+nặng. Cùng với bó KDIGO dựa trên chỉ dấu,
+
+51
+00:03:04,220 --> 00:03:07,443
+đây là hai công cụ cho phẫu thuật tim. Xin lưu ý,
+
+52
+00:03:07,293 --> 00:03:12,835
+hướng dẫn Trung Quốc 2026 còn gợi ý lọc máu sớm khi tiến triển giai đoạn 2 sau mổ tim,
+
+53
+00:03:12,685 --> 00:03:15,030
+mức khuyến cáo yếu, khác với KDIGO.
+
+54
+00:03:16,480 --> 00:03:21,954
+Hội chứng gan thận có tiêu chuẩn mới từ đồng thuận ADQI và Câu lạc bộ Cổ trướng quốc tế
+
+55
+00:03:21,804 --> 00:03:24,586
+2024. Điều kiện đầu là xơ gan có cổ trướng,
+
+56
+00:03:24,436 --> 00:03:28,870
+kèm tiêu chuẩn tổn thương thận cấp theo creatinin hoặc theo nước tiểu.
+
+57
+00:03:29,070 --> 00:03:30,205
+Điều kiện thứ ba:
+
+58
+00:03:30,055 --> 00:03:35,131
+creatinin và hoặc nước tiểu không cải thiện trong 24 giờ sau hồi sức thể tích đầy đủ,
+
+59
+00:03:34,981 --> 00:03:36,580
+khi có chỉ định lâm sàng.
+
+60
+00:03:36,780 --> 00:03:40,930
+Và không có bằng chứng mạnh cho một nguyên nhân khác là nguyên nhân chính.
+
+61
+00:03:41,130 --> 00:03:44,933
+Đủ bốn điều kiện là hội chứng gan thận thể tổn thương thận cấp,
+
+62
+00:03:44,783 --> 00:03:49,397
+và cần điều trị ngay. Tiêu chuẩn này cũng chấp nhận có thể có tổn thương ống,
+
+63
+00:03:49,247 --> 00:03:51,600
+protein niệu hay bệnh thận mạn đi kèm.
+
+64
+00:03:51,800 --> 00:03:57,967
+Thay đổi lớn nhất: bỏ yêu cầu truyền albumin bắt buộc 48 giờ trước khi chẩn đoán,
+
+65
+00:03:57,817 --> 00:04:04,949
+khuyến cáo mạnh mức D. Các thuật ngữ hội chứng gan thận típ 1 và típ 2 được thay bằng HRS-AKI,
+
+66
+00:04:04,799 --> 00:04:06,360
+HRS-AKD và HRS-CKD.
+
+67
+00:04:07,810 --> 00:04:12,324
+Bằng chứng then chốt cho terlipressin là thử nghiệm CONFIRM trên 300 người:
+
+68
+00:04:12,174 --> 00:04:18,200
+tỷ lệ đảo ngược hội chứng gan thận được xác nhận là 32 phần trăm so với 17 phần trăm ở nhóm giả dược.
+
+69
+00:04:18,400 --> 00:04:20,143
+Nhưng cái giá là suy hô hấp:
+
+70
+00:04:19,993 --> 00:04:23,670
+biến cố nặng suy hô hấp gặp ở 10 phần trăm so với 3 phần trăm.
+
+71
+00:04:23,870 --> 00:04:28,865
+Và tử vong do rối loạn hô hấp trong 90 ngày là 11 so với 2 phần trăm. Vì vậy phải đánh
+
+72
+00:04:28,715 --> 00:04:32,809
+giá thể tích và tình trạng oxy trước và trong suốt quá trình điều trị,
+
+73
+00:04:32,659 --> 00:04:36,020
+chỉnh albumin hằng ngày và ngừng ngay khi có dấu quá tải.
+
+74
+00:04:37,470 --> 00:04:43,286
+KDIGO 2026 khuyến cáo dùng thuốc co mạch cho hội chứng gan thận thể tổn thương thận cấp,
+
+75
+00:04:43,136 --> 00:04:48,308
+mức 1C, phối hợp albumin ngay khi chẩn đoán. Terlipressin là lựa chọn đầu tay:
+
+76
+00:04:48,158 --> 00:04:50,110
+bolus 1 mi li gam mỗi 6 giờ,
+
+77
+00:04:49,960 --> 00:04:54,617
+tăng lên 2 mi li gam nếu creatinin không giảm 25 phần trăm sau 24 giờ,
+
+78
+00:04:54,467 --> 00:05:00,218
+hoặc truyền liên tục 2 đến 12 mi li gam mỗi ngày. Lưu ý lọ 0,85 mi li gam theo nhãn Bắc
+
+79
+00:05:00,068 --> 00:05:03,244
+Mỹ tương đương 1 mi li gam terlipressin acetat;
+
+80
+00:05:03,094 --> 00:05:04,210
+tối đa 14 ngày.
+
+81
+00:05:04,410 --> 00:05:08,861
+Noradrenalin là lựa chọn thay thế ở hồi sức: 0,5 đến 3 mi li gam mỗi giờ,
+
+82
+00:05:08,711 --> 00:05:12,160
+tăng mỗi 4 giờ nếu huyết áp trung bình không tăng từ 10.
+
+83
+00:05:12,360 --> 00:05:14,377
+Khi không có hai thuốc trên:
+
+84
+00:05:14,227 --> 00:05:21,310
+midodrin uống 7,5 đến 15 mi li gam mỗi 8 giờ cùng octreotid 100 đến 200 microgam tiêm dưới da mỗi 8 giờ.
+
+85
+00:05:21,510 --> 00:05:24,882
+Albumin 20 đến 25 phần trăm, 20 đến 40 gam mỗi ngày,
+
+86
+00:05:24,732 --> 00:05:29,900
+chỉnh theo thể tích và ngừng khi phù phổi. Xin kiểm tra theo chế phẩm tại đơn vị.
+
+87
+00:05:31,350 --> 00:05:32,910
+Với hội chứng ly giải u,
+
+88
+00:05:32,760 --> 00:05:36,671
+KDIGO 2026 khuyên mở rộng thể tích bằng dịch tinh thể tĩnh mạch,
+
+89
+00:05:36,521 --> 00:05:38,140
+không kiềm hoá nước tiểu.
+
+90
+00:05:38,340 --> 00:05:41,079
+Ở người có hoặc nguy cơ cao ly giải u,
+
+91
+00:05:40,929 --> 00:05:45,302
+khuyến cáo rasburicase hơn allopurinol hay febuxostat, mức 1B,
+
+92
+00:05:45,152 --> 00:05:49,661
+trừ khi thiếu men G6PD. Nguy cơ thấp, hoặc không có rasburicase,
+
+93
+00:05:49,511 --> 00:05:52,250
+thì dùng thuốc ức chế xanthin oxidase.
+
+94
+00:05:52,450 --> 00:05:54,535
+Và tiêu cơ vân: CK, myoglobin tăng,
+
+95
+00:05:54,385 --> 00:05:59,400
+que nhúng dương tính với máu nhưng cặn không có hồng cầu; điều trị chính là truyền dịch.
+
+96
+00:06:00,850 --> 00:06:04,852
+Tình huống. Một phụ nữ 55 tuổi, xơ gan do rượu, cổ trướng nhiều,
+
+97
+00:06:04,702 --> 00:06:10,871
+nhập viện vì viêm phúc mạc tiên phát. Creatinin ổn định thấp nhất trong 3 tháng là 0,8. Ngày thứ ba,
+
+98
+00:06:10,721 --> 00:06:15,505
+creatinin 2,1, dù đã hồi sức thể tích đủ 24 giờ và ngừng lợi tiểu; không sốc,
+
+99
+00:06:15,355 --> 00:06:17,070
+không dùng thuốc độc thận.
+
+100
+00:06:17,270 --> 00:06:18,860
+Bước tiếp theo là gì?
+
+101
+00:06:19,060 --> 00:06:21,930
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+102
+00:06:30,530 --> 00:06:35,697
+Đáp án là chẩn đoán hội chứng gan thận thể tổn thương thận cấp và bắt đầu terlipressin
+
+103
+00:06:35,547 --> 00:06:38,613
+cùng albumin ngay. Người bệnh có xơ gan cổ trướng,
+
+104
+00:06:38,463 --> 00:06:43,280
+đạt tiêu chuẩn tổn thương thận cấp, không cải thiện sau 24 giờ hồi sức thể tích,
+
+105
+00:06:43,130 --> 00:06:46,605
+và không có nguyên nhân chính khác. Theo tiêu chuẩn 2024,
+
+106
+00:06:46,455 --> 00:06:51,097
+không cần chờ thêm 48 giờ truyền albumin. Và luôn theo dõi sát thể tích, oxy,
+
+107
+00:06:50,947 --> 00:06:52,380
+vì nguy cơ suy hô hấp.
+
+108
+00:06:53,830 --> 00:06:57,439
+Tóm lại phần bốn. Tổn thương thận cấp liên quan nhiễm khuẩn huyết:
+
+109
+00:06:57,289 --> 00:07:01,632
+huyết động theo Surviving Sepsis, noradrenalin đầu tay, không dịch keo tổng hợp,
+
+110
+00:07:01,482 --> 00:07:03,100
+không siêu lọc thể tích cao.
+
+111
+00:07:03,300 --> 00:07:07,221
+Thuốc cản quang: muối sinh lý quanh thủ thuật ở người nguy cơ cao;
+
+112
+00:07:07,071 --> 00:07:09,850
+bicarbonate và N-acetylcystein không hiệu quả.
+
+113
+00:07:10,050 --> 00:07:13,560
+Mổ tim: acid amin tĩnh mạch và bó bảo vệ thận.
+
+114
+00:07:13,760 --> 00:07:18,963
+Hội chứng gan thận: không chờ albumin 48 giờ, điều trị terlipressin cùng albumin ngay,
+
+115
+00:07:18,813 --> 00:07:20,550
+nhưng coi chừng suy hô hấp.
+
+116
+00:07:20,750 --> 00:07:24,572
+Ly giải u: rasburicase và không kiềm hoá nước tiểu. Phần năm, phần cuối,
+
+117
+00:07:24,422 --> 00:07:28,855
+sẽ bàn về liệu pháp thay thế thận: khi nào bắt đầu, phương thức nào, liều bao nhiêu,
+
+118
+00:07:28,705 --> 00:07:29,824
+chống đông thế nào,
+
+119
+00:07:29,674 --> 00:07:33,700
+và khi nào ngừng. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

@@ -1,0 +1,80 @@
+[
+ {
+  "out": "thumbs/aki2026-phan-1.png",
+  "hook": "AKI · AKD<br>2026",
+  "line2": "Định nghĩa mới",
+  "chips": [
+   "AKI → AKD → CKD",
+   "C – U – B"
+  ],
+  "badge": "PHẦN 1/5",
+  "tag": "KDIGO 2026 (dự thảo)",
+  "img": null,
+  "c": "coral"
+ },
+ {
+  "out": "thumbs/aki2026-phan-2.png",
+  "hook": "CREATININ<br>CHẬM 48 GIỜ",
+  "line2": "Chỉ dấu · test furosemide",
+  "chips": [
+   "TIMP-2·IGFBP7",
+   "<200 mL/2 giờ"
+  ],
+  "badge": "PHẦN 2/5",
+  "tag": "ADQI 28 · Sapphire",
+  "img": "media/aki2026/raw/hydro_us.jpg",
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/aki2026-phan-3.png",
+  "hook": "pH 7,15:<br>LỌC NGAY?",
+  "line2": "Dịch · bicarbonate",
+  "chips": [
+   "Dịch có đệm",
+   "BICARICU-2"
+  ],
+  "badge": "PHẦN 3/5",
+  "tag": "KDIGO 2026 · SMART · 6S",
+  "img": null,
+  "c": "amber"
+ },
+ {
+  "out": "thumbs/aki2026-phan-4.png",
+  "hook": "TÌNH HUỐNG<br>ĐẶC THÙ",
+  "line2": "Sepsis · cản quang · HRS",
+  "chips": [
+   "Acid amin mổ tim",
+   "Terlipressin"
+  ],
+  "badge": "PHẦN 4/5",
+  "tag": "ADQI/ICA 2024 · PROTECTION",
+  "img": null,
+  "c": "violet"
+ },
+ {
+  "out": "thumbs/aki2026-phan-5.png",
+  "hook": "LỌC MÁU<br>Ở HỒI SỨC",
+  "line2": "Khi nào · cách nào",
+  "chips": [
+   "ICRAKI 2026",
+   "Citrate vùng"
+  ],
+  "badge": "PHẦN 5/5",
+  "tag": "STARRT-AKI · RENAL · RICH",
+  "img": "media/aki2026/raw/haemofilter.png",
+  "c": "coral"
+ },
+ {
+  "out": "thumbs/aki2026-ca.png",
+  "hook": "NƯỚC TIỂU<br>CẠN DẦN",
+  "line2": "Ca lâm sàng",
+  "chips": [
+   "Bicarbonate?",
+   "CRRT citrate"
+  ],
+  "badge": "CA LÂM SÀNG",
+  "tag": "Tổn thương thận cấp",
+  "img": null,
+  "c": "teal"
+ }
+]

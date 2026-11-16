@@ -1,0 +1,655 @@
+1
+00:00:04,900 --> 00:00:07,765
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm,
+
+2
+00:00:07,615 --> 00:00:09,850
+phần cuối của loạt bài tổn thương thận cấp.
+
+3
+00:00:10,050 --> 00:00:15,048
+Liệu pháp thay thế thận là nơi bằng chứng thay đổi nhiều nhất trong mười năm qua,
+
+4
+00:00:14,898 --> 00:00:18,280
+và có cả một thử nghiệm mới công bố tháng 10 năm 2026.
+
+5
+00:00:18,480 --> 00:00:22,865
+Chúng ta sẽ trả lời lần lượt: khi nào bắt đầu, chọn phương thức nào, liều bao nhiêu,
+
+6
+00:00:22,715 --> 00:00:25,990
+chống đông thế nào, khi nào ngừng, và theo dõi gì sau ra viện.
+
+7
+00:00:27,440 --> 00:00:31,667
+Bắt đầu với câu hỏi: khi nào không được chờ? Khi người bệnh có quá tải dịch,
+
+8
+00:00:31,517 --> 00:00:32,686
+rối loạn điện giải,
+
+9
+00:00:32,536 --> 00:00:36,387
+kiềm toan hay biến chứng chuyển hoá như urê huyết kháng trị nội khoa,
+
+10
+00:00:36,237 --> 00:00:41,858
+khởi động lọc máu nếu phù hợp với mong muốn và mục tiêu chăm sóc. Hướng dẫn Trung Quốc 2026 nhấn mạnh:
+
+11
+00:00:41,708 --> 00:00:45,130
+các chỉ định đe dọa tính mạng này phải lọc càng sớm càng tốt.
+
+12
+00:00:45,330 --> 00:00:49,094
+Có những tình huống riêng: bệnh não gan từ độ 2 trong suy gan cấp,
+
+13
+00:00:48,944 --> 00:00:51,777
+có thể cân nhắc lọc máu liên tục để giảm amoniac;
+
+14
+00:00:51,627 --> 00:00:55,720
+hoặc lọc máu thử có thời hạn khi urê huyết làm nhiễu đánh giá thần kinh.
+
+15
+00:00:55,920 --> 00:00:59,426
+Và với người có khả năng cao cần lọc máu, hãy lên kế hoạch trước,
+
+16
+00:00:59,276 --> 00:01:03,350
+kể cả chuyển đến trung tâm có lọc máu, đừng đợi đến khi có chỉ định cấp cứu.
+
+17
+00:01:04,800 --> 00:01:10,771
+Về thời điểm, năm thử nghiệm ngẫu nhiên tạo nên bức tranh. ELAIN 2016, một trung tâm,
+
+18
+00:01:10,621 --> 00:01:14,127
+chủ yếu sau phẫu thuật, giai đoạn 2 có NGAL tăng:
+
+19
+00:01:13,977 --> 00:01:18,510
+khởi động sớm giảm tử vong 90 ngày từ 54,7 xuống 39,3 phần trăm.
+
+20
+00:01:18,710 --> 00:01:23,580
+Nhưng AKIKI và IDEAL-ICU, ở người bệnh nặng hơn, không thấy khác biệt tử vong.
+
+21
+00:01:23,780 --> 00:01:30,730
+STARRT-AKI, thử nghiệm lớn nhất với 2.927 người ở 15 nước, cũng không thấy khác biệt:
+
+22
+00:01:30,580 --> 00:01:32,890
+43,9 so với 43,7 phần trăm.
+
+23
+00:01:33,090 --> 00:01:35,179
+Và AKIKI2 đặt câu hỏi ngược lại:
+
+24
+00:01:35,029 --> 00:01:38,692
+khi người bệnh đã thiểu niệu hơn 72 giờ hoặc BUN trên 112,
+
+25
+00:01:38,542 --> 00:01:41,600
+chờ thêm có an toàn không? Câu trả lời là không:
+
+26
+00:01:41,450 --> 00:01:45,720
+nhánh trì hoãn hơn có tỷ số nguy cơ tử vong 60 ngày hiệu chỉnh 1,65.
+
+27
+00:01:47,170 --> 00:01:51,433
+Không chỉ không có lợi, khởi động sớm còn có hại. Trong STARRT-AKI,
+
+28
+00:01:51,283 --> 00:01:52,968
+ở người sống đến ngày 90,
+
+29
+00:01:52,818 --> 00:01:58,308
+lệ thuộc lọc máu là 10,4 phần trăm ở nhánh sớm so với 6,0 phần trăm ở nhánh tiêu chuẩn,
+
+30
+00:01:58,158 --> 00:01:59,720
+nguy cơ tương đối 1,74.
+
+31
+00:01:59,920 --> 00:02:03,872
+Biến cố bất lợi cũng nhiều hơn, 23,0 so với 16,5 phần trăm,
+
+32
+00:02:03,722 --> 00:02:07,030
+gồm hạ huyết áp và hạ phosphat liên quan lọc máu.
+
+33
+00:02:07,230 --> 00:02:12,599
+Và chiến lược chờ có theo dõi giúp nhiều người tránh được lọc máu: trong STARRT-AKI,
+
+34
+00:02:12,449 --> 00:02:16,202
+chỉ 61,8 phần trăm nhánh tiêu chuẩn phải lọc; trong AKIKI,
+
+35
+00:02:16,052 --> 00:02:19,060
+49 phần trăm nhánh trì hoãn không cần lọc máu.
+
+36
+00:02:20,510 --> 00:02:25,020
+Từ đó KDIGO 2026 khuyến cáo, mức 1C: ở người lớn bị tổn thương thận cấp,
+
+37
+00:02:24,870 --> 00:02:30,530
+ưu tiên chiến lược trì hoãn hơn khởi động sớm. Trì hoãn ở đây nghĩa là chờ có theo dõi sát,
+
+38
+00:02:30,380 --> 00:02:31,620
+không phải bỏ mặc.
+
+39
+00:02:31,820 --> 00:02:36,044
+Ngưỡng cụ thể có thể tham khảo từ STARRT-AKI: kali từ 6,0,
+
+40
+00:02:35,894 --> 00:02:39,767
+pH từ 7,20 trở xuống hoặc bicarbonat từ 12 trở xuống,
+
+41
+00:02:39,617 --> 00:02:43,350
+tỷ số pê trên ép từ 200 trở xuống kèm quá tải dịch,
+
+42
+00:02:43,200 --> 00:02:46,370
+hoặc tổn thương thận cấp kéo dài từ 72 giờ.
+
+43
+00:02:46,570 --> 00:02:51,765
+Nhưng AKIKI2 nhắc ta giới hạn: khi đã thiểu niệu hơn 72 giờ hoặc BUN trên 112,
+
+44
+00:02:51,615 --> 00:02:52,800
+chờ thêm có hại.
+
+45
+00:02:53,000 --> 00:02:58,750
+Hướng dẫn Trung Quốc 2026 cũng không khuyến cáo khởi động thường quy ở giai đoạn 1 đến 2.
+
+46
+00:03:00,200 --> 00:03:05,550
+Về phương thức, hai lựa chọn chính ở hồi sức là lọc máu liên tục, chạy chậm suốt 24 giờ,
+
+47
+00:03:05,750 --> 00:03:08,606
+và chạy thận ngắt quãng, nhanh hơn, vài giờ mỗi buổi,
+
+48
+00:03:08,456 --> 00:03:10,700
+với dịch chuyển dịch và chất tan lớn hơn.
+
+49
+00:03:10,900 --> 00:03:13,572
+Giữa hai cách là lọc máu ngắt quãng kéo dài,
+
+50
+00:03:13,422 --> 00:03:19,305
+mà KDIGO 2026 coi là lựa chọn ban đầu chấp nhận được cho người huyết động không ổn định. Câu hỏi là:
+
+51
+00:03:19,155 --> 00:03:21,770
+với người bệnh nặng, bắt đầu bằng cách nào?
+
+52
+00:03:23,220 --> 00:03:27,615
+Thử nghiệm ICRAKI, công bố trên New England tháng 10 năm 2026,
+
+53
+00:03:27,465 --> 00:03:31,518
+trả lời câu hỏi đó. 535 người bệnh ở 38 hồi sức tại Pháp,
+
+54
+00:03:31,368 --> 00:03:36,037
+có chỉ định lọc máu và đang hoặc đã thở máy hay dùng catecholamin,
+
+55
+00:03:35,887 --> 00:03:40,556
+được chia bắt đầu bằng chạy thận ngắt quãng hoặc lọc máu liên tục,
+
+56
+00:03:40,406 --> 00:03:46,444
+giữ phương thức ít nhất từ ngày 0 đến ngày 3. Tử vong ngày 90 là 63,1 phần trăm ở nhóm
+
+57
+00:03:46,294 --> 00:03:49,799
+ngắt quãng so với 53,5 phần trăm ở nhóm liên tục,
+
+58
+00:03:49,649 --> 00:03:52,880
+tỷ số nguy cơ 1,30; thử nghiệm phải dừng sớm.
+
+59
+00:03:53,080 --> 00:03:58,877
+Chạy thận ngắt quãng cũng không chứng minh được là không kém về biến cố thận lớn ngày 90:
+
+60
+00:03:58,727 --> 00:04:00,590
+78,1 so với 71,6 phần trăm.
+
+61
+00:04:00,790 --> 00:04:04,141
+Lưu ý thiết kế: đây là câu hỏi về phương thức ban đầu;
+
+62
+00:04:03,991 --> 00:04:07,401
+tỷ lệ chuyển phương thức là 21,9 so với 42,5 phần trăm,
+
+63
+00:04:07,251 --> 00:04:10,780
+và nguyên nhân khác biệt tử vong chưa được giải thích rõ.
+
+64
+00:04:12,230 --> 00:04:13,934
+KDIGO 2026 gợi ý, mức 2C:
+
+65
+00:04:13,784 --> 00:04:19,094
+người lớn nặng có huyết động không ổn định nên dùng lọc máu liên tục hoặc thẩm phân
+
+66
+00:04:18,944 --> 00:04:24,565
+phúc mạc cấp thay vì chạy thận ngắt quãng thông thường. Bản dự thảo này ra trước ICRAKI;
+
+67
+00:04:24,415 --> 00:04:26,990
+kết quả ICRAKI củng cố thêm khuyến cáo.
+
+68
+00:04:27,190 --> 00:04:32,439
+Lọc máu liên tục cũng được ưu tiên ở người tổn thương não cấp hoặc có nguy cơ tăng áp lực nội sọ,
+
+69
+00:04:32,289 --> 00:04:32,860
+phù não.
+
+70
+00:04:33,060 --> 00:04:36,892
+Khi người bệnh đã ổn định, có thể chuyển sang chạy thận ngắt quãng;
+
+71
+00:04:36,742 --> 00:04:39,530
+nhưng thời điểm chuyển tối ưu vẫn là câu hỏi mở.
+
+72
+00:04:40,980 --> 00:04:46,381
+Về liều, hai thử nghiệm lớn cho cùng kết luận. ATN so sánh chiến lược tích cực,
+
+73
+00:04:46,231 --> 00:04:52,164
+lọc liên tục 35 mi li lít mỗi ký mỗi giờ, với ít tích cực, 20 mi li lít mỗi ký mỗi giờ:
+
+74
+00:04:52,014 --> 00:04:55,820
+tử vong 60 ngày 53,6 so với 51,5 phần trăm, không khác.
+
+75
+00:04:56,020 --> 00:05:02,247
+RENAL so sánh 40 với 25 mi li lít mỗi ký mỗi giờ kê đơn: tử vong 90 ngày đúng bằng nhau,
+
+76
+00:05:02,097 --> 00:05:05,700
+44,7 phần trăm. Một chi tiết thực hành quan trọng:
+
+77
+00:05:05,550 --> 00:05:09,705
+liều thực nhận chỉ là 33,4 và 22 mi li lít mỗi ký mỗi giờ,
+
+78
+00:05:09,555 --> 00:05:15,230
+khoảng 84 đến 88 phần trăm liều kê, do máy dừng, thay quả lọc, đi làm thủ thuật.
+
+79
+00:05:16,680 --> 00:05:18,734
+KDIGO 2026 khuyến cáo, mức 1B:
+
+80
+00:05:18,584 --> 00:05:23,493
+thể tích dịch thải 20 đến 25 mi li lít mỗi ký mỗi giờ cho lọc máu liên tục,
+
+81
+00:05:23,343 --> 00:05:28,062
+hoặc Kt trên V 3,9 mỗi tuần cho lọc ngắt quãng, không dùng liều cao hơn;
+
+82
+00:05:27,912 --> 00:05:31,870
+và không dùng siêu lọc thể tích cao trong nhiễm khuẩn huyết.
+
+83
+00:05:32,070 --> 00:05:36,230
+Vì liều thực nhận luôn thấp hơn, trên thực tế cần kê cao hơn mục tiêu;
+
+84
+00:05:36,080 --> 00:05:41,100
+trong thử nghiệm RICH, liều kê 30 để đạt thực nhận 20 đến 25. Rà soát liều hằng ngày.
+
+85
+00:05:41,300 --> 00:05:43,762
+Ở người béo phì, chỉ số khối cơ thể từ 30,
+
+86
+00:05:43,612 --> 00:05:47,450
+tính liều theo cân nặng lý tưởng hoặc hiệu chỉnh để tránh quá liều.
+
+87
+00:05:47,650 --> 00:05:52,885
+Hướng dẫn Trung Quốc 2026 khuyến cáo liều kê đơn ban đầu 35 đến 50, không quá 50,
+
+88
+00:05:52,735 --> 00:05:57,091
+mức yếu. Hai con số có vẻ khác nhau, nhưng một bên nói liều kê đơn,
+
+89
+00:05:56,941 --> 00:06:01,800
+một bên nói liều cần đạt; khi áp dụng, hãy nói rõ mình đang nói con số nào.
+
+90
+00:06:03,250 --> 00:06:09,138
+Hãy xem một mạch lọc máu liên tục với chống đông citrate vùng. Máu được bơm ra từ đường ra của catheter,
+
+91
+00:06:08,988 --> 00:06:09,800
+qua bơm máu.
+
+92
+00:06:10,000 --> 00:06:13,771
+Ngay sau bơm, citrate được truyền vào mạch. Citrate gắn canxi ion,
+
+93
+00:06:13,621 --> 00:06:15,745
+mà canxi là yếu tố cần cho đông máu,
+
+94
+00:06:15,595 --> 00:06:19,750
+nên máu trong mạch không đông. Các hạt màu cam là máu đã được chống đông.
+
+95
+00:06:19,950 --> 00:06:24,578
+Máu đi qua quả lọc; phần lớn phức hợp citrate gắn canxi bị lọc ra dịch thải,
+
+96
+00:06:24,428 --> 00:06:27,700
+cùng với liều lọc 20 đến 25 mi li lít mỗi ký mỗi giờ.
+
+97
+00:06:27,900 --> 00:06:32,633
+Mục tiêu theo dõi là canxi ion sau quả lọc 0,25 đến 0,35 mi li mol mỗi lít,
+
+98
+00:06:32,483 --> 00:06:36,850
+như trong thử nghiệm RICH; tốc độ citrate được chỉnh theo con số này.
+
+99
+00:06:37,050 --> 00:06:40,280
+Trước khi máu trở về người bệnh, canxi được truyền bù lại,
+
+100
+00:06:40,130 --> 00:06:42,245
+nên chống đông chỉ xảy ra trong mạch,
+
+101
+00:06:42,095 --> 00:06:47,556
+không ảnh hưởng toàn thân. Theo dõi tỷ canxi toàn phần trên canxi ion để phát hiện tích luỹ citrate,
+
+102
+00:06:47,406 --> 00:06:49,680
+nhất là khi sốc, lactat cao hay suy gan.
+
+103
+00:06:51,130 --> 00:06:55,270
+Bằng chứng cho citrate là thử nghiệm RICH trên 596 người:
+
+104
+00:06:55,120 --> 00:07:00,240
+tuổi thọ quả lọc trung vị 47 giờ với citrate so với 26 giờ với heparin.
+
+105
+00:07:00,440 --> 00:07:05,080
+Chảy máu giảm từ 16,9 xuống 5,1 phần trăm. Tử vong 90 ngày không khác;
+
+106
+00:07:04,930 --> 00:07:07,710
+thử nghiệm dừng sớm vì vô ích về tử vong.
+
+107
+00:07:07,910 --> 00:07:12,503
+Một tín hiệu cần chú ý: nhiễm trùng mới nhiều hơn ở nhóm citrate,
+
+108
+00:07:12,353 --> 00:07:16,467
+68,0 so với 55,4 phần trăm. KDIGO 2026 khuyến cáo, mức 1B,
+
+109
+00:07:16,317 --> 00:07:21,115
+dùng citrate vùng thay heparin ở nơi có sẵn và không chống chỉ định;
+
+110
+00:07:20,965 --> 00:07:26,788
+hướng dẫn Trung Quốc 2026 coi citrate là lựa chọn đầu tay kể cả khi có nguy cơ chảy
+
+111
+00:07:26,638 --> 00:07:29,043
+máu. Khi không dùng được citrate:
+
+112
+00:07:28,893 --> 00:07:32,734
+heparin không phân đoạn, epoprostenol hoặc nafamostat;
+
+113
+00:07:32,584 --> 00:07:35,810
+giảm tiểu cầu do heparin thì dùng argatroban.
+
+114
+00:07:37,260 --> 00:07:41,677
+Vài điểm thực hành. Catheter đặt ở tĩnh mạch cảnh trong phải hoặc tĩnh mạch đùi,
+
+115
+00:07:41,527 --> 00:07:45,197
+dưới hướng dẫn siêu âm, khuyến cáo mạnh theo hướng dẫn Trung Quốc;
+
+116
+00:07:45,047 --> 00:07:49,570
+áp dụng bó chăm sóc catheter, và không thay catheter định kỳ để phòng nhiễm khuẩn.
+
+117
+00:07:49,770 --> 00:07:53,782
+Để kéo dài tuổi thọ quả lọc: tối ưu vị trí đầu catheter ở nhĩ phải,
+
+118
+00:07:53,632 --> 00:07:55,280
+dùng pha loãng trước màng.
+
+119
+00:07:55,480 --> 00:07:59,756
+Dùng dịch lọc đệm bằng bicarbonate, không dùng lactat, khi người bệnh sốc,
+
+120
+00:07:59,606 --> 00:08:01,150
+suy gan hoặc toan lactic.
+
+121
+00:08:01,350 --> 00:08:05,820
+Và kê mục tiêu rút dịch mỗi ngày, với tốc độ cá thể hoá theo từng giai đoạn bệnh.
+
+122
+00:08:07,270 --> 00:08:09,073
+Khi nào ngừng? Khi không còn cần:
+
+123
+00:08:08,923 --> 00:08:11,977
+thận đã hồi phục đủ để đáp ứng nhu cầu chuyển hoá và dịch,
+
+124
+00:08:11,827 --> 00:08:16,284
+hoặc lọc máu không còn phù hợp mục tiêu chăm sóc. Đánh giá mỗi ngày dựa trên lâm sàng,
+
+125
+00:08:16,134 --> 00:08:19,740
+chuyển hoá, nước tiểu, cân bằng dịch, và creatinin giữa các buổi lọc.
+
+126
+00:08:19,940 --> 00:08:24,449
+KDIGO 2026 đưa ra các ngưỡng dự báo cai thành công ở người lớn:
+
+127
+00:08:24,299 --> 00:08:28,878
+nước tiểu trên 450 mi li lít mỗi 24 giờ khi không dùng lợi tiểu,
+
+128
+00:08:28,728 --> 00:08:31,785
+hoặc trên 2.300 mi li lít khi có lợi tiểu,
+
+129
+00:08:31,635 --> 00:08:36,490
+kèm độ thanh thải creatinin đo trong 2 giờ từ 23 mi li lít mỗi phút.
+
+130
+00:08:36,690 --> 00:08:39,717
+Lợi tiểu trước và sau khi cai giúp tăng nước tiểu, quản lý dịch,
+
+131
+00:08:39,567 --> 00:08:41,560
+nhưng chưa chứng minh giúp thận hồi phục.
+
+132
+00:08:43,010 --> 00:08:47,334
+Câu chuyện không kết thúc ở cửa hồi sức. KDIGO 2026 khuyến cáo, mức 1B,
+
+133
+00:08:47,184 --> 00:08:50,978
+theo dõi có phối hợp sau tổn thương thận cấp và bệnh thận cấp,
+
+134
+00:08:50,828 --> 00:08:56,034
+cá thể hoá theo nguy cơ. Tóm tắt ra viện cần ghi rõ đợt tổn thương thận, mức hồi phục,
+
+135
+00:08:55,884 --> 00:08:58,150
+thay đổi thuốc và kế hoạch theo dõi.
+
+136
+00:08:58,350 --> 00:09:01,551
+Đánh giá lại chức năng thận và albumin niệu sau 3 tháng,
+
+137
+00:09:01,401 --> 00:09:04,384
+đúng mốc chuyển từ bệnh thận cấp sang bệnh thận mạn;
+
+138
+00:09:04,234 --> 00:09:07,380
+dùng cystatin C khi người bệnh teo cơ sau nằm viện dài.
+
+139
+00:09:07,580 --> 00:09:12,826
+Khuyến cáo bắt đầu hoặc dùng lại thuốc ức chế hệ renin angiotensin khi có chỉ định,
+
+140
+00:09:12,676 --> 00:09:15,650
+mức 1B, và xem xét các thuốc bảo vệ thận khác.
+
+141
+00:09:15,850 --> 00:09:20,905
+Có tới 30 phần trăm người lọc máu vì tổn thương thận cấp còn lệ thuộc lọc máu khi ra viện;
+
+142
+00:09:20,755 --> 00:09:22,214
+khi ngừng lọc ngoại trú,
+
+143
+00:09:22,064 --> 00:09:25,920
+bác sĩ thận học cần đánh giá trong 7 ngày và đánh giá lại ở ngày 90.
+
+144
+00:09:27,370 --> 00:09:30,853
+Tình huống cuối. Người đàn ông 70 ký, sốc nhiễm khuẩn,
+
+145
+00:09:30,703 --> 00:09:34,989
+đang dùng noradrenalin và thở máy, tổn thương thận cấp giai đoạn 3,
+
+146
+00:09:34,839 --> 00:09:38,507
+thiểu niệu ngày thứ ba. Kali 6,3 dù đã điều trị nội khoa,
+
+147
+00:09:38,357 --> 00:09:42,890
+tỷ số pê trên ép 180 kèm quá tải dịch. Không có chống chỉ định citrate.
+
+148
+00:09:43,090 --> 00:09:44,920
+Lựa chọn nào phù hợp nhất?
+
+149
+00:09:45,120 --> 00:09:47,830
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+150
+00:09:56,430 --> 00:09:59,445
+Đáp án là lọc máu liên tục với citrate vùng,
+
+151
+00:09:59,295 --> 00:10:05,695
+liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ. Người bệnh đã có chỉ định kháng trị nội khoa,
+
+152
+00:10:05,545 --> 00:10:10,513
+chờ thêm là có hại. Đang dùng vận mạch, nên bắt đầu bằng lọc máu liên tục,
+
+153
+00:10:10,363 --> 00:10:14,811
+theo khuyến cáo 5.2.1 và kết quả ICRAKI. Liều 20 đến 25 thực nhận,
+
+154
+00:10:14,661 --> 00:10:20,410
+tức kê khoảng 2.100 mi li lít mỗi giờ cho 70 ký nếu kê 30, và chống đông citrate vùng.
+
+155
+00:10:21,860 --> 00:10:25,937
+Tóm lại phần năm. Khởi động lọc máu theo chiến lược trì hoãn có theo dõi,
+
+156
+00:10:25,787 --> 00:10:28,250
+nhưng không chờ quá mức khi đã có chỉ định.
+
+157
+00:10:28,450 --> 00:10:31,800
+Người huyết động không ổn định: bắt đầu bằng lọc máu liên tục.
+
+158
+00:10:32,000 --> 00:10:36,070
+Liều 20 đến 25 mi li lít mỗi ký mỗi giờ thực nhận.
+
+159
+00:10:36,270 --> 00:10:39,140
+Citrate vùng là lựa chọn chống đông đầu tay.
+
+160
+00:10:39,340 --> 00:10:42,850
+Cai lọc máu dựa trên nước tiểu và độ thanh thải creatinin.
+
+161
+00:10:43,050 --> 00:10:44,537
+Và theo dõi sau ra viện,
+
+162
+00:10:44,387 --> 00:10:49,272
+đánh giá lại sau 3 tháng. Loạt bài tổn thương thận cấp của Thư Viện Y Khoa Online đến
+
+163
+00:10:49,122 --> 00:10:53,729
+đây là kết thúc. Mời quý đồng nghiệp xem thêm video ca lâm sàng đi kèm loạt bài,
+
+164
+00:10:53,579 --> 00:10:58,130
+và ghé thuvienykhoa.online để xem trọn bộ chuyên đề. Xin cảm ơn và hẹn gặp lại.

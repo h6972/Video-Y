@@ -1,0 +1,543 @@
+1
+00:00:04,900 --> 00:00:09,050
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba của loạt bài tổn thương thận cấp.
+
+2
+00:00:09,250 --> 00:00:13,946
+Không có thuốc đặc hiệu nào “chữa” tổn thương thận cấp. Việc của chúng ta là không để
+
+3
+00:00:13,796 --> 00:00:15,337
+thận chịu thêm tổn thương,
+
+4
+00:00:15,187 --> 00:00:18,760
+giữ tưới máu, xử trí biến chứng và tránh những can thiệp có hại.
+
+5
+00:00:18,960 --> 00:00:22,958
+Phần này đi qua bó chăm sóc bảo vệ thận, dịch truyền, huyết áp, lợi tiểu,
+
+6
+00:00:22,808 --> 00:00:25,752
+bicarbonate cho toan nặng, và quản lý thuốc độc thận,
+
+7
+00:00:25,602 --> 00:00:28,230
+mỗi biện pháp kèm bằng chứng và mức khuyến cáo.
+
+8
+00:00:29,680 --> 00:00:33,306
+Trước hết là trình tự. Trong giờ đầu: phân giai đoạn, loại trừ tắc nghẽn,
+
+9
+00:00:33,156 --> 00:00:37,211
+rà soát và ngừng thuốc độc thận, và tìm biến chứng đe dọa tính mạng như tăng kali,
+
+10
+00:00:37,061 --> 00:00:41,116
+toan nặng, phù phổi. Nếu các biến chứng này kháng trị nội khoa, khởi động lọc máu,
+
+11
+00:00:40,966 --> 00:00:41,830
+không trì hoãn.
+
+12
+00:00:42,030 --> 00:00:43,197
+Trong 24 giờ đầu:
+
+13
+00:00:43,047 --> 00:00:47,502
+tối ưu tưới máu với dịch tinh thể có đệm và huyết áp trung bình trên 65,
+
+14
+00:00:47,352 --> 00:00:50,671
+theo dõi nước tiểu mỗi giờ, tìm nguyên nhân đặc hiệu,
+
+15
+00:00:50,521 --> 00:00:54,020
+và có thể dùng test furosemide hay chỉ dấu để phân tầng.
+
+16
+00:00:54,220 --> 00:00:57,851
+Từ 48 đến 72 giờ: xác định tổn thương thoáng qua hay kéo dài,
+
+17
+00:00:57,701 --> 00:01:01,048
+theo dõi để quyết định lọc máu theo chiến lược trì hoãn,
+
+18
+00:01:00,898 --> 00:01:03,730
+và chuyển sang rút dịch khi người bệnh quá tải.
+
+19
+00:01:05,180 --> 00:01:11,685
+Bằng chứng cho bó chăm sóc đến từ thử nghiệm PrevAKI. 276 người bệnh mổ tim có tích
+
+20
+00:01:11,535 --> 00:01:14,135
+TIMP-2 và IGFBP7 từ 0,3 trở lên,
+
+21
+00:01:13,985 --> 00:01:16,661
+4 giờ sau tuần hoàn ngoài cơ thể,
+
+22
+00:01:16,511 --> 00:01:23,245
+được chia ngẫu nhiên áp dụng nghiêm ngặt bó KDIGO hoặc chăm sóc chuẩn. Tổn thương thận
+
+23
+00:01:23,095 --> 00:01:27,150
+cấp trong 72 giờ giảm từ 71,7 xuống 55,1 phần trăm.
+
+24
+00:01:27,350 --> 00:01:32,140
+Tỷ số chênh 0,483, giảm nguy cơ tuyệt đối 16,6 phần trăm.
+
+25
+00:01:32,340 --> 00:01:36,250
+Tuy nhiên, tỷ lệ lọc máu và biến cố thận lớn ngày 90 không khác biệt.
+
+26
+00:01:36,450 --> 00:01:42,142
+Dựa trên PrevAKI và thử nghiệm tương tự ở phẫu thuật ngoài tim, KDIGO 2026 khuyến cáo,
+
+27
+00:01:41,992 --> 00:01:47,813
+mức 1B, dùng chiến lược bảo vệ thận đa thành phần ở người lớn phẫu thuật có nguy cơ cao,
+
+28
+00:01:47,663 --> 00:01:50,520
+nhận diện bằng yếu tố lâm sàng và chỉ dấu.
+
+29
+00:01:51,970 --> 00:01:55,950
+Bó trong PrevAKI gồm sáu thành phần: tránh thuốc độc thận,
+
+30
+00:01:55,800 --> 00:02:01,960
+và tạm ngừng thuốc ức chế men chuyển cùng chẹn thụ thể angiotensin trong 48 giờ đầu sau mổ.
+
+31
+00:02:02,160 --> 00:02:05,037
+Theo dõi sát creatinin và nước tiểu;
+
+32
+00:02:04,887 --> 00:02:11,626
+tránh tăng đường huyết trong 72 giờ đầu. KDIGO 2026 coi mục tiêu glucose 140 đến 180 mi
+
+33
+00:02:11,476 --> 00:02:14,580
+li gam mỗi đề xi lít là chấp nhận được,
+
+34
+00:02:14,430 --> 00:02:17,610
+thay cho mục tiêu chặt hơn của năm 2012.
+
+35
+00:02:17,810 --> 00:02:20,773
+Cân nhắc phương án thay thế thuốc cản quang,
+
+36
+00:02:20,623 --> 00:02:23,713
+và theo dõi huyết động sát để tối ưu thể tích;
+
+37
+00:02:23,563 --> 00:02:29,082
+trong PrevAKI dùng hệ thống PiCCO. KDIGO 2026 cũng khuyên cân nhắc các biện pháp này
+
+38
+00:02:28,932 --> 00:02:31,000
+khi tổn thương thận đã xảy ra.
+
+39
+00:02:32,450 --> 00:02:35,272
+Về loại dịch tinh thể. Thử nghiệm SMART,
+
+40
+00:02:35,122 --> 00:02:38,679
+ngẫu nhiên theo cụm trên 15.802 người bệnh hồi sức,
+
+41
+00:02:38,529 --> 00:02:42,220
+cho thấy biến cố thận lớn trong 30 ngày, gồm tử vong,
+
+42
+00:02:42,070 --> 00:02:45,494
+lọc máu mới hoặc rối loạn chức năng thận kéo dài,
+
+43
+00:02:45,344 --> 00:02:50,504
+là 14,3 phần trăm với dịch cân bằng so với 15,4 phần trăm với muối sinh lý,
+
+44
+00:02:50,354 --> 00:02:51,640
+tỷ số chênh 0,91.
+
+45
+00:02:51,840 --> 00:02:58,120
+Hai thử nghiệm lớn sau đó không thấy khác biệt tử vong: BaSICS trên 10.520 người,
+
+46
+00:02:57,970 --> 00:03:03,190
+26,4 so với 27,2 phần trăm, tỷ lệ lọc máu 7,5 so với 8,1 phần trăm.
+
+47
+00:03:03,390 --> 00:03:09,040
+Và PLUS trên gần 4.900 người, tử vong 21,8 so với 22,0 phần trăm,
+
+48
+00:03:08,890 --> 00:03:12,340
+lọc máu mới 12,7 so với 12,9 phần trăm.
+
+49
+00:03:13,790 --> 00:03:17,733
+Bài học về dịch keo tổng hợp. Trong CHEST, trên 7.000 người bệnh hồi sức,
+
+50
+00:03:17,583 --> 00:03:21,681
+tinh bột hydroxyethyl không thay đổi tử vong nhưng làm tăng nhu cầu lọc máu,
+
+51
+00:03:21,531 --> 00:03:22,980
+7,0 so với 5,8 phần trăm.
+
+52
+00:03:23,180 --> 00:03:26,329
+Trong 6S, ở người nhiễm khuẩn huyết nặng,
+
+53
+00:03:26,179 --> 00:03:32,401
+tinh bột hydroxyethyl 130 trên 0,42 làm tăng tử vong hoặc lệ thuộc lọc máu ngày 90,
+
+54
+00:03:32,251 --> 00:03:37,010
+từ 43 lên 51 phần trăm, và tăng lọc máu từ 16 lên 22 phần trăm.
+
+55
+00:03:37,210 --> 00:03:41,471
+Vì vậy đồng thuận ADQI 28 khuyến cáo mức 1A không dùng tinh bột,
+
+56
+00:03:41,321 --> 00:03:46,160
+gelatin và dextran trong tổn thương thận cấp liên quan nhiễm khuẩn huyết.
+
+57
+00:03:47,610 --> 00:03:52,808
+Tổng hợp lại, KDIGO 2026 khuyến cáo mức 1B: dùng dịch tinh thể thay vì dịch keo,
+
+58
+00:03:52,658 --> 00:03:56,847
+kể cả albumin, gelatin và tinh bột, để mở rộng thể tích ban đầu;
+
+59
+00:03:56,697 --> 00:04:02,400
+và dùng tinh thể có đệm thay cho muối sinh lý, trừ khi người bệnh có chấn thương sọ não.
+
+60
+00:04:02,600 --> 00:04:06,519
+ADQI 28 bổ sung cách dùng: lượng dịch phải nhắm tới mục tiêu cụ thể,
+
+61
+00:04:06,369 --> 00:04:09,678
+và quyết định truyền dịch dựa trên đánh giá đáp ứng dịch,
+
+62
+00:04:09,528 --> 00:04:11,950
+không dựa vào áp lực tĩnh mạch trung tâm.
+
+63
+00:04:12,150 --> 00:04:16,400
+Theo dõi cân bằng dịch hằng ngày và cộng dồn. Truyền dịch cho thận khi người bệnh đã
+
+64
+00:04:16,250 --> 00:04:18,060
+quá tải là một sai lầm thường gặp.
+
+65
+00:04:19,510 --> 00:04:21,959
+Về huyết áp, KDIGO 2026 gợi ý, mức 2C,
+
+66
+00:04:21,809 --> 00:04:26,979
+huyết áp trung bình trên 65 mi li mét thuỷ ngân làm mục tiêu cho dịch và vận mạch ở
+
+67
+00:04:26,829 --> 00:04:31,818
+người lớn nặng có hoặc nguy cơ cao tổn thương thận cấp. Mục tiêu cần cá thể hoá:
+
+68
+00:04:31,668 --> 00:04:35,810
+cao hơn ở người tăng huyết áp mạn, và tránh vận mạch liều quá cao.
+
+69
+00:04:36,010 --> 00:04:42,187
+Vận mạch dùng phối hợp với dịch khi hạ huyết áp không đáp ứng dịch ban đầu. Trong nhiễm khuẩn huyết,
+
+70
+00:04:42,037 --> 00:04:45,261
+noradrenalin là thuốc đầu tay, mức 1A theo ADQI 28;
+
+71
+00:04:45,111 --> 00:04:49,600
+vasopressin hay angiotensin II có thể có lợi ở một số kiểu hình, mức 2B.
+
+72
+00:04:49,800 --> 00:04:55,710
+Và KDIGO 2026 khuyến cáo mức 1A: không dùng dopamin liều thấp để bảo vệ thận.
+
+73
+00:04:57,160 --> 00:05:02,968
+Lợi tiểu có chỗ đứng rõ ràng nhưng hẹp. KDIGO 2026 gợi ý dùng lợi tiểu khi người bệnh
+
+74
+00:05:02,818 --> 00:05:05,164
+quá tải dịch có ý nghĩa lâm sàng,
+
+75
+00:05:05,014 --> 00:05:05,630
+mức 2B.
+
+76
+00:05:05,830 --> 00:05:10,673
+Khi quá tải dịch mà không có chỉ định lọc máu nào khác, khuyến cáo dùng lợi tiểu trước,
+
+77
+00:05:10,523 --> 00:05:14,071
+ưu tiên hơn rút dịch ngoài cơ thể, mức 1C, vì siêu lọc xâm lấn,
+
+78
+00:05:13,921 --> 00:05:15,420
+tốn kém và nhiều nguy cơ.
+
+79
+00:05:15,620 --> 00:05:19,130
+Ban đầu, dùng lợi tiểu quai tiêm ngắt quãng thay vì truyền liên tục.
+
+80
+00:05:19,330 --> 00:05:21,653
+Nhưng đừng kỳ vọng lợi tiểu giúp thận hồi phục:
+
+81
+00:05:21,503 --> 00:05:26,600
+chưa được chứng minh. Biến tổn thương thận cấp thiểu niệu thành không thiểu niệu không thay đổi tiên lượng.
+
+82
+00:05:28,050 --> 00:05:33,015
+Toan chuyển hoá nặng là chỗ bằng chứng thay đổi rõ nhất. Trong BICAR-ICU,
+
+83
+00:05:32,865 --> 00:05:36,181
+ở tầng có tổn thương thận cấp giai đoạn 2 đến 3,
+
+84
+00:05:36,031 --> 00:05:42,710
+bicarbonate giảm tử vong ngày 28 từ 63 xuống 46 phần trăm và giảm lọc máu từ 73 xuống 51 phần trăm.
+
+85
+00:05:42,910 --> 00:05:45,091
+Thử nghiệm xác nhận BICARICU-2,
+
+86
+00:05:44,941 --> 00:05:50,400
+trên 627 người có pH từ 7,20 trở xuống kèm tổn thương thận cấp giai đoạn 2 đến 3,
+
+87
+00:05:50,250 --> 00:05:55,380
+cho thấy bicarbonate giảm dùng lọc máu đến ngày 28 từ 50 xuống 35 phần trăm.
+
+88
+00:05:55,580 --> 00:05:58,318
+Nhưng tử vong ngày 90 không khác biệt,
+
+89
+00:05:58,168 --> 00:06:03,970
+62,1 so với 61,7 phần trăm. Lợi ích là tránh được lọc máu, không phải giảm tử vong.
+
+90
+00:06:05,420 --> 00:06:07,665
+Từ đó, KDIGO 2026 gợi ý, mức 2C:
+
+91
+00:06:07,515 --> 00:06:13,686
+ở người có tổn thương thận cấp hoặc bệnh thận cấp kèm toan chuyển hoá nặng với pH dưới 7,20,
+
+92
+00:06:13,536 --> 00:06:19,250
+dùng bicarbonate tĩnh mạch thay vì lọc máu, trừ khi có chỉ định lọc máu cấp cứu khác.
+
+93
+00:06:19,450 --> 00:06:23,493
+Phác đồ trong thử nghiệm: natri bicarbonat 4,2 phần trăm,
+
+94
+00:06:23,343 --> 00:06:28,616
+mỗi lần 125 đến 250 mi li lít truyền trong 30 phút, tối đa 1.000 mi li lít,
+
+95
+00:06:28,466 --> 00:06:31,280
+tức 500 mili đương lượng, trong 24 giờ.
+
+96
+00:06:31,480 --> 00:06:36,990
+Mục tiêu pH từ 7,30 trở lên, kiểm tra khí máu 1 đến 4 giờ sau mỗi lần truyền.
+
+97
+00:06:37,190 --> 00:06:41,533
+Đối tượng là toan chuyển hoá thực sự: áp lực CO2 động mạch không quá 45,
+
+98
+00:06:41,383 --> 00:06:44,211
+bicarbonat không quá 20; loại trừ toan hô hấp,
+
+99
+00:06:44,061 --> 00:06:49,627
+nhiễm toan ceton và mất bicarbonat qua tiêu hoá hay tiết niệu. Đây là phác đồ của thử nghiệm;
+
+100
+00:06:49,477 --> 00:06:51,840
+xin kiểm tra theo chế phẩm tại đơn vị.
+
+101
+00:06:53,290 --> 00:06:56,399
+Cuối cùng là thuốc. KDIGO 2026 khuyến cáo, mức 1C,
+
+102
+00:06:56,249 --> 00:07:01,548
+quản lý thuốc và chất độc thận theo cách đa phương thức: ngừng thuốc độc thận khi được,
+
+103
+00:07:01,398 --> 00:07:06,401
+thay bằng thuốc tương đương ít độc hơn, theo dõi nồng độ thuốc, rà soát tương tác,
+
+104
+00:07:06,251 --> 00:07:09,360
+có dược sĩ tham gia và hệ thống hỗ trợ quyết định.
+
+105
+00:07:09,560 --> 00:07:13,236
+Chỉnh liều thuốc thải qua thận theo xu hướng creatinin và nước tiểu,
+
+106
+00:07:13,086 --> 00:07:17,230
+không dùng mức lọc cầu thận tính từ phương trình giả định trạng thái ổn định;
+
+107
+00:07:17,080 --> 00:07:20,030
+có thể tính mức lọc cầu thận động học khi có đủ số đo.
+
+108
+00:07:20,230 --> 00:07:26,084
+Một nỗi lo thường gặp là phối hợp vancomycin với piperacillin–tazobactam. Thử nghiệm
+
+109
+00:07:25,934 --> 00:07:27,985
+ACORN trên 2.511 người bệnh,
+
+110
+00:07:27,835 --> 00:07:30,361
+77,2 phần trăm dùng kèm vancomycin,
+
+111
+00:07:30,211 --> 00:07:36,880
+cho thấy piperacillin–tazobactam không làm tăng tổn thương thận cấp hay tử vong so với cefepime.
+
+112
+00:07:37,080 --> 00:07:41,327
+Với tổn thương thận cấp mắc phải ở cộng đồng, hãy hỏi kỹ thuốc nam, thảo dược,
+
+113
+00:07:41,177 --> 00:07:44,005
+thuốc trừ sâu và phơi nhiễm môi trường; theo KDIGO,
+
+114
+00:07:43,855 --> 00:07:47,892
+hơn 80 phần trăm dân số ở nơi nguồn lực thấp và trung bình dùng thảo dược,
+
+115
+00:07:47,742 --> 00:07:49,310
+điều rất đúng với Việt Nam.
+
+116
+00:07:49,510 --> 00:07:53,973
+Và không ngừng thường quy thuốc ức chế hệ renin angiotensin trước phẫu thuật chương trình,
+
+117
+00:07:53,823 --> 00:07:57,039
+nhưng nên tạm ngừng một số nhóm thuốc khi bệnh cấp gây mất dịch,
+
+118
+00:07:56,889 --> 00:07:58,860
+kèm kế hoạch rõ ràng khi nào dùng lại.
+
+119
+00:08:00,310 --> 00:08:04,829
+Tình huống. Người đàn ông 68 tuổi, sốc nhiễm khuẩn ngày thứ hai,
+
+120
+00:08:04,679 --> 00:08:09,267
+tổn thương thận cấp giai đoạn 3. Khí máu: pH 7,16, bicarbonat 11,
+
+121
+00:08:09,117 --> 00:08:13,500
+áp lực CO2 32. Kali 5,6. Không phù phổi, không tăng kali nặng.
+
+122
+00:08:13,700 --> 00:08:16,010
+Bước xử trí toan nào phù hợp nhất?
+
+123
+00:08:16,210 --> 00:08:19,240
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+124
+00:08:27,840 --> 00:08:33,956
+Đáp án là truyền natri bicarbonat 4,2 phần trăm theo phác đồ và theo dõi khí máu. pH dưới 7,20,
+
+125
+00:08:33,806 --> 00:08:36,782
+và chưa có chỉ định lọc máu cấp cứu nào khác,
+
+126
+00:08:36,632 --> 00:08:40,613
+nên theo KDIGO 2026 dùng bicarbonate trước. Trong BICARICU-2,
+
+127
+00:08:40,463 --> 00:08:47,332
+cách làm này giảm tỷ lệ phải lọc máu đến ngày 28 từ 50 xuống 35 phần trăm. Nhưng cần đánh giá lại liên tục:
+
+128
+00:08:47,182 --> 00:08:51,540
+nếu kali tăng nặng hay phù phổi kháng trị, chỉ định lọc máu sẽ đến.
+
+129
+00:08:52,990 --> 00:08:56,660
+Tóm lại phần ba. Bó bảo vệ thận cho người phẫu thuật nguy cơ cao.
+
+130
+00:08:56,860 --> 00:08:59,650
+Dịch tinh thể có đệm, không dùng keo tổng hợp.
+
+131
+00:08:59,850 --> 00:09:04,560
+Huyết áp trung bình trên 65, cá thể hoá, và không dùng dopamin liều thấp.
+
+132
+00:09:04,760 --> 00:09:08,670
+Lợi tiểu tiêm ngắt quãng khi quá tải dịch, trước khi nghĩ đến siêu lọc.
+
+133
+00:09:08,870 --> 00:09:12,780
+Toan nặng pH dưới 7,20: bicarbonate trước lọc máu.
+
+134
+00:09:12,980 --> 00:09:17,149
+Và quản lý thuốc độc thận chủ động. Phần bốn sẽ bàn các tình huống đặc thù:
+
+135
+00:09:16,999 --> 00:09:19,453
+nhiễm khuẩn huyết, thuốc cản quang, mổ tim,
+
+136
+00:09:19,303 --> 00:09:24,330
+hội chứng gan thận và ly giải u. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

@@ -1,0 +1,35 @@
+1
+00:00:00,700 --> 00:00:05,053
+Người bệnh tổn thương thận cấp, pH 7,15, chưa tăng kali nặng,
+
+2
+00:00:04,903 --> 00:00:07,947
+chưa phù phổi. Có phải lọc máu ngay không?
+
+3
+00:00:09,397 --> 00:00:12,782
+Thử nghiệm BICARICU-2 trên 627 người:
+
+4
+00:00:12,632 --> 00:00:21,438
+truyền natri bicarbonat 4,2 phần trăm giảm tỷ lệ phải lọc máu đến ngày 28 từ 50 xuống 35 phần trăm.
+
+5
+00:00:21,638 --> 00:00:25,977
+Tử vong ngày 90 không khác, nhưng nhiều người tránh được một can thiệp xâm lấn.
+
+6
+00:00:27,427 --> 00:00:29,654
+Vì vậy KDIGO 2026 gợi ý:
+
+7
+00:00:29,504 --> 00:00:37,181
+pH dưới 7,20 mà chưa có chỉ định lọc máu cấp cứu nào khác thì truyền bicarbonate trước.
+
+8
+00:00:37,381 --> 00:00:38,630
+Còn nếu tăng kali,
+
+9
+00:00:38,480 --> 00:00:44,977
+phù phổi hay urê huyết kháng trị nội khoa thì vẫn lọc máu ngay. Xem trọn bài giảng ở link trong bio nhé!

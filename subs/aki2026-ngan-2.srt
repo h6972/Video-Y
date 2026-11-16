@@ -1,0 +1,31 @@
+1
+00:00:00,700 --> 00:00:02,564
+Người bệnh đang dùng vận mạch,
+
+2
+00:00:02,414 --> 00:00:06,222
+cần lọc máu. Bắt đầu bằng lọc liên tục hay chạy thận ngắt quãng?
+
+3
+00:00:07,672 --> 00:00:14,676
+Thử nghiệm ICRAKI vừa công bố tháng 10 năm 2026: bắt đầu bằng chạy thận ngắt quãng,
+
+4
+00:00:14,526 --> 00:00:21,116
+tử vong ngày 90 là 63,1 phần trăm, so với 53,5 phần trăm khi lọc máu liên tục.
+
+5
+00:00:21,316 --> 00:00:24,679
+Tỷ số nguy cơ 1,30, và thử nghiệm phải dừng sớm.
+
+6
+00:00:26,129 --> 00:00:30,985
+Với người huyết động không ổn định, hãy bắt đầu bằng lọc máu liên tục,
+
+7
+00:00:30,835 --> 00:00:36,027
+liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ, chống đông citrate vùng.
+
+8
+00:00:36,227 --> 00:00:42,376
+Khi nào chuyển sang chạy thận ngắt quãng vẫn là câu hỏi mở. Xem trọn bài giảng ở link trong bio nhé!

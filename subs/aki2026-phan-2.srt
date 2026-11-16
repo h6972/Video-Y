@@ -1,0 +1,563 @@
+1
+00:00:04,900 --> 00:00:06,073
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,923 --> 00:00:09,530
+chào mừng quý vị trở lại với phần hai của loạt bài tổn thương thận cấp.
+
+3
+00:00:09,730 --> 00:00:13,560
+Hôm nay chúng ta đi vào cơ chế: vì sao creatinin là một chỉ dấu chậm,
+
+4
+00:00:13,410 --> 00:00:18,093
+chỉ dấu ống thận cho biết điều gì, thận bị tổn thương ra sao trong nhiễm khuẩn huyết,
+
+5
+00:00:17,943 --> 00:00:22,360
+những nguyên nhân cần điều trị đặc hiệu, và cách làm test furosemide tại giường.
+
+6
+00:00:22,560 --> 00:00:26,230
+Mỗi cơ chế sẽ được dẫn về một quyết định lâm sàng cụ thể.
+
+7
+00:00:27,680 --> 00:00:33,175
+Hãy hình dung diễn biến sau một tổn thương thận. Creatinin là chỉ dấu của mức lọc cầu thận,
+
+8
+00:00:33,025 --> 00:00:37,992
+không phải của tổn thương: phải mất gần một nửa chức năng thận creatinin mới tăng,
+
+9
+00:00:37,842 --> 00:00:40,870
+và nó tăng chậm, từ 24 đến 48 giờ sau tổn thương.
+
+10
+00:00:41,070 --> 00:00:46,473
+Cystatin C cũng là chỉ dấu lọc cầu thận nhưng không phụ thuộc khối cơ; theo mô hình,
+
+11
+00:00:46,323 --> 00:00:50,100
+nó đạt ngưỡng chẩn đoán sớm hơn creatinin từ 6 đến 48 giờ.
+
+12
+00:00:50,300 --> 00:00:55,123
+Còn các chỉ dấu stress và tổn thương ống thận có thể tăng trước cả khi chức năng thay đổi,
+
+13
+00:00:54,973 --> 00:00:58,290
+trạng thái trước đây gọi là tổn thương thận cấp cận lâm sàng.
+
+14
+00:00:58,490 --> 00:01:02,175
+Xin lưu ý các đường cong này là minh hoạ định tính để dễ hình dung,
+
+15
+00:01:02,025 --> 00:01:03,600
+không phải số liệu đo được.
+
+16
+00:01:05,050 --> 00:01:09,202
+Trên thực hành hồi sức, creatinin có thể thấp giả, gây bỏ sót hoặc chẩn đoán muộn:
+
+17
+00:01:09,052 --> 00:01:12,960
+người suy gan, khối cơ ít, hoặc creatinin bị pha loãng sau truyền nhiều dịch.
+
+18
+00:01:13,160 --> 00:01:17,423
+Ngược lại, creatinin có thể tăng mà mức lọc cầu thận không giảm thật:
+
+19
+00:01:17,273 --> 00:01:21,835
+cô đặc máu sau lợi tiểu, thuốc ức chế bài tiết creatinin như trimethoprim,
+
+20
+00:01:21,685 --> 00:01:27,021
+hoặc thay đổi huyết động sinh lý khi khởi động thuốc ức chế hệ renin angiotensin hay ức
+
+21
+00:01:26,871 --> 00:01:31,790
+chế SGLT2. Hiểu nhầm là tổn thương thận cấp sẽ dẫn tới ngừng những thuốc có lợi.
+
+22
+00:01:31,990 --> 00:01:35,607
+Lượng nước tiểu cũng không hoàn hảo: phụ thuộc việc đo chính xác,
+
+23
+00:01:35,457 --> 00:01:39,180
+bị lợi tiểu làm thay đổi, và thiểu niệu đôi khi là đáp ứng sinh lý.
+
+24
+00:01:40,630 --> 00:01:45,740
+Các chỉ dấu mới được xếp theo vị trí tổn thương. Cystatin C phản ánh lọc cầu thận.
+
+25
+00:01:45,940 --> 00:01:48,941
+TIMP-2 và IGFBP7 phản ánh stress tế bào ống thận,
+
+26
+00:01:48,791 --> 00:01:52,839
+tức là các tế bào đang ngừng chu kỳ để tự bảo vệ; nếu tăng kéo dài,
+
+27
+00:01:52,689 --> 00:01:55,050
+có thể đồng nghĩa với tổn thương thật.
+
+28
+00:01:55,250 --> 00:02:00,200
+NGAL, KIM-1, NAG và L-FABP phản ánh tổn thương tế bào ống thận.
+
+29
+00:02:00,400 --> 00:02:01,217
+Còn IL-18,
+
+30
+00:02:01,067 --> 00:02:06,617
+IL-9 và CCL14 phản ánh tình trạng viêm trong thận. Mỗi chỉ dấu có động học riêng,
+
+31
+00:02:06,467 --> 00:02:08,950
+nên thời điểm lấy mẫu phải phù hợp.
+
+32
+00:02:10,400 --> 00:02:15,868
+Chỉ dấu có nhiều bằng chứng nhất là tích của TIMP-2 và IGFBP7 trong nước tiểu. Nghiên
+
+33
+00:02:15,718 --> 00:02:21,186
+cứu kiểm định Sapphire trên 728 người bệnh hồi sức cho thấy diện tích dưới đường cong
+
+34
+00:02:21,036 --> 00:02:25,504
+0,80 để tiên đoán tổn thương thận cấp giai đoạn 2 đến 3 trong 12 giờ,
+
+35
+00:02:25,354 --> 00:02:29,070
+tốt hơn mọi chỉ dấu cũ, không chỉ dấu nào khác vượt 0,72.
+
+36
+00:02:29,270 --> 00:02:31,980
+Nguy cơ tăng rõ khi chỉ số vượt 0,3,
+
+37
+00:02:32,180 --> 00:02:35,746
+và khi vượt 2,0 thì nguy cơ tổn thương thận cấp tăng gần gấp năm,
+
+38
+00:02:35,596 --> 00:02:37,690
+nguy cơ biến cố thận lớn gần gấp đôi.
+
+39
+00:02:37,890 --> 00:02:44,464
+Ngưỡng 0,3 được dùng trong thử nghiệm PrevAKI để chọn người bệnh sau mổ tim cần bó chăm sóc bảo vệ thận,
+
+40
+00:02:44,314 --> 00:02:46,440
+chúng ta sẽ phân tích ở phần ba.
+
+41
+00:02:47,890 --> 00:02:50,194
+KDIGO 2026 gợi ý, ở người lớn mức 2B,
+
+42
+00:02:50,044 --> 00:02:55,666
+dùng chỉ dấu stress hoặc tổn thương ống thận theo đúng chỉ định đã được kiểm định và cấp phép,
+
+43
+00:02:55,516 --> 00:03:00,672
+để nhận diện sớm người có nguy cơ tổn thương thận cấp vừa đến nặng và áp dụng các biện
+
+44
+00:03:00,522 --> 00:03:02,360
+pháp bảo vệ thận có mục tiêu.
+
+45
+00:03:02,560 --> 00:03:09,029
+NGAL niệu có diện tích dưới đường cong khoảng 0,74 trong phân tích gộp 52 nghiên cứu với 13.040 người;
+
+46
+00:03:08,879 --> 00:03:12,870
+người có NGAL dương nhưng creatinin âm vẫn có kết cục xấu hơn.
+
+47
+00:03:13,070 --> 00:03:18,980
+CCL14 giúp nhận diện người bệnh giai đoạn 2 đến 3 sẽ bị tổn thương thận cấp giai đoạn 3 kéo dài.
+
+48
+00:03:19,180 --> 00:03:22,615
+Hạn chế là chi phí, tính sẵn có và ngưỡng chưa thống nhất;
+
+49
+00:03:22,465 --> 00:03:25,730
+ở nhiều cơ sở Việt Nam hiện chưa có các xét nghiệm này.
+
+50
+00:03:27,180 --> 00:03:33,057
+Nhiễm khuẩn huyết là nguyên nhân hàng đầu của tổn thương thận cấp ở hồi sức. Theo đồng thuận ADQI 28,
+
+51
+00:03:32,907 --> 00:03:34,928
+đây là hội chứng không đồng nhất,
+
+52
+00:03:34,778 --> 00:03:39,010
+với nhiều cơ chế cùng lúc. Trước hết là viêm toàn thân và viêm tại thận.
+
+53
+00:03:39,210 --> 00:03:44,400
+Kèm theo là hoạt hoá bổ thể và rối loạn hệ renin angiotensin aldosteron.
+
+54
+00:03:44,600 --> 00:03:49,710
+Ở mức tế bào, ty thể rối loạn và tế bào ống thận tái lập trình chuyển hoá để sống sót.
+
+55
+00:03:49,910 --> 00:03:51,905
+Vi tuần hoàn trong thận bị rối loạn,
+
+56
+00:03:51,755 --> 00:03:55,340
+cộng thêm bất thường huyết động lớn như hạ huyết áp hay sung huyết.
+
+57
+00:03:55,540 --> 00:03:56,453
+Điểm then chốt:
+
+58
+00:03:56,303 --> 00:04:00,726
+tổn thương thận trong nhiễm khuẩn huyết khác căn bản tổn thương do thiếu máu cục bộ;
+
+59
+00:04:00,576 --> 00:04:05,050
+thận vẫn có thể bị tổn thương dù tổng lưu lượng máu thận được bảo tồn, thậm chí tăng.
+
+60
+00:04:05,250 --> 00:04:09,432
+Mức đóng góp của từng cơ chế khác nhau giữa người bệnh và theo thời gian,
+
+61
+00:04:09,282 --> 00:04:10,869
+tạo nên các nội kiểu hình;
+
+62
+00:04:10,719 --> 00:04:14,680
+kết hợp chỉ dấu đặc hiệu cơ chế với lâm sàng sẽ giúp nhận diện chúng.
+
+63
+00:04:14,880 --> 00:04:17,208
+Gánh nặng rất lớn: trong đoàn hệ SOAP,
+
+64
+00:04:17,058 --> 00:04:20,819
+tổn thương thận cấp gặp ở 51 phần trăm người nhiễm khuẩn huyết,
+
+65
+00:04:20,669 --> 00:04:22,710
+với tử vong hồi sức 41 phần trăm.
+
+66
+00:04:24,160 --> 00:04:29,178
+ADQI 28 định nghĩa tổn thương thận cấp liên quan nhiễm khuẩn huyết là khi có đồng thời
+
+67
+00:04:29,028 --> 00:04:34,159
+tiêu chuẩn nhiễm khuẩn huyết theo Sepsis-3 và tiêu chuẩn tổn thương thận cấp theo KDIGO,
+
+68
+00:04:34,009 --> 00:04:38,630
+với tổn thương thận xảy ra trong vòng 7 ngày kể từ chẩn đoán nhiễm khuẩn huyết.
+
+69
+00:04:38,830 --> 00:04:42,885
+Trong 48 giờ đầu gọi là sớm; từ 48 giờ đến 7 ngày gọi là muộn,
+
+70
+00:04:42,735 --> 00:04:44,900
+và nhóm muộn có kết cục xấu hơn.
+
+71
+00:04:45,100 --> 00:04:48,041
+Khi nhiễm khuẩn huyết là động lực chính gây tổn thương mô,
+
+72
+00:04:47,891 --> 00:04:51,410
+ta gọi là tổn thương thận cấp do nhiễm khuẩn huyết, một kiểu hình phụ.
+
+73
+00:04:52,860 --> 00:04:56,099
+Đây là chiếc cầu nối cơ chế với điều trị. Giảm tưới máu,
+
+74
+00:04:55,949 --> 00:04:59,629
+gợi ý bởi đáp ứng dịch và chỉ số niệu, cần dịch tinh thể có đệm,
+
+75
+00:04:59,479 --> 00:05:01,890
+vận mạch và huyết áp trung bình mục tiêu.
+
+76
+00:05:02,090 --> 00:05:06,836
+Sung huyết tĩnh mạch hay tăng áp lực ổ bụng cần giảm sung huyết, lợi tiểu, hoặc giải áp;
+
+77
+00:05:06,686 --> 00:05:08,560
+truyền thêm dịch sẽ làm nặng hơn.
+
+78
+00:05:08,760 --> 00:05:14,910
+Tổn thương thận cấp liên quan nhiễm khuẩn huyết cần kiểm soát ổ nhiễm và huyết động theo Surviving Sepsis.
+
+79
+00:05:15,110 --> 00:05:16,487
+Độc ống thận do thuốc,
+
+80
+00:05:16,337 --> 00:05:20,780
+thuốc cản quang hay tiêu cơ vân cần ngừng tác nhân và quản lý thuốc chủ động.
+
+81
+00:05:20,980 --> 00:05:25,130
+Hội chứng gan thận, do giãn mạch tạng, cần thuốc co mạch phối hợp albumin.
+
+82
+00:05:25,330 --> 00:05:29,480
+Và tắc nghẽn, cần giải tắc. Phần ba và bốn sẽ đi sâu từng đích này.
+
+83
+00:05:30,930 --> 00:05:35,583
+Một nguyên nhân có điều trị đặc hiệu nhưng hay bị quên ở hồi sức là tắc nghẽn đường
+
+84
+00:05:35,433 --> 00:05:38,187
+tiết niệu. Bên trái là hình siêu âm thận ứ nước,
+
+85
+00:05:38,037 --> 00:05:40,520
+với bể thận và các đài thận giãn, trống âm.
+
+86
+00:05:40,720 --> 00:05:42,955
+Khi tổn thương thận cấp chưa rõ nguyên nhân,
+
+87
+00:05:42,805 --> 00:05:45,941
+siêu âm thận và bàng quang giúp loại trừ tắc nghẽn; nếu có tắc,
+
+88
+00:05:45,791 --> 00:05:48,310
+giải tắc bằng can thiệp tiết niệu hoặc điện quang.
+
+89
+00:05:48,510 --> 00:05:51,785
+Các nguyên nhân hay bị bỏ sót khác gồm viêm thận kẽ do thuốc,
+
+90
+00:05:51,635 --> 00:05:55,780
+viêm cầu thận hoặc viêm mạch, và vi mạch huyết khối, đều có điều trị đặc hiệu.
+
+91
+00:05:57,230 --> 00:06:02,451
+KDIGO 2026 liệt kê các nguyên nhân cần điều trị đặc hiệu để bảo vệ thận. Viêm cầu thận,
+
+92
+00:06:02,301 --> 00:06:07,464
+viêm mạch và vi mạch huyết khối cần cặn nước tiểu, huyết thanh học, có khi sinh thiết,
+
+93
+00:06:07,314 --> 00:06:11,370
+và điều trị bằng corticoid, ức chế miễn dịch hoặc thay huyết tương.
+
+94
+00:06:11,570 --> 00:06:15,282
+Viêm thận kẽ cấp gợi ý bởi bạch cầu niệu, bạch cầu ái toan;
+
+95
+00:06:15,132 --> 00:06:18,120
+xử trí là ngừng tác nhân và cân nhắc corticoid.
+
+96
+00:06:18,320 --> 00:06:22,726
+Đa u tuỷ xương cần định lượng chuỗi nhẹ tự do; điều trị là bù dịch, hoá trị,
+
+97
+00:06:22,576 --> 00:06:24,070
+có thể thay huyết tương.
+
+98
+00:06:24,270 --> 00:06:28,470
+Tiêu cơ vân: CK tăng, que nhúng dương tính với máu nhưng cặn không có hồng cầu;
+
+99
+00:06:28,320 --> 00:06:29,700
+điều trị là truyền dịch.
+
+100
+00:06:29,900 --> 00:06:33,330
+Và hội chứng ly giải u, chúng ta sẽ bàn ở phần bốn.
+
+101
+00:06:34,780 --> 00:06:39,908
+Một công cụ rẻ, đơn giản mà KDIGO 2026 gợi ý dùng, mức 2C, là test furosemide,
+
+102
+00:06:39,758 --> 00:06:42,907
+để đánh giá nguy cơ tiến triển đến giai đoạn 3,
+
+103
+00:06:42,757 --> 00:06:48,205
+kể cả cần lọc máu. Đối tượng là người lớn bị tổn thương thận cấp giai đoạn 1 đến 2,
+
+104
+00:06:48,055 --> 00:06:49,800
+đẳng tích hoặc thừa dịch.
+
+105
+00:06:50,000 --> 00:06:54,552
+Tiêm tĩnh mạch furosemide 1 mi li gam mỗi ký nếu chưa dùng lợi tiểu quai,
+
+106
+00:06:54,402 --> 00:06:57,990
+hoặc 1,5 mi li gam mỗi ký nếu đã dùng trong 7 ngày trước.
+
+107
+00:06:58,190 --> 00:07:01,298
+Đo lượng nước tiểu trong 2 giờ. Trong nghiên cứu gốc,
+
+108
+00:07:01,148 --> 00:07:06,097
+nước tiểu được bù mi li lít đổi mi li lít bằng Ringer lactat hoặc muối sinh lý trong 6
+
+109
+00:07:05,947 --> 00:07:07,604
+giờ để tránh giảm thể tích,
+
+110
+00:07:07,454 --> 00:07:09,780
+tuy nhóm điều trị có thể chọn không bù.
+
+111
+00:07:09,980 --> 00:07:15,330
+Dưới 200 mi li lít trong 2 giờ gợi ý nguy cơ cao tiến triển đến giai đoạn 3 trong 14 ngày.
+
+112
+00:07:15,530 --> 00:07:18,647
+Hai lưu ý: không làm test khi người bệnh đang thiếu dịch,
+
+113
+00:07:18,497 --> 00:07:21,146
+và test furosemide là công cụ phân tầng nguy cơ,
+
+114
+00:07:20,996 --> 00:07:23,280
+không phải chỉ định để khởi động lọc máu.
+
+115
+00:07:24,730 --> 00:07:28,244
+Trong nghiên cứu gốc của Chawla trên 77 người bệnh hồi sức,
+
+116
+00:07:28,094 --> 00:07:32,976
+tổng lượng nước tiểu 2 giờ sau furosemide có diện tích dưới đường cong 0,87 để tiên
+
+117
+00:07:32,826 --> 00:07:34,800
+đoán tiến triển đến giai đoạn 3.
+
+118
+00:07:35,000 --> 00:07:37,927
+Với ngưỡng dưới 200 mi li lít trong 2 giờ,
+
+119
+00:07:37,777 --> 00:07:41,630
+độ nhạy là 87,1 phần trăm và độ đặc hiệu 84,1 phần trăm.
+
+120
+00:07:41,830 --> 00:07:45,201
+Có 32,4 phần trăm người bệnh tiến triển đến giai đoạn 3,
+
+121
+00:07:45,051 --> 00:07:48,940
+và nghiên cứu không ghi nhận hạ huyết áp hay biến cố nào do test.
+
+122
+00:07:50,390 --> 00:07:55,485
+Tình huống. Một phụ nữ 60 ký, ngày thứ hai sau mổ bụng, tổn thương thận cấp giai đoạn 2,
+
+123
+00:07:55,335 --> 00:07:59,980
+huyết động ổn định, có dấu hiệu thừa dịch. Bà đã dùng furosemide hai ngày trước.
+
+124
+00:08:00,180 --> 00:08:03,210
+Nếu làm test furosemide, liều là bao nhiêu?
+
+125
+00:08:03,410 --> 00:08:06,120
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+126
+00:08:14,720 --> 00:08:18,376
+Đáp án là 90 mi li gam. Vì đã dùng lợi tiểu quai trong 7 ngày,
+
+127
+00:08:18,226 --> 00:08:20,016
+liều là 1,5 mi li gam mỗi ký,
+
+128
+00:08:19,866 --> 00:08:24,766
+nhân 60 ký bằng 90 mi li gam tiêm tĩnh mạch. Người bệnh thừa dịch nên làm test được.
+
+129
+00:08:24,616 --> 00:08:27,311
+Nếu nước tiểu dưới 200 mi li lít trong 2 giờ,
+
+130
+00:08:27,161 --> 00:08:30,534
+nguy cơ tiến triển cao; cần theo dõi sát và lên kế hoạch,
+
+131
+00:08:30,384 --> 00:08:32,570
+nhưng chưa phải là chỉ định lọc máu.
+
+132
+00:08:34,020 --> 00:08:38,152
+Tóm lại phần hai. Creatinin là chỉ dấu chậm; cystatin C sớm hơn,
+
+133
+00:08:38,002 --> 00:08:39,770
+chỉ dấu ống thận sớm nhất.
+
+134
+00:08:39,970 --> 00:08:46,030
+Tích TIMP-2 và IGFBP7 trên 0,3 là tăng nguy cơ, trên 2,0 là nguy cơ cao;
+
+135
+00:08:45,880 --> 00:08:49,560
+KDIGO 2026 gợi ý dùng chỉ dấu ở nơi có sẵn.
+
+136
+00:08:49,760 --> 00:08:52,971
+Tổn thương thận cấp liên quan nhiễm khuẩn huyết có nhiều cơ chế,
+
+137
+00:08:52,821 --> 00:08:54,310
+không chỉ là thiếu máu thận.
+
+138
+00:08:54,510 --> 00:08:58,020
+Luôn loại trừ tắc nghẽn và các nguyên nhân cần điều trị đặc hiệu.
+
+139
+00:08:58,220 --> 00:09:03,280
+Và test furosemide là công cụ phân tầng đơn giản. Phần ba sẽ bàn về điều trị nội khoa:
+
+140
+00:09:03,130 --> 00:09:05,106
+dịch truyền, huyết áp, lợi tiểu,
+
+141
+00:09:04,956 --> 00:09:10,130
+bicarbonate và quản lý thuốc. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

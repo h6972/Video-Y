@@ -1,0 +1,587 @@
+1
+00:00:04,900 --> 00:00:06,088
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,938 --> 00:00:11,130
+chào mừng quý vị đến với loạt bài về tổn thương thận cấp ở người bệnh nặng của Thư Viện Y Khoa Online.
+
+3
+00:00:11,330 --> 00:00:12,971
+Loạt bài gồm năm phần,
+
+4
+00:00:12,821 --> 00:00:18,799
+xây dựng trên bản dự thảo công khai tháng 3 năm 2026 của hướng dẫn KDIGO về tổn thương
+
+5
+00:00:18,649 --> 00:00:20,560
+thận cấp và bệnh thận cấp,
+
+6
+00:00:20,410 --> 00:00:25,372
+các đồng thuận ADQI, hướng dẫn lọc máu của Hội Hồi sức Trung Quốc 2026,
+
+7
+00:00:25,222 --> 00:00:28,760
+và các thử nghiệm then chốt đến tháng 10 năm 2026.
+
+8
+00:00:28,960 --> 00:00:32,252
+Xin lưu ý ngay từ đầu: KDIGO 2026 hiện là bản dự thảo,
+
+9
+00:00:32,102 --> 00:00:37,430
+nội dung có thể còn thay đổi ở bản chính thức. Phần một hôm nay trả lời câu hỏi nền tảng:
+
+10
+00:00:37,280 --> 00:00:41,910
+thế nào là tổn thương thận cấp theo định nghĩa mới, và phân giai đoạn ra sao.
+
+11
+00:00:43,360 --> 00:00:47,371
+Bắt đầu bằng gánh nặng. Trong nghiên cứu đa quốc gia AKI-EPI,
+
+12
+00:00:47,221 --> 00:00:50,980
+thực hiện ở 97 trung tâm và dùng đầy đủ tiêu chuẩn KDIGO,
+
+13
+00:00:50,830 --> 00:00:56,550
+có tới 57,3 phần trăm người bệnh bị tổn thương thận cấp ngay trong tuần đầu nằm hồi sức.
+
+14
+00:00:56,750 --> 00:01:01,506
+Gần một phần tư số người bị tổn thương thận cấp, chính xác là 23,5 phần trăm,
+
+15
+00:01:01,356 --> 00:01:03,540
+phải dùng liệu pháp thay thế thận.
+
+16
+00:01:03,740 --> 00:01:08,252
+Tử vong trong viện là 26,9 phần trăm ở người có tổn thương thận cấp,
+
+17
+00:01:08,102 --> 00:01:10,690
+so với 7,2 phần trăm ở người không có.
+
+18
+00:01:10,890 --> 00:01:16,176
+Và tử vong tăng theo giai đoạn: tỷ số chênh đã hiệu chỉnh là 1,68 ở giai đoạn 1,
+
+19
+00:01:16,026 --> 00:01:21,440
+chưa có ý nghĩa thống kê, nhưng tăng lên 2,95 ở giai đoạn 2 và 6,88 ở giai đoạn 3.
+
+20
+00:01:22,890 --> 00:01:24,772
+Định nghĩa mới của KDIGO 2026:
+
+21
+00:01:24,622 --> 00:01:29,677
+tổn thương thận cấp ở trẻ em và người lớn là khi có một hoặc nhiều bất thường về chức
+
+22
+00:01:29,527 --> 00:01:31,063
+năng hoặc cấu trúc thận,
+
+23
+00:01:30,913 --> 00:01:35,680
+đã biết hoặc giả định xảy ra trong vòng 7 ngày, trong bối cảnh lâm sàng phù hợp.
+
+24
+00:01:35,880 --> 00:01:37,900
+Thay đổi lớn nhất so với năm 2012:
+
+25
+00:01:37,750 --> 00:01:41,145
+ngoài tiêu chuẩn chức năng là creatinin và lượng nước tiểu,
+
+26
+00:01:40,995 --> 00:01:42,905
+nay có thêm tiêu chuẩn cấu trúc,
+
+27
+00:01:42,755 --> 00:01:47,470
+tức là tăng một chỉ dấu tổn thương thận khi dùng đúng chỉ định đã được kiểm định và
+
+28
+00:01:47,320 --> 00:01:49,230
+được cơ quan quản lý chấp thuận.
+
+29
+00:01:49,430 --> 00:01:53,589
+Hai điểm mới khác: cystatin C huyết thanh được đưa vào tiêu chuẩn chức năng,
+
+30
+00:01:53,439 --> 00:01:56,860
+và lượng nước tiểu được ghi rõ là tính theo cân nặng lý tưởng.
+
+31
+00:01:57,060 --> 00:02:00,730
+Một lần nữa, đây là bản dự thảo công khai, chưa phải bản chính thức.
+
+32
+00:02:02,180 --> 00:02:07,115
+Đặt hai định nghĩa cạnh nhau. Hai tiêu chuẩn creatinin kinh điển được giữ nguyên:
+
+33
+00:02:06,965 --> 00:02:10,009
+tăng từ 0,3 mi li gam mỗi đề xi lít trong 48 giờ,
+
+34
+00:02:09,859 --> 00:02:12,490
+hoặc tăng từ 1,5 lần mức nền trong 7 ngày.
+
+35
+00:02:12,690 --> 00:02:18,040
+Mới: cystatin C huyết thanh tăng từ 1,5 lần mức nền trong 7 ngày cũng đủ để chẩn đoán.
+
+36
+00:02:18,240 --> 00:02:22,798
+Tiêu chuẩn nước tiểu vẫn là dưới 0,5 mi li lít mỗi ký mỗi giờ trong ít nhất 6 giờ,
+
+37
+00:02:22,648 --> 00:02:26,131
+nhưng nay ghi rõ tính theo cân nặng lý tưởng. Ở người béo phì,
+
+38
+00:02:25,981 --> 00:02:28,550
+tính theo cân nặng thực sẽ chẩn đoán quá mức.
+
+39
+00:02:28,750 --> 00:02:30,909
+Và cột cuối là thay đổi về khái niệm:
+
+40
+00:02:30,759 --> 00:02:36,340
+tổn thương thận có thể được nhận diện bằng chỉ dấu tổn thương ống thận trước khi chức năng thay đổi.
+
+41
+00:02:37,790 --> 00:02:42,242
+Một chút lịch sử để hiểu vì sao định nghĩa quan trọng. Trước năm 2004,
+
+42
+00:02:42,092 --> 00:02:47,404
+tình trạng mà ta gọi là suy thận cấp có ít nhất 35 định nghĩa khác nhau trong y văn,
+
+43
+00:02:47,254 --> 00:02:52,750
+nên tỷ lệ ở hồi sức được báo cáo từ 1 đến 25 phần trăm, tử vong từ 15 đến 60 phần trăm.
+
+44
+00:02:52,950 --> 00:02:58,432
+Nhóm ADQI đề xuất tiêu chuẩn RIFLE với ba mức nặng và hai mức kết cục;
+
+45
+00:02:58,282 --> 00:03:04,220
+sau đó mạng lưới AKIN bổ sung tiêu chuẩn tăng creatinin từ 0,3 trong 48 giờ.
+
+46
+00:03:04,420 --> 00:03:05,155
+Năm 2012,
+
+47
+00:03:05,005 --> 00:03:11,530
+KDIGO hợp nhất hai hệ thống thành định nghĩa và ba giai đoạn mà chúng ta dùng hơn một thập kỷ qua.
+
+48
+00:03:11,730 --> 00:03:16,117
+Từ 2017 đến 2024, các đồng thuận ADQI lần lượt định nghĩa bệnh thận cấp,
+
+49
+00:03:15,967 --> 00:03:18,176
+đưa chỉ dấu sinh học vào chẩn đoán,
+
+50
+00:03:18,026 --> 00:03:21,648
+định nghĩa tổn thương thận cấp liên quan nhiễm khuẩn huyết,
+
+51
+00:03:21,498 --> 00:03:26,120
+và cùng Câu lạc bộ Cổ trướng quốc tế viết lại tiêu chuẩn hội chứng gan thận.
+
+52
+00:03:26,320 --> 00:03:31,510
+Tháng 3 năm 2026, bản dự thảo KDIGO tổng hợp tất cả thành một khung mới.
+
+53
+00:03:32,960 --> 00:03:37,437
+Đây là khung tư duy quan trọng nhất của KDIGO 2026: tổn thương thận cấp,
+
+54
+00:03:37,287 --> 00:03:43,806
+bệnh thận cấp và bệnh thận mạn là một chuỗi liên tục theo thời gian. Một tác nhân gây tổn thương thận cấp,
+
+55
+00:03:43,656 --> 00:03:46,150
+là bất thường xảy ra trong vòng 7 ngày.
+
+56
+00:03:46,350 --> 00:03:50,087
+Nếu bất thường kéo dài, người bệnh bước vào giai đoạn bệnh thận cấp,
+
+57
+00:03:49,937 --> 00:03:51,300
+kéo dài tối đa 3 tháng.
+
+58
+00:03:51,500 --> 00:03:56,404
+Bệnh thận cấp được định nghĩa là có tổn thương thận cấp, hoặc mức lọc cầu thận dưới 60,
+
+59
+00:03:56,254 --> 00:04:00,010
+hoặc giảm từ 35 so với nền, hoặc creatinin tăng trên 50 phần trăm,
+
+60
+00:03:59,860 --> 00:04:03,016
+hoặc có dấu tổn thương thận như albumin niệu, tiểu máu,
+
+61
+00:04:02,866 --> 00:04:08,698
+tiểu bạch cầu. Nghĩa là có những người bị bệnh thận cấp mà chưa từng đạt tiêu chuẩn tổn thương thận cấp,
+
+62
+00:04:08,548 --> 00:04:10,720
+vì mức lọc giảm quá ít hoặc quá chậm.
+
+63
+00:04:10,920 --> 00:04:13,872
+Sau 3 tháng, người bệnh hoặc hồi phục về không bệnh thận,
+
+64
+00:04:13,722 --> 00:04:17,903
+hoặc chuyển thành bệnh thận mạn. Khung này quyết định việc theo dõi sau ra viện mà
+
+65
+00:04:17,753 --> 00:04:19,230
+chúng ta sẽ bàn ở phần năm.
+
+66
+00:04:20,680 --> 00:04:25,848
+Bệnh thận cấp không phải khái niệm lý thuyết. Tổng quan hệ thống 59 nghiên cứu với gần
+
+67
+00:04:25,698 --> 00:04:28,590
+6 triệu người cho tỷ lệ mắc gộp 11,1 phần trăm.
+
+68
+00:04:28,790 --> 00:04:31,980
+Bệnh thận cấp phổ biến gần gấp 3 lần tổn thương thận cấp.
+
+69
+00:04:32,180 --> 00:04:35,850
+Và nó nguy hiểm: tỷ số chênh tử vong mọi nguyên nhân là 3,8.
+
+70
+00:04:36,050 --> 00:04:40,524
+Ngay cả bệnh thận cấp không đi qua tổn thương thận cấp cũng liên quan bệnh thận mạn,
+
+71
+00:04:40,374 --> 00:04:42,840
+nhu cầu lọc máu, biến cố thận lớn và tử vong.
+
+72
+00:04:44,290 --> 00:04:47,304
+Mọi tiêu chuẩn creatinin đều so với mức nền,
+
+73
+00:04:47,154 --> 00:04:53,812
+nên KDIGO 2026 đề nghị chọn creatinin nền theo thứ bậc. Ưu tiên một là creatinin ngoại trú đại diện,
+
+74
+00:04:53,662 --> 00:04:56,611
+trung bình, trung vị hoặc giá trị gần nhất,
+
+75
+00:04:56,461 --> 00:04:59,670
+đo trong khoảng 8 đến 365 ngày trước nhập viện.
+
+76
+00:04:59,870 --> 00:05:02,237
+Không có thì dùng creatinin lúc nhập viện,
+
+77
+00:05:02,087 --> 00:05:05,245
+trừ khi nghi ngờ tổn thương thận cấp đã có ngay lúc nhập,
+
+78
+00:05:05,095 --> 00:05:07,620
+như tổn thương thận cấp mắc phải ở cộng đồng.
+
+79
+00:05:07,820 --> 00:05:11,075
+Một lựa chọn thay thế là giá trị thấp nhất trong đợt nằm viện,
+
+80
+00:05:10,925 --> 00:05:14,530
+nhưng kém tin cậy hơn vì bị ảnh hưởng bởi dịch truyền và ngừng thuốc.
+
+81
+00:05:14,730 --> 00:05:20,090
+Không có giá trị nào cả thì tính ngược với giả định mức lọc cầu thận ước tính 75,
+
+82
+00:05:19,940 --> 00:05:25,557
+ưu tiên phương trình CKD-EPI hơn MDRD. Cách này có thể chẩn đoán quá mức hoặc bỏ sót,
+
+83
+00:05:25,407 --> 00:05:27,680
+nhất là ở người có bệnh thận mạn.
+
+84
+00:05:27,880 --> 00:05:29,269
+Riêng người xơ gan,
+
+85
+00:05:29,119 --> 00:05:34,874
+đồng thuận ADQI và Câu lạc bộ Cổ trướng quốc tế 2024 khuyến cáo dùng creatinin ổn định
+
+86
+00:05:34,724 --> 00:05:36,830
+thấp nhất trong 3 tháng trước.
+
+87
+00:05:38,280 --> 00:05:44,235
+Creatinin có giới hạn mà người làm hồi sức gặp hằng ngày. Vì vậy KDIGO 2026 gợi ý dùng
+
+88
+00:05:44,085 --> 00:05:49,905
+cystatin C huyết thanh để nhận diện tổn thương thận cấp khi creatinin kém chính xác,
+
+89
+00:05:49,755 --> 00:05:55,845
+mức 2B. Theo mô hình, cystatin C đạt ngưỡng chẩn đoán sớm hơn creatinin từ 6 đến 48 giờ;
+
+90
+00:05:55,695 --> 00:05:59,490
+sau phẫu thuật lớn, diện tích dưới đường cong là 0,82.
+
+91
+00:05:59,690 --> 00:06:04,313
+Tình huống điển hình ở hồi sức là thay đổi khối cơ: teo cơ sau nằm viện kéo dài,
+
+92
+00:06:04,163 --> 00:06:05,878
+bệnh thần kinh cơ, liệt tuỷ,
+
+93
+00:06:05,728 --> 00:06:09,680
+cắt cụt trên gối. Creatinin ở những người này thấp giả và tăng muộn.
+
+94
+00:06:09,880 --> 00:06:14,306
+Chế độ ăn và thuốc cũng làm creatinin sai lệch: ăn ít đạm hoặc ăn chay,
+
+95
+00:06:14,156 --> 00:06:16,293
+ăn nhiều đạm hay bổ sung creatin,
+
+96
+00:06:16,143 --> 00:06:20,990
+và các thuốc ức chế bài tiết creatinin ở ống thận như trimethoprim, cimetidin.
+
+97
+00:06:21,190 --> 00:06:25,060
+Tuy vậy, creatinin vẫn là xét nghiệm chính cho đa số người bệnh;
+
+98
+00:06:24,910 --> 00:06:28,140
+mỗi cơ sở cần quy định rõ khi nào đo thêm cystatin C.
+
+99
+00:06:29,590 --> 00:06:35,485
+Về phân giai đoạn, ngưỡng của từng giai đoạn không đổi so với 2012. Giai đoạn 1:
+
+100
+00:06:35,335 --> 00:06:41,660
+creatinin tăng từ 0,3 hoặc 1,5 đến 1,9 lần nền; nước tiểu dưới 0,5 trong 6 đến 12 giờ.
+
+101
+00:06:41,860 --> 00:06:47,850
+Giai đoạn 2: creatinin 2 đến 2,9 lần nền; nước tiểu dưới 0,5 trong hơn 12 giờ.
+
+102
+00:06:48,050 --> 00:06:52,607
+Giai đoạn 3: creatinin từ 3 lần nền, hoặc từ 4 mi li gam mỗi đề xi lít,
+
+103
+00:06:52,457 --> 00:06:57,510
+hoặc đã khởi động liệu pháp thay thế thận; nước tiểu dưới 0,3 trong hơn 24 giờ,
+
+104
+00:06:57,360 --> 00:06:58,000
+hoặc vô niệu hơn 12 giờ.
+
+105
+00:06:59,200 --> 00:07:00,896
+Điểm mới là cách ghi:
+
+106
+00:07:00,746 --> 00:07:07,078
+KDIGO 2026 không gộp thành một con số mà ghi riêng từng thành phần, C cho creatinin,
+
+107
+00:07:06,928 --> 00:07:08,256
+U cho nước tiểu,
+
+108
+00:07:08,106 --> 00:07:14,218
+B cho chỉ dấu. Ví dụ C1 U2 B1. Thậm chí có tổn thương thận cấp chỉ theo cấu trúc,
+
+109
+00:07:14,068 --> 00:07:14,880
+C0 U0 B1.
+
+110
+00:07:16,330 --> 00:07:21,440
+Vì sao phải ghi riêng? Vì creatinin và nước tiểu đồng thuận kém và mang tiên lượng khác nhau.
+
+111
+00:07:21,640 --> 00:07:26,326
+Trong nghiên cứu của Bianchi, ở những người cùng giai đoạn 1 theo creatinin,
+
+112
+00:07:26,176 --> 00:07:31,578
+tử vong 90 ngày là 37 phần trăm nếu nước tiểu ở giai đoạn 3, 17 phần trăm ở giai đoạn 2,
+
+113
+00:07:31,428 --> 00:07:33,189
+16 phần trăm ở giai đoạn 1,
+
+114
+00:07:33,039 --> 00:07:36,830
+và 11 phần trăm nếu không tổn thương thận cấp theo nước tiểu.
+
+115
+00:07:37,030 --> 00:07:38,169
+Trong nghiên cứu đó,
+
+116
+00:07:38,019 --> 00:07:42,225
+thêm tiêu chuẩn nước tiểu giúp nhận diện thêm hoặc tăng giai đoạn ở 51,7 phần trăm
+
+117
+00:07:42,075 --> 00:07:43,660
+người bị tổn thương thận cấp.
+
+118
+00:07:43,860 --> 00:07:47,543
+Một số tác giả đề xuất ngưỡng nước tiểu thấp hơn trong 6 giờ,
+
+119
+00:07:47,393 --> 00:07:51,770
+nhưng KDIGO 2026 chưa đưa vào định nghĩa và cho rằng cần thêm nghiên cứu.
+
+120
+00:07:53,220 --> 00:07:57,623
+Theo thời gian, KDIGO 2026 phân biệt tổn thương thận cấp thoáng qua,
+
+121
+00:07:57,473 --> 00:08:02,190
+khi bất thường kéo dài không quá 48 giờ, với tổn thương thận cấp kéo dài,
+
+122
+00:08:02,040 --> 00:08:07,569
+trên 48 giờ đến 7 ngày. Nhóm soạn thảo chọn mốc 48 thay vì 72 giờ để đánh giá sớm hơn;
+
+123
+00:08:07,419 --> 00:08:11,760
+nhóm kéo dài có nguy cơ bệnh thận mạn, suy thận và tử vong cao hơn.
+
+124
+00:08:11,960 --> 00:08:14,972
+Lần đầu tiên có định nghĩa chuẩn về hồi phục:
+
+125
+00:08:14,822 --> 00:08:19,870
+hồi phục hoàn toàn khi creatinin hoặc cystatin C trở về dưới 1,2 lần mức nền.
+
+126
+00:08:20,070 --> 00:08:24,220
+Hồi phục một phần khi còn từ 1,2 đến dưới 1,5 lần mức nền.
+
+127
+00:08:24,420 --> 00:08:29,210
+Và tổn thương thận cấp tái phát là một đợt mới sau khi đã hồi phục một phần hoặc hoàn toàn.
+
+128
+00:08:30,660 --> 00:08:35,084
+Tình huống. Một người đàn ông nặng 70 ký, cân nặng lý tưởng 65 ký,
+
+129
+00:08:34,934 --> 00:08:40,394
+creatinin ngoại trú 3 tháng trước là 1,0. Ngày thứ hai nằm hồi sức, creatinin 2,3;
+
+130
+00:08:40,244 --> 00:08:45,510
+lượng nước tiểu 0,25 mi li lít mỗi ký mỗi giờ kéo dài 26 giờ. Không đo chỉ dấu.
+
+131
+00:08:45,710 --> 00:08:49,780
+Câu hỏi: ghi giai đoạn theo KDIGO 2026 như thế nào?
+
+132
+00:08:49,980 --> 00:08:52,770
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+133
+00:09:01,370 --> 00:09:04,445
+Đáp án là C2 U3. Creatinin gấp 2,3 lần nền,
+
+134
+00:09:04,295 --> 00:09:09,206
+thuộc giai đoạn 2 theo creatinin. Nước tiểu dưới 0,3 trong hơn 24 giờ,
+
+135
+00:09:09,056 --> 00:09:15,055
+thuộc giai đoạn 3 theo nước tiểu. Theo cách cũ năm 2012, ta sẽ chỉ ghi là giai đoạn 3;
+
+136
+00:09:14,905 --> 00:09:18,320
+cách ghi mới cho biết rõ nguồn gốc của mức nặng.
+
+137
+00:09:19,770 --> 00:09:25,936
+Tóm lại phần một. Tổn thương thận cấp là bất thường chức năng hoặc cấu trúc thận trong 7 ngày;
+
+138
+00:09:25,786 --> 00:09:29,840
+KDIGO 2026 bản dự thảo thêm cystatin C và chỉ dấu tổn thương.
+
+139
+00:09:30,040 --> 00:09:33,434
+Tổn thương thận cấp, bệnh thận cấp và bệnh thận mạn là một chuỗi;
+
+140
+00:09:33,284 --> 00:09:36,030
+bệnh thận cấp gặp gần gấp 3 lần tổn thương thận cấp.
+
+141
+00:09:36,230 --> 00:09:38,460
+Chọn creatinin nền theo thứ bậc.
+
+142
+00:09:38,660 --> 00:09:43,450
+Ghi riêng creatinin, nước tiểu và chỉ dấu, với nước tiểu tính theo cân nặng lý tưởng.
+
+143
+00:09:43,650 --> 00:09:46,457
+Phân biệt thoáng qua với kéo dài ở mốc 48 giờ,
+
+144
+00:09:46,307 --> 00:09:50,443
+và hồi phục hoàn toàn khi creatinin dưới 1,2 lần mức nền. Ở phần hai,
+
+145
+00:09:50,293 --> 00:09:53,909
+chúng ta sẽ đi vào cơ chế: vì sao creatinin là chỉ dấu chậm,
+
+146
+00:09:53,759 --> 00:09:56,855
+thận bị tổn thương thế nào trong nhiễm khuẩn huyết,
+
+147
+00:09:56,705 --> 00:10:02,690
+và cách dùng chỉ dấu cùng test furosemide. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.
