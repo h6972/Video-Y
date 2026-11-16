@@ -1,0 +1,391 @@
+1
+00:00:04,900 --> 00:00:07,904
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm,
+
+2
+00:00:07,754 --> 00:00:11,930
+phần cuối của loạt bài viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.
+
+3
+00:00:12,130 --> 00:00:17,228
+Hôm nay chúng ta sẽ cùng xử trí một ca lâm sàng hồi sức từ lúc tiếp nhận đến khi ổn định,
+
+4
+00:00:17,078 --> 00:00:20,341
+áp dụng tất cả những gì đã học về phân tầng, kháng sinh,
+
+5
+00:00:20,191 --> 00:00:22,120
+corticoid và thời gian điều trị.
+
+6
+00:00:22,320 --> 00:00:26,683
+Đây là ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng. Ở mỗi điểm quyết định,
+
+7
+00:00:26,533 --> 00:00:29,190
+quý vị hãy thử tự trả lời trước khi xem đáp án.
+
+8
+00:00:30,640 --> 00:00:35,650
+Người bệnh nữ 71 tuổi, đái tháo đường týp 2 kiểm soát tốt. Ba ngày nay sốt, ho đàm,
+
+9
+00:00:35,500 --> 00:00:38,870
+khó thở tăng dần. Từ sáng nay người nhà thấy bà lú lẫn.
+
+10
+00:00:39,070 --> 00:00:42,467
+Tại cấp cứu: mạch 112, huyết áp 96 trên 58,
+
+11
+00:00:42,317 --> 00:00:47,300
+SpO₂ 86 phần trăm khi thở khí trời. Nghe phổi có ran nổ hai đáy.
+
+12
+00:00:47,500 --> 00:00:51,090
+Nhịp thở 34 lần mỗi phút, bà lú lẫn và mất định hướng.
+
+13
+00:00:51,290 --> 00:00:53,771
+Nhiệt độ 38,9 độ. Ngay trên màn hình này,
+
+14
+00:00:53,621 --> 00:00:58,320
+quý vị đã có thể đếm được vài tiêu chí của CURB-65 và tiêu chuẩn viêm phổi nặng.
+
+15
+00:00:59,770 --> 00:01:06,160
+Khí máu khi thở oxy 6 lít mỗi phút cho PaO₂/FiO₂ bằng 180, lactate 2,4.
+
+16
+00:01:06,360 --> 00:01:09,657
+Bạch cầu chỉ 3,2 G/L, urê 11 mi li mol mỗi lít,
+
+17
+00:01:09,507 --> 00:01:14,077
+tương đương BUN khoảng 31 mi li gam mỗi đề xi lít, và CRP rất cao,
+
+18
+00:01:13,927 --> 00:01:15,550
+280 mi li gam mỗi lít.
+
+19
+00:01:15,750 --> 00:01:20,643
+X-quang có tổn thương hai thuỳ. Cấy máu và cấy đàm đã lấy trước kháng sinh;
+
+20
+00:01:20,493 --> 00:01:22,540
+PCR cúm và SARS-CoV-2 âm tính.
+
+21
+00:01:23,990 --> 00:01:25,212
+Trong khi chờ X-quang,
+
+22
+00:01:25,062 --> 00:01:28,427
+bác sĩ cấp cứu siêu âm phổi tại giường. Đây là clip minh hoạ thật,
+
+23
+00:01:28,277 --> 00:01:31,740
+không phải của người bệnh này: hình ảnh đông đặc nhỏ dưới màng phổi.
+
+24
+00:01:31,940 --> 00:01:34,890
+Và một vùng đông đặc lớn hơn có khí phế quản đồ.
+
+25
+00:01:35,090 --> 00:01:39,507
+Siêu âm phổi tại giường giúp xác nhận đông đặc, tìm tràn dịch màng phổi,
+
+26
+00:01:39,357 --> 00:01:41,166
+và loại trừ phù phổi do tim,
+
+27
+00:01:41,016 --> 00:01:44,840
+đúng như NICE 2025 gợi ý cho người bệnh nặng hoặc đang xấu đi.
+
+28
+00:01:46,290 --> 00:01:49,800
+Điểm quyết định thứ nhất: người bệnh nặng đến đâu và điều trị ở đâu?
+
+29
+00:01:50,000 --> 00:01:53,350
+Hãy đếm cả tiêu chuẩn viêm phổi nặng lẫn CURB-65.
+
+30
+00:01:53,550 --> 00:01:56,260
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+31
+00:02:04,860 --> 00:02:10,577
+Đáp án là B. Bà có sáu tiêu chuẩn phụ: nhịp thở từ 30, PaO₂/FiO₂ không quá 250,
+
+32
+00:02:10,427 --> 00:02:15,228
+tổn thương nhiều thuỳ, lú lẫn, BUN từ 20 và bạch cầu dưới 4 nghìn,
+
+33
+00:02:15,078 --> 00:02:19,949
+vượt xa ngưỡng 3. CURB-65 là 5 điểm: lú lẫn, urê trên 7, thở từ 30,
+
+34
+00:02:19,799 --> 00:02:25,164
+huyết áp tâm trương 58 không quá 60, và tuổi từ 65. Đây là viêm phổi nặng,
+
+35
+00:02:25,014 --> 00:02:30,660
+cần hồi sức. Phương án C sai vì không cần có tiêu chuẩn chính mới gọi là nặng.
+
+36
+00:02:32,110 --> 00:02:33,544
+Điểm quyết định thứ hai:
+
+37
+00:02:33,394 --> 00:02:38,358
+kháng sinh ban đầu. Bà chưa từng phân lập tụ cầu kháng methicillin hay trực khuẩn mủ xanh,
+
+38
+00:02:38,208 --> 00:02:41,460
+không nằm viện hay dùng kháng sinh tiêm trong 90 ngày qua.
+
+39
+00:02:41,660 --> 00:02:43,250
+Phác đồ nào phù hợp?
+
+40
+00:02:43,450 --> 00:02:46,480
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+41
+00:02:55,080 --> 00:02:55,918
+Đáp án là B:
+
+42
+00:02:55,768 --> 00:03:00,851
+ceftriaxon 2 gam mỗi ngày phối hợp azithromycin 500 mi li gam mỗi ngày. Viêm phổi nặng
+
+43
+00:03:00,701 --> 00:03:02,457
+không dùng quinolon đơn trị;
+
+44
+00:03:02,307 --> 00:03:07,390
+không có yếu tố nguy cơ nên không phủ tụ cầu kháng methicillin hay trực khuẩn mủ xanh;
+
+45
+00:03:07,240 --> 00:03:12,668
+và kháng sinh uống không phù hợp với người bệnh hồi sức. Hướng dẫn châu Âu ưu tiên macrolid,
+
+46
+00:03:12,518 --> 00:03:13,700
+dùng 3 đến 5 ngày.
+
+47
+00:03:15,150 --> 00:03:17,470
+Điểm quyết định thứ ba, khó nhất:
+
+48
+00:03:17,320 --> 00:03:23,060
+có dùng corticoid hay không? Mười hai giờ sau nhập viện, bà thở oxy dòng cao qua mũi,
+
+49
+00:03:22,910 --> 00:03:27,860
+P/F 180, CRP 280, PCR cúm âm tính, không sốc, đường huyết kiểm soát được.
+
+50
+00:03:28,060 --> 00:03:29,570
+Quyết định nào hợp lý?
+
+51
+00:03:29,770 --> 00:03:32,560
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+52
+00:03:41,160 --> 00:03:46,228
+Đáp án là B. Người bệnh có đúng kiểu hình của thử nghiệm CAPE COD: viêm phổi nặng,
+
+53
+00:03:46,078 --> 00:03:49,527
+suy hô hấp với P/F dưới 300, trong 24 giờ, CRP rất cao,
+
+54
+00:03:49,377 --> 00:03:55,465
+không cúm và không chống chỉ định. ATS 2025 gợi ý dùng corticoid ở nhóm này. Phương án A chưa đúng,
+
+55
+00:03:55,315 --> 00:04:00,204
+vì REMAP-CAP chỉ cho thấy hydrocortison cố định 7 ngày khó đem lại lợi ích lớn,
+
+56
+00:04:00,054 --> 00:04:05,482
+không loại trừ lợi ích ở nhóm chọn lọc. Methylprednisolon liều xung không có bằng chứng;
+
+57
+00:04:05,332 --> 00:04:10,461
+và chờ đến khi sốc là bỏ lỡ thời điểm. Khi dùng, cần theo dõi đường huyết chặt chẽ,
+
+58
+00:04:10,311 --> 00:04:12,620
+nhất là ở người bệnh đái tháo đường.
+
+59
+00:04:14,070 --> 00:04:17,602
+Diễn tiến của người bệnh. Trong 4 giờ đầu: lấy bệnh phẩm,
+
+60
+00:04:17,452 --> 00:04:21,340
+khởi động ceftriaxon và azithromycin, thở oxy dòng cao qua mũi.
+
+61
+00:04:21,540 --> 00:04:25,885
+Ở giờ thứ 12, bắt đầu hydrocortison 200 mi li gam mỗi ngày truyền liên tục,
+
+62
+00:04:25,735 --> 00:04:28,010
+kèm insulin theo đường huyết mao mạch.
+
+63
+00:04:28,210 --> 00:04:33,012
+Ngày thứ 3, cấy máu mọc phế cầu nhạy penicillin. Azithromycin được ngừng sau 3 ngày,
+
+64
+00:04:32,862 --> 00:04:34,840
+đúng gợi ý của hướng dẫn châu Âu.
+
+65
+00:04:35,040 --> 00:04:38,194
+Ngày thứ 4, P/F tăng lên 290, bà hết lú lẫn,
+
+66
+00:04:38,044 --> 00:04:41,744
+CRP giảm. Cải thiện nhanh nên theo phác đồ CAPE COD,
+
+67
+00:04:41,594 --> 00:04:45,430
+hydrocortison được giảm dần với tổng thời gian 8 ngày.
+
+68
+00:04:45,630 --> 00:04:49,833
+Ngày thứ 6, bà đạt đủ sáu tiêu chí ổn định lâm sàng. Với viêm phổi nặng,
+
+69
+00:04:49,683 --> 00:04:53,380
+kháng sinh cần ít nhất 5 ngày, nên có thể ngừng và chuyển khoa.
+
+70
+00:04:54,830 --> 00:04:58,746
+Không phải ca nào cũng thuận lợi như vậy. Theo Hội Hô hấp Việt Nam,
+
+71
+00:04:58,596 --> 00:05:03,412
+thất bại điều trị chiếm khoảng 10 đến 15 phần trăm và có thể làm tử vong tăng tới 5
+
+72
+00:05:03,262 --> 00:05:05,942
+lần. Thất bại sớm là xấu đi trong 72 giờ đầu;
+
+73
+00:05:05,792 --> 00:05:10,720
+thất bại muộn là sốt kéo dài hoặc tái phát, suy hô hấp hay tổn thương mới sau 72 giờ.
+
+74
+00:05:10,920 --> 00:05:13,627
+Bước đầu tiên là khám lại toàn diện, làm điện tim,
+
+75
+00:05:13,477 --> 00:05:16,030
+chụp lại X-quang và làm lại xét nghiệm vi sinh.
+
+76
+00:05:16,230 --> 00:05:20,104
+Sau đó tìm nguyên nhân theo bốn nhóm. Thứ nhất là vi khuẩn kháng thuốc,
+
+77
+00:05:19,954 --> 00:05:24,561
+dự đoán sai tác nhân hay đồng nhiễm. Thứ hai là tác nhân không phải vi khuẩn như lao,
+
+78
+00:05:24,411 --> 00:05:25,820
+nấm, nhiễm trùng cơ hội.
+
+79
+00:05:26,020 --> 00:05:29,529
+Thứ ba là nguyên nhân không nhiễm trùng: thuyên tắc phổi, ung thư,
+
+80
+00:05:29,379 --> 00:05:32,634
+suy tim. Thứ tư là biến chứng: tràn mủ màng phổi, áp xe phổi,
+
+81
+00:05:32,484 --> 00:05:36,400
+nhiễm khuẩn huyết. Công cụ gồm chụp mạch phổi cắt lớp khi nghi thuyên tắc,
+
+82
+00:05:36,250 --> 00:05:40,370
+siêu âm và chọc dịch màng phổi, chụp cắt lớp ngực và nội soi phế quản khi cần.
+
+83
+00:05:41,820 --> 00:05:44,994
+Để khép lại loạt bài, xin tóm tắt bảy thông điệp. Một:
+
+84
+00:05:44,844 --> 00:05:48,298
+chẩn đoán viêm phổi cần lâm sàng cộng hình ảnh trong 4 giờ,
+
+85
+00:05:48,148 --> 00:05:51,490
+và siêu âm phổi là lựa chọn thay thế ở nơi đủ chuyên môn.
+
+86
+00:05:51,690 --> 00:05:55,823
+Hai: phân tầng bằng CURB-65 hoặc PSI cùng tiêu chuẩn viêm phổi nặng,
+
+87
+00:05:55,673 --> 00:05:58,400
+và SMART-COP khi cần dự báo nhu cầu hồi sức.
+
+88
+00:05:58,600 --> 00:06:03,390
+Ba: ở Việt Nam, không dùng macrolid đơn trị, β-lactam vẫn là xương sống.
+
+89
+00:06:03,590 --> 00:06:07,044
+Bốn: viêm phổi nặng dùng β-lactam phối hợp macrolid;
+
+90
+00:06:06,894 --> 00:06:12,700
+chỉ phủ tụ cầu kháng methicillin và trực khuẩn mủ xanh khi có yếu tố nguy cơ đã xác nhận.
+
+91
+00:06:12,900 --> 00:06:15,703
+Năm: ngừng kháng sinh dựa trên ổn định lâm sàng,
+
+92
+00:06:15,553 --> 00:06:19,130
+tối thiểu 3 ngày ở người không nặng và từ 5 ngày ở người nặng.
+
+93
+00:06:19,330 --> 00:06:22,664
+Sáu: corticoid dùng có chọn lọc cho kiểu hình giống CAPE COD,
+
+94
+00:06:22,514 --> 00:06:25,640
+không dùng khi viêm phổi do cúm hay viêm phổi không nặng.
+
+95
+00:06:25,840 --> 00:06:28,071
+Và bảy: khi không đáp ứng sau 72 giờ,
+
+96
+00:06:27,921 --> 00:06:32,852
+hãy tìm nguyên nhân theo bốn nhóm. Cảm ơn quý đồng nghiệp đã đồng hành cùng loạt bài.
+
+97
+00:06:32,702 --> 00:06:37,689
+Trọn bộ chuyên đề có tại thuvienykhoa.online. Hẹn gặp lại quý vị trong những chuyên đề
+
+98
+00:06:37,539 --> 00:06:39,770
+tiếp theo của Thư Viện Y Khoa Online.

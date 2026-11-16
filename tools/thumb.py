@@ -3,6 +3,8 @@ Dùng: python tools/thumb.py <spec.json>
 spec: [{"out": "thumbs/x.png", "hook": "CƠN BÃO GIÁP", "line2": "Nhận diện &amp; chẩn đoán", "chips": ["..."],
         "badge": "PHẦN 1/2", "tag": "Đồng thuận ETA/BTA 2026", "img": "media/.../a.jpg" | null, "art": "<svg…>" (tuỳ chọn, thay hình vẽ mặc định), "c": "coral"}]"""
 import json, os, sys
+from pathlib import Path
+U = lambda x: Path(x).resolve().as_uri()
 from playwright.sync_api import sync_playwright
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ART = '''<svg viewBox="0 0 760 700" width="640" height="590"><path d="M380 60 V600" stroke="rgba(148,163,184,.35)" stroke-width="48" stroke-linecap="round"/>
@@ -14,11 +16,11 @@ ART = '''<svg viewBox="0 0 760 700" width="640" height="590"><path d="M380 60 V6
 LOGO = '<svg width="44" height="44" viewBox="-1 -1 28 28"><rect x="1" y="1" width="24" height="24" rx="6" fill="none" stroke="#e6edf7" stroke-width="2"/><path d="M4 14h5l2-5 3 9 2-4h6" fill="none" stroke="#2dd4bf" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/></svg>'
 def page(s):
     c = {"coral": "#fb7185", "amber": "#fbbf24", "teal": "#2dd4bf"}.get(s.get("c", "coral"), "#fb7185")
-    img = f'<div class="ph" style="background-image:url(file://{os.path.join(R, s["img"])})"></div>' if s.get("img") else f'<div class="art">{s.get("art") or ART}</div>'
+    img = f'<div class="ph" style="background-image:url({U(os.path.join(R, s["img"]))})"></div>' if s.get("img") else f'<div class="art">{s.get("art") or ART}</div>'
     chips = "".join(f"<span>{x}</span>" for x in s.get("chips", []))
     return f'''<!doctype html><html><head><meta charset="utf-8"><style>
-@font-face{{font-family:Inter;src:url(file://{R}/fonts/Inter-ExtraBold.otf);font-weight:800}}
-@font-face{{font-family:Inter;src:url(file://{R}/fonts/Inter-Bold.otf);font-weight:700}}
+@font-face{{font-family:Inter;src:url({U(R + "/fonts/Inter-ExtraBold.otf")});font-weight:800}}
+@font-face{{font-family:Inter;src:url({U(R + "/fonts/Inter-Bold.otf")});font-weight:700}}
 *{{margin:0;padding:0;box-sizing:border-box}}
 body{{width:1280px;height:720px;overflow:hidden;font-family:Inter;color:#fff;background:#07122a;position:relative}}
 .bg{{position:absolute;inset:0;background:radial-gradient(700px 520px at 85% 30%,rgba(37,99,235,.45),transparent 65%),radial-gradient(600px 500px at 0% 100%,rgba(20,184,166,.28),transparent 60%)}}
@@ -37,7 +39,7 @@ body{{width:1280px;height:720px;overflow:hidden;font-family:Inter;color:#fff;bac
 .chips span{{font-size:27px;font-weight:700;background:rgba(255,255,255,.1);border:2px solid rgba(255,255,255,.25);padding:8px 16px;border-radius:12px}}
 .bar{{position:absolute;left:0;bottom:0;height:12px;width:100%;background:linear-gradient(90deg,#2dd4bf,#60a5fa,{c})}}
 </style></head><body><div class="bg"></div>{img}{'<div class="tint"></div>' if s.get("img") else ''}
-<div class="brand"><img src="file://{R}/assets/brand/logo.png" style="width:78px;height:78px;border-radius:50%;box-shadow:0 0 24px rgba(45,212,191,.45)">THƯ VIỆN Y KHOA ONLINE</div><div class="badge">{s.get("badge","")}</div>
+<div class="brand"><img src="{U(R + "/assets/brand/logo.png")}" style="width:78px;height:78px;border-radius:50%;box-shadow:0 0 24px rgba(45,212,191,.45)">THƯ VIỆN Y KHOA ONLINE</div><div class="badge">{s.get("badge","")}</div>
 <div class="txt"><div class="tag">{s.get("tag","")}</div><div class="hook">{s["hook"]}</div><div class="l2">{s.get("line2","")}</div><div class="chips">{chips}</div></div>
 <div class="bar"></div></body></html>'''
 if __name__ == "__main__":
@@ -46,7 +48,7 @@ if __name__ == "__main__":
         b = p.chromium.launch(); pg = b.new_page(viewport={"width": 1280, "height": 720})
         for s in spec:
             tmp = os.path.join(R, "_thumb.html"); open(tmp, "w", encoding="utf-8").write(page(s))
-            pg.goto("file://" + tmp); pg.evaluate("document.fonts.ready"); pg.wait_for_timeout(300)
+            pg.goto(U(tmp)); pg.evaluate("document.fonts.ready"); pg.wait_for_timeout(300)
             out = os.path.join(R, s["out"]); os.makedirs(os.path.dirname(out), exist_ok=True)
             pg.screenshot(path=out); print("->", s["out"])
         b.close(); os.remove(tmp)

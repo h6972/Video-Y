@@ -1,0 +1,547 @@
+1
+00:00:04,900 --> 00:00:06,103
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,953 --> 00:00:11,370
+chào mừng quý vị đến với phần hai trong loạt bài viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.
+
+3
+00:00:11,570 --> 00:00:14,998
+Phần này trả lời ba câu hỏi: xác nhận viêm phổi bằng hình ảnh nào,
+
+4
+00:00:14,848 --> 00:00:16,637
+cần xét nghiệm vi sinh gì cho ai,
+
+5
+00:00:16,487 --> 00:00:20,760
+và làm sao phân tầng độ nặng để quyết định điều trị ngoại trú, nội trú hay hồi sức.
+
+6
+00:00:20,960 --> 00:00:23,807
+Chúng ta sẽ xem nhiều hình ảnh và clip siêu âm thật,
+
+7
+00:00:23,657 --> 00:00:25,830
+và cùng tính điểm trên một ca minh hoạ.
+
+8
+00:00:27,280 --> 00:00:28,654
+Như đã nói ở phần một,
+
+9
+00:00:28,504 --> 00:00:34,387
+chẩn đoán viêm phổi cần hình ảnh xác nhận tổn thương phế nang mới. X-quang ngực vẫn là công cụ đầu tay:
+
+10
+00:00:34,237 --> 00:00:36,390
+đây là đông đặc thuỳ giữa phổi phải.
+
+11
+00:00:36,590 --> 00:00:40,546
+NICE 2025 đặt mục tiêu hệ thống: chẩn đoán, kể cả chụp X-quang,
+
+12
+00:00:40,396 --> 00:00:45,620
+phải xong trong vòng 4 giờ sau khi người bệnh đến viện, để kịp khởi động kháng sinh.
+
+13
+00:00:45,820 --> 00:00:48,584
+Chụp cắt lớp vi tính hữu ích khi X-quang không rõ,
+
+14
+00:00:48,434 --> 00:00:53,027
+khi nghi biến chứng hoặc chẩn đoán khác. Bên phải là hình ảnh của một người bệnh viêm
+
+15
+00:00:52,877 --> 00:00:54,281
+phổi nặng do Legionella,
+
+16
+00:00:54,131 --> 00:00:59,090
+được công bố trên tạp chí bệnh truyền nhiễm mới nổi của Trung tâm Kiểm soát Bệnh tật Hoa Kỳ.
+
+17
+00:00:59,290 --> 00:01:01,795
+Một lưu ý thực hành của Hội Hô hấp Việt Nam:
+
+18
+00:01:01,645 --> 00:01:04,257
+hình ảnh thâm nhiễm có thể tồn tại tới 6 tuần,
+
+19
+00:01:04,107 --> 00:01:07,200
+nên đừng đánh giá đáp ứng điều trị chỉ dựa vào X-quang.
+
+20
+00:01:08,650 --> 00:01:14,257
+Thay đổi đầu tiên của ATS 2025 liên quan đến siêu âm phổi. Đây là một clip siêu âm thật
+
+21
+00:01:14,107 --> 00:01:16,640
+ở người bệnh viêm phổi thuỳ giữa phải.
+
+22
+00:01:16,840 --> 00:01:18,990
+Ở phía trên là đường màng phổi.
+
+23
+00:01:19,190 --> 00:01:23,547
+Bên dưới, thay vì các đường A của phổi chứa khí bình thường, ta thấy mô phổi đặc lại,
+
+24
+00:01:23,397 --> 00:01:26,220
+có cấu trúc giống nhu mô gan, gọi là hình ảnh hoá gan.
+
+25
+00:01:26,420 --> 00:01:29,970
+Trong vùng đông đặc có những chấm sáng di động theo nhịp thở,
+
+26
+00:01:29,820 --> 00:01:31,475
+đó là khí phế quản đồ động,
+
+27
+00:01:31,325 --> 00:01:36,324
+gợi ý phế quản còn thông và hướng nhiều đến viêm phổi hơn là xẹp phổi. Clip thứ hai bên
+
+28
+00:01:36,174 --> 00:01:38,330
+phải cũng là một vùng đông đặc phổi.
+
+29
+00:01:38,530 --> 00:01:43,786
+ATS 2025 gợi ý siêu âm phổi là lựa chọn thay thế chấp nhận được cho X-quang ngực ở
+
+30
+00:01:43,636 --> 00:01:47,771
+những nơi có chuyên môn phù hợp. Đây là khuyến cáo có điều kiện,
+
+31
+00:01:47,621 --> 00:01:50,760
+chứng cứ thấp, với 13 trên 15 thành viên đồng ý.
+
+32
+00:01:52,210 --> 00:01:56,831
+Nhưng thay X-quang bằng siêu âm đòi hỏi điều kiện. ATS 2025 liệt kê:
+
+33
+00:01:56,681 --> 00:02:00,184
+đầu dò tần số thấp xuyên sâu 14 đến 16 xăng ti mét;
+
+34
+00:02:00,034 --> 00:02:03,800
+người làm được đào tạo và đánh giá năng lực chính thức.
+
+35
+00:02:04,000 --> 00:02:08,639
+Quy trình phải chuẩn hoá, khảo sát phần trên và dưới của thành ngực trước, bên và sau;
+
+36
+00:02:08,489 --> 00:02:12,710
+lưu clip 2 đến 4 giây, có báo cáo trong hồ sơ và kiểm định chất lượng định kỳ.
+
+37
+00:02:12,910 --> 00:02:17,690
+Và vẫn cần X-quang hoặc CT khi nghi chẩn đoán khác như thuyên tắc phổi hay ung thư,
+
+38
+00:02:17,540 --> 00:02:20,759
+hoặc khi có trở ngại kỹ thuật như béo phì, ống dẫn lưu,
+
+39
+00:02:20,609 --> 00:02:24,162
+vết thương. NICE 2025 cũng thừa nhận siêu âm phổi tại giường,
+
+40
+00:02:24,012 --> 00:02:28,346
+đặc biệt ở người bệnh nặng hoặc đang xấu đi, khi cần phân biệt với suy tim,
+
+41
+00:02:28,196 --> 00:02:30,410
+hoặc để khảo sát tràn dịch màng phổi.
+
+42
+00:02:31,860 --> 00:02:32,606
+Về vi sinh,
+
+43
+00:02:32,456 --> 00:02:37,052
+nguyên tắc là xét nghiệm càng nhiều khi bệnh càng nặng. Với nhuộm Gram và cấy đàm:
+
+44
+00:02:36,902 --> 00:02:38,950
+không thường quy ở người ngoại trú;
+
+45
+00:02:38,800 --> 00:02:44,588
+ở người nội trú không nặng chỉ khi đang hoặc từng nhiễm tụ cầu kháng methicillin hay trực khuẩn mủ xanh,
+
+46
+00:02:44,438 --> 00:02:48,275
+hoặc mới nằm viện kèm kháng sinh tiêm; và luôn làm ở viêm phổi nặng,
+
+47
+00:02:48,125 --> 00:02:50,010
+nhất là khi đã đặt nội khí quản.
+
+48
+00:02:50,210 --> 00:02:52,454
+Cấy máu tương tự: không làm ở người ngoại trú,
+
+49
+00:02:52,304 --> 00:02:55,960
+không thường quy ở người nội trú không nặng, nhưng bắt buộc ở viêm phổi nặng.
+
+50
+00:02:56,160 --> 00:02:59,908
+Kháng nguyên niệu phế cầu và Legionella dành cho viêm phổi nặng;
+
+51
+00:02:59,758 --> 00:03:04,630
+kháng nguyên Legionella còn làm khi có yếu tố dịch tễ như ổ dịch hay mới đi du lịch.
+
+52
+00:03:04,830 --> 00:03:06,253
+Khi cúm đang lưu hành,
+
+53
+00:03:06,103 --> 00:03:10,363
+ATS và IDSA khuyến cáo mạnh xét nghiệm cúm bằng kỹ thuật phân tử nhanh,
+
+54
+00:03:10,213 --> 00:03:12,100
+ưu tiên hơn test kháng nguyên.
+
+55
+00:03:12,300 --> 00:03:17,052
+Và hướng dẫn châu Âu gợi ý làm PCR đa mồi trên mẫu đường hô hấp dưới ở người bệnh nặng
+
+56
+00:03:16,902 --> 00:03:20,210
+khi đang dùng hoặc cân nhắc kháng sinh ngoài phác đồ chuẩn.
+
+57
+00:03:21,660 --> 00:03:25,103
+Đây là những bệnh phẩm thật. Bên trái là chai cấy máu dương tính,
+
+58
+00:03:24,953 --> 00:03:26,370
+dịch đục do vi khuẩn mọc.
+
+59
+00:03:26,570 --> 00:03:30,914
+Ở giữa là tiêu bản nhuộm Gram lấy từ chai cấy dương tính, với cầu khuẩn Gram dương,
+
+60
+00:03:30,764 --> 00:03:34,400
+cho thông tin định hướng sớm trước khi có định danh và kháng sinh đồ.
+
+61
+00:03:34,600 --> 00:03:39,444
+Bên phải là hạt virus cúm dưới kính hiển vi điện tử. Xét nghiệm cúm quan trọng không
+
+62
+00:03:39,294 --> 00:03:42,853
+chỉ để dùng thuốc kháng virus mà còn để quyết định corticoid,
+
+63
+00:03:42,703 --> 00:03:45,870
+vì viêm phổi do cúm bị loại khỏi khuyến cáo corticoid.
+
+64
+00:03:47,320 --> 00:03:50,568
+Còn procalcitonin? ATS và IDSA khuyến cáo mạnh:
+
+65
+00:03:50,418 --> 00:03:55,511
+khởi động kháng sinh cho mọi viêm phổi đã có xác nhận lâm sàng và hình ảnh,
+
+66
+00:03:55,361 --> 00:03:57,950
+bất kể nồng độ procalcitonin ban đầu.
+
+67
+00:03:58,150 --> 00:04:03,348
+Thử nghiệm ProACT trên 1656 người bệnh nghi nhiễm trùng hô hấp dưới tại cấp cứu cho
+
+68
+00:04:03,198 --> 00:04:07,484
+thấy hướng dẫn bằng procalcitonin không làm giảm số ngày kháng sinh:
+
+69
+00:04:07,334 --> 00:04:08,700
+4,2 so với 4,3 ngày.
+
+70
+00:04:08,900 --> 00:04:13,458
+Gần đây, thử nghiệm MULTI-CAP ở hồi sức kết hợp PCR đa mồi với procalcitonin,
+
+71
+00:04:13,308 --> 00:04:18,153
+cũng không làm tăng số ngày sống không kháng sinh: trung vị 19 ngày ở cả hai nhóm,
+
+72
+00:04:18,003 --> 00:04:21,130
+dù tổng thời gian kháng sinh ngắn hơn khoảng 3 ngày.
+
+73
+00:04:21,330 --> 00:04:24,951
+Vai trò thực sự của procalcitonin nằm ở giai đoạn sau:
+
+74
+00:04:24,801 --> 00:04:29,451
+hướng dẫn châu Âu gợi ý dùng để rút ngắn kháng sinh ở người bệnh nặng,
+
+75
+00:04:29,301 --> 00:04:34,272
+NICE gợi ý đo CRP hoặc procalcitonin ngày 3 đến 4 khi lo thất bại điều trị,
+
+76
+00:04:34,122 --> 00:04:39,800
+và Hội Hô hấp Việt Nam khuyên đo khi nhập viện, sau 48 đến 72 giờ và sau 5 đến 7 ngày.
+
+77
+00:04:41,250 --> 00:04:45,132
+Trước khi tính điểm, hãy nhớ định nghĩa viêm phổi nặng,
+
+78
+00:04:44,982 --> 00:04:48,388
+vẫn dùng bộ tiêu chuẩn của IDSA và ATS năm 2007:
+
+79
+00:04:48,238 --> 00:04:52,120
+có 1 tiêu chuẩn chính hoặc từ 3 tiêu chuẩn phụ trở lên.
+
+80
+00:04:52,320 --> 00:04:56,243
+Hai tiêu chuẩn chính là sốc nhiễm khuẩn cần thuốc vận mạch,
+
+81
+00:04:56,093 --> 00:05:00,529
+và suy hô hấp cần thở máy. Chín tiêu chuẩn phụ gồm: nhịp thở từ 30,
+
+82
+00:05:00,379 --> 00:05:04,046
+PaO₂/FiO₂ không quá 250, thâm nhiễm nhiều thuỳ, lú lẫn,
+
+83
+00:05:03,896 --> 00:05:09,291
+BUN từ 20 mi li gam mỗi đề xi lít, bạch cầu dưới 4 nghìn, tiểu cầu dưới 100 nghìn,
+
+84
+00:05:09,141 --> 00:05:13,320
+hạ thân nhiệt dưới 36 độ, và tụt huyết áp cần bù dịch tích cực.
+
+85
+00:05:13,520 --> 00:05:16,870
+Người bệnh có tiêu chuẩn chính được khuyến cáo nhập thẳng hồi sức.
+
+86
+00:05:17,070 --> 00:05:19,005
+Với người chưa có tiêu chuẩn chính,
+
+87
+00:05:18,855 --> 00:05:23,443
+dùng các tiêu chuẩn phụ cùng đánh giá lâm sàng để quyết định có cần đơn vị chăm sóc mức
+
+88
+00:05:23,293 --> 00:05:28,900
+cao hơn hay không. Hội Hô hấp Việt Nam dùng đúng bộ tiêu chuẩn này để chỉ định nhập khoa điều trị tích cực.
+
+89
+00:05:30,350 --> 00:05:34,802
+Hãy cùng tính CURB-65. Mỗi yếu tố được 1 điểm: C là lú lẫn mới;
+
+90
+00:05:34,652 --> 00:05:38,557
+U là urê trên 7 mi li mol mỗi lít; R là nhịp thở từ 30;
+
+91
+00:05:38,407 --> 00:05:44,020
+B là huyết áp tâm thu dưới 90 hoặc tâm trương không quá 60; và 65 là tuổi từ 65.
+
+92
+00:05:44,220 --> 00:05:49,090
+Một cụ ông 78 tuổi, lơ mơ, mất định hướng mới xuất hiện: 1 điểm cho lú lẫn.
+
+93
+00:05:49,290 --> 00:05:52,560
+Urê 9 mi li mol mỗi lít, trên 7: thêm 1 điểm.
+
+94
+00:05:52,760 --> 00:05:55,470
+Thở 32 lần mỗi phút: thêm 1 điểm.
+
+95
+00:05:55,670 --> 00:06:00,700
+Huyết áp 118 trên 70, không đạt tiêu chí B. Tuổi 78: thêm 1 điểm.
+
+96
+00:06:00,900 --> 00:06:03,534
+Tổng cộng 4 điểm, nhóm nguy cơ cao. Theo NICE,
+
+97
+00:06:03,384 --> 00:06:06,503
+nhóm 3 đến 5 điểm có nguy cơ tử vong trên 15 phần trăm,
+
+98
+00:06:06,353 --> 00:06:09,095
+cần điều trị nội trú và cân nhắc chuyển hồi sức;
+
+99
+00:06:08,945 --> 00:06:12,010
+Hội Hô hấp Việt Nam chỉ định hồi sức khi 4 đến 5 điểm.
+
+100
+00:06:13,460 --> 00:06:19,081
+Ba thang điểm thường dùng trả lời những câu hỏi khác nhau. CURB-65 dự báo tử vong 30
+
+101
+00:06:18,931 --> 00:06:21,100
+ngày. Theo Hội Hô hấp Việt Nam,
+
+102
+00:06:20,950 --> 00:06:24,031
+tử vong là 1,5 phần trăm ở nhóm 0 đến 1 điểm,
+
+103
+00:06:23,881 --> 00:06:29,827
+9,2 phần trăm ở nhóm 2 điểm và 22 phần trăm ở nhóm 3 đến 5 điểm. Phiên bản CRB-65 bỏ urê,
+
+104
+00:06:29,677 --> 00:06:31,390
+dùng được ở tuyến cơ sở.
+
+105
+00:06:31,590 --> 00:06:34,155
+PSI cũng dự báo tử vong 30 ngày,
+
+106
+00:06:34,005 --> 00:06:40,572
+với 20 biến số. Điểm từ 70 trở xuống thuộc nhóm một và hai, tử vong dưới 1 phần trăm;
+
+107
+00:06:40,422 --> 00:06:47,063
+71 đến 90 là nhóm ba, 2,8 phần trăm; 91 đến 130 là nhóm bốn, khoảng 8 đến 9 phần trăm;
+
+108
+00:06:46,913 --> 00:06:50,460
+và trên 130 là nhóm năm, 27 đến 31 phần trăm.
+
+109
+00:06:50,660 --> 00:06:54,322
+ATS và IDSA khuyến cáo ưu tiên PSI, khuyến cáo mạnh,
+
+110
+00:06:54,172 --> 00:06:56,754
+hơn CURB-65 để quyết định nhập viện,
+
+111
+00:06:56,604 --> 00:07:02,090
+vì PSI xác định được nhiều người bệnh nguy cơ thấp hơn. Nhược điểm là phức tạp.
+
+112
+00:07:02,290 --> 00:07:03,648
+SMART-COP thì khác:
+
+113
+00:07:03,498 --> 00:07:10,327
+nó không dự báo tử vong mà dự báo nhu cầu hỗ trợ hô hấp hoặc vận mạch tích cực. Huyết áp tâm thu dưới 90,
+
+114
+00:07:10,177 --> 00:07:15,606
+oxy hoá kém và pH dưới 7,35 mỗi yếu tố 2 điểm; nhiều thuỳ, albumin thấp, thở nhanh,
+
+115
+00:07:15,456 --> 00:07:18,150
+mạch từ 125 và lú lẫn mỗi yếu tố 1 điểm.
+
+116
+00:07:18,350 --> 00:07:23,348
+Từ 3 điểm, SMART-COP nhận diện 92 phần trăm người bệnh cần hỗ trợ tích cực,
+
+117
+00:07:23,198 --> 00:07:28,260
+với diện tích dưới đường cong 0,87, tốt hơn PSI và CURB-65 cho mục đích này.
+
+118
+00:07:29,710 --> 00:07:36,365
+Một tình huống. Nữ 62 tuổi, thở 31 lần mỗi phút, PaO₂/FiO₂ 230, thâm nhiễm hai thuỳ,
+
+119
+00:07:36,215 --> 00:07:41,940
+tỉnh, huyết áp 112 trên 68, urê 6. Không cần vận mạch, chưa cần thở máy.
+
+120
+00:07:42,140 --> 00:07:43,570
+Nhận định nào đúng?
+
+121
+00:07:43,770 --> 00:07:46,320
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+122
+00:07:54,920 --> 00:07:58,755
+Đáp án là B. CURB-65 của người bệnh chỉ 1 điểm, cho nhịp thở;
+
+123
+00:07:58,605 --> 00:08:03,045
+nhưng bà có ba tiêu chuẩn phụ: nhịp thở từ 30, PaO₂/FiO₂ không quá 250,
+
+124
+00:08:02,895 --> 00:08:06,368
+và thâm nhiễm nhiều thuỳ. Đủ định nghĩa viêm phổi nặng,
+
+125
+00:08:06,218 --> 00:08:09,933
+cần cân nhắc hồi sức hoặc đơn vị chăm sóc mức cao. Bài học:
+
+126
+00:08:09,783 --> 00:08:14,102
+thang điểm tử vong có thể đánh giá thấp người bệnh trẻ có suy hô hấp;
+
+127
+00:08:13,952 --> 00:08:16,760
+hãy luôn kiểm tra tiêu chuẩn viêm phổi nặng.
+
+128
+00:08:18,210 --> 00:08:21,621
+Tóm lại phần hai. Hình ảnh xác nhận viêm phổi trong 4 giờ;
+
+129
+00:08:21,471 --> 00:08:24,600
+siêu âm phổi có thể thay X-quang ở nơi đủ chuyên môn.
+
+130
+00:08:24,800 --> 00:08:28,627
+Xét nghiệm vi sinh tăng dần theo độ nặng; viêm phổi nặng luôn cấy máu,
+
+131
+00:08:28,477 --> 00:08:30,150
+cấy đàm và kháng nguyên niệu.
+
+132
+00:08:30,350 --> 00:08:33,057
+Khởi động kháng sinh bất kể procalcitonin;
+
+133
+00:08:32,907 --> 00:08:36,100
+procalcitonin chỉ giúp rút ngắn kháng sinh về sau.
+
+134
+00:08:36,300 --> 00:08:40,370
+Viêm phổi nặng khi có 1 tiêu chuẩn chính hoặc từ 3 tiêu chuẩn phụ.
+
+135
+00:08:40,570 --> 00:08:45,038
+CURB-65 và PSI dự báo tử vong, còn SMART-COP dự báo nhu cầu hồi sức. Ở phần ba,
+
+136
+00:08:44,888 --> 00:08:49,465
+chúng ta sẽ chọn kháng sinh kinh nghiệm cho từng nhóm người bệnh. Cảm ơn quý đồng
+
+137
+00:08:49,315 --> 00:08:51,760
+nghiệp đã theo dõi Thư Viện Y Khoa Online.

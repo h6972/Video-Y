@@ -1,0 +1,7 @@
+[
+ {"out": "thumbs/vpcd-phan-1.png", "hook": "VIÊM PHỔI<br>CỘNG ĐỒNG", "line2": "Vi khuẩn nào ở Việt Nam?", "chips": ["Kháng macrolid > 90%", "Burkholderia"], "badge": "PHẦN 1/5", "tag": "ATS 2025 · Hội Hô hấp VN 2025", "img": "media/cap/raw/ct_lobar.jpg", "c": "coral"},
+ {"out": "thumbs/vpcd-phan-2.png", "hook": "NẶNG HAY<br>NHẸ?", "line2": "Siêu âm phổi · CURB-65", "chips": ["2 chính · 9 phụ", "Procalcitonin"], "badge": "PHẦN 2/5", "tag": "ATS 2025 · IDSA/ATS 2007", "img": "media/cap/lus_rml/f_040.jpg", "c": "teal"},
+ {"out": "thumbs/vpcd-phan-3.png", "hook": "KHÁNG SINH<br>NÀO?", "line2": "Ngoại trú · nội trú · hồi sức", "chips": ["MRSA · P. aeruginosa", "Có cần macrolid?"], "badge": "PHẦN 3/5", "tag": "ATS/IDSA 2019 · ERS 2023 · VN 2025", "img": "media/cap/raw/spn_sem.jpg", "c": "amber"},
+ {"out": "thumbs/vpcd-phan-4.png", "hook": "3 NGÀY?<br>CORTICOID?", "line2": "Ngừng kháng sinh và hydrocortison", "chips": ["PTC", "CAPE COD · REMAP-CAP"], "badge": "PHẦN 4/5", "tag": "ATS 2025 · 4 thử nghiệm", "img": "media/cap/raw/hfnc.png", "c": "coral"},
+ {"out": "thumbs/vpcd-phan-5.png", "hook": "CA LÂM SÀNG<br>HỒI SỨC", "line2": "Nữ 71 tuổi · P/F 180", "chips": ["CRP 280", "3 điểm quyết định"], "badge": "PHẦN 5/5", "tag": "Viêm phổi cộng đồng nặng", "img": "media/sepsis/raw/cxr_lobar.jpg", "c": "teal"}
+]

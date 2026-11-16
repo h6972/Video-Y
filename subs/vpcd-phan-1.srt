@@ -1,0 +1,751 @@
+1
+00:00:04,900 --> 00:00:06,067
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,917 --> 00:00:10,570
+chào mừng quý vị đến với loạt bài về viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.
+
+3
+00:00:10,770 --> 00:00:17,564
+Loạt bài gồm năm phần, cập nhật theo các hướng dẫn mới nhất: Hội Lồng ngực Hoa Kỳ 2025,
+
+4
+00:00:17,414 --> 00:00:23,520
+hướng dẫn châu Âu cho viêm phổi nặng 2023, NICE 2025, Hội Hồi sức Hoa Kỳ 2024,
+
+5
+00:00:23,370 --> 00:00:27,720
+và hướng dẫn của Hội Hô hấp Việt Nam bản cập nhật 2025.
+
+6
+00:00:27,920 --> 00:00:32,113
+Phần một hôm nay đặt nền móng: viêm phổi cộng đồng là gì, gánh nặng ra sao,
+
+7
+00:00:31,963 --> 00:00:34,538
+vi khuẩn đi vào phổi và gây bệnh như thế nào,
+
+8
+00:00:34,388 --> 00:00:38,150
+và đặc biệt là vi sinh vật cùng tình hình kháng thuốc tại Việt Nam.
+
+9
+00:00:39,600 --> 00:00:44,634
+Hãy bắt đầu với hai hình ảnh thật. Bên trái là X-quang ngực của một người đàn ông 67 tuổi,
+
+10
+00:00:44,484 --> 00:00:49,030
+với đám mờ đông đặc ở thuỳ giữa phổi phải: hình ảnh kinh điển của viêm phổi thuỳ.
+
+11
+00:00:49,230 --> 00:00:53,540
+Phần lớn người bệnh như vậy khỏi bệnh với kháng sinh uống, thậm chí không cần nằm viện.
+
+12
+00:00:53,740 --> 00:00:58,464
+Bên phải là phim chụp cắt lớp vi tính ngực của một người bệnh viêm phổi thuỳ khác,
+
+13
+00:00:58,314 --> 00:01:01,810
+cũng 67 tuổi, cho thấy rõ vùng đông đặc chiếm một thuỳ phổi.
+
+14
+00:01:02,010 --> 00:01:03,725
+Nhưng ở một số người bệnh khác,
+
+15
+00:01:03,575 --> 00:01:06,603
+cùng một tổn thương như thế lại diễn tiến đến suy hô hấp,
+
+16
+00:01:06,453 --> 00:01:08,320
+sốc nhiễm khuẩn và suy đa cơ quan.
+
+17
+00:01:08,520 --> 00:01:12,414
+Câu hỏi xuyên suốt loạt bài này là: làm sao nhận diện sớm người sẽ nặng,
+
+18
+00:01:12,264 --> 00:01:14,910
+và điều trị họ thế nào cho đúng ngay từ giờ đầu.
+
+19
+00:01:16,360 --> 00:01:21,550
+Theo Hội Lồng ngực Hoa Kỳ 2025, viêm phổi là nhiễm trùng hô hấp dưới gây viêm phế nang;
+
+20
+00:01:21,400 --> 00:01:26,590
+viêm phổi mắc phải cộng đồng là viêm phổi mắc ngoài bệnh viện hoặc cơ sở chăm sóc y tế.
+
+21
+00:01:26,790 --> 00:01:27,726
+Điểm then chốt:
+
+22
+00:01:27,576 --> 00:01:32,545
+vì không thể phân biệt viêm phổi với các nhiễm trùng hô hấp dưới khác nếu không có hình ảnh,
+
+23
+00:01:32,395 --> 00:01:37,784
+chẩn đoán chuẩn đòi hỏi cả triệu chứng lâm sàng lẫn hình ảnh ngực xác nhận viêm phế nang. Ngược lại,
+
+24
+00:01:37,634 --> 00:01:41,870
+không bắt buộc phải tìm được vi khuẩn, vì độ nhạy của xét nghiệm vi sinh thấp.
+
+25
+00:01:42,070 --> 00:01:45,900
+Các khuyến cáo trong loạt bài áp dụng cho người lớn không suy giảm miễn dịch.
+
+26
+00:01:46,100 --> 00:01:47,088
+Và từ năm 2019,
+
+27
+00:01:46,938 --> 00:01:52,900
+ATS cùng Hội Bệnh truyền nhiễm Hoa Kỳ đã khuyến cáo mạnh bỏ khái niệm viêm phổi liên quan chăm sóc y tế,
+
+28
+00:01:52,750 --> 00:01:57,930
+một khái niệm từng khiến rất nhiều người bệnh bị dùng kháng sinh phổ rộng không cần thiết.
+
+29
+00:01:59,380 --> 00:02:03,885
+Về gánh nặng, theo bài tổng quan trên Lancet tháng 10 năm 2025,
+
+30
+00:02:03,735 --> 00:02:09,761
+viêm phổi cộng đồng là nguyên nhân nhiễm trùng gây bệnh và tử vong hàng đầu thế giới,
+
+31
+00:02:09,611 --> 00:02:13,770
+với tần suất ước tính 4350 ca trên 100 nghìn dân năm 2021.
+
+32
+00:02:13,970 --> 00:02:18,356
+Mỗi năm có khoảng 2,2 triệu ca tử vong, tức 27,7 trên 100 nghìn dân,
+
+33
+00:02:18,206 --> 00:02:21,160
+cao nhất ở các nước thu nhập trung bình thấp.
+
+34
+00:02:21,360 --> 00:02:25,648
+Trong số người bệnh phải nhập viện, 13 đến 22 phần trăm là viêm phổi nặng,
+
+35
+00:02:25,498 --> 00:02:26,710
+thường cần hồi sức.
+
+36
+00:02:26,910 --> 00:02:32,469
+Tử vong 30 ngày ở người nội trú nói chung đã giảm còn 4,1 đến 9,6 phần trăm,
+
+37
+00:02:32,319 --> 00:02:36,740
+nhưng ở người cần nằm hồi sức có thể lên tới 49,4 phần trăm.
+
+38
+00:02:36,940 --> 00:02:39,644
+Và viêm phổi không kết thúc khi ra viện:
+
+39
+00:02:39,494 --> 00:02:44,370
+tái nhập viện là 8,8 phần trăm sau 30 ngày và 20,1 phần trăm sau 180 ngày.
+
+40
+00:02:45,820 --> 00:02:48,131
+Còn tại Việt Nam, theo Hội Hô hấp Việt Nam,
+
+41
+00:02:47,981 --> 00:02:52,152
+viêm phổi mắc phải cộng đồng là bệnh nhiễm khuẩn thường gặp nhất trên thực hành,
+
+42
+00:02:52,002 --> 00:02:53,810
+chiếm 12 phần trăm các bệnh phổi.
+
+43
+00:02:54,010 --> 00:02:58,231
+Tại Trung tâm Hô hấp Bệnh viện Bạch Mai giai đoạn 1996 đến 2000,
+
+44
+00:02:58,081 --> 00:03:03,128
+viêm phổi chiếm 9,57 phần trăm, đứng thứ tư sau bệnh phổi tắc nghẽn mạn tính,
+
+45
+00:03:02,978 --> 00:03:04,400
+lao và ung thư phổi.
+
+46
+00:03:04,600 --> 00:03:09,921
+Năm 2014, tỷ lệ mắc viêm phổi ở nước ta là 561 trên 100 nghìn dân,
+
+47
+00:03:09,771 --> 00:03:12,350
+đứng thứ hai sau tăng huyết áp.
+
+48
+00:03:12,550 --> 00:03:16,087
+Và tỷ lệ tử vong do viêm phổi là 1,32 trên 100 nghìn dân,
+
+49
+00:03:15,937 --> 00:03:18,940
+đứng hàng đầu trong các nguyên nhân gây tử vong.
+
+50
+00:03:20,390 --> 00:03:27,089
+Thực hành điều trị viêm phổi đã thay đổi đáng kể trong ba mươi năm. Cuối những năm 1990 và đầu 2000,
+
+51
+00:03:26,939 --> 00:03:32,460
+hai thang điểm PSI và CURB-65 ra đời để dự báo tử vong và quyết định nơi điều trị.
+
+52
+00:03:32,660 --> 00:03:33,340
+Năm 2007,
+
+53
+00:03:33,190 --> 00:03:38,459
+Hội Bệnh truyền nhiễm và Hội Lồng ngực Hoa Kỳ đưa ra bộ tiêu chuẩn viêm phổi nặng với 2
+
+54
+00:03:38,309 --> 00:03:40,636
+tiêu chuẩn chính và 9 tiêu chuẩn phụ,
+
+55
+00:03:40,486 --> 00:03:41,930
+đến nay vẫn được dùng.
+
+56
+00:03:42,130 --> 00:03:47,419
+Năm 2019, hướng dẫn chung của hai hội bỏ khái niệm viêm phổi liên quan chăm sóc y tế,
+
+57
+00:03:47,269 --> 00:03:50,200
+và khuyến cáo không dùng corticoid thường quy.
+
+58
+00:03:50,400 --> 00:03:56,064
+Sau đó, thử nghiệm PTC năm 2021 cho thấy có thể ngừng β-lactam ở ngày thứ 3,
+
+59
+00:03:55,914 --> 00:04:02,230
+và thử nghiệm CAPE COD năm 2023 cho thấy hydrocortison giảm tử vong ở viêm phổi nặng.
+
+60
+00:04:02,430 --> 00:04:05,813
+Năm 2025, Hội Lồng ngực Hoa Kỳ cập nhật bốn câu hỏi,
+
+61
+00:04:05,663 --> 00:04:11,097
+đúng lúc thử nghiệm REMAP-CAP mở ra một cuộc tranh luận mới về corticoid. Chúng ta sẽ
+
+62
+00:04:10,947 --> 00:04:13,460
+lần lượt đi qua tất cả trong loạt bài.
+
+63
+00:04:14,910 --> 00:04:19,255
+Bây giờ đến bệnh sinh. Mầm bệnh đi vào đường hô hấp dưới qua hít hạt khí dung,
+
+64
+00:04:19,105 --> 00:04:19,793
+với virus,
+
+65
+00:04:19,643 --> 00:04:23,989
+hoặc qua hít vi lượng dịch hầu họng. Hít vi lượng xảy ra cả ở người khỏe mạnh,
+
+66
+00:04:23,839 --> 00:04:27,001
+vì thế bài tổng quan Lancet 2025 nhấn mạnh: về bản chất,
+
+67
+00:04:26,851 --> 00:04:29,529
+mọi viêm phổi do vi khuẩn đều đi qua đường hít,
+
+68
+00:04:29,379 --> 00:04:34,800
+và dữ liệu vi sinh hiện nay không ủng hộ tách bạch viêm phổi hít với các viêm phổi cộng đồng khác.
+
+69
+00:04:35,000 --> 00:04:39,460
+Bệnh chỉ xảy ra khi lượng vi khuẩn có độc lực vượt quá khả năng thanh thải của phổi,
+
+70
+00:04:39,310 --> 00:04:42,590
+gồm phản xạ ho, hệ nhầy lông chuyển và đại thực bào phế nang.
+
+71
+00:04:42,790 --> 00:04:44,493
+Khi đại thực bào bị quá tải,
+
+72
+00:04:44,343 --> 00:04:49,153
+các cytokine như interleukin 1 beta và interleukin 8 huy động bạch cầu đa nhân trung
+
+73
+00:04:49,003 --> 00:04:51,816
+tính và bạch cầu đơn nhân từ máu. Enzym ly giải,
+
+74
+00:04:51,666 --> 00:04:55,977
+chất oxy hoá và vật liệu nhân của chúng phá huỷ biểu mô phế nang mỏng manh,
+
+75
+00:04:55,827 --> 00:05:00,803
+gây rò protein huyết tương vào phế nang và rối loạn trao đổi khí. Dịch phù và chất nhầy
+
+76
+00:05:00,653 --> 00:05:05,130
+trong phế nang lại trở thành môi trường giàu dinh dưỡng cho vi khuẩn sinh sôi.
+
+77
+00:05:05,330 --> 00:05:09,560
+Đó là cơ sở của khó thở, sốt, giảm oxy máu và tăng CO₂.
+
+78
+00:05:09,760 --> 00:05:10,492
+Đáng chú ý,
+
+79
+00:05:10,342 --> 00:05:15,302
+người bệnh nặng hiếm khi tử vong vì giảm oxy máu trơ. Họ tử vong vì suy cơ quan ngoài phổi,
+
+80
+00:05:15,152 --> 00:05:18,950
+do nhiễm khuẩn huyết, hoạt hoá viêm toàn thân, liệt miễn dịch và sốc.
+
+81
+00:05:20,400 --> 00:05:22,514
+Đây là một clip thật dưới kính hiển vi:
+
+82
+00:05:22,364 --> 00:05:27,750
+một bạch cầu đa nhân trung tính đang đuổi bắt và nuốt vi khuẩn. Đó là tuyến bảo vệ chính trong phế nang.
+
+83
+00:05:27,950 --> 00:05:31,033
+Nhưng chính những tế bào này, khi được huy động ồ ạt,
+
+84
+00:05:30,883 --> 00:05:35,847
+lại phóng thích enzym và chất oxy hoá làm tổn thương biểu mô phế nang. Đáp ứng viêm vừa
+
+85
+00:05:35,697 --> 00:05:37,009
+cần thiết vừa có hại,
+
+86
+00:05:36,859 --> 00:05:42,820
+và đó là cơ sở cho các nghiên cứu điều hoà miễn dịch bằng corticoid hay macrolid mà ta sẽ bàn ở phần bốn.
+
+87
+00:05:43,020 --> 00:05:47,463
+Bên phải là tiêu bản đàm nhuộm Gram của một người bệnh viêm phổi: rất nhiều tế bào mủ,
+
+88
+00:05:47,313 --> 00:05:49,410
+tức bạch cầu đa nhân, xen lẫn vi khuẩn.
+
+89
+00:05:49,610 --> 00:05:53,000
+Đàm mủ mà ta thấy trên lâm sàng chính là hình ảnh đại thể của cuộc chiến đó.
+
+90
+00:05:55,450 --> 00:05:59,855
+Các nghiên cứu gần đây cho thấy viêm phổi không đi theo một con đường duy nhất. Kiểu
+
+91
+00:05:59,705 --> 00:06:02,033
+hình kinh điển là viêm do bạch cầu đa nhân,
+
+92
+00:06:01,883 --> 00:06:04,160
+với đông đặc, đàm mủ và chỉ dấu viêm tăng.
+
+93
+00:06:04,360 --> 00:06:07,763
+Nhưng tổn thương phổi vẫn xảy ra ở người giảm bạch cầu đa nhân,
+
+94
+00:06:07,613 --> 00:06:11,790
+và có một kiểu hình tổn thương không tăng bạch cầu trong phế nang, giàu virus.
+
+95
+00:06:11,990 --> 00:06:14,217
+Và có một kiểu hình tăng viêm,
+
+96
+00:06:14,067 --> 00:06:20,173
+với CRP rất cao. Một phân tích gộp dữ liệu cá thể 8 thử nghiệm được ATS 2025 trích dẫn
+
+97
+00:06:20,023 --> 00:06:23,358
+cho thấy CRP cao dự báo lợi ích của corticoid;
+
+98
+00:06:23,208 --> 00:06:29,313
+thử nghiệm của Torres năm 2015 cũng chỉ tuyển người bệnh có CRP trên 150 mi li gam mỗi
+
+99
+00:06:29,163 --> 00:06:35,130
+lít. Đây là nền tảng cho xu hướng cá thể hoá điều trị mà ta sẽ thảo luận ở phần bốn.
+
+100
+00:06:36,580 --> 00:06:39,534
+Về vi sinh, phế cầu, Streptococcus pneumoniae,
+
+101
+00:06:39,384 --> 00:06:44,410
+vẫn là vi khuẩn thường gặp nhất trên toàn cầu, dù tỷ lệ đã giảm nhờ tiêm vaccin.
+
+102
+00:06:44,610 --> 00:06:47,610
+Đây là hình ảnh phế cầu dưới kính hiển vi điện tử quét,
+
+103
+00:06:47,460 --> 00:06:49,320
+với những cặp song cầu đặc trưng.
+
+104
+00:06:49,520 --> 00:06:52,319
+Các tác nhân khác gồm Haemophilus influenzae,
+
+105
+00:06:52,169 --> 00:06:56,852
+ở giữa là hình ảnh cầu trực khuẩn Gram âm trong đàm; tụ cầu vàng, Mycoplasma,
+
+106
+00:06:56,702 --> 00:06:59,030
+Chlamydophila và vi khuẩn đường ruột.
+
+107
+00:06:59,230 --> 00:07:02,352
+Ở bên phải là Legionella, cùng với trực khuẩn mủ xanh,
+
+108
+00:07:02,202 --> 00:07:07,140
+có thể trở nên quan trọng tuỳ bệnh nền, tình trạng ức chế miễn dịch và tiền sử khu trú.
+
+109
+00:07:07,340 --> 00:07:10,350
+Một con số khiêm tốn cần nhớ: dù xét nghiệm đầy đủ,
+
+110
+00:07:10,200 --> 00:07:13,490
+ta chỉ xác định được tác nhân ở dưới một nửa người bệnh.
+
+111
+00:07:14,940 --> 00:07:20,247
+Hội Hô hấp Việt Nam xếp tác nhân theo nơi điều trị. Ở người bệnh ngoại trú: phế cầu,
+
+112
+00:07:20,097 --> 00:07:23,808
+Haemophilus influenzae, Moraxella catarrhalis, Mycoplasma,
+
+113
+00:07:23,658 --> 00:07:25,650
+Chlamydophila và virus hô hấp.
+
+114
+00:07:25,850 --> 00:07:30,010
+Ở người bệnh nội trú, ngoài các tác nhân trên còn có nhiễm trùng phối hợp,
+
+115
+00:07:29,860 --> 00:07:34,400
+vi khuẩn Gram âm đường ruột, vi khuẩn kỵ khí khi có hít sặc, Legionella và ho gà.
+
+116
+00:07:34,600 --> 00:07:39,335
+Ở hồi sức, phổ tác nhân dịch về phía các vi khuẩn khó: tụ cầu vàng, trực khuẩn mủ xanh,
+
+117
+00:07:39,185 --> 00:07:42,971
+Gram âm đường ruột, Legionella. Trong các virus, cúm quan trọng nhất,
+
+118
+00:07:42,821 --> 00:07:45,870
+thường mở đường cho bội nhiễm tụ cầu vàng hoặc phế cầu.
+
+119
+00:07:47,320 --> 00:07:53,689
+Còn tại Việt Nam? Một nghiên cứu trên 142 người bệnh tại Bệnh viện Bệnh Nhiệt đới Trung ương,
+
+120
+00:07:53,539 --> 00:07:58,570
+Đống Đa và Đức Giang cho thấy Mycoplasma pneumoniae chiếm 16,2 phần trăm,
+
+121
+00:07:58,420 --> 00:08:01,044
+Klebsiella pneumoniae 14,8 phần trăm,
+
+122
+00:08:00,894 --> 00:08:05,390
+Chlamydophila pneumoniae 10,6 phần trăm và phế cầu 9,9 phần trăm.
+
+123
+00:08:05,590 --> 00:08:10,481
+Một nghiên cứu ở Khánh Hoà trên 154 người bệnh nhập viện lại thấy Haemophilus
+
+124
+00:08:10,331 --> 00:08:12,390
+influenzae và phế cầu đứng đầu,
+
+125
+00:08:12,240 --> 00:08:16,700
+tiếp theo là Moraxella, trực khuẩn mủ xanh, tụ cầu vàng và Klebsiella.
+
+126
+00:08:16,900 --> 00:08:21,153
+Tại bốn bệnh viện ở Thành phố Hồ Chí Minh, ở người bệnh ngoại trú,
+
+127
+00:08:21,003 --> 00:08:26,250
+nuôi cấy cho thấy Haemophilus influenzae 63,1 phần trăm và phế cầu 25,5 phần trăm.
+
+128
+00:08:26,450 --> 00:08:29,913
+Nhưng khi dùng real-time PCR trên cùng nhóm người bệnh,
+
+129
+00:08:29,763 --> 00:08:33,467
+phế cầu lại chiếm tới 71,3 phần trăm, virus 21,7 phần trăm,
+
+130
+00:08:33,317 --> 00:08:36,841
+và 76,4 phần trăm là đồng nhiễm nhiều tác nhân. Bài học:
+
+131
+00:08:36,691 --> 00:08:39,973
+kết quả vi sinh phụ thuộc rất nhiều vào phương pháp,
+
+132
+00:08:39,823 --> 00:08:44,250
+và dữ liệu hiện có chủ yếu từ bệnh viện lớn, chưa đại diện cho cả nước.
+
+133
+00:08:45,700 --> 00:08:46,856
+Về kháng thuốc,
+
+134
+00:08:46,706 --> 00:08:52,624
+đây là số liệu quan trọng nhất cho người thầy thuốc Việt Nam. Trong nghiên cứu 11 bệnh
+
+135
+00:08:52,474 --> 00:08:54,569
+viện giai đoạn 2009 đến 2011,
+
+136
+00:08:54,419 --> 00:08:57,789
+phế cầu còn nhạy penicillin tiêm 86,9 phần trăm,
+
+137
+00:08:57,639 --> 00:09:00,740
+nhưng kháng nhóm macrolid trên 90 phần trăm.
+
+138
+00:09:00,940 --> 00:09:06,245
+Số liệu giám sát kháng kháng sinh quốc gia mới nhất của Bộ Y tế cho thấy phế cầu từ
+
+139
+00:09:06,095 --> 00:09:10,530
+bệnh phẩm hô hấp vẫn nhạy penicillin và ceftriaxon trên 92 phần trăm.
+
+140
+00:09:10,730 --> 00:09:14,401
+Bên phải là hình ảnh phế cầu và Klebsiella cùng mọc trên thạch máu,
+
+141
+00:09:14,251 --> 00:09:16,240
+nhắc ta rằng đồng nhiễm không hiếm.
+
+142
+00:09:16,440 --> 00:09:18,331
+Với Haemophilus influenzae,
+
+143
+00:09:18,181 --> 00:09:23,810
+gần một nửa số chủng tại Việt Nam tiết β-lactamase. Vì thế khi nghĩ đến tác nhân này,
+
+144
+00:09:23,660 --> 00:09:29,870
+Hội Hô hấp Việt Nam khuyên dùng amoxicillin kèm acid clavulanic thay vì amoxicillin đơn thuần.
+
+145
+00:09:31,320 --> 00:09:35,590
+Một tác nhân đặc thù của khu vực chúng ta: Burkholderia pseudomallei,
+
+146
+00:09:35,440 --> 00:09:40,844
+gây bệnh melioidosis. Vi khuẩn sống trong đất và nước bề mặt ở Đông Nam Á; tại Việt Nam,
+
+147
+00:09:40,694 --> 00:09:43,710
+bệnh gặp nhiều từ tháng 9 đến tháng 11, mùa mưa.
+
+148
+00:09:43,910 --> 00:09:47,975
+Trên tiêu bản nhuộm Gram, vi khuẩn bắt màu đậm hai đầu, giống chiếc kim băng;
+
+149
+00:09:47,825 --> 00:09:50,060
+bên phải là khuẩn lạc trên thạch Ashdown.
+
+150
+00:09:50,260 --> 00:09:53,663
+Yếu tố nguy cơ quan trọng nhất là đái tháo đường, nghiện rượu,
+
+151
+00:09:53,513 --> 00:09:55,290
+bệnh thận mạn và bệnh phổi mạn.
+
+152
+00:09:55,490 --> 00:09:58,708
+Thể cấp tính có thể diễn tiến nhanh đến nhiễm khuẩn huyết,
+
+153
+00:09:58,558 --> 00:10:03,097
+sốc và suy đa tạng. Một người bệnh đái tháo đường bị viêm phổi nặng trong mùa mưa ở
+
+154
+00:10:02,947 --> 00:10:05,160
+nước ta cần được nghĩ đến tác nhân này.
+
+155
+00:10:06,610 --> 00:10:08,429
+Câu hỏi cuối của phần một:
+
+156
+00:10:08,279 --> 00:10:14,529
+ai có nguy cơ vi khuẩn kháng thuốc? ATS và IDSA 2019 chỉ công nhận hai yếu tố đã được xác nhận:
+
+157
+00:10:14,379 --> 00:10:19,859
+từng phân lập tụ cầu vàng kháng methicillin hay trực khuẩn mủ xanh từ đường hô hấp,
+
+158
+00:10:19,709 --> 00:10:23,776
+và mới nằm viện kèm dùng kháng sinh đường tiêm trong 90 ngày;
+
+159
+00:10:23,626 --> 00:10:26,280
+ngoài ra cần dữ liệu dịch tễ tại cơ sở.
+
+160
+00:10:26,480 --> 00:10:31,766
+Hướng dẫn châu Âu 2023 gợi ý tích hợp các yếu tố nguy cơ, có thể dưới dạng thang điểm,
+
+161
+00:10:31,616 --> 00:10:35,110
+dựa trên dịch tễ tại chỗ và tình trạng khu trú trước đó.
+
+162
+00:10:35,310 --> 00:10:39,836
+Hội Hô hấp Việt Nam giới thiệu thang điểm PES: tuổi 40 đến 65 được 1 điểm,
+
+163
+00:10:39,686 --> 00:10:43,917
+trên 65 được 2 điểm; nam giới 1 điểm; dùng kháng sinh gần đây 2 điểm;
+
+164
+00:10:43,767 --> 00:10:48,471
+bệnh phổi mạn 2 điểm; suy thận mạn 3 điểm; giảm nhận thức tại cấp cứu 2 điểm;
+
+165
+00:10:48,321 --> 00:10:52,492
+còn sốt thì trừ 1 điểm. Từ 5 điểm trở lên là nguy cơ cao. Ở phần ba,
+
+166
+00:10:52,342 --> 00:10:57,460
+chúng ta sẽ dùng các yếu tố này để quyết định có phủ vi khuẩn kháng thuốc hay không.
+
+167
+00:10:58,910 --> 00:11:02,251
+Một tình huống ngắn. Nam 55 tuổi, khỏe mạnh, không bệnh nền,
+
+168
+00:11:02,101 --> 00:11:06,398
+không dùng kháng sinh trong 3 tháng. Viêm phổi thuỳ dưới phải, CURB-65 bằng 0,
+
+169
+00:11:06,248 --> 00:11:08,100
+điều trị ngoại trú tại Việt Nam.
+
+170
+00:11:08,300 --> 00:11:10,050
+Lựa chọn nào phù hợp nhất?
+
+171
+00:11:10,250 --> 00:11:13,040
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+172
+00:11:21,640 --> 00:11:22,577
+Đáp án là B,
+
+173
+00:11:22,427 --> 00:11:28,082
+amoxicillin 1 gam ba lần mỗi ngày. Azithromycin đơn trị không phù hợp vì phế cầu tại
+
+174
+00:11:27,932 --> 00:11:30,835
+Việt Nam kháng macrolid trên 90 phần trăm,
+
+175
+00:11:30,685 --> 00:11:37,521
+vượt xa ngưỡng 25 phần trăm của ATS. Levofloxacin nên dành cho người có bệnh nền hoặc dị ứng β-lactam,
+
+176
+00:11:37,371 --> 00:11:41,060
+để hạn chế kháng thuốc. Chi tiết phác đồ sẽ ở phần ba.
+
+177
+00:11:42,510 --> 00:11:46,884
+Tóm lại phần một. Viêm phổi cộng đồng được chẩn đoán bằng lâm sàng cộng hình ảnh,
+
+178
+00:11:46,734 --> 00:11:48,500
+không bắt buộc phải có vi sinh.
+
+179
+00:11:48,700 --> 00:11:52,600
+13 đến 22 phần trăm người bệnh nhập viện là viêm phổi nặng,
+
+180
+00:11:52,450 --> 00:11:55,650
+với tử vong có thể tới 49,4 phần trăm ở hồi sức.
+
+181
+00:11:55,850 --> 00:11:59,608
+Bệnh sinh đi từ hít vi lượng, vượt ngưỡng thanh thải, viêm phế nang,
+
+182
+00:11:59,458 --> 00:12:01,040
+đến suy cơ quan ngoài phổi.
+
+183
+00:12:01,240 --> 00:12:02,230
+Tại Việt Nam,
+
+184
+00:12:02,080 --> 00:12:08,430
+phế cầu kháng macrolid trên 90 phần trăm và gần một nửa Haemophilus influenzae tiết β-lactamase.
+
+185
+00:12:08,630 --> 00:12:13,395
+Và nguy cơ vi khuẩn kháng thuốc dựa trên tiền sử phân lập và lần nằm viện kèm kháng
+
+186
+00:12:13,245 --> 00:12:15,063
+sinh tiêm gần đây. Ở phần hai,
+
+187
+00:12:14,913 --> 00:12:19,901
+chúng ta sẽ học cách chẩn đoán và phân tầng độ nặng. Cảm ơn quý đồng nghiệp đã theo dõi
+
+188
+00:12:19,751 --> 00:12:21,180
+Thư Viện Y Khoa Online.

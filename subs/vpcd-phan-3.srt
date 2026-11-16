@@ -1,0 +1,775 @@
+1
+00:00:04,900 --> 00:00:06,104
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,954 --> 00:00:10,970
+chào mừng quý vị trở lại với loạt bài về viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.
+
+3
+00:00:11,170 --> 00:00:15,562
+Ở hai phần trước, chúng ta đã đi qua dịch tễ, bệnh sinh, vi sinh tại Việt Nam,
+
+4
+00:00:15,412 --> 00:00:20,293
+rồi đến chẩn đoán và phân tầng độ nặng. Phần ba hôm nay trả lời câu hỏi thực hành nhất:
+
+5
+00:00:20,143 --> 00:00:22,360
+ngay giờ đầu, nên chọn kháng sinh nào.
+
+6
+00:00:22,560 --> 00:00:25,625
+Chúng ta sẽ đi theo ba trục: người bệnh điều trị ở đâu,
+
+7
+00:00:25,475 --> 00:00:28,222
+có yếu tố nguy cơ vi khuẩn kháng thuốc hay không,
+
+8
+00:00:28,072 --> 00:00:32,568
+và xét nghiệm virus dương tính thì có được bỏ kháng sinh hay không. Mọi liều thuốc
+
+9
+00:00:32,418 --> 00:00:35,430
+trong bài đều lấy từ hướng dẫn gốc và đã được rà soát.
+
+10
+00:00:36,880 --> 00:00:41,102
+Trước khi đi vào từng phác đồ, xin nhắc lại bốn nguyên tắc. Thứ nhất,
+
+11
+00:00:40,952 --> 00:00:45,881
+kháng sinh phải được khởi động sớm, trong vòng 4 giờ sau khi người bệnh đến viện,
+
+12
+00:00:45,731 --> 00:00:48,950
+như cả NICE 2025 và Hội Hô hấp Việt Nam đều yêu cầu.
+
+13
+00:00:49,150 --> 00:00:50,816
+Thứ hai, ở người bệnh nội trú,
+
+14
+00:00:50,666 --> 00:00:54,454
+lấy bệnh phẩm đàm và máu khi có chỉ định trước liều kháng sinh đầu tiên,
+
+15
+00:00:54,304 --> 00:00:56,980
+nhưng không để việc lấy mẫu làm trì hoãn điều trị.
+
+16
+00:00:57,180 --> 00:00:57,746
+Thứ ba,
+
+17
+00:00:57,596 --> 00:01:02,919
+ATS và IDSA năm 2019 đã khuyến cáo mạnh bỏ khái niệm viêm phổi liên quan chăm sóc y tế.
+
+18
+00:01:02,769 --> 00:01:08,033
+Việc phủ tụ cầu vàng kháng methicillin hay trực khuẩn mủ xanh chỉ dựa trên yếu tố nguy
+
+19
+00:01:07,883 --> 00:01:09,698
+cơ đã được xác nhận tại chỗ,
+
+20
+00:01:09,548 --> 00:01:12,790
+chứ không phải chỉ vì người bệnh từng tới bệnh viện.
+
+21
+00:01:12,990 --> 00:01:17,874
+Và thứ tư, mọi phác đồ kinh nghiệm phải được đánh giá lại sau 48 đến 72 giờ,
+
+22
+00:01:17,724 --> 00:01:20,740
+khi đã có đáp ứng lâm sàng và kết quả vi sinh.
+
+23
+00:01:22,190 --> 00:01:26,521
+Toàn bộ việc chọn kháng sinh có thể gói trong một cây quyết định ba tầng. Tầng đầu tiên:
+
+24
+00:01:26,371 --> 00:01:30,180
+người bệnh được phân tầng độ nặng như ở phần hai, để quyết định nơi điều trị.
+
+25
+00:01:30,380 --> 00:01:32,963
+Nếu điều trị ngoại trú và không có bệnh nền,
+
+26
+00:01:32,813 --> 00:01:37,165
+không có yếu tố nguy cơ vi khuẩn kháng thuốc, lựa chọn chuẩn là amoxicillin,
+
+27
+00:01:37,015 --> 00:01:38,050
+hoặc doxycyclin.
+
+28
+00:01:38,250 --> 00:01:42,937
+Nếu có bệnh nền như bệnh tim, phổi, gan, thận mạn, đái tháo đường, nghiện rượu,
+
+29
+00:01:42,787 --> 00:01:45,176
+ung thư hay cắt lách, phổ cần rộng hơn:
+
+30
+00:01:45,026 --> 00:01:50,000
+β-lactam có ức chế β-lactamase hoặc cephalosporin, phối hợp macrolid hay doxycyclin;
+
+31
+00:01:49,850 --> 00:01:52,240
+hoặc một fluoroquinolon hô hấp đơn trị.
+
+32
+00:01:52,440 --> 00:01:56,053
+Người bệnh nội trú không nặng: β-lactam phối hợp macrolid,
+
+33
+00:01:55,903 --> 00:02:00,830
+hoặc fluoroquinolon hô hấp đơn trị, cả hai đều là khuyến cáo mạnh, chứng cứ cao.
+
+34
+00:02:01,030 --> 00:02:07,110
+Người bệnh nặng nằm hồi sức: β-lactam phối hợp macrolid hoặc phối hợp fluoroquinolon;
+
+35
+00:02:06,960 --> 00:02:09,900
+hướng dẫn châu Âu 2023 ưu tiên macrolid.
+
+36
+00:02:10,100 --> 00:02:11,263
+Và nhánh cuối cùng:
+
+37
+00:02:11,113 --> 00:02:15,850
+chỉ thêm thuốc phủ tụ cầu vàng kháng methicillin hay trực khuẩn mủ xanh khi người bệnh
+
+38
+00:02:15,700 --> 00:02:19,370
+có yếu tố nguy cơ đã được xác nhận. Chúng ta sẽ đi vào từng nhánh.
+
+39
+00:02:20,820 --> 00:02:23,325
+Với người bệnh ngoại trú khỏe mạnh,
+
+40
+00:02:23,175 --> 00:02:28,640
+ATS và IDSA 2019 khuyến cáo amoxicillin 1 gam ba lần mỗi ngày, khuyến cáo mạnh;
+
+41
+00:02:28,490 --> 00:02:34,359
+hoặc doxycyclin 100 mi li gam hai lần mỗi ngày. Macrolid đơn trị chỉ được chấp nhận ở
+
+42
+00:02:34,209 --> 00:02:38,060
+vùng có tỷ lệ phế cầu kháng macrolid dưới 25 phần trăm.
+
+43
+00:02:38,260 --> 00:02:43,092
+NICE 2025 dùng amoxicillin 500 mi li gam ba lần mỗi ngày trong 5 ngày,
+
+44
+00:02:42,942 --> 00:02:44,765
+có thể dùng liều cao hơn;
+
+45
+00:02:44,615 --> 00:02:50,450
+dị ứng penicillin thì chuyển sang doxycyclin hoặc clarithromycin. Hội Hô hấp Việt Nam
+
+46
+00:02:50,300 --> 00:02:52,055
+dùng liều 1 gam như ATS,
+
+47
+00:02:51,905 --> 00:02:58,009
+và lưu ý chuyển sang amoxicillin kèm acid clavulanic khi nghĩ đến Haemophilus influenzae,
+
+48
+00:02:57,859 --> 00:03:01,420
+vì gần một nửa chủng tại Việt Nam tiết β-lactamase.
+
+49
+00:03:01,620 --> 00:03:06,445
+Khi người bệnh có bệnh nền, cả hai hướng dẫn Mỹ và Việt Nam đều mở rộng phổ:
+
+50
+00:03:06,295 --> 00:03:09,827
+β-lactam có ức chế β-lactamase hoặc cephalosporin uống,
+
+51
+00:03:09,677 --> 00:03:14,010
+phối hợp macrolid hoặc doxycyclin; hoặc một quinolon hô hấp đơn trị.
+
+52
+00:03:14,210 --> 00:03:17,186
+Hội Hô hấp Việt Nam còn nhấn mạnh: người bệnh suy kiệt,
+
+53
+00:03:17,036 --> 00:03:20,731
+hoặc X-quang có tổn thương nặng như thâm nhiễm hơn một thuỳ, hoại tử,
+
+54
+00:03:20,581 --> 00:03:23,865
+tràn dịch màng phổi, nên nhập viện dùng kháng sinh tĩnh mạch,
+
+55
+00:03:23,715 --> 00:03:25,560
+dù thang điểm chưa đủ tiêu chuẩn.
+
+56
+00:03:27,010 --> 00:03:32,528
+Đây là con số quan trọng nhất cho người thầy thuốc Việt Nam. Trong nghiên cứu 11 bệnh
+
+57
+00:03:32,378 --> 00:03:36,571
+viện giai đoạn 2009 đến 2011 được Hội Hô hấp Việt Nam trích dẫn,
+
+58
+00:03:36,421 --> 00:03:39,160
+phế cầu kháng macrolid trên 90 phần trăm.
+
+59
+00:03:39,360 --> 00:03:46,293
+Ngưỡng mà ATS và IDSA đặt ra để còn được dùng macrolid đơn trị là dưới 25 phần trăm. Nghĩa là ở Việt Nam,
+
+60
+00:03:46,143 --> 00:03:49,910
+macrolid đơn trị gần như chắc chắn thất bại với phế cầu.
+
+61
+00:03:50,110 --> 00:03:54,867
+Ngược lại, phế cầu vẫn còn nhạy penicillin tiêm khoảng 86,9 phần trăm,
+
+62
+00:03:54,717 --> 00:04:00,593
+và số liệu giám sát quốc gia mới hơn của Bộ Y tế cho thấy nhạy penicillin và ceftriaxon
+
+63
+00:04:00,443 --> 00:04:03,620
+trên 92 phần trăm. β-lactam vẫn là xương sống.
+
+64
+00:04:03,820 --> 00:04:07,940
+Cần lưu ý dữ liệu này chủ yếu đến từ các bệnh viện lớn và số chủng còn nhỏ,
+
+65
+00:04:07,790 --> 00:04:11,010
+nên mỗi đơn vị vẫn cần số liệu kháng thuốc của chính mình.
+
+66
+00:04:12,460 --> 00:04:17,531
+Với người bệnh nội trú không nặng, ATS và IDSA khuyến cáo mạnh, chứng cứ cao,
+
+67
+00:04:17,381 --> 00:04:21,493
+một trong hai lựa chọn ngang nhau: β-lactam phối hợp macrolid,
+
+68
+00:04:21,343 --> 00:04:23,730
+hoặc fluoroquinolon hô hấp đơn trị.
+
+69
+00:04:23,930 --> 00:04:30,327
+β-lactam có thể là ceftriaxon 1 đến 2 gam mỗi ngày, cefotaxim 1 đến 2 gam mỗi 8 giờ,
+
+70
+00:04:30,177 --> 00:04:36,797
+ampicillin sulbactam 1,5 đến 3 gam mỗi 6 giờ, hoặc ceftarolin 600 mi li gam mỗi 12 giờ;
+
+71
+00:04:36,647 --> 00:04:43,118
+kèm azithromycin 500 mi li gam mỗi ngày hoặc clarithromycin 500 mi li gam hai lần mỗi
+
+72
+00:04:42,968 --> 00:04:50,480
+ngày. Fluoroquinolon hô hấp là levofloxacin 750 mi li gam hoặc moxifloxacin 400 mi li gam mỗi ngày.
+
+73
+00:04:50,680 --> 00:04:54,846
+Nếu người bệnh có chống chỉ định cả macrolid lẫn fluoroquinolon,
+
+74
+00:04:54,696 --> 00:04:59,365
+có thể dùng β-lactam phối hợp doxycyclin 100 mi li gam hai lần mỗi ngày,
+
+75
+00:04:59,215 --> 00:05:01,310
+đây là khuyến cáo có điều kiện.
+
+76
+00:05:01,510 --> 00:05:03,587
+Ở người bệnh nặng nằm hồi sức,
+
+77
+00:05:03,437 --> 00:05:08,725
+ATS và IDSA chấp nhận cả β-lactam phối hợp macrolid lẫn phối hợp fluoroquinolon,
+
+78
+00:05:08,575 --> 00:05:14,185
+nhưng bằng chứng nghiêng về macrolid. Hướng dẫn châu Âu 2023 gợi ý rõ: thêm macrolid,
+
+79
+00:05:14,035 --> 00:05:15,855
+không thêm fluoroquinolon,
+
+80
+00:05:15,705 --> 00:05:21,379
+và macrolid dùng 3 đến 5 ngày là hợp lý. Hội Hô hấp Việt Nam cũng nhấn mạnh không dùng
+
+81
+00:05:21,229 --> 00:05:23,627
+quinolon đơn trị ở người bệnh nặng,
+
+82
+00:05:23,477 --> 00:05:27,160
+ưu tiên cephalosporin thế hệ 3 đến 5 phối hợp macrolid.
+
+83
+00:05:28,610 --> 00:05:34,295
+Vậy macrolid có thật sự cần không? Ba thử nghiệm cho ba câu trả lời bổ sung nhau. Thử
+
+84
+00:05:34,145 --> 00:05:35,989
+nghiệm CAP-START ở Hà Lan,
+
+85
+00:05:35,839 --> 00:05:38,138
+so sánh theo cụm các khoa thường:
+
+86
+00:05:37,988 --> 00:05:41,915
+tử vong 90 ngày thô là 9,0 phần trăm với β-lactam đơn trị,
+
+87
+00:05:41,765 --> 00:05:47,320
+11,1 phần trăm với β-lactam phối hợp macrolid, và 8,8 phần trăm với fluoroquinolon.
+
+88
+00:05:47,520 --> 00:05:51,590
+Kết luận: ở khoa thường, β-lactam đơn trị không kém hai chiến lược còn lại.
+
+89
+00:05:51,790 --> 00:05:56,416
+Nhưng thử nghiệm của Garin ở Thụy Sĩ, trên người bệnh trung bình đến nặng,
+
+90
+00:05:56,266 --> 00:05:58,411
+lại cho kết quả khác: sau 7 ngày,
+
+91
+00:05:58,261 --> 00:06:01,798
+41,2 phần trăm người dùng β-lactam đơn trị chưa ổn định,
+
+92
+00:06:01,648 --> 00:06:07,060
+so với 33,6 phần trăm khi phối hợp macrolid, và đơn trị không đạt tiêu chuẩn không kém.
+
+93
+00:06:07,260 --> 00:06:12,472
+Người nhiễm vi khuẩn không điển hình và người thuộc nhóm PSI bốn là những người chậm ổn
+
+94
+00:06:12,322 --> 00:06:13,752
+định nhất khi đơn trị;
+
+95
+00:06:13,602 --> 00:06:17,650
+tỷ lệ tái nhập viện 30 ngày cũng cao hơn, 7,9 so với 3,1 phần trăm.
+
+96
+00:06:17,850 --> 00:06:21,588
+Gần đây nhất, thử nghiệm ACCESS ở Hy Lạp năm 2024,
+
+97
+00:06:21,438 --> 00:06:25,823
+trên người bệnh có SOFA từ 2 điểm và procalcitonin từ 0,25,
+
+98
+00:06:25,673 --> 00:06:31,923
+cho thấy thêm clarithromycin 500 mi li gam hai lần mỗi ngày trong 7 ngày làm tăng đáp
+
+99
+00:06:31,773 --> 00:06:35,440
+ứng lâm sàng sớm ở ngày 4 từ 38 lên 68 phần trăm.
+
+100
+00:06:35,640 --> 00:06:38,715
+Thông điệp: bệnh càng nặng, vai trò của macrolid càng rõ,
+
+101
+00:06:38,565 --> 00:06:43,230
+có lẽ không chỉ nhờ phủ vi khuẩn không điển hình mà còn nhờ tác dụng điều hoà miễn dịch.
+
+102
+00:06:44,680 --> 00:06:46,622
+Bây giờ đến nhánh khó nhất:
+
+103
+00:06:46,472 --> 00:06:52,265
+khi nào phủ tụ cầu vàng kháng methicillin và trực khuẩn mủ xanh. ATS và IDSA chỉ công
+
+104
+00:06:52,115 --> 00:06:54,190
+nhận hai loại yếu tố nguy cơ.
+
+105
+00:06:54,390 --> 00:06:55,759
+Loại thứ nhất mạnh nhất:
+
+106
+00:06:55,609 --> 00:06:59,925
+người bệnh đã từng phân lập được các vi khuẩn này từ đường hô hấp. Trường hợp này,
+
+107
+00:06:59,775 --> 00:07:02,110
+dù nặng hay không nặng, đều thêm thuốc phủ,
+
+108
+00:07:01,960 --> 00:07:05,260
+đồng thời cấy hoặc làm PCR tụ cầu ở mũi để có thể xuống thang.
+
+109
+00:07:05,460 --> 00:07:10,171
+Loại thứ hai: người bệnh mới nằm viện và dùng kháng sinh đường tiêm trong 90 ngày,
+
+110
+00:07:10,021 --> 00:07:12,730
+kèm yếu tố nguy cơ đã được xác nhận tại cơ sở.
+
+111
+00:07:12,930 --> 00:07:16,780
+Với nhóm này, nếu bệnh không nặng, chỉ cấy mà chưa phủ, chờ kết quả;
+
+112
+00:07:16,630 --> 00:07:21,460
+nếu PCR tụ cầu ở mũi âm tính thì không cần phủ tụ cầu vàng kháng methicillin. Nếu bệnh
+
+113
+00:07:21,310 --> 00:07:23,800
+nặng thì phủ ngay rồi xuống thang theo cấy.
+
+114
+00:07:24,000 --> 00:07:29,385
+Thuốc phủ tụ cầu vàng kháng methicillin là vancomycin 15 mi li gam mỗi ký mỗi 12 giờ,
+
+115
+00:07:29,235 --> 00:07:30,555
+chỉnh theo nồng độ,
+
+116
+00:07:30,405 --> 00:07:35,852
+hoặc linezolid 600 mi li gam mỗi 12 giờ. Thuốc phủ trực khuẩn mủ xanh gồm piperacillin
+
+117
+00:07:35,702 --> 00:07:37,638
+tazobactam 4,5 gam mỗi 6 giờ,
+
+118
+00:07:37,488 --> 00:07:39,117
+cefepim 2 gam mỗi 8 giờ,
+
+119
+00:07:38,967 --> 00:07:44,229
+hoặc meropenem 1 gam mỗi 8 giờ. Lưu ý các phác đồ này không phủ vi khuẩn đường ruột
+
+120
+00:07:44,079 --> 00:07:45,830
+sinh β-lactamase phổ rộng.
+
+121
+00:07:46,030 --> 00:07:50,407
+Hội Hô hấp Việt Nam còn đưa thêm thang điểm PES để ước lượng nguy cơ này,
+
+122
+00:07:50,257 --> 00:07:52,260
+như chúng ta đã thấy ở phần một.
+
+123
+00:07:53,710 --> 00:07:58,574
+Phủ rộng chỉ an toàn khi ta có đường lui. Đường lui đó chính là bệnh phẩm lấy trước
+
+124
+00:07:58,424 --> 00:08:03,516
+kháng sinh. Bên trái là chai cấy máu đã có vi khuẩn mọc. ATS và IDSA khuyến cáo cấy máu
+
+125
+00:08:03,366 --> 00:08:09,480
+ở mọi người bệnh viêm phổi nặng và ở người đang được phủ tụ cầu kháng methicillin hay trực khuẩn mủ xanh.
+
+126
+00:08:09,680 --> 00:08:14,119
+Bên phải là tiêu bản nhuộm Gram đàm với những song cầu Gram dương hình ngọn nến,
+
+127
+00:08:13,969 --> 00:08:14,870
+gợi ý phế cầu.
+
+128
+00:08:15,070 --> 00:08:18,914
+Nhuộm Gram và cấy đàm được khuyến cáo trước kháng sinh ở người bệnh nặng,
+
+129
+00:08:18,764 --> 00:08:20,533
+nhất là khi đã đặt nội khí quản,
+
+130
+00:08:20,383 --> 00:08:23,620
+vì lúc đó bệnh phẩm đường hô hấp dưới dễ lấy và đáng tin cậy.
+
+131
+00:08:23,820 --> 00:08:27,734
+Mục đích cuối cùng là xuống thang: khi cấy âm tính với vi khuẩn kháng thuốc,
+
+132
+00:08:27,584 --> 00:08:29,170
+hãy ngừng thuốc phủ rộng sớm.
+
+133
+00:08:30,620 --> 00:08:35,058
+Một câu hỏi mới của ATS 2025: khi xét nghiệm virus hô hấp dương tính,
+
+134
+00:08:34,908 --> 00:08:39,718
+có được bỏ kháng sinh hay không? Câu trả lời chỉ là có ở một nhóm duy nhất:
+
+135
+00:08:39,568 --> 00:08:42,142
+người bệnh ngoại trú không có bệnh nền,
+
+136
+00:08:41,992 --> 00:08:45,870
+với 14 trên 15 phiếu đồng ý không kê kháng sinh kinh nghiệm.
+
+137
+00:08:46,070 --> 00:08:50,460
+Người ngoại trú có bệnh nền thì vẫn gợi ý dùng kháng sinh vì lo ngại đồng nhiễm vi khuẩn.
+
+138
+00:08:50,660 --> 00:08:53,210
+Người bệnh nội trú không nặng cũng vậy.
+
+139
+00:08:53,410 --> 00:08:54,825
+Và với viêm phổi nặng,
+
+140
+00:08:54,675 --> 00:09:00,002
+hội đồng nhất trí 15 trên 15 phiếu dùng kháng sinh. Tất cả đều là khuyến cáo có điều kiện,
+
+141
+00:08:59,852 --> 00:09:04,891
+chứng cứ rất thấp, nên cần cá thể hoá: đàm mủ, chỉ dấu viêm tăng, đông đặc trên phim,
+
+142
+00:09:04,741 --> 00:09:09,090
+hay bệnh nặng lên lần hai sau giai đoạn cúm đều gợi ý có vi khuẩn đi kèm.
+
+143
+00:09:10,540 --> 00:09:11,905
+Khi viêm phổi có cúm,
+
+144
+00:09:11,755 --> 00:09:16,069
+ATS và IDSA khuyến cáo mạnh dùng oseltamivir cho mọi người bệnh nội trú,
+
+145
+00:09:15,919 --> 00:09:19,250
+bất kể đã bệnh bao nhiêu ngày trước khi được chẩn đoán.
+
+146
+00:09:19,450 --> 00:09:24,307
+Hướng dẫn châu Âu còn gợi ý dùng oseltamivir kinh nghiệm cho người bệnh nặng trong mùa
+
+147
+00:09:24,157 --> 00:09:25,840
+cúm khi chưa có kết quả PCR.
+
+148
+00:09:26,040 --> 00:09:31,111
+Liều cho người lớn, kể cả thai phụ, là 75 mi li gam uống hai lần mỗi ngày trong 5 ngày;
+
+149
+00:09:30,961 --> 00:09:36,031
+ở người suy giảm miễn dịch hoặc bệnh rất nặng có thể cân nhắc kéo dài. Oseltamivir thải
+
+150
+00:09:35,881 --> 00:09:38,350
+qua thận nên cần chỉnh liều khi suy thận.
+
+151
+00:09:38,550 --> 00:09:40,434
+Nếu người bệnh không uống được,
+
+152
+00:09:40,284 --> 00:09:45,190
+Hội Hô hấp Việt Nam gợi ý peramivir 600 mi li gam tĩnh mạch một lần khi độ thanh thải
+
+153
+00:09:45,040 --> 00:09:47,260
+creatinin trên 60 mi li lít mỗi phút.
+
+154
+00:09:47,460 --> 00:09:51,091
+Và đừng quên: người bệnh viêm phổi có cúm vẫn được dùng kháng sinh chuẩn,
+
+155
+00:09:50,941 --> 00:09:54,810
+vì bội nhiễm tụ cầu vàng và phế cầu sau cúm là nguyên nhân tử vong quan trọng.
+
+156
+00:09:56,260 --> 00:09:59,998
+Bây giờ là một tình huống. Nam 68 tuổi, giãn phế quản,
+
+157
+00:09:59,848 --> 00:10:05,512
+đờm cấy ra trực khuẩn mủ xanh cách đây 4 tháng. Nay viêm phổi thuỳ dưới trái, tỉnh,
+
+158
+00:10:05,362 --> 00:10:09,565
+huyết áp 124 trên 76, thở 22 lần mỗi phút, SpO₂ 93 phần trăm,
+
+159
+00:10:09,415 --> 00:10:11,890
+không có tiêu chuẩn viêm phổi nặng.
+
+160
+00:10:12,090 --> 00:10:14,800
+Câu hỏi: phác đồ kinh nghiệm nào phù hợp nhất?
+
+161
+00:10:15,000 --> 00:10:17,630
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+162
+00:10:26,230 --> 00:10:31,113
+Đáp án là phương án B. Người bệnh đã từng phân lập trực khuẩn mủ xanh từ đường hô hấp,
+
+163
+00:10:30,963 --> 00:10:34,085
+đây là yếu tố nguy cơ mạnh nhất, nên theo ATS và IDSA,
+
+164
+00:10:33,935 --> 00:10:37,497
+dù bệnh không nặng vẫn thêm thuốc phủ trực khuẩn mủ xanh ngay,
+
+165
+00:10:37,347 --> 00:10:41,570
+đồng thời cấy đàm để xuống thang. Ceftriaxon không phủ trực khuẩn mủ xanh;
+
+166
+00:10:41,420 --> 00:10:43,221
+azithromycin đơn trị không đủ;
+
+167
+00:10:43,071 --> 00:10:48,890
+còn vancomycin phối hợp meropenem là phủ quá rộng khi không có yếu tố nguy cơ tụ cầu kháng methicillin.
+
+168
+00:10:50,340 --> 00:10:53,250
+Xin tổng kết năm bẫy thường gặp. Bẫy thứ nhất:
+
+169
+00:10:53,100 --> 00:10:55,950
+kê macrolid đơn trị cho người bệnh ngoại trú,
+
+170
+00:10:55,800 --> 00:10:59,130
+trong khi phế cầu ở Việt Nam kháng trên 90 phần trăm.
+
+171
+00:10:59,330 --> 00:11:00,150
+Bẫy thứ hai:
+
+172
+00:11:00,000 --> 00:11:04,841
+phủ tụ cầu kháng methicillin hay trực khuẩn mủ xanh chỉ vì người bệnh từng nằm viện.
+
+173
+00:11:04,691 --> 00:11:07,800
+Khái niệm viêm phổi liên quan chăm sóc y tế đã bị bỏ.
+
+174
+00:11:08,000 --> 00:11:08,819
+Bẫy thứ ba:
+
+175
+00:11:08,669 --> 00:11:14,046
+tự động thêm thuốc phủ kỵ khí cho mọi ca nghi viêm phổi hít. ATS và IDSA chỉ gợi ý khi
+
+176
+00:11:13,896 --> 00:11:16,112
+nghi áp xe phổi hoặc mủ màng phổi;
+
+177
+00:11:15,962 --> 00:11:19,030
+hướng dẫn châu Âu cũng gợi ý dùng phác đồ chuẩn.
+
+178
+00:11:19,230 --> 00:11:20,037
+Bẫy thứ tư:
+
+179
+00:11:19,887 --> 00:11:25,118
+chờ procalcitonin rồi mới quyết định có dùng kháng sinh. Khuyến cáo mạnh là khởi động
+
+180
+00:11:24,968 --> 00:11:27,569
+kháng sinh cho mọi viêm phổi đã xác nhận,
+
+181
+00:11:27,419 --> 00:11:29,780
+bất kể nồng độ procalcitonin ban đầu.
+
+182
+00:11:29,980 --> 00:11:34,439
+Và bẫy thứ năm: dùng quinolon đơn trị cho người bệnh nặng. Ở viêm phổi nặng,
+
+183
+00:11:34,289 --> 00:11:35,970
+luôn phối hợp với β-lactam.
+
+184
+00:11:37,420 --> 00:11:40,485
+Tóm lại phần ba. Người bệnh ngoại trú khỏe mạnh:
+
+185
+00:11:40,335 --> 00:11:43,522
+amoxicillin 1 gam ba lần mỗi ngày hoặc doxycyclin;
+
+186
+00:11:43,372 --> 00:11:45,890
+không dùng macrolid đơn trị ở Việt Nam.
+
+187
+00:11:46,090 --> 00:11:49,633
+Người bệnh nội trú không nặng: β-lactam phối hợp macrolid,
+
+188
+00:11:49,483 --> 00:11:51,680
+hoặc fluoroquinolon hô hấp đơn trị.
+
+189
+00:11:51,880 --> 00:11:56,110
+Người bệnh nặng: β-lactam phối hợp macrolid là lựa chọn ưu tiên.
+
+190
+00:11:56,310 --> 00:12:01,724
+Chỉ phủ tụ cầu kháng methicillin và trực khuẩn mủ xanh khi có yếu tố nguy cơ đã được xác nhận,
+
+191
+00:12:01,574 --> 00:12:03,740
+và luôn có bệnh phẩm để xuống thang.
+
+192
+00:12:03,940 --> 00:12:09,619
+Xét nghiệm virus dương tính chỉ cho phép bỏ kháng sinh ở người ngoại trú không bệnh nền. Ở phần bốn,
+
+193
+00:12:09,469 --> 00:12:13,323
+chúng ta sẽ trả lời hai câu hỏi tiếp theo: dùng kháng sinh bao lâu,
+
+194
+00:12:13,173 --> 00:12:18,520
+và có nên dùng corticoid hay không. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

@@ -1,0 +1,583 @@
+1
+00:00:04,900 --> 00:00:06,103
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,953 --> 00:00:11,370
+chào mừng quý vị đến với phần bốn trong loạt bài viêm phổi mắc phải cộng đồng của Thư Viện Y Khoa Online.
+
+3
+00:00:11,570 --> 00:00:16,073
+Phần này dành cho hai câu hỏi đã thay đổi nhiều nhất từ năm 2019 đến nay:
+
+4
+00:00:15,923 --> 00:00:17,922
+dùng kháng sinh bao lâu thì đủ,
+
+5
+00:00:17,772 --> 00:00:21,560
+và corticoid có cứu được người bệnh viêm phổi nặng hay không.
+
+6
+00:00:21,760 --> 00:00:25,504
+Cả hai câu hỏi đều được Hội Lồng ngực Hoa Kỳ cập nhật năm 2025,
+
+7
+00:00:25,354 --> 00:00:28,870
+trong bối cảnh nhiều thử nghiệm lớn cho kết quả trái chiều.
+
+8
+00:00:30,320 --> 00:00:34,808
+Mọi quyết định về thời gian kháng sinh xoay quanh một khái niệm:
+
+9
+00:00:34,658 --> 00:00:40,231
+ổn định lâm sàng. ATS 2025 dùng định nghĩa của thử nghiệm PTC, gồm sáu tiêu chí:
+
+10
+00:00:40,081 --> 00:00:45,180
+nhiệt độ không quá 37,8 độ, mạch dưới 100, nhịp thở dưới 24 lần mỗi phút.
+
+11
+00:00:45,380 --> 00:00:50,280
+SpO₂ từ 90 phần trăm hoặc PaO₂ từ 60 mi li mét thuỷ ngân khi thở khí trời,
+
+12
+00:00:50,130 --> 00:00:55,030
+hoặc trở về mức oxy nền với người thở oxy dài hạn; huyết áp tâm thu từ 90;
+
+13
+00:00:54,880 --> 00:00:56,570
+và tri giác bình thường.
+
+14
+00:00:56,770 --> 00:00:59,754
+Điểm khác biệt quan trọng: trong thử nghiệm PTC,
+
+15
+00:00:59,604 --> 00:01:04,714
+người bệnh phải đạt tất cả sáu tiêu chí. Các hướng dẫn cũ năm 2007 và thử nghiệm của
+
+16
+00:01:04,564 --> 00:01:06,604
+Uranga dùng tiêu chuẩn lỏng hơn:
+
+17
+00:01:06,454 --> 00:01:09,320
+hết sốt và không quá một dấu hiệu mất ổn định.
+
+18
+00:01:10,770 --> 00:01:15,136
+Bằng chứng then chốt là thử nghiệm PTC tại 16 trung tâm ở Pháp,
+
+19
+00:01:14,986 --> 00:01:18,950
+công bố trên Lancet năm 2021. Người bệnh nằm khoa thường,
+
+20
+00:01:18,800 --> 00:01:22,497
+đã ổn định sau 3 ngày β-lactam, được chia ngẫu nhiên:
+
+21
+00:01:22,347 --> 00:01:26,780
+dùng thêm amoxicillin kèm acid clavulanic 5 ngày, hoặc giả dược.
+
+22
+00:01:26,980 --> 00:01:31,212
+Kết quả: khỏi bệnh ở ngày 15 đạt 77 phần trăm ở nhóm ngừng sớm,
+
+23
+00:01:31,062 --> 00:01:33,610
+so với 68 phần trăm ở nhóm dùng tiếp.
+
+24
+00:01:33,810 --> 00:01:38,720
+Chênh lệch 9,42 điểm phần trăm, khoảng tin cậy từ âm 0,38 đến 20,04,
+
+25
+00:01:38,570 --> 00:01:41,800
+đủ để kết luận ngừng ở ngày 3 không kém hơn.
+
+26
+00:01:42,000 --> 00:01:45,894
+Biến cố bất lợi ít hơn ở nhóm ngừng sớm, 14 so với 19 phần trăm,
+
+27
+00:01:45,744 --> 00:01:47,590
+chủ yếu là rối loạn tiêu hoá.
+
+28
+00:01:47,790 --> 00:01:51,684
+Cần nhớ quần thể của thử nghiệm: người bệnh khoa thường, tuổi trung vị 73,
+
+29
+00:01:51,534 --> 00:01:54,820
+đã ổn định đủ sáu tiêu chí. Đây không phải người bệnh hồi sức.
+
+30
+00:01:56,270 --> 00:02:01,622
+Năm 2019, ATS và IDSA khuyến cáo mạnh: dùng kháng sinh đến khi ổn định,
+
+31
+00:02:01,472 --> 00:02:04,260
+và tổng thời gian không dưới 5 ngày.
+
+32
+00:02:04,460 --> 00:02:09,671
+Năm 2025, ATS hạ ngưỡng: với người bệnh ngoại trú và nội trú không nặng đã ổn định,
+
+33
+00:02:09,521 --> 00:02:14,733
+gợi ý dưới 5 ngày, tối thiểu 3 ngày. Đây là khuyến cáo có điều kiện, chứng cứ thấp;
+
+34
+00:02:14,583 --> 00:02:17,660
+ở nhóm nội trú chỉ 11 trên 16 thành viên đồng ý.
+
+35
+00:02:17,860 --> 00:02:22,186
+Với viêm phổi nặng, ATS 2025 giữ khuyến cáo mạnh từ 5 ngày trở lên,
+
+36
+00:02:22,036 --> 00:02:27,297
+vì chưa có thử nghiệm nào trên nhóm này và điều trị thiếu có thể gây hậu quả nặng,
+
+37
+00:02:27,147 --> 00:02:28,170
+kể cả tử vong.
+
+38
+00:02:28,370 --> 00:02:31,477
+NICE và Hội Hô hấp Việt Nam vẫn dùng mốc 5 ngày;
+
+39
+00:02:31,327 --> 00:02:36,591
+Hội Hô hấp Việt Nam ghi phế cầu cần 3 đến 5 ngày sau khi hết sốt, tối thiểu 5 ngày,
+
+40
+00:02:36,441 --> 00:02:39,240
+và Haemophilus influenzae cần 5 đến 7 ngày.
+
+41
+00:02:40,690 --> 00:02:45,912
+Rút ngắn kháng sinh không áp dụng cho mọi người. ATS 2025 liệt kê ba nhóm yếu tố làm
+
+42
+00:02:45,762 --> 00:02:49,173
+yếu khuyến cáo. Thứ nhất là vi khuẩn cần điều trị dài:
+
+43
+00:02:49,023 --> 00:02:53,400
+tụ cầu vàng, trực khuẩn mủ xanh, nghi Legionella hay vi khuẩn nội bào.
+
+44
+00:02:53,600 --> 00:02:57,679
+Thứ hai là biến chứng: mủ màng phổi, tràn dịch cận viêm, áp xe hay hoại tử,
+
+45
+00:02:57,529 --> 00:02:59,670
+nhiễm khuẩn huyết, ổ nhiễm ngoài phổi.
+
+46
+00:02:59,870 --> 00:03:04,574
+Thứ ba là người bệnh nền: giãn phế quản, viêm phổi sau tắc nghẽn, giảm oxy máu mạn,
+
+47
+00:03:04,424 --> 00:03:08,580
+có thai, mới dùng kháng sinh, mới nằm viện hoặc khó theo dõi sau ra viện.
+
+48
+00:03:08,780 --> 00:03:12,619
+ATS 2025 còn nhấn mạnh: không ấn định thời gian từ lúc nhập viện,
+
+49
+00:03:12,469 --> 00:03:14,492
+mà quyết định từng ngày. Thực tế,
+
+50
+00:03:14,342 --> 00:03:19,090
+hơn một nửa người bệnh nội trú không nặng không đủ điều kiện cho liệu trình ngắn.
+
+51
+00:03:20,540 --> 00:03:25,042
+Đây là ví dụ điển hình của biến chứng làm khuyến cáo rút ngắn không còn áp dụng:
+
+52
+00:03:24,892 --> 00:03:26,130
+một áp xe phổi phải.
+
+53
+00:03:26,330 --> 00:03:30,640
+Trên phim là một hang có mức khí dịch nằm ngang, đặc trưng của áp xe phổi.
+
+54
+00:03:30,840 --> 00:03:34,017
+Ở người bệnh này, ATS và IDSA cho phép phủ kỵ khí,
+
+55
+00:03:33,867 --> 00:03:38,436
+và thời gian kháng sinh phải kéo dài theo diễn tiến hình ảnh và lâm sàng,
+
+56
+00:03:38,286 --> 00:03:39,950
+không thể ngừng ở ngày 3.
+
+57
+00:03:41,400 --> 00:03:47,764
+Bây giờ đến corticoid. Thử nghiệm làm thay đổi khuyến cáo là CAPE COD, công bố năm 2023:
+
+58
+00:03:47,614 --> 00:03:51,224
+800 người bệnh viêm phổi nặng tại hồi sức ở Pháp,
+
+59
+00:03:51,074 --> 00:03:57,580
+hydrocortison 200 mi li gam mỗi ngày làm tử vong ngày 28 giảm từ 11,9 xuống 6,2 phần trăm.
+
+60
+00:03:57,780 --> 00:04:03,810
+Hydrocortison còn giảm đặt nội khí quản từ 29,5 xuống 18 phần trăm và giảm khởi động
+
+61
+00:04:03,660 --> 00:04:06,330
+vận mạch từ 25 xuống 15,3 phần trăm.
+
+62
+00:04:06,530 --> 00:04:10,775
+Trước đó, thử nghiệm ESCAPe ở các bệnh viện cựu chiến binh Hoa Kỳ,
+
+63
+00:04:10,625 --> 00:04:14,933
+dùng methylprednisolon kéo dài 20 ngày, không giảm tử vong ngày 60:
+
+64
+00:04:14,783 --> 00:04:16,360
+16 so với 18 phần trăm.
+
+65
+00:04:16,560 --> 00:04:17,280
+Năm 2025,
+
+66
+00:04:17,130 --> 00:04:22,795
+nhánh hydrocortison cố định 7 ngày của thử nghiệm nền tảng REMAP-CAP bị dừng vì vô ích:
+
+67
+00:04:22,645 --> 00:04:28,310
+tử vong ngày 90 là 15 phần trăm ở nhóm hydrocortison so với 9,8 phần trăm ở nhóm chứng,
+
+68
+00:04:28,160 --> 00:04:30,655
+tỷ số chênh hiệu chỉnh 1,52 đến 1,63,
+
+69
+00:04:30,505 --> 00:04:34,395
+khoảng tin cậy Bayes cắt qua 1. Không loại trừ lợi ích nhỏ,
+
+70
+00:04:34,245 --> 00:04:36,550
+nhưng cũng không loại trừ tác hại.
+
+71
+00:04:36,750 --> 00:04:40,903
+Cùng năm, thử nghiệm SONIA trên 2180 người bệnh ở Kenya,
+
+72
+00:04:40,753 --> 00:04:44,406
+dùng glucocorticoid liều thấp 10 ngày ở khoa nội,
+
+73
+00:04:44,256 --> 00:04:50,340
+lại cho thấy giảm tử vong ngày 30 từ 26,0 xuống 22,6 phần trăm, tỷ số nguy cơ 0,84.
+
+74
+00:04:51,790 --> 00:04:57,849
+ATS 2025 phân tích vì sao CAPE COD dương tính còn ESCAPe âm tính. Thứ nhất là thời điểm:
+
+75
+00:04:57,699 --> 00:05:02,953
+CAPE COD bắt đầu corticoid trong 24 giờ sau khi người bệnh đủ tiêu chí nặng,
+
+76
+00:05:02,803 --> 00:05:05,840
+trong khi ESCAPe tuyển trong 72 đến 96 giờ.
+
+77
+00:05:06,040 --> 00:05:09,458
+Thứ hai là quần thể: CAPE COD chọn người bệnh có suy hô hấp,
+
+78
+00:05:09,308 --> 00:05:11,255
+loại sốc nhiễm khuẩn và loại cúm;
+
+79
+00:05:11,105 --> 00:05:15,884
+còn REMAP-CAP có cả người bệnh cúm và sốc. ESCAPe chủ yếu là nam giới cựu chiến binh,
+
+80
+00:05:15,734 --> 00:05:17,790
+trong khi CAPE COD có nhiều nữ hơn.
+
+81
+00:05:17,990 --> 00:05:19,726
+Thứ ba là cách dùng thuốc:
+
+82
+00:05:19,576 --> 00:05:24,117
+CAPE COD truyền liên tục hydrocortison 200 mi li gam mỗi ngày, giảm dần,
+
+83
+00:05:23,967 --> 00:05:29,179
+tổng 8 hoặc 14 ngày; REMAP-CAP tiêm ngắt quãng 50 mi li gam mỗi 6 giờ trong 7 ngày;
+
+84
+00:05:29,029 --> 00:05:34,424
+ESCAPe dùng methylprednisolon giảm dần trong 20 ngày. Một phân tích gộp dữ liệu cá thể
+
+85
+00:05:34,274 --> 00:05:36,620
+còn cho thấy CRP cao dự báo lợi ích.
+
+86
+00:05:38,070 --> 00:05:42,387
+Kết quả trái chiều dẫn đến khuyến cáo trái chiều. Năm 2019,
+
+87
+00:05:42,237 --> 00:05:47,260
+ATS và IDSA gợi ý không dùng corticoid thường quy cho viêm phổi nặng.
+
+88
+00:05:47,460 --> 00:05:51,075
+Hướng dẫn châu Âu 2023 gợi ý chỉ dùng khi có sốc,
+
+89
+00:05:50,925 --> 00:05:56,307
+và đề xuất methylprednisolon 0,5 mi li gam mỗi ký mỗi 12 giờ trong 5 ngày;
+
+90
+00:05:56,157 --> 00:05:58,570
+hướng dẫn này ra trước CAPE COD.
+
+91
+00:05:58,770 --> 00:05:59,512
+Năm 2024,
+
+92
+00:05:59,362 --> 00:06:04,845
+Hội Hồi sức Hoa Kỳ khuyến cáo mạnh dùng corticoid cho viêm phổi nặng do vi khuẩn,
+
+93
+00:06:04,695 --> 00:06:09,322
+dựa trên phân tích gộp 18 thử nghiệm với tỷ số nguy cơ tử vong 0,62,
+
+94
+00:06:09,172 --> 00:06:11,560
+nhưng ra trước REMAP-CAP và SONIA.
+
+95
+00:06:11,760 --> 00:06:15,874
+ATS 2025 chỉ gợi ý dùng, khuyến cáo có điều kiện, chứng cứ thấp,
+
+96
+00:06:15,724 --> 00:06:17,670
+và loại trừ viêm phổi do cúm;
+
+97
+00:06:17,520 --> 00:06:21,510
+đồng thời khuyến cáo mạnh không dùng cho viêm phổi không nặng.
+
+98
+00:06:21,710 --> 00:06:27,140
+NICE 2025 cân nhắc dùng 4 đến 7 ngày, ưu tiên hydrocortison tĩnh mạch.
+
+99
+00:06:27,340 --> 00:06:33,638
+Và Hội Hô hấp Việt Nam 2025 khuyên dùng sớm trong 24 giờ, xét nghiệm cúm và COVID trước,
+
+100
+00:06:33,488 --> 00:06:40,066
+hydrocortison 200 mi li gam mỗi ngày hoặc methylprednisolon 0,5 mi li gam mỗi ký mỗi 12 giờ,
+
+101
+00:06:39,916 --> 00:06:43,490
+đánh giá ngày 4 để giảm liều, tổng 8 đến 14 ngày.
+
+102
+00:06:44,940 --> 00:06:50,366
+Vậy tại giường, ta nên làm gì? Kết luận thực hành của chuyên đề, bám theo ATS 2025,
+
+103
+00:06:50,216 --> 00:06:54,243
+là dùng corticoid cho người bệnh có kiểu hình giống CAPE COD:
+
+104
+00:06:54,093 --> 00:06:57,993
+viêm phổi nặng do vi khuẩn, có suy hô hấp với P/F dưới 300,
+
+105
+00:06:57,843 --> 00:07:02,888
+bắt đầu trong 24 giờ sau khi đủ tiêu chí nặng, chỉ dấu viêm như CRP tăng cao,
+
+106
+00:07:02,738 --> 00:07:05,430
+không có cúm và không có chống chỉ định.
+
+107
+00:07:05,630 --> 00:07:09,748
+Phác đồ là hydrocortison 200 mi li gam mỗi ngày truyền tĩnh mạch liên tục,
+
+108
+00:07:09,598 --> 00:07:13,020
+đánh giá ở ngày 4: cải thiện nhanh thì giảm dần, tổng 8 ngày;
+
+109
+00:07:12,870 --> 00:07:15,540
+chậm thì dùng đủ 7 ngày rồi giảm, tổng 14 ngày.
+
+110
+00:07:15,740 --> 00:07:20,108
+Tránh dùng khi viêm phổi do cúm, nhiễm Aspergillus, đái tháo đường không kiểm soát,
+
+111
+00:07:19,958 --> 00:07:23,970
+xuất huyết tiêu hoá gần đây; người có thai cũng bị loại khỏi các thử nghiệm.
+
+112
+00:07:24,170 --> 00:07:26,757
+Không dùng corticoid cho viêm phổi không nặng,
+
+113
+00:07:26,607 --> 00:07:30,254
+trừ khi có chỉ định khác như đợt cấp bệnh phổi tắc nghẽn mạn tính,
+
+114
+00:07:30,104 --> 00:07:32,320
+hen hay nghi viêm phổi do Pneumocystis.
+
+115
+00:07:32,520 --> 00:07:33,119
+Khi dùng,
+
+116
+00:07:32,969 --> 00:07:37,157
+theo dõi đường huyết vì tăng đường huyết là tác dụng phụ có bằng chứng vững nhất,
+
+117
+00:07:37,007 --> 00:07:39,550
+kèm theo nhiễm trùng mới và xuất huyết tiêu hoá.
+
+118
+00:07:41,000 --> 00:07:42,209
+Về hỗ trợ hô hấp,
+
+119
+00:07:42,059 --> 00:07:47,442
+hướng dẫn châu Âu 2023 gợi ý dùng oxy dòng cao qua mũi thay oxy chuẩn cho người bệnh
+
+120
+00:07:47,292 --> 00:07:50,868
+suy hô hấp giảm oxy máu chưa cần đặt nội khí quản ngay,
+
+121
+00:07:50,718 --> 00:07:56,350
+và thông khí không xâm nhập có thể là lựa chọn ở một số người bệnh giảm oxy máu kéo dài.
+
+122
+00:07:56,550 --> 00:08:01,853
+Hội Hô hấp Việt Nam cũng khuyên dùng oxy dòng cao hoặc thông khí không xâm nhập nếu có điều kiện,
+
+123
+00:08:01,703 --> 00:08:03,340
+nhằm tránh đặt nội khí quản.
+
+124
+00:08:03,540 --> 00:08:05,145
+NICE 2025 nhấn mạnh thêm:
+
+125
+00:08:04,995 --> 00:08:08,810
+quyết định thử oxy dòng cao dựa trên đồng thuận đa chuyên khoa,
+
+126
+00:08:08,660 --> 00:08:13,930
+và chọn nơi thực hiện theo nguy cơ thất bại, để không trì hoãn đặt nội khí quản khi cần.
+
+127
+00:08:15,380 --> 00:08:20,380
+Một tình huống để kết thúc. Nữ 66 tuổi, viêm phổi thuỳ không nặng,
+
+128
+00:08:20,230 --> 00:08:26,554
+đang dùng ceftriaxon và azithromycin. Ngày thứ 3: nhiệt độ 37,3 độ, mạch 88, thở 20,
+
+129
+00:08:26,404 --> 00:08:32,800
+SpO₂ 95 phần trăm khí trời, huyết áp 130 trên 80, tỉnh táo, ăn được. Cấy máu âm tính,
+
+130
+00:08:32,650 --> 00:08:34,270
+không có biến chứng.
+
+131
+00:08:34,470 --> 00:08:37,820
+Quyết định nào phù hợp với ATS 2025?
+
+132
+00:08:38,020 --> 00:08:40,730
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+133
+00:08:49,330 --> 00:08:53,166
+Đáp án là B. Người bệnh đạt đủ sáu tiêu chí ổn định, không nặng,
+
+134
+00:08:53,016 --> 00:08:56,046
+không có biến chứng hay yếu tố làm yếu khuyến cáo,
+
+135
+00:08:55,896 --> 00:08:59,213
+nên có thể ngừng kháng sinh khi đã đủ tối thiểu 3 ngày,
+
+136
+00:08:59,063 --> 00:09:02,784
+kèm hướng dẫn rõ dấu hiệu tái phát. Thêm hydrocortison là sai,
+
+137
+00:09:02,634 --> 00:09:06,470
+vì viêm phổi không nặng có khuyến cáo mạnh không dùng corticoid.
+
+138
+00:09:07,920 --> 00:09:12,625
+Tóm lại phần bốn. Thời gian kháng sinh dựa trên ổn định lâm sàng với đủ sáu tiêu chí,
+
+139
+00:09:12,475 --> 00:09:13,590
+đánh giá mỗi ngày.
+
+140
+00:09:13,790 --> 00:09:19,049
+Người bệnh không nặng đã ổn định có thể dùng dưới 5 ngày, tối thiểu 3 ngày,
+
+141
+00:09:18,899 --> 00:09:22,660
+theo ATS 2025; người bệnh nặng cần từ 5 ngày trở lên.
+
+142
+00:09:22,860 --> 00:09:26,493
+Corticoid không dùng cho viêm phổi không nặng; với viêm phổi nặng,
+
+143
+00:09:26,343 --> 00:09:30,610
+dùng có chọn lọc cho kiểu hình giống CAPE COD: suy hô hấp, dùng sớm, viêm cao.
+
+144
+00:09:30,810 --> 00:09:35,148
+Tránh corticoid khi viêm phổi do cúm và luôn theo dõi đường huyết. Ở phần năm,
+
+145
+00:09:34,998 --> 00:09:37,940
+chúng ta sẽ đi qua một ca lâm sàng hồi sức trọn vẹn,
+
+146
+00:09:37,790 --> 00:09:42,880
+áp dụng tất cả những điều đã học. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.
