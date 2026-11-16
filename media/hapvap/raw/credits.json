@@ -1,0 +1,106 @@
+{
+ "acineto_gram.jpg": {
+  "title": "File:Gram negative coccobacilli of Acinetobacter in bronchoalveolar lavage (BAL) Gram staining.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gram_negative_coccobacilli_of_Acinetobacter_in_bronchoalveolar_lavage_(BAL)_Gram_staining.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Ajay Kumar Chaurasiya",
+  "w": 4000,
+  "h": 3000
+ },
+ "acineto_mac.jpg": {
+  "title": "File:Acinetobacter baumannii complex growth on MacConkey agar.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Acinetobacter_baumannii_complex_growth_on_MacConkey_agar.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Ajay Kumar Chaurasiya",
+  "w": 4000,
+  "h": 3000
+ },
+ "ett.jpg": {
+  "title": "File:Endotracheal Tube.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Endotracheal_Tube.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "ICUnurses",
+  "w": 4608,
+  "h": 3456
+ },
+ "ett_airway.jpg": {
+  "title": "File:Airway with endotracheal tube, showing the position of an ET tube in the trachea.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Airway_with_endotracheal_tube,_showing_the_position_of_an_ET_tube_in_the_trachea.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Dr. Lorimer",
+  "w": 3872,
+  "h": 2592
+ },
+ "ett_ssd.png": {
+  "title": "File:Tracheotomy tube with integrated suction tube, suction tube extended.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Tracheotomy_tube_with_integrated_suction_tube,_suction_tube_extended.png",
+  "license": "CC BY-SA 4.0",
+  "artist": "Tenbergen",
+  "w": 1879,
+  "h": 1100
+ },
+ "biofilm.jpg": {
+  "title": "File:Mixed-culture biofilm.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mixed-culture_biofilm.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Krzysztof A. Zacharski",
+  "w": 2560,
+  "h": 1920
+ },
+ "bronchoscopy.jpg": {
+  "title": "File:Bronchoscopy.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bronchoscopy.jpg",
+  "license": "Public domain",
+  "artist": "Unknown photographer",
+  "w": 2700,
+  "h": 1800
+ },
+ "bal.jpg": {
+  "title": "File:Bronchoskopie Bronchoalveoläre Lavage.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bronchoskopie_Bronchoalveol%C3%A4re_Lavage.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "User:MrArifnajafov",
+  "w": 1256,
+  "h": 853
+ },
+ "cxr_vap.jpg": {
+  "title": "File:RLL pneumoniaM.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RLL_pneumoniaM.jpg",
+  "license": "CC BY 3.0",
+  "artist": "James Heilman, MD",
+  "w": 3072,
+  "h": 2304
+ },
+ "ast_disk.jpg": {
+  "title": "File:Pseudomonas aeruginosa antibiotic susceptibility testing.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pseudomonas_aeruginosa_antibiotic_susceptibility_testing.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "HansN.",
+  "w": 1500,
+  "h": 1205
+ },
+ "carba_test.jpg": {
+  "title": "File:Modified Hodge Test (MHT).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Modified_Hodge_Test_(MHT).jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Ajay Kumar Chaurasiya",
+  "w": 3264,
+  "h": 2448
+ },
+ "kp_neutrophil.jpg": {
+  "title": "File:Multidrug-resistant Klebsiella pneumoniaeand neutrophil.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Multidrug-resistant_Klebsiella_pneumoniaeand_neutrophil.jpg",
+  "license": "Public domain",
+  "artist": "David Dorward; Ph.D.; National Institute of Allergy and Infectious Diseases",
+  "w": 732,
+  "h": 768
+ },
+ "icu_vent.jpg": {
+  "title": "File:Respirator icu.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Respirator_icu.JPG",
+  "license": "CC0",
+  "artist": "Blogotron",
+  "w": 1129,
+  "h": 1096
+ }
+}
