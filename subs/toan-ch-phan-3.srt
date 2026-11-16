@@ -1,0 +1,815 @@
+1
+00:00:04,900 --> 00:00:07,831
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba,
+
+2
+00:00:07,681 --> 00:00:11,471
+phần trọng tâm của loạt bài toan chuyển hoá trên Thư Viện Y Khoa Online:
+
+3
+00:00:11,321 --> 00:00:12,330
+natri bicarbonat.
+
+4
+00:00:12,530 --> 00:00:15,109
+Đây là thuốc có mặt ở mọi khoa hồi sức, cấp cứu,
+
+5
+00:00:14,959 --> 00:00:19,918
+nhưng cũng là thuốc bị dùng theo thói quen nhiều nhất. Hôm nay chúng ta trả lời đủ năm câu hỏi:
+
+6
+00:00:19,768 --> 00:00:24,119
+chế phẩm nào, liều bao nhiêu, truyền đường nào và tốc độ ra sao, bằng chứng nói gì,
+
+7
+00:00:23,969 --> 00:00:25,890
+và dùng trong những tình huống nào.
+
+8
+00:00:26,090 --> 00:00:30,525
+Mọi liều trong bài đều lấy từ guideline, thử nghiệm gốc và Dược thư quốc gia,
+
+9
+00:00:30,375 --> 00:00:35,200
+đã được rà soát. Tuy vậy, xin quý vị luôn đối chiếu với chế phẩm có tại đơn vị mình.
+
+10
+00:00:36,650 --> 00:00:40,676
+Bắt đầu từ dược lý. Bicarbonat kết hợp ion hydro tạo acid carbonic,
+
+11
+00:00:40,526 --> 00:00:45,709
+rồi phân ly thành CO₂ và nước. Tác dụng kiềm hoá xảy ra ngay, nhưng Dược thư nhấn mạnh:
+
+12
+00:00:45,559 --> 00:00:50,626
+thuốc chỉ hiệu quả khi thông khí đủ để thải lượng CO₂ sinh ra. Đó là lý do người đang
+
+13
+00:00:50,476 --> 00:00:54,270
+toan hô hấp hay thở máy cài thông khí thấp sẽ hưởng lợi rất ít.
+
+14
+00:00:54,470 --> 00:00:59,534
+Cái giá thứ nhất là điện giải: hạ kali, hạ calci ion hoá, có thể gây tetani,
+
+15
+00:00:59,384 --> 00:01:00,439
+và tăng natri,
+
+16
+00:01:00,289 --> 00:01:06,064
+tăng áp lực thẩm thấu. Tổng quan CHEST năm 2026 coi hạ calci ion hoá là một trong những
+
+17
+00:01:05,914 --> 00:01:08,780
+tác dụng bất lợi có ý nghĩa lâm sàng nhất.
+
+18
+00:01:08,980 --> 00:01:14,012
+Cái giá thứ hai là quá tải natri và nước, nhất là ở người suy tim, suy thận thiểu niệu;
+
+19
+00:01:13,862 --> 00:01:16,650
+kiềm máu dội lại; và hoại tử mô nếu thoát mạch.
+
+20
+00:01:16,850 --> 00:01:21,626
+Riêng trong nhiễm toan ceton, đồng thuận 2024 còn nêu giảm thu nhận oxy mô,
+
+21
+00:01:21,476 --> 00:01:25,080
+phù não và toan nghịch thường ở hệ thần kinh trung ương.
+
+22
+00:01:26,530 --> 00:01:31,588
+Ở Việt Nam, Dược thư quốc gia ghi các dung dịch tiêm 1,4 phần trăm, 4,2,
+
+23
+00:01:31,438 --> 00:01:37,110
+7,5 và 8,4 phần trăm. Dung dịch 1,4 phần trăm chứa 0,167 mi li mol mỗi mi li lít,
+
+24
+00:01:36,960 --> 00:01:43,040
+khoảng 333 mi li ô sơ mol mỗi lít, gần đẳng trương, truyền được qua tĩnh mạch ngoại vi.
+
+25
+00:01:43,240 --> 00:01:46,781
+Dung dịch 4,2 phần trăm chứa 0,5 mi li mol mỗi mi li lít,
+
+26
+00:01:46,631 --> 00:01:48,863
+khoảng 1000 mi li ô sơ mol mỗi lít;
+
+27
+00:01:48,713 --> 00:01:52,551
+đây là dung dịch dùng trong cả hai thử nghiệm Pháp. Xin lưu ý:
+
+28
+00:01:52,401 --> 00:01:54,990
+4,2 phần trăm vẫn là dung dịch ưu trương.
+
+29
+00:01:55,190 --> 00:01:59,245
+Dung dịch 7,5 phần trăm chứa khoảng 0,9 mi li mol mỗi mi li lít;
+
+30
+00:01:59,095 --> 00:02:02,540
+Marino ghi ống 50 mi li lít chứa 45 mi li đương lượng.
+
+31
+00:02:02,740 --> 00:02:07,125
+Và dung dịch 8,4 phần trăm là con số vàng để nhớ: 1 mi li lít bằng 1 mi li mol,
+
+32
+00:02:06,975 --> 00:02:10,341
+tức 1 mi li đương lượng, khoảng 2000 mi li ô sơ mol mỗi lít,
+
+33
+00:02:10,191 --> 00:02:15,219
+gấp gần bảy lần huyết tương. Ống 50 mi li lít chứa 50 mi li đương lượng. Dược thư quy định:
+
+34
+00:02:15,069 --> 00:02:19,400
+dung dịch nồng độ cao không pha loãng chỉ được truyền qua tĩnh mạch trung tâm.
+
+35
+00:02:19,600 --> 00:02:20,885
+Còn đường uống:
+
+36
+00:02:20,735 --> 00:02:26,790
+1 gam natri bicarbonat chứa 11,9 mi li mol natri và 11,9 mi li mol bicarbonat.
+
+37
+00:02:28,240 --> 00:02:32,647
+Liều bao nhiêu? Các nguồn đưa ra những công thức khác nhau. Dược thư quốc gia:
+
+38
+00:02:32,497 --> 00:02:37,940
+số mi li mol bằng mức thiếu kiềm nhân 0,3 nhân cân nặng. Ban đầu chỉ dùng một nửa liều tính được,
+
+39
+00:02:37,790 --> 00:02:42,470
+rồi làm lại khí máu; và kiểm tra toan kiềm sau khi đã truyền 100 đến 300 mi li lít.
+
+40
+00:02:42,670 --> 00:02:48,042
+Hướng dẫn Bộ Y tế năm 2015 dùng hệ số 0,4 nhân cân nặng nhân hiệu số giữa bicarbonat
+
+41
+00:02:47,892 --> 00:02:49,907
+cần đạt và bicarbonat đo được,
+
+42
+00:02:49,757 --> 00:02:53,140
+bù một nửa trong 3 đến 4 giờ nếu không suy tim nặng.
+
+43
+00:02:53,340 --> 00:02:57,903
+Marino, trong toan lactic, dùng hệ số 0,6 với đích bicarbonat 15:
+
+44
+00:02:57,753 --> 00:03:03,743
+người 70 ký có bicarbonat 5 thì thiếu 420 mi li đương lượng, và chỉ bù khoảng một nửa,
+
+45
+00:03:03,593 --> 00:03:09,650
+tức 4 ống 8,4 phần trăm, pha trong dextrose 5 phần trăm và truyền chậm trong nhiều giờ.
+
+46
+00:03:09,850 --> 00:03:14,214
+Khi chưa có khí máu mà tình huống đe doạ tính mạng, Dược thư cho liều kinh nghiệm:
+
+47
+00:03:14,064 --> 00:03:18,480
+tiêm tĩnh mạch chậm 1 mi li mol mỗi ký, sau 10 phút không quá 0,5 mi li mol mỗi ký.
+
+48
+00:03:18,680 --> 00:03:23,629
+Ba hệ số 0,3, 0,4 và 0,6 khác nhau, nên cách thực tế hơn là quy tắc của Oh's:
+
+49
+00:03:23,479 --> 00:03:28,927
+1 mi li mol mỗi ký làm kiềm dư chuẩn tăng khoảng 3 mi li đương lượng mỗi lít. Truyền,
+
+50
+00:03:28,777 --> 00:03:34,287
+rồi đo, rồi chỉnh. Và với dung dịch 8,4 phần trăm, truyền chậm ít nhất 30 đến 60 phút,
+
+51
+00:03:34,137 --> 00:03:35,970
+kèm tăng thông khí nếu cần.
+
+52
+00:03:37,420 --> 00:03:43,768
+Để dễ nhớ ở giường bệnh: với dung dịch 8,4 phần trăm, số mi li lít bằng số mi li mol;
+
+53
+00:03:43,618 --> 00:03:45,080
+với 4,2 phần trăm,
+
+54
+00:03:44,930 --> 00:03:51,642
+số mi li lít gấp đôi. Liều 1 mi li mol mỗi ký ở người 50 ký là 50 mi li lít 8,4 phần trăm,
+
+55
+00:03:51,492 --> 00:03:56,600
+hay 100 mi li lít 4,2 phần trăm; người 60 ký là 60 và 120 mi li lít.
+
+56
+00:03:56,800 --> 00:04:02,790
+Người 70 ký là 70 và 140; người 80 ký là 80 và 160 mi li lít.
+
+57
+00:04:02,990 --> 00:04:06,760
+Một ví dụ theo công thức Dược thư: người 60 ký,
+
+58
+00:04:06,610 --> 00:04:10,996
+kiềm dư âm 15. Liều tính được bằng 15 nhân 0,3 nhân 60,
+
+59
+00:04:10,846 --> 00:04:14,693
+bằng 270 mi li mol. Bù một nửa là 135 mi li mol,
+
+60
+00:04:14,543 --> 00:04:19,699
+tức 135 mi li lít 8,4 phần trăm hoặc 270 mi li lít 4,2 phần trăm,
+
+61
+00:04:19,549 --> 00:04:21,470
+sau đó làm lại khí máu.
+
+62
+00:04:22,920 --> 00:04:24,664
+Đây là phác đồ tại giường,
+
+63
+00:04:24,514 --> 00:04:29,079
+rút từ hai thử nghiệm Pháp và cách làm của chính nhóm tác giả. Bước một,
+
+64
+00:04:28,929 --> 00:04:34,413
+kiểm tra tiêu chuẩn: pH từ 7,20 trở xuống, PaCO₂ không quá 45, bicarbonat không quá 20,
+
+65
+00:04:34,263 --> 00:04:37,050
+và có tổn thương thận cấp mức vừa đến nặng.
+
+66
+00:04:37,250 --> 00:04:38,851
+Bước hai, trước khi truyền,
+
+67
+00:04:38,701 --> 00:04:42,182
+kiểm tra và bù kali và calci ion hoá. Tổng quan CHEST viết rõ:
+
+68
+00:04:42,032 --> 00:04:44,063
+hạ kali phải được điều chỉnh trước,
+
+69
+00:04:43,913 --> 00:04:48,200
+và calci tĩnh mạch nên được cho trước khi truyền bicarbonat ở người hạ calci.
+
+70
+00:04:48,400 --> 00:04:51,735
+Bước ba, truyền natri bicarbonat 4,2 phần trăm,
+
+71
+00:04:51,585 --> 00:04:57,562
+mỗi lần 125 đến 250 mi li lít trong 30 phút theo protocol thử nghiệm. Trong bài CHEST,
+
+72
+00:04:57,412 --> 00:05:00,950
+các tác giả thực hành 250 mi li lít trong 60 phút.
+
+73
+00:05:01,150 --> 00:05:06,029
+Bước bốn, khí máu động mạch 1 đến 4 giờ sau mỗi lần truyền, kèm natri, kali,
+
+74
+00:05:05,879 --> 00:05:07,460
+calci ion hoá và PaCO₂.
+
+75
+00:05:07,660 --> 00:05:10,293
+Bước năm, nếu pH còn dưới 7,30, nhắc lại,
+
+76
+00:05:10,143 --> 00:05:15,381
+nhưng tổng không quá 1000 mi li lít trong 24 giờ đầu. Lưu ý tốc độ này nhanh hơn mức
+
+77
+00:05:15,231 --> 00:05:17,683
+Dược thư khuyến cáo cho 4,2 phần trăm,
+
+78
+00:05:17,533 --> 00:05:20,530
+nên chỉ áp dụng ở hồi sức có theo dõi liên tục.
+
+79
+00:05:20,730 --> 00:05:25,360
+Và nếu toan kháng trị, chuyển sang lọc máu theo các tiêu chuẩn đã nêu ở phần hai.
+
+80
+00:05:26,810 --> 00:05:30,824
+Về đường truyền: natri bicarbonat chỉ được tiêm truyền tĩnh mạch,
+
+81
+00:05:30,674 --> 00:05:35,758
+vì thoát mạch gây hoại tử mô. Dung dịch 8,4 phần trăm không pha loãng phải qua tĩnh
+
+82
+00:05:35,608 --> 00:05:38,135
+mạch trung tâm. Dung dịch 4,2 phần trăm,
+
+83
+00:05:37,985 --> 00:05:42,356
+khoảng 1000 mi li ô sơ mol mỗi lít, vẫn ưu trương; nếu truyền ngoại vi,
+
+84
+00:05:42,206 --> 00:05:45,090
+chọn tĩnh mạch lớn và theo dõi viêm tĩnh mạch.
+
+85
+00:05:45,290 --> 00:05:51,652
+Tốc độ theo Dược thư: 4,2 phần trăm tới 40 giọt mỗi phút, tức 120 mi li lít mỗi giờ;
+
+86
+00:05:51,502 --> 00:05:58,160
+7,5 hoặc 8,4 phần trăm khoảng 20 đến 40 giọt mỗi phút, tức 60 đến 120 mi li lít mỗi giờ.
+
+87
+00:05:58,360 --> 00:05:59,029
+Tương kỵ:
+
+88
+00:05:58,879 --> 00:06:03,705
+không truyền đồng thời với dung dịch chứa calci hoặc magnesi vì kết tủa carbonat;
+
+89
+00:06:03,555 --> 00:06:08,726
+bicarbonat làm bất hoạt catecholamin. Vì vậy phải tráng đường truyền 5 đến 10 mi li lít
+
+90
+00:06:08,576 --> 00:06:12,940
+natri clorid 0,9 phần trăm trước và giữa các thuốc khi hồi sinh tim phổi,
+
+91
+00:06:12,790 --> 00:06:15,710
+và không pha thêm thuốc nào vào chai bicarbonat.
+
+92
+00:06:15,910 --> 00:06:18,358
+Theo dõi khí máu, natri, kali,
+
+93
+00:06:18,208 --> 00:06:23,108
+calci ion hoá và cân bằng dịch. Trong ngộ độc chẹn kênh natri,
+
+94
+00:06:22,958 --> 00:06:28,700
+AHA khuyên giữ natri không quá 150 đến 155 và pH không quá 7,50 đến 7,55.
+
+95
+00:06:28,900 --> 00:06:33,626
+Và khi quá liều: ngừng truyền, truyền natri clorid 0,9 phần trăm,
+
+96
+00:06:33,476 --> 00:06:37,850
+bù kali clorid nếu hạ kali, và calci gluconat nếu có tetani.
+
+97
+00:06:39,300 --> 00:06:45,506
+Bây giờ là bằng chứng. BICAR-ICU năm 2018 trên 389 người toan chuyển hoá nặng ở hồi sức:
+
+98
+00:06:45,356 --> 00:06:51,355
+kết cục gộp tử vong ngày 28 hoặc suy cơ quan ngày 7 là 66 phần trăm ở nhóm bicarbonat
+
+99
+00:06:51,205 --> 00:06:53,488
+so với 71 phần trăm nhóm chứng,
+
+100
+00:06:53,338 --> 00:06:58,580
+không khác biệt. Lọc máu ít hơn ở nhóm bicarbonat: 35 so với 52 phần trăm.
+
+101
+00:06:58,780 --> 00:07:03,392
+Nhưng trong tầng định trước có tổn thương thận cấp AKIN 2 đến 3,
+
+102
+00:07:03,242 --> 00:07:08,412
+tử vong ngày 28 giảm từ 63 xuống 46 phần trăm. Đây là kết quả phân nhóm,
+
+103
+00:07:08,262 --> 00:07:13,780
+và chính nó dẫn tới khuyến cáo R3.6 năm 2019, cũng như thử nghiệm BICARICU-2.
+
+104
+00:07:13,980 --> 00:07:19,656
+BICARICU-2 năm 2025 thiết kế riêng cho người toan nặng kèm tổn thương thận cấp,
+
+105
+00:07:19,506 --> 00:07:25,321
+627 người được phân tích. Kết quả: tử vong ngày 90 là 62,1 so với 61,7 phần trăm,
+
+106
+00:07:25,171 --> 00:07:27,140
+hoàn toàn không khác biệt.
+
+107
+00:07:27,340 --> 00:07:30,848
+Tuy nhiên, lọc máu giảm rõ: 35 so với 50 phần trăm,
+
+108
+00:07:30,698 --> 00:07:37,170
+tỷ số nguy cơ bắt đầu lọc máu trong 28 ngày là 0,59. Và không thấy khác biệt về biến cố bất lợi.
+
+109
+00:07:37,370 --> 00:07:40,785
+Kết luận thực hành: ở người toan nặng kèm tổn thương thận cấp,
+
+110
+00:07:40,635 --> 00:07:43,944
+natri bicarbonat an toàn và giúp giảm hoặc trì hoãn lọc máu,
+
+111
+00:07:43,794 --> 00:07:45,840
+nhưng không phải biện pháp cứu sống.
+
+112
+00:07:47,290 --> 00:07:53,330
+Một chi tiết nhỏ nhưng quan trọng cho những ai trình bày hay viết luận văn. Trong Bảng
+
+113
+00:07:53,180 --> 00:07:54,974
+2 trang 6 của BICAR-ICU,
+
+114
+00:07:54,824 --> 00:07:59,974
+ở tầng tổn thương thận cấp, tử vong ngày 28 là 63 phần trăm ở nhóm chứng,
+
+115
+00:07:59,824 --> 00:08:04,220
+tức 57 trên 90, và 46 phần trăm ở nhóm bicarbonat, 42 trên 92.
+
+116
+00:08:04,420 --> 00:08:08,090
+Nhưng phần tóm tắt của bài lại gọi cặp số này là xác suất sống còn.
+
+117
+00:08:08,290 --> 00:08:13,916
+Và hướng dẫn Pháp năm 2019 chép lại thành sống còn 46 phần trăm ở nhóm chứng,
+
+118
+00:08:13,766 --> 00:08:16,120
+63 phần trăm ở nhóm bicarbonat.
+
+119
+00:08:16,320 --> 00:08:20,420
+Chiều lợi ích không đổi: bicarbonat tốt hơn ở tầng này. Nhưng khi trích dẫn,
+
+120
+00:08:20,270 --> 00:08:23,590
+xin gọi đúng tên: đó là tỷ lệ tử vong, không phải tỷ lệ sống.
+
+121
+00:08:25,040 --> 00:08:29,321
+Bây giờ là bảng chỉ định theo từng tình huống, chia làm ba nhóm. Nhóm một,
+
+122
+00:08:29,171 --> 00:08:33,787
+toan ở hồi sức. Toan nặng kèm tổn thương thận cấp mức vừa đến nặng: có thể dùng,
+
+123
+00:08:33,637 --> 00:08:37,974
+theo khuyến cáo R3.6 mức GRADE hai cộng, với cách dùng như phác đồ vừa nêu;
+
+124
+00:08:37,824 --> 00:08:40,710
+nhưng nhớ BICARICU-2 không cho thấy giảm tử vong.
+
+125
+00:08:40,910 --> 00:08:45,140
+Toan lactic hay sốc không kèm tổn thương thận cấp: không dùng thường quy.
+
+126
+00:08:45,340 --> 00:08:51,103
+Nhiễm toan ceton đái tháo đường: không thường quy; chỉ xem xét khi pH dưới 7,0. Khi đó,
+
+127
+00:08:50,953 --> 00:08:56,071
+đồng thuận 2024 cho 100 mi li mol, tức 100 mi li lít dung dịch 8,4 phần trăm,
+
+128
+00:08:55,921 --> 00:08:58,200
+pha trong 400 mi li lít nước cất,
+
+129
+00:08:58,050 --> 00:09:03,685
+nhắc lại mỗi 2 giờ cho tới khi pH trên 7,0. Văn bản gọi đây là dung dịch đẳng trương,
+
+130
+00:09:03,535 --> 00:09:08,330
+nhưng tính ra nồng độ là 200 mi li mol natri mỗi lít, tức ưu trương nhẹ.
+
+131
+00:09:08,530 --> 00:09:13,080
+Toan ceton do rượu: chỉ khi pH dưới 7,1 và không đáp ứng với dịch.
+
+132
+00:09:13,280 --> 00:09:19,717
+Và ngừng tim: không dùng thường quy. AHA 2025 xếp mức 3, không có lợi, bằng chứng B-R;
+
+133
+00:09:19,567 --> 00:09:24,761
+ERC 2025 khuyến cáo yếu không dùng; hướng dẫn Pháp mức GRADE một trừ,
+
+134
+00:09:24,611 --> 00:09:29,220
+ngoại trừ tăng kali có trước hoặc ngộ độc thuốc ổn định màng.
+
+135
+00:09:30,670 --> 00:09:34,605
+Nhóm hai, tăng kali và ngộ độc. Ngừng tim nghi do tăng kali:
+
+136
+00:09:34,455 --> 00:09:38,580
+AHA 2025 ghi hiệu quả của bicarbonat chưa được xác lập, mức 2b;
+
+137
+00:09:38,430 --> 00:09:41,860
+bản dự thảo hướng dẫn của hội thận Anh đề nghị dùng.
+
+138
+00:09:42,060 --> 00:09:46,265
+Tăng kali máu cấp không ngừng tim: không truyền bicarbonat thường quy,
+
+139
+00:09:46,115 --> 00:09:51,247
+theo dự thảo của hội thận Anh. Phần lý giải của văn bản này có dẫn một tác giả khác đề
+
+140
+00:09:51,097 --> 00:09:55,649
+nghị 100 đến 250 mi li lít dung dịch 8,4 phần trăm khi toan với pH dưới 7,2,
+
+141
+00:09:55,499 --> 00:09:58,140
+nhưng đó không phải khuyến cáo có phân mức.
+
+142
+00:09:58,340 --> 00:10:03,640
+Ngộ độc thuốc chống trầm cảm ba vòng hoặc bốn vòng có độc tính tim đe doạ tính mạng:
+
+143
+00:10:03,490 --> 00:10:06,521
+đây là chỉ định có khuyến cáo mạnh nhất, mức 1,
+
+144
+00:10:06,371 --> 00:10:11,242
+bằng chứng B-NR. Bolus dung dịch ưu trương 1 mi li đương lượng mỗi mi li lít,
+
+145
+00:10:11,092 --> 00:10:13,632
+người lớn 50 đến 150 mi li đương lượng,
+
+146
+00:10:13,482 --> 00:10:16,882
+nhắc lại cho tới khi hết tụt huyết áp và QRS hẹp lại;
+
+147
+00:10:16,732 --> 00:10:23,380
+có thể truyền duy trì dung dịch 150 mi li đương lượng mỗi lít với tốc độ 1 đến 3 mi li lít mỗi ký mỗi giờ.
+
+148
+00:10:23,580 --> 00:10:28,465
+Các chất chẹn kênh natri khác, cocain gây nhịp nhanh QRS rộng hoặc ngừng tim,
+
+149
+00:10:28,315 --> 00:10:31,170
+và ngộ độc thuốc tê: dùng là hợp lý, mức 2a.
+
+150
+00:10:31,370 --> 00:10:34,649
+Và ngộ độc salicylat: đề nghị dùng bất kể pH,
+
+151
+00:10:34,499 --> 00:10:42,160
+nhằm kiềm hoá máu và nước tiểu. Textbook of Critical Care đặt đích pH niệu 7,5 và không để pH máu vượt 7,55.
+
+152
+00:10:43,610 --> 00:10:46,604
+Nhóm ba. Toan do mất bicarbonat qua tiêu hoá hoặc thận:
+
+153
+00:10:46,454 --> 00:10:49,396
+hướng dẫn Pháp đề nghị dùng khi dung nạp lâm sàng kém,
+
+154
+00:10:49,246 --> 00:10:52,653
+và tổng quan CHEST ghi đây là chỉ định được chấp nhận rộng rãi,
+
+155
+00:10:52,503 --> 00:10:55,600
+dùng dung dịch đẳng trương 150 mi li đương lượng mỗi lít.
+
+156
+00:10:55,800 --> 00:10:59,678
+Bệnh thận mạn có bicarbonat dưới 22: bổ sung đường uống,
+
+157
+00:10:59,528 --> 00:11:04,671
+0,5 đến 1 mi li đương lượng mỗi ký mỗi ngày theo Textbook of Critical Care;
+
+158
+00:11:04,521 --> 00:11:10,063
+khuyến cáo trong nước của Hội Tiết niệu Thận học dùng 1 đến 6 gam mỗi ngày để giữ
+
+159
+00:11:09,913 --> 00:11:13,658
+bicarbonat trên 22. Ngưỡng của KDIGO 2024 có thể khác,
+
+160
+00:11:13,508 --> 00:11:14,590
+cần đối chiếu.
+
+161
+00:11:14,790 --> 00:11:15,842
+Toan ống thận:
+
+162
+00:11:15,692 --> 00:11:21,576
+type 1 dùng natri bicarbonat hoặc natri citrat 1 đến 2 mi li đương lượng mỗi ký mỗi ngày;
+
+163
+00:11:21,426 --> 00:11:24,540
+type 2 cần tới 10 đến 15, ưu tiên kali citrat.
+
+164
+00:11:24,740 --> 00:11:26,669
+Còn đây là tình huống nên tránh:
+
+165
+00:11:26,519 --> 00:11:32,507
+hội chứng ly giải u có tổn thương thận cấp. Kiềm hoá nước tiểu làm kết tủa calci phosphat trong ống thận,
+
+166
+00:11:32,357 --> 00:11:36,010
+và từ khi có rasburicase, bicarbonat không còn được khuyến cáo.
+
+167
+00:11:36,210 --> 00:11:40,000
+Và khi kali hoặc calci ion hoá còn thấp: bù trước, rồi mới truyền bicarbonat.
+
+168
+00:11:42,450 --> 00:11:47,288
+Cuối cùng, so sánh với văn bản trong nước. Dược thư quốc gia năm 2018 viết:
+
+169
+00:11:47,138 --> 00:11:52,227
+natri bicarbonat tĩnh mạch thường chỉ dành cho người toan nặng với pH dưới 7,0,
+
+170
+00:11:52,077 --> 00:11:56,040
+nhằm nâng pH lên 7,1; với toan lactic, ý kiến còn tranh luận.
+
+171
+00:11:56,240 --> 00:11:59,998
+Hướng dẫn Bộ Y tế năm 2015 dùng ngưỡng pH dưới 7,20,
+
+172
+00:11:59,848 --> 00:12:03,190
+và không bù bicarbonat trong nhiễm toan ceton.
+
+173
+00:12:03,390 --> 00:12:08,259
+Bằng chứng mới từ hướng dẫn Pháp và hai thử nghiệm thu hẹp chỉ định vào người toan nặng
+
+174
+00:12:08,109 --> 00:12:09,561
+kèm tổn thương thận cấp,
+
+175
+00:12:09,411 --> 00:12:11,460
+nhưng đặt đích cao hơn: pH từ 7,30.
+
+176
+00:12:11,660 --> 00:12:17,072
+Và đồng thuận nhiễm toan ceton 2024 giữ ngưỡng pH dưới 7,0. Hai văn bản trong nước chưa
+
+177
+00:12:16,922 --> 00:12:18,766
+cập nhật các thử nghiệm này;
+
+178
+00:12:18,616 --> 00:12:21,730
+quý vị nên lưu ý khi xây dựng phác đồ tại đơn vị.
+
+179
+00:12:23,180 --> 00:12:29,837
+Đến với tình huống. Nữ 32 tuổi, đái tháo đường type 1, bỏ insulin, lơ mơ. Glucose 520,
+
+180
+00:12:29,687 --> 00:12:33,393
+beta hydroxybutyrat 7,5, pH 6,92, bicarbonat 4,
+
+181
+00:12:33,243 --> 00:12:36,495
+kali 4,1. Người bệnh đã được truyền dịch,
+
+182
+00:12:36,345 --> 00:12:40,430
+bù kali và truyền insulin 0,1 đơn vị mỗi ký mỗi giờ.
+
+183
+00:12:40,630 --> 00:12:43,340
+Về natri bicarbonat, phương án nào đúng?
+
+184
+00:12:43,540 --> 00:12:46,330
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+185
+00:12:54,930 --> 00:13:00,052
+Đáp án là phương án hai. Đây là nhiễm toan ceton nặng theo đồng thuận 2024,
+
+186
+00:12:59,902 --> 00:13:04,162
+với pH dưới 7,0, nên có thể xem xét bicarbonat: 100 mi li mol,
+
+187
+00:13:04,012 --> 00:13:08,537
+tức 100 mi li lít 8,4 phần trăm, pha trong 400 mi li lít nước cất,
+
+188
+00:13:08,387 --> 00:13:11,388
+nhắc lại mỗi 2 giờ cho tới khi pH trên 7,0,
+
+189
+00:13:11,238 --> 00:13:15,564
+không nhằm đưa pH về bình thường. Và vì bicarbonat làm hạ kali,
+
+190
+00:13:15,414 --> 00:13:17,420
+phải theo dõi kali thật sát.
+
+191
+00:13:18,870 --> 00:13:24,895
+Xin tổng kết bảy thông điệp. Một, dung dịch 8,4 phần trăm: 1 mi li lít bằng 1 mi li mol;
+
+192
+00:13:24,745 --> 00:13:27,900
+4,2 phần trăm bằng 0,5; cả hai đều ưu trương.
+
+193
+00:13:28,100 --> 00:13:31,681
+Hai, bicarbonat chỉ hiệu quả khi thông khí đủ, và phải bù kali,
+
+194
+00:13:31,531 --> 00:13:33,370
+calci ion hoá trước khi truyền.
+
+195
+00:13:33,570 --> 00:13:36,835
+Ba, ở người toan nặng kèm tổn thương thận cấp:
+
+196
+00:13:36,685 --> 00:13:40,967
+4,2 phần trăm 125 đến 250 mi li lít mỗi lần, đích pH từ 7,30,
+
+197
+00:13:40,817 --> 00:13:45,640
+tối đa 1000 mi li lít trong 24 giờ; giảm lọc máu, không giảm tử vong.
+
+198
+00:13:45,840 --> 00:13:51,174
+Bốn, nhiễm toan ceton chỉ xem xét khi pH dưới 7,0. Năm, ngừng tim không dùng thường quy,
+
+199
+00:13:51,024 --> 00:13:53,590
+trừ tăng kali và ngộ độc chẹn kênh natri.
+
+200
+00:13:53,790 --> 00:13:58,100
+Sáu, ngộ độc thuốc chống trầm cảm ba vòng là chỉ định có khuyến cáo mạnh nhất.
+
+201
+00:13:58,300 --> 00:14:01,395
+Và bảy, không truyền chung đường với calci, magnesi;
+
+202
+00:14:01,245 --> 00:14:05,981
+dung dịch 8,4 phần trăm không pha loãng phải qua tĩnh mạch trung tâm. Ở phần bốn,
+
+203
+00:14:05,831 --> 00:14:10,851
+chúng ta sẽ áp dụng tất cả vào ba ca lâm sàng. Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn
+
+204
+00:14:10,701 --> 00:14:12,890
+gặp lại trên Thư Viện Y Khoa Online.

@@ -1,0 +1,27 @@
+1
+00:00:00,700 --> 00:00:08,862
+Một mi li lít natri bicarbonat 8,4 phần trăm chứa bao nhiêu mi li mol? Nhầm con số này là sai liều gấp đôi.
+
+2
+00:00:10,312 --> 00:00:14,807
+Đáp án: dung dịch 8,4 phần trăm, 1 mi li lít bằng 1 mi li mol,
+
+3
+00:00:14,657 --> 00:00:20,763
+gần 2000 mi li ô sơ mol mỗi lít. Không pha loãng thì phải truyền tĩnh mạch trung tâm.
+
+4
+00:00:20,963 --> 00:00:26,898
+Dung dịch 4,2 phần trăm chỉ 0,5 mi li mol mỗi mi li lít, nhưng vẫn ưu trương.
+
+5
+00:00:27,098 --> 00:00:30,322
+Dung dịch 1,4 phần trăm thì gần đẳng trương.
+
+6
+00:00:30,522 --> 00:00:37,027
+Ví dụ, liều 1 mi li mol mỗi ký cho người 60 ký là 60 mi li lít 8,4 phần trăm,
+
+7
+00:00:36,877 --> 00:00:43,052
+hay 120 mi li lít 4,2 phần trăm. Xem trọn bài giảng ở link trong bio nhé!

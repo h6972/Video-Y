@@ -1,0 +1,59 @@
+[
+ {
+  "out": "thumbs/toan-ch-phan-1.png",
+  "hook": "7 BƯỚC<br>ĐỌC KHÍ MÁU",
+  "line2": "Toan chuyển hoá không bỏ sót",
+  "chips": [
+   "Winter",
+   "AG hiệu chỉnh albumin"
+  ],
+  "badge": "PHẦN 1/4",
+  "tag": "SRLF/SFMU 2019 · Marino · Oh's",
+  "img": null,
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"540\" height=\"497\" style=\"margin-top:50px\"><rect x=\"90\" y=\"80\" width=\"70\" height=\"540\" rx=\"35\" fill=\"url(#g)\"/><defs><linearGradient id=\"g\" x1=\"0\" y1=\"1\" x2=\"0\" y2=\"0\"><stop offset=\"0\" stop-color=\"#fb7185\"/><stop offset=\".5\" stop-color=\"#fbbf24\"/><stop offset=\"1\" stop-color=\"#60a5fa\"/></linearGradient></defs><text x=\"180\" y=\"110\" fill=\"#94a3b8\" font-size=\"34\" font-family=\"Inter\">7,45</text><text x=\"180\" y=\"610\" fill=\"#94a3b8\" font-size=\"34\" font-family=\"Inter\">6,80</text><path d=\"M80 470 h90\" stroke=\"#fb7185\" stroke-width=\"10\" stroke-linecap=\"round\"/><text x=\"185\" y=\"485\" fill=\"#fb7185\" font-size=\"64\" font-weight=\"800\" font-family=\"Inter\">pH 7,12</text><path d=\"M560 150 C560 150 470 280 470 360 a90 90 0 0 0 180 0 C650 280 560 150 560 150 Z\" fill=\"rgba(251,113,133,.25)\" stroke=\"#fb7185\" stroke-width=\"8\"/><text x=\"512\" y=\"385\" fill=\"#fecdd3\" font-size=\"40\" font-weight=\"800\" font-family=\"Inter\">H⁺</text><rect x=\"430\" y=\"520\" width=\"260\" height=\"56\" rx=\"14\" fill=\"rgba(45,212,191,.2)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M690 548 h50 M430 548 h-40\" stroke=\"#2dd4bf\" stroke-width=\"8\" stroke-linecap=\"round\"/><text x=\"452\" y=\"560\" fill=\"#99f6e4\" font-size=\"30\" font-weight=\"700\" font-family=\"Inter\">NaHCO₃ 8,4%</text></svg>",
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/toan-ch-phan-2.png",
+  "hook": "TOAN<br>DO ĐÂU?",
+  "line2": "Nguyên nhân · thở máy · lọc máu",
+  "chips": [
+   "Thở máy R3.14",
+   "Lọc máu pH ≤ 7,15"
+  ],
+  "badge": "PHẦN 2/4",
+  "tag": "SRLF/SFMU 2019 · SMART · PLUS",
+  "img": null,
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"540\" height=\"497\" style=\"margin-top:50px\"><rect x=\"90\" y=\"80\" width=\"70\" height=\"540\" rx=\"35\" fill=\"url(#g)\"/><defs><linearGradient id=\"g\" x1=\"0\" y1=\"1\" x2=\"0\" y2=\"0\"><stop offset=\"0\" stop-color=\"#fb7185\"/><stop offset=\".5\" stop-color=\"#fbbf24\"/><stop offset=\"1\" stop-color=\"#60a5fa\"/></linearGradient></defs><text x=\"180\" y=\"110\" fill=\"#94a3b8\" font-size=\"34\" font-family=\"Inter\">7,45</text><text x=\"180\" y=\"610\" fill=\"#94a3b8\" font-size=\"34\" font-family=\"Inter\">6,80</text><path d=\"M80 470 h90\" stroke=\"#fbbf24\" stroke-width=\"10\" stroke-linecap=\"round\"/><text x=\"185\" y=\"485\" fill=\"#fbbf24\" font-size=\"64\" font-weight=\"800\" font-family=\"Inter\">pH 7,10</text><path d=\"M560 150 C560 150 470 280 470 360 a90 90 0 0 0 180 0 C650 280 560 150 560 150 Z\" fill=\"rgba(251,113,133,.25)\" stroke=\"#fb7185\" stroke-width=\"8\"/><text x=\"512\" y=\"385\" fill=\"#fecdd3\" font-size=\"40\" font-weight=\"800\" font-family=\"Inter\">H⁺</text><rect x=\"430\" y=\"520\" width=\"260\" height=\"56\" rx=\"14\" fill=\"rgba(45,212,191,.2)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M690 548 h50 M430 548 h-40\" stroke=\"#2dd4bf\" stroke-width=\"8\" stroke-linecap=\"round\"/><text x=\"452\" y=\"560\" fill=\"#99f6e4\" font-size=\"30\" font-weight=\"700\" font-family=\"Inter\">NaHCO₃ 8,4%</text></svg>",
+  "c": "amber"
+ },
+ {
+  "out": "thumbs/toan-ch-phan-3.png",
+  "hook": "NATRI<br>BICARBONAT",
+  "line2": "Dùng khi nào, dùng thế nào?",
+  "chips": [
+   "4,2% hay 8,4%",
+   "BICARICU-2"
+  ],
+  "badge": "PHẦN 3/4",
+  "tag": "BICAR-ICU · BICARICU-2 · Dược thư QG",
+  "img": null,
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"540\" height=\"497\" style=\"margin-top:50px\"><rect x=\"90\" y=\"80\" width=\"70\" height=\"540\" rx=\"35\" fill=\"url(#g)\"/><defs><linearGradient id=\"g\" x1=\"0\" y1=\"1\" x2=\"0\" y2=\"0\"><stop offset=\"0\" stop-color=\"#fb7185\"/><stop offset=\".5\" stop-color=\"#fbbf24\"/><stop offset=\"1\" stop-color=\"#60a5fa\"/></linearGradient></defs><text x=\"180\" y=\"110\" fill=\"#94a3b8\" font-size=\"34\" font-family=\"Inter\">7,45</text><text x=\"180\" y=\"610\" fill=\"#94a3b8\" font-size=\"34\" font-family=\"Inter\">6,80</text><path d=\"M80 470 h90\" stroke=\"#fb7185\" stroke-width=\"10\" stroke-linecap=\"round\"/><text x=\"185\" y=\"485\" fill=\"#fb7185\" font-size=\"64\" font-weight=\"800\" font-family=\"Inter\">pH 7,20</text><path d=\"M560 150 C560 150 470 280 470 360 a90 90 0 0 0 180 0 C650 280 560 150 560 150 Z\" fill=\"rgba(251,113,133,.25)\" stroke=\"#fb7185\" stroke-width=\"8\"/><text x=\"512\" y=\"385\" fill=\"#fecdd3\" font-size=\"40\" font-weight=\"800\" font-family=\"Inter\">H⁺</text><rect x=\"430\" y=\"520\" width=\"260\" height=\"56\" rx=\"14\" fill=\"rgba(45,212,191,.2)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M690 548 h50 M430 548 h-40\" stroke=\"#2dd4bf\" stroke-width=\"8\" stroke-linecap=\"round\"/><text x=\"452\" y=\"560\" fill=\"#99f6e4\" font-size=\"30\" font-weight=\"700\" font-family=\"Inter\">NaHCO₃ 8,4%</text></svg>",
+  "c": "coral"
+ },
+ {
+  "out": "thumbs/toan-ch-phan-4.png",
+  "hook": "BA CA<br>LÂM SÀNG",
+  "line2": "Toan chuyển hoá: có truyền bicarbonat?",
+  "chips": [
+   "Sốc + AKI",
+   "DKA",
+   "Ngộ độc"
+  ],
+  "badge": "PHẦN 4/4",
+  "tag": "Ca lâm sàng · 4 điểm quyết định",
+  "img": null,
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"540\" height=\"497\" style=\"margin-top:50px\"><rect x=\"90\" y=\"80\" width=\"70\" height=\"540\" rx=\"35\" fill=\"url(#g)\"/><defs><linearGradient id=\"g\" x1=\"0\" y1=\"1\" x2=\"0\" y2=\"0\"><stop offset=\"0\" stop-color=\"#fb7185\"/><stop offset=\".5\" stop-color=\"#fbbf24\"/><stop offset=\"1\" stop-color=\"#60a5fa\"/></linearGradient></defs><text x=\"180\" y=\"110\" fill=\"#94a3b8\" font-size=\"34\" font-family=\"Inter\">7,45</text><text x=\"180\" y=\"610\" fill=\"#94a3b8\" font-size=\"34\" font-family=\"Inter\">6,80</text><path d=\"M80 470 h90\" stroke=\"#a78bfa\" stroke-width=\"10\" stroke-linecap=\"round\"/><text x=\"185\" y=\"485\" fill=\"#a78bfa\" font-size=\"64\" font-weight=\"800\" font-family=\"Inter\">pH 6,92</text><path d=\"M560 150 C560 150 470 280 470 360 a90 90 0 0 0 180 0 C650 280 560 150 560 150 Z\" fill=\"rgba(251,113,133,.25)\" stroke=\"#fb7185\" stroke-width=\"8\"/><text x=\"512\" y=\"385\" fill=\"#fecdd3\" font-size=\"40\" font-weight=\"800\" font-family=\"Inter\">H⁺</text><rect x=\"430\" y=\"520\" width=\"260\" height=\"56\" rx=\"14\" fill=\"rgba(45,212,191,.2)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M690 548 h50 M430 548 h-40\" stroke=\"#2dd4bf\" stroke-width=\"8\" stroke-linecap=\"round\"/><text x=\"452\" y=\"560\" fill=\"#99f6e4\" font-size=\"30\" font-weight=\"700\" font-family=\"Inter\">NaHCO₃ 8,4%</text></svg>",
+  "c": "violet"
+ }
+]

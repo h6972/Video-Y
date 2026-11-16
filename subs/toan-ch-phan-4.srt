@@ -1,0 +1,431 @@
+1
+00:00:04,900 --> 00:00:07,980
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn,
+
+2
+00:00:07,830 --> 00:00:12,532
+phần cuối của loạt bài toan chuyển hoá trên Thư Viện Y Khoa Online. Hôm nay chúng ta áp
+
+3
+00:00:12,382 --> 00:00:14,730
+dụng toàn bộ kiến thức vào ba ca lâm sàng.
+
+4
+00:00:14,930 --> 00:00:17,209
+Có bốn điểm quyết định. Ở mỗi điểm,
+
+5
+00:00:17,059 --> 00:00:20,920
+quý vị hãy tạm dừng video và tự trả lời trước khi xem đáp án.
+
+6
+00:00:21,120 --> 00:00:24,550
+Đây là các ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng.
+
+7
+00:00:26,000 --> 00:00:31,493
+Ca thứ nhất. Một người đàn ông 65 tuổi, nặng 70 ký, sốc nhiễm khuẩn đường mật,
+
+8
+00:00:31,343 --> 00:00:36,220
+đã đặt nội khí quản, thở máy và đang dùng noradrenalin. Nhịp tim 118,
+
+9
+00:00:36,070 --> 00:00:37,590
+huyết áp 84 trên 48.
+
+10
+00:00:37,790 --> 00:00:43,957
+Người bệnh thiểu niệu đã 12 giờ, da chi nổi bông. SpO₂ 95 phần trăm trên máy thở,
+
+11
+00:00:43,807 --> 00:00:45,220
+nhiệt độ 38,9 độ.
+
+12
+00:00:45,420 --> 00:00:49,010
+Người bệnh đang được an thần. Hãy nhớ điều này khi đọc khí máu.
+
+13
+00:00:50,460 --> 00:00:57,570
+Khí máu động mạch: pH 7,12, PaCO₂ 24, bicarbonat 8, lactate 5,2 mi li mol mỗi lít.
+
+14
+00:00:57,770 --> 00:01:04,640
+Điện giải: natri 138, clo 104, kali 4,6, calci ion hoá 1,05, thấp nhẹ.
+
+15
+00:01:04,840 --> 00:01:10,005
+Creatinin 3,8 mi li gam mỗi đề xi lít, tổn thương thận cấp giai đoạn 3;
+
+16
+00:01:09,855 --> 00:01:11,630
+albumin 25 gam mỗi lít.
+
+17
+00:01:13,080 --> 00:01:17,456
+Điểm quyết định thứ nhất. Với khí máu này, người bệnh đang an thần và thở máy,
+
+18
+00:01:17,306 --> 00:01:20,110
+quý vị nhận định thế nào và chỉnh máy thở ra sao?
+
+19
+00:01:20,310 --> 00:01:24,940
+Hãy nhớ công thức Winter, khoảng trống anion hiệu chỉnh và khuyến cáo R3.14.
+
+20
+00:01:25,140 --> 00:01:27,770
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+21
+00:01:36,370 --> 00:01:42,259
+Đáp án: PaCO₂ dự kiến bằng 1,5 nhân 8 cộng 8, bằng 20 cộng trừ 2. PaCO₂ 24 hơi cao hơn,
+
+22
+00:01:42,109 --> 00:01:47,667
+tức bù trừ chưa đủ, điều dễ hiểu ở người đang an thần thở máy. Ta tăng tần số thở,
+
+23
+00:01:47,517 --> 00:01:50,767
+tối đa 35 lần mỗi phút, không để tạo auto-PEEP,
+
+24
+00:01:50,617 --> 00:01:57,231
+không tăng thể tích khí lưu thông quá 8 mi li lít mỗi ký. Khoảng trống anion hiệu chỉnh khoảng 30,
+
+25
+00:01:57,081 --> 00:02:02,970
+tỷ số delta khoảng 1,1: toan tăng khoảng trống anion đơn thuần, do lactate và suy thận.
+
+26
+00:02:04,420 --> 00:02:08,976
+Điểm quyết định thứ hai. Người bệnh có pH 7,12, PaCO₂ dưới 45,
+
+27
+00:02:08,826 --> 00:02:11,960
+tổn thương thận cấp giai đoạn 3, kali 4,6,
+
+28
+00:02:11,810 --> 00:02:17,290
+calci ion hoá 1,05. Quý vị có dùng natri bicarbonat không, và dùng thế nào?
+
+29
+00:02:17,490 --> 00:02:21,400
+Nhớ lại khuyến cáo R3.6 và kết quả BICARICU-2.
+
+30
+00:02:21,600 --> 00:02:24,470
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+31
+00:02:33,070 --> 00:02:36,867
+Đáp án: người bệnh đủ tiêu chuẩn của khuyến cáo R3.6,
+
+32
+00:02:36,717 --> 00:02:41,889
+mức GRADE hai cộng. Calci ion hoá thấp nhẹ, nên bù calci tĩnh mạch trước,
+
+33
+00:02:41,739 --> 00:02:47,875
+vì bicarbonat làm giảm thêm calci ion hoá. Sau đó truyền natri bicarbonat 4,2 phần trăm
+
+34
+00:02:47,725 --> 00:02:50,283
+250 mi li lít trong 30 đến 60 phút,
+
+35
+00:02:50,133 --> 00:02:53,517
+tức 125 mi li mol, khoảng 1,8 mi li mol mỗi ký,
+
+36
+00:02:53,367 --> 00:02:59,159
+dự kiến kiềm dư chuẩn tăng khoảng 5. Làm khí máu sau 1 đến 4 giờ, đích pH từ 7,30,
+
+37
+00:02:59,009 --> 00:03:03,493
+tổng không quá 1000 mi li lít trong 24 giờ. Và nói rõ mục đích:
+
+38
+00:03:03,343 --> 00:03:07,140
+tránh hoặc trì hoãn lọc máu, không phải giảm tử vong.
+
+39
+00:03:08,590 --> 00:03:14,564
+Diễn tiến. Giờ 0: bù calci, truyền 250 mi li lít natri bicarbonat 4,2 phần trăm,
+
+40
+00:03:14,414 --> 00:03:16,020
+tăng tần số máy thở.
+
+41
+00:03:16,220 --> 00:03:21,751
+Giờ thứ 3: pH 7,22, vẫn dưới 7,30, nên nhắc lại 250 mi li lít; natri, kali,
+
+42
+00:03:21,601 --> 00:03:23,330
+calci ion hoá ổn định.
+
+43
+00:03:23,530 --> 00:03:25,874
+Giờ thứ 24: người bệnh vô niệu,
+
+44
+00:03:25,724 --> 00:03:31,040
+kali 6,7 kèm sóng T cao. Đây là tiêu chuẩn lọc máu ngay trong BICARICU-2.
+
+45
+00:03:31,240 --> 00:03:37,584
+Người bệnh được lọc máu liên tục 25 đến 30 mi li lít mỗi ký mỗi giờ vì huyết động chưa ổn định. Bài học:
+
+46
+00:03:37,434 --> 00:03:42,110
+natri bicarbonat giúp mua thời gian, không thay thế lọc máu khi có chỉ định.
+
+47
+00:03:43,560 --> 00:03:50,592
+Ca thứ hai. Nữ 32 tuổi, đái tháo đường type 1, bỏ insulin, lơ mơ. Glucose 520,
+
+48
+00:03:50,442 --> 00:03:57,561
+beta hydroxybutyrat 7,5, pH 6,92, bicarbonat 4, kali 4,1. Theo đồng thuận 2024,
+
+49
+00:03:57,411 --> 00:04:00,120
+đây là nhiễm toan ceton nặng.
+
+50
+00:04:00,320 --> 00:04:05,396
+Người bệnh được truyền dịch, bù kali, truyền insulin 0,1 đơn vị mỗi ký mỗi giờ,
+
+51
+00:04:05,246 --> 00:04:06,518
+và vì pH dưới 7,0,
+
+52
+00:04:06,368 --> 00:04:11,319
+được xem xét 100 mi li mol natri bicarbonat pha trong 400 mi li lít nước cất,
+
+53
+00:04:11,169 --> 00:04:13,190
+như chúng ta đã bàn ở phần ba.
+
+54
+00:04:13,390 --> 00:04:19,545
+Sau 8 giờ: glucose 230, beta hydroxybutyrat còn 0,8, pH 7,28, bicarbonat 13,
+
+55
+00:04:19,395 --> 00:04:26,420
+nhưng clo tăng lên 118. Người bệnh đã được truyền khá nhiều natri clorid 0,9 phần trăm.
+
+56
+00:04:27,870 --> 00:04:31,567
+Điểm quyết định thứ ba. Sau 8 giờ, bicarbonat vẫn chỉ 13,
+
+57
+00:04:31,417 --> 00:04:36,980
+pH 7,28. Một đồng nghiệp lo rằng điều trị thất bại. Quý vị diễn giải và xử trí thế nào?
+
+58
+00:04:37,180 --> 00:04:39,970
+Gợi ý: hãy nhìn vào ceton máu và clo.
+
+59
+00:04:40,170 --> 00:04:43,040
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+60
+00:04:51,640 --> 00:04:56,265
+Đáp án là phương án ba. Beta hydroxybutyrat đã giảm từ 7,5 xuống 0,8:
+
+61
+00:04:56,115 --> 00:05:01,649
+nhiễm toan ceton đang hồi phục tốt. Bicarbonat còn thấp chủ yếu vì toan tăng clo do
+
+62
+00:05:01,499 --> 00:05:03,335
+truyền nhiều natri clorid,
+
+63
+00:05:03,185 --> 00:05:06,449
+thay thế cho thành phần tăng khoảng trống anion,
+
+64
+00:05:06,299 --> 00:05:09,951
+đúng như Marino mô tả. Vì vậy đánh giá bằng ceton máu,
+
+65
+00:05:09,801 --> 00:05:15,075
+hết nhiễm toan ceton khi dưới 0,6, chứ không bằng bicarbonat. Tiếp tục insulin,
+
+66
+00:05:14,925 --> 00:05:16,567
+và vì glucose dưới 250,
+
+67
+00:05:16,417 --> 00:05:22,340
+thêm dextrose và giảm insulin còn 0,05 đơn vị mỗi ký mỗi giờ. Không dùng thêm bicarbonat.
+
+68
+00:05:23,790 --> 00:05:29,907
+Ca thứ ba. Nam 28 tuổi, uống amitriptylin, co giật một lần tại nhà. Nhịp tim 132,
+
+69
+00:05:29,757 --> 00:05:31,380
+huyết áp 80 trên 50.
+
+70
+00:05:31,580 --> 00:05:36,690
+Điện tim có QRS rộng 150 mi li giây; người bệnh lơ mơ sau cơn co giật.
+
+71
+00:05:36,890 --> 00:05:41,680
+Đây là bệnh cảnh ngộ độc thuốc chống trầm cảm ba vòng có độc tính tim đe doạ tính mạng.
+
+72
+00:05:43,130 --> 00:05:49,749
+Điểm quyết định thứ tư. QRS 150 mi li giây, huyết áp 80 trên 50, nhưng pH 7,36,
+
+73
+00:05:49,599 --> 00:05:53,680
+natri 140. Quý vị dùng natri bicarbonat thế nào?
+
+74
+00:05:53,880 --> 00:05:56,590
+Lưu ý: ở đây chỉ định không dựa vào pH.
+
+75
+00:05:56,790 --> 00:05:59,820
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+76
+00:06:08,420 --> 00:06:14,475
+Đáp án là phương án hai. Đây là chỉ định có khuyến cáo mạnh nhất của natri bicarbonat:
+
+77
+00:06:14,325 --> 00:06:15,573
+AHA 2023, mức 1,
+
+78
+00:06:15,423 --> 00:06:20,860
+bằng chứng B-NR. Bolus dung dịch ưu trương 1 mi li đương lượng mỗi mi li lít,
+
+79
+00:06:20,710 --> 00:06:23,538
+người lớn 50 đến 150 mi li đương lượng,
+
+80
+00:06:23,388 --> 00:06:27,176
+nhắc lại cho tới khi QRS hẹp lại và hết tụt huyết áp;
+
+81
+00:06:27,026 --> 00:06:32,875
+có thể truyền duy trì. Mục tiêu là natri và kiềm hoá để vượt qua ức chế kênh natri,
+
+82
+00:06:32,725 --> 00:06:38,024
+nên không phụ thuộc pH ban đầu. Nhưng phải giữ natri không quá 150 đến 155,
+
+83
+00:06:37,874 --> 00:06:41,320
+pH không quá 7,50 đến 7,55, và theo dõi bù kali.
+
+84
+00:06:42,770 --> 00:06:46,602
+Trước khi kết thúc, xin điểm qua những câu hỏi còn bỏ ngỏ. Một,
+
+85
+00:06:46,452 --> 00:06:48,531
+đọc lại BICAR-ICU sau BICARICU-2:
+
+86
+00:06:48,381 --> 00:06:52,505
+lợi ích tử vong ở phân nhóm tổn thương thận cấp không được xác nhận,
+
+87
+00:06:52,355 --> 00:06:54,200
+chỉ còn lợi ích giảm lọc máu.
+
+88
+00:06:54,400 --> 00:06:57,493
+Hai, đích pH bao nhiêu: thử nghiệm dùng 7,30;
+
+89
+00:06:57,343 --> 00:07:02,790
+nhóm tác giả CHEST viết nâng và giữ pH trên 7,20 ở một số người; Dược thư là 7,1.
+
+90
+00:07:02,990 --> 00:07:04,892
+Ba, bicarbonat hay lọc máu sớm:
+
+91
+00:07:04,742 --> 00:07:09,300
+các thử nghiệm về thời điểm lọc máu cho thấy lọc sớm không cải thiện sống còn.
+
+92
+00:07:09,500 --> 00:07:13,330
+Bốn, hai thử nghiệm đang chờ kết quả: SODa-BIC và MOSAICC.
+
+93
+00:07:13,530 --> 00:07:16,635
+Và năm, văn bản trong nước chưa cập nhật bằng chứng mới,
+
+94
+00:07:16,485 --> 00:07:18,640
+một việc cần làm khi xây dựng phác đồ.
+
+95
+00:07:20,090 --> 00:07:24,710
+Xin tổng kết bảy thông điệp của toàn loạt bài. Một, khí máu động mạch, công thức Winter,
+
+96
+00:07:24,560 --> 00:07:26,640
+khoảng trống anion hiệu chỉnh albumin.
+
+97
+00:07:26,840 --> 00:07:30,190
+Hai, lactate tăng là dấu hiệu nặng; pH không dùng một mình.
+
+98
+00:07:30,390 --> 00:07:32,540
+Ba, điều trị nguyên nhân là chính.
+
+99
+00:07:32,740 --> 00:07:37,130
+Bốn, thở máy tăng tần số tới 35, đích pH từ 7,15.
+
+100
+00:07:37,330 --> 00:07:37,708
+Năm,
+
+101
+00:07:37,558 --> 00:07:43,398
+natri bicarbonat dành cho toan nặng kèm tổn thương thận cấp và ngộ độc thuốc chống trầm cảm ba vòng;
+
+102
+00:07:43,248 --> 00:07:45,560
+giảm lọc máu nhưng không giảm tử vong.
+
+103
+00:07:45,760 --> 00:07:49,772
+Sáu, không dùng thường quy trong nhiễm toan ceton, trừ khi pH dưới 7,0,
+
+104
+00:07:49,622 --> 00:07:52,710
+và trong ngừng tim; luôn bù kali, calci ion hoá trước.
+
+105
+00:07:52,910 --> 00:07:53,472
+Và bảy,
+
+106
+00:07:53,322 --> 00:07:58,293
+lọc máu khi pH từ 7,15 trở xuống dù đã điều trị. Tài liệu chuyên đề đầy đủ có trên
+
+107
+00:07:58,143 --> 00:08:03,174
+thuvienykhoa.online. Cảm ơn quý đồng nghiệp đã đồng hành cùng loạt bài. Hẹn gặp lại
+
+108
+00:08:03,024 --> 00:08:04,820
+trên Thư Viện Y Khoa Online.

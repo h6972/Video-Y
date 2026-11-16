@@ -1,0 +1,559 @@
+1
+00:00:04,900 --> 00:00:06,122
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,972 --> 00:00:10,970
+chào mừng quý vị trở lại với phần hai của loạt bài toan chuyển hoá trên Thư Viện Y Khoa Online.
+
+3
+00:00:11,170 --> 00:00:14,723
+Ở phần một chúng ta đã đọc khí máu theo bảy bước. Hôm nay,
+
+4
+00:00:14,573 --> 00:00:19,123
+chúng ta trả lời câu hỏi tiếp theo: toan do đâu, và ngoài natri bicarbonat,
+
+5
+00:00:18,973 --> 00:00:20,000
+ta có những vũ khí điều trị nào.
+
+6
+00:00:21,200 --> 00:00:24,629
+Thông điệp xuyên suốt phần này là: điều trị nguyên nhân là chính,
+
+7
+00:00:24,479 --> 00:00:26,950
+còn các biện pháp đệm chỉ là cầu nối tạm thời.
+
+8
+00:00:28,400 --> 00:00:32,653
+Khoảng trống anion chia nguyên nhân thành hai nhóm lớn. Nhóm acid hữu cơ:
+
+9
+00:00:32,503 --> 00:00:34,676
+L-lactate là hay gặp nhất ở hồi sức,
+
+10
+00:00:34,526 --> 00:00:39,510
+còn D-lactate gặp ở người hội chứng ruột ngắn. Cả hai đều làm tăng khoảng trống anion.
+
+11
+00:00:39,710 --> 00:00:42,397
+Nhóm ceton: nhiễm toan ceton đái tháo đường,
+
+12
+00:00:42,247 --> 00:00:47,183
+toan ceton do rượu và do nhịn đói làm tăng khoảng trống anion. Riêng giai đoạn đang
+
+13
+00:00:47,033 --> 00:00:48,682
+điều trị nhiễm toan ceton,
+
+14
+00:00:48,532 --> 00:00:52,660
+khi truyền nhiều natri clorid, toan có thể chuyển sang dạng tăng clo.
+
+15
+00:00:52,860 --> 00:00:57,308
+Nhóm thận: suy thận tiến triển giữ lại các anion nên tăng khoảng trống anion,
+
+16
+00:00:57,158 --> 00:01:00,210
+còn suy thận sớm và toan ống thận cho toan tăng clo.
+
+17
+00:01:00,410 --> 00:01:05,282
+Nhóm độc chất: methanol, ethylen glycol, salicylat, propylen glycol,
+
+18
+00:01:05,132 --> 00:01:10,421
+và pyroglutamat do dùng acetaminophen kéo dài làm tăng khoảng trống anion;
+
+19
+00:01:10,271 --> 00:01:14,240
+còn acetazolamid và ammonium chlorid gây toan tăng clo.
+
+20
+00:01:14,440 --> 00:01:18,999
+Và nhóm mất kiềm: tiêu chảy, dẫn lưu tuỵ, mật, phẫu thuật nối niệu quản vào ruột,
+
+21
+00:01:18,849 --> 00:01:23,790
+cùng với truyền natri clorid 0,9 phần trăm, đều gây toan khoảng trống anion bình thường.
+
+22
+00:01:25,240 --> 00:01:29,646
+Toan lactic chia thành hai type. Type A có thiếu oxy mô: các loại sốc,
+
+23
+00:01:29,496 --> 00:01:32,990
+thiếu oxy máu nặng, thiếu máu rất nặng, ngộ độc khí CO.
+
+24
+00:01:33,190 --> 00:01:37,439
+Type B không có thiếu oxy mô, gồm các bệnh nền như bệnh gan, đái tháo đường,
+
+25
+00:01:37,289 --> 00:01:40,460
+thiếu thiamin, bệnh ác tính, co giật, thừa catecholamin.
+
+26
+00:01:40,660 --> 00:01:45,953
+Và type B do thuốc, độc chất: metformin, propofol, linezolid, thuốc kháng retrovirus,
+
+27
+00:01:45,803 --> 00:01:49,947
+epinephrin, salbutamol, propylen glycol, cyanid. Một mẹo của Oh's:
+
+28
+00:01:49,797 --> 00:01:56,240
+toan lactic do truyền salbutamol trong cơn hen thường hết khi giảm liều xuống dưới 10 microgam mỗi phút.
+
+29
+00:01:56,440 --> 00:01:59,913
+Trong nhiễm khuẩn huyết, lactate tăng không chỉ do thiếu oxy,
+
+30
+00:01:59,763 --> 00:02:01,384
+mà còn do tăng tạo pyruvat,
+
+31
+00:02:01,234 --> 00:02:07,214
+giảm hoạt tính pyruvat dehydrogenase và giảm thanh thải. Oh's nhấn mạnh các cơ chế này thường cùng tồn tại,
+
+32
+00:02:07,064 --> 00:02:08,358
+nên phân loại type A,
+
+33
+00:02:08,208 --> 00:02:13,206
+type B chỉ có giá trị tương đối. Lactate bình thường là từ 2 mi li mol mỗi lít trở xuống,
+
+34
+00:02:13,056 --> 00:02:17,020
+và nhớ rằng khoảng trống anion bình thường không loại trừ toan lactic.
+
+35
+00:02:18,470 --> 00:02:24,769
+Nhóm ceton không chỉ có nhiễm toan ceton đái tháo đường điển hình. Hãy nhớ dạng bình đường huyết,
+
+36
+00:02:24,619 --> 00:02:27,178
+liên quan thuốc ức chế SGLT2, thai kỳ,
+
+37
+00:02:27,028 --> 00:02:31,171
+nhịn đói. Còn toan ceton do rượu có ưu thế beta hydroxybutyrat,
+
+38
+00:02:31,021 --> 00:02:33,580
+nên que thử ceton niệu dễ âm tính giả.
+
+39
+00:02:33,780 --> 00:02:38,110
+Rượu độc: methanol chuyển thành formate, gây độc thị giác và thần kinh;
+
+40
+00:02:37,960 --> 00:02:40,878
+ethylen glycol chuyển thành glycolat và oxalat,
+
+41
+00:02:40,728 --> 00:02:45,058
+gây hạ calci và tổn thương thận. Riêng isopropanol chuyển thành aceton,
+
+42
+00:02:44,908 --> 00:02:48,650
+thường có ceton nhưng không gây toan tăng khoảng trống anion.
+
+43
+00:02:48,850 --> 00:02:52,404
+Pyroglutamat, hay 5-oxoprolin, là nguyên nhân hay bị bỏ sót:
+
+44
+00:02:52,254 --> 00:02:56,603
+gặp ở người dùng acetaminophen kéo dài trong bối cảnh stress, nhiễm khuẩn,
+
+45
+00:02:56,453 --> 00:02:57,398
+bệnh gan thận,
+
+46
+00:02:57,248 --> 00:03:01,880
+kể cả khi nồng độ thuốc trong giới hạn điều trị. Chẩn đoán bằng oxoprolin niệu.
+
+47
+00:03:02,080 --> 00:03:06,764
+Và toan ống thận có ba type: type 2, toan ống lượn gần, mất bicarbonat,
+
+48
+00:03:06,614 --> 00:03:12,192
+có thể kèm hội chứng Fanconi; type 1, toan ống lượn xa, hạ kali, sỏi và vôi hoá thận;
+
+49
+00:03:12,042 --> 00:03:16,470
+và type 4, toan ống thận tăng kali, do thiếu hoặc kháng aldosteron.
+
+50
+00:03:17,920 --> 00:03:23,460
+Một nguyên nhân do chính chúng ta gây ra là toan tăng clo do truyền natri clorid 0,9
+
+51
+00:03:23,310 --> 00:03:25,000
+phần trăm. Theo Stewart,
+
+52
+00:03:24,850 --> 00:03:30,518
+dịch này làm giảm chênh lệch ion mạnh. Thử nghiệm SMART trên 15.802 người bệnh hồi sức
+
+53
+00:03:30,368 --> 00:03:35,202
+cho thấy dịch tinh thể cân bằng làm giảm biến cố thận nặng trong 30 ngày:
+
+54
+00:03:35,052 --> 00:03:38,090
+14,3 so với 15,4 phần trăm, tỷ số chênh 0,91.
+
+55
+00:03:38,290 --> 00:03:43,179
+Nhưng hai thử nghiệm lớn sau đó không thấy khác biệt tử vong: BaSICS,
+
+56
+00:03:43,029 --> 00:03:45,720
+26,4 so với 27,2 phần trăm ở ngày 90;
+
+57
+00:03:45,920 --> 00:03:49,430
+và PLUS, 21,8 so với 22,0 phần trăm.
+
+58
+00:03:49,630 --> 00:03:52,484
+Thông điệp thực hành: khi cần truyền lượng dịch lớn,
+
+59
+00:03:52,334 --> 00:03:55,396
+ưu tiên dịch tinh thể cân bằng để hạn chế toan tăng clo,
+
+60
+00:03:55,246 --> 00:03:57,060
+nhưng đừng kỳ vọng giảm tử vong.
+
+61
+00:03:58,510 --> 00:04:02,942
+Sang điều trị. Nguyên tắc số một, mà tổng quan CHEST năm 2026 nhắc lại,
+
+62
+00:04:02,792 --> 00:04:08,128
+là điều trị nguyên nhân. Với toan lactic: hồi sức sốc và điều trị nguyên nhân gây sốc;
+
+63
+00:04:07,978 --> 00:04:12,470
+ngừng metformin, giảm truyền salbutamol, bổ sung thiamin khi nghi thiếu.
+
+64
+00:04:12,670 --> 00:04:16,210
+Với nhiễm toan ceton đái tháo đường, đồng thuận 2024:
+
+65
+00:04:16,060 --> 00:04:20,496
+dịch tinh thể 500 đến 1000 mi li lít mỗi giờ trong 2 đến 4 giờ đầu,
+
+66
+00:04:20,346 --> 00:04:22,224
+thận trọng ở người suy tim,
+
+67
+00:04:22,074 --> 00:04:26,574
+suy thận. Kali dưới 3,5 thì bù 10 mi li mol mỗi giờ và hoãn insulin;
+
+68
+00:04:26,424 --> 00:04:30,220
+kali dưới 5,0 thì bù vào dịch truyền để giữ kali 4 đến 5.
+
+69
+00:04:30,420 --> 00:04:33,518
+Insulin tĩnh mạch 0,1 đơn vị mỗi ký mỗi giờ;
+
+70
+00:04:33,368 --> 00:04:39,279
+khi glucose dưới 250 mi li gam mỗi đề xi lít thì thêm dextrose và giảm còn 0,05. Hướng
+
+71
+00:04:39,129 --> 00:04:42,026
+dẫn Pháp đề nghị insulin đường tĩnh mạch,
+
+72
+00:04:41,876 --> 00:04:44,170
+và không bolus trước khi truyền.
+
+73
+00:04:44,370 --> 00:04:49,240
+Toan ceton do rượu: truyền dextrose trong natri clorid, và cho thiamin trước glucose.
+
+74
+00:04:49,440 --> 00:04:54,710
+Rượu độc dùng thuốc giải độc fomepizol, ngộ độc acetaminophen dùng N-acetylcystein;
+
+75
+00:04:54,560 --> 00:05:00,693
+liều cụ thể xin theo hướng dẫn của trung tâm chống độc. Với propylen glycol trong chế phẩm thuốc,
+
+76
+00:05:00,543 --> 00:05:02,790
+biện pháp chính là ngừng chế phẩm.
+
+77
+00:05:04,240 --> 00:05:06,615
+Một tình huống rất hay gặp ở hồi sức:
+
+78
+00:05:06,465 --> 00:05:11,667
+người toan chuyển hoá nặng phải thở máy. Khuyến cáo R3.14 nguyên văn đề nghị bù toan
+
+79
+00:05:11,517 --> 00:05:14,554
+máu bằng tăng tần số thở mà không tạo auto-PEEP,
+
+80
+00:05:14,404 --> 00:05:19,486
+tối đa 35 chu kỳ mỗi phút và, hoặc, thể tích khí lưu thông tới 8 mi li lít mỗi ký,
+
+81
+00:05:19,336 --> 00:05:21,350
+có theo dõi áp lực bình nguyên.
+
+82
+00:05:21,550 --> 00:05:26,434
+Và câu quan trọng: mục tiêu của thông khí không phải là bình thường hoá pH;
+
+83
+00:05:26,284 --> 00:05:28,580
+đích pH từ 7,15 trở lên là hợp lý.
+
+84
+00:05:28,780 --> 00:05:33,679
+Thời điểm nguy hiểm nhất là lúc đặt nội khí quản. Nhóm tác giả CHEST khuyên cài tần số
+
+85
+00:05:33,529 --> 00:05:36,274
+máy bằng nhịp thở của người bệnh trước khi đặt,
+
+86
+00:05:36,124 --> 00:05:41,575
+và dùng thể tích khí lưu thông 8 đến 10 mi li lít mỗi ký cân nặng lý tưởng trong thời gian ngắn,
+
+87
+00:05:41,425 --> 00:05:42,900
+để PaCO₂ không tăng vọt.
+
+88
+00:05:43,100 --> 00:05:47,971
+Sau đó nhanh chóng chuyển về thông khí bảo vệ phổi, theo dõi công cơ học và áp lực đẩy,
+
+89
+00:05:47,821 --> 00:05:51,010
+và không cố bình thường hoá pH bằng tăng thông khí mạnh.
+
+90
+00:05:51,210 --> 00:05:56,647
+Vì sao phải cẩn thận như vậy? Oh's nhắc rằng giảm thông khí ở người đang bù trừ làm toan nặng hơn,
+
+91
+00:05:56,497 --> 00:05:58,320
+tăng kali máu và gây loạn nhịp.
+
+92
+00:05:59,770 --> 00:06:05,266
+Khi nào lọc máu vì toan? Khuyến cáo R3.10: ở người sốc và, hoặc, tổn thương thận cấp,
+
+93
+00:06:05,116 --> 00:06:07,845
+bắt đầu lọc máu nếu pH từ 7,15 trở xuống,
+
+94
+00:06:07,695 --> 00:06:13,066
+khi không có toan hô hấp nặng và dù đã điều trị thích hợp. Tổng quan CHEST cũng ghi
+
+95
+00:06:12,916 --> 00:06:17,720
+nhận các thử nghiệm về thời điểm lọc máu đều dùng ngưỡng pH 7,15 đến 7,20.
+
+96
+00:06:17,920 --> 00:06:19,981
+Với toan lactic nghi do metformin:
+
+97
+00:06:19,831 --> 00:06:24,870
+lọc máu sớm khi có rối loạn chức năng cơ quan hoặc không cải thiện trong những giờ đầu.
+
+98
+00:06:25,070 --> 00:06:29,933
+Với methanol hoặc ethylen glycol: lọc máu khi khoảng trống anion trên 20,
+
+99
+00:06:29,783 --> 00:06:32,580
+hoặc có suy thận, hoặc rối loạn thị giác.
+
+100
+00:06:32,780 --> 00:06:36,731
+Với salicylat: lọc máu khi có tổn thương thần kinh, và, hoặc,
+
+101
+00:06:36,581 --> 00:06:41,529
+nồng độ trên 6,5 mi li mol mỗi lít, tức 90 mi li gam mỗi đề xi lít, và, hoặc,
+
+102
+00:06:41,379 --> 00:06:45,330
+pH từ 7,20 trở xuống; giữa các lần lọc vẫn tiếp tục kiềm hoá.
+
+103
+00:06:45,530 --> 00:06:49,435
+Và đây là tiêu chuẩn lọc máu dùng trong thử nghiệm BICARICU-2,
+
+104
+00:06:49,285 --> 00:06:54,644
+đáng tham khảo vì đã được chuẩn hoá: lọc ngay khi kali trên 6,5 kèm thay đổi điện tim,
+
+105
+00:06:54,494 --> 00:06:59,368
+hoặc phù phổi do tim mà vô niệu; hoặc sau 24 giờ có ít nhất hai trong ba điều:
+
+106
+00:06:59,218 --> 00:07:04,032
+nước tiểu dưới 0,3 mi li lít mỗi ký mỗi giờ, pH từ 7,20 trở xuống dù hồi sức,
+
+107
+00:07:03,882 --> 00:07:05,848
+kali trên 6,5. Về phương thức,
+
+108
+00:07:05,698 --> 00:07:11,360
+CHEST đề nghị lọc liên tục 25 đến 30 mi li lít mỗi ký mỗi giờ khi huyết động không ổn định.
+
+109
+00:07:12,810 --> 00:07:16,905
+Ngoài natri bicarbonat còn có các chất đệm khác. THAM, hay tromethamin,
+
+110
+00:07:16,755 --> 00:07:18,405
+là chất đệm không sinh CO₂,
+
+111
+00:07:18,255 --> 00:07:23,683
+thải qua thận. Dược thư và hướng dẫn Bộ Y tế gợi ý dùng khi cần kiềm hoá mà phải hạn chế natri,
+
+112
+00:07:23,533 --> 00:07:28,462
+với điều kiện thận còn tốt. Tác dụng phụ gồm tăng kali, hạ đường huyết, ức chế hô hấp,
+
+113
+00:07:28,312 --> 00:07:32,240
+và hoại tử gan. Tổng quan CHEST ghi nhận THAM hiện rất ít được dùng.
+
+114
+00:07:32,440 --> 00:07:36,734
+Carbicarb là hỗn hợp natri carbonat và bicarbonat, sinh ít CO₂ hơn,
+
+115
+00:07:36,584 --> 00:07:38,590
+nhưng chưa chứng minh lợi ích.
+
+116
+00:07:38,790 --> 00:07:41,800
+Dichloroacetat cải thiện khí máu trong toan lactic,
+
+117
+00:07:41,650 --> 00:07:44,380
+nhưng không cải thiện huyết động hay sống còn.
+
+118
+00:07:44,580 --> 00:07:50,603
+Và natri lactat 0,167 mol là một lựa chọn thay thế khi gan còn chuyển hoá lactate tốt. Tóm lại,
+
+119
+00:07:50,453 --> 00:07:55,610
+trên thực tế, chất đệm chính vẫn là natri bicarbonat, chủ đề của toàn bộ phần ba.
+
+120
+00:07:57,060 --> 00:08:00,839
+Đến với tình huống. Nam 45 tuổi, uống rượu tự nấu,
+
+121
+00:08:00,689 --> 00:08:05,266
+24 giờ sau xuất hiện nhìn mờ. Khí máu: pH 7,10, bicarbonat 6,
+
+122
+00:08:05,116 --> 00:08:11,289
+khoảng trống anion hiệu chỉnh 28, khoảng trống thẩm thấu 32. Creatinin bình thường,
+
+123
+00:08:11,139 --> 00:08:12,160
+lactate 2,1.
+
+124
+00:08:12,360 --> 00:08:14,110
+Xử trí nào phù hợp nhất?
+
+125
+00:08:14,310 --> 00:08:17,180
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+126
+00:08:25,780 --> 00:08:30,827
+Đáp án là phương án hai. Toan tăng khoảng trống anion kèm khoảng trống thẩm thấu trên
+
+127
+00:08:30,677 --> 00:08:34,974
+20 và nhìn mờ gợi ý mạnh ngộ độc methanol. Cần thuốc giải độc fomepizol,
+
+128
+00:08:34,824 --> 00:08:40,044
+và lọc máu theo khuyến cáo R3.12: chỉ cần một trong ba điều, khoảng trống anion trên 20,
+
+129
+00:08:39,894 --> 00:08:41,945
+suy thận, hoặc rối loạn thị giác;
+
+130
+00:08:41,795 --> 00:08:45,920
+người này có hai điều. Creatinin bình thường không phải lý do để chờ.
+
+131
+00:08:47,370 --> 00:08:51,840
+Xin tổng kết phần hai. Một, phân loại nguyên nhân theo khoảng trống anion hiệu chỉnh.
+
+132
+00:08:52,040 --> 00:08:56,990
+Hai, toan lactic type A và type B thường chồng lấp; đừng quên các nguyên nhân do thuốc.
+
+133
+00:08:57,190 --> 00:09:00,007
+Ba, dùng dịch tinh thể cân bằng khi cần lượng lớn,
+
+134
+00:08:59,857 --> 00:09:02,300
+giảm biến cố thận nhưng không giảm tử vong.
+
+135
+00:09:02,500 --> 00:09:04,650
+Bốn, điều trị nguyên nhân là chính.
+
+136
+00:09:04,850 --> 00:09:11,160
+Năm, thở máy tăng tần số tới 35, đích pH từ 7,15, cẩn trọng lúc đặt nội khí quản.
+
+137
+00:09:11,360 --> 00:09:16,837
+Và sáu, lọc máu khi pH từ 7,15 trở xuống dù đã điều trị, và sớm với metformin, rượu độc,
+
+138
+00:09:16,687 --> 00:09:22,042
+salicylat. Phần ba, phần quan trọng nhất của loạt bài, dành trọn cho natri bicarbonat:
+
+139
+00:09:21,892 --> 00:09:23,798
+chế phẩm, liều, đường truyền,
+
+140
+00:09:23,648 --> 00:09:29,790
+và chỉ định trong từng tình huống. Cảm ơn quý đồng nghiệp. Hẹn gặp lại trên Thư Viện Y Khoa Online.

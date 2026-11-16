@@ -1,0 +1,719 @@
+1
+00:00:04,900 --> 00:00:06,102
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,952 --> 00:00:11,210
+chào mừng quý vị đến với loạt bài về toan chuyển hoá trong hồi sức cấp cứu của Thư Viện Y Khoa Online.
+
+3
+00:00:11,410 --> 00:00:15,629
+Loạt bài gồm bốn phần. Phần một hôm nay trả lời câu hỏi rất thực tế:
+
+4
+00:00:15,479 --> 00:00:20,236
+khi khí máu báo bicarbonat thấp, ta đọc tiếp thế nào cho đúng, theo bảy bước,
+
+5
+00:00:20,086 --> 00:00:25,980
+dựa trên hướng dẫn của hội hồi sức và hội cấp cứu Pháp năm 2019 cùng các sách hồi sức kinh điển.
+
+6
+00:00:26,180 --> 00:00:31,431
+Phần hai bàn về nguyên nhân và điều trị chung, phần ba dành trọn cho natri bicarbonat,
+
+7
+00:00:31,281 --> 00:00:33,210
+và phần bốn là ba ca lâm sàng.
+
+8
+00:00:34,660 --> 00:00:40,010
+Vì sao phải đọc khí máu toan chuyển hoá thật kỹ? Theo tổng quan năm 2026 của chính nhóm
+
+9
+00:00:39,860 --> 00:00:41,683
+tác giả các thử nghiệm Pháp,
+
+10
+00:00:41,533 --> 00:00:43,596
+toan máu nặng, với pH dưới 7,20,
+
+11
+00:00:43,446 --> 00:00:47,660
+có thành phần chuyển hoá gặp ở 2 đến 10 phần trăm bệnh nhân hồi sức.
+
+12
+00:00:47,860 --> 00:00:52,098
+Và đó là nhóm rất nặng: trong thử nghiệm BICARICU-2 năm 2025,
+
+13
+00:00:51,948 --> 00:00:54,912
+ở người toan nặng kèm tổn thương thận cấp,
+
+14
+00:00:54,762 --> 00:00:58,330
+tử vong ngày 90 khoảng 62 phần trăm ở cả hai nhánh.
+
+15
+00:00:58,530 --> 00:01:03,767
+Khung chính của bài hôm nay là hướng dẫn của hội hồi sức và hội cấp cứu Pháp năm 2019,
+
+16
+00:01:03,617 --> 00:01:07,316
+gồm 29 khuyến cáo theo phương pháp GRADE: 4 khuyến cáo mạnh,
+
+17
+00:01:07,166 --> 00:01:09,800
+10 khuyến cáo yếu và 15 ý kiến chuyên gia.
+
+18
+00:01:10,000 --> 00:01:10,638
+Rất tiếc,
+
+19
+00:01:10,488 --> 00:01:16,390
+hiện chúng ta chưa có số liệu dịch tễ trong nước về toan chuyển hoá ở hồi sức trong các nguồn đã thu thập.
+
+20
+00:01:17,840 --> 00:01:23,467
+Trước hết là định nghĩa. Theo cách tiếp cận Henderson–Hasselbalch được hướng dẫn Pháp sử dụng,
+
+21
+00:01:23,317 --> 00:01:29,759
+toan chuyển hoá là rối loạn acid–base với bicarbonat huyết tương dưới 20 mi li mol mỗi lít. Khi kèm pH giảm,
+
+22
+00:01:29,609 --> 00:01:34,070
+ta gọi là toan máu, và toan máu được coi là nặng khi pH từ 7,20 trở xuống.
+
+23
+00:01:34,270 --> 00:01:39,534
+Cần phân biệt hai khái niệm: toan hoá là mọi quá trình bệnh lý có xu hướng làm giảm pH,
+
+24
+00:01:39,384 --> 00:01:40,592
+bất kể pH đo được;
+
+25
+00:01:40,442 --> 00:01:45,471
+còn toan máu là khi pH huyết tương thực sự dưới 7,38. Một người có thể có quá trình
+
+26
+00:01:45,321 --> 00:01:47,294
+toan hoá mà pH vẫn bình thường,
+
+27
+00:01:47,144 --> 00:01:49,410
+vì có quá trình kiềm hoá đối nghịch.
+
+28
+00:01:49,610 --> 00:01:52,960
+Hướng dẫn của Bộ Y tế năm 2015 mô tả cơ chế rất gọn:
+
+29
+00:01:52,810 --> 00:01:57,822
+toan chuyển hoá là sự giảm bicarbonat, phản ánh hoặc sự ứ lại các acid cố định,
+
+30
+00:01:57,672 --> 00:01:59,360
+hoặc tình trạng mất kiềm.
+
+31
+00:01:59,560 --> 00:02:02,990
+Và đáp ứng bù trừ là tăng thông khí để giảm PaCO₂.
+
+32
+00:02:04,440 --> 00:02:09,248
+Hãy điểm qua lịch sử. Cách tiếp cận kinh điển là Henderson–Hasselbalch:
+
+33
+00:02:09,098 --> 00:02:14,758
+pH được quyết định bởi tỷ số giữa bicarbonat và PaCO₂. Marino viết dưới dạng nồng độ
+
+34
+00:02:14,608 --> 00:02:17,710
+ion hydro bằng 24 nhân PaCO₂ chia bicarbonat.
+
+35
+00:02:17,910 --> 00:02:21,698
+Sau đó ra đời khái niệm kiềm dư, tính theo phương trình Van Slyke,
+
+36
+00:02:21,548 --> 00:02:24,620
+và khoảng trống anion để tìm các anion không đo được.
+
+37
+00:02:24,820 --> 00:02:29,612
+Cách tiếp cận lý hoá của Stewart coi pH và bicarbonat chỉ là biến phụ thuộc;
+
+38
+00:02:29,462 --> 00:02:34,010
+các biến độc lập thật sự là PaCO₂, chênh lệch ion mạnh và tổng acid yếu.
+
+39
+00:02:34,210 --> 00:02:34,965
+Năm 1999,
+
+40
+00:02:34,815 --> 00:02:40,680
+hội hồi sức Pháp tổ chức hội nghị đồng thuận về điều chỉnh toan chuyển hoá ở hồi sức.
+
+41
+00:02:40,880 --> 00:02:48,205
+Và từ năm 2018 đến 2025 là giai đoạn của thử nghiệm ngẫu nhiên: BICAR-ICU năm 2018,
+
+42
+00:02:48,055 --> 00:02:50,280
+hướng dẫn Pháp năm 2019,
+
+43
+00:02:50,130 --> 00:02:57,110
+rồi BICARICU-2 năm 2025. Chúng ta sẽ phân tích kỹ hai thử nghiệm này ở phần ba.
+
+44
+00:02:57,310 --> 00:03:00,135
+Khuyến cáo R1.4 năm 2019 chốt lại cách dùng:
+
+45
+00:02:59,985 --> 00:03:04,878
+áp dụng Henderson–Hasselbalch với khoảng trống anion hiệu chỉnh albumin trước,
+
+46
+00:03:04,728 --> 00:03:09,559
+còn Stewart dùng khi gặp tình huống chưa giải thích được, như rối loạn natri,
+
+47
+00:03:09,409 --> 00:03:11,140
+clo hay rối loạn phức tạp.
+
+48
+00:03:12,590 --> 00:03:17,060
+Cơ thể giữ pH bằng ba tuyến. Tuyến đầu là hệ đệm hoá học, tác dụng tức thì.
+
+49
+00:03:17,260 --> 00:03:19,042
+Tuyến thứ hai là phổi:
+
+50
+00:03:18,892 --> 00:03:24,236
+tăng thông khí để giảm PaCO₂. Đáp ứng này bắt đầu sau 30 đến 120 phút,
+
+51
+00:03:24,086 --> 00:03:26,610
+và cần 12 đến 24 giờ mới đầy đủ.
+
+52
+00:03:26,810 --> 00:03:28,188
+Tuyến thứ ba là thận:
+
+53
+00:03:28,038 --> 00:03:32,400
+tái hấp thu bicarbonat và thải acid dưới dạng acid chuẩn độ và ammonium.
+
+54
+00:03:32,600 --> 00:03:35,751
+Textbook of Critical Care cho một con số dễ nhớ:
+
+55
+00:03:35,601 --> 00:03:41,002
+mỗi 1 mi li đương lượng bicarbonat giảm, PaCO₂ giảm khoảng 1,25 mi li mét thuỷ ngân,
+
+56
+00:03:40,852 --> 00:03:44,190
+và không xuống dưới mức tối thiểu khoảng 10 đến 15.
+
+57
+00:03:44,390 --> 00:03:49,317
+Từ ba tuyến đó suy ra bốn cơ chế gây toan chuyển hoá: mất bicarbonat; giảm thải acid;
+
+58
+00:03:49,167 --> 00:03:51,621
+tăng tạo hoặc giảm sử dụng acid nội sinh;
+
+59
+00:03:51,471 --> 00:03:56,060
+và nạp acid từ ngoài vào. Cách phân loại này sẽ dẫn đường cho phần nguyên nhân.
+
+60
+00:03:57,510 --> 00:04:01,312
+Vì sao toan máu nguy hiểm? Trước hết là tim mạch: giãn động mạch,
+
+61
+00:04:01,162 --> 00:04:05,807
+giảm co bóp cơ tim và giảm cung lượng tim, rõ khi pH xuống khoảng 7,10 đến 7,20;
+
+62
+00:04:05,657 --> 00:04:09,740
+kèm theo giảm đáp ứng với catecholamin và tăng nguy cơ loạn nhịp thất.
+
+63
+00:04:09,940 --> 00:04:10,646
+Về hô hấp,
+
+64
+00:04:10,496 --> 00:04:16,480
+người bệnh phải tăng thông khí rất nhiều để bù. Đây là lý do thời điểm đặt nội khí quản cực kỳ nguy hiểm:
+
+65
+00:04:16,330 --> 00:04:21,370
+nếu máy thở cài thông khí thấp hơn nhịp thở tự nhiên, PaCO₂ tăng vọt và pH tụt sâu thêm.
+
+66
+00:04:21,570 --> 00:04:22,870
+Về vận chuyển oxy,
+
+67
+00:04:22,720 --> 00:04:27,343
+toan máu ban đầu dịch đường cong phân ly sang phải theo hiệu ứng Bohr,
+
+68
+00:04:27,193 --> 00:04:31,560
+nhưng sau 12 đến 24 giờ hiệu ứng này bị trung hoà do giảm 2,3-DPG.
+
+69
+00:04:31,760 --> 00:04:36,332
+Và về chuyển hoá, toan máu gây kháng insulin, ức chế men phosphofructokinase,
+
+70
+00:04:36,182 --> 00:04:41,270
+thay đổi chức năng đại thực bào và lympho, cùng biểu hiện thần kinh như lú lẫn, lơ mơ.
+
+71
+00:04:42,720 --> 00:04:46,051
+Đây là bản đồ của cả phần một: bảy bước. Bước một,
+
+72
+00:04:45,901 --> 00:04:50,950
+xác nhận có toan chuyển hoá bằng khí máu: pH dưới 7,38 và bicarbonat dưới 20.
+
+73
+00:04:51,150 --> 00:04:54,340
+Bước hai, đánh giá bù trừ hô hấp bằng công thức Winter.
+
+74
+00:04:54,540 --> 00:04:58,210
+Bước ba, tính khoảng trống anion và hiệu chỉnh theo albumin.
+
+75
+00:04:58,410 --> 00:05:02,320
+Bước bốn, dùng tỷ số delta để tìm rối loạn chuyển hoá phối hợp.
+
+76
+00:05:02,520 --> 00:05:06,882
+Bước năm, khi khoảng trống anion tăng mà chưa rõ nguyên nhân, đặc biệt nghi rượu độc,
+
+77
+00:05:06,732 --> 00:05:08,270
+tính khoảng trống thẩm thấu.
+
+78
+00:05:08,470 --> 00:05:10,951
+Bước sáu, nếu khoảng trống anion bình thường,
+
+79
+00:05:10,801 --> 00:05:14,940
+dùng khoảng trống anion niệu để phân biệt mất qua tiêu hoá với toan ống thận.
+
+80
+00:05:15,140 --> 00:05:15,928
+Và bước bảy,
+
+81
+00:05:15,778 --> 00:05:20,448
+ghép tất cả để chẩn đoán nguyên nhân. Khuyến cáo R1.5 của hướng dẫn Pháp đề nghị dùng
+
+82
+00:05:20,298 --> 00:05:24,490
+một lưu đồ để cải thiện chẩn đoán nguyên nhân. Chúng ta sẽ đi qua từng bước.
+
+83
+00:05:25,940 --> 00:05:29,845
+Bước một bắt đầu bằng câu hỏi: dùng xét nghiệm nào? Khuyến cáo R1.1:
+
+84
+00:05:29,695 --> 00:05:33,765
+khi bicarbonat giảm, nên làm khí máu động mạch để loại trừ kiềm hô hấp,
+
+85
+00:05:33,615 --> 00:05:36,250
+xác nhận toan chuyển hoá và tìm toan hỗn hợp.
+
+86
+00:05:36,450 --> 00:05:39,953
+Khí máu tĩnh mạch có dùng được không? Với pH thì được:
+
+87
+00:05:39,803 --> 00:05:45,107
+phân tích gộp cho thấy pH tĩnh mạch chênh trung bình chỉ âm 0,033 so với động mạch.
+
+88
+00:05:44,957 --> 00:05:46,722
+Nhưng với PaCO₂ thì không:
+
+89
+00:05:46,572 --> 00:05:48,088
+chênh trung bình 4,41,
+
+90
+00:05:47,938 --> 00:05:54,360
+và giới hạn đồng thuận dao động từ âm 20,4 đến 25,8 mi li mét thuỷ ngân. Muốn đánh giá bù trừ hô hấp,
+
+91
+00:05:54,210 --> 00:05:55,850
+phải có PaCO₂ động mạch.
+
+92
+00:05:56,050 --> 00:05:57,655
+R1.2, mức GRADE hai trừ:
+
+93
+00:05:57,505 --> 00:06:02,200
+không nên ưu tiên base deficit hơn bicarbonat để nhận diện toan chuyển hoá.
+
+94
+00:06:02,400 --> 00:06:06,544
+Về lactate: lactate tĩnh mạch bình thường thì loại trừ tăng lactate máu;
+
+95
+00:06:06,394 --> 00:06:10,093
+nếu lactate tĩnh mạch tăng, nên xác nhận bằng lactate động mạch,
+
+96
+00:06:09,943 --> 00:06:14,253
+GRADE hai cộng. Và không dùng lactate máu mao mạch, đây là khuyến cáo mạnh,
+
+97
+00:06:14,103 --> 00:06:15,030
+GRADE một trừ.
+
+98
+00:06:15,230 --> 00:06:19,967
+Cuối cùng là một khuyến cáo mạnh khác, GRADE một cộng: khi chẩn đoán nhiễm toan ceton,
+
+99
+00:06:19,817 --> 00:06:23,540
+đo ceton máu mao mạch, tức beta hydroxybutyrat, thay vì ceton niệu.
+
+100
+00:06:24,990 --> 00:06:30,455
+Bước hai là bù trừ. Công thức Winter: PaCO₂ dự kiến bằng 1,5 nhân bicarbonat cộng 8,
+
+101
+00:06:30,305 --> 00:06:34,568
+cộng trừ 2 mi li mét thuỷ ngân. Marino đưa ra một cách tính khác:
+
+102
+00:06:34,418 --> 00:06:39,440
+40 trừ 1,2 nhân hiệu số giữa 24 và bicarbonat; hai cách cho kết quả gần nhau.
+
+103
+00:06:39,640 --> 00:06:44,532
+Nếu PaCO₂ đo được cao hơn dự kiến, người bệnh có thêm toan hô hấp: cơ hô hấp đã mệt,
+
+104
+00:06:44,382 --> 00:06:45,548
+đang dùng an thần,
+
+105
+00:06:45,398 --> 00:06:50,910
+hay máy thở cài thông khí phút quá thấp. Đây là tình huống báo động vì pH có thể tụt rất nhanh.
+
+106
+00:06:51,110 --> 00:06:54,700
+Nếu PaCO₂ nằm trong khoảng dự kiến, bù trừ thích hợp.
+
+107
+00:06:54,900 --> 00:06:59,316
+Và nếu thấp hơn dự kiến, có thêm kiềm hô hấp; ví dụ điển hình là ngộ độc salicylat,
+
+108
+00:06:59,166 --> 00:07:03,530
+gây kiềm hô hấp kèm toan chuyển hoá. Điều quan trọng là nhận ra rối loạn phối hợp.
+
+109
+00:07:04,980 --> 00:07:07,029
+Bước ba là khoảng trống anion:
+
+110
+00:07:06,879 --> 00:07:11,587
+natri trừ tổng clo và bicarbonat. Marino cho khoảng tham chiếu 8 đến 12,
+
+111
+00:07:11,437 --> 00:07:15,511
+và công thức hiệu chỉnh khi albumin đo bằng gam mỗi đề xi lít:
+
+112
+00:07:15,361 --> 00:07:18,170
+cộng 2,5 nhân hiệu số giữa 4,5 và albumin.
+
+113
+00:07:18,370 --> 00:07:22,740
+Textbook of Critical Care cho khoảng 12 cộng trừ 4, và quy tắc dễ nhớ:
+
+114
+00:07:22,590 --> 00:07:27,080
+albumin giảm 1 gam mỗi đề xi lít thì khoảng trống anion giảm khoảng 2,5.
+
+115
+00:07:27,280 --> 00:07:32,811
+Oh's Intensive Care Manual tính có cả kali, thường bỏ qua, khoảng tham chiếu 3 đến 13,
+
+116
+00:07:32,661 --> 00:07:38,066
+và vì albumin ở nước ta thường báo bằng gam mỗi lít, quý vị dùng công thức của Oh's:
+
+117
+00:07:37,916 --> 00:07:42,070
+cộng 0,25 nhân hiệu số giữa 42 và albumin tính bằng gam mỗi lít.
+
+118
+00:07:42,270 --> 00:07:44,766
+Ba sách cho ba khoảng tham chiếu khác nhau,
+
+119
+00:07:44,616 --> 00:07:50,220
+nên hãy dùng khoảng của phòng xét nghiệm nơi mình làm việc. Điều quan trọng nhất là khuyến cáo R1.3,
+
+120
+00:07:50,070 --> 00:07:53,602
+GRADE hai cộng: dùng khoảng trống anion đã hiệu chỉnh albumin,
+
+121
+00:07:53,452 --> 00:07:57,693
+không dùng khoảng trống thô. Ở hồi sức, albumin thấp là chuyện thường ngày,
+
+122
+00:07:57,543 --> 00:08:00,530
+và nó che khuất cả một toan tăng khoảng trống anion.
+
+123
+00:08:01,980 --> 00:08:05,273
+Bước bốn là tỷ số delta: khoảng trống anion trừ 12,
+
+124
+00:08:05,123 --> 00:08:07,738
+chia cho 24 trừ bicarbonat. Theo Marino,
+
+125
+00:08:07,588 --> 00:08:11,250
+tỷ số xấp xỉ 1 là toan tăng khoảng trống anion đơn thuần.
+
+126
+00:08:11,450 --> 00:08:13,773
+Tỷ số dưới 1 gợi ý có thêm toan tăng clo,
+
+127
+00:08:13,623 --> 00:08:16,847
+ví dụ người nhiễm toan ceton đã truyền nhiều natri clorid;
+
+128
+00:08:16,697 --> 00:08:18,808
+trên 1 gợi ý có thêm kiềm chuyển hoá,
+
+129
+00:08:18,658 --> 00:08:21,882
+ví dụ người nôn nhiều. Các sách dùng ngưỡng hơi khác nhau,
+
+130
+00:08:21,732 --> 00:08:24,320
+nên xem đây là gợi ý chứ không phải chẩn đoán.
+
+131
+00:08:24,520 --> 00:08:25,227
+Bước năm,
+
+132
+00:08:25,077 --> 00:08:31,914
+khoảng trống thẩm thấu bằng độ thẩm thấu đo được trừ độ thẩm thấu tính. Độ thẩm thấu tính bằng 2 nhân natri,
+
+133
+00:08:31,764 --> 00:08:34,638
+cộng glucose chia 18, cộng urê máu chia 2,8,
+
+134
+00:08:34,488 --> 00:08:38,972
+khi glucose và urê tính bằng mi li gam mỗi đề xi lít. Trên 10 là tăng,
+
+135
+00:08:38,822 --> 00:08:43,120
+và ngộ độc rượu độc như methanol hay ethylen glycol thường trên 20.
+
+136
+00:08:43,320 --> 00:08:46,934
+Nhưng xin nhớ: khoảng trống thẩm thấu bình thường không loại trừ ngộ độc,
+
+137
+00:08:46,784 --> 00:08:50,350
+vì rượu độc đã chuyển hoá thành acid thì không còn góp vào độ thẩm thấu.
+
+138
+00:08:50,550 --> 00:08:53,742
+Bước sáu dành cho toan không tăng khoảng trống anion:
+
+139
+00:08:53,592 --> 00:08:59,595
+khoảng trống anion niệu bằng natri cộng kali trừ clo niệu. Giá trị âm cho thấy thận thải ammonium tốt,
+
+140
+00:08:59,445 --> 00:09:01,546
+gợi ý mất bicarbonat qua tiêu hoá;
+
+141
+00:09:01,396 --> 00:09:06,023
+bằng 0 hoặc dương gợi ý toan ống thận. Không diễn giải khi natri niệu dưới 25,
+
+142
+00:09:05,873 --> 00:09:08,720
+hoặc khi có anion lạ như ceton trong nước tiểu.
+
+143
+00:09:08,920 --> 00:09:10,330
+Và theo hướng dẫn Pháp,
+
+144
+00:09:10,180 --> 00:09:15,751
+chỉ làm khoảng trống anion niệu và pH niệu khi toan không có anion chưa đo và không rõ nguyên nhân,
+
+145
+00:09:15,601 --> 00:09:18,270
+còn pH niệu dành cho người nghi toan ống thận.
+
+146
+00:09:19,720 --> 00:09:22,669
+Trước khi sang tình huống, xin lưu ý bốn cái bẫy. Một,
+
+147
+00:09:22,519 --> 00:09:26,350
+albumin thấp che khuất khoảng trống anion tăng; vì vậy luôn hiệu chỉnh.
+
+148
+00:09:26,550 --> 00:09:29,065
+Hai, pH bình thường không loại trừ rối loạn:
+
+149
+00:09:28,915 --> 00:09:33,740
+một toan chuyển hoá có thể bị che bởi kiềm do giảm albumin hoặc kiềm chuyển hoá do nôn.
+
+150
+00:09:33,940 --> 00:09:39,549
+Ba, que thử ceton niệu dùng phản ứng nitroprussid, không đo được beta hydroxybutyrat,
+
+151
+00:09:39,399 --> 00:09:43,210
+nên có thể âm tính giả, nhất là trong toan ceton do rượu.
+
+152
+00:09:43,410 --> 00:09:43,782
+Bốn,
+
+153
+00:09:43,632 --> 00:09:48,434
+D-lactate ở người hội chứng ruột ngắn không hiện trên xét nghiệm lactate thường quy,
+
+154
+00:09:48,284 --> 00:09:51,480
+vì máy chỉ đo L-lactate; phải yêu cầu xét nghiệm riêng.
+
+155
+00:09:51,680 --> 00:09:55,945
+Và một nguyên tắc về mức nặng: pH không dùng một mình để xác định bệnh nặng,
+
+156
+00:09:55,795 --> 00:09:58,977
+GRADE hai trừ; trong khi tăng lactate, ở bất kỳ mức nào,
+
+157
+00:09:58,827 --> 00:10:02,550
+là dấu hiệu nặng cần xử trí nhanh, khuyến cáo mạnh GRADE một cộng.
+
+158
+00:10:04,000 --> 00:10:10,966
+Đến với tình huống. Nam 65 tuổi, sốc nhiễm khuẩn đường mật, đang thở máy. Khí máu:
+
+159
+00:10:10,816 --> 00:10:17,283
+pH 7,12; PaCO₂ 24; bicarbonat 8. Natri 138, clo 104, albumin 25 gam mỗi lít,
+
+160
+00:10:17,133 --> 00:10:18,280
+lactate 5,2.
+
+161
+00:10:18,480 --> 00:10:19,910
+Nhận định nào đúng nhất?
+
+162
+00:10:20,110 --> 00:10:22,740
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+163
+00:10:31,340 --> 00:10:36,406
+Đáp án là phương án hai. Winter: 1,5 nhân 8 cộng 8 bằng 20, cộng trừ 2;
+
+164
+00:10:36,256 --> 00:10:42,154
+PaCO₂ đo 24 cao hơn giới hạn trên 2 mi li mét thuỷ ngân, tức bù trừ hô hấp chưa đủ,
+
+165
+00:10:42,004 --> 00:10:47,278
+nên tăng tần số máy thở. Khoảng trống anion thô bằng 138 trừ 112, bằng 26;
+
+166
+00:10:47,128 --> 00:10:51,225
+hiệu chỉnh với albumin 25 gam mỗi lít: cộng 0,25 nhân 17,
+
+167
+00:10:51,075 --> 00:10:55,102
+được khoảng 30. Tỷ số delta bằng 18 chia 16, khoảng 1,1:
+
+168
+00:10:54,952 --> 00:10:57,803
+toan tăng khoảng trống anion đơn thuần,
+
+169
+00:10:57,653 --> 00:11:02,650
+do lactate và suy thận. Chúng ta sẽ gặp lại người bệnh này ở phần bốn.
+
+170
+00:11:04,100 --> 00:11:08,994
+Xin tổng kết sáu thông điệp. Một, toan chuyển hoá là bicarbonat dưới 20,
+
+171
+00:11:08,844 --> 00:11:10,970
+nặng khi pH từ 7,20 trở xuống.
+
+172
+00:11:11,170 --> 00:11:14,200
+Hai, cần khí máu động mạch để có PaCO₂ đúng.
+
+173
+00:11:14,400 --> 00:11:18,870
+Ba, công thức Winter: 1,5 nhân bicarbonat cộng 8, cộng trừ 2.
+
+174
+00:11:19,070 --> 00:11:22,580
+Bốn, luôn hiệu chỉnh khoảng trống anion theo albumin.
+
+175
+00:11:22,780 --> 00:11:27,650
+Năm, dùng tỷ số delta, khoảng trống thẩm thấu và khoảng trống anion niệu đúng chỗ.
+
+176
+00:11:27,850 --> 00:11:30,017
+Và sáu, đo ceton máu thay ceton niệu,
+
+177
+00:11:29,867 --> 00:11:33,343
+lactate động mạch khi lactate tĩnh mạch tăng. Trong phần hai,
+
+178
+00:11:33,193 --> 00:11:38,086
+chúng ta sẽ đi vào nguyên nhân, từ toan lactic, toan ceton, rượu độc đến toan tăng clo,
+
+179
+00:11:37,936 --> 00:11:40,812
+và các biện pháp điều trị chung: thở máy, lọc máu,
+
+180
+00:11:40,662 --> 00:11:45,500
+chất đệm. Cảm ơn quý đồng nghiệp đã theo dõi. Hẹn gặp lại trên Thư Viện Y Khoa Online.
