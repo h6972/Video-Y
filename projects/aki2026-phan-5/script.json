@@ -1,0 +1,1069 @@
+{
+ "title": "Tổn thương thận cấp – Phần 5: Liệu pháp thay thế thận",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Tổn thương thận cấp · Phần 5/5",
+ "source_short": "Nguồn: KDIGO 2026 (dự thảo) · KDIGO 2012 · ADQI · CSCCM 2026 · RCT then chốt",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "[TIMP-2]·[IGFBP7]": "tim pi hai nhân i gi ép bê pê bảy",
+  "STARRT-AKI": "sờ ta a ka i",
+  "BICARICU-2": "bi ca ri cu hai",
+  "PROTECTION": "prô téc sần",
+  "IDEAL-ICU": "ai đi ồ i xi u",
+  "BICAR-ICU": "bi ca i xi u",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "PRESERVE": "pri dớp",
+  "Sapphire": "sa phai a",
+  "HRS-AKI": "hội chứng gan thận thể tổn thương thận cấp",
+  "AKI-EPI": "a ka i e pi",
+  "PrevAKI": "prép a ka i",
+  "CONFIRM": "con phớm",
+  "mL/phút": "mi li lít mỗi phút",
+  "SA-AKI": "tổn thương thận cấp liên quan nhiễm khuẩn huyết",
+  "CA-AKI": "tổn thương thận cấp do thuốc cản quang",
+  "AKIKI2": "a ki ki hai",
+  "ICRAKI": "i cờ ra ki",
+  "BaSICS": "ba sích",
+  "TIMP-2": "tim pi hai",
+  "IGFBP7": "i gi ép bê pê bảy",
+  "NaHCO₃": "natri bicarbonat",
+  "MAKE90": "biến cố thận lớn ngày chín mươi",
+  "MAKE30": "biến cố thận lớn ngày ba mươi",
+  "SGLT2i": "thuốc ức chế ét gờ lờ tê hai",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micromol mỗi lít",
+  "AKIKI": "a ki ki",
+  "ELAIN": "e lanh",
+  "ACORN": "ây con",
+  "SMART": "smát",
+  "CHEST": "chét",
+  "RENAL": "ri nồ",
+  "KDIGO": "ca đi gô",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "KeGFR": "mức lọc cầu thận động học",
+  "HCO₃⁻": "bicarbonat",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "PLUS": "plát",
+  "RICH": "rích",
+  "NGAL": "en gan",
+  "ADQI": "a đê qui",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "CRRT": "lọc máu liên tục",
+  "IRRT": "lọc máu ngắt quãng",
+  "HVHF": "siêu lọc thể tích cao",
+  "MAKE": "biến cố thận lớn",
+  "ECMO": "e cờ mô",
+  "g/kg": "gam mỗi ký",
+  "mmHg": "mi li mét thuỷ ngân",
+  "ATN": "a tê en",
+  "GFR": "mức lọc cầu thận",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKD": "bệnh thận cấp",
+  "AKI": "tổn thương thận cấp",
+  "CKD": "bệnh thận mạn",
+  "FST": "test phu rô xê mít",
+  "SCr": "creatinin",
+  "MAP": "huyết áp trung bình",
+  "HES": "tinh bột hydroxyethyl",
+  "NAC": "en a xê",
+  "BUN": "bun",
+  "P/F": "pê trên ép"
+ },
+ "brand": {
+  "next": "Ca lâm sàng: sốc nhiễm khuẩn và tổn thương thận cấp"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Cơ chế, nguyên nhân"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán, phân tầng"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "krt",
+   "t": "Thay thế thận"
+  },
+  {
+   "k": "tl",
+   "t": "Hồi phục, theo dõi"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Tổn thương thận cấp",
+   "title": "Liệu pháp<br>thay thế thận",
+   "subtitle": "Phần 5 · Thời điểm, phương thức, liều, chống đông, cai",
+   "badges": [
+    {
+     "t": "STARRT-AKI · AKIKI2",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "ICRAKI 2026",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "RENAL · RICH",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · Phần 5/5",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm, phần cuối của loạt bài tổn thương thận cấp.",
+    "Liệu pháp thay thế thận là nơi bằng chứng thay đổi nhiều nhất trong mười năm qua, và có cả một thử nghiệm mới công bố tháng 10 năm 2026.",
+    "Chúng ta sẽ trả lời lần lượt: khi nào bắt đầu, chọn phương thức nào, liều bao nhiêu, chống đông thế nào, khi nào ngừng, và theo dõi gì sau ra viện."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "cards",
+   "rail": "krt",
+   "chapter": "Chỉ định",
+   "title": "Khi nào không được chờ?",
+   "ref": "KDIGO 2026 (dự thảo), PP 5.1.1–5.1.5, tr. 246–252 · CSCCM 2026, khuyến cáo 1–2, tr. 559",
+   "cards": [
+    {
+     "tag": "KHÔNG TRÌ HOÃN",
+     "t": "Biến chứng kháng trị nội khoa",
+     "items": [
+      "Quá tải dịch",
+      "Rối loạn điện giải, kiềm toan",
+      "Biến chứng chuyển hoá (urê huyết)"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "TÌNH HUỐNG RIÊNG",
+     "t": "Cân nhắc sớm",
+     "items": [
+      "Bệnh não gan ≥2 do suy gan cấp: CRRT giảm amoniac",
+      "KRT thử khi urê huyết làm nhiễu đánh giá thần kinh"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "LẬP KẾ HOẠCH",
+     "t": "Trước khi cần",
+     "items": [
+      "Khả năng cao phải KRT: chuẩn bị, chuyển tuyến sớm",
+      "Quyết định chung với gia đình"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bắt đầu với câu hỏi: khi nào không được chờ? Khi người bệnh có quá tải dịch, rối loạn điện giải, kiềm toan hay biến chứng chuyển hoá như urê huyết kháng trị nội khoa, khởi động lọc máu nếu phù hợp với mong muốn và mục tiêu chăm sóc. Hướng dẫn Trung Quốc 2026 nhấn mạnh: các chỉ định đe dọa tính mạng này phải lọc càng sớm càng tốt.",
+    "Có những tình huống riêng: bệnh não gan từ độ 2 trong suy gan cấp, có thể cân nhắc lọc máu liên tục để giảm amoniac; hoặc lọc máu thử có thời hạn khi urê huyết làm nhiễu đánh giá thần kinh.",
+    "Và với người có khả năng cao cần lọc máu, hãy lên kế hoạch trước, kể cả chuyển đến trung tâm có lọc máu, đừng đợi đến khi có chỉ định cấp cứu."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "compare",
+   "rail": "krt",
+   "chapter": "Thời điểm",
+   "title": "Năm thử nghiệm về thời điểm khởi động",
+   "ref": "ELAIN 2016, tr. E1 · AKIKI 2016, tr. 1 · IDEAL-ICU 2018, tr. 1431 · STARRT-AKI 2020, tr. 240 · AKIKI2 2021, tr. 1293, 1298",
+   "head": [
+    "Thử nghiệm",
+    "Quần thể",
+    "Sớm – trì hoãn",
+    "Kết cục chính"
+   ],
+   "widths": "0.9fr 1.3fr 1.6fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "ELAIN 2016",
+      "AKI 2 + NGAL >150; 231; 1 trung tâm",
+      "8 giờ từ giai đoạn 2 – 12 giờ từ giai đoạn 3",
+      "Tử vong 90 ngày <b>39,3% so với 54,7%</b> (HR 0,66)"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "AKIKI 2016",
+      "AKI 3 + thở máy/vận mạch; 620",
+      "Ngay – chờ biến chứng hoặc thiểu niệu >72 giờ",
+      "Tử vong 60 ngày 48,5% so với 49,7%"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "IDEAL-ICU 2018",
+      "Sốc nhiễm khuẩn + RIFLE-F; 488",
+      "12 giờ – chờ 48 giờ",
+      "Tử vong 90 ngày 58% so với 54%"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "STARRT-AKI 2020",
+      "AKI 2–3; 2.927; 15 nước",
+      "12 giờ – chờ tiêu chuẩn hoặc ≥72 giờ",
+      "Tử vong 90 ngày 43,9% so với 43,7%"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "AKIKI2 2021",
+      "Đã thiểu niệu >72 giờ hoặc BUN >112; 278",
+      "Trì hoãn – trì hoãn hơn",
+      "Tử vong 60 ngày: HR hiệu chỉnh <b>1,65</b> cho trì hoãn hơn"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Về thời điểm, năm thử nghiệm ngẫu nhiên tạo nên bức tranh. ELAIN 2016, một trung tâm, chủ yếu sau phẫu thuật, giai đoạn 2 có NGAL tăng: khởi động sớm giảm tử vong 90 ngày từ 54,7 xuống 39,3 phần trăm.",
+    "Nhưng AKIKI và IDEAL-ICU, ở người bệnh nặng hơn, không thấy khác biệt tử vong.",
+    "STARRT-AKI, thử nghiệm lớn nhất với 2.927 người ở 15 nước, cũng không thấy khác biệt: 43,9 so với 43,7 phần trăm.",
+    "Và AKIKI2 đặt câu hỏi ngược lại: khi người bệnh đã thiểu niệu hơn 72 giờ hoặc BUN trên 112, chờ thêm có an toàn không? Câu trả lời là không: nhánh trì hoãn hơn có tỷ số nguy cơ tử vong 60 ngày hiệu chỉnh 1,65."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "bars",
+   "rail": "krt",
+   "chapter": "STARRT-AKI",
+   "title": "Khởi động sớm: không lợi, có hại",
+   "ref": "STARRT-AKI 2020, tr. 240, 243 · AKIKI 2016, tr. 1",
+   "groups": [
+    {
+     "t": "Lệ thuộc KRT ngày 90 (người sống)",
+     "d": "STARRT-AKI",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Sớm",
+       "v": 10.4,
+       "lab": "10,4%",
+       "c": "coral"
+      },
+      {
+       "k": "Tiêu chuẩn",
+       "v": 6.0,
+       "lab": "6,0%"
+      }
+     ]
+    },
+    {
+     "t": "Biến cố bất lợi",
+     "d": "STARRT-AKI",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Sớm",
+       "v": 23.0,
+       "lab": "23,0%",
+       "c": "coral"
+      },
+      {
+       "k": "Tiêu chuẩn",
+       "v": 16.5,
+       "lab": "16,5%"
+      }
+     ]
+    },
+    {
+     "t": "Nhận KRT",
+     "d": "STARRT-AKI",
+     "at": 2,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Sớm",
+       "v": 96.8,
+       "lab": "96,8%",
+       "c": "teal"
+      },
+      {
+       "k": "Tiêu chuẩn",
+       "v": 61.8,
+       "lab": "61,8%"
+      }
+     ]
+    }
+   ],
+   "max": 105,
+   "h": 540,
+   "notes": [
+    {
+     "t": "RR lệ thuộc KRT 1,74 (1,24–2,43)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Hạ huyết áp, hạ phosphat nhiều hơn khi khởi động sớm",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "AKIKI: 49% nhánh trì hoãn không cần KRT",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 460,
+   "lines": [
+    "Không chỉ không có lợi, khởi động sớm còn có hại. Trong STARRT-AKI, ở người sống đến ngày 90, lệ thuộc lọc máu là 10,4 phần trăm ở nhánh sớm so với 6,0 phần trăm ở nhánh tiêu chuẩn, nguy cơ tương đối 1,74.",
+    "Biến cố bất lợi cũng nhiều hơn, 23,0 so với 16,5 phần trăm, gồm hạ huyết áp và hạ phosphat liên quan lọc máu.",
+    "Và chiến lược chờ có theo dõi giúp nhiều người tránh được lọc máu: trong STARRT-AKI, chỉ 61,8 phần trăm nhánh tiêu chuẩn phải lọc; trong AKIKI, 49 phần trăm nhánh trì hoãn không cần lọc máu."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "box",
+   "rail": "krt",
+   "chapter": "Khuyến cáo thời điểm",
+   "title": "Chờ có theo dõi, không chờ quá mức",
+   "ref": "KDIGO 2026 (dự thảo), R 5.1.1 (1C), tr. 247 · STARRT-AKI, tr. 242 · AKIKI2 · CSCCM 2026, tr. 559",
+   "box": {
+    "tag": "KDIGO 2026 · KHUYẾN CÁO 5.1.1 · 1C",
+    "t": "Người lớn có AKI: khuyến cáo <b>chiến lược trì hoãn</b> ưu tiên hơn khởi động sớm (dự phòng).",
+    "at": 0,
+    "c": "coral",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "NGƯỠNG STARRT-AKI",
+     "t": "Kali ≥6,0 · pH ≤7,20 hoặc HCO₃⁻ ≤12 · P/F ≤200 kèm quá tải dịch · AKI kéo dài ≥72 giờ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "AKIKI2",
+     "t": "Đã thiểu niệu >72 giờ hoặc BUN >112: chờ thêm có hại",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "CSCCM 2026",
+     "t": "Không khởi động thường quy ở giai đoạn 1–2",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Từ đó KDIGO 2026 khuyến cáo, mức 1C: ở người lớn bị tổn thương thận cấp, ưu tiên chiến lược trì hoãn hơn khởi động sớm. Trì hoãn ở đây nghĩa là chờ có theo dõi sát, không phải bỏ mặc.",
+    "Ngưỡng cụ thể có thể tham khảo từ STARRT-AKI: kali từ 6,0, pH từ 7,20 trở xuống hoặc bicarbonat từ 12 trở xuống, tỷ số pê trên ép từ 200 trở xuống kèm quá tải dịch, hoặc tổn thương thận cấp kéo dài từ 72 giờ.",
+    "Nhưng AKIKI2 nhắc ta giới hạn: khi đã thiểu niệu hơn 72 giờ hoặc BUN trên 112, chờ thêm có hại.",
+    "Hướng dẫn Trung Quốc 2026 cũng không khuyến cáo khởi động thường quy ở giai đoạn 1 đến 2."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "media",
+   "rail": "krt",
+   "chapter": "Phương thức",
+   "title": "Liên tục hay ngắt quãng?",
+   "ref": "Ảnh minh hoạ thật · Wikimedia Commons · KDIGO 2026 (dự thảo), R 5.2.1, PP 5.2.1–5.2.5, tr. 256–262",
+   "panels": [
+    {
+     "src": "../../media/aki2026/raw/haemofilter.png",
+     "ar": 0.575,
+     "credit": "Ảnh: Jfdwolff · CC BY-SA 3.0 · Wikimedia Commons",
+     "flex": 0.7,
+     "at": 0,
+     "cap": "Máy lọc máu liên tục (CRRT)"
+    },
+    {
+     "src": "../../media/aki2026/raw/hd_bbraun.jpg",
+     "ar": 0.72,
+     "credit": "Ảnh: Jonas (sodratornet.se) · CC BY-SA 4.0 · Wikimedia Commons",
+     "flex": 0.9,
+     "at": 1,
+     "cap": "Máy chạy thận ngắt quãng (IHD)"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CRRT",
+     "t": "Chậm, liên tục 24 giờ – dung nạp huyết động tốt hơn",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "IHD",
+     "t": "Nhanh, vài giờ mỗi buổi – dịch chuyển dịch và chất tan lớn",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "PIRRT",
+     "t": "Ngắt quãng kéo dài – lựa chọn chấp nhận được",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Về phương thức, hai lựa chọn chính ở hồi sức là lọc máu liên tục, chạy chậm suốt 24 giờ,",
+    "và chạy thận ngắt quãng, nhanh hơn, vài giờ mỗi buổi, với dịch chuyển dịch và chất tan lớn hơn.",
+    "Giữa hai cách là lọc máu ngắt quãng kéo dài, mà KDIGO 2026 coi là lựa chọn ban đầu chấp nhận được cho người huyết động không ổn định. Câu hỏi là: với người bệnh nặng, bắt đầu bằng cách nào?"
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "bars",
+   "rail": "krt",
+   "chapter": "ICRAKI 2026",
+   "title": "ICRAKI: chạy thận ngắt quãng ban đầu tăng tử vong",
+   "ref": "ICRAKI, NEJM 2026;395:1677–1690, tr. 1, 3–5",
+   "groups": [
+    {
+     "t": "Tử vong ngày 90",
+     "d": "535 người, 38 ICU Pháp",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Ngắt quãng (IHD)",
+       "v": 63.1,
+       "lab": "63,1%",
+       "c": "coral"
+      },
+      {
+       "k": "Liên tục (CRRT)",
+       "v": 53.5,
+       "lab": "53,5%"
+      }
+     ]
+    },
+    {
+     "t": "Biến cố thận lớn ngày 90",
+     "d": "không đạt không kém",
+     "at": 1,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Ngắt quãng (IHD)",
+       "v": 78.1,
+       "lab": "78,1%",
+       "c": "violet"
+      },
+      {
+       "k": "Liên tục (CRRT)",
+       "v": 71.6,
+       "lab": "71,6%"
+      }
+     ]
+    }
+   ],
+   "max": 90,
+   "h": 520,
+   "notes": [
+    {
+     "t": "Tử vong: HR 1,30 (1,04–1,63) · dừng sớm",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Có chỉ định KRT, đang/đã thở máy hoặc dùng catecholamin",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Giữ phương thức ít nhất ngày 0–3; chuyển 21,9% so với 42,5%",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 500,
+   "lines": [
+    "Thử nghiệm ICRAKI, công bố trên New England tháng 10 năm 2026, trả lời câu hỏi đó. 535 người bệnh ở 38 hồi sức tại Pháp, có chỉ định lọc máu và đang hoặc đã thở máy hay dùng catecholamin, được chia bắt đầu bằng chạy thận ngắt quãng hoặc lọc máu liên tục, giữ phương thức ít nhất từ ngày 0 đến ngày 3. Tử vong ngày 90 là 63,1 phần trăm ở nhóm ngắt quãng so với 53,5 phần trăm ở nhóm liên tục, tỷ số nguy cơ 1,30; thử nghiệm phải dừng sớm.",
+    "Chạy thận ngắt quãng cũng không chứng minh được là không kém về biến cố thận lớn ngày 90: 78,1 so với 71,6 phần trăm.",
+    "Lưu ý thiết kế: đây là câu hỏi về phương thức ban đầu; tỷ lệ chuyển phương thức là 21,9 so với 42,5 phần trăm, và nguyên nhân khác biệt tử vong chưa được giải thích rõ."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "cards",
+   "rail": "krt",
+   "chapter": "Chọn phương thức",
+   "title": "Khuyến cáo chọn phương thức",
+   "ref": "KDIGO 2026 (dự thảo), R 5.2.1 (2C), PP 5.2.2–5.2.5, PP 5.1.6, tr. 253–262 · CSCCM 2026",
+   "cards": [
+    {
+     "tag": "KHUYẾN CÁO 5.2.1 · 2C",
+     "t": "Huyết động không ổn định",
+     "items": [
+      "CRRT hoặc thẩm phân phúc mạc cấp",
+      "hơn IRRT thông thường",
+      "ICRAKI 2026 củng cố"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "ƯU TIÊN CRRT",
+     "t": "Tổn thương não cấp",
+     "items": [
+      "Tăng áp lực nội sọ, phù não"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "CHUYỂN ĐỔI",
+     "t": "CRRT → IRRT",
+     "items": [
+      "Khi đã dung nạp được",
+      "Thời điểm chuyển: chưa rõ"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "KDIGO 2026 gợi ý, mức 2C: người lớn nặng có huyết động không ổn định nên dùng lọc máu liên tục hoặc thẩm phân phúc mạc cấp thay vì chạy thận ngắt quãng thông thường. Bản dự thảo này ra trước ICRAKI; kết quả ICRAKI củng cố thêm khuyến cáo.",
+    "Lọc máu liên tục cũng được ưu tiên ở người tổn thương não cấp hoặc có nguy cơ tăng áp lực nội sọ, phù não.",
+    "Khi người bệnh đã ổn định, có thể chuyển sang chạy thận ngắt quãng; nhưng thời điểm chuyển tối ưu vẫn là câu hỏi mở."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "bars",
+   "rail": "krt",
+   "chapter": "Liều",
+   "title": "Liều cao hơn không tốt hơn",
+   "ref": "ATN 2008, tr. 7 · RENAL 2009, tr. 1627, 1632, 1634",
+   "groups": [
+    {
+     "t": "ATN · tử vong 60 ngày",
+     "d": "35 so với 20 mL/kg/giờ (CVVHDF)",
+     "at": 0,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Tích cực",
+       "v": 53.6,
+       "lab": "53,6%",
+       "c": "amber"
+      },
+      {
+       "k": "Ít tích cực",
+       "v": 51.5,
+       "lab": "51,5%"
+      }
+     ]
+    },
+    {
+     "t": "RENAL · tử vong 90 ngày",
+     "d": "40 so với 25 mL/kg/giờ kê đơn",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "40 mL/kg/giờ",
+       "v": 44.7,
+       "lab": "44,7%",
+       "c": "teal"
+      },
+      {
+       "k": "25 mL/kg/giờ",
+       "v": 44.7,
+       "lab": "44,7%"
+      }
+     ]
+    }
+   ],
+   "max": 65,
+   "h": 520,
+   "notes": [
+    {
+     "t": "RENAL thực nhận: 33,4 so với 22 mL/kg/giờ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Tỷ lệ thực nhận 84–88% liều kê",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Lệ thuộc KRT ở người sống: 6,8% so với 4,4%",
+     "at": 1,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 460,
+   "lines": [
+    "Về liều, hai thử nghiệm lớn cho cùng kết luận. ATN so sánh chiến lược tích cực, lọc liên tục 35 mi li lít mỗi ký mỗi giờ, với ít tích cực, 20 mi li lít mỗi ký mỗi giờ: tử vong 60 ngày 53,6 so với 51,5 phần trăm, không khác.",
+    "RENAL so sánh 40 với 25 mi li lít mỗi ký mỗi giờ kê đơn: tử vong 90 ngày đúng bằng nhau, 44,7 phần trăm. Một chi tiết thực hành quan trọng: liều thực nhận chỉ là 33,4 và 22 mi li lít mỗi ký mỗi giờ, khoảng 84 đến 88 phần trăm liều kê, do máy dừng, thay quả lọc, đi làm thủ thuật."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "box",
+   "rail": "krt",
+   "chapter": "Khuyến cáo liều",
+   "title": "20–25 mL/kg/giờ thực nhận",
+   "ref": "KDIGO 2026 (dự thảo), R 5.3.1 (1B), R 5.3.2 (1B), PP 5.3.1–5.3.2, tr. 263–268 · RICH, tr. E3 · CSCCM 2026, tr. 568",
+   "box": {
+    "tag": "KDIGO 2026 · KHUYẾN CÁO 5.3.1 · 1B",
+    "t": "CRRT: thể tích dịch thải <b>20–25 mL/kg/giờ</b>; IRRT hoặc PIRRT: <b>Kt/V 3,9 mỗi tuần</b> – không dùng liều cao hơn. Không dùng <b>siêu lọc thể tích cao</b> trong nhiễm khuẩn huyết (1B).",
+    "at": 0,
+    "c": "teal",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "KÊ ĐƠN",
+     "t": "Kê cao hơn mục tiêu để bù gián đoạn (RICH kê 30 để đạt 20–25)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BMI ≥30",
+     "t": "Tính theo cân nặng lý tưởng hoặc hiệu chỉnh",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "CSCCM 2026",
+     "t": "Kê đơn ban đầu 35–50, không quá 50 (yếu)",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "KDIGO 2026 khuyến cáo, mức 1B: thể tích dịch thải 20 đến 25 mi li lít mỗi ký mỗi giờ cho lọc máu liên tục, hoặc Kt trên V 3,9 mỗi tuần cho lọc ngắt quãng, không dùng liều cao hơn; và không dùng siêu lọc thể tích cao trong nhiễm khuẩn huyết.",
+    "Vì liều thực nhận luôn thấp hơn, trên thực tế cần kê cao hơn mục tiêu; trong thử nghiệm RICH, liều kê 30 để đạt thực nhận 20 đến 25. Rà soát liều hằng ngày.",
+    "Ở người béo phì, chỉ số khối cơ thể từ 30, tính liều theo cân nặng lý tưởng hoặc hiệu chỉnh để tránh quá liều.",
+    "Hướng dẫn Trung Quốc 2026 khuyến cáo liều kê đơn ban đầu 35 đến 50, không quá 50, mức yếu. Hai con số có vẻ khác nhau, nhưng một bên nói liều kê đơn, một bên nói liều cần đạt; khi áp dụng, hãy nói rõ mình đang nói con số nào."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "circuit",
+   "rail": "krt",
+   "chapter": "Mạch citrate",
+   "title": "Chống đông citrate vùng hoạt động thế nào",
+   "ref": "Mô phỏng nguyên lý, tự vẽ · RICH 2020, tr. E3 · KDIGO 2026 (dự thảo), R 5.5.1 (1B), PP 5.7.1",
+   "w": 920,
+   "steps": [
+    {
+     "k": "access",
+     "at": 0
+    },
+    {
+     "k": "pump",
+     "at": 0
+    },
+    {
+     "k": "citrate",
+     "at": 1
+    },
+    {
+     "k": "filter",
+     "at": 2
+    },
+    {
+     "k": "effluent",
+     "at": 2
+    },
+    {
+     "k": "ica",
+     "at": 3
+    },
+    {
+     "k": "return",
+     "at": 4
+    },
+    {
+     "k": "calcium",
+     "at": 4
+    }
+   ],
+   "flow_at": 0,
+   "dose_t": "20–25 mL/kg/giờ",
+   "notes": [
+    {
+     "tag": "1 · CITRATE",
+     "t": "Gắn canxi trước quả lọc → máu không đông trong mạch",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "2 · QUẢ LỌC",
+     "t": "Phần lớn phức hợp citrate–canxi đi ra dịch thải",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "tag": "3 · ĐÍCH",
+     "t": "Ca ion sau quả lọc 0,25–0,35 mmol/L",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "4 · TRẢ CANXI",
+     "t": "Truyền canxi trước khi máu về người bệnh",
+     "at": 4,
+     "c": "teal"
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Hãy xem một mạch lọc máu liên tục với chống đông citrate vùng. Máu được bơm ra từ đường ra của catheter, qua bơm máu.",
+    "Ngay sau bơm, citrate được truyền vào mạch. Citrate gắn canxi ion, mà canxi là yếu tố cần cho đông máu, nên máu trong mạch không đông. Các hạt màu cam là máu đã được chống đông.",
+    "Máu đi qua quả lọc; phần lớn phức hợp citrate gắn canxi bị lọc ra dịch thải, cùng với liều lọc 20 đến 25 mi li lít mỗi ký mỗi giờ.",
+    "Mục tiêu theo dõi là canxi ion sau quả lọc 0,25 đến 0,35 mi li mol mỗi lít, như trong thử nghiệm RICH; tốc độ citrate được chỉnh theo con số này.",
+    "Trước khi máu trở về người bệnh, canxi được truyền bù lại, nên chống đông chỉ xảy ra trong mạch, không ảnh hưởng toàn thân. Theo dõi tỷ canxi toàn phần trên canxi ion để phát hiện tích luỹ citrate, nhất là khi sốc, lactat cao hay suy gan."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "bars",
+   "rail": "krt",
+   "chapter": "RICH",
+   "title": "Citrate hay heparin: thử nghiệm RICH",
+   "ref": "RICH, JAMA 2020, tr. E1–E3 · KDIGO 2026 (dự thảo), R 5.5.1 (1B), tr. 278 · CSCCM 2026, tr. 565",
+   "groups": [
+    {
+     "t": "Tuổi thọ quả lọc (giờ, trung vị)",
+     "d": "596 người, 26 trung tâm Đức",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 47,
+       "lab": "47 giờ",
+       "c": "teal"
+      },
+      {
+       "k": "Heparin",
+       "v": 26,
+       "lab": "26 giờ"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu (%)",
+     "d": "",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 5.1,
+       "lab": "5,1%",
+       "c": "teal"
+      },
+      {
+       "k": "Heparin",
+       "v": 16.9,
+       "lab": "16,9%"
+      }
+     ]
+    },
+    {
+     "t": "Nhiễm trùng mới (%)",
+     "d": "",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 68.0,
+       "lab": "68,0%",
+       "c": "coral"
+      },
+      {
+       "k": "Heparin",
+       "v": 55.4,
+       "lab": "55,4%"
+      }
+     ]
+    }
+   ],
+   "max": 75,
+   "h": 540,
+   "notes": [
+    {
+     "t": "Tử vong 90 ngày 51,2% so với 53,6%: không khác",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "KDIGO 2026: citrate vùng thay heparin nơi có sẵn (1B)",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Thay thế: heparin, epoprostenol, nafamostat; HIT: argatroban",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 480,
+   "lines": [
+    "Bằng chứng cho citrate là thử nghiệm RICH trên 596 người: tuổi thọ quả lọc trung vị 47 giờ với citrate so với 26 giờ với heparin.",
+    "Chảy máu giảm từ 16,9 xuống 5,1 phần trăm. Tử vong 90 ngày không khác; thử nghiệm dừng sớm vì vô ích về tử vong.",
+    "Một tín hiệu cần chú ý: nhiễm trùng mới nhiều hơn ở nhóm citrate, 68,0 so với 55,4 phần trăm. KDIGO 2026 khuyến cáo, mức 1B, dùng citrate vùng thay heparin ở nơi có sẵn và không chống chỉ định; hướng dẫn Trung Quốc 2026 coi citrate là lựa chọn đầu tay kể cả khi có nguy cơ chảy máu. Khi không dùng được citrate: heparin không phân đoạn, epoprostenol hoặc nafamostat; giảm tiểu cầu do heparin thì dùng argatroban."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "list",
+   "rail": "krt",
+   "chapter": "Thực hành",
+   "title": "Catheter, dịch lọc, cân bằng dịch",
+   "ref": "KDIGO 2026 (dự thảo), PP 5.4.1–5.4.8, 5.6.2, 5.7.1, 5.8.1–5.8.2, tr. 272–300 · CSCCM 2026, tr. 561",
+   "items": [
+    {
+     "t": "Catheter: tĩnh mạch cảnh trong phải hoặc đùi",
+     "d": "Đặt dưới siêu âm (mạnh) · bó chăm sóc · không thay định kỳ",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Kéo dài tuổi thọ quả lọc",
+     "d": "Đầu catheter ở nhĩ phải · pha loãng trước màng",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "Dịch lọc đệm bicarbonate, không dùng lactat",
+     "d": "Khi sốc, suy gan, toan lactic",
+     "at": 2,
+     "c": "violet",
+     "n": 3
+    },
+    {
+     "t": "Kê mục tiêu rút dịch hằng ngày",
+     "d": "Tốc độ cá thể hoá theo giai đoạn bệnh",
+     "at": 3,
+     "c": "coral",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Vài điểm thực hành. Catheter đặt ở tĩnh mạch cảnh trong phải hoặc tĩnh mạch đùi, dưới hướng dẫn siêu âm, khuyến cáo mạnh theo hướng dẫn Trung Quốc; áp dụng bó chăm sóc catheter, và không thay catheter định kỳ để phòng nhiễm khuẩn.",
+    "Để kéo dài tuổi thọ quả lọc: tối ưu vị trí đầu catheter ở nhĩ phải, dùng pha loãng trước màng.",
+    "Dùng dịch lọc đệm bằng bicarbonate, không dùng lactat, khi người bệnh sốc, suy gan hoặc toan lactic.",
+    "Và kê mục tiêu rút dịch mỗi ngày, với tốc độ cá thể hoá theo từng giai đoạn bệnh."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "list",
+   "rail": "tl",
+   "chapter": "Cai KRT",
+   "title": "Khi nào ngừng lọc máu?",
+   "ref": "KDIGO 2026 (dự thảo), PP 5.9.1–5.9.4, tr. 300–303",
+   "items": [
+    {
+     "t": "Ngừng khi không còn cần",
+     "d": "Thận đủ đáp ứng chuyển hoá và dịch, hoặc không còn phù hợp mục tiêu chăm sóc",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Nước tiểu >450 mL/24 giờ không lợi tiểu",
+     "d": "hoặc >2.300 mL/24 giờ có lợi tiểu",
+     "at": 1,
+     "c": "coral",
+     "n": 2
+    },
+    {
+     "t": "Độ thanh thải creatinin 2 giờ ≥23 mL/phút",
+     "d": "",
+     "at": 1,
+     "c": "violet",
+     "n": 3
+    },
+    {
+     "t": "Lợi tiểu quanh lúc cai",
+     "d": "Tăng nước tiểu, không chứng minh giúp hồi phục",
+     "at": 2,
+     "c": "amber",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Khi nào ngừng? Khi không còn cần: thận đã hồi phục đủ để đáp ứng nhu cầu chuyển hoá và dịch, hoặc lọc máu không còn phù hợp mục tiêu chăm sóc. Đánh giá mỗi ngày dựa trên lâm sàng, chuyển hoá, nước tiểu, cân bằng dịch, và creatinin giữa các buổi lọc.",
+    "KDIGO 2026 đưa ra các ngưỡng dự báo cai thành công ở người lớn: nước tiểu trên 450 mi li lít mỗi 24 giờ khi không dùng lợi tiểu, hoặc trên 2.300 mi li lít khi có lợi tiểu, kèm độ thanh thải creatinin đo trong 2 giờ từ 23 mi li lít mỗi phút.",
+    "Lợi tiểu trước và sau khi cai giúp tăng nước tiểu, quản lý dịch, nhưng chưa chứng minh giúp thận hồi phục."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "list",
+   "rail": "tl",
+   "chapter": "Sau ra viện",
+   "title": "Theo dõi sau tổn thương thận cấp",
+   "ref": "KDIGO 2026 (dự thảo), R 6.1.1 (1B), R 6.1.2 (2D), R 6.2.1 (1B), PP 6.1.2–6.4.5, tr. 319–346",
+   "items": [
+    {
+     "t": "Theo dõi có phối hợp, cá thể hoá (1B)",
+     "d": "Tóm tắt ra viện: đợt AKI, mức hồi phục, thuốc, kế hoạch",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Đánh giá lại sau 3 tháng",
+     "d": "Chức năng thận, albumin niệu · cystatin C nếu teo cơ",
+     "at": 1,
+     "c": "coral",
+     "n": 2
+    },
+    {
+     "t": "Dùng lại ức chế RAS khi có chỉ định (1B)",
+     "d": "Xem xét SGLT2i, GLP-1 RA, MRA",
+     "at": 2,
+     "c": "violet",
+     "n": 3
+    },
+    {
+     "t": "Đến 30% người lọc máu vì AKI còn lệ thuộc khi ra viện",
+     "d": "Ngừng lọc ngoại trú: thận học đánh giá trong 7 ngày, lại ở ngày 90",
+     "at": 3,
+     "c": "amber",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Câu chuyện không kết thúc ở cửa hồi sức. KDIGO 2026 khuyến cáo, mức 1B, theo dõi có phối hợp sau tổn thương thận cấp và bệnh thận cấp, cá thể hoá theo nguy cơ. Tóm tắt ra viện cần ghi rõ đợt tổn thương thận, mức hồi phục, thay đổi thuốc và kế hoạch theo dõi.",
+    "Đánh giá lại chức năng thận và albumin niệu sau 3 tháng, đúng mốc chuyển từ bệnh thận cấp sang bệnh thận mạn; dùng cystatin C khi người bệnh teo cơ sau nằm viện dài.",
+    "Khuyến cáo bắt đầu hoặc dùng lại thuốc ức chế hệ renin angiotensin khi có chỉ định, mức 1B, và xem xét các thuốc bảo vệ thận khác.",
+    "Có tới 30 phần trăm người lọc máu vì tổn thương thận cấp còn lệ thuộc lọc máu khi ra viện; khi ngừng lọc ngoại trú, bác sĩ thận học cần đánh giá trong 7 ngày và đánh giá lại ở ngày 90."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "quiz",
+   "rail": "krt",
+   "chapter": "Tình huống",
+   "title": "Tình huống: ngày 3 ở hồi sức",
+   "ref": "Ca giả định · KDIGO 2026 (dự thảo), PP 5.1.3, R 5.2.1, 5.3.1, 5.5.1 · STARRT-AKI · ICRAKI",
+   "case": "Nam, 70 kg, sốc nhiễm khuẩn, đang dùng noradrenalin, thở máy. AKI giai đoạn 3, thiểu niệu ngày 3. Kali 6,3 mmol/L dù điều trị nội khoa; P/F 180 kèm quá tải dịch. Không chống chỉ định citrate.",
+   "case_at": 0,
+   "q": "Lựa chọn phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Chờ thêm 48 giờ",
+    "Chạy thận ngắt quãng 4 giờ",
+    "CRRT, citrate vùng, thực nhận 20–25 mL/kg/giờ",
+    "CRRT 50 mL/kg/giờ thực nhận"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "explain": "Có chỉ định kháng trị → khởi động KRT. Đang dùng vận mạch → CRRT (R 5.2.1; ICRAKI). Liều 20–25 thực nhận (1B), citrate vùng (1B).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Tình huống cuối. Người đàn ông 70 ký, sốc nhiễm khuẩn, đang dùng noradrenalin và thở máy, tổn thương thận cấp giai đoạn 3, thiểu niệu ngày thứ ba. Kali 6,3 dù đã điều trị nội khoa, tỷ số pê trên ép 180 kèm quá tải dịch. Không có chống chỉ định citrate.",
+    "Lựa chọn nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là lọc máu liên tục với citrate vùng, liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ. Người bệnh đã có chỉ định kháng trị nội khoa, chờ thêm là có hại. Đang dùng vận mạch, nên bắt đầu bằng lọc máu liên tục, theo khuyến cáo 5.2.1 và kết quả ICRAKI. Liều 20 đến 25 thực nhận, tức kê khoảng 2.100 mi li lít mỗi giờ cho 70 ký nếu kê 30, và chống đông citrate vùng."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "summary",
+   "rail": "krt",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 5",
+   "items": [
+    {
+     "t": "Chiến lược trì hoãn có theo dõi (1C)",
+     "d": "STARRT-AKI: sớm tăng lệ thuộc KRT · AKIKI2: không chờ quá mức",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Huyết động không ổn định: CRRT (2C)",
+     "d": "ICRAKI 2026: IHD ban đầu tử vong 63,1% so với 53,5%",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Liều 20–25 mL/kg/giờ thực nhận (1B)",
+     "d": "kê cao hơn để bù gián đoạn · không HVHF",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Citrate vùng thay heparin (1B)",
+     "d": "Ca ion sau quả lọc 0,25–0,35 mmol/L",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Cai: >450 mL/24 giờ không lợi tiểu · CrCl 2 giờ ≥23",
+     "d": "",
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "t": "Theo dõi sau ra viện, đánh giá lại 3 tháng",
+     "d": "dùng lại ức chế RAS khi có chỉ định",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần năm. Khởi động lọc máu theo chiến lược trì hoãn có theo dõi, nhưng không chờ quá mức khi đã có chỉ định.",
+    "Người huyết động không ổn định: bắt đầu bằng lọc máu liên tục.",
+    "Liều 20 đến 25 mi li lít mỗi ký mỗi giờ thực nhận.",
+    "Citrate vùng là lựa chọn chống đông đầu tay.",
+    "Cai lọc máu dựa trên nước tiểu và độ thanh thải creatinin.",
+    "Và theo dõi sau ra viện, đánh giá lại sau 3 tháng. Loạt bài tổn thương thận cấp của Thư Viện Y Khoa Online đến đây là kết thúc. Mời quý đồng nghiệp xem thêm video ca lâm sàng đi kèm loạt bài, và ghé thuvienykhoa.online để xem trọn bộ chuyên đề. Xin cảm ơn và hẹn gặp lại."
+   ],
+   "id": "s17",
+   "dense": true
+  }
+ ]
+}

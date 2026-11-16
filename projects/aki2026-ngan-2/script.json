@@ -1,0 +1,164 @@
+{
+ "title": "Tổn thương thận cấp – Video ngắn 2: Lọc liên tục hay ngắt quãng?",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Tổn thương thận cấp",
+ "part": "Tổn thương thận cấp · Video ngắn 2",
+ "source_short": "Nguồn: KDIGO 2026 (dự thảo) · KDIGO 2012 · ADQI · CSCCM 2026 · RCT then chốt",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "[TIMP-2]·[IGFBP7]": "tim pi hai nhân i gi ép bê pê bảy",
+  "STARRT-AKI": "sờ ta a ka i",
+  "BICARICU-2": "bi ca ri cu hai",
+  "PROTECTION": "prô téc sần",
+  "IDEAL-ICU": "ai đi ồ i xi u",
+  "BICAR-ICU": "bi ca i xi u",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "PRESERVE": "pri dớp",
+  "Sapphire": "sa phai a",
+  "HRS-AKI": "hội chứng gan thận thể tổn thương thận cấp",
+  "AKI-EPI": "a ka i e pi",
+  "PrevAKI": "prép a ka i",
+  "CONFIRM": "con phớm",
+  "mL/phút": "mi li lít mỗi phút",
+  "SA-AKI": "tổn thương thận cấp liên quan nhiễm khuẩn huyết",
+  "CA-AKI": "tổn thương thận cấp do thuốc cản quang",
+  "AKIKI2": "a ki ki hai",
+  "ICRAKI": "i cờ ra ki",
+  "BaSICS": "ba sích",
+  "TIMP-2": "tim pi hai",
+  "IGFBP7": "i gi ép bê pê bảy",
+  "NaHCO₃": "natri bicarbonat",
+  "MAKE90": "biến cố thận lớn ngày chín mươi",
+  "MAKE30": "biến cố thận lớn ngày ba mươi",
+  "SGLT2i": "thuốc ức chế ét gờ lờ tê hai",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micromol mỗi lít",
+  "AKIKI": "a ki ki",
+  "ELAIN": "e lanh",
+  "ACORN": "ây con",
+  "SMART": "smát",
+  "CHEST": "chét",
+  "RENAL": "ri nồ",
+  "KDIGO": "ca đi gô",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "KeGFR": "mức lọc cầu thận động học",
+  "HCO₃⁻": "bicarbonat",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "PLUS": "plát",
+  "RICH": "rích",
+  "NGAL": "en gan",
+  "ADQI": "a đê qui",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "CRRT": "lọc máu liên tục",
+  "IRRT": "lọc máu ngắt quãng",
+  "HVHF": "siêu lọc thể tích cao",
+  "MAKE": "biến cố thận lớn",
+  "ECMO": "e cờ mô",
+  "g/kg": "gam mỗi ký",
+  "mmHg": "mi li mét thuỷ ngân",
+  "ATN": "a tê en",
+  "GFR": "mức lọc cầu thận",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKD": "bệnh thận cấp",
+  "AKI": "tổn thương thận cấp",
+  "CKD": "bệnh thận mạn",
+  "FST": "test phu rô xê mít",
+  "SCr": "creatinin",
+  "MAP": "huyết áp trung bình",
+  "HES": "tinh bột hydroxyethyl",
+  "NAC": "en a xê",
+  "BUN": "bun",
+  "P/F": "pê trên ép"
+ },
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "format": "vertical",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "LỌC MÁU Ở HỒI SỨC",
+   "hook": "Đang dùng vận mạch: lọc liên tục hay chạy thận ngắt quãng?",
+   "sub": "ICRAKI · NEJM tháng 10/2026",
+   "c": "coral",
+   "lines": [
+    "Người bệnh đang dùng vận mạch, cần lọc máu. Bắt đầu bằng lọc liên tục hay chạy thận ngắt quãng?"
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "bars",
+   "chapter": "ICRAKI 2026",
+   "title": "Tử vong ngày 90",
+   "ref": "ICRAKI, NEJM 2026",
+   "groups": [
+    {
+     "t": "535 người · thở máy hoặc vận mạch",
+     "d": "",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Ngắt quãng",
+       "v": 63.1,
+       "lab": "63,1%",
+       "c": "coral"
+      },
+      {
+       "k": "Liên tục",
+       "v": 53.5,
+       "lab": "53,5%"
+      }
+     ]
+    }
+   ],
+   "max": 85,
+   "h": 420,
+   "lines": [
+    "Thử nghiệm ICRAKI vừa công bố tháng 10 năm 2026: bắt đầu bằng chạy thận ngắt quãng, tử vong ngày 90 là 63,1 phần trăm, so với 53,5 phần trăm khi lọc máu liên tục.",
+    "Tỷ số nguy cơ 1,30, và thử nghiệm phải dừng sớm."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Khuyến cáo",
+   "title": "Bắt đầu bằng lọc liên tục",
+   "ref": "KDIGO 2026 (dự thảo), R 5.2.1 (2C), R 5.3.1 (1B), R 5.5.1 (1B)",
+   "box": {
+    "tag": "HUYẾT ĐỘNG KHÔNG ỔN ĐỊNH",
+    "t": "Bắt đầu bằng <b>lọc máu liên tục</b>, liều thực nhận <b>20–25 mL/kg/giờ</b>, chống đông <b>citrate vùng</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 40
+   },
+   "notes": [
+    {
+     "tag": "CÒN MỞ",
+     "t": "Khi nào chuyển sang chạy thận ngắt quãng",
+     "at": 1,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Với người huyết động không ổn định, hãy bắt đầu bằng lọc máu liên tục, liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ, chống đông citrate vùng.",
+    "Khi nào chuyển sang chạy thận ngắt quãng vẫn là câu hỏi mở. Xem trọn bài giảng ở link trong bio nhé!"
+   ],
+   "id": "s03"
+  }
+ ]
+}

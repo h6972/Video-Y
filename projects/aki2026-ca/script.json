@@ -1,0 +1,581 @@
+{
+ "title": "Tổn thương thận cấp – Ca lâm sàng: sốc nhiễm khuẩn và tổn thương thận cấp",
+ "theme": "case",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Ca lâm sàng Hồi sức",
+ "part": "Ca lâm sàng · Tổn thương thận cấp",
+ "source_short": "Ca lâm sàng minh hoạ · KDIGO 2026 (dự thảo) · BICARICU-2 · STARRT-AKI · ICRAKI · RICH",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "[TIMP-2]·[IGFBP7]": "tim pi hai nhân i gi ép bê pê bảy",
+  "STARRT-AKI": "sờ ta a ka i",
+  "BICARICU-2": "bi ca ri cu hai",
+  "PROTECTION": "prô téc sần",
+  "IDEAL-ICU": "ai đi ồ i xi u",
+  "BICAR-ICU": "bi ca i xi u",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "PRESERVE": "pri dớp",
+  "Sapphire": "sa phai a",
+  "HRS-AKI": "hội chứng gan thận thể tổn thương thận cấp",
+  "AKI-EPI": "a ka i e pi",
+  "PrevAKI": "prép a ka i",
+  "CONFIRM": "con phớm",
+  "mL/phút": "mi li lít mỗi phút",
+  "SA-AKI": "tổn thương thận cấp liên quan nhiễm khuẩn huyết",
+  "CA-AKI": "tổn thương thận cấp do thuốc cản quang",
+  "AKIKI2": "a ki ki hai",
+  "ICRAKI": "i cờ ra ki",
+  "BaSICS": "ba sích",
+  "TIMP-2": "tim pi hai",
+  "IGFBP7": "i gi ép bê pê bảy",
+  "NaHCO₃": "natri bicarbonat",
+  "MAKE90": "biến cố thận lớn ngày chín mươi",
+  "MAKE30": "biến cố thận lớn ngày ba mươi",
+  "SGLT2i": "thuốc ức chế ét gờ lờ tê hai",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micromol mỗi lít",
+  "AKIKI": "a ki ki",
+  "ELAIN": "e lanh",
+  "ACORN": "ây con",
+  "SMART": "smát",
+  "CHEST": "chét",
+  "RENAL": "ri nồ",
+  "KDIGO": "ca đi gô",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "KeGFR": "mức lọc cầu thận động học",
+  "HCO₃⁻": "bicarbonat",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "PLUS": "plát",
+  "RICH": "rích",
+  "NGAL": "en gan",
+  "ADQI": "a đê qui",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "CRRT": "lọc máu liên tục",
+  "IRRT": "lọc máu ngắt quãng",
+  "HVHF": "siêu lọc thể tích cao",
+  "MAKE": "biến cố thận lớn",
+  "ECMO": "e cờ mô",
+  "g/kg": "gam mỗi ký",
+  "mmHg": "mi li mét thuỷ ngân",
+  "ATN": "a tê en",
+  "GFR": "mức lọc cầu thận",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKD": "bệnh thận cấp",
+  "AKI": "tổn thương thận cấp",
+  "CKD": "bệnh thận mạn",
+  "FST": "test phu rô xê mít",
+  "SCr": "creatinin",
+  "MAP": "huyết áp trung bình",
+  "HES": "tinh bột hydroxyethyl",
+  "NAC": "en a xê",
+  "BUN": "bun",
+  "P/F": "pê trên ép"
+ },
+ "brand": {
+  "next": "Trọn loạt bài: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng hồi sức · Tổn thương thận cấp",
+   "title": "Viêm phúc mạc, sốc<br>và nước tiểu cạn dần",
+   "subtitle": "Nam 68 tuổi · hồi sức ngoại · sau mổ ngày 1",
+   "badges": [
+    {
+     "t": "Sốc nhiễm khuẩn",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Thiểu niệu",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "4 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "monitor": {
+    "hr": 112,
+    "bp": "92/50"
+   },
+   "note": "Ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, đây là video ca lâm sàng đi kèm loạt bài tổn thương thận cấp của Thư Viện Y Khoa Online.",
+    "Một người đàn ông 68 tuổi, viêm phúc mạc do thủng tạng rỗng, ngày thứ nhất sau mổ tại hồi sức ngoại. Ông đang thở máy, dùng noradrenalin, và nước tiểu cạn dần.",
+    "Chúng ta sẽ đi qua bốn điểm quyết định, từ phân giai đoạn đến khi ngừng lọc máu. Đây là ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Ngày 1 · sau mổ",
+   "title": "Sinh hiệu ngày 1",
+   "patient": {
+    "tag": "BỆNH NHÂN",
+    "t": "Nam 68 tuổi, 70 kg (cân nặng lý tưởng 65 kg)",
+    "d": "Viêm phúc mạc do thủng tạng rỗng, đã mổ; thở máy; noradrenalin",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Đáp ứng dịch (+) khi nâng chân thụ động",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Đang dùng gentamicin từ tuyến trước",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "HR",
+     "v": "112",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "at": 0
+    },
+    {
+     "k": "HA",
+     "v": "92/50",
+     "u": "mmHg",
+     "c": "coral",
+     "f": "TB 64",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "NƯỚC TIỂU",
+     "v": "0,3",
+     "u": "mL/kg/giờ",
+     "c": "amber",
+     "f": "14 giờ",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "NORADRENALIN",
+     "v": "đang dùng",
+     "u": "",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Ngày thứ nhất sau mổ. Người bệnh nặng 70 ký, cân nặng lý tưởng 65 ký. Mạch 112, huyết áp 92 trên 50, huyết áp trung bình 64 dù đang dùng noradrenalin.",
+    "Nước tiểu 0,3 mi li lít mỗi ký mỗi giờ trong 14 giờ qua. Test nâng chân thụ động cho thấy còn đáp ứng dịch.",
+    "Và một chi tiết quan trọng: người bệnh đang được dùng gentamicin từ tuyến trước."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "labs",
+   "chapter": "Ngày 1 · xét nghiệm",
+   "title": "Creatinin và nền",
+   "groups": [
+    {
+     "g": "Chức năng thận",
+     "c": "amber",
+     "at": 0,
+     "rows": [
+      {
+       "k": "Creatinin nền (ngoại trú 6 tháng trước)",
+       "v": "0,9",
+       "r": "mg/dL",
+       "f": "N"
+      },
+      {
+       "k": "Creatinin ngày 1",
+       "v": "2,0",
+       "r": "mg/dL",
+       "f": "H"
+      },
+      {
+       "k": "Tỷ lệ so với nền",
+       "v": "2,2 lần",
+       "r": "",
+       "f": "H"
+      }
+     ],
+     "note": "C2 theo creatinin"
+    },
+    {
+     "g": "Nước tiểu",
+     "c": "coral",
+     "at": 1,
+     "rows": [
+      {
+       "k": "Lượng nước tiểu",
+       "v": "0,3",
+       "r": "mL/kg/giờ × 14 giờ",
+       "f": "L"
+      }
+     ],
+     "note": "U2: <0,5 trong >12 giờ"
+    },
+    {
+     "g": "Hình ảnh",
+     "c": "teal",
+     "at": 2,
+     "rows": [
+      {
+       "k": "Siêu âm thận – bàng quang",
+       "v": "không ứ nước",
+       "r": "",
+       "f": "N"
+      }
+     ],
+     "note": "Đã loại trừ tắc nghẽn"
+    }
+   ],
+   "lines": [
+    "Creatinin ngoại trú 6 tháng trước là 0,9; hôm nay là 2,0, tức 2,2 lần mức nền: giai đoạn 2 theo creatinin.",
+    "Nước tiểu dưới 0,5 mi li lít mỗi ký mỗi giờ hơn 12 giờ: giai đoạn 2 theo nước tiểu. Người bệnh có tổn thương thận cấp liên quan nhiễm khuẩn huyết thể sớm, ghi là C2 U2.",
+    "Siêu âm thận và bàng quang không thấy ứ nước, tắc nghẽn đã được loại trừ."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 1",
+   "title": "Ngày 1: làm gì cho thận?",
+   "step": "ĐIỂM QUYẾT ĐỊNH 1",
+   "q": "Xử trí nào phù hợp nhất?",
+   "q_at": 0,
+   "context": "C2 U2, còn đáp ứng dịch, MAP 64 với noradrenalin, đang dùng gentamicin.",
+   "options": [
+    "NaCl 0,9% + tiếp tục gentamicin",
+    "Ringer lactat theo đáp ứng dịch, MAP >65, ngừng gentamicin",
+    "Tinh bột hydroxyethyl 6% để nâng huyết áp",
+    "Dopamin liều thấp bảo vệ thận"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Dịch tinh thể có đệm (1B), MAP >65 (2C), quản lý thuốc độc thận (1C). Không HES, không dopamin liều thấp (1A).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ nhất: với một thận C2 U2, còn đáp ứng dịch, huyết áp trung bình 64 khi đang dùng noradrenalin, và đang dùng gentamicin, xử trí nào phù hợp nhất?",
+    "Bốn lựa chọn trên màn hình.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là truyền Ringer lactat theo đáp ứng dịch, nâng huyết áp trung bình trên 65, và ngừng gentamicin, thay bằng kháng sinh tương đương ít độc thận hơn. Đó là dịch tinh thể có đệm, mức 1B; mục tiêu huyết áp, mức 2C; và quản lý thuốc độc thận, mức 1C. Tinh bột hydroxyethyl làm tăng lọc máu và tử vong; dopamin liều thấp không bảo vệ thận."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "labs",
+   "chapter": "Ngày 2",
+   "title": "Ngày 2: toan nặng",
+   "groups": [
+    {
+     "g": "Khí máu động mạch",
+     "c": "coral",
+     "at": 0,
+     "rows": [
+      {
+       "k": "pH",
+       "v": "7,16",
+       "r": "7,35–7,45",
+       "f": "L"
+      },
+      {
+       "k": "HCO₃⁻",
+       "v": "11",
+       "r": "22–26 mmol/L",
+       "f": "L"
+      }
+     ],
+     "note": "Toan chuyển hoá nặng"
+    },
+    {
+     "g": "Sinh hoá",
+     "c": "amber",
+     "at": 1,
+     "rows": [
+      {
+       "k": "Creatinin",
+       "v": "2,8",
+       "r": "mg/dL",
+       "f": "H"
+      },
+      {
+       "k": "Kali",
+       "v": "5,6",
+       "r": "mmol/L",
+       "f": "H"
+      }
+     ],
+     "note": "3,1 lần nền → C3"
+    },
+    {
+     "g": "Dịch",
+     "c": "violet",
+     "at": 2,
+     "rows": [
+      {
+       "k": "Cân bằng dịch cộng dồn",
+       "v": "+4 L",
+       "r": "",
+       "f": "H"
+      }
+     ],
+     "note": "Quá tải dịch"
+    }
+   ],
+   "lines": [
+    "Sang ngày thứ hai, khí máu: pH 7,16, bicarbonat 11. Toan chuyển hoá nặng.",
+    "Creatinin 2,8, tức 3,1 lần nền, nay đã là giai đoạn 3 theo creatinin. Kali 5,6.",
+    "Và cân bằng dịch cộng dồn dương 4 lít, có dấu quá tải."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 2",
+   "title": "Ngày 2: toan và quá tải",
+   "step": "ĐIỂM QUYẾT ĐỊNH 2",
+   "q": "Bước tiếp theo?",
+   "q_at": 0,
+   "context": "pH 7,16, HCO₃⁻ 11, kali 5,6, cân bằng +4 L. Không phù phổi, chưa có tăng kali nặng.",
+   "options": [
+    "Lọc máu ngay",
+    "NaHCO₃ 4,2% theo phác đồ + furosemide bolus",
+    "Chỉ theo dõi",
+    "Furosemide truyền liên tục liều cao"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "pH <7,20 không chỉ định KRT khác → bicarbonate (2C; BICARICU-2). Quá tải dịch → lợi tiểu bolus trước (2B, 1C).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ hai. Toan nặng, kali 5,6, quá tải dịch, nhưng không phù phổi, chưa tăng kali nặng. Bước tiếp theo là gì?",
+    "Bốn lựa chọn.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là natri bicarbonat 4,2 phần trăm theo phác đồ, 125 đến 250 mi li lít mỗi lần trong 30 phút, tối đa 1.000 mi li lít mỗi ngày, mục tiêu pH từ 7,30; kèm furosemide tiêm ngắt quãng vì quá tải dịch. Với pH dưới 7,20 và chưa có chỉ định lọc máu khác, KDIGO 2026 gợi ý bicarbonate trước lọc máu; BICARICU-2 cho thấy cách này giảm nhu cầu lọc máu. Lợi tiểu tiêm ngắt quãng được ưu tiên hơn truyền liên tục lúc đầu."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Ngày 3",
+   "title": "Ngày 3: xấu đi",
+   "patient": {
+    "tag": "NGÀY 3",
+    "t": "Thiểu niệu kéo dài >48 giờ – AKI kéo dài",
+    "d": "Vẫn noradrenalin, thở máy",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Kali 6,3 mmol/L dù đã điều trị nội khoa",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "P/F 180 kèm quá tải dịch",
+     "at": 1,
+     "c": "amber"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "KALI",
+     "v": "6,3",
+     "u": "mmol/L",
+     "c": "coral",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "P/F",
+     "v": "180",
+     "u": "",
+     "c": "amber",
+     "at": 1,
+     "alarm": true
+    },
+    {
+     "k": "NƯỚC TIỂU",
+     "v": "<0,3",
+     "u": "mL/kg/giờ",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "k": "HR",
+     "v": "118",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "at": 0
+    }
+   ],
+   "lines": [
+    "Ngày thứ ba, người bệnh vẫn thiểu niệu, nay đã hơn 48 giờ: tổn thương thận cấp kéo dài. Vẫn cần noradrenalin và thở máy.",
+    "Kali 6,3 dù đã điều trị nội khoa, tỷ số pê trên ép 180 kèm quá tải dịch. Người bệnh đã đạt các ngưỡng mà thử nghiệm STARRT-AKI dùng để khởi động lọc máu."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 3",
+   "title": "Ngày 3: lọc máu thế nào?",
+   "step": "ĐIỂM QUYẾT ĐỊNH 3",
+   "q": "Lựa chọn phù hợp nhất?",
+   "q_at": 0,
+   "context": "Tăng kali kháng trị, quá tải dịch, đang dùng noradrenalin. Không chống chỉ định citrate.",
+   "options": [
+    "Chờ thêm 48 giờ",
+    "Chạy thận ngắt quãng 4 giờ",
+    "CRRT, citrate vùng, thực nhận 20–25 mL/kg/giờ",
+    "CRRT heparin, 40 mL/kg/giờ"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "explain": "Chỉ định kháng trị → KRT. Vận mạch → CRRT (2C; ICRAKI). Liều 20–25 thực nhận (1B), kê ~30 = ~2.100 mL/giờ. Citrate vùng (1B).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định thứ ba: lọc máu thế nào?",
+    "Bốn lựa chọn.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là lọc máu liên tục với citrate vùng, liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ. Chỉ định đã kháng trị, chờ thêm có hại. Người bệnh đang dùng vận mạch, nên bắt đầu bằng lọc máu liên tục; ICRAKI 2026 cho thấy bắt đầu bằng chạy thận ngắt quãng ở nhóm này tử vong cao hơn. Liều cao hơn không có lợi; để đạt 20 đến 25 thực nhận, kê khoảng 30, tức khoảng 2.100 mi li lít mỗi giờ cho 70 ký. Và citrate vùng giúp quả lọc bền hơn, ít chảy máu hơn heparin."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "course",
+   "chapter": "Diễn tiến",
+   "title": "Diễn tiến đến ngày 9",
+   "events": [
+    {
+     "time": "Ngày 3",
+     "t": "Khởi động CRRT, citrate vùng",
+     "d": "Ca ion sau quả lọc 0,25–0,35 mmol/L",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "time": "Ngày 5",
+     "t": "Ngừng noradrenalin",
+     "d": "Bắt đầu rút dịch theo mục tiêu hằng ngày",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "time": "Ngày 7",
+     "t": "Nước tiểu tăng dần",
+     "d": "Đánh giá cai hằng ngày",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "time": "Ngày 9",
+     "t": "Nước tiểu 2.500 mL/24 giờ (có furosemide)",
+     "d": "Độ thanh thải creatinin 2 giờ: 25 mL/phút",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Ngày thứ ba, khởi động lọc máu liên tục với citrate vùng, chỉnh theo canxi ion sau quả lọc.",
+    "Ngày thứ năm, ngừng được noradrenalin, bắt đầu rút dịch theo mục tiêu hằng ngày.",
+    "Ngày thứ bảy, nước tiểu tăng dần; nhóm điều trị đánh giá khả năng cai mỗi ngày.",
+    "Ngày thứ chín, nước tiểu 2.500 mi li lít trong 24 giờ khi có furosemide, độ thanh thải creatinin đo 2 giờ là 25 mi li lít mỗi phút."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 4",
+   "title": "Ngày 9: ngừng lọc máu?",
+   "step": "ĐIỂM QUYẾT ĐỊNH 4",
+   "q": "Quyết định nào hợp lý?",
+   "q_at": 0,
+   "context": "Nước tiểu 2.500 mL/24 giờ có furosemide; CrCl 2 giờ 25 mL/phút; huyết động ổn.",
+   "options": [
+    "Tiếp tục CRRT thêm 1 tuần",
+    "Thử ngừng KRT, theo dõi sát",
+    "Chuyển chạy thận ngắt quãng định kỳ",
+    "Tăng liều CRRT"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": ">2.300 mL/24 giờ có lợi tiểu và CrCl 2 giờ ≥23 mL/phút dự báo cai thành công (KDIGO 2026 PP 5.9.3).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Điểm quyết định cuối: có ngừng lọc máu không?",
+    "Bốn lựa chọn.",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là thử ngừng lọc máu và theo dõi sát. Theo KDIGO 2026, nước tiểu trên 2.300 mi li lít mỗi 24 giờ khi có lợi tiểu, kèm độ thanh thải creatinin 2 giờ từ 23 trở lên, dự báo cai thành công. Lưu ý furosemide giúp tăng nước tiểu nhưng không làm thận hồi phục nhanh hơn."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "box",
+   "chapter": "Ra viện",
+   "title": "Ra viện và bài học",
+   "box": {
+    "tag": "RA VIỆN",
+    "t": "Creatinin 1,3 mg/dL = 1,4 lần nền → <b>bệnh thận cấp, hồi phục một phần</b>. Hẹn đánh giá lại chức năng thận và albumin niệu <b>sau 3 tháng</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "BÀI HỌC 1",
+     "t": "Ghi C–U riêng; loại trừ tắc nghẽn; ngừng thuốc độc thận",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "BÀI HỌC 2",
+     "t": "pH <7,20: bicarbonate trước; chờ lọc có theo dõi, không chờ quá mức",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "BÀI HỌC 3",
+     "t": "Vận mạch → CRRT, citrate, 20–25 thực nhận; theo dõi sau ra viện",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khi ra viện, creatinin 1,3, bằng 1,4 lần nền: người bệnh ở giai đoạn bệnh thận cấp, hồi phục một phần. Tóm tắt ra viện ghi rõ đợt tổn thương thận, và hẹn đánh giá lại chức năng thận cùng albumin niệu sau 3 tháng.",
+    "Bài học thứ nhất: ghi riêng creatinin và nước tiểu, loại trừ tắc nghẽn, ngừng thuốc độc thận.",
+    "Bài học thứ hai: toan nặng thì bicarbonate trước; chờ lọc máu có theo dõi, nhưng không chờ khi đã có chỉ định kháng trị.",
+    "Bài học thứ ba: người dùng vận mạch thì bắt đầu bằng lọc máu liên tục, citrate vùng, liều 20 đến 25 thực nhận; và theo dõi sau ra viện. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s11"
+  }
+ ]
+}

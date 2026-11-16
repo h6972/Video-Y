@@ -1,0 +1,765 @@
+{
+ "title": "Tổn thương thận cấp – Phần 4: Tình huống đặc thù",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Tổn thương thận cấp · Phần 4/5",
+ "source_short": "Nguồn: KDIGO 2026 (dự thảo) · KDIGO 2012 · ADQI · CSCCM 2026 · RCT then chốt",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "[TIMP-2]·[IGFBP7]": "tim pi hai nhân i gi ép bê pê bảy",
+  "STARRT-AKI": "sờ ta a ka i",
+  "BICARICU-2": "bi ca ri cu hai",
+  "PROTECTION": "prô téc sần",
+  "IDEAL-ICU": "ai đi ồ i xi u",
+  "BICAR-ICU": "bi ca i xi u",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "PRESERVE": "pri dớp",
+  "Sapphire": "sa phai a",
+  "HRS-AKI": "hội chứng gan thận thể tổn thương thận cấp",
+  "AKI-EPI": "a ka i e pi",
+  "PrevAKI": "prép a ka i",
+  "CONFIRM": "con phớm",
+  "mL/phút": "mi li lít mỗi phút",
+  "SA-AKI": "tổn thương thận cấp liên quan nhiễm khuẩn huyết",
+  "CA-AKI": "tổn thương thận cấp do thuốc cản quang",
+  "AKIKI2": "a ki ki hai",
+  "ICRAKI": "i cờ ra ki",
+  "BaSICS": "ba sích",
+  "TIMP-2": "tim pi hai",
+  "IGFBP7": "i gi ép bê pê bảy",
+  "NaHCO₃": "natri bicarbonat",
+  "MAKE90": "biến cố thận lớn ngày chín mươi",
+  "MAKE30": "biến cố thận lớn ngày ba mươi",
+  "SGLT2i": "thuốc ức chế ét gờ lờ tê hai",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micromol mỗi lít",
+  "AKIKI": "a ki ki",
+  "ELAIN": "e lanh",
+  "ACORN": "ây con",
+  "SMART": "smát",
+  "CHEST": "chét",
+  "RENAL": "ri nồ",
+  "KDIGO": "ca đi gô",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "KeGFR": "mức lọc cầu thận động học",
+  "HCO₃⁻": "bicarbonat",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "PLUS": "plát",
+  "RICH": "rích",
+  "NGAL": "en gan",
+  "ADQI": "a đê qui",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "CRRT": "lọc máu liên tục",
+  "IRRT": "lọc máu ngắt quãng",
+  "HVHF": "siêu lọc thể tích cao",
+  "MAKE": "biến cố thận lớn",
+  "ECMO": "e cờ mô",
+  "g/kg": "gam mỗi ký",
+  "mmHg": "mi li mét thuỷ ngân",
+  "ATN": "a tê en",
+  "GFR": "mức lọc cầu thận",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKD": "bệnh thận cấp",
+  "AKI": "tổn thương thận cấp",
+  "CKD": "bệnh thận mạn",
+  "FST": "test phu rô xê mít",
+  "SCr": "creatinin",
+  "MAP": "huyết áp trung bình",
+  "HES": "tinh bột hydroxyethyl",
+  "NAC": "en a xê",
+  "BUN": "bun",
+  "P/F": "pê trên ép"
+ },
+ "brand": {
+  "next": "Phần 5: Liệu pháp thay thế thận"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Cơ chế, nguyên nhân"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán, phân tầng"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "krt",
+   "t": "Thay thế thận"
+  },
+  {
+   "k": "tl",
+   "t": "Hồi phục, theo dõi"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Tổn thương thận cấp",
+   "title": "Tình huống đặc thù",
+   "subtitle": "Phần 4 · Nhiễm khuẩn huyết, thuốc cản quang, mổ tim, hội chứng gan thận, ly giải u",
+   "badges": [
+    {
+     "t": "ADQI 28",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "PRESERVE · PROTECTION",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "ADQI/ICA 2024 · CONFIRM",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · Phần 4/5",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn của loạt bài tổn thương thận cấp.",
+    "Nguyên tắc chung đã có ở phần ba; nhưng mỗi bối cảnh có những điểm riêng làm thay đổi xử trí.",
+    "Hôm nay chúng ta đi qua năm tình huống: nhiễm khuẩn huyết, thuốc cản quang, phẫu thuật tim, hội chứng gan thận và hội chứng ly giải u."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "cards",
+   "rail": "dt",
+   "chapter": "Nhiễm khuẩn huyết",
+   "title": "AKI liên quan nhiễm khuẩn huyết",
+   "ref": "ADQI 28, phát biểu 3a–5d, tr. 406–412 · KDIGO 2026 (dự thảo), R 5.3.2 (1B), tr. 266 · CSCCM 2026",
+   "cards": [
+    {
+     "tag": "HUYẾT ĐỘNG",
+     "t": "Như Surviving Sepsis",
+     "items": [
+      "Huyết động theo SSC (2C)",
+      "Đáp ứng dịch, không dựa CVP (1C)",
+      "Noradrenalin đầu tay (1A)"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "DỊCH",
+     "t": "Có mục tiêu",
+     "items": [
+      "Lượng dịch theo mục tiêu (1B)",
+      "Không tinh bột, gelatin, dextran (1A)",
+      "Lợi tiểu khi quá tải (1C)"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "LỌC MÁU",
+     "t": "Chỉ định như AKI khác",
+     "items": [
+      "Chỉ định cấp cứu không khác (1A)",
+      "Không siêu lọc thể tích cao (1B)",
+      "Hấp phụ: không thường quy"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Với tổn thương thận cấp liên quan nhiễm khuẩn huyết, ADQI 28 khuyến cáo xử trí huyết động như Surviving Sepsis, mức 2C; quyết định truyền dịch dựa trên đánh giá đáp ứng dịch chứ không dựa vào áp lực tĩnh mạch trung tâm; noradrenalin là thuốc vận mạch đầu tay, mức 1A.",
+    "Lượng dịch nhắm mục tiêu cụ thể; không dùng tinh bột, gelatin, dextran; dùng lợi tiểu khi quá tải dịch.",
+    "Chỉ định lọc máu cấp cứu không khác các tổn thương thận cấp khác. KDIGO 2026 khuyến cáo không dùng siêu lọc thể tích cao trong nhiễm khuẩn huyết, mức 1B; và cả ADQI lẫn hướng dẫn Trung Quốc 2026 đều chưa khuyên dùng thường quy các cột lọc hấp phụ."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Thuốc cản quang",
+   "title": "Phòng AKI do thuốc cản quang",
+   "ref": "KDIGO 2026 (dự thảo), PP 4.7.1–4.9.2.2, R 4.9.2.1 (1B), R 4.9.3.1 (2C), tr. 217–234",
+   "head": [
+    "Nên làm",
+    "Không nên"
+   ],
+   "widths": "1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "Đánh giá nguy cơ, sàng lọc suy thận trước tiêm",
+      "Từ chối chụp cần thiết chỉ vì sợ AKI"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Cản quang đẳng hoặc thấp áp lực thẩm thấu, liều thấp nhất đủ chẩn đoán",
+      "—"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Nguy cơ cao, không quá tải: <b>NaCl 0,9%</b> quanh thủ thuật (1B)",
+      "Dịch nhược trương, natri bicarbonat, hoặc không truyền dịch"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Tạm ngừng lợi tiểu khi truyền dịch dự phòng",
+      "Ngừng thường quy ức chế RAS (2C)"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Nghĩ nguyên nhân khác của AKI sau chụp",
+      "N-acetylcystein dự phòng"
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Với thuốc cản quang, bước đầu là đánh giá nguy cơ và sàng lọc suy thận sẵn có. Quyết định chụp phải cân nhắc lợi ích của thủ thuật; không nên bỏ một chẩn đoán cần thiết chỉ vì sợ tổn thương thận.",
+    "Dùng thuốc cản quang đẳng hoặc thấp áp lực thẩm thấu, với liều thấp nhất đủ để chẩn đoán.",
+    "Ở người lớn nguy cơ cao và không quá tải dịch, KDIGO 2026 khuyến cáo, mức 1B, mở rộng thể tích quanh thủ thuật bằng muối sinh lý 0,9 phần trăm, thay vì dịch nhược trương, natri bicarbonat hay không truyền dịch.",
+    "Tạm ngừng lợi tiểu khi truyền dịch dự phòng; nhưng không ngừng thường quy thuốc ức chế hệ renin angiotensin, mức 2C.",
+    "Và khi creatinin tăng sau chụp, hãy nghĩ cả những nguyên nhân khác ngoài thuốc cản quang."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "PRESERVE",
+   "title": "Bicarbonate và NAC: không hiệu quả",
+   "ref": "PRESERVE, NEJM 2018, tr. 1–3 · VUNA 2023, tr. 140",
+   "groups": [
+    {
+     "t": "Tử vong, lọc máu hoặc creatinin tăng kéo dài ở ngày 90",
+     "d": "4.993 người chụp mạch, eGFR 15–44,9 (hoặc 45–59,9 kèm đái tháo đường)",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Natri bicarbonat",
+       "v": 4.4,
+       "lab": "4,4%",
+       "c": "teal"
+      },
+      {
+       "k": "NaCl 0,9%",
+       "v": 4.7,
+       "lab": "4,7%"
+      }
+     ]
+    }
+   ],
+   "max": 8,
+   "h": 480,
+   "notes": [
+    {
+     "t": "OR 0,93 (0,72–1,22) · p = 0,62",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "NAC uống 1.200 mg (10 liều) không tốt hơn giả dược",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Phác đồ VN: NaCl 0,9% 1–3 mL/kg/giờ, từ 1 giờ trước đến 3–12 giờ sau tiêm",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Thử nghiệm PRESERVE trên gần 5.000 người chụp mạch có suy thận đã trả lời dứt điểm hai câu hỏi cũ. Natri bicarbonat không tốt hơn muối sinh lý: kết cục chính 4,4 so với 4,7 phần trăm.",
+    "Tỷ số chênh 0,93, không có ý nghĩa thống kê.",
+    "Và N-acetylcystein uống, 1.200 mi li gam mỗi liều, tổng 10 liều, cũng không tốt hơn giả dược.",
+    "Phác đồ của Hội Tiết niệu Thận học Việt Nam 2023 dùng muối sinh lý 1 đến 3 mi li lít mỗi ký mỗi giờ, từ 1 giờ trước đến 3 đến 12 giờ sau tiêm; tạm ngừng metformin khi mức lọc cầu thận dưới 30, dùng lại sau ít nhất 48 giờ nếu creatinin tăng dưới 25 phần trăm."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Mổ tim",
+   "title": "Acid amin truyền tĩnh mạch trong mổ tim",
+   "ref": "PROTECTION, NEJM 2024, tr. 687, 689, 694 · KDIGO 2026 (dự thảo), R 3.5.1 (2A), tr. 156",
+   "groups": [
+    {
+     "t": "AKI trong viện",
+     "d": "3.511 người mổ tim chương trình",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Acid amin",
+       "v": 26.9,
+       "lab": "26,9%",
+       "c": "teal"
+      },
+      {
+       "k": "Giả dược",
+       "v": 31.7,
+       "lab": "31,7%"
+      }
+     ]
+    },
+    {
+     "t": "Cần KRT",
+     "d": "không khác biệt",
+     "at": 1,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Acid amin",
+       "v": 1.4,
+       "lab": "1,4%",
+       "c": "violet"
+      },
+      {
+       "k": "Giả dược",
+       "v": 1.9,
+       "lab": "1,9%"
+      }
+     ]
+    }
+   ],
+   "max": 36,
+   "h": 520,
+   "notes": [
+    {
+     "t": "RR 0,85 (0,77–0,94) · p = 0,002",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Liều: 2 g/kg cân nặng lý tưởng/ngày, tối đa 100 g/ngày, truyền liên tục đến 72 giờ",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "KDIGO 2026: gợi ý dùng ở người mổ tim không CKD nặng (2A)",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 540,
+   "lines": [
+    "Ở phẫu thuật tim, có một can thiệp mới. Thử nghiệm PROTECTION trên 3.511 người mổ tim chương trình có tuần hoàn ngoài cơ thể: truyền hỗn hợp acid amin cân bằng giảm tổn thương thận cấp từ 31,7 xuống 26,9 phần trăm, nguy cơ tương đối 0,85.",
+    "Tỷ lệ lọc máu thấp và không khác biệt, 1,4 so với 1,9 phần trăm.",
+    "Liều trong thử nghiệm là 2 gam mỗi ký cân nặng lý tưởng mỗi ngày, tối đa 100 gam mỗi ngày, truyền liên tục từ khi vào phòng mổ cho đến 72 giờ, hoặc đến khi ra hồi sức, lọc máu hay tử vong.",
+    "KDIGO 2026 gợi ý, mức 2A, có thể dùng acid amin tĩnh mạch dự phòng ở người lớn mổ tim không có bệnh thận mạn nặng. Cùng với bó KDIGO dựa trên chỉ dấu, đây là hai công cụ cho phẫu thuật tim. Xin lưu ý, hướng dẫn Trung Quốc 2026 còn gợi ý lọc máu sớm khi tiến triển giai đoạn 2 sau mổ tim, mức khuyến cáo yếu, khác với KDIGO."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "flow",
+   "rail": "cd",
+   "chapter": "HRS-AKI",
+   "title": "Tiêu chuẩn HRS-AKI mới (2024)",
+   "ref": "ADQI/ICA 2024, phát biểu 1–3, tr. 13–14 · vẽ lại, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Xơ gan có cổ trướng",
+     "d": "",
+     "x": 184,
+     "y": 250,
+     "w": 288,
+     "h": 130,
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Tiêu chuẩn AKI",
+     "d": "creatinin ≥0,3/48 giờ hoặc ≥50%/7 ngày, và/hoặc nước tiểu ≤0,5 mL/kg trong 6 giờ",
+     "x": 608,
+     "y": 250,
+     "w": 416,
+     "h": 190,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "Không cải thiện sau 24 giờ",
+     "d": "hồi sức thể tích đầy đủ (khi có chỉ định)",
+     "x": 1080,
+     "y": 250,
+     "w": 368,
+     "h": 160,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Không có nguyên nhân chính khác",
+     "d": "",
+     "x": 1080,
+     "y": 520,
+     "w": 368,
+     "h": 130,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "HRS-AKI",
+     "d": "điều trị ngay",
+     "x": 608,
+     "y": 540,
+     "w": 272,
+     "h": 140,
+     "c": "blue",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "blue",
+     "at": 3
+    }
+   ],
+   "note": {
+    "t": "BỎ: truyền albumin 48 giờ bắt buộc trước chẩn đoán (strong, D) · bỏ thuật ngữ HRS type 1, type 2",
+    "at": 4,
+    "c": "coral",
+    "y": 30
+   },
+   "lines": [
+    "Hội chứng gan thận có tiêu chuẩn mới từ đồng thuận ADQI và Câu lạc bộ Cổ trướng quốc tế 2024. Điều kiện đầu là xơ gan có cổ trướng, kèm tiêu chuẩn tổn thương thận cấp theo creatinin hoặc theo nước tiểu.",
+    "Điều kiện thứ ba: creatinin và hoặc nước tiểu không cải thiện trong 24 giờ sau hồi sức thể tích đầy đủ, khi có chỉ định lâm sàng.",
+    "Và không có bằng chứng mạnh cho một nguyên nhân khác là nguyên nhân chính.",
+    "Đủ bốn điều kiện là hội chứng gan thận thể tổn thương thận cấp, và cần điều trị ngay. Tiêu chuẩn này cũng chấp nhận có thể có tổn thương ống, protein niệu hay bệnh thận mạn đi kèm.",
+    "Thay đổi lớn nhất: bỏ yêu cầu truyền albumin bắt buộc 48 giờ trước khi chẩn đoán, khuyến cáo mạnh mức D. Các thuật ngữ hội chứng gan thận típ 1 và típ 2 được thay bằng HRS-AKI, HRS-AKD và HRS-CKD."
+   ],
+   "id": "s06",
+   "_scaled": 1
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "CONFIRM",
+   "title": "Terlipressin: lợi ích và cái giá",
+   "ref": "CONFIRM, NEJM 2021, tr. 818, 825–826",
+   "groups": [
+    {
+     "t": "Đảo ngược HRS được xác nhận",
+     "d": "300 người, mù đôi",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Terlipressin",
+       "v": 32,
+       "lab": "32%",
+       "c": "teal"
+      },
+      {
+       "k": "Giả dược",
+       "v": 17,
+       "lab": "17%"
+      }
+     ]
+    },
+    {
+     "t": "Suy hô hấp (biến cố nặng)",
+     "d": "",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Terlipressin",
+       "v": 10,
+       "lab": "10%",
+       "c": "coral"
+      },
+      {
+       "k": "Giả dược",
+       "v": 3,
+       "lab": "3%"
+      }
+     ]
+    },
+    {
+     "t": "Tử vong do rối loạn hô hấp trong 90 ngày",
+     "d": "",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Terlipressin",
+       "v": 11,
+       "lab": "11%",
+       "c": "coral"
+      },
+      {
+       "k": "Giả dược",
+       "v": 2,
+       "lab": "2%"
+      }
+     ]
+    }
+   ],
+   "max": 40,
+   "h": 540,
+   "notes": [
+    {
+     "t": "Đảo ngược: P = 0,006",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Đánh giá thể tích, oxy trước và trong điều trị",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Albumin: chỉnh hằng ngày, ngừng nếu quá tải",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 460,
+   "lines": [
+    "Bằng chứng then chốt cho terlipressin là thử nghiệm CONFIRM trên 300 người: tỷ lệ đảo ngược hội chứng gan thận được xác nhận là 32 phần trăm so với 17 phần trăm ở nhóm giả dược.",
+    "Nhưng cái giá là suy hô hấp: biến cố nặng suy hô hấp gặp ở 10 phần trăm so với 3 phần trăm.",
+    "Và tử vong do rối loạn hô hấp trong 90 ngày là 11 so với 2 phần trăm. Vì vậy phải đánh giá thể tích và tình trạng oxy trước và trong suốt quá trình điều trị, chỉnh albumin hằng ngày và ngừng ngay khi có dấu quá tải."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "compare",
+   "rail": "dt",
+   "chapter": "Liều HRS-AKI",
+   "title": "Thuốc co mạch và albumin trong HRS-AKI",
+   "ref": "KDIGO 2026 (dự thảo), R 3.6.1 (1C), PP 3.6.1, tr. 162 · ADQI/ICA 2024, tr. 31–32, Bảng 3 tr. 73 · CONFIRM, tr. 820",
+   "head": [
+    "Thuốc",
+    "Liều",
+    "Lưu ý"
+   ],
+   "widths": "0.9fr 1.8fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Terlipressin (đầu tay)",
+      "Bolus 1 mg mỗi 6 giờ → 2 mg nếu creatinin không giảm 25%; hoặc truyền 2–12 mg/ngày",
+      "Lọ 0,85 mg = 1 mg terlipressin acetat; tối đa 14 ngày"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Noradrenalin",
+      "0,5–3 mg/giờ, tăng mỗi 4 giờ nếu MAP không tăng ≥10 mmHg",
+      "Cần ICU, catheter trung tâm"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Midodrin + octreotid",
+      "Midodrin 7,5–15 mg uống mỗi 8 giờ + octreotid 100–200 mcg dưới da mỗi 8 giờ",
+      "Chỉ khi không có hai thuốc trên"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Albumin 20–25%",
+      "20–40 g/ngày",
+      "Chỉnh theo thể tích; ngừng nếu phù phổi"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "KDIGO 2026 khuyến cáo dùng thuốc co mạch cho hội chứng gan thận thể tổn thương thận cấp, mức 1C, phối hợp albumin ngay khi chẩn đoán. Terlipressin là lựa chọn đầu tay: bolus 1 mi li gam mỗi 6 giờ, tăng lên 2 mi li gam nếu creatinin không giảm 25 phần trăm sau 24 giờ, hoặc truyền liên tục 2 đến 12 mi li gam mỗi ngày. Lưu ý lọ 0,85 mi li gam theo nhãn Bắc Mỹ tương đương 1 mi li gam terlipressin acetat; tối đa 14 ngày.",
+    "Noradrenalin là lựa chọn thay thế ở hồi sức: 0,5 đến 3 mi li gam mỗi giờ, tăng mỗi 4 giờ nếu huyết áp trung bình không tăng từ 10.",
+    "Khi không có hai thuốc trên: midodrin uống 7,5 đến 15 mi li gam mỗi 8 giờ cùng octreotid 100 đến 200 microgam tiêm dưới da mỗi 8 giờ.",
+    "Albumin 20 đến 25 phần trăm, 20 đến 40 gam mỗi ngày, chỉnh theo thể tích và ngừng khi phù phổi. Xin kiểm tra theo chế phẩm tại đơn vị."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "cards",
+   "rail": "dt",
+   "chapter": "Ly giải u, tiêu cơ vân",
+   "title": "Ly giải u và tiêu cơ vân",
+   "ref": "KDIGO 2026 (dự thảo), PP 3.7.1, R 3.7.1 (1B), PP 3.7.2, Bảng 8, tr. 54, 169–170",
+   "cards": [
+    {
+     "tag": "LY GIẢI U · DỊCH",
+     "t": "Mở rộng thể tích",
+     "items": [
+      "Tinh thể tĩnh mạch",
+      "Không kiềm hoá nước tiểu"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "LY GIẢI U · 1B",
+     "t": "Rasburicase",
+     "items": [
+      "Ưu tiên hơn allopurinol, febuxostat ở nguy cơ cao",
+      "Chống chỉ định khi thiếu G6PD",
+      "Nguy cơ thấp: ức chế xanthin oxidase"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "TIÊU CƠ VÂN",
+     "t": "Truyền dịch",
+     "items": [
+      "CK, myoglobin tăng",
+      "Que nhúng máu dương, cặn không hồng cầu"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Với hội chứng ly giải u, KDIGO 2026 khuyên mở rộng thể tích bằng dịch tinh thể tĩnh mạch, không kiềm hoá nước tiểu.",
+    "Ở người có hoặc nguy cơ cao ly giải u, khuyến cáo rasburicase hơn allopurinol hay febuxostat, mức 1B, trừ khi thiếu men G6PD. Nguy cơ thấp, hoặc không có rasburicase, thì dùng thuốc ức chế xanthin oxidase.",
+    "Và tiêu cơ vân: CK, myoglobin tăng, que nhúng dương tính với máu nhưng cặn không có hồng cầu; điều trị chính là truyền dịch."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "quiz",
+   "rail": "cd",
+   "chapter": "Tình huống",
+   "title": "Tình huống: xơ gan và creatinin tăng",
+   "ref": "Ca giả định · ADQI/ICA 2024, phát biểu 2–3, tr. 11–14",
+   "case": "Nữ, 55 tuổi, xơ gan do rượu, cổ trướng nhiều, viêm phúc mạc tiên phát. Creatinin ổn định thấp nhất 3 tháng trước: 0,8 mg/dL. Ngày 3: 2,1 mg/dL dù đã hồi sức thể tích đủ 24 giờ, ngừng lợi tiểu. Không sốc, không thuốc độc thận.",
+   "case_at": 0,
+   "q": "Bước tiếp theo?",
+   "q_at": 1,
+   "options": [
+    "Truyền albumin thêm 48 giờ rồi đánh giá lại",
+    "Chẩn đoán HRS-AKI, terlipressin + albumin ngay",
+    "Lọc máu ngay",
+    "Dopamin liều thấp"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "Đủ tiêu chuẩn HRS-AKI (ADQI/ICA 2024): không cần chờ albumin 48 giờ. Theo dõi sát thể tích, oxy (CONFIRM: suy hô hấp 10% so với 3%).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Tình huống. Một phụ nữ 55 tuổi, xơ gan do rượu, cổ trướng nhiều, nhập viện vì viêm phúc mạc tiên phát. Creatinin ổn định thấp nhất trong 3 tháng là 0,8. Ngày thứ ba, creatinin 2,1, dù đã hồi sức thể tích đủ 24 giờ và ngừng lợi tiểu; không sốc, không dùng thuốc độc thận.",
+    "Bước tiếp theo là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là chẩn đoán hội chứng gan thận thể tổn thương thận cấp và bắt đầu terlipressin cùng albumin ngay. Người bệnh có xơ gan cổ trướng, đạt tiêu chuẩn tổn thương thận cấp, không cải thiện sau 24 giờ hồi sức thể tích, và không có nguyên nhân chính khác. Theo tiêu chuẩn 2024, không cần chờ thêm 48 giờ truyền albumin. Và luôn theo dõi sát thể tích, oxy, vì nguy cơ suy hô hấp."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "summary",
+   "rail": "dt",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 4",
+   "items": [
+    {
+     "t": "SA-AKI: huyết động theo SSC, noradrenalin đầu tay",
+     "d": "không HES · không siêu lọc thể tích cao",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Cản quang: NaCl 0,9% quanh thủ thuật ở người nguy cơ cao",
+     "d": "1B · không bicarbonate, không NAC (PRESERVE)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Mổ tim: acid amin 2 g/kg cân nặng lý tưởng/ngày (2A)",
+     "d": "PROTECTION: AKI 26,9% so với 31,7%",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "HRS-AKI: không chờ albumin 48 giờ",
+     "d": "terlipressin + albumin ngay · coi chừng suy hô hấp",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Ly giải u: rasburicase (1B), không kiềm hoá nước tiểu",
+     "d": "",
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần bốn. Tổn thương thận cấp liên quan nhiễm khuẩn huyết: huyết động theo Surviving Sepsis, noradrenalin đầu tay, không dịch keo tổng hợp, không siêu lọc thể tích cao.",
+    "Thuốc cản quang: muối sinh lý quanh thủ thuật ở người nguy cơ cao; bicarbonate và N-acetylcystein không hiệu quả.",
+    "Mổ tim: acid amin tĩnh mạch và bó bảo vệ thận.",
+    "Hội chứng gan thận: không chờ albumin 48 giờ, điều trị terlipressin cùng albumin ngay, nhưng coi chừng suy hô hấp.",
+    "Ly giải u: rasburicase và không kiềm hoá nước tiểu. Phần năm, phần cuối, sẽ bàn về liệu pháp thay thế thận: khi nào bắt đầu, phương thức nào, liều bao nhiêu, chống đông thế nào, và khi nào ngừng. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s11",
+   "dense": true
+  }
+ ]
+}

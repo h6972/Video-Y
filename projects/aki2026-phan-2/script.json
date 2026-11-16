@@ -1,0 +1,1007 @@
+{
+ "title": "Tổn thương thận cấp – Phần 2: Cơ chế, nguyên nhân, chỉ dấu và test furosemide",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Tổn thương thận cấp · Phần 2/5",
+ "source_short": "Nguồn: KDIGO 2026 (dự thảo) · KDIGO 2012 · ADQI · CSCCM 2026 · RCT then chốt",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "[TIMP-2]·[IGFBP7]": "tim pi hai nhân i gi ép bê pê bảy",
+  "STARRT-AKI": "sờ ta a ka i",
+  "BICARICU-2": "bi ca ri cu hai",
+  "PROTECTION": "prô téc sần",
+  "IDEAL-ICU": "ai đi ồ i xi u",
+  "BICAR-ICU": "bi ca i xi u",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "PRESERVE": "pri dớp",
+  "Sapphire": "sa phai a",
+  "HRS-AKI": "hội chứng gan thận thể tổn thương thận cấp",
+  "AKI-EPI": "a ka i e pi",
+  "PrevAKI": "prép a ka i",
+  "CONFIRM": "con phớm",
+  "mL/phút": "mi li lít mỗi phút",
+  "SA-AKI": "tổn thương thận cấp liên quan nhiễm khuẩn huyết",
+  "CA-AKI": "tổn thương thận cấp do thuốc cản quang",
+  "AKIKI2": "a ki ki hai",
+  "ICRAKI": "i cờ ra ki",
+  "BaSICS": "ba sích",
+  "TIMP-2": "tim pi hai",
+  "IGFBP7": "i gi ép bê pê bảy",
+  "NaHCO₃": "natri bicarbonat",
+  "MAKE90": "biến cố thận lớn ngày chín mươi",
+  "MAKE30": "biến cố thận lớn ngày ba mươi",
+  "SGLT2i": "thuốc ức chế ét gờ lờ tê hai",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micromol mỗi lít",
+  "AKIKI": "a ki ki",
+  "ELAIN": "e lanh",
+  "ACORN": "ây con",
+  "SMART": "smát",
+  "CHEST": "chét",
+  "RENAL": "ri nồ",
+  "KDIGO": "ca đi gô",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "KeGFR": "mức lọc cầu thận động học",
+  "HCO₃⁻": "bicarbonat",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "PLUS": "plát",
+  "RICH": "rích",
+  "NGAL": "en gan",
+  "ADQI": "a đê qui",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "CRRT": "lọc máu liên tục",
+  "IRRT": "lọc máu ngắt quãng",
+  "HVHF": "siêu lọc thể tích cao",
+  "MAKE": "biến cố thận lớn",
+  "ECMO": "e cờ mô",
+  "g/kg": "gam mỗi ký",
+  "mmHg": "mi li mét thuỷ ngân",
+  "ATN": "a tê en",
+  "GFR": "mức lọc cầu thận",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKD": "bệnh thận cấp",
+  "AKI": "tổn thương thận cấp",
+  "CKD": "bệnh thận mạn",
+  "FST": "test phu rô xê mít",
+  "SCr": "creatinin",
+  "MAP": "huyết áp trung bình",
+  "HES": "tinh bột hydroxyethyl",
+  "NAC": "en a xê",
+  "BUN": "bun",
+  "P/F": "pê trên ép"
+ },
+ "brand": {
+  "next": "Phần 3: Điều trị nội khoa – dịch, huyết áp, lợi tiểu, bicarbonate"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Cơ chế, nguyên nhân"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán, phân tầng"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "krt",
+   "t": "Thay thế thận"
+  },
+  {
+   "k": "tl",
+   "t": "Hồi phục, theo dõi"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Tổn thương thận cấp",
+   "title": "Cơ chế, nguyên nhân<br>và chỉ dấu",
+   "subtitle": "Phần 2 · Vì sao creatinin chậm, SA-AKI, test furosemide",
+   "badges": [
+    {
+     "t": "KDIGO 2026 (dự thảo)",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "ADQI 28",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Sapphire · FST",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · Phần 2/5",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với phần hai của loạt bài tổn thương thận cấp.",
+    "Hôm nay chúng ta đi vào cơ chế: vì sao creatinin là một chỉ dấu chậm, chỉ dấu ống thận cho biết điều gì, thận bị tổn thương ra sao trong nhiễm khuẩn huyết, những nguyên nhân cần điều trị đặc hiệu, và cách làm test furosemide tại giường.",
+    "Mỗi cơ chế sẽ được dẫn về một quyết định lâm sàng cụ thể."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "curve",
+   "rail": "bs",
+   "chapter": "Vì sao creatinin chậm",
+   "title": "Ba chỉ dấu, ba tốc độ",
+   "ref": "KDIGO 2026 (dự thảo), Bảng 2, tr. 36–37, 45 · đường cong minh hoạ định tính, không phải số liệu",
+   "xl": "Thời gian sau tổn thương",
+   "yl": "Mức thay đổi",
+   "curves": [
+    {
+     "pts": [
+      [
+       0,
+       5
+      ],
+      [
+       8,
+       40
+      ],
+      [
+       16,
+       80
+      ],
+      [
+       30,
+       85
+      ],
+      [
+       55,
+       70
+      ],
+      [
+       85,
+       50
+      ]
+     ],
+     "c": "coral",
+     "label": "Chỉ dấu ống thận",
+     "at": 2
+    },
+    {
+     "pts": [
+      [
+       0,
+       5
+      ],
+      [
+       15,
+       12
+      ],
+      [
+       30,
+       45
+      ],
+      [
+       48,
+       72
+      ],
+      [
+       70,
+       86
+      ],
+      [
+       88,
+       92
+      ]
+     ],
+     "c": "teal",
+     "label": "Cystatin C",
+     "at": 1
+    },
+    {
+     "pts": [
+      [
+       0,
+       5
+      ],
+      [
+       25,
+       8
+      ],
+      [
+       45,
+       22
+      ],
+      [
+       62,
+       45
+      ],
+      [
+       80,
+       62
+      ],
+      [
+       95,
+       68
+      ]
+     ],
+     "c": "blue",
+     "label": "Creatinin",
+     "at": 0,
+     "dash": true
+    }
+   ],
+   "points": [
+    {
+     "x": 3,
+     "y": 5,
+     "t": "Tổn thương",
+     "c": "amber",
+     "at": 0,
+     "dx": 0,
+     "dy": -40
+    }
+   ],
+   "notes": [
+    {
+     "t": "Mất gần 50% chức năng mới thấy creatinin tăng",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "t": "Creatinin tăng chậm 24–48 giờ sau tổn thương",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "t": "Cystatin C đạt ngưỡng sớm hơn 6–48 giờ (mô hình)",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Chỉ dấu ống thận tăng trước khi chức năng thay đổi",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Hãy hình dung diễn biến sau một tổn thương thận. Creatinin là chỉ dấu của mức lọc cầu thận, không phải của tổn thương: phải mất gần một nửa chức năng thận creatinin mới tăng, và nó tăng chậm, từ 24 đến 48 giờ sau tổn thương.",
+    "Cystatin C cũng là chỉ dấu lọc cầu thận nhưng không phụ thuộc khối cơ; theo mô hình, nó đạt ngưỡng chẩn đoán sớm hơn creatinin từ 6 đến 48 giờ.",
+    "Còn các chỉ dấu stress và tổn thương ống thận có thể tăng trước cả khi chức năng thay đổi, trạng thái trước đây gọi là tổn thương thận cấp cận lâm sàng.",
+    "Xin lưu ý các đường cong này là minh hoạ định tính để dễ hình dung, không phải số liệu đo được."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "cards",
+   "rail": "bs",
+   "chapter": "Bẫy creatinin",
+   "title": "Creatinin và nước tiểu đánh lừa ta thế nào",
+   "ref": "KDIGO 2026 (dự thảo), Bảng 2, tr. 36",
+   "cards": [
+    {
+     "tag": "BỎ SÓT · CHẨN ĐOÁN MUỘN",
+     "t": "Creatinin thấp giả",
+     "items": [
+      "Suy gan, khối cơ ít",
+      "Pha loãng do truyền dịch",
+      "Thai kỳ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CHẨN ĐOÁN NHẦM",
+     "t": "Creatinin tăng giả",
+     "items": [
+      "Cô đặc máu sau lợi tiểu",
+      "Trimethoprim, cimetidin",
+      "Khởi động ức chế RAS, SGLT2i"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "NƯỚC TIỂU",
+     "t": "Lượng nước tiểu",
+     "items": [
+      "Phụ thuộc đo chính xác",
+      "Lợi tiểu làm “đẹp” số liệu",
+      "Thiểu niệu có thể sinh lý"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Trên thực hành hồi sức, creatinin có thể thấp giả, gây bỏ sót hoặc chẩn đoán muộn: người suy gan, khối cơ ít, hoặc creatinin bị pha loãng sau truyền nhiều dịch.",
+    "Ngược lại, creatinin có thể tăng mà mức lọc cầu thận không giảm thật: cô đặc máu sau lợi tiểu, thuốc ức chế bài tiết creatinin như trimethoprim, hoặc thay đổi huyết động sinh lý khi khởi động thuốc ức chế hệ renin angiotensin hay ức chế SGLT2. Hiểu nhầm là tổn thương thận cấp sẽ dẫn tới ngừng những thuốc có lợi.",
+    "Lượng nước tiểu cũng không hoàn hảo: phụ thuộc việc đo chính xác, bị lợi tiểu làm thay đổi, và thiểu niệu đôi khi là đáp ứng sinh lý."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "list",
+   "rail": "bs",
+   "chapter": "Chỉ dấu",
+   "title": "Chỉ dấu theo vị trí tổn thương",
+   "ref": "KDIGO 2026 (dự thảo), tr. 37 · ADQI 23",
+   "items": [
+    {
+     "t": "Lọc cầu thận",
+     "d": "Cystatin C huyết thanh",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Stress tế bào ống thận",
+     "d": "TIMP-2, IGFBP7 – tăng kéo dài có thể đồng nghĩa tổn thương",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "Tổn thương tế bào ống thận",
+     "d": "NGAL, KIM-1, NAG, L-FABP",
+     "at": 2,
+     "c": "coral",
+     "n": 3
+    },
+    {
+     "t": "Viêm trong thận",
+     "d": "IL-18, IL-9, CCL14",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Các chỉ dấu mới được xếp theo vị trí tổn thương. Cystatin C phản ánh lọc cầu thận.",
+    "TIMP-2 và IGFBP7 phản ánh stress tế bào ống thận, tức là các tế bào đang ngừng chu kỳ để tự bảo vệ; nếu tăng kéo dài, có thể đồng nghĩa với tổn thương thật.",
+    "NGAL, KIM-1, NAG và L-FABP phản ánh tổn thương tế bào ống thận.",
+    "Còn IL-18, IL-9 và CCL14 phản ánh tình trạng viêm trong thận. Mỗi chỉ dấu có động học riêng, nên thời điểm lấy mẫu phải phù hợp."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "stats",
+   "rail": "cd",
+   "chapter": "Sapphire",
+   "title": "[TIMP-2]·[IGFBP7]: bằng chứng Sapphire",
+   "ref": "Kashani, Crit Care 2013 (Sapphire), tr. 1–4",
+   "tiles": [
+    {
+     "tag": "AUC · AKI 2–3 TRONG 12 GIỜ",
+     "v": 0.8,
+     "dec": 2,
+     "l": "728 người bệnh hồi sức",
+     "d": "không chỉ dấu khác vượt 0,72",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "NGƯỠNG THẤP",
+     "v": 0.3,
+     "dec": 1,
+     "pre": ">",
+     "l": "nguy cơ tăng rõ",
+     "d": "",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "NGƯỠNG CAO",
+     "v": 2.0,
+     "dec": 1,
+     "pre": ">",
+     "l": "nguy cơ AKI gần gấp 5",
+     "d": "biến cố thận lớn gần gấp 2",
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "cols": 3,
+   "h": 440,
+   "note": {
+    "t": "PrevAKI: dùng ngưỡng ≥0,3 sau mổ tim để kích hoạt bó chăm sóc (phần 3)",
+    "at": 3,
+    "c": "teal"
+   },
+   "lines": [
+    "Chỉ dấu có nhiều bằng chứng nhất là tích của TIMP-2 và IGFBP7 trong nước tiểu. Nghiên cứu kiểm định Sapphire trên 728 người bệnh hồi sức cho thấy diện tích dưới đường cong 0,80 để tiên đoán tổn thương thận cấp giai đoạn 2 đến 3 trong 12 giờ, tốt hơn mọi chỉ dấu cũ, không chỉ dấu nào khác vượt 0,72.",
+    "Nguy cơ tăng rõ khi chỉ số vượt 0,3,",
+    "và khi vượt 2,0 thì nguy cơ tổn thương thận cấp tăng gần gấp năm, nguy cơ biến cố thận lớn gần gấp đôi.",
+    "Ngưỡng 0,3 được dùng trong thử nghiệm PrevAKI để chọn người bệnh sau mổ tim cần bó chăm sóc bảo vệ thận, chúng ta sẽ phân tích ở phần ba."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "box",
+   "rail": "cd",
+   "chapter": "Khuyến cáo",
+   "title": "Khi nào dùng chỉ dấu?",
+   "ref": "KDIGO 2026 (dự thảo), Recommendation 2.4.1, tr. 95 · Bảng 3, tr. 38 · tr. 51",
+   "box": {
+    "tag": "KDIGO 2026 · KHUYẾN CÁO 2.4.1 · NGƯỜI LỚN 2B",
+    "t": "Ở nơi người bệnh dễ bị AKI, gợi ý dùng <b>chỉ dấu stress hoặc tổn thương ống thận</b> theo đúng chỉ định đã kiểm định và cấp phép, để <b>nhận diện sớm</b> người có nguy cơ AKI vừa – nặng và áp dụng biện pháp bảo vệ thận có mục tiêu.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "NGAL NIỆU",
+     "t": "AUC khoảng 0,74 (52 nghiên cứu, 13.040 người)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CCL14",
+     "t": "Tiên đoán AKI giai đoạn 3 kéo dài ≥72 giờ",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "HẠN CHẾ",
+     "t": "Đắt, ít sẵn có, ngưỡng chưa thống nhất",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "KDIGO 2026 gợi ý, ở người lớn mức 2B, dùng chỉ dấu stress hoặc tổn thương ống thận theo đúng chỉ định đã được kiểm định và cấp phép, để nhận diện sớm người có nguy cơ tổn thương thận cấp vừa đến nặng và áp dụng các biện pháp bảo vệ thận có mục tiêu.",
+    "NGAL niệu có diện tích dưới đường cong khoảng 0,74 trong phân tích gộp 52 nghiên cứu với 13.040 người; người có NGAL dương nhưng creatinin âm vẫn có kết cục xấu hơn.",
+    "CCL14 giúp nhận diện người bệnh giai đoạn 2 đến 3 sẽ bị tổn thương thận cấp giai đoạn 3 kéo dài.",
+    "Hạn chế là chi phí, tính sẵn có và ngưỡng chưa thống nhất; ở nhiều cơ sở Việt Nam hiện chưa có các xét nghiệm này."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "cycle",
+   "rail": "bs",
+   "chapter": "Cơ chế SA-AKI",
+   "title": "Thận tổn thương trong nhiễm khuẩn huyết",
+   "ref": "ADQI 28, phát biểu 2a–2e, tr. 403–404 · Bellomo 2017, tr. 3–4 · vẽ lại, không phải hình gốc",
+   "nodes": [
+    {
+     "t": "Viêm toàn thân",
+     "d": "và viêm tại thận",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "t": "Hoạt hoá bổ thể",
+     "d": "",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Rối loạn RAAS",
+     "d": "renin–angiotensin–aldosteron",
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "t": "Ty thể",
+     "d": "tái lập trình chuyển hoá tế bào",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "t": "Vi tuần hoàn",
+     "d": "rối loạn dù lưu lượng thận bảo tồn",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Huyết động lớn",
+     "d": "hạ huyết áp, sung huyết",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "center": "SA-AKI",
+   "center_at": 0,
+   "side": [
+    {
+     "t": "Không chỉ là “thiếu máu thận”",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "t": "Khác biệt giữa người bệnh và theo thời gian → các nội kiểu hình",
+     "c": "violet",
+     "at": 5
+    },
+    {
+     "t": "SOAP: AKI ở 51% người nhiễm khuẩn huyết, tử vong ICU 41%",
+     "c": "amber",
+     "at": 6
+    }
+   ],
+   "lines": [
+    "Nhiễm khuẩn huyết là nguyên nhân hàng đầu của tổn thương thận cấp ở hồi sức. Theo đồng thuận ADQI 28, đây là hội chứng không đồng nhất, với nhiều cơ chế cùng lúc. Trước hết là viêm toàn thân và viêm tại thận.",
+    "Kèm theo là hoạt hoá bổ thể và rối loạn hệ renin angiotensin aldosteron.",
+    "Ở mức tế bào, ty thể rối loạn và tế bào ống thận tái lập trình chuyển hoá để sống sót.",
+    "Vi tuần hoàn trong thận bị rối loạn, cộng thêm bất thường huyết động lớn như hạ huyết áp hay sung huyết.",
+    "Điểm then chốt: tổn thương thận trong nhiễm khuẩn huyết khác căn bản tổn thương do thiếu máu cục bộ; thận vẫn có thể bị tổn thương dù tổng lưu lượng máu thận được bảo tồn, thậm chí tăng.",
+    "Mức đóng góp của từng cơ chế khác nhau giữa người bệnh và theo thời gian, tạo nên các nội kiểu hình; kết hợp chỉ dấu đặc hiệu cơ chế với lâm sàng sẽ giúp nhận diện chúng.",
+    "Gánh nặng rất lớn: trong đoàn hệ SOAP, tổn thương thận cấp gặp ở 51 phần trăm người nhiễm khuẩn huyết, với tử vong hồi sức 41 phần trăm."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "box",
+   "rail": "cd",
+   "chapter": "Định nghĩa SA-AKI",
+   "title": "AKI liên quan nhiễm khuẩn huyết",
+   "ref": "ADQI 28, phát biểu 1a–1c, tr. 402–403",
+   "box": {
+    "tag": "ADQI 28 · PHÁT BIỂU 1a",
+    "t": "Có đồng thời tiêu chuẩn <b>nhiễm khuẩn huyết (Sepsis-3)</b> và tiêu chuẩn <b>AKI (KDIGO)</b>, khi AKI xảy ra <b>trong 7 ngày</b> kể từ chẩn đoán nhiễm khuẩn huyết.",
+    "at": 0,
+    "c": "coral",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "SỚM",
+     "t": "AKI trong 48 giờ đầu",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "MUỘN",
+     "t": "48 giờ – 7 ngày · kết cục xấu hơn",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "KIỂU HÌNH PHỤ",
+     "t": "“Do nhiễm khuẩn huyết”: sepsis là động lực chính",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "ADQI 28 định nghĩa tổn thương thận cấp liên quan nhiễm khuẩn huyết là khi có đồng thời tiêu chuẩn nhiễm khuẩn huyết theo Sepsis-3 và tiêu chuẩn tổn thương thận cấp theo KDIGO, với tổn thương thận xảy ra trong vòng 7 ngày kể từ chẩn đoán nhiễm khuẩn huyết.",
+    "Trong 48 giờ đầu gọi là sớm; từ 48 giờ đến 7 ngày gọi là muộn, và nhóm muộn có kết cục xấu hơn.",
+    "Khi nhiễm khuẩn huyết là động lực chính gây tổn thương mô, ta gọi là tổn thương thận cấp do nhiễm khuẩn huyết, một kiểu hình phụ."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "compare",
+   "rail": "bs",
+   "chapter": "Cơ chế → điều trị",
+   "title": "Mỗi cơ chế, một đích điều trị",
+   "ref": "KDIGO 2026 (dự thảo), Bảng 8, tr. 54 · ADQI 28 · ADQI/ICA 2024",
+   "head": [
+    "Cơ chế",
+    "Dấu hiệu gợi ý",
+    "Đích điều trị"
+   ],
+   "widths": "1.1fr 1.5fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "Giảm tưới máu",
+      "Đáp ứng dịch, FENa/FEUrea thấp",
+      "Dịch có đệm, vận mạch, MAP mục tiêu"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Sung huyết, tăng áp ổ bụng",
+      "Quá tải dịch, suy tim phải",
+      "Giảm sung huyết, lợi tiểu, giải áp"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "SA-AKI",
+      "Nhiễm khuẩn huyết + AKI trong 7 ngày",
+      "Kiểm soát ổ nhiễm, huyết động theo SSC"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Độc ống thận",
+      "Thuốc, cản quang, tiêu cơ vân",
+      "Ngừng thuốc, dịch, quản lý thuốc"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Giãn mạch tạng (HRS)",
+      "Xơ gan + cổ trướng, không cải thiện sau bù dịch",
+      "Thuốc co mạch + albumin"
+     ],
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Tắc nghẽn",
+      "Thận ứ nước",
+      "Giải tắc"
+     ],
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Đây là chiếc cầu nối cơ chế với điều trị. Giảm tưới máu, gợi ý bởi đáp ứng dịch và chỉ số niệu, cần dịch tinh thể có đệm, vận mạch và huyết áp trung bình mục tiêu.",
+    "Sung huyết tĩnh mạch hay tăng áp lực ổ bụng cần giảm sung huyết, lợi tiểu, hoặc giải áp; truyền thêm dịch sẽ làm nặng hơn.",
+    "Tổn thương thận cấp liên quan nhiễm khuẩn huyết cần kiểm soát ổ nhiễm và huyết động theo Surviving Sepsis.",
+    "Độc ống thận do thuốc, thuốc cản quang hay tiêu cơ vân cần ngừng tác nhân và quản lý thuốc chủ động.",
+    "Hội chứng gan thận, do giãn mạch tạng, cần thuốc co mạch phối hợp albumin.",
+    "Và tắc nghẽn, cần giải tắc. Phần ba và bốn sẽ đi sâu từng đích này."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "media",
+   "rail": "cd",
+   "chapter": "Đừng quên tắc nghẽn",
+   "title": "Siêu âm: loại trừ tắc nghẽn",
+   "ref": "KDIGO 2026 (dự thảo), Bảng 8, tr. 54 · ảnh minh hoạ thật, Wikimedia Commons",
+   "panels": [
+    {
+     "src": "../../media/aki2026/raw/hydro_us.jpg",
+     "ar": 1.358,
+     "credit": "Ảnh: Hansen KL, Nielsen MB, Ewertsen C · CC BY 4.0 · Wikimedia Commons",
+     "flex": 1,
+     "at": 0,
+     "cap": "Thận ứ nước: bể thận, đài thận giãn",
+     "zoom": {
+      "x": 50,
+      "y": 50,
+      "s": 1.3,
+      "at": 0,
+      "out": "L1"
+     }
+    }
+   ],
+   "notes": [
+    {
+     "tag": "NGUYÊN TẮC",
+     "t": "AKI chưa rõ nguyên nhân: siêu âm để loại trừ tắc nghẽn",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "GIẢI TẮC",
+     "t": "Can thiệp tiết niệu hoặc điện quang",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "HAY BỎ SÓT",
+     "t": "Tắc nghẽn, viêm thận kẽ, viêm cầu thận, vi mạch huyết khối",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Một nguyên nhân có điều trị đặc hiệu nhưng hay bị quên ở hồi sức là tắc nghẽn đường tiết niệu. Bên trái là hình siêu âm thận ứ nước, với bể thận và các đài thận giãn, trống âm.",
+    "Khi tổn thương thận cấp chưa rõ nguyên nhân, siêu âm thận và bàng quang giúp loại trừ tắc nghẽn; nếu có tắc, giải tắc bằng can thiệp tiết niệu hoặc điện quang.",
+    "Các nguyên nhân hay bị bỏ sót khác gồm viêm thận kẽ do thuốc, viêm cầu thận hoặc viêm mạch, và vi mạch huyết khối, đều có điều trị đặc hiệu."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "compare",
+   "rail": "cd",
+   "chapter": "Nguyên nhân đặc hiệu",
+   "title": "Nguyên nhân cần điều trị đặc hiệu",
+   "ref": "KDIGO 2026 (dự thảo), Bảng 8, tr. 54",
+   "head": [
+    "Nguyên nhân",
+    "Xét nghiệm chốt",
+    "Xử trí"
+   ],
+   "widths": "1.1fr 1.6fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "Viêm cầu thận, viêm mạch, vi mạch huyết khối",
+      "Cặn nước tiểu, huyết thanh học, sinh thiết",
+      "Corticoid, ức chế miễn dịch, thay huyết tương"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Viêm thận kẽ cấp",
+      "Bạch cầu niệu, bạch cầu ái toan, sinh thiết",
+      "Ngừng tác nhân, cân nhắc corticoid"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Đa u tuỷ xương",
+      "Chuỗi nhẹ tự do máu và nước tiểu",
+      "Bù dịch, hoá trị ± thay huyết tương"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Tiêu cơ vân",
+      "CK; que nhúng máu dương nhưng không có hồng cầu",
+      "Truyền dịch"
+     ],
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Ly giải u",
+      "LDH, acid uric, canxi, phosphat",
+      "Hạ acid uric (phần 4)"
+     ],
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "KDIGO 2026 liệt kê các nguyên nhân cần điều trị đặc hiệu để bảo vệ thận. Viêm cầu thận, viêm mạch và vi mạch huyết khối cần cặn nước tiểu, huyết thanh học, có khi sinh thiết, và điều trị bằng corticoid, ức chế miễn dịch hoặc thay huyết tương.",
+    "Viêm thận kẽ cấp gợi ý bởi bạch cầu niệu, bạch cầu ái toan; xử trí là ngừng tác nhân và cân nhắc corticoid.",
+    "Đa u tuỷ xương cần định lượng chuỗi nhẹ tự do; điều trị là bù dịch, hoá trị, có thể thay huyết tương.",
+    "Tiêu cơ vân: CK tăng, que nhúng dương tính với máu nhưng cặn không có hồng cầu; điều trị là truyền dịch.",
+    "Và hội chứng ly giải u, chúng ta sẽ bàn ở phần bốn."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "flow",
+   "rail": "cd",
+   "chapter": "Test furosemide",
+   "title": "Test furosemide (FST) tại giường",
+   "ref": "KDIGO 2026 (dự thảo), Recommendation 2.3.1 (2C), tr. 84–86 · Chawla, Crit Care 2013, tr. 2–3 · tổng hợp, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "AKI giai đoạn 1–2",
+     "d": "đẳng tích hoặc thừa dịch",
+     "x": 184,
+     "y": 300,
+     "w": 288,
+     "h": 170,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Furosemide TM",
+     "d": "1 mg/kg · 1,5 mg/kg nếu đã dùng lợi tiểu quai 7 ngày",
+     "x": 608,
+     "y": 300,
+     "w": 368,
+     "h": 190,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Nước tiểu 2 giờ",
+     "d": "có thể bù mL đổi mL",
+     "x": 1032,
+     "y": 300,
+     "w": 304,
+     "h": 170,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "< 200 mL",
+     "d": "nguy cơ cao lên giai đoạn 3 trong 14 ngày",
+     "x": 1032,
+     "y": 570,
+     "w": 352,
+     "h": 160,
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "note": {
+    "t": "Không làm khi thiếu dịch · là công cụ phân tầng, không phải chỉ định khởi động KRT",
+    "at": 4,
+    "c": "violet",
+    "y": 560,
+    "x": 0,
+    "w": 720
+   },
+   "lines": [
+    "Một công cụ rẻ, đơn giản mà KDIGO 2026 gợi ý dùng, mức 2C, là test furosemide, để đánh giá nguy cơ tiến triển đến giai đoạn 3, kể cả cần lọc máu. Đối tượng là người lớn bị tổn thương thận cấp giai đoạn 1 đến 2, đẳng tích hoặc thừa dịch.",
+    "Tiêm tĩnh mạch furosemide 1 mi li gam mỗi ký nếu chưa dùng lợi tiểu quai, hoặc 1,5 mi li gam mỗi ký nếu đã dùng trong 7 ngày trước.",
+    "Đo lượng nước tiểu trong 2 giờ. Trong nghiên cứu gốc, nước tiểu được bù mi li lít đổi mi li lít bằng Ringer lactat hoặc muối sinh lý trong 6 giờ để tránh giảm thể tích, tuy nhóm điều trị có thể chọn không bù.",
+    "Dưới 200 mi li lít trong 2 giờ gợi ý nguy cơ cao tiến triển đến giai đoạn 3 trong 14 ngày.",
+    "Hai lưu ý: không làm test khi người bệnh đang thiếu dịch, và test furosemide là công cụ phân tầng nguy cơ, không phải chỉ định để khởi động lọc máu."
+   ],
+   "id": "s12",
+   "_scaled": 1
+  },
+  {
+   "layout": "stats",
+   "rail": "cd",
+   "chapter": "Hiệu năng FST",
+   "title": "Test furosemide tiên đoán tốt đến đâu?",
+   "ref": "Chawla, Crit Care 2013, tr. 1, 3, 5, 7",
+   "tiles": [
+    {
+     "tag": "AUC · NƯỚC TIỂU 2 GIỜ",
+     "v": 0.87,
+     "dec": 2,
+     "l": "tiên đoán AKIN giai đoạn 3",
+     "d": "77 người bệnh hồi sức",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "ĐỘ NHẠY",
+     "v": 87.1,
+     "dec": 1,
+     "suf": "%",
+     "l": "ngưỡng <200 mL/2 giờ",
+     "d": "",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "ĐỘ ĐẶC HIỆU",
+     "v": 84.1,
+     "dec": 1,
+     "suf": "%",
+     "l": "ngưỡng <200 mL/2 giờ",
+     "d": "",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "cols": 3,
+   "h": 440,
+   "note": {
+    "t": "Không ghi nhận hạ huyết áp do test · 32,4% tiến triển giai đoạn 3",
+    "at": 2,
+    "c": "amber"
+   },
+   "lines": [
+    "Trong nghiên cứu gốc của Chawla trên 77 người bệnh hồi sức, tổng lượng nước tiểu 2 giờ sau furosemide có diện tích dưới đường cong 0,87 để tiên đoán tiến triển đến giai đoạn 3.",
+    "Với ngưỡng dưới 200 mi li lít trong 2 giờ, độ nhạy là 87,1 phần trăm và độ đặc hiệu 84,1 phần trăm.",
+    "Có 32,4 phần trăm người bệnh tiến triển đến giai đoạn 3, và nghiên cứu không ghi nhận hạ huyết áp hay biến cố nào do test."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "quiz",
+   "rail": "cd",
+   "chapter": "Tình huống",
+   "title": "Tình huống: test furosemide",
+   "ref": "Ca giả định · KDIGO 2026 (dự thảo), R 2.3.1, tr. 86",
+   "case": "Nữ, 60 kg, sau mổ bụng ngày 2, AKI giai đoạn 2, huyết động ổn, có dấu thừa dịch. Đã dùng furosemide 2 ngày trước. Bác sĩ muốn biết nguy cơ tiến triển.",
+   "case_at": 0,
+   "q": "Liều furosemide cho test là bao nhiêu?",
+   "q_at": 1,
+   "options": [
+    "20 mg",
+    "60 mg",
+    "90 mg",
+    "Không làm test"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "explain": "Đã dùng lợi tiểu quai trong 7 ngày → 1,5 mg/kg × 60 kg = 90 mg TM; đo nước tiểu 2 giờ, <200 mL là nguy cơ cao.",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Tình huống. Một phụ nữ 60 ký, ngày thứ hai sau mổ bụng, tổn thương thận cấp giai đoạn 2, huyết động ổn định, có dấu hiệu thừa dịch. Bà đã dùng furosemide hai ngày trước.",
+    "Nếu làm test furosemide, liều là bao nhiêu?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là 90 mi li gam. Vì đã dùng lợi tiểu quai trong 7 ngày, liều là 1,5 mi li gam mỗi ký, nhân 60 ký bằng 90 mi li gam tiêm tĩnh mạch. Người bệnh thừa dịch nên làm test được. Nếu nước tiểu dưới 200 mi li lít trong 2 giờ, nguy cơ tiến triển cao; cần theo dõi sát và lên kế hoạch, nhưng chưa phải là chỉ định lọc máu."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "summary",
+   "rail": "cd",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 2",
+   "items": [
+    {
+     "t": "Creatinin chậm 24–48 giờ, cần mất gần 50% chức năng",
+     "d": "cystatin C sớm hơn; chỉ dấu ống thận sớm nhất",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "[TIMP-2]·[IGFBP7] >0,3 tăng nguy cơ; >2,0 nguy cơ cao",
+     "d": "KDIGO 2026: gợi ý dùng chỉ dấu (2B)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "SA-AKI: nhiều cơ chế, không chỉ thiếu máu",
+     "d": "AKI trong 7 ngày sau chẩn đoán sepsis",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Luôn loại trừ tắc nghẽn và nguyên nhân đặc hiệu",
+     "d": "siêu âm, cặn nước tiểu, rà thuốc",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Test furosemide: 1 hoặc 1,5 mg/kg; <200 mL/2 giờ",
+     "d": "phân tầng, không phải chỉ định KRT",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần hai. Creatinin là chỉ dấu chậm; cystatin C sớm hơn, chỉ dấu ống thận sớm nhất.",
+    "Tích TIMP-2 và IGFBP7 trên 0,3 là tăng nguy cơ, trên 2,0 là nguy cơ cao; KDIGO 2026 gợi ý dùng chỉ dấu ở nơi có sẵn.",
+    "Tổn thương thận cấp liên quan nhiễm khuẩn huyết có nhiều cơ chế, không chỉ là thiếu máu thận.",
+    "Luôn loại trừ tắc nghẽn và các nguyên nhân cần điều trị đặc hiệu.",
+    "Và test furosemide là công cụ phân tầng đơn giản. Phần ba sẽ bàn về điều trị nội khoa: dịch truyền, huyết áp, lợi tiểu, bicarbonate và quản lý thuốc. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s15",
+   "dense": true
+  }
+ ]
+}

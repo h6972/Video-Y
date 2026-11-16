@@ -46,6 +46,7 @@ Giao diện nằm ở `engine/themes/<theme>/{theme.css,layouts.js}`; `build.py`
 - `bars` (mọi giao diện): groups[{t,d,at,c,hl,note,bars[{k,v,lab,c}]}] (≤ 4 nhóm, 2 cột/nhóm: cột đầu màu nhấn, cột so sánh xám), max, notes[] (cột phải, notes_w), h. Chỉ dùng số liệu có trong nguồn.
 - `stats` (mọi giao diện): tiles[{tag,v (số),pre,suf,dec,l,d,c,at}] (2–4 ô, số đếm tăng dần), cols, note{t,at,c}, h.
 - `gauge` (mọi giao diện): max (điểm tối đa thật của thang), zones[{to,t,c}] (nhãn vùng ngắn), parts[{t,v,at,c}] (đoạn cộng dồn + thẻ), chip_cols, verdict, verdict_at.
+- `circuit` (mọi giao diện, thêm 16/11/2026): hoạt hình mạch CRRT với citrate vùng – hạt máu chạy theo ống (đỏ → cam sau citrate → xanh sau trả canxi), bơm quay, giọt citrate/canxi rơi. steps[{k: access|pump|citrate|filter|effluent|ica|calcium|return, at}], flow_at, dose_t, ica_t ("dòng 1|dòng 2"), labels{}, notes[{tag,t,d,at,c}] (cột phải, notes_w), w (~920 với thanh mục lục). Mã: `engine/themes/common/circuit.js`.
 - `hook` (chủ yếu video dọc): kicker, hook (câu móc lớn), sub, c — không có tiêu đề cảnh.
 - `media` (mọi giao diện): ảnh/clip y khoa thật kèm chú thích động. panels[{src | seq ("…/f_%03d.jpg"), n, fps, ar (rộng/cao, tính từ file thật), flex, at, cap, credit, zoom{x,y,s,at,out}, marks[{type: arrow|circle|box|line|label, x,y (% ảnh), dx,dy (đuôi mũi tên), r, w,h, x2,y2, t, c, at, lx,ly}]}], notes[{tag,t,d,at,c}] (cột phải, notes_w), h. Nhãn tự giữ trong khung ảnh; nhãn ngắn (≤ 25 ký tự).
 

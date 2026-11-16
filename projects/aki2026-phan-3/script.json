@@ -1,0 +1,890 @@
+{
+ "title": "Tổn thương thận cấp – Phần 3: Điều trị nội khoa",
+ "theme": "benh-hoc",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bệnh học Hồi sức cấp cứu",
+ "part": "Tổn thương thận cấp · Phần 3/5",
+ "source_short": "Nguồn: KDIGO 2026 (dự thảo) · KDIGO 2012 · ADQI · CSCCM 2026 · RCT then chốt",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "[TIMP-2]·[IGFBP7]": "tim pi hai nhân i gi ép bê pê bảy",
+  "STARRT-AKI": "sờ ta a ka i",
+  "BICARICU-2": "bi ca ri cu hai",
+  "PROTECTION": "prô téc sần",
+  "IDEAL-ICU": "ai đi ồ i xi u",
+  "BICAR-ICU": "bi ca i xi u",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "PRESERVE": "pri dớp",
+  "Sapphire": "sa phai a",
+  "HRS-AKI": "hội chứng gan thận thể tổn thương thận cấp",
+  "AKI-EPI": "a ka i e pi",
+  "PrevAKI": "prép a ka i",
+  "CONFIRM": "con phớm",
+  "mL/phút": "mi li lít mỗi phút",
+  "SA-AKI": "tổn thương thận cấp liên quan nhiễm khuẩn huyết",
+  "CA-AKI": "tổn thương thận cấp do thuốc cản quang",
+  "AKIKI2": "a ki ki hai",
+  "ICRAKI": "i cờ ra ki",
+  "BaSICS": "ba sích",
+  "TIMP-2": "tim pi hai",
+  "IGFBP7": "i gi ép bê pê bảy",
+  "NaHCO₃": "natri bicarbonat",
+  "MAKE90": "biến cố thận lớn ngày chín mươi",
+  "MAKE30": "biến cố thận lớn ngày ba mươi",
+  "SGLT2i": "thuốc ức chế ét gờ lờ tê hai",
+  "mmol/L": "mi li mol mỗi lít",
+  "µmol/L": "micromol mỗi lít",
+  "AKIKI": "a ki ki",
+  "ELAIN": "e lanh",
+  "ACORN": "ây con",
+  "SMART": "smát",
+  "CHEST": "chét",
+  "RENAL": "ri nồ",
+  "KDIGO": "ca đi gô",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "KeGFR": "mức lọc cầu thận động học",
+  "HCO₃⁻": "bicarbonat",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "mg/kg": "mi li gam mỗi ký",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "PLUS": "plát",
+  "RICH": "rích",
+  "NGAL": "en gan",
+  "ADQI": "a đê qui",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "CRRT": "lọc máu liên tục",
+  "IRRT": "lọc máu ngắt quãng",
+  "HVHF": "siêu lọc thể tích cao",
+  "MAKE": "biến cố thận lớn",
+  "ECMO": "e cờ mô",
+  "g/kg": "gam mỗi ký",
+  "mmHg": "mi li mét thuỷ ngân",
+  "ATN": "a tê en",
+  "GFR": "mức lọc cầu thận",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKD": "bệnh thận cấp",
+  "AKI": "tổn thương thận cấp",
+  "CKD": "bệnh thận mạn",
+  "FST": "test phu rô xê mít",
+  "SCr": "creatinin",
+  "MAP": "huyết áp trung bình",
+  "HES": "tinh bột hydroxyethyl",
+  "NAC": "en a xê",
+  "BUN": "bun",
+  "P/F": "pê trên ép"
+ },
+ "brand": {
+  "next": "Phần 4: Tình huống đặc thù – sepsis, cản quang, mổ tim, HRS"
+ },
+ "rail": [
+  {
+   "k": "dn",
+   "t": "Định nghĩa, dịch tễ"
+  },
+  {
+   "k": "bs",
+   "t": "Cơ chế, nguyên nhân"
+  },
+  {
+   "k": "cd",
+   "t": "Chẩn đoán, phân tầng"
+  },
+  {
+   "k": "dt",
+   "t": "Điều trị"
+  },
+  {
+   "k": "krt",
+   "t": "Thay thế thận"
+  },
+  {
+   "k": "tl",
+   "t": "Hồi phục, theo dõi"
+  }
+ ],
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Bệnh học Hồi sức · Tổn thương thận cấp",
+   "title": "Điều trị nội khoa<br>tổn thương thận cấp",
+   "subtitle": "Phần 3 · Bó chăm sóc, dịch, huyết áp, lợi tiểu, bicarbonate, thuốc",
+   "badges": [
+    {
+     "t": "KDIGO 2026 (dự thảo)",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "SMART · CHEST · 6S",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "BICARICU-2",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": "Bài giảng bệnh học · Phần 3/5",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba của loạt bài tổn thương thận cấp.",
+    "Không có thuốc đặc hiệu nào “chữa” tổn thương thận cấp. Việc của chúng ta là không để thận chịu thêm tổn thương, giữ tưới máu, xử trí biến chứng và tránh những can thiệp có hại.",
+    "Phần này đi qua bó chăm sóc bảo vệ thận, dịch truyền, huyết áp, lợi tiểu, bicarbonate cho toan nặng, và quản lý thuốc độc thận, mỗi biện pháp kèm bằng chứng và mức khuyến cáo."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "rail": "dt",
+   "chapter": "Trình tự",
+   "title": "Việc gì, lúc nào",
+   "ref": "KDIGO 2026 (dự thảo), Bảng 8, PP 5.1.3, R 3.1.2, 3.2.1, 5.1.1 · CSCCM 2026, khuyến cáo 2",
+   "items": [
+    {
+     "t": "Giờ đầu",
+     "d": "Phân giai đoạn · loại trừ tắc nghẽn · rà thuốc độc thận · tìm biến chứng đe dọa tính mạng → KRT cấp cứu nếu kháng trị",
+     "at": 0,
+     "c": "coral",
+     "n": 1
+    },
+    {
+     "t": "24 giờ đầu",
+     "d": "Tưới máu: dịch có đệm, MAP >65 mmHg · nước tiểu mỗi giờ · tìm nguyên nhân · FST hoặc chỉ dấu để phân tầng",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "48–72 giờ",
+     "d": "Thoáng qua hay kéo dài · chiến lược KRT trì hoãn có theo dõi · rút dịch khi quá tải",
+     "at": 2,
+     "c": "teal",
+     "n": 3
+    }
+   ],
+   "lines": [
+    "Trước hết là trình tự. Trong giờ đầu: phân giai đoạn, loại trừ tắc nghẽn, rà soát và ngừng thuốc độc thận, và tìm biến chứng đe dọa tính mạng như tăng kali, toan nặng, phù phổi. Nếu các biến chứng này kháng trị nội khoa, khởi động lọc máu, không trì hoãn.",
+    "Trong 24 giờ đầu: tối ưu tưới máu với dịch tinh thể có đệm và huyết áp trung bình trên 65, theo dõi nước tiểu mỗi giờ, tìm nguyên nhân đặc hiệu, và có thể dùng test furosemide hay chỉ dấu để phân tầng.",
+    "Từ 48 đến 72 giờ: xác định tổn thương thoáng qua hay kéo dài, theo dõi để quyết định lọc máu theo chiến lược trì hoãn, và chuyển sang rút dịch khi người bệnh quá tải."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Bó chăm sóc",
+   "title": "PrevAKI: bó KDIGO dựa trên chỉ dấu",
+   "ref": "Meersch, Intensive Care Med 2017 (PrevAKI), pdf 2, 4, 8–9 · KDIGO 2026 (dự thảo), R 3.2.3 (1B), tr. 144",
+   "groups": [
+    {
+     "t": "AKI trong 72 giờ sau mổ tim",
+     "d": "[TIMP-2]·[IGFBP7] ≥0,3 · n = 276",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Bó KDIGO",
+       "v": 55.1,
+       "lab": "55,1%",
+       "c": "teal"
+      },
+      {
+       "k": "Chăm sóc chuẩn",
+       "v": 71.7,
+       "lab": "71,7%"
+      }
+     ]
+    },
+    {
+     "t": "Biến cố thận lớn ngày 90",
+     "d": "không khác biệt",
+     "at": 2,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Bó KDIGO",
+       "v": 14.6,
+       "lab": "14,6%",
+       "c": "violet"
+      },
+      {
+       "k": "Chăm sóc chuẩn",
+       "v": 13.4,
+       "lab": "13,4%"
+      }
+     ]
+    }
+   ],
+   "max": 80,
+   "h": 520,
+   "notes": [
+    {
+     "t": "OR 0,483 · giảm nguy cơ tuyệt đối 16,6% (p = 0,004)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "KRT không khác giữa hai nhóm",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "KDIGO 2026: khuyến cáo bó đa thành phần cho người phẫu thuật nguy cơ cao (1B)",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Bằng chứng cho bó chăm sóc đến từ thử nghiệm PrevAKI. 276 người bệnh mổ tim có tích TIMP-2 và IGFBP7 từ 0,3 trở lên, 4 giờ sau tuần hoàn ngoài cơ thể, được chia ngẫu nhiên áp dụng nghiêm ngặt bó KDIGO hoặc chăm sóc chuẩn. Tổn thương thận cấp trong 72 giờ giảm từ 71,7 xuống 55,1 phần trăm.",
+    "Tỷ số chênh 0,483, giảm nguy cơ tuyệt đối 16,6 phần trăm.",
+    "Tuy nhiên, tỷ lệ lọc máu và biến cố thận lớn ngày 90 không khác biệt.",
+    "Dựa trên PrevAKI và thử nghiệm tương tự ở phẫu thuật ngoài tim, KDIGO 2026 khuyến cáo, mức 1B, dùng chiến lược bảo vệ thận đa thành phần ở người lớn phẫu thuật có nguy cơ cao, nhận diện bằng yếu tố lâm sàng và chỉ dấu."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "list",
+   "rail": "dt",
+   "chapter": "Thành phần bó",
+   "title": "Bó bảo vệ thận gồm những gì?",
+   "ref": "Meersch 2017 (PrevAKI), pdf 2 · KDIGO 2026 (dự thảo), PP 3.2.4, PP 3.4.1, tr. 144, 155",
+   "items": [
+    {
+     "t": "Tránh thuốc độc thận",
+     "d": "",
+     "at": 0,
+     "c": "coral",
+     "n": 1
+    },
+    {
+     "t": "Tạm ngừng ức chế men chuyển, chẹn thụ thể 48 giờ đầu sau mổ",
+     "d": "",
+     "at": 0,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "Theo dõi sát creatinin và nước tiểu",
+     "d": "",
+     "at": 1,
+     "c": "teal",
+     "n": 3
+    },
+    {
+     "t": "Tránh tăng đường huyết 72 giờ đầu",
+     "d": "KDIGO 2026: glucose 140–180 mg/dL chấp nhận được",
+     "at": 1,
+     "c": "violet",
+     "n": 4
+    },
+    {
+     "t": "Cân nhắc thay thế thuốc cản quang",
+     "d": "",
+     "at": 2,
+     "c": "blue",
+     "n": 5
+    },
+    {
+     "t": "Theo dõi huyết động sát, tối ưu thể tích",
+     "d": "PiCCO trong PrevAKI",
+     "at": 2,
+     "c": "green",
+     "n": 6
+    }
+   ],
+   "lines": [
+    "Bó trong PrevAKI gồm sáu thành phần: tránh thuốc độc thận, và tạm ngừng thuốc ức chế men chuyển cùng chẹn thụ thể angiotensin trong 48 giờ đầu sau mổ.",
+    "Theo dõi sát creatinin và nước tiểu; tránh tăng đường huyết trong 72 giờ đầu. KDIGO 2026 coi mục tiêu glucose 140 đến 180 mi li gam mỗi đề xi lít là chấp nhận được, thay cho mục tiêu chặt hơn của năm 2012.",
+    "Cân nhắc phương án thay thế thuốc cản quang, và theo dõi huyết động sát để tối ưu thể tích; trong PrevAKI dùng hệ thống PiCCO. KDIGO 2026 cũng khuyên cân nhắc các biện pháp này khi tổn thương thận đã xảy ra."
+   ],
+   "id": "s04",
+   "dense": true
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Loại dịch",
+   "title": "Dịch cân bằng hay muối sinh lý?",
+   "ref": "SMART 2018, tr. 1 · BaSICS 2021 · PLUS 2022, tr. 815",
+   "groups": [
+    {
+     "t": "SMART · MAKE30",
+     "d": "15.802 người · ngẫu nhiên theo cụm",
+     "at": 0,
+     "c": "teal",
+     "hl": "L0",
+     "bars": [
+      {
+       "k": "Dịch cân bằng",
+       "v": 14.3,
+       "lab": "14,3%",
+       "c": "teal"
+      },
+      {
+       "k": "NaCl 0,9%",
+       "v": 15.4,
+       "lab": "15,4%"
+      }
+     ]
+    },
+    {
+     "t": "BaSICS · tử vong 90 ngày",
+     "d": "10.520 người",
+     "at": 1,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Plasma-Lyte",
+       "v": 26.4,
+       "lab": "26,4%",
+       "c": "violet"
+      },
+      {
+       "k": "NaCl 0,9%",
+       "v": 27.2,
+       "lab": "27,2%"
+      }
+     ]
+    },
+    {
+     "t": "PLUS · tử vong 90 ngày",
+     "d": "4.846 người",
+     "at": 2,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Plasma-Lyte",
+       "v": 21.8,
+       "lab": "21,8%",
+       "c": "amber"
+      },
+      {
+       "k": "NaCl 0,9%",
+       "v": 22.0,
+       "lab": "22,0%"
+      }
+     ]
+    }
+   ],
+   "max": 32,
+   "h": 540,
+   "notes": [
+    {
+     "t": "SMART: OR 0,91 (0,84–0,99), p = 0,04",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "BaSICS: KRT 7,5% so với 8,1%",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "PLUS: KRT mới 12,7% so với 12,9%",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 460,
+   "lines": [
+    "Về loại dịch tinh thể. Thử nghiệm SMART, ngẫu nhiên theo cụm trên 15.802 người bệnh hồi sức, cho thấy biến cố thận lớn trong 30 ngày, gồm tử vong, lọc máu mới hoặc rối loạn chức năng thận kéo dài, là 14,3 phần trăm với dịch cân bằng so với 15,4 phần trăm với muối sinh lý, tỷ số chênh 0,91.",
+    "Hai thử nghiệm lớn sau đó không thấy khác biệt tử vong: BaSICS trên 10.520 người, 26,4 so với 27,2 phần trăm, tỷ lệ lọc máu 7,5 so với 8,1 phần trăm.",
+    "Và PLUS trên gần 4.900 người, tử vong 21,8 so với 22,0 phần trăm, lọc máu mới 12,7 so với 12,9 phần trăm."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Dịch keo",
+   "title": "Tinh bột hydroxyethyl: bài học đắt giá",
+   "ref": "CHEST 2012 · 6S 2012, tr. 124, 131",
+   "groups": [
+    {
+     "t": "CHEST · cần KRT",
+     "d": "7.000 người hồi sức",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "HES",
+       "v": 7.0,
+       "lab": "7,0%",
+       "c": "coral"
+      },
+      {
+       "k": "NaCl 0,9%",
+       "v": 5.8,
+       "lab": "5,8%"
+      }
+     ]
+    },
+    {
+     "t": "6S · tử vong hoặc lệ thuộc lọc máu ngày 90",
+     "d": "798 người nhiễm khuẩn huyết nặng",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "HES 130/0,42",
+       "v": 51,
+       "lab": "51%",
+       "c": "coral"
+      },
+      {
+       "k": "Ringer acetat",
+       "v": 43,
+       "lab": "43%"
+      }
+     ]
+    }
+   ],
+   "max": 60,
+   "h": 520,
+   "notes": [
+    {
+     "t": "CHEST: RR KRT 1,21 (1,00–1,45); tử vong không khác",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "6S: RR 1,17 (1,01–1,36); KRT 22% so với 16%",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Không dùng tinh bột, gelatin, dextran (ADQI 28: 1A)",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Bài học về dịch keo tổng hợp. Trong CHEST, trên 7.000 người bệnh hồi sức, tinh bột hydroxyethyl không thay đổi tử vong nhưng làm tăng nhu cầu lọc máu, 7,0 so với 5,8 phần trăm.",
+    "Trong 6S, ở người nhiễm khuẩn huyết nặng, tinh bột hydroxyethyl 130 trên 0,42 làm tăng tử vong hoặc lệ thuộc lọc máu ngày 90, từ 43 lên 51 phần trăm, và tăng lọc máu từ 16 lên 22 phần trăm.",
+    "Vì vậy đồng thuận ADQI 28 khuyến cáo mức 1A không dùng tinh bột, gelatin và dextran trong tổn thương thận cấp liên quan nhiễm khuẩn huyết."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "box",
+   "rail": "dt",
+   "chapter": "Khuyến cáo dịch",
+   "title": "KDIGO 2026 về dịch truyền",
+   "ref": "KDIGO 2026 (dự thảo), R 3.1.1, R 3.1.2, tr. 118, 122 · ADQI 28, phát biểu 3b–3h",
+   "box": {
+    "tag": "KDIGO 2026 · KHUYẾN CÁO 3.1.1 VÀ 3.1.2 · 1B",
+    "t": "Dùng <b>tinh thể thay vì keo</b> (albumin, gelatin, tinh bột) để mở rộng thể tích ban đầu. Dùng <b>tinh thể có đệm thay NaCl 0,9%</b>, trừ khi có <b>chấn thương sọ não</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "BAO NHIÊU",
+     "t": "Lượng dịch theo mục tiêu cụ thể (1B)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "AI CẦN",
+     "t": "Đánh giá đáp ứng dịch, không dựa vào CVP (1C)",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "THEO DÕI",
+     "t": "Cân bằng dịch hằng ngày và cộng dồn (1C)",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Tổng hợp lại, KDIGO 2026 khuyến cáo mức 1B: dùng dịch tinh thể thay vì dịch keo, kể cả albumin, gelatin và tinh bột, để mở rộng thể tích ban đầu; và dùng tinh thể có đệm thay cho muối sinh lý, trừ khi người bệnh có chấn thương sọ não.",
+    "ADQI 28 bổ sung cách dùng: lượng dịch phải nhắm tới mục tiêu cụ thể, và quyết định truyền dịch dựa trên đánh giá đáp ứng dịch, không dựa vào áp lực tĩnh mạch trung tâm.",
+    "Theo dõi cân bằng dịch hằng ngày và cộng dồn. Truyền dịch cho thận khi người bệnh đã quá tải là một sai lầm thường gặp."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "cards",
+   "rail": "dt",
+   "chapter": "Huyết áp",
+   "title": "Huyết áp và thuốc vận mạch",
+   "ref": "KDIGO 2026 (dự thảo), R 3.2.1 (2C), PP 3.2.2–3.2.3, R 3.2.2 (1A), tr. 135–142 · ADQI 28, 3j, 3m",
+   "cards": [
+    {
+     "tag": "MỤC TIÊU · 2C",
+     "t": "MAP > 65 mmHg",
+     "items": [
+      "Cao hơn nếu tăng huyết áp mạn",
+      "Tránh tác dụng phụ vận mạch liều cao"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "VẬN MẠCH",
+     "t": "Phối hợp với dịch",
+     "items": [
+      "Khi hạ áp không đáp ứng dịch ban đầu",
+      "Noradrenalin đầu tay trong sepsis (1A)",
+      "Vasopressin, angiotensin II: một số kiểu hình (2B)"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "KHÔNG LÀM · 1A",
+     "t": "Dopamin liều thấp",
+     "items": [
+      "Không dùng để bảo vệ thận"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Về huyết áp, KDIGO 2026 gợi ý, mức 2C, huyết áp trung bình trên 65 mi li mét thuỷ ngân làm mục tiêu cho dịch và vận mạch ở người lớn nặng có hoặc nguy cơ cao tổn thương thận cấp. Mục tiêu cần cá thể hoá: cao hơn ở người tăng huyết áp mạn, và tránh vận mạch liều quá cao.",
+    "Vận mạch dùng phối hợp với dịch khi hạ huyết áp không đáp ứng dịch ban đầu. Trong nhiễm khuẩn huyết, noradrenalin là thuốc đầu tay, mức 1A theo ADQI 28; vasopressin hay angiotensin II có thể có lợi ở một số kiểu hình, mức 2B.",
+    "Và KDIGO 2026 khuyến cáo mức 1A: không dùng dopamin liều thấp để bảo vệ thận."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "cards",
+   "rail": "dt",
+   "chapter": "Lợi tiểu",
+   "title": "Lợi tiểu: đúng chỉ định",
+   "ref": "KDIGO 2026 (dự thảo), R 3.3.1 (2B), R 3.3.2 (1C), PP 3.3.1, PP 5.9.4, tr. 149–153, 303",
+   "cards": [
+    {
+     "tag": "KHI NÀO · 2B",
+     "t": "Quá tải dịch có ý nghĩa",
+     "items": [
+      "Gợi ý dùng lợi tiểu"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "TRƯỚC SIÊU LỌC · 1C",
+     "t": "Lợi tiểu trước",
+     "items": [
+      "Ưu tiên hơn rút dịch ngoài cơ thể",
+      "Nếu không có chỉ định KRT khác"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "CÁCH DÙNG",
+     "t": "Tiêm ngắt quãng",
+     "items": [
+      "Bolus lợi tiểu quai hơn truyền liên tục lúc đầu"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KHÔNG KỲ VỌNG",
+     "t": "Không giúp thận hồi phục",
+     "items": [
+      "Chỉ tăng nước tiểu, quản lý dịch"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Lợi tiểu có chỗ đứng rõ ràng nhưng hẹp. KDIGO 2026 gợi ý dùng lợi tiểu khi người bệnh quá tải dịch có ý nghĩa lâm sàng, mức 2B.",
+    "Khi quá tải dịch mà không có chỉ định lọc máu nào khác, khuyến cáo dùng lợi tiểu trước, ưu tiên hơn rút dịch ngoài cơ thể, mức 1C, vì siêu lọc xâm lấn, tốn kém và nhiều nguy cơ.",
+    "Ban đầu, dùng lợi tiểu quai tiêm ngắt quãng thay vì truyền liên tục.",
+    "Nhưng đừng kỳ vọng lợi tiểu giúp thận hồi phục: chưa được chứng minh. Biến tổn thương thận cấp thiểu niệu thành không thiểu niệu không thay đổi tiên lượng."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "bars",
+   "rail": "dt",
+   "chapter": "Toan nặng",
+   "title": "Bicarbonate trong toan nặng có AKI",
+   "ref": "BICAR-ICU 2018, tr. 6 · BICARICU-2 2025, tr. E1, E7",
+   "groups": [
+    {
+     "t": "BICAR-ICU · tầng AKIN 2–3 · tử vong ngày 28",
+     "d": "n = 182",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Bicarbonate",
+       "v": 46,
+       "lab": "46%",
+       "c": "teal"
+      },
+      {
+       "k": "Không bicarbonate",
+       "v": 63,
+       "lab": "63%"
+      }
+     ]
+    },
+    {
+     "t": "BICARICU-2 · dùng KRT đến ngày 28",
+     "d": "627 người, pH ≤7,20 + AKI 2–3",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Bicarbonate",
+       "v": 35,
+       "lab": "35%",
+       "c": "coral"
+      },
+      {
+       "k": "Không bicarbonate",
+       "v": 50,
+       "lab": "50%"
+      }
+     ]
+    },
+    {
+     "t": "BICARICU-2 · tử vong ngày 90",
+     "d": "không khác biệt",
+     "at": 2,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Bicarbonate",
+       "v": 62.1,
+       "lab": "62,1%",
+       "c": "violet"
+      },
+      {
+       "k": "Không bicarbonate",
+       "v": 61.7,
+       "lab": "61,7%"
+      }
+     ]
+    }
+   ],
+   "max": 75,
+   "h": 540,
+   "notes": [
+    {
+     "t": "BICAR-ICU tầng AKIN 2–3: KRT 51% so với 73%",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "BICARICU-2: chênh lệch KRT −15,5% (−23,1 đến −7,8)",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Lợi ích: tránh lọc máu, không giảm tử vong",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 460,
+   "lines": [
+    "Toan chuyển hoá nặng là chỗ bằng chứng thay đổi rõ nhất. Trong BICAR-ICU, ở tầng có tổn thương thận cấp giai đoạn 2 đến 3, bicarbonate giảm tử vong ngày 28 từ 63 xuống 46 phần trăm và giảm lọc máu từ 73 xuống 51 phần trăm.",
+    "Thử nghiệm xác nhận BICARICU-2, trên 627 người có pH từ 7,20 trở xuống kèm tổn thương thận cấp giai đoạn 2 đến 3, cho thấy bicarbonate giảm dùng lọc máu đến ngày 28 từ 50 xuống 35 phần trăm.",
+    "Nhưng tử vong ngày 90 không khác biệt, 62,1 so với 61,7 phần trăm. Lợi ích là tránh được lọc máu, không phải giảm tử vong."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "box",
+   "rail": "dt",
+   "chapter": "Cách dùng",
+   "title": "Bicarbonate trước lọc máu",
+   "ref": "KDIGO 2026 (dự thảo), R 3.1.3 (2C), tr. 127 · BICARICU-2, tr. E2–E3, E8–E9",
+   "box": {
+    "tag": "KDIGO 2026 · KHUYẾN CÁO 3.1.3 · 2C",
+    "t": "AKI hoặc AKD có toan chuyển hoá nặng, <b>pH <7,20</b>: gợi ý <b>bicarbonate tĩnh mạch thay vì KRT</b>, trừ khi có chỉ định KRT cấp cứu khác.",
+    "at": 0,
+    "c": "coral",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "PHÁC ĐỒ THỬ NGHIỆM",
+     "t": "NaHCO₃ 4,2% 125–250 mL trong 30 phút · tối đa 1.000 mL/24 giờ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "MỤC TIÊU",
+     "t": "pH ≥7,30 · khí máu 1–4 giờ sau mỗi lần",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "ĐỐI TƯỢNG",
+     "t": "PaCO₂ ≤45 mmHg, HCO₃⁻ ≤20 · không nhiễm toan ceton",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Từ đó, KDIGO 2026 gợi ý, mức 2C: ở người có tổn thương thận cấp hoặc bệnh thận cấp kèm toan chuyển hoá nặng với pH dưới 7,20, dùng bicarbonate tĩnh mạch thay vì lọc máu, trừ khi có chỉ định lọc máu cấp cứu khác.",
+    "Phác đồ trong thử nghiệm: natri bicarbonat 4,2 phần trăm, mỗi lần 125 đến 250 mi li lít truyền trong 30 phút, tối đa 1.000 mi li lít, tức 500 mili đương lượng, trong 24 giờ.",
+    "Mục tiêu pH từ 7,30 trở lên, kiểm tra khí máu 1 đến 4 giờ sau mỗi lần truyền.",
+    "Đối tượng là toan chuyển hoá thực sự: áp lực CO2 động mạch không quá 45, bicarbonat không quá 20; loại trừ toan hô hấp, nhiễm toan ceton và mất bicarbonat qua tiêu hoá hay tiết niệu. Đây là phác đồ của thử nghiệm; xin kiểm tra theo chế phẩm tại đơn vị."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "list",
+   "rail": "dt",
+   "chapter": "Quản lý thuốc",
+   "title": "Quản lý thuốc độc thận (stewardship)",
+   "ref": "KDIGO 2026 (dự thảo), R 4.2.1 (1C), PP 4.2.1–4.6.2, R 4.10.1, 4.11.1, tr. 198–239 · ACORN 2023, tr. E1",
+   "items": [
+    {
+     "t": "Khuyến cáo quản lý đa phương thức (1C)",
+     "d": "Ngừng, thay thuốc ít độc thận hơn, đo nồng độ thuốc, rà tương tác, dược sĩ rà soát",
+     "at": 0,
+     "c": "coral",
+     "n": 1
+    },
+    {
+     "t": "Chỉnh liều theo xu hướng creatinin và nước tiểu",
+     "d": "Không dùng eGFR giả định ổn định · có thể tính KeGFR",
+     "at": 1,
+     "c": "teal",
+     "n": 2
+    },
+    {
+     "t": "ACORN: piperacillin–tazobactam không tăng AKI so với cefepime",
+     "d": "OR 0,95 (0,80–1,13) · 77,2% dùng kèm vancomycin",
+     "at": 2,
+     "c": "violet",
+     "n": 3
+    },
+    {
+     "t": "Thuốc nam, thảo dược, thuốc trừ sâu",
+     "d": ">80% dân số nơi nguồn lực thấp – trung bình dùng thảo dược",
+     "at": 3,
+     "c": "amber",
+     "n": 4
+    },
+    {
+     "t": "Ức chế RAS quanh mổ chương trình: không ngừng thường quy",
+     "d": "Mổ tim 2D · ngoài tim 2B; tạm ngừng khi bệnh cấp gây mất dịch (2D)",
+     "at": 4,
+     "c": "blue",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Cuối cùng là thuốc. KDIGO 2026 khuyến cáo, mức 1C, quản lý thuốc và chất độc thận theo cách đa phương thức: ngừng thuốc độc thận khi được, thay bằng thuốc tương đương ít độc hơn, theo dõi nồng độ thuốc, rà soát tương tác, có dược sĩ tham gia và hệ thống hỗ trợ quyết định.",
+    "Chỉnh liều thuốc thải qua thận theo xu hướng creatinin và nước tiểu, không dùng mức lọc cầu thận tính từ phương trình giả định trạng thái ổn định; có thể tính mức lọc cầu thận động học khi có đủ số đo.",
+    "Một nỗi lo thường gặp là phối hợp vancomycin với piperacillin–tazobactam. Thử nghiệm ACORN trên 2.511 người bệnh, 77,2 phần trăm dùng kèm vancomycin, cho thấy piperacillin–tazobactam không làm tăng tổn thương thận cấp hay tử vong so với cefepime.",
+    "Với tổn thương thận cấp mắc phải ở cộng đồng, hãy hỏi kỹ thuốc nam, thảo dược, thuốc trừ sâu và phơi nhiễm môi trường; theo KDIGO, hơn 80 phần trăm dân số ở nơi nguồn lực thấp và trung bình dùng thảo dược, điều rất đúng với Việt Nam.",
+    "Và không ngừng thường quy thuốc ức chế hệ renin angiotensin trước phẫu thuật chương trình, nhưng nên tạm ngừng một số nhóm thuốc khi bệnh cấp gây mất dịch, kèm kế hoạch rõ ràng khi nào dùng lại."
+   ],
+   "id": "s12",
+   "dense": true
+  },
+  {
+   "layout": "quiz",
+   "rail": "dt",
+   "chapter": "Tình huống",
+   "title": "Tình huống: pH 7,16",
+   "ref": "Ca giả định · KDIGO 2026 (dự thảo), R 3.1.3, PP 5.1.3 · BICARICU-2",
+   "case": "Nam, 68 tuổi, sốc nhiễm khuẩn ngày 2, AKI giai đoạn 3. pH 7,16, HCO₃⁻ 11 mmol/L, PaCO₂ 32 mmHg, kali 5,6 mmol/L. Không phù phổi, không tăng kali nặng.",
+   "case_at": 0,
+   "q": "Bước xử trí toan phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Lọc máu ngay",
+    "NaHCO₃ 4,2% theo phác đồ, theo dõi khí máu",
+    "Furosemide liều cao",
+    "Chờ, không xử trí toan"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "explain": "pH <7,20, không có chỉ định KRT cấp cứu khác → bicarbonate trước (KDIGO 2026 R 3.1.3, 2C; BICARICU-2 giảm KRT 50% → 35%).",
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "lines": [
+    "Tình huống. Người đàn ông 68 tuổi, sốc nhiễm khuẩn ngày thứ hai, tổn thương thận cấp giai đoạn 3. Khí máu: pH 7,16, bicarbonat 11, áp lực CO2 32. Kali 5,6. Không phù phổi, không tăng kali nặng.",
+    "Bước xử trí toan nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là truyền natri bicarbonat 4,2 phần trăm theo phác đồ và theo dõi khí máu. pH dưới 7,20, và chưa có chỉ định lọc máu cấp cứu nào khác, nên theo KDIGO 2026 dùng bicarbonate trước. Trong BICARICU-2, cách làm này giảm tỷ lệ phải lọc máu đến ngày 28 từ 50 xuống 35 phần trăm. Nhưng cần đánh giá lại liên tục: nếu kali tăng nặng hay phù phổi kháng trị, chỉ định lọc máu sẽ đến."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "summary",
+   "rail": "dt",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 3",
+   "items": [
+    {
+     "t": "Bó bảo vệ thận ở người phẫu thuật nguy cơ cao (1B)",
+     "d": "PrevAKI: AKI 55,1% so với 71,7%",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Tinh thể có đệm, không keo, không tinh bột",
+     "d": "1B · SMART, CHEST, 6S",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "MAP >65 mmHg (cá thể hoá), không dopamin liều thấp",
+     "d": "2C · 1A",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Lợi tiểu bolus khi quá tải, trước siêu lọc",
+     "d": "2B · 1C",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "pH <7,20: bicarbonate trước lọc máu",
+     "d": "2C · BICARICU-2 giảm KRT",
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "t": "Quản lý thuốc độc thận đa phương thức",
+     "d": "1C · chỉnh liều theo xu hướng",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần ba. Bó bảo vệ thận cho người phẫu thuật nguy cơ cao.",
+    "Dịch tinh thể có đệm, không dùng keo tổng hợp.",
+    "Huyết áp trung bình trên 65, cá thể hoá, và không dùng dopamin liều thấp.",
+    "Lợi tiểu tiêm ngắt quãng khi quá tải dịch, trước khi nghĩ đến siêu lọc.",
+    "Toan nặng pH dưới 7,20: bicarbonate trước lọc máu.",
+    "Và quản lý thuốc độc thận chủ động. Phần bốn sẽ bàn các tình huống đặc thù: nhiễm khuẩn huyết, thuốc cản quang, mổ tim, hội chứng gan thận và ly giải u. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s14",
+   "dense": true
+  }
+ ]
+}
