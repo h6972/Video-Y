@@ -1,0 +1,487 @@
+1
+00:00:04,900 --> 00:00:06,100
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,950 --> 00:00:10,300
+chào mừng quý vị đến với phần ba trong loạt bài viêm phổi bệnh viện và viêm phổi thở
+
+3
+00:00:10,150 --> 00:00:11,850
+máy của Thư Viện Y Khoa Online.
+
+4
+00:00:12,050 --> 00:00:15,983
+Kháng sinh kinh nghiệm cho viêm phổi bệnh viện là cuộc cân bằng giữa hai rủi ro:
+
+5
+00:00:15,833 --> 00:00:18,112
+bỏ sót vi khuẩn kháng thuốc thì tử vong tăng,
+
+6
+00:00:17,962 --> 00:00:20,760
+còn phủ quá rộng thì chọn lọc thêm vi khuẩn kháng thuốc.
+
+7
+00:00:20,960 --> 00:00:23,983
+Phần này đi qua cách phân tầng, phác đồ và liều cụ thể,
+
+8
+00:00:23,833 --> 00:00:27,430
+rồi trả lời câu hỏi quan trọng không kém: dừng kháng sinh khi nào.
+
+9
+00:00:28,880 --> 00:00:32,699
+Hướng dẫn châu Âu 2017 đưa ra một lưu đồ gọn với hai câu hỏi:
+
+10
+00:00:32,549 --> 00:00:37,270
+người bệnh có nguy cơ vi khuẩn đa kháng không, và nguy cơ tử vong cao không?
+
+11
+00:00:37,470 --> 00:00:42,169
+Nếu nguy cơ đa kháng thấp và nguy cơ tử vong không quá 15 phần trăm,
+
+12
+00:00:42,019 --> 00:00:46,986
+có thể dùng một kháng sinh phổ hẹp như ertapenem, ceftriaxon, cefotaxim,
+
+13
+00:00:46,836 --> 00:00:49,060
+moxifloxacin hoặc levofloxacin.
+
+14
+00:00:49,260 --> 00:00:52,329
+Nếu nguy cơ cao nhưng chưa sốc, dùng một thuốc Gram âm,
+
+15
+00:00:52,179 --> 00:00:57,424
+với điều kiện thuốc đó có hoạt tính trên hơn 90 phần trăm vi khuẩn Gram âm tại hồi sức của mình,
+
+16
+00:00:57,274 --> 00:01:00,290
+kèm thuốc phủ tụ cầu kháng methicillin nếu có nguy cơ.
+
+17
+00:01:00,490 --> 00:01:04,149
+Nếu sốc nhiễm khuẩn, dùng hai thuốc chống trực khuẩn mủ xanh,
+
+18
+00:01:03,999 --> 00:01:07,428
+kèm phủ MRSA khi cần. Với tỷ lệ kháng thuốc tại Việt Nam,
+
+19
+00:01:07,278 --> 00:01:10,880
+phần lớn người bệnh của chúng ta rơi vào hai nhánh bên phải.
+
+20
+00:01:12,330 --> 00:01:16,779
+So sánh ba hướng dẫn. Về phủ tụ cầu kháng methicillin trong VAP:
+
+21
+00:01:16,629 --> 00:01:18,995
+IDSA phủ khi có nguy cơ đa kháng,
+
+22
+00:01:18,845 --> 00:01:23,630
+khi đơn vị có trên 10 đến 20 phần trăm tụ cầu vàng kháng methicillin,
+
+23
+00:01:23,480 --> 00:01:25,040
+hoặc chưa biết tỷ lệ.
+
+24
+00:01:25,240 --> 00:01:29,483
+Với viêm phổi bệnh viện không thở máy, ngưỡng của IDSA là 20 phần trăm,
+
+25
+00:01:29,333 --> 00:01:33,230
+còn khuyến cáo Việt Nam dùng ngưỡng 10 phần trăm cho cả hai nhóm.
+
+26
+00:01:33,430 --> 00:01:35,898
+Về dùng hai thuốc chống trực khuẩn mủ xanh:
+
+27
+00:01:35,748 --> 00:01:39,996
+IDSA dùng ngưỡng hơn 10 phần trăm vi khuẩn Gram âm kháng thuốc định đơn trị;
+
+28
+00:01:39,846 --> 00:01:42,907
+châu Âu dùng ngưỡng 25 phần trăm cùng sốc nhiễm khuẩn;
+
+29
+00:01:42,757 --> 00:01:45,980
+Việt Nam phối hợp khi bệnh nặng hoặc có nguy cơ đa kháng.
+
+30
+00:01:46,180 --> 00:01:47,478
+Khác biệt lớn nhất:
+
+31
+00:01:47,328 --> 00:01:51,947
+chỉ hướng dẫn châu Âu cho phép phác đồ phổ hẹp ở người bệnh khởi phát sớm,
+
+32
+00:01:51,797 --> 00:01:54,363
+nguy cơ thấp. IDSA luôn phủ tụ cầu vàng,
+
+33
+00:01:54,213 --> 00:01:59,497
+trực khuẩn mủ xanh và trực khuẩn Gram âm cho mọi VAP. Ngưỡng 10 đến 20 phần trăm được
+
+34
+00:01:59,347 --> 00:02:04,390
+chọn để ít nhất 95 phần trăm người bệnh nhận kháng sinh kinh nghiệm có hoạt tính.
+
+35
+00:02:05,840 --> 00:02:08,325
+Đây là các thuốc và liều cụ thể,
+
+36
+00:02:08,175 --> 00:02:14,162
+cho người có chức năng thận bình thường. Nhóm β-lactam chống trực khuẩn mủ xanh:
+
+37
+00:02:14,012 --> 00:02:20,218
+piperacillin tazobactam 4,5 gam mỗi 6 giờ, cefepim hoặc ceftazidim 2 gam mỗi 8 giờ,
+
+38
+00:02:20,068 --> 00:02:22,553
+meropenem 1 đến 2 gam mỗi 8 giờ,
+
+39
+00:02:22,403 --> 00:02:29,850
+imipenem 500 mi li gam mỗi 6 giờ. Khuyến cáo Việt Nam và IDSA 2026 đều ưu tiên truyền kéo dài 3 giờ.
+
+40
+00:02:30,050 --> 00:02:35,616
+Thuốc Gram âm thứ hai thuộc nhóm khác: amikacin 15 đến 20 mi li gam mỗi ký mỗi ngày,
+
+41
+00:02:35,466 --> 00:02:38,969
+gentamicin hoặc tobramycin 5 đến 7 mi li gam mỗi ký,
+
+42
+00:02:38,819 --> 00:02:44,321
+hoặc quinolon như levofloxacin 750 mi li gam mỗi ngày. Không dùng aminoglycosid làm
+
+43
+00:02:44,171 --> 00:02:46,900
+thuốc chống trực khuẩn mủ xanh duy nhất.
+
+44
+00:02:47,100 --> 00:02:52,511
+Phủ tụ cầu kháng methicillin: vancomycin 15 mi li gam mỗi ký mỗi 8 đến 12 giờ,
+
+45
+00:02:52,361 --> 00:02:56,760
+cân nhắc liều nạp 25 đến 30 mi li gam mỗi ký ở người bệnh nặng,
+
+46
+00:02:56,610 --> 00:03:02,290
+chỉnh theo đích AUC trên MIC 400 đến 600; hoặc linezolid 600 mi li gam mỗi 12 giờ.
+
+47
+00:03:02,490 --> 00:03:07,870
+Khuyến cáo Việt Nam nhấn mạnh liều nạp carbapenem 0,5 đến 1 gam trước khi truyền kéo dài,
+
+48
+00:03:07,720 --> 00:03:12,159
+đặc biệt ở người béo phì, albumin dưới 25, tăng thanh thải thận trên 130,
+
+49
+00:03:12,009 --> 00:03:16,801
+hoặc viêm phổi nặng nghi đa kháng. Mọi liều này phải chỉnh theo chức năng thận,
+
+50
+00:03:16,651 --> 00:03:17,800
+lọc máu hay ECMO.
+
+51
+00:03:19,250 --> 00:03:22,582
+Sau 48 đến 72 giờ, khi có kết quả cấy, xuống thang:
+
+52
+00:03:22,432 --> 00:03:28,760
+tiếp tục một thuốc theo kháng sinh đồ. IDSA gợi ý xuống thang thay vì giữ cố định phác đồ phổ rộng.
+
+53
+00:03:28,960 --> 00:03:34,339
+Hướng dẫn châu Âu chỉ giữ phối hợp hai thuốc với vi khuẩn không lên men kháng mở rộng hoặc toàn kháng,
+
+54
+00:03:34,189 --> 00:03:36,390
+và vi khuẩn đường ruột kháng carbapenem.
+
+55
+00:03:36,590 --> 00:03:41,220
+Nếu cấy âm tính và lâm sàng không còn gợi ý viêm phổi, cân nhắc ngừng kháng sinh.
+
+56
+00:03:41,420 --> 00:03:44,562
+Nếu không đáp ứng dù kháng sinh phù hợp với kháng sinh đồ,
+
+57
+00:03:44,412 --> 00:03:48,690
+khuyến cáo Việt Nam yêu cầu cấy lại, tìm ổ di bệnh, nhiễm nấm và chẩn đoán khác.
+
+58
+00:03:48,890 --> 00:03:53,520
+Và hướng dẫn châu Âu khuyến cáo mạnh: đánh giá lâm sàng tại giường là chuẩn;
+
+59
+00:03:53,370 --> 00:03:58,000
+không đo thường quy các chỉ dấu sinh học để dự đoán đáp ứng ở 72 đến 96 giờ.
+
+60
+00:03:59,450 --> 00:04:05,843
+Bằng chứng nền tảng cho liệu trình ngắn là thử nghiệm PneumA năm 2003 trên 401 người
+
+61
+00:04:05,693 --> 00:04:10,153
+bệnh VAP xác định bằng cấy định lượng. Tử vong không khác:
+
+62
+00:04:10,003 --> 00:04:12,160
+18,8 so với 17,2 phần trăm.
+
+63
+00:04:12,360 --> 00:04:16,020
+Tái nhiễm chung cũng tương đương: 28,9 so với 26 phần trăm,
+
+64
+00:04:15,870 --> 00:04:19,470
+trong khi nhóm 8 ngày có thêm hơn 4 ngày không kháng sinh.
+
+65
+00:04:19,670 --> 00:04:23,476
+Ngoại lệ là vi khuẩn không lên men như trực khuẩn mủ xanh:
+
+66
+00:04:23,326 --> 00:04:28,140
+tái nhiễm 40,6 so với 25,4 phần trăm. Nhưng tử vong ở nhóm này không tăng.
+
+67
+00:04:28,340 --> 00:04:30,950
+Và một lợi ích ít được nhắc: khi tái nhiễm,
+
+68
+00:04:30,800 --> 00:04:33,754
+vi khuẩn đa kháng xuất hiện ít hơn ở nhóm 8 ngày,
+
+69
+00:04:33,604 --> 00:04:37,930
+42,1 so với 62 phần trăm. Kháng sinh dài hơn chọn lọc vi khuẩn kháng hơn.
+
+70
+00:04:39,380 --> 00:04:44,752
+Nhưng PneumA làm ở châu Âu. Liệu trình ngắn có an toàn ở nơi nhiều vi khuẩn kháng
+
+71
+00:04:44,602 --> 00:04:48,233
+carbapenem như châu Á? Thử nghiệm REGARD-VAP năm 2024,
+
+72
+00:04:48,083 --> 00:04:52,810
+tại 39 khoa hồi sức ở Nepal, Singapore và Thái Lan, trả lời câu hỏi đó.
+
+73
+00:04:53,010 --> 00:04:57,800
+Nhóm cá thể hoá dùng kháng sinh trung vị 6 ngày, so với 14 ngày ở nhóm thường quy.
+
+74
+00:04:58,000 --> 00:05:03,514
+Kết cục chính, tử vong hoặc tái phát viêm phổi ở ngày 60, là 41 so với 44 phần trăm,
+
+75
+00:05:03,364 --> 00:05:05,110
+đạt tiêu chuẩn không kém.
+
+76
+00:05:05,310 --> 00:05:07,907
+Và tác dụng phụ của kháng sinh giảm mạnh,
+
+77
+00:05:07,757 --> 00:05:11,130
+từ 38 xuống 8 phần trăm. Tiêu chí ngừng rất thực hành:
+
+78
+00:05:10,980 --> 00:05:14,890
+hết sốt 48 giờ và huyết áp tâm thu từ 90 mà không cần vận mạch;
+
+79
+00:05:14,740 --> 00:05:16,740
+có thể ngừng sớm nhất ở ngày 3.
+
+80
+00:05:18,190 --> 00:05:25,074
+Các hướng dẫn thống nhất ở con số 7. IDSA 2016 khuyến cáo mạnh 7 ngày cho cả VAP và HAP,
+
+81
+00:05:24,924 --> 00:05:30,660
+và gợi ý dùng procalcitonin cộng tiêu chuẩn lâm sàng để quyết định ngừng.
+
+82
+00:05:30,860 --> 00:05:35,249
+Hướng dẫn châu Âu gợi ý 7 đến 8 ngày, kể cả với vi khuẩn không lên men,
+
+83
+00:05:35,099 --> 00:05:39,010
+Acinetobacter và tụ cầu kháng methicillin, miễn là đáp ứng tốt.
+
+84
+00:05:39,210 --> 00:05:42,820
+Nhưng có một nhóm cần cá thể hoá: kháng sinh ban đầu không phù hợp,
+
+85
+00:05:42,670 --> 00:05:44,059
+suy giảm miễn dịch nặng,
+
+86
+00:05:43,909 --> 00:05:48,396
+vi khuẩn kháng thuốc cao như Acinetobacter hay vi khuẩn đường ruột kháng carbapenem,
+
+87
+00:05:48,246 --> 00:05:50,720
+và khi phải dùng thuốc hàng hai như colistin.
+
+88
+00:05:50,920 --> 00:05:56,281
+Khuyến cáo Việt Nam cũng chọn 7 ngày nếu không phải vi khuẩn đa kháng và đáp ứng tốt,
+
+89
+00:05:56,131 --> 00:05:59,101
+cân nhắc ngừng khi procalcitonin 0,25 đến 0,5,
+
+90
+00:05:58,951 --> 00:06:03,822
+hoặc giảm từ 80 phần trăm so với đỉnh. Thử nghiệm PRORATA cho thấy chiến lược
+
+91
+00:06:03,672 --> 00:06:07,930
+procalcitonin thêm 2,7 ngày không kháng sinh mà tử vong không tăng.
+
+92
+00:06:09,380 --> 00:06:11,855
+Ba bẫy thường gặp trong thực hành. Thứ nhất,
+
+93
+00:06:11,705 --> 00:06:16,345
+giữ phối hợp hai thuốc sau khi đã có kháng sinh đồ và người bệnh đã hết sốc. Phối hợp
+
+94
+00:06:16,195 --> 00:06:19,568
+kinh nghiệm để tăng khả năng có ít nhất một thuốc trúng đích,
+
+95
+00:06:19,418 --> 00:06:20,730
+không phải để duy trì.
+
+96
+00:06:20,930 --> 00:06:21,498
+Thứ hai,
+
+97
+00:06:21,348 --> 00:06:25,889
+kéo dài 14 ngày cho chắc. Bằng chứng từ PneumA đến REGARD-VAP cho thấy điều đó không
+
+98
+00:06:25,739 --> 00:06:28,920
+giảm tử vong mà tăng tác dụng phụ và vi khuẩn kháng thuốc.
+
+99
+00:06:29,120 --> 00:06:29,784
+Thứ ba,
+
+100
+00:06:29,634 --> 00:06:36,029
+dùng aminoglycosid hoặc colistin đơn độc. Cả IDSA lẫn khuyến cáo Việt Nam đều nói rõ:
+
+101
+00:06:35,879 --> 00:06:36,470
+không.
+
+102
+00:06:37,920 --> 00:06:42,465
+Một tình huống. VAP do trực khuẩn mủ xanh nhạy cefepim,
+
+103
+00:06:42,315 --> 00:06:47,579
+đang dùng cefepim phối hợp amikacin. Ngày thứ 6: hết sốt 48 giờ,
+
+104
+00:06:47,429 --> 00:06:50,136
+đã ngừng noradrenalin từ ngày 3,
+
+105
+00:06:49,986 --> 00:06:55,170
+PaO₂/FiO₂ tăng từ 160 lên 280. Không có áp xe hay mủ màng phổi.
+
+106
+00:06:55,370 --> 00:06:57,120
+Kế hoạch nào hợp lý nhất?
+
+107
+00:06:57,320 --> 00:07:00,030
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+108
+00:07:08,630 --> 00:07:12,088
+Đáp án là B. Khi đã có kháng sinh đồ và người bệnh hết sốc,
+
+109
+00:07:11,938 --> 00:07:14,330
+IDSA khuyến cáo đơn trị bằng thuốc nhạy,
+
+110
+00:07:14,180 --> 00:07:19,824
+nên ngừng amikacin. Liệu trình 7 đến 8 ngày áp dụng cả với vi khuẩn không lên men nếu đáp ứng tốt,
+
+111
+00:07:19,674 --> 00:07:24,029
+như ca này. Phương án A tăng độc thận và kháng thuốc mà không giảm tử vong;
+
+112
+00:07:23,879 --> 00:07:26,720
+đổi sang meropenem là leo thang không cần thiết.
+
+113
+00:07:28,170 --> 00:07:32,236
+Tóm lại phần ba. Phác đồ kinh nghiệm dựa trên ba yếu tố: nguy cơ đa kháng,
+
+114
+00:07:32,086 --> 00:07:35,200
+nguy cơ tử vong và kháng sinh đồ tại chính khoa hồi sức.
+
+115
+00:07:35,400 --> 00:07:39,810
+Nhớ các ngưỡng: tụ cầu kháng methicillin 10 đến 20 phần trăm theo IDSA,
+
+116
+00:07:39,660 --> 00:07:44,430
+10 phần trăm theo Việt Nam; tỷ lệ kháng thuốc trên 25 phần trăm theo châu Âu.
+
+117
+00:07:44,630 --> 00:07:49,100
+Dùng β-lactam liều cao, truyền kéo dài, có liều nạp, và chỉnh theo chức năng thận.
+
+118
+00:07:49,300 --> 00:07:53,530
+Sau 48 đến 72 giờ, xuống thang về một thuốc theo kháng sinh đồ.
+
+119
+00:07:53,730 --> 00:07:55,794
+Và 7 ngày là đủ cho đa số người bệnh;
+
+120
+00:07:55,644 --> 00:08:00,501
+chỉ cá thể hoá với vi khuẩn kháng carbapenem hoặc khi phải dùng thuốc hàng hai. Ở phần bốn,
+
+121
+00:08:00,351 --> 00:08:04,950
+chúng ta sẽ chọn thuốc cho từng loại vi khuẩn kháng carbapenem. Cảm ơn quý đồng nghiệp
+
+122
+00:08:04,800 --> 00:08:06,760
+đã theo dõi Thư Viện Y Khoa Online.

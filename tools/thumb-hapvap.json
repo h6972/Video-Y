@@ -1,0 +1,7 @@
+[
+ {"out": "thumbs/hapvap-phan-1.png", "hook": "VIÊM PHỔI<br>THỞ MÁY", "line2": "Chỉ 9,6% còn nhạy imipenem", "chips": ["A. baumannii", "HAP · VAP · VAT"], "badge": "PHẦN 1/5", "tag": "IDSA 2016 · ERS 2017 · VN 2023", "img": "media/hapvap/raw/acineto_gram.jpg", "c": "coral"},
+ {"out": "thumbs/hapvap-phan-2.png", "hook": "CHẨN ĐOÁN<br>VAP", "line2": "Không có tiêu chuẩn vàng", "chips": ["Hút NKQ hay BAL?", "VAE · RECUVAP"], "badge": "PHẦN 2/5", "tag": "Fernando 2020 · NHSN 2026", "img": "media/hapvap/raw/bal.jpg", "c": "teal"},
+ {"out": "thumbs/hapvap-phan-3.png", "hook": "7 NGÀY<br>LÀ ĐỦ?", "line2": "Kháng sinh kinh nghiệm và liều", "chips": ["PneumA", "REGARD-VAP"], "badge": "PHẦN 3/5", "tag": "IDSA 2016 · ERS 2017 · VN 2023", "img": "media/hapvap/raw/icu_vent.jpg", "c": "amber"},
+ {"out": "thumbs/hapvap-phan-4.png", "hook": "KHÁNG<br>CARBAPENEM", "line2": "KPC · NDM · OXA-48 · CRAB", "chips": ["Colistin đúng liều", "IDSA 2026"], "badge": "PHẦN 4/5", "tag": "IDSA 2026 · ESCMID 2022 · SHEA 2022", "img": "media/hapvap/raw/kp_neutrophil.jpg", "c": "coral"},
+ {"out": "thumbs/hapvap-phan-5.png", "hook": "CA LÂM SÀNG<br>CRAB", "line2": "Sốt lại ngày 7 sau mổ bụng", "chips": ["Noradrenalin", "3 điểm quyết định"], "badge": "PHẦN 5/5", "tag": "Viêm phổi thở máy · hồi sức", "img": "media/hapvap/raw/cxr_vap.jpg", "c": "teal"}
+]

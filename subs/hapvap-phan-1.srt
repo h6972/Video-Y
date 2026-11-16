@@ -1,0 +1,515 @@
+1
+00:00:04,900 --> 00:00:06,195
+Thưa quý đồng nghiệp,
+
+2
+00:00:06,045 --> 00:00:10,777
+chào mừng quý vị đến với loạt bài viêm phổi bệnh viện và viêm phổi liên quan thở máy
+
+3
+00:00:10,627 --> 00:00:12,250
+của Thư Viện Y Khoa Online.
+
+4
+00:00:12,450 --> 00:00:16,496
+Đây là nhiễm khuẩn bệnh viện gây tử vong hàng đầu ở hồi sức. Và ở Việt Nam,
+
+5
+00:00:16,346 --> 00:00:20,600
+bài toán còn khó hơn: phần lớn tác nhân là trực khuẩn Gram âm kháng carbapenem.
+
+6
+00:00:20,800 --> 00:00:25,452
+Phần một trả lời ba câu hỏi: gọi tên thế nào cho đúng, gánh nặng thật sự lớn đến đâu,
+
+7
+00:00:25,302 --> 00:00:28,630
+và vi khuẩn nào đang gây bệnh tại các khoa hồi sức Việt Nam.
+
+8
+00:00:30,080 --> 00:00:35,115
+Bắt đầu bằng định nghĩa. Viêm phổi bệnh viện là viêm phổi không ủ bệnh lúc nhập viện và
+
+9
+00:00:34,965 --> 00:00:39,887
+xuất hiện từ 48 giờ sau nhập viện. Viêm phổi liên quan thở máy là viêm phổi xuất hiện
+
+10
+00:00:39,737 --> 00:00:42,470
+sau hơn 48 giờ kể từ khi đặt ống nội khí quản.
+
+11
+00:00:42,670 --> 00:00:49,345
+Hướng dẫn IDSA và ATS 2016 dùng chữ HAP chỉ cho viêm phổi không thở máy,
+
+12
+00:00:49,195 --> 00:00:53,060
+nên HAP và VAP là hai nhóm loại trừ nhau.
+
+13
+00:00:53,260 --> 00:00:54,520
+Một bẫy thường gặp:
+
+14
+00:00:54,370 --> 00:00:58,958
+người bệnh viêm phổi bệnh viện nặng dần rồi phải đặt ống. Đó không phải VAP,
+
+15
+00:00:58,808 --> 00:01:01,177
+mà là viêm phổi bệnh viện cần thở máy,
+
+16
+00:01:01,027 --> 00:01:06,140
+viết tắt vHAP. Còn viêm khí phế quản liên quan thở máy là khi có dấu hiệu nhiễm khuẩn
+
+17
+00:01:05,990 --> 00:01:09,060
+hô hấp nhưng không có thâm nhiễm mới trên X-quang.
+
+18
+00:01:09,260 --> 00:01:14,728
+Và khái niệm viêm phổi liên quan chăm sóc y tế, HCAP, đã bị bỏ từ năm 2016,
+
+19
+00:01:14,578 --> 00:01:20,897
+vì căn nguyên của nhóm này gần giống viêm phổi cộng đồng. Khuyến cáo Việt Nam 2023 cũng
+
+20
+00:01:20,747 --> 00:01:24,230
+không còn xếp nhóm này vào viêm phổi bệnh viện.
+
+21
+00:01:25,680 --> 00:01:30,483
+Gánh nặng lớn đến đâu? Viêm phổi bệnh viện và thở máy chiếm 22 phần trăm tổng số nhiễm
+
+22
+00:01:30,333 --> 00:01:33,350
+khuẩn bệnh viện trong một khảo sát nhiều bang tại Mỹ.
+
+23
+00:01:33,550 --> 00:01:36,573
+Khoảng 10 phần trăm người bệnh thở máy mắc VAP,
+
+24
+00:01:36,423 --> 00:01:39,140
+và tỷ lệ này không giảm trong thập kỷ qua.
+
+25
+00:01:39,340 --> 00:01:43,170
+Tử vong thô của VAP từ 20 đến 50 phần trăm.
+
+26
+00:01:43,370 --> 00:01:48,627
+Nhưng không phải tất cả số tử vong đó do viêm phổi. Phân tích gộp dữ liệu cá thể của
+
+27
+00:01:48,477 --> 00:01:53,917
+Melsen trên 6284 người bệnh từ 24 thử nghiệm ước tính tử vong quy kết chỉ 13 phần trăm,
+
+28
+00:01:53,767 --> 00:01:57,260
+cao nhất ở người bệnh ngoại khoa và độ nặng trung bình,
+
+29
+00:01:57,110 --> 00:01:59,510
+gần bằng 0 ở chấn thương và nội khoa.
+
+30
+00:01:59,710 --> 00:02:05,965
+Tuy vậy, VAP kéo dài thở máy thêm 7,6 đến 11,5 ngày, nằm viện thêm 11,5 đến 13,1 ngày,
+
+31
+00:02:05,815 --> 00:02:09,940
+và chi phí tăng khoảng 40 nghìn đô la Mỹ mỗi người bệnh.
+
+32
+00:02:11,390 --> 00:02:15,122
+Tại Việt Nam, tỷ lệ viêm phổi thở máy ở Bạch Mai,
+
+33
+00:02:14,972 --> 00:02:20,679
+Chợ Rẫy và Nhân dân Gia Định giai đoạn 2011 đến 2015 là 30 đến 55 phần trăm;
+
+34
+00:02:20,529 --> 00:02:26,820
+tần suất tại Khoa Hồi sức tích cực Bạch Mai năm 2015 là 24,8 trên 1000 ngày thở máy.
+
+35
+00:02:27,020 --> 00:02:32,814
+Khảo sát điểm hằng tháng tại 15 đơn vị hồi sức người lớn trên cả nước, công bố năm 2016,
+
+36
+00:02:32,664 --> 00:02:36,662
+cho thấy 29,5 phần trăm người bệnh có nhiễm khuẩn bệnh viện,
+
+37
+00:02:36,512 --> 00:02:42,050
+viêm phổi chiếm gần 80 phần trăm, và 84,8 phần trăm người bệnh đang dùng kháng sinh.
+
+38
+00:02:42,250 --> 00:02:48,322
+Điều đáng lo nhất là tỷ lệ kháng carbapenem: 89,2 phần trăm với Acinetobacter baumannii,
+
+39
+00:02:48,172 --> 00:02:53,840
+55,7 phần trăm với trực khuẩn mủ xanh và 14,9 phần trăm với Klebsiella pneumoniae.
+
+40
+00:02:54,040 --> 00:03:00,030
+Những con số này cho thấy phần lớn khoa hồi sức Việt Nam thuộc nhóm nguy cơ cao theo mọi hướng dẫn quốc tế.
+
+41
+00:03:01,480 --> 00:03:07,006
+Đây là ba tác nhân quý vị gặp hằng ngày. Acinetobacter baumannii chiếm 56,7 đến 66,2
+
+42
+00:03:06,856 --> 00:03:10,910
+phần trăm tác nhân viêm phổi thở máy tại Bạch Mai và Chợ Rẫy.
+
+43
+00:03:11,110 --> 00:03:13,759
+Trực khuẩn mủ xanh, Pseudomonas aeruginosa,
+
+44
+00:03:13,609 --> 00:03:16,780
+ở đây là tiêu bản nhuộm Gram với trực khuẩn Gram âm.
+
+45
+00:03:16,980 --> 00:03:21,130
+Và Klebsiella pneumoniae với khuẩn lạc nhầy đặc trưng trên đĩa thạch.
+
+46
+00:03:21,330 --> 00:03:25,041
+Hệ thống giám sát kháng kháng sinh quốc gia năm 2020,
+
+47
+00:03:24,891 --> 00:03:30,215
+với gần 24 nghìn chủng từ bệnh phẩm hô hấp dưới của 16 bệnh viện, cho thứ tự:
+
+48
+00:03:30,065 --> 00:03:33,977
+Acinetobacter 25,1 phần trăm, Klebsiella 16,8 phần trăm,
+
+49
+00:03:33,827 --> 00:03:38,747
+trực khuẩn mủ xanh 12,9 phần trăm. Tụ cầu vàng chỉ chiếm 6,7 phần trăm,
+
+50
+00:03:38,597 --> 00:03:40,360
+khác hẳn số liệu của Mỹ.
+
+51
+00:03:41,810 --> 00:03:47,112
+Đây là tỷ lệ nhạy cảm, không phải tỷ lệ kháng. Với Acinetobacter baumannii,
+
+52
+00:03:46,962 --> 00:03:49,585
+chỉ 9,6 phần trăm còn nhạy imipenem,
+
+53
+00:03:49,435 --> 00:03:54,600
+21,8 phần trăm nhạy amikacin và 12,2 phần trăm nhạy ampicillin sulbactam.
+
+54
+00:03:54,800 --> 00:04:00,591
+Trực khuẩn mủ xanh còn khoảng một nửa nhạy imipenem, 53,4 phần trăm;
+
+55
+00:04:00,441 --> 00:04:03,910
+cefepim 66,2 và amikacin 67,4 phần trăm.
+
+56
+00:04:04,110 --> 00:04:08,334
+Klebsiella pneumoniae còn 47,3 phần trăm nhạy imipenem,
+
+57
+00:04:08,184 --> 00:04:14,260
+39,1 phần trăm nhạy piperacillin tazobactam, nhưng 77,4 phần trăm nhạy amikacin.
+
+58
+00:04:14,460 --> 00:04:15,679
+Thông điệp thực hành:
+
+59
+00:04:15,529 --> 00:04:19,701
+phác đồ kinh nghiệm ở Việt Nam phải dựa trên kháng sinh đồ của chính khoa mình,
+
+60
+00:04:19,551 --> 00:04:23,570
+và ở nhiều nơi phải tính tới khả năng vi khuẩn kháng carbapenem ngay từ đầu.
+
+61
+00:04:25,020 --> 00:04:29,393
+Viêm phổi thở máy hình thành thế nào? Phần lớn bắt đầu từ vi khuẩn cư trú ở hầu họng,
+
+62
+00:04:29,243 --> 00:04:33,118
+mảng bám răng và xoang cạnh mũi. Trực khuẩn Gram âm tăng bám dính niêm mạc,
+
+63
+00:04:32,968 --> 00:04:37,490
+nhất là sau khi người bệnh đã dùng kháng sinh. Đường dạ dày phổi không phải đường chính.
+
+64
+00:04:37,690 --> 00:04:42,186
+Ống nội khí quản phá hàng rào thanh môn. Dịch tiết đọng trên bóng chèn rò qua các nếp
+
+65
+00:04:42,036 --> 00:04:43,924
+gấp của bóng xuống đường thở dưới,
+
+66
+00:04:43,774 --> 00:04:44,640
+gọi là vi hít.
+
+67
+00:04:44,840 --> 00:04:47,283
+Mặt trong và ngoài ống hình thành màng sinh học,
+
+68
+00:04:47,133 --> 00:04:49,863
+nơi vi khuẩn được bảo vệ khỏi kháng sinh và miễn dịch,
+
+69
+00:04:49,713 --> 00:04:51,630
+và bị đẩy xuống phổi mỗi lần hút đờm.
+
+70
+00:04:51,830 --> 00:04:56,791
+Ống cũng làm mất phản xạ ho và thanh thải nhầy lông chuyển. Viêm khí phế quản có thể là
+
+71
+00:04:56,641 --> 00:04:59,888
+giai đoạn trung gian trước khi vi khuẩn xâm nhập nhu mô,
+
+72
+00:04:59,738 --> 00:05:04,700
+thành viêm phổi. Hiểu chuỗi này giúp ta hiểu vì sao các biện pháp phòng ngừa ở phần bốn
+
+73
+00:05:04,550 --> 00:05:05,972
+lại nhắm vào bóng chèn,
+
+74
+00:05:05,822 --> 00:05:07,520
+tư thế và thời gian đặt ống.
+
+75
+00:05:08,970 --> 00:05:11,964
+Đây là mô hình một ống nội khí quản nằm trong khí quản,
+
+76
+00:05:11,814 --> 00:05:14,654
+với bóng chèn được bơm phồng. Bóng chèn ngăn khí rò,
+
+77
+00:05:14,504 --> 00:05:16,567
+nhưng không ngăn hoàn toàn dịch tiết:
+
+78
+00:05:16,417 --> 00:05:19,360
+dịch đọng phía trên rò xuống qua các nếp gấp của bóng.
+
+79
+00:05:19,560 --> 00:05:24,148
+Vì vậy có loại ống được thiết kế thêm một cổng hút ngay phía trên bóng chèn,
+
+80
+00:05:23,998 --> 00:05:29,229
+như ống mở khí quản trong hình này. Hướng dẫn phòng ngừa SHEA 2022 xếp ống này vào nhóm
+
+81
+00:05:29,079 --> 00:05:33,200
+biện pháp bổ sung cho người bệnh dự kiến thở máy trên 48 đến 72 giờ.
+
+82
+00:05:33,400 --> 00:05:37,721
+Và đây là màng sinh học, một quần thể vi khuẩn nằm trong lớp chất nền tự tiết,
+
+83
+00:05:37,571 --> 00:05:40,341
+bám trên bề mặt dụng cụ. Kháng sinh khó thấm vào,
+
+84
+00:05:40,191 --> 00:05:43,550
+và mỗi lần hút đờm có thể đẩy mảnh màng sinh học xuống phổi.
+
+85
+00:05:45,000 --> 00:05:46,485
+Nhìn lại 25 năm. Năm 2000,
+
+86
+00:05:46,335 --> 00:05:52,030
+thử nghiệm của Fagon cho thấy chiến lược lấy bệnh phẩm xâm lấn giảm tử vong ngày 14 và giảm dùng kháng sinh.
+
+87
+00:05:52,230 --> 00:05:57,180
+Năm 2003, thử nghiệm PneumA chứng minh 8 ngày kháng sinh không kém 15 ngày.
+
+88
+00:05:57,380 --> 00:05:58,062
+Năm 2006,
+
+89
+00:05:57,912 --> 00:06:03,210
+thử nghiệm Canada lại thấy rửa phế quản phế nang định lượng không hơn hút nội khí quản.
+
+90
+00:06:03,410 --> 00:06:08,760
+Năm 2016 và 2017, hai hướng dẫn quốc tế của Mỹ và châu Âu ra đời,
+
+91
+00:06:08,610 --> 00:06:15,560
+bỏ khái niệm HCAP và chuẩn hoá liệu trình 7 ngày. Đến nay, cả hai chưa được cập nhật.
+
+92
+00:06:15,760 --> 00:06:17,200
+Từ 2018 đến 2023,
+
+93
+00:06:17,050 --> 00:06:24,790
+các thử nghiệm AIDA và OVERCOME cho thấy phối hợp colistin với meropenem không hơn colistin đơn trị.
+
+94
+00:06:24,990 --> 00:06:29,346
+Và gần đây, REGARD-VAP ở châu Á ủng hộ liệu trình ngắn cá thể hoá,
+
+95
+00:06:29,196 --> 00:06:34,636
+còn IDSA 2026 hướng dẫn chọn thuốc theo cơ chế kháng carbapenem. Chúng ta sẽ đi qua
+
+96
+00:06:34,486 --> 00:06:36,420
+từng mốc trong các phần sau.
+
+97
+00:06:37,870 --> 00:06:44,258
+Yếu tố nguy cơ vi khuẩn đa kháng quyết định phác đồ kinh nghiệm ở phần ba. Với viêm phổi thở máy,
+
+98
+00:06:44,108 --> 00:06:48,438
+IDSA 2016 liệt kê năm yếu tố: kháng sinh tĩnh mạch trong 90 ngày,
+
+99
+00:06:48,288 --> 00:06:52,682
+sốc nhiễm khuẩn lúc chẩn đoán, ARDS trước VAP, nằm viện từ 5 ngày,
+
+100
+00:06:52,532 --> 00:06:54,290
+và lọc máu cấp trước VAP.
+
+101
+00:06:54,490 --> 00:06:57,733
+Với viêm phổi bệnh viện không thở máy, chỉ còn một yếu tố:
+
+102
+00:06:57,583 --> 00:06:59,600
+kháng sinh tĩnh mạch trong 90 ngày.
+
+103
+00:06:59,800 --> 00:07:02,576
+Với tụ cầu vàng kháng methicillin,
+
+104
+00:07:02,426 --> 00:07:08,910
+khuyến cáo Việt Nam bổ sung đơn vị có tỷ lệ MRSA trên 10 phần trăm hoặc chưa biết,
+
+105
+00:07:08,760 --> 00:07:11,150
+và người bệnh đã cư trú MRSA.
+
+106
+00:07:11,350 --> 00:07:16,273
+Với trực khuẩn mủ xanh đa kháng, bổ sung bệnh phổi cấu trúc như giãn phế quản, xơ nang,
+
+107
+00:07:16,123 --> 00:07:17,260
+và tiền sử cư trú.
+
+108
+00:07:17,460 --> 00:07:19,282
+Hướng dẫn châu Âu nhấn mạnh thêm:
+
+109
+00:07:19,132 --> 00:07:22,929
+khi tỷ lệ vi khuẩn kháng thuốc tại chính khoa hồi sức trên 25 phần trăm,
+
+110
+00:07:22,779 --> 00:07:27,690
+mọi người bệnh đều thuộc nhóm nguy cơ cao. Sinh thái tại chỗ quan trọng hơn thời gian đặt ống.
+
+111
+00:07:29,140 --> 00:07:34,300
+Một tình huống. Nam 68 tuổi, nằm khoa nội 5 ngày vì đột quỵ. Ngày thứ 5 ông sốt, đờm mủ,
+
+112
+00:07:34,150 --> 00:07:38,570
+X-quang có thâm nhiễm mới thuỳ dưới phải, SpO₂ tụt và phải đặt ống thở máy.
+
+113
+00:07:38,770 --> 00:07:40,840
+Chẩn đoán phù hợp nhất là gì?
+
+114
+00:07:41,040 --> 00:07:43,910
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+115
+00:07:52,510 --> 00:07:53,413
+Đáp án là B,
+
+116
+00:07:53,263 --> 00:07:59,058
+viêm phổi bệnh viện cần thở máy. Viêm phổi khởi phát trước khi đặt ống nên không phải VAP;
+
+117
+00:07:58,908 --> 00:07:59,936
+HCAP đã bị bỏ;
+
+118
+00:07:59,786 --> 00:08:05,330
+và có thâm nhiễm mới nên không phải viêm khí phế quản. Gọi đúng tên quan trọng vì nhóm
+
+119
+00:08:05,180 --> 00:08:08,340
+cần thở máy do viêm phổi có nguy cơ tử vong cao,
+
+120
+00:08:08,190 --> 00:08:11,100
+ảnh hưởng trực tiếp đến phác đồ kinh nghiệm.
+
+121
+00:08:12,550 --> 00:08:18,067
+Tóm lại phần một. Gọi tên đúng: viêm phổi bệnh viện từ 48 giờ sau nhập viện,
+
+122
+00:08:17,917 --> 00:08:24,140
+viêm phổi thở máy sau 48 giờ đặt ống, viêm phổi bệnh viện phải đặt ống không phải VAP,
+
+123
+00:08:23,990 --> 00:08:25,340
+và HCAP đã bị bỏ.
+
+124
+00:08:25,540 --> 00:08:30,410
+Tử vong thô 20 đến 50 phần trăm, nhưng tử vong quy kết khoảng 13 phần trăm.
+
+125
+00:08:30,610 --> 00:08:35,800
+Ở Việt Nam, Acinetobacter kháng carbapenem tới gần 90 phần trăm trong các khoa hồi sức.
+
+126
+00:08:36,000 --> 00:08:40,470
+Bệnh sinh đi từ cư trú, vi hít quanh bóng chèn, màng sinh học, tới viêm phổi.
+
+127
+00:08:40,670 --> 00:08:45,453
+Và sinh thái của chính khoa hồi sức là yếu tố nguy cơ đa kháng quan trọng nhất. Ở phần hai,
+
+128
+00:08:45,303 --> 00:08:49,831
+chúng ta sẽ bàn cách chẩn đoán khi không có tiêu chuẩn vàng. Cảm ơn quý đồng nghiệp đã
+
+129
+00:08:49,681 --> 00:08:51,460
+theo dõi Thư Viện Y Khoa Online.

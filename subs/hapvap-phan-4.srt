@@ -1,0 +1,579 @@
+1
+00:00:04,900 --> 00:00:06,166
+Thưa quý đồng nghiệp,
+
+2
+00:00:06,016 --> 00:00:10,683
+chào mừng quý vị đến với phần bốn trong loạt bài viêm phổi bệnh viện và viêm phổi thở
+
+3
+00:00:10,533 --> 00:00:12,330
+máy của Thư Viện Y Khoa Online.
+
+4
+00:00:12,530 --> 00:00:15,772
+Với tỷ lệ vi khuẩn kháng carbapenem như đã thấy ở phần một,
+
+5
+00:00:15,622 --> 00:00:18,760
+đây là phần thực hành nhất cho các khoa hồi sức Việt Nam.
+
+6
+00:00:18,960 --> 00:00:23,749
+Chúng ta sẽ đi qua nguyên tắc chọn thuốc theo cơ chế kháng của IDSA 2026,
+
+7
+00:00:23,599 --> 00:00:28,514
+các thử nghiệm thuốc mới, cách dùng colistin cho đúng, kháng sinh khí dung,
+
+8
+00:00:28,364 --> 00:00:30,230
+và cuối cùng là phòng ngừa.
+
+9
+00:00:31,680 --> 00:00:37,214
+Nguyên tắc của IDSA 2026: với vi khuẩn đường ruột kháng carbapenem, như Klebsiella,
+
+10
+00:00:37,064 --> 00:00:41,430
+hãy chọn thuốc theo loại enzym carbapenemase mà vi khuẩn sinh ra.
+
+11
+00:00:41,630 --> 00:00:44,030
+Nếu sinh KPC: ceftazidim avibactam,
+
+12
+00:00:43,880 --> 00:00:49,494
+meropenem vaborbactam hoặc imipenem relebactam. Lưu ý kháng thuốc xuất hiện trong khi
+
+13
+00:00:49,344 --> 00:00:53,223
+điều trị gặp khoảng 10 phần trăm với ceftazidim avibactam,
+
+14
+00:00:53,073 --> 00:00:56,180
+so với dưới 3 phần trăm với hai thuốc còn lại.
+
+15
+00:00:56,380 --> 00:00:59,372
+Nếu sinh NDM, một metallo bê ta lác ta mê:
+
+16
+00:00:59,222 --> 00:01:04,108
+aztreonam avibactam hoặc cefiderocol. Nếu chưa có aztreonam avibactam,
+
+17
+00:01:03,958 --> 00:01:08,370
+dùng ceftazidim avibactam phối hợp aztreonam, truyền đồng thời.
+
+18
+00:01:08,570 --> 00:01:10,368
+Nếu sinh ô xa bốn mươi tám:
+
+19
+00:01:10,218 --> 00:01:14,396
+ceftazidim avibactam là lựa chọn ưu tiên. Và một nguyên tắc chung:
+
+20
+00:01:14,246 --> 00:01:19,156
+khi đã có một β-lactam mới nhạy, không phối hợp thường quy thêm aminoglycosid,
+
+21
+00:01:19,006 --> 00:01:20,560
+quinolon hay polymyxin.
+
+22
+00:01:22,010 --> 00:01:27,346
+Với trực khuẩn mủ xanh còn nhạy các β-lactam truyền thống như cefepim, ceftazidim,
+
+23
+00:01:27,196 --> 00:01:32,595
+piperacillin tazobactam, aztreonam, IDSA 2026 ưu tiên các thuốc này hơn carbapenem,
+
+24
+00:01:32,445 --> 00:01:37,844
+dùng liều cao và truyền kéo dài. Chỉ phối hợp hai thuốc nhạy khi người bệnh còn sốc
+
+25
+00:01:37,694 --> 00:01:40,310
+hoặc nguy cơ tử vong trên 25 phần trăm.
+
+26
+00:01:40,510 --> 00:01:43,495
+Với trực khuẩn mủ xanh kháng thuốc khó điều trị,
+
+27
+00:01:43,345 --> 00:01:47,866
+tức không nhạy tất cả các thuốc truyền thống kể cả carbapenem và quinolon:
+
+28
+00:01:47,716 --> 00:01:50,229
+viêm phổi ưu tiên ceftolozan tazobactam;
+
+29
+00:01:50,079 --> 00:01:53,832
+ceftazidim avibactam và imipenem relebactam là lựa chọn khác;
+
+30
+00:01:53,682 --> 00:01:57,140
+chủng sinh metallo bê ta lác ta mê thì dùng cefiderocol.
+
+31
+00:01:57,340 --> 00:02:02,076
+Với vi khuẩn sinh ESBL: meropenem hoặc imipenem khi bệnh nặng hay giảm albumin,
+
+32
+00:02:01,926 --> 00:02:06,835
+ertapenem khi không nặng. Không dùng piperacillin tazobactam cho nhiễm khuẩn ngoài
+
+33
+00:02:06,685 --> 00:02:08,983
+đường niệu dù kháng sinh đồ báo nhạy,
+
+34
+00:02:08,833 --> 00:02:09,970
+và tránh cefepim.
+
+35
+00:02:11,420 --> 00:02:16,286
+Khuyến cáo Việt Nam 2023 nhấn mạnh: chọn kháng sinh dựa trên kháng sinh đồ,
+
+36
+00:02:16,136 --> 00:02:17,859
+nồng độ ức chế tối thiểu,
+
+37
+00:02:17,709 --> 00:02:24,210
+và kiểu hình carbapenemase nếu xác định được. Đó là lý do phòng vi sinh cần làm test phát hiện enzym.
+
+38
+00:02:24,410 --> 00:02:26,452
+Ảnh giữa là test Hodge cải tiến,
+
+39
+00:02:26,302 --> 00:02:31,597
+một phương pháp kiểu hình để phát hiện carbapenemase. Carbapenem chỉ còn chỗ đứng trong
+
+40
+00:02:31,447 --> 00:02:35,677
+phác đồ phối hợp khi MIC của meropenem không quá 8 mi li gam mỗi lít,
+
+41
+00:02:35,527 --> 00:02:38,160
+với liều cao 2 gam mỗi 8 giờ truyền 3 giờ.
+
+42
+00:02:38,360 --> 00:02:39,271
+Và một thực tế:
+
+43
+00:02:39,121 --> 00:02:43,634
+nhiều thuốc mới trong khuyến cáo Việt Nam vẫn được ghi kèm điều kiện nếu được cấp phép
+
+44
+00:02:43,484 --> 00:02:46,830
+lưu hành. Quý vị cần biết thuốc nào đang có tại bệnh viện mình.
+
+45
+00:02:48,280 --> 00:02:54,810
+Acinetobacter baumannii kháng carbapenem là vấn đề lớn nhất của chúng ta. IDSA 2026 đưa
+
+46
+00:02:54,660 --> 00:02:56,350
+ra một hướng rõ ràng.
+
+47
+00:02:56,550 --> 00:03:01,260
+Lựa chọn ưu tiên là sulbactam durlobactam phối hợp imipenem hoặc meropenem.
+
+48
+00:03:01,460 --> 00:03:05,757
+Nếu chưa có sulbactam durlobactam, dùng ampicillin sulbactam liều cao,
+
+49
+00:03:05,607 --> 00:03:10,970
+tổng 9 gam sulbactam mỗi ngày, phối hợp ít nhất một thuốc khác, như một phác đồ cầu nối.
+
+50
+00:03:11,170 --> 00:03:13,675
+Thuốc phối hợp có thể là cefiderocol,
+
+51
+00:03:13,525 --> 00:03:19,149
+minocyclin hoặc polymyxin B. Cả ba đều là lựa chọn thay thế và đều phải dùng phối hợp,
+
+52
+00:03:18,999 --> 00:03:20,040
+không đơn trị.
+
+53
+00:03:20,240 --> 00:03:26,630
+Và IDSA không gợi ý dùng thường quy kháng sinh khí dung cho viêm phổi do Acinetobacter kháng carbapenem.
+
+54
+00:03:28,080 --> 00:03:33,734
+Bằng chứng nào đứng sau? Thử nghiệm ATTACK so sánh sulbactam durlobactam với colistin,
+
+55
+00:03:33,584 --> 00:03:37,830
+cả hai đều kèm imipenem. Tử vong 28 ngày 19 so với 32 phần trăm,
+
+56
+00:03:37,680 --> 00:03:39,430
+đạt tiêu chuẩn không kém.
+
+57
+00:03:39,630 --> 00:03:43,140
+Và độc thận giảm rõ: 13 so với 38 phần trăm.
+
+58
+00:03:43,340 --> 00:03:47,802
+Còn phối hợp colistin với meropenem? Hai thử nghiệm AIDA và OVERCOME,
+
+59
+00:03:47,652 --> 00:03:51,740
+đa số là Acinetobacter, đều không thấy lợi ích. Trong OVERCOME,
+
+60
+00:03:51,590 --> 00:03:56,240
+tử vong 43 phần trăm ở nhóm đơn trị so với 37 phần trăm ở nhóm phối hợp,
+
+61
+00:03:56,090 --> 00:03:58,490
+khác biệt không có ý nghĩa thống kê.
+
+62
+00:03:58,690 --> 00:03:59,982
+Với cefiderocol,
+
+63
+00:03:59,832 --> 00:04:05,619
+thử nghiệm CREDIBLE-CR ghi nhận tử vong cuối nghiên cứu 34 so với 18 phần trăm,
+
+64
+00:04:05,469 --> 00:04:11,541
+chủ yếu ở nhóm Acinetobacter. Vì vậy hội vi sinh lâm sàng châu Âu 2022 khuyên không
+
+65
+00:04:11,391 --> 00:04:15,252
+dùng cefiderocol cho Acinetobacter kháng carbapenem,
+
+66
+00:04:15,102 --> 00:04:19,890
+còn IDSA 2026 chỉ xếp nó là lựa chọn thay thế, bắt buộc phối hợp.
+
+67
+00:04:21,340 --> 00:04:27,327
+Đây là chỗ các hội khác nhau nhiều nhất. IDSA 2026 ưu tiên sulbactam durlobactam;
+
+68
+00:04:27,177 --> 00:04:31,868
+hội châu Âu 2022 gợi ý ampicillin sulbactam nếu chủng còn nhạy;
+
+69
+00:04:31,718 --> 00:04:36,480
+khuyến cáo Việt Nam yêu cầu phối hợp ít nhất hai thuốc còn nhạy.
+
+70
+00:04:36,680 --> 00:04:41,295
+Phối hợp colistin với meropenem: hội châu Âu khuyến cáo mạnh là không dùng,
+
+71
+00:04:41,145 --> 00:04:44,510
+sau AIDA và OVERCOME; khuyến cáo Việt Nam vẫn đề xuất,
+
+72
+00:04:44,360 --> 00:04:47,070
+với meropenem liều cao khi MIC không quá 8.
+
+73
+00:04:47,270 --> 00:04:52,780
+Cefiderocol: châu Âu khuyên không dùng; IDSA và Việt Nam cho dùng nhưng phải phối hợp.
+
+74
+00:04:52,980 --> 00:04:53,809
+Tigecyclin:
+
+75
+00:04:53,659 --> 00:04:59,178
+khuyến cáo Việt Nam và IDSA 2016 không dùng cho viêm phổi do Acinetobacter vì liên quan
+
+76
+00:04:59,028 --> 00:05:03,066
+tăng tử vong. Thực hành tại Việt Nam cần cân nhắc thuốc sẵn có,
+
+77
+00:05:02,916 --> 00:05:06,090
+nhưng nên tiến dần về phác đồ dựa trên sulbactam.
+
+78
+00:05:07,540 --> 00:05:12,358
+Khi phải dùng polymyxin, hãy dùng cho đúng. Theo đồng thuận quốc tế 2019,
+
+79
+00:05:12,208 --> 00:05:17,666
+colistin cần liều nạp 300 mi li gam hoạt tính colistin base, khoảng 9 triệu đơn vị,
+
+80
+00:05:17,516 --> 00:05:19,264
+truyền 30 phút đến 1 giờ;
+
+81
+00:05:19,114 --> 00:05:24,636
+12 đến 24 giờ sau bắt đầu liều duy trì 300 đến 360 mi li gam mỗi ngày, chia hai lần,
+
+82
+00:05:24,486 --> 00:05:26,490
+và chỉnh theo chức năng thận.
+
+83
+00:05:26,690 --> 00:05:31,513
+Polymyxin B có dược động học thuận lợi hơn: nạp 2 đến 2,5 mi li gam mỗi ký,
+
+84
+00:05:31,363 --> 00:05:34,565
+duy trì 1,25 đến 1,5 mi li gam mỗi ký mỗi 12 giờ,
+
+85
+00:05:34,415 --> 00:05:37,680
+và không cần chỉnh theo thận. Nơi có cả hai thuốc,
+
+86
+00:05:37,530 --> 00:05:41,730
+đồng thuận gợi ý ưu tiên polymyxin B để giảm tổn thương thận cấp.
+
+87
+00:05:41,930 --> 00:05:43,717
+Một bẫy nguy hiểm là đơn vị:
+
+88
+00:05:43,567 --> 00:05:49,565
+1 triệu đơn vị quốc tế tương đương khoảng 33 mi li gam colistin base. Mỗi y lệnh chỉ ghi một đơn vị,
+
+89
+00:05:49,415 --> 00:05:52,080
+và kiểm tra theo chế phẩm đang có tại khoa.
+
+90
+00:05:52,280 --> 00:05:56,801
+Theo dõi nồng độ thuốc khi có thể, tránh các thuốc độc thận phối hợp. Trong OVERCOME,
+
+91
+00:05:56,651 --> 00:06:00,350
+tổn thương thận cấp xảy ra ở khoảng một nửa người bệnh dùng colistin.
+
+92
+00:06:01,800 --> 00:06:06,098
+Kháng sinh khí dung hấp dẫn về lý thuyết: nồng độ rất cao tại đường thở,
+
+93
+00:06:05,948 --> 00:06:11,745
+ít độc toàn thân. Nhưng thử nghiệm lớn INHALE với amikacin hít bổ trợ không thấy lợi ích sống còn:
+
+94
+00:06:11,595 --> 00:06:13,070
+75 so với 77 phần trăm.
+
+95
+00:06:13,270 --> 00:06:17,752
+Thử nghiệm IASIS với amikacin fosfomycin khí dung cũng không cải thiện,
+
+96
+00:06:17,602 --> 00:06:21,900
+tử vong thậm chí 24 so với 17 phần trăm, khác biệt không có ý nghĩa.
+
+97
+00:06:22,100 --> 00:06:26,956
+Phân tích gộp năm 2026 của Lyu gợi ý tăng khỏi lâm sàng và giảm tử vong,
+
+98
+00:06:26,806 --> 00:06:32,511
+nhưng chất lượng bằng chứng thấp. Vì vậy IDSA 2026 không gợi ý dùng thường quy khi đã
+
+99
+00:06:32,361 --> 00:06:38,131
+có β-lactam toàn thân nhạy. Khuyến cáo Việt Nam cho phép cân nhắc khi vi khuẩn chỉ còn
+
+100
+00:06:37,981 --> 00:06:40,288
+nhạy colistin hoặc aminoglycosid,
+
+101
+00:06:40,138 --> 00:06:44,340
+khí dung trước mỗi lần truyền, ưu tiên máy khí dung màng rung.
+
+102
+00:06:45,790 --> 00:06:50,653
+Phòng ngừa luôn rẻ hơn điều trị. SHEA 2022 xếp vào nhóm thực hành thiết yếu:
+
+103
+00:06:50,503 --> 00:06:55,987
+tránh đặt và đặt lại ống bằng oxy dòng cao hay thông khí không xâm nhập; giảm an thần,
+
+104
+00:06:55,837 --> 00:07:00,018
+tránh benzodiazepin, thử đánh thức và thử thở tự nhiên hằng ngày;
+
+105
+00:06:59,868 --> 00:07:05,290
+nằm đầu cao 30 đến 45 độ; vận động sớm; đánh răng; và nuôi ăn sớm qua đường tiêu hoá.
+
+106
+00:07:05,490 --> 00:07:12,596
+Nhóm bổ sung gồm ống nội khí quản có hút trên bóng chèn khi dự kiến thở máy trên 48 đến 72 giờ,
+
+107
+00:07:12,446 --> 00:07:18,967
+mở khí quản sớm. Đồng thuận SIAARTI 2026 và khuyến cáo Việt Nam yêu cầu giữ áp lực bóng
+
+108
+00:07:18,817 --> 00:07:21,310
+chèn 20 đến 30 xăng ti mét nước.
+
+109
+00:07:21,510 --> 00:07:23,291
+Và điểm thay đổi quan trọng nhất:
+
+110
+00:07:23,141 --> 00:07:26,700
+chlorhexidin răng miệng chuyển sang nhóm nhìn chung không khuyến cáo,
+
+111
+00:07:26,550 --> 00:07:28,874
+vì không giảm thời gian thở máy hay tử vong,
+
+112
+00:07:28,724 --> 00:07:31,740
+thậm chí liên quan tăng tử vong ở người bệnh không mổ tim.
+
+113
+00:07:33,190 --> 00:07:39,122
+Hai thử nghiệm gần đây thử dùng kháng sinh để phòng VAP. AMIKINHAL dùng amikacin khí
+
+114
+00:07:38,972 --> 00:07:43,595
+dung 20 mi li gam mỗi ký cân nặng lý tưởng mỗi ngày trong 3 ngày,
+
+115
+00:07:43,445 --> 00:07:48,620
+ở người thở máy từ 72 giờ: VAP đến ngày 28 giảm từ 22 xuống 15 phần trăm.
+
+116
+00:07:48,820 --> 00:07:55,387
+PROPHY-VAP ở người bệnh tổn thương não cấp dùng một liều ceftriaxon 2 gam trong 12 giờ sau đặt ống:
+
+117
+00:07:55,237 --> 00:07:57,850
+VAP sớm giảm từ 32 xuống 14 phần trăm.
+
+118
+00:07:58,050 --> 00:08:03,298
+Còn khử nhiễm chọn lọc đường tiêu hoá trong SuDDICU không giảm có ý nghĩa tử vong bệnh viện:
+
+119
+00:08:03,148 --> 00:08:08,784
+27 so với 29,1 phần trăm. Các biện pháp dự phòng bằng kháng sinh chưa được đưa vào thực hành chuẩn,
+
+120
+00:08:08,634 --> 00:08:11,610
+nhất là ở nơi nhiều vi khuẩn đa kháng như Việt Nam.
+
+121
+00:08:13,060 --> 00:08:19,176
+Một tình huống. Viêm phổi thở máy ngày 8. Hút nội khí quản mọc Klebsiella pneumoniae kháng carbapenem,
+
+122
+00:08:19,026 --> 00:08:24,090
+test enzym cho kết quả NDM. Máy kháng sinh đồ tự động báo nhạy ceftazidim avibactam.
+
+123
+00:08:24,290 --> 00:08:25,960
+Lựa chọn nào phù hợp nhất?
+
+124
+00:08:26,160 --> 00:08:29,030
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+125
+00:08:37,630 --> 00:08:41,136
+Đáp án là B. NDM là một metallo bê ta lác ta mê,
+
+126
+00:08:40,986 --> 00:08:44,003
+và avibactam không ức chế nhóm enzym này,
+
+127
+00:08:43,853 --> 00:08:47,638
+nên ceftazidim avibactam đơn trị không đáng tin cậy,
+
+128
+00:08:47,488 --> 00:08:51,763
+dù máy báo nhạy. Aztreonam bền với metallo bê ta lác ta mê,
+
+129
+00:08:51,613 --> 00:08:55,609
+nên phối hợp aztreonam với avibactam, hoặc cefiderocol,
+
+130
+00:08:55,459 --> 00:08:58,615
+là lựa chọn ưu tiên của IDSA 2026. Bài học:
+
+131
+00:08:58,465 --> 00:09:02,740
+biết enzym quan trọng hơn chỉ đọc chữ S trên kháng sinh đồ.
+
+132
+00:09:04,190 --> 00:09:08,059
+Tóm lại phần bốn. Vi khuẩn đường ruột kháng carbapenem:
+
+133
+00:09:07,909 --> 00:09:11,237
+chọn theo enzym. KPC dùng ceftazidim avibactam,
+
+134
+00:09:11,087 --> 00:09:14,415
+meropenem vaborbactam hoặc imipenem relebactam;
+
+135
+00:09:14,265 --> 00:09:17,525
+NDM dùng aztreonam avibactam hoặc cefiderocol;
+
+136
+00:09:17,375 --> 00:09:20,500
+ô xa bốn mươi tám dùng ceftazidim avibactam.
+
+137
+00:09:20,700 --> 00:09:24,383
+Trực khuẩn mủ xanh kháng thuốc khó điều trị gây viêm phổi:
+
+138
+00:09:24,233 --> 00:09:26,210
+ưu tiên ceftolozan tazobactam.
+
+139
+00:09:26,410 --> 00:09:30,940
+Acinetobacter kháng carbapenem: sulbactam durlobactam phối hợp carbapenem;
+
+140
+00:09:30,790 --> 00:09:33,840
+không phối hợp colistin với meropenem thường quy.
+
+141
+00:09:34,040 --> 00:09:37,710
+Colistin phải có liều nạp, và mỗi y lệnh chỉ ghi một đơn vị.
+
+142
+00:09:37,910 --> 00:09:42,770
+Và phòng ngừa bắt đầu từ việc tránh đặt ống, giảm an thần, nằm đầu cao, đánh răng;
+
+143
+00:09:42,620 --> 00:09:44,379
+bỏ chlorhexidin. Ở phần năm,
+
+144
+00:09:44,229 --> 00:09:49,262
+chúng ta sẽ áp dụng tất cả vào một ca lâm sàng tại hồi sức. Cảm ơn quý đồng nghiệp đã
+
+145
+00:09:49,112 --> 00:09:51,100
+theo dõi Thư Viện Y Khoa Online.

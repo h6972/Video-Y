@@ -1,0 +1,403 @@
+1
+00:00:04,900 --> 00:00:08,159
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm,
+
+2
+00:00:08,009 --> 00:00:13,210
+phần cuối của loạt bài viêm phổi bệnh viện và viêm phổi thở máy của Thư Viện Y Khoa Online.
+
+3
+00:00:13,410 --> 00:00:16,912
+Hôm nay chúng ta cùng xử trí một ca viêm phổi thở máy tại hồi sức,
+
+4
+00:00:16,762 --> 00:00:20,925
+từ lúc nghi ngờ đến khi ngừng kháng sinh, áp dụng những gì đã học về chẩn đoán,
+
+5
+00:00:20,775 --> 00:00:23,160
+phân tầng, chọn thuốc và thời gian điều trị.
+
+6
+00:00:23,360 --> 00:00:27,723
+Đây là ca bệnh minh hoạ, đã thay đổi chi tiết nhận dạng. Ở mỗi điểm quyết định,
+
+7
+00:00:27,573 --> 00:00:30,230
+quý vị hãy thử tự trả lời trước khi xem đáp án.
+
+8
+00:00:31,680 --> 00:00:36,197
+Người bệnh nam 62 tuổi, nặng 70 ký, thở máy từ sau mổ thủng tạng rỗng,
+
+9
+00:00:36,047 --> 00:00:38,630
+đã dùng piperacillin tazobactam 5 ngày.
+
+10
+00:00:38,830 --> 00:00:41,502
+Ngày thứ 7, huyết áp tụt còn 92 trên 55,
+
+11
+00:00:41,352 --> 00:00:46,420
+phải dùng lại noradrenalin. Điều dưỡng báo đờm mủ đặc, phải hút nhiều lần hơn.
+
+12
+00:00:46,620 --> 00:00:49,475
+SpO₂ 91 phần trăm với FiO₂ 0,6;
+
+13
+00:00:49,325 --> 00:00:54,450
+PEEP phải tăng từ 6 lên 10. Nghe phổi có ran nổ đáy phải.
+
+14
+00:00:54,650 --> 00:01:01,360
+Nhiệt độ 38,8 độ. Quý vị đã có thể thấy cả dấu hiệu toàn thân lẫn dấu hiệu hô hấp của viêm phổi thở máy.
+
+15
+00:01:02,810 --> 00:01:09,200
+Khí máu: PaO₂/FiO₂ giảm từ 280 hôm qua xuống 170, lactat 3,1.
+
+16
+00:01:09,400 --> 00:01:12,678
+Bạch cầu 17,5 G trên lít; chức năng thận còn tốt,
+
+17
+00:01:12,528 --> 00:01:15,550
+độ thanh thải ước tính 90 mi li lít mỗi phút.
+
+18
+00:01:15,750 --> 00:01:20,171
+X-quang có thâm nhiễm mới thuỳ dưới phải. Và thông tin quan trọng từ khoa:
+
+19
+00:01:20,021 --> 00:01:24,961
+kháng sinh đồ của hồi sức cho thấy hơn 80 phần trăm Acinetobacter kháng carbapenem,
+
+20
+00:01:24,811 --> 00:01:27,500
+chưa có số liệu về tụ cầu kháng methicillin.
+
+21
+00:01:28,950 --> 00:01:31,655
+Đây là hình ảnh minh hoạ, không phải của người bệnh này:
+
+22
+00:01:31,505 --> 00:01:35,580
+thâm nhiễm mới trên phim chụp tại giường. Như đã biết, X-quang nhạy nhưng ít đặc hiệu.
+
+23
+00:01:35,780 --> 00:01:38,866
+Siêu âm phổi tại giường thấy đông đặc có khí phế quản đồ,
+
+24
+00:01:38,716 --> 00:01:43,450
+củng cố chẩn đoán viêm phổi. Bệnh phẩm hút nội khí quản và hai mẫu cấy máu được lấy ngay.
+
+25
+00:01:44,900 --> 00:01:49,402
+Điểm quyết định thứ nhất. Người bệnh viêm phổi thở máy ngày 7, có sốc nhiễm khuẩn,
+
+26
+00:01:49,252 --> 00:01:54,020
+đã dùng kháng sinh tĩnh mạch. Khoa có Acinetobacter kháng carbapenem trên 80 phần trăm,
+
+27
+00:01:53,870 --> 00:01:56,090
+chưa rõ tỷ lệ tụ cầu kháng methicillin.
+
+28
+00:01:56,290 --> 00:01:58,440
+Phác đồ ban đầu nào hợp lý nhất?
+
+29
+00:01:58,640 --> 00:02:01,270
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+30
+00:02:09,870 --> 00:02:14,380
+Đáp án là B. Người bệnh có ba yếu tố nguy cơ đa kháng: kháng sinh tĩnh mạch,
+
+31
+00:02:14,230 --> 00:02:16,560
+sốc nhiễm khuẩn, nằm viện trên 5 ngày;
+
+32
+00:02:16,410 --> 00:02:20,691
+lại ở khoa chưa rõ tỷ lệ tụ cầu kháng methicillin. Theo IDSA và châu Âu,
+
+33
+00:02:20,541 --> 00:02:25,051
+cần hai thuốc chống trực khuẩn mủ xanh khác nhóm cộng thuốc phủ tụ cầu kháng
+
+34
+00:02:24,901 --> 00:02:27,862
+methicillin. Phác đồ phổ hẹp như A không phù hợp;
+
+35
+00:02:27,712 --> 00:02:31,304
+giữ nguyên piperacillin tazobactam khi đang thất bại là sai;
+
+36
+00:02:31,154 --> 00:02:34,230
+còn colistin đơn trị không bao giờ được khuyến cáo.
+
+37
+00:02:35,680 --> 00:02:38,278
+Y lệnh giờ đầu, minh hoạ cho người 70 ký,
+
+38
+00:02:38,128 --> 00:02:42,936
+chức năng thận bình thường. Meropenem liều nạp 1 gam truyền 30 phút đến 1 giờ,
+
+39
+00:02:42,786 --> 00:02:45,564
+sau đó 2 gam mỗi 8 giờ truyền kéo dài 3 giờ,
+
+40
+00:02:45,414 --> 00:02:48,550
+liều cao vì sốc và nghi vi khuẩn kháng carbapenem.
+
+41
+00:02:48,750 --> 00:02:54,900
+Amikacin 20 mi li gam mỗi ký, tức 1400 mi li gam mỗi ngày, có định lượng nồng độ thuốc.
+
+42
+00:02:55,100 --> 00:03:00,992
+Vancomycin liều nạp 25 đến 30 mi li gam mỗi ký, tức 1750 đến 2100 mi li gam,
+
+43
+00:03:00,842 --> 00:03:07,490
+sau đó 15 mi li gam mỗi ký mỗi 8 đến 12 giờ, chỉnh theo đích AUC trên MIC 400 đến 600.
+
+44
+00:03:07,690 --> 00:03:11,083
+Đặt lịch đánh giá lại ở 48 đến 72 giờ khi có kết quả cấy,
+
+45
+00:03:10,933 --> 00:03:15,918
+và theo dõi creatinin hằng ngày vì đang dùng hai thuốc độc thận. Quý vị luôn kiểm tra
+
+46
+00:03:15,768 --> 00:03:18,080
+liều theo chế phẩm đang có tại đơn vị.
+
+47
+00:03:19,530 --> 00:03:21,320
+Điểm quyết định thứ hai,
+
+48
+00:03:21,170 --> 00:03:25,760
+sau 48 giờ. Hút nội khí quản mọc Acinetobacter baumannii 10 mũ 6,
+
+49
+00:03:25,610 --> 00:03:29,722
+kháng carbapenem với MIC meropenem trên 8, kháng amikacin,
+
+50
+00:03:29,572 --> 00:03:36,280
+colistin MIC 0,5. Không có tụ cầu kháng methicillin. Người bệnh vẫn sốt và vẫn cần noradrenalin.
+
+51
+00:03:36,480 --> 00:03:38,310
+Điều chỉnh kháng sinh thế nào?
+
+52
+00:03:38,510 --> 00:03:41,220
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+53
+00:03:49,820 --> 00:03:51,803
+Đáp án là B. Theo IDSA 2026,
+
+54
+00:03:51,653 --> 00:03:57,238
+nếu có sulbactam durlobactam thì phối hợp với imipenem hoặc meropenem. Nếu chưa có,
+
+55
+00:03:57,088 --> 00:04:01,232
+dùng ampicillin sulbactam liều cao, 9 gam sulbactam mỗi ngày,
+
+56
+00:04:01,082 --> 00:04:03,851
+phối hợp một thuốc khác như polymyxin B,
+
+57
+00:04:03,701 --> 00:04:09,482
+hoặc colistin theo liều của đồng thuận 2019 với liều nạp. Ngừng vancomycin vì không có
+
+58
+00:04:09,332 --> 00:04:11,118
+tụ cầu kháng methicillin,
+
+59
+00:04:10,968 --> 00:04:16,487
+ngừng amikacin vì vi khuẩn đã kháng. Phương án C dựa vào meropenem khi MIC trên 8,
+
+60
+00:04:16,337 --> 00:04:21,660
+không phù hợp; tigecyclin không được khuyến cáo cho viêm phổi do Acinetobacter.
+
+61
+00:04:23,110 --> 00:04:29,339
+Điểm quyết định thứ ba. Ngày thứ 7 của liệu trình kháng sinh đích. Người bệnh hết sốt 48 giờ,
+
+62
+00:04:29,189 --> 00:04:34,045
+đã ngừng noradrenalin từ ngày 4, PaO₂/FiO₂ 260, bạch cầu về bình thường,
+
+63
+00:04:33,895 --> 00:04:39,340
+procalcitonin giảm hơn 80 phần trăm so với đỉnh. Không có áp xe hay mủ màng phổi.
+
+64
+00:04:39,540 --> 00:04:40,970
+Quyết định nào hợp lý?
+
+65
+00:04:41,170 --> 00:04:43,960
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+66
+00:04:52,560 --> 00:04:56,463
+Đáp án là B. Người bệnh đáp ứng tốt, đủ tiêu chí ngừng của REGARD-VAP,
+
+67
+00:04:56,313 --> 00:05:01,019
+và procalcitonin giảm từ 80 phần trăm theo khuyến cáo Việt Nam. Hướng dẫn châu Âu xếp
+
+68
+00:05:00,869 --> 00:05:03,968
+Acinetobacter kháng carbapenem vào nhóm cần cá thể hoá,
+
+69
+00:05:03,818 --> 00:05:06,059
+nghĩa là quyết định dựa trên diễn tiến,
+
+70
+00:05:05,909 --> 00:05:10,615
+không mặc định kéo dài 14 ngày. Ngừng từ ngày 3 là quá sớm với một ca sốc nhiễm khuẩn
+
+71
+00:05:10,465 --> 00:05:11,902
+do vi khuẩn kháng thuốc;
+
+72
+00:05:11,752 --> 00:05:14,100
+còn khí dung duy trì không có bằng chứng.
+
+73
+00:05:15,550 --> 00:05:20,946
+Diễn tiến. Giờ đầu: lấy bệnh phẩm, khởi động meropenem, amikacin và vancomycin,
+
+74
+00:05:20,796 --> 00:05:22,340
+duy trì noradrenalin.
+
+75
+00:05:22,540 --> 00:05:26,454
+Ở 48 giờ, khi có kết quả Acinetobacter kháng carbapenem,
+
+76
+00:05:26,304 --> 00:05:32,370
+chuyển sang phác đồ dựa trên sulbactam phối hợp polymyxin, ngừng vancomycin và amikacin.
+
+77
+00:05:32,570 --> 00:05:36,320
+Ngày thứ 4 ngừng được noradrenalin, creatinin ổn định.
+
+78
+00:05:36,520 --> 00:05:42,369
+Ngày thứ 7 người bệnh hết sốt 48 giờ, P/F 260, procalcitonin giảm hơn 80 phần trăm;
+
+79
+00:05:42,219 --> 00:05:44,910
+kháng sinh được ngừng ở ngày 7 đến 8.
+
+80
+00:05:45,110 --> 00:05:49,740
+Ngày thứ 10 rút ống thành công, và không tái phát trong theo dõi đến ngày 21.
+
+81
+00:05:51,190 --> 00:05:53,595
+Toàn bộ ca bệnh gói gọn trong sáu bước. Một,
+
+82
+00:05:53,445 --> 00:05:57,132
+nghi ngờ khi có thâm nhiễm mới kèm dấu hiệu toàn thân và hô hấp. Hai,
+
+83
+00:05:56,982 --> 00:05:59,900
+lấy bệnh phẩm hô hấp dưới và cấy máu trước kháng sinh.
+
+84
+00:06:00,100 --> 00:06:04,514
+Ba, phân tầng theo nguy cơ đa kháng, nguy cơ tử vong và kháng sinh đồ của khoa. Bốn,
+
+85
+00:06:04,364 --> 00:06:07,610
+kháng sinh kinh nghiệm liều cao, truyền kéo dài, có liều nạp.
+
+86
+00:06:07,810 --> 00:06:12,600
+Năm, sau 48 đến 72 giờ xuống thang, chọn thuốc theo cơ chế kháng.
+
+87
+00:06:12,800 --> 00:06:17,750
+Và sáu, ngừng ở ngày 7 nếu đáp ứng tốt, cá thể hoá với vi khuẩn kháng carbapenem.
+
+88
+00:06:19,200 --> 00:06:24,181
+Để khép lại loạt bài, xin tóm tắt sáu thông điệp. Một: gọi đúng tên viêm phổi bệnh viện,
+
+89
+00:06:24,031 --> 00:06:28,134
+viêm phổi thở máy, viêm phổi bệnh viện cần thở máy và viêm khí phế quản;
+
+90
+00:06:27,984 --> 00:06:30,550
+tử vong quy kết của VAP khoảng 13 phần trăm.
+
+91
+00:06:30,750 --> 00:06:35,172
+Hai: không có tiêu chuẩn vàng, nên luôn lấy bệnh phẩm hô hấp dưới trước kháng sinh;
+
+92
+00:06:35,022 --> 00:06:37,540
+procalcitonin không quyết định việc khởi động.
+
+93
+00:06:37,740 --> 00:06:42,186
+Ba: phân tầng theo nguy cơ đa kháng, nguy cơ tử vong và kháng sinh đồ của khoa;
+
+94
+00:06:42,036 --> 00:06:44,850
+phần lớn hồi sức Việt Nam thuộc nhóm nguy cơ cao.
+
+95
+00:06:45,050 --> 00:06:50,560
+Bốn: 7 ngày là đủ cho đa số người bệnh, với xuống thang ở 48 đến 72 giờ.
+
+96
+00:06:50,760 --> 00:06:54,327
+Năm: vi khuẩn kháng carbapenem chọn thuốc theo enzym;
+
+97
+00:06:54,177 --> 00:06:57,550
+Acinetobacter kháng carbapenem dựa trên sulbactam.
+
+98
+00:06:57,750 --> 00:07:02,364
+Và sáu: phòng ngừa bằng tránh đặt ống, giảm an thần, nằm đầu cao, đánh răng,
+
+99
+00:07:02,214 --> 00:07:07,357
+và bỏ chlorhexidin. Cảm ơn quý đồng nghiệp đã đồng hành cùng loạt bài. Trọn bộ chuyên
+
+100
+00:07:07,207 --> 00:07:12,349
+đề có tại thuvienykhoa.online. Hẹn gặp lại quý vị trong những chuyên đề tiếp theo của
+
+101
+00:07:12,199 --> 00:07:13,700
+Thư Viện Y Khoa Online.
