@@ -1,0 +1,708 @@
+{
+ "title": "Lọc máu liên tục – Phần 2: Bốn phương thức và phân suất lọc",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 2/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương"
+ },
+ "brand": {
+  "next": "Phần 3: Chỉ định và thời điểm bắt đầu"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Bốn phương thức<br>và phân suất lọc",
+   "subtitle": "SCUF · CVVH · CVVHD · CVVHDF · pha loãng trước – sau",
+   "badges": [
+    {
+     "t": "Phân suất lọc ≤ 20–25%",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Pha loãng trước màng",
+     "c": "green",
+     "at": 1
+    },
+    {
+     "t": "CVVHDF",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "note": "Mạch lọc mô phỏng – số dòng dịch tính đúng công thức",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần hai của loạt bài lọc máu liên tục thực hành.",
+    "Hôm nay chúng ta sẽ đứng trước màn hình một máy lọc máu mô phỏng, lần lượt bật bốn phương thức, và trả lời một câu hỏi rất thực tế: vì sao cùng một liều, có quả lọc chạy được một ngày, có quả lọc đông chỉ sau vài giờ.",
+    "Chìa khoá nằm ở một con số ít được nhìn tới: phân suất lọc."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Mạch lọc",
+   "title": "Đọc một mạch lọc máu liên tục",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 300,
+    "ac": "heparin",
+    "mode": "SCUF"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "uf"
+   ],
+   "notes": [
+    {
+     "tag": "NGUYÊN TẮC",
+     "t": "Máu ra nòng đỏ → bơm → quả lọc → bẫy khí → về nòng xanh",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "SCUF",
+     "t": "Chỉ rút dịch: thanh thải chất tan không đáng kể",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Đây là màn hình mạch lọc của chúng ta. Bên trái là người bệnh. Máu đi ra từ nòng đỏ của catheter, qua cảm biến áp lực truy cập, rồi được bơm máu đẩy đi với lưu lượng 150 mi li lít mỗi phút.",
+    "Máu đi vào quả lọc từ đầu trên, chảy dọc các sợi rỗng, ra ở đầu dưới, qua bẫy khí rồi trở về người bệnh qua nòng xanh. Bốn cảm biến áp lực màu xanh dương nằm ở đường ra, trước quả lọc, đường về và đường dịch thải.",
+    "Mọi con số áp lực trên màn hình này là mô hình minh hoạ, giúp ta hiểu xu hướng, không phải số đo của một bệnh nhân cụ thể. Còn các dòng dịch, liều và phân suất lọc được tính đúng theo công thức trong Core Curriculum 2025 của Teixeira.",
+    "Phương thức đầu tiên, đơn giản nhất, là siêu lọc chậm liên tục, SCUF. Máy chỉ kéo nước qua màng, ở đây 300 mi li lít mỗi giờ, không có dịch thay thế, không có dịch thẩm tách.",
+    "Vì vậy dịch thải chỉ là 300 mi li lít mỗi giờ, tương đương 4,3 mi li lít mỗi ký mỗi giờ. Teixeira viết rõ: thanh thải chất tan của SCUF không đáng kể về lâm sàng. SCUF dùng khi mục tiêu duy nhất là rút dịch."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "CVVH",
+   "title": "CVVH sau màng: đối lưu thuần tuý",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVH",
+    "qrpost": 1750
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "uft",
+    "uf"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "notes": [
+    {
+     "tag": "CÔNG THỨC",
+     "t": "Qef = Qr + UFnet · liều = Qef / cân nặng",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "PHÂN SUẤT LỌC",
+     "t": "FF = UF toàn phần / (Qp + Qr trước màng)",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bây giờ ta chuyển sang siêu lọc máu tĩnh mạch – tĩnh mạch liên tục, CVVH. Máy kéo một lượng lớn nước huyết tương qua màng, các chất tan bị kéo theo dòng nước: đó là đối lưu. Lượng nước kéo ra được bù lại bằng dịch thay thế, ở đây truyền sau quả lọc, 1.750 mi li lít mỗi giờ.",
+    "Dịch thải bằng dịch thay thế cộng siêu lọc ròng: 1.750 cộng 100, tức 1.850 mi li lít mỗi giờ. Với người bệnh 70 ký, liều kê là 26,4 mi li lít mỗi ký mỗi giờ.",
+    "Nhưng hãy nhìn ô phân suất lọc: 29,4 phần trăm, và nó đang đỏ.",
+    "Phân suất lọc là tỷ lệ giữa toàn bộ nước bị kéo qua màng và lưu lượng huyết tương đi vào quả lọc. Lưu lượng huyết tương bằng Qb nhân 60 nhân một trừ hematocrit: 150 nhân 60 nhân 0,7, khoảng 6.300 mi li lít mỗi giờ. Kéo 1.850 trên 6.300 là gần 30 phần trăm.",
+    "Nghĩa là gần một phần ba nước huyết tương bị rút ra khi máu đi qua quả lọc. Máu ở đầu ra quả lọc cô đặc lại, hematocrit và protein tăng, và đó là điều kiện thuận lợi cho đông màng."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Pha loãng",
+   "title": "Hạ phân suất lọc: pha loãng trước màng và tăng Qb",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVH",
+    "qrpost": 1750
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "qrpre": 1000,
+      "qrpost": 750
+     },
+     "label": "Chuyển 1.000 mL/h dịch thay thế lên trước màng",
+     "c": "green",
+     "hold": 5
+    },
+    {
+     "at": "L3",
+     "set": {
+      "qb": 200
+     },
+     "label": "Tăng Qb 150 → 200 mL/phút",
+     "c": "teal",
+     "hold": 5
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐÍCH",
+     "t": "FF ≤ 20–25%",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "GIÁ PHẢI TRẢ",
+     "t": "Liều thực = Qef × hệ số pha loãng",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Teixeira khuyên giữ phân suất lọc từ 20 đến 25 phần trăm trở xuống, bằng cách duy trì Qb đủ, hoặc ưu tiên truyền dịch thay thế trước quả lọc. Ta làm thử cả hai.",
+    "Bước một: chuyển 1.000 mi li lít mỗi giờ dịch thay thế lên trước màng, giữ nguyên tổng dịch. Dịch pha loãng máu trước khi vào quả lọc, mẫu số tăng lên: phân suất lọc giảm từ 29,4 xuống 25,3 phần trăm.",
+    "Nhưng có giá phải trả. Chất tan cũng bị pha loãng trước khi gặp màng, nên thanh thải thực giảm. Hệ số pha loãng bây giờ là 0,86, và liều sau pha loãng chỉ còn 22,8 mi li lít mỗi ký mỗi giờ, dù liều kê vẫn là 26,4. Sách Oxford ghi nhận: với Qb 125 đến 150 và dịch thải cao, pha loãng trước màng có thể mất 30 đến 40 phần trăm hiệu quả so với sau màng.",
+    "Bước hai: tăng Qb từ 150 lên 200 mi li lít mỗi phút. Lưu lượng huyết tương tăng, phân suất lọc xuống 19,7 phần trăm, hết đỏ. Hệ số pha loãng tăng lên 0,89, liều sau pha loãng lên 23,6.",
+    "Đổi lại, áp lực truy cập âm hơn, từ âm 75 xuống âm 98 trong mô hình, vì catheter phải hút nhanh hơn. Và Teixeira nhắc rằng lợi ích của tăng Qb giảm dần khi vượt khoảng 250 mi li lít mỗi phút: một thử nghiệm so sánh Qb 150 với 250 không thấy khác biệt tuổi thọ màng, vì Qb cao gây nhiều báo động áp lực hơn."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "CVVHD",
+   "title": "CVVHD: khuếch tán qua màng",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVHD",
+    "qd": 1750
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "uft",
+    "uf"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "notes": [
+    {
+     "tag": "QUY TẮC",
+     "t": "Qb ≈ 2,5 × Qd để dịch thẩm tách gần bão hoà",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "ĐIỂM YẾU",
+     "t": "Phân tử trung bình kém hơn đối lưu",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Phương thức thứ ba là thẩm tách máu liên tục, CVVHD. Không còn dịch thay thế. Thay vào đó, dịch thẩm tách 1.750 mi li lít mỗi giờ chảy ngược chiều dòng máu ở khoang ngoài sợi lọc. Chất tan đi từ nơi nồng độ cao sang nơi nồng độ thấp: đó là khuếch tán.",
+    "Dịch thải vẫn là 1.850, liều kê vẫn 26,4. Nhưng hãy nhìn phân suất lọc: chỉ còn 1,6 phần trăm, vì nước chỉ bị kéo qua màng đúng bằng siêu lọc ròng 100 mi li lít mỗi giờ.",
+    "Teixeira đưa ra quy tắc: trong CVVHD, giữ Qb khoảng 2,5 lần Qd để dịch thẩm tách đi ra gần bão hoà chất tan. Ở đây Qd 1.750 mi li lít mỗi giờ, tức khoảng 29 mi li lít mỗi phút, Qb 150 là thừa đủ.",
+    "Điểm yếu của khuếch tán là phân tử lớn khuếch tán chậm. Với urê, creatinin, kali, CVVHD rất hiệu quả; với phân tử trung bình, đối lưu tốt hơn."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "CVVHDF",
+   "title": "CVVHDF: kết hợp hai cơ chế",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "notes": [
+    {
+     "tag": "SRLF 2025 · R4.7",
+     "t": "CVVHDF cải thiện tuổi thọ màng so với CVVH (panel opinion)",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "KDIGO 2026 · PP 5.6.2",
+     "t": "Pha loãng trước, CVVHD/CVVHDF: biện pháp không dùng thuốc kéo dài tuổi thọ màng",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Phương thức thứ tư, phổ biến nhất trên thế giới, là thẩm tách – siêu lọc máu liên tục, CVVHDF: vừa dịch thay thế, vừa dịch thẩm tách. Ở đây 800 mi li lít mỗi giờ dịch thay thế trước màng, 850 dịch thẩm tách, siêu lọc ròng 100.",
+    "Dịch thải 1.750, đúng 25 mi li lít mỗi ký mỗi giờ. Phân suất lọc 12,7 phần trăm, rất an toàn cho quả lọc. Liều sau pha loãng là 22,2, nằm trong vùng 20 đến 25 mà KDIGO khuyến cáo.",
+    "Sách Oxford phân tích: ở dòng chảy thấp của hồi sức, phần đối lưu của CVVHDF cộng gần trọn vào phần khuếch tán, nên CVVHDF cho phổ thanh thải rộng nhất. Và hội hồi sức Pháp SRLF 2025 cho rằng CVVHDF cải thiện tuổi thọ quả lọc so với CVVH.",
+    "KDIGO 2026 bản dự thảo cũng liệt kê pha loãng trước màng và dùng CVVHD hoặc CVVHDF thay vì CVVH trong các biện pháp không dùng thuốc để kéo dài tuổi thọ quả lọc."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "compare",
+   "chapter": "So sánh",
+   "title": "Bốn phương thức trong một bảng",
+   "head": [
+    "",
+    "SCUF",
+    "CVVH",
+    "CVVHD",
+    "CVVHDF"
+   ],
+   "widths": "1.1fr 1fr 1.2fr 1.1fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "Cơ chế",
+      "Siêu lọc",
+      "Đối lưu",
+      "Khuếch tán",
+      "Cả hai"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Dịch dùng",
+      "Không",
+      "Dịch thay thế",
+      "Dịch thẩm tách",
+      "Cả hai"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Dịch thải",
+      "= UFnet",
+      "= Qr + UFnet",
+      "= Qd + UFnet",
+      "= Qd + Qr + UFnet"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Phân tử nhỏ",
+      "Không đáng kể",
+      "Tốt (sau màng)",
+      "Tốt",
+      "Tốt nhất ở dòng thấp"
+     ],
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "Phân tử trung bình",
+      "–",
+      "Tốt hơn",
+      "Kém hơn",
+      "Tốt"
+     ],
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "Phân suất lọc",
+      "Thấp",
+      "<b>Cao nhất</b>",
+      "Rất thấp",
+      "Thấp – vừa"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Dùng khi",
+      "Chỉ cần rút dịch",
+      "Cần đối lưu; chú ý FF",
+      "Đơn giản, hợp citrate",
+      "Lựa chọn mặc định"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại bốn phương thức trong một bảng. SCUF chỉ siêu lọc; CVVH đối lưu với dịch thay thế; CVVHD khuếch tán với dịch thẩm tách; CVVHDF kết hợp cả hai.",
+    "Công thức dịch thải thay đổi theo phương thức, nhưng luôn bằng tổng các dòng dịch đưa vào mạch cộng siêu lọc ròng.",
+    "Với phân tử nhỏ, ba phương thức có dịch đều tốt. Với phân tử trung bình, đối lưu tốt hơn khuếch tán.",
+    "Và về phân suất lọc, CVVH, nhất là sau màng, là phương thức có phân suất lọc cao nhất, do đó dễ đông màng nhất.",
+    "Chưa có thử nghiệm nào chứng minh kiểu lọc liên tục nào cải thiện sống còn. Trong thực hành, CVVHDF thường là lựa chọn mặc định, CVVHD đơn giản và rất hợp với citrate, còn SCUF chỉ dùng khi mục tiêu duy nhất là rút dịch."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "FF và đông màng",
+   "title": "Phân suất lọc và tuổi thọ quả lọc (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVH",
+    "qrpost": 1750
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 2.0,
+    "hmax": 24,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "ĐÔNG MÀNG",
+     "t": "ΔP và TMP cùng tăng",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Chỉ minh hoạ xu hướng",
+     "c": "violet",
+     "at": 0
+    }
+   ],
+   "lines": [
+    "Giờ ta cho mạch CVVH sau màng với phân suất lọc 29,4 phần trăm chạy tua nhanh 24 giờ, chống đông heparin. Một lần nữa, đây là mô hình minh hoạ.",
+    "Biểu đồ phía dưới vẽ hai áp lực theo giờ: áp lực xuyên màng màu vàng, và chênh áp qua quả lọc màu đỏ. Quả lọc mới, áp lực xuyên màng khoảng 76.",
+    "Khi các sợi lọc đông dần, đường đi của máu hẹp lại nên chênh áp qua quả lọc tăng, và diện tích màng còn thấm giảm nên áp lực xuyên màng cũng tăng. Hai đường cùng đi lên: đó là dấu hiệu đông màng.",
+    "Đến khoảng giờ thứ 24 của mô hình, áp lực xuyên màng chạm 250 mi li mét thuỷ ngân, ngưỡng mà sách Oxford coi là gợi ý đông màng đáng kể. Quan sát cột quả lọc: phần sẫm màu là phần sợi đã đông."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "FF và đông màng",
+   "title": "Cùng liều, phân suất lọc thấp (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L0+2",
+    "speed": 2.0,
+    "hmax": 24,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "BẰNG CHỨNG THẬT",
+     "t": "Uchino 2003: 18,0 giờ (trước) so với 13,0 giờ (sau màng)",
+     "c": "teal",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Bây giờ chạy lại 24 giờ với CVVHDF, liều gần như nhau nhưng phân suất lọc chỉ 12,7 phần trăm.",
+    "Sau 24 giờ mô hình, áp lực xuyên màng chỉ khoảng 76, hai đường gần như nằm ngang. Quả lọc còn tốt.",
+    "Mô hình chỉ minh hoạ hướng thay đổi. Còn bằng chứng thật: nghiên cứu trước – sau của Uchino năm 2003, 48 người bệnh, 309 quả lọc, cho thấy chuyển CVVH từ pha loãng trước sang sau màng làm trung vị tuổi thọ quả lọc giảm từ 18,0 xuống 13,0 giờ, p bằng 0,021."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Pha loãng trước và sau màng: tuổi thọ quả lọc",
+   "groups": [
+    {
+     "t": "Trung vị tuổi thọ quả lọc (giờ)",
+     "d": "Uchino 2003 · 48 người bệnh · 309 quả lọc · Qb 200 · dịch thay thế 2 L/h",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Trước màng",
+       "v": 18.0,
+       "lab": "18,0 giờ",
+       "c": "teal"
+      },
+      {
+       "k": "Sau màng",
+       "v": 13.0,
+       "lab": "13,0 giờ"
+      }
+     ]
+    }
+   ],
+   "max": 22,
+   "h": 420,
+   "notes": [
+    {
+     "t": "p = 0,021 · nghiên cứu quan sát trước – sau",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Sau màng: thanh thải cao hơn trên mỗi lít dịch",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Trước màng: màng sống lâu hơn, liều thực thấp hơn",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Đây là số liệu của Uchino: trung vị tuổi thọ quả lọc 18,0 giờ khi pha loãng trước màng, so với 13,0 giờ khi pha loãng sau màng.",
+    "Lưu ý đây là nghiên cứu quan sát trước – sau, không phải thử nghiệm ngẫu nhiên.",
+    "Và đây là sự đánh đổi cốt lõi: pha loãng sau màng cho thanh thải cao hơn trên mỗi lít dịch, nhưng màng đông nhanh hơn.",
+    "Pha loãng trước màng giữ màng sống lâu hơn, nhưng ta phải bù phần liều mất do pha loãng."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: quả lọc đông sau 6 giờ",
+   "case": "Nam, 70 kg, Hct 30%. CVVH pha loãng sau màng, Qb 120 mL/phút, dịch thay thế 1.750 mL/h, UFnet 100 mL/h, heparin. Quả lọc đông lặp lại sau 6–8 giờ. Catheter hút tốt.",
+   "case_at": 0,
+   "q": "Thay đổi nào hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Tăng liều heparin",
+    "Giữ nguyên, thay quả lọc thường xuyên hơn",
+    "Tăng Qb và chuyển dịch sang trước màng hoặc sang CVVHDF",
+    "Tăng dịch thay thế sau màng lên 2.500 mL/h"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "FF = 1.850/(120×60×0,7 ≈ 5.040) ≈ 36,7% → giảm FF: tăng Qb, pha loãng trước màng, CVVHDF (Teixeira 2025; SRLF R4.7).",
+   "lines": [
+    "Tình huống. Người bệnh 70 ký, hematocrit 30 phần trăm, chạy CVVH pha loãng sau màng, Qb chỉ 120 mi li lít mỗi phút, dịch thay thế 1.750, siêu lọc ròng 100, chống đông heparin. Quả lọc đông lặp lại sau 6 đến 8 giờ, catheter hút tốt.",
+    "Thay đổi nào hợp lý nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là tăng Qb và chuyển dịch sang trước màng, hoặc chuyển sang CVVHDF. Tính nhanh: lưu lượng huyết tương khoảng 120 nhân 60 nhân 0,7, tức 5.040 mi li lít mỗi giờ; phân suất lọc là 1.850 trên 5.040, khoảng 36,7 phần trăm, quá cao. Tăng heparin không sửa được nguyên nhân, còn tăng dịch sau màng làm phân suất lọc còn cao hơn. Đông màng sớm thường là bệnh của cài đặt và catheter, không phải của thiếu heparin."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 2",
+   "items": [
+    {
+     "t": "Bốn phương thức: SCUF, CVVH, CVVHD, CVVHDF",
+     "d": "Qef = tổng dịch vào mạch + UFnet",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "FF = UF toàn phần / (Qp + Qr trước) – giữ ≤ 20–25%",
+     "d": "Qp = Qb × 60 × (1 − Hct)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Hạ FF: tăng Qb, pha loãng trước màng, CVVHD/CVVHDF",
+     "d": "Qb > ~250 mL/phút ít thêm lợi",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Pha loãng trước làm giảm liều thực",
+     "d": "liều thực = Qef × hệ số pha loãng",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Đông màng: ΔP và TMP cùng tăng",
+     "d": "TMP > 250 mmHg gợi ý đông đáng kể",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần hai. Có bốn phương thức lọc máu liên tục, và dịch thải luôn bằng tổng các dòng dịch đưa vào mạch cộng siêu lọc ròng.",
+    "Phân suất lọc là tỷ lệ nước bị kéo ra so với huyết tương đi qua quả lọc; giữ từ 20 đến 25 phần trăm trở xuống.",
+    "Muốn hạ phân suất lọc: tăng Qb trong giới hạn catheter cho phép, chuyển dịch thay thế lên trước màng, hoặc dùng CVVHD, CVVHDF.",
+    "Nhớ rằng pha loãng trước màng làm giảm liều thực, phải tính lại liều.",
+    "Và khi chênh áp qua màng cùng áp lực xuyên màng cùng tăng, quả lọc đang đông. Phần sau, chúng ta bàn về chỉ định và thời điểm bắt đầu lọc máu. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s12",
+   "dense": true
+  }
+ ]
+}
