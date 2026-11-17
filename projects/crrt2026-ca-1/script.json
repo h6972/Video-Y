@@ -1,0 +1,723 @@
+{
+ "title": "Lọc máu liên tục – Ca 1: Sốc nhiễm khuẩn, vô niệu và quá tải dịch",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Ca lâm sàng 1/3",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "STARRT-AKI": "sờ ta a ka i",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "canxi toàn phần trên canxi ion",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "B-line": "bi lai",
+  "Gattas": "ga tát",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "AKIKI": "a ki ki",
+  "Grade": "gờ rết",
+  "CaCl₂": "canxi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Ca²⁺": "canxi ion hoá",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "P/F": "pê trên ép",
+  "RCA": "citrate vùng",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "next": "Ca 2: Tích tụ citrate ở người suy gan"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng hồi sức · Lọc máu liên tục · Ca 1",
+   "title": "Sốc nhiễm khuẩn,<br>vô niệu và quá tải dịch",
+   "subtitle": "Nam 65 tuổi · 70 kg · thở máy · vận mạch",
+   "badges": [
+    {
+     "t": "Sốc nhiễm khuẩn",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "KDIGO 3",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "4 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "note": "Ca giả định, đã ẩn danh; mạch lọc là mô phỏng minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, đây là video ca lâm sàng thứ nhất đi kèm loạt bài lọc máu liên tục của Thư Viện Y Khoa Online.",
+    "Một người đàn ông 65 tuổi, nặng 70 ký, viêm phổi nặng, sốc nhiễm khuẩn đang dùng noradrenalin 0,4 mi crô gam mỗi ký mỗi phút, và đang thở máy.",
+    "Chúng ta sẽ đi qua bốn điểm quyết định: có nên lọc máu hay chưa, chọn phương thức nào, kê đơn ra sao, và khi nào ngừng. Đây là ca giả định, đã ẩn danh."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Ngày 1",
+   "title": "Ngày 1: thiểu niệu và quá tải dịch",
+   "cols": 4,
+   "tiles": [
+    {
+     "tag": "CREATININ",
+     "c": "amber",
+     "at": 0,
+     "pre": "×",
+     "v": 3,
+     "l": "so với nền · KDIGO 3",
+     "d": "Thiểu niệu"
+    },
+    {
+     "tag": "KALI",
+     "c": "coral",
+     "at": 1,
+     "v": 5.6,
+     "dec": 1,
+     "l": "mmol/L"
+    },
+    {
+     "tag": "pH",
+     "c": "violet",
+     "at": 1,
+     "v": 7.28,
+     "dec": 2,
+     "l": "toan chuyển hoá"
+    },
+    {
+     "tag": "CÂN BẰNG DỊCH",
+     "c": "blue",
+     "at": 1,
+     "pre": "+",
+     "v": 4,
+     "suf": " L",
+     "l": "cộng dồn"
+    }
+   ],
+   "note": {
+    "t": "P/F 180 · thở máy · sốc nhiễm khuẩn, noradrenalin 0,4 µg/kg/phút",
+    "c": "teal",
+    "at": 2
+   },
+   "lines": [
+    "Ngày thứ nhất. Người bệnh thiểu niệu, creatinin tăng gấp ba lần mức nền, tức giai đoạn ba theo KDIGO.",
+    "Kali 5,6; pH 7,28; cân bằng dịch cộng dồn dương 4 lít.",
+    "Tỷ số P/F là 180, người bệnh đang thở máy và dùng vận mạch. Câu hỏi đầu tiên không phải là chọn máy nào, mà là: đã có chỉ định cấp cứu hay chưa?"
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Điểm quyết định 1",
+   "title": "Ngày 1: lọc hay chờ?",
+   "case": "Nam 65 tuổi, 70 kg, sốc nhiễm khuẩn, thở máy. Thiểu niệu, creatinin gấp 3 lần nền, kali 5,6, pH 7,28, cân bằng dịch +4 L, P/F 180.",
+   "case_at": 0,
+   "q": "Xử trí nào phù hợp nhất ở ngày 1?",
+   "q_at": 1,
+   "options": [
+    "Lọc máu ngay vì creatinin gấp 3",
+    "Lọc máu ngay vì pH 7,28",
+    "Chờ có chủ đích, đánh giá lại mỗi 12–24 giờ",
+    "Chờ đủ 72 giờ, không cần đánh giá lại"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Chưa có chỉ định cấp cứu: kali < 6,5; toan không phải tiêu chí duy nhất; giảm oxy chưa chắc do quá tải.",
+   "lines": [
+    "Nam 65 tuổi, 70 ký, sốc nhiễm khuẩn, thở máy. Thiểu niệu, creatinin gấp ba lần nền, kali 5,6, pH 7,28, cân bằng dịch dương 4 lít, P/F 180.",
+    "Xử trí nào phù hợp nhất ở ngày thứ nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là chờ có chủ đích. Chưa có chỉ định cấp cứu: kali 5,6 chưa vượt 6,5; toan chuyển hoá không được dùng làm tiêu chí duy nhất để bắt đầu; và giảm oxy máu ở đây chưa chắc do quá tải dịch. Ngưỡng creatinin cũng không được dùng để bắt đầu lọc máu. Chờ không có nghĩa là bỏ mặc: tối ưu dịch, ngừng thuốc độc thận, và đánh giá lại ít nhất mỗi 12 đến 24 giờ. Trong ca này, ta chờ 24 đến 48 giờ."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "box",
+   "chapter": "Bằng chứng",
+   "title": "Vì sao chờ có chủ đích?",
+   "ref": "SRLF-GFRUP 2025 R1.2; STARRT-AKI 2020; AKIKI 2016; AKIKI2 2021",
+   "box": {
+    "tag": "SRLF 2025 · R1.2 · Grade 1−",
+    "t": "Không bắt đầu lọc máu trước <b>72 giờ</b> ở người lớn AKI KDIGO 3 khi <b>không có tiêu chuẩn cấp cứu</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 38
+   },
+   "notes": [
+    {
+     "tag": "STARRT-AKI",
+     "t": "Lọc sớm: còn phụ thuộc lọc máu ngày 90 là 10,4% so với 6,0%",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "AKIKI",
+     "t": "Nhánh chờ: 49% người bệnh không cần lọc máu",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "tag": "ĐỪNG QUÁ MUỘN",
+     "t": "Vô niệu > 72 giờ hoặc urê > 40 mmol/L không hồi phục: không trì hoãn thêm",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Cơ sở của quyết định chờ nằm ở các thử nghiệm về thời điểm. Hội hồi sức Pháp SRLF năm 2025 khuyến cáo không bắt đầu lọc máu trước 72 giờ ở người lớn tổn thương thận cấp giai đoạn ba khi không có tiêu chuẩn cấp cứu, Grade 1 trừ.",
+    "Trong STARRT-AKI, khởi động sớm làm tăng tỷ lệ còn phụ thuộc lọc máu ở ngày 90, 10,4 phần trăm so với 6,0 phần trăm. Và ở nhánh chờ của AKIKI, 49 phần trăm người bệnh không cần lọc máu.",
+    "Nhưng chờ có giới hạn. AKIKI2 và khuyến cáo SRLF cho thấy khi thiểu niệu hoặc vô niệu quá 72 giờ, hoặc urê trên 40 mi li mol mỗi lít không hồi phục, thì không nên trì hoãn thêm."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Ngày 3",
+   "title": "Ngày 3: chạm chỉ định cấp cứu",
+   "cols": 3,
+   "tiles": [
+    {
+     "tag": "VÔ NIỆU",
+     "c": "amber",
+     "at": 0,
+     "v": 0,
+     "suf": " mL",
+     "l": "nước tiểu",
+     "d": "Noradrenalin vẫn đang dùng"
+    },
+    {
+     "tag": "KALI",
+     "c": "coral",
+     "at": 1,
+     "v": 6.8,
+     "dec": 1,
+     "l": "mmol/L dù đã điều trị",
+     "d": "Ngưỡng cấp cứu: > 6,5"
+    },
+    {
+     "tag": "P/F",
+     "c": "violet",
+     "at": 2,
+     "v": 120,
+     "l": "B-line lan toả · cân bằng +7 L",
+     "d": "Phù phổi do quá tải"
+    }
+   ],
+   "note": {
+    "t": "SRLF 2025: R1.1A (kali > 6,5 mmol/L dù điều trị) và R1.1C (giảm oxy kéo dài do quá tải dịch)",
+    "c": "teal",
+    "at": 3
+   },
+   "lines": [
+    "Ngày thứ ba, người bệnh đã vô niệu. Kali 6,8 dù đã điều trị nội khoa.",
+    "Tỷ số P/F giảm còn 120, siêu âm phổi thấy B-line lan toả, cân bằng dịch cộng dồn dương 7 lít.",
+    "Đến đây ca bệnh đã chạm hai chỉ định cấp cứu của SRLF 2025: kali trên 6,5 dù điều trị nội khoa đầy đủ, R1.1A; và giảm oxy máu kéo dài do quá tải dịch, R1.1C.",
+    "Chờ có chủ đích nhưng không trì hoãn khi đã có chỉ định: ta lọc máu ngay."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Điểm quyết định 2",
+   "title": "Ngày 3: chọn phương thức",
+   "case": "Ngày 3: vô niệu, kali 6,8 dù điều trị, P/F 120, B-line lan toả, cân bằng +7 L; đang dùng noradrenalin, thở máy.",
+   "case_at": 0,
+   "q": "Chọn phương thức nào?",
+   "q_at": 1,
+   "options": [
+    "Chạy thận ngắt quãng (IHD)",
+    "Lọc máu liên tục (CRRT)",
+    "Chỉ siêu lọc chậm liên tục (SCUF)",
+    "Chờ thêm 24 giờ"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Vận mạch, thở máy → CRRT (ICRAKI 2026; KDIGO 2026 R5.2.1, 2C). SCUF không thanh thải chất tan.",
+   "lines": [
+    "Ngày thứ ba: vô niệu, kali 6,8 dù điều trị, P/F 120, B-line lan toả, cân bằng dương 7 lít, vẫn dùng noradrenalin và thở máy.",
+    "Chọn phương thức lọc máu nào?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là lọc máu liên tục. Người bệnh đang dùng vận mạch và thở máy, đúng nhóm người bệnh của thử nghiệm ICRAKI 2026. KDIGO 2026 bản dự thảo gợi ý lọc máu liên tục cho người lớn nặng có huyết động không ổn định, R5.2.1, mức 2C. SCUF chỉ rút dịch, thanh thải chất tan không đáng kể, nên không giải quyết được tăng kali. Còn chờ thêm là không phù hợp khi đã có chỉ định cấp cứu."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "bars",
+   "chapter": "ICRAKI 2026",
+   "title": "Bắt đầu bằng lọc máu liên tục: ICRAKI",
+   "ref": "ICRAKI, NEJM 2026",
+   "groups": [
+    {
+     "t": "Tử vong ngày 90",
+     "d": "535 người bệnh ICU có chỉ định lọc máu · 38 khoa hồi sức, Pháp",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Chạy thận ngắt quãng",
+       "v": 63.1,
+       "lab": "63,1%",
+       "c": "coral"
+      },
+      {
+       "k": "Lọc máu liên tục",
+       "v": 53.5,
+       "lab": "53,5%"
+      }
+     ]
+    }
+   ],
+   "max": 85,
+   "h": 420,
+   "notes": [
+    {
+     "t": "Tỷ số nguy cơ 1,30 (1,04–1,63) với chạy thận ngắt quãng",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Thử nghiệm dừng sớm; kết cục chính không đạt",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Chưa trả lời khi nào chuyển sang IHD",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "ICRAKI là thử nghiệm ngẫu nhiên trên 535 người bệnh hồi sức có chỉ định lọc máu, ở 38 khoa tại Pháp. Tử vong ngày 90 là 63,1 phần trăm khi bắt đầu bằng chạy thận ngắt quãng, so với 53,5 phần trăm khi lọc máu liên tục; tỷ số nguy cơ 1,30.",
+    "Cần nói cho công bằng: thử nghiệm dừng sớm, kết cục chính không đạt, nên chưa trả lời được khi nào nên chuyển sang chạy thận ngắt quãng.",
+    "Thực hành đề xuất: người bệnh hồi sức cần vận mạch hoặc thở máy thì bắt đầu bằng lọc máu liên tục khi có máy và có đội."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "list",
+   "chapter": "Catheter",
+   "title": "Catheter và khởi động an toàn",
+   "ref": "KDIGO 2012 R5.4.2–5.4.4; SRLF 2025 R5.1C; Oxford 2016",
+   "items": [
+    {
+     "t": "Cảnh trong phải, đặt dưới hướng dẫn siêu âm",
+     "d": "Siêu âm: KDIGO 2012 R5.4.3 (1A) · thứ tự: cảnh trong phải → đùi → cảnh trong trái",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Catheter hai nòng, không cuff, dài 12–15 cm",
+     "d": "Chiều dài tối ưu cho cảnh trong phải (KDIGO 2012)",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "t": "X-quang ngực trước lần dùng đầu tiên",
+     "d": "KDIGO 2012 R5.4.4 (1B)",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Khởi động: bơm máu 20–30 mL/phút, rồi tăng từng bước",
+     "d": "Mạch ngoài cơ thể ~150 mL máu = một lần “trích máu” cấp",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Catheter: cảnh trong phải, đặt dưới hướng dẫn siêu âm, mức 1A. Thứ tự ưu tiên là cảnh trong phải, rồi đùi, rồi cảnh trong trái.",
+    "Loại hai nòng, không cuff, không đường hầm cho tổn thương thận cấp; chiều dài tối ưu cho cảnh trong phải theo KDIGO 2012 là 12 đến 15 xăng ti mét.",
+    "Chụp X-quang ngực trước lần dùng đầu tiên, mức 1B.",
+    "Khi khởi động, nhớ rằng mạch ngoài cơ thể chứa khoảng 150 mi li lít máu, tương đương một lần trích máu cấp; người đang phụ thuộc vận mạch dễ tụt áp. Sách khuyên đặt bơm máu 20 đến 30 mi li lít mỗi phút cho đến khi mạch đầy máu, rồi tăng từng bước khoảng 50 mi li lít mỗi phút đến đích."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Điểm quyết định 3",
+   "title": "Kê đơn: dịch thải",
+   "case": "Người bệnh 70 kg, CVVHDF với citrate vùng. Đích liều thực nhận 20–25 mL/kg/h, UFnet chưa tính.",
+   "case_at": 0,
+   "q": "Dịch thải kê khởi đầu nào phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "1.050 mL/h (15 mL/kg/h)",
+    "1.750 mL/h (25 mL/kg/h)",
+    "2.800 mL/h (40 mL/kg/h)",
+    "3.500 mL/h (50 mL/kg/h)"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "KDIGO 2026 R5.3.1 (1B): 20–25 thực nhận; kê 25 để bù downtime ~20% (bảng 70 kg: 1.750 mL/h).",
+   "lines": [
+    "Người bệnh 70 ký, chạy CVVHDF với citrate vùng. Đích là liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ, siêu lọc ròng chưa tính.",
+    "Dịch thải kê khởi đầu nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là 1.750 mi li lít mỗi giờ, tức 25 mi li lít mỗi ký mỗi giờ. KDIGO 2026 khuyến cáo liều thực nhận 20 đến 25, mức 1B; kê ở 25 là đủ bù khoảng 20 phần trăm thời gian máy dừng. Thử nghiệm RENAL so sánh 40 với 25 mi li lít mỗi ký mỗi giờ: tử vong 90 ngày như nhau, 44,7 phần trăm, nhưng hạ phospho nhiều hơn, 65,1 so với 54,0 phần trăm. Liều cao hơn không có lợi."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Kê đơn",
+   "title": "Y lệnh CVVHDF citrate trên máy mô phỏng",
+   "crrt": {
+    "mode": "CVVHDF",
+    "qb": 150,
+    "qrpre": 800,
+    "qd": 900,
+    "uf": 50,
+    "wt": 70,
+    "hct": 30,
+    "ac": "citrate"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "notes": [
+    {
+     "tag": "CITRATE",
+     "t": "Lactat 3,0: nguy cơ tích tụ thấp–trung bình, theo dõi sát",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Ta đặt y lệnh lên máy mô phỏng. CVVHDF, Qb 150 mi li lít mỗi phút, chống đông citrate vùng. Dịch thay thế trước màng 800, dịch thẩm tách 900, siêu lọc ròng 50 mi li lít mỗi giờ.",
+    "Dịch thải là 1.750 mi li lít mỗi giờ, đúng 25 mi li lít mỗi ký mỗi giờ. Phân suất lọc chỉ 12,0 phần trăm, rất an toàn cho quả lọc.",
+    "Vì một phần dịch thay thế đi vào trước màng, hệ số pha loãng là 0,89, liều sau pha loãng còn 22,2 mi li lít mỗi ký mỗi giờ, vẫn nằm trong vùng 20 đến 25. Hematocrit 30 phần trăm là giả định của mô phỏng.",
+    "Ca ghi lactat 3,0, nguy cơ tích tụ citrate thấp đến trung bình, cần theo dõi sát. Theo hướng dẫn thô của Teixeira, lactat dưới 4 là nguy cơ thấp."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "citrate",
+   "chapter": "Citrate",
+   "title": "Theo dõi citrate: canxi và tỷ số tCa/iCa (mô hình)",
+   "citrate": {
+    "cit": 3,
+    "qb": 150,
+    "qef": 1750,
+    "met": 1,
+    "ica0": 1.15
+   },
+   "trend": {
+    "at": "L0",
+    "speed": 1.6,
+    "hmax": 12
+   },
+   "notes": [
+    {
+     "tag": "ĐÍCH",
+     "t": "Ca²⁺ sau màng 0,25–0,40 · toàn thân 1,1–1,3 mmol/L",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "CaCl₂ 5%",
+     "t": "Khởi đầu = Qef/200 = 8,75 mL/h ≈ 3,0 mmol/h",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Sang màn hình citrate. Citrate truyền trước màng gắn canxi, kéo canxi ion hoá trong mạch xuống khoảng 0,30 mi li mol mỗi lít, nằm trong đích 0,25 đến 0,40. Đây là mô hình minh hoạ.",
+    "Máu về người bệnh được bù canxi để canxi ion hoá toàn thân giữ ở 1,15, trong đích 1,1 đến 1,3.",
+    "Nhu cầu bù canxi trong mô hình khoảng 3,1 mi li mol mỗi giờ. Với canxi clorua 5 phần trăm, công thức khởi đầu là dịch thải chia 200: 1.750 chia 200 là 8,75 mi li lít mỗi giờ, khoảng 3,0 mi li mol mỗi giờ.",
+    "Tỷ số canxi toàn phần trên canxi ion trong mô hình là 2,16, dưới ngưỡng cảnh báo sớm 2,25. Ngưỡng tích tụ citrate là từ 2,5 trở lên; ta sẽ gặp lại ngưỡng này ở ca thứ hai."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "canbang",
+   "chapter": "Siêu lọc ròng",
+   "title": "UFnet và cân bằng dịch 24 giờ (mô phỏng)",
+   "canbang": {
+    "wt": 70,
+    "ins": [
+     {
+      "t": "citrate · canxi · thuốc · dinh dưỡng (giả định 150 mL/h)",
+      "v": 150,
+      "c": "#4ade80"
+     }
+    ],
+    "urine": 0,
+    "ufm": 200,
+    "down": [],
+    "hours": 24
+   },
+   "changes": [
+    {
+     "at": "L3",
+     "set": {
+      "down": [
+       [
+        10,
+        12
+       ]
+      ]
+     },
+     "label": "Máy dừng 2 giờ (thay màng, đi chụp)",
+     "c": "coral",
+     "hold": 6
+    }
+   ],
+   "trend": {
+    "at": "L1",
+    "speed": 1.0
+   },
+   "notes": [
+    {
+     "tag": "BẪY",
+     "t": "Quên dịch citrate, canxi, thuốc khi tính cân bằng",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Giờ đến siêu lọc ròng. Ca ghi: bắt đầu 0,5 đến 1,0 mi li lít mỗi ký mỗi giờ, tăng dần đến khoảng 1,5 khi vận mạch giảm, với cân bằng âm 1 đến 1,5 lít mỗi ngày.",
+    "Cân bằng của người bệnh không phải là siêu lọc ròng của máy. Dịch citrate, canxi, thuốc, dinh dưỡng đều là dịch vào. Ta giả định các dòng này tổng cộng 150 mi li lít mỗi giờ, người bệnh vô niệu.",
+    "Muốn siêu lọc ròng khoảng 0,7 mi li lít mỗi ký mỗi giờ, tức 50 mi li lít mỗi giờ, máy phải rút 200: 50 cộng 150 dịch vào. Sau 24 giờ, cân bằng âm 1.200 mi li lít.",
+    "Nhưng nếu máy dừng 2 giờ để thay màng hay đi chụp, 24 giờ chỉ còn âm 800 mi li lít, và siêu lọc ròng thực nhận chỉ còn 0,48. Phải tính lại cân bằng sau mỗi lần ngừng máy."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "lieu",
+   "chapter": "Liều thực",
+   "title": "Liều kê và liều thực nhận (mô phỏng)",
+   "lieu": {
+    "wt": 70,
+    "qef": 1750,
+    "dil": 0.887,
+    "down": []
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "down": [
+       [
+        6,
+        8,
+        "dừng 2 giờ"
+       ],
+       [
+        14,
+        16,
+        "dừng 2 giờ"
+       ]
+      ]
+     },
+     "label": "Máy dừng 2 lần × 2 giờ",
+     "c": "coral",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "BÙ DOWNTIME",
+     "t": "Kê cao hơn đích ~20–25%: 25–30 mL/kg/h",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "ĐỪNG ĐUỔI LIỀU",
+     "t": "ATN, RENAL: thực nhận 17,5–22 vẫn tương đương",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Còn liều thực nhận thì sao? Liều kê 25. Nhân với hệ số pha loãng 0,89, liều thực ước tính còn 22,2, bằng 89 phần trăm liều kê.",
+    "Giả sử trong ngày máy dừng hai lần, mỗi lần 2 giờ, vì báo động và đông màng. Máy chỉ chạy 20 giờ, liều trung bình 20,8, liều thực ước tính còn 18,5 mi li lít mỗi ký mỗi giờ, chỉ 74 phần trăm liều kê, dưới vùng 20 đến 25.",
+    "Vì vậy nhiều chuyên gia kê cao hơn đích khoảng 20 đến 25 phần trăm, tức 25 đến 30, để bù thời gian máy dừng. Nhưng ATN và RENAL cho thấy liều thực nhận 17,5 đến 22 vẫn cho kết quả tương đương, nên không cần đuổi liều quá mức. Điều cần làm là theo dõi mỗi ngày liều kê, liều thực và thời gian máy dừng."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "timeline",
+   "chapter": "Diễn tiến",
+   "title": "Thuốc, siêu lọc ròng và ngày 8",
+   "ref": "Hoff 2020; Teixeira 2025; KDIGO 2026 dự thảo PP 5.9.3",
+   "events": [
+    {
+     "year": "Ngày 1",
+     "t": "Chờ có chủ đích",
+     "d": "Tối ưu dịch, ngừng thuốc độc thận",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "year": "Ngày 3",
+     "t": "CVVHDF citrate",
+     "d": "Cảnh trong phải · thực nhận 20–25",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "year": "Sau đó",
+     "t": "UFnet tăng dần",
+     "d": "Meropenem chỉnh theo dịch thải và TDM",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "year": "Ngày 8",
+     "t": "Hết vận mạch",
+     "d": "Nước tiểu 600 mL/24 giờ",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Về thuốc, kháng sinh là tác dụng phụ thầm lặng của lọc máu. Với meropenem, ngày đầu cho đủ liều, sau đó chỉnh theo dịch thải và đo nồng độ thuốc nếu có. Liều nạp không giảm, chỉ chỉnh liều duy trì. Quý vị đối chiếu dược lâm sàng cơ sở.",
+    "Siêu lọc ròng được tăng dần theo dung nạp huyết động, và ta giảm hoặc dừng khi tụt áp hay tăng vận mạch.",
+    "Diễn tiến ca: chờ có chủ đích ở ngày một, lọc máu liên tục citrate ở ngày ba, và đến ngày thứ tám, người bệnh hết vận mạch, nước tiểu tự phát 600 mi li lít mỗi 24 giờ."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Điểm quyết định 4",
+   "title": "Ngày 8: ngừng lọc máu?",
+   "case": "Ngày 8: hết vận mạch, nước tiểu tự phát 600 mL/24 giờ, không dùng lợi tiểu.",
+   "case_at": 0,
+   "q": "Quyết định nào hợp lý?",
+   "q_at": 1,
+   "options": [
+    "Tiếp tục CRRT thêm một tuần",
+    "Thử ngừng, theo dõi sát",
+    "Chuyển chạy thận ngắt quãng định kỳ",
+    "Tăng dịch thải"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Nước tiểu > 450 mL/24 giờ không lợi tiểu (+ CrCl 2 giờ ≥ 23 mL/phút) dự báo ngừng thành công (KDIGO 2026 PP 5.9.3).",
+   "lines": [
+    "Ngày thứ tám: người bệnh hết vận mạch, nước tiểu tự phát 600 mi li lít mỗi 24 giờ, không dùng lợi tiểu.",
+    "Quyết định nào hợp lý?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là thử ngừng, theo dõi sát. KDIGO 2026 bản dự thảo: nước tiểu trên 450 mi li lít mỗi 24 giờ khi không dùng lợi tiểu, kèm độ thanh thải creatinin 2 giờ từ 23 mi li lít mỗi phút trở lên, dự báo ngừng thành công; nếu đo được độ thanh thải thì càng tốt. Sau ngừng, theo dõi 24 đến 72 giờ nước tiểu, creatinin, urê, kali, toan kiềm và cân bằng dịch. Trong ca này, nước tiểu tăng, creatinin ổn: ngừng thành công, rồi chỉnh lại liều kháng sinh."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Bài học",
+   "title": "Bài học ca 1",
+   "items": [
+    {
+     "t": "Chờ có chủ đích, nhưng không trì hoãn khi đã có chỉ định",
+     "d": "Kali > 6,5 dù điều trị; phù phổi quá tải kéo dài",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Vận mạch, thở máy: bắt đầu bằng CRRT",
+     "d": "ICRAKI 2026; KDIGO 2026 R5.2.1 (2C)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Kê 25 mL/kg/h để thực nhận 20–25",
+     "d": "Pha loãng trước và downtime làm giảm liều thực",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "UFnet theo dung nạp; tính cả dịch citrate, canxi, thuốc",
+     "d": "Tính lại cân bằng sau mỗi lần ngừng máy",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Ngừng khi nước tiểu hồi phục",
+     "d": "Chỉnh lại liều kháng sinh khi ngừng",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại ca thứ nhất. Chờ có chủ đích khi chưa có chỉ định cấp cứu, nhưng không trì hoãn khi đã có.",
+    "Người bệnh nặng, dùng vận mạch, thở máy thì bắt đầu bằng lọc máu liên tục.",
+    "Kê 25 mi li lít mỗi ký mỗi giờ để thực nhận 20 đến 25; nhớ pha loãng trước màng và thời gian máy dừng làm giảm liều thực.",
+    "Siêu lọc ròng theo dung nạp, tính cả dịch citrate, canxi, thuốc vào cân bằng.",
+    "Và ngừng khi nước tiểu tự phát hồi phục. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online. Ca tiếp theo: tích tụ citrate ở người suy gan."
+   ],
+   "id": "s16",
+   "dense": true
+  }
+ ]
+}

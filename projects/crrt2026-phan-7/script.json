@@ -1,0 +1,1197 @@
+{
+ "title": "Lọc máu liên tục – Phần 7: Chống đông citrate vùng – chuyên sâu",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 7/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mmol/L máu": "mi li mol mỗi lít máu",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "tỷ số canxi toàn phần trên canxi ion hoá",
+  "SIAARTI": "si ác ti",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "Delphi": "đen phi",
+  "mmol/h": "mi li mol mỗi giờ",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CaCl₂": "can xi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "CASH": "cát",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "tCa": "canxi toàn phần",
+  "iCa": "canxi ion hoá",
+  "RCA": "citrate vùng",
+  "NMA": "phân tích gộp mạng",
+  "HIT": "giảm tiểu cầu do heparin",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương"
+ },
+ "brand": {
+  "next": "Phần 8: Heparin, nafamostat và tuổi thọ màng"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Chống đông<br>citrate vùng",
+   "subtitle": "Cơ chế · đích canxi · bù canxi an toàn · tích tụ citrate",
+   "badges": [
+    {
+     "t": "Ca²⁺ sau màng 0,25–0,40",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "tCa/iCa ≥ 2,5",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "KDIGO 2026 · 1B",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "note": "Mô phỏng citrate – canxi: mô hình minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bảy của loạt bài lọc máu liên tục thực hành.",
+    "Hôm nay chúng ta đi sâu vào chống đông bằng citrate vùng: vì sao nó đang trở thành lựa chọn đầu tay, đích canxi nào cần giữ, bù canxi ra sao cho an toàn, và làm thế nào nhận ra sớm tích tụ citrate.",
+    "Chìa khoá của cả bài nằm ở hai con số: canxi ion hoá sau màng từ 0,25 đến 0,40, và tỷ số canxi toàn phần trên canxi ion hoá, phải dưới 2,5."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "chapter": "Nguyên tắc",
+   "title": "Nguyên tắc chống đông trong lọc máu liên tục",
+   "ref": "Oxford 2016, tr. 145–147 · KDIGO 2012, R5.3.1, R5.3.1.1 (1B), tr. 98",
+   "items": [
+    {
+     "t": "Mất một quả lọc để bảo vệ người bệnh là chấp nhận được",
+     "d": "Mất người bệnh để bảo vệ quả lọc thì không (Oxford 2016)",
+     "at": 0,
+     "c": "coral",
+     "n": 1
+    },
+    {
+     "t": "Đông màng sớm: nghĩ catheter, cài đặt, tư thế",
+     "d": "Chẩn đoán nguyên nhân trước khi tăng chống đông",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "KDIGO 2012: quyết định theo lợi – hại từng người bệnh",
+     "d": "Có chống đông khi không tăng nguy cơ chảy máu, không rối loạn đông máu, chưa dùng chống đông toàn thân (1B)",
+     "at": 2,
+     "c": "teal",
+     "n": 3
+    },
+    {
+     "t": "Đích: tuổi thọ mạch 20–24 giờ",
+     "d": "Sách coi đó là phác đồ đang hoạt động",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Trước khi vào citrate, nhắc lại tinh thần của chống đông trong lọc máu liên tục. Sách Oxford viết rằng mất một quả lọc để bảo vệ người bệnh là hoàn toàn chấp nhận được, còn mất người bệnh để bảo vệ quả lọc thì không.",
+    "Đông màng sớm thường do catheter kém, cài đặt chưa tối ưu hoặc tư thế người bệnh. Hãy chẩn đoán nguyên nhân trước khi tăng chống đông.",
+    "KDIGO 2012 yêu cầu quyết định theo lợi và hại cho từng người bệnh: nên dùng chống đông khi không tăng nguy cơ chảy máu, không rối loạn đông máu và chưa dùng chống đông toàn thân, mức 1B.",
+    "Và đích hiệu quả: sách coi tuổi thọ mạch từ 20 đến 24 giờ là một phác đồ đang hoạt động tốt."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Cơ chế",
+   "title": "Citrate vùng hoạt động thế nào",
+   "ref": "Teixeira 2025, tr. 781 · Liu 2023 · Pistolesi 2023, pdf 3 · Oxford 2016, tr. 128",
+   "cards": [
+    {
+     "tag": "TRƯỚC MÀNG",
+     "t": "Citrate gắn canxi",
+     "items": [
+      "Giảm canxi ion hoá trong mạch ngoài cơ thể",
+      "Dưới ngưỡng đông máu",
+      "Citrate máu trong mạch thường 3–6 mmol/L"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "PHỨC HỢP 298 Da",
+     "t": "30–60% bị lọc ra dịch thải",
+     "items": [
+      "Tuỳ phương thức và liều",
+      "Phần còn lại về cơ thể",
+      "Gan, cơ, thận chuyển hoá"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "CHUYỂN HOÁ",
+     "t": "1 mol citrate → 3 mol bicarbonat",
+     "items": [
+      "Vừa là chống đông",
+      "Vừa là đệm"
+     ],
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "tag": "BÙ CANXI",
+     "t": "Bù liên tục",
+     "items": [
+      "Vào đường trả máu hoặc tĩnh mạch trung tâm",
+      "Giữ canxi ion hoá toàn thân bình thường"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Cơ chế rất đơn giản. Citrate được truyền trước quả lọc, gắn với canxi, làm canxi ion hoá trong mạch ngoài cơ thể giảm xuống dưới ngưỡng đông máu. Nồng độ citrate trong máu của mạch thường nhắm tới 3 đến 6 mi li mol mỗi lít, theo Teixeira 2025.",
+    "Phức hợp canxi – citrate là phân tử nhỏ, 298 dalton. Khoảng 30 đến 60 phần trăm bị lọc ra dịch thải, tuỳ phương thức và liều. Phần còn lại trở về cơ thể và được gan, cơ, thận chuyển hoá.",
+    "Một mol citrate sinh ra ba mol bicarbonat. Vì vậy citrate vừa là chống đông, vừa là một nguồn đệm.",
+    "Canxi bị mất qua dịch thải nên phải được bù liên tục vào đường trả máu hoặc tĩnh mạch trung tâm, để giữ canxi ion hoá toàn thân bình thường."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "citrate",
+   "chapter": "Mô phỏng 1",
+   "title": "Chuyển hoá citrate bình thường",
+   "citrate": {
+    "cit": 3,
+    "qb": 130,
+    "qef": 1750,
+    "met": 1,
+    "ica0": 1.15
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 0.25,
+    "hmax": 12
+   },
+   "notes": [
+    {
+     "tag": "ĐÍCH SAU MÀNG",
+     "t": "0,25–0,40 mmol/L",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Minh hoạ, không phải số bệnh nhân",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "BÙ CANXI",
+     "t": "Cần 3,1 mmol/h (Qef 1.750)",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bây giờ là mô phỏng. Đây là mô hình một khoang đơn giản, mô hình minh hoạ, không phải số liệu của một bệnh nhân. Citrate 3 mi li mol mỗi lít máu, Qb 130, dịch thải 1.750 mi li lít mỗi giờ, chuyển hoá citrate bình thường.",
+    "Mô hình tính canxi sau màng bằng canxi toàn thân chia cho một cộng 0,944 nhân liều citrate. Bên trái là canxi ion hoá toàn thân, 1,15. Sau điểm truyền citrate, canxi ion hoá trong mạch chỉ còn 0,30 mi li mol mỗi lít, nằm trọn trong đích 0,25 đến 0,40.",
+    "Sau canxi, máu trở về với canxi ion hoá bình thường. Biểu đồ phía dưới vẽ tỷ số canxi toàn phần trên canxi ion hoá theo giờ: nó ổn định sau khoảng hai giờ ở mức 2,13, dưới ngưỡng 2,5.",
+    "Mô hình cho thấy nhu cầu bù canxi khoảng 3,1 mi li mol mỗi giờ. Con số này khớp với phép kiểm của nguồn, khoảng 3 đến 5 mi li mol mỗi giờ với dịch không canxi. Chuyển hoá bình thường nghĩa là citrate đến, citrate được gan và cơ lấy đi, không tích tụ."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "citrate",
+   "chapter": "Mô phỏng 2",
+   "title": "Liều citrate quyết định canxi sau màng",
+   "citrate": {
+    "cit": 2,
+    "qb": 130,
+    "qef": 1750,
+    "met": 1,
+    "ica0": 1.15
+   },
+   "trend": {
+    "at": "L0",
+    "speed": 0.25,
+    "hmax": 12
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "cit": 3
+     },
+     "label": "Citrate 2 → 3 mmol/L máu",
+     "c": "amber",
+     "hold": 5
+    },
+    {
+     "at": "L2",
+     "set": {
+      "cit": 4
+     },
+     "label": "Citrate 3 → 4 mmol/L máu",
+     "c": "coral",
+     "hold": 5
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐÍCH",
+     "t": "Ca²⁺ sau màng 0,25–0,40",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "NGUYÊN TẮC",
+     "t": "Liều theo Qb, chỉnh theo Ca²⁺ sau màng",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Liều citrate ban đầu được đặt theo lưu lượng máu, rồi chỉnh theo canxi ion hoá sau màng. Đó là khuyến cáo A của đồng thuận Trung Quốc 2023. Ta thử ba mức trong mô hình.",
+    "Citrate 2 mi li mol mỗi lít máu: canxi ion hoá sau màng 0,40, ở sát giới hạn trên của đích.",
+    "Tăng lên 3: canxi sau màng xuống 0,30, ngay giữa đích 0,25 đến 0,40.",
+    "Tăng lên 4: canxi sau màng 0,24, hơi dưới đích. Đích sau màng được đo mỗi 6 đến 8 giờ theo SIAARTI. Nghĩa là nhiều citrate hơn không có nghĩa là tốt hơn: ta chỉ cần đủ để canxi sau màng nằm trong khoảng 0,25 đến 0,40, không thấp hơn. Dư citrate chỉ làm tăng lượng citrate đi vào cơ thể, tăng tải cho gan và cơ, mà không thêm lợi ích chống đông. Đây là lý do ta chỉnh liều theo kết quả đo, không theo thói quen."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "citrate",
+   "chapter": "Mô phỏng 3",
+   "title": "Chuyển hoá giảm: tỷ số tCa/iCa vượt 2,5",
+   "citrate": {
+    "cit": 3,
+    "qb": 130,
+    "qef": 1750,
+    "met": 0.25,
+    "ica0": 1.15
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 0.25,
+    "hmax": 12
+   },
+   "notes": [
+    {
+     "tag": "TÍCH TỤ CITRATE",
+     "t": "tCa/iCa ≥ 2,5 · Delphi 2026 KS9, 100%",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "DẤU HIỆU",
+     "t": "Ca²⁺ toàn thân tụt · nhu cầu bù tăng dần",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Giờ ta giữ nguyên mọi cài đặt, nhưng cho chuyển hoá citrate chỉ còn một phần tư, như ở người suy gan nặng hoặc sốc kèm lactat tăng. Vẫn là mô hình minh hoạ.",
+    "Hãy nhìn đường tỷ số. Ở giờ thứ nhất là 2,35. Khoảng giờ thứ hai, đường vượt 2,5 và ô cảnh báo tích tụ sáng lên.",
+    "Đồng thuận Delphi 2026 đạt 100 phần trăm nhất trí: tỷ số canxi toàn phần trên canxi ion hoá từ 2,5 trở lên là tích tụ citrate. SIAARTI dùng ngưỡng lớn hơn 2,5. Đồng thuận Trung Quốc cảnh báo sớm khi lớn hơn 2,25 và đang tăng dần.",
+    "Sau khoảng sáu giờ mô hình ổn định ở tỷ số 2,79. Canxi ion hoá toàn thân tụt xuống 0,99, canxi sau màng 0,26, và nhu cầu bù canxi tăng từ 3,1 lên 4,1 mi li mol mỗi giờ. Bộ ba của SIAARTI là canxi ion hoá giảm dần, nhu cầu bù tăng dần, và toan chuyển hoá tăng khoảng trống anion."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "citrate",
+   "chapter": "Mô phỏng 4",
+   "title": "Xử trí: giảm tải citrate",
+   "citrate": {
+    "cit": 3,
+    "qb": 130,
+    "qef": 1750,
+    "met": 0.25,
+    "ica0": 1.15
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 0.25,
+    "hmax": 12
+   },
+   "changes": [
+    {
+     "at": "L3",
+     "set": {
+      "cit": 2,
+      "qb": 100,
+      "qef": 2000
+     },
+     "label": "Citrate 2 · Qb 100 · dịch thải 2.000",
+     "c": "green",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐỒNG THUẬN 92,3%",
+     "t": "Giảm Qb và/hoặc tăng dịch thải · Delphi KS13",
+     "c": "green",
+     "at": 3
+    },
+    {
+     "tag": "DAI DẲNG",
+     "t": "Ngừng RCA, đổi chống đông, vẫn tiếp tục CRRT",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Khi tích tụ, xử trí đầu tiên là tối ưu huyết động và tưới máu. Sau đó giảm tải citrate.",
+    "Ta bắt đầu lại từ tình huống chuyển hoá giảm, tỷ số đã trên 2,5.",
+    "Đồng thuận Delphi, mức nhất trí 92,3 phần trăm, khuyên giảm Qb và tăng dịch thải để tăng thanh thải citrate, đồng thời giảm tốc độ citrate.",
+    "Trong mô hình ta giảm citrate xuống 2, giảm Qb xuống 100 và tăng dịch thải lên 2.000. Tỷ số hạ về 2,33, dưới ngưỡng. Canxi sau màng 0,39, còn nằm trong đích, ở phía trên của khoảng đích, đúng với khuyên của Delphi cho người nguy cơ tích tụ cao.",
+    "Nếu tích tụ dai dẳng thì ngừng citrate vùng, đổi chống đông khác, nhưng vẫn tiếp tục lọc máu liên tục. Mức đồng thuận 92,3 phần trăm. Nhớ rằng mô phỏng chỉ minh hoạ hướng thay đổi, không thay cho đo thực tế. Ở giường bệnh, mọi quyết định đều dựa vào xét nghiệm canxi ion hoá sau màng, canxi ion hoá toàn thân, canxi toàn phần và khí máu, lặp lại đủ thường xuyên để thấy xu hướng."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Đích theo dõi",
+   "title": "Đích và tần suất theo dõi khi citrate vùng",
+   "head": [
+    "Thông số",
+    "Đích · tần suất",
+    "Nguồn"
+   ],
+   "widths": "1.2fr 2.2fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "Ca²⁺ sau màng",
+      "<b>0,25–0,40</b> mmol/L · mỗi 6–8 giờ",
+      "SIAARTI 2023"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Ca²⁺ toàn thân",
+      "<b>1,1–1,3</b> mmol/L (SIAARTI) · <b>0,9–1,1</b> (Trung Quốc KC7, C)",
+      "SIAARTI; Liu 2023"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Canxi toàn phần, Mg",
+      "Mỗi 12–24 giờ",
+      "SIAARTI 2023"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Tỷ tCa/iCa",
+      "Theo dõi bắt buộc · <b>≥ 2,5</b> = tích tụ · cảnh báo sớm > 2,25 và tăng dần",
+      "Delphi 2026; Liu 2023"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Tóm lại các đích theo dõi. Canxi ion hoá sau màng: 0,25 đến 0,40 mi li mol mỗi lít, đo mỗi 6 đến 8 giờ. RICH dùng 0,25 đến 0,35, còn đồng thuận Trung Quốc ghi 0,2 đến 0,4 cá thể hoá. Với người nguy cơ tích tụ cao, Delphi khuyên để ở phía trên của khoảng đích.",
+    "Canxi ion hoá toàn thân: SIAARTI nêu 1,1 đến 1,3, bù canxi chỉnh để giữ 1,1 đến 1,25. Đồng thuận Trung Quốc nêu 0,9 đến 1,1. Hai nguồn khác nhau, nên thực hành theo phác đồ của cơ sở, nhưng đo mỗi 6 đến 8 giờ.",
+    "Canxi toàn phần và magie: mỗi 12 đến 24 giờ.",
+    "Và tỷ số canxi toàn phần trên canxi ion hoá: theo dõi bắt buộc. Từ 2,5 trở lên là tích tụ citrate. Muốn tính tỷ số, đưa cả hai về mi li mol mỗi lít; canxi toàn phần tính bằng mi li gam mỗi đề xi lít thì chia cho 4."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Bù canxi",
+   "title": "Bù canxi: cẩn thận nồng độ ống thuốc",
+   "head": [
+    "",
+    "Canxi clorid 5%",
+    "Canxi clorid 10%",
+    "Canxi gluconat 10%"
+   ],
+   "widths": "1.2fr 1.2fr 1.2fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "Nồng độ canxi",
+      "0,34 mmol/mL",
+      "<b>0,68 mmol/mL</b>",
+      "0,22–0,23 mmol/mL"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Tốc độ khởi đầu (dịch không canxi)",
+      "mL/h = Qef/200",
+      "<b>Không dùng công thức này</b>",
+      "mL/h = Qef/125"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Dịch có canxi",
+      "5 mL/h",
+      "–",
+      "8 mL/h"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Qef 1.750 mL/h",
+      "8,75 mL/h ≈ 3,0 mmol/h",
+      "Áp nhầm: gấp đôi liều",
+      "14 mL/h ≈ 3,1 mmol/h"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "note": "Y lệnh luôn ghi nồng độ % và mmol/giờ",
+   "note_at": 5,
+   "lines": [
+    "Bù canxi là chỗ dễ sai nhất. Nên dùng dịch không canxi với citrate vùng. Canxi bù qua đường trả máu của mạch hoặc tĩnh mạch trung tâm, không bao giờ qua tĩnh mạch ngoại vi.",
+    "Đồng thuận Trung Quốc đưa ra tốc độ khởi đầu với dịch không canxi. Can xi clo rua 5 phần trăm: số mi li lít mỗi giờ bằng dịch thải chia 200. Can xi gluconat 10 phần trăm: dịch thải chia 125. Mức C, nhất trí 100 phần trăm.",
+    "Với dịch có canxi, pha loãng trước hoặc CVVHD: can xi clo rua 5 phần trăm 5 mi li lít mỗi giờ, hoặc can xi gluconat 10 phần trăm 8 mi li lít mỗi giờ. Sau đó chỉnh theo canxi ion hoá toàn thân.",
+    "Hãy nhớ nguyên tắc: bù canxi là để giữ canxi ion hoá toàn thân, và chỉ chỉnh theo kết quả đo. Công thức chỉ là điểm khởi đầu.",
+    "Kiểm chéo: dịch thải 1.750 thì can xi clo rua 5 phần trăm là 8,75 mi li lít mỗi giờ, khoảng 3,0 mi li mol mỗi giờ; can xi gluconat 14 mi li lít mỗi giờ, khoảng 3,1 mi li mol mỗi giờ. Đều nằm trong khoảng nhu cầu 3 đến 5 mi li mol mỗi giờ mà SIAARTI nêu.",
+    "Cảnh báo nồng độ. Công thức chia 200 chỉ đúng với can xi clo rua 5 phần trăm, 0,34 mi li mol mỗi mi li lít. Ống can xi clo rua 10 phần trăm chứa 0,68 mi li mol mỗi mi li lít. Áp nhầm công thức sẽ gấp đôi liều canxi. Đừng tự quy đổi tại giường: hãy đối chiếu với dược lâm sàng, và y lệnh luôn ghi nồng độ phần trăm cùng số mi li mol mỗi giờ."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "RICH 2020: citrate so với heparin toàn thân",
+   "groups": [
+    {
+     "t": "Tuổi thọ màng (giờ)",
+     "d": "RICH · 596 người bệnh · 26 trung tâm Đức · heparin đích aPTT 45–60 giây",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 47,
+       "lab": "47 giờ",
+       "c": "teal"
+      },
+      {
+       "k": "Heparin",
+       "v": 26,
+       "lab": "26 giờ"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu (%)",
+     "at": 1,
+     "c": "green",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 5.1,
+       "lab": "5,1%",
+       "c": "green"
+      },
+      {
+       "k": "Heparin",
+       "v": 16.9,
+       "lab": "16,9%"
+      }
+     ]
+    },
+    {
+     "t": "Tử vong 90 ngày (%)",
+     "at": 2,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 51.2,
+       "lab": "51,2%",
+       "c": "blue"
+      },
+      {
+       "k": "Heparin",
+       "v": 53.6,
+       "lab": "53,6%"
+      }
+     ]
+    },
+    {
+     "t": "Nhiễm khuẩn mới (%)",
+     "at": 3,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 68.0,
+       "lab": "68,0%",
+       "c": "coral"
+      },
+      {
+       "k": "Heparin",
+       "v": 55.4,
+       "lab": "55,4%"
+      }
+     ]
+    }
+   ],
+   "max": 75,
+   "h": 700,
+   "notes": [
+    {
+     "tag": "P = 0,002",
+     "t": "Nhiễm khuẩn mới nhiều hơn với citrate",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "tag": "DỪNG SỚM",
+     "t": "Vì vô ích cho tử vong",
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "notes_w": 460,
+   "lines": [
+    "Thử nghiệm quan trọng nhất là RICH, đăng trên JAMA năm 2020: 596 người bệnh ở 26 trung tâm Đức, so sánh citrate vùng với heparin toàn thân có đích aPTT từ 45 đến 60 giây. Tuổi thọ màng là 47 giờ với citrate, so với 26 giờ với heparin.",
+    "Chảy máu 5,1 phần trăm so với 16,9 phần trăm.",
+    "Nhưng tử vong 90 ngày là 51,2 so với 53,6 phần trăm, không khác biệt, và thử nghiệm đã dừng sớm vì vô ích về tử vong.",
+    "Và nhiễm khuẩn mới là 68,0 phần trăm so với 55,4 phần trăm, p bằng 0,002. Bản gốc chưa giải thích được cơ chế của tín hiệu này, nên ta ghi nhận để theo dõi, chưa kết luận."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Gattas 2015 và CASH 2014",
+   "groups": [
+    {
+     "t": "Trung vị tuổi thọ mạch đầu (giờ)",
+     "d": "Gattas · 212 người bệnh · 857 mạch · citrate so với heparin vùng",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 39.2,
+       "lab": "39,2 giờ",
+       "c": "teal"
+      },
+      {
+       "k": "Heparin vùng",
+       "v": 22.8,
+       "lab": "22,8 giờ"
+      }
+     ]
+    },
+    {
+     "t": "Biến cố bất lợi (số ca)",
+     "d": "Chủ yếu giảm tiểu cầu do heparin",
+     "at": 1,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 2,
+       "lab": "2",
+       "c": "amber"
+      },
+      {
+       "k": "Heparin vùng",
+       "v": 11,
+       "lab": "11"
+      }
+     ]
+    }
+   ],
+   "max": 45,
+   "h": 520,
+   "notes": [
+    {
+     "tag": "ĐÔNG MẠCH",
+     "t": "HR heparin/citrate 2,03 (1,36–3,03)",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "TỬ VONG ICU",
+     "t": "26,7% và 23,4%, p = 0,58",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "CASH 2014",
+     "t": "139 người bệnh, dừng sớm · tử vong 28 ngày 33% và 35%; 90 ngày 42% và 42%",
+     "c": "blue",
+     "at": 3
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Gattas năm 2015 so sánh citrate với heparin vùng, 212 người bệnh, 857 mạch. Trung vị tuổi thọ mạch đầu là 39,2 giờ với citrate, so với 22,8 giờ. Nguy cơ đông mạch của heparin gấp 2,03 lần citrate.",
+    "Biến cố bất lợi là 2 so với 11, chủ yếu là giảm tiểu cầu do heparin.",
+    "Tử vong ở khoa hồi sức không khác biệt: 26,7 và 23,4 phần trăm, p bằng 0,58.",
+    "Thử nghiệm CASH năm 2014 ở Hà Lan, 139 người bệnh, dừng sớm vì tuyển chậm, cũng không thấy khác biệt tử vong: 33 và 35 phần trăm ở ngày 28, 42 và 42 phần trăm ở ngày 90."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Phân tích gộp mạng Zhou 2023",
+   "groups": [
+    {
+     "t": "Nguy cơ chảy máu (RR)",
+     "d": "Heparin không phân đoạn so với citrate · citrate = 1",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 1.0,
+       "lab": "1,00",
+       "c": "teal"
+      },
+      {
+       "k": "Heparin",
+       "v": 3.09,
+       "lab": "3,09 (2,08–4,60)"
+      }
+     ]
+    },
+    {
+     "t": "Nguy cơ tử vong (RR)",
+     "d": "Citrate so với heparin không phân đoạn",
+     "at": 1,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "Heparin",
+       "v": 1.0,
+       "lab": "1,00",
+       "c": "mutbar"
+      },
+      {
+       "k": "Citrate",
+       "v": 0.99,
+       "lab": "0,99 (0,84–1,16)",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 3.6,
+   "h": 480,
+   "notes": [
+    {
+     "tag": "TUỔI THỌ MÀNG",
+     "t": "+12,0 giờ (3,8–20,2) với citrate",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "THÔNG ĐIỆP",
+     "t": "Kéo dài màng, giảm chảy máu, không giảm tử vong",
+     "c": "amber",
+     "at": 1
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Phân tích gộp mạng của Zhou năm 2023 tổng hợp các thử nghiệm ngẫu nhiên. Citrate so với heparin không phân đoạn: tuổi thọ màng tăng thêm 12,0 giờ, khoảng tin cậy từ 3,8 đến 20,2. Nguy cơ chảy máu với heparin gấp 3,09 lần so với citrate.",
+    "Nhưng tử vong thì không đổi: nguy cơ tương đối 0,99. Thông điệp của cả ba nghiên cứu nhất quán: citrate kéo dài tuổi thọ màng và giảm chảy máu, nhưng không giảm tử vong."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Khuyến cáo",
+   "title": "Citrate vùng trong khuyến cáo các hội",
+   "ref": "KDIGO 2012 R5.3.2.2, R5.3.3.1 · KDIGO 2026 R5.5.1 · SRLF 2025 R6.1, R6.2 · Liu 2023 KC1 · Pistolesi 2023",
+   "cards": [
+    {
+     "tag": "KDIGO 2026 DỰ THẢO · R5.5.1 · 1B",
+     "t": "Citrate thay heparin",
+     "items": [
+      "Nơi có sẵn",
+      "KDIGO 2012 R5.3.2.2: 2B"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "SRLF 2025 · R6.1 · GRADE 2+",
+     "t": "Cùng hướng",
+     "items": [
+      "Trung Quốc 2023 KC1: A",
+      "SIAARTI-SIN 2023: đầu tay nếu nguồn lực cho phép"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "NGUY CƠ CHẢY MÁU CAO",
+     "t": "Citrate hơn không chống đông",
+     "items": [
+      "KDIGO 2012 R5.3.3.1: 2C",
+      "SRLF 2025 R6.2: GRADE 2+",
+      "Tránh heparin vùng (R5.3.3.2: 2C)"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CHỐNG CHỈ ĐỊNH CITRATE",
+     "t": "Heparin hoặc LMWH",
+     "items": [
+      "KDIGO 2012 R5.3.2.3: 2C",
+      "KDIGO 2026 PP 5.5.1: heparin không phân đoạn, epoprostenol hoặc nafamostat"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Các hội nói gì? KDIGO 2026 bản dự thảo, khuyến cáo 5.5.1, mức 1B: dùng citrate thay heparin nơi có sẵn. KDIGO 2012 trước đó chỉ ở mức 2B.",
+    "Hội hồi sức Pháp SRLF 2025, khuyến cáo 6.1, GRADE 2 cộng, cùng hướng. Đồng thuận Trung Quốc 2023 mức A. SIAARTI và SIN 2023 coi citrate là lựa chọn đầu tay nếu nguồn lực cho phép.",
+    "Khi nguy cơ chảy máu cao và chưa dùng chống đông toàn thân, citrate vùng hơn là không chống đông, mức 2C của KDIGO 2012 và GRADE 2 cộng của SRLF. Cũng nên tránh heparin vùng, mức 2C.",
+    "Khi chống chỉ định citrate hoặc không có, dùng heparin không phân đoạn hoặc heparin trọng lượng phân tử thấp, mức 2C của KDIGO 2012. KDIGO 2026 nêu heparin không phân đoạn, epoprostenol hoặc nafamostat."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Ai dùng được",
+   "title": "Ai dùng được citrate? Thay đổi quan trọng",
+   "ref": "Liu 2023 KC13–KC15 · Jacobs 2026, pdf 4–5 · Pistolesi 2023, pdf 7, 11 · Teixeira 2025, tr. 781",
+   "cards": [
+    {
+     "tag": "TRUNG QUỐC 2023",
+     "t": "Suy gan, toan lactic: không còn chống chỉ định",
+     "items": [
+      "KC13 và KC14, mức C",
+      "Nhưng tăng nguy cơ tích tụ, theo dõi sát"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "DELPHI 2026",
+     "t": "Dùng được ở nhiều tình huống nặng",
+     "items": [
+      "Sốc nặng: KS1, 84,6%",
+      "Suy gan nặng, theo dõi sát: KS3, 92,3%",
+      "Tăng lactat, thận trọng: KS4, 88,5%"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "SIAARTI-SIN 2023",
+     "t": "Tránh khi toan lactic nặng dần",
+     "items": [
+      "Lactat > 3,4 mmol/L và/hoặc vận mạch liều cao: cân nhắc kỹ",
+      "Xu hướng lactat quan trọng hơn trị số đơn lẻ"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "TEIXEIRA 2025 · LACTAT",
+     "t": "<4 thấp · 4–8 trung bình · >8 cao",
+     "items": [
+      "Nguy cơ tích tụ citrate",
+      "Không dùng citrate trong SCUF (KC15, C)"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Đây là thay đổi quan trọng nhất của vài năm qua: suy gan không còn là chống chỉ định tuyệt đối. Đồng thuận Trung Quốc 2023 không coi rối loạn chức năng gan, cũng không coi toan lactic, là chống chỉ định, mức C, nhưng cả hai nhóm tăng nguy cơ tích tụ và cần theo dõi sát.",
+    "Delphi 2026 cho phép dùng ở sốc nặng, mức nhất trí 84,6 phần trăm; ở suy gan nặng khi theo dõi sát và điều chỉnh tải citrate, 92,3 phần trăm; và ở người tăng lactat, thận trọng, lactat tăng dần gợi ý nguy cơ cao, 88,5 phần trăm.",
+    "SIAARTI và SIN 2023 thận trọng hơn: tránh khi toan lactic nặng dần bất kể nguyên nhân; lactat trên 3,4 mi li mol mỗi lít và hoặc vận mạch liều cao cần cân nhắc kỹ trước khi bắt đầu. Xu hướng lactat có giá trị hơn trị số đơn lẻ.",
+    "Hướng dẫn thô của Teixeira 2025 theo lactat: dưới 4 nguy cơ tích tụ thấp, từ 4 đến 8 trung bình, trên 8 cao. Và không dùng citrate vùng trong SCUF, vì SCUF không loại được phức hợp citrate – canxi. Với người nguy cơ cao, chọn CVVHD hoặc CVVHDF, và cài đặt giảm tải citrate ngay từ đầu."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Phân biệt",
+   "title": "Ba tình huống dễ nhầm",
+   "head": [
+    "",
+    "Tích tụ citrate",
+    "Thừa đệm",
+    "Thừa canxi bù"
+   ],
+   "widths": "1fr 1.4fr 1.2fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "Canxi ion hoá toàn thân",
+      "Giảm dần",
+      "Bình thường",
+      "<b>Cao</b>"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Nhu cầu bù canxi",
+      "Tăng dần",
+      "–",
+      "Đang bù thừa"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "tCa/iCa",
+      "<b>≥ 2,5</b>",
+      "< 2,5",
+      "< 2,5"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Toan kiềm",
+      "Toan chuyển hoá tăng khoảng trống anion",
+      "<b>Kiềm chuyển hoá</b>",
+      "–"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Xử trí",
+      "Giảm tải citrate; dai dẳng thì ngừng RCA",
+      "Tăng dịch thải hoặc giảm bicarbonat trong dịch; giảm Qb và citrate",
+      "Giảm tốc độ bù canxi"
+     ],
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Ba tình huống dễ nhầm với nhau. Ở tích tụ citrate, canxi ion hoá toàn thân giảm dần, nhu cầu bù canxi tăng dần.",
+    "Điểm phân biệt là tỷ số canxi toàn phần trên canxi ion hoá. Tích tụ: từ 2,5 trở lên. Hai tình huống kia đều dưới 2,5.",
+    "Thừa đệm, hay quá tải citrate ròng, biểu hiện bằng kiềm chuyển hoá với canxi bình thường. Tích tụ thì ngược lại: toan chuyển hoá tăng khoảng trống anion. Xử trí thừa đệm là tăng dịch thải hoặc giảm bicarbonat trong dịch thay thế, giảm đồng thời Qb và citrate, có thể dùng dịch bicarbonat thấp, khoảng 22 mi li đương lượng mỗi lít.",
+    "Thừa canxi bù thì canxi toàn phần cao, canxi ion hoá cao, tỷ số dưới 2,5: chỉ cần giảm tốc độ bù canxi, không đụng đến citrate."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "box",
+   "chapter": "Ca minh hoạ",
+   "title": "Ca trong nguồn: tCa/iCa 1,88",
+   "ref": "Teixeira 2025, tr. 780–784 · ca giả định trong bài",
+   "box": {
+    "tag": "CA GIẢ ĐỊNH · XƠ GAN · SỐC MẤT MÁU",
+    "t": "CVVHD không chống đông đông màng 4 lần/48 giờ, lactat 2,8 → khởi động lại với <b>citrate vùng</b>. Sau 48 giờ: tCa 2,78, Ca²⁺ toàn thân 1,48, Ca²⁺ sau màng 0,42, lactat 1,6 → <b>tCa/iCa = 1,88</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "KẾT LUẬN",
+     "t": "Dưới 2,5: thừa canxi bù, không phải tích tụ",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "XỬ TRÍ",
+     "t": "Giảm tốc độ bù canxi",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Một ca minh hoạ trong nguồn. Nam 42 tuổi, xơ gan, sốc mất máu do vỡ giãn tĩnh mạch thực quản, tổn thương thận cấp thiểu niệu, hai thuốc vận mạch. Lọc CVVHD không chống đông, màng đông bốn lần trong 48 giờ, lactat 2,8, nên khởi động lại với citrate vùng và theo dõi sát. Bệnh gan không là chống chỉ định khi lactat dưới 4.",
+    "Sau 48 giờ: canxi toàn phần 2,78, canxi ion hoá toàn thân 1,48, canxi sau màng 0,42, lactat 1,6.",
+    "Tỷ số canxi toàn phần trên canxi ion hoá là 1,88, dưới 2,5. Đây không phải tích tụ citrate.",
+    "Canxi ion hoá toàn thân đã cao, vậy đây là thừa canxi bù. Xử trí là giảm tốc độ bù canxi."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "box",
+   "chapter": "Thông điệp",
+   "title": "Thông điệp từ ba nguồn bằng chứng",
+   "ref": "RICH 2020 · Gattas 2015 · CASH 2014 · Zhou 2023",
+   "box": {
+    "tag": "ĐỌC ĐÚNG BẰNG CHỨNG",
+    "t": "Citrate <b>kéo dài tuổi thọ màng</b> và <b>giảm chảy máu</b>, nhưng <b>không giảm tử vong</b>. Tín hiệu <b>nhiễm khuẩn mới nhiều hơn</b> ở RICH cần theo dõi.",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "LỢI ÍCH THẬT",
+     "t": "Ít mất quả lọc, ít phải thay, ít chảy máu",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "tag": "KHÔNG HỨA HẸN",
+     "t": "Không nên nói citrate cứu sống thêm",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CHƯA RÕ",
+     "t": "Cơ chế của tín hiệu nhiễm khuẩn: nguồn chưa giải thích",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Đặt ba nguồn bằng chứng cạnh nhau, ta rút ra một thông điệp rất rõ.",
+    "Lợi ích của citrate là lợi ích thực hành: tuổi thọ màng dài hơn, ít chảy máu hơn, nghĩa là ít quả lọc phải thay và ít giờ lọc bị gián đoạn.",
+    "Nhưng chưa có bằng chứng citrate làm giảm tử vong. Nếu giải thích cho gia đình hay đồng nghiệp, ta không nên hứa hẹn điều đó.",
+    "Và với tín hiệu nhiễm khuẩn mới nhiều hơn trong thử nghiệm RICH, bản gốc ghi rõ nguồn hiện chưa giải thích cơ chế. Thái độ đúng là theo dõi, không vội kết luận."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "list",
+   "chapter": "Biến chứng khác",
+   "title": "Các rối loạn chuyển hoá khác khi dùng citrate",
+   "ref": "Jacobs 2026 KS16–KS21 · Pistolesi 2023 · Liu 2023 KC12, KC16 · Teixeira 2025, tr. 782",
+   "items": [
+    {
+     "t": "Thiếu tải citrate",
+     "d": "Toan chuyển hoá, đã loại trừ tích tụ → tăng citrate; cân nhắc giảm dịch thải (KS18)",
+     "at": 0,
+     "c": "amber",
+     "n": 1
+    },
+    {
+     "t": "Tăng natri",
+     "d": "Khi dùng citrate ưu trương (trisodium citrate 4%) → theo dõi Na, chỉnh dịch (KS19–20)",
+     "at": 1,
+     "c": "coral",
+     "n": 2
+    },
+    {
+     "t": "Tăng kali",
+     "d": "Đang RCA → tăng dịch thẩm tách hoặc dịch thay thế (KS21)",
+     "at": 2,
+     "c": "violet",
+     "n": 3
+    },
+    {
+     "t": "Hạ magne, hạ phospho",
+     "d": "Mất qua dịch thải; dịch thương mại chỉ bù một phần Mg; có thể dùng dịch chứa phosphat cả khi RCA",
+     "at": 3,
+     "c": "teal",
+     "n": 4
+    },
+    {
+     "t": "Năng lượng ẩn",
+     "d": "Tính năng lượng từ citrate, lactat, glucose trong dịch vào dinh dưỡng (KC16, C)",
+     "at": 4,
+     "c": "green",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Ngoài ba tình huống canxi vừa phân biệt, citrate còn kéo theo một số rối loạn chuyển hoá khác. Thiếu tải citrate: người bệnh toan chuyển hoá nhưng đã loại trừ tích tụ. Khi đó tăng citrate, tốc độ hoặc liều đích, và cân nhắc giảm dịch thải để giảm mất citrate và bicarbonat.",
+    "Tăng natri xảy ra khi dùng citrate ưu trương, như trisodium citrate 4 phần trăm. Cần theo dõi natri và điều chỉnh dịch.",
+    "Nếu kali tăng trong khi đang dùng citrate vùng, tăng dịch thẩm tách hoặc dịch thay thế.",
+    "Magne và phospho mất qua dịch thải. Dịch thương mại chỉ bù một phần magne. SIAARTI ghi nhận có thể dùng dịch chứa phosphat an toàn, kể cả khi đang dùng citrate.",
+    "Cuối cùng, năng lượng từ citrate, lactat và glucose trong dịch phải được tính vào dinh dưỡng của người bệnh."
+   ],
+   "id": "s18",
+   "dense": true
+  },
+  {
+   "layout": "list",
+   "chapter": "Cài đặt",
+   "title": "Cài đặt khởi đầu hợp lý cho người nguy cơ cao",
+   "ref": "Jacobs 2026 KS12, KS14 · Liu 2023 KC3, KC5 · Teixeira 2025",
+   "items": [
+    {
+     "t": "Chọn CVVHD hoặc CVVHDF",
+     "d": "Thanh thải citrate tốt hơn (KS12, 82,6%)",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Cài đặt giảm tải citrate ngay từ đầu",
+     "d": "KS14, 72%",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "Dịch không canxi",
+     "d": "Tránh thêm canxi vào dịch thẩm tách, dịch thay thế (KS22, 75%; KC3, B)",
+     "at": 2,
+     "c": "violet",
+     "n": 3
+    },
+    {
+     "t": "Canxi bù vào đường trả máu hoặc tĩnh mạch trung tâm",
+     "d": "Không qua tĩnh mạch ngoại vi (KC5, B)",
+     "at": 3,
+     "c": "coral",
+     "n": 4
+    },
+    {
+     "t": "Qb 120–150 mL/phút khi dùng citrate",
+     "d": "Theo bảng con số cần nhớ của bản gốc",
+     "at": 4,
+     "c": "green",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Vậy nếu người bệnh thuộc nhóm nguy cơ tích tụ cao, ta cài đặt thế nào cho an toàn ngay từ đầu?",
+    "Chọn phương thức thanh thải citrate tốt hơn là CVVHD hoặc CVVHDF, mức nhất trí 82,6 phần trăm. Cài đặt giảm tải citrate ngay từ đầu, mức nhất trí 72 phần trăm.",
+    "Dùng dịch không canxi và tránh thêm canxi vào dịch thẩm tách hay dịch thay thế, mức nhất trí 75 phần trăm. Lưu ý SIAARTI ghi nhận có phác đồ dùng dịch có canxi để giảm nhu cầu bù, chấp nhận canxi mạch cao hơn nhưng vẫn dưới 0,50. Hãy theo phác đồ của máy và dịch tại cơ sở.",
+    "Canxi bù vào đường trả máu của mạch hoặc tĩnh mạch trung tâm, không qua tĩnh mạch ngoại vi.",
+    "Và Qb khoảng 120 đến 150 mi li lít mỗi phút khi dùng citrate, theo bảng con số cần nhớ của bản gốc, thấp hơn khoảng 150 đến 250 của chống đông thông thường, để giảm tải citrate đi vào cơ thể."
+   ],
+   "id": "s19",
+   "dense": true
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: tCa/iCa 2,7",
+   "case": "Nam, 55 tuổi, xơ gan, sốc nhiễm khuẩn, noradrenalin liều cao, lactat tăng dần. CVVHDF citrate vùng 14 giờ. Ca²⁺ toàn thân giảm dần, nhu cầu bù canxi tăng dần, khí máu toan chuyển hoá tăng khoảng trống anion. tCa/iCa = 2,7.",
+   "case_at": 0,
+   "q": "Xử trí đầu tiên hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Tăng tốc độ bù canxi để đưa Ca²⁺ toàn thân về bình thường",
+    "Giảm tải citrate: giảm Qb và/hoặc tăng dịch thải, giảm tốc độ citrate; tối ưu huyết động",
+    "Tăng liều citrate để Ca²⁺ sau màng thấp hơn nữa",
+    "Chuyển sang SCUF cho nhẹ"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "tCa/iCa ≥ 2,5 + Ca²⁺ giảm dần + toan AG = tích tụ citrate → tối ưu huyết động, giảm tải citrate (Delphi KS13, 92,3%); dai dẳng → ngừng RCA, vẫn tiếp tục CRRT (KS15).",
+   "lines": [
+    "Tình huống. Người bệnh nam 55 tuổi, xơ gan, sốc nhiễm khuẩn, noradrenalin liều cao, lactat tăng dần. Đang lọc CVVHDF với citrate vùng được 14 giờ. Canxi ion hoá toàn thân giảm dần, nhu cầu bù canxi tăng dần, khí máu toan chuyển hoá tăng khoảng trống anion. Tỷ số canxi toàn phần trên canxi ion hoá là 2,7.",
+    "Xử trí đầu tiên hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là giảm tải citrate. Đây là tích tụ citrate: tỷ số từ 2,5 trở lên, canxi ion hoá giảm dần, toan chuyển hoá tăng khoảng trống anion. Tối ưu huyết động và tưới máu trước, rồi giảm Qb hoặc tăng dịch thải để tăng thanh thải citrate, giảm tốc độ citrate. Nếu dai dẳng thì ngừng citrate vùng, đổi chống đông khác, vẫn tiếp tục lọc máu liên tục. Tăng bù canxi chỉ che dấu hiệu, tăng citrate làm tích tụ nặng thêm, còn SCUF thì không loại được phức hợp citrate – canxi."
+   ],
+   "id": "s20"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 7",
+   "items": [
+    {
+     "t": "Citrate vùng là chống đông đầu tay: KDIGO 2026 R5.5.1, 1B",
+     "d": "Kéo dài màng, ít chảy máu, không giảm tử vong",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Ca²⁺ sau màng 0,25–0,40 mmol/L",
+     "d": "Ca²⁺ toàn thân 1,1–1,3 (SIAARTI) · 0,9–1,1 (Trung Quốc)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "CaCl₂ 5% ≠ 10%: nồng độ gấp đôi",
+     "d": "Y lệnh ghi % và mmol/giờ",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Suy gan, lactat tăng: không còn chống chỉ định tuyệt đối",
+     "d": "Theo dõi sát · không dùng trong SCUF",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "tCa/iCa ≥ 2,5 = tích tụ citrate",
+     "d": "Giảm tải citrate; dai dẳng thì ngừng RCA",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần bảy. Citrate vùng là chống đông đầu tay theo KDIGO 2026, mức 1B. Nó kéo dài tuổi thọ màng và giảm chảy máu, nhưng không giảm tử vong.",
+    "Đích canxi ion hoá sau màng là 0,25 đến 0,40 mi li mol mỗi lít; canxi toàn thân theo SIAARTI 1,1 đến 1,3, theo đồng thuận Trung Quốc 0,9 đến 1,1.",
+    "Can xi clo rua 5 phần trăm và 10 phần trăm khác nhau gấp đôi nồng độ; áp nhầm công thức là gấp đôi liều. Y lệnh luôn ghi nồng độ và mi li mol mỗi giờ.",
+    "Suy gan và tăng lactat không còn là chống chỉ định tuyệt đối, nhưng cần theo dõi sát, và không dùng citrate trong SCUF.",
+    "Và tỷ số canxi toàn phần trên canxi ion hoá từ 2,5 trở lên là tích tụ citrate, xử trí bằng giảm tải citrate. Phần sau, chúng ta bàn về heparin, nafamostat, không chống đông và cách kéo dài tuổi thọ màng. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s21",
+   "dense": true
+  }
+ ]
+}

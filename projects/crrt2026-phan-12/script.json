@@ -1,0 +1,1544 @@
+{
+ "title": "Lọc máu liên tục – Phần 12: Ngừng lọc máu, tình huống đặc biệt, tổ chức đơn vị",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 12/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương"
+ },
+ "brand": {
+  "next": "Trọn loạt: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành · phần cuối",
+   "title": "Ngừng lọc máu,<br>tình huống đặc biệt",
+   "subtitle": "Ngừng · sepsis · ECMO · gan · não · ngộ độc · tổ chức đơn vị",
+   "badges": [
+    {
+     "t": "Đánh giá ngừng mỗi ngày",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "EUPHRATES · TIGRIS",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Lưu đồ một trang",
+     "c": "green",
+     "at": 2
+    }
+   ],
+   "note": "Phần 12/12 · tổng kết 10 thông điệp",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần mười hai, phần cuối của loạt bài lọc máu liên tục thực hành.",
+    "Ta đã đi từ nguyên lý, chỉ định, phương thức, catheter, liều, chống đông, dịch và điện giải, cho đến báo động. Hôm nay là chặng cuối: khi nào và làm thế nào ngừng lọc máu; các tình huống đặc biệt như sepsis, ECMO, suy gan, tổn thương não và ngộ độc; cách tổ chức một đơn vị lọc máu; và cuối cùng là lưu đồ một trang cùng mười thông điệp phải nhớ.",
+    "Phần này dài hơn các phần trước, vì nó gom lại cả loạt bài thành một bộ công cụ dùng được ngay tại giường."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Ngừng lọc máu",
+   "title": "Khuyến cáo ngừng lọc máu liên tục",
+   "ref": "KDIGO 2012, tr. 96–97 · KDIGO 2026 dự thảo · SRLF 2025 · KSN 2025",
+   "head": [
+    "Nguồn",
+    "Nội dung",
+    "Mức"
+   ],
+   "widths": "1fr 3fr 0.8fr",
+   "rows": [
+    {
+     "cells": [
+      "KDIGO 2012 R5.2.1",
+      "Ngừng khi không còn cần: thận tự hồi phục đủ, hoặc lọc máu không còn phù hợp mục tiêu chăm sóc",
+      "Not graded"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "KDIGO 2012 R5.2.2",
+      "Không dùng lợi tiểu để tăng hồi phục chức năng thận hoặc rút ngắn thời gian lọc máu",
+      "2B"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "KDIGO 2026 PP 5.9.1–5.9.4",
+      "Dự báo ngừng thành công: nước tiểu > 450 mL/24 giờ không lợi tiểu, hoặc > 2.300 có lợi tiểu, và thanh thải creatinin 2 giờ ≥ 23 mL/phút",
+      "PP"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "SRLF 2025 R7.2",
+      "Đánh giá sự hồi phục bài niệu khi cân nhắc ngừng CRRT",
+      "Grade 2+"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "SRLF 2025 R7.3",
+      "Đánh giá mỗi ngày khả năng ngừng; nếu có, dùng IHD làm cầu nối",
+      "Panel opinion"
+     ],
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "KSN 2025 KQ7",
+      "Có thể cân nhắc lợi tiểu tại thời điểm ngừng để hỗ trợ hồi phục lượng nước tiểu",
+      "B, chứng cứ thấp"
+     ],
+     "at": 5,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Ta bắt đầu với câu hỏi cuối cùng của mỗi ca lọc máu: khi nào thì ngừng. KDIGO 2012, khuyến cáo 5.2.1, không xếp mức: ngừng khi không còn cần, tức là chức năng thận tự hồi phục đủ đáp ứng nhu cầu, hoặc lọc máu không còn phù hợp với mục tiêu chăm sóc.",
+    "Khuyến cáo 5.2.2, mức 2B: không dùng lợi tiểu để tăng hồi phục chức năng thận hoặc rút ngắn thời gian lọc máu.",
+    "KDIGO 2026 bản dự thảo, các practice point 5.9.1 đến 5.9.4: ngừng khi không còn cần, dựa vào thông số lâm sàng, chuyển hoá, thay đổi creatinin, nước tiểu và cân bằng dịch. Dự báo ngừng thành công ở người lớn: nước tiểu trên 450 mi li lít mỗi 24 giờ khi không dùng lợi tiểu, hoặc trên 2.300 mi li lít khi có dùng lợi tiểu, và độ thanh thải creatinin 2 giờ từ 23 mi li lít mỗi phút trở lên.",
+    "SRLF 2025, khuyến cáo 7.2, mức 2 cộng: đánh giá sự hồi phục bài niệu khi cân nhắc ngừng.",
+    "Khuyến cáo 7.3, ý kiến hội đồng: đánh giá mỗi ngày khả năng ngừng; nếu ngừng được, dùng chạy thận ngắt quãng làm cầu nối.",
+    "Và hội thận học Hàn Quốc 2025, câu hỏi 7, mức B, chứng cứ thấp: có thể cân nhắc lợi tiểu tại thời điểm ngừng để hỗ trợ hồi phục lượng nước tiểu."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Ngừng lọc máu",
+   "title": "Lợi tiểu khi ngừng: ba văn bản, hai mục tiêu",
+   "ref": "ban-goc mục 14.1",
+   "box": {
+    "tag": "KHÁC BIỆT CẦN NÓI RÕ",
+    "t": "KDIGO 2012 (2B): không dùng lợi tiểu để <b>thúc hồi phục</b>. KSN 2025 (B): có thể dùng lợi tiểu <b>lúc ngừng</b> để <b>tăng lượng nước tiểu</b>. Hai mục tiêu khác nhau.",
+    "at": 0,
+    "c": "amber",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "KDIGO 2012",
+     "t": "Mục tiêu: hồi phục chức năng thận, rút ngắn lọc máu",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "KSN 2025",
+     "t": "Mục tiêu: tăng nước tiểu lúc ngừng",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "KDIGO 2026",
+     "t": "Dung hoà: tăng nước tiểu, quản lý dịch, không chứng minh hồi phục",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Có một khác biệt cần nói rõ, vì nó hay gây tranh luận ở giường bệnh. KDIGO 2012 khuyến cáo không dùng lợi tiểu để thúc đẩy hồi phục chức năng thận hoặc rút ngắn thời gian lọc máu. Hội thận học Hàn Quốc 2025 lại cho phép cân nhắc lợi tiểu lúc ngừng, để tăng lượng nước tiểu.",
+    "Hai văn bản nhắm hai mục tiêu khác nhau: một bên là hồi phục thận, một bên là lượng nước tiểu.",
+    "Vì vậy chúng không mâu thuẫn hoàn toàn: lợi tiểu có thể giúp quản lý dịch, nhưng không có bằng chứng là nó giúp thận hồi phục.",
+    "KDIGO 2026 bản dự thảo dung hoà cả hai: lợi tiểu trước hoặc sau ngừng giúp tăng nước tiểu, nhưng không được chứng minh là giúp hồi phục. Trong phần tranh cãi ở cuối bài, ta sẽ gặp lại câu hỏi này."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Dự báo ngừng",
+   "title": "Nước tiểu dự báo ngừng thành công",
+   "ref": "Katulka, Crit Care 2020 · Uchino · Teixeira 2025, tr. 777",
+   "groups": [
+    {
+     "t": "Không dùng lợi tiểu",
+     "d": "ngưỡng 436 mL/ngày · AUROC",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "AUROC",
+       "v": 0.845,
+       "lab": "0,845",
+       "c": "teal"
+      }
+     ]
+    },
+    {
+     "t": "Có dùng lợi tiểu",
+     "d": "ngưỡng 2.330 mL/ngày · AUROC",
+     "at": 2,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "AUROC",
+       "v": 0.671,
+       "lab": "0,671",
+       "c": "amber"
+      }
+     ]
+    }
+   ],
+   "max": 1,
+   "h": 520,
+   "notes": [
+    {
+     "t": "Katulka 2020: 23 nghiên cứu quan sát, chứng cứ rất thấp",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Độ nhạy gộp 66,2% · độ đặc hiệu 73,6% · LR+ 2,91 · LR− 0,43",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Ngưỡng giữa các nghiên cứu 191–1.720 mL/24 giờ; chưa có ngưỡng tối ưu",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Bằng chứng dự báo ngừng thành công đến từ tổng quan hệ thống của Katulka năm 2020, gồm 23 nghiên cứu quan sát và 16 biến, không mô hình nào được kiểm định ngoài. Lượng nước tiểu là yếu tố được nghiên cứu nhiều nhất.",
+    "Nghiên cứu của Uchino: khi không dùng lợi tiểu, ngưỡng 436 mi li lít mỗi ngày cho diện tích dưới đường cong 0,845.",
+    "Khi có dùng lợi tiểu, ngưỡng 2.330 mi li lít mỗi ngày chỉ cho 0,671. Dùng lợi tiểu làm lượng nước tiểu kém tin cậy hơn.",
+    "Gộp lại, độ nhạy 66,2 phần trăm, độ đặc hiệu 73,6 phần trăm, tỷ số khả dĩ dương 2,91 và âm 0,43. Ngưỡng nước tiểu giữa các nghiên cứu dao động từ 191 đến 1.720 mi li lít mỗi 24 giờ, nên không xác định được ngưỡng tối ưu. Định nghĩa ngừng thành công cũng khác nhau, từ 3 đến 60 ngày không cần lọc máu.",
+    "Teixeira 2025 gợi ý: nước tiểu tự phát trên 500 mi li lít mỗi ngày, hoặc trên 2 lít mỗi ngày khi có lợi tiểu, gợi ý có thể thử ngừng. Nghiệm pháp furosemid để dự báo ngừng đang được thử trong các thử nghiệm ngẫu nhiên chưa có kết quả, ví dụ FST-STOP, dự kiến hoàn thành năm 2028."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Quy trình ngừng",
+   "title": "Quy trình thử ngừng tại giường",
+   "ref": "Quy trình tổng hợp của người soạn từ KSN KQ7 · KDIGO 2026 PP 5.9.3–5.9.4 · SRLF R7.3",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "① Mỗi sáng hỏi",
+     "d": "chỉ định ban đầu còn không? huyết động? cân bằng dịch? nước tiểu 24 giờ?",
+     "x": 300,
+     "y": 220,
+     "w": 520,
+     "h": 200,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "② Đủ điều kiện: thử ngừng",
+     "d": "nước tiểu tự phát > 400–500 mL/24 giờ, hết quá tải, K và toan ổn; cân nhắc lợi tiểu",
+     "x": 920,
+     "y": 220,
+     "w": 560,
+     "h": 200,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "③ Theo dõi 24–72 giờ",
+     "d": "nước tiểu, creatinin, urê, K, toan, dịch; thanh thải creatinin 2 giờ nếu làm được",
+     "x": 1500,
+     "y": 220,
+     "w": 460,
+     "h": 200,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "④ Thất bại: lọc lại theo chỉ định",
+     "d": "không bắt buộc quay về CRRT; IHD/PIRRT nếu huyết động cho phép",
+     "x": 1560,
+     "y": 570,
+     "w": 520,
+     "h": 170,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "⑤ Khi ngừng",
+     "d": "chỉnh lại liều thuốc; khoá hoặc rút catheter; ngừng citrate và canxi",
+     "x": 880,
+     "y": 570,
+     "w": 560,
+     "h": 170,
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "a": "c",
+     "b": "e",
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Từ các nguồn trên, ta có thể dựng quy trình thử ngừng gồm năm bước. Đây là quy trình tổng hợp của người soạn chuyên đề.",
+    "Bước một, mỗi sáng tự hỏi: chỉ định ban đầu còn không, huyết động ra sao, cân bằng dịch thế nào, nước tiểu 24 giờ bao nhiêu.",
+    "Bước hai: đủ điều kiện, ví dụ nước tiểu tự phát trên 400 đến 500 mi li lít mỗi 24 giờ, hết quá tải dịch, kali và toan ổn, thì thử ngừng có theo dõi. Có thể cân nhắc lợi tiểu để quản lý dịch.",
+    "Bước ba: theo dõi 24 đến 72 giờ, gồm nước tiểu, creatinin, urê, kali, toan, dịch; thêm độ thanh thải creatinin 2 giờ nếu làm được.",
+    "Bước bốn: nếu thất bại thì lọc lại theo chỉ định. Không bắt buộc quay về lọc máu liên tục; chạy thận ngắt quãng hoặc lọc máu ngắt quãng kéo dài nếu huyết động cho phép.",
+    "Bước năm: khi ngừng hẳn, chỉnh lại toàn bộ liều thuốc, khoá hoặc rút catheter, và ngừng citrate cùng canxi."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: có thể ngừng lọc máu chưa?",
+   "case": "Nữ, 70 kg, CVVHDF vì AKI sau sốc nhiễm khuẩn, đã bỏ vận mạch. Nước tiểu tự phát 600 mL/24 giờ, không dùng lợi tiểu; hết quá tải dịch; kali và toan ổn.",
+   "case_at": 0,
+   "q": "Bước hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Tiếp tục CRRT cho đến khi creatinin về bình thường",
+    "Tiêm lợi tiểu để chứng minh thận hồi phục rồi rút catheter ngay",
+    "Thử ngừng có theo dõi 24–72 giờ; lọc lại nếu có chỉ định",
+    "Ngừng và rút catheter, không cần theo dõi thêm"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Đủ điều kiện → thử ngừng có theo dõi; thất bại → lọc lại theo chỉ định (SRLF R7.3; KDIGO 2026 PP 5.9.3).",
+   "lines": [
+    "Tình huống giả định. Người bệnh 70 ký, đang chạy thẩm tách – siêu lọc máu liên tục vì tổn thương thận cấp sau sốc nhiễm khuẩn, đã bỏ vận mạch. Nước tiểu tự phát 600 mi li lít mỗi 24 giờ khi không dùng lợi tiểu, hết quá tải dịch, kali và toan ổn.",
+    "Bước hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là thử ngừng có theo dõi 24 đến 72 giờ, lọc lại nếu có chỉ định. Nước tiểu trên 500 mi li lít mỗi ngày, hết quá tải, kali và toan ổn là các điều kiện của quy trình. Chờ creatinin về bình thường là không cần thiết; dùng lợi tiểu để chứng minh hồi phục không có bằng chứng; còn ngừng mà không theo dõi bỏ sót nguy cơ thất bại."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "list",
+   "chapter": "Chuyển phương thức",
+   "title": "Chuyển từ CRRT sang IHD hoặc PIRRT",
+   "ref": "Teixeira 2025, tr. 777 · KDIGO 2026 PP 5.2.5, 5.4.8, 6.4.1–6.4.5 · ICRAKI",
+   "items": [
+    {
+     "t": "Khi huyết động ổn định, không cần vận mạch",
+     "d": "và quá tải dịch đã kiểm soát (Teixeira 2025; KDIGO 2026 PP 5.2.5)",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "ICRAKI chưa trả lời thời điểm chuyển",
+     "d": "chọn CRRT lúc khởi đầu có lợi ở người nặng; thận trọng chuyển sớm ở người còn bất ổn",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Không ngừng được sau ra viện",
+     "d": "lọc máu ngoại trú, catheter có cuff, đường hầm (KDIGO 2026 PP 5.4.8)",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Đánh giá thận học sau ngừng",
+     "d": "trong 7 ngày sau ngừng lọc ngoại trú và lại ở 90 ngày (PP 6.4.1–6.4.5)",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Khi nào chuyển lọc máu liên tục sang chạy thận ngắt quãng hoặc lọc ngắt quãng kéo dài? Khi huyết động ổn định không cần vận mạch và quá tải dịch đã được kiểm soát.",
+    "ICRAKI cho thấy chọn lọc liên tục lúc khởi đầu có lợi ở người bệnh nặng, nhưng chưa trả lời thời điểm chuyển. Vì vậy hãy thận trọng khi chuyển sớm ở người còn bất ổn.",
+    "Nếu người bệnh không ngừng được lọc máu sau ra viện: lập kế hoạch lọc máu ngoại trú, chuyển sang catheter có cuff, đường hầm.",
+    "Và KDIGO 2026 dự thảo khuyến nghị đánh giá thận học trong 7 ngày sau ngừng lọc máu ngoại trú, rồi đánh giá lại ở 90 ngày."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Sepsis",
+   "title": "Sepsis: lọc máu thay thế thận và \"tinh lọc máu\"",
+   "ref": "SSC 2026, pdf 47, 50 · KDIGO 2026 R5.3.2 (1B)",
+   "cards": [
+    {
+     "tag": "KC93 · CÓ ĐIỀU KIỆN",
+     "t": "AKI không có chỉ định rõ",
+     "d": "Gợi ý không dùng lọc máu",
+     "items": [
+      "Chứng cứ vừa"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "KC94 · CÓ ĐIỀU KIỆN",
+     "t": "AKI cần lọc máu",
+     "d": "Liên tục hoặc ngắt quãng",
+     "items": [
+      "Chứng cứ thấp",
+      "Ra trước ICRAKI"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "KC83 · CÓ ĐIỀU KIỆN",
+     "t": "Tinh lọc máu",
+     "d": "Gợi ý không dùng thường quy: hấp phụ, lọc liều cao, thay huyết tương",
+     "items": [
+      "Chứng cứ rất thấp"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KC84 · CÓ ĐIỀU KIỆN",
+     "t": "Hấp phụ polymyxin B",
+     "d": "Gợi ý không dùng",
+     "items": [
+      "Chứng cứ thấp"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bây giờ đến các tình huống đặc biệt. Trước hết là sepsis và sốc nhiễm khuẩn. Hướng dẫn Surviving Sepsis Campaign 2026 có hai khuyến cáo về lọc máu thay thế thận.",
+    "Khuyến cáo 93: khi tổn thương thận cấp chưa có chỉ định lọc máu rõ ràng, gợi ý không dùng lọc máu, mức có điều kiện, chứng cứ vừa.",
+    "Khuyến cáo 94: khi cần lọc máu, gợi ý dùng liên tục hoặc ngắt quãng, mức có điều kiện, chứng cứ thấp. Khuyến cáo này ra trước ICRAKI.",
+    "Về các kỹ thuật tinh lọc máu như hấp phụ, lọc liều cao, thay huyết tương, khuyến cáo 83 gợi ý không dùng thường quy, mức có điều kiện, chứng cứ rất thấp. Riêng hấp phụ polymyxin B, khuyến cáo 84 cũng gợi ý không dùng, chứng cứ thấp. Về liều, ta đã biết: không dùng siêu lọc thể tích cao, KDIGO 2026 khuyến cáo 5.3.2, mức 1B."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Sepsis",
+   "title": "Polymyxin B: EUPHRATES và TIGRIS",
+   "ref": "Dellinger, JAMA 2018, tr. 1455 · TIGRIS, Lancet Respir Med 2026, tr. 443",
+   "groups": [
+    {
+     "t": "EUPHRATES 2018 · tử vong 28 ngày (%)",
+     "d": "450 người sốc nhiễm khuẩn · EAA ≥ 0,60 · mù, đối chứng giả",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Polymyxin B",
+       "v": 37.7,
+       "lab": "37,7%",
+       "c": "coral"
+      },
+      {
+       "k": "Đối chứng",
+       "v": 34.5,
+       "lab": "34,5%"
+      }
+     ]
+    },
+    {
+     "t": "TIGRIS 2026 · tử vong 28 ngày (%)",
+     "d": "157 người · EAA 0,60–0,89 · mở, Bayes",
+     "at": 3,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Polymyxin B",
+       "v": 39,
+       "lab": "39%",
+       "c": "coral"
+      },
+      {
+       "k": "Đối chứng",
+       "v": 45,
+       "lab": "45%"
+      }
+     ]
+    }
+   ],
+   "max": 50,
+   "h": 560,
+   "notes": [
+    {
+     "t": "EUPHRATES: RR 1,09 (0,85–1,39); P = 0,49",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "TIGRIS: OR hậu nghiệm 0,67 (khoảng khả tín 95% 0,39–1,08); xác suất lợi ích 95,3%",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "TIGRIS ngày 90: OR 0,54 (0,32–0,87); xác suất lợi ích 99,4%",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 600,
+   "lines": [
+    "Bằng chứng về hấp phụ polymyxin B có hai thử nghiệm đáng nhớ. EUPHRATES, đăng trên JAMA năm 2018: 450 người sốc nhiễm khuẩn có hoạt tính nội độc tố từ 0,60 trở lên, ở 55 bệnh viện Bắc Mỹ, thiết kế mù, đối chứng giả.",
+    "Tử vong 28 ngày là 37,7 phần trăm ở nhóm polymyxin so với 34,5 phần trăm ở nhóm chứng; nguy cơ tương đối 1,09, P bằng 0,49. Không có lợi ích.",
+    "TIGRIS, đăng trên Lancet Respiratory Medicine năm 2026: thử nghiệm pha ba, thiết kế mở, phân tích kiểu Bayes, 157 người chia theo tỷ lệ hai trên một, chọn theo một nhóm hoạt tính nội độc tố 0,60 đến 0,89, dùng thông tin ban đầu từ phân nhóm của EUPHRATES với trọng số 75 phần trăm.",
+    "Tử vong 28 ngày 39 phần trăm so với 45 phần trăm; tỷ số odds hậu nghiệm 0,67, khoảng khả tín 95 phần trăm từ 0,39 đến 1,08; xác suất có lợi ích 95,3 phần trăm. Ở ngày 90: tỷ số odds 0,54, khoảng từ 0,32 đến 0,87, xác suất có lợi ích 99,4 phần trăm. Biến cố nặng là 30 phần trăm so với 22 phần trăm."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "box",
+   "chapter": "Sepsis",
+   "title": "Kết luận thực hành về hấp phụ polymyxin B",
+   "ref": "SSC 2026 · TIGRIS 2026 · Legrand, Crit Care 2026 · SRLF 2025 R4.6 · ban-goc mục 15.1",
+   "box": {
+    "tag": "KẾT LUẬN THỰC HÀNH",
+    "t": "SSC 2026 (ra trước TIGRIS) vẫn gợi ý <b>không dùng</b>. TIGRIS gợi ý có thể lợi ở nhóm chọn lọc theo EAA, nhưng <b>chưa đủ để dùng thường quy</b>.",
+    "at": 0,
+    "c": "coral",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "PHẢN BIỆN",
+     "t": "Thử nghiệm mở · chỉ 157/14.890 người sàng lọc được tuyển (~1%) · kết quả ngày 28 phụ thuộc prior · tài trợ của hãng",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "NẾU DÙNG",
+     "t": "Trong khuôn khổ có xét nghiệm EAA, đề cương, đánh giá lợi–hại",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "MÀNG ĐẶC BIỆT",
+     "t": "oXiris, CytoSorb, ngưỡng cắt cao: SRLF R4.6 gợi ý không dùng thường quy",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Vậy thực hành ra sao? Surviving Sepsis 2026, ra trước TIGRIS, vẫn gợi ý không dùng. TIGRIS gợi ý có thể có lợi ở nhóm chọn lọc theo hoạt tính nội độc tố, nhưng chưa đủ để dùng thường quy.",
+    "Legrand 2026 tổng hợp các điểm phản biện: thử nghiệm mở nên không thể làm thiết bị giả; chỉ 157 trên 14.890 người sàng lọc được tuyển, khoảng một phần trăm, dù tác giả cho rằng con số này dễ gây hiểu nhầm; kết quả ngày 28 phụ thuộc thông tin ban đầu và giả định mô hình; có tài trợ của hãng; và chỉ áp dụng cho nhóm hẹp có đo hoạt tính nội độc tố.",
+    "Nếu dùng, phải trong khuôn khổ có xét nghiệm hoạt tính nội độc tố, đề cương rõ ràng và đánh giá lợi hại.",
+    "Với các màng đặc biệt như oXiris, CytoSorb hay màng ngưỡng cắt cao, SRLF 2025 khuyến cáo 4.6 gợi ý không dùng thường quy, mức ý kiến hội đồng; trong nguồn của chúng ta chưa có thử nghiệm ngẫu nhiên nào với kết cục cứng, và điểm này cần đối chiếu thêm."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "list",
+   "chapter": "ECMO",
+   "title": "Lọc máu liên tục ở người bệnh ECMO",
+   "ref": "Gist, ICM 2026 (ADQI–ELSO) · SIAARTI 2023 · KSN 2025 · KDIGO 2026 PP 5.11.1–5.11.3",
+   "items": [
+    {
+     "t": "ECMO không đồng nghĩa mọi người bệnh cần lọc máu",
+     "d": "chỉ định khi điều trị nội khoa không đạt mục tiêu dịch, chuyển hoá",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Rối loạn dịch theo đường cong chữ U",
+     "d": "thiếu và thừa đều hại; rút dịch nhanh có thể gây hại; rút theo mục tiêu",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Cấu hình: tích hợp mạch hay catheter riêng",
+     "d": "theo catheter sẵn có, người bệnh, thiết bị; cần quy trình cơ sở, đào tạo, chỉ số chất lượng riêng",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Citrate cho mạch CRRT khi có ECMO",
+     "d": "khả thi, kéo dài tuổi thọ màng (SIAARTI 2023)",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Thuốc: dược động học thay đổi",
+     "d": "đo nồng độ thuốc thường xuyên khi khả thi",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "Chưa có AKI: chưa quyết định",
+     "d": "KSN KQ13, KQ14 (I); KDIGO 2026 PP 5.11: ưu tiên CRRT, quá tải dịch kháng trị có thể là chỉ định",
+     "at": 5,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Tình huống thứ hai là ECMO, theo đồng thuận ADQI và ELSO 2026. Trước hết, hỗ trợ ECMO không đồng nghĩa mọi người bệnh đều cần lọc máu. Chỉ định khi điều trị nội khoa không đạt mục tiêu về dịch và chuyển hoá, và ngưỡng có thể khác nhau giữa các quần thể ECMO.",
+    "Không có một chỉ số dịch đơn độc nào đủ tin cậy ở người ECMO, nên cần đánh giá liên tục, có cấu trúc. Rối loạn dịch theo đường cong chữ U, thiếu và thừa đều hại; rút dịch nhanh có thể gây hại, còn rút theo mục tiêu có thể giảm suy cơ quan.",
+    "Về cấu hình, có thể tích hợp mạch lọc máu vào mạch ECMO hoặc dùng catheter riêng, tuỳ catheter sẵn có, yếu tố người bệnh và thiết bị. Cần quy trình của cơ sở, đào tạo chuyên biệt và chỉ số chất lượng riêng.",
+    "Citrate cho mạch lọc máu khi có ECMO, tích hợp hoặc song song, là khả thi và kéo dài tuổi thọ màng, theo SIAARTI 2023.",
+    "Về thuốc, ECMO cộng với lọc máu làm thay đổi dược động học; nên đo nồng độ thuốc thường xuyên khi khả thi.",
+    "Hội thận học Hàn Quốc chưa quyết định việc dùng lọc máu ở người ECMO chưa có tổn thương thận cấp, và chưa quyết định khởi động sớm đồng thời, chứng cứ rất thấp. KDIGO 2026 dự thảo: phương án tích hợp tuỳ bối cảnh và kinh nghiệm, ưu tiên lọc máu liên tục, và quá tải dịch kháng trị có thể là chỉ định."
+   ],
+   "id": "s11",
+   "dense": true
+  },
+  {
+   "layout": "bars",
+   "chapter": "Suy gan cấp",
+   "title": "Suy gan cấp: NH₃ giảm nhanh hơn với CRRT",
+   "ref": "Cardoso, Hepatology 2018, tr. 14–15 · quan sát · KDIGO 2026 PP 5.1.4 · KSN KQ11",
+   "groups": [
+    {
+     "t": "Giảm NH₃ trung vị ngày 1 → 3 (%)",
+     "d": "Cardoso 2018 · đoàn hệ 1.186, phân tích động học 340",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "CRRT",
+       "v": 37.9,
+       "lab": "37,9%",
+       "c": "teal"
+      },
+      {
+       "k": "IRRT",
+       "v": 23.4,
+       "lab": "23,4%"
+      },
+      {
+       "k": "Không KRT",
+       "v": 18.6,
+       "lab": "18,6%"
+      }
+     ]
+    }
+   ],
+   "max": 45,
+   "h": 480,
+   "notes": [
+    {
+     "t": "CRRT so với không KRT: P = 0,007 · IRRT so với không KRT: P = 0,75",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "CRRT ngày đầu: tử vong không ghép gan 21 ngày aOR 0,47 (0,26–0,82)",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "IRRT ngày đầu: aOR 1,68 (1,04–2,72)",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 580,
+   "lines": [
+    "Tình huống thứ ba là suy gan cấp kèm tăng amoniac. Nghiên cứu của Cardoso năm 2018, từ nhóm nghiên cứu suy gan cấp Hoa Kỳ, đoàn hệ 1.186 người và phân tích động học trên 340 người.",
+    "Từ ngày một đến ngày ba, amoniac trung vị giảm 37,9 phần trăm ở nhóm CRRT, so với 18,6 phần trăm ở nhóm không lọc máu, P bằng 0,007. Lọc máu ngắt quãng giảm 23,4 phần trăm, không khác biệt có ý nghĩa so với không lọc, P bằng 0,75.",
+    "CRRT trong ngày đầu liên quan giảm tử vong không ghép gan 21 ngày, tỷ số odds hiệu chỉnh 0,47; còn lọc máu ngắt quãng ngày đầu có tỷ số odds hiệu chỉnh 1,68. Cần nhớ đây là nghiên cứu quan sát.",
+    "KDIGO 2026 dự thảo practice point 5.1.4: bệnh não gan độ hai trở lên do suy gan cấp hoặc cấp trên mạn, cân nhắc lọc máu liên tục để giảm amoniac dù chưa có chỉ định thận thường quy. Hội thận học Hàn Quốc: tổn thương thận cấp trước ghép gan, áp dụng lọc máu liên tục trong mổ cá thể hoá, theo đồng thuận chuyên gia.",
+    "Citrate ở người suy gan dùng được khi theo dõi sát, và khi rối loạn đông máu nặng có thể không chống đông. Về liều lọc máu tăng cho tăng amoniac ở người lớn, nguồn của chúng ta chỉ có số liệu ở trẻ em, nên chưa nêu liều."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "box",
+   "chapter": "Tổn thương não",
+   "title": "Tổn thương não cấp: ưu tiên lọc máu liên tục",
+   "ref": "KDIGO 2012 R5.6.3 (2B) · KSN KQ12 · Teixeira 2025, tr. 767–768",
+   "box": {
+    "tag": "KDIGO 2012 · R5.6.3 · 2B · KSN KQ12",
+    "t": "Ở người tổn thương não cấp: <b>ưu tiên lọc máu liên tục</b>, tránh giảm urê và natri nhanh.",
+    "at": 0,
+    "c": "teal",
+    "size": 38
+   },
+   "notes": [
+    {
+     "tag": "NATRI",
+     "t": "Có thể dùng NaCl 3% để giữ natri hiệu dụng cao (phần 10)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CHỐNG ĐÔNG",
+     "t": "Chảy máu nội sọ: tránh heparin; dùng citrate hoặc không chống đông",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Tình huống thứ tư là tổn thương não cấp. KDIGO 2012, khuyến cáo 5.6.3 mức 2B, và hội thận học Hàn Quốc câu hỏi 12 đều ưu tiên lọc máu liên tục, vì tránh được những biến đổi nhanh về urê và natri làm nặng thêm phù não.",
+    "Ta cần tránh giảm urê và natri nhanh. Có thể dùng natri clorua 3 phần trăm để giữ natri hiệu dụng cao, như đã bàn ở phần mười.",
+    "Về chống đông, khi có chảy máu nội sọ thì tránh heparin, dùng citrate hoặc không chống đông, theo ca lâm sàng của Teixeira 2025."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Ngộ độc",
+   "title": "Ngộ độc: chỉ định lọc ngoài cơ thể theo EXTRIP",
+   "ref": "Decker, CJASN 2015 · Calello, CCM 2015 · Juurlink, Ann Emerg Med 2015 · Ghannoum, Clin Toxicol 2015",
+   "head": [
+    "Chất độc",
+    "Chỉ định lọc ngoài cơ thể (trích)",
+    "Vai trò CRRT"
+   ],
+   "widths": "0.7fr 2.6fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "Lithium",
+      "1D: ngộ độc nặng, ví dụ suy thận kèm [Li⁺] > 4,0 mEq/L, hoặc giảm ý thức, co giật, loạn nhịp. 2D: [Li⁺] > 5,0, lú lẫn, hoặc dự kiến > 36 giờ để xuống < 1,0",
+      "IHD ưu tiên; CRRT thay thế chấp nhận được nếu không có IHD (1D)"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Metformin",
+      "1D: lactat > 20 mmol/L, sốc, giảm ý thức. 2D: lactat 15–20 mmol/L",
+      "IHD ưu tiên; CRRT chấp nhận được nếu không có HD (2D)"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Salicylat",
+      "Theo bảng chỉ định EXTRIP (nồng độ, toan, rối loạn ý thức, ARDS…); ngưỡng cần đối chiếu",
+      "IHD ưu tiên; CRRT chấp nhận được nếu không có HD (3D)"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Valproat",
+      "1D: > 1.300 mg/L (9.000 µmol/L), phù não hoặc sốc. 2D: > 900 mg/L (6.250 µmol/L), hôn mê, suy hô hấp cần thở máy",
+      "IHD ưu tiên; CRRT là thay thế chấp nhận được (2D)"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tình huống thứ năm là ngộ độc, với khuyến cáo của nhóm EXTRIP. Nguyên tắc chung: chất tan trong nước, ít gắn protein, thể tích phân bố nhỏ, dưới 0,5 lít mỗi ký, bị lọc tốt. Lọc máu liên tục dùng khi không có chạy thận ngắt quãng, khi huyết động không cho phép, hoặc để chống tăng nồng độ trở lại sau chạy thận.",
+    "Lithium: khuyến cáo lọc ngoài cơ thể, mức 1D, khi ngộ độc nặng, ví dụ suy giảm chức năng thận kèm nồng độ lithium trên 4,0 mi li đương lượng mỗi lít, hoặc giảm ý thức, co giật, loạn nhịp đe doạ tính mạng bất kể nồng độ. Gợi ý, mức 2D, khi trên 5,0, lú lẫn đáng kể, hoặc thời gian dự kiến xuống dưới 1,0 kéo dài trên 36 giờ. Chạy thận ngắt quãng ưu tiên; lọc máu liên tục là thay thế chấp nhận được nếu không có chạy thận ngắt quãng.",
+    "Metformin: khuyến cáo khi ngộ độc nặng, mức 1D, với lactat trên 20 mi li mol mỗi lít, sốc, giảm ý thức; gợi ý, mức 2D, khi lactat từ 15 đến 20. Lọc máu liên tục chấp nhận được nếu không có chạy thận.",
+    "Salicylat theo bảng chỉ định của EXTRIP, ngưỡng cần đối chiếu thêm. Valproat: khuyến cáo, 1D, khi nồng độ trên 1.300 mi li gam mỗi lít, hoặc phù não, hoặc sốc; gợi ý, 2D, khi trên 900. Phần này nhắc thêm: hãy liên hệ trung tâm chống độc, SRLF 2025 khuyến cáo 1.1F; phù não do methanol hay formaldehyd có trong chỉ định của Bộ Y tế, nhưng cần đối chiếu khuyến cáo EXTRIP về rượu độc."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "list",
+   "chapter": "Tình huống khác",
+   "title": "Tiêu cơ vân, viêm tuỵ, suy tim, béo phì, người cao tuổi",
+   "ref": "Teixeira 2025, tr. 778 · BYT 2014 · KSN KQ6 · KDIGO 2026 PP 5.1.1, 5.1.3, 5.3.1 · Murugan 2023",
+   "items": [
+    {
+     "t": "Tiêu cơ vân",
+     "d": "lọc máu khi có chỉ định thận; có thể cần liều tạm thời ≥ 40 mL/kg/h khi tăng K, phosphat nặng",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Viêm tuỵ cấp, suy đa tạng",
+     "d": "BYT có quy trình CVVHDF riêng; lọc điều hoà miễn dịch không có bằng chứng cải thiện kết cục (SSC KC83; IVOIRE)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Suy tim mất bù kháng lợi tiểu",
+     "d": "KSN KQ6: siêu lọc cân nhắc thận trọng ở người chọn lọc (I)",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Béo phì",
+     "d": "catheter cảnh, tránh đùi; liều theo cân nặng lý tưởng hoặc hiệu chỉnh; UFnet theo PBW",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Người cao tuổi",
+     "d": "phù hợp mục tiêu chăm sóc; quyết định chung với người bệnh, gia đình (PP 5.1.1, 5.1.3)",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Một số tình huống khác. Tiêu cơ vân: lọc máu liên tục khi có chỉ định thận; có thể cần liều tạm thời từ 40 mi li lít mỗi ký mỗi giờ trở lên khi tăng kali, phosphat nặng, theo Teixeira 2025. Đây là ngoại lệ tạm thời của quy tắc không dùng liều cao.",
+    "Viêm tuỵ cấp và suy đa tạng: Bộ Y tế có quy trình thẩm tách – siêu lọc máu liên tục riêng, nhưng lọc máu với mục đích điều hoà miễn dịch không có bằng chứng cải thiện kết cục, theo Surviving Sepsis khuyến cáo 83 và IVOIRE; chỉ định theo tiêu chuẩn chung.",
+    "Suy tim mất bù kháng lợi tiểu: hội thận học Hàn Quốc gợi ý siêu lọc cân nhắc thận trọng ở người chọn lọc; dùng siêu lọc chậm liên tục hoặc CVVH với tốc độ rút vừa phải và theo dõi huyết động.",
+    "Béo phì: catheter đường cảnh, tránh đùi; liều theo cân nặng lý tưởng hoặc hiệu chỉnh, siêu lọc ròng theo cân nặng dự đoán.",
+    "Người cao tuổi: lọc máu phải phù hợp mong muốn và mục tiêu chăm sóc, ra quyết định chung với người bệnh và gia đình."
+   ],
+   "id": "s15",
+   "dense": true
+  },
+  {
+   "layout": "list",
+   "chapter": "Tổ chức đơn vị",
+   "title": "Cấu trúc một chương trình lọc máu liên tục",
+   "ref": "KDIGO 2026 PP 5.10.1 · KSN 2025 KQ16–17 · ADQI 22 (2019) · BYT 2014 · ADQI 17 · Oxford 2016, tr. 131",
+   "items": [
+    {
+     "t": "Lãnh đạo chuyên trách, cặp bác sĩ – điều dưỡng",
+     "d": "đào tạo có chứng nhận và liên tục, quy trình chuẩn (KDIGO 2026 PP 5.10.1)",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Đội chuyên trách hoặc đa chuyên khoa",
+     "d": "cải thiện tuổi thọ màng, giảm downtime (KSN KQ17); hội chẩn thận học (KQ16)",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Chỉ số cấu trúc theo ADQI 22",
+     "d": "năng lực bác sĩ, điều dưỡng; dược, dinh dưỡng, phục hồi chức năng; dữ liệu; phác đồ; công nghệ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Nhân lực theo Bộ Y tế 2014",
+     "d": "1 bác sĩ + 2 điều dưỡng mỗi kíp 8 giờ, đã đào tạo",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Bộ y lệnh và phiếu theo dõi chuẩn",
+     "d": "lý tưởng tích hợp hồ sơ điện tử (ADQI 17, phát biểu 13)",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "Đào tạo bằng mô phỏng",
+     "d": "catheter hai nòng đặt vào túi NaCl 5 L; nhóm chuyên gia hỗ trợ",
+     "at": 5,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bây giờ ta bàn về tổ chức đơn vị. KDIGO 2026 dự thảo, practice point 5.10.1: một chương trình lọc máu nên có lãnh đạo chuyên trách, là cặp bác sĩ và điều dưỡng, đào tạo có chứng nhận và liên tục, quy trình chuẩn.",
+    "Hội thận học Hàn Quốc 2025: đội chuyên trách hoặc đa chuyên khoa phù hợp điều kiện cơ sở để cải thiện tuổi thọ màng và giảm thời gian ngừng máy, câu hỏi 17; hội chẩn thận học cho người lớn đang lọc máu liên tục, câu hỏi 16.",
+    "ADQI 22 năm 2019 nêu các chỉ số cấu trúc: năng lực bác sĩ và điều dưỡng, chuyên gia hỗ trợ như dược, dinh dưỡng, phục hồi chức năng, đội chịu trách nhiệm dữ liệu, chính sách và phác đồ của cơ sở, và công nghệ gồm máy, catheter, hồ sơ điện tử.",
+    "Quy trình của Bộ Y tế 2014: một bác sĩ và hai điều dưỡng mỗi kíp tám giờ, đã được đào tạo.",
+    "ADQI 17: bộ y lệnh chuẩn, phiếu theo dõi chuẩn, lý tưởng là tích hợp hồ sơ điện tử.",
+    "Về đào tạo, sách Oxford gợi ý mô phỏng đơn giản bằng catheter hai nòng đặt vào túi natri clorua 5 lít. Và hội chẩn: thận học cho người lớn đang lọc máu liên tục, dược lâm sàng cho liều kháng sinh, trung tâm chống độc khi ngộ độc, chuyển tuyến có kế hoạch khi cơ sở không có lọc máu liên tục."
+   ],
+   "id": "s16",
+   "dense": true
+  },
+  {
+   "layout": "compare",
+   "chapter": "Chất lượng",
+   "title": "Chỉ số chất lượng của lọc máu liên tục",
+   "ref": "ADQI 22 (3.8, 3.12) · KDIGO 2026 PP 5.10.2 · Rewa 2018 · Teixeira 2025, Hình 3",
+   "head": [
+    "Loại",
+    "Chỉ số",
+    "Nguồn"
+   ],
+   "widths": "0.6fr 3fr 1.1fr",
+   "rows": [
+    {
+     "cells": [
+      "Quy trình",
+      "Liều thực nhận/liều kê; kiểm soát chuyển hoá và thể tích; thời gian từ quyết định đến khởi trị (gồm đặt catheter); tuổi thọ màng; downtime; sai số UFnet",
+      "ADQI 22 (3.8); KDIGO 2026 PP 5.10.2; Rewa 2018"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Kết cục",
+      "Sống còn, thời gian lọc máu, hồi phục thận hoặc phụ thuộc lọc máu",
+      "ADQI 22 (3.12)"
+     ],
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "An toàn",
+      "Chảy máu, nhiễm khuẩn catheter, rối loạn citrate, sai sót cân dịch",
+      "Tổng hợp mục biến chứng"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Muốn cải tiến thì phải đo. Chỉ số quy trình gồm: liều thực nhận so với liều kê; kiểm soát chuyển hoá và thể tích; thời gian từ quyết định đến khởi trị, kể cả đặt catheter; tuổi thọ màng, riêng cho lọc máu liên tục; thời gian ngừng máy; và sai số siêu lọc ròng. Nguồn là ADQI 22, KDIGO 2026 practice point 5.10.2 và Rewa 2018.",
+    "Chỉ số kết cục: sống còn, thời gian lọc máu, hồi phục thận hoặc phụ thuộc lọc máu.",
+    "Chỉ số an toàn: chảy máu, nhiễm khuẩn catheter, rối loạn citrate và sai sót cân dịch. Teixeira 2025 sắp xếp các chỉ số theo mô hình Donabedian: cấu trúc, quy trình, kết cục. Can thiệp cải tiến chất lượng nhắm vào liều thực nhận đã được báo cáo, nhưng số liệu trước sau cần đối chiếu. Điều kiện tại Việt Nam, như máy, dịch thương mại, chế phẩm canxi, đo canxi ion hoá sau màng tại giường, theo dõi nồng độ kháng sinh và chi phí, cần đối chiếu tại từng cơ sở."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Y lệnh mẫu",
+   "title": "Ba y lệnh mẫu ngày đầu (người 70 kg, mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850,
+    "ac": "citrate"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "dil",
+    "doseC",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250,
+    "pret": 150
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "ac": "heparin",
+      "qb": 175,
+      "qrpre": 400,
+      "qrpost": 400
+     },
+     "label": "B: heparin liều thấp, ~50% dịch thay thế trước màng",
+     "c": "amber",
+     "hold": 8
+    },
+    {
+     "at": "L3",
+     "set": {
+      "ac": "none",
+      "qb": 200,
+      "qrpre": 900,
+      "qrpost": 0,
+      "qd": 750
+     },
+     "label": "C: không chống đông, pha loãng trước nhiều",
+     "c": "teal",
+     "hold": 8
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐỐI CHIẾU",
+     "t": "Y lệnh giả định; theo phác đồ máy và cơ sở",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Qb và tách dịch là tham số minh hoạ trong khoảng cho phép",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Ta ghép lại thành ba y lệnh mẫu cho ngày đầu, người 70 ký. Đây là y lệnh giả định, đã rà soát liều, nhưng vẫn cần đối chiếu phác đồ của cơ sở. Cả ba đều kê dịch thải 1.750 mi li lít mỗi giờ, tức 25 mi li lít mỗi ký mỗi giờ. Các số trên màn hình là mô hình minh hoạ.",
+    "Phương án A, thẩm tách – siêu lọc với citrate vùng: Qb 120 đến 150 mi li lít mỗi phút, dịch không canxi, citrate trước màng theo Qb, bù canxi riêng. Trong mô hình, Qb 150, 800 trước màng, 850 thẩm tách, siêu lọc ròng 100: phân suất lọc 12,7 phần trăm, liều sau pha loãng 22,2.",
+    "Phương án B, heparin liều thấp, khi không có chống chỉ định heparin và không có citrate: Qb 150 đến 200, dịch thay thế khoảng một nửa trước màng, heparin 5 đến 10 đơn vị mỗi ký mỗi giờ trước màng theo bảng INR, thời gian thromboplastin từng phần hoạt hoá và tiểu cầu. Trong mô hình, Qb 175, 400 trước và 400 sau màng, 850 thẩm tách: phân suất lọc 11,6 phần trăm, hệ số pha loãng 0,95, liều sau pha loãng 23,7.",
+    "Phương án C, không chống đông, khi đang chảy máu hoạt động: pha loãng trước màng nhiều, Qb 150 đến 200, phân suất lọc thấp, catheter tốt, dùng CVVHD hoặc CVVHDF, và chấp nhận thay màng sớm. Trong mô hình, Qb 200, 900 trước màng, 750 thẩm tách: phân suất lọc 10,8 phần trăm, liều sau pha loãng 22,6.",
+    "Ba y lệnh khác nhau về chống đông nhưng cùng đích: phân suất lọc dưới 20 đến 25 phần trăm, và liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ."
+   ],
+   "id": "s18"
+  },
+  {
+   "layout": "box",
+   "chapter": "Y lệnh mẫu",
+   "title": "Y lệnh A: bù canxi và theo dõi",
+   "ref": "ban-goc mục 17.3 · mục 8.3.5",
+   "box": {
+    "tag": "CẢNH BÁO CHẾ PHẨM",
+    "t": "CaCl₂ <b>5%</b> (0,34 mmol/mL): 1.750/200 ≈ <b>8,75 mL/h</b> ≈ 3,0 mmol/h. <b>Không</b> áp công thức này cho ống CaCl₂ <b>10%</b>.",
+    "at": 0,
+    "c": "coral",
+    "size": 36
+   },
+   "notes": [
+    {
+     "tag": "XÉT NGHIỆM",
+     "t": "Ca²⁺ sau màng và toàn thân giờ thứ 1, rồi mỗi 6–8 giờ; Ca toàn phần, Mg mỗi 12–24 giờ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "SIÊU LỌC",
+     "t": "UFnet đích ví dụ 80–100 mL/h, đánh giá mỗi giờ trong 6 giờ đầu",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "ĐỐI CHIẾU",
+     "t": "Chế phẩm canxi tại cơ sở; theo phác đồ máy",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Một điểm an toàn cần nhắc lại cho phương án A. Với canxi clorua 5 phần trăm, nồng độ 0,34 mi li mol mỗi mi li lít, công thức đồng thuận Trung Quốc cho khởi đầu: 1.750 chia 200, khoảng 8,75 mi li lít mỗi giờ, tức khoảng 3,0 mi li mol mỗi giờ. Tuyệt đối không áp công thức này cho ống canxi clorua 10 phần trăm.",
+    "Xét nghiệm canxi ion hoá sau màng và toàn thân ở giờ thứ nhất theo phác đồ máy, sau đó mỗi 6 đến 8 giờ; canxi toàn phần và magiê mỗi 12 đến 24 giờ.",
+    "Siêu lọc ròng đích ví dụ 80 đến 100 mi li lít mỗi giờ, đánh giá mỗi giờ trong sáu giờ đầu.",
+    "Và luôn đối chiếu chế phẩm canxi thực tế tại cơ sở của mình."
+   ],
+   "id": "s19"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Lưu đồ",
+   "title": "Lưu đồ một trang: từ chỉ định đến ngừng",
+   "ref": "ban-goc mục 17.1 · vẽ lại cho bản công khai, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "n1",
+     "t": "① Chỉ định cấp cứu?",
+     "d": "K > 6,5 dù điều trị · phù phổi do quá tải · toan nặng · ngộ độc · urê > 40 mmol/L",
+     "x": 300,
+     "y": 110,
+     "w": 540,
+     "h": 170,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "n2",
+     "t": "② CÓ: lọc ngay · KHÔNG: chờ",
+     "d": "đánh giá lại mỗi 12–24 giờ; vô/thiểu niệu > 72 giờ hoặc có chỉ định → lọc",
+     "x": 890,
+     "y": 110,
+     "w": 560,
+     "h": 170,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "n3",
+     "t": "③ Chọn phương thức",
+     "d": "vận mạch, thở máy, não, gan → CRRT",
+     "x": 1500,
+     "y": 110,
+     "w": 520,
+     "h": 170,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "n4",
+     "t": "④ Catheter",
+     "d": "siêu âm; cảnh P → đùi → cảnh T; béo phì tránh đùi; X-quang",
+     "x": 1500,
+     "y": 340,
+     "w": 520,
+     "h": 170,
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "id": "n5",
+     "t": "⑤ Kê đơn",
+     "d": "CVVHDF · dịch thải kê 25 (thực 20–25) · Qb 150–200 · FF ≤ 20–25%",
+     "x": 890,
+     "y": 340,
+     "w": 560,
+     "h": 170,
+     "c": "green",
+     "at": 4
+    },
+    {
+     "id": "n6",
+     "t": "⑥ Chống đông",
+     "d": "citrate nếu không chống chỉ định (tCa/iCa < 2,5); không thì heparin liều thấp, nafamostat hoặc không chống đông",
+     "x": 300,
+     "y": 340,
+     "w": 540,
+     "h": 170,
+     "c": "amber",
+     "at": 5
+    },
+    {
+     "id": "n7",
+     "t": "⑦ UFnet",
+     "d": "mục tiêu hằng ngày; 1,0–1,75 mL/kg/h tuỳ dung nạp; dừng khi tụt áp",
+     "x": 300,
+     "y": 570,
+     "w": 540,
+     "h": 150,
+     "c": "violet",
+     "at": 6
+    },
+    {
+     "id": "n8",
+     "t": "⑧ Theo dõi giờ – 6 giờ – ngày",
+     "d": "điện giải, phospho, thuốc, dinh dưỡng",
+     "x": 890,
+     "y": 570,
+     "w": 560,
+     "h": 150,
+     "c": "teal",
+     "at": 7
+    },
+    {
+     "id": "n9",
+     "t": "⑨ Mỗi sáng: còn cần không?",
+     "d": "nước tiểu? → thử ngừng hoặc chuyển IHD",
+     "x": 1500,
+     "y": 570,
+     "w": 520,
+     "h": 150,
+     "c": "coral",
+     "at": 8
+    }
+   ],
+   "edges": [
+    {
+     "a": "n1",
+     "b": "n2",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "n2",
+     "b": "n3",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "n3",
+     "b": "n4",
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "a": "n4",
+     "b": "n5",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "a": "n5",
+     "b": "n6",
+     "c": "green",
+     "at": 5
+    },
+    {
+     "a": "n6",
+     "b": "n7",
+     "c": "amber",
+     "at": 6
+    },
+    {
+     "a": "n7",
+     "b": "n8",
+     "c": "violet",
+     "at": 7
+    },
+    {
+     "a": "n8",
+     "b": "n9",
+     "c": "teal",
+     "at": 8
+    }
+   ],
+   "lines": [
+    "Đây là lưu đồ một trang gom cả loạt bài. Ta đọc từ trên xuống, theo hình chữ S.",
+    "Một: có chỉ định cấp cứu không? Kali trên 6,5 dù đã điều trị, phù phổi do quá tải giảm oxy kháng trị, toan nặng kèm yếu tố khác, ngộ độc, urê trên 40 mi li mol mỗi lít không hồi phục. Có thì lọc ngay.",
+    "Hai: không có thì chờ có chủ đích, đánh giá lại mỗi 12 đến 24 giờ; vô niệu hoặc thiểu niệu trên 72 giờ, hoặc xuất hiện chỉ định, thì lọc.",
+    "Ba: chọn phương thức. Người có vận mạch, thở máy, tổn thương não hoặc gan: lọc máu liên tục.",
+    "Bốn: catheter, đặt dưới siêu âm; đường cảnh phải, rồi đùi, rồi cảnh trái; người béo phì tránh đùi; chụp X-quang kiểm tra.",
+    "Năm: kê đơn, thẩm tách – siêu lọc máu liên tục, dịch thải kê 25, thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ, Qb 150 đến 200, phân suất lọc không quá 20 đến 25 phần trăm.",
+    "Sáu: chống đông. Không chống chỉ định thì dùng citrate vùng, canxi sau màng 0,25 đến 0,40, canxi toàn thân 1,1 đến 1,3, tỷ số canxi toàn phần trên canxi ion hoá dưới 2,5. Nếu không thì heparin liều thấp, nafamostat hoặc không chống đông.",
+    "Bảy: siêu lọc ròng, đặt mục tiêu hằng ngày, từ 1,0 đến 1,75 mi li lít mỗi ký mỗi giờ tuỳ dung nạp, dừng khi tụt áp.",
+    "Tám: theo dõi mỗi giờ, mỗi 6 giờ, mỗi ngày; điện giải, phospho, thuốc, dinh dưỡng. Chín: mỗi sáng hỏi còn cần không, nước tiểu bao nhiêu; thử ngừng hoặc chuyển chạy thận ngắt quãng."
+   ],
+   "id": "s20"
+  },
+  {
+   "layout": "list",
+   "chapter": "Checklist",
+   "title": "Checklist trước khi khởi động",
+   "ref": "ban-goc mục 17.2 · BYT 2014",
+   "items": [
+    {
+     "t": "Chỉ định ghi rõ; mục tiêu chăm sóc phù hợp",
+     "d": "cam kết của người bệnh, gia đình",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Catheter hút – bơm dễ",
+     "d": "vị trí đầu đúng (X-quang với đường cảnh)",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Phương thức, liều, Qb, phân bổ dòng dịch",
+     "d": "FF dự tính ≤ 20–25%",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Chống đông đã chọn",
+     "d": "RCA: dịch không canxi, đường bù canxi riêng, Ca²⁺ gốc",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "UFnet mục tiêu 24 giờ và giới hạn dừng",
+     "d": "huyết áp, vận mạch",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "Huyết động sẵn sàng cho \"trích máu\" 150 mL",
+     "d": "vận mạch dự phòng, khởi động bơm chậm",
+     "at": 5,
+     "c": "coral"
+    },
+    {
+     "t": "Rà lại toàn bộ thuốc (kháng sinh)",
+     "d": "theo CRRT",
+     "at": 7,
+     "c": "teal"
+    },
+    {
+     "t": "Bộ làm ấm, nhiệt độ trung tâm",
+     "d": "",
+     "at": 7,
+     "c": "blue"
+    },
+    {
+     "t": "Xét nghiệm nền",
+     "d": "điện giải, Ca, Mg, phospho, khí máu, lactat, công thức máu, đông máu",
+     "at": 7,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Và checklist trước khi khởi động, gồm chín mục.",
+    "Một: chỉ định ghi rõ, mục tiêu chăm sóc phù hợp, có cam kết của người bệnh hoặc gia đình.",
+    "Hai: catheter đã kiểm tra hút bơm dễ, vị trí đầu đúng, chụp X-quang với đường cảnh.",
+    "Ba: phương thức, liều, Qb và phân bổ dòng dịch, với phân suất lọc dự tính không quá 20 đến 25 phần trăm.",
+    "Bốn: chống đông đã chọn; với citrate, dịch không canxi, đường bù canxi riêng và xét nghiệm canxi ion hoá gốc.",
+    "Năm: siêu lọc ròng mục tiêu 24 giờ và giới hạn dừng, theo huyết áp và vận mạch.",
+    "Sáu: huyết động sẵn sàng cho \"trích máu\" 150 mi li lít, vận mạch dự phòng, khởi động bơm chậm.",
+    "Bảy: rà lại thuốc, nhất là kháng sinh. Tám: bộ làm ấm, nhiệt độ trung tâm. Chín: xét nghiệm nền, gồm điện giải, canxi, magiê, phospho, khí máu, lactat, công thức máu, đông máu."
+   ],
+   "id": "s21",
+   "dense": true
+  },
+  {
+   "layout": "compare",
+   "chapter": "Tranh cãi",
+   "title": "Tranh cãi và hướng nghiên cứu (1/2)",
+   "ref": "ban-goc mục 19 · ICRAKI · Murugan · AKIKI2 · KDIGO 2026",
+   "head": [
+    "Câu hỏi",
+    "Hiện trạng",
+    "Nguồn"
+   ],
+   "widths": "1fr 3fr 0.9fr",
+   "rows": [
+    {
+     "cells": [
+      "CRRT hay IHD lúc khởi đầu?",
+      "ICRAKI 2026 nghiêng về CRRT (tử vong 90 ngày HR 1,30 với IHD) nhưng dừng sớm, kết cục chính không đạt; SRLF 2025 (trước ICRAKI) coi tương đương; cần xác nhận và trả lời khi nào chuyển",
+      "ICRAKI; SRLF R2.1"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Tốc độ UFnet tối ưu?",
+      "Quan sát gợi ý dạng chữ J (1,01–1,75 mL/kg/h); Murugan 2018 trái chiều; RELIEVE-AKI khả thi nhưng chưa tách biệt; cần RCT lớn",
+      "Mục 9"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Thời điểm khi không có chỉ định cấp?",
+      "Trì hoãn có theo dõi là chuẩn; chưa biết thời điểm tối ưu giữa chờ và trì hoãn quá mức (AKIKI2); vai trò chỉ dấu sinh học, nghiệm pháp furosemid",
+      "Mục 4"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Cân nặng nào để tính liều và UFnet?",
+      "Thực, lý tưởng, hiệu chỉnh, PBW: chưa thống nhất",
+      "KDIGO 2026 PP 5.3.1; Murugan 2023"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Lọc hấp phụ trong sepsis?",
+      "TIGRIS gợi ý lợi ích ở endotype EAA 0,60–0,89; SSC 2026 gợi ý không dùng; cần xác nhận độc lập",
+      "Mục 15.1"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Ta kết thúc nội dung bằng những câu hỏi còn bỏ ngỏ. Thứ nhất, lọc liên tục hay ngắt quãng lúc khởi đầu? ICRAKI 2026 nghiêng về lọc liên tục, tử vong 90 ngày với chạy thận ngắt quãng có tỷ số nguy cơ 1,30, nhưng thử nghiệm dừng sớm và kết cục chính không đạt. SRLF 2025, ra trước, coi hai kỹ thuật tương đương. Cần thử nghiệm xác nhận và cần trả lời khi nào nên chuyển.",
+    "Thứ hai, tốc độ siêu lọc ròng tối ưu: quan sát gợi ý dạng chữ J, vùng 1,01 đến 1,75 mi li lít mỗi ký mỗi giờ; Murugan 2018 cho kết quả trái chiều; RELIEVE-AKI khả thi nhưng chưa tách biệt được hai nhóm; cần thử nghiệm lớn.",
+    "Thứ ba, thời điểm ở người không có chỉ định cấp: trì hoãn có theo dõi là chuẩn, nhưng chưa biết thời điểm tối ưu giữa chờ và trì hoãn quá mức, theo AKIKI2. Chỉ dấu sinh học và nghiệm pháp furosemid có thể giúp.",
+    "Thứ tư, dùng cân nặng nào để tính liều và siêu lọc ròng: thực, lý tưởng, hiệu chỉnh hay cân nặng dự đoán, vẫn chưa thống nhất.",
+    "Thứ năm, hấp phụ trong sepsis: TIGRIS gợi ý có lợi ở nhóm hoạt tính nội độc tố từ 0,60 đến 0,89, trong khi Surviving Sepsis 2026 gợi ý không dùng; cần xác nhận độc lập."
+   ],
+   "id": "s22"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Tranh cãi",
+   "title": "Tranh cãi và hướng nghiên cứu (2/2)",
+   "ref": "ban-goc mục 19 · RICH 2020 · KSN · Katulka 2020 · ADQI–ELSO 2026",
+   "head": [
+    "Câu hỏi",
+    "Hiện trạng",
+    "Nguồn"
+   ],
+   "widths": "1fr 3fr 0.9fr",
+   "rows": [
+    {
+     "cells": [
+      "Citrate và nhiễm khuẩn mới?",
+      "RICH: chưa giải thích được",
+      "RICH"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Lợi tiểu lúc ngừng?",
+      "KSN cho phép (B); KDIGO 2012 không dùng để thúc hồi phục (2B)",
+      "Mục 14"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Liều kháng sinh khi CRRT?",
+      "Các nguồn khác nhau (meropenem 500 mg so với 1–2 g mỗi 8 giờ); cần theo dõi nồng độ thuốc; đối chiếu dược lâm sàng cơ sở",
+      "Mục 11"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Ngừng CRRT?",
+      "Yếu tố dự báo chưa được kiểm định ngoài; RCT FST-STOP đang chạy, dự kiến xong 2028",
+      "Katulka 2020"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "CRRT trên ECMO?",
+      "Cấu hình tối ưu, thời điểm: nhiều khoảng trống kiến thức",
+      "ADQI–ELSO 2026"
+     ],
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Năm câu hỏi còn lại. Citrate và nhiễm khuẩn mới: trong RICH, nhiễm khuẩn mới nhiều hơn ở nhóm citrate, và cho đến nay chưa có lời giải thích.",
+    "Lợi tiểu lúc ngừng: hội thận học Hàn Quốc cho phép, mức B; KDIGO 2012 không dùng để thúc hồi phục, mức 2B, như ta đã bàn.",
+    "Liều kháng sinh khi lọc máu liên tục: các nguồn khác nhau, ví dụ meropenem 500 mi li gam so với 1 đến 2 gam mỗi 8 giờ; cần theo dõi nồng độ thuốc và đối chiếu với dược lâm sàng của cơ sở.",
+    "Ngừng lọc máu: yếu tố dự báo chưa được kiểm định ngoài, và thử nghiệm ngẫu nhiên FST-STOP đang chạy, dự kiến xong năm 2028.",
+    "Và lọc máu liên tục trên ECMO: cấu hình tối ưu và thời điểm vẫn còn nhiều khoảng trống kiến thức."
+   ],
+   "id": "s23"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Mười thông điệp phải nhớ",
+   "items": [
+    {
+     "t": "Không lọc chỉ vì một con số",
+     "d": "K > 6,5 dù điều trị thì lọc ngay; không thì chờ, không bắt đầu trước 72 giờ (SRLF R1.2)",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Người nặng nên bắt đầu bằng CRRT",
+     "d": "ICRAKI: tử vong 90 ngày 63,1% (IHD) so với 53,5% (CRRT), HR 1,30",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Liều thực nhận 20–25 mL/kg/h",
+     "d": "kê cao hơn ~20–25% bù downtime; không dùng liều cao, HVHF",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Giữ phân suất lọc ≤ 20–25%",
+     "d": "thông số then chốt để màng không đông",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Citrate vùng là chống đông đầu tay",
+     "d": "KDIGO 2026 R5.5.1 (1B); tCa/iCa ≥ 2,5 = tích tụ citrate",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "UFnet có mục tiêu hằng ngày",
+     "d": "tôn trọng dung nạp; tránh > 1,75 mL/kg/h kéo dài (quan sát)",
+     "at": 5,
+     "c": "blue"
+    },
+    {
+     "t": "Catheter: siêu âm (1A)",
+     "d": "cảnh P → đùi → cảnh T; béo phì tránh đùi",
+     "at": 6,
+     "c": "teal"
+    },
+    {
+     "t": "Ba tác dụng phụ thầm lặng",
+     "d": "hạ phospho, thiếu liều kháng sinh, mất dinh dưỡng (đạm 1,5–1,7 g/kg/ngày)",
+     "at": 7,
+     "c": "coral"
+    },
+    {
+     "t": "Đông màng do catheter và cài đặt",
+     "d": "ΔP và TMP cùng tăng = đông màng",
+     "at": 8,
+     "c": "amber"
+    },
+    {
+     "t": "Đánh giá ngừng mỗi ngày",
+     "d": "nước tiểu tự phát là yếu tố dự báo chính",
+     "at": 9,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Mười thông điệp phải nhớ của cả loạt bài. Một: không lọc chỉ vì một con số. Lọc ngay khi có chỉ định cấp cứu, như kali trên 6,5 dù đã điều trị; nếu không, chờ có theo dõi, không bắt đầu trước 72 giờ ở tổn thương thận cấp giai đoạn 3 không có tiêu chuẩn cấp cứu, nhưng cũng đừng trì hoãn quá mức.",
+    "Hai: người bệnh nặng, dùng vận mạch, thở máy, nên bắt đầu bằng lọc máu liên tục. ICRAKI 2026: tử vong 90 ngày 63,1 phần trăm với chạy thận ngắt quãng so với 53,5 phần trăm với lọc liên tục, tỷ số nguy cơ 1,30.",
+    "Ba: liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ, kê cao hơn khoảng 20 đến 25 phần trăm để bù thời gian ngừng máy; không dùng liều cao, không dùng siêu lọc thể tích cao.",
+    "Bốn: giữ phân suất lọc không quá 20 đến 25 phần trăm, thông số then chốt để màng không đông.",
+    "Năm: citrate vùng là chống đông đầu tay, KDIGO 2026 khuyến cáo 5.5.1, mức 1B; suy gan không còn là chống chỉ định tuyệt đối; tỷ số canxi toàn phần trên canxi ion hoá từ 2,5 trở lên là tích tụ citrate.",
+    "Sáu: siêu lọc ròng phải có mục tiêu hằng ngày và tôn trọng dung nạp; dữ liệu quan sát gợi ý tránh trên 1,75 mi li lít mỗi ký mỗi giờ kéo dài.",
+    "Bảy: catheter đặt dưới siêu âm, mức 1A; cảnh trong phải, rồi đùi, rồi cảnh trái; người béo phì tránh đùi.",
+    "Tám: hạ phospho, thiếu liều kháng sinh và mất dinh dưỡng là ba tác dụng phụ thầm lặng: dùng dịch có phosphat, chỉnh liều theo dịch thải, đạm 1,5 đến 1,7 gam mỗi ký mỗi ngày theo ESPEN.",
+    "Chín: đông màng thường do catheter và cài đặt, không phải do thiếu heparin; đọc áp lực, ΔP và áp lực xuyên màng cùng tăng là đông màng.",
+    "Mười: đánh giá ngừng mỗi ngày; nước tiểu tự phát là yếu tố dự báo chính.",
+    "Đến đây là hết loạt bài lọc máu liên tục thực hành. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online. Xem trọn chuyên đề, bản tự học và các bài khác tại thuvienykhoa.online."
+   ],
+   "id": "s24",
+   "dense": true
+  }
+ ]
+}

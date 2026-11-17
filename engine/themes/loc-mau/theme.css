@@ -47,3 +47,7 @@
 .vnum.cpr .vnv{color:var(--blue)} .vnum.cpr.al .vnv{color:var(--coral)}
 .ctrend{position:absolute;left:24px;bottom:12px;width:1130px;height:150px;border-top:1.5px solid var(--line)}
 .cbox .vmode{white-space:nowrap} .cbox .vset{white-space:nowrap;font-size:19px;overflow:hidden;text-overflow:ellipsis}
+.mleg{display:flex;align-items:center;gap:10px;font-size:20px;font-weight:700;color:var(--tx)}
+.mbar{display:flex;align-items:center;gap:12px;font-size:18px;font-weight:700;margin:6px 0} .mbar span{width:200px;color:var(--mut)}
+.mtr{flex:1;height:22px;border-radius:8px;background:rgba(148,163,184,.15);overflow:hidden} .mtr div{height:100%;border-radius:8px}
+.th{text-transform:none;letter-spacing:.3px}

@@ -1,0 +1,1259 @@
+{
+ "title": "Lọc máu liên tục – Phần 11: Báo động và xử trí sự cố",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 11/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương"
+ },
+ "brand": {
+  "next": "Phần 12: Ngừng lọc máu, tình huống đặc biệt"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Báo động<br>và xử trí sự cố",
+   "subtitle": "Đọc sáu áp lực · đông màng · gập catheter · tắc đường về",
+   "badges": [
+    {
+     "t": "ΔP và TMP cùng tăng = đông màng",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "TMP tăng, ΔP không đổi = tắc lỗ màng",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Thay màng chủ động",
+     "c": "green",
+     "at": 2
+    }
+   ],
+   "note": "Mạch lọc mô phỏng – áp lực là mô hình minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần mười một của loạt bài lọc máu liên tục thực hành.",
+    "Đêm trực nào cũng có tiếng báo động của máy lọc. Điều khác nhau giữa một kíp thành thạo và một kíp lúng túng không nằm ở việc ai bấm tắt chuông nhanh hơn, mà ở việc đọc được sáu con số áp lực và biết mỗi sự cố để lại dấu vân tay nào trên chúng.",
+    "Hôm nay ta dựng lại từng sự cố trên mạch mô phỏng, rồi đối chiếu với bảng báo động, quy trình của Bộ Y tế năm 2014 và các biến chứng của lọc máu liên tục."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Áp lực mạch",
+   "title": "Sáu áp lực của một mạch bình thường (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "dil",
+    "dose",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250,
+    "pret": 150
+   },
+   "notes": [
+    {
+     "tag": "ΔP",
+     "t": "= áp lực trước màng − sau màng",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "TMP",
+     "t": "≈ (P trước + P sau)/2 − P dịch thải",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Muốn nhận ra bất thường, trước hết phải biết mạch bình thường trông thế nào. Đây là mạch thẩm tách – siêu lọc máu liên tục mô phỏng: Qb 150, dịch thay thế trước màng 800, dịch thẩm tách 850, siêu lọc ròng 100, chống đông heparin. Mọi áp lực trên màn hình này là mô hình minh hoạ, không phải số đo của một bệnh nhân.",
+    "Áp lực truy cập là áp lực hút, âm, đo trước bơm máu: ở đây âm 75. Nó phụ thuộc chủ yếu vào catheter so với Qb cài đặt và tư thế người bệnh. Áp lực trả về là áp lực dương, phụ thuộc nòng trả của catheter và buồng bẫy khí: ở đây 68.",
+    "Áp lực trước màng là sức cản khi đẩy máu vào quả lọc: 106. Độ sụt áp, ΔP, bằng áp lực trước màng trừ áp lực sau màng, phản ánh khả năng máu chảy qua màng: 106 trừ 68, còn 38. Sách Oxford nói rõ: ΔP tăng nhanh là dấu tin cậy của đông màng.",
+    "Áp lực dịch thải là dương khi màng mới, và âm dần khi màng tắc, vì bơm dịch thải phải hút. Áp lực xuyên màng bằng trung bình của áp lực trước và sau màng, trừ áp lực dịch thải: 106 cộng 68 chia hai, được 87, trừ 34, còn 53.",
+    "Trên nhiều máy, áp lực xuyên màng trên 250 mi li mét thuỷ ngân thường được coi là đông màng đáng kể, tuỳ máy và tuỳ màng. Máy nên lưu xu hướng áp lực ít nhất 24 giờ và nhật ký báo động. Chu kỳ theo dõi áp lực mạch trong thực hành là mỗi giờ."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Sự cố 1",
+   "title": "Áp lực truy cập quá âm: gập dây, hút kém (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250,
+    "pret": 150
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "kink": 1
+     },
+     "label": "Sức cản đường hút ×2",
+     "c": "amber",
+     "hold": 6
+    },
+    {
+     "at": "L2",
+     "set": {
+      "kink": 2
+     },
+     "label": "Sức cản đường hút ×3",
+     "c": "coral",
+     "hold": 7
+    },
+    {
+     "at": "L5",
+     "set": {
+      "qb": 100
+     },
+     "label": "Giảm tạm Qb 150 → 100 mL/phút",
+     "c": "teal",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "DẤU HIỆU",
+     "t": "Chỉ áp lực truy cập lệch; còn lại giữ nguyên",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "OXFORD 2016",
+     "t": "Rất âm từ đầu (≈ −120): catheter kém",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Sự cố thứ nhất, và gặp nhiều nhất, là áp lực truy cập quá âm. Trên mô hình, ta tăng dần sức cản của đường hút, như khi dây bị gập hoặc kẹp, nòng hút có huyết khối, hay đầu catheter áp vào thành mạch.",
+    "Sức cản tăng gấp đôi: áp lực truy cập tụt từ âm 75 xuống âm 143, chưa vượt ngưỡng báo động trong mô hình này.",
+    "Tăng lên gấp ba: áp lực truy cập âm 210, ô chuyển đỏ và máy báo động. Hãy nhìn các con số còn lại: trước màng vẫn 106, trả về vẫn 68, áp lực xuyên màng vẫn 53, ΔP vẫn 38. Chỉ một cảm biến lệch, và nó nằm ở phía hút.",
+    "Sách Oxford ghi nhận rằng nếu áp lực rất âm, khoảng âm 120, ngay từ lúc mới chạy, thì nên nghĩ đến catheter kém. Nguyên nhân thường gặp còn có giảm thể tích, và người bệnh gập háng khi catheter đặt ở đùi.",
+    "Xử trí theo thứ tự: gỡ gập, mở kẹp; đổi tư thế; xử lý huyết khối nòng; cân nhắc đảo hai nòng, chấp nhận tái tuần hoàn; ngừng siêu lọc và giảm tạm Qb; đánh giá thể tích; cuối cùng là thay catheter.",
+    "Thử giảm Qb từ 150 xuống 100 trên mô hình: áp lực truy cập về âm 143, hết đỏ. Nhưng phân suất lọc tăng lên 18,0 phần trăm và liều sau pha loãng chỉ còn 21,0 mi li lít mỗi ký mỗi giờ. Giảm Qb là biện pháp tạm thời, không phải lời giải."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Sự cố 2",
+   "title": "Đông màng: ΔP và TMP cùng tăng (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 120,
+    "uf": 100,
+    "ac": "none",
+    "mode": "CVVH",
+    "qrpre": 0,
+    "qd": 0,
+    "qrpost": 1750
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250,
+    "pret": 150
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 0.4,
+    "hmax": 8,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "ĐÔNG MÀNG",
+     "t": "ΔP và TMP cùng tăng",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "tag": "OXFORD 2016",
+     "t": "TMP > 250: đông đáng kể, tuỳ máy",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Sự cố thứ hai là đông màng. Mô hình lần này là CVVH sau màng, Qb 120, dịch thay thế 1.750, siêu lọc ròng 100, không chống đông. Phân suất lọc 36,7 phần trăm, thuộc loại dễ đông nhất mà ta đã học ở phần hai.",
+    "Ta tua nhanh theo giờ và theo dõi hai đường: áp lực xuyên màng màu vàng, chênh áp qua quả lọc màu đỏ. Quả lọc mới, áp lực xuyên màng 76, ΔP chỉ 30.",
+    "Khi sợi lọc đông dần, đường đi của máu hẹp lại nên ΔP tăng; diện tích màng còn thấm giảm nên áp lực xuyên màng cũng tăng. Đến giờ thứ ba của mô hình, 139 và 91; đến giờ thứ sáu, 227 và 214.",
+    "Hai đường cùng đi lên: đó là dấu vân tay của đông màng. Quan sát quả lọc, phần sẫm màu là phần sợi đã đông. Sang giờ thứ bảy của mô hình, áp lực xuyên màng 259, đã vượt 250.",
+    "Sách Oxford coi áp lực xuyên màng trên 250 là gợi ý đông màng đáng kể, và coi ΔP tăng nhanh là dấu tin cậy. Ví dụ trong sách: áp lực xuyên màng khoảng 90 đến 100 lúc đầu rồi tăng dần trong 4 đến 5 giờ.",
+    "Xử trí trong bảng của sách: xem lại chống đông; tăng Qb, chuyển sang pha loãng trước hoặc CVVHD, CVVHDF; mở kẹp dây dịch nếu có gập; và thay màng chủ động trước khi đông hẳn để còn trả được máu."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Sự cố 2",
+   "title": "Heparin hay cài đặt? Tuổi thọ màng (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 120,
+    "uf": 100,
+    "ac": "none",
+    "mode": "CVVH",
+    "qrpre": 0,
+    "qd": 0,
+    "qrpost": 1750
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "doseC",
+    "life",
+    "dil"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250,
+    "pret": 150
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "ac": "heparin"
+     },
+     "label": "Thêm heparin, giữ nguyên cài đặt",
+     "c": "amber",
+     "hold": 6
+    },
+    {
+     "at": "L3",
+     "set": {
+      "mode": "CVVHDF",
+      "qb": 150,
+      "qrpre": 800,
+      "qd": 850,
+      "qrpost": 0,
+      "ac": "none"
+     },
+     "label": "CVVHDF, Qb 150, pha loãng trước, bỏ heparin",
+     "c": "green",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "THÔNG ĐIỆP 9",
+     "t": "Đông màng thường do catheter và cài đặt",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Tuổi thọ màng chỉ minh hoạ hướng thay đổi",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Thông điệp thứ chín của chuyên đề: đông màng thường do catheter và cài đặt, không phải do thiếu heparin. Mô hình sau đây minh hoạ điều đó, một lần nữa chỉ là minh hoạ hướng thay đổi.",
+    "Xuất phát từ mạch CVVH sau màng, Qb 120, không chống đông: phân suất lọc 36,7, tuổi thọ màng theo mô hình chỉ 6,7 giờ.",
+    "Thêm heparin nhưng giữ nguyên cài đặt: tuổi thọ lên 13,4 giờ, tức khoảng gấp đôi, nhưng phân suất lọc vẫn 36,7 phần trăm, vẫn đỏ.",
+    "Bây giờ bỏ heparin và sửa cài đặt: CVVHDF, Qb 150, dịch thay thế 800 trước màng, dịch thẩm tách 850. Phân suất lọc xuống 12,7 phần trăm, liều sau pha loãng 22,2 mi li lít mỗi ký mỗi giờ, và tuổi thọ mô hình lên 71,4 giờ, dù không dùng chống đông.",
+    "Đây chính là phương án C trong y lệnh mẫu ngày đầu của chuyên đề: không chống đông thì pha loãng trước màng nhiều, Qb cao, phân suất lọc thấp, catheter tốt, CVVHD hoặc CVVHDF, và chấp nhận thay màng sớm. Chữa đông màng bằng thuốc trước khi chữa cài đặt là chữa ngược."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Sự cố 3",
+   "title": "Tắc lỗ màng do protein: TMP tăng, ΔP không đổi (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "doseC",
+    "life",
+    "dil"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250,
+    "pret": 150
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "prot": 0.3
+     },
+     "label": "Mức bít lỗ màng (protein) 0,3",
+     "c": "amber",
+     "hold": 6
+    },
+    {
+     "at": "L2",
+     "set": {
+      "prot": 0.5
+     },
+     "label": "Mức bít lỗ màng 0,5",
+     "c": "amber",
+     "hold": 6
+    },
+    {
+     "at": "L3",
+     "set": {
+      "prot": 0.7
+     },
+     "label": "Mức bít lỗ màng 0,7",
+     "c": "coral",
+     "hold": 8
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TẮC LỖ MÀNG",
+     "t": "TMP tăng · ΔP gần như không đổi",
+     "c": "amber",
+     "at": 4
+    },
+    {
+     "tag": "TEIXEIRA 2025",
+     "t": "Phân biệt clotting và clogging",
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Sự cố thứ ba rất dễ nhầm với đông màng: tắc lỗ màng do protein, tiếng Anh là clogging. Lỗ màng bị bít, nước và chất tan khó đi qua, nhưng đường máu chảy trong sợi vẫn thông. Mô hình biểu diễn bằng một tham số, mức bít lỗ màng.",
+    "Đặt mức bít 0,3: áp lực xuyên màng tăng từ 53 lên 64. Nhìn kỹ ô ΔP: vẫn 38. Áp lực dịch thải rơi từ 34 xuống 23, vì bơm dịch thải phải hút mạnh hơn.",
+    "Mức bít 0,5: áp lực xuyên màng 75, áp lực dịch thải còn 12. ΔP vẫn nguyên.",
+    "Mức bít 0,7: áp lực xuyên màng 91, áp lực dịch thải đã âm 4. Trong khi ΔP vẫn 38, áp lực trước màng vẫn 106, trả về vẫn 68, truy cập vẫn âm 75. Máu vẫn chảy qua quả lọc dễ dàng, chỉ phần nước là khó đi ra.",
+    "Teixeira 2025 phân biệt rõ: đông màng, clotting, thì ΔP và áp lực xuyên màng cùng tăng; tắc lỗ màng, clogging, thì áp lực xuyên màng tăng còn ΔP gần như không đổi. Trong mô hình, tuổi thọ màng giảm từ trên 72 giờ xuống 30,8 giờ ở mức bít 0,7.",
+    "Với áp lực xuyên màng tăng dần, bảng báo động của sách gợi ý xem lại chống đông và hạ phân suất lọc. Nguồn của chúng ta không nêu quy trình xử trí riêng cho tắc lỗ màng, vì vậy nhớ cái đọc được: nhìn ΔP trước khi gọi là đông."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Sự cố 4",
+   "title": "Áp lực trả về quá cao: tắc đường về, buồng khí (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "doseC"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250,
+    "pret": 150
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "Rr": 0.8
+     },
+     "label": "Sức cản đường về ×2",
+     "c": "amber",
+     "hold": 6
+    },
+    {
+     "at": "L2",
+     "set": {
+      "Rr": 1.2
+     },
+     "label": "Sức cản đường về ×3",
+     "c": "coral",
+     "hold": 6
+    },
+    {
+     "at": "L3",
+     "set": {
+      "Rr": 1.6
+     },
+     "label": "Sức cản đường về ×4",
+     "c": "coral",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "DẤU HIỆU",
+     "t": "Trả về, trước màng tăng; TMP, ΔP đứng yên",
+     "c": "coral",
+     "at": 4
+    },
+    {
+     "tag": "OXFORD 2016",
+     "t": "Sau màng tăng đơn độc, TMP ít đổi",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Sự cố thứ tư là áp lực trả về quá cao. Nguyên nhân: dây trả bị gập hoặc kẹp, huyết khối ở đường trả hoặc trong buồng bẫy khí, hoặc nòng trả bị tắc theo tư thế. Trên mô hình ta tăng sức cản đường về.",
+    "Sức cản gấp đôi: áp lực trả về tăng từ 68 lên 128, áp lực trước màng tăng theo từ 106 lên 166, vì quả lọc nằm ngay phía trước chỗ cản. Nhưng áp lực xuyên màng vẫn 53, ΔP vẫn 38, truy cập vẫn âm 75.",
+    "Gấp ba: trả về 188, đỏ, máy báo động. Trước màng 226.",
+    "Gấp bốn: trả về 248, trước màng 286, cả hai cùng đỏ. Và hai con số của màng lọc, ΔP và áp lực xuyên màng, vẫn không nhúc nhích.",
+    "Đó là điểm phân biệt: cả đoạn mạch từ quả lọc về người bệnh đang bị dồn áp lực, nhưng màng không có vấn đề. Sách Oxford mô tả đúng kiểu này: áp lực sau màng tăng đơn độc, áp lực xuyên màng ít đổi, nghĩ đến tắc cơ học đoạn sau màng hoặc cục đông trong buồng bẫy khí.",
+    "Xử trí: gỡ gập, mở kẹp; kiểm tra buồng khí; cân nhắc đảo nòng nếu tắc theo tư thế; thay bộ dây nếu cần. Chú ý rằng đảo nòng gây tái tuần hoàn nên làm giảm liều thực nhận."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Sự cố 5",
+   "title": "Khí trong mạch: báo động phải xác nhận",
+   "ref": "Oxford 2016, tr. 133, 138 · vẽ lại, không phải hình gốc · mô hình áp lực không mô phỏng khí",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Khí trong mạch",
+     "d": "bọt khí các bô níc từ túi bicarbonat · hở khớp nối đoạn hút · dòng xoáy gần cảm biến",
+     "x": 270,
+     "y": 270,
+     "w": 480,
+     "h": 300,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Báo động cố định",
+     "d": "latched: máy chỉ mở lại sau khi bác sĩ xác nhận đã xử lý",
+     "x": 820,
+     "y": 270,
+     "w": 400,
+     "h": 260,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Đuổi khí, tìm chỗ hở",
+     "d": "theo hướng dẫn máy · dừng nếu nguy cơ thuyên tắc khí",
+     "x": 1290,
+     "y": 270,
+     "w": 400,
+     "h": 260,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Chỉ bỏ qua (override)",
+     "d": "khi đã xác định là nhiễu do dòng xoáy",
+     "x": 1290,
+     "y": 540,
+     "w": 400,
+     "h": 200,
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "note": {
+    "t": "Khí không có trong mô hình áp lực: nhận ra bằng cảm biến khí và quan sát buồng bẫy khí",
+    "at": 4,
+    "c": "blue",
+    "y": 560,
+    "x": 0,
+    "w": 880
+   },
+   "lines": [
+    "Sự cố thứ năm là khí trong mạch. Khác bốn sự cố trước, nó không để lại dấu vân tay trên các áp lực, nên mô hình áp lực của ta không mô phỏng được. Ta nhận ra nó nhờ cảm biến khí và buồng bẫy khí.",
+    "Nguyên nhân theo Oxford: bọt nhỏ khí các bô níc sinh ra từ túi dịch bicarbonat; hở khớp nối ở đoạn hút; hoặc dòng xoáy gần cảm biến. Báo động khí là báo động cố định: máy chỉ mở lại sau khi người vận hành xác nhận đã xử trí.",
+    "Việc cần làm: đuổi khí theo hướng dẫn của máy, tìm chỗ hở, và dừng hẳn nếu có nguy cơ thuyên tắc khí.",
+    "Chỉ được bỏ qua báo động, override, khi đã xác định đó là nhiễu do dòng xoáy.",
+    "Hãy nhớ: báo động cố định là loại báo động buộc người vận hành phải dừng lại, xử lý, rồi mới xác nhận."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Sự cố 6",
+   "title": "Lỗi cân dịch",
+   "ref": "Oxford 2016, tr. 135–138 · mô hình áp lực không mô phỏng cân dịch",
+   "cards": [
+    {
+     "tag": "NGUYÊN NHÂN",
+     "t": "Túi và dây",
+     "items": [
+      "Túi đung đưa, treo sai",
+      "Dây túi gập",
+      "Quên mở khoá túi",
+      "Lỗi máy"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "XỬ TRÍ",
+     "t": "Dừng và tìm nguyên nhân",
+     "items": [
+      "Để túi đứng yên, treo lại",
+      "Mở khoá, mở kẹp",
+      "Không bấm bỏ qua lặp lại khi chưa biết nguyên nhân"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "GIỚI HẠN",
+     "t": "Khi nào thay máy",
+     "items": [
+      "> 10 lần không rõ lý do trong 3 giờ: thay máy, gọi kỹ thuật",
+      "Sai số chấp nhận khoảng 30 mL/h mỗi bơm"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Sự cố thứ sáu là lỗi cân dịch, và cũng không thể hiện trên áp lực. Máy lọc điều khiển dòng dịch bằng cách cân các túi. Bất cứ thứ gì làm cân sai, máy đều báo.",
+    "Nguyên nhân thường gặp: túi đung đưa, túi treo sai, dây túi bị gập, quên mở khoá túi, hoặc lỗi của máy. Xử trí: để túi đứng yên, treo lại cho đúng, mở khoá và mở kẹp. Nguyên tắc quan trọng là không bấm bỏ qua lặp đi lặp lại khi chưa tìm ra nguyên nhân.",
+    "Nếu báo động xuất hiện hơn 10 lần trong 3 giờ mà không rõ lý do, hãy thay máy và gọi kỹ thuật. Cần nhớ sai số chấp nhận được của mỗi bơm khoảng 30 mi li lít mỗi giờ, nên với nhiều bơm sai số cộng dồn có thể đáng kể, và vì thế ta luôn ghi siêu lọc ròng thực nhận chứ không chép số kê đơn."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Bảng báo động",
+   "title": "Báo động áp lực – nguyên nhân – xử trí",
+   "ref": "Oxford 2016, tr. 114, 132–137",
+   "head": [
+    "Báo động",
+    "Nguyên nhân thường gặp",
+    "Xử trí"
+   ],
+   "widths": "1fr 1.4fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "Truy cập quá âm",
+      "Gập kẹp dây; huyết khối nòng hút; đầu catheter áp thành; giảm thể tích; gập háng",
+      "Gỡ gập, đổi tư thế, xử lý huyết khối; đảo nòng; giảm tạm Qb; thay catheter"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Trả về quá cao",
+      "Gập kẹp dây trả; huyết khối đường trả hoặc buồng khí; tắc nòng theo tư thế",
+      "Gỡ gập; kiểm tra buồng khí; cân nhắc đảo nòng; thay bộ dây"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Sau màng tăng đơn độc",
+      "Tắc cơ học đoạn sau màng; cục đông trong buồng khí",
+      "Kiểm tra đoạn dây sau màng và buồng khí"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "TMP tăng dần",
+      "Đông màng tiến triển; FF quá cao; gập dây dịch",
+      "Xem lại chống đông; tăng Qb, pha loãng trước, CVVHD/CVVHDF; thay màng chủ động"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bây giờ ta gom lại thành bảng. Hàng đầu là áp lực truy cập quá âm: gập hoặc kẹp dây, huyết khối nòng hút, đầu catheter áp thành mạch, giảm thể tích, người bệnh gập háng. Xử trí: gỡ gập, đổi tư thế, xử lý huyết khối, đảo nòng, giảm tạm Qb, cuối cùng thay catheter.",
+    "Hàng hai là áp lực trả về quá cao: gập dây trả, huyết khối đường trả hoặc buồng khí, tắc nòng theo tư thế. Xử trí: gỡ gập, kiểm tra buồng khí, cân nhắc đảo nòng, thay bộ dây.",
+    "Hàng ba là áp lực sau màng tăng đơn độc, áp lực xuyên màng ít đổi: nghĩ đến tắc cơ học đoạn sau màng hoặc cục đông trong buồng bẫy khí.",
+    "Hàng bốn là áp lực xuyên màng tăng dần: đông màng tiến triển, phân suất lọc quá cao, hoặc dây dịch gập. Xem lại chống đông, tăng Qb, chuyển sang pha loãng trước hoặc CVVHD, CVVHDF, và thay màng chủ động trước khi đông hẳn."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Bảng báo động",
+   "title": "Báo động khác: khí, rò máu, cân dịch, ngắt đường máu",
+   "ref": "Oxford 2016, tr. 133, 135–138",
+   "head": [
+    "Báo động",
+    "Nguyên nhân thường gặp",
+    "Xử trí"
+   ],
+   "widths": "1fr 1.4fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "Khí trong mạch",
+      "Bọt khí từ túi bicarbonat; hở khớp nối đoạn hút; dòng xoáy gần cảm biến",
+      "Báo động cố định, phải xác nhận; đuổi khí; tìm chỗ hở; dừng nếu nguy cơ thuyên tắc"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Rò máu",
+      "Rách sợi màng",
+      "Dừng; không trả máu nếu nghi nhiễm bẩn; theo hướng dẫn của máy"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Lỗi cân dịch",
+      "Túi đung đưa, treo sai, dây gập, quên mở khoá; lỗi máy",
+      "Túi đứng yên; không bỏ qua lặp lại; > 10 lần/3 giờ thì thay máy"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Tuột, ngắt đường máu",
+      "Tuột khớp nối (hiếm); gập đoạn trước cảm biến; cục đông cô lập cảm biến; Qb quá thấp so với catheter",
+      "Kiểm tra ngay người bệnh và toàn bộ mạch; xử lý nguyên nhân"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Nhóm báo động thứ hai. Khí trong mạch: báo động cố định, phải xác nhận sau khi xử trí; đuổi khí, tìm chỗ hở, dừng nếu có nguy cơ thuyên tắc khí.",
+    "Rò máu là báo động do rách sợi màng. Phải dừng máy, và không trả máu về người bệnh nếu nghi ngờ nhiễm bẩn. Chi tiết thao tác sách gốc ghi là cần đối chiếu hướng dẫn của từng máy.",
+    "Lỗi cân dịch: giữ túi đứng yên, không bỏ qua lặp lại, và thay máy nếu trên 10 lần trong 3 giờ.",
+    "Tuột hoặc ngắt đường máu: tuột khớp nối thì hiếm, nhưng gập đoạn trước cảm biến, cục đông cô lập cảm biến, hoặc Qb quá thấp so với catheter đều có thể gây ra. Việc đầu tiên luôn là kiểm tra ngay người bệnh và toàn bộ mạch."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "list",
+   "chapter": "Nguyên tắc",
+   "title": "Bốn nguyên tắc khi xử trí báo động",
+   "ref": "Oxford 2016, tr. 132–136",
+   "items": [
+    {
+     "t": "Phân biệt báo động cố định và tự giải toả",
+     "d": "cố định (khí) phải xác nhận; tự giải toả (áp lực hút âm thoáng qua) tự hết; ngưỡng quá rộng làm mất an toàn",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Đảo nòng catheter chỉ là biện pháp tạm",
+     "d": "gây tái tuần hoàn, giảm liều thực; chấp nhận khi chờ thay catheter",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Không rửa màng ngắt quãng bằng NaCl 0,9% thường quy",
+     "d": "hiệu quả hạn chế, thêm dịch (theo sách)",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Ghi UFnet thực nhận, không chép UFnet kê đơn",
+     "d": "vào bệnh án",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bốn nguyên tắc đi kèm bảng báo động. Một: phân biệt báo động cố định, như khí, với báo động tự giải toả, như áp lực hút âm thoáng qua. Đặt ngưỡng báo động quá rộng thì máy mất tác dụng bảo vệ.",
+    "Hai: đảo nòng catheter gây tái tuần hoàn nên làm giảm liều thực nhận. Chấp nhận khi mục tiêu chính là cân bằng dịch và đang chờ thay catheter.",
+    "Ba: không rửa màng ngắt quãng bằng natri clorua 0,9 phần trăm một cách thường quy, vì theo sách hiệu quả hạn chế mà lại thêm dịch cho người bệnh.",
+    "Bốn: ghi siêu lọc ròng thực nhận, không chép con số đã kê đơn vào bệnh án."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: đọc áp lực, đoán sự cố",
+   "case": "Mạch CVVHDF (mô hình): lúc đầu truy cập −75, trước màng 106, trả về 68, dịch thải 34, TMP 53, ΔP 38 mmHg. Nay: truy cập −75, trước màng 106, trả về 68, dịch thải −4, TMP 91, ΔP 38.",
+   "case_at": 0,
+   "q": "Sự cố nào phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Gập hoặc hút kém ở catheter",
+    "Đông màng tiến triển",
+    "Tắc lỗ màng do protein",
+    "Tắc đường về hoặc buồng bẫy khí"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Chỉ TMP tăng, ΔP, truy cập, trả về giữ nguyên → tắc lỗ màng (Teixeira 2025). Đông màng: ΔP cũng tăng.",
+   "lines": [
+    "Tình huống. Một mạch thẩm tách – siêu lọc máu liên tục trên mô hình, lúc đầu áp lực truy cập âm 75, trước màng 106, trả về 68, dịch thải 34, áp lực xuyên màng 53, ΔP 38. Sau vài giờ: truy cập vẫn âm 75, trước màng vẫn 106, trả về vẫn 68, dịch thải đã xuống âm 4, áp lực xuyên màng lên 91, ΔP vẫn 38.",
+    "Sự cố nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là tắc lỗ màng do protein. Chỉ áp lực xuyên màng và áp lực dịch thải thay đổi, còn ΔP, truy cập và trả về giữ nguyên. Gập catheter chỉ làm áp lực truy cập lệch; tắc đường về làm trả về và trước màng cùng tăng; đông màng làm ΔP tăng theo áp lực xuyên màng. Đọc đúng ΔP quyết định cách ta xử trí."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Quy trình Bộ Y tế",
+   "title": "Quy trình CVVH của Bộ Y tế 2014: đã cũ ở đâu?",
+   "ref": "QĐ 1904/QĐ-BYT 2014, tr. 418–421 · bình luận đối chiếu bằng chứng hiện hành",
+   "head": [
+    "Mục",
+    "Văn bản năm 2014",
+    "Đối chiếu hiện nay"
+   ],
+   "widths": "0.8fr 1.5fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "Chỉ định",
+      "Suy đa tạng, viêm tuỵ cấp nặng, sepsis, ARDS, tiêu cơ vân, quá tải dịch, phù não do ngộ độc…",
+      "Chỉ định ngoài thận (sepsis, ARDS, viêm tuỵ) không được RCT và guideline hiện hành ủng hộ"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Nhân lực",
+      "1 bác sĩ + 2 điều dưỡng mỗi kíp 8 giờ, đã đào tạo",
+      "Phù hợp khuyến cáo đội chuyên trách của KSN"
+     ],
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "Khởi động",
+      "Tăng Qb 20 mL mỗi 5 phút; chạy bơm dịch khi bơm máu đạt đích",
+      "Đơn vị mL/h trong văn bản có lẽ là lỗi in; cần đối chiếu văn bản gốc"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Thông số",
+      "Qb 180–200; dịch thay thế ≥ 35 mL/kg/giờ; 1 quả lọc 18–22 giờ",
+      "Liều ≥ 35 đã lạc hậu: chuẩn là 20–25 mL/kg/h thực nhận"
+     ],
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Kết thúc",
+      "Ngừng chống đông 30 phút trước; giảm Qb về 100; dồn máu bằng NaCl 0,9%",
+      "Không có bình luận bổ sung"
+     ],
+     "at": 4,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Theo dõi",
+      "Áp lực mạch mỗi giờ; sinh hiệu, cân bằng mỗi 3 giờ; đông máu, điện giải mỗi 6 giờ",
+      "Cập nhật: thêm theo dõi liều thực, tuổi thọ màng"
+     ],
+     "at": 5,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Quy trình kỹ thuật lọc máu liên tục CVVH của Bộ Y tế, quyết định 1904 năm 2014, vẫn là văn bản nền của nhiều đơn vị. Ta đọc lại nó với mắt của bằng chứng hiện hành.",
+    "Về chỉ định, văn bản liệt kê cả sepsis, ARDS và viêm tuỵ cấp. Những chỉ định ngoài thận dựa trên giả thuyết loại bỏ cytokin này không được các thử nghiệm ngẫu nhiên và guideline hiện hành ủng hộ, ví dụ IVOIRE và khuyến cáo 5.3.2 của KDIGO 2026.",
+    "Về nhân lực, một bác sĩ và hai điều dưỡng mỗi kíp tám giờ, đã được đào tạo, phù hợp khuyến cáo đội chuyên trách của hội thận học Hàn Quốc.",
+    "Về khởi động, văn bản hướng dẫn tăng dần từng 20 mi li lít mỗi 5 phút đến đích, và chỉ chạy bơm dịch khi bơm máu đã đạt đích. Tuy nhiên đơn vị lưu lượng khởi đầu trong văn bản có lẽ là lỗi in, cần đối chiếu văn bản gốc.",
+    "Về thông số, Qb 180 đến 200, một quả lọc 18 đến 22 giờ, nhưng liều dịch thay thế từ 35 mi li lít mỗi ký trở lên đã lạc hậu; chuẩn hiện nay là 20 đến 25 mi li lít mỗi ký mỗi giờ thực nhận.",
+    "Về kết thúc: ngừng chống đông 30 phút trước, giảm Qb về 100, dồn máu trả bằng natri clorua 0,9 phần trăm. Về theo dõi: áp lực mạch mỗi giờ, sinh hiệu và cân bằng dịch mỗi 3 giờ, đông máu và điện giải mỗi 6 giờ. Văn bản không sai ở đây, nhưng nên bổ sung theo dõi liều thực nhận và tuổi thọ màng mỗi ngày."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Theo dõi",
+   "title": "Theo dõi chuẩn trong lọc máu liên tục",
+   "ref": "Đề xuất tổng hợp: BYT 2014 · Oxford 2016 · ADQI 17 · SIAARTI 2023 · KDIGO 2026 PP 5.10.2 · SRLF R7.3",
+   "head": [
+    "Theo dõi",
+    "Tần suất",
+    "Nguồn"
+   ],
+   "widths": "1.6fr 1fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "Áp lực mạch (truy cập, trước màng, trả về, TMP, ΔP)",
+      "Mỗi giờ",
+      "BYT 2014; Oxford 2016"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Sinh hiệu, cân bằng dịch, UFnet thực",
+      "Mỗi giờ (ít nhất mỗi 3 giờ)",
+      "BYT 2014; ADQI 17"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Thân nhiệt trung tâm",
+      "Liên tục",
+      "ADQI 17 phát biểu 14"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Ca²⁺ sau màng và toàn thân (RCA)",
+      "Mỗi 6–8 giờ",
+      "SIAARTI 2023"
+     ],
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Đông máu cơ bản, điện giải",
+      "Mỗi 6 giờ, thưa dần khi ổn định",
+      "BYT 2014"
+     ],
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Phospho, Mg",
+      "Ít nhất hằng ngày",
+      "Teixeira 2025; ESPEN"
+     ],
+     "at": 5,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "aPTT (heparin)",
+      "Sau 6 giờ, rồi mỗi 12 giờ",
+      "Oxford 2016"
+     ],
+     "at": 6,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Liều thực, downtime, tuổi thọ màng; đánh giá khả năng ngừng",
+      "Mỗi ngày",
+      "KDIGO 2026; SRLF R7.3"
+     ],
+     "at": 7,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Vì mọi sự cố đều để lại dấu vết, theo dõi đều đặn là cách phát hiện sớm. Áp lực mạch, gồm truy cập, trước màng, trả về, áp lực xuyên màng và ΔP, nên ghi mỗi giờ.",
+    "Sinh hiệu, cân bằng dịch và siêu lọc ròng thực nhận: mỗi giờ, và ít nhất mỗi 3 giờ theo quy trình Bộ Y tế.",
+    "Thân nhiệt trung tâm nên theo dõi liên tục, vì lọc máu liên tục gây hạ thân nhiệt và có thể che sốt.",
+    "Khi chống đông citrate vùng: canxi ion hoá sau màng và toàn thân mỗi 6 đến 8 giờ.",
+    "Đông máu cơ bản và điện giải mỗi 6 giờ, thưa dần khi ổn định.",
+    "Phospho và magiê ít nhất hằng ngày, vì hạ phospho là một tác dụng phụ thầm lặng.",
+    "Khi dùng heparin, theo dõi thời gian thromboplastin từng phần hoạt hoá sau 6 giờ, rồi mỗi 12 giờ.",
+    "Và mỗi ngày: liều thực nhận, thời gian ngừng máy, tuổi thọ màng, cùng việc đánh giá khả năng ngừng lọc máu. Đó là những chỉ số chất lượng mà ta sẽ gặp lại ở phần cuối."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "list",
+   "chapter": "Thay màng",
+   "title": "Thay màng chủ động và ngừng máy ngoài kế hoạch",
+   "ref": "Oxford 2016, tr. 112, 134 · ban-goc mục 12.5",
+   "items": [
+    {
+     "t": "Mọi mạch đều sẽ đông: thay chủ động",
+     "d": "khi có dấu hiệu sớm – vệt sẫm dọc sợi, TMP/ΔP tăng nhanh",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Để còn trả được máu",
+     "d": "mạch ngoài cơ thể người lớn chứa khoảng 150 mL máu; tránh thiếu máu thứ phát",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Mỗi lần ngừng máy: tính lại",
+     "d": "cân bằng dịch, liều thực, liều thuốc",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Đi chụp hoặc mổ: lên kế hoạch",
+     "d": "ngừng – trả máu – nối lại; với citrate, theo phác đồ của máy",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Mọi mạch lọc rồi cũng đông. Vấn đề là đông lúc nào và ta có chủ động hay không. Hãy thay màng chủ động khi có dấu hiệu sớm: vệt sẫm dọc các sợi, áp lực xuyên màng hoặc ΔP tăng nhanh.",
+    "Lý do: mạch ngoài cơ thể ở người lớn chứa khoảng 150 mi li lít máu. Thay trước khi đông hẳn thì còn trả được máu, tránh thiếu máu thứ phát và rút ngắn thời gian ngừng máy.",
+    "Mỗi lần ngừng máy, dù có kế hoạch hay không, phải tính lại cân bằng dịch, liều thực nhận và liều thuốc.",
+    "Khi người bệnh đi chụp hoặc đi mổ, cần kế hoạch rõ ràng: ngừng, trả máu, nối lại. Với chống đông citrate, phải theo phác đồ của máy về việc ngừng citrate và canxi, và sách gốc ghi điểm này cần đối chiếu tại cơ sở."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Biến chứng",
+   "title": "Biến chứng của lọc máu liên tục (1/2)",
+   "ref": "ban-goc mục 13 · Cathedia · Oxford 2016 · RENAL · Zhou 2023 · Delphi 2026",
+   "head": [
+    "Nhóm",
+    "Biến chứng",
+    "Phòng, xử trí"
+   ],
+   "widths": "0.8fr 1.8fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Catheter",
+      "Chọc động mạch, tràn khí màng phổi, chảy máu; tụ máu (cảnh > đùi: 3,6% so với 1,1%); nhiễm khuẩn huyết; huyết khối (33–67%)",
+      "Siêu âm, X-quang, bó chăm sóc; chọn vị trí theo BMI"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Mạch ngoài cơ thể",
+      "Đông màng, mất máu do đông (~150 mL/mạch), khí, tan máu, tụt áp khi khởi động",
+      "Chống đông phù hợp; khởi động chậm"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Chống đông",
+      "Chảy máu (heparin RR 3,09 so với citrate); HIT; tích tụ citrate, kiềm chuyển hoá, hạ Ca²⁺",
+      "Theo phần 7 và 8"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Chuyển hoá",
+      "Hạ phospho (54–65% ở RENAL), hạ K, hạ Mg, rối loạn Na; nhiễm toan ceton đường huyết bình thường",
+      "Dịch có K, phosphat, Mg; theo dõi"
+     ],
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "Huyết động",
+      "Tụt áp khi khởi động hoặc rút dịch nhanh; loạn nhịp (ICRAKI: tụt áp 66–69% ở cả hai nhánh)",
+      "Khởi động chậm; UFnet theo dung nạp"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Sau sự cố của máy là biến chứng của chính phương pháp. Với catheter: chọc động mạch, tràn khí màng phổi, chảy máu, nhiễm khuẩn huyết liên quan catheter, huyết khối từ 33 đến 67 phần trăm, và tụ máu gặp ở đường cảnh 3,6 phần trăm so với 1,1 phần trăm ở đường đùi. Phòng bằng siêu âm, X-quang, bó chăm sóc và chọn vị trí theo chỉ số khối cơ thể.",
+    "Với mạch ngoài cơ thể: đông màng, mất khoảng 150 mi li lít máu mỗi mạch khi đông, khí, tan máu, phản ứng màng và tụt áp khi khởi động. Phòng bằng chống đông phù hợp và khởi động chậm.",
+    "Với chống đông: heparin có nguy cơ chảy máu tương đối 3,09 so với citrate, và có thể gây giảm tiểu cầu do heparin; citrate có thể gây tích tụ citrate, kiềm chuyển hoá, hạ canxi ion hoá.",
+    "Với chuyển hoá: hạ phospho từ 54 đến 65 phần trăm ở thử nghiệm RENAL, hạ kali, hạ magiê, rối loạn natri khi điều chỉnh quá nhanh, và nhiễm toan ceton đường huyết bình thường khi dùng dịch phosphat không dextrose.",
+    "Về huyết động, tụt áp khi khởi động hoặc khi rút dịch nhanh là thường gặp: trong ICRAKI, tụt áp chiếm 66 đến 69 phần trăm ở cả hai nhánh."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "list",
+   "chapter": "Biến chứng",
+   "title": "Biến chứng của lọc máu liên tục (2/2)",
+   "ref": "ban-goc mục 13 · BYT 2014 · ADQI 17 · Hoff 2020 · ESPEN 2021 · RICH 2020 · STARRT-AKI · AKIKI",
+   "items": [
+    {
+     "t": "Nhiệt: hạ thân nhiệt, che sốt",
+     "d": "làm ấm dịch và máu; theo dõi nhiệt trung tâm",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Thuốc: thiếu liều kháng sinh, mất thuốc",
+     "d": "chỉnh liều theo dịch thải (Hoff 2020)",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "t": "Dinh dưỡng: mất acid amin",
+     "d": "CVVH: trung vị 13,4 g/ngày (11,8–17,4)",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Nhiễm khuẩn mới",
+     "d": "RICH: 68,0% (citrate) so với 55,4% (heparin), chưa rõ cơ chế",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "t": "Sai sót: lỗi cân dịch, bỏ qua báo động, pha dịch sai",
+     "d": "đào tạo, quy trình chuẩn, dịch thương mại",
+     "at": 4,
+     "c": "coral"
+    },
+    {
+     "t": "Khởi động sớm thường quy",
+     "d": "STARRT-AKI: biến cố bất lợi 23,0% so với 16,5%; AKIKI: nhiễm khuẩn huyết do catheter 10% so với 5%",
+     "at": 5,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Nửa còn lại của danh sách. Về nhiệt: hạ thân nhiệt và che sốt; làm ấm dịch và máu, theo dõi nhiệt trung tâm.",
+    "Về thuốc: thiếu liều kháng sinh và mất thuốc qua màng; chỉnh liều theo dịch thải và theo dõi nồng độ thuốc khi có thể.",
+    "Về dinh dưỡng: mất acid amin; ở CVVH, trung vị khoảng 13,4 gam mỗi ngày, trong khoảng 11,8 đến 17,4, kèm mất vitamin tan trong nước và vi chất.",
+    "Về nhiễm khuẩn: trong thử nghiệm RICH, nhiễm khuẩn mới là 68,0 phần trăm ở nhóm citrate so với 55,4 phần trăm ở nhóm heparin, và chưa có lời giải thích.",
+    "Về sai sót: lỗi cân dịch, bỏ qua báo động, pha dịch sai. Giải pháp là đào tạo, quy trình chuẩn và dùng dịch thương mại.",
+    "Cuối cùng, những biến chứng hệ thống khi khởi động lọc máu sớm thường quy: STARRT-AKI ghi nhận biến cố bất lợi 23,0 phần trăm so với 16,5 phần trăm, AKIKI ghi nhận nhiễm khuẩn huyết do catheter 10 phần trăm so với 5 phần trăm. Đó là lý do ta không lọc chỉ vì một con số."
+   ],
+   "id": "s18",
+   "dense": true
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 11",
+   "items": [
+    {
+     "t": "Đọc sáu áp lực: truy cập, trước màng, trả về, dịch thải, ΔP, TMP",
+     "d": "TMP ≈ (P trước + P sau)/2 − P dịch thải",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Đông màng: ΔP và TMP cùng tăng",
+     "d": "TMP > 250 thường gợi ý đông đáng kể",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Tắc lỗ màng: TMP tăng, ΔP gần như không đổi",
+     "d": "nhìn ΔP trước khi gọi là đông",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Khí và lỗi cân dịch không hiện trên áp lực",
+     "d": "báo động cố định; không bỏ qua lặp lại",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Đông màng thường do catheter và cài đặt",
+     "d": "thay màng chủ động; ghi UFnet thực nhận",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần mười một. Hãy đọc sáu áp lực của mạch: truy cập, trước màng, trả về, dịch thải, chênh áp qua màng và áp lực xuyên màng. Mỗi sự cố để lại một dấu vân tay riêng.",
+    "Đông màng làm ΔP và áp lực xuyên màng cùng tăng; áp lực xuyên màng trên 250 thường gợi ý đông đáng kể, tuỳ máy.",
+    "Tắc lỗ màng do protein làm áp lực xuyên màng tăng còn ΔP gần như không đổi. Nhìn ΔP trước khi gọi là đông màng.",
+    "Khí trong mạch và lỗi cân dịch không hiện trên áp lực: báo động khí là báo động cố định, còn lỗi cân dịch không được bấm bỏ qua lặp lại khi chưa tìm ra nguyên nhân.",
+    "Đông màng thường do catheter và cài đặt, nên thay màng chủ động và ghi siêu lọc ròng thực nhận. Quy trình Bộ Y tế 2014 là nền tảng nhưng liều từ 35 mi li lít mỗi ký trở lên đã lạc hậu. Phần sau, chúng ta bàn về ngừng lọc máu, các tình huống đặc biệt và tổ chức đơn vị. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s19",
+   "dense": true
+  }
+ ]
+}

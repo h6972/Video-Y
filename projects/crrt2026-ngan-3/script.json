@@ -1,0 +1,137 @@
+{
+ "title": "Lọc máu liên tục – Video ngắn 3: ICRAKI trong 60 giây",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục",
+ "part": "Lọc máu liên tục · Video ngắn 3",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "canxi toàn phần trên canxi ion",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CaCl₂": "canxi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Ca²⁺": "canxi ion hoá",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "format": "vertical",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "ICRAKI · NEJM 2026",
+   "hook": "Người bệnh nặng: chạy thận hay lọc liên tục?",
+   "sub": "ICRAKI trong 60 giây",
+   "c": "coral",
+   "lines": [
+    "Người bệnh hồi sức đang dùng vận mạch hoặc thở máy, cần lọc máu.",
+    "Bắt đầu bằng chạy thận ngắt quãng hay lọc máu liên tục? Thử nghiệm ICRAKI năm 2026 đã đưa ra tín hiệu."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "bars",
+   "chapter": "ICRAKI 2026",
+   "title": "Tử vong ngày 90",
+   "ref": "ICRAKI, NEJM 2026",
+   "groups": [
+    {
+     "t": "535 người · 38 khoa hồi sức, Pháp",
+     "d": "",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Ngắt quãng",
+       "v": 63.1,
+       "lab": "63,1%",
+       "c": "coral"
+      },
+      {
+       "k": "Liên tục",
+       "v": 53.5,
+       "lab": "53,5%"
+      }
+     ]
+    }
+   ],
+   "max": 85,
+   "h": 560,
+   "lines": [
+    "Thử nghiệm ICRAKI trên 535 người bệnh: tử vong ngày 90 là 63,1 phần trăm với chạy thận ngắt quãng, so với 53,5 phần trăm với lọc máu liên tục.",
+    "Tỷ số nguy cơ 1,30 với chạy thận ngắt quãng. Cần nói công bằng: thử nghiệm dừng sớm và kết cục chính không đạt, nhưng tín hiệu tử vong nghiêng về lọc máu liên tục."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Khuyến cáo",
+   "title": "Khởi đầu bằng lọc liên tục",
+   "ref": "KDIGO 2026 (dự thảo), R 5.2.1 (2C)",
+   "box": {
+    "tag": "KDIGO 2026 · 2C",
+    "t": "Huyết động không ổn định: <b>lọc máu liên tục</b> khi có máy và đội.",
+    "at": 0,
+    "c": "teal",
+    "size": 40
+   },
+   "notes": [
+    {
+     "tag": "CÒN MỞ",
+     "t": "Khi nào chuyển sang chạy thận ngắt quãng",
+     "at": 1,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Vì vậy người bệnh cần vận mạch hoặc thở máy nên bắt đầu bằng lọc máu liên tục khi có máy và có đội.",
+    "Thời điểm chuyển sang chạy thận ngắt quãng vẫn là câu hỏi mở. Xem trọn bài giảng ở link trong bio nhé!"
+   ],
+   "id": "s03"
+  }
+ ]
+}

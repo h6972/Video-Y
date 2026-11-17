@@ -1,0 +1,150 @@
+{
+ "title": "Lọc máu liên tục – Video ngắn 6: Liều kê khác liều nhận",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục",
+ "part": "Lọc máu liên tục · Video ngắn 6",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "canxi toàn phần trên canxi ion",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CaCl₂": "canxi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Ca²⁺": "canxi ion hoá",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "format": "vertical",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "KÊ ĐƠN CRRT",
+   "hook": "Liều kê 25 không có nghĩa là bệnh nhân nhận 25",
+   "sub": "Downtime và pha loãng trước màng",
+   "c": "coral",
+   "lines": [
+    "Bạn kê 25 mi li lít mỗi ký mỗi giờ cho người bệnh lọc máu liên tục.",
+    "Người bệnh có thực nhận 25 không? Thường là không."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Liều thực",
+   "title": "Từ liều kê đến liều thực (mô phỏng)",
+   "ref": "Mô phỏng 70 kg, Qef 1.750 mL/h, máy dừng 2 lần × 2 giờ, hệ số pha loãng 0,89",
+   "groups": [
+    {
+     "t": "mL/kg/giờ · đích thực nhận 20–25",
+     "d": "",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Liều kê",
+       "v": 25.0,
+       "lab": "25,0",
+       "c": "teal"
+      },
+      {
+       "k": "Trừ máy dừng",
+       "v": 20.8,
+       "lab": "20,8",
+       "c": "amber"
+      },
+      {
+       "k": "× pha loãng",
+       "v": 18.5,
+       "lab": "18,5",
+       "c": "coral"
+      }
+     ]
+    }
+   ],
+   "max": 30,
+   "h": 560,
+   "notes": [
+    {
+     "t": "Liều thực chỉ bằng 74% liều kê",
+     "at": 1,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Mô phỏng: kê 25, máy dừng hai lần, mỗi lần 2 giờ, liều trung bình còn 20,8.",
+    "Nhân hệ số pha loãng 0,89 do dịch đi vào trước màng, liều thực ước tính chỉ 18,5, bằng 74 phần trăm liều kê."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Thực hành",
+   "title": "Bù downtime",
+   "box": {
+    "tag": "TEIXEIRA 2025",
+    "t": "Kê cao hơn đích ~20–25%: <b>25–30 mL/kg/h</b> để thực nhận 20–25.",
+    "at": 0,
+    "c": "teal",
+    "size": 40
+   },
+   "notes": [
+    {
+     "tag": "THEO DÕI",
+     "t": "Liều kê, liều thực, downtime mỗi ngày",
+     "at": 1,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Vì vậy nhiều chuyên gia kê cao hơn đích khoảng 20 đến 25 phần trăm, tức 25 đến 30 mi li lít mỗi ký mỗi giờ, để bù thời gian máy dừng.",
+    "Cũng không cần đuổi liều quá mức: ATN và RENAL cho thấy liều thực nhận thấp hơn một chút vẫn cho kết quả tương đương. Điều cần làm là theo dõi mỗi ngày liều kê, liều thực và thời gian máy dừng. Xem trọn bài giảng ở link trong bio nhé!"
+   ],
+   "id": "s03"
+  }
+ ]
+}

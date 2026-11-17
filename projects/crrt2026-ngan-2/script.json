@@ -1,0 +1,161 @@
+{
+ "title": "Lọc máu liên tục – Video ngắn 2: tCa/iCa ≥ 2,5",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục",
+ "part": "Lọc máu liên tục · Video ngắn 2",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "canxi toàn phần trên canxi ion",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CaCl₂": "canxi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Ca²⁺": "canxi ion hoá",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "format": "vertical",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "CITRATE VÙNG",
+   "hook": "Canxi toàn phần tăng, canxi ion lại tụt?",
+   "sub": "Tỷ số tCa/iCa ≥ 2,5",
+   "c": "coral",
+   "lines": [
+    "Đang chạy citrate mà canxi toàn phần tăng, canxi ion lại tụt dù bù thêm canxi.",
+    "Người bệnh lại có suy gan và lactat tăng dần. Bạn nghĩ tới điều gì?"
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Tích tụ citrate",
+   "title": "tCa/iCa theo giờ (mô hình)",
+   "ref": "Mô hình citrate minh hoạ: gan chuyển hoá citrate giảm còn 1/4",
+   "groups": [
+    {
+     "t": "Tỷ số tCa/iCa · ngưỡng tích tụ 2,5",
+     "d": "",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Giờ 0",
+       "v": 1.96,
+       "lab": "1,96",
+       "c": "teal"
+      },
+      {
+       "k": "Giờ 1",
+       "v": 2.32,
+       "lab": "2,32",
+       "c": "teal"
+      },
+      {
+       "k": "Giờ 2",
+       "v": 2.52,
+       "lab": "2,52",
+       "c": "coral"
+      },
+      {
+       "k": "Giờ 6",
+       "v": 2.7,
+       "lab": "2,70",
+       "c": "coral"
+      },
+      {
+       "k": "Giờ 12",
+       "v": 2.71,
+       "lab": "2,71",
+       "c": "coral"
+      }
+     ]
+    }
+   ],
+   "max": 3,
+   "h": 560,
+   "lines": [
+    "Cách tính: đưa canxi toàn phần và canxi ion về cùng đơn vị mi li mol mỗi lít, rồi chia.",
+    "Mô hình minh hoạ: gan chuyển hoá citrate kém. Sau 2 giờ tỷ số đã vượt 2,5; đến giờ 12 là 2,71, trong khi canxi ion toàn thân chỉ còn 1,01 dù nhu cầu bù canxi tăng dần."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Ngưỡng",
+   "title": "Ngưỡng và xử trí",
+   "box": {
+    "tag": "DELPHI 2026 · KS9",
+    "t": "tCa/iCa <b>≥ 2,5</b> = tích tụ citrate.",
+    "at": 0,
+    "c": "coral",
+    "size": 44
+   },
+   "notes": [
+    {
+     "tag": "CẢNH BÁO SỚM",
+     "t": "> 2,25 và tăng dần",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "XỬ TRÍ",
+     "t": "Giảm tải citrate; dai dẳng: ngừng citrate, vẫn lọc máu",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Từ 2,5 trở lên là tích tụ citrate; đồng thuận Trung Quốc cảnh báo sớm khi trên 2,25 và đang tăng dần.",
+    "Xử trí: giảm tải citrate; nếu dai dẳng thì ngừng citrate nhưng vẫn duy trì lọc máu. Xem trọn bài giảng ở link trong bio nhé!"
+   ],
+   "id": "s03"
+  }
+ ]
+}

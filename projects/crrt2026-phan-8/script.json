@@ -1,0 +1,1367 @@
+{
+ "title": "Lọc máu liên tục – Phần 8: Heparin, nafamostat, không chống đông, HIT – và kéo dài tuổi thọ màng",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 8/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "IU/kg/h": "đơn vị mỗi ký mỗi giờ",
+  "SIAARTI": "si ác ti",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "Delphi": "đen phi",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "aPTT": "a pê tê tê",
+  "LMWH": "heparin trọng lượng phân tử thấp",
+  "CASH": "cát",
+  "mg/h": "mi li gam mỗi giờ",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "INR": "i en a",
+  "HIT": "giảm tiểu cầu do heparin",
+  "RCA": "citrate vùng",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương"
+ },
+ "brand": {
+  "next": "Phần 9: Dịch và siêu lọc ròng"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Heparin, nafamostat,<br>không chống đông và HIT",
+   "subtitle": "Và những cách kéo dài tuổi thọ màng mà không cần thêm thuốc",
+   "badges": [
+    {
+     "t": "Heparin liều thấp",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "HIT: KDIGO R5.3.4 · 1A",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Catheter · FF · Qb",
+     "c": "teal",
+     "at": 2
+    }
+   ],
+   "note": "Tuổi thọ màng trong mô phỏng: mô hình minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần tám của loạt bài lọc máu liên tục thực hành.",
+    "Phần trước ta đã đi sâu vào citrate vùng. Hôm nay chúng ta bàn về những lựa chọn còn lại: heparin, heparin vùng, nafamostat, prostacyclin, giảm tiểu cầu do heparin, và cả chiến lược không chống đông.",
+    "Và quan trọng nhất, ta sẽ dùng mô phỏng để thấy rằng, nhiều khi, tuổi thọ quả lọc được quyết định bởi catheter, bởi phân suất lọc và bởi cài đặt, chứ không chỉ bởi thuốc."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Chọn chống đông",
+   "title": "Chọn chống đông theo tình huống",
+   "head": [
+    "Tình huống",
+    "Khuyến cáo",
+    "Mức"
+   ],
+   "widths": "1.6fr 2.3fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "Không tăng nguy cơ chảy máu, không chống chỉ định citrate",
+      "<b>Citrate vùng</b> thay heparin",
+      "KDIGO 2026 R5.5.1: 1B · SRLF R6.1: Grade 2+"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Nguy cơ chảy máu cao, chưa dùng chống đông toàn thân",
+      "Citrate vùng hơn không chống đông · <b>tránh heparin vùng</b>",
+      "R5.3.3.1: 2C · R5.3.3.2: 2C"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Chống chỉ định citrate hoặc không có",
+      "Heparin không phân đoạn hoặc LMWH (2012); heparin không phân đoạn, epoprostenol hoặc nafamostat (2026)",
+      "R5.3.2.3: 2C · PP 5.5.1"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Nguy cơ chảy máu cao, không dùng được citrate",
+      "Có thể cân nhắc <b>nafamostat mesylat</b>",
+      "KSN 2025 KQ8: B"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bảng lựa chọn gọn như sau. Khi không tăng nguy cơ chảy máu và không chống chỉ định, citrate vùng thay heparin: KDIGO 2026 bản dự thảo, 1B; SRLF 2025, Grade 2 cộng.",
+    "Khi nguy cơ chảy máu cao và chưa dùng chống đông toàn thân, citrate vùng hơn là không chống đông, mức 2C. Và nên tránh heparin vùng, cũng mức 2C của KDIGO 2012.",
+    "Khi chống chỉ định citrate hoặc không có, KDIGO 2012 chấp nhận heparin không phân đoạn hoặc heparin trọng lượng phân tử thấp, mức 2C. KDIGO 2026 nêu heparin không phân đoạn, epoprostenol hoặc nafamostat.",
+    "Và khi nguy cơ chảy máu cao mà không dùng được citrate, hội thận học Hàn Quốc 2025 cho phép cân nhắc nafamostat mesylat, mức B, chứng cứ vừa."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Tình huống đặc biệt",
+   "title": "Bốn tình huống đặc biệt",
+   "ref": "KDIGO 2012 R5.3.4, R5.3.4.1 · KDIGO 2026 PP 5.5.2, PP 5.5.4 · Jacobs 2026 KS2, KS3 · Oxford 2016, tr. 146",
+   "cards": [
+    {
+     "tag": "HIT · R5.3.4 · 1A",
+     "t": "Ngừng mọi heparin",
+     "items": [
+      "Ức chế thrombin trực tiếp hoặc ức chế Xa",
+      "Không suy gan nặng → argatroban (2C)",
+      "KDIGO 2026: argatroban, danaparoid hoặc bivalirudin"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "SUY GAN NẶNG · RỐI LOẠN ĐÔNG",
+     "t": "Có thể không chống đông",
+     "items": [
+      "Delphi KS2: 76,9%",
+      "Hoặc citrate theo dõi sát: KS3, 92,3%"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "TĂNG ĐÔNG HỆ THỐNG",
+     "t": "Thêm citrate vùng",
+     "items": [
+      "COVID-19 nặng, hội chứng thận hư, viêm hệ thống",
+      "Đông màng lặp lại · KDIGO 2026 PP 5.5.2"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "SAU ĐẠI PHẪU",
+     "t": "Catheter ngoài màng cứng",
+     "items": [
+      "Không chống đông 24–48 giờ đầu",
+      "Hoặc dùng citrate (theo sách)"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bốn tình huống đặc biệt. Thứ nhất, giảm tiểu cầu do heparin: ngừng mọi heparin, dùng thuốc ức chế thrombin trực tiếp hoặc ức chế yếu tố Xa, khuyến cáo 1A của KDIGO 2012. Nếu không suy gan nặng thì argatroban, mức 2C. KDIGO 2026 nêu argatroban, danaparoid hoặc bivalirudin.",
+    "Thứ hai, suy gan nặng kèm rối loạn đông máu nặng: có thể cân nhắc không chống đông, mức đồng thuận Delphi 76,9 phần trăm; hoặc citrate với theo dõi sát, 92,3 phần trăm.",
+    "Thứ ba, tăng đông hệ thống với đông màng lặp lại, như COVID-19 nặng, hội chứng thận hư, viêm hệ thống: KDIGO 2026 cho phép thêm citrate vùng vào chống đông toàn thân.",
+    "Thứ tư, sau đại phẫu có catheter ngoài màng cứng: theo sách, không chống đông trong 24 đến 48 giờ đầu, hoặc dùng citrate."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "box",
+   "chapter": "Heparin",
+   "title": "Heparin: liều thấp, không phải liều chống đông đầy đủ",
+   "ref": "Oxford 2016, tr. 146–147 (theo sách – đối chiếu guideline và phác đồ cơ sở)",
+   "box": {
+    "tag": "HEPARIN KHÔNG PHÂN ĐOẠN · TOÀN THÂN LIỀU THẤP",
+    "t": "Nhiều người bệnh ICU đã <b>giảm tiểu cầu hoặc rối loạn đông máu</b> nên không cần liều chống đông toàn thân đầy đủ. <b>5–10 IU/kg/h trước màng</b> là liều khởi đầu thường dùng cho mạch đầu tiên.",
+    "at": 0,
+    "c": "amber",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "CÁCH TRUYỀN",
+     "t": "Trước màng, bằng bơm thể tích",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "NHÃN",
+     "t": "Dán nhãn: CHỈ DÙNG CHO CRRT",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bắt đầu với heparin không phân đoạn toàn thân liều thấp, theo sách Oxford. Lý do: nhiều người bệnh hồi sức đã giảm tiểu cầu hoặc rối loạn đông máu, nên không cần, và không nên, dùng liều chống đông toàn thân đầy đủ.",
+    "Liều khởi đầu thường dùng cho mạch đầu tiên là 5 đến 10 đơn vị mỗi ký mỗi giờ, truyền trước màng.",
+    "Pha loãng, ví dụ 10.000 đơn vị trong 1.000 mi li lít, tức 10 đơn vị mỗi mi li lít, truyền bằng bơm thể tích để tránh bolus vô ý, dán nhãn chỉ dùng cho lọc máu liên tục, và tính thể tích này vào cân bằng dịch."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Heparin",
+   "title": "Bảng 18.1: liều heparin theo xét nghiệm",
+   "head": [
+    "Truyền heparin trước màng",
+    "INR",
+    "aPTT",
+    "Tiểu cầu"
+   ],
+   "widths": "1.7fr 1fr 1fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>10 IU/kg/h</b>",
+      "< 1,5",
+      "< 40 giây",
+      "> 150 × 10⁹/L"
+     ],
+     "at": 0,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>5 IU/kg/h</b>",
+      "1,5–2,5",
+      "40–60 giây",
+      "75–150 × 10⁹/L"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Không bolus, không chống đông</b>",
+      "> 2,5",
+      "> 60 giây",
+      "< 75 × 10⁹/L"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "note": "Một tiêu chí rơi vào hàng nặng hơn → chỉnh liều theo hàng đó",
+   "note_at": 3,
+   "lines": [
+    "Bảng 18.1 của sách Oxford: bolus 5.000 đơn vị vào mạch nếu dự định truyền, rồi chỉnh theo xét nghiệm.",
+    "Hàng đầu: INR dưới 1,5, aPTT dưới 40 giây, tiểu cầu trên 150 nghìn: truyền 10 đơn vị mỗi ký mỗi giờ. Hàng thứ hai: INR từ 1,5 đến 2,5, aPTT 40 đến 60 giây, tiểu cầu 75 đến 150 nghìn: 5 đơn vị mỗi ký mỗi giờ.",
+    "Hàng thứ ba: INR trên 2,5, aPTT trên 60 giây hoặc tiểu cầu dưới 75 nghìn: không bolus, không chống đông.",
+    "Nếu một tiêu chí rơi vào hàng nặng hơn thì chỉnh liều theo hàng đó. Lưu ý bolus cố định 5.000 đơn vị, không theo cân nặng, là quy ước của sách; hãy đối chiếu phác đồ cơ sở và cân nhắc bỏ bolus ở người nguy cơ chảy máu."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "list",
+   "chapter": "Heparin",
+   "title": "Theo dõi aPTT: để làm gì?",
+   "ref": "Oxford 2016, tr. 146–147",
+   "items": [
+    {
+     "t": "aPTT sau 6 giờ đầu",
+     "d": "Sau đó mỗi 12 giờ; ổn định thì hằng ngày",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Mục đích: bảo đảm không chống đông toàn thân quá mức",
+     "d": "Không phải để chỉnh liều theo tình trạng mạch lọc",
+     "at": 1,
+     "c": "coral",
+     "n": 2
+    },
+    {
+     "t": "Mồi màng bằng dịch có heparin",
+     "d": "Có thể giúp nhưng chưa chứng minh · KDIGO 2026 PP 5.6.3 cho phép khi citrate và heparin toàn thân đều chống chỉ định hoặc không có",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    }
+   ],
+   "lines": [
+    "Theo dõi như thế nào? aPTT sau 6 giờ đầu, sau đó mỗi 12 giờ, ổn định thì hằng ngày.",
+    "Mục đích của việc đo aPTT là bảo đảm người bệnh không bị chống đông toàn thân quá mức, không phải để chỉnh liều theo tình trạng của mạch lọc. Đây là điểm sách nhấn mạnh.",
+    "Còn mồi màng bằng dịch có heparin: sách nói có thể giúp nhưng chưa được chứng minh. KDIGO 2026, PP 5.6.3, cho phép khi citrate và heparin toàn thân đều bị chống chỉ định hoặc không có."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Heparin",
+   "title": "Mỗi nghiên cứu một cách dùng heparin",
+   "ref": "RICH · Schilder 2014, tr. 2–3 · Ronco 2000, tr. 27",
+   "cards": [
+    {
+     "tag": "RICH",
+     "t": "Heparin toàn thân",
+     "items": [
+      "Đích aPTT 45–60 giây"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CASH 2014",
+     "t": "Bolus 5.000 IU trước màng",
+     "items": [
+      "Rồi 20.000 IU/48 mL chạy 2,0 mL/h (≈ 830 IU/h)",
+      "Chỉnh theo aPTT toàn thân, đích 50 giây"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "RONCO 2000",
+     "t": "Khởi đầu 8 IU/kg/h",
+     "items": [
+      "aPTT cao hơn bình thường 30–40%"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Để thấy rằng không có một công thức heparin duy nhất, hãy so sánh vài nghiên cứu.",
+    "RICH dùng heparin toàn thân với đích aPTT từ 45 đến 60 giây.",
+    "CASH: bolus 5.000 đơn vị trước màng, rồi 20.000 đơn vị trong 48 mi li lít chạy 2,0 mi li lít mỗi giờ, khoảng 830 đơn vị mỗi giờ, chỉnh theo aPTT toàn thân đích 50 giây.",
+    "Ronco năm 2000: khởi đầu 8 đơn vị mỗi ký mỗi giờ, aPTT cao hơn bình thường từ 30 đến 40 phần trăm. Tất cả đều trong khoảng liều thấp đến vừa, và đều chỉnh theo theo dõi."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Heparin vùng, LMWH",
+   "title": "Heparin vùng và heparin trọng lượng phân tử thấp",
+   "ref": "Oxford 2016, tr. 148, Bảng 18.2 · KDIGO 2012 R5.3.3.2, R5.3.2.3, tr. 98, 102 · Gattas 2015",
+   "cards": [
+    {
+     "tag": "HEPARIN – PROTAMIN (THEO SÁCH)",
+     "t": "1.000 IU/h trước màng + protamin 10 mg/h sau màng",
+     "items": [
+      "Tỷ lệ 1 mg : 100 IU",
+      "Protamin vào buồng tĩnh mạch hoặc chạc Y",
+      "aPTT người bệnh sau 6 giờ · không dùng khi HIT"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "KDIGO 2012 · R5.3.3.2 · 2C",
+     "t": "Tránh ở người nguy cơ chảy máu cao",
+     "items": [
+      "Gattas 2015: kém citrate về tuổi thọ mạch và biến cố bất lợi"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "LMWH · R5.3.2.3 · 2C",
+     "t": "Ngang heparin không phân đoạn",
+     "items": [
+      "Khi chống chỉ định citrate",
+      "Liều và theo dõi anti-Xa: cần đối chiếu nguồn dược"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Heparin vùng, hay heparin – protamin: theo sách Oxford, heparin 1.000 đơn vị mỗi giờ truyền trước màng, protamin 10 mi li gam mỗi giờ truyền sau màng, tỷ lệ 1 mi li gam cho 100 đơn vị, qua buồng tĩnh mạch hoặc chạc Y. Kiểm aPTT của người bệnh sau 6 giờ. Không dùng khi giảm tiểu cầu do heparin.",
+    "Nhưng KDIGO 2012 khuyên tránh heparin vùng ở người nguy cơ chảy máu cao, mức 2C. Và Gattas 2015 cho thấy nó kém citrate về tuổi thọ mạch và biến cố bất lợi.",
+    "Heparin trọng lượng phân tử thấp được KDIGO 2012 xếp ngang heparin không phân đoạn khi chống chỉ định citrate, mức 2C. Liều và theo dõi anti-Xa, bản gốc đánh dấu cần đối chiếu nguồn dược, nên tôi không đọc con số ở đây."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "compare",
+   "chapter": "So sánh",
+   "title": "Ba lựa chọn chính: ưu và nhược",
+   "head": [
+    "",
+    "Citrate vùng",
+    "Heparin toàn thân",
+    "Heparin – protamin"
+   ],
+   "widths": "1fr 1.4fr 1.4fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Tuổi thọ màng",
+      "Dài hơn (RICH 47 so với 26 giờ)",
+      "Ngắn hơn citrate",
+      "Kém citrate (Gattas)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Chảy máu",
+      "Ít hơn",
+      "RR 3,09 so với citrate (Zhou 2023)",
+      "Tránh nếu nguy cơ cao · 2C"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Cần theo dõi",
+      "Ca²⁺ sau màng, toàn thân, tCa/iCa",
+      "aPTT sau 6 giờ, rồi mỗi 12 giờ",
+      "aPTT người bệnh sau 6 giờ"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Nhược điểm riêng",
+      "Tích tụ citrate; cần nguồn lực",
+      "Không dùng khi HIT; chống chỉ định khi rối loạn đông",
+      "Phức tạp; không dùng khi HIT"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Đặt ba lựa chọn chính cạnh nhau. Về tuổi thọ màng, citrate dài hơn heparin toàn thân, 47 so với 26 giờ trong RICH, và heparin vùng kém citrate trong Gattas.",
+    "Về chảy máu, phân tích gộp mạng của Zhou 2023 cho nguy cơ của heparin gấp 3,09 lần citrate. Heparin vùng nên tránh khi nguy cơ chảy máu cao.",
+    "Về theo dõi, citrate cần canxi ion hoá sau màng, canxi toàn thân và tỷ số canxi toàn phần trên canxi ion hoá. Heparin cần aPTT sau 6 giờ, rồi mỗi 12 giờ, nhằm bảo đảm không chống đông toàn thân quá mức.",
+    "Mỗi lựa chọn có nhược điểm riêng: citrate có thể tích tụ và cần nguồn lực; heparin không dùng được khi giảm tiểu cầu do heparin và cần thận trọng khi rối loạn đông máu; heparin vùng phức tạp hơn. Không có lựa chọn nào hoàn hảo, nên phải chọn theo người bệnh và theo cơ sở."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "box",
+   "chapter": "HIT",
+   "title": "Giảm tiểu cầu do heparin (HIT) trong lọc máu",
+   "ref": "KDIGO 2012 R5.3.4, R5.3.4.1, tr. 102 · KDIGO 2026 PP 5.5.4, pdf 302 · Oxford 2016, Bảng 18.2",
+   "box": {
+    "tag": "KDIGO 2012 · KHUYẾN CÁO 5.3.4 · 1A",
+    "t": "Ngừng <b>mọi heparin</b>. Dùng <b>ức chế thrombin trực tiếp</b> (argatroban) hoặc <b>ức chế Xa</b> (danaparoid, fondaparinux).",
+    "at": 0,
+    "c": "coral",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "R5.3.4.1 · 2C",
+     "t": "Không suy gan nặng → argatroban",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "KDIGO 2026 · PP 5.5.4",
+     "t": "Argatroban, danaparoid hoặc bivalirudin",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "AN TOÀN",
+     "t": "Liều: đối chiếu nhãn thuốc và dược lâm sàng",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Một chủ đề cần dừng lại riêng: giảm tiểu cầu do heparin. Khi nghi ngờ hoặc đã xác định, khuyến cáo 1A của KDIGO 2012 là ngừng mọi heparin, và dùng thuốc ức chế thrombin trực tiếp hoặc ức chế yếu tố Xa, như danaparoid hoặc fondaparinux.",
+    "Nếu người bệnh không suy gan nặng, argatroban là lựa chọn, mức 2C.",
+    "KDIGO 2026 bản dự thảo nêu argatroban, danaparoid hoặc bivalirudin, theo phát biểu thực hành 5.5.4.",
+    "Về liều, bản gốc không có số liệu đủ tin cậy cho argatroban và danaparoid, nên tôi không đọc liều ở đây. Hãy đối chiếu nhãn thuốc và dược lâm sàng của cơ sở trước khi dùng."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Thuốc khác",
+   "title": "Nafamostat, prostacyclin, danaparoid, argatroban",
+   "head": [
+    "Thuốc",
+    "Liều trong nguồn",
+    "Lưu ý"
+   ],
+   "widths": "1.2fr 2.2fr 1.9fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Nafamostat mesylat</b>",
+      "KSN dẫn các nghiên cứu: khởi đầu 20 mg/h, chỉnh 10–30 mg/h",
+      "Bán huỷ ngắn, chống đông chủ yếu trong mạch · KSN KQ8: B"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Prostacyclin (epoprostenol)</b>",
+      "Nạp 5 ng/kg/phút trong 15 phút qua tĩnh mạch trung tâm, rồi 4–8 ng/kg/phút trước màng",
+      "Tụt áp, chảy máu, đau quặn bụng (theo sách)"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Danaparoid</b> (HIT)",
+      "<b>Không đọc liều</b>: liều trong sách đơn vị không hợp lý",
+      "Cần nhãn thuốc hoặc nguồn khác"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Argatroban</b> (HIT)",
+      "Liều: cần đối chiếu nguồn",
+      "KDIGO 2012 R5.3.4.1 (2C) · không suy gan nặng"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Một số thuốc khác. Nafamostat mesylat: các nghiên cứu được hội thận học Hàn Quốc dẫn dùng liều khởi đầu 20 mi li gam mỗi giờ, chỉnh từ 10 đến 30. Thuốc có thời gian bán huỷ ngắn, tác dụng chống đông chủ yếu trong mạch. Tác dụng phụ cần đối chiếu nhãn thuốc.",
+    "Prostacyclin, hay epoprostenol: theo sách Oxford, truyền nạp 5 na nô gam mỗi ký mỗi phút trong 15 phút qua tĩnh mạch trung tâm trước khi chạy, rồi 4 đến 8 na nô gam mỗi ký mỗi phút trước màng. Tác dụng phụ: tụt huyết áp, nhất là khi đang dùng vận mạch, chảy máu, đau quặn bụng.",
+    "Danaparoid: liều trong sách ghi đơn vị liều nạp không hợp lý. Tôi khuyên không dùng liều đó khi chưa có nhãn thuốc hoặc nguồn khác.",
+    "Argatroban cho giảm tiểu cầu do heparin, không suy gan nặng, mức 2C: liều cần đối chiếu nguồn, nên không đọc ở đây. Toàn bộ liều trong video này chỉ để học, phải đối chiếu phác đồ và chế phẩm tại cơ sở."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "box",
+   "chapter": "Mô hình",
+   "title": "Mô hình đông màng trong video này",
+   "ref": "Mô hình minh hoạ của theme mô phỏng · không phải số liệu bệnh nhân",
+   "box": {
+    "tag": "MÔ HÌNH MINH HOẠ",
+    "t": "Màng đông dần theo một <b>hằng số thời gian</b>: càng nhỏ khi <b>phân suất lọc càng cao</b>; chống đông nhân thêm hệ số <b>0,5 (không) · 1 (heparin) · 1,8 (citrate)</b>. Tuổi thọ là giờ đến khi áp lực xuyên màng vượt 250.",
+    "at": 0,
+    "c": "violet",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "LƯU Ý",
+     "t": "Catheter kém chỉ làm áp lực hút âm hơn",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "DÙNG ĐỂ",
+     "t": "Hiểu hướng thay đổi, không dự đoán số giờ",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trước khi xem các mô phỏng, tôi muốn nói rõ mô hình đang làm gì, để quý vị không hiểu nhầm các con số.",
+    "Trong mô hình, màng đông dần theo một hằng số thời gian. Phân suất lọc càng cao thì hằng số này càng nhỏ, nghĩa là màng đông càng nhanh. Chống đông nhân thêm một hệ số: không chống đông là 0,5, heparin là 1, citrate là 1,8. Tuổi thọ màng là số giờ cho đến khi áp lực xuyên màng vượt 250 mi li mét thuỷ ngân.",
+    "Mô hình không biết gì về tư thế người bệnh hay báo động bơm. Catheter kém trong mô hình chỉ làm áp lực hút âm hơn.",
+    "Vì vậy hãy dùng các mô phỏng này để thấy hướng thay đổi và thứ tự các yếu tố, không phải để dự đoán một số giờ cụ thể cho người bệnh của mình."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Tuổi thọ màng",
+   "title": "Không chống đông, FF cao (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "mode": "CVVH",
+    "qrpost": 1750,
+    "ac": "none"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -100,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L2",
+    "speed": 1.0,
+    "hmax": 24,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Minh hoạ xu hướng, không phải số bệnh nhân",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "TUỔI THỌ MÀNG",
+     "t": "12,1 giờ trong mô hình",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Giờ ta vào mô phỏng. Tất cả là mô hình minh hoạ, không phải số liệu bệnh nhân. Ta bắt đầu với tình huống xấu nhất: CVVH pha loãng sau màng, phân suất lọc 29,4 phần trăm, Qb 150, và không chống đông.",
+    "Dịch thải 1.850, liều kê 26,4. Phân suất lọc đã đỏ ngay từ đầu: gần một phần ba nước huyết tương bị rút ra khi máu đi qua quả lọc, và máu ở đầu ra cô đặc lại.",
+    "Chạy tua nhanh. Chỉ sau 6 giờ mô hình, áp lực xuyên màng đã lên khoảng 148, và chênh áp qua màng cùng tăng.",
+    "Khoảng giờ thứ 12, áp lực xuyên màng chạm 250 mi li mét thuỷ ngân, ngưỡng gợi ý đông màng đáng kể. Tuổi thọ màng của mô hình chỉ 12,1 giờ."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Tuổi thọ màng",
+   "title": "Cùng cài đặt, thêm heparin (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "mode": "CVVH",
+    "qrpost": 1750,
+    "ac": "heparin"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -100,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 1.0,
+    "hmax": 24,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "HEPARIN",
+     "t": "Tuổi thọ mô hình 24,1 giờ",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "BÀI HỌC",
+     "t": "FF vẫn 29,4%: thuốc chỉ trì hoãn",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Cùng cài đặt đó, bây giờ thêm heparin. Mô hình đưa hệ số chống đông của heparin lên gấp đôi so với không chống đông.",
+    "Sau 12 giờ, áp lực xuyên màng chỉ 148, thay vì 250 như khi không chống đông.",
+    "Đến giờ thứ 24, áp lực xuyên màng mới chạm 249. Tuổi thọ màng của mô hình tăng từ 12,1 lên 24,1 giờ.",
+    "Nhưng hãy nhìn phân suất lọc: vẫn 29,4 phần trăm, vẫn đỏ. Thuốc chỉ trì hoãn điều không thể tránh khi phân suất lọc quá cao. Nói cách khác, heparin mua thêm thời gian, nhưng không sửa nguyên nhân gốc."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Tuổi thọ màng",
+   "title": "Cùng cài đặt, citrate vùng (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "mode": "CVVH",
+    "qrpost": 1750,
+    "ac": "citrate"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -100,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 2.0,
+    "hmax": 48,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "CITRATE",
+     "t": "Tuổi thọ mô hình 43,4 giờ",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "NHẤT QUÁN",
+     "t": "Xu hướng giống RICH và Gattas",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bây giờ thay heparin bằng citrate vùng, vẫn cùng một mạch CVVH sau màng, phân suất lọc 29,4 phần trăm.",
+    "Chạy tua 48 giờ. Sau 24 giờ, áp lực xuyên màng chỉ 158, thấp hơn nhiều so với heparin.",
+    "Áp lực xuyên màng chạm 250 mi li mét thuỷ ngân ở khoảng giờ thứ 43. Tuổi thọ màng của mô hình là 43,4 giờ, gấp khoảng 1,8 lần heparin.",
+    "Đây chỉ là mô hình, nhưng xu hướng nhất quán với bằng chứng thật: trong RICH, tuổi thọ màng với citrate là 47 giờ so với 26 giờ của heparin, trong Gattas là 39,2 so với 22,8 giờ."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Tuổi thọ màng",
+   "title": "Hạ FF: CVVHDF, cùng heparin (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "mode": "CVVH",
+    "qrpost": 1750,
+    "ac": "heparin"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "dil",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -100,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L0",
+    "speed": 2.0,
+    "hmax": 24,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "mode": "CVVHDF",
+      "qrpre": 800,
+      "qd": 850,
+      "qrpost": 0
+     },
+     "label": "CVVH sau màng → CVVHDF (800 trước màng + 850 dịch thẩm tách)",
+     "c": "green",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐÍCH",
+     "t": "FF ≤ 20–25%",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "KDIGO 2026 · PP 5.6.2",
+     "t": "Pha loãng trước, CVVHD/CVVHDF kéo dài tuổi thọ màng",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Ta quay lại heparin, và thử chỉ sửa cài đặt. Đang là CVVH sau màng, phân suất lọc 29,4 phần trăm, áp lực xuyên màng chạm 249 ở giờ thứ 24.",
+    "Giữ nguyên liều gần như cũ, nhưng đổi sang thẩm tách – siêu lọc máu liên tục: 800 mi li lít mỗi giờ dịch thay thế trước màng, 850 dịch thẩm tách.",
+    "Phân suất lọc xuống 12,7 phần trăm. Hệ số pha loãng 0,89, liều sau pha loãng khoảng 22.",
+    "Áp lực xuyên màng ở giờ 24 giờ chỉ còn 76, và đường cong gần như nằm ngang. KDIGO 2026, PP 5.6.2, liệt kê pha loãng trước màng, CVVHD và CVVHDF là biện pháp không dùng thuốc để kéo dài tuổi thọ quả lọc."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Tuổi thọ màng",
+   "title": "Không chống đông nhưng FF thấp (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850,
+    "ac": "none"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "dil",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -100,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 3.0,
+    "hmax": 72,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Không chống đông: 71,4 giờ",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Mô hình lý tưởng; thực tế còn catheter, tư thế",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Nếu phân suất lọc thấp đến vậy, ta có thể bỏ hẳn chống đông không? Thử trong mô hình: CVVHDF, phân suất lọc 12,7 phần trăm, không chống đông.",
+    "Chạy tua 72 giờ. Sau 24 giờ áp lực xuyên màng khoảng 105, sau 48 giờ khoảng 179.",
+    "Ở giờ thứ 72, áp lực xuyên màng chạm 251. Tuổi thọ màng của mô hình khoảng 71,4 giờ, dù không dùng chút chống đông nào.",
+    "Đây là mô hình lý tưởng. Nó chưa có catheter kém, chưa có tư thế người bệnh, chưa có báo động bơm. Thực tế ít khi đạt như vậy. Nhưng thông điệp đúng: phân suất lọc thấp là cách chống đông không cần thuốc, nên phải làm trước khi tăng thuốc."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Tuổi thọ màng",
+   "title": "Tăng Qb và pha loãng trước, vẫn heparin (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "mode": "CVVH",
+    "qrpost": 1750,
+    "ac": "heparin"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "life",
+    "dil",
+    "doseC"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -100,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L0",
+    "speed": 2.0,
+    "hmax": 48,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "qb": 200
+     },
+     "label": "Tăng Qb 150 → 200 mL/phút",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L4",
+     "set": {
+      "qrpre": 1000,
+      "qrpost": 750
+     },
+     "label": "Chuyển 1.000 mL/h dịch thay thế lên trước màng",
+     "c": "green",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐÁNH ĐỔI",
+     "t": "Qb 200: áp lực truy cập −98 trong mô hình",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "tag": "GIÁ PHẢI TRẢ",
+     "t": "Pha loãng trước: liều sau pha loãng 23,6",
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Một thử nghiệm cuối trong mô hình: không đổi thuốc, vẫn heparin, chỉ đổi cài đặt. Khởi điểm là CVVH sau màng, phân suất lọc 29,4 phần trăm, tuổi thọ mô hình 24,1 giờ.",
+    "Bước một, tăng Qb từ 150 lên 200 mi li lít mỗi phút.",
+    "Lưu lượng huyết tương tăng, phân suất lọc xuống 22,0 phần trăm, và tuổi thọ màng của mô hình lên 43,4 giờ, bằng với citrate ở cài đặt cũ.",
+    "Nhưng áp lực truy cập âm hơn, âm 98 mi li mét thuỷ ngân, sát ngưỡng âm 100 mà sách coi là gợi ý catheter kém. Qb chỉ tăng được khi catheter chịu được.",
+    "Bước hai, chuyển 1.000 mi li lít mỗi giờ dịch thay thế lên trước màng. Phân suất lọc còn 19,7 phần trăm, tuổi thọ mô hình 52,4 giờ.",
+    "Giá phải trả vẫn như phần hai: hệ số pha loãng 0,89, nên liều sau pha loãng chỉ còn 23,6, dù liều kê vẫn 26,4. Nhớ tính lại liều khi pha loãng trước. Đây vẫn chỉ là mô hình minh hoạ."
+   ],
+   "id": "s18"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Catheter",
+   "title": "Catheter kém: áp lực hút vượt −100 (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "mode": "CVVHDF",
+    "qrpre": 800,
+    "qd": 850,
+    "ac": "heparin"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "dil",
+    "uft"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -100,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L0",
+    "speed": 2.0,
+    "hmax": 24,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "Ra": 0.9
+     },
+     "label": "Catheter kém: kháng lực đường ra tăng gấp đôi",
+     "c": "coral",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "OXFORD 2016",
+     "t": "Áp lực hút quá âm (vượt −100 mmHg) gợi ý catheter kém",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Cuối cùng là catheter. Đây là một mạch CVVHDF tốt, Qb 150, áp lực truy cập âm 75 mi li mét thuỷ ngân.",
+    "Giờ ta cho kháng lực của đường ra tăng gấp đôi, tức catheter kém hoặc gập một phần.",
+    "Áp lực truy cập tụt xuống âm 143 mi li mét thuỷ ngân và ô cảnh báo đỏ lên, trong khi các thông số khác gần như không đổi.",
+    "Sách Oxford ghi: áp lực hút quá âm, vượt âm 100 mi li mét thuỷ ngân, gợi ý catheter kém và là nguyên nhân hay gặp của đông màng sớm. Lưu ý mô hình này chỉ minh hoạ áp lực hút, không mô phỏng ảnh hưởng của catheter lên tốc độ đông màng; mối liên hệ đó là nhận xét của sách.",
+    "Vậy nên khi màng đông sớm, hãy nhìn áp lực hút, kiểm tra catheter và tư thế người bệnh trước khi tăng chống đông. Tăng heparin cho một catheter kém chỉ làm tăng nguy cơ chảy máu mà không sửa được vấn đề."
+   ],
+   "id": "s19"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Tổng hợp mô hình",
+   "title": "Tuổi thọ màng trong mô hình (giờ)",
+   "groups": [
+    {
+     "t": "CVVH sau màng · FF 29,4%",
+     "d": "Mô hình minh hoạ · 70 kg · Hct 30 · Qb 150",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Không chống đông",
+       "v": 12.1,
+       "lab": "12,1 giờ",
+       "c": "coral"
+      },
+      {
+       "k": "Heparin",
+       "v": 24.1,
+       "lab": "24,1 giờ",
+       "c": "amber"
+      },
+      {
+       "k": "Citrate vùng",
+       "v": 43.4,
+       "lab": "43,4 giờ",
+       "c": "teal"
+      }
+     ]
+    },
+    {
+     "t": "CVVHDF · FF 12,7%",
+     "d": "Cùng mô hình",
+     "at": 1,
+     "c": "green",
+     "bars": [
+      {
+       "k": "Không chống đông",
+       "v": 71.4,
+       "lab": "71,4 giờ",
+       "c": "green"
+      }
+     ]
+    }
+   ],
+   "max": 80,
+   "h": 560,
+   "notes": [
+    {
+     "tag": "ĐỌC ĐÚNG",
+     "t": "Thứ tự và xu hướng có ý nghĩa, con số tuyệt đối thì không",
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "notes_w": 460,
+   "lines": [
+    "Gom lại các kết quả mô hình. Với CVVH sau màng, phân suất lọc 29,4 phần trăm: không chống đông 12,1 giờ, heparin 24,1 giờ, citrate 43,4 giờ.",
+    "Nhưng chỉ cần hạ phân suất lọc xuống 12,7 phần trăm bằng CVVHDF, ngay cả không chống đông cũng đạt 71,4 giờ trong mô hình.",
+    "Hãy đọc đúng: thứ tự và xu hướng có ý nghĩa dạy học, còn con số tuyệt đối thì không. Đây không phải số liệu bệnh nhân."
+   ],
+   "id": "s20"
+  },
+  {
+   "layout": "list",
+   "chapter": "Quy trình",
+   "title": "Đông màng sớm: kiểm tra theo thứ tự",
+   "ref": "Oxford 2016, tr. 139, 145–146 · Teixeira 2025, tr. 778 · KDIGO 2026 PP 5.6.2",
+   "items": [
+    {
+     "t": "1. Catheter",
+     "d": "Áp lực hút có vượt −100 mmHg không? Kiểm thông hút – bơm",
+     "at": 0,
+     "c": "coral",
+     "n": 1
+    },
+    {
+     "t": "2. Tư thế người bệnh",
+     "d": "Gập chi, gập đường ra",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "3. Cài đặt",
+     "d": "FF có ≤ 20–25% không? Qb, vị trí dịch thay thế, phương thức",
+     "at": 2,
+     "c": "teal",
+     "n": 3
+    },
+    {
+     "t": "4. Chống đông",
+     "d": "Citrate nếu có; heparin liều thấp theo bảng; hoặc không chống đông",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Từ các mô phỏng, ta rút ra một trình tự kiểm tra khi quả lọc đông sớm.",
+    "Bước một, catheter: áp lực hút có quá âm không, thông hút và bơm có tốt không.",
+    "Bước hai, tư thế người bệnh có làm gập đường ra không.",
+    "Bước ba, cài đặt: phân suất lọc có trong 20 đến 25 phần trăm không; có thể tăng Qb, chuyển dịch lên trước màng, hoặc đổi sang CVVHD hay CVVHDF.",
+    "Chỉ sau ba bước đó mới đến bước bốn, chống đông: citrate nếu có, heparin liều thấp theo bảng, hoặc không chống đông ở người nguy cơ chảy máu. Chẩn đoán nguyên nhân trước khi tăng chống đông, đúng như sách Oxford khuyên."
+   ],
+   "id": "s21"
+  },
+  {
+   "layout": "list",
+   "chapter": "Không dùng thuốc",
+   "title": "Biện pháp không dùng thuốc kéo dài tuổi thọ màng",
+   "ref": "Oxford 2016, tr. 139–140 · Teixeira 2025, tr. 778 · KDIGO 2026 PP 5.6.2 · SRLF R4.7 · KSN KQ17",
+   "items": [
+    {
+     "t": "Catheter lòng lớn",
+     "d": "Sách gợi ý 13,5–15 French, hai nòng song song, đầu gần nhĩ phải; kiểm thông hút–bơm mỗi lần nối",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Qb 150–200 mL/phút, FF ≤ 20–25%",
+     "d": "Tương xứng với siêu lọc",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "Pha loãng trước màng; CVVHD/CVVHDF thay CVVH",
+     "d": "KDIGO 2026 dự thảo PP 5.6.2 · SRLF R4.7",
+     "at": 2,
+     "c": "green",
+     "n": 3
+    },
+    {
+     "t": "Màng 1,0–1,4 m² ở người lớn",
+     "d": "Đông lặp lại với một loại màng: thử loại khác",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    },
+    {
+     "t": "Buồng bẫy khí",
+     "d": "Giữ mức máu cao, tránh mặt thoáng máu–khí (bọt CO₂ khi làm ấm túi bicarbonat); truyền dịch sau màng vào buồng tĩnh mạch có thể giảm đông",
+     "at": 4,
+     "c": "coral",
+     "n": 5
+    },
+    {
+     "t": "Đào tạo điều dưỡng",
+     "d": "Xử lý báo động nhanh, nhận diện sớm catheter kém (KSN KQ17)",
+     "at": 5,
+     "c": "blue",
+     "n": 6
+    }
+   ],
+   "lines": [
+    "Tổng hợp các biện pháp không dùng thuốc. Thứ nhất, catheter: lòng lớn, sách gợi ý 13,5 đến 15 French, hai nòng song song, đầu catheter gần nhĩ phải. Kiểm tra thông hút và bơm mỗi lần nối.",
+    "Thứ hai, Qb từ 150 đến 200 mi li lít mỗi phút tương xứng với siêu lọc, và phân suất lọc từ 20 đến 25 phần trăm trở xuống.",
+    "Thứ ba, pha loãng trước màng, và CVVHD hoặc CVVHDF thay vì CVVH, theo KDIGO 2026 và SRLF 2025.",
+    "Thứ tư, màng 1,0 đến 1,4 mét vuông ở người lớn. Nếu đông lặp lại với một loại màng, thử loại màng khác.",
+    "Thứ năm, buồng bẫy khí: giữ mức máu cao, tránh mặt thoáng giữa máu và khí, như bọt khí CO₂ khi làm ấm túi bicarbonat. Truyền dịch sau màng vào buồng tĩnh mạch tạo lớp dịch phủ có thể giảm đông.",
+    "Thứ sáu, đào tạo điều dưỡng: có liên quan trực tiếp đến tuổi thọ mạch. Xử lý báo động nhanh, nhận diện sớm catheter kém."
+   ],
+   "id": "s22",
+   "dense": true
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: tiểu cầu 60, INR 2,7",
+   "case": "Nam, 70 kg, nhiễm khuẩn huyết, giảm tiểu cầu 60 × 10⁹/L, INR 2,7, aPTT 65 giây, đang dùng noradrenalin. Chuẩn bị bắt đầu lọc máu liên tục; citrate vùng không dùng được ở cơ sở. Đồng nghiệp đề nghị bolus 5.000 IU rồi 10 IU/kg/h.",
+   "case_at": 0,
+   "q": "Hướng xử trí hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Làm theo đề nghị: bolus 5.000 IU rồi 10 IU/kg/h",
+    "Giảm xuống 5 IU/kg/h, vẫn bolus",
+    "Không bolus, không chống đông; chạy CVVHDF, FF thấp, catheter tốt, đào tạo điều dưỡng",
+    "Dùng protamin để trung hoà heparin trước"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Bảng 18.1 (Oxford 2016): INR > 2,5, aPTT > 60 giây hoặc tiểu cầu < 75 → không bolus, không chống đông; hạ FF, catheter tốt (KDIGO 2026 PP 5.6.2).",
+   "lines": [
+    "Tình huống. Người bệnh nam 70 ký, nhiễm khuẩn huyết, tiểu cầu 60 nghìn, INR 2,7, aPTT 65 giây, đang dùng noradrenalin. Chuẩn bị bắt đầu lọc máu liên tục, citrate vùng không dùng được ở cơ sở. Đồng nghiệp đề nghị bolus 5.000 đơn vị rồi 10 đơn vị mỗi ký mỗi giờ.",
+    "Hướng xử trí hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là không bolus và không chống đông. Cả ba tiêu chí đều rơi vào hàng nặng nhất của bảng 18.1: INR trên 2,5, aPTT trên 60 giây, tiểu cầu dưới 75 nghìn. Thay vào đó, làm những gì không cần thuốc: CVVHDF hoặc pha loãng trước màng để phân suất lọc thấp, Qb đủ, catheter tốt, điều dưỡng được đào tạo. Và nhớ rằng mất một quả lọc để bảo vệ người bệnh là chấp nhận được."
+   ],
+   "id": "s23"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 8",
+   "items": [
+    {
+     "t": "Heparin liều thấp: 5–10 IU/kg/h trước màng",
+     "d": "INR > 2,5, aPTT > 60 giây hoặc tiểu cầu < 75 → không bolus, không chống đông",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Tránh heparin vùng khi nguy cơ chảy máu cao",
+     "d": "KDIGO 2012 R5.3.3.2 · 2C",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "HIT: ngừng mọi heparin (1A)",
+     "d": "Argatroban nếu không suy gan nặng (2C)",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Đông màng sớm: nhìn catheter, FF, Qb trước",
+     "d": "Áp lực hút vượt −100 gợi ý catheter kém",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "FF ≤ 20–25%, pha loãng trước, CVVHD/CVVHDF",
+     "d": "Chống đông không cần thuốc",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần tám. Heparin không phân đoạn dùng liều thấp, 5 đến 10 đơn vị mỗi ký mỗi giờ trước màng; khi INR trên 2,5, aPTT trên 60 giây hoặc tiểu cầu dưới 75 nghìn thì không bolus và không chống đông.",
+    "Tránh heparin vùng ở người nguy cơ chảy máu cao, mức 2C của KDIGO 2012.",
+    "Giảm tiểu cầu do heparin: ngừng mọi heparin, khuyến cáo 1A; không suy gan nặng thì argatroban, mức 2C.",
+    "Đông màng sớm: nhìn catheter, nhìn phân suất lọc, nhìn Qb trước khi tăng thuốc. Áp lực hút vượt âm 100 gợi ý catheter kém.",
+    "Và giữ phân suất lọc từ 20 đến 25 phần trăm trở xuống, pha loãng trước màng, CVVHD hoặc CVVHDF, chính là chống đông không cần thuốc. Phần sau, chúng ta bàn về dịch và siêu lọc ròng. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s24",
+   "dense": true
+  }
+ ]
+}

@@ -1,0 +1,1278 @@
+{
+ "title": "Lọc máu liên tục – Phần 10: Điện giải, dinh dưỡng và liều thuốc",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 10/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "kcal/kg/ngày": "ki lô ca lo mỗi ký mỗi ngày",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "g/kg/ngày": "gam mỗi ký mỗi ngày",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "SIAARTI": "si ác ti",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "mmol/h": "mi li mol mỗi giờ",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "ESPEN": "ét pen",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "ADQI": "a đi ki",
+  "NaCl": "na cờ lo",
+  "mg/L": "mi li gam mỗi lít",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "TDM": "đo nồng độ thuốc",
+  "RCA": "citrate vùng",
+  "D5W": "glucose 5 phần trăm",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "SC": "hệ số sàng",
+  "Vd": "thể tích phân bố"
+ },
+ "brand": {
+  "next": "Phần 11: Báo động và xử trí sự cố"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Điện giải, dinh dưỡng<br>và liều thuốc",
+   "subtitle": "Ba tác dụng phụ thầm lặng của lọc máu liên tục",
+   "badges": [
+    {
+     "t": "Hạ phospho",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Thiếu liều kháng sinh",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Đạm 1,5–1,7 g/kg/ngày",
+     "c": "teal",
+     "at": 2
+    }
+   ],
+   "note": "Mô phỏng thuốc: kháng sinh giả định, mô hình minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần mười của loạt bài lọc máu liên tục thực hành.",
+    "Máy lọc máu chạy tốt, urê giảm, kali về bình thường, nhưng người bệnh vẫn có thể gặp ba rắc rối thầm lặng: hạ phospho và các rối loạn điện giải khác, mất đạm và vi chất, và thiếu liều kháng sinh.",
+    "Hôm nay chúng ta đi qua từng vấn đề, và dùng một mô phỏng với một kháng sinh giả định để thấy vì sao liều thuốc thay đổi khi máy chạy, khi máy dừng và khi ngừng lọc máu."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "chapter": "Điện giải",
+   "title": "Điện giải: khuyến cáo ESPEN 2021",
+   "ref": "ESPEN 2021, tr. 1662–1663 · KC31, KC32",
+   "items": [
+    {
+     "t": "Rối loạn điện giải thường gặp khi KRT: theo dõi sát",
+     "d": "KC31 · mức A · nhất trí 100%",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Nên dùng dịch lọc chứa kali, phosphat, magne",
+     "d": "KC32 · mức B · nhất trí 100%",
+     "at": 1,
+     "c": "green",
+     "n": 2
+    },
+    {
+     "t": "Không khuyến khích bù điện giải tĩnh mạch thường quy khi CKRT",
+     "d": "Bình luận của ESPEN",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    }
+   ],
+   "lines": [
+    "Bắt đầu với điện giải. ESPEN 2021 khuyến cáo rối loạn điện giải là thường gặp khi lọc máu và phải theo dõi sát: khuyến cáo 31, mức A, nhất trí 100 phần trăm.",
+    "Khuyến cáo 32, mức B, cũng nhất trí 100 phần trăm: nên dùng dịch lọc có chứa kali, phosphat và magne để phòng rối loạn điện giải.",
+    "Bình luận của ESPEN không khuyến khích bù điện giải đường tĩnh mạch một cách thường quy khi lọc máu liên tục. Ý chính: phòng bằng dịch phù hợp, hơn là chữa bằng truyền bù liên tục."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Hạ phospho",
+   "title": "Hạ phospho: vì sao thường gặp",
+   "groups": [
+    {
+     "t": "Hạ phospho trong thử nghiệm RENAL (%)",
+     "d": "RENAL · tr. 1634",
+     "at": 1,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Liều cao",
+       "v": 65.1,
+       "lab": "65,1%",
+       "c": "coral"
+      },
+      {
+       "k": "Liều chuẩn",
+       "v": 54.0,
+       "lab": "54,0%",
+       "c": "amber"
+      }
+     ]
+    }
+   ],
+   "max": 80,
+   "h": 330,
+   "notes": [
+    {
+     "tag": "NGUYÊN NHÂN",
+     "t": "Dịch truyền thống không có phospho · hạ sau khoảng 48 giờ",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "HẬU QUẢ",
+     "t": "Yếu cơ hô hấp, kéo dài thở máy",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "KSN 2025 · KQ4",
+     "t": "Dịch thẩm tách chứa phosphat: B, chứng cứ rất thấp",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "tag": "SIAARTI",
+     "t": "Dịch có phosphat an toàn cả khi dùng citrate",
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Hạ phospho gặp ở đa số người bệnh sau khoảng 48 giờ lọc máu, vì dịch truyền thống không chứa phospho. Teixeira 2025 mô tả đây là tình trạng gặp ở đa số người bệnh.",
+    "Trong thử nghiệm RENAL, hạ phospho gặp ở 65,1 phần trăm nhóm liều cao, so với 54,0 phần trăm nhóm liều chuẩn.",
+    "Hạ phospho có thể gây yếu cơ hô hấp và kéo dài thời gian thở máy.",
+    "Hội thận học Hàn Quốc 2025, khuyến cáo 4: có thể dùng dịch thẩm tách chứa phosphat để dự phòng, mức B, chứng cứ rất thấp.",
+    "SIAARTI ghi nhận dịch có phosphat an toàn kể cả khi dùng citrate vùng. Nhưng có một lưu ý: dịch có phosphat mà không có dextrose, ở người không được nuôi dưỡng, có nguy cơ hạ đường huyết và nhiễm toan ceton với đường huyết bình thường."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "list",
+   "chapter": "Điện giải",
+   "title": "Kali, magne và canxi",
+   "ref": "Oxford 2016, tr. 126, 129 · Pistolesi 2023, pdf 9–10 · mục 8.3",
+   "items": [
+    {
+     "t": "Hạ kali",
+     "d": "Dịch K 0 chỉ dùng khi tăng K cấp; chuyển sang dịch có K khi K về bình thường; có thể pha thêm K vào dịch",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Hạ magne",
+     "d": "Mất qua dịch thải, nhất là khi dùng citrate (citrate gắn Mg); dịch thương mại chỉ bù một phần",
+     "at": 1,
+     "c": "violet",
+     "n": 2
+    },
+    {
+     "t": "Canxi khi dùng citrate",
+     "d": "Xem phần 7: bù canxi, tCa/iCa",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    }
+   ],
+   "lines": [
+    "Hạ kali: dịch không kali chỉ dùng khi tăng kali cấp, và phải chuyển sang dịch có kali khi kali về bình thường. Cũng có thể pha thêm kali vào dịch.",
+    "Hạ magne: mất qua dịch thải, đặc biệt khi dùng citrate vì citrate gắn magne. Dịch thương mại chỉ bù được một phần.",
+    "Còn canxi khi dùng citrate, mời quý vị xem lại phần bảy về bù canxi và tỷ số canxi toàn phần trên canxi ion hoá."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "box",
+   "chapter": "Natri",
+   "title": "Natri: dịch CRRT có Na khoảng 140",
+   "ref": "Teixeira 2025, tr. 774 · Oxford 2016, tr. 126",
+   "box": {
+    "tag": "NGUY CƠ",
+    "t": "Dịch chuẩn có <b>Na khoảng 140 mmol/L</b> → người <b>hạ natri mạn</b> có thể được điều chỉnh <b>quá nhanh</b>: nguy cơ <b>hội chứng huỷ myelin thẩm thấu</b>.",
+    "at": 0,
+    "c": "coral",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "CÁCH XỬ LÝ",
+     "t": "Hạ Na hiệu dụng của dịch bằng glucose 5% truyền thêm",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CẦN ĐỐI CHIẾU",
+     "t": "Giới hạn tốc độ chỉnh Na: theo phác đồ hạ natri hiện hành",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Natri. Dịch lọc máu chuẩn có natri khoảng 140 mi li mol mỗi lít. Nếu người bệnh hạ natri mạn tính, natri có thể bị chỉnh quá nhanh, với nguy cơ hội chứng huỷ myelin thẩm thấu.",
+    "Cách hạ nồng độ natri hiệu dụng của dịch là truyền thêm glucose 5 phần trăm vào mạch, và lấy phần thể tích thêm đó ra bằng siêu lọc.",
+    "Nguồn không nêu giới hạn tốc độ chỉnh natri, nên tốc độ mục tiêu phải theo phác đồ điều trị hạ natri máu hiện hành của cơ sở."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "box",
+   "chapter": "Natri",
+   "title": "Công thức glucose 5% để hạ Na hiệu dụng",
+   "ref": "Teixeira 2025, tr. 774 · phép tính kiểm liều",
+   "box": {
+    "tag": "CÔNG THỨC",
+    "t": "V(D5W, L/h) = Qef × ([Na] dịch − [Na] đích) / [Na] đích.<br>Ví dụ Qef 2,5 L/h, dịch 140, đích 125 → <b>0,3 L/h (300 mL/h)</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "GLUCOSE",
+     "t": "300 mL/h D5W = 15 g/giờ ≈ 360 g/ngày",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "VIỆC PHẢI LÀM",
+     "t": "Theo dõi đường huyết · tính vào năng lượng",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Công thức: thể tích glucose 5 phần trăm tính bằng lít mỗi giờ bằng dịch thải nhân hiệu số giữa natri của dịch và natri đích, chia cho natri đích.",
+    "Ví dụ: dịch thải 2,5 lít mỗi giờ, natri dịch 140, đích 125. Ta có 2,5 nhân 15 chia 125, bằng 0,3 lít mỗi giờ, tức 300 mi li lít mỗi giờ.",
+    "Nhưng 300 mi li lít glucose 5 phần trăm mỗi giờ là 15 gam glucose mỗi giờ, khoảng 360 gam mỗi ngày.",
+    "Vậy phải theo dõi đường huyết và tính lượng glucose này vào năng lượng của người bệnh."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "box",
+   "chapter": "Natri",
+   "title": "Muốn nâng Na hiệu dụng: NaCl 3% cùng mạch",
+   "ref": "Teixeira 2025, tr. 774",
+   "box": {
+    "tag": "VÍ DỤ · 60 KG",
+    "t": "Dịch thải 1.500 mL/h, Na 140 (<b>210 mmol/h</b>) + NaCl 3% 50 mL/h (<b>25,7 mmol/h</b>) → Na hiệu dụng ≈ 235,7 / 1,55 ≈ <b>152 mmol/L</b>.",
+    "at": 0,
+    "c": "violet",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "KHI NÀO",
+     "t": "Tăng Na máu cần hạ chậm · phù não cần giữ Na cao",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Citrate ưu trương (trisodium 4%) có thể gây tăng Na",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Ngược lại, khi cần nâng natri hiệu dụng, như tăng natri máu cần hạ chậm, hoặc phù não cần giữ natri cao, ta truyền natri clorua 3 phần trăm cùng mạch.",
+    "Ví dụ trong nguồn: người bệnh 60 ký, dịch thải 1.500 mi li lít mỗi giờ với natri 140, tức 210 mi li mol mỗi giờ, cộng natri clorua 3 phần trăm 50 mi li lít mỗi giờ, tức 25,7 mi li mol mỗi giờ. Tổng 235,7 chia cho 1,55 lít mỗi giờ, ra natri hiệu dụng khoảng 152 mi li mol mỗi lít.",
+    "Và nhớ rằng citrate ưu trương, như trisodium citrate 4 phần trăm, cũng có thể gây tăng natri, theo đồng thuận Delphi 2026."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "list",
+   "chapter": "Toan kiềm",
+   "title": "Toan kiềm trong lọc máu liên tục",
+   "ref": "Oxford 2016, tr. 128 · Jacobs 2026 KS16–17 · Teixeira 2025, tr. 782 · mục 4.3, 8.3.6",
+   "items": [
+    {
+     "t": "Đệm bicarbonat là chuẩn",
+     "d": "Citrate tạo bicarbonat: 1 citrate → 3 HCO₃⁻",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Kiềm chuyển hoá khi dùng citrate: thừa đệm",
+     "d": "Giảm HCO₃⁻ dịch, tăng dịch thải, giảm Qb và citrate",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "Toan tăng khoảng trống anion khi đang dùng citrate",
+     "d": "Nghĩ tích tụ citrate trước: đo tCa/iCa",
+     "at": 2,
+     "c": "coral",
+     "n": 3
+    },
+    {
+     "t": "Tăng CO₂ cho phép (ARDS)",
+     "d": "Có thể tăng HCO₃⁻ trong dịch bù một phần, giữ pH ≥ 7,20 (theo sách)",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    },
+    {
+     "t": "Toan lactic",
+     "d": "CRRT không lọc được lactat có ý nghĩa",
+     "at": 4,
+     "c": "green",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Toan kiềm. Đệm bicarbonat là chuẩn, và citrate cũng tạo bicarbonat: một citrate cho ba bicarbonat.",
+    "Kiềm chuyển hoá thường gặp khi dùng citrate, do thừa đệm. Xử trí: giảm bicarbonat trong dịch, tăng dịch thải, giảm Qb và citrate.",
+    "Ngược lại, toan chuyển hoá tăng khoảng trống anion khi đang dùng citrate vùng thì phải nghĩ đến tích tụ citrate trước, bằng cách đo tỷ số canxi toàn phần trên canxi ion hoá.",
+    "Với tăng CO₂ cho phép trong ARDS thông khí bảo vệ phổi, theo sách có thể tăng bicarbonat trong dịch để bù một phần chuyển hoá, giữ pH từ 7,20 trở lên.",
+    "Và nhắc lại: lọc máu liên tục không lọc được lactat một cách có ý nghĩa."
+   ],
+   "id": "s08",
+   "dense": true
+  },
+  {
+   "layout": "cards",
+   "chapter": "Thân nhiệt",
+   "title": "Thân nhiệt trong lọc máu liên tục",
+   "ref": "Murugan, Blood Purif 2016 (ADQI 17, phát biểu 14) · Oxford 2016, tr. 63",
+   "cards": [
+    {
+     "tag": "ADQI 17 · PHÁT BIỂU 14",
+     "t": "Theo dõi liên tục thân nhiệt trung tâm",
+     "items": [
+      "Mạch và dịch làm mất nhiệt",
+      "Hạ thân nhiệt có thể che sốt"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "SỐT NẶNG KHÁNG TRỊ (THEO SÁCH)",
+     "t": "Dùng có chủ đích để hạ nhiệt",
+     "items": [
+      "Không làm ấm dịch thay thế",
+      "Có thể làm lạnh dịch"
+     ],
+     "at": 1,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Thân nhiệt. Lọc máu liên tục làm thay đổi thân nhiệt trung tâm vì mất nhiệt qua mạch ngoài cơ thể và qua dịch. ADQI 17 khuyên theo dõi liên tục thân nhiệt trung tâm. Hạ thân nhiệt có thể che đi cơn sốt, làm sai lệch đánh giá nhiễm khuẩn.",
+    "Ngược lại, khi sốt nặng kháng trị, theo sách có thể dùng có chủ đích: không làm ấm dịch thay thế, thậm chí làm lạnh dịch."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Dinh dưỡng",
+   "title": "Dinh dưỡng: năng lượng",
+   "head": [
+    "Vấn đề",
+    "Khuyến cáo",
+    "Nguồn · mức"
+   ],
+   "widths": "1.2fr 2.4fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Tổng thể",
+      "<b>20–35 kcal/kg/ngày</b> (tối thiểu 12)",
+      "KSN 2025 KQ10 · B, thấp"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Cách đo",
+      "Đo nhiệt lượng gián tiếp; làm được khi đang CKRT nhưng có giới hạn; đo lại khi lâm sàng thay đổi",
+      "ESPEN 2021 KC10 (B), KC11 (0, 78,3%), KC12"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Năng lượng ẩn từ dịch",
+      "Tính năng lượng từ <b>citrate, lactat, glucose</b> trong dịch lọc",
+      "ESPEN KC14 · RCA Trung Quốc KC16"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Hệ số cộng thêm",
+      "<b>Không</b> nhân thêm hệ số vào REE đo được vì KRT",
+      "ESPEN KC15"
+     ],
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Mục tiêu năng lượng",
+      "Không cần đổi vì AKI, trừ khi đang KRT",
+      "KDIGO 2026 PP 3.9.4"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Dinh dưỡng, trước hết là năng lượng. Hội thận học Hàn Quốc khuyến cáo 20 đến 35 ki lô ca lo mỗi ký mỗi ngày, tối thiểu 12, mức B, chứng cứ thấp.",
+    "ESPEN khuyến cáo đo nhiệt lượng gián tiếp để định liều. Việc này làm được khi đang lọc máu liên tục nhưng có giới hạn, và phải đo lại khi lâm sàng thay đổi.",
+    "Đừng quên năng lượng ẩn: citrate, lactat và glucose trong dịch lọc phải được tính vào năng lượng đưa cho người bệnh.",
+    "Và ESPEN không khuyến khích nhân thêm hệ số vào năng lượng nghỉ đo được chỉ vì người bệnh đang lọc máu.",
+    "KDIGO 2026 bản dự thảo: mục tiêu năng lượng không cần đổi vì tổn thương thận cấp, trừ khi đang liệu pháp thay thế thận."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Dinh dưỡng",
+   "title": "Dinh dưỡng: đạm và vi chất",
+   "head": [
+    "Vấn đề",
+    "Khuyến cáo",
+    "Nguồn · mức"
+   ],
+   "widths": "1.2fr 2.4fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Đạm khi CKRT",
+      "<b>1,5 g/kg/ngày, có thể tới 1,7</b> · KSN: 1,2–2,5 (tối thiểu 0,5)",
+      "ESPEN KC18: 0, 82,6% · KSN: B, thấp"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Cân nặng tính đạm",
+      "Ưu tiên cân nặng trước nhập viện hoặc thường ngày; <b>không</b> dùng cân nặng thực đang phù",
+      "ESPEN, tr. 1660"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Không giảm đạm để trì hoãn KRT",
+      "Khuyến cáo",
+      "ESPEN KC19 · A, 95,5%"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Mất acid amin",
+      "CVVH: trung vị 13,4 g/ngày (11,8–17,4) trong một nghiên cứu",
+      "ESPEN, tr. 1659"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Vi chất",
+      "Bổ sung <b>selen, kẽm, đồng</b>; vitamin tan trong nước: <b>C, folat, thiamin</b>",
+      "ESPEN KC22, KC23 · B, 100%"
+     ],
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Tránh nuôi quá mức",
+      "Khuyến cáo",
+      "ESPEN KC17 · B, 95,7%"
+     ],
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Về đạm: ESPEN khuyến cáo 1,5 gam mỗi ký mỗi ngày, có thể tới 1,7, mức 0, nhất trí 82,6 phần trăm. Hội thận học Hàn Quốc nêu khoảng rộng hơn, 1,2 đến 2,5, tối thiểu 0,5.",
+    "Tính đạm theo cân nặng nào? ESPEN ưu tiên cân nặng trước nhập viện hoặc cân nặng thường ngày, không dùng cân nặng thực khi người bệnh đang phù.",
+    "Và không nên giảm đạm để trì hoãn liệu pháp thay thế thận: mức A, nhất trí 95,5 phần trăm.",
+    "Lọc máu làm mất acid amin: trong một nghiên cứu gần đây với CVVH, trung vị mất 13,4 gam mỗi ngày.",
+    "Vi chất cần theo dõi và bổ sung: selen, kẽm, đồng, và các vitamin tan trong nước, đặc biệt vitamin C, folat và thiamin, mức B, nhất trí 100 phần trăm.",
+    "Cuối cùng, tránh nuôi quá mức, mức B, nhất trí 95,7 phần trăm. Mục tiêu đạm và năng lượng chung ở ICU, ESPEN 2023, tôi không nêu vì con số cần đối chiếu."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Liều thuốc",
+   "title": "Nguyên lý: yếu tố quyết định thanh thải thuốc",
+   "ref": "KDIGO 2026 dự thảo PP 4.5.4, Bảng 34 · Pistolesi 2019 · Tee 2025, Bảng 1, 3",
+   "cards": [
+    {
+     "tag": "THUỐC",
+     "t": "Khối lượng phân tử, gắn protein, Vd",
+     "items": [
+      "Tỷ lệ thải qua thận",
+      "Ít gắn protein, Vd nhỏ → bị lấy nhiều: β-lactam, aminoglycosid, vancomycin, fluconazol"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "NGƯỜI BỆNH",
+     "t": "Thận tồn dư, gan, Vd, albumin",
+     "items": [
+      "Vd tăng do hồi sức dịch",
+      "Giảm albumin"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "CRRT",
+     "t": "Phương thức, dịch thải, màng",
+     "items": [
+      "Pha loãng trước",
+      "Thời gian ngừng máy"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "ÍT BỊ LẤY",
+     "t": "Gắn protein cao",
+     "items": [
+      "Echinocandin, ceftriaxon…"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Sang liều thuốc. Có ba nhóm yếu tố quyết định thanh thải thuốc qua lọc máu. Nhóm thuốc: khối lượng phân tử, mức gắn protein, thể tích phân bố, tỷ lệ thải qua thận.",
+    "Nhóm người bệnh: chức năng thận tồn dư, gan, thể tích phân bố tăng do hồi sức dịch, albumin giảm.",
+    "Và nhóm lọc máu: phương thức, liều dịch thải, loại màng, pha loãng trước, thời gian ngừng máy.",
+    "Thuốc ít gắn protein, thể tích phân bố nhỏ, thải chủ yếu qua thận, như β-lactam, aminoglycosid, vancomycin, fluconazol, bị lọc máu lấy đi nhiều. Thuốc gắn protein cao, như echinocandin hay ceftriaxon, ít bị lấy."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "box",
+   "chapter": "Liều thuốc",
+   "title": "Thanh thải ngoài cơ thể ≈ SC × dịch thải",
+   "ref": "Pistolesi 2019 · công thức và ví dụ cần đối chiếu nguyên văn",
+   "box": {
+    "tag": "NGUYÊN LÝ",
+    "t": "Thanh thải qua CRRT ≈ <b>SC (hệ số sàng) × dịch thải (Qef)</b>. Với thuốc ít gắn protein, <b>SC ≈ phần tự do</b> = 1 − tỷ lệ gắn protein.",
+    "at": 0,
+    "c": "teal",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "LIỀU NẠP",
+     "t": "KHÔNG giảm: phụ thuộc Vd, không phụ thuộc thanh thải",
+     "at": 1,
+     "c": "green"
+    },
+    {
+     "tag": "LIỀU DUY TRÌ",
+     "t": "Chỉnh theo thanh thải",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Thanh thải ngoài cơ thể ước tính bằng hệ số sàng nhân với dịch thải. Với thuốc ít gắn protein, hệ số sàng xấp xỉ phần thuốc tự do, tức một trừ tỷ lệ gắn protein. Bản gốc ghi công thức này cần đối chiếu nguyên văn với nguồn, nên ta dùng như một nguyên lý định tính.",
+    "Điều quan trọng: liều nạp không giảm, vì liều nạp phụ thuộc thể tích phân bố chứ không phụ thuộc thanh thải.",
+    "Ta chỉ chỉnh liều duy trì. Và nguy cơ chủ yếu ở hồi sức là thiếu liều, chứ không phải thừa liều."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "box",
+   "chapter": "Mô phỏng thuốc",
+   "title": "Mô hình thuốc: đọc thế nào cho đúng",
+   "ref": "Theme mô phỏng loc-mau · mô hình 1 khoang · kháng sinh giả định",
+   "box": {
+    "tag": "MÔ HÌNH MINH HOẠ",
+    "t": "Một kháng sinh <b>giả định</b>: nồng độ giảm theo <b>thanh thải tổng = thanh thải khác + SC × Qef</b>; thanh thải CRRT về 0 khi máy dừng hoặc khi ngừng CRRT. Ngưỡng mục tiêu cũng là giả định.",
+    "at": 0,
+    "c": "violet",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "KHÔNG PHẢI",
+     "t": "Một kháng sinh cụ thể hay số liệu bệnh nhân",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "DÙNG ĐỂ",
+     "t": "Thấy hướng thay đổi của nồng độ",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Trước khi xem mô phỏng, tôi muốn nói rõ mô hình này là gì. Đó là một kháng sinh giả định, mô hình một khoang. Nồng độ thuốc giảm theo thanh thải tổng, bằng thanh thải không qua lọc máu cộng hệ số sàng nhân dịch thải. Khi máy dừng hoặc khi ngừng lọc máu, phần thanh thải qua lọc máu về không.",
+    "Ngưỡng mục tiêu trên đồ thị cũng chỉ là giả định để so sánh. Đây không phải một kháng sinh cụ thể và không phải số liệu bệnh nhân.",
+    "Hãy dùng nó để thấy hướng thay đổi của nồng độ khi ta đổi cài đặt máy, không dùng để tính liều cho một người bệnh."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "thuoc",
+   "chapter": "Mô phỏng thuốc",
+   "title": "Kháng sinh giả định: máy chạy, tăng dịch thải",
+   "thuoc": {
+    "dose": 500,
+    "tau": 8,
+    "vd": 21,
+    "cln": 1,
+    "sc": 0.9,
+    "qef": 1850,
+    "target": 10,
+    "hours": 48
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 3.0
+   },
+   "changes": [
+    {
+     "at": "L3",
+     "set": {
+      "qef": 3000
+     },
+     "label": "Tăng dịch thải 1.850 → 3.000 mL/h",
+     "c": "coral",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "GIẢ ĐỊNH",
+     "t": "Không phải thuốc cụ thể · mô hình 1 khoang",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "NGƯỠNG GIẢ ĐỊNH",
+     "t": "Nồng độ đáy so với 10 mg/L",
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Bây giờ là mô phỏng. Đây là một kháng sinh giả định, mô hình một khoang, không phải thuốc cụ thể nào và không phải số liệu bệnh nhân. Liều 500 mi li gam mỗi 8 giờ, thể tích phân bố 21 lít, ngưỡng mục tiêu giả định 10 mi li gam mỗi lít, thuốc không gắn protein nhiều, hệ số sàng 0,9.",
+    "Máy chạy với dịch thải 1.850 mi li lít mỗi giờ. Thanh thải qua lọc máu là 1,67 lít mỗi giờ, cộng thanh thải khác 1 lít mỗi giờ, nên bán huỷ chỉ còn 5,5 giờ.",
+    "Đường cong là nồng độ thuốc. Nồng độ đáy ổn định khoảng 13 mi li gam mỗi lít, trên ngưỡng.",
+    "Giờ ta tăng dịch thải lên 3.000. Thanh thải qua lọc máu tăng lên 2,70 lít mỗi giờ, bán huỷ giảm còn 3,9 giờ.",
+    "Nồng độ đáy tụt xuống 7,7, dưới ngưỡng 10, và thời gian trên ngưỡng chỉ còn khoảng 79 phần trăm. Đây là minh hoạ của thiếu liều: tăng dịch thải mà không cân nhắc lại liều thuốc."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "thuoc",
+   "chapter": "Mô phỏng thuốc",
+   "title": "Máy dừng 12 giờ: thuốc ứ lại",
+   "thuoc": {
+    "dose": 500,
+    "tau": 8,
+    "vd": 21,
+    "cln": 1,
+    "sc": 0.9,
+    "qef": 1850,
+    "target": 10,
+    "hours": 48,
+    "off": [
+     [
+      12,
+      24
+     ]
+    ]
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 3.0
+   },
+   "notes": [
+    {
+     "tag": "MÁY DỪNG",
+     "t": "Thanh thải CRRT = 0 · bán huỷ 14,6 giờ",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "CHẠY LẠI",
+     "t": "Nồng độ trở về mức cũ sau vài liều",
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Cùng thuốc giả định, dịch thải 1.850. Lần này máy phải dừng 12 giờ, từ giờ thứ 12 đến giờ thứ 24, vì thay màng, đi chụp hay sự cố.",
+    "Vùng đỏ trên đồ thị là lúc máy dừng. Thanh thải qua lọc máu về 0, chỉ còn thanh thải khác, bán huỷ kéo dài ra 14,6 giờ.",
+    "Hãy nhìn nồng độ đáy ở giờ thứ 24: khoảng 27, so với 13 khi máy chạy liên tục.",
+    "Nếu cứ giữ nguyên liều trong lúc máy dừng, thuốc tích luỹ.",
+    "Khi máy chạy lại, nồng độ đáy giảm dần: khoảng 25,6 ở giờ 36 và 14,3 ở giờ 48, về gần mức cũ. Bản gốc nêu rõ: máy ngừng kéo dài làm giảm thanh thải thuốc, tăng dịch thải làm tăng thanh thải, và cần tính lại liều."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "thuoc",
+   "chapter": "Mô phỏng thuốc",
+   "title": "Ngừng CRRT ở giờ 24: nồng độ leo thang",
+   "thuoc": {
+    "dose": 500,
+    "tau": 8,
+    "vd": 21,
+    "cln": 1,
+    "sc": 0.9,
+    "qef": 1850,
+    "target": 10,
+    "hours": 48,
+    "stop": 24
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 3.0
+   },
+   "notes": [
+    {
+     "tag": "NGỪNG CRRT",
+     "t": "Giờ 24 · thanh thải CRRT = 0",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "BÀI HỌC",
+     "t": "Phác đồ phải điều chỉnh khi đổi phương thức KRT",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Tình huống thứ ba: ngừng hẳn lọc máu liên tục ở giờ thứ 24, ví dụ khi thận hồi phục hoặc chuyển phương thức khác.",
+    "Đường đứt vàng đánh dấu lúc ngừng. Từ đó, thanh thải qua lọc máu bằng 0 vĩnh viễn, và bán huỷ là 14,6 giờ.",
+    "Nếu không đổi liều, nồng độ đáy leo thang: khoảng 25 ở giờ 32, 33,5 ở giờ 40, và 39,2 ở giờ 48, gấp ba lần mức khi còn lọc máu.",
+    "Đây là lý do mọi liều kháng sinh phải được rà soát lại khi ngừng lọc máu.",
+    "Hoff 2020 nhấn mạnh: phác đồ phải được điều chỉnh khi lâm sàng ổn định dần và khi thay đổi phương thức liệu pháp thay thế thận, kể cả ngừng lọc máu liên tục."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "thuoc",
+   "chapter": "Mô phỏng thuốc",
+   "title": "Gắn protein cao: lọc máu ít lấy",
+   "thuoc": {
+    "dose": 500,
+    "tau": 8,
+    "vd": 21,
+    "cln": 1,
+    "sc": 0.9,
+    "qef": 1850,
+    "target": 10,
+    "hours": 48
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 3.0
+   },
+   "changes": [
+    {
+     "at": "L3",
+     "set": {
+      "sc": 0.1
+     },
+     "label": "Thuốc gắn protein cao: SC 0,9 → 0,1",
+     "c": "violet",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "SC × QEF",
+     "t": "0,9 × 1.850 → 0,1 × 1.850",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "LIÊN HỆ",
+     "t": "Echinocandin, ceftriaxon: ít bị lấy",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Cuối cùng, vai trò của hệ số sàng. Ta quay lại thuốc giả định, máy chạy, dịch thải 1.850, hệ số sàng 0,9.",
+    "Thanh thải qua lọc máu là hệ số sàng nhân dịch thải: 0,9 nhân 1.850, tức 1,67 lít mỗi giờ.",
+    "Giờ ta cho thuốc gắn protein cao, hệ số sàng chỉ còn 0,1.",
+    "Thanh thải qua lọc máu tụt xuống 0,19 lít mỗi giờ, bán huỷ kéo dài lên 12,3 giờ. Nồng độ đáy ở giờ 24 khoảng 31, và ở giờ 48 khoảng 39.",
+    "Lọc máu gần như không lấy thuốc này, nên không cần tăng liều vì lọc máu. Đúng với nguyên lý: thuốc gắn protein cao, như echinocandin hay ceftriaxon, ít bị lọc máu lấy. Nhắc lại, tất cả là mô hình minh hoạ."
+   ],
+   "id": "s18"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Tổng hợp mô hình",
+   "title": "Nồng độ đáy trong mô hình (mg/L)",
+   "groups": [
+    {
+     "t": "Máy chạy, dịch thải 1.850",
+     "d": "Đáy giờ 24 · ngưỡng giả định 10",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Đáy",
+       "v": 13.0,
+       "lab": "13,0",
+       "c": "teal"
+      }
+     ]
+    },
+    {
+     "t": "Dịch thải 3.000",
+     "d": "Thiếu liều so với ngưỡng",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Đáy",
+       "v": 7.7,
+       "lab": "7,7",
+       "c": "coral"
+      }
+     ]
+    },
+    {
+     "t": "Máy dừng 12 giờ",
+     "d": "Đáy giờ 24",
+     "at": 2,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Đáy",
+       "v": 27.4,
+       "lab": "27,4",
+       "c": "amber"
+      }
+     ]
+    },
+    {
+     "t": "Ngừng CRRT giờ 24",
+     "d": "Đáy giờ 40",
+     "at": 3,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Đáy",
+       "v": 33.5,
+       "lab": "33,5",
+       "c": "violet"
+      }
+     ]
+    }
+   ],
+   "max": 40,
+   "h": 640,
+   "notes": [
+    {
+     "tag": "ĐỌC ĐÚNG",
+     "t": "Mô hình giả định: hướng thay đổi có ý nghĩa, số tuyệt đối thì không",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "notes_w": 440,
+   "lines": [
+    "Gom lại bốn kịch bản của kháng sinh giả định. Máy chạy với dịch thải 1.850, nồng độ đáy ở giờ 24 là 13,0, trên ngưỡng giả định 10.",
+    "Tăng dịch thải lên 3.000, nồng độ đáy tụt xuống 7,7, dưới ngưỡng: thiếu liều.",
+    "Máy dừng 12 giờ, nồng độ đáy ở giờ 24 lên 27,4: thuốc ứ lại.",
+    "Ngừng lọc máu ở giờ 24, nồng độ đáy ở giờ 40 đã là 33,5, và còn tiếp tục leo.",
+    "Hãy đọc đúng: đây là mô hình giả định, hướng thay đổi có ý nghĩa dạy học, còn các con số tuyệt đối thì không áp dụng cho một thuốc hay một người bệnh cụ thể."
+   ],
+   "id": "s19"
+  },
+  {
+   "layout": "list",
+   "chapter": "Liều thuốc",
+   "title": "Nguyên tắc thực hành chỉnh liều",
+   "ref": "Hoff 2020, tr. 52 · Pistolesi 2019 · Tee 2025 · Abdul-Aziz 2020 (TDM)",
+   "items": [
+    {
+     "t": "Liều nạp không giảm",
+     "d": "Chỉnh liều duy trì (Pistolesi 2019; Hoff 2020)",
+     "at": 0,
+     "c": "green",
+     "n": 1
+    },
+    {
+     "t": "Nhiễm khuẩn nặng: chờ ít nhất 24 giờ mới giảm liều",
+     "d": "Trừ aminoglycosid và vancomycin · tránh thiếu liều (Hoff, tr. 52)",
+     "at": 1,
+     "c": "coral",
+     "n": 2
+    },
+    {
+     "t": "Điều chỉnh khi lâm sàng ổn định dần và khi đổi phương thức",
+     "d": "Kể cả máy ngừng kéo dài, tăng dịch thải, ngừng CRRT",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "Đo nồng độ thuốc khi có",
+     "d": "Vancomycin, aminoglycosid; β-lactam nếu cơ sở làm được",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Từ nguyên lý và mô phỏng, ta rút ra bốn nguyên tắc. Một, liều nạp không giảm.",
+    "Hai, Hoff khuyên ở nhiễm khuẩn nặng nên chờ ít nhất 24 giờ mới giảm liều, trừ aminoglycosid và vancomycin, để tránh thiếu liều.",
+    "Ba, phác đồ phải được điều chỉnh khi lâm sàng ổn định dần và khi thay đổi phương thức, kể cả máy ngừng kéo dài, tăng dịch thải hay ngừng lọc máu.",
+    "Bốn, đo nồng độ thuốc khi có thể: vancomycin, aminoglycosid, và β-lactam nếu cơ sở làm được."
+   ],
+   "id": "s20"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Bảng Hoff",
+   "title": "Ví dụ bảng Hoff 2020: liều khởi đầu theo dịch thải",
+   "head": [
+    "Thuốc",
+    "CVVH/CVVHD 1–2 L/h",
+    "CVVH/CVVHD ≥ 3 L/h",
+    "CVVHDF 1–2 L/h",
+    "CVVHDF ≥ 3 L/h"
+   ],
+   "widths": "1.3fr 1.4fr 1.1fr 1.4fr 1.1fr",
+   "rows": [
+    {
+     "cells": [
+      "Cefepim (truyền 0,5 giờ)",
+      "1 g/8 giờ (1 L/h); 1 g/6 giờ (2 L/h)",
+      "1 g/6 giờ",
+      "1 g/8 giờ (1 L/h); 1 g/6 giờ (2 L/h)",
+      "1 g/6 giờ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Meropenem (truyền 3 giờ)",
+      "500 mg/8 giờ",
+      "500 mg/8 giờ",
+      "500 mg/6–8 giờ",
+      "500 mg/6–8 giờ"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Piperacillin/tazobactam (truyền 4 giờ)",
+      "3,375 g/8 giờ",
+      "3,375 g/8 giờ",
+      "3,375 g/8 giờ",
+      "4,5 g/8 giờ"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "note": "Ví dụ để học · đối chiếu dược lâm sàng cơ sở trước khi dùng",
+   "note_at": 3,
+   "lines": [
+    "Đây là vài ví dụ trong bảng 3 của Hoff 2020, theo dịch thải 1 đến 2 lít mỗi giờ hoặc từ 3 lít mỗi giờ trở lên. Tôi chỉ chọn ba thuốc để minh hoạ, không phải toàn bộ bảng.",
+    "Cefepim truyền nửa giờ: 1 gam mỗi 8 giờ với dịch thải 1 lít mỗi giờ, 1 gam mỗi 6 giờ với 2 lít mỗi giờ, và 1 gam mỗi 6 giờ khi từ 3 lít mỗi giờ trở lên. Meropenem truyền 3 giờ: 500 mi li gam mỗi 8 giờ; trong CVVHDF là 500 mỗi 6 đến 8 giờ.",
+    "Piperacillin tazobactam truyền 4 giờ: 3,375 gam mỗi 8 giờ, và 4,5 gam mỗi 8 giờ khi CVVHDF với dịch thải từ 3 lít mỗi giờ trở lên.",
+    "Đây là liều khởi đầu theo nguồn, chỉ để học. Quý vị phải đối chiếu với dược lâm sàng và phác đồ kháng sinh của cơ sở trước khi dùng."
+   ],
+   "id": "s21"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Bảng Tee",
+   "title": "Ví dụ bảng Tee 2025: liều gợi ý khi CKRT",
+   "head": [
+    "Thuốc",
+    "Liều gợi ý khi CKRT",
+    "Ghi chú"
+   ],
+   "widths": "1.3fr 2fr 1.9fr",
+   "rows": [
+    {
+     "cells": [
+      "Meropenem",
+      "<b>1–2 g/8 giờ</b>",
+      "Khác Hoff (500 mg/8 giờ) – xem bàn luận"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Piperacillin–tazobactam",
+      "4,5 g/8 giờ",
+      "Hoff: 3,375 g/8 giờ ở nhiều mức dịch thải"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Cefepim",
+      "2 g/8–12 giờ",
+      ""
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Fluconazol",
+      "Liều chuẩn 400 mg/ngày: nạp 800 mg, duy trì 800 mg/ngày, chia 1–2 lần",
+      "Bị CRRT lấy nhiều"
+     ],
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Caspofungin, micafungin, anidulafungin",
+      "Không cần chỉnh",
+      "Ít bị lọc"
+     ],
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "note": "Ví dụ để học · đối chiếu dược lâm sàng cơ sở trước khi dùng",
+   "note_at": 5,
+   "lines": [
+    "Bảng của Tee 2025 trong tạp chí World Journal of Nephrology cho liều gợi ý khi lọc máu liên tục. Cũng chỉ vài ví dụ.",
+    "Meropenem 1 đến 2 gam mỗi 8 giờ, khác hẳn Hoff.",
+    "Piperacillin tazobactam 4,5 gam mỗi 8 giờ. Cefepim 2 gam mỗi 8 đến 12 giờ.",
+    "Fluconazol, bị lọc máu lấy nhiều: với liều chuẩn 400 mi li gam mỗi ngày, nạp 800 và duy trì 800 mi li gam mỗi ngày, chia một đến hai lần.",
+    "Còn nhóm echinocandin như caspofungin, micafungin, anidulafungin thì không cần chỉnh vì ít bị lọc.",
+    "Một lần nữa, đây là bảng nguồn để học, quý vị phải đối chiếu dược lâm sàng của cơ sở."
+   ],
+   "id": "s22"
+  },
+  {
+   "layout": "box",
+   "chapter": "Bàn luận",
+   "title": "Vì sao Hoff và Tee khác nhau?",
+   "ref": "Hoff 2020, tr. 51–52 · Tee 2025 · diễn giải của người soạn, cần đối chiếu phác đồ kháng sinh cơ sở",
+   "box": {
+    "tag": "BÀN LUẬN · MEROPENEM VÀ PIPERACILLIN/TAZOBACTAM",
+    "t": "Khác <b>dịch thải giả định</b>, <b>cách truyền (kéo dài)</b>, <b>đích PK/PD</b> và <b>quần thể nghiên cứu</b>. Ngày đầu ưu tiên <b>liều đủ</b>; sau đó chỉnh theo dịch thải thực, thận tồn dư, MIC, vị trí nhiễm khuẩn và đo nồng độ thuốc.",
+    "at": 0,
+    "c": "violet",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "HOFF, TR. 52",
+     "t": "Nguy cơ thiếu liều lớn hơn nguy cơ thừa liều",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "THỐNG NHẤT",
+     "t": "Bảng liều với dược lâm sàng bệnh viện",
+     "at": 2,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Vì sao hai bảng lệch nhau? Hoff đề xuất meropenem 500 mi li gam mỗi 8 giờ, truyền 3 giờ, thấp hơn rõ so với Tee, 1 đến 2 gam. Lý do khác nhau gồm dịch thải giả định, cách truyền kéo dài, đích dược động dược lực học và quần thể nghiên cứu.",
+    "Thực hành đề xuất: ngày đầu ưu tiên liều đủ, vì nguy cơ thiếu liều lớn hơn, theo Hoff trang 52. Sau đó chỉnh theo dịch thải thực, chức năng thận tồn dư, MIC, vị trí nhiễm khuẩn và đo nồng độ thuốc.",
+    "Và hãy thống nhất bảng liều với dược lâm sàng của bệnh viện. Đây là diễn giải của người soạn, cần đối chiếu với phác đồ kháng sinh của cơ sở."
+   ],
+   "id": "s23"
+  },
+  {
+   "layout": "list",
+   "chapter": "An toàn",
+   "title": "An toàn khi dùng liều cao",
+   "ref": "Hoff 2020 · Tee 2025 · cần đối chiếu nhãn thuốc",
+   "items": [
+    {
+     "t": "Cefepim 2 g/8 giờ: nguy cơ độc thần kinh",
+     "d": "Bệnh não, co giật · theo dõi",
+     "at": 0,
+     "c": "coral",
+     "n": 1
+    },
+    {
+     "t": "Gentamicin 7 mg/kg/24 giờ",
+     "d": "Chỉ áp dụng khi CKRT liều cao 40 mL/kg/h trong nguồn",
+     "at": 1,
+     "c": "amber",
+     "n": 2
+    },
+    {
+     "t": "Đo nồng độ thuốc bắt buộc",
+     "d": "Aminoglycosid và vancomycin",
+     "at": 2,
+     "c": "violet",
+     "n": 3
+    },
+    {
+     "t": "Điều chỉnh khi máy ngừng hoặc ngừng CRRT",
+     "d": "Colistin, polymyxin B, linezolid, acyclovir, ganciclovir: chưa có trong bảng đã trích",
+     "at": 3,
+     "c": "teal",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Liều cao hơn phải đi kèm theo dõi độc tính. Cefepim 2 gam mỗi 8 giờ có nguy cơ độc thần kinh: bệnh não, co giật.",
+    "Gentamicin 7 mi li gam mỗi ký mỗi 24 giờ chỉ áp dụng khi lọc máu liên tục liều cao 40 mi li lít mỗi ký mỗi giờ trong nguồn đó. Không tự suy ra cho liều lọc thường quy.",
+    "Đo nồng độ thuốc là bắt buộc với aminoglycosid và vancomycin.",
+    "Và điều chỉnh khi máy ngừng hoặc khi ngừng lọc máu. Cuối cùng, các thuốc như colistin, polymyxin B, linezolid, acyclovir, ganciclovir chưa có trong các bảng đã trích, nên cần tra thêm nguồn khác."
+   ],
+   "id": "s24"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: giảm liều meropenem ngày đầu?",
+   "case": "Người bệnh sốc nhiễm khuẩn, tổn thương thận cấp vô niệu, bắt đầu CVVHDF ngày 1, dịch thải 2 L/h. Dược sĩ đề nghị giảm liều nạp meropenem “như suy thận nặng” ngay từ ngày đầu.",
+   "case_at": 0,
+   "q": "Cách tiếp cận hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Đồng ý: giảm liều nạp vì thận hỏng",
+    "Không giảm liều nạp; ngày đầu ưu tiên liều đủ, chờ ít nhất 24 giờ rồi chỉnh theo dịch thải thực, thận tồn dư và đo nồng độ thuốc",
+    "Tăng gấp đôi liều vì lọc máu lấy hết thuốc",
+    "Ngừng kháng sinh trong lúc lọc máu"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Liều nạp phụ thuộc Vd, không giảm (Pistolesi 2019; Hoff 2020). Nhiễm khuẩn nặng: chờ ≥ 24 giờ mới giảm liều, trừ aminoglycosid và vancomycin (Hoff, tr. 52); thống nhất với dược lâm sàng.",
+   "lines": [
+    "Tình huống. Người bệnh sốc nhiễm khuẩn, tổn thương thận cấp vô niệu, bắt đầu CVVHDF ngày một, dịch thải 2 lít mỗi giờ. Dược sĩ đề nghị giảm liều nạp meropenem như người suy thận nặng ngay từ ngày đầu.",
+    "Cách tiếp cận hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là không giảm liều nạp, ngày đầu ưu tiên liều đủ, chờ ít nhất 24 giờ rồi mới chỉnh theo dịch thải thực, chức năng thận tồn dư và đo nồng độ thuốc nếu có. Lý do: liều nạp phụ thuộc thể tích phân bố, không phụ thuộc thanh thải; và ở nhiễm khuẩn nặng nguy cơ thiếu liều lớn hơn nguy cơ thừa liều. Lọc máu không lấy hết thuốc, nên cũng không tăng gấp đôi một cách mù quáng. Bảng liều cụ thể phải thống nhất với dược lâm sàng của bệnh viện."
+   ],
+   "id": "s25"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 10",
+   "items": [
+    {
+     "t": "Hạ phospho: RENAL 65,1% (liều cao) so với 54,0%",
+     "d": "Dùng dịch có phosphat dự phòng (KSN KQ4; ESPEN KC32)",
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "t": "Chỉnh natri bằng glucose 5% hoặc NaCl 3% cùng mạch",
+     "d": "Ví dụ: 300 mL/h; Na hiệu dụng ≈ 152 mmol/L · theo dõi đường huyết",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Đạm 1,5–1,7 g/kg/ngày; tính cả năng lượng ẩn từ dịch",
+     "d": "ESPEN 2021 · KSN 2025: 20–35 kcal/kg/ngày",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "t": "Thanh thải thuốc ≈ SC × Qef; liều nạp không giảm",
+     "d": "Nguy cơ chính là thiếu liều",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "t": "Điều chỉnh liều khi máy dừng, đổi dịch thải, ngừng CRRT",
+     "d": "Đo nồng độ thuốc · đối chiếu dược lâm sàng",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần mười. Hạ phospho gặp ở 65,1 phần trăm nhóm liều cao trong RENAL, so với 54,0 phần trăm; dùng dịch có phosphat để dự phòng.",
+    "Natri có thể chỉnh bằng glucose 5 phần trăm hoặc natri clorua 3 phần trăm truyền cùng mạch; nhớ theo dõi đường huyết và tính vào năng lượng.",
+    "Đạm 1,5 đến 1,7 gam mỗi ký mỗi ngày theo ESPEN, và tính cả năng lượng ẩn từ citrate, lactat, glucose trong dịch.",
+    "Thanh thải thuốc xấp xỉ hệ số sàng nhân dịch thải. Liều nạp không giảm; nguy cơ chính là thiếu liều.",
+    "Và điều chỉnh liều khi máy dừng, khi đổi dịch thải, khi ngừng lọc máu, kèm đo nồng độ thuốc và đối chiếu dược lâm sàng. Phần sau, chúng ta bàn về báo động và xử trí sự cố. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s26",
+   "dense": true
+  }
+ ]
+}

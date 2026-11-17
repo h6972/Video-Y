@@ -1,0 +1,1118 @@
+{
+ "title": "Lọc máu liên tục – Phần 6: Kê đơn và liều",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 6/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "Claure-Del Granado": "clo rê đen gờ ra na đô",
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "PICARD": "pi các",
+  "Uchino": "u chi nô",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CSCCM": "xê ét xê xê em",
+  "Ronco": "rông cô",
+  "HCO₃⁻": "bicarbonat",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NaCl": "natri clorua",
+  "Ca²⁺": "canxi",
+  "Mg²⁺": "magie",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "Na⁺": "natri",
+  "Cl⁻": "clorua",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "K⁺": "kali"
+ },
+ "brand": {
+  "next": "Phần 7: Chống đông citrate vùng"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Kê đơn<br>và liều",
+   "subtitle": "ATN · RENAL · IVOIRE · liều kê và liều thực",
+   "badges": [
+    {
+     "t": "Thực nhận 20–25 mL/kg/h",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "KDIGO R5.3.1 · 1B",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Kê cao hơn ≈ 20–25%",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": "Bảng kê đơn theo cân nặng chạy trên mô phỏng",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần sáu của loạt bài lọc máu liên tục thực hành.",
+    "Hôm nay chúng ta trả lời câu hỏi mà mỗi y lệnh lọc máu liên tục đều phải trả lời: kê bao nhiêu mi li lít mỗi ký mỗi giờ, và người bệnh thực sự nhận được bao nhiêu.",
+    "Ta sẽ đi từ bằng chứng về liều, qua các khuyến cáo, rồi đến khoảng cách giữa liều kê và liều thực, và cuối cùng là một bảng kê đơn khởi đầu theo cân nặng, chạy trên mô phỏng, cùng với các loại dịch lọc."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng liều",
+   "title": "Ronco 2000: mở đầu làn sóng liều cao",
+   "groups": [
+    {
+     "t": "Sống 15 ngày sau ngừng lọc (%)",
+     "d": "Ronco · Lancet 2000 · Vicenza · 425 người bệnh · CVVH sau màng",
+     "at": 1,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "20 mL/kg/h",
+       "v": 41,
+       "lab": "41%",
+       "c": "coral"
+      },
+      {
+       "k": "35 mL/kg/h",
+       "v": 57,
+       "lab": "57%",
+       "c": "teal"
+      },
+      {
+       "k": "45 mL/kg/h",
+       "v": 58,
+       "lab": "58%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 70,
+   "h": 440,
+   "notes": [
+    {
+     "t": "Thấp so với trung gian: p = 0,0007",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Trung gian so với cao: p = 0,87",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Đơn trung tâm → cần thử nghiệm đa trung tâm xác nhận",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Câu chuyện về liều bắt đầu năm 2000, khi Ronco công bố nghiên cứu ở một trung tâm tại Vicenza, trên 425 người bệnh chạy CVVH sau màng.",
+    "Ba nhóm liều: 20, 35 và 45 mi li lít mỗi ký mỗi giờ. Tỷ lệ sống 15 ngày sau khi ngừng lọc máu lần lượt là 41, 57 và 58 phần trăm.",
+    "Nhóm liều thấp kém hơn nhóm trung gian với p bằng 0,0007, còn nhóm trung gian và nhóm cao không khác nhau, p bằng 0,87.",
+    "Kết quả này mở đầu một làn sóng liều cao: nhiều nơi nâng liều lên 35 mi li lít mỗi ký mỗi giờ hoặc hơn, và các hướng dẫn trước đây, kể cả Bộ Y tế năm 2014, đặt mốc từ 35 mi li lít mỗi ký mỗi giờ trở lên. Nhưng đây là nghiên cứu một trung tâm. Hai thử nghiệm lớn sau đó đã kiểm lại giả thuyết này, và kết quả của chúng thay đổi hẳn thực hành hiện nay."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng liều",
+   "title": "ATN và RENAL: liều cao không cứu thêm người bệnh",
+   "groups": [
+    {
+     "t": "ATN 2008 · tử vong 60 ngày (%)",
+     "d": "1.124 người bệnh · 27 trung tâm · OR 1,09 · P = 0,47",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "35 mL/kg/h",
+       "v": 53.6,
+       "lab": "53,6%",
+       "c": "amber"
+      },
+      {
+       "k": "20 mL/kg/h",
+       "v": 51.5,
+       "lab": "51,5%",
+       "c": "teal"
+      }
+     ]
+    },
+    {
+     "t": "RENAL 2009 · tử vong 90 ngày (%)",
+     "d": "1.508 người bệnh · 35 ICU Úc – New Zealand · OR 1,00",
+     "at": 2,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "40 mL/kg/h",
+       "v": 44.7,
+       "lab": "44,7%",
+       "c": "amber"
+      },
+      {
+       "k": "25 mL/kg/h",
+       "v": 44.7,
+       "lab": "44,7%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 70,
+   "h": 470,
+   "notes": [
+    {
+     "t": "ATN: CVVHDF 35 (hoặc IHD/SLED 6 lần/tuần) so với 20 (3 lần/tuần)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "RENAL: liều thực nhận 33,4 so với 22 mL/kg/h",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Phụ thuộc KRT ở người sống: 6,8% so với 4,4% (P = 0,14)",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 540,
+   "lines": [
+    "ATN, năm 2008, là thử nghiệm đa trung tâm ở 27 trung tâm của Mỹ, trên 1.124 người bệnh. Nhóm tích cực dùng CVVHDF 35 mi li lít mỗi ký mỗi giờ, hoặc chạy thận ngắt quãng sáu lần mỗi tuần; nhóm ít tích cực dùng 20 mi li lít mỗi ký mỗi giờ, hoặc ba lần mỗi tuần.",
+    "Tử vong 60 ngày là 53,6 phần trăm ở nhóm tích cực so với 51,5 phần trăm ở nhóm ít tích cực, tỷ số chênh 1,09, P bằng 0,47: không khác biệt.",
+    "RENAL, năm 2009, thực hiện ở 35 khoa hồi sức Úc và New Zealand, trên 1.508 người bệnh, so sánh CVVHDF sau màng ở mức 40 và 25 mi li lít mỗi ký mỗi giờ. Liều thực nhận lần lượt là 33,4 và 22.",
+    "Tử vong 90 ngày là 44,7 phần trăm ở cả hai nhóm, tỷ số chênh đúng bằng 1,00. Tỷ lệ phụ thuộc liệu pháp thay thế thận ở người sống sót là 6,8 phần trăm so với 4,4 phần trăm, P bằng 0,14, cũng không khác biệt.",
+    "Kết luận chung của hai thử nghiệm lớn: tăng liều không cải thiện sống còn. Đó là cơ sở của mức liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ mà các khuyến cáo hiện nay dùng. Cần nhớ rằng trong cả hai thử nghiệm, liều thực nhận luôn thấp hơn liều kê, một điểm mà ta sẽ quay lại ngay sau khi xem xong các khuyến cáo."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng liều",
+   "title": "RENAL: cái giá của liều cao là hạ phospho",
+   "groups": [
+    {
+     "t": "Hạ phospho máu (%)",
+     "d": "RENAL · P < 0,001",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "40 mL/kg/h",
+       "v": 65.1,
+       "lab": "65,1%",
+       "c": "coral"
+      },
+      {
+       "k": "25 mL/kg/h",
+       "v": 54.0,
+       "lab": "54,0%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 80,
+   "h": 400,
+   "notes": [
+    {
+     "t": "Cả hai nhóm đều rất cao: dịch lọc kéo phospho đi",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Dịch có phosphat để dự phòng: KSN 2025 KQ4 · B · chứng cứ rất thấp",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Xem chi tiết ở phần 10",
+     "at": 1,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Liều cao không cứu thêm người bệnh, nhưng có cái giá. Trong RENAL, hạ phospho máu gặp ở 65,1 phần trăm người bệnh nhóm liều cao, so với 54,0 phần trăm ở nhóm liều thấp, P nhỏ hơn 0,001.",
+    "Hãy để ý rằng ngay cả nhóm liều chuẩn cũng có hơn một nửa người bệnh bị hạ phospho. Đây là một trong những tác dụng phụ thầm lặng của lọc máu liên tục mà ta sẽ bàn kỹ ở phần mười, cùng với giải pháp là dùng dịch có phosphat theo khuyến cáo của hội thận học Hàn Quốc 2025."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "box",
+   "chapter": "Bằng chứng liều",
+   "title": "IVOIRE: siêu lọc thể tích cao trong sốc nhiễm khuẩn",
+   "box": {
+    "tag": "IVOIRE · ICM 2013 · JOANNES-BOYAU",
+    "t": "140 người bệnh sốc nhiễm khuẩn + AKI (dừng sớm, dự kiến 460) · HVHF <b>70</b> so với <b>35 mL/kg/h</b> trong 96 giờ → <b>không giảm tử vong 28 ngày</b>.",
+    "at": 1,
+    "c": "coral",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "KDIGO 2026 · R5.3.2 · 1B",
+     "t": "Không dùng HVHF trong nhiễm khuẩn huyết / sốc nhiễm khuẩn",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "tag": "KẾT LUẬN",
+     "t": "Không tăng liều để “lọc cytokin” hay “lọc lactat”",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Một giả thuyết hấp dẫn là liều rất cao có thể lọc bớt cytokin trong sốc nhiễm khuẩn. Thử nghiệm IVOIRE kiểm tra chính điều đó.",
+    "Nghiên cứu trên 140 người bệnh sốc nhiễm khuẩn kèm tổn thương thận cấp, dừng sớm khi dự kiến ban đầu là 460 người. So sánh siêu lọc thể tích cao 70 mi li lít mỗi ký mỗi giờ với 35 mi li lít mỗi ký mỗi giờ trong 96 giờ.",
+    "Kết quả: không giảm tử vong 28 ngày.",
+    "Vì vậy KDIGO 2026 bản dự thảo, khuyến cáo 5.3.2, mức 1B, khuyến cáo không dùng siêu lọc thể tích cao trong nhiễm khuẩn huyết hoặc sốc nhiễm khuẩn.",
+    "Teixeira cũng nhắc không tăng liều để lọc lactat hay lọc cytokin. Như vậy, trước đây ta tăng liều vì tin vào ‘lọc cytokin’, nay bằng chứng cho thấy điều đó không giúp người bệnh."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Khuyến cáo liều",
+   "title": "Khuyến cáo liều của các hội",
+   "head": [
+    "Nguồn",
+    "Khuyến cáo",
+    "Mức"
+   ],
+   "widths": "1.2fr 3.4fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "KDIGO 2012 R5.8.4",
+      "Thể tích dịch thải <b>20–25 mL/kg/h</b> cho CRRT ở AKI",
+      "1A"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "KDIGO 2026 dự thảo R5.3.1",
+      "<b>20–25 mL/kg/h</b> hơn là liều cao hơn (hoặc Kt/V 3,9/tuần cho IRRT/PIRRT)",
+      "1B"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "KDIGO 2026 dự thảo R5.3.2",
+      "<b>Không</b> dùng HVHF trong nhiễm khuẩn huyết/sốc nhiễm khuẩn",
+      "1B"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "SRLF 2025 R3.1",
+      "Kê <b>tối đa 25 mL/kg/h</b> dịch thải ở người lớn",
+      "GRADE 1+ · chứng cứ cao"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "KSN 2025 KQ2",
+      "<b>Không</b> dùng liều cao (> 40 mL/kg/h)",
+      "C (chống) · chứng cứ vừa"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "CSCCM 2026",
+      "Liều <b>kê</b> ban đầu 35–50 mL/kg/h, không quá 50, rồi chỉnh theo mục tiêu thanh thải",
+      "Yếu · chứng cứ thấp"
+     ],
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Các khuyến cáo hiện nay về liều như sau. KDIGO 2012, khuyến cáo 5.8.4, mức 1A: cung cấp thể tích dịch thải 20 đến 25 mi li lít mỗi ký mỗi giờ cho lọc máu liên tục ở người bệnh tổn thương thận cấp.",
+    "KDIGO 2026 bản dự thảo giữ nguyên tinh thần, khuyến cáo 5.3.1, mức 1B: chọn 20 đến 25 mi li lít mỗi ký mỗi giờ hơn là liều cao hơn, hoặc Kt trên V là 3,9 mỗi tuần cho lọc máu ngắt quãng. Khuyến cáo 5.3.2, cũng 1B, không dùng siêu lọc thể tích cao trong nhiễm khuẩn huyết hay sốc nhiễm khuẩn.",
+    "Hội hồi sức Pháp SRLF 2025, khuyến cáo 3.1, GRADE 1 cộng, chứng cứ cao: kê tối đa 25 mi li lít mỗi ký mỗi giờ dịch thải ở người lớn.",
+    "Hội thận học Hàn Quốc 2025, KQ2: không dùng liều cao, trên 40 mi li lít mỗi ký mỗi giờ; mức C chống lại, chứng cứ vừa.",
+    "Riêng CSCCM 2026 nghe có vẻ khác: liều kê ban đầu từ 35 đến 50, không quá 50, rồi chỉnh theo mục tiêu thanh thải; mức yếu, chứng cứ thấp. Vì sao lại như vậy? Câu trả lời ở cảnh tiếp theo."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "box",
+   "chapter": "Khuyến cáo liều",
+   "title": "Hai khái niệm phải tách bạch",
+   "box": {
+    "tag": "DIỄN GIẢI · ĐỂ KHỎI HIỂU NHẦM",
+    "t": "KDIGO: liều <b>thực nhận</b> cần đạt · SRLF: liều <b>kê</b> tối đa · CSCCM: liều <b>kê</b> ban đầu. Ba con số không mâu thuẫn, vì chúng đo ba thứ khác nhau.",
+    "at": 0,
+    "c": "violet",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "THỰC NHẬN",
+     "t": "Cái người bệnh thực sự nhận được sau mọi hao hụt",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "KÊ",
+     "t": "Con số ghi trên y lệnh và cài trên máy",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Tại sao khuyến cáo CSCCM cao hơn hẳn KDIGO? Vì hai khái niệm phải được tách bạch. Khuyến cáo KDIGO là liều thực nhận cần đạt. SRLF ghi là liều tối đa được kê. Còn CSCCM nói về liều kê ban đầu.",
+    "Liều thực nhận là lượng người bệnh thực sự được lọc, sau mọi hao hụt do thời gian máy dừng, quả lọc mất hiệu quả, pha loãng trước màng.",
+    "Liều kê là con số ghi trên y lệnh và cài đặt trên máy. Liều kê luôn lớn hơn hoặc bằng liều thực nhận. Khi giảng, ta nói rõ điều này để tránh hiểu nhầm rằng hai khuyến cáo mâu thuẫn nhau. Đây là diễn giải của người soạn, giúp ta đọc đúng các con số."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "lieu",
+   "chapter": "Liều kê và liều thực",
+   "title": "Downtime: liều kê 25 thành bao nhiêu?",
+   "lieu": {
+    "wt": 70,
+    "qef": 1750,
+    "dil": 1,
+    "down": []
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "down": [
+       [
+        6,
+        8,
+        "đi chụp"
+       ]
+      ]
+     },
+     "label": "Máy dừng 2 giờ đi chụp",
+     "c": "amber",
+     "hold": 6
+    },
+    {
+     "at": "L3",
+     "set": {
+      "down": [
+       [
+        6,
+        8,
+        "đi chụp"
+       ],
+       [
+        14,
+        16,
+        "đông màng"
+       ]
+      ]
+     },
+     "label": "Thêm 2 giờ quả lọc đông, thay màng",
+     "c": "coral",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "LIỀU KÊ",
+     "t": "1.750 mL/h ÷ 70 kg = 25,0 mL/kg/h",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "HAO HỤT",
+     "t": "Báo động, đông màng, catheter, đi chụp, mổ, thay túi",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Hãy xem khoảng cách giữa liều kê và liều thực trên một mô phỏng. Người bệnh 70 ký, dịch thải kê 1.750 mi li lít mỗi giờ, tức 25,0 mi li lít mỗi ký mỗi giờ. Nếu máy chạy trọn 24 giờ, không pha loãng trước màng, liều trung bình đúng bằng 25 và thực nhận đúng bằng 25.",
+    "Nhưng máy hiếm khi chạy trọn cả ngày. Nomenclature năm 2016 liệt kê các nguyên nhân: báo động, đông màng, vấn đề catheter, đưa người bệnh đi chụp hay đi mổ, thay túi dịch.",
+    "Giả sử máy dừng 2 giờ để đi chụp. Máy chạy 22 giờ, liều trung bình 24 giờ giảm còn 22,9, tức 92 phần trăm liều kê.",
+    "Thêm 2 giờ nữa vì quả lọc đông và phải thay màng. Tổng thời gian dừng là 4 giờ, máy chạy 20 giờ. Liều trung bình 24 giờ chỉ còn 20,8 mi li lít mỗi ký mỗi giờ, 83 phần trăm liều kê. Đây là mô phỏng với con số giả định, không phải số liệu của một người bệnh thật.",
+    "Con số 83 phần trăm này khớp với các thử nghiệm: trong ATN, liều thực nhận bằng 89 và 95 phần trăm liều kê; trong RENAL là 84 và 88 phần trăm."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "lieu",
+   "chapter": "Liều kê và liều thực",
+   "title": "Cộng thêm pha loãng trước màng",
+   "lieu": {
+    "wt": 70,
+    "qef": 1750,
+    "dil": 1,
+    "down": [
+     [
+      6,
+      8,
+      "đi chụp"
+     ],
+     [
+      14,
+      16,
+      "đông màng"
+     ]
+    ]
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "dil": 0.89
+     },
+     "label": "Pha loãng trước màng: hệ số 0,89",
+     "c": "coral",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CÔNG THỨC",
+     "t": "Liều thanh thải ≈ Qef × hệ số pha loãng",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "NGUY CƠ",
+     "t": "Thực nhận dưới 20: dưới đích",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Tiếp tục với mô phỏng ấy. Người bệnh vẫn bị dừng máy 4 giờ trong ngày, liều trung bình 20,8, nên ta đã chạm sát đáy vùng đích 20 đến 25.",
+    "Bây giờ thêm một yếu tố nữa là pha loãng trước màng. Teixeira và sách Oxford nêu rằng liều dịch thải ở CVVH hoặc CVVHDF pha loãng trước ước tính quá cao thanh thải thực: liều thanh thải xấp xỉ dịch thải nhân với hệ số pha loãng.",
+    "Với cài đặt Qb 150 và dịch thay thế trước màng 850 như ở phần trước, hệ số pha loãng là 0,89.",
+    "Nhân 20,8 với 0,89 ta được 18,5 mi li lít mỗi ký mỗi giờ. Chỉ còn 74 phần trăm liều kê, và đã rơi xuống dưới vùng đích 20 đến 25: ô số chuyển đỏ.",
+    "Hai yếu tố, thời gian dừng máy và pha loãng trước màng, cộng dồn nhau, và cả hai đều không hiện ra trên y lệnh. Một y lệnh nhìn rất đúng chuẩn là 25 mi li lít mỗi ký mỗi giờ có thể đưa đến liều thực chỉ 18,5. Vì vậy ta phải kê cao hơn."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "lieu",
+   "chapter": "Liều kê và liều thực",
+   "title": "Kê cao hơn để bù: liều 30",
+   "lieu": {
+    "wt": 70,
+    "qef": 1750,
+    "dil": 0.89,
+    "down": [
+     [
+      6,
+      8,
+      "đi chụp"
+     ],
+     [
+      14,
+      16,
+      "đông màng"
+     ]
+    ]
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "qef": 2100
+     },
+     "label": "Kê dịch thải 2.100 mL/h = 30 mL/kg/h",
+     "c": "green",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "RICH",
+     "t": "Kê 30 mL/kg/h để đạt thực nhận 20–25",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "ATN, RENAL: thực nhận 17,5–22 vẫn tương đương",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Cách xử lý thực hành được Teixeira nêu là kê cao hơn đích khoảng 20 đến 25 phần trăm, tức là 25 đến 30 mi li lít mỗi ký mỗi giờ, để bù downtime. Thử nghiệm RICH kê 30 để đạt thực nhận 20 đến 25.",
+    "Ta nâng dịch thải kê lên 2.100 mi li lít mỗi giờ, đúng 30 mi li lít mỗi ký mỗi giờ cho người 70 ký. Với 4 giờ dừng, liều trung bình 24 giờ là 25,0.",
+    "Nhân với hệ số pha loãng 0,89, liều thực là 22,3 mi li lít mỗi ký mỗi giờ, nằm trong vùng đích 20 đến 25. Cùng một người bệnh, cùng thời gian dừng, chỉ cần điều chỉnh y lệnh.",
+    "Nhưng Teixeira cũng lưu ý: ATN và RENAL cho thấy liều thực nhận 17,5 đến 22 mi li lít mỗi ký mỗi giờ vẫn cho kết quả tương đương. Nghĩa là ta không cần đuổi theo liều quá mức, và không nên dùng khoảng cách nhỏ so với đích để biện minh cho việc tăng liều lên cao. Mục tiêu là đạt vùng đích một cách hợp lý, không phải đạt con số chính xác đến từng mi li lít.",
+    "Và nhớ rằng số 2.100 ở đây là liều kê trên máy; khi cân nặng thật khác, hay có thêm dịch vào hoặc ra, ta tính lại."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "list",
+   "chapter": "Thực hành liều",
+   "title": "Rà soát liều hằng ngày",
+   "items": [
+    {
+     "t": "Kê cao hơn đích ≈ 20–25% (25–30 mL/kg/h)",
+     "d": "Teixeira 2025 · RICH kê 30",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Rà soát liều mỗi ngày theo điện giải, toan kiềm, urê",
+     "d": "KDIGO 2026 PP 5.3.2 · chỉnh y lệnh khi cần",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Theo dõi chỉ số chất lượng: downtime, kê/thực, tuổi thọ màng",
+     "d": "Neyra, AJKD 2019 · KDIGO 2026 PP 5.10.2",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "BMI ≥ 30: cân nặng lý tưởng hoặc hiệu chỉnh",
+     "d": "KDIGO 2026 PP 5.3.1 · chưa có cân nặng tham chiếu tối ưu",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    },
+    {
+     "t": "Tăng liều tạm thời ≥ 40 mL/kg/h",
+     "d": "Tiêu cơ vân, ly giải u tăng K, tăng phosphat nặng",
+     "at": 4,
+     "c": "coral",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Vậy trong thực hành hằng ngày ta làm gì? Điều thứ nhất, kê cao hơn đích khoảng 20 đến 25 phần trăm để bù downtime.",
+    "Thứ hai, rà soát liều hằng ngày, dựa vào điện giải, toan kiềm và urê, và chỉnh y lệnh khi cần. Đây là điểm thực hành 5.3.2 của KDIGO 2026 dự thảo.",
+    "Thứ ba, theo dõi các chỉ số chất lượng như thời gian dừng máy, tỷ lệ liều kê trên liều thực, và tuổi thọ quả lọc; các chỉ số này được Neyra và KDIGO 2026 đề xuất ở điểm thực hành 5.10.2.",
+    "Thứ tư, về cân nặng tính liều: ở người có BMI từ 30 trở lên, có thể tính theo cân nặng lý tưởng hoặc cân nặng hiệu chỉnh để tránh liều quá mức; chưa có cân nặng tham chiếu tối ưu nào được thống nhất.",
+    "Thứ năm, có tình huống đặc biệt cần tăng liều tạm thời, từ 40 mi li lít mỗi ký mỗi giờ trở lên, như tiêu cơ vân, ly giải u kèm tăng kali, tăng phosphat nặng, rồi giảm về chuẩn khi đã kiểm soát. Nhưng không tăng liều để lọc lactat hay lọc cytokin."
+   ],
+   "id": "s11",
+   "dense": true
+  },
+  {
+   "layout": "cards",
+   "chapter": "Lưu lượng máu",
+   "title": "Lưu lượng máu Qb và tỷ lệ với dịch",
+   "cards": [
+    {
+     "tag": "PHẠM VI",
+     "t": "100–300 mL/phút",
+     "d": "Phổ biến 150–250",
+     "items": [
+      "Teixeira 2025, Bảng 2",
+      "Tăng Qb giảm FF, cô đặc máu"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "TỶ LỆ",
+     "t": "CVVHD: Qb ≈ 2,5 × Qd",
+     "d": "CVVH: Qb ≈ 5–6 × Qr",
+     "items": [
+      "Giữ tỷ lệ để dịch thẩm tách gần bão hoà",
+      "Teixeira 2025, tr. 771"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "GIỚI HẠN",
+     "t": "Trên ≈ 250 mL/phút",
+     "d": "RCT 100 người: Qb 150 so với 250",
+     "items": [
+      "Không khác tuổi thọ màng",
+      "Qb cao: nhiều báo động áp lực hơn"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KHI DÙNG CITRATE",
+     "t": "Qb 120–150",
+     "items": [
+      "Giảm tổng lượng citrate cần truyền"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Về lưu lượng máu: Qb thường nằm trong khoảng 100 đến 300 mi li lít mỗi phút, phổ biến nhất từ 150 đến 250.",
+    "Teixeira nêu các tỷ lệ cần giữ: với CVVHD, Qb khoảng 2,5 lần Qd; với CVVH, Qb khoảng 5 đến 6 lần Qr. Tăng Qb giúp giảm phân suất lọc và giảm cô đặc máu trong quả lọc.",
+    "Nhưng lợi ích tuổi thọ màng giảm dần khi Qb vượt khoảng 250 mi li lít mỗi phút. Một thử nghiệm ngẫu nhiên trên 100 người bệnh, dùng không chống đông hoặc heparin, so sánh Qb 150 với 250 không thấy khác biệt tuổi thọ màng, vì Qb cao làm tăng báo động áp lực, gây dừng bơm lặp lại và đông màng.",
+    "Khi dùng citrate, nên dùng Qb thấp hơn, ví dụ 120 đến 150 mi li lít mỗi phút, để giảm tổng lượng citrate cần truyền. Chi tiết citrate ở phần bảy."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Kê đơn mẫu",
+   "title": "Bảng kê đơn khởi đầu: 25 mL/kg/h theo cân nặng (mô hình)",
+   "crrt": {
+    "wt": 50,
+    "hct": 30,
+    "mode": "CVVHDF",
+    "uf": 0,
+    "qrpre": 600,
+    "qd": 650,
+    "qb": 150,
+    "ac": "heparin"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "wt": 60,
+      "qrpre": 750,
+      "qd": 750
+     },
+     "label": "60 kg · thay thế trước 750 + thẩm tách 750",
+     "c": "teal",
+     "hold": 7
+    },
+    {
+     "at": "L3",
+     "set": {
+      "wt": 70,
+      "qrpre": 850,
+      "qd": 900
+     },
+     "label": "70 kg · thay thế trước 850 + thẩm tách 900",
+     "c": "teal",
+     "hold": 7
+    },
+    {
+     "at": "L4",
+     "set": {
+      "wt": 80,
+      "qrpre": 1000,
+      "qd": 1000,
+      "qb": 180
+     },
+     "label": "80 kg · 1.000 + 1.000 · Qb 180",
+     "c": "amber",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "GIẢ ĐỊNH",
+     "t": "Kê 25 · chia đôi · chưa tính UFnet",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "KIỂM FF",
+     "t": "Kiểm FF ≤ 20–25% trước khi chốt",
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Bây giờ ta đặt mọi thứ vào một bảng kê đơn khởi đầu. Giả định: đích thực nhận 20 đến 25, kê 25 mi li lít mỗi ký mỗi giờ đủ để bù downtime khoảng 20 phần trăm; CVVHDF chia đôi giữa dịch thay thế trước màng và dịch thẩm tách; siêu lọc ròng chưa tính. Bảng do người soạn tính bằng phép nhân trực tiếp.",
+    "Người bệnh 50 ký: dịch thải 1.250 mi li lít mỗi giờ, gồm khoảng 600 dịch thay thế trước màng và 650 dịch thẩm tách, Qb 150. Mô hình cho phân suất lọc 8,7 phần trăm, liều sau pha loãng 22,8.",
+    "Người 60 ký: dịch thải 1.500, chia 750 và 750. Phân suất lọc 10,6 phần trăm, liều sau pha loãng 22,3.",
+    "Người 70 ký: dịch thải 1.750, gồm 850 và 900, Qb từ 150 đến 180; ở Qb 150, phân suất lọc 11,9 phần trăm, liều sau pha loãng 22,0.",
+    "Người 80 ký: dịch thải 2.000, chia 1.000 và 1.000, Qb từ 180 đến 200; ở Qb 180, phân suất lọc 11,7 phần trăm, liều sau pha loãng 22,1.",
+    "Bảng này dành cho heparin hoặc không chống đông; khi dùng citrate, Qb hạ còn 120 đến 150. Trước khi chốt, luôn kiểm phân suất lọc không quá 20 đến 25 phần trăm theo công thức đã học, và nhớ rằng cả bảng chưa tính siêu lọc ròng, sẽ cộng thêm ở phần chín."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Kê đơn mẫu",
+   "title": "Ví dụ trong sách: người 80 kg và citrate (mô hình)",
+   "crrt": {
+    "wt": 80,
+    "hct": 30,
+    "mode": "CVVHDF",
+    "uf": 100,
+    "qrpre": 900,
+    "qd": 1000,
+    "qb": 180,
+    "ac": "heparin"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "changes": [
+    {
+     "at": "L3",
+     "set": {
+      "qb": 150,
+      "ac": "citrate"
+     },
+     "label": "Citrate vùng · Qb 180 → 150",
+     "c": "amber",
+     "hold": 7
+    },
+    {
+     "at": "L4",
+     "set": {
+      "qb": 120
+     },
+     "label": "Qb 150 → 120 mL/phút",
+     "c": "coral",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "OXFORD 2016 · BẢNG 13.1",
+     "t": "900 + 1.000 + 100 = 2.000 mL/h = 25",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Hạ Qb làm FF tăng: kiểm lại",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Một ví dụ kê đơn CVVHDF cho người 80 ký có trong sách Oxford, bảng 13.1.",
+    "Dịch thay thế 900, dịch thẩm tách 1.000, rút ròng 100, tổng dịch thải 2.000 mi li lít mỗi giờ, đúng 25 mi li lít mỗi ký mỗi giờ. Sách mô tả cách phổ biến là chia dịch thay thế trước màng khoảng một nửa và dịch thẩm tách khoảng một nửa, và đặt bơm dịch thải lớn hơn tổng hai dòng để đạt mức rút dịch mong muốn.",
+    "Chạy trên mô phỏng với Qb 180, phân suất lọc 11,8 phần trăm, hệ số pha loãng 0,89, liều sau pha loãng 22,3 mi li lít mỗi ký mỗi giờ. Rất an toàn cho quả lọc.",
+    "Bây giờ giả sử ta chuyển sang citrate vùng và hạ Qb xuống 150. Phân suất lọc tăng lên 13,9 phần trăm và liều sau pha loãng còn 21,9.",
+    "Nếu hạ tiếp Qb xuống 120 mi li lít mỗi phút, phân suất lọc là 16,8 phần trăm và liều sau pha loãng chỉ còn 21,2. Vẫn còn dưới ngưỡng hai mươi lăm phần trăm, nhưng khoảng đệm đã mỏng đi, nên khi dùng citrate ta phải tính lại phân suất lọc và liều thực.",
+    "Cũng nhớ rằng với CVVH, ta ưu tiên một phần đáng kể dịch thay thế trước màng để giữ phân suất lọc dưới ngưỡng, chấp nhận giảm thanh thải và bù bằng tăng dịch thải."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Dịch lọc",
+   "title": "Thành phần dịch mẫu A – B – C",
+   "head": [
+    "",
+    "Mẫu A (chuẩn)",
+    "Mẫu B (tăng K)",
+    "Mẫu C (dùng với citrate)"
+   ],
+   "widths": "0.8fr 1.2fr 1.2fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Na⁺",
+      "140",
+      "140",
+      "140 mEq/L"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "K⁺",
+      "4",
+      "<b>0</b>",
+      "4 mEq/L"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Cl⁻",
+      "113",
+      "109",
+      "120,5 mEq/L"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Ca²⁺",
+      "2,5",
+      "2,5",
+      "<b>0</b> mEq/L"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Mg²⁺",
+      "1,5",
+      "1,5",
+      "1,5 mEq/L"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "HCO₃⁻",
+      "32",
+      "32",
+      "<b>22</b> mEq/L"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Lactat",
+      "3",
+      "3",
+      "3 mEq/L"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Glucose",
+      "100",
+      "100",
+      "100 mg/dL"
+     ],
+     "at": 0,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Về dịch lọc, sách Oxford, bảng 15.1, đưa ra ba thành phần mẫu. Mẫu A là dịch chuẩn: natri 140, kali 4, clorua 113, canxi 2,5, magie 1,5, bicarbonat 32, lactat 3 mi li đương lượng mỗi lít, glucose 100 mi li gam mỗi đề xi lít.",
+    "Mẫu B dành cho người tăng kali: kali bằng 0, clorua 109, các thành phần khác như mẫu A. Khi dùng dịch không kali phải theo dõi sát để tránh hạ kali do điều trị; có thể bổ sung kali vào dịch để đạt nồng độ mong muốn.",
+    "Mẫu C dùng với citrate: canxi bằng 0, vì citrate vùng cần máu không có canxi trong quả lọc, và canxi được bù riêng sau quả lọc.",
+    "Mẫu C cũng có bicarbonat thấp hơn, 22 mi li đương lượng mỗi lít, và clorua cao hơn, 120,5, vì citrate cũng là một nguồn đệm. Đây là các thành phần mẫu trong sách; dịch thương mại tại Việt Nam, tên và thành phần cụ thể, cần đối chiếu tại cơ sở."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Dịch lọc",
+   "title": "Đệm bicarbonat và an toàn dịch lọc",
+   "cards": [
+    {
+     "tag": "ĐỆM BICARBONAT",
+     "t": "Thay lactat",
+     "items": [
+      "R5.7.1 · 2C · mọi AKI",
+      "<b>R5.7.2 · 1B</b> · AKI có sốc tuần hoàn",
+      "R5.7.3 · 2B · suy gan và/hoặc toan lactic"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KHÔNG DÙNG",
+     "t": "Acetat làm đệm",
+     "items": [
+      "Ức chế co bóp cơ tim",
+      "Oxford 2016"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "CHUẨN VI SINH",
+     "t": "R5.7.4 · 1B",
+     "items": [
+      "Dịch thương mại cùng chuẩn: dùng hoán đổi",
+      "Tự pha tại khoa từng gây sai sót thảm hoạ: không khuyến khích",
+      "Nếu bắt buộc: định lượng kiểm tra trước"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CÓ PHOSPHAT",
+     "t": "Dự phòng hạ phospho",
+     "items": [
+      "KSN 2025 KQ4 · B · chứng cứ rất thấp",
+      "Xem phần 10"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bây giờ đến lựa chọn đệm. KDIGO 2012 khuyến cáo dùng bicarbonat thay lactat: khuyến cáo 5.7.1, mức 2C, cho mọi tổn thương thận cấp; khuyến cáo 5.7.2, mức 1B, cho người có sốc tuần hoàn; và khuyến cáo 5.7.3, mức 2B, cho người suy gan và hoặc toan lactic.",
+    "Acetat ức chế co bóp cơ tim, nên không dùng làm đệm cho lọc máu liên tục.",
+    "Dịch phải đạt chuẩn vi sinh, khuyến cáo 5.7.4, mức 1B. Dịch thương mại có cùng chuẩn vi sinh có thể dùng hoán đổi làm dịch thẩm tách hay dịch thay thế. Tự pha dịch tại khoa từng gây những sai sót thảm hoạ, nên không được khuyến khích; nếu bắt buộc phải làm, dịch phải được định lượng kiểm tra trước khi dùng.",
+    "Và dịch có phosphat để dự phòng hạ phospho, khuyến cáo KQ4 của hội thận học Hàn Quốc 2025, mức B, chứng cứ rất thấp; ta sẽ bàn ở phần mười."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: liều thực nhận bao nhiêu?",
+   "case": "Nữ, 60 kg, CVVHDF, dịch thải kê 1.500 mL/h (25 mL/kg/h). Trong ngày máy dừng tổng cộng 4 giờ (đi chụp, thay màng). Hệ số pha loãng 0,89.",
+   "case_at": 0,
+   "q": "Đánh giá và xử trí hợp lý?",
+   "q_at": 1,
+   "options": [
+    "Đạt: kê 25 là đúng khuyến cáo, giữ nguyên",
+    "Thực nhận chỉ ≈ 18,5, dưới đích: kê lên ≈ 30 mL/kg/h (1.800 mL/h) và giảm downtime",
+    "Tăng lên 40 mL/kg/h để chắc chắn",
+    "Ngừng lọc vì liều không đạt"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Máy chạy 20 giờ: TB 20,8; × 0,89 = 18,5 (74% liều kê). Kê 30: TB 25,0 → thực 22,3.",
+   "lines": [
+    "Tình huống. Người bệnh nữ 60 ký, chạy CVVHDF, dịch thải kê 1.500 mi li lít mỗi giờ, tức 25 mi li lít mỗi ký mỗi giờ. Trong ngày, máy dừng tổng cộng 4 giờ, đi chụp và thay màng. Hệ số pha loãng là 0,89.",
+    "Đánh giá và xử trí nào hợp lý?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là liều thực nhận chỉ khoảng 18,5, dưới đích, nên nâng liều kê lên khoảng 30 mi li lít mỗi ký mỗi giờ, tức 1.800 mi li lít mỗi giờ, đồng thời giảm thời gian dừng máy. Tính nhanh: máy chạy 20 giờ, liều trung bình 24 giờ là 20,8; nhân với 0,89 được 18,5, tức 74 phần trăm liều kê. Kê lên 30, liều trung bình là 25,0, liều thực là 22,3, vào vùng đích. Không cần lên 40: liều cao không có lợi, còn làm tăng nguy cơ hạ phospho. Và không có lý do để ngừng lọc máu, vì đây là vấn đề kê đơn có thể sửa."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 6",
+   "items": [
+    {
+     "t": "Liều thực nhận 20–25 mL/kg/h",
+     "d": "ATN, RENAL: liều cao không lợi hơn · KDIGO R5.3.1 · 1B",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Không dùng HVHF trong sốc nhiễm khuẩn",
+     "d": "IVOIRE · KDIGO R5.3.2 · 1B",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Tách bạch liều kê và liều thực nhận",
+     "d": "Thực/kê: ATN 89–95% · RENAL 84–88%",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Kê cao hơn đích ≈ 20–25% (25–30 mL/kg/h)",
+     "d": "Downtime + pha loãng trước làm tụt liều thực",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Qb 150–250; citrate 120–150; Qb ≈ 2,5 × Qd (CVVHD)",
+     "d": "Kiểm FF ≤ 20–25% trước khi chốt",
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "t": "Dịch bicarbonat; K 0 khi tăng K; dịch có phosphat dự phòng",
+     "d": "Không tự pha dịch tại khoa",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần sáu. Liều thực nhận 20 đến 25 mi li lít mỗi ký mỗi giờ là mục tiêu, dựa trên ATN và RENAL cho thấy liều cao không cải thiện sống còn; KDIGO 2026 khuyến cáo 5.3.1, mức 1B.",
+    "Không dùng siêu lọc thể tích cao trong sốc nhiễm khuẩn, theo IVOIRE và KDIGO 2026 khuyến cáo 5.3.2.",
+    "Tách bạch liều kê với liều thực nhận. Trong ATN và RENAL, liều thực nhận chỉ bằng 84 đến 95 phần trăm liều kê.",
+    "Vì thế kê cao hơn đích khoảng 20 đến 25 phần trăm, tức 25 đến 30, để bù thời gian dừng máy và pha loãng trước màng.",
+    "Qb thường 150 đến 250 mi li lít mỗi phút, thấp hơn khi dùng citrate; luôn kiểm phân suất lọc trước khi chốt y lệnh.",
+    "Chọn dịch bicarbonat, dịch không kali khi tăng kali, cân nhắc dịch có phosphat. Phần sau, chúng ta bàn về chống đông citrate vùng. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s18",
+   "dense": true
+  }
+ ]
+}

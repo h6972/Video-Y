@@ -1,0 +1,1004 @@
+{
+ "title": "Lọc máu liên tục – Phần 5: Catheter và khởi động máy an toàn",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 5/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "Cathedia": "ca thê đi a",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "3SITES": "ba sai",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CSCCM": "xê ét xê xê em",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "JAMA": "gia ma",
+  "NEJM": "en ê giây em",
+  "Pacc": "áp lực truy cập",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "BMI": "chỉ số khối cơ thể",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương"
+ },
+ "brand": {
+  "next": "Phần 6: Kê đơn và liều"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Catheter và<br>khởi động máy an toàn",
+   "subtitle": "Vị trí · chiều dài · siêu âm · khởi động",
+   "badges": [
+    {
+     "t": "Siêu âm hướng dẫn · 1A",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "12–15 · 15–20 · 19–24 cm",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Khởi động: 150 mL",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": "Mô phỏng khởi động – áp lực là mô hình minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm của loạt bài lọc máu liên tục thực hành.",
+    "Mọi cài đặt đẹp đến đâu cũng vô nghĩa nếu catheter không cho máu đi ra đủ nhanh. Trong thực hành hồi sức, rất nhiều lần quả lọc đông, máy báo động liên tục, liều không đạt, mà nguyên nhân thật nằm ở đầu catheter chứ không phải ở máy.",
+    "Hôm nay chúng ta đi từ chọn loại catheter, chọn vị trí, chọn chiều dài, kỹ thuật đặt, cho tới khoảnh khắc bấm nút khởi động máy. Ở phần cuối, chúng ta sẽ xem một mô phỏng khởi động với ba mức catheter: một catheter tốt, một catheter kém, và một catheter rất kém, để thấy rõ áp lực truy cập thay đổi thế nào khi ta tăng lưu lượng máu. Nhắc lại rằng mọi con số áp lực trong các mô phỏng là mô hình minh hoạ; còn dịch thải, liều, phân suất lọc được tính đúng công thức như ở phần hai."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "chapter": "Loại catheter",
+   "title": "Chọn loại catheter",
+   "items": [
+    {
+     "t": "Bắt đầu bằng catheter không cuff, không đường hầm",
+     "d": "KDIGO 2012 R5.4.1 · 2D",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Hai nòng, lỗ hút và lỗ trả so le trên 3 cm",
+     "d": "Giảm tái tuần hoàn · bình thường dưới 5%",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Phải bảo đảm Qb ít nhất 200 mL/phút",
+     "d": "Teixeira 2025",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "Dự kiến lọc kéo dài: chuyển catheter có cuff, đường hầm",
+     "d": "Sách: trên 3 tuần · KDIGO 2026 PP 5.4.7–5.4.8",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    },
+    {
+     "t": "Không dùng cầu nối động – tĩnh mạch sẵn có",
+     "d": "KDIGO 2026 PP 5.4.4",
+     "at": 4,
+     "c": "coral",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Bắt đầu với loại catheter. Ở người bệnh tổn thương thận cấp, KDIGO 2012 khuyến cáo dùng catheter không cuff, không đường hầm để bắt đầu, mức 2D.",
+    "Đó là catheter hai nòng, một nòng đỏ lấy máu ra, một nòng xanh trả máu về. Lỗ hút và lỗ trả được thiết kế so le, cách nhau trên 3 xen ti mét, để máu vừa trả về không bị hút ngược trở lại. Hiện tượng đó gọi là tái tuần hoàn, và ở catheter tốt, tỷ lệ này bình thường dưới 5 phần trăm.",
+    "Catheter cũng phải đủ lòng rộng. Core Curriculum 2025 của Teixeira nêu rằng catheter phải bảo đảm lưu lượng máu ít nhất 200 mi li lít mỗi phút. Về vật liệu, sách Oxford cho biết polyurethane có thành mỏng, lòng rộng, lưu lượng cao; silicone mềm hơn, ít tổn thương mạch hơn nhưng dễ xẹp.",
+    "Nếu dự kiến phải lọc kéo dài, sách nêu mốc trên 3 tuần, hoặc người bệnh phụ thuộc lọc máu và khả năng hồi phục thấp, thì nên chuyển sang catheter có cuff và đường hầm. KDIGO 2026 bản dự thảo cũng có các điểm thực hành 5.4.7 và 5.4.8 về việc này.",
+    "Và một lưu ý: không dùng cầu nối động – tĩnh mạch sẵn có của người bệnh để chạy lọc máu liên tục, vì nguy cơ tuột kim, mất máu và hỏng cầu nối. Đây là điểm thực hành 5.4.4 của KDIGO 2026 dự thảo. Nghĩa là mỗi lần lọc máu liên tục, ta cần một đường vào mạch máu riêng, đặt đúng chỗ, đủ lưu lượng, thay vì tận dụng đường vào đang phục vụ chức năng khác."
+   ],
+   "id": "s02",
+   "dense": true
+  },
+  {
+   "layout": "box",
+   "chapter": "Tái tuần hoàn",
+   "title": "Vì sao lỗ hút và lỗ trả phải so le",
+   "box": {
+    "tag": "KDIGO 2012 · OXFORD 2016",
+    "t": "Lỗ hút và lỗ trả so le <b>trên 3 cm</b> để giảm tái tuần hoàn; bình thường <b>dưới 5%</b>. Catheter ngắn gây tái tuần hoàn.",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "HỆ QUẢ",
+     "t": "Máu vừa lọc bị hút ngược lại, hiệu quả lọc giảm",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Chọn đúng chiều dài, kiểm tra đầu catheter trên X-quang",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Một thuật ngữ cần hiểu kỹ trước khi bàn tiếp là tái tuần hoàn. Catheter lọc máu có hai nòng nằm sát nhau trong cùng một tĩnh mạch lớn: nòng đỏ lấy máu đi, nòng xanh trả máu về.",
+    "Nếu hai lỗ nằm quá gần, một phần máu vừa được lọc xong và trả về lại bị hút ngược vào nòng đỏ, quay vòng trong mạch mà không đến được cơ thể người bệnh. Vì vậy thiết kế catheter đặt lỗ hút và lỗ trả so le trên 3 xen ti mét, và ở catheter tốt, tái tuần hoàn bình thường dưới 5 phần trăm.",
+    "Hệ quả là phần máu quay vòng ấy làm giảm hiệu quả lọc so với những gì máy hiển thị. Sách Oxford nhấn mạnh việc chọn đúng chiều dài, vì catheter quá ngắn gây tái tuần hoàn.",
+    "Do đó, chọn chiều dài theo vị trí, kiểm tra đầu catheter trên X-quang, và xem lại khi lọc máu kém hiệu quả dù cài đặt đầy đủ, là những việc nhỏ nhưng có giá trị lớn."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Chiều dài",
+   "title": "Chiều dài catheter theo vị trí",
+   "cards": [
+    {
+     "tag": "CẢNH TRONG PHẢI",
+     "t": "12–15 cm",
+     "d": "KDIGO 2012",
+     "items": [
+      "Độ sâu ước tính ≈ chiều cao (cm) / 10",
+      "Đầu catheter ở chỗ nối tĩnh mạch chủ trên – nhĩ phải"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CẢNH TRONG TRÁI",
+     "t": "15–20 cm",
+     "d": "KDIGO 2012",
+     "items": [
+      "Độ sâu ước tính ≈ chiều cao (cm) / 10 + 4 cm",
+      "Kiểm lại độ sâu bằng X-quang"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "ĐÙI",
+     "t": "19–24 cm",
+     "d": "KDIGO 2012",
+     "items": [
+      "Đầu catheter nằm trong tĩnh mạch chủ dưới",
+      "Sách Oxford: thường dùng loại 16 hoặc 20 cm"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "note": {
+    "t": "Luôn kiểm lại độ sâu bằng X-quang: ước tính chỉ là điểm xuất phát",
+    "at": 3,
+    "c": "coral"
+   },
+   "lines": [
+    "Chiều dài catheter thường bị xem nhẹ, nhưng nó quyết định tái tuần hoàn và hiệu quả lọc. KDIGO 2012 đưa ra chiều dài tối ưu theo vị trí.",
+    "Với tĩnh mạch cảnh trong bên phải, chiều dài từ 12 đến 15 xen ti mét. Teixeira đưa ra cách ước tính độ sâu: lấy chiều cao tính bằng xen ti mét, chia cho 10.",
+    "Với tĩnh mạch cảnh trong bên trái, chiều dài từ 15 đến 20 xen ti mét. Độ sâu ước tính bằng chiều cao chia 10, cộng thêm 4 xen ti mét.",
+    "Với tĩnh mạch đùi, chiều dài từ 19 đến 24 xen ti mét, với đầu catheter nằm trong tĩnh mạch chủ dưới. Sách Oxford nhấn mạnh phải chọn đúng chiều dài, thường là loại 16 hoặc 20 xen ti mét, vì catheter quá ngắn gây tái tuần hoàn.",
+    "Các công thức ước tính độ sâu chỉ là điểm xuất phát. Luôn kiểm lại bằng hình ảnh học, mà chúng ta sẽ bàn ngay sau đây."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Vị trí",
+   "title": "Thứ tự ưu tiên vị trí đặt catheter",
+   "head": [
+    "Nguồn",
+    "Thứ tự ưu tiên",
+    "Mức"
+   ],
+   "widths": "1.1fr 3fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "KDIGO 2012 R5.4.2",
+      "Cảnh trong phải → đùi → cảnh trong trái → dưới đòn (ưu tiên bên tay thuận)",
+      "Not graded"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "SRLF 2025 R5.1C",
+      "Cảnh trong phải → đùi → cảnh trong trái, để giảm rối loạn chức năng catheter",
+      "Grade 2+"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "SRLF 2025 R5.1A–B",
+      "Cảnh và đùi “có lẽ tương đương” về nhiễm khuẩn; không khuyến cáo vị trí nào để giảm huyết khối",
+      "Grade 2+ · chứng cứ không đủ"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "CSCCM 2026",
+      "Ưu tiên cảnh trong phải hoặc đùi",
+      "Yếu · chứng cứ rất thấp"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Vậy đặt ở đâu? Các khuyến cáo khá nhất quán với nhau.",
+    "KDIGO 2012, khuyến cáo 5.4.2, xếp theo thứ tự: tĩnh mạch cảnh trong phải, rồi tĩnh mạch đùi, rồi cảnh trong trái, sau cùng là tĩnh mạch dưới đòn, ưu tiên bên tay thuận. Khuyến cáo này không được xếp mức chứng cứ.",
+    "Hội hồi sức Pháp SRLF 2025, khuyến cáo 5.1C, cũng xếp cảnh trong phải trước, rồi đùi, rồi cảnh trong trái, nhằm giảm rối loạn chức năng catheter, Grade 2 cộng. Cũng trong SRLF, các khuyến cáo 5.1A và 5.1B cho rằng cảnh và đùi có lẽ tương đương nhau về nhiễm khuẩn, và không khuyến cáo vị trí nào để giảm huyết khối, vì chứng cứ không đủ.",
+    "Khuyến cáo CSCCM năm 2026 ưu tiên cảnh trong phải hoặc đùi, mức yếu, chứng cứ rất thấp. Tóm lại, cảnh trong phải là lựa chọn đầu tay được cả ba nguồn đồng thuận; đùi là lựa chọn thứ hai; và tĩnh mạch dưới đòn luôn đứng cuối. Cần nhớ rằng đây là các khuyến cáo có mức chứng cứ thấp đến rất thấp, nên ở từng người bệnh, ta vẫn cân nhắc giải phẫu, tình trạng đông máu, khả năng tiếp cận và kinh nghiệm của người đặt, dưới hướng dẫn của siêu âm."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Cathedia",
+   "title": "Cathedia: cảnh hay đùi?",
+   "groups": [
+    {
+     "t": "Định cư vi khuẩn khi rút catheter (%)",
+     "d": "Cathedia · JAMA 2008 · 750 người bệnh · 12 trung tâm Pháp · P = 0,31",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Đùi",
+       "v": 25.9,
+       "lab": "25,9%",
+       "c": "amber"
+      },
+      {
+       "k": "Cảnh trong",
+       "v": 24.9,
+       "lab": "24,9%",
+       "c": "teal"
+      }
+     ]
+    },
+    {
+     "t": "Tụ máu (%)",
+     "d": "Khác biệt có ý nghĩa · P = 0,03",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Cảnh trong",
+       "v": 3.6,
+       "lab": "3,6%",
+       "c": "coral"
+      },
+      {
+       "k": "Đùi",
+       "v": 1.1,
+       "lab": "1,1%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 32,
+   "h": 470,
+   "notes": [
+    {
+     "t": "Nhiễm khuẩn huyết do catheter: 0,9% so với 1,6% (P = 0,42)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Catheter lọc máu đầu tiên được thử nghiệm so sánh vị trí",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Không dùng 3SITES làm bằng chứng cho catheter lọc máu",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Bằng chứng trực tiếp duy nhất cho catheter lọc máu đến từ thử nghiệm Cathedia, đăng trên JAMA năm 2008, trên 750 người bệnh ở 12 trung tâm của Pháp. Đây là thử nghiệm so sánh vị trí đầu tiên với catheter lọc máu.",
+    "Kết quả chính: tỷ lệ vi khuẩn định cư ở đầu catheter khi rút là 25,9 phần trăm ở đùi và 24,9 phần trăm ở cảnh trong, không khác biệt, P bằng 0,31. Nhiễm khuẩn huyết do catheter là 0,9 phần trăm so với 1,6 phần trăm, cũng không khác biệt, P bằng 0,42.",
+    "Điểm khác biệt duy nhất là tụ máu: 3,6 phần trăm ở cảnh trong, so với 1,1 phần trăm ở đùi, P bằng 0,03.",
+    "Một lưu ý về phương pháp: thử nghiệm 3SITES trên tạp chí NEJM năm 2015 so sánh vị trí catheter tĩnh mạch trung tâm nói chung, không có phân nhóm catheter lọc máu, nên không dùng làm bằng chứng cho catheter lọc máu liên tục. Nói cách khác, dữ liệu so sánh vị trí cho catheter lọc máu rất ít, và hầu hết khuyến cáo hiện nay dựa trên chứng cứ thấp cùng ý kiến chuyên gia. Điều đó càng khiến việc chọn vị trí theo từng người bệnh trở nên quan trọng."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Cathedia",
+   "title": "Cathedia: vị trí tốt nhất phụ thuộc vào BMI",
+   "tiles": [
+    {
+     "tag": "TAM PHÂN VỊ BMI THẤP NHẤT",
+     "v": 2.1,
+     "dec": 2,
+     "suf": "",
+     "l": "tỷ số nguy cơ định cư (cảnh / đùi)",
+     "d": "KTC 95% 1,13–3,91 · cảnh định cư NHIỀU hơn đùi",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "TAM PHÂN VỊ BMI CAO NHẤT",
+     "v": 0.4,
+     "dec": 2,
+     "suf": "",
+     "l": "tỷ số nguy cơ định cư (cảnh / đùi)",
+     "d": "KTC 95% 0,23–0,69 · cảnh định cư ÍT hơn đùi",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "cols": 2,
+   "h": 420,
+   "note": {
+    "t": "Người béo phì: tránh đùi, ưu tiên cảnh (kể cả cảnh trái)",
+    "at": 3,
+    "c": "coral"
+   },
+   "lines": [
+    "Nhưng con số tổng thể che giấu một tương tác quan trọng với chỉ số khối cơ thể. Khi chia người bệnh theo ba nhóm BMI, kết quả đảo chiều.",
+    "Ở nhóm BMI thấp nhất, tĩnh mạch cảnh bị vi khuẩn định cư nhiều hơn tĩnh mạch đùi: tỷ số nguy cơ 2,10, khoảng tin cậy từ 1,13 đến 3,91.",
+    "Ở nhóm BMI cao nhất thì ngược lại: cảnh ít định cư hơn đùi, tỷ số nguy cơ 0,40, khoảng tin cậy từ 0,23 đến 0,69. Các ngưỡng BMI cụ thể của từng nhóm cần đối chiếu bản gốc, nên tôi không đọc ở đây.",
+    "Thông điệp thực hành, theo Teixeira 2025: ở người béo phì, tránh tĩnh mạch đùi, ưu tiên tĩnh mạch cảnh, kể cả cảnh bên trái. Còn tĩnh mạch dưới đòn thì tránh vì nguy cơ hẹp tĩnh mạch trung tâm và mất đường vào lâu dài ở bên đó. Lý do này đặc biệt đáng lưu ý ở người bệnh có thể phải lọc máu kéo dài, vì đường vào mạch máu là tài sản quý của họ."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "list",
+   "chapter": "Kỹ thuật đặt",
+   "title": "Đặt catheter: siêu âm và X-quang",
+   "items": [
+    {
+     "t": "Siêu âm hướng dẫn khi đặt",
+     "d": "KDIGO 2012 R5.4.3 · 1A  |  KSN 2025 KQ9 · A  |  CSCCM 2026 · mạnh",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "X-quang ngực ngay sau đặt, trước lần dùng đầu tiên",
+     "d": "Cảnh trong và dưới đòn · KDIGO 2012 R5.4.4 · 1B",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Đầu catheter cảnh ở chỗ nối tĩnh mạch chủ trên – nhĩ phải",
+     "d": "KDIGO 2026 PP 5.6.2: tối ưu vị trí đầu catheter kéo dài tuổi thọ màng",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "Biến chứng khi đặt: giảm nhờ siêu âm",
+     "d": "Chọc động mạch, tràn khí, tràn máu màng phổi, thuyên tắc khí, loạn nhịp, ép tim, tụ máu sau phúc mạc",
+     "at": 3,
+     "c": "coral",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Về kỹ thuật, khuyến cáo mạnh nhất là siêu âm hướng dẫn. KDIGO 2012, khuyến cáo 5.4.3, mức 1A; khuyến cáo của hội thận học Hàn Quốc 2025, KQ9, mức A với chứng cứ cao; khuyến cáo CSCCM 2026 cũng ở mức mạnh.",
+    "Sau khi đặt catheter cảnh trong hoặc dưới đòn, phải chụp X-quang ngực ngay, và phải xem phim trước lần dùng đầu tiên. Đây là khuyến cáo 5.4.4 của KDIGO 2012, mức 1B.",
+    "Đầu catheter cảnh nên nằm ở chỗ nối tĩnh mạch chủ trên và nhĩ phải. KDIGO 2026 bản dự thảo, điểm thực hành 5.6.2, còn xem việc tối ưu vị trí đầu catheter ở nhĩ phải là một biện pháp kéo dài tuổi thọ quả lọc. Còn đầu catheter đùi phải nằm trong tĩnh mạch chủ dưới. Quy trình đặt catheter tĩnh mạch đùi để lọc máu cấp cứu ở nước ta theo quyết định 1904 của Bộ Y tế năm 2014.",
+    "Các biến chứng khi đặt gồm chọc động mạch, tràn khí, tràn máu màng phổi, thuyên tắc khí, loạn nhịp, ép tim, và tụ máu sau phúc mạc. Sách Oxford ghi nhận siêu âm giúp giảm các biến chứng này, vì vậy siêu âm là bước không nên bỏ, kể cả khi đặt cấp cứu. Siêu âm giúp nhìn thấy tĩnh mạch, phân biệt với động mạch, kiểm tra tĩnh mạch còn thông, và hướng kim an toàn. Với tất cả những lợi ích đó, một chiếc đầu dò siêu âm cạnh giường là trang bị thiết yếu của khoa hồi sức."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Khởi động",
+   "title": "Khởi động máy an toàn: các bước",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Mồi mạch và màng",
+     "d": "dịch tinh thể đẳng trương",
+     "x": 230,
+     "y": 250,
+     "w": 340,
+     "h": 150,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Chuẩn bị huyết động",
+     "d": "mạch ngoài cơ thể ≈ 150 mL",
+     "x": 700,
+     "y": 250,
+     "w": 340,
+     "h": 150,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Bơm máu 20–30 mL/phút",
+     "d": "đến khi toàn mạch đầy máu",
+     "x": 1170,
+     "y": 250,
+     "w": 340,
+     "h": 150,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Tăng từng bước ≈ 50",
+     "d": "ví dụ 200 mL/phút, trên 5 phút",
+     "x": 1640,
+     "y": 250,
+     "w": 340,
+     "h": 150,
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "Bật các dòng dịch",
+     "d": "khi đường máu đã ổn định",
+     "x": 1640,
+     "y": 470,
+     "w": 340,
+     "h": 150,
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "note": {
+    "t": "Theo sách Oxford 2016 · quy trình BYT 1904 và hướng dẫn máy cần đối chiếu",
+    "at": 5,
+    "c": "violet"
+   },
+   "lines": [
+    "Bây giờ đến khoảnh khắc khởi động. Bước đầu là mồi mạch và quả lọc bằng dịch tinh thể đẳng trương theo hướng dẫn của máy.",
+    "Điều ít người nhớ là thể tích của mạch ngoài cơ thể ở người lớn khoảng 150 mi li lít. Khi nối máy, người bệnh tương đương bị trích đi 150 mi li lít máu trong một thời gian ngắn. Với người khoẻ thì không sao, nhưng với người đang tụt áp, phụ thuộc vận mạch, đây có thể là giọt nước tràn ly.",
+    "Vì vậy sách Oxford khuyên đặt bơm máu ở 20 đến 30 mi li lít mỗi phút, cho đến khi toàn bộ mạch đã đầy máu.",
+    "Sau đó tăng từng bước khoảng 50 mi li lít mỗi phút đến mức đích, ví dụ 200 mi li lít mỗi phút, trong hơn 5 phút.",
+    "Chỉ khi đường máu đã ổn định mới bật các dòng dịch. Người có huyết động không ổn định có thể cần tăng tạm thời vận mạch hoặc dịch, và nối cả hai đường mà không xả dịch mồi; chi tiết này cần đối chiếu quy trình Bộ Y tế 1904 và hướng dẫn của máy.",
+    "KDIGO 2026 bản dự thảo cũng nhấn mạnh xử trí các yếu tố gây mất ổn định huyết động khi bắt đầu và trong suốt quá trình lọc máu, các điểm thực hành 5.1.6 và 5.2.3."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "list",
+   "chapter": "Trước khi bấm nút",
+   "title": "Danh sách kiểm trước khi khởi động",
+   "items": [
+    {
+     "t": "Đã có X-quang ngực sau đặt catheter cảnh trong hoặc dưới đòn",
+     "d": "KDIGO 2012 R5.4.4 · 1B",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Đã mồi mạch và màng bằng dịch tinh thể đẳng trương",
+     "d": "Theo hướng dẫn máy · Oxford 2016",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Đã đánh giá huyết động và xử trí yếu tố mất ổn định",
+     "d": "KDIGO 2026 PP 5.1.6, 5.2.3 · mạch ≈ 150 mL",
+     "at": 2,
+     "c": "coral",
+     "n": 3
+    },
+    {
+     "t": "Bơm máu bắt đầu 20–30 mL/phút, tăng từng bước ≈ 50",
+     "d": "Theo dõi áp lực truy cập sau mỗi bước",
+     "at": 3,
+     "c": "amber",
+     "n": 4
+    },
+    {
+     "t": "Chỉ bật dòng dịch khi đường máu ổn định",
+     "d": "Rồi kiểm lại liều, phân suất lọc",
+     "at": 4,
+     "c": "green",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Để gom lại, đây là danh sách kiểm trước khi bấm nút khởi động.",
+    "Thứ nhất, X-quang ngực đã được chụp và xem sau khi đặt catheter cảnh trong hoặc dưới đòn, khuyến cáo 5.4.4 mức 1B.",
+    "Thứ hai, mạch và quả lọc đã được mồi bằng dịch tinh thể đẳng trương theo hướng dẫn của máy.",
+    "Thứ ba, đã đánh giá huyết động. Hãy nhớ rằng mạch ngoài cơ thể chứa khoảng 150 mi li lít máu, và KDIGO 2026 bản dự thảo yêu cầu xử trí các yếu tố gây mất ổn định huyết động khi bắt đầu lọc máu.",
+    "Thứ tư, bơm máu bắt đầu ở 20 đến 30 mi li lít mỗi phút rồi tăng từng bước khoảng 50, quan sát áp lực truy cập và huyết áp sau mỗi bước.",
+    "Thứ năm, chỉ bật dòng dịch khi đường máu đã ổn định, rồi kiểm lại liều kê, phân suất lọc và liều sau pha loãng như ta đã làm ở phần hai."
+   ],
+   "id": "s10",
+   "dense": true
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Mô phỏng",
+   "title": "Khởi động với catheter tốt (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "mode": "CVVHDF",
+    "uf": 0,
+    "qrpre": 0,
+    "qd": 0,
+    "qb": 25,
+    "ac": "heparin"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "qb": 50
+     },
+     "label": "Qb 25 → 50 mL/phút",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L2",
+     "set": {
+      "qb": 100
+     },
+     "label": "Qb 50 → 100 mL/phút",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L3",
+     "set": {
+      "qb": 150
+     },
+     "label": "Qb 100 → 150 mL/phút",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L4",
+     "set": {
+      "qrpre": 850,
+      "qd": 900
+     },
+     "label": "Bật dịch: thay thế trước màng 850 + thẩm tách 900 mL/h",
+     "c": "green",
+     "hold": 7
+    },
+    {
+     "at": "L5",
+     "set": {
+      "qb": 200
+     },
+     "label": "Qb 150 → 200 mL/phút",
+     "c": "amber",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "MÔ HÌNH MINH HOẠ",
+     "t": "Không phải số đo bệnh nhân",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "CATHETER TỐT",
+     "t": "Pacc âm dần, còn xa ngưỡng −150",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bây giờ ta xem mô phỏng. Đây là mô hình minh hoạ, các con số áp lực giúp ta thấy xu hướng, không phải số đo của một bệnh nhân cụ thể. Người bệnh 70 ký, catheter tốt, lỗ hút thông thoáng. Bơm máu mới khởi động ở 25 mi li lít mỗi phút, áp lực truy cập trong mô hình là âm 19 mi li mét thuỷ ngân.",
+    "Tăng lên 50 mi li lít mỗi phút. Áp lực truy cập âm hơn, âm 30. Máu bắt đầu lấp đầy mạch và quả lọc.",
+    "Tăng tiếp lên 100 mi li lít mỗi phút, áp lực truy cập âm 53. Ta vẫn đang tăng từng bước, và theo dõi huyết áp của người bệnh sau mỗi bước.",
+    "Lên 150 mi li lít mỗi phút, áp lực truy cập âm 75, còn cách xa ngưỡng báo động âm 150. Đường máu đã ổn định, đến lúc bật các dòng dịch.",
+    "Ta bật dịch thay thế trước màng 850 và dịch thẩm tách 900 mi li lít mỗi giờ. Dịch thải là 1.750 mi li lít mỗi giờ, đúng 25 mi li lít mỗi ký mỗi giờ. Phân suất lọc 11,9 phần trăm, hệ số pha loãng 0,88, và liều sau pha loãng 22,0 mi li lít mỗi ký mỗi giờ.",
+    "Cuối cùng, nâng Qb lên 200 mi li lít mỗi phút, mức tối thiểu mà catheter phải đáp ứng. Áp lực truy cập âm 98, vẫn thoải mái. Phân suất lọc xuống 9,2 phần trăm, liều sau pha loãng lên 22,7. Một catheter tốt cho phép ta dùng Qb cao khi cần, mà không phải trả giá bằng báo động. Hãy nhớ lại phần hai: khi phân suất lọc cao, tăng Qb là một trong những biện pháp hạ phân suất lọc, nhưng biện pháp đó chỉ khả thi khi catheter cho phép. Nói cách khác, catheter tốt mở ra cho ta thêm lựa chọn khi chỉnh cài đặt."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Mô phỏng",
+   "title": "Catheter kém: áp lực hút chạm ngưỡng (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "mode": "CVVHDF",
+    "uf": 0,
+    "qrpre": 0,
+    "qd": 0,
+    "qb": 25,
+    "ac": "heparin",
+    "kink": 1
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "qb": 50
+     },
+     "label": "Qb 25 → 50 mL/phút",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L2",
+     "set": {
+      "qb": 100
+     },
+     "label": "Qb 50 → 100 mL/phút",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L3",
+     "set": {
+      "qb": 150
+     },
+     "label": "Qb 100 → 150 mL/phút",
+     "c": "amber",
+     "hold": 6
+    },
+    {
+     "at": "L4",
+     "set": {
+      "qb": 200
+     },
+     "label": "Qb 150 → 200 mL/phút",
+     "c": "coral",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "MÔ HÌNH MINH HOẠ",
+     "t": "Sức cản hút gấp đôi catheter tốt",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "NGƯỠNG BÁO ĐỘNG",
+     "t": "Ngưỡng −150 mmHg",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bây giờ cùng người bệnh ấy, cùng cài đặt, nhưng catheter kém: sức cản đường hút cao gấp đôi, ví dụ do gập catheter. Vẫn là mô hình minh hoạ. Ở Qb 25 mi li lít mỗi phút, áp lực truy cập là âm 30, đã âm hơn catheter tốt ở cùng lưu lượng.",
+    "Qb 50, áp lực truy cập âm 53. Chưa có vấn đề gì, và đây chính là cái bẫy: ở lưu lượng thấp, catheter kém vẫn chạy trơn tru.",
+    "Qb 100, áp lực truy cập âm 98. Con số này đã bằng với mức mà catheter tốt đạt được ở Qb 200.",
+    "Qb 150, áp lực truy cập âm 143, sát ngưỡng báo động. Máy dễ báo động áp lực truy cập lặp lại, và mỗi lần dừng bơm là một lần máu đứng yên trong quả lọc.",
+    "Qb 200, áp lực truy cập âm 188, vượt ngưỡng âm 150 và ô báo động chuyển đỏ. Dù y lệnh ghi Qb 200, trên thực tế máy không thể chạy ở lưu lượng đó, và liều thực nhận sẽ thấp hơn liều kê, đúng như ta sẽ bàn ở phần sau. Liều, phân suất lọc, tuổi thọ quả lọc, tất cả đều bị ảnh hưởng.",
+    "Bài học là khi áp lực truy cập quá âm, đừng chỉ hạ Qb xuống rồi chấp nhận. Hãy xem lại chính catheter, vị trí đầu catheter trên phim X-quang, và cân nhắc thay catheter nếu cần."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Mô phỏng",
+   "title": "Catheter rất kém: không thể tăng Qb (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "mode": "CVVHDF",
+    "uf": 0,
+    "qrpre": 0,
+    "qd": 0,
+    "qb": 25,
+    "ac": "heparin",
+    "kink": 2
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "qb": 50
+     },
+     "label": "Qb 25 → 50 mL/phút",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L2",
+     "set": {
+      "qb": 100
+     },
+     "label": "Qb 50 → 100 mL/phút",
+     "c": "amber",
+     "hold": 6
+    },
+    {
+     "at": "L3",
+     "set": {
+      "qb": 150
+     },
+     "label": "Qb 100 → 150 mL/phút",
+     "c": "coral",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "MÔ HÌNH MINH HOẠ",
+     "t": "Sức cản hút gấp 2,5 lần catheter tốt",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "BÀI HỌC",
+     "t": "Tụt sâu khi tăng Qb: xử trí tại catheter",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Đây là trường hợp xấu hơn: sức cản đường hút gấp khoảng hai lần rưỡi catheter tốt, ví dụ catheter gập nặng. Ở Qb 25, áp lực truy cập là âm 42, đã âm hơn nhiều so với catheter tốt.",
+    "Lên Qb 50, áp lực truy cập là âm 75, bằng mức mà catheter tốt chỉ đạt khi chạy Qb 150.",
+    "Chỉ cần lên Qb 100 mi li lít mỗi phút, áp lực truy cập đã là âm 143, sát ngưỡng báo động. Đây là lý do vì sao ta phải theo dõi áp lực truy cập ngay từ các bước đầu của quá trình tăng Qb, thay vì chờ máy báo động.",
+    "Lên 150, áp lực truy cập âm 210, báo động đỏ rõ rệt. Với catheter này, không có cài đặt nào làm máy chạy được ở mức Qb khuyến cáo.",
+    "Điều ta rút ra: nhìn áp lực truy cập ngay trong những phút đầu tăng Qb, vì nó cho biết catheter có đủ khả năng hay không trước khi quả lọc bị đông. KDIGO 2026 bản dự thảo, điểm thực hành 5.4.5, nói catheter hoạt động kém thì thay bằng chọc mới, hoặc ở trường hợp chọn lọc, đổi qua dây dẫn, cá thể hoá theo từng người bệnh."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Chăm sóc",
+   "title": "Chăm sóc catheter và phòng biến chứng",
+   "cards": [
+    {
+     "tag": "CHĂM SÓC",
+     "t": "Bó chuẩn, không thay định kỳ",
+     "items": [
+      "KDIGO 2026 PP 5.4.2, 5.4.6",
+      "Không bôi kháng sinh tại chỗ · R5.4.5 · 2C",
+      "Không khoá kháng sinh dự phòng · R5.4.6 · 2C"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KHOÁ CATHETER",
+     "t": "Trisodium citrate",
+     "items": [
+      "Theo sách: giảm nhiễm khuẩn so với heparin",
+      "Nồng độ khoá: đối chiếu quy định cơ sở"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "HUYẾT KHỐI",
+     "t": "Rất thường gặp: 33–67%",
+     "items": [
+      "Tuỳ phương pháp phát hiện",
+      "Nguy cơ: tăng đông, vị trí đùi hoặc cảnh, nhiều catheter, tuổi trên 64, đặt chấn thương, ung thư"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "note": {
+    "t": "Catheter hoạt động kém → thay mới hoặc đổi qua dây dẫn (cá thể hoá)",
+    "at": 3,
+    "c": "violet"
+   },
+   "lines": [
+    "Sau khi đặt xong, đến chăm sóc. KDIGO 2026 bản dự thảo khuyến nghị áp dụng bó chăm sóc chuẩn khi đặt và duy trì, và không thay catheter định kỳ.",
+    "KDIGO 2012 còn khuyến cáo không bôi kháng sinh tại chỗ đặt, khuyến cáo 5.4.5, và không dùng khoá kháng sinh dự phòng, khuyến cáo 5.4.6, cả hai mức 2C. Khoá catheter bằng trisodium citrate, theo sách, giảm nhiễm khuẩn liên quan catheter so với khoá heparin; nồng độ dung dịch khoá cần đối chiếu quy định tại cơ sở.",
+    "Huyết khối liên quan catheter rất thường gặp, từ 33 đến 67 phần trăm tuỳ phương pháp phát hiện. Các yếu tố nguy cơ gồm tăng đông, vị trí đùi hoặc cảnh, nhiều catheter, tuổi trên 64, đặt do chấn thương, và ung thư.",
+    "Cuối cùng, catheter hoạt động kém thì thay bằng chọc mới hoặc đổi qua dây dẫn ở trường hợp chọn lọc; đừng chấp nhận chạy máy chập chờn kéo dài."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: chọn vị trí đặt catheter",
+   "case": "Nam, 52 tuổi, BMI cao, sốc nhiễm khuẩn, vô niệu, cần lọc máu liên tục. Không có chống chỉ định đặt tại chỗ nào. Cơ sở có máy siêu âm tại giường.",
+   "case_at": 0,
+   "q": "Lựa chọn hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Tĩnh mạch đùi vì nhanh nhất",
+    "Tĩnh mạch dưới đòn bên tay thuận",
+    "Tĩnh mạch cảnh trong phải dưới hướng dẫn siêu âm, chụp X-quang trước khi dùng",
+    "Tĩnh mạch cảnh trong trái, không cần X-quang"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Cảnh trong phải đứng đầu (KDIGO 2012, SRLF 2025); siêu âm 1A; X-quang 1B; BMI cao: tránh đùi (Cathedia, Teixeira 2025).",
+   "lines": [
+    "Tình huống. Người bệnh nam 52 tuổi, chỉ số khối cơ thể cao, sốc nhiễm khuẩn, vô niệu, cần lọc máu liên tục. Không có chống chỉ định đặt tại chỗ nào, và khoa có máy siêu âm tại giường.",
+    "Lựa chọn nào hợp lý nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là tĩnh mạch cảnh trong phải, đặt dưới hướng dẫn siêu âm, rồi chụp X-quang ngực trước khi dùng lần đầu. Cảnh trong phải đứng đầu thứ tự ưu tiên của cả KDIGO và SRLF; siêu âm là khuyến cáo 1A; X-quang ngực là khuyến cáo 1B. Còn ở người béo phì, Cathedia và Teixeira cùng khuyên tránh tĩnh mạch đùi. Tĩnh mạch dưới đòn tránh vì nguy cơ hẹp tĩnh mạch trung tâm. Cảnh trái là lựa chọn tiếp theo nếu cảnh phải không thực hiện được, nhưng vẫn không bỏ qua X-quang."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 5",
+   "items": [
+    {
+     "t": "Catheter hai nòng không cuff để bắt đầu; Qb ít nhất 200 mL/phút",
+     "d": "KDIGO 2012 R5.4.1 · 2D",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Cảnh trong phải → đùi → cảnh trong trái",
+     "d": "Béo phì: tránh đùi · dưới đòn đứng cuối",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Chiều dài: 12–15 · 15–20 · 19–24 cm",
+     "d": "Cảnh phải · cảnh trái · đùi",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Siêu âm khi đặt (1A) và X-quang trước khi dùng (1B)",
+     "d": "Đầu catheter ở nhĩ phải",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Khởi động: Qb 20–30, tăng từng bước ≈ 50, rồi mới bật dịch",
+     "d": "Mạch ngoài cơ thể ≈ 150 mL",
+     "at": 4,
+     "c": "coral"
+    },
+    {
+     "t": "Áp lực truy cập quá âm → xử trí tại catheter",
+     "d": "Mô hình: Qb 200, catheter kém −188",
+     "at": 5,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần năm. Bắt đầu bằng catheter hai nòng không cuff, không đường hầm, đủ lòng rộng để đạt Qb ít nhất 200.",
+    "Thứ tự ưu tiên vị trí là cảnh trong phải, rồi đùi, rồi cảnh trong trái; ở người béo phì tránh đùi, và tĩnh mạch dưới đòn luôn đứng cuối.",
+    "Chiều dài tối ưu theo KDIGO 2012: 12 đến 15 xen ti mét cho cảnh phải, 15 đến 20 cho cảnh trái, 19 đến 24 cho đùi.",
+    "Đặt dưới hướng dẫn siêu âm, mức 1A, và chụp X-quang trước lần dùng đầu tiên, mức 1B.",
+    "Khi khởi động, nhớ rằng mạch lọc chứa khoảng 150 mi li lít máu: bắt đầu thấp, tăng từng bước, bật dịch sau cùng.",
+    "Và khi áp lực truy cập quá âm, hãy xử trí tại catheter. Phần sau, chúng ta bàn về kê đơn và liều. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s16",
+   "dense": true
+  }
+ ]
+}

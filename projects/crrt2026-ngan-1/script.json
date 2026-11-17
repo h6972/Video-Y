@@ -1,0 +1,143 @@
+{
+ "title": "Lọc máu liên tục – Video ngắn 1: FF là gì, vì sao màng đông?",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục",
+ "part": "Lọc máu liên tục · Video ngắn 1",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "canxi toàn phần trên canxi ion",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CaCl₂": "canxi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Ca²⁺": "canxi ion hoá",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "format": "vertical",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "LỌC MÁU LIÊN TỤC",
+   "hook": "Cùng một liều, vì sao quả lọc đông sớm?",
+   "sub": "Phân suất lọc (FF) trong 60 giây",
+   "c": "coral",
+   "lines": [
+    "Cùng một liều lọc máu, vì sao có quả lọc chạy cả ngày, có quả lọc đông sau vài giờ?",
+    "Chìa khoá nằm ở một con số ít được nhìn tới: phân suất lọc, viết tắt là FF."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Phân suất lọc",
+   "title": "FF khi đổi cài đặt (mô phỏng)",
+   "ref": "Teixeira 2025, Bảng 5; mô phỏng minh hoạ",
+   "groups": [
+    {
+     "t": "CVVH, 70 kg, hematocrit 30%",
+     "d": "",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Sau màng, Qb 150",
+       "v": 29.4,
+       "lab": "29,4%",
+       "c": "coral"
+      },
+      {
+       "k": "1.000 mL/h trước màng",
+       "v": 25.3,
+       "lab": "25,3%",
+       "c": "amber"
+      },
+      {
+       "k": "Thêm Qb 200",
+       "v": 19.7,
+       "lab": "19,7%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 35,
+   "h": 560,
+   "lines": [
+    "Phân suất lọc là tỷ lệ giữa toàn bộ nước bị kéo qua màng và lưu lượng huyết tương đi vào quả lọc, cộng dịch thay thế trước màng.",
+    "Trên mô hình minh hoạ, CVVH sau màng với Qb 150 cho phân suất lọc 29,4 phần trăm. Chuyển 1.000 mi li lít mỗi giờ dịch lên trước màng, còn 25,3. Tăng Qb lên 200, còn 19,7."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Đích",
+   "title": "Giữ FF thấp",
+   "box": {
+    "tag": "TEIXEIRA 2025",
+    "t": "Giữ phân suất lọc <b>≤ 20–25%</b> để máu không cô đặc dọc màng.",
+    "at": 0,
+    "c": "teal",
+    "size": 40
+   },
+   "notes": [
+    {
+     "tag": "HẠ FF",
+     "t": "Tăng Qb · pha loãng trước màng · CVVHDF",
+     "at": 1,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Phân suất lọc cao nghĩa là máu cuối quả lọc bị cô đặc, dễ đông màng. Đích là 20 đến 25 phần trăm trở xuống.",
+    "Muốn hạ: tăng Qb, chuyển dịch lên trước màng, hoặc dùng CVVHDF. Xem trọn bài giảng ở link trong bio nhé!"
+   ],
+   "id": "s03"
+  }
+ ]
+}

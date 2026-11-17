@@ -1,0 +1,170 @@
+{
+ "title": "Lọc máu liên tục – Video ngắn 5: Đông màng hay tắc lỗ màng?",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục",
+ "part": "Lọc máu liên tục · Video ngắn 5",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "canxi toàn phần trên canxi ion",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CaCl₂": "canxi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Ca²⁺": "canxi ion hoá",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "format": "vertical",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "BÁO ĐỘNG ÁP LỰC",
+   "hook": "Đông màng hay tắc lỗ màng? Nhìn ΔP",
+   "sub": "TMP tăng: hai khả năng",
+   "c": "coral",
+   "lines": [
+    "Áp lực xuyên màng tăng dần, máy báo động.",
+    "Đó là đông màng, hay tắc lỗ màng do protein? Hãy nhìn chênh áp qua màng."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Đông màng",
+   "title": "Đông màng: TMP và ΔP cùng tăng (mô hình)",
+   "ref": "Mô hình CVVH sau màng, Qb 150, heparin: minh hoạ",
+   "groups": [
+    {
+     "t": "TMP (mmHg)",
+     "d": "",
+     "at": 0,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Giờ 0",
+       "v": 76,
+       "lab": "76",
+       "c": "amber"
+      },
+      {
+       "k": "Giờ 12",
+       "v": 148,
+       "lab": "148",
+       "c": "amber"
+      },
+      {
+       "k": "Giờ 24",
+       "v": 249,
+       "lab": "249",
+       "c": "amber"
+      }
+     ]
+    },
+    {
+     "t": "ΔP qua màng (mmHg)",
+     "d": "",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Giờ 0",
+       "v": 38,
+       "lab": "38",
+       "c": "coral"
+      },
+      {
+       "k": "Giờ 12",
+       "v": 127,
+       "lab": "127",
+       "c": "coral"
+      },
+      {
+       "k": "Giờ 24",
+       "v": 311,
+       "lab": "311",
+       "c": "coral"
+      }
+     ]
+    }
+   ],
+   "max": 340,
+   "h": 560,
+   "lines": [
+    "Mô hình minh hoạ CVVH sau màng chạy 24 giờ, chống đông heparin. Áp lực xuyên màng tăng từ 76 lên 148 rồi 249.",
+    "Chênh áp qua màng cũng tăng, từ 38 lên 127 rồi 311. Cả hai cùng tăng: đó là đông màng."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Phân biệt",
+   "title": "Hai dạng, hai dấu hiệu",
+   "ref": "Teixeira 2025, tr. 771",
+   "box": {
+    "tag": "TEIXEIRA 2025",
+    "t": "Đông màng: <b>ΔP và TMP cùng tăng</b>. Tắc lỗ màng: <b>TMP tăng, ΔP gần như không đổi</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 38
+   },
+   "notes": [
+    {
+     "tag": "TMP > 250",
+     "t": "Gợi ý đông màng đáng kể (tuỳ máy)",
+     "at": 1,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Quy tắc: đông màng thì chênh áp qua màng và áp lực xuyên màng cùng tăng; tắc lỗ màng do protein thì áp lực xuyên màng tăng, chênh áp gần như không đổi.",
+    "Áp lực xuyên màng trên 250 mi li mét thuỷ ngân thường gợi ý đông màng đáng kể, tuỳ máy và tuỳ màng. Hãy lưu xu hướng áp lực ít nhất 24 giờ để đọc cho đúng. Xem trọn bài giảng ở link trong bio nhé!"
+   ],
+   "id": "s03"
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "title": "Lọc máu liên tục – Video ngắn 4: CaCl₂ 5% hay 10%?",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Mỹ Duyên",
+  "tempo": 1.15
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục",
+ "part": "Lọc máu liên tục · Video ngắn 4",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "canxi toàn phần trên canxi ion",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CaCl₂": "canxi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Ca²⁺": "canxi ion hoá",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "intro": false,
+  "outro_s": 3.5,
+  "next": "Trọn bài giảng: link ở bio · bình luận ghim"
+ },
+ "format": "vertical",
+ "scenes": [
+  {
+   "layout": "hook",
+   "kicker": "AN TOÀN THUỐC · CITRATE",
+   "hook": "CaCl₂ 5% hay 10%: sai là gấp đôi liều",
+   "sub": "Công thức Qef/200",
+   "c": "coral",
+   "lines": [
+    "Bù canxi khi chạy citrate: công thức khởi đầu là dịch thải chia 200.",
+    "Nhưng nếu nhầm nồng độ ống canxi clorua, liều canxi sẽ gấp đôi."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Nồng độ",
+   "title": "Hai ống, hai nồng độ",
+   "ref": "Liu 2023 KC6, Bảng 5; Pistolesi 2023, pdf 10",
+   "cards": [
+    {
+     "tag": "CaCl₂ 5%",
+     "t": "0,34 mmol/mL",
+     "d": "Công thức Qef/200: đúng",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CaCl₂ 10%",
+     "t": "0,68 mmol/mL",
+     "d": "Áp Qef/200: gấp đôi liều canxi",
+     "at": 1,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Canxi clorua 5 phần trăm chứa 0,34 mi li mol mỗi mi li lít, và công thức dịch thải chia 200 chỉ đúng cho ống này.",
+    "Ống 10 phần trăm chứa 0,68. Áp nhầm công thức sẽ cho gấp đôi liều canxi, trên một người bệnh đang có nguy cơ rối loạn canxi."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Y lệnh",
+   "title": "Ghi y lệnh an toàn",
+   "box": {
+    "tag": "KIỂM CHÉO",
+    "t": "Qef 1.750 mL/h → CaCl₂ 5% <b>8,75 mL/h ≈ 3,0 mmol/h</b>.",
+    "at": 0,
+    "c": "amber",
+    "size": 40
+   },
+   "notes": [
+    {
+     "tag": "LUÔN GHI",
+     "t": "Nồng độ % và mmol/giờ",
+     "at": 1,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Ví dụ dịch thải 1.750 thì canxi clorua 5 phần trăm là 8,75 mi li lít mỗi giờ, khoảng 3,0 mi li mol mỗi giờ.",
+    "Y lệnh luôn ghi nồng độ phần trăm và mi li mol mỗi giờ; đối chiếu chế phẩm tại cơ sở. Xem trọn bài giảng ở link trong bio nhé!"
+   ],
+   "id": "s03"
+  }
+ ]
+}

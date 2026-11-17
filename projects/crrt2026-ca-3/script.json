@@ -1,0 +1,812 @@
+{
+ "title": "Lọc máu liên tục – Ca 3: Đông màng lặp lại",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Ca lâm sàng 3/3",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "STARRT-AKI": "sờ ta a ka i",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "tCa/iCa": "canxi toàn phần trên canxi ion",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "B-line": "bi lai",
+  "Gattas": "ga tát",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "AKIKI": "a ki ki",
+  "Grade": "gờ rết",
+  "CaCl₂": "canxi clo rua",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Ca²⁺": "canxi ion hoá",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "P/F": "pê trên ép",
+  "RCA": "citrate vùng",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "next": "Trọn loạt: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng hồi sức · Lọc máu liên tục · Ca 3",
+   "title": "Đông màng lặp lại:<br>đọc áp lực, sửa gốc",
+   "subtitle": "Nam 58 tuổi · CVVH sau màng · heparin",
+   "badges": [
+    {
+     "t": "3 lần/ngày",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Áp lực truy cập −150",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "2 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "note": "Ca giả định, đã ẩn danh; áp lực và tuổi thọ màng là mô hình minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, đây là video ca lâm sàng thứ ba, và cũng là ca đầu tiên mà chính máy lọc sẽ nói chuyện với chúng ta, thông qua các con số áp lực.",
+    "Một người đàn ông 58 tuổi chạy CVVH pha loãng sau màng, chống đông heparin. Quả lọc đông sau 6 đến 8 giờ, mỗi ngày ba lần.",
+    "Phản xạ quen thuộc là tăng heparin. Nhưng đông màng sớm thường là bệnh của catheter và cài đặt, không phải của thiếu heparin. Ta sẽ đọc dữ liệu máy để chứng minh điều đó."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "chapter": "Dữ liệu máy",
+   "title": "Dữ liệu máy của người bệnh",
+   "ref": "Teixeira 2025; Oxford 2016",
+   "items": [
+    {
+     "t": "Áp lực truy cập −150 mmHg khi người bệnh co chân",
+     "d": "Áp lực hút quá âm",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "TMP tăng từ 100 lên 280 mmHg trong 5 giờ",
+     "d": "ΔP cũng tăng",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Qb 120 mL/phút · dịch thay thế sau màng 2.000 mL/h",
+     "d": "Phân suất lọc cao",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Dữ liệu máy của ca. Áp lực truy cập âm 150 mi li mét thuỷ ngân khi người bệnh co chân.",
+    "Áp lực xuyên màng tăng từ 100 lên 280 mi li mét thuỷ ngân chỉ trong 5 giờ, và chênh áp qua màng cũng tăng.",
+    "Qb chỉ 120 mi li lít mỗi phút, dịch thay thế sau màng 2.000 mi li lít mỗi giờ. Lưu ý các con số áp lực của máy thật khác với mô hình minh hoạ mà ta sắp dựng."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Dựng lại",
+   "title": "Dựng lại ca trên mô hình: FF 41,7% (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVH",
+    "qb": 120,
+    "qrpost": 2000,
+    "kink": 1.63
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L2",
+    "speed": 0.9,
+    "hmax": 12,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "GIẢ ĐỊNH · MÔ HÌNH",
+     "t": "70 kg · Hct 30% · UFnet 100 mL/h; chỉ minh hoạ xu hướng",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Ta dựng lại ca trên máy mô phỏng. Để tính được, ta giả định người bệnh nặng 70 ký, hematocrit 30 phần trăm, siêu lọc ròng 100 mi li lít mỗi giờ; ca gốc không nêu các số này.",
+    "Qb 120, dịch thay thế sau màng 2.000. Áp lực truy cập được chỉnh để cho cùng mức âm 150 như ca, tức catheter kém.",
+    "Lưu lượng huyết tương là 120 nhân 60 nhân 0,7, khoảng 5.040 mi li lít mỗi giờ. Toàn bộ nước bị kéo qua màng là 2.100. Phân suất lọc: 2.100 chia 5.040, bằng 41,7 phần trăm, gần gấp đôi mức đích 20 đến 25.",
+    "Chạy tua nhanh 12 giờ: áp lực xuyên màng và chênh áp qua màng cùng tăng, theo mô hình chạm 250 ở khoảng giờ thứ 8, tuổi thọ màng mô hình 8,2 giờ. Rất gần với 6 đến 8 giờ của ca, nhưng nhớ đây là mô hình minh hoạ."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "list",
+   "chapter": "Đọc áp lực",
+   "title": "Sáu áp lực của mạch và cách đọc",
+   "ref": "Oxford 2016, tr. 132–134; Teixeira 2025, tr. 771",
+   "items": [
+    {
+     "t": "Truy cập (hút): âm, trước bơm",
+     "d": "Phụ thuộc catheter, Qb và tư thế",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Trước màng: sức cản khi đẩy máu vào màng",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Trả về: dương; nòng trả, buồng bẫy khí",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "ΔP = trước màng − sau màng",
+     "d": "Tăng nhanh là dấu tin cậy của đông màng",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Dịch thải: dương khi màng mới, âm dần khi màng tắc",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "TMP ≈ (trước + sau)/2 − dịch thải",
+     "d": "> 250 mmHg gợi ý đông đáng kể (tuỳ máy)",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Trước khi sửa, hãy đọc cho đúng sáu áp lực của mạch. Áp lực truy cập là áp lực hút, âm, đo trước bơm máu; nó phụ thuộc chủ yếu vào catheter, Qb và tư thế người bệnh.",
+    "Áp lực trước màng phản ánh sức cản khi đẩy máu vào màng.",
+    "Áp lực trả về là dương, phụ thuộc nòng trả của catheter và buồng bẫy khí.",
+    "Chênh áp qua màng là áp lực trước màng trừ áp lực sau màng: tăng nhanh là dấu tin cậy của đông màng.",
+    "Áp lực dịch thải dương khi màng mới, âm dần khi màng tắc, vì bơm dịch thải phải hút.",
+    "Và áp lực xuyên màng xấp xỉ trung bình của áp lực trước và sau màng trừ áp lực dịch thải. Trên 250 mi li mét thuỷ ngân thường được coi là đông màng đáng kể, tuỳ máy và màng. Máy nên lưu xu hướng áp lực ít nhất 24 giờ."
+   ],
+   "id": "s04",
+   "dense": true
+  },
+  {
+   "layout": "compare",
+   "chapter": "Báo động",
+   "title": "Báo động áp lực: nguyên nhân và xử trí",
+   "ref": "Oxford 2016, tr. 114, 134–137",
+   "head": [
+    "Báo động",
+    "Nguyên nhân thường gặp",
+    "Xử trí"
+   ],
+   "widths": "1fr 1.5fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "Truy cập quá âm",
+      "Gập dây; huyết khối nòng hút; đầu catheter áp thành; gập háng",
+      "Gỡ gập, đổi tư thế; cân nhắc đảo nòng; thay catheter"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Trả về quá cao",
+      "Gập dây trả; huyết khối buồng bẫy khí",
+      "Gỡ gập; kiểm tra buồng khí; thay bộ dây"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "TMP tăng dần",
+      "Đông màng; FF quá cao; gập dây dịch",
+      "Tăng Qb, pha loãng trước hoặc CVVHD/CVVHDF; thay màng chủ động"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bảng tóm tắt các báo động áp lực. Áp lực truy cập quá âm: gập hoặc kẹp dây, huyết khối nòng hút, đầu catheter áp thành mạch, người bệnh gập háng. Xử trí: gỡ gập, đổi tư thế, cân nhắc đảo hai nòng, và nếu cần thì thay catheter.",
+    "Áp lực trả về quá cao: gập dây trả hoặc huyết khối buồng bẫy khí; gỡ gập, kiểm tra buồng khí, thay bộ dây.",
+    "Áp lực xuyên màng tăng dần: đông màng tiến triển, phân suất lọc quá cao, hay gập dây dịch. Xử trí: xem lại chống đông, tăng Qb, chuyển sang pha loãng trước hoặc CVVHD, CVVHDF, và thay màng chủ động trước khi đông hẳn.",
+    "Đảo nòng gây tái tuần hoàn nên giảm liều thực; chỉ chấp nhận tạm thời. Và đừng bỏ qua báo động lặp lại khi chưa tìm ra nguyên nhân."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "box",
+   "chapter": "Nguyên tắc",
+   "title": "Kéo dài tuổi thọ màng không cần thuốc",
+   "ref": "Oxford 2016, tr. 139–140, 145; KDIGO 2026 dự thảo PP 5.6.2; SRLF 2025 R4.7",
+   "box": {
+    "tag": "NGUYÊN TẮC",
+    "t": "Mất một quả lọc để bảo vệ người bệnh là chấp nhận được; mất người bệnh để bảo vệ quả lọc thì <b>không</b>.",
+    "at": 0,
+    "c": "teal",
+    "size": 36
+   },
+   "notes": [
+    {
+     "tag": "CATHETER · Qb",
+     "t": "Catheter lòng lớn, đầu gần nhĩ phải; Qb 150–200; FF ≤ 20–25%",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "CÀI ĐẶT",
+     "t": "Pha loãng trước màng; CVVHD/CVVHDF thay CVVH",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "tag": "BUỒNG KHÍ · ĐIỀU DƯỠNG",
+     "t": "Giữ mức máu cao; đào tạo xử lý báo động nhanh",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Sách Oxford nhắc một nguyên tắc: mất một quả lọc để bảo vệ người bệnh là hoàn toàn chấp nhận được; mất người bệnh để bảo vệ quả lọc thì không. Vì vậy ta ưu tiên các biện pháp không dùng thuốc trước, rồi mới cân nhắc chống đông mạnh hơn.",
+    "Về catheter và Qb: catheter lòng lớn, đầu ở gần nhĩ phải, Qb từ 150 đến 200, phân suất lọc từ 20 đến 25 phần trăm trở xuống.",
+    "Về cài đặt: pha loãng trước màng, và dùng CVVHD hoặc CVVHDF thay vì CVVH; cả KDIGO 2026 bản dự thảo và SRLF 2025 đều nêu điểm này.",
+    "Cuối cùng là buồng bẫy khí giữ mức máu cao, và đào tạo điều dưỡng xử lý báo động nhanh, nhận diện sớm catheter kém. Đó là những biện pháp không tốn thuốc nhưng liên quan trực tiếp đến tuổi thọ màng."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Điểm quyết định 1",
+   "title": "Dạng sự cố nào?",
+   "case": "TMP tăng từ 100 lên 280 mmHg trong 5 giờ, ΔP cũng tăng. Áp lực truy cập −150 mmHg khi co chân. FF cao.",
+   "case_at": 0,
+   "q": "Dạng sự cố nào?",
+   "q_at": 1,
+   "options": [
+    "Tắc lỗ màng do protein (clogging)",
+    "Đông màng (clotting)",
+    "Khí trong mạch",
+    "Rò máu"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Đông màng: ΔP và TMP cùng tăng. Tắc lỗ màng: TMP tăng, ΔP gần như không đổi (Teixeira 2025).",
+   "lines": [
+    "Áp lực xuyên màng tăng từ 100 lên 280 trong 5 giờ, chênh áp qua màng cũng tăng, áp lực truy cập âm 150 khi co chân, phân suất lọc cao.",
+    "Đây là dạng sự cố nào?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là đông màng. Quy tắc phân biệt: đông màng thì chênh áp qua màng và áp lực xuyên màng cùng tăng; tắc lỗ màng do protein thì áp lực xuyên màng tăng nhưng chênh áp gần như không đổi. Ở đây cả hai cùng tăng. Còn áp lực hút vượt âm 100 gợi ý catheter kém, góp phần đông màng sớm."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Điểm quyết định 2",
+   "title": "Xử trí hợp lý nhất?",
+   "case": "Đông màng lặp lại 3 lần/ngày. Catheter đùi kém theo tư thế; CVVH sau màng, Qb 120, dịch thay thế sau màng 2.000 mL/h, heparin.",
+   "case_at": 0,
+   "q": "Xử trí hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Tăng liều heparin",
+    "Sửa catheter; chuyển dịch trước màng/CVVHDF, tăng Qb, tính lại FF",
+    "Giữ nguyên, thay màng 3 lần/ngày",
+    "Giảm Qb xuống 100 để bớt báo động"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Chẩn đoán nguyên nhân trước khi tăng chống đông: catheter + FF cao (Oxford 2016; Teixeira 2025; SRLF R4.7).",
+   "lines": [
+    "Đông màng lặp lại ba lần mỗi ngày. Catheter đùi kém theo tư thế; CVVH sau màng, Qb 120, dịch thay thế sau màng 2.000, heparin.",
+    "Xử trí nào hợp lý nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là sửa gốc: sửa tư thế, cân nhắc thay catheter cảnh; chuyển phần lớn dịch sang trước màng hoặc chuyển sang CVVHDF; tăng Qb lên 150 đến 200; tính lại phân suất lọc để còn từ 20 đến 25 phần trăm trở xuống. Tăng heparin không sửa được nguyên nhân, và giảm Qb làm phân suất lọc còn cao hơn. Sách Oxford nhắc: đông màng sớm thường do catheter kém, cài đặt chưa tối ưu và tư thế người bệnh; chẩn đoán nguyên nhân trước khi tăng chống đông."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Bước 1",
+   "title": "Bước 1: sửa catheter, áp lực truy cập (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVH",
+    "qb": 120,
+    "qrpost": 2000,
+    "kink": 1.63
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "dose",
+    "uft",
+    "h"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "kink": 0
+     },
+     "label": "Sửa tư thế / thay catheter: sức cản catheter về bình thường",
+     "c": "green",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CATHETER",
+     "t": "Áp lực hút vượt −100 mmHg gợi ý catheter kém",
+     "c": "coral",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Bước một: sửa gốc catheter. Sách Oxford coi áp lực hút âm quá 100 là gợi ý catheter kém, dẫn tới đông màng sớm.",
+    "Ta xử lý theo thứ tự: gỡ gập dây, sửa tư thế, tránh gập háng ở catheter đùi, và cân nhắc thay bằng catheter cảnh.",
+    "Trong mô hình, khi sức cản catheter về bình thường, áp lực truy cập từ âm 150 về âm 62, hết báo động.",
+    "Nhưng hãy nhìn phân suất lọc: vẫn 41,7 phần trăm. Sửa catheter là cần, chưa đủ; ta phải sửa tiếp cài đặt."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tính nhanh",
+   "title": "Chỉ tăng Qb lên 150: FF bao nhiêu?",
+   "case": "70 kg, hematocrit 30% (giả định). CVVH sau màng, dịch thay thế 2.000 mL/h, UFnet 100 mL/h. Tăng Qb từ 120 lên 150 mL/phút.",
+   "case_at": 0,
+   "q": "FF xấp xỉ bao nhiêu?",
+   "q_at": 1,
+   "options": [
+    "20%",
+    "25%",
+    "33%",
+    "42%"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Qp = 150×60×0,7 = 6.300; FF = 2.100/6.300 = 33,3% — vẫn cao hơn đích 20–25%.",
+   "lines": [
+    "Giả sử mạch CVVH sau màng, dịch thay thế 2.000, siêu lọc ròng 100, hematocrit 30 phần trăm. Ta chỉ tăng Qb từ 120 lên 150 mi li lít mỗi phút.",
+    "Phân suất lọc xấp xỉ bao nhiêu?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là 33 phần trăm. Lưu lượng huyết tương bằng 150 nhân 60 nhân 0,7, tức 6.300 mi li lít mỗi giờ. Nước bị kéo qua màng là 2.000 cộng 100, bằng 2.100. Chia ra được 33,3 phần trăm. Tăng Qb giúp, nhưng chưa đủ để xuống 20 đến 25 phần trăm; ta phải chuyển dịch sang trước màng hoặc sang CVVHDF."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Bước 2",
+   "title": "Bước 2: hạ phân suất lọc (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVH",
+    "qb": 120,
+    "qrpost": 2000
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "dil",
+    "doseC"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "qb": 150
+     },
+     "label": "Tăng Qb 120 → 150 mL/phút",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L2",
+     "set": {
+      "mode": "CVVHDF",
+      "qrpre": 1000,
+      "qrpost": 0,
+      "qd": 1000
+     },
+     "label": "CVVHDF: 1.000 mL/h trước màng + 1.000 mL/h dịch thẩm tách",
+     "c": "green",
+     "hold": 6
+    },
+    {
+     "at": "L3",
+     "set": {
+      "qb": 180
+     },
+     "label": "Tăng Qb 150 → 180 mL/phút",
+     "c": "teal",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐÍCH",
+     "t": "FF ≤ 20–25%",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "GIÁ PHẢI TRẢ",
+     "t": "Pha loãng trước màng làm giảm liều thực",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bước hai: hạ phân suất lọc. Ta bắt đầu từ mạch CVVH sau màng, Qb 120, FF 41,7 phần trăm, dịch thải 2.100, tức 30 mi li lít mỗi ký mỗi giờ theo giả định 70 ký.",
+    "Tăng Qb từ 120 lên 150: lưu lượng huyết tương tăng, phân suất lọc giảm còn 33,3 phần trăm, vẫn cao.",
+    "Chuyển sang CVVHDF: 1.000 mi li lít mỗi giờ dịch thay thế trước màng, 1.000 dịch thẩm tách, giữ nguyên tổng dịch thải 2.100. Phân suất lọc xuống 15,1 phần trăm. Giá phải trả là hệ số pha loãng 0,86, liều sau pha loãng 25,9.",
+    "Nâng Qb lên 180, trong giới hạn catheter cho phép: phân suất lọc 12,9 phần trăm, hệ số pha loãng 0,88, liều sau pha loãng 26,5, đủ trong và trên vùng 20 đến 25. Áp lực truy cập trong mô hình âm 89, vẫn chấp nhận được."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Kết quả",
+   "title": "Sau khi sửa: 24 giờ (mô hình, heparin)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVHDF",
+    "qb": 180,
+    "qrpre": 1000,
+    "qrpost": 0,
+    "qd": 1000
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 1.2,
+    "hmax": 24,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "SO SÁNH",
+     "t": "CVVH sau màng: chạm TMP 250 ở khoảng giờ 8",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Chạy lại 24 giờ với cài đặt mới: CVVHDF, Qb 180, heparin vẫn giữ nguyên liều.",
+    "Sau 24 giờ trong mô hình, áp lực xuyên màng chỉ 83 và chênh áp qua màng 89, còn rất xa ngưỡng 250. Màng còn tốt, trong khi mạch cũ chạm 250 ở khoảng giờ thứ 8.",
+    "Cùng một mức heparin, thay đổi duy nhất là catheter và cài đặt.",
+    "Lưu ý mọi mạch rồi cũng đông. Khi thấy dấu sớm như vệt sẫm dọc sợi, áp lực xuyên màng hoặc chênh áp tăng nhanh, hãy thay màng chủ động để còn trả được máu, khoảng 150 mi li lít, và giảm thời gian máy dừng."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Citrate",
+   "title": "Cân nhắc citrate thay vì tăng heparin (mô hình 72 giờ)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "uf": 100,
+    "ac": "citrate",
+    "mode": "CVVHDF",
+    "qb": 150,
+    "qrpre": 1000,
+    "qrpost": 0,
+    "qd": 1000
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "ff",
+    "h",
+    "uft",
+    "life"
+   ],
+   "press": [
+    "pacc",
+    "ppre",
+    "pret",
+    "peff",
+    "tmp",
+    "dp"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150,
+    "ppre": 250
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 5.0,
+    "hmax": 72,
+    "keys": [
+     "tmp",
+     "dp"
+    ]
+   },
+   "notes": [
+    {
+     "tag": "CITRATE",
+     "t": "Qb thấp hơn (120–150) để giảm tổng lượng citrate",
+     "c": "teal",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Bước cuối: cân nhắc citrate vùng thay vì tăng heparin. KDIGO 2026 bản dự thảo xếp citrate vùng là chống đông đầu tay, mức 1B, khi có sẵn.",
+    "Với citrate, người ta dùng Qb thấp hơn, 120 đến 150, để giảm tổng lượng citrate cần truyền. Ta chạy mô hình 72 giờ với CVVHDF Qb 150 và citrate.",
+    "Ở giờ 24, áp lực xuyên màng 74, so với 89 của cùng cài đặt dùng heparin; giờ 48 là 93; giờ 72 là 116, vẫn dưới 250. Mô hình cho tuổi thọ màng trên 72 giờ.",
+    "Mô hình chỉ cho xu hướng. Bằng chứng thật nằm ở các thử nghiệm, và ta xem ngay sau đây."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Citrate và tuổi thọ màng: RICH và Gattas",
+   "ref": "RICH, JAMA 2020; Gattas, Crit Care Med 2015",
+   "groups": [
+    {
+     "t": "Tuổi thọ màng (giờ) · RICH",
+     "d": "596 người bệnh · citrate so với heparin toàn thân",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 47,
+       "lab": "47 giờ",
+       "c": "teal"
+      },
+      {
+       "k": "Heparin",
+       "v": 26,
+       "lab": "26 giờ"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu (%) · RICH",
+     "d": "Tử vong 90 ngày không khác: 51,2% so với 53,6%",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Citrate",
+       "v": 5.1,
+       "lab": "5,1%",
+       "c": "teal"
+      },
+      {
+       "k": "Heparin",
+       "v": 16.9,
+       "lab": "16,9%",
+       "c": "coral"
+      }
+     ]
+    }
+   ],
+   "max": 60,
+   "h": 520,
+   "notes": [
+    {
+     "t": "Gattas 2015: trung vị mạch đầu 39,2 giờ (citrate) so với 22,8 giờ (heparin vùng)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Không giảm tử vong",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "RICH: nhiễm khuẩn mới 68,0% so với 55,4%, chưa rõ cơ chế",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 540,
+   "lines": [
+    "RICH, thử nghiệm 596 người bệnh ở 26 trung tâm Đức: tuổi thọ màng 47 giờ với citrate so với 26 giờ với heparin toàn thân.",
+    "Chảy máu là 5,1 so với 16,9 phần trăm. Nhưng tử vong 90 ngày không khác, 51,2 so với 53,6 phần trăm.",
+    "Gattas 2015, so với heparin vùng: trung vị tuổi thọ mạch đầu là 39,2 so với 22,8 giờ.",
+    "Cũng nên biết RICH ghi nhận nhiễm khuẩn mới cao hơn ở nhóm citrate, 68,0 so với 55,4 phần trăm, chưa rõ cơ chế. Citrate kéo dài tuổi thọ màng và giảm chảy máu, nhưng không giảm tử vong."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Bài học",
+   "title": "Bài học ca 3",
+   "items": [
+    {
+     "t": "Đông màng: ΔP và TMP cùng tăng",
+     "d": "Tắc lỗ màng: TMP tăng, ΔP gần như không đổi",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Áp lực hút vượt −100 mmHg: nghĩ tới catheter kém",
+     "d": "Sửa tư thế, cân nhắc thay catheter cảnh",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Tính FF trước khi đổ lỗi cho heparin",
+     "d": "FF = UF toàn phần / (Qp + Qr trước); đích ≤ 20–25%",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Hạ FF: Qb, pha loãng trước, CVVHDF",
+     "d": "Nhớ liều thực = Qef × hệ số pha loãng",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Cân nhắc citrate thay vì tăng heparin",
+     "d": "RICH, Gattas",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại ca thứ ba. Đông màng là khi chênh áp qua màng và áp lực xuyên màng cùng tăng; tắc lỗ màng thì chỉ áp lực xuyên màng tăng.",
+    "Áp lực hút vượt âm 100 gợi ý catheter kém: sửa tư thế, cân nhắc thay catheter cảnh.",
+    "Tính phân suất lọc trước khi đổ lỗi cho heparin; đích là 20 đến 25 phần trăm trở xuống.",
+    "Muốn hạ phân suất lọc: tăng Qb, pha loãng trước màng, chuyển sang CVVHDF, và nhớ tính lại liều thực.",
+    "Cuối cùng, cân nhắc citrate thay vì tăng heparin. Đông màng thường là bệnh của catheter và cài đặt, không phải của thiếu heparin. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s15",
+   "dense": true
+  }
+ ]
+}

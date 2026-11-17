@@ -1,0 +1,940 @@
+{
+ "title": "Lọc máu liên tục – Phần 9: Dịch và siêu lọc ròng",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 9/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "RELIEVE-AKI": "ri li vơ ê ki ai",
+  "Naorungroj": "na ô rung rốt",
+  "mL/kg/ngày": "mi li lít mỗi ký mỗi ngày",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "Murugan": "mu ru gan",
+  "ARDSNet": "ác đê ét nét",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "B-line": "bi lai",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "VExUS": "vê éc xát",
+  "POCUS": "siêu âm tại giường",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "ADQI": "ê đi ki ai",
+  "Melo": "mê lô",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "PBW": "cân nặng dự đoán",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương"
+ },
+ "brand": {
+  "next": "Phần 10: Điện giải, dinh dưỡng và liều thuốc"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Dịch và<br>siêu lọc ròng",
+   "subtitle": "UFnet · cân bằng dịch của người bệnh · downtime · bẫy quên dịch vào",
+   "badges": [
+    {
+     "t": "UFnet 1,01–1,75 mL/kg/h (quan sát)",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Đặt mục tiêu hằng ngày",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Tính mọi dịch vào",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": "Cân bằng dịch 24 giờ chạy trên mô phỏng",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần chín của loạt bài lọc máu liên tục thực hành.",
+    "Lọc máu liên tục không chỉ là lọc chất tan, mà còn là một công cụ lấy dịch có kiểm soát. Nhưng con số cài trên máy không phải là cân bằng dịch của người bệnh, và sự nhầm lẫn giữa hai khái niệm này là nguồn gốc của nhiều sai sót.",
+    "Hôm nay chúng ta sẽ phân biệt siêu lọc ròng với cân bằng dịch, xem bằng chứng về tốc độ lấy dịch, và chạy mô phỏng cân bằng dịch 24 giờ trong ba tình huống: kê đúng, có thời gian dừng máy, và quên dịch vào."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "chapter": "Khái niệm",
+   "title": "Siêu lọc ròng và cân bằng dịch",
+   "items": [
+    {
+     "t": "UFnet = dịch thải − (dịch thay thế + dịch thẩm tách)",
+     "d": "Phần dịch máy lấy thực sự khỏi người bệnh · Neri 2016",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Cân bằng dịch = mọi dịch vào − mọi dịch ra",
+     "d": "Vào: thuốc, dinh dưỡng, máu, citrate, canxi, heparin · Ra: UFnet, nước tiểu, dẫn lưu, mất không nhận biết",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Dịch chống đông và duy trì mạch phải tính vào",
+     "d": "ADQI 17, phát biểu 1 · Grade B",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "UFnet là giảm thể tích có kiểm soát",
+     "d": "Lấy nhanh hơn tái đổ đầy lòng mạch → tụt tiền gánh, tụt áp",
+     "at": 3,
+     "c": "coral",
+     "n": 4
+    },
+    {
+     "t": "Chuẩn hoá theo cân nặng: mL/kg/h",
+     "d": "Liên quan tử vong chỉ thấy khi chuẩn hoá · Murugan 2023",
+     "at": 4,
+     "c": "violet",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Bắt đầu với định nghĩa. Siêu lọc ròng, UFnet, là phần dịch máy lấy thực sự khỏi người bệnh, bằng dịch thải trừ đi tổng dịch thay thế và dịch thẩm tách.",
+    "Còn cân bằng dịch của người bệnh là mọi dịch vào, gồm thuốc, dinh dưỡng, máu, dịch citrate, canxi, heparin, trừ đi mọi dịch ra, gồm UFnet, nước tiểu, dẫn lưu và mất không nhận biết.",
+    "Điểm quan trọng: dịch dùng cho chống đông và để duy trì đường truyền phải được tính vào cân bằng dịch. Đó là phát biểu 1 của ADQI 17, Grade B.",
+    "UFnet là một dạng giảm thể tích có kiểm soát. Nếu tốc độ lấy dịch vượt tốc độ tái đổ đầy lòng mạch, tiền gánh sẽ tụt, huyết áp tụt và tưới máu giảm.",
+    "Và một chi tiết phương pháp học quan trọng: mối liên quan giữa UFnet và tử vong chỉ thấy khi UFnet được chuẩn hoá theo cân nặng, tức mi li lít mỗi ký mỗi giờ, không thấy khi tính theo mi li lít mỗi giờ. Vì vậy, khi nói về tốc độ lấy dịch, ta luôn nói theo cân nặng."
+   ],
+   "id": "s02",
+   "dense": true
+  },
+  {
+   "layout": "list",
+   "chapter": "Kê đơn UFnet",
+   "title": "Kê đơn UFnet thực hành (theo Murugan 2023)",
+   "items": [
+    {
+     "t": "Cân nặng: dùng cân nặng dự đoán (PBW)",
+     "d": "Kể cả người béo phì · đề xuất của tác giả; chưa có khuyến cáo cân nặng cho UFnet",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Dải UFnet mong muốn: ví dụ 1,0–2,0 mL/kg/h (PBW)",
+     "d": "Tuỳ dung nạp huyết động",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Rút của máy = UFnet mong muốn × PBW + dịch vào/giờ",
+     "d": "Cộng dịch vào ngoài máy: thuốc, dinh dưỡng, citrate…",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "Đánh giá mỗi giờ đầu, sau đó mỗi 4–6 giờ",
+     "d": "Huyết áp, nhịp, vận mạch, lactat, nước tiểu, siêu âm tại giường",
+     "at": 3,
+     "c": "coral",
+     "n": 4
+    },
+    {
+     "t": "Giảm hoặc dừng khi tụt áp, tăng vận mạch, loạn nhịp…",
+     "d": "SRLF 2025 R4.5",
+     "at": 4,
+     "c": "violet",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Bây giờ đến kê đơn UFnet theo năm bước, dựa trên đề xuất của Murugan năm 2023.",
+    "Bước một, về cân nặng: tác giả đề nghị dùng cân nặng dự đoán thay cho cân nặng thực, kể cả ở người béo phì, vì mô mỡ ít mạch máu. Đây là đề xuất của tác giả; hiện chưa có khuyến cáo cân nặng cho UFnet, còn KDIGO 2026 chỉ gợi ý cân nặng lý tưởng hoặc hiệu chỉnh cho liều ở người có chỉ số khối cơ thể từ 30 trở lên.",
+    "Bước hai, chọn dải UFnet mong muốn, ví dụ 1,0 đến 2,0 mi li lít mỗi ký mỗi giờ theo cân nặng dự đoán, tuỳ dung nạp huyết động.",
+    "Bước ba, cộng dịch vào ngoài máy mỗi giờ như thuốc, dinh dưỡng, citrate, để ra tốc độ rút của máy cần cài: rút của máy bằng UFnet mong muốn nhân cân nặng dự đoán, cộng dịch vào mỗi giờ. Công thức này là diễn đạt lại của người soạn, cần đối chiếu nguyên văn bài báo.",
+    "Bước bốn, đánh giá mỗi giờ trong những giờ đầu, sau đó mỗi 4 đến 6 giờ: huyết áp, nhịp tim, vận mạch, lactat, nước tiểu, và siêu âm tại giường như tĩnh mạch chủ dưới, VExUS, B-line. Đây là đề xuất của người soạn dựa trên ADQI 17.",
+    "Bước năm, giảm hoặc dừng khi tụt áp, tăng vận mạch, loạn nhịp, lactat tăng hoặc có dấu giảm tưới máu, theo khuyến cáo 4.5 của SRLF 2025."
+   ],
+   "id": "s03",
+   "dense": true
+  },
+  {
+   "layout": "box",
+   "chapter": "Kê đơn UFnet",
+   "title": "Ví dụ: cân nặng dự đoán 52,4 kg",
+   "box": {
+    "tag": "VÍ DỤ GIẢ ĐỊNH · CÔNG THỨC ARDSNET",
+    "t": "Nữ cao 160 cm: PBW ≈ 45,5 + 0,91 × (160 − 152,4) ≈ <b>52,4 kg</b> · UFnet đích 1,5 mL/kg/h ≈ <b>80 mL/h</b> · dịch vào ngoài máy <b>150 mL/h</b> → cài rút của máy ≈ <b>230 mL/h</b>.",
+    "at": 1,
+    "c": "teal",
+    "size": 30
+   },
+   "notes": [
+    {
+     "tag": "KẾT QUẢ DỰ KIẾN",
+     "t": "Cân bằng 24 giờ khoảng −1,9 L",
+     "at": 4,
+     "c": "amber"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Ví dụ tự tính · cách định nghĩa phần dịch vào cần đối chiếu",
+     "at": 5,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Hãy làm một ví dụ cụ thể, giả định, do người soạn tự tính.",
+    "Người bệnh nữ, cao 160 xen ti mét. Cân nặng dự đoán tính theo công thức của ARDSNet là 45,5 cộng 0,91 nhân hiệu số giữa 160 và 152,4, xấp xỉ 52,4 ký.",
+    "UFnet đích 1,5 mi li lít mỗi ký mỗi giờ, nhân 52,4, được khoảng 80 mi li lít mỗi giờ.",
+    "Dịch vào ngoài máy gồm citrate, canxi, thuốc và dinh dưỡng, giả sử 150 mi li lít mỗi giờ. Vậy tốc độ rút của máy cần cài là 80 cộng 150, khoảng 230 mi li lít mỗi giờ.",
+    "Cân bằng dịch 24 giờ dự kiến khoảng âm 1,9 lít. Ta kiểm chứng điều đó ngay trên mô phỏng ở các cảnh tiếp theo.",
+    "Lưu ý đây là ví dụ tự tính; cách Murugan 2023 định nghĩa chính xác phần dịch vào cần đối chiếu nguyên văn. Với người quá tải dịch nặng do suy tim, sách gợi ý tốc độ âm ổn định khoảng âm 300 mi li lít mỗi giờ, rút 10 đến 15 lít trong 24 đến 48 giờ, nhưng phải đối chiếu dung nạp và dữ liệu UFnet sắp trình bày."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "canbang",
+   "chapter": "Mô phỏng",
+   "title": "Kê đúng: UFnet kê và UFnet thực nhận trùng nhau",
+   "canbang": {
+    "wt": 52.4,
+    "ins": [
+     {
+      "t": "citrate · canxi · thuốc · dinh dưỡng",
+      "v": 150,
+      "c": "#4ade80"
+     }
+    ],
+    "urine": 0,
+    "ufm": 230,
+    "down": [],
+    "hours": 24
+   },
+   "trend": {
+    "at": "L2",
+    "speed": 2.0,
+    "hmax": 24
+   },
+   "notes": [
+    {
+     "tag": "CÀI MÁY",
+     "t": "Rút của máy 230 = 80 (UFnet) + 150 (dịch vào)",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "MÔ PHỎNG",
+     "t": "Số tính từng giờ, giả định",
+     "c": "violet",
+     "at": 0
+    }
+   ],
+   "lines": [
+    "Đây là mô phỏng cân bằng dịch 24 giờ cho người bệnh 52,4 ký. Cột xanh phía trên là dịch vào ngoài máy, 150 mi li lít mỗi giờ. Cột đỏ phía dưới là phần máy rút, 230 mi li lít mỗi giờ. Đường xanh dương là cân bằng cộng dồn.",
+    "Trong mỗi giờ, máy rút 230 và dịch vào 150, nên cân bằng giảm 80 mi li lít mỗi giờ, tương đương UFnet thực 1,53 mi li lít mỗi ký mỗi giờ, rất sát mục tiêu 1,5.",
+    "Hãy xem đường cân bằng đi xuống đều. Đến giờ thứ 6, tổng vào 900, tổng ra 1.380, cân bằng âm 480. Đến giờ thứ 12, cân bằng âm 960.",
+    "Và đến cuối 24 giờ: tổng vào 3.600, tổng ra 5.520, cân bằng âm 1.920 mi li lít, đúng như ta dự kiến, khoảng âm 1,9 lít. Máy chạy trọn 24 giờ. Hãy nhớ con số âm 1.920 này để so sánh.",
+    "Đây là kịch bản lý tưởng: máy chạy liên tục, dịch vào được tính đủ, mục tiêu cân bằng được đặt trước. Trong thực tế, hiếm khi mọi thứ trơn tru như vậy, như hai cảnh sau cho thấy."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "canbang",
+   "chapter": "Mô phỏng",
+   "title": "Downtime: cân bằng thực tế kém xa y lệnh",
+   "canbang": {
+    "wt": 52.4,
+    "ins": [
+     {
+      "t": "citrate · canxi · thuốc · dinh dưỡng",
+      "v": 150,
+      "c": "#4ade80"
+     }
+    ],
+    "urine": 0,
+    "ufm": 230,
+    "down": [
+     [
+      8,
+      10
+     ],
+     [
+      16,
+      18
+     ]
+    ],
+    "hours": 24
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 1.3,
+    "hmax": 24
+   },
+   "notes": [
+    {
+     "tag": "ĐIỀU QUAN TRỌNG",
+     "t": "Máy dừng nhưng dịch vào vẫn chạy",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "NERI 2016",
+     "t": "Downtime làm cân bằng thực tế dương so với y lệnh",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Cùng người bệnh, cùng cài đặt, nhưng bây giờ máy dừng hai lần, mỗi lần hai giờ: từ giờ thứ 8 đến giờ thứ 10, và từ giờ thứ 16 đến giờ thứ 18. Các vùng nền đỏ là lúc máy dừng.",
+    "Nguyên nhân có thể là báo động, thay quả lọc, hay đưa người bệnh đi chụp. Tổng cộng máy dừng 4 giờ, chỉ chạy 20 giờ.",
+    "Điều quan trọng cần nhìn: trong lúc máy dừng, không có dịch nào được rút, nhưng thuốc và dinh dưỡng vẫn tiếp tục chảy vào, 150 mi li lít mỗi giờ. Cân bằng cộng dồn đi lên trong các vùng này.",
+    "Kết quả cuối 24 giờ: tổng vào vẫn 3.600, nhưng tổng ra chỉ 4.600, cân bằng âm 1.000 mi li lít, thay vì âm 1.920 như y lệnh. Tính trên cân nặng và cả 24 giờ, UFnet thực nhận chỉ 0,80 mi li lít mỗi ký mỗi giờ.",
+    "Y lệnh vẫn ghi âm gần 2 lít, nhưng người bệnh chỉ âm 1 lít. Vì vậy Neri 2016 nhắc rằng downtime kéo dài làm cân bằng thực tế dương hơn y lệnh, và phải tính lại sau mỗi lần ngừng máy. Nếu ta bỏ qua, ta sẽ nghĩ rằng người bệnh đã được rút đúng mục tiêu, trong khi thực tế còn thừa gần một lít."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "canbang",
+   "chapter": "Mô phỏng",
+   "title": "Bẫy quên dịch vào: cài rút đúng UFnet mong muốn",
+   "canbang": {
+    "wt": 52.4,
+    "ins": [
+     {
+      "t": "citrate · canxi · thuốc · dinh dưỡng",
+      "v": 150,
+      "c": "#4ade80"
+     }
+    ],
+    "urine": 0,
+    "ufm": 80,
+    "down": [],
+    "hours": 24
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 1.4,
+    "hmax": 24
+   },
+   "notes": [
+    {
+     "tag": "BẪY",
+     "t": "Cài rút 80 vì quên 150 mL/h dịch vào",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "ADQI 17",
+     "t": "Chống đông và duy trì mạch phải tính vào cân bằng",
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Đây là cái bẫy kinh điển. Người bệnh cũ, mục tiêu vẫn là âm khoảng 1,9 lít. Nhưng người cài máy nhầm UFnet 80 mi li lít mỗi giờ với tốc độ rút của máy, và quên cộng dịch vào ngoài máy.",
+    "Máy chỉ rút 80 mi li lít mỗi giờ, trong khi dịch citrate, canxi, thuốc và dinh dưỡng vẫn vào 150 mi li lít mỗi giờ. Cân bằng mỗi giờ không giảm mà tăng 70.",
+    "Đường cân bằng đi lên suốt 24 giờ. Đến giờ thứ 12, cân bằng đã dương 840 mi li lít.",
+    "Và cuối ngày: tổng vào 3.600, tổng ra chỉ 1.920, cân bằng dương 1.680 mi li lít. Thay vì âm 1,9 lít như mong muốn, người bệnh dương gần 1,7 lít, lệch hơn 3,6 lít so với kế hoạch. Máy chạy suốt, không báo động, không ai nhận ra.",
+    "Bài học là nhầm UF của máy với cân bằng của người bệnh dẫn đến quên dịch citrate, canxi, kháng sinh pha loãng và dinh dưỡng. ADQI 17 nhắc rằng mọi dịch dùng cho chống đông và duy trì mạch phải tính vào cân bằng, và nên có bộ y lệnh cùng phiếu theo dõi chuẩn cho cả đơn vị."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "canbang",
+   "chapter": "Mô phỏng",
+   "title": "Nước tiểu cũng là dịch ra: cân bằng ≠ UFnet",
+   "canbang": {
+    "wt": 52.4,
+    "ins": [
+     {
+      "t": "citrate · canxi · thuốc · dinh dưỡng",
+      "v": 150,
+      "c": "#4ade80"
+     }
+    ],
+    "urine": 20,
+    "ufm": 230,
+    "down": [],
+    "hours": 24
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 1.4,
+    "hmax": 24
+   },
+   "notes": [
+    {
+     "tag": "ĐỊNH NGHĨA",
+     "t": "Cân bằng = mọi dịch vào − mọi dịch ra (UFnet, nước tiểu, dẫn lưu…)",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "GIẢ ĐỊNH",
+     "t": "Nước tiểu 20 mL/h chỉ để minh hoạ",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Cảnh cuối của nhóm mô phỏng này làm rõ một điểm trong định nghĩa. Cân bằng dịch của người bệnh trừ đi cả nước tiểu, dẫn lưu và mất không nhận biết, không chỉ riêng phần máy rút.",
+    "Ta giữ nguyên cài đặt máy rút 230 mi li lít mỗi giờ và dịch vào 150, nhưng thêm giả định người bệnh còn nước tiểu 20 mi li lít mỗi giờ; con số này chỉ để minh hoạ.",
+    "UFnet thực nhận vẫn là 1,53 mi li lít mỗi ký mỗi giờ, vì phần nước tiểu không thuộc về máy. Nhưng cân bằng dịch cả ngày không còn là âm 1.920 mà là âm 2.400 mi li lít: tổng vào 3.600, tổng ra 6.000.",
+    "Nghĩa là khi người bệnh còn nước tiểu, hoặc có dẫn lưu, ta phải cộng các nguồn ra này vào cân bằng, và khi đặt mục tiêu cân bằng âm, mục tiêu cần được diễn đạt cho cả người bệnh chứ không chỉ cho máy. Đó chính là tinh thần của việc kê mục tiêu hằng ngày."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Murugan 2019: lấy dịch nhanh và tử vong muộn",
+   "groups": [
+    {
+     "t": "Tỷ số nguy cơ tử vong đã hiệu chỉnh: UFnet cao so với thấp",
+     "d": "Phân tích phụ RENAL · 1.434 người bệnh CVVHDF · UFnet trung vị 0,52 / 1,38 / 2,21 mL/kg/h",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Ngày 7–12",
+       "v": 1.51,
+       "lab": "1,51",
+       "c": "amber"
+      },
+      {
+       "k": "Ngày 13–26",
+       "v": 1.52,
+       "lab": "1,52",
+       "c": "amber"
+      },
+      {
+       "k": "Ngày 27–90",
+       "v": 1.66,
+       "lab": "1,66",
+       "c": "coral"
+      }
+     ]
+    }
+   ],
+   "max": 2,
+   "h": 420,
+   "notes": [
+    {
+     "t": "Phân nhóm UFnet: < 1,01 · 1,01–1,75 · > 1,75 mL/kg/h",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Mỗi tăng 0,5 mL/kg/h: tỷ số nguy cơ 1,05–1,13 tuỳ thời đoạn",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Không liên quan trong ngày 0–6",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 540,
+   "lines": [
+    "Bây giờ đến bằng chứng. Murugan năm 2019 phân tích phụ thử nghiệm RENAL, trên 1.434 người bệnh chạy CVVHDF, chia ba nhóm theo UFnet: dưới 1,01, từ 1,01 đến 1,75, và trên 1,75 mi li lít mỗi ký mỗi giờ. Trung vị lần lượt là 0,52, 1,38 và 2,21.",
+    "So sánh nhóm cao với nhóm thấp, tử vong tăng từ ngày thứ 7 trở đi. Tỷ số nguy cơ hiệu chỉnh là 1,51 ở ngày 7 đến 12, 1,52 ở ngày 13 đến 26, và 1,66 ở ngày 27 đến 90.",
+    "Mỗi lần tăng 0,5 mi li lít mỗi ký mỗi giờ thì tỷ số nguy cơ tăng khoảng 1,05 đến 1,13 tuỳ thời đoạn. Điều đáng chú ý là không có mối liên quan trong những ngày đầu, từ ngày 0 đến 6."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Bằng chứng",
+   "title": "Naorungroj 2020: lặp lại mối liên quan, chưa rõ cơ chế",
+   "tiles": [
+    {
+     "tag": "NAORUNGROJ 2020 · MELBOURNE",
+     "v": 347,
+     "dec": 0,
+     "suf": "",
+     "l": "người bệnh CRRT",
+     "d": "Cùng ngưỡng UFnet như Murugan",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "TỬ VONG TRONG VIỆN",
+     "v": 1.15,
+     "dec": 2,
+     "suf": "",
+     "l": "OR hiệu chỉnh · UFnet cao so với thấp",
+     "d": "KTC 95% 1,03–1,29",
+     "c": "coral",
+     "at": 1
+    }
+   ],
+   "cols": 2,
+   "h": 420,
+   "note": {
+    "t": "Không thấy trung gian qua huyết áp, vận mạch hay kali",
+    "c": "amber",
+    "at": 2
+   },
+   "lines": [
+    "Naorungroj năm 2020, ở Melbourne, phân tích 347 người bệnh lọc máu liên tục với cùng các ngưỡng UFnet.",
+    "Nhóm cao so với nhóm thấp có tỷ số chênh hiệu chỉnh tử vong trong viện là 1,15, khoảng tin cậy từ 1,03 đến 1,29: tương tự hướng của Murugan.",
+    "Nhưng nhóm tác giả không thấy mối liên quan này được trung gian qua huyết áp, vận mạch hay kali. Nghĩa là ta chưa biết cơ chế, nên không nên vội diễn giải. Nói cách khác, dữ liệu quan sát cho thấy một tín hiệu cảnh báo cho việc lấy dịch quá nhanh và kéo dài, nhưng chưa cho ta biết cách ngăn nó bằng can thiệp cụ thể."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Murugan 2018: người quá tải dịch lại có xu hướng ngược lại",
+   "groups": [
+    {
+     "t": "Tử vong 1 năm (%)",
+     "d": "1.075 người bệnh AKI quá tải dịch ≥ 5% · mọi phương thức KRT · mL/kg/ngày",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "≤ 20",
+       "v": 69.7,
+       "lab": "69,7%",
+       "c": "coral"
+      },
+      {
+       "k": "> 20–25",
+       "v": 60.2,
+       "lab": "60,2%",
+       "c": "amber"
+      },
+      {
+       "k": "> 25",
+       "v": 59.4,
+       "lab": "59,4%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 80,
+   "h": 420,
+   "notes": [
+    {
+     "t": "Cao so với thấp: aOR 0,61 (0,41–0,93)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Lấy dịch nhiều hơn liên quan ÍT tử vong hơn ở người quá tải",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Hai cách tính khác nhau cho kết luận trái chiều",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 540,
+   "lines": [
+    "Nhưng một nghiên cứu khác cho kết quả ngược. Murugan năm 2018 phân tích 1.075 người bệnh tổn thương thận cấp có quá tải dịch từ 5 phần trăm trở lên, ở mọi phương thức liệu pháp thay thế thận, với UFnet tính theo mi li lít mỗi ký mỗi ngày.",
+    "Tử vong một năm là 69,7 phần trăm ở nhóm từ 20 trở xuống, 60,2 phần trăm ở nhóm trên 20 đến 25, và 59,4 phần trăm ở nhóm trên 25.",
+    "Tỷ số chênh hiệu chỉnh nhóm cao so với nhóm thấp là 0,61, khoảng tin cậy từ 0,41 đến 0,93: lấy dịch nhiều hơn liên quan với ít tử vong hơn ở người quá tải.",
+    "Hai cách tính khác nhau, mi li lít mỗi ký mỗi giờ theo giờ điều trị và mi li lít mỗi ký mỗi ngày, cho kết luận trái chiều. Đó là lý do ta không thể kết luận có một tốc độ tối ưu. Điểm cần lưu ý là cả hai nghiên cứu đều là dữ liệu quan sát; những người bệnh được lấy dịch nhiều hơn có thể khác biệt về mức độ nặng và khả năng dung nạp ngay từ đầu, nên các con số này gợi ý chứ không chứng minh."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "RELIEVE-AKI 2026: thử nghiệm khả thi chưa tách được hai nhánh",
+   "groups": [
+    {
+     "t": "UFnet thực nhận · phân tích chính (mL/kg/h)",
+     "d": "RCT khả thi, bậc thang theo cụm · 10 ICU Mỹ · 97 người bệnh AKI 3 · P hiệu chỉnh = 0,4",
+     "at": 1,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Tự do (đích 2,0–5,0)",
+       "v": 2.05,
+       "lab": "2,05",
+       "c": "teal"
+      },
+      {
+       "k": "Hạn chế (đích 0,5–1,5)",
+       "v": 1.81,
+       "lab": "1,81",
+       "c": "amber"
+      }
+     ]
+    },
+    {
+     "t": "UFnet thực nhận · phân tích theo đề cương (mL/kg/h)",
+     "d": "P = 0,002",
+     "at": 2,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Tự do",
+       "v": 2.24,
+       "lab": "2,24",
+       "c": "teal"
+      },
+      {
+       "k": "Hạn chế",
+       "v": 1.22,
+       "lab": "1,22",
+       "c": "amber"
+      }
+     ]
+    }
+   ],
+   "max": 3,
+   "h": 470,
+   "notes": [
+    {
+     "t": "Không đạt độ tách biệt khả thi trong phân tích chính",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Chênh lệch và khoảng tin cậy trong bài không nhất quán: cần đối chiếu",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Chưa phải RCT kết cục: không chứng minh tốc độ tối ưu",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 540,
+   "lines": [
+    "Thử nghiệm ngẫu nhiên về chủ đề này là RELIEVE-AKI, năm 2026, một thử nghiệm khả thi thiết kế bậc thang theo cụm ở 10 khoa hồi sức Mỹ, trên 97 người bệnh tổn thương thận cấp giai đoạn 3 bắt đầu lọc máu liên tục. So sánh UFnet hạn chế, đích 0,5 đến 1,5, với UFnet tự do, đích 2,0 đến 5,0 mi li lít mỗi ký mỗi giờ.",
+    "Kết quả: thử nghiệm không đạt độ tách biệt khả thi trong phân tích chính. UFnet thực nhận là 2,05 ở nhóm tự do so với 1,81 ở nhóm hạn chế, P hiệu chỉnh bằng 0,4: hai nhóm thực sự gần như nhau.",
+    "Phân tích theo đề cương cho khác biệt rõ hơn: 2,24 so với 1,22, P bằng 0,002. Chênh lệch và khoảng tin cậy ghi trong bài chưa nhất quán nên tôi không đọc ở đây, cần đối chiếu.",
+    "Quan trọng là đây là thử nghiệm khả thi, không phải thử nghiệm kết cục. Hiện chưa có thử nghiệm ngẫu nhiên nào chứng minh tốc độ UFnet tối ưu."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "box",
+   "chapter": "Diễn giải",
+   "title": "Vùng chữ J của UFnet",
+   "box": {
+    "tag": "DỮ LIỆU QUAN SÁT · MURUGAN 2023",
+    "t": "UFnet <b>1,01–1,75 mL/kg/h</b>: tử vong và phụ thuộc KRT <b>thấp nhất</b>; chậm hơn (&lt; 1,01) hoặc nhanh hơn (&gt; 1,75) đều kém hơn. <b>Không có RCT</b> chứng minh tốc độ tối ưu.",
+    "at": 0,
+    "c": "amber",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Tránh cả hai thái cực: tích luỹ dịch kéo dài và rút quá nhanh gây tụt áp",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Liên quan, không phải nhân quả",
+     "at": 1,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Gộp lại các dữ liệu quan sát, các tác giả gợi ý một quan hệ hình chữ J: UFnet từ 1,01 đến 1,75 mi li lít mỗi ký mỗi giờ có tử vong và phụ thuộc liệu pháp thay thế thận thấp nhất, so với chậm hơn dưới 1,01 hoặc nhanh hơn trên 1,75.",
+    "Nhưng hai cách tính khác nhau cho kết luận trái chiều, và không có thử nghiệm ngẫu nhiên chứng minh tốc độ tối ưu. Đây là dữ liệu liên quan, không phải nhân quả.",
+    "Về thực hành: tránh cả hai thái cực, vừa tránh tích luỹ dịch kéo dài, vừa tránh rút quá nhanh gây tụt áp."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Khuyến cáo",
+   "title": "Khuyến cáo về UFnet",
+   "head": [
+    "Nguồn",
+    "Nội dung",
+    "Mức"
+   ],
+   "widths": "1.2fr 3.4fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "KSN 2025 KQ5",
+      "Có thể dùng UFnet <b>không tăng cường</b> để đạt cân bằng âm, tránh tích luỹ dương ở người quá tải giai đoạn đầu sau khởi động; <b>cá thể hoá</b> theo thể tích và dung nạp",
+      "Đồng thuận chuyên gia"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "SRLF 2025 R4.5",
+      "Đánh giá thể tích máu hệ thống; <b>không bắt đầu</b> siêu lọc khi lâm sàng gợi ý giảm thể tích lòng mạch; <b>dừng</b> khi có triệu chứng giảm thể tích",
+      "Panel opinion"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "KDIGO 2026 dự thảo PP 5.8.1–5.8.2",
+      "<b>Kê mục tiêu siêu lọc hằng ngày</b> và theo dõi thường xuyên; tốc độ cá thể hoá theo người bệnh và giai đoạn bệnh",
+      "PP"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "KDIGO 2026 dự thảo PP 5.12.7.1 (nhi)",
+      "Trẻ em: UFnet không vượt 2,5 mL/kg/h, đánh giá mỗi 4–6 giờ",
+      "PP · nhi"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Các khuyến cáo hiện nay đều thận trọng. Hội thận học Hàn Quốc 2025, KQ5: có thể dùng UFnet không tăng cường để đạt cân bằng âm, tránh tích luỹ dương ở người quá tải trong giai đoạn đầu sau khởi động, và cá thể hoá theo thể tích cùng khả năng dung nạp; mức đồng thuận chuyên gia.",
+    "SRLF 2025, khuyến cáo 4.5: đánh giá thể tích máu một cách hệ thống, không bắt đầu siêu lọc khi lâm sàng gợi ý giảm thể tích lòng mạch, và dừng siêu lọc khi xuất hiện triệu chứng giảm thể tích trong lúc lọc máu. Mức panel opinion.",
+    "KDIGO 2026 bản dự thảo, điểm thực hành 5.8.1 và 5.8.2: kê mục tiêu siêu lọc hằng ngày cho lọc máu liên tục và theo dõi thường xuyên; tốc độ được cá thể hoá theo từng người bệnh và giai đoạn bệnh.",
+    "Riêng ở trẻ em, điểm thực hành 5.12.7.1 nêu UFnet không vượt 2,5 mi li lít mỗi ký mỗi giờ và đánh giá mỗi 4 đến 6 giờ."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "list",
+   "chapter": "Thực hành",
+   "title": "ADQI 17: nguyên tắc quản lý dịch khi kê đơn",
+   "items": [
+    {
+     "t": "Đánh giá liên tục cân bằng dịch, đặt mục tiêu",
+     "d": "Dùng mục tiêu để quyết định thời điểm, phương pháp lấy dịch · phát biểu 9",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Theo dõi sát đáp ứng huyết động, chỉnh tốc độ",
+     "d": "Phát biểu 11",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Bắt đầu chậm, tăng dần đến mức dung nạp tối đa",
+     "d": "Phát biểu 12",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "Bộ y lệnh và phiếu theo dõi chuẩn cho mỗi đơn vị",
+     "d": "Phát biểu 13",
+     "at": 3,
+     "c": "violet",
+     "n": 4
+    },
+    {
+     "t": "Theo dõi thân nhiệt trung tâm liên tục",
+     "d": "Phát biểu 14 · lọc làm thay đổi thân nhiệt",
+     "at": 4,
+     "c": "coral",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Đồng thuận ADQI 17 đưa ra các phát biểu hướng dẫn quản lý dịch khi kê đơn lọc máu liên tục. Tên gọi chính xác của ba mức cân bằng dịch trong tài liệu gốc cần đối chiếu nguyên văn.",
+    "Phát biểu 9: thầy thuốc phải đánh giá liên tục cân bằng dịch, đặt mục tiêu, và dùng mục tiêu đó để quyết định thời điểm và phương pháp lấy dịch.",
+    "Phát biểu 11: theo dõi sát đáp ứng huyết động và chỉnh tốc độ cho phù hợp.",
+    "Phát biểu 12: bắt đầu chậm, tăng dần đến mức dung nạp tối đa. Điều này khớp với bằng chứng chữ J mà ta vừa xem.",
+    "Phát biểu 13: mỗi đơn vị nên có bộ y lệnh và phiếu theo dõi chuẩn. Phát biểu 14: theo dõi thân nhiệt trung tâm liên tục, vì lọc máu thay đổi thân nhiệt.",
+    "Trong thực hành, một phiếu theo dõi chuẩn là nơi ta ghi đủ cả dịch vào lẫn dịch ra mỗi giờ, thay vì chỉ nhìn con số trên màn hình máy."
+   ],
+   "id": "s15",
+   "dense": true
+  },
+  {
+   "layout": "cards",
+   "chapter": "Bẫy",
+   "title": "Bốn bẫy thường gặp",
+   "cards": [
+    {
+     "tag": "BẪY 1",
+     "t": "Nhầm UF của máy với cân bằng người bệnh",
+     "items": [
+      "Quên dịch citrate, canxi",
+      "Quên kháng sinh pha loãng, dinh dưỡng",
+      "ADQI 17"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "BẪY 2",
+     "t": "Rút nhanh 24–48 giờ đầu",
+     "items": [
+      "Ở người còn vận mạch cao",
+      "Tụt tiền gánh, tụt áp"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BẪY 3",
+     "t": "Downtime kéo dài",
+     "items": [
+      "Cân bằng thực dương dù y lệnh âm",
+      "Tính lại sau mỗi lần ngừng máy · Neri 2016"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "BẪY 4",
+     "t": "Sai số cân dịch của máy",
+     "items": [
+      "Sai số cân ≈ 30 mL/h mỗi bơm",
+      "Túi treo không đúng, báo động cân bị bỏ qua"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tổng kết lại bốn cái bẫy thường gặp. Thứ nhất, nhầm UF của máy với cân bằng dịch của người bệnh, dẫn đến quên dịch citrate, canxi, kháng sinh pha loãng và dinh dưỡng. Chúng ta vừa xem hậu quả trên mô phỏng: lệch hơn 3,6 lít.",
+    "Thứ hai, rút nhanh trong 24 đến 48 giờ đầu ở người còn vận mạch cao, dễ gây tụt tiền gánh và tụt huyết áp.",
+    "Thứ ba, downtime kéo dài làm cân bằng thực tế dương dù y lệnh âm. Phải tính lại sau mỗi lần ngừng máy.",
+    "Thứ tư, sai số cân dịch của máy, khoảng 30 mi li lít mỗi giờ cho mỗi bơm theo sách Oxford, túi treo không đúng vị trí, hoặc báo động cân bị bỏ qua. Cộng dồn nhiều bơm và nhiều giờ, sai số này đáng kể. Ta sẽ bàn chi tiết ở phần xử trí sự cố."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: y lệnh âm 1,9 lít nhưng người bệnh dương",
+   "case": "Nữ, PBW 52,4 kg, đích UFnet 1,5 mL/kg/h (≈ 80 mL/h). Dịch vào ngoài máy 150 mL/h (citrate, canxi, thuốc, dinh dưỡng). Điều dưỡng cài máy rút 80 mL/h. Sau 24 giờ, cân bằng dịch +1.680 mL.",
+   "case_at": 0,
+   "q": "Sai sót nằm ở đâu và sửa thế nào?",
+   "q_at": 1,
+   "options": [
+    "Máy hỏng, thay máy",
+    "Tăng liều dịch thải lên 35 mL/kg/h",
+    "Quên cộng dịch vào ngoài máy: cài rút ≈ 230 mL/h, tính lại cân bằng mỗi giờ",
+    "Giảm dịch citrate, canxi để cân bằng âm"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Rút của máy = 80 + 150 = 230 mL/h; 24 giờ → −1.920 mL; quên dịch vào → +1.680 mL.",
+   "lines": [
+    "Tình huống. Người bệnh nữ, cân nặng dự đoán 52,4 ký. Mục tiêu UFnet 1,5 mi li lít mỗi ký mỗi giờ, khoảng 80 mi li lít mỗi giờ. Dịch vào ngoài máy gồm citrate, canxi, thuốc và dinh dưỡng là 150 mi li lít mỗi giờ. Điều dưỡng cài máy rút 80. Sau 24 giờ, cân bằng dịch dương 1.680 mi li lít.",
+    "Sai sót nằm ở đâu và sửa thế nào?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là quên cộng dịch vào ngoài máy. Tốc độ rút của máy phải bằng UFnet mong muốn cộng dịch vào, tức 80 cộng 150, khoảng 230 mi li lít mỗi giờ, và phải tính lại cân bằng mỗi giờ. Nếu cài đúng, cân bằng 24 giờ là âm 1.920; vì chỉ cài 80, kết quả là dương 1.680. Máy không hỏng. Tăng liều dịch thải không giải quyết được sai sót về cân bằng dịch. Và giảm citrate hay canxi là không đúng, vì chúng là một phần của điều trị và phải được tính vào cân bằng, không phải bỏ đi."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 9",
+   "items": [
+    {
+     "t": "UFnet ≠ cân bằng dịch của người bệnh",
+     "d": "Mọi dịch vào (kể cả citrate, canxi, thuốc) phải tính · ADQI 17",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Kê mục tiêu UFnet hằng ngày, chuẩn hoá theo cân nặng",
+     "d": "Rút của máy = UFnet × PBW + dịch vào/giờ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Dữ liệu quan sát: vùng chữ J, 1,01–1,75 mL/kg/h",
+     "d": "Murugan 2019, 2023 · Naorungroj 2020 · chưa có RCT kết cục",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Bắt đầu chậm, tăng đến mức dung nạp",
+     "d": "Tụt áp, tăng vận mạch → giảm hoặc dừng · SRLF R4.5",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Downtime làm cân bằng thực dương hơn y lệnh",
+     "d": "Mô phỏng: −1.920 → −1.000 mL",
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "t": "Đánh giá mỗi giờ đầu, sau đó mỗi 4–6 giờ",
+     "d": "Phiếu theo dõi chuẩn cho cả đơn vị",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần chín. Siêu lọc ròng không phải là cân bằng dịch của người bệnh; mọi dịch vào, kể cả citrate, canxi và thuốc, phải được tính.",
+    "Kê mục tiêu UFnet hằng ngày, chuẩn hoá theo cân nặng; tốc độ rút của máy bằng UFnet mong muốn nhân cân nặng dự đoán cộng dịch vào mỗi giờ.",
+    "Dữ liệu quan sát gợi ý vùng chữ J với UFnet từ 1,01 đến 1,75 mi li lít mỗi ký mỗi giờ; nhưng chưa có thử nghiệm kết cục chứng minh tốc độ tối ưu.",
+    "Bắt đầu chậm, tăng dần đến mức dung nạp, và giảm hoặc dừng khi tụt áp hay tăng vận mạch.",
+    "Downtime làm cân bằng thực tế dương hơn y lệnh: trong mô phỏng, âm 1.920 chỉ còn âm 1.000 mi li lít.",
+    "Đánh giá mỗi giờ trong những giờ đầu, sau đó mỗi 4 đến 6 giờ. Phần sau, chúng ta bàn về điện giải, dinh dưỡng và liều thuốc. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s18",
+   "dense": true
+  }
+ ]
+}
