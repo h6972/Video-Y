@@ -1,0 +1,210 @@
+[
+ {
+  "out": "thumbs/crrt2026-phan-1.png",
+  "hook": "KHUẾCH TÁN<br>HAY ĐỐI LƯU?",
+  "line2": "Nguyên lý màng lọc",
+  "chips": [
+   "Hệ số sàng",
+   "Màng thứ cấp"
+  ],
+  "badge": "PHẦN 1/12",
+  "tag": "Mô phỏng vi thể sợi lọc",
+  "img": "media/aki2026/raw/haemofilter.png",
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-2.png",
+  "hook": "VÌ SAO<br>MÀNG ĐÔNG?",
+  "line2": "Bốn phương thức · FF",
+  "chips": [
+   "FF ≤ 20–25%",
+   "Pha loãng trước"
+  ],
+  "badge": "PHẦN 2/12",
+  "tag": "Mô phỏng mạch CRRT",
+  "img": null,
+  "c": "amber",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-3.png",
+  "hook": "LỌC SỚM<br>HAY CHỜ?",
+  "line2": "Chỉ định · thời điểm",
+  "chips": [
+   "STARRT-AKI",
+   "AKIKI2"
+  ],
+  "badge": "PHẦN 3/12",
+  "tag": "SRLF 2025 · KDIGO 2026",
+  "img": null,
+  "c": "coral",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-4.png",
+  "hook": "CRRT<br>HAY IHD?",
+  "line2": "ICRAKI 2026",
+  "chips": [
+   "63,1% vs 53,5%",
+   "HR 1,30"
+  ],
+  "badge": "PHẦN 4/12",
+  "tag": "NEJM 2026 · 38 ICU",
+  "img": null,
+  "c": "coral",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-5.png",
+  "hook": "CATHETER<br>QUYẾT ĐỊNH",
+  "line2": "Đặt · khởi động an toàn",
+  "chips": [
+   "12–15 / 15–20 / 19–24 cm",
+   "Siêu âm 1A"
+  ],
+  "badge": "PHẦN 5/12",
+  "tag": "KDIGO · Cathedia",
+  "img": null,
+  "c": "teal",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-6.png",
+  "hook": "LIỀU KÊ<br>≠ LIỀU NHẬN",
+  "line2": "Kê đơn từng bước",
+  "chips": [
+   "20–25 mL/kg/h",
+   "Downtime"
+  ],
+  "badge": "PHẦN 6/12",
+  "tag": "ATN · RENAL · IVOIRE",
+  "img": null,
+  "c": "amber",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-7.png",
+  "hook": "CITRATE<br>VÙNG",
+  "line2": "Chuyên sâu",
+  "chips": [
+   "tCa/iCa ≥ 2,5",
+   "CaCl₂ 5% ≠ 10%"
+  ],
+  "badge": "PHẦN 7/12",
+  "tag": "RICH · KDIGO 2026 1B",
+  "img": null,
+  "c": "amber",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-8.png",
+  "hook": "MÀNG SỐNG<br>BAO LÂU?",
+  "line2": "Heparin · nafamostat · HIT",
+  "chips": [
+   "FF thấp",
+   "Qb đủ"
+  ],
+  "badge": "PHẦN 8/12",
+  "tag": "Mô phỏng tuổi thọ màng",
+  "img": "media/aki2026/raw/haemofilter.png",
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-9.png",
+  "hook": "RÚT DỊCH<br>BAO NHIÊU?",
+  "line2": "Siêu lọc ròng",
+  "chips": [
+   "1,01–1,75 mL/kg/h",
+   "Quên dịch citrate"
+  ],
+  "badge": "PHẦN 9/12",
+  "tag": "Murugan · RELIEVE-AKI",
+  "img": null,
+  "c": "coral",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-10.png",
+  "hook": "THUỐC BỊ<br>LỌC MẤT",
+  "line2": "Điện giải · dinh dưỡng · kháng sinh",
+  "chips": [
+   "Hạ phospho",
+   "Thiếu liều"
+  ],
+  "badge": "PHẦN 10/12",
+  "tag": "Hoff 2020 · Tee 2025",
+  "img": null,
+  "c": "teal",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-11.png",
+  "hook": "BÁO ĐỘNG<br>ĐỌC SAO?",
+  "line2": "Xử trí sự cố",
+  "chips": [
+   "Đông hay tắc lỗ màng",
+   "ΔP · TMP"
+  ],
+  "badge": "PHẦN 11/12",
+  "tag": "Mô phỏng 6 sự cố",
+  "img": null,
+  "c": "coral",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-phan-12.png",
+  "hook": "NGỪNG<br>KHI NÀO?",
+  "line2": "Ngừng · tình huống đặc biệt",
+  "chips": [
+   "> 450 mL/24 giờ",
+   "EXTRIP · ECMO"
+  ],
+  "badge": "PHẦN 12/12",
+  "tag": "KDIGO 2026 · SRLF 2025",
+  "img": null,
+  "c": "amber",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>"
+ },
+ {
+  "out": "thumbs/crrt2026-ca-1.png",
+  "hook": "SỐC NHIỄM KHUẨN<br>+ QUÁ TẢI",
+  "line2": "Chờ có chủ đích → CVVHDF",
+  "chips": [
+   "UFnet",
+   "Ngừng ngày 8"
+  ],
+  "badge": "CA 1/3",
+  "tag": "Ca giả định · mô phỏng",
+  "img": null,
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>",
+  "c": "coral"
+ },
+ {
+  "out": "thumbs/crrt2026-ca-2.png",
+  "hook": "tCa/iCa<br>= 2,7",
+  "line2": "Tích tụ citrate · suy gan",
+  "chips": [
+   "Đọc từng bước",
+   "Giảm tải citrate"
+  ],
+  "badge": "CA 2/3",
+  "tag": "Ca giả định · mô phỏng",
+  "img": null,
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>",
+  "c": "amber"
+ },
+ {
+  "out": "thumbs/crrt2026-ca-3.png",
+  "hook": "ĐÔNG MÀNG<br>LẶP LẠI",
+  "line2": "Đọc áp lực · sửa gì?",
+  "chips": [
+   "Catheter",
+   "FF 41,7%"
+  ],
+  "badge": "CA 3/3",
+  "tag": "Ca giả định · mô phỏng",
+  "img": null,
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><rect x=\"20\" y=\"40\" width=\"720\" height=\"620\" rx=\"40\" fill=\"rgba(1,6,12,.6)\" stroke=\"rgba(56,189,248,.4)\" stroke-width=\"4\"/><path d=\"M80 220 H380 V280\" stroke=\"#fb7185\" stroke-width=\"16\" fill=\"none\"/><circle cx=\"210\" cy=\"220\" r=\"52\" fill=\"none\" stroke=\"#2dd4bf\" stroke-width=\"8\"/><line x1=\"170\" y1=\"220\" x2=\"250\" y2=\"220\" stroke=\"#2dd4bf\" stroke-width=\"9\" stroke-linecap=\"round\"/><rect x=\"330\" y=\"280\" width=\"100\" height=\"230\" rx=\"36\" fill=\"rgba(74,222,128,.1)\" stroke=\"#4ade80\" stroke-width=\"8\"/><path d=\"M350 300 V490 M370 300 V490 M390 300 V490 M410 300 V490\" stroke=\"#fb7185\" stroke-width=\"6\" opacity=\".6\"/><path d=\"M380 510 V580 H80 V340\" stroke=\"#38bdf8\" stroke-width=\"16\" fill=\"none\"/><path d=\"M430 320 H560 V170 H680\" stroke=\"#facc15\" stroke-width=\"10\" fill=\"none\"/><rect x=\"620\" y=\"400\" width=\"80\" height=\"110\" rx=\"16\" fill=\"rgba(45,212,191,.15)\" stroke=\"#2dd4bf\" stroke-width=\"6\"/><path d=\"M620 470 H430\" stroke=\"#2dd4bf\" stroke-width=\"8\" fill=\"none\"/></svg>",
+  "c": "teal"
+ }
+]
