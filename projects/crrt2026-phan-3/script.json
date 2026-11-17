@@ -1,0 +1,1218 @@
+{
+ "title": "Lọc máu liên tục – Phần 3: Chỉ định và thời điểm bắt đầu",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 3/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "STARRT-AKI": "sờ ta a ka i",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "IDEAL-ICU": "ai đi ồ i xi u",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "AKI-EPI": "a ka i e pi",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "AKIKI2": "a ki ki hai",
+  "EXTRIP": "éc tờ rip",
+  "MAKE90": "biến cố thận lớn ngày chín mươi",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "AKIKI": "a ki ki",
+  "ELAIN": "e lanh",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "HCO₃⁻": "bicarbonat",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "ng/mL": "nanogam mỗi mi li lít",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "NGAL": "en gan",
+  "NaCl": "natri clorua",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "BUN": "bun",
+  "P/F": "pê trên ép",
+  "NH₃": "a mô ni ác",
+  "IPD": "dữ liệu từng người bệnh",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "next": "Phần 4: CRRT hay IHD – ICRAKI 2026"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Chỉ định<br>và thời điểm bắt đầu",
+   "subtitle": "Cấp cứu · chờ có chủ đích · AKIKI2 · ngoài thận",
+   "badges": [
+    {
+     "t": "Chỉ định cấp cứu",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Chờ có theo dõi",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Không quá muộn",
+     "c": "amber",
+     "at": 1
+    }
+   ],
+   "note": "Ví dụ cân bằng dịch trong phần này là mô hình minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba của loạt bài lọc máu liên tục thực hành.",
+    "Câu hỏi thực tế nhất ở giường bệnh không phải là chạy máy thế nào, mà là: có nên lọc ngay bây giờ không. Lọc quá sớm thì người bệnh chịu thủ thuật, catheter, nguy cơ chảy máu mà có thể không bao giờ cần. Lọc quá muộn thì có thể mất cơ hội cứu.",
+    "Hôm nay chúng ta đi qua chỉ định cấp cứu không được chờ, bằng chứng của các thử nghiệm về thời điểm, cách chờ có chủ đích, và những chỉ định ngoài thận của lọc máu liên tục."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "box",
+   "chapter": "Thông điệp",
+   "title": "Không lọc chỉ vì một con số",
+   "ref": "Chuyên đề Lọc máu liên tục 2026, mục 0 · SRLF 2025, R1.2",
+   "box": {
+    "tag": "THÔNG ĐIỆP 1 · KHÔNG LỌC CHỈ VÌ MỘT CON SỐ",
+    "t": "Lọc <b>ngay</b> khi có chỉ định cấp cứu (K⁺ > 6,5 mmol/L dù điều trị, phù phổi do quá tải giảm oxy kháng trị…). Nếu không: <b>chờ có theo dõi</b> – không bắt đầu trước 72 giờ ở AKI KDIGO 3 không có tiêu chuẩn cấp cứu (SRLF 2025 R1.2, Grade 1−) – nhưng <b>đừng trì hoãn quá mức</b> (AKIKI2).",
+    "at": 0,
+    "c": "coral",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "TRƯỚC",
+     "t": "Bắt đầu sớm",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "NAY",
+     "t": "Trì hoãn có theo dõi; không quá muộn",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "AKIKI · IDEAL-ICU · STARRT-AKI · AKIKI2",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Thông điệp đầu tiên của chuyên đề, và cũng là của phần này: không lọc chỉ vì một con số.",
+    "Nếu có chỉ định cấp cứu, như kali máu trên 6,5 mi li mol mỗi lít dù đã điều trị nội khoa, hay phù phổi do quá tải dịch gây giảm oxy máu kháng trị, thì lọc ngay. Nếu không có, ta chờ có theo dõi. Hội hồi sức Pháp SRLF năm 2025, khuyến cáo R1.2, mức Grade 1 trừ, chứng cứ cao, đồng thuận mạnh, nói rằng không bắt đầu điều trị thay thế thận trước 72 giờ ở người lớn tổn thương thận cấp KDIGO giai đoạn 3 khi không có tiêu chuẩn cấp cứu.",
+    "Nhưng chờ không có nghĩa là bỏ mặc, và đừng trì hoãn quá mức. Trước đây ta quen bắt đầu sớm.",
+    "Nay, nhờ các thử nghiệm AKIKI, IDEAL-ICU, STARRT-AKI và AKIKI2, ta bắt đầu theo chiến lược trì hoãn có theo dõi, và không để quá muộn."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "box",
+   "chapter": "Chỉ định cấp cứu",
+   "title": "Nguyên tắc chung của chỉ định cấp cứu",
+   "ref": "KDIGO 2012, R5.1.1, R5.1.2, tr. 92 · KDIGO 2026 (dự thảo), PP 5.1.3 · CSCCM 2026, KC 2",
+   "box": {
+    "tag": "KDIGO 2012 · R5.1.1 · NOT GRADED",
+    "t": "Bắt đầu KRT <b>cấp cứu</b> khi có rối loạn <b>đe doạ tính mạng</b> về dịch, điện giải, toan kiềm.",
+    "at": 0,
+    "c": "coral",
+    "size": 38
+   },
+   "notes": [
+    {
+     "tag": "KDIGO 2012 · R5.1.2",
+     "t": "Dựa vào bối cảnh lâm sàng, tình trạng có thể điều chỉnh bằng KRT và xu hướng xét nghiệm – không dựa một ngưỡng BUN, creatinin đơn lẻ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "KDIGO 2026 · PP 5.1.3",
+     "t": "Quá tải dịch, điện giải, toan kiềm hoặc chuyển hoá (urê huyết) kháng trị nội khoa → khởi động nếu phù hợp mục tiêu chăm sóc",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "CSCCM 2026 · KC 2",
+     "t": "Cùng tinh thần với practice point trên",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "notes_h": 320,
+   "lines": [
+    "Ta bắt đầu bằng những trường hợp không được chờ. KDIGO năm 2012, khuyến cáo 5.1.1, không xếp mức: hãy bắt đầu điều trị thay thế thận cấp cứu khi có rối loạn đe doạ tính mạng về dịch, điện giải và toan kiềm.",
+    "Cũng KDIGO 2012, khuyến cáo 5.1.2, nhấn mạnh quyết định phải dựa trên bối cảnh lâm sàng, trên tình trạng có thể điều chỉnh được bằng điều trị thay thế thận, và trên xu hướng xét nghiệm, chứ không dựa vào một ngưỡng bun hay creatinin đơn lẻ.",
+    "Bản dự thảo KDIGO 2026, practice point 5.1.3, nói rõ hơn: khi quá tải dịch, rối loạn điện giải, toan kiềm hoặc rối loạn chuyển hoá, kể cả urê huyết, đã kháng trị với điều trị nội khoa, thì khởi động điều trị thay thế thận nếu phù hợp với mục tiêu chăm sóc.",
+    "Khuyến cáo số 2 của hội hồi sức Trung Quốc năm 2026 cùng tinh thần đó. Điểm chung: chỉ định cấp cứu là tình trạng kháng trị, không phải một con số."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "cards",
+   "chapter": "SRLF R1.1",
+   "title": "Ba ngưỡng chỉ định cấp cứu của SRLF 2025",
+   "ref": "SRLF-GFRUP 2025, R1.1A, R1.1C, R1.1D, pdf 3–4",
+   "h": 460,
+   "cards": [
+    {
+     "tag": "R1.1A · PANEL OPINION",
+     "t": "K⁺ > 6,5 mmol/L",
+     "d": "dù điều trị nội khoa đầy đủ",
+     "items": [
+      "Cân nhắc thêm: vô niệu",
+      "K⁺ có nguy cơ tăng rất nhanh (ly giải tế bào – SRLF Bảng 3)",
+      "Biến đổi điện tim"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "R1.1C · PANEL OPINION",
+     "t": "Phù phổi do quá tải dịch",
+     "d": "giảm oxy máu vừa – nặng, kéo dài dù điều trị nội khoa đầy đủ",
+     "items": [],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "R1.1D · PANEL OPINION",
+     "t": "Urê > 40 mmol/L",
+     "d": "(> 2,4 g/L) mà không có dấu hiệu hồi phục thận",
+     "items": [],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "SRLF năm 2025 cụ thể hoá chỉ định cấp cứu bằng một nhóm khuyến cáo R1.1. Ta xem ba ngưỡng quan trọng nhất.",
+    "R1.1A, tăng kali máu: kali trên 6,5 mi li mol mỗi lít dù đã điều trị nội khoa đầy đủ. Hội đồng còn gợi ý cân nhắc thêm các yếu tố như vô niệu, nguy cơ kali tăng rất nhanh, ví dụ do ly giải tế bào, theo Bảng 3 của SRLF, và biến đổi điện tim. Mức khuyến cáo là panel opinion, chứng cứ thấp, đồng thuận mạnh.",
+    "R1.1C, phù phổi do quá tải dịch: chỉ khi gây giảm oxy máu vừa đến nặng kéo dài dù đã điều trị nội khoa đầy đủ. Mức panel opinion.",
+    "R1.1D, urê máu: cân nhắc bắt đầu khi urê trên 40 mi li mol mỗi lít, tức trên 2,4 gam mỗi lít, mà không có dấu hiệu hồi phục chức năng thận. Cũng ở mức panel opinion."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "cards",
+   "chapter": "SRLF R1.1",
+   "title": "Ba điều còn lại của R1.1: đừng dựa vào",
+   "ref": "SRLF-GFRUP 2025, R1.1B, R1.1E, R1.1F, pdf 3–4",
+   "h": 460,
+   "cards": [
+    {
+     "tag": "R1.1B · PANEL OPINION",
+     "t": "Toan chuyển hoá",
+     "d": "Không dùng làm tiêu chí duy nhất để bắt đầu KRT",
+     "items": [],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "R1.1E · PANEL OPINION",
+     "t": "Creatinin",
+     "d": "Không dùng ngưỡng creatinin để bắt đầu KRT",
+     "items": [],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "R1.1F · PANEL OPINION",
+     "t": "Ngộ độc",
+     "d": "Liên hệ trung tâm chống độc tuỳ tình huống",
+     "items": [],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Ba mục còn lại của R1.1 là những điều ta không nên dựa vào, hoặc chỉ nên làm tuỳ tình huống.",
+    "R1.1B: không dùng toan chuyển hoá làm tiêu chí duy nhất để bắt đầu điều trị thay thế thận.",
+    "R1.1E: không dùng một ngưỡng creatinin để bắt đầu. Một ngưỡng creatinin đơn lẻ không quyết định chỉ định bắt đầu.",
+    "R1.1F: với ngộ độc, hãy liên hệ trung tâm chống độc tuỳ tình huống. Chi tiết ở phần mười hai, khi ta nói về ngộ độc và nhóm EXTRIP. Tất cả ba khuyến cáo này ở mức panel opinion."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Chờ có theo dõi",
+   "title": "Không có chỉ định cấp cứu: các hội nói gì?",
+   "ref": "SRLF 2025, pdf 5 · KDIGO 2026 (dự thảo), R5.1.1 · KSN 2025, KQ1, pdf 8, 10 · CSCCM 2026, KC 1",
+   "head": [
+    "Nguồn",
+    "Khuyến cáo",
+    "Mức"
+   ],
+   "widths": "1.5fr 3.4fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "SRLF 2025 · R1.2",
+      "Không bắt đầu KRT trước 72 giờ ở AKI KDIGO 3 không có tiêu chuẩn cấp cứu",
+      "Grade 1−, chứng cứ cao"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "KDIGO 2026 (dự thảo) · R5.1.1",
+      "Ưu tiên chiến lược trì hoãn hơn khởi động sớm",
+      "1C"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "KSN 2025 · KQ1",
+      "Khởi đầu sớm phải cá thể hoá: cân nhắc nguy cơ chảy máu, nhiễm khuẩn catheter, rối loạn điện giải",
+      "B, chứng cứ cao"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "CSCCM 2026 · KC 1",
+      "Không khởi động thường quy ở AKI giai đoạn 1–2",
+      "–"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Khi không có chỉ định cấp cứu, các hội nói gì? Bốn nguồn hội tụ về cùng một hướng.",
+    "SRLF 2025, R1.2: không bắt đầu điều trị thay thế thận trước 72 giờ ở người lớn tổn thương thận cấp KDIGO 3 khi không có tiêu chuẩn cấp cứu như tăng kali, toan nặng, phù phổi do quá tải. Mức Grade 1 trừ, chứng cứ cao, đồng thuận mạnh.",
+    "Bản dự thảo KDIGO 2026, R5.1.1: ưu tiên chiến lược trì hoãn hơn khởi động sớm, mức 1C.",
+    "Hội thận học Hàn Quốc 2025, câu hỏi một: quyết định khởi đầu sớm phải được cá thể hoá, cân nhắc nguy cơ chảy máu, nhiễm khuẩn catheter và rối loạn điện giải; mức B, chứng cứ cao.",
+    "Và hội hồi sức Trung Quốc 2026: không khởi động thường quy ở tổn thương thận cấp giai đoạn 1 và 2."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Bằng chứng",
+   "title": "Năm thử nghiệm: ai được đưa vào, “sớm” và “chờ” nghĩa là gì?",
+   "ref": "Chuyên đề Lọc máu liên tục 2026, Bảng 4.1 · bản gốc chuyên đề AKI 2026, mục 8.9.1",
+   "head": [
+    "Thử nghiệm",
+    "Quần thể, n",
+    "Sớm – trì hoãn"
+   ],
+   "widths": "1.3fr 2.4fr 3.2fr",
+   "rows": [
+    {
+     "cells": [
+      "ELAIN 2016",
+      "KDIGO 2 + NGAL > 150 ng/mL; 231",
+      "Trong 8 giờ từ giai đoạn 2 – trong 12 giờ từ giai đoạn 3"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "AKIKI 2016",
+      "KDIGO 3 + thở máy/catecholamin; 620",
+      "Ngay – khi tăng K⁺, toan, phù phổi, BUN > 112 mg/dL hoặc thiểu niệu > 72 giờ"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "IDEAL-ICU 2018",
+      "Sốc nhiễm khuẩn + RIFLE-F; 488",
+      "Trong 12 giờ – chờ 48 giờ"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "STARRT-AKI 2020",
+      "KDIGO 2–3; 2.927",
+      "Trong 12 giờ – chờ K⁺ ≥ 6,0, pH ≤ 7,20 hoặc HCO₃⁻ ≤ 12, P/F ≤ 200 kèm quá tải, hoặc AKI ≥ 72 giờ"
+     ],
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "AKIKI2 2021",
+      "KDIGO 3 đã thiểu niệu > 72 giờ hoặc BUN > 112 mg/dL; 278",
+      "Trì hoãn – trì hoãn hơn (chờ chỉ định khẩn hoặc BUN 140 mg/dL)"
+     ],
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Trước khi xem kết quả, ta cần nhìn thiết kế, vì mỗi thử nghiệm định nghĩa chữ sớm và chữ chờ theo một cách khác nhau. So sánh chúng mà bỏ qua điều này rất dễ hiểu sai.",
+    "ELAIN chọn người bệnh có tổn thương thận cấp KDIGO 2 và NGAL huyết tương trên 150 nano gam mỗi mi li lít, 231 người. Sớm là lọc trong 8 giờ từ giai đoạn 2, còn trì hoãn là lọc trong 12 giờ từ giai đoạn 3.",
+    "AKIKI chọn KDIGO 3 có thở máy hoặc catecholamin, 620 người. Nhánh sớm lọc ngay; nhánh trì hoãn lọc khi tăng kali, toan, phù phổi, bun trên 112 hoặc thiểu niệu quá 72 giờ.",
+    "IDEAL-ICU chỉ nhận người bệnh sốc nhiễm khuẩn, 488 người: sớm là trong 12 giờ, chờ là 48 giờ. STARRT-AKI nhận KDIGO 2 đến 3, 2.927 người: sớm là trong 12 giờ, còn nhánh tiêu chuẩn chờ đến các ngưỡng kali, pê hát, bicarbonat, tỷ lệ P trên F kèm quá tải, hoặc tổn thương thận cấp từ 72 giờ.",
+    "AKIKI2 chọn KDIGO 3 đã thiểu niệu quá 72 giờ hoặc bun trên 112, 278 người, và so sánh hai mức trì hoãn: trì hoãn, và trì hoãn hơn nữa, chờ chỉ định khẩn hoặc bun 140. Lưu ý quần thể của mỗi thử nghiệm khác nhau, nên kết quả không nên gộp vội thành một con số."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Ba thử nghiệm đầu về thời điểm: tử vong",
+   "groups": [
+    {
+     "t": "ELAIN 2016 · tử vong 90 ngày",
+     "d": "1 trung tâm, Đức · KDIGO 2 + NGAL > 150 ng/mL · n = 231",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Sớm",
+       "v": 39.3,
+       "lab": "39,3%",
+       "c": "teal"
+      },
+      {
+       "k": "Trì hoãn",
+       "v": 54.7,
+       "lab": "54,7%"
+      }
+     ]
+    },
+    {
+     "t": "AKIKI 2016 · tử vong 60 ngày",
+     "d": "31 ICU Pháp · KDIGO 3 + thở máy/catecholamin · n = 620",
+     "at": 1,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Ngay",
+       "v": 48.5,
+       "lab": "48,5%",
+       "c": "teal"
+      },
+      {
+       "k": "Trì hoãn",
+       "v": 49.7,
+       "lab": "49,7%"
+      }
+     ]
+    },
+    {
+     "t": "IDEAL-ICU 2018 · tử vong 90 ngày",
+     "d": "29 ICU Pháp · sốc nhiễm khuẩn · n = 488 · dừng sớm vì vô ích",
+     "at": 2,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Sớm",
+       "v": 58,
+       "lab": "58%",
+       "c": "teal"
+      },
+      {
+       "k": "Chờ 48 giờ",
+       "v": 54,
+       "lab": "54%"
+      }
+     ]
+    }
+   ],
+   "max": 70,
+   "h": 560,
+   "notes": [
+    {
+     "t": "ELAIN: HR 0,66 (0,45–0,97) – chỉ 1 trung tâm",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "AKIKI: P = 0,79 · nhiễm khuẩn huyết do catheter 10% so với 5%",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "IDEAL-ICU: P = 0,38",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Ta đi qua các thử nghiệm then chốt. Thử nghiệm đầu tiên, ELAIN năm 2016, một trung tâm ở Đức, 231 người bệnh có tổn thương thận cấp KDIGO 2 và chất chỉ điểm NGAL huyết tương trên 150 nano gam mỗi mi li lít. Nhánh sớm lọc trong 8 giờ từ giai đoạn 2, nhánh trì hoãn lọc trong 12 giờ từ giai đoạn 3. Tử vong 90 ngày là 39,3 phần trăm so với 54,7, tỷ số nguy cơ 0,66, khoảng tin cậy từ 0,45 đến 0,97.",
+    "Nhưng ELAIN chỉ ở một trung tâm. AKIKI năm 2016, 31 ICU ở Pháp, 620 người bệnh tổn thương thận cấp KDIGO 3 có thở máy hoặc catecholamin. Tử vong 60 ngày là 48,5 phần trăm với lọc ngay so với 49,7 với trì hoãn, P bằng 0,79: không khác biệt.",
+    "Điều đáng chú ý: nhiễm khuẩn huyết do catheter là 10 phần trăm ở nhánh lọc ngay so với 5 phần trăm ở nhánh trì hoãn.",
+    "IDEAL-ICU năm 2018, 29 ICU ở Pháp, người bệnh sốc nhiễm khuẩn, 488 người, thử nghiệm dừng sớm vì vô ích. Lọc trong 12 giờ so với chờ 48 giờ: tử vong 90 ngày 58 phần trăm so với 54 phần trăm, P bằng 0,38.",
+    "Vậy ba thử nghiệm này cho ta một nhận xét chung: ngoài thử nghiệm một trung tâm ELAIN, bắt đầu sớm không đem lại lợi ích sống còn."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "STARRT-AKI: thử nghiệm lớn nhất",
+   "groups": [
+    {
+     "t": "Tử vong 90 ngày",
+     "d": "168 bệnh viện, 15 nước · KDIGO 2–3 · n = 2.927",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Sớm (12 giờ)",
+       "v": 43.9,
+       "lab": "43,9%",
+       "c": "teal"
+      },
+      {
+       "k": "Chờ",
+       "v": 43.7,
+       "lab": "43,7%"
+      }
+     ]
+    },
+    {
+     "t": "Phụ thuộc KRT ngày 90",
+     "d": "RR 1,74 (1,24–2,43)",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Sớm",
+       "v": 10.4,
+       "lab": "10,4%",
+       "c": "coral"
+      },
+      {
+       "k": "Chờ",
+       "v": 6.0,
+       "lab": "6,0%",
+       "c": "teal"
+      }
+     ]
+    },
+    {
+     "t": "Biến cố bất lợi",
+     "d": "",
+     "at": 3,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Sớm",
+       "v": 23.0,
+       "lab": "23,0%",
+       "c": "amber"
+      },
+      {
+       "k": "Chờ",
+       "v": 16.5,
+       "lab": "16,5%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 50,
+   "h": 560,
+   "notes": [
+    {
+     "t": "Chờ khi: K ≥ 6,0, pH ≤ 7,20 hoặc HCO₃⁻ ≤ 12, P/F ≤ 200 kèm quá tải, hoặc AKI ≥ 72 giờ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Nhánh tiêu chuẩn: chỉ 61,8% nhận KRT",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Khởi động sớm: nhiều phụ thuộc KRT hơn",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Thử nghiệm lớn nhất là STARRT-AKI năm 2020: 168 bệnh viện ở 15 nước, 2.927 người bệnh tổn thương thận cấp KDIGO 2 và 3.",
+    "Nhánh sớm lọc trong 12 giờ. Nhánh tiêu chuẩn chờ đến khi có kali từ 6,0 trở lên, pH từ 7,20 trở xuống hoặc bicarbonat từ 12 trở xuống, tỷ lệ P trên F từ 200 trở xuống kèm quá tải dịch, hoặc tổn thương thận cấp kéo dài từ 72 giờ trở lên. Trong nhánh tiêu chuẩn chỉ 61,8 phần trăm cuối cùng nhận điều trị thay thế thận.",
+    "Kết quả chính: tử vong 90 ngày là 43,9 phần trăm ở nhánh sớm so với 43,7 ở nhánh chờ: không khác biệt.",
+    "Nhưng đây là điểm quan trọng: phụ thuộc điều trị thay thế thận ở ngày 90 là 10,4 phần trăm ở nhánh sớm so với 6,0 phần trăm, nguy cơ tương đối 1,74, khoảng tin cậy từ 1,24 đến 2,43. Lọc sớm làm nhiều người phụ thuộc lọc máu hơn.",
+    "Biến cố bất lợi cũng nhiều hơn ở nhánh sớm: 23,0 phần trăm so với 16,5."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Bao nhiêu người ở nhánh chờ không bao giờ cần lọc?",
+   "groups": [
+    {
+     "t": "Không cần KRT ở nhánh trì hoãn",
+     "d": "5 thử nghiệm, theo bản gốc chuyên đề",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "ELAIN 2016",
+       "v": 9.2,
+       "lab": "9,2%",
+       "c": "blue"
+      },
+      {
+       "k": "AKIKI 2016",
+       "v": 49,
+       "lab": "49%",
+       "c": "teal"
+      },
+      {
+       "k": "IDEAL-ICU 2018",
+       "v": 38,
+       "lab": "38%",
+       "c": "teal"
+      },
+      {
+       "k": "STARRT-AKI 2020",
+       "v": 38.2,
+       "lab": "38,2%",
+       "c": "teal"
+      },
+      {
+       "k": "AKIKI2 2021 (trì hoãn hơn)",
+       "v": 21,
+       "lab": "21%",
+       "c": "amber"
+      }
+     ]
+    }
+   ],
+   "max": 60,
+   "h": 560,
+   "notes": [
+    {
+     "t": "Lợi ích của “chờ”: tránh thủ thuật, catheter, chảy máu, hạ phospho không cần thiết",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Không cần KRT ≠ hồi phục: IDEAL-ICU, 18/70 người tự hồi phục sau đó vẫn tử vong",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Một con số khiến ta bớt lo khi chờ: tỷ lệ người ở nhánh chờ không bao giờ cần lọc máu.",
+    "Ở ELAIN, nhánh trì hoãn có 9,2 phần trăm không cần. Ở AKIKI là 49 phần trăm. Ở IDEAL-ICU, 38 phần trăm. Ở STARRT-AKI, 38,2 phần trăm. Và ở AKIKI2, nhánh trì hoãn hơn, 21 phần trăm.",
+    "Như vậy, 38 đến 49 phần trăm người ở nhánh chờ của AKIKI, IDEAL-ICU và STARRT-AKI không bao giờ cần lọc. Lợi ích của chờ chính là tránh thủ thuật, catheter, chảy máu và hạ phospho không cần thiết.",
+    "Tuy vậy, không cần điều trị thay thế thận không đồng nghĩa với hồi phục. Ở IDEAL-ICU, trong số 70 người tự hồi phục mà không cần lọc, có 18 người sau đó vẫn tử vong."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "stats",
+   "chapter": "AKIKI2",
+   "title": "AKIKI2: chờ quá lâu cũng có hại",
+   "ref": "AKIKI2 2021, 39 ICU Pháp, n = 278 · bản gốc chuyên đề AKI 2026, mục 8.9.1",
+   "tiles": [
+    {
+     "tag": "NGÀY SỐNG KHÔNG KRT",
+     "v": 12,
+     "l": "nhánh trì hoãn",
+     "d": "so với 10 ở nhánh trì hoãn hơn · p = 0,93",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "TỬ VONG 60 NGÀY",
+     "v": 1.65,
+     "dec": 2,
+     "pre": "HR ",
+     "l": "nhánh trì hoãn hơn",
+     "d": "HR hiệu chỉnh · KTC 1,09–2,50",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "KHÔNG CẦN KRT",
+     "v": 21,
+     "suf": "%",
+     "l": "ở nhánh trì hoãn hơn",
+     "d": "chờ chỉ định khẩn hoặc BUN 140 mg/dL",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "cols": 3,
+   "h": 440,
+   "lines": [
+    "Nếu ba thử nghiệm đầu nói rằng chờ là an toàn, AKIKI2 năm 2021 nhắc ta giới hạn của điều đó.",
+    "Thử nghiệm gồm 278 người bệnh ở 39 ICU Pháp, tổn thương thận cấp KDIGO 3 đã thiểu niệu hơn 72 giờ hoặc bun trên 112 mi li gam mỗi đề xi lít. Họ được chia vào hai nhánh: trì hoãn, và trì hoãn hơn nữa, tức chờ chỉ định khẩn hoặc bun đạt 140.",
+    "Số ngày sống không cần điều trị thay thế thận là 12 so với 10, không khác biệt có ý nghĩa, p bằng 0,93.",
+    "Nhưng tử vong 60 ngày: tỷ số nguy cơ hiệu chỉnh là 1,65, khoảng tin cậy từ 1,09 đến 2,50, bất lợi cho nhánh trì hoãn hơn. Chỉ 21 phần trăm nhánh trì hoãn hơn không cần lọc.",
+    "Bài học: sau khi đã qua ngưỡng trì hoãn hợp lý, chờ thêm có thể có hại."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Chiến lược",
+   "title": "Chiến lược thực hành: lọc ngay hay chờ?",
+   "ref": "Diễn giải của người soạn dựa trên thiết kế AKIKI, STARRT-AKI · SRLF 2025, R1.1D, R1.2 · AKIKI2",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "AKI nặng",
+     "d": "có thể cần KRT",
+     "x": 190,
+     "y": 330,
+     "w": 260,
+     "h": 140,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Chỉ định cấp cứu?",
+     "d": "K⁺, phù phổi, toan… kháng trị",
+     "x": 560,
+     "y": 330,
+     "w": 340,
+     "h": 160,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Lọc ngay",
+     "d": "không chờ",
+     "x": 1030,
+     "y": 120,
+     "w": 280,
+     "h": 120,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Chờ có chủ đích",
+     "d": "đánh giá lại mỗi 12–24 giờ",
+     "x": 1030,
+     "y": 400,
+     "w": 330,
+     "h": 150,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "Quá ngưỡng chờ?",
+     "d": "thiểu/vô niệu > 72 giờ · urê > 40 mmol/L không hồi phục",
+     "x": 1560,
+     "y": 380,
+     "w": 380,
+     "h": 170,
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "id": "f",
+     "t": "Không trì hoãn thêm",
+     "d": "AKIKI2 · SRLF R1.1D",
+     "x": 1560,
+     "y": 630,
+     "w": 380,
+     "h": 130,
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "coral",
+     "at": 1,
+     "label": "Có"
+    },
+    {
+     "a": "b",
+     "b": "d",
+     "c": "teal",
+     "at": 2,
+     "label": "Không"
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "a": "e",
+     "b": "f",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Ta tổng hợp thành một lưu đồ. Đây là diễn giải thực hành rút ra từ thiết kế của AKIKI và STARRT-AKI, không phải khuyến cáo của một hội cụ thể.",
+    "Người bệnh tổn thương thận cấp nặng. Câu hỏi đầu tiên: có chỉ định cấp cứu không. Nếu có, lọc ngay.",
+    "Nếu không, ta chờ có chủ đích. Cụm từ này quan trọng: chờ không phải là không làm gì, mà là đánh giá lại ít nhất mỗi 12 đến 24 giờ.",
+    "Mỗi lần đánh giá, ta hỏi: đã vượt ngưỡng chờ hợp lý chưa, tức thiểu niệu hoặc vô niệu hơn 72 giờ, hoặc urê trên 40 mi li mol mỗi lít mà không hồi phục.",
+    "Nếu đã vượt, không trì hoãn thêm, theo AKIKI2 và R1.1D của SRLF."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "list",
+   "chapter": "Chờ có chủ đích",
+   "title": "Trong lúc chờ: làm gì?",
+   "ref": "Diễn giải của người soạn · KDIGO 2026 (dự thảo), PP 5.1.2 · Gaudry, Lancet 2020",
+   "items": [
+    {
+     "t": "Đánh giá lại ít nhất mỗi 12–24 giờ",
+     "d": "",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Tối ưu dịch",
+     "d": "",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Ngừng thuốc độc thận",
+     "d": "",
+     "at": 1,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "Điều chỉnh kali và toan bằng nội khoa",
+     "d": "",
+     "at": 2,
+     "c": "violet",
+     "n": 4
+    },
+    {
+     "t": "Lên kế hoạch trước khi có chỉ định",
+     "d": "kể cả chuyển đến trung tâm có KRT (KDIGO 2026, PP 5.1.2)",
+     "at": 3,
+     "c": "coral",
+     "n": 5
+    },
+    {
+     "t": "Công cụ dự báo: chưa đủ bằng chứng để khuyến cáo",
+     "d": "nghiệm pháp furosemid, chỉ dấu sinh học",
+     "at": 4,
+     "c": "green",
+     "n": 6
+    }
+   ],
+   "lines": [
+    "Vậy trong lúc chờ ta làm gì? Chờ có chủ đích nghĩa là một chương trình hành động, không phải sự thụ động.",
+    "Đánh giá lại ít nhất mỗi 12 đến 24 giờ, tối ưu dịch, ngừng các thuốc độc thận.",
+    "Điều chỉnh kali và toan bằng điều trị nội khoa. Những việc này là diễn giải của người soạn dựa trên thiết kế của AKIKI và STARRT-AKI.",
+    "Người bệnh có khả năng cao cần điều trị thay thế thận nên được lên kế hoạch trước khi có chỉ định, kể cả chuyển đến trung tâm có thể thực hiện điều trị thay thế thận. Đó là practice point 5.1.2 của bản dự thảo KDIGO 2026.",
+    "Về công cụ dự báo như nghiệm pháp furosemid hay các chỉ dấu sinh học, bằng chứng hiện chưa đủ để khuyến cáo.",
+    "Còn phân tích gộp dữ liệu từng người bệnh của Gaudry trên Lancet năm 2020 cũng xác nhận khởi động sớm không giảm tử vong."
+   ],
+   "id": "s13",
+   "dense": true
+  },
+  {
+   "layout": "cards",
+   "chapter": "Ngoài thận",
+   "title": "Chỉ định ngoài thận (1): quá tải dịch, gan, não",
+   "ref": "Oxford 2016, tr. 63–64 · KSN 2025, KQ6 · KDIGO 2026 (dự thảo), PP 5.1.4",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "OXFORD 2016 · TR. 63–64",
+     "t": "Quá tải dịch kháng lợi tiểu",
+     "d": "Rút dịch ổn định",
+     "items": [
+      "Sách gợi ý cân bằng âm −200 đến −400 mL/h",
+      "Suy tim nặng: −300 mL/h để rút 10–15 L trong 24–48 giờ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "KSN 2025 · KQ6 · MỨC I",
+     "t": "Suy tim mất bù cấp",
+     "d": "Siêu lọc cần cân nhắc thận trọng, ở người chọn lọc",
+     "items": [
+      "Mức I: chưa kết luận",
+      "Chứng cứ vừa"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KDIGO 2026 · PP 5.1.4",
+     "t": "Suy gan cấp",
+     "d": "Bệnh não gan độ ≥ 2, tăng NH₃",
+     "items": [
+      "Cân nhắc CRRT để giảm amoniac dù chưa có chỉ định thận"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "PHẦN 4",
+     "t": "Tổn thương não cấp",
+     "d": "Tăng áp lực nội sọ",
+     "items": [
+      "Ưu tiên phương thức liên tục"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Lọc máu liên tục không chỉ là điều trị thay thế thận. Nó còn là một công cụ hồi sức. Ta điểm các chỉ định ngoài thận, nhóm thứ nhất.",
+    "Quá tải dịch kháng lợi tiểu: lọc máu liên tục cho phép rút dịch ổn định. Sách Oxford gợi ý cân bằng âm từ 200 đến 400 mi li lít mỗi giờ, và ở suy tim nặng, âm 300 mi li lít mỗi giờ để rút 10 đến 15 lít trong 24 đến 48 giờ. Đây là theo sách, cần đối chiếu với phần chín về siêu lọc ròng.",
+    "Suy tim mất bù cấp kháng lợi tiểu: hội thận học Hàn Quốc 2025, câu hỏi sáu, cho rằng siêu lọc cần được cân nhắc thận trọng ở người bệnh chọn lọc. Mức I, chưa kết luận, chứng cứ vừa.",
+    "Suy gan cấp có bệnh não gan độ từ hai trở lên và tăng amoniac: bản dự thảo KDIGO 2026, practice point 5.1.4, cho phép cân nhắc lọc máu liên tục để giảm amoniac dù chưa có chỉ định thận.",
+    "Tổn thương não cấp và tăng áp lực nội sọ: ưu tiên phương thức liên tục, ta sẽ phân tích ở phần bốn."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Ngoài thận",
+   "title": "Chỉ định ngoài thận (2): natri, thân nhiệt, ngộ độc, ly giải",
+   "ref": "Teixeira 2025, tr. 774, 778 · Oxford 2016, tr. 63–64",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "TEIXEIRA 2025 · TR. 774",
+     "t": "Rối loạn natri nặng kèm AKI",
+     "d": "Điều chỉnh natri có kiểm soát qua dịch",
+     "items": [
+      "Chi tiết ở phần mười"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "OXFORD 2016 · TR. 63 · THEO SÁCH",
+     "t": "Tăng thân nhiệt kháng trị",
+     "d": "Sốt ác tính, sốt nặng kháng trị",
+     "items": [
+      "Không làm ấm dịch thay thế; có thể làm lạnh dịch"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "OXFORD 2016 · TR. 64 · THEO SÁCH",
+     "t": "Ngộ độc chất tan trong nước",
+     "d": "Ít gắn protein, thể tích phân bố < 0,5 L/kg",
+     "items": [
+      "Hợp lý khi không làm được IHD hoặc để chống tái phân bố",
+      "Ưu tiên EXTRIP (phần 12)"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "TEIXEIRA 2025 · TR. 778",
+     "t": "Tiêu cơ vân, ly giải u",
+     "d": "Tăng K⁺, phosphat nặng",
+     "items": [
+      "Có thể cần liều tạm thời ≥ 40 mL/kg/h"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Nhóm thứ hai của chỉ định ngoài thận.",
+    "Rối loạn natri nặng kèm tổn thương thận cấp: lọc máu liên tục cho phép điều chỉnh natri có kiểm soát qua thành phần dịch, Teixeira 2025. Ta sẽ cụ thể hoá ở phần mười.",
+    "Tăng thân nhiệt kháng trị, như sốt ác tính hay sốt nặng kháng trị: theo sách Oxford, không làm ấm dịch thay thế, thậm chí có thể làm lạnh dịch.",
+    "Ngộ độc chất tan trong nước, ít gắn protein, thể tích phân bố dưới 0,5 lít mỗi ký: theo sách, lọc máu liên tục hợp lý khi không làm được chạy thận ngắt quãng hoặc để chống tái phân bố; nhưng nên ưu tiên khuyến cáo của EXTRIP, ở phần mười hai.",
+    "Cuối cùng, tiêu cơ vân hay ly giải u có tăng kali, phosphat nặng: có thể cần liều tạm thời từ 40 mi li lít mỗi ký mỗi giờ trở lên, theo Teixeira. Đây là ngoại lệ tạm thời của nguyên tắc liều thực nhận 20 đến 25."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "box",
+   "chapter": "Ngoài thận",
+   "title": "Điều KHÔNG nên làm: lọc lactat",
+   "ref": "Teixeira 2025, tr. 778",
+   "box": {
+    "tag": "TEIXEIRA 2025 · TR. 778",
+    "t": "<b>Không</b> dùng lọc máu liên tục liều cao để “lọc lactat” trong toan lactic.",
+    "at": 0,
+    "c": "coral",
+    "size": 40
+   },
+   "notes": [
+    {
+     "tag": "NỘI SINH",
+     "t": "Thanh thải lactat nội sinh 750–2.000 mL/phút",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CRRT",
+     "t": "Thanh thải của lọc máu liên tục khoảng 50 mL/phút",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KẾT LUẬN",
+     "t": "CRRT vượt xa không nổi khả năng thanh thải nội sinh",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Một điều không nên làm: dùng lọc máu liên tục liều cao để lọc lactat trong toan lactic.",
+    "Thanh thải lactat nội sinh của cơ thể từ 750 đến 2.000 mi li lít mỗi phút.",
+    "Trong khi thanh thải của lọc máu liên tục chỉ khoảng 50 mi li lít mỗi phút.",
+    "Vì vậy lọc máu liên tục không thể thay cho thanh thải nội sinh. Điều trị toan lactic là điều trị nguyên nhân."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "canbang",
+   "chapter": "Quá tải dịch",
+   "title": "Cân bằng dịch khi lọc để rút dịch (mô hình minh hoạ)",
+   "canbang": {
+    "wt": 70,
+    "ins": [
+     {
+      "t": "Dịch vào (thuốc, dinh dưỡng)",
+      "v": 130,
+      "c": "#4ade80"
+     }
+    ],
+    "urine": 0,
+    "ufm": 250,
+    "down": [
+     [
+      10,
+      12
+     ]
+    ],
+    "hours": 24
+   },
+   "trend": {
+    "at": "L2",
+    "speed": 2.0
+   },
+   "notes": [
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Số giả định để minh hoạ, không phải khuyến cáo tốc độ rút",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "MÁY DỪNG",
+     "t": "Giờ 10–12: không rút dịch, cân bằng đi ngang",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Để hình dung quá tải dịch được xử lý thế nào, ta dùng một mô hình đơn giản. Đây là ví dụ giả định cho người bệnh 70 ký, vô niệu, không phải khuyến cáo về tốc độ rút.",
+    "Mỗi giờ có 130 mi li lít dịch đi vào người bệnh, gồm thuốc và dinh dưỡng, cột xanh lá ở phía trên. Máy rút 250 mi li lít mỗi giờ, cột đỏ ở phía dưới.",
+    "Bây giờ chạy 24 giờ. Đường xanh dương là cân bằng cộng dồn, đi xuống khi máy rút nhiều hơn lượng dịch vào. Hai giờ, từ giờ thứ 10 đến 12, máy dừng, vùng đỏ nhạt trên hình: đường cân bằng đi ngang.",
+    "Sau 24 giờ, tổng dịch vào là 3.120 mi li lít, tổng dịch ra là 5.500, cân bằng cộng dồn âm 2.380 mi li lít. Máy chạy 22 giờ, và mức rút ròng sau khi trừ dịch vào là 1,42 mi li lít mỗi ký mỗi giờ.",
+    "Hai bài học. Một: rút dịch là phép cộng trừ từng giờ; thời gian máy dừng làm cân bằng chậm lại. Hai: mục tiêu và tốc độ rút phải được cá thể hoá, và ta sẽ bàn kỹ ở phần chín."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "canbang",
+   "chapter": "Quá tải dịch",
+   "title": "Máy dừng nhiều: dịch rút được ít hơn dự tính (mô hình)",
+   "canbang": {
+    "wt": 70,
+    "ins": [
+     {
+      "t": "Dịch vào (thuốc, dinh dưỡng)",
+      "v": 130,
+      "c": "#4ade80"
+     }
+    ],
+    "urine": 0,
+    "ufm": 250,
+    "down": [
+     [
+      4,
+      6
+     ],
+     [
+      12,
+      14
+     ],
+     [
+      18,
+      22
+     ]
+    ],
+    "hours": 24
+   },
+   "trend": {
+    "at": "L1",
+    "speed": 2.0
+   },
+   "notes": [
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Cùng thông số, nhưng máy dừng 8 giờ",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "DOWNTIME",
+     "t": "Ba đợt dừng: giờ 4–6, 12–14, 18–22",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Bây giờ giữ nguyên thông số, chỉ thay đổi một điều: máy dừng nhiều hơn, tổng cộng 8 giờ trong 24 giờ, qua ba đợt, ví dụ vì báo động, đông màng hay đi chụp cắt lớp. Đây vẫn là mô hình giả định.",
+    "Hãy xem đường cân bằng cộng dồn khi mô hình chạy 24 giờ. Mỗi đợt dừng, vùng đỏ nhạt, đường đi ngang, người bệnh tiếp tục nhận dịch nhưng không được rút.",
+    "Kết quả sau 24 giờ: tổng dịch vào vẫn 3.120 mi li lít, nhưng tổng dịch ra chỉ 4.000, cân bằng cộng dồn chỉ âm 880 mi li lít, so với âm 2.380 khi máy chỉ dừng 2 giờ. Máy chạy 16 giờ, và mức rút ròng sau khi trừ dịch vào là 0,52 mi li lít mỗi ký mỗi giờ, so với 1,42.",
+    "Nghĩa là cùng một y lệnh trên máy, nhưng thời gian dừng làm lượng dịch thực rút giảm nhiều. Vì vậy khi mục tiêu cân bằng không đạt, trước khi tăng tốc độ rút, ta cần xem máy đã chạy bao nhiêu giờ. Tốc độ rút ròng và các ngưỡng an toàn sẽ được bàn kỹ ở phần chín."
+   ],
+   "id": "s18"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: sốc nhiễm khuẩn ngày 1 – lọc hay chờ?",
+   "case": "Nam, 64 tuổi, sốc nhiễm khuẩn do viêm phổi, thở máy, noradrenalin. AKI KDIGO 3, vô niệu 12 giờ. K⁺ 5,4 mmol/L, pH 7,28, không phù phổi, urê chưa tới 40 mmol/L. Chưa có tiêu chuẩn cấp cứu.",
+   "case_at": 0,
+   "q": "Xử trí hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Lọc ngay trong 12 giờ để “lọc cytokin”",
+    "Chờ có chủ đích, đánh giá lại 12–24 giờ; lọc ngay khi có chỉ định cấp cứu",
+    "Lọc ngay vì vô niệu và sốc nhiễm khuẩn",
+    "Chờ đến khi urê > 40 mmol/L, không cần đánh giá lại"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Chưa có chỉ định cấp cứu → chờ có theo dõi (SRLF R1.2). IDEAL-ICU (sốc nhiễm khuẩn): 58% vs 54%, 38% nhánh chờ không cần lọc. Phải đánh giá lại (AKIKI2).",
+   "lines": [
+    "Tình huống. Người bệnh nam, 64 tuổi, sốc nhiễm khuẩn do viêm phổi, thở máy, đang dùng noradrenalin. Tổn thương thận cấp KDIGO 3, vô niệu 12 giờ. Kali 5,4 mi li mol mỗi lít, pê hát 7,28, không phù phổi, urê chưa tới 40. Chưa có tiêu chuẩn cấp cứu.",
+    "Xử trí hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Chưa có chỉ định cấp cứu, nên chờ có theo dõi, theo R1.2 của SRLF. Ở IDEAL-ICU, thử nghiệm đúng ở người bệnh sốc nhiễm khuẩn, lọc sớm không có lợi: tử vong 58 phần trăm so với 54, và 38 phần trăm ở nhánh chờ không bao giờ cần lọc. Đáp án A sai vì lọc để thải cytokin, tức siêu lọc thể tích cao, đã không có lợi trong sốc nhiễm khuẩn. Đáp án C sai vì vô niệu 12 giờ không phải chỉ định cấp cứu. Đáp án D sai vì chờ phải có đánh giá lại, và AKIKI2 cho thấy chờ quá lâu có thể có hại."
+   ],
+   "id": "s19"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 3",
+   "items": [
+    {
+     "t": "Chỉ định cấp cứu: rối loạn kháng trị đe doạ tính mạng",
+     "d": "K⁺ > 6,5 mmol/L · phù phổi kháng trị · urê > 40 mmol/L không hồi phục",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "Không dùng toan đơn độc hay ngưỡng creatinin",
+     "d": "SRLF R1.1B, R1.1E",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Không có chỉ định: chờ có theo dõi",
+     "d": "SRLF R1.2: không trước 72 giờ · KDIGO 2026 R5.1.1 (1C)",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Lọc sớm không giảm tử vong; STARRT-AKI: phụ thuộc KRT 10,4% so với 6,0%",
+     "d": "38–49% nhánh chờ không cần lọc",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Chờ có chủ đích, không chờ quá lâu",
+     "d": "AKIKI2: HR 1,65 cho nhánh trì hoãn hơn",
+     "at": 4,
+     "c": "green"
+    },
+    {
+     "t": "Chỉ định ngoài thận có, nhưng không lọc lactat",
+     "d": "quá tải dịch · suy gan cấp · não · natri · ngộ độc",
+     "at": 5,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần ba. Chỉ định cấp cứu là rối loạn kháng trị đe doạ tính mạng: kali trên 6,5, phù phổi kháng trị, urê trên 40 không hồi phục.",
+    "Không dùng toan chuyển hoá đơn độc hay một ngưỡng creatinin làm tiêu chí bắt đầu.",
+    "Khi không có chỉ định cấp cứu, chờ có theo dõi: SRLF không bắt đầu trước 72 giờ, KDIGO 2026 ưu tiên trì hoãn, mức 1C.",
+    "Bắt đầu sớm không giảm tử vong; ở STARRT-AKI còn làm tăng phụ thuộc điều trị thay thế thận, 10,4 so với 6,0 phần trăm; và 38 đến 49 phần trăm người ở nhánh chờ không cần lọc.",
+    "Nhưng chờ phải có chủ đích, và không chờ quá lâu: AKIKI2 cho thấy tỷ số nguy cơ 1,65 ở nhánh trì hoãn hơn.",
+    "Ngoài thận, lọc máu liên tục có vai trò ở quá tải dịch, suy gan cấp, não, natri, ngộ độc, nhưng không dùng để lọc lactat. Phần sau, ta bàn lọc máu liên tục hay chạy thận ngắt quãng, với ICRAKI 2026. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s20",
+   "dense": true
+  }
+ ]
+}

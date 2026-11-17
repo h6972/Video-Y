@@ -1,0 +1,1145 @@
+{
+ "title": "Lọc máu liên tục – Phần 1: Nguyên lý: khuếch tán, đối lưu, hấp phụ, siêu lọc",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 1/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "Stokes–Einstein": "sờ tốc ai xtai",
+  "STARRT-AKI": "sờ ta a ka i",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "IDEAL-ICU": "ai đi ồ i xi u",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "AKI-EPI": "a ka i e pi",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "CAVHDF": "xê a vê hát đê ép",
+  "AKIKI2": "a ki ki hai",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CAVHD": "xê a vê hát đê",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "AKIKI": "a ki ki",
+  "ELAIN": "e lanh",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "AAMI": "a a em ai",
+  "Kt/V": "ca tê trên vê",
+  "AN69": "a en sáu mươi chín",
+  "PMMA": "pê em em a",
+  "MOST": "mốt",
+  "CAVH": "xê a vê hát",
+  "NaCl": "natri clorua",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "PES": "pê e ét",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "pH": "pê hát"
+ },
+ "brand": {
+  "next": "Phần 2: Bốn phương thức và phân suất lọc"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Nguyên lý:<br>khuếch tán, đối lưu,<br>hấp phụ, siêu lọc",
+   "subtitle": "Hệ số sàng · ngưỡng cắt · khái niệm liều",
+   "badges": [
+    {
+     "t": "Khuếch tán",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Đối lưu",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "Hấp phụ",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Siêu lọc",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "note": "Vi thể một sợi lọc mô phỏng – tỷ lệ trên hình chỉ minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần một của loạt bài lọc máu liên tục thực hành.",
+    "Trước khi đứng trước màn hình máy lọc, chúng ta cần hiểu một điều căn bản: bên trong quả lọc, điều gì thật sự xảy ra với từng phân tử. Vì sao urê đi qua dễ, albumin ở lại, còn các phân tử trung bình thì tuỳ thuộc vào cách ta chọn phương thức.",
+    "Hôm nay chúng ta phóng to một sợi lọc rỗng, lần lượt bật bốn cơ chế: khuếch tán, đối lưu, hấp phụ và siêu lọc, rồi đi tiếp tới hệ số sàng, ngưỡng cắt, áp lực xuyên màng và cách danh pháp quốc tế định nghĩa chữ liều."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "box",
+   "chapter": "Tổng quan",
+   "title": "Lọc máu liên tục là gì?",
+   "ref": "Teixeira, AJKD Core Curriculum 2025, tr. 767 · Neri 2016, pdf 1",
+   "box": {
+    "tag": "TEIXEIRA · CORE CURRICULUM 2025 · TR. 767",
+    "t": "Các kỹ thuật lọc máu ngoài cơ thể được thiết kế để chạy <b>liên tục 24 giờ hoặc lâu hơn</b>. So với kỹ thuật ngắt quãng, cho phép <b>tốc độ siêu lọc thấp hơn</b> và <b>thanh thải chất tan chậm hơn</b>, nhờ đó dung nạp huyết động tốt hơn ở người bệnh không ổn định.",
+    "at": 0,
+    "c": "teal",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "THUẬT NGỮ",
+     "t": "CKRT đang thay dần CRRT; hai tên dùng như nhau",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "DANH PHÁP 2016",
+     "t": "Gọi tên “lấy máy làm trung tâm”",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "CHUẨN CHĂM SÓC",
+     "t": "AKI kèm sốc, tổn thương não cấp, suy gan cấp",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Trước hết, một định nghĩa ngắn. Lọc máu liên tục gồm các kỹ thuật lọc máu ngoài cơ thể được thiết kế để chạy liên tục hai mươi bốn giờ hoặc lâu hơn.",
+    "So với kỹ thuật ngắt quãng, lọc máu liên tục cho phép tốc độ siêu lọc thấp hơn và thanh thải chất tan chậm hơn, nhờ đó người bệnh không ổn định dung nạp huyết động tốt hơn. Thuật ngữ CKRT, tức liệu pháp thay thế thận liên tục, đang dần thay thuật ngữ CRRT; trong loạt bài này, hai tên được dùng như nhau.",
+    "Hệ thuật ngữ chuẩn hiện hành do Sáng kiến chuẩn hoá danh pháp công bố năm 2016, gọi tên các thông số theo cách lấy máy làm trung tâm. Chúng ta sẽ dùng chính ngôn ngữ đó.",
+    "Dù các thử nghiệm ngẫu nhiên chưa chứng minh lọc máu liên tục hơn kỹ thuật ngắt quãng về sống còn hay hồi phục thận, nó đã thành chuẩn chăm sóc ở các nước phát triển cho tổn thương thận cấp kèm sốc, tổn thương não cấp, suy gan cấp và một số bệnh nặng khác. Kết quả ICRAKI năm 2026 làm thay đổi một phần nhận định này, và ta sẽ bàn ở phần bốn."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Dịch tễ",
+   "title": "Lọc máu liên tục ở ICU: dùng nhiều đến đâu?",
+   "ref": "AKI-EPI, Hoste 2015, tr. 1418 · KDIGO 2026 (dự thảo), PP 6.4.1",
+   "tiles": [
+    {
+     "tag": "TOÀN BỘ NGƯỜI BỆNH ICU",
+     "v": 13.5,
+     "dec": 1,
+     "suf": "%",
+     "l": "được điều trị thay thế thận",
+     "d": "KTC 95% 12,0–15,1 · 1.802 người bệnh",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "NGƯỜI BỆNH AKI",
+     "v": 23.5,
+     "dec": 1,
+     "suf": "%",
+     "l": "được điều trị thay thế thận",
+     "d": "KTC 95% 21,1–26,2",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "SỐ PHIÊN LỌC",
+     "v": 75.2,
+     "dec": 1,
+     "suf": "%",
+     "l": "là phương thức liên tục",
+     "d": "nghiên cứu đa quốc gia, 2015",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "RA VIỆN VẪN LỌC",
+     "v": 30,
+     "pre": "tới ",
+     "suf": "%",
+     "l": "người lớn được KRT vì AKI và sống",
+     "d": "phụ thuộc lọc máu lúc ra viện",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "cols": 4,
+   "h": 440,
+   "lines": [
+    "Để hình dung quy mô, ta nhìn lại nghiên cứu đa quốc gia AKI-EPI năm 2015, trên 1.802 người bệnh hồi sức.",
+    "Có 13,5 phần trăm toàn bộ người bệnh ICU, khoảng tin cậy 95 phần trăm từ 12,0 đến 15,1, được điều trị thay thế thận.",
+    "Tính riêng nhóm có tổn thương thận cấp, tỷ lệ này là 23,5 phần trăm, khoảng tin cậy từ 21,1 đến 26,2. Và trong số các phiên lọc, phương thức liên tục chiếm 75,2 phần trăm.",
+    "Một con số cần nhớ nữa từ bản dự thảo KDIGO 2026: khoảng tới 30 phần trăm người lớn được điều trị thay thế thận vì tổn thương thận cấp và sống đến lúc ra viện vẫn còn phụ thuộc lọc máu. Số liệu Việt Nam về tỷ lệ dùng lọc máu liên tục ở ICU thì trong nguồn của chúng tôi hiện chưa có."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "list",
+   "chapter": "Lộ trình",
+   "title": "Ba câu hỏi xuyên suốt cả loạt bài",
+   "ref": "Chuyên đề Lọc máu liên tục 2026, mục 1.3",
+   "items": [
+    {
+     "t": "Có cần lọc không, và khi nào?",
+     "d": "Phần 3 và 4: chỉ định, thời điểm, chọn phương thức",
+     "at": 0,
+     "c": "coral",
+     "n": 1
+    },
+    {
+     "t": "Lọc bằng gì, liều bao nhiêu, chống đông gì, rút dịch bao nhiêu?",
+     "d": "Phần 5 đến 10: catheter, kê đơn, citrate, dịch, dinh dưỡng",
+     "at": 1,
+     "c": "teal",
+     "n": 2
+    },
+    {
+     "t": "Vận hành an toàn và ngừng lúc nào?",
+     "d": "Phần 11 và 12: báo động, sự cố, ngừng lọc, tổ chức đơn vị",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    }
+   ],
+   "lines": [
+    "Cả chuyên đề xoay quanh ba câu hỏi. Câu hỏi thứ nhất: có cần lọc không, và khi nào.",
+    "Câu hỏi thứ hai: lọc bằng gì, liều bao nhiêu, chống đông gì, rút dịch bao nhiêu.",
+    "Câu hỏi thứ ba: vận hành an toàn thế nào và ngừng lúc nào.",
+    "Phần một này là nền tảng cho cả ba. Nếu hiểu rõ vì sao một phân tử đi qua màng, ta sẽ hiểu vì sao phương thức này hợp với người bệnh này, vì sao liều trên máy không phải liều người bệnh nhận, và vì sao màng đông."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "timeline",
+   "chapter": "Lịch sử",
+   "title": "Lịch sử (1): từ thẩm phân phúc mạc đến máy chuyên dụng",
+   "ref": "Oxford 2016, tr. 13–17 · Ronco, Lancet 2000",
+   "events": [
+    {
+     "year": "1960s",
+     "t": "Thẩm phân phúc mạc",
+     "d": "Thận nhân tạo ngắt quãng khó làm, người nặng dung nạp kém",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "year": "1977",
+     "t": "CAVH · Kramer",
+     "d": "Dùng chênh áp động–tĩnh mạch, không cần bơm máu",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "year": "1979",
+     "t": "CVVH đầu tiên",
+     "d": "Suy thận cấp sau mổ tim; có bơm máu, kiểm soát dịch",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "1980s",
+     "t": "Thêm dịch thẩm tách",
+     "d": "CAVHD, CAVHDF; catheter hai nòng; màng tổng hợp",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "year": "1990s",
+     "t": "Máy chuyên dụng",
+     "d": "Tích hợp bơm và cân dịch điện tử",
+     "c": "green",
+     "at": 4
+    },
+    {
+     "year": "2000",
+     "t": "Ronco",
+     "d": "35 mL/kg/h tốt hơn 20; sau bị bác bỏ",
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "note": {
+    "t": "Từ khoảng năm 2000: hỗ trợ đa cơ quan (MOST) – lọc máu tích hợp với ECMO, hấp phụ, hỗ trợ gan",
+    "at": 6,
+    "c": "amber"
+   },
+   "lines": [
+    "Lịch sử giúp ta hiểu vì sao kỹ thuật này được thiết kế như vậy. Thập niên sáu mươi, phần lớn suy thận cấp ở hồi sức được điều trị bằng thẩm phân phúc mạc, vì thận nhân tạo ngắt quãng khó thực hiện và người bệnh nặng dung nạp kém. Đó chính là lý do ra đời của kỹ thuật liên tục.",
+    "Năm 1977, Kramer ở Göttingen mô tả siêu lọc máu động – tĩnh mạch liên tục, viết tắt CAVH. Kỹ thuật dùng chênh áp giữa động mạch và tĩnh mạch của người bệnh, không cần bơm máu. Đó là khởi đầu của khái niệm lọc chậm, liên tục, gần sinh lý.",
+    "Năm 1979, siêu lọc máu tĩnh mạch – tĩnh mạch lần đầu dùng cho suy thận cấp sau mổ tim ở Cologne. Cần bơm máu và kiểm soát cân bằng dịch: đây là nguyên mẫu của mọi máy hiện nay.",
+    "Thập niên tám mươi, người ta thêm dịch thẩm tách, ra đời CAVHD và CAVHDF; catheter tĩnh mạch hai nòng, dịch đệm bicarbonat và các màng tổng hợp như polysulfone, polyacrylonitrile, polyamide, với điểm cắt từ mười lăm nghìn đến năm mươi nghìn đan tơn. Đó là nền của thẩm tách máu liên tục và thẩm tách siêu lọc liên tục ngày nay.",
+    "Từ năm 1990 đến 2000, xuất hiện máy chuyên dụng tích hợp bơm và cân dịch điện tử. Điều này giảm sai số cân bằng dịch, điều kiện để lọc máu liên tục an toàn.",
+    "Năm 2000, Ronco báo cáo liều 35 mi li lít mỗi ký mỗi giờ tốt hơn liều 20, trong một nghiên cứu đơn trung tâm. Kết quả này gây ra làn sóng liều cao, mà sau đó bị bác bỏ.",
+    "Và từ khoảng năm 2000, quan niệm chuyển sang hỗ trợ đa cơ quan. Người bệnh hồi sức ít khi tử vong vì riêng suy thận mà vì suy đa tạng, nên lọc máu cần được tích hợp với các hỗ trợ khác như ECMO, hấp phụ, hỗ trợ gan."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "timeline",
+   "chapter": "Lịch sử",
+   "title": "Lịch sử (2): từ liều cao đến khuyến cáo 2025–2026",
+   "ref": "Chuyên đề Lọc máu liên tục 2026, mục 2 · Vinsonneau, Lancet 2006 · Neri 2016",
+   "events": [
+    {
+     "year": "2006",
+     "t": "Hemodiafe",
+     "d": "CVVHDF ≈ IHD về sống còn khi IHD làm theo quy trình chặt",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "year": "2008–09",
+     "t": "ATN và RENAL",
+     "d": "Liều cao không lợi ích → chuẩn 20–25 mL/kg/h thực nhận",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "year": "2012",
+     "t": "KDIGO AKI",
+     "d": "Liều 20–25 (1A); citrate (2B); CRRT khi huyết động không ổn định (2B)",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "2013",
+     "t": "IVOIRE",
+     "d": "HVHF 70 mL/kg/h không giảm tử vong trong sốc nhiễm khuẩn",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "year": "2016",
+     "t": "Danh pháp chuẩn",
+     "d": "Ngôn ngữ chung về liều, dòng, màng",
+     "c": "green",
+     "at": 4
+    },
+    {
+     "year": "2025–26",
+     "t": "Bộ khuyến cáo mới",
+     "d": "KSN, SRLF-GFRUP, KDIGO 2026 (dự thảo), CSCCM; ICRAKI",
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Sang giai đoạn hai. Năm 2006, thử nghiệm Hemodiafe cho thấy thẩm tách siêu lọc liên tục tương đương chạy thận ngắt quãng về sống còn, khi chạy thận ngắt quãng được làm theo quy trình chặt chẽ. Điều đó củng cố quan điểm hai phương thức bổ sung cho nhau.",
+    "Năm 2008 và 2009, hai thử nghiệm ATN và RENAL cho thấy liều cao không có lợi ích. Từ đó chuẩn liều là hai mươi đến hai mươi lăm mi li lít mỗi ký mỗi giờ thực nhận.",
+    "Năm 2012, KDIGO ra khuyến cáo tổn thương thận cấp: liều hai mươi đến hai mươi lăm, mức 1A; dùng citrate cho lọc máu liên tục, mức 2B; chọn lọc máu liên tục khi huyết động không ổn định, mức 2B. Đây là khung khuyến cáo thống nhất đầu tiên.",
+    "Năm 2013, thử nghiệm IVOIRE cho thấy siêu lọc thể tích cao, 70 mi li lít mỗi ký mỗi giờ, không giảm tử vong trong sốc nhiễm khuẩn. Vì thế người ta bỏ siêu lọc thể tích cao.",
+    "Năm 2016, danh pháp chuẩn ra đời, cho ta ngôn ngữ chung về liều, dòng và màng. Cũng giai đoạn 2016 đến 2021 là thời của các thử nghiệm về thời điểm bắt đầu: người ta bỏ chiến lược bắt đầu sớm thường quy, và biết rằng trì hoãn quá mức cũng có hại.",
+    "Và trong hai năm 2025 và 2026 xuất hiện cả một bộ khuyến cáo nền của chuyên đề này: KSN 2025, SRLF-GFRUP 2025, bản dự thảo KDIGO 2026, hội hồi sức Trung Quốc 2026, cùng thử nghiệm ICRAKI."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Bốn cơ chế",
+   "title": "Bốn cơ chế vận chuyển",
+   "ref": "Neri 2016, pdf 3–5 · Teixeira 2025, tr. 769–772 · Oxford 2016, tr. 118",
+   "h": 520,
+   "cards": [
+    {
+     "tag": "GRADIENT NỒNG ĐỘ",
+     "t": "Khuếch tán",
+     "d": "Phân tử nhỏ < 500–1.000 Da",
+     "items": [
+      "Urê, creatinin, K⁺",
+      "Dịch thẩm tách chạy ngược chiều máu",
+      "Chậm dần khi phân tử lớn"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "CHÊNH ÁP THUỶ TĨNH",
+     "t": "Đối lưu",
+     "d": "Nhỏ và trung bình, tới ~40.000 Da",
+     "items": [
+      "Nước kéo chất tan đi theo",
+      "Phụ thuộc Quf, diện tích, SC"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "GẮN VÀO MÀNG",
+     "t": "Hấp phụ",
+     "d": "Peptid, cytokin, chất kỵ nước",
+     "items": [
+      "Bão hoà nhanh",
+      "AN69: 60–90 phút đầu"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CHỈ VẬN CHUYỂN NƯỚC",
+     "t": "Siêu lọc",
+     "d": "UF toàn phần ≠ UFnet",
+     "items": [
+      "UFnet: phần thực sự lấy khỏi người bệnh"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Có bốn cơ chế vận chuyển chất tan và dịch trong quả lọc. Ta điểm nhanh trước khi xem từng cơ chế trên mô phỏng.",
+    "Khuếch tán: động lực là gradient nồng độ qua màng, theo định luật Fick. Dịch thẩm tách chạy ngược chiều máu để giữ gradient. Cơ chế này loại tốt phân tử nhỏ dưới năm trăm đến một nghìn đan tơn như urê, creatinin, kali; hệ số khuếch tán giảm khi kích thước phân tử tăng.",
+    "Đối lưu: chênh áp thuỷ tĩnh qua màng kéo nước huyết tương, chất tan đi theo, gọi là kéo theo dung môi. Cơ chế này loại được cả phân tử nhỏ lẫn trung bình, tới khoảng bốn mươi nghìn đan tơn với màng thông lượng cao. Dòng đối lưu phụ thuộc lưu lượng siêu lọc, diện tích màng, nồng độ chất tan và hệ số sàng.",
+    "Hấp phụ: chất tan gắn vào cấu trúc màng hoặc vật liệu hấp phụ. Cơ chế này loại peptid, cytokin, chất kỵ nước, nhưng bão hoà nhanh: màng AN69 bão hoà trong sáu mươi đến chín mươi phút đầu; mọi màng lọc máu liên tục đều có hấp phụ nhưng bão hoà trong vài giờ.",
+    "Cuối cùng, siêu lọc chỉ vận chuyển nước huyết tương. Siêu lọc toàn phần khác siêu lọc ròng: siêu lọc ròng mới là phần nước thực sự lấy khỏi người bệnh.",
+    "Một khái niệm nữa là độ thanh thải: thể tích máu được làm sạch hoàn toàn một chất trong một đơn vị thời gian. Ở lọc máu liên tục, ta ước tính trực tiếp từ dịch thải: thanh thải xấp xỉ dịch thải nhân nồng độ chất trong dịch thải chia nồng độ trong máu."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "mang",
+   "chapter": "Khuếch tán",
+   "title": "Khuếch tán qua một sợi lọc (mô phỏng minh hoạ)",
+   "mang": {
+    "mode": "none",
+    "protein": 0
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "mode": "diff"
+     },
+     "label": "Dịch thẩm tách chảy ngược chiều máu",
+     "c": "teal",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐỘNG LỰC",
+     "t": "Chênh nồng độ qua màng – định luật Fick",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "tag": "ĐIỂM YẾU",
+     "t": "Phân tử lớn khuếch tán chậm; albumin, hồng cầu ở lại",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Hãy phóng to một sợi lọc rỗng. Nửa trên của hình là khoang máu, bên trong sợi. Dải xanh lá ở giữa là màng với các lỗ màng. Nửa dưới là khoang dịch.",
+    "Bốn loại hạt được vẽ với bốn kích thước: phân tử nhỏ như urê và kali màu xanh ngọc, phân tử trung bình như bê ta hai mi crô glô bu lin màu tím, albumin màu vàng, và hồng cầu màu đỏ. Lúc này chưa có lực đẩy, các hạt chỉ trôi theo dòng máu.",
+    "Bây giờ bật khuếch tán. Dịch thẩm tách chảy ở khoang ngoài, ngược chiều dòng máu, nên ở mọi vị trí dọc sợi, nồng độ chất tan phía máu luôn cao hơn phía dịch. Chênh lệch nồng độ chính là động lực.",
+    "Hãy nhìn các hạt xanh ngọc: chúng lần lượt xuyên qua màng xuống khoang dịch. Thanh bên phải cho thấy phân tử nhỏ đi qua gần như hoàn toàn. Phân tử trung bình đi qua rất ít, thanh của chúng ngắn, vì chúng khuếch tán chậm hơn nhiều khi kích thước tăng. Albumin và hồng cầu thì ở lại: lỗ màng không cho chúng qua.",
+    "Nhắc lại, tỷ lệ trên thanh chỉ là minh hoạ, không phải số đo. Điều ta cần mang theo là nguyên tắc: khuếch tán rất tốt cho urê, creatinin, kali, và kém dần khi phân tử lớn lên."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "mang",
+   "chapter": "Đối lưu",
+   "title": "Đối lưu: nước kéo chất tan đi theo (mô phỏng minh hoạ)",
+   "mang": {
+    "mode": "none",
+    "protein": 0
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "mode": "conv"
+     },
+     "label": "Chênh áp qua màng kéo nước huyết tương",
+     "c": "blue",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ĐỘNG LỰC",
+     "t": "Chênh áp thuỷ tĩnh (TMP) – kéo theo dung môi",
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "tag": "ƯU THẾ",
+     "t": "Loại cả phân tử nhỏ lẫn trung bình",
+     "c": "teal",
+     "at": 3
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "SC < 1 với phân tử trung bình",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Ta quay về sợi lọc ở trạng thái chưa có lực đẩy, rồi bật cơ chế thứ hai: đối lưu.",
+    "Lần này không có gradient nồng độ, mà có chênh áp thuỷ tĩnh qua màng, gọi là áp lực xuyên màng. Áp lực này kéo nước huyết tương qua các lỗ màng, tức siêu lọc, và mũi tên xanh dương trên hình cho thấy dòng nước đi từ khoang máu xuống khoang dịch.",
+    "Điều quan trọng là chất tan nhỏ hơn lỗ màng được cuốn theo dòng nước. Y văn gọi đó là kéo theo dung môi. Hãy nhìn các hạt: cả hạt xanh ngọc lẫn hạt tím đều bị cuốn xuống.",
+    "Với phân tử nhỏ, đối lưu cũng hiệu quả như khuếch tán. Nhưng với phân tử trung bình, đối lưu mang chúng đi nhiều hơn hẳn, thanh của chúng dài hơn rõ so với lúc khuếch tán. Đó là ưu thế của đối lưu.",
+    "Tuy vậy, thanh của phân tử trung bình vẫn ngắn hơn thanh của phân tử nhỏ, vì hệ số sàng của chúng nhỏ hơn một, và ta sẽ nói kỹ ở phần sau. Albumin và hồng cầu vẫn ở lại."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "mang",
+   "chapter": "Phân tử trung bình",
+   "title": "Phân tử trung bình: khuếch tán, đối lưu hay cả hai?",
+   "mang": {
+    "mode": "diff",
+    "protein": 0
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "mode": "conv"
+     },
+     "label": "Chuyển sang đối lưu",
+     "c": "blue",
+     "hold": 5
+    },
+    {
+     "at": "L3",
+     "set": {
+      "mode": "both"
+     },
+     "label": "Bật cả hai: kiểu CVVHDF",
+     "c": "green",
+     "hold": 5
+    }
+   ],
+   "notes": [
+    {
+     "tag": "KHUẾCH TÁN",
+     "t": "Phân tử trung bình: thanh rất ngắn",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "ĐỐI LƯU",
+     "t": "Phân tử trung bình: thanh dài hơn rõ rệt",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "CẢ HAI",
+     "t": "Hai cơ chế cộng vào nhau",
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Ta đặt hai cơ chế cạnh nhau, tập trung vào phân tử trung bình, hạt màu tím. Trước hết, chỉ khuếch tán.",
+    "Chuyển sang đối lưu. Hãy so sánh thanh màu tím với lúc nãy: nó dài hơn rõ. Phân tử trung bình lớn nên khuếch tán chậm, nhưng được dòng nước cuốn đi trọn vẹn hơn.",
+    "Vì vậy, nếu mục tiêu là loại các phân tử trung bình, đối lưu có lợi thế rõ so với khuếch tán thuần tuý.",
+    "Cuối cùng bật cả hai cơ chế cùng lúc, như thẩm tách siêu lọc liên tục. Thanh của phân tử trung bình còn dài hơn nữa, vì hai cơ chế cộng vào nhau.",
+    "Một lần nữa, tất cả tỷ lệ ở đây là mô hình minh hoạ để thấy hướng thay đổi. Tới phần hai, ta sẽ gặp lại đúng các cơ chế này trong từng phương thức lọc."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "mang",
+   "chapter": "Hấp phụ",
+   "title": "Hấp phụ: bám vào màng rồi bão hoà (mô phỏng minh hoạ)",
+   "mang": {
+    "mode": "none",
+    "protein": 0
+   },
+   "changes": [
+    {
+     "at": "L1",
+     "set": {
+      "mode": "ads"
+     },
+     "label": "Chất tan bám lên màng, bão hoà dần",
+     "c": "amber",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "AN69",
+     "t": "Bão hoà trong 60–90 phút đầu",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "MỌI MÀNG CRRT",
+     "t": "Đều hấp phụ; bão hoà trong vài giờ",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Cơ chế thứ ba không cần lực đẩy: đó là hấp phụ.",
+    "Ở đây chất tan không đi xuyên màng. Nó bám lên bề mặt và vào trong cấu trúc của màng, hoặc vật liệu hấp phụ như than hay nhựa trao đổi. Cơ chế này loại peptid, cytokin và các chất kỵ nước.",
+    "Hãy nhìn các hạt tím lần lượt bám lên dải màng. Càng về sau, số vị trí còn trống càng ít, và thanh bên phải tụt dần: màng bão hoà, hấp phụ yếu đi.",
+    "Đó là đặc điểm quan trọng nhất của hấp phụ: nó bão hoà nhanh. Màng AN69 bão hoà trong sáu mươi đến chín mươi phút đầu, còn mọi màng lọc máu liên tục đều có hấp phụ nhưng bão hoà trong vài giờ.",
+    "Hệ quả thực hành: đừng kỳ vọng hấp phụ là nguồn thanh thải bền vững qua nhiều ngày; sau giai đoạn đầu, việc loại chất tan chủ yếu do khuếch tán và đối lưu."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "mang",
+   "chapter": "Màng thứ cấp",
+   "title": "Màng thứ cấp: protein làm giảm tính thấm",
+   "mang": {
+    "mode": "conv",
+    "protein": 0
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "protein": 1
+     },
+     "label": "Protein huyết tương bám lên màng",
+     "c": "amber",
+     "hold": 7
+    }
+   ],
+   "notes": [
+    {
+     "tag": "VÍ DỤ",
+     "t": "Polyamide, chất 5.000 Da: hệ số sàng 1,0 trong nước muối, ~0,4 trong huyết tương",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "tag": "YẾU TỐ",
+     "t": "Pha loãng sau màng: nặng hơn · Qb cao: giảm bám",
+     "c": "coral",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Một hiện tượng nữa quyết định thanh thải thực: màng thứ cấp.",
+    "Đây là đối lưu bình thường, quả lọc mới. Thanh của phân tử trung bình ở mức cao nhất mà màng cho phép.",
+    "Nhưng ngay khi tiếp xúc máu, protein huyết tương bám lên màng, lấp bớt các lỗ. Dải vàng trên hình là lớp protein ấy.",
+    "Hãy nhìn thanh màu tím: nó tụt rõ. Sách Oxford nêu ví dụ màng polyamide với chất năm nghìn đan tơn: hệ số sàng bằng 1,0 trong nước muối, nhưng chỉ còn khoảng 0,4 trong huyết tương. Tỷ lệ trên hình chỉ là minh hoạ của hiện tượng đó.",
+    "Pha loãng sau màng làm màng thứ cấp nặng hơn, vì máu cô đặc dần dọc sợi và protein nhiều hơn ở cuối màng.",
+    "Ngược lại, lưu lượng máu cao tạo lực trượt làm giảm bám protein. Hai ý này sẽ trở lại ở phần hai, khi ta bàn phân suất lọc và tuổi thọ quả lọc."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Đặc tính màng",
+   "title": "Hệ số sàng và ngưỡng cắt",
+   "ref": "Neri 2016, pdf 2–3 · Oxford 2016, tr. 36–37 · SRLF 2025, R4.6, pdf 9",
+   "cards": [
+    {
+     "tag": "SC · SIEVING COEFFICIENT",
+     "t": "Hệ số sàng",
+     "d": "Nồng độ trong dịch siêu lọc / nồng độ huyết tương trung bình trong màng",
+     "items": [
+      "Đặc hiệu từng chất, từng màng",
+      "Chỉ đo đúng khi không có gradient khuếch tán"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "RC = 1 − SC",
+     "t": "Hệ số loại trừ",
+     "d": "Phần chất tan bị màng giữ lại",
+     "items": [
+      "Urê, creatinin: SC ≈ 1 ở màng mới",
+      "Phân tử trung bình: SC phụ thuộc kích thước lỗ màng"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "CUT-OFF",
+     "t": "Ngưỡng cắt",
+     "d": "Khối lượng phân tử của chất có SC 0,1",
+     "items": [
+      "Ngưỡng cắt cao: gần albumin",
+      "SRLF 2025 R4.6: không dùng thường quy (panel opinion)"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Để mô tả khả năng một màng cho chất tan đi qua, ta có hệ số sàng. Hệ số sàng là nồng độ chất tan trong dịch siêu lọc, chia cho nồng độ huyết tương trung bình trong màng.",
+    "Hệ số loại trừ bằng một trừ hệ số sàng: nó cho biết phần chất tan bị màng giữ lại. Hệ số sàng đặc hiệu cho từng chất và từng màng, và chỉ đo đúng khi không có gradient khuếch tán. Với urê và creatinin, hệ số sàng xấp xỉ một ở màng mới; với phân tử trung bình, nó phụ thuộc kích thước lỗ màng.",
+    "Ngưỡng cắt là khối lượng phân tử của chất có hệ số sàng bằng 0,1. Màng ngưỡng cắt cao là màng có ngưỡng gần albumin. Hội hồi sức Pháp, SRLF năm 2025, đề nghị không dùng thường quy màng ngưỡng cắt cao hay các màng đặc biệt, khuyến cáo R4.6, mức panel opinion, chứng cứ thấp, đồng thuận mạnh."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Đặc tính màng",
+   "title": "Thông lượng cao nghĩa là gì? KUF tính bằng mL/h/mmHg/m²",
+   "ref": "Neri 2016, pdf 2",
+   "head": [
+    "KUF",
+    "Phân loại",
+    "Lưu ý"
+   ],
+   "widths": "1.6fr 1.2fr 2.2fr",
+   "rows": [
+    {
+     "cells": [
+      "< 10",
+      "Thông lượng thấp",
+      "Thấm nước ít"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "10–25",
+      "Trung bình",
+      "Quy ước"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "> 25",
+      "Thông lượng cao",
+      "Chỉ tính thấm NƯỚC"
+     ],
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "Cẩn thận",
+      "Thông lượng cao ≠ thấm cao",
+      "Không đồng nghĩa “thấm cao” với chất tan"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Một thuật ngữ dễ gây hiểu lầm là màng thông lượng cao. Nó được định nghĩa theo hệ số siêu lọc của màng, KUF, tính bằng mi li lít mỗi giờ mỗi mi li mét thuỷ ngân mỗi mét vuông.",
+    "Theo quy ước, dưới 10 là thông lượng thấp; từ 10 đến 25 là trung bình; trên 25 là thông lượng cao.",
+    "Nhưng hãy chú ý: thông lượng cao chỉ nói về tính thấm nước của màng.",
+    "Nó không đồng nghĩa với việc màng thấm cao với chất tan. Hai đặc tính này khác nhau, và ta cần xem cả hệ số sàng lẫn ngưỡng cắt khi so sánh màng."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Đặc tính màng",
+   "title": "Vật liệu và diện tích màng",
+   "ref": "Oxford 2016, tr. 117, 121–123 · KDIGO 2012, R5.5.1, tr. 108",
+   "cards": [
+    {
+     "tag": "VẬT LIỆU",
+     "t": "Màng tổng hợp",
+     "d": "AN69, polysulfone, polyamide, PMMA, PES",
+     "items": [
+      "Tương thích sinh học hơn màng cellulose",
+      "KDIGO 2012: dùng màng tương thích sinh học (2C)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "DIỆN TÍCH",
+     "t": "~1,0 m² cho 35 mL/kg/h",
+     "d": "Có thể tới 1,5 m² ở người to, dịch thải > 4 L/h",
+     "items": [
+      "Liều dịch thải càng cao, cần diện tích càng lớn"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "MÀNG NHỎ",
+     "t": "Dịch thẩm tách không bão hoà",
+     "d": "Màng 0,4 m² chỉ bão hoà urê khi Qd ≤ 1 L/h",
+     "items": [
+      "Tăng Qd không tăng thanh thải tương ứng"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Về vật liệu, màng lọc máu liên tục gần như đều là màng tổng hợp: AN69, polysulfone, polyamide, PMMA, PES. Chúng tương thích sinh học hơn màng cellulose, và KDIGO năm 2012 đề nghị dùng màng tương thích sinh học, mức 2C.",
+    "Về diện tích: để đạt liều dịch thải 35 mi li lít mỗi ký mỗi giờ cần màng khoảng 1,0 mét vuông, có thể tới 1,5 mét vuông ở người to với dịch thải trên 4 lít mỗi giờ.",
+    "Màng quá nhỏ làm dịch thẩm tách không bão hoà khi ta tăng lưu lượng dịch thẩm tách. Ví dụ, màng 0,4 mét vuông chỉ bão hoà urê khi dịch thẩm tách không quá 1 lít mỗi giờ. Nói cách khác, tăng dòng dịch trên một màng quá nhỏ thì không tăng được thanh thải tương ứng."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "curve",
+   "chapter": "Áp lực xuyên màng",
+   "title": "Lưu lượng siêu lọc theo TMP: vùng bình nguyên",
+   "ref": "Oxford 2016, tr. 119–120 · vẽ lại, minh hoạ định tính",
+   "xl": "TMP (áp lực xuyên màng)",
+   "yl": "Lưu lượng siêu lọc",
+   "w": 1050,
+   "curves": [
+    {
+     "pts": [
+      [
+       0,
+       0
+      ],
+      [
+       15,
+       20
+      ],
+      [
+       30,
+       40
+      ],
+      [
+       45,
+       58
+      ],
+      [
+       58,
+       69
+      ],
+      [
+       70,
+       75
+      ],
+      [
+       85,
+       77
+      ],
+      [
+       100,
+       77
+      ]
+     ],
+     "c": "blue",
+     "at": 0,
+     "label": ""
+    }
+   ],
+   "points": [
+    {
+     "x": 30,
+     "y": 40,
+     "t": "Tuyến tính",
+     "c": "teal",
+     "at": 1,
+     "dx": 22,
+     "dy": 40
+    },
+    {
+     "x": 85,
+     "y": 77,
+     "t": "Bình nguyên",
+     "c": "coral",
+     "at": 3,
+     "dx": -150,
+     "dy": -55
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TMP THẤP",
+     "t": "Quf tăng tuyến tính; độ dốc = hệ số siêu lọc của màng",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "TMP CAO",
+     "t": "Protein bị ép thành màng thứ cấp → bình nguyên",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Tránh vận hành ở vùng bình nguyên",
+     "c": "amber",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Bây giờ ta xem điều gì xảy ra khi tăng áp lực xuyên màng. Đồ thị này vẽ lại ý của hình trong sách Oxford, mang tính minh hoạ định tính, không có số đo.",
+    "Ở vùng áp lực xuyên màng thấp, lưu lượng siêu lọc tăng tuyến tính theo áp lực. Độ dốc của đoạn này chính là hệ số siêu lọc của màng. Muốn lọc thêm nước thì chỉ cần tăng áp lực.",
+    "Nhưng khi áp lực xuyên màng cao, protein bị ép vào thành màng, hình thành màng thứ cấp, và đường cong gập lại thành bình nguyên.",
+    "Ở vùng bình nguyên, tăng áp lực không tăng thêm siêu lọc nữa. Điều duy nhất tăng thêm là gánh nặng lên màng.",
+    "Sách Oxford gọi đó là vùng bình nguyên cần tránh khi vận hành. Áp lực quá cao làm màng nhanh hỏng hoặc đông, mà không đổi lại được lượng nước nào."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "box",
+   "chapter": "Áp lực xuyên màng",
+   "title": "Máy ước tính TMP thế nào?",
+   "ref": "Neri 2016, pdf 4–5 · KDIGO 2012, R5.7.4, tr. 115",
+   "box": {
+    "tag": "NERI 2016 · TMP ƯỚC TÍNH",
+    "t": "TMP ≈ (P trước màng + P sau màng) / 2 − P dịch thải",
+    "at": 0,
+    "c": "blue",
+    "size": 38
+   },
+   "notes": [
+    {
+     "tag": "ĐỊNH NGHĨA",
+     "t": "Áp lực khoang máu − áp lực khoang dịch − áp lực keo máu",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "VÌ SAO ƯỚC TÍNH",
+     "t": "Máy không đo trực tiếp áp lực keo",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "LỌC NGƯỢC",
+     "t": "Cuối màng TMP cục bộ có thể âm: dịch đi ngược vào máu",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Áp lực xuyên màng là chênh áp qua màng, bằng áp lực thuỷ tĩnh khoang máu, trừ áp lực khoang dịch, trừ áp lực keo máu.",
+    "Máy không đo trực tiếp áp lực keo, nên ước tính áp lực xuyên màng bằng trung bình của áp lực trước màng và sau màng, trừ áp lực dịch thải. Đó là công thức bạn đang thấy trên màn hình.",
+    "Một hệ quả thú vị: ở cuối màng, áp lực xuyên màng cục bộ có thể âm dù giá trị trung bình dương. Khi đó dịch đi ngược từ khoang dịch vào máu, gọi là lọc ngược.",
+    "Đó là lý do dịch thẩm tách và dịch thay thế phải đạt chuẩn vi sinh. KDIGO năm 2012, khuyến cáo 5.7.4, mức 1B, yêu cầu tối thiểu đạt chuẩn của hiệp hội AAMI về vi khuẩn và nội độc tố. Ở phần hai, ta sẽ thấy áp lực xuyên màng tăng dần khi quả lọc đông."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "list",
+   "chapter": "Khái niệm liều",
+   "title": "Năm khái niệm “liều” theo danh pháp 2016",
+   "ref": "Neri 2016, pdf 6–7",
+   "items": [
+    {
+     "t": "Liều đích kê (target, prescribed)",
+     "d": "Thanh thải bác sĩ muốn đạt – ghi trong y lệnh, mL/kg/h",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Liều đích máy (target machine)",
+     "d": "Thanh thải cài trên máy: lưu lượng, phương thức",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Liều hiện tại (current)",
+     "d": "Ước tính từ lưu lượng lúc đó; bằng 0 khi máy dừng",
+     "at": 2,
+     "c": "violet",
+     "n": 3
+    },
+    {
+     "t": "Liều trung bình (average)",
+     "d": "Tính trên tổng thời gian (cả downtime) – thường ước tính quá cao liều thực",
+     "at": 3,
+     "c": "amber",
+     "n": 4
+    },
+    {
+     "t": "Liều thực nhận hiệu dụng (effective delivered)",
+     "d": "Đo bằng nồng độ máu hoặc dịch thải – liều có ý nghĩa lâm sàng",
+     "at": 4,
+     "c": "coral",
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Bây giờ đến chữ liều, một khái niệm có tới năm cách hiểu khác nhau, và danh pháp năm 2016 tách bạch chúng.",
+    "Liều đích kê là thanh thải mà bác sĩ muốn đạt, ghi trong y lệnh, tính bằng mi li lít mỗi ký mỗi giờ.",
+    "Liều đích máy là thanh thải cài trên máy, qua lưu lượng và phương thức; ta có thể chỉnh nó để thu hẹp khoảng cách với liều thực.",
+    "Liều hiện tại ước tính từ lưu lượng tại thời điểm đó, và bằng không khi máy dừng vì báo động, đông màng, catheter, đi chụp cắt lớp hay mổ.",
+    "Liều trung bình là liều hiện tại tính trên tổng thời gian, gồm thời gian chạy và thời gian ngừng. Nó thường ước tính quá cao liều thực.",
+    "Cuối cùng, liều thực nhận hiệu dụng đo bằng nồng độ trong máu hoặc dịch thải. Đây mới là liều có ý nghĩa lâm sàng, và chênh lệch với liều kê lớn nhất ở các phương thức khuếch tán, tức CVVHD và CVVHDF."
+   ],
+   "id": "s18",
+   "dense": true
+  },
+  {
+   "layout": "list",
+   "chapter": "Khái niệm liều",
+   "title": "Vì sao liều thực thấp hơn liều kê?",
+   "ref": "Neri 2016, pdf 6–7",
+   "items": [
+    {
+     "t": "Lưu lượng hiển thị khác lưu lượng thực",
+     "d": "",
+     "at": 0,
+     "c": "teal",
+     "n": 1
+    },
+    {
+     "t": "Catheter kém, mồi màng sai",
+     "d": "",
+     "at": 1,
+     "c": "blue",
+     "n": 2
+    },
+    {
+     "t": "Mất diện tích màng (đông, khí)",
+     "d": "",
+     "at": 2,
+     "c": "coral",
+     "n": 3
+    },
+    {
+     "t": "Mất tính thấm: màng thứ cấp, phân cực nồng độ",
+     "d": "",
+     "at": 3,
+     "c": "amber",
+     "n": 4
+    },
+    {
+     "t": "Độ nhớt máu, hematocrit cao",
+     "d": "",
+     "at": 4,
+     "c": "violet",
+     "n": 5
+    },
+    {
+     "t": "Phân suất lọc quá cao",
+     "d": "",
+     "at": 5,
+     "c": "coral",
+     "n": 6
+    }
+   ],
+   "lines": [
+    "Vậy vì sao liều người bệnh thực nhận lại thấp hơn liều ta kê? Danh pháp 2016 liệt kê các nguyên nhân.",
+    "Thứ nhất, lưu lượng máy hiển thị có thể khác lưu lượng thực. Thứ hai, catheter kém và mồi màng sai.",
+    "Thứ ba, mất diện tích màng vì đông hoặc vì khí. Thứ tư, mất tính thấm do màng thứ cấp và phân cực nồng độ, những hiện tượng ta vừa thấy.",
+    "Thứ năm, độ nhớt máu và hematocrit cao. Và thứ sáu, phân suất lọc quá cao.",
+    "Một mốc để nhớ: hiệu suất từ 25 mi li lít mỗi ký mỗi giờ trở lên tương ứng xấp xỉ Kt/V chuẩn hoá hằng ngày bằng một. Chi tiết kê liều, ta dành cho phần sáu."
+   ],
+   "id": "s19",
+   "dense": true
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: vì sao đối lưu lọc β2-microglobulin tốt hơn?",
+   "case": "Hai đồng nghiệp tranh luận khi chọn phương thức. Họ cùng dùng quả lọc thông lượng cao và muốn tăng loại bỏ β2-microglobulin – một phân tử trung bình. Một người chọn thẩm tách (khuếch tán), người kia chọn siêu lọc (đối lưu).",
+   "case_at": 0,
+   "q": "Vì sao đối lưu thường lọc phân tử trung bình tốt hơn?",
+   "q_at": 1,
+   "options": [
+    "β2-microglobulin nhỏ hơn urê nên khuếch tán nhanh hơn",
+    "Khuếch tán chậm khi phân tử lớn; đối lưu kéo chất tan theo dòng nước",
+    "Màng hấp phụ hết β2-microglobulin nên không cần đối lưu",
+    "Đối lưu chỉ loại được phân tử rất nhỏ như K⁺"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Hệ số khuếch tán giảm khi kích thước tăng (Stokes–Einstein); đối lưu kéo chất tan theo nước, qua được tới ~40.000 Da ở màng thông lượng cao (Neri 2016; Teixeira 2025).",
+   "lines": [
+    "Tình huống. Hai đồng nghiệp tranh luận khi chọn phương thức lọc. Họ cùng dùng quả lọc thông lượng cao và muốn tăng loại bỏ bê ta hai mi crô glô bu lin, một phân tử trung bình. Một người chọn thẩm tách, tức khuếch tán; người kia chọn siêu lọc, tức đối lưu.",
+    "Vì sao đối lưu thường lọc phân tử trung bình tốt hơn?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Hệ số khuếch tán giảm khi kích thước phân tử tăng, theo hệ thức Stokes – Einstein, nên phân tử trung bình khuếch tán chậm. Đối lưu thì kéo chất tan đi theo dòng nước, và với màng thông lượng cao có thể loại phân tử tới khoảng bốn mươi nghìn đan tơn. Đáp án A sai vì phân tử trung bình lớn hơn urê, không nhỏ hơn. Đáp án C sai vì hấp phụ bão hoà nhanh, không thể thay cho đối lưu. Đáp án D sai vì đối lưu loại được cả phân tử nhỏ lẫn trung bình."
+   ],
+   "id": "s20"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 1",
+   "items": [
+    {
+     "t": "Bốn cơ chế: khuếch tán, đối lưu, hấp phụ, siêu lọc",
+     "d": "UFnet là phần nước thực sự lấy khỏi người bệnh",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "Khuếch tán tốt với phân tử nhỏ; đối lưu loại cả phân tử trung bình",
+     "d": "tới ~40.000 Da với màng thông lượng cao",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Hấp phụ bão hoà nhanh; màng thứ cấp làm giảm tính thấm",
+     "d": "AN69 bão hoà trong 60–90 phút đầu",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Hệ số sàng, ngưỡng cắt, KUF: ba đặc tính khác nhau của màng",
+     "d": "thông lượng cao chỉ nói về nước",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "TMP ước tính = (P trước + P sau)/2 − P dịch thải; tránh vùng bình nguyên",
+     "d": "lọc ngược → dịch phải đạt chuẩn vi sinh",
+     "at": 4,
+     "c": "coral"
+    },
+    {
+     "t": "Liều có năm khái niệm; liều thực thấp hơn liều kê",
+     "d": "≥ 25 mL/kg/h ≈ Kt/V chuẩn hoá hằng ngày 1",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần một. Có bốn cơ chế vận chuyển: khuếch tán, đối lưu, hấp phụ và siêu lọc, trong đó siêu lọc ròng là phần nước thực sự lấy khỏi người bệnh.",
+    "Khuếch tán tốt với phân tử nhỏ; đối lưu loại được cả phân tử trung bình, tới khoảng bốn mươi nghìn đan tơn với màng thông lượng cao.",
+    "Hấp phụ bão hoà nhanh, còn màng thứ cấp do protein làm giảm tính thấm của màng.",
+    "Hệ số sàng, ngưỡng cắt và hệ số siêu lọc là ba đặc tính khác nhau; thông lượng cao chỉ nói về tính thấm nước.",
+    "Áp lực xuyên màng được ước tính từ ba áp lực đo được, và ta cần tránh vùng bình nguyên; còn lọc ngược là lý do dịch phải đạt chuẩn vi sinh.",
+    "Cuối cùng, chữ liều có năm khái niệm, và liều thực nhận luôn thấp hơn liều kê. Phần sau, chúng ta đứng trước màn hình máy lọc và bàn về bốn phương thức cùng phân suất lọc. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s21",
+   "dense": true
+  }
+ ]
+}

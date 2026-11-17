@@ -1,0 +1,1225 @@
+{
+ "title": "Lọc máu liên tục – Phần 4: Chọn phương thức: CRRT hay IHD – ICRAKI 2026",
+ "theme": "loc-mau",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Lọc máu liên tục thực hành",
+ "part": "Lọc máu liên tục · Phần 4/12",
+ "source_short": "Nguồn: KSN 2025 · SRLF-GFRUP 2025 · KDIGO 2012/2026 (dự thảo) · Teixeira AJKD 2025 · Neri 2016 · mô phỏng minh hoạ",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "β2-microglobulin": "bê ta hai mi crô glô bu lin",
+  "Kaplan–Meier": "ca plan mai ơ",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "Hemodiafe": "hê mô đi a phe",
+  "mL/kg/h": "mi li lít mỗi ký mỗi giờ",
+  "mL/phút": "mi li lít mỗi phút",
+  "CVVHDF": "xê vê vê hát đê ép",
+  "ICRAKI": "i cờ ra ki",
+  "IVOIRE": "i voa",
+  "mmol/L": "mi li mol mỗi lít",
+  "MAKE90": "biến cố thận lớn ngày chín mươi",
+  "CVVHD": "xê vê vê hát đê",
+  "PIRRT": "lọc máu ngắt quãng kéo dài",
+  "UFnet": "siêu lọc ròng",
+  "KDIGO": "ca đi gô",
+  "RENAL": "ri nồ",
+  "CSCCM": "hội hồi sức Trung Quốc",
+  "CVVH": "xê vê vê hát",
+  "SCUF": "sờ cớp",
+  "CRRT": "lọc máu liên tục",
+  "CKRT": "lọc máu liên tục",
+  "HVHF": "siêu lọc thể tích cao",
+  "SRLF": "ét e lờ ép",
+  "RICH": "rích",
+  "mL/h": "mi li lít mỗi giờ",
+  "mmHg": "mi li mét thuỷ ngân",
+  "SLED": "sờ lét",
+  "NaCl": "natri clorua",
+  "NEJM": "en e ây chê em",
+  "IRRT": "lọc máu ngắt quãng",
+  "IHD": "chạy thận ngắt quãng",
+  "KRT": "liệu pháp thay thế thận",
+  "AKI": "tổn thương thận cấp",
+  "TMP": "áp lực xuyên màng",
+  "Qef": "dịch thải",
+  "Hct": "hê ma tô crít",
+  "KSN": "hội thận học Hàn Quốc",
+  "ATN": "a tê en",
+  "NH₃": "a mô ni ác",
+  "ΔP": "chênh áp qua màng",
+  "Qb": "cu bê",
+  "Qd": "dịch thẩm tách",
+  "Qr": "dịch thay thế",
+  "Qp": "lưu lượng huyết tương",
+  "°C": "độ xê"
+ },
+ "brand": {
+  "next": "Phần 5: Catheter và khởi động máy an toàn"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Lọc máu liên tục thực hành",
+   "title": "Chọn phương thức:<br>CRRT hay IHD",
+   "subtitle": "ICRAKI 2026 · não · gan · sốc · khi nào chuyển",
+   "badges": [
+    {
+     "t": "ICRAKI 2026",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "CRRT khởi đầu",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Chuyển IHD khi ổn định",
+     "c": "amber",
+     "at": 1
+    }
+   ],
+   "note": "Mạch lọc mô phỏng – tuổi thọ màng là mô hình minh hoạ",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn của loạt bài lọc máu liên tục thực hành.",
+    "Một người bệnh nặng ở hồi sức cần điều trị thay thế thận. Ta có ba lựa chọn chính: lọc máu liên tục, chạy thận ngắt quãng, hoặc phương thức lai kéo dài. Câu hỏi muốn biết phương thức nào cho người bệnh sống tốt hơn từng bị bỏ ngỏ nhiều năm.",
+    "Năm 2026, thử nghiệm ICRAKI đăng trên tạp chí NEJM đã đưa ra một tín hiệu đáng chú ý. Hôm nay chúng ta xem khuyến cáo của các hội, đọc kỹ thử nghiệm này, và biết khi nào chọn lọc máu liên tục, khi nào chuyển sang chạy thận ngắt quãng."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Khuyến cáo",
+   "title": "Khuyến cáo (1): KDIGO 2012 và bản dự thảo 2026",
+   "ref": "KDIGO 2012, R5.6.1–5.6.3, tr. 110–112 · KDIGO 2026 (dự thảo), R5.2.1, PP 5.2.1, 5.2.4",
+   "head": [
+    "Nguồn",
+    "Khuyến cáo",
+    "Mức"
+   ],
+   "widths": "1.5fr 4fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "KDIGO 2012 · R5.6.1",
+      "Dùng CRRT và IRRT như liệu pháp bổ sung",
+      "Not graded"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "KDIGO 2012 · R5.6.2",
+      "Gợi ý CRRT cho người bệnh huyết động không ổn định",
+      "2B"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "KDIGO 2012 · R5.6.3",
+      "Gợi ý CRRT cho tổn thương não cấp, tăng áp lực nội sọ, phù não",
+      "2B"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "KDIGO 2026 · R5.2.1",
+      "Người lớn nặng, huyết động không ổn định: gợi ý CRRT hoặc thẩm phân phúc mạc cấp thay vì IRRT thường",
+      "2C"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "KDIGO 2026 · PP 5.2.4",
+      "PIRRT là lựa chọn chấp nhận được thay CRRT ban đầu",
+      "PP"
+     ],
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Ta bắt đầu với khuyến cáo của các hội. KDIGO năm 2012 có ba khuyến cáo nền.",
+    "Khuyến cáo 5.6.1, không xếp mức: dùng lọc máu liên tục và lọc máu ngắt quãng như những liệu pháp bổ sung cho nhau.",
+    "Khuyến cáo 5.6.2, mức 2B: gợi ý chọn lọc máu liên tục cho người bệnh có huyết động không ổn định. Và khuyến cáo 5.6.3, mức 2B: gợi ý lọc máu liên tục cho người bệnh có tổn thương não cấp, tăng áp lực nội sọ hoặc phù não.",
+    "Bản dự thảo KDIGO 2026, khuyến cáo 5.2.1, mức 2C: ở người lớn bệnh nặng có huyết động không ổn định, gợi ý lọc máu liên tục hoặc thẩm phân phúc mạc cấp, thay vì lọc máu ngắt quãng thường quy.",
+    "Practice point 5.2.4: lọc máu ngắt quãng kéo dài, PIRRT, là lựa chọn chấp nhận được thay cho lọc máu liên tục ban đầu. Và practice point 5.2.1 nhắc rằng việc chọn phải theo người bệnh, bối cảnh, kinh nghiệm và nguồn lực.",
+    "Hãy chú ý mức khuyến cáo trong bảng này: không xếp mức, 2B, 2C và practice point. Không có khuyến cáo mức 1 nào về việc chọn phương thức. Điều đó phản ánh chứng cứ còn hạn chế, và là bối cảnh để ta đọc kết quả ICRAKI."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Khuyến cáo",
+   "title": "Khuyến cáo (2): SRLF-GFRUP 2025 và KSN 2025",
+   "ref": "SRLF-GFRUP 2025, R2.1–2.3A, pdf 5–6 · KSN 2025, KQ3, pdf 8, 14",
+   "head": [
+    "Nguồn",
+    "Khuyến cáo",
+    "Mức"
+   ],
+   "widths": "1.5fr 4fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "SRLF 2025 · R2.1–2.2A",
+      "Các phương thức (liên tục, ngắt quãng, lai) “có lẽ nên coi là tương đương” về tiên lượng",
+      "Grade 2+"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "SRLF 2025 · R2.2B",
+      "Chọn theo kinh nghiệm đội, thiết bị, tác động môi trường",
+      "Panel"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "SRLF 2025 · R2.3A",
+      "Thẩm phân phúc mạc có lẽ không nên dùng khi có đường mạch máu",
+      "Grade 2−"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "KSN 2025 · KQ3",
+      "CRRT là phương thức chính cùng IHD; áp dụng chọn lọc khi bệnh nặng hoặc huyết động không ổn định (tụt áp, loạn nhịp)",
+      "B, chứng cứ vừa"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hội hồi sức Pháp, SRLF kết hợp GFRUP năm 2025, có quan điểm khác. Các khuyến cáo R2.1 đến 2.2A cho rằng các phương thức, liên tục, ngắt quãng và lai, có lẽ nên được coi là tương đương về tiên lượng. Mức Grade 2 cộng.",
+    "R2.2B: chọn phương thức theo kinh nghiệm của đội, thiết bị sẵn có và tác động môi trường; mức panel.",
+    "R2.3A: thẩm phân phúc mạc có lẽ không nên dùng khi có đường mạch máu. Mức Grade 2 trừ.",
+    "Hội thận học Hàn Quốc 2025, câu hỏi ba: lọc máu liên tục là phương thức chính cùng với chạy thận ngắt quãng, và được áp dụng chọn lọc khi người bệnh nặng hoặc huyết động không ổn định, như tụt huyết áp hay loạn nhịp. Mức B, chứng cứ vừa. Cần nhớ khuyến cáo SRLF ra đời trước ICRAKI.",
+    "Như vậy các hội không hoàn toàn thống nhất: KDIGO nghiêng về lọc máu liên tục khi huyết động không ổn định, SRLF coi các phương thức tương đương, KSN coi lọc máu liên tục là phương thức chính cùng chạy thận ngắt quãng. Sự khác biệt đó chính là khoảng trống mà ICRAKI cố gắng trả lời."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "box",
+   "chapter": "Nền bằng chứng",
+   "title": "Trước 2026: Hemodiafe và các phân tích gộp",
+   "ref": "Vinsonneau, Lancet 2006 · Chuyên đề Lọc máu liên tục 2026, mục 2, 5.1",
+   "box": {
+    "tag": "HEMODIAFE · VINSONNEAU, LANCET 2006",
+    "t": "CVVHDF <b>≈</b> IHD về sống còn khi IHD làm theo quy trình chặt.",
+    "at": 0,
+    "c": "blue",
+    "size": 44
+   },
+   "notes": [
+    {
+     "tag": "PHÂN TÍCH GỘP",
+     "t": "Hai phương thức cho kết quả tương đương",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "QUAN ĐIỂM",
+     "t": "Hai phương thức bổ sung cho nhau",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "HỆ QUẢ",
+     "t": "Nền của khuyến cáo SRLF 2025 – ra trước ICRAKI",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Để hiểu vì sao ICRAKI quan trọng, ta nhìn lại nền bằng chứng trước đó. Năm 2006, thử nghiệm Hemodiafe cho thấy thẩm tách siêu lọc liên tục tương đương chạy thận ngắt quãng về sống còn, miễn là chạy thận ngắt quãng được thực hiện theo quy trình chặt chẽ.",
+    "Các phân tích gộp sau đó cũng cho thấy hai phương thức tương đương.",
+    "Từ đó hình thành quan điểm hai phương thức bổ sung cho nhau, không có phương thức nào hơn hẳn.",
+    "Đó cũng là nền của khuyến cáo SRLF 2025, vốn ra trước ICRAKI. Và chính vì vậy, kết quả ICRAKI làm thay đổi một phần nhận định cũ."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "timeline",
+   "chapter": "Nền bằng chứng",
+   "title": "Từ Hemodiafe đến ICRAKI: dòng thời gian",
+   "ref": "Chuyên đề Lọc máu liên tục 2026, mục 2, 5.1",
+   "events": [
+    {
+     "year": "2006",
+     "t": "Hemodiafe",
+     "d": "CVVHDF ≈ IHD về sống còn khi IHD làm theo quy trình chặt",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "year": "2012",
+     "t": "KDIGO AKI",
+     "d": "CRRT và IRRT bổ sung; CRRT khi huyết động không ổn định hoặc tổn thương não",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "year": "2025",
+     "t": "SRLF-GFRUP",
+     "d": "Các phương thức có lẽ tương đương (Grade 2+)",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "2025",
+     "t": "KSN",
+     "d": "CRRT là phương thức chính cùng IHD (B)",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "year": "2026",
+     "t": "KDIGO (dự thảo)",
+     "d": "CRRT hoặc PD cấp thay vì IRRT thường (2C)",
+     "c": "green",
+     "at": 4
+    },
+    {
+     "year": "2026",
+     "t": "ICRAKI",
+     "d": "Tử vong ngày 90: IHD 63,1% so với CRRT 53,5%",
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "note": {
+    "t": "Các khuyến cáo ra trước ICRAKI chưa phản ánh thử nghiệm này",
+    "at": 6,
+    "c": "amber"
+   },
+   "lines": [
+    "Ta đặt các mốc lên một dòng thời gian. Năm 2006, Hemodiafe cho thấy thẩm tách siêu lọc liên tục tương đương chạy thận ngắt quãng khi chạy thận được làm chặt chẽ.",
+    "Năm 2012, KDIGO coi hai phương thức bổ sung cho nhau, và ưu tiên lọc máu liên tục khi huyết động không ổn định hoặc có tổn thương não.",
+    "Năm 2025, SRLF kết hợp GFRUP cho rằng các phương thức có lẽ tương đương, mức Grade 2 cộng.",
+    "Cũng năm 2025, hội thận học Hàn Quốc coi lọc máu liên tục là phương thức chính cùng chạy thận ngắt quãng, mức B.",
+    "Năm 2026, bản dự thảo KDIGO gợi ý lọc máu liên tục hoặc thẩm phân phúc mạc cấp thay vì lọc máu ngắt quãng thường quy ở người bệnh nặng, mức 2C.",
+    "Và cuối cùng, ICRAKI năm 2026: tử vong ngày 90 là 63,1 phần trăm ở chạy thận ngắt quãng, 53,5 phần trăm ở lọc máu liên tục.",
+    "Hãy để ý rằng các khuyến cáo ra trước ICRAKI chưa phản ánh thử nghiệm này, nên ta cần đọc chúng trong bối cảnh đó."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "stats",
+   "chapter": "ICRAKI",
+   "title": "ICRAKI 2026: thiết kế thử nghiệm",
+   "ref": "ICRAKI, NEJM 2026, tr. 1 · Chuyên đề Lọc máu liên tục 2026, mục 5.1",
+   "tiles": [
+    {
+     "tag": "NEJM 2026",
+     "v": 38,
+     "l": "ICU ở Pháp",
+     "d": "thử nghiệm ngẫu nhiên",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "ĐƯỢC TUYỂN",
+     "v": 554,
+     "l": "người bệnh ICU có chỉ định KRT",
+     "d": "IHD so với CRRT",
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "tag": "PHÂN TÍCH",
+     "v": 535,
+     "l": "người bệnh được phân tích",
+     "d": "giữ phương thức ít nhất từ ngày 0 đến 3",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "cols": 3,
+   "h": 440,
+   "lines": [
+    "ICRAKI là thử nghiệm ngẫu nhiên đăng trên NEJM năm 2026, thực hiện ở 38 đơn vị hồi sức tại Pháp.",
+    "Thử nghiệm tuyển 554 người bệnh hồi sức có chỉ định điều trị thay thế thận, và phân tích 535 người.",
+    "Người bệnh được chia ngẫu nhiên vào chạy thận ngắt quãng hoặc lọc máu liên tục, và phải giữ nguyên phương thức được giao ít nhất từ ngày 0 đến ngày 3.",
+    "Đây là thử nghiệm hiện đại, trên đúng đối tượng mà ta quan tâm: người bệnh hồi sức nặng, thở máy hoặc dùng catecholamin.",
+    "Một điểm thiết kế cần ghi nhớ khi đọc kết quả: thử nghiệm so sánh trực tiếp chạy thận ngắt quãng với lọc máu liên tục ngay từ lúc bắt đầu điều trị thay thế thận, và giữ phương thức được giao ít nhất ba ngày đầu."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "bars",
+   "chapter": "ICRAKI",
+   "title": "ICRAKI: kết cục chính – MAKE90",
+   "groups": [
+    {
+     "t": "MAKE90 (biến cố thận lớn ngày 90)",
+     "d": "chênh hiệu chỉnh 6,28 điểm %; KTC 95% −1,22 đến 13,79",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "IHD",
+       "v": 78.1,
+       "lab": "78,1%",
+       "c": "coral"
+      },
+      {
+       "k": "CRRT",
+       "v": 71.6,
+       "lab": "71,6%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 100,
+   "h": 340,
+   "notes": [
+    {
+     "t": "KTC 95% bao gồm 0 – không có ý nghĩa",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Không chứng minh IHD không kém",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Kết cục chính không đạt",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 560,
+   "lines": [
+    "Kết cục chính của ICRAKI là biến cố thận lớn ngày 90, viết tắt MAKE90.",
+    "Ở nhánh chạy thận ngắt quãng, tỷ lệ MAKE90 là 78,1 phần trăm; ở nhánh lọc máu liên tục, 71,6 phần trăm. Chênh lệch hiệu chỉnh là 6,28 điểm phần trăm, khoảng tin cậy 95 phần trăm từ âm 1,22 đến 13,79.",
+    "Khoảng tin cậy này đi qua số không. Nghĩa là thử nghiệm không chứng minh được rằng chạy thận ngắt quãng không kém lọc máu liên tục.",
+    "Tuy kết cục chính không đạt, ta cần xem tiếp kết cục tử vong, vì đây mới là chỗ thử nghiệm đưa ra tín hiệu."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "bars",
+   "chapter": "ICRAKI",
+   "title": "ICRAKI: tử vong ngày 90",
+   "groups": [
+    {
+     "t": "Tử vong ngày 90",
+     "d": "HR 1,30 (1,04–1,63)",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "IHD",
+       "v": 63.1,
+       "lab": "63,1%",
+       "c": "coral"
+      },
+      {
+       "k": "CRRT",
+       "v": 53.5,
+       "lab": "53,5%",
+       "c": "teal"
+      }
+     ]
+    },
+    {
+     "t": "Kaplan–Meier ngày 90",
+     "d": "",
+     "at": 1,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "IHD",
+       "v": 63.3,
+       "lab": "63,3%",
+       "c": "coral"
+      },
+      {
+       "k": "CRRT",
+       "v": 53.6,
+       "lab": "53,6%",
+       "c": "teal"
+      }
+     ]
+    },
+    {
+     "t": "Tụt huyết áp",
+     "d": "",
+     "at": 3,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "IHD",
+       "v": 68.8,
+       "lab": "68,8%",
+       "c": "amber"
+      },
+      {
+       "k": "CRRT",
+       "v": 66.5,
+       "lab": "66,5%",
+       "c": "teal"
+      }
+     ]
+    }
+   ],
+   "max": 80,
+   "h": 560,
+   "notes": [
+    {
+     "t": "Dừng sớm vì tín hiệu tử vong cao hơn kéo dài ở nhánh IHD",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "HR 1,30; KTC 95% 1,04–1,63",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Tụt huyết áp: khác biệt nhỏ",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 520,
+   "lines": [
+    "Đây là kết quả khiến thế giới chú ý. Tử vong ngày 90 là 63,1 phần trăm ở nhánh chạy thận ngắt quãng, so với 53,5 phần trăm ở nhánh lọc máu liên tục.",
+    "Theo phương pháp Kaplan – Meier, con số là 63,3 so với 53,6 phần trăm. Tỷ số nguy cơ 1,30, khoảng tin cậy 95 phần trăm từ 1,04 đến 1,63.",
+    "Thử nghiệm đã được dừng sớm vì tín hiệu tử vong cao hơn kéo dài ở nhánh chạy thận ngắt quãng.",
+    "Điều đáng chú ý là tụt huyết áp, cơ chế mà ta vẫn nghĩ là lý do chính: 68,8 phần trăm ở nhánh chạy thận ngắt quãng so với 66,5 phần trăm ở nhánh lọc máu liên tục, khác biệt không lớn. Cơ chế của chênh lệch tử vong vì thế chưa rõ.",
+    "Hai cách tính, tử vong thô và Kaplan – Meier, cho cùng một hướng, bất lợi cho chạy thận ngắt quãng. Chúng ta cần để ý rằng đó là con số của một thử nghiệm dừng sớm, và sẽ nói tiếp ở cảnh sau."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "box",
+   "chapter": "ICRAKI",
+   "title": "ICRAKI trong một câu",
+   "ref": "ICRAKI, NEJM 2026 · Chuyên đề Lọc máu liên tục 2026, thông điệp 2",
+   "box": {
+    "tag": "THÔNG ĐIỆP 2 · ICRAKI 2026",
+    "t": "Người bệnh ICU nặng (vận mạch, thở máy) nên <b>bắt đầu bằng CRRT</b>: tử vong 90 ngày <b>63,1% (IHD)</b> so với <b>53,5% (CRRT)</b>, HR 1,30.",
+    "at": 0,
+    "c": "coral",
+    "size": 36
+   },
+   "notes": [
+    {
+     "tag": "KẾT CỤC CHÍNH",
+     "t": "MAKE90 không đạt: không chứng minh IHD không kém",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "TÍN HIỆU",
+     "t": "Tử vong ngày 90 cao hơn ở nhánh IHD (HR 1,30; KTC 1,04–1,63)",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "tag": "DỪNG SỚM",
+     "t": "Vì tín hiệu tử vong cao hơn kéo dài ở nhánh IHD",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Ta gói ICRAKI trong một câu, cũng là thông điệp thứ hai của chuyên đề: người bệnh hồi sức nặng, đang dùng vận mạch hoặc thở máy, nên bắt đầu bằng lọc máu liên tục.",
+    "Lý do không phải vì kết cục chính: MAKE90 không đạt, tức thử nghiệm không chứng minh được chạy thận ngắt quãng không kém.",
+    "Lý do là tín hiệu tử vong: 63,1 phần trăm so với 53,5 phần trăm ở ngày 90, tỷ số nguy cơ 1,30, khoảng tin cậy từ 1,04 đến 1,63.",
+    "Và thử nghiệm đã dừng sớm vì tín hiệu tử vong cao hơn kéo dài ở nhánh chạy thận ngắt quãng. Từ đó, chuyên đề đề xuất bắt đầu bằng lọc máu liên tục ở nhóm này."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "cards",
+   "chapter": "ICRAKI",
+   "title": "Đọc ICRAKI: ý nghĩa và hạn chế",
+   "ref": "ICRAKI, NEJM 2026, tr. 3–4 · bản gốc chuyên đề AKI 2026, mục 8.9.2",
+   "h": 500,
+   "cards": [
+    {
+     "tag": "Ý NGHĨA",
+     "t": "Tín hiệu nghiêng về CRRT",
+     "d": "RCT hiện đại, đúng đối tượng ICU nặng (thở máy hoặc catecholamin)",
+     "items": [
+      "Tử vong ngày 90 cao hơn ở nhánh IHD"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "HẠN CHẾ",
+     "t": "Cần dè dặt",
+     "d": "Dừng sớm; kết cục chính không đạt",
+     "items": [
+      "Cho phép chuyển phương thức từ ngày 4",
+      "Cơ chế chưa rõ"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "BỐI CẢNH",
+     "t": "Khuyến cáo ra trước",
+     "d": "SRLF 2025 và Hemodiafe nghiêng về tương đương",
+     "items": [
+      "Khuyến cáo chưa kịp đưa ICRAKI vào"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Ta đọc ICRAKI một cách có phê phán. Về ý nghĩa: đây là thử nghiệm ngẫu nhiên hiện đại trên đúng đối tượng hồi sức nặng, thở máy hoặc dùng catecholamin, và tín hiệu tử vong nghiêng về lọc máu liên tục.",
+    "Về hạn chế: thử nghiệm dừng sớm; kết cục chính không đạt; thử nghiệm cho phép chuyển phương thức từ ngày thứ tư; và cơ chế chưa rõ.",
+    "Vì vậy khi trích dẫn ICRAKI, ta phải nêu kèm những hạn chế đó, đặc biệt là kết cục chính không đạt.",
+    "Về bối cảnh: Hemodiafe và các phân tích gộp trước đó cho thấy hai phương thức tương đương, và khuyến cáo SRLF 2025 dựa trên nền đó, ra đời trước ICRAKI. Vì vậy các khuyến cáo hiện hành chưa phản ánh thử nghiệm này."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "box",
+   "chapter": "Thực hành",
+   "title": "Thực hành đề xuất: bắt đầu bằng CRRT",
+   "ref": "Teixeira 2025, tr. 777 · KDIGO 2026 (dự thảo), PP 5.2.4, PP 5.2.5 · đề xuất của người soạn chuyên đề",
+   "box": {
+    "tag": "THÔNG ĐIỆP 2 · ĐỀ XUẤT THỰC HÀNH",
+    "t": "Người bệnh ICU cần <b>vận mạch</b> hoặc <b>thở máy</b> → <b>bắt đầu bằng CRRT</b> khi có máy và đội. Chuyển sang IHD hoặc PIRRT khi huyết động ổn định, hết vận mạch, quá tải dịch đã kiểm soát.",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "THIẾU MÁY CRRT",
+     "t": "PIRRT/SLED là thay thế chấp nhận được (KDIGO 2026, PP 5.2.4)",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "THỜI ĐIỂM CHUYỂN",
+     "t": "Chưa có RCT cho thời điểm chuyển tối ưu",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "NGUỒN",
+     "t": "Teixeira 2025, tr. 777; KDIGO 2026, PP 5.2.5",
+     "at": 1,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Từ bằng chứng trên, chuyên đề đề xuất thực hành như sau. Người bệnh hồi sức cần vận mạch hoặc thở máy thì bắt đầu bằng lọc máu liên tục, khi có máy và có đội.",
+    "Khi huyết động ổn định, hết vận mạch và quá tải dịch đã được kiểm soát, có thể chuyển sang chạy thận ngắt quãng hoặc lọc máu kéo dài. Điều này dựa trên Teixeira 2025 và practice point 5.2.5 của bản dự thảo KDIGO 2026.",
+    "Ở nơi thiếu máy lọc máu liên tục, lọc máu ngắt quãng kéo dài, hay còn gọi là SLED, là sự thay thế chấp nhận được, theo practice point 5.2.4.",
+    "Cần nói trung thực rằng thời điểm chuyển tối ưu chưa có thử nghiệm ngẫu nhiên nào trả lời.",
+    "Cũng cần nhớ đây là đề xuất thực hành của người soạn chuyên đề, rút ra từ ICRAKI, Teixeira 2025 và bản dự thảo KDIGO 2026, chứ không phải một khuyến cáo có mức chứng cứ riêng. Quyết định cuối cùng vẫn dựa trên người bệnh, nguồn lực và quy trình của đơn vị."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Thực hành",
+   "title": "Lưu đồ chọn và chuyển phương thức",
+   "ref": "Đề xuất của người soạn · Teixeira 2025, tr. 777 · KDIGO 2026 (dự thảo), PP 5.2.4–5.2.5",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Cần KRT ở ICU",
+     "d": "vận mạch hoặc thở máy",
+     "x": 240,
+     "y": 330,
+     "w": 340,
+     "h": 150,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Có máy CRRT và đội?",
+     "d": "",
+     "x": 700,
+     "y": 330,
+     "w": 330,
+     "h": 140,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Bắt đầu CRRT",
+     "d": "CVVH, CVVHD hoặc CVVHDF",
+     "x": 1150,
+     "y": 140,
+     "w": 340,
+     "h": 140,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "PIRRT / SLED",
+     "d": "thay thế chấp nhận được",
+     "x": 1150,
+     "y": 500,
+     "w": 340,
+     "h": 140,
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "Huyết động ổn định?",
+     "d": "hết vận mạch · quá tải dịch đã kiểm soát",
+     "x": 1620,
+     "y": 150,
+     "w": 360,
+     "h": 150,
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "teal",
+     "at": 1,
+     "label": "Có"
+    },
+    {
+     "a": "b",
+     "b": "d",
+     "c": "violet",
+     "at": 2,
+     "label": "Không"
+    },
+    {
+     "a": "c",
+     "b": "e",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "note": {
+    "t": "Ổn định → chuyển IHD hoặc PIRRT. Thời điểm chuyển tối ưu: chưa có RCT.",
+    "at": 4,
+    "c": "amber",
+    "x": 0,
+    "y": 620,
+    "w": 1380
+   },
+   "lines": [
+    "Ta tóm lại thành một lưu đồ thực hành. Đây là đề xuất của người soạn chuyên đề, không phải khuyến cáo của một hội cụ thể.",
+    "Người bệnh cần điều trị thay thế thận ở hồi sức, đang dùng vận mạch hoặc thở máy. Nếu đơn vị có máy lọc máu liên tục và đội vận hành, bắt đầu bằng lọc máu liên tục.",
+    "Nếu không có, lọc máu ngắt quãng kéo dài là lựa chọn chấp nhận được.",
+    "Trong quá trình điều trị, đánh giá lại huyết động: hết vận mạch, quá tải dịch đã kiểm soát thì có thể chuyển phương thức.",
+    "Thời điểm chuyển tối ưu hiện chưa có thử nghiệm ngẫu nhiên, nên quyết định cần cá thể hoá theo từng người bệnh.",
+    "Một lưu ý nữa về bối cảnh: ICRAKI cho phép chuyển phương thức từ ngày thứ tư, nên việc chuyển sang chạy thận ngắt quãng khi người bệnh đã ổn định phù hợp với cách thử nghiệm được thiết kế."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Chạy thận ngắt quãng",
+   "title": "Khi dùng IHD: làm sao dung nạp huyết động tốt hơn?",
+   "ref": "SRLF-GFRUP 2025, R4.2A, R4.2B, pdf 8 · R2.3A, pdf 5–6",
+   "h": 480,
+   "cards": [
+    {
+     "tag": "R4.2A · GRADE 2+",
+     "t": "Tăng natri dịch thẩm tách",
+     "d": "lúc bắt đầu buổi lọc",
+     "items": [
+      "Cải thiện dung nạp huyết động"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "R4.2B · GRADE 2+",
+     "t": "Dịch lạnh hơn thân nhiệt",
+     "d": "1,5–2 °C",
+     "items": [
+      "Cải thiện dung nạp huyết động"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "R2.3A · GRADE 2−",
+     "t": "Thẩm phân phúc mạc",
+     "d": "có lẽ không nên dùng khi có đường mạch máu",
+     "items": [],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Nhiều đơn vị vẫn phải dùng chạy thận ngắt quãng vì thiếu máy lọc máu liên tục. Khi đó, SRLF 2025 có hai gợi ý để cải thiện dung nạp huyết động.",
+    "R4.2A: tăng natri dịch thẩm tách lúc bắt đầu buổi lọc. Mức Grade 2 cộng.",
+    "R4.2B: dùng dịch lạnh hơn thân nhiệt người bệnh từ 1,5 đến 2 độ xê. Cũng Grade 2 cộng.",
+    "Cũng cần nhắc lại R2.3A: thẩm phân phúc mạc có lẽ không nên dùng khi đã có đường mạch máu, Grade 2 trừ. Khác với KDIGO 2026, vốn cho phép chọn thẩm phân phúc mạc cấp ở người bệnh nặng có huyết động không ổn định."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "box",
+   "chapter": "Tình huống đặc biệt",
+   "title": "Não: vì sao IHD có thể nguy hiểm?",
+   "ref": "Teixeira 2025, tr. 768 · KDIGO 2012, R5.6.3 · KSN 2025, KQ12, pdf 8, 31 · SRLF 2025, R4.4, pdf 8",
+   "box": {
+    "tag": "TEIXEIRA 2025 · TR. 768 · HIỆU ỨNG URÊ NGƯỢC",
+    "t": "IHD làm urê máu giảm <b>nhanh</b>, trong khi urê qua hàng rào máu não <b>chậm</b> → nước đi vào nhu mô não.",
+    "at": 0,
+    "c": "coral",
+    "size": 38
+   },
+   "notes": [
+    {
+     "tag": "KDIGO 2012 · R5.6.3 · 2B",
+     "t": "Gợi ý CRRT cho tổn thương não cấp, tăng áp lực nội sọ, phù não",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "KSN 2025 · KQ12",
+     "t": "Đồng thuận chuyên gia",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "SRLF 2025 · R4.4 · PANEL",
+     "t": "Chọn thanh thải thấp khi nguy cơ tăng áp lực nội sọ hoặc urê rất cao, để tránh hội chứng mất cân bằng",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Ta xem các tình huống nên dùng lọc máu liên tục. Trước hết là não.",
+    "Ở người bệnh có tổn thương não cấp, tăng áp lực nội sọ hoặc phù não, chạy thận ngắt quãng làm urê máu giảm nhanh, trong khi urê đi qua hàng rào máu não chậm. Chênh lệch này kéo nước vào nhu mô não, gọi là hiệu ứng urê ngược.",
+    "KDIGO 2012, khuyến cáo 5.6.3, mức 2B, ủng hộ lọc máu liên tục. Hội thận học Hàn Quốc 2025, câu hỏi 12, là đồng thuận chuyên gia.",
+    "SRLF 2025, R4.4, mức panel: chọn phương pháp thanh thải thấp ở người có nguy cơ tăng áp lực nội sọ hoặc urê rất cao, để tránh hội chứng mất cân bằng."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Tình huống đặc biệt",
+   "title": "Bốn tình huống nên dùng CRRT",
+   "ref": "Chuyên đề Lọc máu liên tục 2026, mục 5.2 · KDIGO 2012, R5.6.2–5.6.3",
+   "h": 480,
+   "cards": [
+    {
+     "tag": "KDIGO 2012 · R5.6.3 · 2B",
+     "t": "Não",
+     "d": "Tổn thương não cấp, tăng áp lực nội sọ, phù não",
+     "items": [
+      "Tránh urê giảm nhanh"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "PHẦN 12",
+     "t": "Suy gan cấp",
+     "d": "Phù não, tăng NH₃",
+     "items": [
+      "Chi tiết ở phần mười hai"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "KDIGO 2012 · R5.6.2 · 2B",
+     "t": "Sốc",
+     "d": "Cần vận mạch liều cao, huyết động không ổn định",
+     "items": [
+      "Dung nạp huyết động tốt hơn"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Quá tải dịch nặng",
+     "d": "Cần rút liên tục",
+     "items": [
+      "Rút dịch ổn định, từ từ"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm lại có bốn tình huống nên dùng lọc máu liên tục. Một: tổn thương não cấp, tăng áp lực nội sọ, phù não.",
+    "Hai: suy gan cấp, với phù não và tăng amoniac, ta sẽ bàn ở phần mười hai.",
+    "Ba: sốc cần vận mạch liều cao, huyết động không ổn định. Đây là chỉ định kinh điển, KDIGO 2012, khuyến cáo 5.6.2.",
+    "Bốn: quá tải dịch nặng cần rút dịch liên tục và từ từ."
+   ],
+   "id": "s15"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Chọn kiểu CRRT",
+   "title": "Chọn kiểu CRRT: CVVH, CVVHD hay CVVHDF",
+   "ref": "Teixeira 2025 · Oxford 2016, ch. 4 · SRLF 2025, R4.7, pdf 9 · KDIGO 2026 (dự thảo), PP 5.6.2",
+   "head": [
+    "",
+    "CVVH",
+    "CVVHD",
+    "CVVHDF"
+   ],
+   "widths": "1.5fr 1.4fr 1.3fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Phân tử nhỏ",
+      "Tốt (sau màng)",
+      "Tốt",
+      "Tốt nhất ở dòng thấp"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Phân tử trung bình",
+      "Tốt hơn",
+      "Kém hơn",
+      "Tốt"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Tuổi thọ màng",
+      "Ngắn hơn (FF cao, nhất là sau màng)",
+      "Dài (FF thấp)",
+      "Dài hơn CVVH (SRLF R4.7)"
+     ],
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "cells": [
+      "Dùng với citrate",
+      "Được",
+      "Rất phù hợp",
+      "Rất phù hợp"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khi đã quyết định lọc máu liên tục, ta chọn kiểu nào: CVVH, CVVHD hay CVVHDF? Ta có bảng so sánh.",
+    "Với phân tử nhỏ, cả ba đều tốt; CVVHDF cho kết quả tốt nhất ở dòng thấp. Với phân tử trung bình, CVVH tốt hơn CVVHD, còn CVVHDF cũng tốt.",
+    "Về tuổi thọ màng: CVVH ngắn hơn vì phân suất lọc cao, nhất là khi pha loãng sau màng; CVVHD dài vì phân suất lọc thấp; CVVHDF dài hơn CVVH, theo R4.7 của SRLF.",
+    "Với chống đông citrate, CVVH dùng được, còn CVVHD và CVVHDF rất phù hợp.",
+    "Cần nhớ không có thử nghiệm ngẫu nhiên nào chứng minh kiểu lọc máu liên tục nào cải thiện sống còn. Vì vậy, ta chọn theo máy, dịch có sẵn, tuổi thọ màng và chống đông. Điều này cũng giải thích vì sao khuyến cáo cụ thể về kiểu lọc rất ít. Bản dự thảo KDIGO 2026, practice point 5.6.2, cũng liệt kê CVVHD hoặc CVVHDF thay vì CVVH trong các biện pháp không dùng thuốc để kéo dài tuổi thọ quả lọc."
+   ],
+   "id": "s16"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Mô phỏng",
+   "title": "CVVH → CVVHD → CVVHDF: cùng liều, khác tuổi thọ màng (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 100,
+    "ac": "heparin",
+    "mode": "CVVH",
+    "qrpost": 1750
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "uft",
+    "life"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "changes": [
+    {
+     "at": "L2",
+     "set": {
+      "mode": "CVVHD",
+      "qd": 1750,
+      "qrpost": 0
+     },
+     "label": "Chuyển sang CVVHD: dịch thẩm tách 1.750 mL/h",
+     "c": "teal",
+     "hold": 6
+    },
+    {
+     "at": "L4",
+     "set": {
+      "mode": "CVVHDF",
+      "qrpre": 800,
+      "qd": 850,
+      "qrpost": 0
+     },
+     "label": "Chuyển sang CVVHDF: 800 trước màng + 850 thẩm tách",
+     "c": "violet",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "MÔ HÌNH",
+     "t": "Tuổi thọ màng chỉ minh hoạ xu hướng",
+     "c": "violet",
+     "at": 0
+    },
+    {
+     "tag": "SRLF 2025 · R4.7",
+     "t": "CVVHDF cải thiện tuổi thọ màng so với CVVH",
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Ta xem ba kiểu lọc trên mô phỏng, cùng người bệnh 70 ký, hematocrit 30 phần trăm, cu bê 150, siêu lọc ròng 100, heparin. Áp lực và tuổi thọ màng là mô hình minh hoạ.",
+    "Bắt đầu với CVVH sau màng, dịch thay thế 1.750 mi li lít mỗi giờ. Dịch thải 1.850, liều kê 26,4. Phân suất lọc 29,4 phần trăm, màu đỏ. Tuổi thọ màng trong mô hình là 24 giờ.",
+    "Giờ chuyển sang CVVHD, dịch thẩm tách 1.750. Liều kê vẫn 26,4, nhưng phân suất lọc chỉ còn 1,6 phần trăm, và tuổi thọ màng trong mô hình vượt 72 giờ.",
+    "Đây là điều cần ghi nhớ: cùng một liều, kiểu lọc khác nhau cho tuổi thọ màng rất khác nhau, chủ yếu qua phân suất lọc.",
+    "Cuối cùng, CVVHDF: 800 mi li lít mỗi giờ dịch thay thế trước màng, 850 dịch thẩm tách. Dịch thải 1.750, liều kê 25,0, phân suất lọc 12,7 phần trăm, và tuổi thọ màng trong mô hình cũng vượt 72 giờ. Liều sau pha loãng giảm còn 22,2, nên ta phải tính lại liều. Đó cũng là điều SRLF ghi nhận: CVVHDF cải thiện tuổi thọ màng so với CVVH.",
+    "Nhắc lại lần nữa rằng đồ thị và tuổi thọ màng ở đây là mô hình minh hoạ để thấy hướng thay đổi. Ở phần hai, ta đã chạy mô hình theo giờ để xem áp lực xuyên màng tăng khi màng đông; ở phần tám, ta sẽ quay lại tuổi thọ màng theo phân suất lọc, lưu lượng máu và catheter."
+   ],
+   "id": "s17"
+  },
+  {
+   "layout": "crrt",
+   "chapter": "Mô phỏng",
+   "title": "SCUF: chỉ rút dịch, không thanh thải chất tan (mô hình)",
+   "crrt": {
+    "wt": 70,
+    "hct": 30,
+    "qb": 150,
+    "uf": 300,
+    "ac": "heparin",
+    "mode": "SCUF"
+   },
+   "nums": [
+    "qb",
+    "qef",
+    "dose",
+    "ff",
+    "uf",
+    "life"
+   ],
+   "alarm": {
+    "ff": 25,
+    "pacc": -150,
+    "tmp": 250,
+    "dp": 150
+   },
+   "changes": [
+    {
+     "at": "L3",
+     "set": {
+      "mode": "CVVHDF",
+      "qrpre": 800,
+      "qd": 850,
+      "qrpost": 0,
+      "uf": 100
+     },
+     "label": "Thêm dịch: CVVHDF",
+     "c": "violet",
+     "hold": 6
+    }
+   ],
+   "notes": [
+    {
+     "tag": "TEIXEIRA 2025 · TR. 772",
+     "t": "Thanh thải chất tan của SCUF không đáng kể về lâm sàng",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "DÙNG KHI",
+     "t": "Quá tải dịch đơn thuần, không cần lọc chất tan",
+     "c": "teal",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Một phương thức còn lại là siêu lọc chậm liên tục, SCUF. Ở đây UFnet 300 mi li lít mỗi giờ, không có dịch thay thế hay dịch thẩm tách.",
+    "Dịch thải chỉ bằng 300 mi li lít mỗi giờ, tương đương 4,3 mi li lít mỗi ký mỗi giờ, quá thấp so với liều 20 đến 25. Teixeira viết rằng thanh thải chất tan của SCUF không đáng kể về lâm sàng.",
+    "Vì vậy SCUF chỉ dùng cho quá tải dịch đơn thuần khi không cần lọc chất tan, theo Teixeira 2025 và quy trình SCUF trong quyết định 1904 của Bộ Y tế.",
+    "Nếu thêm dịch để chuyển sang CVVHDF, dịch thải lên 1.750, tương đương 25,0 mi li lít mỗi ký mỗi giờ, và ta bắt đầu có thanh thải chất tan đáng kể."
+   ],
+   "id": "s18"
+  },
+  {
+   "layout": "list",
+   "chapter": "Thực hành",
+   "title": "Bốn câu hỏi trước khi chọn phương thức",
+   "ref": "Đề xuất của người soạn · KDIGO 2012, R5.6 · SRLF 2025, R4.4 · Teixeira 2025, tr. 777",
+   "items": [
+    {
+     "t": "Người bệnh có cần vận mạch hoặc thở máy không?",
+     "d": "Có → bắt đầu bằng CRRT (ICRAKI 2026)",
+     "at": 0,
+     "c": "coral",
+     "n": 1
+    },
+    {
+     "t": "Có tổn thương não, tăng áp lực nội sọ hoặc urê rất cao?",
+     "d": "Có → ưu tiên thanh thải thấp, liên tục (KDIGO 2012 R5.6.3; SRLF R4.4)",
+     "at": 1,
+     "c": "violet",
+     "n": 2
+    },
+    {
+     "t": "Đơn vị có máy CRRT và đội vận hành không?",
+     "d": "Không → PIRRT/SLED chấp nhận được (KDIGO 2026, PP 5.2.4)",
+     "at": 2,
+     "c": "amber",
+     "n": 3
+    },
+    {
+     "t": "Huyết động đã ổn định, hết vận mạch, quá tải dịch kiểm soát?",
+     "d": "Có → cân nhắc chuyển IHD hoặc PIRRT",
+     "at": 3,
+     "c": "teal",
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Để dùng được những điều trên ở giường bệnh, ta tự hỏi bốn câu.",
+    "Câu một: người bệnh có cần vận mạch hoặc thở máy không. Nếu có, bắt đầu bằng lọc máu liên tục, theo ICRAKI.",
+    "Câu hai: có tổn thương não, tăng áp lực nội sọ hoặc urê rất cao không. Nếu có, ưu tiên phương pháp thanh thải thấp và liên tục, theo KDIGO 2012, khuyến cáo 5.6.3, và SRLF 2025, R4.4.",
+    "Câu ba: đơn vị có máy và đội vận hành lọc máu liên tục không. Nếu không, lọc máu kéo dài là lựa chọn chấp nhận được, practice point 5.2.4.",
+    "Và câu bốn, trong quá trình điều trị: huyết động đã ổn định, hết vận mạch, quá tải dịch đã kiểm soát chưa. Nếu rồi, cân nhắc chuyển sang chạy thận ngắt quãng hoặc lọc máu kéo dài. Bốn câu hỏi này là cách tổ chức lại khuyến cáo của người soạn, không phải một thang điểm đã được kiểm định."
+   ],
+   "id": "s19"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: chọn phương thức cho người bệnh sốc",
+   "case": "Nam, 58 tuổi, sốc nhiễm khuẩn, thở máy, đang dùng noradrenalin liều cao. AKI có chỉ định điều trị thay thế thận. Đơn vị có máy CRRT và đội vận hành. Đồng nghiệp nói: “SRLF 2025 coi các phương thức tương đương, cứ chạy thận ngắt quãng cho tiện”.",
+   "case_at": 0,
+   "q": "Lựa chọn hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "IHD vì SRLF 2025 coi các phương thức tương đương",
+    "Bắt đầu CRRT; chuyển IHD/PIRRT khi hết vận mạch, huyết động ổn định",
+    "Thẩm phân phúc mạc vì tương đương và rẻ",
+    "CRRT cho đến ngày ngừng lọc, không bao giờ chuyển"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "ICRAKI 2026: tử vong ngày 90 63,1% (IHD) vs 53,5% (CRRT), HR 1,30. SRLF ra trước ICRAKI. Chuyển khi ổn định (Teixeira 2025; KDIGO 2026 PP 5.2.5).",
+   "lines": [
+    "Tình huống. Người bệnh nam, 58 tuổi, sốc nhiễm khuẩn, thở máy, đang dùng noradrenalin liều cao, có chỉ định điều trị thay thế thận. Đơn vị có máy lọc máu liên tục và đội vận hành. Một đồng nghiệp nói rằng SRLF 2025 coi các phương thức tương đương, nên cứ chạy thận ngắt quãng cho tiện.",
+    "Lựa chọn hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh hồi sức cần vận mạch và thở máy nên bắt đầu bằng lọc máu liên tục khi có máy và đội. ICRAKI cho thấy tử vong ngày 90 là 63,1 phần trăm ở chạy thận ngắt quãng so với 53,5 ở lọc máu liên tục, tỷ số nguy cơ 1,30. Khuyến cáo SRLF ra đời trước ICRAKI, nên đáp án A dựa trên nền cũ. Đáp án C sai vì thẩm phân phúc mạc có lẽ không nên dùng khi có đường mạch máu. Đáp án D sai vì khi huyết động ổn định, hết vận mạch và quá tải dịch đã kiểm soát, ta có thể chuyển sang chạy thận ngắt quãng hoặc lọc máu kéo dài."
+   ],
+   "id": "s20"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Ghi nhớ phần 4",
+   "items": [
+    {
+     "t": "KDIGO 2012: CRRT và IRRT bổ sung; CRRT khi huyết động không ổn định hoặc tổn thương não (2B)",
+     "d": "KDIGO 2026: CRRT hoặc PD cấp thay vì IRRT thường (2C)",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "SRLF 2025 coi các phương thức tương đương – ra trước ICRAKI",
+     "d": "Hemodiafe 2006: CVVHDF ≈ IHD",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "ICRAKI 2026: tử vong ngày 90 63,1% (IHD) vs 53,5% (CRRT), HR 1,30",
+     "d": "MAKE90 không đạt; dừng sớm",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Người bệnh ICU vận mạch/thở máy: bắt đầu bằng CRRT",
+     "d": "chuyển IHD/PIRRT khi ổn định · thiếu máy: PIRRT/SLED",
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Não: tránh urê giảm nhanh (hiệu ứng urê ngược)",
+     "d": "KDIGO 2012 R5.6.3 · SRLF R4.4",
+     "at": 4,
+     "c": "violet"
+    },
+    {
+     "t": "CVVHDF dài tuổi thọ màng hơn CVVH; SCUF chỉ rút dịch",
+     "d": "SRLF R4.7 · Teixeira 2025",
+     "at": 5,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm lại phần bốn. KDIGO 2012 coi lọc máu liên tục và ngắt quãng bổ sung cho nhau, ưu tiên lọc máu liên tục khi huyết động không ổn định hoặc tổn thương não. Bản dự thảo KDIGO 2026 gợi ý lọc máu liên tục hoặc thẩm phân phúc mạc cấp thay vì lọc máu ngắt quãng thường quy ở người bệnh nặng.",
+    "SRLF 2025 coi các phương thức tương đương, nhưng ra đời trước ICRAKI.",
+    "ICRAKI năm 2026: tử vong ngày 90 là 63,1 phần trăm với chạy thận ngắt quãng so với 53,5 với lọc máu liên tục, tỷ số nguy cơ 1,30. Kết cục chính không đạt và thử nghiệm dừng sớm.",
+    "Thực hành đề xuất: người bệnh hồi sức cần vận mạch hoặc thở máy thì bắt đầu bằng lọc máu liên tục, chuyển sang chạy thận ngắt quãng hoặc lọc máu kéo dài khi ổn định.",
+    "Với tổn thương não, tránh để urê giảm nhanh.",
+    "Và khi đã chọn lọc máu liên tục, CVVHDF cho tuổi thọ màng tốt hơn CVVH, còn SCUF chỉ rút dịch. Phần sau, chúng ta bàn về catheter và khởi động máy an toàn. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online, xem trọn chuyên đề tại thuvienykhoa.online."
+   ],
+   "id": "s21",
+   "dense": true
+  }
+ ]
+}
