@@ -199,7 +199,7 @@
    ],
    "lines": [
     "Người già yếu là nhóm bị chống đông thiếu nhiều nhất. Thử nghiệm ELDERCARE-AF tuyển người Nhật từ 80 tuổi không phù hợp với liều chống đông đã được duyệt.",
-    "Edoxaban 15 mi li gam một lần ngày so với giả dược giảm đột quỵ hoặc thuyên tắc từ 6,7 xuống 2,3 phần trăm mỗi năm, hát rờ 0,34.",
+    "Edoxaban 15 mi li gam một lần ngày so với giả dược giảm đột quỵ hoặc thuyên tắc từ 6,7 xuống 2,3 phần trăm mỗi năm, HR 0,34.",
     "Chảy máu nặng tăng nhưng không có ý nghĩa thống kê, 3,3 so với 1,8 phần trăm, trong khi chảy máu tiêu hoá nhiều hơn rõ, và tử vong không khác."
    ],
    "notes_w": 560
@@ -238,7 +238,7 @@
     }
    ],
    "lines": [
-    "FRAIL-AF hỏi câu ngược lại: người già yếu đang ổn định với thuốc kháng vitamin K có nên chuyển sang NOAC không? Kết quả: chuyển thuốc làm tăng chảy máu nặng hoặc không nặng có ý nghĩa lâm sàng, hát rờ 1,69, mà huyết khối không giảm.",
+    "FRAIL-AF hỏi câu ngược lại: người già yếu đang ổn định với thuốc kháng vitamin K có nên chuyển sang NOAC không? Kết quả: chuyển thuốc làm tăng chảy máu nặng hoặc không nặng có ý nghĩa lâm sàng, HR 1,69, mà huyết khối không giảm.",
     "Thử nghiệm dừng sớm vì vô ích, với 101 so với 62 biến cố.",
     "Cần lưu ý đây là thử nghiệm mở, và kết cục chính chủ yếu là chảy máu không nặng."
    ]
@@ -596,7 +596,7 @@
    ],
    "lines": [
     "Ba thử nghiệm về van tim cho ba thông điệp khác nhau. RIVER: rung nhĩ có van sinh học hai lá, rivaroxaban không kém warfarin, đột quỵ thậm chí ít hơn, 0,6 so với 2,4 phần trăm.",
-    "ENVISAGE-TAVI AF: sau thay van động mạch chủ qua ống thông, bệnh nhân trung bình 82 tuổi, edoxaban không kém thuốc kháng vitamin K nhưng tăng chảy máu nặng, hát rờ 1,40, chủ yếu chảy máu tiêu hoá.",
+    "ENVISAGE-TAVI AF: sau thay van động mạch chủ qua ống thông, bệnh nhân trung bình 82 tuổi, edoxaban không kém thuốc kháng vitamin K nhưng tăng chảy máu nặng, HR 1,40, chủ yếu chảy máu tiêu hoá.",
     "INVICTUS là thử nghiệm quan trọng nhất với nước ta: hơn 4500 bệnh nhân rung nhĩ có bệnh van tim hậu thấp. Rivaroxaban thua thuốc kháng vitamin K, với tử vong cao hơn. Thực hành: hẹp hai lá hậu thấp dùng thuốc kháng vitamin K, không thay bằng NOAC dù theo dõi INR khó khăn."
    ]
   },

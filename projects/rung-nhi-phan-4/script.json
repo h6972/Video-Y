@@ -260,8 +260,8 @@
     }
    ],
    "lines": [
-    "AUGUSTUS so sánh cùng lúc hai câu hỏi. Thứ nhất, apixaban so với thuốc kháng vitamin K: apixaban ít chảy máu hơn, hát rờ 0,69.",
-    "Thứ hai, aspirin so với giả dược trên nền chống đông và thuốc ức chế P2Y12: aspirin làm tăng chảy máu gần gấp đôi, hát rờ 1,89, trong khi thiếu máu cục bộ tương tự. Thông điệp chung của bốn thử nghiệm: NOAC thay thuốc kháng vitamin K, và bỏ aspirin sớm."
+    "AUGUSTUS so sánh cùng lúc hai câu hỏi. Thứ nhất, apixaban so với thuốc kháng vitamin K: apixaban ít chảy máu hơn, HR 0,69.",
+    "Thứ hai, aspirin so với giả dược trên nền chống đông và thuốc ức chế P2Y12: aspirin làm tăng chảy máu gần gấp đôi, HR 1,89, trong khi thiếu máu cục bộ tương tự. Thông điệp chung của bốn thử nghiệm: NOAC thay thuốc kháng vitamin K, và bỏ aspirin sớm."
    ],
    "notes_w": 560
   },
@@ -545,7 +545,7 @@
    ],
    "lines": [
     "Sau xuất huyết nội sọ là quyết định khó nhất. PRESTIGE-AF tuyển bệnh nhân xuất huyết não tự phát còn khả năng tự lập tương đối, tuổi trung vị 79.",
-    "NOAC giảm nhồi máu não rất mạnh, từ 8,60 xuống 0,83 trên 100 bệnh nhân-năm, hát rờ 0,05.",
+    "NOAC giảm nhồi máu não rất mạnh, từ 8,60 xuống 0,83 trên 100 bệnh nhân-năm, HR 0,05.",
     "Nhưng thử nghiệm không đạt tiêu chí không kém về xuất huyết não tái phát: 5,00 so với 0,82 trên 100 bệnh nhân-năm.",
     "ACC 2026 tóm tắt: dùng lại chống đông giảm biến cố thiếu máu nhưng tăng xuất huyết nội sọ tái phát; với phần lớn bệnh nhân, chờ 4 đến 8 tuần là thận trọng. Nếu không thể chống đông lâu dài, ví dụ có bệnh mạch máu dạng bột ở não, thì cân nhắc bít tiểu nhĩ trái."
    ],
@@ -593,7 +593,7 @@
     }
    ],
    "lines": [
-    "Rung nhĩ dưới lâm sàng là những cơn ngắn phát hiện qua máy tạo nhịp hay thiết bị theo dõi. ARTESIA so sánh apixaban với aspirin trên hơn 4000 bệnh nhân: giảm đột quỵ hoặc thuyên tắc, hát rờ 0,63, nhưng tăng chảy máu nặng, hát rờ 1,36.",
+    "Rung nhĩ dưới lâm sàng là những cơn ngắn phát hiện qua máy tạo nhịp hay thiết bị theo dõi. ARTESIA so sánh apixaban với aspirin trên hơn 4000 bệnh nhân: giảm đột quỵ hoặc thuyên tắc, HR 0,63, nhưng tăng chảy máu nặng, HR 1,36.",
     "NOAH-AFNET 6 so sánh edoxaban với giả dược, dừng sớm, không giảm kết cục gộp và tăng tử vong hoặc chảy máu nặng. Vì vậy ESC 2024 chỉ xếp mức hai b B: có thể cân nhắc NOAC khi nguy cơ huyết khối tăng, trừ người nguy cơ chảy máu cao.",
     "Với ung thư, mọi loại ung thư đều tăng nguy cơ rung nhĩ. NOAC hiệu quả tương tự và an toàn hơn thuốc kháng vitamin K. Khi hoá trị hay xạ trị ức chế tuỷ, cân nhắc giảm liều tạm hoặc ngừng dựa trên tiểu cầu, chức năng thận, gan; bảo vệ dạ dày bằng thuốc ức chế bơm proton hoặc kháng H2. Với ung thư đường tiêu hoá, edoxaban và rivaroxaban có xu hướng chảy máu nhiều hơn."
    ]
