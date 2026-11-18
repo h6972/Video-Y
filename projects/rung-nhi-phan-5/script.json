@@ -1,0 +1,915 @@
+{
+ "title": "Rung nhĩ nguy cơ cao – chọn NOAC · Phần 5: Thủ thuật, chảy máu và góc hồi sức",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "Rung nhĩ – NOAC · Phần 5/5",
+ "source_short": "Nguồn: ESC 2024 rung nhĩ · ACC/AHA/ACCP/HRS 2023 · EHRA 2021 · ESC 2026 bệnh thận mạn · ACC 2026 · VNHA 2022 · thử nghiệm gốc",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2024 ESC AF Guidelines; 2023 ACC/AHA/ACCP/HRS AF Guideline; 2021 EHRA Practical Guide on NOACs; 2026 ESC Guidelines CVD and CKD; 2026 ACC Scientific Statement on DOACs; Khuyến cáo VNHA 2022; các thử nghiệm gốc.",
+ "lexicon": {
+  "ENVISAGE-TAVI AF": "en vi dít ta vi",
+  "P-glycoprotein": "pê gờ ly cô prô tê in",
+  "AXADIA-AFNET 8": "a xa đi a ê ép nét tám",
+  "PIONEER AF-PCI": "pai ô nia ê ép",
+  "ENTRUST-AF PCI": "en trớt ê ép",
+  "phenprocoumon": "phen prô cu mon",
+  "CHA2DS2-VASc": "cha đét vi át",
+  "ELDERCARE-AF": "en đơ ke ê ép",
+  "NOAH-AFNET 6": "nô a ê ép nét sáu",
+  "idarucizumab": "i đa ru xi du máp",
+  "Idarucizumab": "I đa ru xi du máp",
+  "RE-DUAL PCI": "ri đu ồ",
+  "PRESTIGE-AF": "prét tích ê ép",
+  "RE-VERSE AD": "ri vớt a đê",
+  "CHAMPION-AF": "chem pi ân ê ép",
+  "rivaroxaban": "ri va rô xa ban",
+  "Rivaroxaban": "Ri va rô xa ban",
+  "clopidogrel": "clô pi đô gren",
+  "CHA2DS2-VA": "cha đét vi a",
+  "CLOSURE-AF": "clô giơ ê ép",
+  "OCEANIC-AF": "ô si a ních ê ép",
+  "dabigatran": "đa bi ga tran",
+  "Dabigatran": "Đa bi ga tran",
+  "asundexian": "a sun đéc xi an",
+  "ROCKET AF": "rốc két ê ép",
+  "ARISTOTLE": "a ri xtốt",
+  "ENGAGE AF": "en gết ê ép",
+  "andexanet": "an đéc xa nét",
+  "Andexanet": "An đéc xa nét",
+  "đơn vị/kg": "đơn vị mỗi ký",
+  "HAS-BLED": "hát bơ lét",
+  "AVERROES": "a ve rô ét",
+  "FRAIL-AF": "phrêu ê ép",
+  "RENAL-AF": "ri nồ ê ép",
+  "AUGUSTUS": "o gớt tớt",
+  "EPIC-CAD": "ê pích cát",
+  "INVICTUS": "in vích tớt",
+  "ANNEXA-I": "a néc xa i",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "Apixaban": "A pi xa ban",
+  "Edoxaban": "E đô xa ban",
+  "AHA/ASA": "a hát a, a ét a",
+  "ACC/AHA": "a xê xê, a hát a",
+  "anti-Xa": "anti xa",
+  "OPTIMAS": "ốp ti mát",
+  "ARTESIA": "a te si a",
+  "mL/phút": "mi li lít mỗi phút",
+  "CYP3A4": "xíp ba a bốn",
+  "TIMING": "tai minh",
+  "µmol/L": "micromol mỗi lít",
+  "P2Y12": "pê hai y mười hai",
+  "NSAID": "thuốc kháng viêm không steroid",
+  "RE-LY": "ri lai",
+  "AFIRE": "a phai a",
+  "RIVER": "ri vơ",
+  "PAUSE": "pót",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "NOAC": "nô ác",
+  "DOAC": "đô ác",
+  "CrCl": "độ thanh thải crê a ti nin",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "aPCC": "pê xê xê hoạt hoá",
+  "aPTT": "a pê tê tê",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "LVEF": "phân suất tống máu thất trái",
+  "ELAN": "e lan",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "VKA": "thuốc kháng vitamin K",
+  "INR": "i en a",
+  "PCI": "can thiệp mạch vành qua da",
+  "ESC": "e ét xê",
+  "ACC": "a xê xê",
+  "AHA": "a hát a",
+  "PCC": "pê xê xê",
+  "UFH": "heparin không phân đoạn",
+  "PPI": "thuốc ức chế bơm proton",
+  "HR": "hát rờ",
+  "mg": "mi li gam",
+  "kg": "ký"
+ },
+ "brand": {
+  "next": "Trọn bộ chuyên đề: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 5/5",
+   "title": "Thủ thuật, chảy máu<br>và góc hồi sức",
+   "subtitle": "Phần 5 · Ngưng thuốc, thuốc giải, nhiễm khuẩn huyết",
+   "badges": [
+    {
+     "t": "PAUSE",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "Thuốc giải",
+     "c": "coral",
+     "at": "L1+2"
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "note": "ESC 2024 · ACC/AHA 2023 · EHRA 2021 · ESC 2026 · ACC 2026 · VNHA 2022",
+   "note_at": 1,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần cuối của loạt bài về rung nhĩ nguy cơ cao và chọn NOAC.",
+    "Phần này là những việc ở hồi sức làm hằng ngày: ngưng NOAC trước thủ thuật, mổ cấp cứu, chuyển đổi thuốc chống đông, xử trí bệnh nhân đang uống NOAC bị chảy máu, và thuốc giải.",
+    "Cuối phần là góc hồi sức: rung nhĩ mới trong nhiễm khuẩn huyết, một tình huống mà hướng dẫn còn rất ít câu trả lời."
+   ],
+   "ref": ""
+  },
+  {
+   "id": "s02",
+   "layout": "cards",
+   "chapter": "Thủ thuật chương trình · PAUSE",
+   "title": "Ngưng NOAC: đơn giản, không bắc cầu",
+   "ref": "PAUSE · JAMA Intern Med 2019 · 3007 bệnh nhân",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "TRƯỚC",
+     "t": "Bỏ 1 hoặc 2 ngày",
+     "d": "1 ngày: nguy cơ chảy máu thấp · 2 ngày: nguy cơ cao",
+     "items": [
+      "≈ 3 và 5 thời gian bán thải"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "SAU",
+     "t": "Dùng lại sau 1 hoặc 2–3 ngày",
+     "d": "Theo nguy cơ chảy máu của thủ thuật",
+     "items": [],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "KHÔNG",
+     "t": "Không bắc cầu heparin",
+     "d": "Không xét nghiệm đông máu",
+     "items": [
+      "Chảy máu nặng 30 ngày 0,90–1,85%",
+      "Thuyên tắc động mạch dưới 1%"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Thử nghiệm PAUSE là cơ sở cho cách ngưng NOAC hiện nay: hơn 3000 bệnh nhân rung nhĩ dùng apixaban, dabigatran hoặc rivaroxaban, một phần ba làm thủ thuật nguy cơ chảy máu cao. Phác đồ: bỏ 1 ngày trước thủ thuật nguy cơ thấp, bỏ 2 ngày trước thủ thuật nguy cơ cao.",
+    "Dùng lại sau 1 ngày với nguy cơ thấp, 2 đến 3 ngày với nguy cơ cao.",
+    "Không bắc cầu heparin, không xét nghiệm đông máu. Kết quả 30 ngày: chảy máu nặng từ 0,90 đến 1,85 phần trăm, thuyên tắc động mạch dưới 1 phần trăm."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "compare",
+   "chapter": "Thủ thuật chương trình · giờ ngưng",
+   "title": "Số giờ từ liều cuối đến thủ thuật",
+   "ref": "Vẽ lại theo EHRA 2021, Hình 14",
+   "head": [
+    "Thuốc · CrCl (mL/phút)",
+    "Nguy cơ chảy máu thấp",
+    "Nguy cơ chảy máu cao"
+   ],
+   "widths": "1.5fr 1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Ức chế Xa</b> · ≥ 30",
+      "≥ 24 giờ",
+      "≥ 48 giờ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Ức chế Xa</b> · 15–29",
+      "≥ 36 giờ",
+      "≥ 48 giờ"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Dabigatran</b> · ≥ 80",
+      "≥ 24 giờ",
+      "≥ 48 giờ"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Dabigatran</b> · 50–79",
+      "≥ 36 giờ",
+      "≥ 72 giờ"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Dabigatran</b> · 30–49",
+      "≥ 48 giờ",
+      "≥ 96 giờ"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Hội Nhịp tim châu Âu cho số giờ cụ thể từ liều cuối đến thủ thuật chương trình. Với ba thuốc ức chế Xa: độ thanh thải từ 30 trở lên thì ít nhất 24 giờ với nguy cơ thấp, 48 giờ với nguy cơ cao; độ thanh thải 15 đến 29 thì nguy cơ thấp kéo lên 36 giờ.",
+    "Dabigatran phụ thuộc thận nên thay đổi nhiều: từ 80 trở lên là 24 và 48 giờ; 50 đến 79 là 36 và 72 giờ; 30 đến 49 là 48 và 96 giờ.",
+    "Thủ thuật rất ít nguy cơ chảy máu, như nhổ một đến ba răng hay nội soi không sinh thiết, làm ở nồng độ đáy. Sau thủ thuật, dùng lại liều đầy đủ sau 24 giờ với nguy cơ thấp, 48 đến 72 giờ với nguy cơ cao."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "flow",
+   "chapter": "Mổ cấp cứu",
+   "title": "Mổ cấp cứu ngoài kế hoạch",
+   "ref": "Vẽ lại theo EHRA 2021, Hình 12",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Đang dùng NOAC, cần mổ",
+     "d": "Không có kế hoạch trước",
+     "x": 888,
+     "y": 90,
+     "w": 520,
+     "h": 110,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Lấy máu ngay",
+     "d": "PT, aPTT, anti-Xa, creatinin · hỏi giờ liều cuối",
+     "x": 888,
+     "y": 290,
+     "w": 640,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "Mổ trong vài phút",
+     "d": "Đảo ngược NOAC nếu cần và có thuốc → mổ",
+     "x": 320,
+     "y": 540,
+     "w": 470,
+     "h": 150,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Mổ trong vài giờ",
+     "d": "Hoãn 12–24 giờ nếu được, kiểm lại đông máu",
+     "x": 888,
+     "y": 540,
+     "w": 470,
+     "h": 150,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "Chờ được vài ngày",
+     "d": "Theo lịch ngưng của thủ thuật chương trình",
+     "x": 1456,
+     "y": 540,
+     "w": 470,
+     "h": 150,
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "d",
+     "at": 2
+    },
+    {
+     "a": "b",
+     "b": "e",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Khi phải mổ cấp cứu ngoài kế hoạch, bước đầu luôn là lấy máu làm đủ bảng đông máu: PT, aPTT, anti Xa nếu có, cùng creatinin để tính độ thanh thải, và hỏi giờ uống liều cuối.",
+    "Nếu phải mổ trong vài phút: đảo ngược tác dụng NOAC nếu cần, khi có thuốc, rồi mổ.",
+    "Nếu mổ trong vài giờ: hoãn 12 đến 24 giờ nếu được, kiểm lại đông máu; nếu vẫn còn tác dụng đáng kể thì xử trí như cấp cứu.",
+    "Nếu chờ được vài ngày: theo lịch ngưng thuốc của thủ thuật chương trình. Thủ thuật nguy cơ chảy máu cao gồm gây tê tuỷ sống, ngoài màng cứng, phẫu thuật tim, mạch máu, thần kinh, bụng, lồng ngực, sinh thiết thận hoặc gan."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "compare",
+   "chapter": "Chuyển thuốc",
+   "title": "Chuyển đổi giữa các thuốc chống đông",
+   "ref": "Vẽ lại theo EHRA 2021, Hình 4",
+   "head": [
+    "Chuyển",
+    "Cách làm"
+   ],
+   "widths": "1fr 2.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>VKA → NOAC</b>",
+      "INR ≤ 2: bắt đầu ngay · 2–2,5: ngay hoặc hôm sau · 2,5–3: đo lại sau 1–3 ngày · ≥ 3: hoãn"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>NOAC → VKA</b>",
+      "Dùng song song (edoxaban nửa liều) · đo INR trước liều NOAC sau 3–5 ngày · INR ≥ 2: ngừng NOAC"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Heparin không phân đoạn → NOAC</b>",
+      "2–4 giờ sau khi ngừng truyền"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>NOAC → heparin không phân đoạn</b>",
+      "Sau 12 giờ (thuốc 2 lần/ngày) hoặc 24 giờ (1 lần/ngày)"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>NOAC → heparin TLPT thấp</b>, giữa các NOAC",
+      "Vào giờ lẽ ra uống liều kế tiếp"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Chuyển đổi giữa các thuốc chống đông. Từ thuốc kháng vitamin K sang NOAC: ngừng thuốc cũ và đo INR. INR từ 2 trở xuống thì bắt đầu ngay; 2 đến 2,5 thì ngay hoặc hôm sau; 2,5 đến 3 thì đo lại sau 1 đến 3 ngày; từ 3 trở lên thì hoãn.",
+    "Từ NOAC sang thuốc kháng vitamin K: dùng song song, riêng edoxaban dùng nửa liều; đo INR sau 3 đến 5 ngày, lấy máu trước liều NOAC vì NOAC cũng làm tăng INR; INR từ 2 thì ngừng NOAC.",
+    "Từ heparin không phân đoạn sang NOAC: bắt đầu 2 đến 4 giờ sau khi ngừng truyền. Ngược lại, bắt đầu heparin 12 giờ sau liều cuối với thuốc hai lần ngày, 24 giờ với thuốc một lần ngày.",
+    "Sang heparin trọng lượng phân tử thấp hoặc giữa các NOAC: bắt đầu vào thời điểm lẽ ra uống liều kế tiếp."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "cards",
+   "chapter": "Chảy máu · phân loại",
+   "title": "Phân loại chảy máu khi đang dùng NOAC",
+   "ref": "ACC 2020 đồng thuận xử trí chảy máu",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "VỊ TRÍ NGUY KỊCH",
+     "t": "Nội sọ, tuỷ sống, nội nhãn",
+     "d": "Lồng ngực, đường thở, màng ngoài tim · ổ bụng, sau phúc mạc, khớp, cơ",
+     "items": [
+      "Xuất huyết tiêu hoá trong lòng ống: không xếp nguy kịch"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "MẤT ỔN ĐỊNH HUYẾT ĐỘNG",
+     "t": "Huyết áp tâm thu < 90 hoặc giảm > 40 mmHg",
+     "d": "Huyết áp trung bình xâm lấn < 65 mmHg",
+     "items": [
+      "Nước tiểu < 0,5 mL/kg/giờ",
+      "Thay đổi tư thế"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "MỨC MẤT MÁU",
+     "t": "Hb giảm ≥ 2 g/dL",
+     "d": "Hoặc cần truyền ≥ 2 đơn vị hồng cầu",
+     "items": [
+      "Liên quan tăng tử vong"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Khi bệnh nhân đang dùng NOAC bị chảy máu, việc đầu tiên là phân loại, theo đồng thuận ACC 2020. Thứ nhất, có phải vị trí nguy kịch không: nội sọ, tuỷ sống, nội nhãn; lồng ngực, đường thở, màng ngoài tim; ổ bụng, sau phúc mạc, trong khớp, trong cơ. Xuất huyết tiêu hoá trong lòng ống không xếp là vị trí nguy kịch, nhưng có thể gây mất ổn định huyết động.",
+    "Thứ hai, có mất ổn định huyết động không: huyết áp tâm thu dưới 90 hoặc giảm trên 40, huyết áp trung bình đo xâm lấn dưới 65, nước tiểu dưới 0,5 mi li lít mỗi ký mỗi giờ.",
+    "Thứ ba, mức mất máu: hemoglobin giảm từ 2 gam mỗi đề xi lít hoặc cần truyền từ 2 đơn vị hồng cầu liên quan tăng tử vong."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "flow",
+   "chapter": "Chảy máu · xử trí",
+   "title": "Xử trí theo mức chảy máu",
+   "ref": "Vẽ lại theo EHRA 2021, Hình 9 · ESC 2024",
+   "note": {
+    "t": "Ngừng chống đông đến khi xử lý được nguyên nhân chảy máu · ESC 2024 I C",
+    "at": 4,
+    "c": "coral",
+    "y": 60
+   },
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Nhẹ",
+     "d": "Hoãn hoặc ngừng liều kế · xem lại thuốc dùng kèm, lựa chọn và liều",
+     "x": 300,
+     "y": 300,
+     "w": 480,
+     "h": 200,
+     "c": "green",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Nặng",
+     "d": "Thêm: ép, nội soi, phẫu thuật cầm máu · dịch, truyền máu · cân nhắc acid tranexamic",
+     "x": 888,
+     "y": 300,
+     "w": 540,
+     "h": 200,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Đe doạ tính mạng / nguy kịch",
+     "d": "Thêm thuốc giải đặc hiệu · ESC 2024 IIa B",
+     "x": 1480,
+     "y": 300,
+     "w": 540,
+     "h": 200,
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Không có thuốc giải",
+     "d": "PCC 50 đơn vị/kg (+25) hoặc aPCC 50 đơn vị/kg",
+     "x": 1480,
+     "y": 560,
+     "w": 540,
+     "h": 150,
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "at": 2
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Xử trí chảy máu theo ba mức, cộng dồn từ nhẹ lên nặng. Chảy máu nhẹ: hoãn hoặc ngừng liều kế tiếp, xem lại thuốc dùng kèm, xem lại lựa chọn và liều NOAC.",
+    "Chảy máu nặng không đe doạ tính mạng: thêm các biện pháp như ép cầm máu, nội soi cầm máu với xuất huyết tiêu hoá, phẫu thuật, bù dịch, truyền hồng cầu, tiểu cầu, cân nhắc acid tranexamic. Với dabigatran, cân nhắc idarucizumab, hoặc lọc máu nếu không có idarucizumab.",
+    "Chảy máu đe doạ tính mạng hoặc vị trí nguy kịch: thêm thuốc giải đặc hiệu, ESC 2024 xếp mức hai a B.",
+    "Nếu không có thuốc giải: PCC 50 đơn vị mỗi ký, thêm 25 nếu cần, hoặc PCC hoạt hoá.",
+    "Và nguyên tắc chung của ESC: ngừng chống đông cho đến khi xác định và xử lý được nguyên nhân chảy máu, mức một C."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "compare",
+   "chapter": "Thuốc giải · liều",
+   "title": "Liều thuốc giải và đảo ngược",
+   "ref": "EHRA 2021 · ACC 2020 · Anticoagulation Forum 2019",
+   "head": [
+    "Thuốc",
+    "Liều, cách dùng",
+    "Khi nào dùng"
+   ],
+   "widths": "0.9fr 1.8fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Idarucizumab</b>",
+      "5 g tĩnh mạch (2 lọ 2,5 g, mỗi lọ 5–10 phút hoặc tiêm nhanh)",
+      "Dabigatran; có thể thêm liều thứ hai"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Andexanet thấp</b>",
+      "400 mg tĩnh mạch 30 mg/phút → 4 mg/phút × 120 phút",
+      "Apixaban ≤ 5 mg, rivaroxaban ≤ 10 mg, edoxaban ≤ 30 mg; hoặc ≥ 8 giờ từ liều cuối"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Andexanet cao</b>",
+      "800 mg tĩnh mạch 30 mg/phút → 8 mg/phút × 120 phút",
+      "Liều cuối cao hơn hoặc không rõ, và < 8 giờ hoặc không rõ"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>PCC 4 yếu tố</b>",
+      "50 đơn vị/kg (+25 nếu cần) · hoặc 2000 đơn vị",
+      "Khi không có thuốc giải đặc hiệu"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>aPCC</b>",
+      "50 đơn vị/kg, tối đa 200 đơn vị/kg/ngày",
+      "Người có kinh nghiệm; dabigatran khi thiếu idarucizumab"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Idarucizumab, thuốc giải của dabigatran: 5 gam tĩnh mạch, tức hai lọ 2,5 gam, truyền liên tiếp mỗi lọ 5 đến 10 phút hoặc tiêm nhanh. Tác dụng đảo ngược trong vài phút, kéo dài tới 24 giờ.",
+    "Andexanet cho thuốc ức chế Xa có hai mức. Liều thấp: 400 mi li gam tiêm tĩnh mạch tốc độ 30 mi li gam mỗi phút, rồi truyền 4 mi li gam mỗi phút trong 120 phút, khi liều cuối apixaban từ 5 mi li gam trở xuống, rivaroxaban từ 10 trở xuống, edoxaban từ 30 trở xuống, hoặc đã từ 8 giờ trở lên. Liều cao: 800 mi li gam rồi 8 mi li gam mỗi phút trong 120 phút, khi liều cuối cao hơn hoặc không rõ và dưới 8 giờ.",
+    "Khi không có thuốc giải đặc hiệu: phức hợp prothrombin cô đặc bốn yếu tố 50 đơn vị mỗi ký, thêm 25 nếu cần, hoặc liều cố định 2000 đơn vị theo Anticoagulation Forum.",
+    "PCC hoạt hoá 50 đơn vị mỗi ký, tối đa 200 mỗi ngày, chỉ người có kinh nghiệm dùng. Than hoạt có thể cân nhắc nếu mới uống NOAC trong 2 đến 4 giờ."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "bars",
+   "chapter": "Thuốc giải · bằng chứng",
+   "title": "Andexanet trong xuất huyết não: được và mất",
+   "ref": "ANNEXA-I · NEJM 2024 · RE-VERSE AD · NEJM 2017",
+   "groups": [
+    {
+     "t": "Cầm máu hiệu quả",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Andexanet",
+       "v": 67.0,
+       "lab": "67,0%"
+      },
+      {
+       "k": "Thường quy",
+       "v": 53.1,
+       "lab": "53,1%"
+      }
+     ]
+    },
+    {
+     "t": "Huyết khối",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Andexanet",
+       "v": 10.3,
+       "lab": "10,3%"
+      },
+      {
+       "k": "Thường quy",
+       "v": 5.6,
+       "lab": "5,6%"
+      }
+     ]
+    },
+    {
+     "t": "Nhồi máu não",
+     "at": 1,
+     "c": "coral",
+     "hl": "L1",
+     "bars": [
+      {
+       "k": "Andexanet",
+       "v": 6.5,
+       "lab": "6,5%"
+      },
+      {
+       "k": "Thường quy",
+       "v": 1.5,
+       "lab": "1,5%"
+      }
+     ]
+    }
+   ],
+   "max": 75,
+   "notes": [
+    {
+     "t": "Nhóm thường quy: 85,5% nhận PCC",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Kết cục chức năng, tử vong 30 ngày không khác rõ",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "RE-VERSE AD: idarucizumab đảo ngược trung vị 100%; cầm máu trung vị 2,5 giờ",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Không dùng: yếu tố VIIa tái tổ hợp, huyết tương tươi đông lạnh, vitamin K, protamine",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "ANNEXA-I năm 2024 trên 530 bệnh nhân xuất huyết não đang uống thuốc ức chế Xa trong vòng 15 giờ: andexanet cầm máu khối máu tụ tốt hơn điều trị thường quy, 67 so với 53 phần trăm, mà phần lớn nhóm chứng đã nhận PCC.",
+    "Nhưng cái giá là huyết khối tăng gần gấp đôi, 10,3 so với 5,6 phần trăm, và nhồi máu não 6,5 so với 1,5 phần trăm; kết cục chức năng và tử vong không cải thiện rõ.",
+    "Với dabigatran, RE-VERSE AD cho thấy idarucizumab đảo ngược tác dụng với trung vị 100 phần trăm, thời gian cầm máu trung vị 2,5 giờ. Những gì không dùng: yếu tố bảy a tái tổ hợp, huyết tương tươi đông lạnh; vitamin K và protamine không có vai trò với NOAC."
+   ],
+   "notes_w": 560
+  },
+  {
+   "id": "s10",
+   "layout": "stats",
+   "chapter": "Góc hồi sức",
+   "title": "Rung nhĩ do yếu tố thúc đẩy: không lành tính",
+   "ref": "ESC 2024 · ACC/AHA 2023",
+   "tiles": [
+    {
+     "tag": "NHIỄM KHUẨN HUYẾT CẤP",
+     "v": 20,
+     "pre": "9–",
+     "suf": "%",
+     "l": "Tỉ lệ rung nhĩ (ESC 2024)",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "NHIỄM KHUẨN HUYẾT NẶNG",
+     "v": 22,
+     "pre": "6–",
+     "suf": "%",
+     "l": "Tỉ lệ rung nhĩ (ACC/AHA 2023)",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "TÁI PHÁT",
+     "v": 50,
+     "pre": "33–",
+     "suf": "%",
+     "l": "Sau ra viện (một phần ba đến một nửa)",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": {
+    "t": "ESC 2024: chống đông lâu dài nên cân nhắc khi nguy cơ tăng, sau khi xử trí yếu tố khởi phát · IIa C",
+    "at": 2,
+    "c": "teal"
+   },
+   "lines": [
+    "Góc hồi sức. Rung nhĩ do yếu tố thúc đẩy là rung nhĩ mới gắn với một yếu tố khởi phát đảo ngược được; hay gặp nhất là nhiễm khuẩn huyết cấp, với tỉ lệ rung nhĩ 9 đến 20 phần trăm; ACC/AHA 2023 ghi 6 đến 22 phần trăm trong nhiễm khuẩn huyết nặng.",
+    "Điều quan trọng nhất: đây không phải rung nhĩ lành tính. Rung nhĩ do nhiễm khuẩn huyết tái phát sau ra viện ở một phần ba đến một nửa bệnh nhân, và nguy cơ huyết khối tương tự rung nhĩ nguyên phát.",
+    "Vì vậy ESC 2024 khuyến cáo nên cân nhắc chống đông lâu dài ở bệnh nhân phù hợp có nguy cơ huyết khối tăng, mức hai a C, bắt đầu sau khi yếu tố khởi phát cấp đã được xử trí."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "cards",
+   "chapter": "Góc hồi sức · giai đoạn cấp",
+   "title": "Giai đoạn cấp: không chống đông thường quy",
+   "ref": "ACC/AHA 2023 · AHA 2023 · Sibley · Intensive Care Med 2025",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "ACC/AHA 2023 · COR 2b",
+     "t": "Lợi ích chưa chắc chắn",
+     "d": "Chống đông trong giai đoạn bệnh nặng do nhiễm khuẩn huyết",
+     "items": [
+      "Tư vấn nguy cơ tái phát · COR 1",
+      "Hẹn theo dõi ngoại trú · COR 2a"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "AHA 2023",
+     "t": "Bằng chứng không ủng hộ",
+     "d": "chống đông thường quy giai đoạn cấp",
+     "items": [
+      "Đã quyết định: DOAC ưu tiên, tính đến thuốc đảo ngược"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "SIBLEY 2025",
+     "t": "Vì sao khó",
+     "d": "CHA2DS2-VASc dự báo kém (C 0,526); CHA2DS2-VA chưa kiểm định",
+     "items": [
+      "Heparin, warfarin đạt khoảng điều trị < 50% thời gian"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Trong giai đoạn cấp, các hướng dẫn khá thống nhất: không chống đông thường quy. ACC/AHA 2023 xếp mức hai b: lợi ích của chống đông trong giai đoạn bệnh nặng do nhiễm khuẩn huyết chưa chắc chắn; nhưng phải tư vấn nguy cơ tái phát và hẹn theo dõi ngoại trú.",
+    "Tuyên bố khoa học AHA 2023 nói thẳng hơn: bằng chứng hiện có không ủng hộ chống đông thường quy giai đoạn cấp ở bệnh nhân nhiễm khuẩn huyết có rung nhĩ cấp.",
+    "Tổng quan của Sibley năm 2025 giải thích vì sao: CHA2DS2-VASc dự báo đột quỵ trong nhiễm khuẩn huyết rất kém, chỉ số C 0,526, CHA2DS2-VA chưa được kiểm định ở người bệnh nặng; và heparin hay warfarin chỉ đạt khoảng điều trị dưới một nửa thời gian nằm hồi sức."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "quiz",
+   "chapter": "Tình huống hồi sức",
+   "title": "Sốc nhiễm khuẩn, rung nhĩ mới",
+   "ref": "Ca bệnh minh hoạ · ACC/AHA 2023 · ESC 2024 · EHRA 2021",
+   "case": "Nam 68 tuổi, sốc nhiễm khuẩn do viêm phổi, thở máy, noradrenalin. <b>Ngày 2: rung nhĩ mới</b>, tổn thương thận cấp, đang truyền amiodarone. CHA2DS2-VA 3.",
+   "case_at": 1,
+   "q": "Về chống đông lúc này, hướng xử trí phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Bắt đầu ngay rivaroxaban 20 mg vì CHA2DS2-VA ≥ 2",
+    "Không chống đông thường quy; nếu cần ưu tiên heparin; kế hoạch OAC lâu dài sau đó",
+    "Thêm aspirin thay chống đông",
+    "Không bao giờ cần chống đông vì là rung nhĩ thứ phát"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "countdown": {
+    "after": 3,
+    "s": 8
+   },
+   "explain": "Giai đoạn cấp: lợi ích chưa chắc (COR 2b). AKI + amiodarone: còn phân vân → heparin. Sau đó: tính lại điểm, CrCl, OAC lâu dài (IIa C).",
+   "lines": [
+    "Tình huống cuối cùng của loạt bài.",
+    "Nam 68 tuổi, sốc nhiễm khuẩn do viêm phổi, thở máy, đang dùng noradrenalin. Ngày thứ hai xuất hiện rung nhĩ mới, kèm tổn thương thận cấp, đang truyền amiodarone. CHA2DS2-VA bằng 3.",
+    "Về chống đông lúc này, hướng xử trí nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là không chống đông thường quy, quyết định từng ca, nếu cần thì ưu tiên heparin, và lên kế hoạch chống đông lâu dài sau giai đoạn cấp. Ở giai đoạn cấp, lợi ích chống đông chưa chắc chắn; tổn thương thận cấp cộng amiodarone làm NOAC khó đoán, khi còn phân vân thì chuyển heparin. Khi qua giai đoạn cấp, tính lại CHA2DS2-VA và độ thanh thải, cân nhắc chống đông lâu dài mức hai a C, và dặn theo dõi tái phát. Rung nhĩ thứ phát không có nghĩa là không bao giờ cần chống đông."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "cards",
+   "chapter": "Còn tranh cãi",
+   "title": "Hai hướng còn tranh cãi",
+   "ref": "CHAMPION-AF 2026 · CLOSURE-AF 2026 · OCEANIC-AF 2025",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "BÍT TIỂU NHĨ TRÁI",
+     "t": "CHAMPION-AF · 3000 BN",
+     "d": "Không kém NOAC (5,7% so với 4,8%)",
+     "items": [
+      "Chảy máu không do thủ thuật HR 0,55"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "BÍT TIỂU NHĨ TRÁI",
+     "t": "CLOSURE-AF · 912 BN",
+     "d": "Nguy cơ đột quỵ và chảy máu đều cao",
+     "items": [
+      "Không đạt không kém (16,8 so với 13,3/100 BN-năm)",
+      "ESC 2024 vẫn IIb C"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "ỨC CHẾ YẾU TỐ XI",
+     "t": "OCEANIC-AF · 14 810 BN",
+     "d": "Asundexian 50 mg so với apixaban",
+     "items": [
+      "Dừng sớm: đột quỵ/thuyên tắc 1,3% so với 0,4% (HR 3,79)",
+      "Chảy máu nặng 0,2% so với 0,7%"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Hai hướng còn tranh cãi. Bít tiểu nhĩ trái thay NOAC: năm 2026 có hai thử nghiệm trái chiều. CHAMPION-AF trên 3000 bệnh nhân phù hợp chống đông, nguy cơ trung bình: bít tiểu nhĩ không kém NOAC, và giảm chảy máu không liên quan thủ thuật, hát rờ 0,55.",
+    "Ngược lại, CLOSURE-AF trên bệnh nhân nguy cơ đột quỵ và chảy máu đều cao thì không đạt tiêu chí không kém. Kết quả phụ thuộc quần thể; ESC 2024 vẫn chỉ xếp hai b C.",
+    "Thuốc ức chế yếu tố mười một từng được kỳ vọng tách rời huyết khối và cầm máu. Nhưng OCEANIC-AF với asundexian phải dừng sớm vì đột quỵ hoặc thuyên tắc nhiều hơn apixaban gần bốn lần, dù chảy máu ít hơn."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "summary",
+   "chapter": "Tổng kết loạt bài",
+   "title": "Bảy thông điệp mang về",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "NOAC ưu tiên hơn VKA (I A)",
+     "d": "Trừ van cơ học, hẹp hai lá vừa – nặng",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "CHA2DS2-VA",
+     "d": "≥ 2 (I C), = 1 (IIa C) · eGFR < 30: luôn nguy cơ cao",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Điểm chảy máu",
+     "d": "Để sửa yếu tố, không để bỏ chống đông (III B)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Liều theo Cockcroft–Gault",
+     "d": "Đúng tiêu chí từng thuốc · liều thấp sai: có hại",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Apixaban",
+     "d": "Già yếu, thận nặng, tiền sử chảy máu · tránh dabigatran khi lọc máu",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Sau PCI",
+     "d": "Bỏ aspirin ≤ 1 tuần · OAC + clopidogrel 6–12 tháng → đơn trị",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "d": "Không chống đông thường quy giai đoạn cấp · OAC lâu dài sau đó (IIa C)",
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Để kết thúc loạt bài, xin tóm tắt bảy thông điệp.",
+    "Một, NOAC ưu tiên hơn thuốc kháng vitamin K, trừ van cơ học và hẹp hai lá vừa đến nặng. Hai, chỉ định theo CHA2DS2-VA; với mức lọc cầu thận dưới 30, luôn coi là nguy cơ cao.",
+    "Ba, điểm chảy máu dùng để sửa yếu tố nguy cơ, không phải để bỏ chống đông. Bốn, liều theo độ thanh thải Cockcroft–Gault và tiêu chí riêng của từng thuốc; liều thấp sai chỉ định là có hại.",
+    "Năm, ở người già yếu, bệnh thận nặng, tiền sử chảy máu, nghĩ đến apixaban trước; tránh dabigatran khi lọc máu. Sáu, sau can thiệp mạch vành: bỏ aspirin trong một tuần, chống đông cộng clopidogrel 6 đến 12 tháng, rồi đơn trị.",
+    "Bảy, rung nhĩ mới trong nhiễm khuẩn huyết: không chống đông thường quy giai đoạn cấp, nhưng lên kế hoạch chống đông lâu dài và hẹn theo dõi. Cảm ơn quý đồng nghiệp đã theo dõi trọn loạt bài của Thư Viện Y Khoa Online."
+   ],
+   "ref": ""
+  }
+ ]
+}

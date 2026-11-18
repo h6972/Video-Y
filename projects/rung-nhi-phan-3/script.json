@@ -1,0 +1,682 @@
+{
+ "title": "Rung nhĩ nguy cơ cao – chọn NOAC · Phần 3: Già yếu, thận, gan, chảy máu, van tim",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "Rung nhĩ – NOAC · Phần 3/5",
+ "source_short": "Nguồn: ESC 2024 rung nhĩ · ACC/AHA/ACCP/HRS 2023 · EHRA 2021 · ESC 2026 bệnh thận mạn · ACC 2026 · VNHA 2022 · thử nghiệm gốc",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2024 ESC AF Guidelines; 2023 ACC/AHA/ACCP/HRS AF Guideline; 2021 EHRA Practical Guide on NOACs; 2026 ESC Guidelines CVD and CKD; 2026 ACC Scientific Statement on DOACs; Khuyến cáo VNHA 2022; các thử nghiệm gốc.",
+ "lexicon": {
+  "ENVISAGE-TAVI AF": "en vi dít ta vi",
+  "P-glycoprotein": "pê gờ ly cô prô tê in",
+  "AXADIA-AFNET 8": "a xa đi a ê ép nét tám",
+  "PIONEER AF-PCI": "pai ô nia ê ép",
+  "ENTRUST-AF PCI": "en trớt ê ép",
+  "phenprocoumon": "phen prô cu mon",
+  "CHA2DS2-VASc": "cha đét vi át",
+  "ELDERCARE-AF": "en đơ ke ê ép",
+  "NOAH-AFNET 6": "nô a ê ép nét sáu",
+  "idarucizumab": "i đa ru xi du máp",
+  "Idarucizumab": "I đa ru xi du máp",
+  "RE-DUAL PCI": "ri đu ồ",
+  "PRESTIGE-AF": "prét tích ê ép",
+  "RE-VERSE AD": "ri vớt a đê",
+  "CHAMPION-AF": "chem pi ân ê ép",
+  "rivaroxaban": "ri va rô xa ban",
+  "Rivaroxaban": "Ri va rô xa ban",
+  "clopidogrel": "clô pi đô gren",
+  "CHA2DS2-VA": "cha đét vi a",
+  "CLOSURE-AF": "clô giơ ê ép",
+  "OCEANIC-AF": "ô si a ních ê ép",
+  "dabigatran": "đa bi ga tran",
+  "Dabigatran": "Đa bi ga tran",
+  "asundexian": "a sun đéc xi an",
+  "ROCKET AF": "rốc két ê ép",
+  "ARISTOTLE": "a ri xtốt",
+  "ENGAGE AF": "en gết ê ép",
+  "andexanet": "an đéc xa nét",
+  "Andexanet": "An đéc xa nét",
+  "đơn vị/kg": "đơn vị mỗi ký",
+  "HAS-BLED": "hát bơ lét",
+  "AVERROES": "a ve rô ét",
+  "FRAIL-AF": "phrêu ê ép",
+  "RENAL-AF": "ri nồ ê ép",
+  "AUGUSTUS": "o gớt tớt",
+  "EPIC-CAD": "ê pích cát",
+  "INVICTUS": "in vích tớt",
+  "ANNEXA-I": "a néc xa i",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "Apixaban": "A pi xa ban",
+  "Edoxaban": "E đô xa ban",
+  "AHA/ASA": "a hát a, a ét a",
+  "ACC/AHA": "a xê xê, a hát a",
+  "anti-Xa": "anti xa",
+  "OPTIMAS": "ốp ti mát",
+  "ARTESIA": "a te si a",
+  "mL/phút": "mi li lít mỗi phút",
+  "CYP3A4": "xíp ba a bốn",
+  "TIMING": "tai minh",
+  "µmol/L": "micromol mỗi lít",
+  "P2Y12": "pê hai y mười hai",
+  "NSAID": "thuốc kháng viêm không steroid",
+  "RE-LY": "ri lai",
+  "AFIRE": "a phai a",
+  "RIVER": "ri vơ",
+  "PAUSE": "pót",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "NOAC": "nô ác",
+  "DOAC": "đô ác",
+  "CrCl": "độ thanh thải crê a ti nin",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "aPCC": "pê xê xê hoạt hoá",
+  "aPTT": "a pê tê tê",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "LVEF": "phân suất tống máu thất trái",
+  "ELAN": "e lan",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "VKA": "thuốc kháng vitamin K",
+  "INR": "i en a",
+  "PCI": "can thiệp mạch vành qua da",
+  "ESC": "e ét xê",
+  "ACC": "a xê xê",
+  "AHA": "a hát a",
+  "PCC": "pê xê xê",
+  "UFH": "heparin không phân đoạn",
+  "PPI": "thuốc ức chế bơm proton",
+  "HR": "hát rờ",
+  "mg": "mi li gam",
+  "kg": "ký"
+ },
+ "brand": {
+  "next": "Phần 4: Nhóm nguy cơ cao: mạch vành, đột quỵ, ung thư"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 3/5",
+   "title": "Nhóm nguy cơ cao (1):<br>già yếu, thận, gan, van",
+   "subtitle": "Phần 3 · Già yếu, thận, lọc máu, gan, van tim",
+   "badges": [
+    {
+     "t": "ELDERCARE-AF",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "ESC 2026 bệnh thận",
+     "c": "teal",
+     "at": "L1+2"
+    },
+    {
+     "t": "INVICTUS",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": "ESC 2024 · ACC/AHA 2023 · EHRA 2021 · ESC 2026 · ACC 2026 · VNHA 2022",
+   "note_at": 1,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần ba của loạt bài về rung nhĩ nguy cơ cao và chọn NOAC.",
+    "Từ phần này chúng ta đi vào trọng tâm: chọn thuốc cho từng nhóm nguy cơ cao. Phần ba gồm người già yếu, bệnh thận mạn và lọc máu, tổn thương thận cấp ở hồi sức, bệnh gan, béo phì, tiền sử chảy máu và bệnh van tim.",
+    "Đây là những nhóm mà bằng chứng thường mỏng, nên chúng ta sẽ đọc kỹ từng thử nghiệm."
+   ],
+   "ref": ""
+  },
+  {
+   "id": "s02",
+   "layout": "bars",
+   "chapter": "Già yếu · ELDERCARE-AF",
+   "title": "Từ 80 tuổi, không dùng được liều chuẩn",
+   "ref": "ELDERCARE-AF · NEJM 2020 · 984 người Nhật",
+   "groups": [
+    {
+     "t": "Đột quỵ / thuyên tắc",
+     "d": "%/năm",
+     "at": 1,
+     "c": "teal",
+     "note": "HR 0,34",
+     "bars": [
+      {
+       "k": "Edoxaban 15 mg",
+       "v": 2.3,
+       "lab": "2,3%"
+      },
+      {
+       "k": "Giả dược",
+       "v": 6.7,
+       "lab": "6,7%"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu nặng",
+     "d": "%/năm",
+     "at": 2,
+     "c": "coral",
+     "note": "HR 1,87 (P = 0,09)",
+     "bars": [
+      {
+       "k": "Edoxaban 15 mg",
+       "v": 3.3,
+       "lab": "3,3%"
+      },
+      {
+       "k": "Giả dược",
+       "v": 1.8,
+       "lab": "1,8%"
+      }
+     ]
+    }
+   ],
+   "max": 7.5,
+   "notes": [
+    {
+     "t": "Người Nhật ≥ 80 tuổi không phù hợp liều đã duyệt",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Chảy máu tiêu hoá nhiều hơn",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Tử vong không khác",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Người già yếu là nhóm bị chống đông thiếu nhiều nhất. Thử nghiệm ELDERCARE-AF tuyển người Nhật từ 80 tuổi không phù hợp với liều chống đông đã được duyệt.",
+    "Edoxaban 15 mi li gam một lần ngày so với giả dược giảm đột quỵ hoặc thuyên tắc từ 6,7 xuống 2,3 phần trăm mỗi năm, hát rờ 0,34.",
+    "Chảy máu nặng tăng nhưng không có ý nghĩa thống kê, 3,3 so với 1,8 phần trăm, trong khi chảy máu tiêu hoá nhiều hơn rõ, và tử vong không khác."
+   ],
+   "notes_w": 560
+  },
+  {
+   "id": "s03",
+   "layout": "box",
+   "chapter": "Già yếu · FRAIL-AF",
+   "title": "Đang ổn định với VKA: có nên chuyển?",
+   "ref": "FRAIL-AF · Circulation 2024",
+   "box": {
+    "tag": "FRAIL-AF",
+    "t": "Người ≥ 75 tuổi già yếu, đang ổn định với VKA: <b>chuyển sang NOAC làm tăng chảy máu</b> (HR 1,69; 1,23–2,32) mà huyết khối không giảm (HR 1,26).",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "THIẾT KẾ",
+     "t": "Groningen ≥ 3 · loại eGFR < 30 · thử nghiệm mở",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "KẾT CỤC",
+     "t": "Dừng sớm vì vô ích: 101 so với 62 biến cố chảy máu",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Kết cục chính nghiêng về chảy máu không nặng có ý nghĩa",
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "FRAIL-AF hỏi câu ngược lại: người già yếu đang ổn định với thuốc kháng vitamin K có nên chuyển sang NOAC không? Kết quả: chuyển thuốc làm tăng chảy máu nặng hoặc không nặng có ý nghĩa lâm sàng, hát rờ 1,69, mà huyết khối không giảm.",
+    "Thử nghiệm dừng sớm vì vô ích, với 101 so với 62 biến cố.",
+    "Cần lưu ý đây là thử nghiệm mở, và kết cục chính chủ yếu là chảy máu không nặng."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "list",
+   "chapter": "Già yếu · khuyến cáo",
+   "title": "Người già yếu: chọn gì?",
+   "ref": "ESC 2024 · ACC 2026 · EHRA 2021",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "ESC 2024 · IIb B",
+     "d": "≥ 75 tuổi ổn định với VKA, dùng nhiều thuốc: có thể tiếp tục VKA",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "t": "ACC 2026 · ưu tiên apixaban",
+     "d": "Lợi ích nhất quán trên mọi mức già yếu, chảy máu thấp hơn",
+     "at": 1,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "t": "ACC 2026 · edoxaban 15 mg",
+     "d": "Có thể cân nhắc khi không dùng được liều chuẩn",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Thực tế trong nước",
+     "d": "Edoxaban chỉ có 60/30 mg → chưa áp dụng được 15 mg",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Không tự ý dùng liều thấp",
+     "d": "Edoxaban 30/15 mg của ENGAGE AF không được duyệt: nhồi máu não cao hơn warfarin 41%",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Từ hai thử nghiệm đó: ESC 2024 cho phép người từ 75 tuổi đang ổn định với thuốc kháng vitamin K và dùng nhiều thuốc tiếp tục thuốc cũ, mức hai b B.",
+    "Tuyên bố khoa học ACC 2026 gợi ý: ở người già yếu, ưu tiên apixaban, vì lợi ích nhất quán trên mọi mức già yếu và chảy máu thấp hơn.",
+    "ACC 2026 cũng cho phép cân nhắc edoxaban 15 mi li gam khi không dùng được liều chuẩn. Nhưng edoxaban ở nước ta chỉ có 60 và 30 mi li gam, nên phác đồ này chưa dùng được.",
+    "Và tuyệt đối không suy ra rằng có thể dùng liều thấp tuỳ ý: phác đồ edoxaban 30 trên 15 mi li gam trong ENGAGE AF đã không được duyệt vì nhồi máu não cao hơn warfarin 41 phần trăm."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "compare",
+   "chapter": "Bệnh thận mạn · ESC 2026",
+   "title": "Chọn thuốc theo eGFR",
+   "ref": "ESC 2026 bệnh tim mạch và bệnh thận mạn",
+   "head": [
+    "eGFR (mL/phút/1,73 m²)",
+    "Khuyến cáo",
+    "Mức"
+   ],
+   "widths": "1.3fr 2.6fr 0.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>≥ 30</b>",
+      "DOAC ưu tiên hơn VKA",
+      "I A"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>15–29</b>",
+      "Nên cân nhắc thuốc ức chế Xa ưu tiên hơn VKA",
+      "IIa B1"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>< 15</b>, kể cả điều trị thay thế thận",
+      "Quyết định chống đông theo từng cá thể",
+      "IIa C"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>< 15</b>, chưa lọc máu, đã quyết định",
+      "VKA hoặc apixaban 2,5 mg × 2",
+      "IIb C"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>< 15</b>, đang lọc máu, đã quyết định",
+      "Ức chế Xa liều thấp, <em>nhất là apixaban 2,5 mg × 2</em>, ưu tiên hơn VKA",
+      "IIb C"
+     ],
+     "at": 3,
+     "hl": "L3",
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn ESC 2026 về bệnh tim mạch và bệnh thận mạn chia khuyến cáo theo mức lọc cầu thận, rất dễ áp dụng. Từ 30 trở lên: NOAC ưu tiên hơn thuốc kháng vitamin K, mức một A.",
+    "Từ 15 đến 29: nên cân nhắc thuốc ức chế yếu tố Xa ưu tiên hơn thuốc kháng vitamin K, mức hai a B1; B1 là cách phân mức chứng cứ riêng của hướng dẫn này.",
+    "Dưới 15, kể cả đang điều trị thay thế thận: quyết định chống đông theo từng cá thể, mức hai a C.",
+    "Nếu chưa lọc máu và đã quyết định chống đông, có thể dùng thuốc kháng vitamin K hoặc apixaban 2,5 mi li gam hai lần ngày. Nếu đang lọc máu, có thể ưu tiên ức chế Xa liều thấp hơn thuốc kháng vitamin K, nhất là apixaban 2,5 mi li gam hai lần ngày. Cả hai đều mức hai b C."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "cards",
+   "chapter": "Lọc máu",
+   "title": "Lọc máu: hai thử nghiệm nhỏ",
+   "ref": "RENAL-AF · Circulation 2022 · AXADIA-AFNET 8 · Circulation 2023",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "RENAL-AF · 154 BN",
+     "t": "Apixaban so với warfarin",
+     "d": "Dừng sớm vì khó tuyển · TTR warfarin 44%",
+     "items": [
+      "Chảy máu 1 năm 32% so với 26% (HR 1,20)",
+      "Đột quỵ/thuyên tắc 3,0% so với 3,3%",
+      "Tử vong là biến cố thường gặp nhất"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "AXADIA-AFNET 8 · 97 BN",
+     "t": "Apixaban 2,5 mg × 2 so với phenprocoumon",
+     "d": "Tuổi trung bình 75 · TTR 50,7%",
+     "items": [
+      "An toàn gộp 45,8% so với 51,0% (HR 0,93)",
+      "Chảy máu nặng 10,4% so với 12,2%"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Bằng chứng còn yếu",
+     "d": "Chảy máu apixaban ≈ VKA",
+     "items": [
+      "Khuyến cáo chỉ ở mức IIb",
+      "ACC 2026: tránh dabigatran khi lọc máu"
+     ],
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Với bệnh nhân lọc máu, chúng ta chỉ có hai thử nghiệm ngẫu nhiên nhỏ. RENAL-AF ở Mỹ: 154 bệnh nhân, apixaban so với warfarin; dừng sớm vì khó tuyển, thời gian trong khoảng điều trị của warfarin chỉ 44 phần trăm. Chảy máu sau một năm 32 so với 26 phần trăm, khác biệt không có ý nghĩa; tử vong là biến cố thường gặp nhất.",
+    "AXADIA-AFNET 8 ở Đức: 97 bệnh nhân, apixaban 2,5 mi li gam hai lần ngày so với phenprocoumon; biến cố an toàn gộp tương tự.",
+    "Tóm lại, ở bệnh nhân lọc máu chảy máu của apixaban và thuốc kháng vitamin K tương tự nhau, bằng chứng còn yếu nên khuyến cáo chỉ ở mức hai b. ACC 2026 thêm một ý rõ ràng: tránh dabigatran ở bệnh nhân lọc máu."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "cards",
+   "chapter": "Hồi sức · thận cấp",
+   "title": "Tổn thương thận cấp, lọc máu liên tục",
+   "ref": "EHRA 2021 · Textbook of Critical Care 2024",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "CHƯA CÓ RCT",
+     "t": "Chọn và chỉnh NOAC trong AKI, CRRT",
+     "d": "Tính lại CrCl mỗi khi creatinin thay đổi",
+     "items": [
+      "Hội chẩn đa chuyên khoa"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "EHRA 2021",
+     "t": "Còn phân vân → heparin",
+     "d": "Chuyển sang heparin trọng lượng phân tử thấp hoặc không phân đoạn",
+     "items": [
+      "Lọc máu liên tục: chưa có dữ liệu liều NOAC đủ tin cậy"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "tag": "QUA SONDE",
+     "t": "Nghiền được apixaban, rivaroxaban, edoxaban",
+     "d": "Không mở viên nang dabigatran",
+     "items": [
+      "Sinh khả dụng tăng khoảng 75%"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Góc dành riêng cho hồi sức. Cần nói thẳng: chưa có thử nghiệm ngẫu nhiên nào về chọn và chỉnh NOAC trong tổn thương thận cấp hay lọc máu liên tục. Mỗi khi creatinin thay đổi, cần tính lại độ thanh thải.",
+    "Ở bệnh nhân nặng nhiều biến động, Hội Nhịp tim châu Âu khuyên hội chẩn đa chuyên khoa, và nếu còn phân vân thì chuyển sang heparin trọng lượng phân tử thấp hoặc heparin không phân đoạn. Với lọc máu liên tục, chưa có dữ liệu liều NOAC đủ tin cậy nên ưu tiên heparin; đây là ý kiến thực hành.",
+    "Khi cho thuốc qua sonde: apixaban, rivaroxaban, edoxaban nghiền được mà không đổi sinh khả dụng; nhưng không được mở viên nang dabigatran, vì sinh khả dụng tăng khoảng 75 phần trăm."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "cards",
+   "chapter": "Gan · cân nặng",
+   "title": "Bệnh gan, béo phì, nhẹ cân",
+   "ref": "ACC 2026 · ACC/AHA 2023 · ESC 2024",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "BỆNH GAN",
+     "t": "Theo Child–Pugh",
+     "d": "A: mọi DOAC có vẻ an toàn",
+     "items": [
+      "B: apixaban, dabigatran, edoxaban; tránh rivaroxaban",
+      "C: chưa đủ bằng chứng dùng DOAC"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "tag": "BMI ≥ 40",
+     "t": "Béo phì độ III",
+     "d": "Rivaroxaban hoặc apixaban phù hợp (ACC 2026)",
+     "items": [
+      "DOAC thay warfarin hợp lý · COR 2a",
+      "Sau phẫu thuật giảm cân: có thể chọn warfarin · COR 2b"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "≤ 60 KG",
+     "t": "Cân nặng thấp",
+     "d": "Tiêu chí giảm liều edoxaban; một trong ba tiêu chí của apixaban",
+     "items": [
+      "Dùng cân nặng thực để tính CrCl"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Ba nhóm ngắn nhưng thường gặp. Bệnh gan: theo gợi ý của ACC 2026, Child–Pugh A thì mọi NOAC có vẻ an toàn; Child–Pugh B dùng được apixaban, dabigatran và edoxaban, còn rivaroxaban nên tránh; Child–Pugh C chưa đủ bằng chứng ủng hộ.",
+    "Béo phì độ ba, chỉ số khối cơ thể từ 40: rivaroxaban hoặc apixaban là lựa chọn phù hợp; chọn NOAC thay warfarin là hợp lý, mức hai a. Riêng bệnh nhân sau phẫu thuật giảm cân, có thể chọn warfarin vì lo ngại hấp thu thuốc, mức hai b.",
+    "Cân nặng từ 60 ký trở xuống là tiêu chí giảm liều của edoxaban và là một trong ba tiêu chí của apixaban. Luôn dùng cân nặng thực để tính độ thanh thải."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "list",
+   "chapter": "Tiền sử chảy máu",
+   "title": "Từng chảy máu: vẫn chống đông, chọn thuốc khéo",
+   "ref": "ACC 2026 · ESC 2024 · Ruff 2014",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "ACC 2026",
+     "d": "Ưu tiên apixaban hoặc dabigatran liều thấp 110 mg × 2",
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "t": "Chảy máu tiêu hoá",
+     "d": "NOAC tăng so với warfarin (RR 1,25) dù giảm xuất huyết nội sọ (0,48)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "ESC 2024 · III B / I B",
+     "d": "Không dùng điểm chảy máu để bỏ chống đông; sửa yếu tố nguy cơ",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "ESC 2024 · IIb C",
+     "d": "Bít tiểu nhĩ trái khi chống chỉ định chống đông lâu dài",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Dabigatran 110 mg",
+     "d": "Không có trên nhãn rung nhĩ ở Mỹ; có ở châu Âu và Việt Nam",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bệnh nhân có tiền sử chảy máu là nhóm chúng ta hay ngần ngại nhất. ACC 2026 gợi ý: nếu cần chống đông, ưu tiên apixaban hoặc dabigatran liều thấp 110 mi li gam hai lần ngày.",
+    "Với chảy máu tiêu hoá, nhớ lại phân tích gộp Ruff: NOAC tăng chảy máu tiêu hoá 25 phần trăm so với warfarin, dù giảm một nửa xuất huyết nội sọ.",
+    "Nguyên tắc của ESC vẫn giữ: không dùng điểm chảy máu để bỏ chống đông, mà tìm và sửa yếu tố nguy cơ. Chỉ khi có chống chỉ định chống đông lâu dài thật sự mới nghĩ đến bít tiểu nhĩ trái, và mức khuyến cáo hiện chỉ là hai b C.",
+    "Lưu ý dabigatran 110 không có trên nhãn rung nhĩ ở Mỹ, nhưng có ở châu Âu và nước ta. Chưa có so sánh trực tiếp giữa các NOAC trên nhóm này."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "Bệnh van tim",
+   "title": "Ba thử nghiệm, ba thông điệp",
+   "ref": "RIVER 2020 · ENVISAGE-TAVI AF 2021 · INVICTUS 2022",
+   "head": [
+    "Thử nghiệm",
+    "Quần thể",
+    "So sánh",
+    "Kết quả"
+   ],
+   "widths": "1fr 1.4fr 1.1fr 1.7fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>RIVER</b>",
+      "1005, van sinh học hai lá",
+      "Rivaroxaban 20 mg so với warfarin",
+      "Không kém; đột quỵ 0,6% so với 2,4%"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>ENVISAGE-TAVI AF</b>",
+      "1426 sau TAVI; tuổi 82,1",
+      "Edoxaban so với VKA",
+      "Không kém; chảy máu nặng HR 1,40 (chủ yếu tiêu hoá)"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>INVICTUS</b>",
+      "4531, bệnh van tim hậu thấp; tuổi 50,5",
+      "Rivaroxaban so với VKA",
+      "<em>VKA tốt hơn; tử vong cao hơn với rivaroxaban</em>"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Ba thử nghiệm về van tim cho ba thông điệp khác nhau. RIVER: rung nhĩ có van sinh học hai lá, rivaroxaban không kém warfarin, đột quỵ thậm chí ít hơn, 0,6 so với 2,4 phần trăm.",
+    "ENVISAGE-TAVI AF: sau thay van động mạch chủ qua ống thông, bệnh nhân trung bình 82 tuổi, edoxaban không kém thuốc kháng vitamin K nhưng tăng chảy máu nặng, hát rờ 1,40, chủ yếu chảy máu tiêu hoá.",
+    "INVICTUS là thử nghiệm quan trọng nhất với nước ta: hơn 4500 bệnh nhân rung nhĩ có bệnh van tim hậu thấp. Rivaroxaban thua thuốc kháng vitamin K, với tử vong cao hơn. Thực hành: hẹp hai lá hậu thấp dùng thuốc kháng vitamin K, không thay bằng NOAC dù theo dõi INR khó khăn."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Lọc máu chu kỳ, cần chống đông",
+   "ref": "Ca bệnh minh hoạ · ESC 2026 · ACC 2026",
+   "case": "Nam 70 tuổi, bệnh thận mạn giai đoạn cuối, <b>lọc máu chu kỳ</b>, rung nhĩ CHA2DS2-VA 4, không tiền sử chảy máu nặng. Sau thảo luận đã <b>quyết định chống đông</b>.",
+   "case_at": 1,
+   "q": "Lựa chọn phù hợp nhất theo ESC 2026?",
+   "q_at": 2,
+   "options": [
+    "Dabigatran 110 mg × 2",
+    "Apixaban 2,5 mg × 2",
+    "Rivaroxaban 20 mg × 1",
+    "Aspirin thay chống đông"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "countdown": {
+    "after": 3,
+    "s": 8
+   },
+   "explain": "Đang lọc máu, đã quyết định chống đông: ức chế Xa liều thấp, nhất là apixaban 2,5 mg × 2, ưu tiên hơn VKA (IIb C). Tránh dabigatran khi lọc máu (ACC 2026). Aspirin không thay được chống đông.",
+   "lines": [
+    "Mời quý vị làm một tình huống.",
+    "Nam 70 tuổi, bệnh thận mạn giai đoạn cuối, đang lọc máu chu kỳ, rung nhĩ với CHA2DS2-VA bằng 4, không có tiền sử chảy máu nặng. Sau khi thảo luận với người bệnh, đã quyết định dùng chống đông.",
+    "Lựa chọn nào phù hợp nhất theo hướng dẫn ESC 2026?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là apixaban 2,5 mi li gam hai lần ngày. Ở bệnh nhân đang lọc máu đã quyết định chống đông, ESC 2026 cho phép ưu tiên ức chế Xa liều thấp, nhất là apixaban 2,5, hơn thuốc kháng vitamin K, mức hai b C. Dabigatran nên tránh khi lọc máu, và aspirin không thay được chống đông."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 3",
+   "title": "Năm thông điệp của Phần 3",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Già yếu",
+     "d": "Nghĩ apixaban · ổn định với VKA có thể giữ · không tự ý giảm liều",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Bệnh thận mạn",
+     "d": "Theo eGFR (ESC 2026) · lọc máu: apixaban 2,5 mg × 2 (IIb C)",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Hồi sức",
+     "d": "AKI, CRRT: còn phân vân → heparin · không mở viên dabigatran",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Gan · cân nặng",
+     "d": "Child–Pugh B tránh rivaroxaban · BMI ≥ 40: rivaroxaban, apixaban",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Van tim",
+     "d": "Hẹp hai lá hậu thấp → VKA · van sinh học, sau TAVI: NOAC dùng được",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần ba.",
+    "Người già yếu: nghĩ đến apixaban, người đang ổn định với thuốc kháng vitamin K có thể giữ, và không tự ý giảm liều. Bệnh thận mạn: chọn thuốc theo mức lọc cầu thận; ở bệnh nhân lọc máu, apixaban 2,5 mi li gam hai lần ngày là lựa chọn được nêu.",
+    "Ở hồi sức, khi còn phân vân thì chuyển sang heparin. Child–Pugh B tránh rivaroxaban.",
+    "Hẹp hai lá hậu thấp dùng thuốc kháng vitamin K. Phần bốn sẽ bàn bệnh mạch vành, đột quỵ, xuất huyết nội sọ, ung thư và giải ca mở đầu. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "ref": ""
+  }
+ ]
+}

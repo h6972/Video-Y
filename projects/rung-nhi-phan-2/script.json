@@ -1,0 +1,606 @@
+{
+ "title": "Rung nhĩ nguy cơ cao – chọn NOAC · Phần 2: Chọn thuốc và liều",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "Rung nhĩ – NOAC · Phần 2/5",
+ "source_short": "Nguồn: ESC 2024 rung nhĩ · ACC/AHA/ACCP/HRS 2023 · EHRA 2021 · ESC 2026 bệnh thận mạn · ACC 2026 · VNHA 2022 · thử nghiệm gốc",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2024 ESC AF Guidelines; 2023 ACC/AHA/ACCP/HRS AF Guideline; 2021 EHRA Practical Guide on NOACs; 2026 ESC Guidelines CVD and CKD; 2026 ACC Scientific Statement on DOACs; Khuyến cáo VNHA 2022; các thử nghiệm gốc.",
+ "lexicon": {
+  "ENVISAGE-TAVI AF": "en vi dít ta vi",
+  "P-glycoprotein": "pê gờ ly cô prô tê in",
+  "AXADIA-AFNET 8": "a xa đi a ê ép nét tám",
+  "PIONEER AF-PCI": "pai ô nia ê ép",
+  "ENTRUST-AF PCI": "en trớt ê ép",
+  "phenprocoumon": "phen prô cu mon",
+  "CHA2DS2-VASc": "cha đét vi át",
+  "ELDERCARE-AF": "en đơ ke ê ép",
+  "NOAH-AFNET 6": "nô a ê ép nét sáu",
+  "idarucizumab": "i đa ru xi du máp",
+  "Idarucizumab": "I đa ru xi du máp",
+  "RE-DUAL PCI": "ri đu ồ",
+  "PRESTIGE-AF": "prét tích ê ép",
+  "RE-VERSE AD": "ri vớt a đê",
+  "CHAMPION-AF": "chem pi ân ê ép",
+  "rivaroxaban": "ri va rô xa ban",
+  "Rivaroxaban": "Ri va rô xa ban",
+  "clopidogrel": "clô pi đô gren",
+  "CHA2DS2-VA": "cha đét vi a",
+  "CLOSURE-AF": "clô giơ ê ép",
+  "OCEANIC-AF": "ô si a ních ê ép",
+  "dabigatran": "đa bi ga tran",
+  "Dabigatran": "Đa bi ga tran",
+  "asundexian": "a sun đéc xi an",
+  "ROCKET AF": "rốc két ê ép",
+  "ARISTOTLE": "a ri xtốt",
+  "ENGAGE AF": "en gết ê ép",
+  "andexanet": "an đéc xa nét",
+  "Andexanet": "An đéc xa nét",
+  "đơn vị/kg": "đơn vị mỗi ký",
+  "HAS-BLED": "hát bơ lét",
+  "AVERROES": "a ve rô ét",
+  "FRAIL-AF": "phrêu ê ép",
+  "RENAL-AF": "ri nồ ê ép",
+  "AUGUSTUS": "o gớt tớt",
+  "EPIC-CAD": "ê pích cát",
+  "INVICTUS": "in vích tớt",
+  "ANNEXA-I": "a néc xa i",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "Apixaban": "A pi xa ban",
+  "Edoxaban": "E đô xa ban",
+  "AHA/ASA": "a hát a, a ét a",
+  "ACC/AHA": "a xê xê, a hát a",
+  "anti-Xa": "anti xa",
+  "OPTIMAS": "ốp ti mát",
+  "ARTESIA": "a te si a",
+  "mL/phút": "mi li lít mỗi phút",
+  "CYP3A4": "xíp ba a bốn",
+  "TIMING": "tai minh",
+  "µmol/L": "micromol mỗi lít",
+  "P2Y12": "pê hai y mười hai",
+  "NSAID": "thuốc kháng viêm không steroid",
+  "RE-LY": "ri lai",
+  "AFIRE": "a phai a",
+  "RIVER": "ri vơ",
+  "PAUSE": "pót",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "NOAC": "nô ác",
+  "DOAC": "đô ác",
+  "CrCl": "độ thanh thải crê a ti nin",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "aPCC": "pê xê xê hoạt hoá",
+  "aPTT": "a pê tê tê",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "LVEF": "phân suất tống máu thất trái",
+  "ELAN": "e lan",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "VKA": "thuốc kháng vitamin K",
+  "INR": "i en a",
+  "PCI": "can thiệp mạch vành qua da",
+  "ESC": "e ét xê",
+  "ACC": "a xê xê",
+  "AHA": "a hát a",
+  "PCC": "pê xê xê",
+  "UFH": "heparin không phân đoạn",
+  "PPI": "thuốc ức chế bơm proton",
+  "HR": "hát rờ",
+  "mg": "mi li gam",
+  "kg": "ký"
+ },
+ "brand": {
+  "next": "Phần 3: Nhóm nguy cơ cao: già yếu, thận, gan, chảy máu, van tim"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 2/5",
+   "title": "Chọn thuốc<br>và liều NOAC",
+   "subtitle": "Phần 2 · Liều đúng tiêu chí, checklist",
+   "badges": [
+    {
+     "t": "Cockcroft–Gault",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Liều thấp sai: có hại",
+     "c": "coral",
+     "at": "L1+2"
+    },
+    {
+     "t": "Checklist 7 bước",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "note": "ESC 2024 · ACC/AHA 2023 · EHRA 2021 · ESC 2026 · ACC 2026 · VNHA 2022",
+   "note_at": 1,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần hai của loạt bài về rung nhĩ nguy cơ cao và chọn NOAC.",
+    "Phần này ngắn nhưng là gốc của mọi quyết định ở các nhóm nguy cơ cao: chọn NOAC hay thuốc kháng vitamin K, tính chức năng thận đúng cách, và kê liều đúng tiêu chí.",
+    "Cuối phần là một checklist bảy bước và một tình huống để quý vị tự kiểm tra."
+   ],
+   "ref": ""
+  },
+  {
+   "id": "s02",
+   "layout": "list",
+   "chapter": "NOAC hay VKA",
+   "title": "NOAC hay thuốc kháng vitamin K?",
+   "ref": "ESC 2024",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "NOAC ưu tiên hơn VKA",
+     "d": "Trừ van tim cơ học, hẹp van hai lá vừa – nặng · <b>I A</b>",
+     "at": 0,
+     "hl": "L0",
+     "c": "teal"
+    },
+    {
+     "t": "Đích INR 2,0–3,0 khi dùng VKA",
+     "d": "I B",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "TTR < 70% → chuyển sang NOAC",
+     "d": "I B",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "≥ 75 tuổi, ổn định với VKA, nhiều thuốc",
+     "d": "Có thể tiếp tục VKA · <b>IIb B</b> (FRAIL-AF)",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Hẹp hai lá hậu thấp",
+     "d": "Dùng VKA – bằng chứng INVICTUS",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Câu hỏi đầu tiên: NOAC hay thuốc kháng vitamin K? ESC 2024 trả lời rõ: NOAC ưu tiên hơn, mức một A, trừ hai nhóm: van tim cơ học và hẹp van hai lá mức độ vừa đến nặng.",
+    "Nếu dùng thuốc kháng vitamin K, đích INR 2 đến 3; nếu bệnh nhân không giữ được thời gian trong khoảng điều trị trên 70 phần trăm thì chuyển sang NOAC, mức một B.",
+    "Điểm mới dựa trên thử nghiệm FRAIL-AF: người từ 75 tuổi đang ổn định với thuốc kháng vitamin K và dùng nhiều thuốc có thể tiếp tục, mức hai b B. Không phải ai đang dùng warfarin ổn định cũng cần đổi.",
+    "Và hẹp hai lá hậu thấp, rất thường gặp ở nước ta, là nhóm phải dùng thuốc kháng vitamin K, theo kết quả thử nghiệm INVICTUS mà phần ba sẽ bàn."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "box",
+   "chapter": "Chức năng thận",
+   "title": "Đo thận bằng Cockcroft–Gault, không bằng eGFR",
+   "ref": "EHRA 2021, Bảng 10",
+   "box": {
+    "tag": "CÔNG THỨC",
+    "t": "CrCl = (140 − tuổi) × cân nặng (kg) <b>[× 0,85 nếu nữ]</b> / (72 × creatinin mg/dL)",
+    "at": 0,
+    "c": "teal",
+    "size": 33
+   },
+   "notes": [
+    {
+     "tag": "VÌ SAO",
+     "t": "Tiêu chí liều trong thử nghiệm và trên nhãn đều dựa trên CrCl",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "THEO DÕI",
+     "t": "Hb, thận, gan mỗi năm · 4 tháng nếu ≥ 75 tuổi hoặc già yếu · CrCl ≤ 60: CrCl/10 tháng",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "LÀM NGAY",
+     "t": "Khi có bệnh xen kẽ: nhiễm khuẩn, NSAID, mất nước",
+     "at": 3,
+     "hl": "L3",
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Ở bệnh nhân dùng NOAC, chức năng thận nên được ước tính bằng độ thanh thải creatinin theo Cockcroft–Gault: 140 trừ tuổi, nhân cân nặng, nhân 0,85 nếu là nữ, chia cho 72 nhân creatinin tính bằng mi li gam mỗi đề xi lít.",
+    "Lý do: các tiêu chí liều trong thử nghiệm và trên nhãn thuốc đều dựa trên độ thanh thải này, không phải mức lọc cầu thận ước tính.",
+    "Về theo dõi, Hội Nhịp tim châu Âu khuyên xét nghiệm hemoglobin, chức năng thận và gan mỗi năm; mỗi 4 tháng nếu từ 75 tuổi hoặc già yếu; nếu độ thanh thải từ 60 trở xuống, khoảng cách tính theo tháng bằng độ thanh thải chia 10.",
+    "Và xét nghiệm ngay khi có bệnh xen kẽ như nhiễm khuẩn, dùng thuốc kháng viêm, mất nước: đúng những bệnh nhân vào hồi sức."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "list",
+   "chapter": "Ví dụ tính",
+   "title": "Tính độ thanh thải cho ca mở đầu",
+   "ref": "Ca bệnh minh hoạ · nữ 84 tuổi, 50 kg, creatinin 1,6 mg/dL",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "140 − 84 = 56",
+     "d": "Tuổi",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "56 × 50 × 0,85 = 2380",
+     "d": "Cân nặng thực · nữ nhân 0,85",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "72 × 1,6 = 115,2",
+     "d": "Mẫu số",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "2380 / 115,2 ≈ 21 mL/phút",
+     "d": "Nhóm 15–29 mL/phút",
+     "at": 2,
+     "hl": "L2",
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Áp dụng ngay cho bà cụ 84 tuổi, 50 ký, creatinin 1,6.",
+    "140 trừ 84 là 56; nhân 50 ký, nhân 0,85 vì là nữ, được 2380.",
+    "Mẫu số: 72 nhân 1,6 là 115,2. Chia ra, độ thanh thải khoảng 21 mi li lít mỗi phút, thuộc nhóm 15 đến 29. Chúng ta sẽ dùng con số này khi giải ca ở phần bốn."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "compare",
+   "chapter": "Liều chuẩn – liều giảm",
+   "title": "Liều chuẩn và tiêu chí giảm liều",
+   "ref": "ESC 2024, Bảng 11 · EHRA 2021",
+   "head": [
+    "Thuốc",
+    "Liều chuẩn",
+    "Giảm liều khi",
+    "Liều giảm"
+   ],
+   "widths": "0.9fr 1fr 2.4fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Apixaban</b>",
+      "5 mg × 2",
+      "Có <b>2 trong 3</b>: ≥ 80 tuổi · ≤ 60 kg · creatinin ≥ 133 µmol/L (1,5 mg/dL) · EHRA: thêm CrCl 15–29",
+      "2,5 mg × 2"
+     ],
+     "at": 0,
+     "hl": "L0",
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>Dabigatran</b>",
+      "150 mg × 2",
+      "≥ 80 tuổi · verapamil · cân nhắc: 75–80 tuổi, CrCl 30–50, viêm dạ dày, trào ngược, nguy cơ chảy máu",
+      "110 mg × 2"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Edoxaban</b>",
+      "60 mg × 1",
+      "CrCl 15–50 · ≤ 60 kg · ciclosporin, dronedarone, erythromycin, ketoconazole",
+      "30 mg × 1"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Rivaroxaban</b>",
+      "20 mg × 1",
+      "CrCl 15–49",
+      "15 mg × 1"
+     ],
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Đây là bảng nên in ra dán ở phòng bác sĩ. Apixaban: 5 mi li gam hai lần ngày; giảm còn 2,5 khi có 2 trong 3 tiêu chí: tuổi từ 80, cân nặng từ 60 ký trở xuống, creatinin từ 133 micromol mỗi lít, tức 1,5 mi li gam mỗi đề xi lít. Hội Nhịp tim châu Âu bổ sung: độ thanh thải 15 đến 29 thì cũng dùng 2,5.",
+    "Dabigatran: 150 mi li gam hai lần ngày; giảm còn 110 khi từ 80 tuổi hoặc dùng verapamil; cân nhắc từng ca khi 75 đến 80 tuổi, độ thanh thải 30 đến 50, viêm dạ dày, trào ngược, hoặc nguy cơ chảy máu tăng.",
+    "Edoxaban: 60 mi li gam một lần ngày, giảm còn 30 khi có bất kỳ: độ thanh thải 15 đến 50, cân nặng từ 60 ký trở xuống, hoặc dùng ciclosporin, dronedarone, erythromycin, ketoconazole.",
+    "Rivaroxaban: 20 mi li gam, giảm còn 15 khi độ thanh thải 15 đến 49."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "compare",
+   "chapter": "Mỹ – châu Âu – Việt Nam",
+   "title": "Những chỗ lệch nhau giữa các nhãn thuốc",
+   "ref": "ACC/AHA 2023 · ESC 2024 · EHRA 2021 · VNHA 2022",
+   "head": [
+    "Điểm khác",
+    "Mỹ",
+    "Châu Âu",
+    "Việt Nam"
+   ],
+   "widths": "1.1fr 1.3fr 1.4fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Dabigatran</b> CrCl 15–30",
+      "75 mg × 2 (mô phỏng dược động học)",
+      "Không dùng ở 15–29",
+      "Có hàm lượng 75 mg nhưng liều rung nhĩ là 150/110 mg × 2"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Edoxaban</b> CrCl > 95",
+      "Chống chỉ định",
+      "Chỉ dùng sau đánh giá cẩn thận",
+      "Theo tờ thông tin sản phẩm"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Rivaroxaban 15 mg</b>",
+      "CrCl ≤ 50",
+      "CrCl 15–49",
+      "VNHA: mức lọc 15–49"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Edoxaban</b> hàm lượng",
+      "60 · 30 · 15 mg",
+      "60 · 30 mg",
+      "<em>Chỉ 60 và 30 mg</em>"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bốn chỗ lệch nhau cần biết khi đọc tài liệu nước ngoài. Thứ nhất, dabigatran 75 mi li gam hai lần ngày chỉ có trên nhãn Mỹ cho độ thanh thải 15 đến 30, dựa trên mô phỏng dược động học; châu Âu không dùng dabigatran ở 15 đến 29.",
+    "Thứ hai, edoxaban bị ghi chống chỉ định khi độ thanh thải trên 95 theo nhãn Mỹ; châu Âu cho dùng nhưng chỉ sau khi đánh giá cẩn thận nguy cơ huyết khối và chảy máu.",
+    "Thứ ba, ngưỡng rivaroxaban 15 mi li gam lệch nhau một đơn vị: từ 50 trở xuống ở Mỹ, 15 đến 49 ở châu Âu.",
+    "Thứ tư, theo ghi nhận thực tế, edoxaban lưu hành ở nước ta chỉ có 60 và 30 mi li gam. Nguyên tắc: áp dụng theo tờ thông tin sản phẩm đang lưu hành."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "list",
+   "chapter": "Liều thấp sai chỉ định",
+   "title": "Giảm liều không đủ tiêu chí là có hại",
+   "ref": "ESC 2024 · ACC/AHA 2023 · VNHA 2022",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "ESC 2024 · III B",
+     "d": "Không dùng liều giảm trừ khi đáp ứng tiêu chí riêng của từng thuốc",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "t": "ACC/AHA 2023 · COR 3: có hại",
+     "d": "Tránh liều không dựa trên bằng chứng",
+     "at": 0,
+     "hl": "L0",
+     "c": "coral"
+    },
+    {
+     "t": "Dữ liệu đoàn hệ",
+     "d": "Đột quỵ/thuyên tắc OR 1,21 · chảy máu OR 1,03 · tử vong HR 1,24 ở phân tích gộp khác",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "VNHA 2022",
+     "d": "Tăng đột quỵ/tắc mạch, nhập viện, tử vong mà không giảm xuất huyết",
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Đây là thông điệp quan trọng nhất của phần hai. ESC 2024 xếp việc dùng liều giảm khi không đủ tiêu chí là mức ba B. ACC/AHA 2023 còn mạnh hơn: mức ba, có hại.",
+    "Cơ sở là các phân tích gộp đoàn hệ: liều thấp không phù hợp làm tăng đột quỵ hoặc thuyên tắc, tỉ số chênh 1,21, mà chảy máu không giảm; một phân tích gộp khác thấy tử vong tăng, hát rờ 1,24.",
+    "Khuyến cáo Việt Nam cũng nhấn mạnh giảm liều không đúng chỉ định làm tăng đột quỵ, nhập viện và tử vong. Câu hỏi khi thấy apixaban 2,5 mi li gam trên đơn: bệnh nhân có đủ 2 trong 3 tiêu chí không? Nếu không, đó là liều sai."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "cards",
+   "chapter": "Kháng tiểu cầu",
+   "title": "Không thêm aspirin “cho chắc”",
+   "ref": "ESC 2024",
+   "h": 600,
+   "cards": [
+    {
+     "tag": "III B",
+     "t": "Không thêm kháng tiểu cầu",
+     "d": "vào OAC để dự phòng đột quỵ hay thuyên tắc",
+     "items": [],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "IIa B",
+     "t": "Đột quỵ dù đang dùng OAC",
+     "d": "Tìm nguyên nhân kỹ",
+     "items": [
+      "Nguyên nhân không do tim, yếu tố nguy cơ mạch máu",
+      "Liều có đúng không, có uống đều không"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "III B",
+     "t": "Không đổi thuốc vô cớ",
+     "d": "Không thêm kháng tiểu cầu, không đổi DOAC này sang DOAC khác hay sang VKA khi không có chỉ định rõ",
+     "items": [],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Hai tình huống hay gặp. Thứ nhất, bệnh nhân đang dùng NOAC, bác sĩ thêm aspirin cho chắc. ESC 2024 nói rõ: không thêm kháng tiểu cầu vào thuốc chống đông với mục đích dự phòng đột quỵ, mức ba B.",
+    "Thứ hai, bệnh nhân bị nhồi máu não dù đang dùng NOAC. Trước hết hãy tìm nguyên nhân kỹ: có phải nguyên nhân không do tim không, yếu tố nguy cơ mạch máu đã kiểm soát chưa, và quan trọng nhất trong thực tế, liều có đúng không, bệnh nhân có uống đều không, mức hai a B.",
+    "Không thêm kháng tiểu cầu, và không đổi từ thuốc này sang thuốc khác hay sang thuốc kháng vitamin K khi không có chỉ định rõ, đều là mức ba B."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "list",
+   "chapter": "Checklist",
+   "title": "Bảy bước trước khi kê NOAC",
+   "ref": "Tổng hợp từ ESC 2024 · EHRA 2021 · ESC 2026",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "Có chỉ định?",
+     "d": "CHA2DS2-VA · eGFR < 30: coi nguy cơ cao",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Có chống chỉ định NOAC?",
+     "d": "Van cơ học, hẹp hai lá vừa – nặng, có thai",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Tính CrCl Cockcroft–Gault",
+     "d": "Ghi rõ tuổi, cân nặng thực, creatinin",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "t": "Đúng tiêu chí giảm liều",
+     "d": "Của đúng thuốc đó, không theo cảm tính",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Rà thuốc dùng kèm",
+     "d": "Kháng tiểu cầu, NSAID, P-glycoprotein, CYP3A4",
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "t": "Sửa yếu tố chảy máu",
+     "d": "Huyết áp, rượu, té ngã, INR dao động",
+     "at": 3,
+     "c": "green"
+    },
+    {
+     "t": "Hẹn đánh giá lại",
+     "d": "Mỗi năm · 4 tháng nếu ≥ 75 tuổi · CrCl/10 tháng",
+     "at": 4,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Gói các nguyên tắc vừa rồi thành bảy bước kiểm tra trước khi kê NOAC.",
+    "Một, có chỉ định không, dùng CHA2DS2-VA; nếu mức lọc cầu thận dưới 30 thì coi là nguy cơ cao. Hai, có chống chỉ định NOAC không: van cơ học, hẹp hai lá vừa đến nặng, có thai.",
+    "Ba, tính độ thanh thải theo Cockcroft–Gault, ghi rõ tuổi, cân nặng thực và creatinin vào bệnh án để người sau kiểm tra được. Bốn, đối chiếu tiêu chí giảm liều của đúng thuốc đó.",
+    "Năm, rà thuốc dùng kèm: kháng tiểu cầu còn chỉ định không, thuốc kháng viêm, thuốc ảnh hưởng P-glycoprotein và CYP3A4. Sáu, sửa yếu tố chảy máu.",
+    "Bảy, hẹn đánh giá lại chức năng thận và nguy cơ."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Liều apixaban này đúng chưa?",
+   "ref": "Ca bệnh minh hoạ · ESC 2024, Bảng 11",
+   "case": "Nam <b>82 tuổi</b>, nặng <b>70 kg</b>, creatinin <b>1,2 mg/dL</b>, rung nhĩ CHA2DS2-VA 4. Đang được kê <b>apixaban 2,5 mg × 2</b> “vì lớn tuổi”.",
+   "case_at": 1,
+   "q": "Xử trí liều phù hợp nhất?",
+   "q_at": 2,
+   "options": [
+    "Giữ apixaban 2,5 mg × 2",
+    "Chỉnh lên apixaban 5 mg × 2",
+    "Đổi sang dabigatran 75 mg × 2",
+    "Đổi sang rivaroxaban 20 mg × 1"
+   ],
+   "answer": 1,
+   "answer_at": 4,
+   "countdown": {
+    "after": 3,
+    "s": 8
+   },
+   "explain": "Chỉ có 1/3 tiêu chí (≥ 80 tuổi) → liều chuẩn 5 mg × 2. CrCl ≈ 47 mL/phút: rivaroxaban phải là 15 mg; dabigatran 75 mg chỉ có trên nhãn Mỹ cho CrCl 15–30.",
+   "lines": [
+    "Mời quý vị làm một tình huống.",
+    "Nam 82 tuổi, nặng 70 ký, creatinin 1,2 mi li gam mỗi đề xi lít, rung nhĩ với CHA2DS2-VA bằng 4. Ông đang được kê apixaban 2,5 mi li gam hai lần ngày, lý do ghi trên đơn là vì lớn tuổi.",
+    "Xử trí liều nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là chỉnh lên apixaban 5 mi li gam hai lần ngày. Ông chỉ có 1 trong 3 tiêu chí, là tuổi từ 80; cân nặng trên 60 ký, creatinin dưới 1,5. Độ thanh thải khoảng 47, nên nếu đổi sang rivaroxaban thì phải là 15 mi li gam, còn dabigatran 75 chỉ có trên nhãn Mỹ cho độ thanh thải 15 đến 30. Giữ 2,5 mi li gam chính là liều thấp sai chỉ định."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 2",
+   "title": "Bốn thông điệp của Phần 2",
+   "dense": true,
+   "cols1": 2,
+   "items": [
+    {
+     "t": "NOAC ưu tiên hơn VKA (I A)",
+     "d": "Trừ van cơ học, hẹp hai lá vừa – nặng; già yếu ổn định với VKA có thể giữ (IIb B)",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "t": "Cockcroft–Gault",
+     "d": "Liều theo CrCl, cân nặng thực; tính lại khi có bệnh xen kẽ",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Liều thấp sai: có hại",
+     "d": "ESC III B · ACC/AHA COR 3: có hại",
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "t": "Không thêm aspirin “cho chắc”",
+     "d": "Checklist 7 bước trước mỗi đơn NOAC",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần hai.",
+    "NOAC ưu tiên hơn thuốc kháng vitamin K, trừ van cơ học và hẹp hai lá vừa đến nặng; người già yếu đang ổn định có thể giữ thuốc cũ. Liều tính theo độ thanh thải Cockcroft–Gault với cân nặng thực.",
+    "Giảm liều không đủ tiêu chí là có hại, và không thêm aspirin cho chắc. Phần ba sẽ đi vào các nhóm nguy cơ cao: người già yếu, bệnh thận, bệnh gan, tiền sử chảy máu và bệnh van tim. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "ref": ""
+  }
+ ]
+}

@@ -1,0 +1,984 @@
+{
+ "title": "Rung nhĩ nguy cơ cao – chọn NOAC · Phần 1: Nền tảng và đánh giá nguy cơ",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "Rung nhĩ – NOAC · Phần 1/5",
+ "source_short": "Nguồn: ESC 2024 rung nhĩ · ACC/AHA/ACCP/HRS 2023 · EHRA 2021 · ESC 2026 bệnh thận mạn · ACC 2026 · VNHA 2022 · thử nghiệm gốc",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2024 ESC AF Guidelines; 2023 ACC/AHA/ACCP/HRS AF Guideline; 2021 EHRA Practical Guide on NOACs; 2026 ESC Guidelines CVD and CKD; 2026 ACC Scientific Statement on DOACs; Khuyến cáo VNHA 2022; các thử nghiệm gốc.",
+ "lexicon": {
+  "ENVISAGE-TAVI AF": "en vi dít ta vi",
+  "P-glycoprotein": "pê gờ ly cô prô tê in",
+  "AXADIA-AFNET 8": "a xa đi a ê ép nét tám",
+  "PIONEER AF-PCI": "pai ô nia ê ép",
+  "ENTRUST-AF PCI": "en trớt ê ép",
+  "phenprocoumon": "phen prô cu mon",
+  "CHA2DS2-VASc": "cha đét vi át",
+  "ELDERCARE-AF": "en đơ ke ê ép",
+  "NOAH-AFNET 6": "nô a ê ép nét sáu",
+  "idarucizumab": "i đa ru xi du máp",
+  "Idarucizumab": "I đa ru xi du máp",
+  "RE-DUAL PCI": "ri đu ồ",
+  "PRESTIGE-AF": "prét tích ê ép",
+  "RE-VERSE AD": "ri vớt a đê",
+  "CHAMPION-AF": "chem pi ân ê ép",
+  "rivaroxaban": "ri va rô xa ban",
+  "Rivaroxaban": "Ri va rô xa ban",
+  "clopidogrel": "clô pi đô gren",
+  "CHA2DS2-VA": "cha đét vi a",
+  "CLOSURE-AF": "clô giơ ê ép",
+  "OCEANIC-AF": "ô si a ních ê ép",
+  "dabigatran": "đa bi ga tran",
+  "Dabigatran": "Đa bi ga tran",
+  "asundexian": "a sun đéc xi an",
+  "ROCKET AF": "rốc két ê ép",
+  "ARISTOTLE": "a ri xtốt",
+  "ENGAGE AF": "en gết ê ép",
+  "andexanet": "an đéc xa nét",
+  "Andexanet": "An đéc xa nét",
+  "đơn vị/kg": "đơn vị mỗi ký",
+  "HAS-BLED": "hát bơ lét",
+  "AVERROES": "a ve rô ét",
+  "FRAIL-AF": "phrêu ê ép",
+  "RENAL-AF": "ri nồ ê ép",
+  "AUGUSTUS": "o gớt tớt",
+  "EPIC-CAD": "ê pích cát",
+  "INVICTUS": "in vích tớt",
+  "ANNEXA-I": "a néc xa i",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "Apixaban": "A pi xa ban",
+  "Edoxaban": "E đô xa ban",
+  "AHA/ASA": "a hát a, a ét a",
+  "ACC/AHA": "a xê xê, a hát a",
+  "anti-Xa": "anti xa",
+  "OPTIMAS": "ốp ti mát",
+  "ARTESIA": "a te si a",
+  "mL/phút": "mi li lít mỗi phút",
+  "CYP3A4": "xíp ba a bốn",
+  "TIMING": "tai minh",
+  "µmol/L": "micromol mỗi lít",
+  "P2Y12": "pê hai y mười hai",
+  "NSAID": "thuốc kháng viêm không steroid",
+  "RE-LY": "ri lai",
+  "AFIRE": "a phai a",
+  "RIVER": "ri vơ",
+  "PAUSE": "pót",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "NOAC": "nô ác",
+  "DOAC": "đô ác",
+  "CrCl": "độ thanh thải crê a ti nin",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "aPCC": "pê xê xê hoạt hoá",
+  "aPTT": "a pê tê tê",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "LVEF": "phân suất tống máu thất trái",
+  "ELAN": "e lan",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "VKA": "thuốc kháng vitamin K",
+  "INR": "i en a",
+  "PCI": "can thiệp mạch vành qua da",
+  "ESC": "e ét xê",
+  "ACC": "a xê xê",
+  "AHA": "a hát a",
+  "PCC": "pê xê xê",
+  "UFH": "heparin không phân đoạn",
+  "PPI": "thuốc ức chế bơm proton",
+  "HR": "hát rờ",
+  "mg": "mi li gam",
+  "kg": "ký"
+ },
+ "brand": {
+  "next": "Phần 2: Chọn thuốc và liều"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 1/5",
+   "title": "Rung nhĩ nguy cơ cao:<br>chọn NOAC phù hợp",
+   "subtitle": "Phần 1 · Bằng chứng và đánh giá nguy cơ",
+   "badges": [
+    {
+     "t": "4 thử nghiệm pha 3",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "CHA2DS2-VA",
+     "c": "teal",
+     "at": "L1+2"
+    },
+    {
+     "t": "eGFR < 30",
+     "c": "coral",
+     "at": "L1+4"
+    }
+   ],
+   "note": "ESC 2024 · ACC/AHA 2023 · EHRA 2021 · ESC 2026 · ACC 2026 · VNHA 2022",
+   "note_at": 1,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online, phần một của loạt bài về quản lý bệnh nhân rung nhĩ nguy cơ cao và chiến lược chọn NOAC phù hợp.",
+    "Bệnh nhân rung nhĩ ở hồi sức và tim mạch thường là người già, suy thận, vừa đặt stent, đang chảy máu hoặc đang sốc nhiễm khuẩn: đúng những nhóm mà thử nghiệm then chốt ít đại diện, và cũng là nơi dễ kê sai liều nhất.",
+    "Phần này đi qua bằng chứng nền tảng, dược lý, tương tác thuốc và cách đánh giá nguy cơ huyết khối, chảy máu theo các hướng dẫn mới nhất."
+   ],
+   "ref": ""
+  },
+  {
+   "id": "s02",
+   "layout": "stats",
+   "chapter": "Vì sao cần bàn",
+   "title": "Liều thấp sai chỉ định: cái giá thật",
+   "ref": "Phân tích gộp do ACC/AHA 2023 dẫn · VNHA 2022",
+   "tiles": [
+    {
+     "tag": "ĐỘT QUỴ / THUYÊN TẮC",
+     "v": 1.21,
+     "dec": 2,
+     "pre": "OR ",
+     "l": "Tăng khi dùng liều thấp không phù hợp",
+     "d": "KTC 95% 1,02–1,43",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "CHẢY MÁU",
+     "v": 1.03,
+     "dec": 2,
+     "pre": "OR ",
+     "l": "Không giảm",
+     "d": "KTC 95% 0,92–1,15",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "CHÂU Á",
+     "v": 9,
+     "suf": "/16",
+     "l": "Nghiên cứu trong phân tích gộp",
+     "d": "được làm ở châu Á",
+     "c": "blue",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "VNHA 2022: NOAC có xu hướng bị giảm liều không đúng chỉ định trong thực hành",
+    "at": 3,
+    "c": "coral"
+   },
+   "lines": [
+    "Vì sao cần bàn chủ đề này? Phân tích gộp mà hướng dẫn ACC/AHA 2023 dẫn cho thấy dùng liều NOAC thấp không phù hợp làm tăng đột quỵ hoặc thuyên tắc hệ thống, tỉ số chênh 1,21.",
+    "Trong khi đó chảy máu gần như không đổi, tỉ số chênh 1,03. Tức là giảm liều để cho an toàn hơn thực ra không an toàn hơn.",
+    "Điều đáng chú ý: chín trên mười sáu nghiên cứu trong phân tích gộp đó được làm ở châu Á.",
+    "Khuyến cáo Việt Nam 2022 cũng ghi nhận NOAC có xu hướng bị giảm liều không đúng chỉ định trong thực hành trong nước. Thêm vào đó, những bệnh nhân chúng ta hay gặp nhất, như độ thanh thải dưới 30 hay ung thư đang hoạt động, lại bị loại khỏi phần lớn thử nghiệm."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "box",
+   "chapter": "Ca mở đầu",
+   "title": "Một ca để suy nghĩ suốt loạt bài",
+   "ref": "Ca bệnh minh hoạ",
+   "box": {
+    "tag": "CA MỞ ĐẦU",
+    "t": "Nữ <b>84 tuổi</b>, nặng <b>50 kg</b>, creatinin <b>1,6 mg/dL</b>. Rung nhĩ, tăng huyết áp, đái tháo đường. <em>Vừa đặt stent sau nhồi máu cơ tim không ST chênh lên.</em>",
+    "at": 0,
+    "c": "blue",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "CÂU HỎI 1",
+     "t": "Có chỉ định chống đông không?",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "CÂU HỎI 2",
+     "t": "Thuốc nào, liều bao nhiêu?",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "CÂU HỎI 3",
+     "t": "Phối hợp kháng tiểu cầu ra sao, bao lâu?",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Mời quý đồng nghiệp xem ca này. Một bà cụ 84 tuổi, chỉ nặng 50 ký, creatinin 1,6 mi li gam mỗi đề xi lít. Bà có rung nhĩ, tăng huyết áp, đái tháo đường, và vừa được đặt stent sau nhồi máu cơ tim không ST chênh lên.",
+    "Câu hỏi thứ nhất: có chỉ định chống đông không?",
+    "Câu hỏi thứ hai: chọn thuốc nào, liều bao nhiêu?",
+    "Câu hỏi thứ ba: phối hợp kháng tiểu cầu ra sao, trong bao lâu? Xin quý vị ghi lại lựa chọn của mình. Chúng ta sẽ giải ca này ở cuối phần bốn."
+   ]
+  },
+  {
+   "id": "s04",
+   "layout": "compare",
+   "chapter": "Điểm mới",
+   "title": "Trước đây và hiện nay",
+   "ref": "ESC 2024 · AHA/ASA 2026 · ESC 2026 bệnh thận mạn",
+   "head": [
+    "Trước đây",
+    "Hiện nay",
+    "Căn cứ"
+   ],
+   "widths": "1.2fr 1.7fr 1.1fr",
+   "rows": [
+    {
+     "cells": [
+      "CHA2DS2-VASc (có giới nữ)",
+      "<b>CHA2DS2-VA</b> (ESC 2024); ACC/AHA 2023, VNHA 2022 vẫn dùng VASc",
+      "ESC 2024, Bảng 10"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Chuyển mọi bệnh nhân VKA sang NOAC",
+      "≥ 75 tuổi già yếu, ổn định với VKA, nhiều thuốc: <em>có thể giữ VKA</em>",
+      "FRAIL-AF · IIb B"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Chống đông muộn sau nhồi máu não",
+      "Sớm là hợp lý ở bệnh nhân chọn lọc",
+      "ELAN, OPTIMAS · COR 2a"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Ba thuốc kéo dài sau PCI",
+      "Bỏ aspirin sớm (≤ 1 tuần)",
+      "ESC 2024 · I A"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "OAC + kháng tiểu cầu ở bệnh mạch vành mạn",
+      "OAC đơn trị sau 12 tháng",
+      "AFIRE, EPIC-CAD · III B"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Bệnh thận nặng: tính điểm như thường",
+      "<b>eGFR < 30: không dùng thang điểm</b>, luôn coi nguy cơ cao",
+      "ESC 2026 · III B / III C"
+     ],
+     "at": 3,
+     "hl": "L3",
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Bảng này tóm tắt sáu thay đổi lớn trong khoảng mười năm. Thứ nhất, ESC 2024 bỏ giới nữ khỏi thang điểm, dùng CHA2DS2-VA; ACC/AHA 2023 và khuyến cáo Việt Nam vẫn dùng CHA2DS2-VASc.",
+    "Thứ hai, không còn chuyển máy móc mọi bệnh nhân đang dùng thuốc kháng vitamin K sang NOAC: người già yếu đang ổn định có thể giữ nguyên, dựa trên thử nghiệm FRAIL-AF.",
+    "Ba thay đổi về đột quỵ, PCI và bệnh mạch vành mạn sẽ được bàn kỹ ở phần bốn.",
+    "Và với mức lọc cầu thận dưới 30, hướng dẫn ESC 2026 nói rõ: không dùng các thang điểm hiện có, luôn coi là nguy cơ cao."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "compare",
+   "chapter": "Bằng chứng · thử nghiệm pha 3",
+   "title": "Bốn thử nghiệm pha 3 so với warfarin",
+   "ref": "RE-LY 2009 · ROCKET AF 2011 · ARISTOTLE 2011 · ENGAGE AF 2013",
+   "head": [
+    "Thử nghiệm",
+    "Thuốc",
+    "Đột quỵ / thuyên tắc (%/năm)",
+    "Chảy máu nặng (%/năm)"
+   ],
+   "widths": "1.1fr 1.3fr 1.6fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>RE-LY</b> · 18 113",
+      "Dabigatran 110 / 150 mg × 2",
+      "1,53 / <em>1,11</em> / 1,69 (150 mg vượt trội)",
+      "2,71 / 3,11 / 3,36"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>ROCKET AF</b> · 14 264",
+      "Rivaroxaban 20 mg × 1",
+      "1,7 so với 2,2 (HR 0,79; không kém)",
+      "Nặng + không nặng có ý nghĩa 14,9 so với 14,5"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>ARISTOTLE</b> · 18 201",
+      "Apixaban 5 mg × 2",
+      "1,27 so với 1,60 (HR 0,79; vượt trội)",
+      "<em>2,13 so với 3,09 (HR 0,69)</em>"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "green"
+    },
+    {
+     "cells": [
+      "<b>ENGAGE AF</b> · 21 105",
+      "Edoxaban liều cao / liều thấp",
+      "1,18 / 1,61 / 1,50",
+      "2,75 / 1,61 / 3,43"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bốn thử nghiệm pha 3 so với warfarin. RE-LY năm 2009 với hơn 18 nghìn bệnh nhân: dabigatran 150 mi li gam hai lần ngày vượt trội warfarin về đột quỵ, 1,11 so với 1,69 phần trăm mỗi năm; liều 110 thì ít chảy máu nặng hơn.",
+    "ROCKET AF với rivaroxaban 20 mi li gam một lần ngày trên quần thể nguy cơ cao: không kém warfarin, chảy máu tổng tương đương nhưng giảm xuất huyết nội sọ và chảy máu tử vong.",
+    "ARISTOTLE với apixaban là thử nghiệm duy nhất vượt trội đồng thời về đột quỵ, chảy máu nặng và tử vong: chảy máu nặng 2,13 so với 3,09, hát rờ 0,69.",
+    "ENGAGE AF với edoxaban hai mức liều. Điểm chung của cả bốn: ít nhất không kém warfarin, và đều giảm xuất huyết nội sọ."
+   ]
+  },
+  {
+   "id": "s06",
+   "layout": "bars",
+   "chapter": "Bằng chứng · AVERROES",
+   "title": "Không dùng được VKA: aspirin có thay được không?",
+   "ref": "AVERROES · NEJM 2011",
+   "groups": [
+    {
+     "t": "Đột quỵ / thuyên tắc",
+     "d": "%/năm",
+     "at": 1,
+     "c": "teal",
+     "note": "HR 0,45 · dừng sớm vì lợi ích",
+     "bars": [
+      {
+       "k": "Apixaban 5 mg × 2",
+       "v": 1.6,
+       "lab": "1,6%"
+      },
+      {
+       "k": "Aspirin",
+       "v": 3.7,
+       "lab": "3,7%"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu nặng",
+     "d": "%/năm",
+     "at": 2,
+     "c": "amber",
+     "note": "HR 1,13 (0,74–1,75)",
+     "bars": [
+      {
+       "k": "Apixaban",
+       "v": 1.4,
+       "lab": "1,4%"
+      },
+      {
+       "k": "Aspirin",
+       "v": 1.2,
+       "lab": "1,2%"
+      }
+     ]
+    }
+   ],
+   "max": 4.2,
+   "notes": [
+    {
+     "t": "5599 bệnh nhân không dùng được VKA",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Aspirin 81–324 mg",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Xuất huyết nội sọ: 11 so với 13 ca",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Aspirin không phải phương án an toàn hơn",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "AVERROES trả lời một câu hỏi rất quen thuộc: bệnh nhân không dùng được thuốc kháng vitamin K thì cho aspirin có được không?",
+    "Trên gần 5600 bệnh nhân, apixaban 5 mi li gam hai lần ngày giảm đột quỵ hoặc thuyên tắc hơn một nửa so với aspirin, 1,6 so với 3,7 phần trăm mỗi năm, hát rờ 0,45; thử nghiệm phải dừng sớm vì lợi ích quá rõ.",
+    "Trong khi đó chảy máu nặng không khác có ý nghĩa, 1,4 so với 1,2 phần trăm, và xuất huyết nội sọ là 11 so với 13 ca. Thông điệp: aspirin không phải là phương án an toàn hơn để thay chống đông."
+   ],
+   "notes_w": 560
+  },
+  {
+   "id": "s07",
+   "layout": "bars",
+   "chapter": "Bằng chứng · phân tích gộp",
+   "title": "NOAC so với warfarin: lợi ích và cái giá",
+   "ref": "Ruff và cộng sự · Lancet 2014 · 71 683 bệnh nhân",
+   "groups": [
+    {
+     "t": "Đột quỵ / thuyên tắc",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "NOAC",
+       "v": 0.81,
+       "lab": "RR 0,81"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    },
+    {
+     "t": "Xuất huyết nội sọ",
+     "at": 1,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "NOAC",
+       "v": 0.48,
+       "lab": "RR 0,48"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    },
+    {
+     "t": "Tử vong",
+     "at": 1,
+     "c": "green",
+     "bars": [
+      {
+       "k": "NOAC",
+       "v": 0.9,
+       "lab": "RR 0,90"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu tiêu hoá",
+     "at": 2,
+     "c": "coral",
+     "hl": "L2",
+     "bars": [
+      {
+       "k": "NOAC",
+       "v": 1.25,
+       "lab": "RR 1,25"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    }
+   ],
+   "max": 1.45,
+   "notes": [
+    {
+     "t": "Lợi ích đột quỵ chủ yếu nhờ giảm đột quỵ xuất huyết",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Phác đồ liều thấp: chảy máu ít hơn (0,65) nhưng nhồi máu não nhiều hơn (1,28)",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Phân tích gộp của Ruff trên Lancet 2014 gộp hơn 71 nghìn bệnh nhân của bốn thử nghiệm.",
+    "So với warfarin, NOAC giảm đột quỵ hoặc thuyên tắc 19 phần trăm, nguy cơ tương đối 0,81, chủ yếu nhờ giảm đột quỵ xuất huyết. Xuất huyết nội sọ giảm khoảng một nửa, 0,48, và tử vong mọi nguyên nhân giảm, 0,90.",
+    "Nhưng có một cái giá: chảy máu tiêu hoá tăng 25 phần trăm, nguy cơ tương đối 1,25. Người làm hồi sức cần nhớ điều này, vì xuất huyết tiêu hoá là biến chứng chúng ta gặp nhiều nhất.",
+    "Và các phác đồ liều thấp trong thử nghiệm ít chảy máu hơn nhưng nhồi máu não nhiều hơn, nguy cơ tương đối 1,28. Liều thấp có giá của nó."
+   ],
+   "notes_w": 560
+  },
+  {
+   "id": "s08",
+   "layout": "compare",
+   "chapter": "Dược lý",
+   "title": "Dược lý so sánh bốn NOAC",
+   "ref": "ACC/AHA 2023, Bảng 13",
+   "head": [
+    "Đặc điểm",
+    "Dabigatran",
+    "Rivaroxaban",
+    "Apixaban",
+    "Edoxaban"
+   ],
+   "widths": "1fr 1.1fr 1.1fr 1.1fr 1.1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Cơ chế</b>",
+      "Ức chế thrombin trực tiếp",
+      "Ức chế Xa",
+      "Ức chế Xa",
+      "Ức chế Xa"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>Chuyển hoá</b>",
+      "–",
+      "CYP3A4",
+      "CYP3A4",
+      "CYP3A4 rất ít"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "<b>Thải qua thận</b>",
+      "<em>80%</em>",
+      "66% (EHRA: 35%)",
+      "<em>27%</em>",
+      "50%"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Bán thải</b>",
+      "12–17 giờ",
+      "5–9 giờ",
+      "12 giờ",
+      "10–14 giờ"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>Số lần/ngày</b>",
+      "2",
+      "1, cùng bữa ăn chính",
+      "2",
+      "1"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bảng dược lý lấy từ hướng dẫn ACC/AHA 2023.",
+    "Dòng quan trọng nhất là thải trừ: dabigatran 80 phần trăm qua thận, edoxaban 50 phần trăm, apixaban chỉ 27 phần trăm. Với rivaroxaban, ACC/AHA ghi 66 phần trăm, có lẽ gồm cả chất chuyển hoá; hướng dẫn thực hành của Hội Nhịp tim châu Âu năm 2021 ghi 35 phần trăm.",
+    "Cả bốn thuốc là cơ chất của P-glycoprotein; rivaroxaban và apixaban còn chuyển hoá qua CYP3A4. Đó là cơ sở của tương tác thuốc.",
+    "Một chi tiết thực hành: rivaroxaban phải uống cùng bữa ăn chính, điều dễ quên ở bệnh nhân nhịn ăn hoặc nuôi ăn qua sonde."
+   ]
+  },
+  {
+   "id": "s09",
+   "layout": "stats",
+   "chapter": "Dược lý · thận",
+   "title": "Phụ thuộc thận: thứ tự cần nhớ",
+   "ref": "ACC/AHA 2023 · ACC 2026 · EHRA 2021",
+   "tiles": [
+    {
+     "tag": "DABIGATRAN",
+     "v": 80,
+     "suf": "%",
+     "l": "Tránh khi lọc máu",
+     "d": "Châu Âu: không dùng ở độ thanh thải 15–29",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "EDOXABAN",
+     "v": 50,
+     "suf": "%",
+     "l": "Giảm liều theo thận",
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "RIVAROXABAN",
+     "v": 66,
+     "suf": "%",
+     "l": "EHRA ghi 35%",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "tag": "APIXABAN",
+     "v": 27,
+     "suf": "%",
+     "l": "Ít phụ thuộc thận nhất",
+     "d": "Hay được chọn ở thận nặng, già yếu",
+     "c": "green",
+     "at": 2
+    }
+   ],
+   "cols": 4,
+   "note": {
+    "t": "Cả bốn qua P-glycoprotein → mọi đơn NOAC ở hồi sức cần rà tương tác",
+    "at": 3,
+    "c": "violet"
+   },
+   "lines": [
+    "Từ bảng dược lý, chúng ta rút ra một thứ tự đơn giản để nhớ: phụ thuộc thận nhiều nhất là dabigatran, tiếp theo là edoxaban và rivaroxaban, ít nhất là apixaban.",
+    "Hệ quả thứ nhất: dabigatran nên tránh ở bệnh nhân lọc máu theo ACC 2026, và ở châu Âu không dùng khi độ thanh thải 15 đến 29. Ngược lại, dabigatran là NOAC duy nhất bị lọc máu loại bỏ đáng kể.",
+    "Hệ quả thứ hai: apixaban xuất hiện nhiều nhất trong các khuyến cáo cho bệnh thận nặng, lọc máu và người già yếu.",
+    "Hệ quả thứ ba: vì cả bốn thuốc đi qua P-glycoprotein, mọi đơn thuốc NOAC ở hồi sức cần được rà tương tác, nhất là với amiodarone và thuốc kháng nấm."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "compare",
+   "chapter": "Tương tác thuốc",
+   "title": "Tương tác hay gặp ở hồi sức",
+   "ref": "Vẽ lại theo EHRA 2021, Bảng 5 (rút gọn)",
+   "head": [
+    "Thuốc dùng kèm",
+    "Khuyến cáo với NOAC"
+   ],
+   "widths": "1fr 2.6fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>Amiodarone</b>",
+      "Thận trọng với cả bốn thuốc"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Dronedarone</b>",
+      "Chống chỉ định dabigatran · tránh rivaroxaban · edoxaban 30 mg"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Verapamil</b>",
+      "Dabigatran 110 mg × 2"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "<b>Itraconazole, ketoconazole</b>",
+      "Chống chỉ định dabigatran, apixaban, rivaroxaban · edoxaban 30 mg"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Voriconazole, posaconazole</b>",
+      "Chống chỉ định apixaban, rivaroxaban (theo nhãn)"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>Ritonavir</b> · <b>rifampicin</b>",
+      "Ritonavir: chống chỉ định cả bốn · rifampicin: giảm 35–66% nồng độ"
+     ],
+     "at": 3,
+     "hl": "L3",
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bảng tương tác thuốc của Hội Nhịp tim châu Âu năm 2021 rất dài; ở đây chúng ta rút gọn các thuốc hay gặp nhất ở hồi sức. Amiodarone xếp vào mức thận trọng với cả bốn NOAC.",
+    "Dronedarone chống chỉ định với dabigatran, nên tránh với rivaroxaban, còn edoxaban giảm còn 30 mi li gam. Verapamil thì dabigatran giảm còn 110 mi li gam hai lần ngày.",
+    "Với thuốc kháng nấm nhóm azole, thường gặp ở bệnh nhân nằm hồi sức lâu: itraconazole và ketoconazole chống chỉ định với dabigatran, apixaban, rivaroxaban, còn edoxaban giảm còn 30 mi li gam. Voriconazole và posaconazole chống chỉ định với apixaban và rivaroxaban theo nhãn.",
+    "Ritonavir chống chỉ định với cả bốn thuốc, còn rifampicin làm giảm nồng độ NOAC 35 đến 66 phần trăm. Nguyên tắc chung: không dùng NOAC cùng thuốc ức chế mạnh cả P-glycoprotein và CYP3A4."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "gauge",
+   "chapter": "Đánh giá nguy cơ · CHA2DS2-VA",
+   "title": "CHA2DS2-VA của ca mở đầu",
+   "ref": "ESC 2024, Bảng 10",
+   "max": 8,
+   "chip_cols": 2,
+   "zones": [
+    {
+     "to": 1,
+     "t": "0–1",
+     "c": "amber"
+    },
+    {
+     "to": 8,
+     "t": "≥ 2 · chống đông I C",
+     "c": "coral"
+    }
+   ],
+   "parts": [
+    {
+     "t": "Tuổi ≥ 75",
+     "v": 2,
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Tăng huyết áp",
+     "v": 1,
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Đái tháo đường",
+     "v": 1,
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "t": "Bệnh mạch máu (nhồi máu cơ tim)",
+     "v": 1,
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "verdict": "5 điểm → có chỉ định chống đông (I C)",
+   "verdict_at": 4,
+   "lines": [
+    "Thang điểm CHA2DS2-VA của ESC 2024 chỉ khác thang cũ ở chỗ bỏ giới nữ. Suy tim, tăng huyết áp, đái tháo đường, bệnh mạch máu, tuổi 65 đến 74: mỗi yếu tố 1 điểm; tuổi từ 75 và tiền sử đột quỵ, thiếu máu não thoáng qua hay thuyên tắc: 2 điểm. Áp dụng cho bà cụ của chúng ta.",
+    "Tuổi 84, từ 75 trở lên: 2 điểm.",
+    "Tăng huyết áp 1 điểm, đái tháo đường thêm 1 điểm.",
+    "Vừa nhồi máu cơ tim, tính là bệnh mạch máu: thêm 1 điểm.",
+    "Tổng 5 điểm. Từ 2 điểm trở lên là chỉ dấu nguy cơ huyết khối tắc mạch tăng khi quyết định chống đông, mức một C; bằng 1 thì nên xem là nguy cơ tăng, mức hai a C."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "compare",
+   "chapter": "Đánh giá nguy cơ · ba hướng dẫn",
+   "title": "ESC – ACC/AHA – Việt Nam",
+   "ref": "ESC 2024 · ACC/AHA 2023 · VNHA 2022",
+   "head": [
+    "Hướng dẫn",
+    "Thang điểm",
+    "Khuyến cáo chống đông",
+    "Nguy cơ trung gian"
+   ],
+   "widths": "0.9fr 1.2fr 1.5fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>ESC 2024</b>",
+      "CHA2DS2-VA",
+      "≥ 2 điểm · I C",
+      "1 điểm · IIa C"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>VNHA 2022</b>",
+      "CHA2DS2-VASc",
+      "Nam ≥ 2, nữ ≥ 3 · I A",
+      "Nam 1, nữ 2 · IIa B"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>ACC/AHA 2023</b>",
+      "CHA2DS2-VASc quy ra nguy cơ/năm",
+      "≥ 2%/năm · COR 1, LOE A",
+      "1 – < 2%/năm · COR 2a, LOE A"
+     ],
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "So sánh ba hướng dẫn hay dùng. ESC 2024 dùng CHA2DS2-VA, ngưỡng 2 điểm.",
+    "Khuyến cáo Việt Nam 2022 và ACC/AHA 2023 vẫn dùng CHA2DS2-VASc, ngưỡng nam từ 2, nữ từ 3. Các ngưỡng thực chất tương đương, vì giới nữ chỉ cộng thêm 1 điểm; khác nhau ở mức chứng cứ: Việt Nam xếp một A, châu Âu một C.",
+    "ACC/AHA 2023 quy đổi sang nguy cơ huyết khối hằng năm: từ 2 phần trăm mỗi năm trở lên là khuyến cáo chống đông, từ 1 đến dưới 2 phần trăm là hợp lý. Cả ba hướng dẫn đều ưu tiên NOAC hơn thuốc kháng vitamin K."
+   ]
+  },
+  {
+   "id": "s13",
+   "layout": "cards",
+   "chapter": "Đánh giá nguy cơ · chảy máu",
+   "title": "Điểm chảy máu: để sửa, không để bỏ",
+   "ref": "ESC 2024 · EHRA 2021",
+   "h": 620,
+   "cards": [
+    {
+     "tag": "ESC 2024 · I B",
+     "t": "Sửa yếu tố thay đổi được",
+     "d": "Ở mọi bệnh nhân đủ điều kiện chống đông",
+     "items": [
+      "Một phần của quyết định cùng người bệnh"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "ESC 2024 · III B",
+     "t": "Không dùng thang điểm chảy máu",
+     "d": "để khởi động hay ngừng chống đông",
+     "items": [
+      "Tránh dùng thuốc dưới mức cần thiết"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "coral"
+    },
+    {
+     "tag": "EHRA 2021",
+     "t": "Rà ở mỗi lần khám",
+     "d": "Huyết áp tâm thu > 160 mmHg",
+     "items": [
+      "Aspirin, NSAID không cần thiết",
+      "INR dao động (nếu dùng VKA)",
+      "Rượu · té ngã"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Nguy cơ chảy máu là chỗ thực hành hay lệch nhất. ESC 2024 có hai khuyến cáo đi cùng nhau. Một: đánh giá và xử trí các yếu tố nguy cơ chảy máu thay đổi được ở mọi bệnh nhân đủ điều kiện chống đông, mức một B.",
+    "Hai: không dùng thang điểm chảy máu để quyết định khởi động hay ngừng chống đông, mức ba B, nhằm tránh dùng thuốc dưới mức cần thiết.",
+    "Vậy điểm HAS-BLED cao để làm gì? Để biết bệnh nhân cần theo dõi sát hơn và có những việc cần sửa: huyết áp tâm thu trên 160, aspirin hay thuốc kháng viêm không cần thiết, INR dao động, rượu và nguy cơ té ngã."
+   ]
+  },
+  {
+   "id": "s14",
+   "layout": "box",
+   "chapter": "Đánh giá nguy cơ · thận nặng",
+   "title": "eGFR dưới 30: bỏ thang điểm",
+   "ref": "ESC 2026 bệnh tim mạch và bệnh thận mạn",
+   "box": {
+    "tag": "ESC 2026 · III B / III C",
+    "t": "Khi <b>eGFR < 30 mL/phút/1,73 m²</b>: không dùng các thang điểm nguy cơ đột quỵ (III B) và chảy máu (III C) hiện có, kể cả thang có thông số thận.",
+    "at": 0,
+    "c": "coral",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "LÝ DO",
+     "t": "CHADS2, CHA2DS2-VASc, CHA2DS2-VA: c-statistic chỉ 0,49–0,68",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "VÌ SAO KÉM",
+     "t": "Nhóm này bị loại khi xây dựng thang điểm",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "THỰC HÀNH",
+     "t": "Bệnh thận mạn nặng luôn được coi là nguy cơ đột quỵ thiếu máu cao",
+     "at": 2,
+     "hl": "L2",
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Điểm mới từ hướng dẫn ESC 2026 về bệnh tim mạch và bệnh thận mạn: khi mức lọc cầu thận dưới 30, không khuyến cáo dùng các thang điểm nguy cơ đột quỵ hiện có, mức ba B, và cũng không dùng các thang điểm chảy máu hiện có, mức ba C, kể cả những thang có thông số chức năng thận.",
+    "Lý do: ở nhóm này, khả năng phân biệt của CHADS2, CHA2DS2-VASc và CHA2DS2-VA chỉ khoảng 0,49 đến 0,68, gần như tung đồng xu, một phần vì nhóm này bị loại khi xây dựng thang.",
+    "Kết luận thực hành: bệnh nhân bệnh thận mạn nặng luôn được xem là có nguy cơ đột quỵ thiếu máu cao."
+   ]
+  },
+  {
+   "id": "s15",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 1",
+   "title": "Năm thông điệp của Phần 1",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Bằng chứng",
+     "d": "Cả bốn NOAC không kém warfarin, giảm xuất huyết nội sọ; chảy máu tiêu hoá tăng (RR 1,25)",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Aspirin không thay OAC",
+     "d": "AVERROES: đột quỵ giảm hơn một nửa, chảy máu không khác",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Thận và tương tác",
+     "d": "Dabigatran 80% → apixaban 27% · rà P-glycoprotein, CYP3A4",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "CHA2DS2-VA",
+     "d": "≥ 2: I C · = 1: IIa C · eGFR < 30: luôn nguy cơ cao",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Chảy máu",
+     "d": "Sửa yếu tố (I B), không dùng điểm để bỏ chống đông (III B)",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần một.",
+    "Cả bốn NOAC ít nhất không kém warfarin và đều giảm xuất huyết nội sọ, nhưng tăng chảy máu tiêu hoá. Aspirin không phải phương án an toàn hơn để thay chống đông.",
+    "Thứ tự phụ thuộc thận từ dabigatran đến apixaban, và mọi đơn NOAC cần rà tương tác. Chỉ định chống đông theo CHA2DS2-VA; với mức lọc cầu thận dưới 30, luôn coi là nguy cơ cao.",
+    "Điểm chảy máu dùng để sửa yếu tố nguy cơ, không phải để bỏ chống đông. Phần hai sẽ đi vào chọn thuốc và liều. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "ref": ""
+  }
+ ]
+}

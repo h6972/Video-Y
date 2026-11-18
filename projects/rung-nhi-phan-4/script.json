@@ -1,0 +1,721 @@
+{
+ "title": "Rung nhĩ nguy cơ cao – chọn NOAC · Phần 4: Mạch vành, đột quỵ, ung thư",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Bài giảng chuyên đề Tim mạch – Hồi sức",
+ "part": "Rung nhĩ – NOAC · Phần 4/5",
+ "source_short": "Nguồn: ESC 2024 rung nhĩ · ACC/AHA/ACCP/HRS 2023 · EHRA 2021 · ESC 2026 bệnh thận mạn · ACC 2026 · VNHA 2022 · thử nghiệm gốc",
+ "sign": "Thư Viện Y Khoa Online",
+ "source": "2024 ESC AF Guidelines; 2023 ACC/AHA/ACCP/HRS AF Guideline; 2021 EHRA Practical Guide on NOACs; 2026 ESC Guidelines CVD and CKD; 2026 ACC Scientific Statement on DOACs; Khuyến cáo VNHA 2022; các thử nghiệm gốc.",
+ "lexicon": {
+  "ENVISAGE-TAVI AF": "en vi dít ta vi",
+  "P-glycoprotein": "pê gờ ly cô prô tê in",
+  "AXADIA-AFNET 8": "a xa đi a ê ép nét tám",
+  "PIONEER AF-PCI": "pai ô nia ê ép",
+  "ENTRUST-AF PCI": "en trớt ê ép",
+  "phenprocoumon": "phen prô cu mon",
+  "CHA2DS2-VASc": "cha đét vi át",
+  "ELDERCARE-AF": "en đơ ke ê ép",
+  "NOAH-AFNET 6": "nô a ê ép nét sáu",
+  "idarucizumab": "i đa ru xi du máp",
+  "Idarucizumab": "I đa ru xi du máp",
+  "RE-DUAL PCI": "ri đu ồ",
+  "PRESTIGE-AF": "prét tích ê ép",
+  "RE-VERSE AD": "ri vớt a đê",
+  "CHAMPION-AF": "chem pi ân ê ép",
+  "rivaroxaban": "ri va rô xa ban",
+  "Rivaroxaban": "Ri va rô xa ban",
+  "clopidogrel": "clô pi đô gren",
+  "CHA2DS2-VA": "cha đét vi a",
+  "CLOSURE-AF": "clô giơ ê ép",
+  "OCEANIC-AF": "ô si a ních ê ép",
+  "dabigatran": "đa bi ga tran",
+  "Dabigatran": "Đa bi ga tran",
+  "asundexian": "a sun đéc xi an",
+  "ROCKET AF": "rốc két ê ép",
+  "ARISTOTLE": "a ri xtốt",
+  "ENGAGE AF": "en gết ê ép",
+  "andexanet": "an đéc xa nét",
+  "Andexanet": "An đéc xa nét",
+  "đơn vị/kg": "đơn vị mỗi ký",
+  "HAS-BLED": "hát bơ lét",
+  "AVERROES": "a ve rô ét",
+  "FRAIL-AF": "phrêu ê ép",
+  "RENAL-AF": "ri nồ ê ép",
+  "AUGUSTUS": "o gớt tớt",
+  "EPIC-CAD": "ê pích cát",
+  "INVICTUS": "in vích tớt",
+  "ANNEXA-I": "a néc xa i",
+  "apixaban": "a pi xa ban",
+  "edoxaban": "e đô xa ban",
+  "Apixaban": "A pi xa ban",
+  "Edoxaban": "E đô xa ban",
+  "AHA/ASA": "a hát a, a ét a",
+  "ACC/AHA": "a xê xê, a hát a",
+  "anti-Xa": "anti xa",
+  "OPTIMAS": "ốp ti mát",
+  "ARTESIA": "a te si a",
+  "mL/phút": "mi li lít mỗi phút",
+  "CYP3A4": "xíp ba a bốn",
+  "TIMING": "tai minh",
+  "µmol/L": "micromol mỗi lít",
+  "P2Y12": "pê hai y mười hai",
+  "NSAID": "thuốc kháng viêm không steroid",
+  "RE-LY": "ri lai",
+  "AFIRE": "a phai a",
+  "RIVER": "ri vơ",
+  "PAUSE": "pót",
+  "mg/dL": "mi li gam mỗi đề xi lít",
+  "NOAC": "nô ác",
+  "DOAC": "đô ác",
+  "CrCl": "độ thanh thải crê a ti nin",
+  "eGFR": "mức lọc cầu thận ước tính",
+  "aPCC": "pê xê xê hoạt hoá",
+  "aPTT": "a pê tê tê",
+  "TAVI": "thay van động mạch chủ qua ống thông",
+  "LVEF": "phân suất tống máu thất trái",
+  "ELAN": "e lan",
+  "g/dL": "gam mỗi đề xi lít",
+  "mmHg": "mi li mét thuỷ ngân",
+  "VKA": "thuốc kháng vitamin K",
+  "INR": "i en a",
+  "PCI": "can thiệp mạch vành qua da",
+  "ESC": "e ét xê",
+  "ACC": "a xê xê",
+  "AHA": "a hát a",
+  "PCC": "pê xê xê",
+  "UFH": "heparin không phân đoạn",
+  "PPI": "thuốc ức chế bơm proton",
+  "HR": "hát rờ",
+  "mg": "mi li gam",
+  "kg": "ký"
+ },
+ "brand": {
+  "next": "Phần 5: Thủ thuật, chảy máu và góc hồi sức"
+ },
+ "scenes": [
+  {
+   "id": "s01",
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "art": "heart",
+   "kicker": "Loạt bài giảng chuyên đề · Phần 4/5",
+   "title": "Nhóm nguy cơ cao (2):<br>mạch vành, đột quỵ, ung thư",
+   "subtitle": "Phần 4 · Sau PCI, sau đột quỵ, ung thư",
+   "badges": [
+    {
+     "t": "Bỏ aspirin ≤ 1 tuần",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "OAC sớm sau đột quỵ",
+     "c": "blue",
+     "at": "L1+2"
+    },
+    {
+     "t": "Giải ca mở đầu",
+     "c": "teal",
+     "at": 2
+    }
+   ],
+   "note": "ESC 2024 · ACC/AHA 2023 · EHRA 2021 · ESC 2026 · ACC 2026 · VNHA 2022",
+   "note_at": 1,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online, phần bốn của loạt bài về rung nhĩ nguy cơ cao và chọn NOAC.",
+    "Phần này bàn các nhóm có thay đổi nhiều nhất trong vài năm qua: bệnh nhân vừa đặt stent, bệnh mạch vành mạn, sau nhồi máu não, sau xuất huyết nội sọ, rung nhĩ dưới lâm sàng và ung thư.",
+    "Cuối phần, chúng ta giải ca bà cụ 84 tuổi từ phần một."
+   ],
+   "ref": ""
+  },
+  {
+   "id": "s02",
+   "layout": "compare",
+   "chapter": "Sau PCI · bốn thử nghiệm",
+   "title": "Rung nhĩ vừa đặt stent",
+   "ref": "PIONEER AF-PCI 2016 · RE-DUAL PCI 2017 · AUGUSTUS 2019 · ENTRUST-AF PCI 2019",
+   "head": [
+    "Thử nghiệm",
+    "Phác đồ NOAC",
+    "Chảy máu",
+    "Thiếu máu cục bộ"
+   ],
+   "widths": "1.1fr 1.7fr 1.6fr 1.1fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>PIONEER AF-PCI</b> · 2124",
+      "Rivaroxaban 15 mg (10 mg nếu CrCl 30–50) + P2Y12",
+      "16,8% so với 26,7% (HR 0,59)",
+      "Không khác (KTC rộng)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>RE-DUAL PCI</b> · 2725",
+      "Dabigatran 110/150 mg × 2 + P2Y12, không aspirin",
+      "110 mg HR 0,52 · 150 mg HR 0,72",
+      "Gộp HR 1,04 (không kém)"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>AUGUSTUS</b> · 4614",
+      "Apixaban so với VKA · aspirin so với giả dược",
+      "Apixaban HR 0,69 · <em>aspirin HR 1,89</em>",
+      "Tương tự"
+     ],
+     "at": 2,
+     "hl": "L2",
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "<b>ENTRUST-AF PCI</b> · 1506",
+      "Edoxaban 60 mg (30 mg theo tiêu chí) + P2Y12",
+      "17% so với 20% (HR 0,83; không kém)",
+      "Không khác có ý nghĩa"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Bệnh nhân rung nhĩ vừa đặt stent là tình huống gặp hằng tuần. Bốn thử nghiệm, mỗi thử nghiệm một NOAC. PIONEER AF-PCI với rivaroxaban 15 mi li gam, giảm còn 10 nếu độ thanh thải 30 đến 50, kèm thuốc ức chế P2Y12: chảy máu có ý nghĩa lâm sàng giảm từ 26,7 xuống 16,8 phần trăm so với thuốc kháng vitamin K cộng hai kháng tiểu cầu.",
+    "RE-DUAL PCI với dabigatran không kèm aspirin: chảy máu giảm với cả hai liều, thiếu máu cục bộ gộp không kém.",
+    "AUGUSTUS là thử nghiệm giai thừa hai nhân hai, cho câu trả lời rõ nhất, chúng ta xem ở cảnh tiếp theo.",
+    "ENTRUST-AF PCI với edoxaban: chảy máu 17 so với 20 phần trăm, không kém."
+   ]
+  },
+  {
+   "id": "s03",
+   "layout": "bars",
+   "chapter": "Sau PCI · AUGUSTUS",
+   "title": "Aspirin làm tăng chảy máu gần gấp đôi",
+   "ref": "AUGUSTUS · NEJM 2019 · 4614 bệnh nhân",
+   "groups": [
+    {
+     "t": "Apixaban so với VKA",
+     "d": "Chảy máu nặng hoặc có ý nghĩa",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Apixaban",
+       "v": 0.69,
+       "lab": "HR 0,69"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    },
+    {
+     "t": "Aspirin so với giả dược",
+     "d": "Chảy máu nặng hoặc có ý nghĩa",
+     "at": 1,
+     "c": "coral",
+     "hl": "L1",
+     "bars": [
+      {
+       "k": "Aspirin",
+       "v": 1.89,
+       "lab": "HR 1,89"
+      },
+      {
+       "k": "Mốc 1,0",
+       "v": 1.0,
+       "lab": "1,0"
+      }
+     ]
+    }
+   ],
+   "max": 2.1,
+   "notes": [
+    {
+     "t": "Thiết kế giai thừa 2 × 2",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Thiếu máu cục bộ tương tự giữa các nhóm",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Thông điệp: NOAC thay VKA, bỏ aspirin sớm",
+     "at": 1,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "AUGUSTUS so sánh cùng lúc hai câu hỏi. Thứ nhất, apixaban so với thuốc kháng vitamin K: apixaban ít chảy máu hơn, hát rờ 0,69.",
+    "Thứ hai, aspirin so với giả dược trên nền chống đông và thuốc ức chế P2Y12: aspirin làm tăng chảy máu gần gấp đôi, hát rờ 1,89, trong khi thiếu máu cục bộ tương tự. Thông điệp chung của bốn thử nghiệm: NOAC thay thuốc kháng vitamin K, và bỏ aspirin sớm."
+   ],
+   "notes_w": 560
+  },
+  {
+   "id": "s04",
+   "layout": "timeline",
+   "chapter": "Sau PCI · phác đồ",
+   "title": "Sau PCI: phác đồ theo thời gian",
+   "ref": "ESC 2024 · VNHA 2022",
+   "events": [
+    {
+     "year": "Ngày PCI",
+     "t": "Ba thuốc",
+     "d": "OAC (ưu tiên DOAC) + aspirin + P2Y12 (ưu tiên clopidogrel)",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "year": "≤ 1 tuần",
+     "t": "Bỏ aspirin · I A",
+     "d": "Ba thuốc ≤ 1 tháng chỉ khi nguy cơ huyết khối trội (IIa)",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "year": "6–12 tháng",
+     "t": "Hai thuốc · I A",
+     "d": "OAC + clopidogrel: 12 tháng sau HCVC, 6 tháng sau PCI chương trình",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "year": "> 12 tháng",
+     "t": "OAC đơn trị",
+     "d": "Kháng tiểu cầu quá 12 tháng: III B",
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "note": {
+    "t": "Lo chảy máu hơn huyết khối: rivaroxaban 15 mg, dabigatran 110 mg khi phối hợp · IIa B",
+    "at": 4,
+    "c": "coral"
+   },
+   "lines": [
+    "Phác đồ theo thời gian của ESC 2024, được khuyến cáo Việt Nam 2022 thống nhất. Ngày can thiệp: ba thuốc, gồm chống đông, ưu tiên NOAC, aspirin và thuốc ức chế P2Y12, ưu tiên clopidogrel.",
+    "Trong vòng một tuần: ngừng aspirin, mức một A. Chỉ kéo dài ba thuốc quá một tuần, tối đa một tháng, khi nguy cơ huyết khối trội hơn chảy máu, mức hai a.",
+    "Tiếp theo là hai thuốc: chống đông cộng clopidogrel đến 12 tháng sau hội chứng vành cấp, hoặc đến 6 tháng sau can thiệp chương trình.",
+    "Sau 12 tháng: chống đông đơn trị; kháng tiểu cầu quá 12 tháng là mức ba B.",
+    "Về liều: nếu lo chảy máu hơn lo huyết khối trong stent, ESC cho phép rivaroxaban 15 mi li gam hoặc dabigatran 110 mi li gam khi phối hợp, mức hai a B."
+   ]
+  },
+  {
+   "id": "s05",
+   "layout": "bars",
+   "chapter": "Bệnh mạch vành mạn",
+   "title": "Mạch vành mạn: chống đông đơn trị",
+   "ref": "EPIC-CAD · NEJM 2024 · AFIRE · NEJM 2019",
+   "groups": [
+    {
+     "t": "EPIC-CAD · kết cục gộp 12 tháng",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Edoxaban đơn trị",
+       "v": 6.8,
+       "lab": "6,8%"
+      },
+      {
+       "k": "+ 1 kháng tiểu cầu",
+       "v": 16.2,
+       "lab": "16,2%"
+      }
+     ],
+     "note": "HR 0,44"
+    },
+    {
+     "t": "EPIC-CAD · chảy máu",
+     "at": 0,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Edoxaban đơn trị",
+       "v": 4.7,
+       "lab": "4,7%"
+      },
+      {
+       "k": "+ 1 kháng tiểu cầu",
+       "v": 14.2,
+       "lab": "14,2%"
+      }
+     ],
+     "note": "HR 0,34"
+    }
+   ],
+   "max": 18,
+   "notes": [
+    {
+     "t": "AFIRE (rivaroxaban): dừng sớm vì tử vong tăng ở nhóm phối hợp",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "AFIRE: chảy máu nặng 1,62% so với 2,76%/năm",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Thiếu máu cục bộ tương tự",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "t": "ESC 2024: kháng tiểu cầu > 12 tháng · III B",
+     "at": 1,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Với bệnh mạch vành mạn, tức trên 12 tháng sau tái thông hoặc không cần tái thông, có hai thử nghiệm ở châu Á. EPIC-CAD ở Hàn Quốc năm 2024 với edoxaban: đơn trị giảm kết cục gộp từ 16,2 xuống 6,8 phần trăm, chủ yếu nhờ chảy máu giảm từ 14,2 xuống 4,7 phần trăm, trong khi thiếu máu cục bộ tương tự.",
+    "AFIRE ở Nhật với rivaroxaban phải dừng sớm vì tử vong tăng ở nhóm phối hợp; đơn trị không kém về hiệu quả và vượt trội về chảy máu nặng, 1,62 so với 2,76 phần trăm mỗi năm. Vì vậy ESC 2024 xếp kháng tiểu cầu kéo dài quá 12 tháng là mức ba B."
+   ],
+   "notes_w": 560
+  },
+  {
+   "id": "s06",
+   "layout": "compare",
+   "chapter": "Sau nhồi máu não",
+   "title": "Bắt đầu chống đông khi nào?",
+   "ref": "ELAN 2023 · OPTIMAS 2024 · TIMING",
+   "head": [
+    "Thử nghiệm",
+    "Sớm",
+    "Muộn",
+    "Kết quả"
+   ],
+   "widths": "0.9fr 1.5fr 1.1fr 1.9fr",
+   "rows": [
+    {
+     "cells": [
+      "<b>ELAN</b>",
+      "≤ 48 giờ (nhẹ/vừa) · ngày 6–7 (nặng)",
+      "Ngày 3–4 / 6–7 / 12–14",
+      "Sớm thấp hơn về số, không có ý nghĩa"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "<b>OPTIMAS</b>",
+      "≤ 4 ngày",
+      "7–14 ngày",
+      "3,3% so với 3,3% – không kém · XHNS có triệu chứng 0,6% so với 0,7%"
+     ],
+     "at": 1,
+     "hl": "L1",
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "<b>TIMING</b>",
+      "≤ 4 ngày",
+      "5–10 ngày",
+      "6,9% so với 8,7% – không kém"
+     ],
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Sau nhồi máu não do rung nhĩ, câu hỏi muôn thuở là bắt đầu chống đông khi nào. ELAN định nghĩa sớm là trong 48 giờ với đột quỵ nhẹ hoặc vừa, ngày 6 đến 7 với đột quỵ nặng. Nhóm sớm có kết cục gộp thấp hơn về số, nhưng không có ý nghĩa thống kê.",
+    "OPTIMAS ở Anh: NOAC trong 4 ngày không kém NOAC ở ngày 7 đến 14, kết cục chính 3,3 phần trăm ở cả hai nhóm, xuất huyết nội sọ có triệu chứng rất thấp. Lưu ý bệnh nhân chỉ được đưa vào khi bác sĩ không chắc về thời điểm tối ưu.",
+    "TIMING cũng cho thấy chiến lược sớm không kém. Thông điệp: bắt đầu sớm an toàn ở bệnh nhân chọn lọc, không cần chờ đợi máy móc."
+   ]
+  },
+  {
+   "id": "s07",
+   "layout": "box",
+   "chapter": "Sau nhồi máu não · AHA/ASA 2026",
+   "title": "Hai khuyến cáo tưởng mâu thuẫn",
+   "ref": "AHA/ASA 2026 nhồi máu não cấp",
+   "box": {
+    "tag": "COR 2a · LOE A",
+    "t": "Nhồi máu não cấp có rung nhĩ <b>được chọn lọc kỹ</b> (ví dụ mức độ nhẹ hơn): chống đông sớm có nguy cơ thấp và <b>hợp lý</b> so với bắt đầu muộn.",
+    "at": 0,
+    "c": "teal",
+    "size": 31
+   },
+   "notes": [
+    {
+     "tag": "COR 3 · KHÔNG LỢI ÍCH",
+     "t": "Chống đông sớm trong 48 giờ cho nhồi máu não nói chung: không khuyến cáo",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "ĐỌC ĐÚNG",
+     "t": "Hai khuyến cáo nói về hai quần thể khác nhau",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "CHUYỂN DẠNG XUẤT HUYẾT",
+     "t": "Có thể bắt đầu hoặc tiếp tục tuỳ tình huống · COR 2b",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hướng dẫn AHA/ASA 2026 có hai khuyến cáo nhìn qua như mâu thuẫn. Khuyến cáo thứ nhất, mức hai a, chứng cứ A: ở bệnh nhân nhồi máu não có rung nhĩ được chọn lọc kỹ, ví dụ mức độ nhẹ hơn, chống đông sớm có nguy cơ thấp và hợp lý so với bắt đầu muộn.",
+    "Khuyến cáo khác ở mức ba, không lợi ích: chống đông sớm trong 48 giờ không được khuyến cáo.",
+    "Đọc kỹ thì khuyến cáo mức ba nói về nhồi máu não nói chung, không phải riêng rung nhĩ được chọn lọc, nên không mâu thuẫn. Các mốc 48 giờ hay ngày 6 đến 7 là định nghĩa của thử nghiệm ELAN, không phải nội dung khuyến cáo.",
+    "Với chuyển dạng xuất huyết, có thể bắt đầu hoặc tiếp tục chống đông tuỳ tình huống và chỉ định nền, mức hai b."
+   ]
+  },
+  {
+   "id": "s08",
+   "layout": "bars",
+   "chapter": "Sau xuất huyết nội sọ",
+   "title": "Dùng lại chống đông sau xuất huyết não",
+   "ref": "PRESTIGE-AF · Lancet 2025 · 319 bệnh nhân",
+   "groups": [
+    {
+     "t": "Nhồi máu não",
+     "d": "/100 bệnh nhân-năm",
+     "at": 1,
+     "c": "teal",
+     "note": "HR 0,05",
+     "bars": [
+      {
+       "k": "DOAC",
+       "v": 0.83,
+       "lab": "0,83"
+      },
+      {
+       "k": "Không chống đông",
+       "v": 8.6,
+       "lab": "8,60"
+      }
+     ]
+    },
+    {
+     "t": "Xuất huyết não tái phát",
+     "d": "/100 bệnh nhân-năm",
+     "at": 2,
+     "c": "coral",
+     "note": "Không đạt tiêu chí không kém",
+     "bars": [
+      {
+       "k": "DOAC",
+       "v": 5.0,
+       "lab": "5,00"
+      },
+      {
+       "k": "Không chống đông",
+       "v": 0.82,
+       "lab": "0,82"
+      }
+     ]
+    }
+   ],
+   "max": 9.5,
+   "notes": [
+    {
+     "t": "ACC 2026: phần lớn chờ 4–8 tuần là thận trọng",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Bệnh mạch máu dạng bột ở não: nguy cơ cao → cân nhắc bít tiểu nhĩ trái",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "VNHA 2022: bít tiểu nhĩ trái · IIb B",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Sau xuất huyết nội sọ là quyết định khó nhất. PRESTIGE-AF tuyển bệnh nhân xuất huyết não tự phát còn khả năng tự lập tương đối, tuổi trung vị 79.",
+    "NOAC giảm nhồi máu não rất mạnh, từ 8,60 xuống 0,83 trên 100 bệnh nhân-năm, hát rờ 0,05.",
+    "Nhưng thử nghiệm không đạt tiêu chí không kém về xuất huyết não tái phát: 5,00 so với 0,82 trên 100 bệnh nhân-năm.",
+    "ACC 2026 tóm tắt: dùng lại chống đông giảm biến cố thiếu máu nhưng tăng xuất huyết nội sọ tái phát; với phần lớn bệnh nhân, chờ 4 đến 8 tuần là thận trọng. Nếu không thể chống đông lâu dài, ví dụ có bệnh mạch máu dạng bột ở não, thì cân nhắc bít tiểu nhĩ trái."
+   ],
+   "notes_w": 560
+  },
+  {
+   "id": "s09",
+   "layout": "cards",
+   "chapter": "Rung nhĩ dưới lâm sàng · ung thư",
+   "title": "Rung nhĩ dưới lâm sàng và ung thư",
+   "ref": "ARTESIA 2024 · NOAH-AFNET 6 2023 · ESC 2024 · EHRA 2021",
+   "h": 640,
+   "cards": [
+    {
+     "tag": "ARTESIA · 4012 BN",
+     "t": "Apixaban so với aspirin",
+     "d": "Đột quỵ/thuyên tắc HR 0,63",
+     "items": [
+      "Chảy máu nặng HR 1,36"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "NOAH-AFNET 6 · 2536 BN",
+     "t": "Edoxaban so với giả dược",
+     "d": "Kết cục gộp không giảm (HR 0,81)",
+     "items": [
+      "Tử vong hoặc chảy máu nặng HR 1,31",
+      "→ ESC 2024: cân nhắc DOAC · IIb B"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "UNG THƯ · EHRA",
+     "t": "DOAC an toàn hơn VKA",
+     "d": "Hoá, xạ trị ức chế tuỷ: giảm tạm hoặc ngừng theo tiểu cầu, thận, gan",
+     "items": [
+      "Bảo vệ dạ dày bằng PPI hoặc kháng H2",
+      "Ung thư tiêu hoá: edoxaban, rivaroxaban có xu hướng chảy máu nhiều hơn"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Rung nhĩ dưới lâm sàng là những cơn ngắn phát hiện qua máy tạo nhịp hay thiết bị theo dõi. ARTESIA so sánh apixaban với aspirin trên hơn 4000 bệnh nhân: giảm đột quỵ hoặc thuyên tắc, hát rờ 0,63, nhưng tăng chảy máu nặng, hát rờ 1,36.",
+    "NOAH-AFNET 6 so sánh edoxaban với giả dược, dừng sớm, không giảm kết cục gộp và tăng tử vong hoặc chảy máu nặng. Vì vậy ESC 2024 chỉ xếp mức hai b B: có thể cân nhắc NOAC khi nguy cơ huyết khối tăng, trừ người nguy cơ chảy máu cao.",
+    "Với ung thư, mọi loại ung thư đều tăng nguy cơ rung nhĩ. NOAC hiệu quả tương tự và an toàn hơn thuốc kháng vitamin K. Khi hoá trị hay xạ trị ức chế tuỷ, cân nhắc giảm liều tạm hoặc ngừng dựa trên tiểu cầu, chức năng thận, gan; bảo vệ dạ dày bằng thuốc ức chế bơm proton hoặc kháng H2. Với ung thư đường tiêu hoá, edoxaban và rivaroxaban có xu hướng chảy máu nhiều hơn."
+   ]
+  },
+  {
+   "id": "s10",
+   "layout": "quiz",
+   "chapter": "Giải ca mở đầu",
+   "title": "Quay lại bà cụ 84 tuổi",
+   "ref": "Ca bệnh minh hoạ · ESC 2024 · ESC 2026",
+   "case": "Nữ <b>84 tuổi, 50 kg, creatinin 1,6 mg/dL</b> · CHA2DS2-VA 5 · CrCl ≈ 21 mL/phút · <b>vừa đặt stent sau NSTEMI</b>.",
+   "case_at": 0,
+   "q": "Phác đồ chống huyết khối phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Dabigatran 110 mg × 2 + aspirin + clopidogrel kéo dài",
+    "Apixaban 2,5 mg × 2 + clopidogrel, bỏ aspirin ≤ 1 tuần",
+    "Rivaroxaban 20 mg + aspirin + clopidogrel 12 tháng",
+    "Aspirin + clopidogrel, không chống đông"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "CrCl 15–29: ức chế Xa liều giảm (IIa B1), tránh dabigatran. Apixaban đủ 3/3 tiêu chí → 2,5 mg × 2 là liều đúng. Sau HCVC + PCI: bỏ aspirin ≤ 1 tuần, OAC + clopidogrel đến 12 tháng (I A).",
+   "lines": [
+    "Bây giờ quay lại bà cụ 84 tuổi. Nhắc lại: CHA2DS2-VA bằng 5, độ thanh thải khoảng 21 mi li lít mỗi phút, vừa đặt stent sau nhồi máu cơ tim không ST chênh lên.",
+    "Phác đồ chống huyết khối nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là apixaban 2,5 mi li gam hai lần ngày cộng clopidogrel, bỏ aspirin trong vòng một tuần. Chúng ta xem lại từng bước ở cảnh sau."
+   ]
+  },
+  {
+   "id": "s11",
+   "layout": "list",
+   "chapter": "Giải ca mở đầu",
+   "title": "Bốn bước giải ca",
+   "ref": "ESC 2024 · ESC 2026 · EHRA 2021",
+   "dense": true,
+   "cols1": 4,
+   "items": [
+    {
+     "t": "CHA2DS2-VA = 5",
+     "d": "Tuổi ≥ 75 (2) + tăng huyết áp (1) + đái tháo đường (1) + bệnh mạch máu (1) → chống đông · I C",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "t": "CrCl ≈ 21 mL/phút",
+     "d": "Nhóm 15–29: ức chế Xa liều giảm (IIa B1), tránh dabigatran",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Apixaban 2,5 mg × 2",
+     "d": "Đủ 3/3 tiêu chí: ≥ 80 tuổi, ≤ 60 kg, creatinin ≥ 1,5 – liều đúng tiêu chí",
+     "at": 2,
+     "hl": "L2",
+     "c": "green"
+    },
+    {
+     "t": "Sau HCVC + PCI",
+     "d": "Apixaban + clopidogrel · bỏ aspirin ≤ 1 tuần · đến 12 tháng rồi apixaban đơn trị (I A)",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Bước một: CHA2DS2-VA bằng 5, gồm tuổi từ 75 được 2, tăng huyết áp 1, đái tháo đường 1, và bệnh mạch máu 1 vì vừa nhồi máu cơ tim. Có chỉ định chống đông, mức một C.",
+    "Bước hai: độ thanh thải khoảng 21, thuộc nhóm 15 đến 29: dùng thuốc ức chế Xa liều giảm, mức hai a B1, tránh dabigatran.",
+    "Bước ba: apixaban. Bà có đủ cả ba tiêu chí: từ 80 tuổi, từ 60 ký trở xuống, creatinin từ 1,5. Liều 2,5 mi li gam hai lần ngày ở đây là liều đúng tiêu chí, không phải giảm tuỳ tiện.",
+    "Bước bốn: sau hội chứng vành cấp có can thiệp, apixaban cộng clopidogrel, bỏ aspirin trong vòng một tuần, duy trì đến 12 tháng rồi apixaban đơn trị."
+   ]
+  },
+  {
+   "id": "s12",
+   "layout": "summary",
+   "chapter": "Tổng kết Phần 4",
+   "title": "Năm thông điệp của Phần 4",
+   "dense": true,
+   "cols1": 3,
+   "items": [
+    {
+     "t": "Sau PCI",
+     "d": "Bỏ aspirin ≤ 1 tuần · OAC + clopidogrel 6–12 tháng (I A)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "Mạch vành mạn",
+     "d": "OAC đơn trị · kháng tiểu cầu > 12 tháng III B",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "t": "Sau nhồi máu não",
+     "d": "Chống đông sớm hợp lý ở bệnh nhân chọn lọc (COR 2a)",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "t": "Sau xuất huyết não",
+     "d": "Cá thể hoá · thường chờ 4–8 tuần · cân nhắc bít tiểu nhĩ trái",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Dưới lâm sàng · ung thư",
+     "d": "DOAC cân nhắc IIb B · ung thư: DOAC an toàn hơn VKA",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm tắt phần bốn.",
+    "Sau can thiệp mạch vành: bỏ aspirin trong một tuần, chống đông cộng clopidogrel 6 đến 12 tháng, rồi đơn trị; ở bệnh mạch vành mạn, chống đông đơn trị.",
+    "Sau nhồi máu não, chống đông sớm là hợp lý ở bệnh nhân chọn lọc; sau xuất huyết não, quyết định cá thể hoá, thường chờ 4 đến 8 tuần.",
+    "Rung nhĩ dưới lâm sàng chỉ cân nhắc chống đông ở mức hai b. Phần cuối sẽ bàn quanh thủ thuật, xử trí chảy máu, thuốc giải và góc hồi sức. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "ref": ""
+  }
+ ]
+}
