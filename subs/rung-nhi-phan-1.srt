@@ -1,0 +1,543 @@
+1
+00:00:04,900 --> 00:00:08,626
+Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online,
+
+2
+00:00:08,476 --> 00:00:13,530
+phần một của loạt bài về quản lý bệnh nhân rung nhĩ nguy cơ cao và chiến lược chọn NOAC phù hợp.
+
+3
+00:00:13,730 --> 00:00:18,284
+Bệnh nhân rung nhĩ ở hồi sức và tim mạch thường là người già, suy thận, vừa đặt stent,
+
+4
+00:00:18,134 --> 00:00:20,333
+đang chảy máu hoặc đang sốc nhiễm khuẩn:
+
+5
+00:00:20,183 --> 00:00:24,840
+đúng những nhóm mà thử nghiệm then chốt ít đại diện, và cũng là nơi dễ kê sai liều nhất.
+
+6
+00:00:25,040 --> 00:00:27,366
+Phần này đi qua bằng chứng nền tảng, dược lý,
+
+7
+00:00:27,216 --> 00:00:29,881
+tương tác thuốc và cách đánh giá nguy cơ huyết khối,
+
+8
+00:00:29,731 --> 00:00:31,670
+chảy máu theo các hướng dẫn mới nhất.
+
+9
+00:00:33,120 --> 00:00:39,443
+Vì sao cần bàn chủ đề này? Phân tích gộp mà hướng dẫn ACC/AHA 2023 dẫn cho thấy dùng
+
+10
+00:00:39,293 --> 00:00:44,661
+liều NOAC thấp không phù hợp làm tăng đột quỵ hoặc thuyên tắc hệ thống,
+
+11
+00:00:44,511 --> 00:00:45,910
+tỉ số chênh 1,21.
+
+12
+00:00:46,110 --> 00:00:48,793
+Trong khi đó chảy máu gần như không đổi,
+
+13
+00:00:48,643 --> 00:00:53,860
+tỉ số chênh 1,03. Tức là giảm liều để cho an toàn hơn thực ra không an toàn hơn.
+
+14
+00:00:54,060 --> 00:00:58,610
+Điều đáng chú ý: chín trên mười sáu nghiên cứu trong phân tích gộp đó được làm ở châu Á.
+
+15
+00:00:58,810 --> 00:01:03,502
+Khuyến cáo Việt Nam 2022 cũng ghi nhận NOAC có xu hướng bị giảm liều không đúng chỉ
+
+16
+00:01:03,352 --> 00:01:05,965
+định trong thực hành trong nước. Thêm vào đó,
+
+17
+00:01:05,815 --> 00:01:08,045
+những bệnh nhân chúng ta hay gặp nhất,
+
+18
+00:01:07,895 --> 00:01:10,945
+như độ thanh thải dưới 30 hay ung thư đang hoạt động,
+
+19
+00:01:10,795 --> 00:01:12,970
+lại bị loại khỏi phần lớn thử nghiệm.
+
+20
+00:01:14,420 --> 00:01:18,530
+Mời quý đồng nghiệp xem ca này. Một bà cụ 84 tuổi, chỉ nặng 50 ký,
+
+21
+00:01:18,380 --> 00:01:23,630
+creatinin 1,6 mi li gam mỗi đề xi lít. Bà có rung nhĩ, tăng huyết áp, đái tháo đường,
+
+22
+00:01:23,480 --> 00:01:27,290
+và vừa được đặt stent sau nhồi máu cơ tim không ST chênh lên.
+
+23
+00:01:27,490 --> 00:01:30,120
+Câu hỏi thứ nhất: có chỉ định chống đông không?
+
+24
+00:01:30,320 --> 00:01:32,870
+Câu hỏi thứ hai: chọn thuốc nào, liều bao nhiêu?
+
+25
+00:01:33,070 --> 00:01:35,771
+Câu hỏi thứ ba: phối hợp kháng tiểu cầu ra sao,
+
+26
+00:01:35,621 --> 00:01:40,820
+trong bao lâu? Xin quý vị ghi lại lựa chọn của mình. Chúng ta sẽ giải ca này ở cuối phần bốn.
+
+27
+00:01:42,270 --> 00:01:47,461
+Bảng này tóm tắt sáu thay đổi lớn trong khoảng mười năm. Thứ nhất,
+
+28
+00:01:47,311 --> 00:01:51,510
+ESC 2024 bỏ giới nữ khỏi thang điểm, dùng CHA2DS2-VA;
+
+29
+00:01:51,360 --> 00:01:55,940
+ACC/AHA 2023 và khuyến cáo Việt Nam vẫn dùng CHA2DS2-VASc.
+
+30
+00:01:56,140 --> 00:01:56,719
+Thứ hai,
+
+31
+00:01:56,569 --> 00:02:01,066
+không còn chuyển máy móc mọi bệnh nhân đang dùng thuốc kháng vitamin K sang NOAC:
+
+32
+00:02:00,916 --> 00:02:05,090
+người già yếu đang ổn định có thể giữ nguyên, dựa trên thử nghiệm FRAIL-AF.
+
+33
+00:02:05,290 --> 00:02:11,040
+Ba thay đổi về đột quỵ, PCI và bệnh mạch vành mạn sẽ được bàn kỹ ở phần bốn.
+
+34
+00:02:11,240 --> 00:02:15,590
+Và với mức lọc cầu thận dưới 30, hướng dẫn ESC 2026 nói rõ:
+
+35
+00:02:15,440 --> 00:02:19,790
+không dùng các thang điểm hiện có, luôn coi là nguy cơ cao.
+
+36
+00:02:21,240 --> 00:02:27,111
+Bốn thử nghiệm pha 3 so với warfarin. RE-LY năm 2009 với hơn 18 nghìn bệnh nhân:
+
+37
+00:02:26,961 --> 00:02:31,974
+dabigatran 150 mi li gam hai lần ngày vượt trội warfarin về đột quỵ,
+
+38
+00:02:31,824 --> 00:02:36,980
+1,11 so với 1,69 phần trăm mỗi năm; liều 110 thì ít chảy máu nặng hơn.
+
+39
+00:02:37,180 --> 00:02:41,792
+ROCKET AF với rivaroxaban 20 mi li gam một lần ngày trên quần thể nguy cơ cao:
+
+40
+00:02:41,642 --> 00:02:42,879
+không kém warfarin,
+
+41
+00:02:42,729 --> 00:02:47,170
+chảy máu tổng tương đương nhưng giảm xuất huyết nội sọ và chảy máu tử vong.
+
+42
+00:02:47,370 --> 00:02:53,163
+ARISTOTLE với apixaban là thử nghiệm duy nhất vượt trội đồng thời về đột quỵ,
+
+43
+00:02:53,013 --> 00:02:58,000
+chảy máu nặng và tử vong: chảy máu nặng 2,13 so với 3,09, HR 0,69.
+
+44
+00:02:58,200 --> 00:03:04,001
+ENGAGE AF với edoxaban hai mức liều. Điểm chung của cả bốn: ít nhất không kém warfarin,
+
+45
+00:03:03,851 --> 00:03:05,950
+và đều giảm xuất huyết nội sọ.
+
+46
+00:03:07,400 --> 00:03:09,829
+AVERROES trả lời một câu hỏi rất quen thuộc:
+
+47
+00:03:09,679 --> 00:03:13,870
+bệnh nhân không dùng được thuốc kháng vitamin K thì cho aspirin có được không?
+
+48
+00:03:14,070 --> 00:03:15,814
+Trên gần 5600 bệnh nhân,
+
+49
+00:03:15,664 --> 00:03:21,790
+apixaban 5 mi li gam hai lần ngày giảm đột quỵ hoặc thuyên tắc hơn một nửa so với aspirin,
+
+50
+00:03:21,640 --> 00:03:27,500
+1,6 so với 3,7 phần trăm mỗi năm, HR 0,45; thử nghiệm phải dừng sớm vì lợi ích quá rõ.
+
+51
+00:03:27,700 --> 00:03:32,397
+Trong khi đó chảy máu nặng không khác có ý nghĩa, 1,4 so với 1,2 phần trăm,
+
+52
+00:03:32,247 --> 00:03:35,550
+và xuất huyết nội sọ là 11 so với 13 ca. Thông điệp:
+
+53
+00:03:35,400 --> 00:03:39,370
+aspirin không phải là phương án an toàn hơn để thay chống đông.
+
+54
+00:03:40,820 --> 00:03:46,810
+Phân tích gộp của Ruff trên Lancet 2014 gộp hơn 71 nghìn bệnh nhân của bốn thử nghiệm.
+
+55
+00:03:47,010 --> 00:03:52,772
+So với warfarin, NOAC giảm đột quỵ hoặc thuyên tắc 19 phần trăm, nguy cơ tương đối 0,81,
+
+56
+00:03:52,622 --> 00:03:57,937
+chủ yếu nhờ giảm đột quỵ xuất huyết. Xuất huyết nội sọ giảm khoảng một nửa, 0,48,
+
+57
+00:03:57,787 --> 00:04:00,360
+và tử vong mọi nguyên nhân giảm, 0,90.
+
+58
+00:04:00,560 --> 00:04:04,151
+Nhưng có một cái giá: chảy máu tiêu hoá tăng 25 phần trăm,
+
+59
+00:04:04,001 --> 00:04:07,651
+nguy cơ tương đối 1,25. Người làm hồi sức cần nhớ điều này,
+
+60
+00:04:07,501 --> 00:04:11,270
+vì xuất huyết tiêu hoá là biến chứng chúng ta gặp nhiều nhất.
+
+61
+00:04:11,470 --> 00:04:16,518
+Và các phác đồ liều thấp trong thử nghiệm ít chảy máu hơn nhưng nhồi máu não nhiều hơn,
+
+62
+00:04:16,368 --> 00:04:19,220
+nguy cơ tương đối 1,28. Liều thấp có giá của nó.
+
+63
+00:04:20,670 --> 00:04:25,700
+Bảng dược lý lấy từ hướng dẫn ACC/AHA 2023.
+
+64
+00:04:25,900 --> 00:04:30,818
+Dòng quan trọng nhất là thải trừ: dabigatran 80 phần trăm qua thận,
+
+65
+00:04:30,668 --> 00:04:35,514
+edoxaban 50 phần trăm, apixaban chỉ 27 phần trăm. Với rivaroxaban,
+
+66
+00:04:35,364 --> 00:04:39,428
+ACC/AHA ghi 66 phần trăm, có lẽ gồm cả chất chuyển hoá;
+
+67
+00:04:39,278 --> 00:04:44,480
+hướng dẫn thực hành của Hội Nhịp tim châu Âu năm 2021 ghi 35 phần trăm.
+
+68
+00:04:44,680 --> 00:04:47,806
+Cả bốn thuốc là cơ chất của P-glycoprotein;
+
+69
+00:04:47,656 --> 00:04:53,550
+rivaroxaban và apixaban còn chuyển hoá qua CYP3A4. Đó là cơ sở của tương tác thuốc.
+
+70
+00:04:53,750 --> 00:04:57,441
+Một chi tiết thực hành: rivaroxaban phải uống cùng bữa ăn chính,
+
+71
+00:04:57,291 --> 00:05:00,540
+điều dễ quên ở bệnh nhân nhịn ăn hoặc nuôi ăn qua sonde.
+
+72
+00:05:01,990 --> 00:05:05,786
+Từ bảng dược lý, chúng ta rút ra một thứ tự đơn giản để nhớ:
+
+73
+00:05:05,636 --> 00:05:10,525
+phụ thuộc thận nhiều nhất là dabigatran, tiếp theo là edoxaban và rivaroxaban,
+
+74
+00:05:10,375 --> 00:05:11,740
+ít nhất là apixaban.
+
+75
+00:05:11,940 --> 00:05:17,153
+Hệ quả thứ nhất: dabigatran nên tránh ở bệnh nhân lọc máu theo ACC 2026,
+
+76
+00:05:17,003 --> 00:05:21,583
+và ở châu Âu không dùng khi độ thanh thải 15 đến 29. Ngược lại,
+
+77
+00:05:21,433 --> 00:05:25,450
+dabigatran là NOAC duy nhất bị lọc máu loại bỏ đáng kể.
+
+78
+00:05:25,650 --> 00:05:30,387
+Hệ quả thứ hai: apixaban xuất hiện nhiều nhất trong các khuyến cáo cho bệnh thận nặng,
+
+79
+00:05:30,237 --> 00:05:31,720
+lọc máu và người già yếu.
+
+80
+00:05:31,920 --> 00:05:35,468
+Hệ quả thứ ba: vì cả bốn thuốc đi qua P-glycoprotein,
+
+81
+00:05:35,318 --> 00:05:38,737
+mọi đơn thuốc NOAC ở hồi sức cần được rà tương tác,
+
+82
+00:05:38,587 --> 00:05:41,430
+nhất là với amiodarone và thuốc kháng nấm.
+
+83
+00:05:42,880 --> 00:05:46,825
+Bảng tương tác thuốc của Hội Nhịp tim châu Âu năm 2021 rất dài;
+
+84
+00:05:46,675 --> 00:05:53,270
+ở đây chúng ta rút gọn các thuốc hay gặp nhất ở hồi sức. Amiodarone xếp vào mức thận trọng với cả bốn NOAC.
+
+85
+00:05:53,470 --> 00:05:58,674
+Dronedarone chống chỉ định với dabigatran, nên tránh với rivaroxaban,
+
+86
+00:05:58,524 --> 00:06:05,780
+còn edoxaban giảm còn 30 mi li gam. Verapamil thì dabigatran giảm còn 110 mi li gam hai lần ngày.
+
+87
+00:06:05,980 --> 00:06:10,837
+Với thuốc kháng nấm nhóm azole, thường gặp ở bệnh nhân nằm hồi sức lâu:
+
+88
+00:06:10,687 --> 00:06:16,273
+itraconazole và ketoconazole chống chỉ định với dabigatran, apixaban, rivaroxaban,
+
+89
+00:06:16,123 --> 00:06:21,776
+còn edoxaban giảm còn 30 mi li gam. Voriconazole và posaconazole chống chỉ định với
+
+90
+00:06:21,626 --> 00:06:24,030
+apixaban và rivaroxaban theo nhãn.
+
+91
+00:06:24,230 --> 00:06:27,137
+Ritonavir chống chỉ định với cả bốn thuốc,
+
+92
+00:06:26,987 --> 00:06:32,061
+còn rifampicin làm giảm nồng độ NOAC 35 đến 66 phần trăm. Nguyên tắc chung:
+
+93
+00:06:31,911 --> 00:06:36,460
+không dùng NOAC cùng thuốc ức chế mạnh cả P-glycoprotein và CYP3A4.
+
+94
+00:06:37,910 --> 00:06:43,138
+Thang điểm CHA2DS2-VA của ESC 2024 chỉ khác thang cũ ở chỗ bỏ giới nữ. Suy tim,
+
+95
+00:06:42,988 --> 00:06:48,280
+tăng huyết áp, đái tháo đường, bệnh mạch máu, tuổi 65 đến 74: mỗi yếu tố 1 điểm;
+
+96
+00:06:48,130 --> 00:06:52,843
+tuổi từ 75 và tiền sử đột quỵ, thiếu máu não thoáng qua hay thuyên tắc:
+
+97
+00:06:52,693 --> 00:06:55,350
+2 điểm. Áp dụng cho bà cụ của chúng ta.
+
+98
+00:06:55,550 --> 00:06:58,580
+Tuổi 84, từ 75 trở lên: 2 điểm.
+
+99
+00:06:58,780 --> 00:07:01,970
+Tăng huyết áp 1 điểm, đái tháo đường thêm 1 điểm.
+
+100
+00:07:02,170 --> 00:07:05,600
+Vừa nhồi máu cơ tim, tính là bệnh mạch máu: thêm 1 điểm.
+
+101
+00:07:05,800 --> 00:07:11,808
+Tổng 5 điểm. Từ 2 điểm trở lên là chỉ dấu nguy cơ huyết khối tắc mạch tăng khi quyết định chống đông,
+
+102
+00:07:11,658 --> 00:07:15,230
+mức một C; bằng 1 thì nên xem là nguy cơ tăng, mức hai a C.
+
+103
+00:07:16,680 --> 00:07:22,430
+So sánh ba hướng dẫn hay dùng. ESC 2024 dùng CHA2DS2-VA, ngưỡng 2 điểm.
+
+104
+00:07:22,630 --> 00:07:28,681
+Khuyến cáo Việt Nam 2022 và ACC/AHA 2023 vẫn dùng CHA2DS2-VASc, ngưỡng nam từ 2,
+
+105
+00:07:28,531 --> 00:07:34,214
+nữ từ 3. Các ngưỡng thực chất tương đương, vì giới nữ chỉ cộng thêm 1 điểm;
+
+106
+00:07:34,064 --> 00:07:38,640
+khác nhau ở mức chứng cứ: Việt Nam xếp một A, châu Âu một C.
+
+107
+00:07:38,840 --> 00:07:42,492
+ACC/AHA 2023 quy đổi sang nguy cơ huyết khối hằng năm:
+
+108
+00:07:42,342 --> 00:07:46,124
+từ 2 phần trăm mỗi năm trở lên là khuyến cáo chống đông,
+
+109
+00:07:45,974 --> 00:07:52,350
+từ 1 đến dưới 2 phần trăm là hợp lý. Cả ba hướng dẫn đều ưu tiên NOAC hơn thuốc kháng vitamin K.
+
+110
+00:07:53,800 --> 00:08:00,113
+Nguy cơ chảy máu là chỗ thực hành hay lệch nhất. ESC 2024 có hai khuyến cáo đi cùng nhau. Một:
+
+111
+00:07:59,963 --> 00:08:06,734
+đánh giá và xử trí các yếu tố nguy cơ chảy máu thay đổi được ở mọi bệnh nhân đủ điều kiện chống đông,
+
+112
+00:08:06,584 --> 00:08:07,390
+mức một B.
+
+113
+00:08:07,590 --> 00:08:11,520
+Hai: không dùng thang điểm chảy máu để quyết định khởi động hay ngừng chống đông,
+
+114
+00:08:11,370 --> 00:08:13,900
+mức ba B, nhằm tránh dùng thuốc dưới mức cần thiết.
+
+115
+00:08:14,100 --> 00:08:19,900
+Vậy điểm HAS-BLED cao để làm gì? Để biết bệnh nhân cần theo dõi sát hơn và có những việc cần sửa:
+
+116
+00:08:19,750 --> 00:08:24,910
+huyết áp tâm thu trên 160, aspirin hay thuốc kháng viêm không cần thiết, INR dao động,
+
+117
+00:08:24,760 --> 00:08:26,250
+rượu và nguy cơ té ngã.
+
+118
+00:08:27,700 --> 00:08:31,630
+Điểm mới từ hướng dẫn ESC 2026 về bệnh tim mạch và bệnh thận mạn:
+
+119
+00:08:31,480 --> 00:08:33,317
+khi mức lọc cầu thận dưới 30,
+
+120
+00:08:33,167 --> 00:08:37,446
+không khuyến cáo dùng các thang điểm nguy cơ đột quỵ hiện có, mức ba B,
+
+121
+00:08:37,296 --> 00:08:40,993
+và cũng không dùng các thang điểm chảy máu hiện có, mức ba C,
+
+122
+00:08:40,843 --> 00:08:43,610
+kể cả những thang có thông số chức năng thận.
+
+123
+00:08:43,810 --> 00:08:47,169
+Lý do: ở nhóm này, khả năng phân biệt của CHADS2,
+
+124
+00:08:47,019 --> 00:08:52,016
+CHA2DS2-VASc và CHA2DS2-VA chỉ khoảng 0,49 đến 0,68, gần như tung đồng xu,
+
+125
+00:08:51,866 --> 00:08:55,160
+một phần vì nhóm này bị loại khi xây dựng thang.
+
+126
+00:08:55,360 --> 00:08:56,394
+Kết luận thực hành:
+
+127
+00:08:56,244 --> 00:09:00,070
+bệnh nhân bệnh thận mạn nặng luôn được xem là có nguy cơ đột quỵ thiếu máu cao.
+
+128
+00:09:01,520 --> 00:09:02,790
+Tóm tắt phần một.
+
+129
+00:09:02,990 --> 00:09:06,681
+Cả bốn NOAC ít nhất không kém warfarin và đều giảm xuất huyết nội sọ,
+
+130
+00:09:06,531 --> 00:09:11,300
+nhưng tăng chảy máu tiêu hoá. Aspirin không phải phương án an toàn hơn để thay chống đông.
+
+131
+00:09:11,500 --> 00:09:14,596
+Thứ tự phụ thuộc thận từ dabigatran đến apixaban,
+
+132
+00:09:14,446 --> 00:09:18,804
+và mọi đơn NOAC cần rà tương tác. Chỉ định chống đông theo CHA2DS2-VA;
+
+133
+00:09:18,654 --> 00:09:22,050
+với mức lọc cầu thận dưới 30, luôn coi là nguy cơ cao.
+
+134
+00:09:22,250 --> 00:09:24,514
+Điểm chảy máu dùng để sửa yếu tố nguy cơ,
+
+135
+00:09:24,364 --> 00:09:28,794
+không phải để bỏ chống đông. Phần hai sẽ đi vào chọn thuốc và liều. Cảm ơn quý đồng
+
+136
+00:09:28,644 --> 00:09:30,960
+nghiệp đã theo dõi Thư Viện Y Khoa Online.

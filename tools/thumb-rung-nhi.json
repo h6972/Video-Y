@@ -1,0 +1,72 @@
+[
+ {
+  "out": "thumbs/rung-nhi-phan-1.png",
+  "hook": "ASPIRIN THAY<br>ĐƯỢC NOAC?",
+  "line2": "Bằng chứng · nguy cơ",
+  "chips": [
+   "CHA2DS2-VA",
+   "eGFR < 30"
+  ],
+  "badge": "PHẦN 1/5",
+  "tag": "Rung nhĩ nguy cơ cao – chọn NOAC",
+  "img": null,
+  "c": "teal",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><path d=\"M500 450 C 300 320 270 170 380 140 C 440 125 485 160 500 205 C 515 160 560 125 620 140 C 730 170 700 320 500 450 Z\" fill=\"rgba(251,113,133,.16)\" stroke=\"#fb7185\" stroke-width=\"10\"/><path d=\"M300 560 L310 566 L320 554 L330 566 L340 554 L350 566 L360 554 L370 566 L382 560 L390 575 L398 455 L406 598 L414 560 L420 566 L430 554 L440 566 L450 554 L460 566 L467 560 L475 575 L483 455 L491 598 L499 560 L505 566 L515 554 L525 566 L535 554 L545 566 L555 554 L565 566 L575 554 L585 566 L595 554 L602 560 L610 575 L618 455 L626 598 L634 560 L640 566 L650 554 L660 566 L670 554 L680 566 L690 554 L702 560 L710 575 L718 455 L726 598 L734 560\" fill=\"none\" stroke=\"#facc15\" stroke-width=\"7\" stroke-linejoin=\"round\"/><text x=\"510\" y=\"650\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\" fill=\"#94a3b8\" font-family=\"Inter,sans-serif\">Rung nhĩ: RR không đều</text></svg>"
+ },
+ {
+  "out": "thumbs/rung-nhi-phan-2.png",
+  "hook": "2,5 MG<br>ĐÚNG CHƯA?",
+  "line2": "Liều NOAC đúng tiêu chí",
+  "chips": [
+   "Cockcroft–Gault",
+   "Liều thấp sai: có hại"
+  ],
+  "badge": "PHẦN 2/5",
+  "tag": "Rung nhĩ nguy cơ cao – chọn NOAC",
+  "img": null,
+  "c": "amber",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><path d=\"M500 450 C 300 320 270 170 380 140 C 440 125 485 160 500 205 C 515 160 560 125 620 140 C 730 170 700 320 500 450 Z\" fill=\"rgba(251,113,133,.16)\" stroke=\"#fb7185\" stroke-width=\"10\"/><path d=\"M300 560 L310 566 L320 554 L330 566 L340 554 L350 566 L360 554 L370 566 L382 560 L390 575 L398 455 L406 598 L414 560 L420 566 L430 554 L440 566 L450 554 L460 566 L467 560 L475 575 L483 455 L491 598 L499 560 L505 566 L515 554 L525 566 L535 554 L545 566 L555 554 L565 566 L575 554 L585 566 L595 554 L602 560 L610 575 L618 455 L626 598 L634 560 L640 566 L650 554 L660 566 L670 554 L680 566 L690 554 L702 560 L710 575 L718 455 L726 598 L734 560\" fill=\"none\" stroke=\"#facc15\" stroke-width=\"7\" stroke-linejoin=\"round\"/><text x=\"510\" y=\"650\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\" fill=\"#94a3b8\" font-family=\"Inter,sans-serif\">Rung nhĩ: RR không đều</text></svg>"
+ },
+ {
+  "out": "thumbs/rung-nhi-phan-3.png",
+  "hook": "LỌC MÁU<br>DÙNG GÌ?",
+  "line2": "Già yếu · thận · van tim",
+  "chips": [
+   "ESC 2026",
+   "INVICTUS"
+  ],
+  "badge": "PHẦN 3/5",
+  "tag": "Rung nhĩ nguy cơ cao – chọn NOAC",
+  "img": null,
+  "c": "coral",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><path d=\"M500 450 C 300 320 270 170 380 140 C 440 125 485 160 500 205 C 515 160 560 125 620 140 C 730 170 700 320 500 450 Z\" fill=\"rgba(251,113,133,.16)\" stroke=\"#fb7185\" stroke-width=\"10\"/><path d=\"M300 560 L310 566 L320 554 L330 566 L340 554 L350 566 L360 554 L370 566 L382 560 L390 575 L398 455 L406 598 L414 560 L420 566 L430 554 L440 566 L450 554 L460 566 L467 560 L475 575 L483 455 L491 598 L499 560 L505 566 L515 554 L525 566 L535 554 L545 566 L555 554 L565 566 L575 554 L585 566 L595 554 L602 560 L610 575 L618 455 L626 598 L634 560 L640 566 L650 554 L660 566 L670 554 L680 566 L690 554 L702 560 L710 575 L718 455 L726 598 L734 560\" fill=\"none\" stroke=\"#facc15\" stroke-width=\"7\" stroke-linejoin=\"round\"/><text x=\"510\" y=\"650\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\" fill=\"#94a3b8\" font-family=\"Inter,sans-serif\">Rung nhĩ: RR không đều</text></svg>"
+ },
+ {
+  "out": "thumbs/rung-nhi-phan-4.png",
+  "hook": "ĐẶT STENT:<br>BỎ ASPIRIN?",
+  "line2": "PCI · đột quỵ · ung thư",
+  "chips": [
+   "≤ 1 tuần",
+   "Chống đông sớm"
+  ],
+  "badge": "PHẦN 4/5",
+  "tag": "Rung nhĩ nguy cơ cao – chọn NOAC",
+  "img": null,
+  "c": "teal",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><path d=\"M500 450 C 300 320 270 170 380 140 C 440 125 485 160 500 205 C 515 160 560 125 620 140 C 730 170 700 320 500 450 Z\" fill=\"rgba(251,113,133,.16)\" stroke=\"#fb7185\" stroke-width=\"10\"/><path d=\"M300 560 L310 566 L320 554 L330 566 L340 554 L350 566 L360 554 L370 566 L382 560 L390 575 L398 455 L406 598 L414 560 L420 566 L430 554 L440 566 L450 554 L460 566 L467 560 L475 575 L483 455 L491 598 L499 560 L505 566 L515 554 L525 566 L535 554 L545 566 L555 554 L565 566 L575 554 L585 566 L595 554 L602 560 L610 575 L618 455 L626 598 L634 560 L640 566 L650 554 L660 566 L670 554 L680 566 L690 554 L702 560 L710 575 L718 455 L726 598 L734 560\" fill=\"none\" stroke=\"#facc15\" stroke-width=\"7\" stroke-linejoin=\"round\"/><text x=\"510\" y=\"650\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\" fill=\"#94a3b8\" font-family=\"Inter,sans-serif\">Rung nhĩ: RR không đều</text></svg>"
+ },
+ {
+  "out": "thumbs/rung-nhi-phan-5.png",
+  "hook": "NOAC +<br>CHẢY MÁU",
+  "line2": "Thuốc giải · hồi sức",
+  "chips": [
+   "Andexanet · PCC",
+   "Idarucizumab"
+  ],
+  "badge": "PHẦN 5/5",
+  "tag": "Rung nhĩ nguy cơ cao – chọn NOAC",
+  "img": null,
+  "c": "amber",
+  "art": "<svg viewBox=\"0 0 760 700\" width=\"640\" height=\"590\"><path d=\"M500 450 C 300 320 270 170 380 140 C 440 125 485 160 500 205 C 515 160 560 125 620 140 C 730 170 700 320 500 450 Z\" fill=\"rgba(251,113,133,.16)\" stroke=\"#fb7185\" stroke-width=\"10\"/><path d=\"M300 560 L310 566 L320 554 L330 566 L340 554 L350 566 L360 554 L370 566 L382 560 L390 575 L398 455 L406 598 L414 560 L420 566 L430 554 L440 566 L450 554 L460 566 L467 560 L475 575 L483 455 L491 598 L499 560 L505 566 L515 554 L525 566 L535 554 L545 566 L555 554 L565 566 L575 554 L585 566 L595 554 L602 560 L610 575 L618 455 L626 598 L634 560 L640 566 L650 554 L660 566 L670 554 L680 566 L690 554 L702 560 L710 575 L718 455 L726 598 L734 560\" fill=\"none\" stroke=\"#facc15\" stroke-width=\"7\" stroke-linejoin=\"round\"/><text x=\"510\" y=\"650\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"700\" fill=\"#94a3b8\" font-family=\"Inter,sans-serif\">Rung nhĩ: RR không đều</text></svg>"
+ }
+]

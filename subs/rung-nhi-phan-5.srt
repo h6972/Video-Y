@@ -1,0 +1,579 @@
+1
+00:00:04,900 --> 00:00:08,982
+Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online,
+
+2
+00:00:08,832 --> 00:00:12,170
+phần cuối của loạt bài về rung nhĩ nguy cơ cao và chọn NOAC.
+
+3
+00:00:12,370 --> 00:00:17,094
+Phần này là những việc ở hồi sức làm hằng ngày: ngưng NOAC trước thủ thuật, mổ cấp cứu,
+
+4
+00:00:16,944 --> 00:00:21,720
+chuyển đổi thuốc chống đông, xử trí bệnh nhân đang uống NOAC bị chảy máu, và thuốc giải.
+
+5
+00:00:21,920 --> 00:00:25,165
+Cuối phần là góc hồi sức: rung nhĩ mới trong nhiễm khuẩn huyết,
+
+6
+00:00:25,015 --> 00:00:27,670
+một tình huống mà hướng dẫn còn rất ít câu trả lời.
+
+7
+00:00:29,120 --> 00:00:32,356
+Thử nghiệm PAUSE là cơ sở cho cách ngưng NOAC hiện nay:
+
+8
+00:00:32,206 --> 00:00:36,341
+hơn 3000 bệnh nhân rung nhĩ dùng apixaban, dabigatran hoặc rivaroxaban,
+
+9
+00:00:36,191 --> 00:00:39,483
+một phần ba làm thủ thuật nguy cơ chảy máu cao. Phác đồ:
+
+10
+00:00:39,333 --> 00:00:43,860
+bỏ 1 ngày trước thủ thuật nguy cơ thấp, bỏ 2 ngày trước thủ thuật nguy cơ cao.
+
+11
+00:00:44,060 --> 00:00:48,130
+Dùng lại sau 1 ngày với nguy cơ thấp, 2 đến 3 ngày với nguy cơ cao.
+
+12
+00:00:48,330 --> 00:00:52,422
+Không bắc cầu heparin, không xét nghiệm đông máu. Kết quả 30 ngày:
+
+13
+00:00:52,272 --> 00:00:57,200
+chảy máu nặng từ 0,90 đến 1,85 phần trăm, thuyên tắc động mạch dưới 1 phần trăm.
+
+14
+00:00:58,650 --> 00:01:05,447
+Hội Nhịp tim châu Âu cho số giờ cụ thể từ liều cuối đến thủ thuật chương trình. Với ba thuốc ức chế Xa:
+
+15
+00:01:05,297 --> 00:01:11,126
+độ thanh thải từ 30 trở lên thì ít nhất 24 giờ với nguy cơ thấp, 48 giờ với nguy cơ cao;
+
+16
+00:01:10,976 --> 00:01:14,740
+độ thanh thải 15 đến 29 thì nguy cơ thấp kéo lên 36 giờ.
+
+17
+00:01:14,940 --> 00:01:22,113
+Dabigatran phụ thuộc thận nên thay đổi nhiều: từ 80 trở lên là 24 và 48 giờ;
+
+18
+00:01:21,963 --> 00:01:27,010
+50 đến 79 là 36 và 72 giờ; 30 đến 49 là 48 và 96 giờ.
+
+19
+00:01:27,210 --> 00:01:32,719
+Thủ thuật rất ít nguy cơ chảy máu, như nhổ một đến ba răng hay nội soi không sinh thiết,
+
+20
+00:01:32,569 --> 00:01:37,773
+làm ở nồng độ đáy. Sau thủ thuật, dùng lại liều đầy đủ sau 24 giờ với nguy cơ thấp,
+
+21
+00:01:37,623 --> 00:01:39,600
+48 đến 72 giờ với nguy cơ cao.
+
+22
+00:01:41,050 --> 00:01:45,720
+Khi phải mổ cấp cứu ngoài kế hoạch, bước đầu luôn là lấy máu làm đủ bảng đông máu: PT,
+
+23
+00:01:45,570 --> 00:01:50,240
+aPTT, anti Xa nếu có, cùng creatinin để tính độ thanh thải, và hỏi giờ uống liều cuối.
+
+24
+00:01:50,440 --> 00:01:55,150
+Nếu phải mổ trong vài phút: đảo ngược tác dụng NOAC nếu cần, khi có thuốc, rồi mổ.
+
+25
+00:01:55,350 --> 00:01:59,469
+Nếu mổ trong vài giờ: hoãn 12 đến 24 giờ nếu được, kiểm lại đông máu;
+
+26
+00:01:59,319 --> 00:02:02,460
+nếu vẫn còn tác dụng đáng kể thì xử trí như cấp cứu.
+
+27
+00:02:02,660 --> 00:02:03,868
+Nếu chờ được vài ngày:
+
+28
+00:02:03,718 --> 00:02:08,723
+theo lịch ngưng thuốc của thủ thuật chương trình. Thủ thuật nguy cơ chảy máu cao gồm gây tê tuỷ sống,
+
+29
+00:02:08,573 --> 00:02:12,088
+ngoài màng cứng, phẫu thuật tim, mạch máu, thần kinh, bụng, lồng ngực,
+
+30
+00:02:11,938 --> 00:02:13,290
+sinh thiết thận hoặc gan.
+
+31
+00:02:14,740 --> 00:02:19,494
+Chuyển đổi giữa các thuốc chống đông. Từ thuốc kháng vitamin K sang NOAC:
+
+32
+00:02:19,344 --> 00:02:23,404
+ngừng thuốc cũ và đo INR. INR từ 2 trở xuống thì bắt đầu ngay;
+
+33
+00:02:23,254 --> 00:02:27,882
+2 đến 2,5 thì ngay hoặc hôm sau; 2,5 đến 3 thì đo lại sau 1 đến 3 ngày;
+
+34
+00:02:27,732 --> 00:02:29,270
+từ 3 trở lên thì hoãn.
+
+35
+00:02:29,470 --> 00:02:34,876
+Từ NOAC sang thuốc kháng vitamin K: dùng song song, riêng edoxaban dùng nửa liều;
+
+36
+00:02:34,726 --> 00:02:39,743
+đo INR sau 3 đến 5 ngày, lấy máu trước liều NOAC vì NOAC cũng làm tăng INR;
+
+37
+00:02:39,593 --> 00:02:41,300
+INR từ 2 thì ngừng NOAC.
+
+38
+00:02:41,500 --> 00:02:43,767
+Từ heparin không phân đoạn sang NOAC:
+
+39
+00:02:43,617 --> 00:02:46,741
+bắt đầu 2 đến 4 giờ sau khi ngừng truyền. Ngược lại,
+
+40
+00:02:46,591 --> 00:02:50,174
+bắt đầu heparin 12 giờ sau liều cuối với thuốc hai lần ngày,
+
+41
+00:02:50,024 --> 00:02:51,890
+24 giờ với thuốc một lần ngày.
+
+42
+00:02:52,090 --> 00:02:55,339
+Sang heparin trọng lượng phân tử thấp hoặc giữa các NOAC:
+
+43
+00:02:55,189 --> 00:02:57,840
+bắt đầu vào thời điểm lẽ ra uống liều kế tiếp.
+
+44
+00:02:59,290 --> 00:03:03,345
+Khi bệnh nhân đang dùng NOAC bị chảy máu, việc đầu tiên là phân loại,
+
+45
+00:03:03,195 --> 00:03:08,156
+theo đồng thuận ACC 2020. Thứ nhất, có phải vị trí nguy kịch không: nội sọ, tuỷ sống,
+
+46
+00:03:08,006 --> 00:03:12,741
+nội nhãn; lồng ngực, đường thở, màng ngoài tim; ổ bụng, sau phúc mạc, trong khớp,
+
+47
+00:03:12,591 --> 00:03:16,986
+trong cơ. Xuất huyết tiêu hoá trong lòng ống không xếp là vị trí nguy kịch,
+
+48
+00:03:16,836 --> 00:03:19,250
+nhưng có thể gây mất ổn định huyết động.
+
+49
+00:03:19,450 --> 00:03:24,670
+Thứ hai, có mất ổn định huyết động không: huyết áp tâm thu dưới 90 hoặc giảm trên 40,
+
+50
+00:03:24,520 --> 00:03:29,680
+huyết áp trung bình đo xâm lấn dưới 65, nước tiểu dưới 0,5 mi li lít mỗi ký mỗi giờ.
+
+51
+00:03:29,880 --> 00:03:31,254
+Thứ ba, mức mất máu:
+
+52
+00:03:31,104 --> 00:03:37,310
+hemoglobin giảm từ 2 gam mỗi đề xi lít hoặc cần truyền từ 2 đơn vị hồng cầu liên quan tăng tử vong.
+
+53
+00:03:38,760 --> 00:03:42,453
+Xử trí chảy máu theo ba mức, cộng dồn từ nhẹ lên nặng. Chảy máu nhẹ:
+
+54
+00:03:42,303 --> 00:03:46,830
+hoãn hoặc ngừng liều kế tiếp, xem lại thuốc dùng kèm, xem lại lựa chọn và liều NOAC.
+
+55
+00:03:47,030 --> 00:03:51,453
+Chảy máu nặng không đe doạ tính mạng: thêm các biện pháp như ép cầm máu,
+
+56
+00:03:51,303 --> 00:03:56,677
+nội soi cầm máu với xuất huyết tiêu hoá, phẫu thuật, bù dịch, truyền hồng cầu, tiểu cầu,
+
+57
+00:03:56,527 --> 00:04:00,475
+cân nhắc acid tranexamic. Với dabigatran, cân nhắc idarucizumab,
+
+58
+00:04:00,325 --> 00:04:02,790
+hoặc lọc máu nếu không có idarucizumab.
+
+59
+00:04:02,990 --> 00:04:08,342
+Chảy máu đe doạ tính mạng hoặc vị trí nguy kịch: thêm thuốc giải đặc hiệu,
+
+60
+00:04:08,192 --> 00:04:10,100
+ESC 2024 xếp mức hai a B.
+
+61
+00:04:10,300 --> 00:04:16,530
+Nếu không có thuốc giải: PCC 50 đơn vị mỗi ký, thêm 25 nếu cần, hoặc PCC hoạt hoá.
+
+62
+00:04:16,730 --> 00:04:18,500
+Và nguyên tắc chung của ESC:
+
+63
+00:04:18,350 --> 00:04:23,360
+ngừng chống đông cho đến khi xác định và xử lý được nguyên nhân chảy máu, mức một C.
+
+64
+00:04:24,810 --> 00:04:29,622
+Idarucizumab, thuốc giải của dabigatran: 5 gam tĩnh mạch, tức hai lọ 2,5 gam,
+
+65
+00:04:29,472 --> 00:04:35,010
+truyền liên tiếp mỗi lọ 5 đến 10 phút hoặc tiêm nhanh. Tác dụng đảo ngược trong vài phút,
+
+66
+00:04:34,860 --> 00:04:36,160
+kéo dài tới 24 giờ.
+
+67
+00:04:36,360 --> 00:04:39,928
+Andexanet cho thuốc ức chế Xa có hai mức. Liều thấp:
+
+68
+00:04:39,778 --> 00:04:43,741
+400 mi li gam tiêm tĩnh mạch tốc độ 30 mi li gam mỗi phút,
+
+69
+00:04:43,591 --> 00:04:46,831
+rồi truyền 4 mi li gam mỗi phút trong 120 phút,
+
+70
+00:04:46,681 --> 00:04:51,893
+khi liều cuối apixaban từ 5 mi li gam trở xuống, rivaroxaban từ 10 trở xuống,
+
+71
+00:04:51,743 --> 00:04:55,903
+edoxaban từ 30 trở xuống, hoặc đã từ 8 giờ trở lên. Liều cao:
+
+72
+00:04:55,753 --> 00:04:59,453
+800 mi li gam rồi 8 mi li gam mỗi phút trong 120 phút,
+
+73
+00:04:59,303 --> 00:05:02,740
+khi liều cuối cao hơn hoặc không rõ và dưới 8 giờ.
+
+74
+00:05:02,940 --> 00:05:05,131
+Khi không có thuốc giải đặc hiệu:
+
+75
+00:05:04,981 --> 00:05:09,645
+phức hợp prothrombin cô đặc bốn yếu tố 50 đơn vị mỗi ký, thêm 25 nếu cần,
+
+76
+00:05:09,495 --> 00:05:13,170
+hoặc liều cố định 2000 đơn vị theo Anticoagulation Forum.
+
+77
+00:05:13,370 --> 00:05:16,807
+PCC hoạt hoá 50 đơn vị mỗi ký, tối đa 200 mỗi ngày,
+
+78
+00:05:16,657 --> 00:05:22,800
+chỉ người có kinh nghiệm dùng. Than hoạt có thể cân nhắc nếu mới uống NOAC trong 2 đến 4 giờ.
+
+79
+00:05:24,250 --> 00:05:31,467
+ANNEXA-I năm 2024 trên 530 bệnh nhân xuất huyết não đang uống thuốc ức chế Xa trong vòng 15 giờ:
+
+80
+00:05:31,317 --> 00:05:37,503
+andexanet cầm máu khối máu tụ tốt hơn điều trị thường quy, 67 so với 53 phần trăm,
+
+81
+00:05:37,353 --> 00:05:40,080
+mà phần lớn nhóm chứng đã nhận PCC.
+
+82
+00:05:40,280 --> 00:05:45,009
+Nhưng cái giá là huyết khối tăng gần gấp đôi, 10,3 so với 5,6 phần trăm,
+
+83
+00:05:44,859 --> 00:05:47,617
+và nhồi máu não 6,5 so với 1,5 phần trăm;
+
+84
+00:05:47,467 --> 00:05:50,670
+kết cục chức năng và tử vong không cải thiện rõ.
+
+85
+00:05:50,870 --> 00:05:51,954
+Với dabigatran,
+
+86
+00:05:51,804 --> 00:05:56,938
+RE-VERSE AD cho thấy idarucizumab đảo ngược tác dụng với trung vị 100 phần trăm,
+
+87
+00:05:56,788 --> 00:06:01,983
+thời gian cầm máu trung vị 2,5 giờ. Những gì không dùng: yếu tố bảy a tái tổ hợp,
+
+88
+00:06:01,833 --> 00:06:06,780
+huyết tương tươi đông lạnh; vitamin K và protamine không có vai trò với NOAC.
+
+89
+00:06:08,230 --> 00:06:14,731
+Góc hồi sức. Rung nhĩ do yếu tố thúc đẩy là rung nhĩ mới gắn với một yếu tố khởi phát đảo ngược được;
+
+90
+00:06:14,581 --> 00:06:19,573
+hay gặp nhất là nhiễm khuẩn huyết cấp, với tỉ lệ rung nhĩ 9 đến 20 phần trăm;
+
+91
+00:06:19,423 --> 00:06:23,660
+ACC/AHA 2023 ghi 6 đến 22 phần trăm trong nhiễm khuẩn huyết nặng.
+
+92
+00:06:23,860 --> 00:06:25,084
+Điều quan trọng nhất:
+
+93
+00:06:24,934 --> 00:06:29,532
+đây không phải rung nhĩ lành tính. Rung nhĩ do nhiễm khuẩn huyết tái phát sau ra viện ở
+
+94
+00:06:29,382 --> 00:06:31,271
+một phần ba đến một nửa bệnh nhân,
+
+95
+00:06:31,121 --> 00:06:33,930
+và nguy cơ huyết khối tương tự rung nhĩ nguyên phát.
+
+96
+00:06:34,130 --> 00:06:41,074
+Vì vậy ESC 2024 khuyến cáo nên cân nhắc chống đông lâu dài ở bệnh nhân phù hợp có nguy cơ huyết khối tăng,
+
+97
+00:06:40,924 --> 00:06:45,240
+mức hai a C, bắt đầu sau khi yếu tố khởi phát cấp đã được xử trí.
+
+98
+00:06:46,690 --> 00:06:49,894
+Trong giai đoạn cấp, các hướng dẫn khá thống nhất:
+
+99
+00:06:49,744 --> 00:06:53,314
+không chống đông thường quy. ACC/AHA 2023 xếp mức hai b:
+
+100
+00:06:53,164 --> 00:06:58,505
+lợi ích của chống đông trong giai đoạn bệnh nặng do nhiễm khuẩn huyết chưa chắc chắn;
+
+101
+00:06:58,355 --> 00:07:02,230
+nhưng phải tư vấn nguy cơ tái phát và hẹn theo dõi ngoại trú.
+
+102
+00:07:02,430 --> 00:07:05,115
+Tuyên bố khoa học AHA 2023 nói thẳng hơn:
+
+103
+00:07:04,965 --> 00:07:10,369
+bằng chứng hiện có không ủng hộ chống đông thường quy giai đoạn cấp ở bệnh nhân nhiễm
+
+104
+00:07:10,219 --> 00:07:12,100
+khuẩn huyết có rung nhĩ cấp.
+
+105
+00:07:12,300 --> 00:07:15,315
+Tổng quan của Sibley năm 2025 giải thích vì sao:
+
+106
+00:07:15,165 --> 00:07:19,851
+CHA2DS2-VASc dự báo đột quỵ trong nhiễm khuẩn huyết rất kém, chỉ số C 0,526,
+
+107
+00:07:19,701 --> 00:07:22,776
+CHA2DS2-VA chưa được kiểm định ở người bệnh nặng;
+
+108
+00:07:22,626 --> 00:07:27,730
+và heparin hay warfarin chỉ đạt khoảng điều trị dưới một nửa thời gian nằm hồi sức.
+
+109
+00:07:29,180 --> 00:07:31,250
+Tình huống cuối cùng của loạt bài.
+
+110
+00:07:31,450 --> 00:07:34,626
+Nam 68 tuổi, sốc nhiễm khuẩn do viêm phổi, thở máy,
+
+111
+00:07:34,476 --> 00:07:39,668
+đang dùng noradrenalin. Ngày thứ hai xuất hiện rung nhĩ mới, kèm tổn thương thận cấp,
+
+112
+00:07:39,518 --> 00:07:42,160
+đang truyền amiodarone. CHA2DS2-VA bằng 3.
+
+113
+00:07:42,360 --> 00:07:45,390
+Về chống đông lúc này, hướng xử trí nào phù hợp nhất?
+
+114
+00:07:45,590 --> 00:07:48,220
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+115
+00:07:56,820 --> 00:08:01,726
+Đáp án là không chống đông thường quy, quyết định từng ca, nếu cần thì ưu tiên heparin,
+
+116
+00:08:01,576 --> 00:08:05,554
+và lên kế hoạch chống đông lâu dài sau giai đoạn cấp. Ở giai đoạn cấp,
+
+117
+00:08:05,404 --> 00:08:07,412
+lợi ích chống đông chưa chắc chắn;
+
+118
+00:08:07,262 --> 00:08:10,365
+tổn thương thận cấp cộng amiodarone làm NOAC khó đoán,
+
+119
+00:08:10,215 --> 00:08:13,590
+khi còn phân vân thì chuyển heparin. Khi qua giai đoạn cấp,
+
+120
+00:08:13,440 --> 00:08:17,855
+tính lại CHA2DS2-VA và độ thanh thải, cân nhắc chống đông lâu dài mức hai a C,
+
+121
+00:08:17,705 --> 00:08:22,830
+và dặn theo dõi tái phát. Rung nhĩ thứ phát không có nghĩa là không bao giờ cần chống đông.
+
+122
+00:08:24,280 --> 00:08:27,706
+Hai hướng còn tranh cãi. Bít tiểu nhĩ trái thay NOAC:
+
+123
+00:08:27,556 --> 00:08:33,269
+năm 2026 có hai thử nghiệm trái chiều. CHAMPION-AF trên 3000 bệnh nhân phù hợp chống đông,
+
+124
+00:08:33,119 --> 00:08:36,236
+nguy cơ trung bình: bít tiểu nhĩ không kém NOAC,
+
+125
+00:08:36,086 --> 00:08:39,450
+và giảm chảy máu không liên quan thủ thuật, HR 0,55.
+
+126
+00:08:39,650 --> 00:08:40,466
+Ngược lại,
+
+127
+00:08:40,316 --> 00:08:46,059
+CLOSURE-AF trên bệnh nhân nguy cơ đột quỵ và chảy máu đều cao thì không đạt tiêu chí
+
+128
+00:08:45,909 --> 00:08:48,589
+không kém. Kết quả phụ thuộc quần thể;
+
+129
+00:08:48,439 --> 00:08:50,520
+ESC 2024 vẫn chỉ xếp hai b C.
+
+130
+00:08:50,720 --> 00:08:55,985
+Thuốc ức chế yếu tố mười một từng được kỳ vọng tách rời huyết khối và cầm máu. Nhưng
+
+131
+00:08:55,835 --> 00:09:01,953
+OCEANIC-AF với asundexian phải dừng sớm vì đột quỵ hoặc thuyên tắc nhiều hơn apixaban gần bốn lần,
+
+132
+00:09:01,803 --> 00:09:03,110
+dù chảy máu ít hơn.
+
+133
+00:09:04,560 --> 00:09:07,510
+Để kết thúc loạt bài, xin tóm tắt bảy thông điệp.
+
+134
+00:09:07,710 --> 00:09:10,474
+Một, NOAC ưu tiên hơn thuốc kháng vitamin K,
+
+135
+00:09:10,324 --> 00:09:14,812
+trừ van cơ học và hẹp hai lá vừa đến nặng. Hai, chỉ định theo CHA2DS2-VA;
+
+136
+00:09:14,662 --> 00:09:18,020
+với mức lọc cầu thận dưới 30, luôn coi là nguy cơ cao.
+
+137
+00:09:18,220 --> 00:09:22,606
+Ba, điểm chảy máu dùng để sửa yếu tố nguy cơ, không phải để bỏ chống đông. Bốn,
+
+138
+00:09:22,456 --> 00:09:26,520
+liều theo độ thanh thải Cockcroft–Gault và tiêu chí riêng của từng thuốc;
+
+139
+00:09:26,370 --> 00:09:28,290
+liều thấp sai chỉ định là có hại.
+
+140
+00:09:28,490 --> 00:09:33,281
+Năm, ở người già yếu, bệnh thận nặng, tiền sử chảy máu, nghĩ đến apixaban trước;
+
+141
+00:09:33,131 --> 00:09:38,271
+tránh dabigatran khi lọc máu. Sáu, sau can thiệp mạch vành: bỏ aspirin trong một tuần,
+
+142
+00:09:38,121 --> 00:09:41,520
+chống đông cộng clopidogrel 6 đến 12 tháng, rồi đơn trị.
+
+143
+00:09:41,720 --> 00:09:45,950
+Bảy, rung nhĩ mới trong nhiễm khuẩn huyết: không chống đông thường quy giai đoạn cấp,
+
+144
+00:09:45,800 --> 00:09:50,030
+nhưng lên kế hoạch chống đông lâu dài và hẹn theo dõi. Cảm ơn quý đồng nghiệp đã theo
+
+145
+00:09:49,880 --> 00:09:52,190
+dõi trọn loạt bài của Thư Viện Y Khoa Online.

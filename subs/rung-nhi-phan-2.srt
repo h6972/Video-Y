@@ -1,0 +1,415 @@
+1
+00:00:04,900 --> 00:00:08,833
+Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online,
+
+2
+00:00:08,683 --> 00:00:11,850
+phần hai của loạt bài về rung nhĩ nguy cơ cao và chọn NOAC.
+
+3
+00:00:12,050 --> 00:00:15,800
+Phần này ngắn nhưng là gốc của mọi quyết định ở các nhóm nguy cơ cao:
+
+4
+00:00:15,650 --> 00:00:19,296
+chọn NOAC hay thuốc kháng vitamin K, tính chức năng thận đúng cách,
+
+5
+00:00:19,146 --> 00:00:20,600
+và kê liều đúng tiêu chí.
+
+6
+00:00:20,800 --> 00:00:25,030
+Cuối phần là một checklist bảy bước và một tình huống để quý vị tự kiểm tra.
+
+7
+00:00:26,480 --> 00:00:32,567
+Câu hỏi đầu tiên: NOAC hay thuốc kháng vitamin K? ESC 2024 trả lời rõ: NOAC ưu tiên hơn,
+
+8
+00:00:32,417 --> 00:00:37,830
+mức một A, trừ hai nhóm: van tim cơ học và hẹp van hai lá mức độ vừa đến nặng.
+
+9
+00:00:38,030 --> 00:00:40,941
+Nếu dùng thuốc kháng vitamin K, đích INR 2 đến 3;
+
+10
+00:00:40,791 --> 00:00:46,576
+nếu bệnh nhân không giữ được thời gian trong khoảng điều trị trên 70 phần trăm thì chuyển sang NOAC,
+
+11
+00:00:46,426 --> 00:00:47,140
+mức một B.
+
+12
+00:00:47,340 --> 00:00:49,743
+Điểm mới dựa trên thử nghiệm FRAIL-AF:
+
+13
+00:00:49,593 --> 00:00:55,198
+người từ 75 tuổi đang ổn định với thuốc kháng vitamin K và dùng nhiều thuốc có thể tiếp tục,
+
+14
+00:00:55,048 --> 00:00:59,170
+mức hai b B. Không phải ai đang dùng warfarin ổn định cũng cần đổi.
+
+15
+00:00:59,370 --> 00:01:02,348
+Và hẹp hai lá hậu thấp, rất thường gặp ở nước ta,
+
+16
+00:01:02,198 --> 00:01:04,657
+là nhóm phải dùng thuốc kháng vitamin K,
+
+17
+00:01:04,507 --> 00:01:07,600
+theo kết quả thử nghiệm INVICTUS mà phần ba sẽ bàn.
+
+18
+00:01:09,050 --> 00:01:10,526
+Ở bệnh nhân dùng NOAC,
+
+19
+00:01:10,376 --> 00:01:15,529
+chức năng thận nên được ước tính bằng độ thanh thải creatinin theo Cockcroft–Gault:
+
+20
+00:01:15,379 --> 00:01:18,483
+140 trừ tuổi, nhân cân nặng, nhân 0,85 nếu là nữ,
+
+21
+00:01:18,333 --> 00:01:22,160
+chia cho 72 nhân creatinin tính bằng mi li gam mỗi đề xi lít.
+
+22
+00:01:22,360 --> 00:01:22,817
+Lý do:
+
+23
+00:01:22,667 --> 00:01:27,174
+các tiêu chí liều trong thử nghiệm và trên nhãn thuốc đều dựa trên độ thanh thải này,
+
+24
+00:01:27,024 --> 00:01:29,070
+không phải mức lọc cầu thận ước tính.
+
+25
+00:01:29,270 --> 00:01:33,127
+Về theo dõi, Hội Nhịp tim châu Âu khuyên xét nghiệm hemoglobin,
+
+26
+00:01:32,977 --> 00:01:37,304
+chức năng thận và gan mỗi năm; mỗi 4 tháng nếu từ 75 tuổi hoặc già yếu;
+
+27
+00:01:37,154 --> 00:01:39,304
+nếu độ thanh thải từ 60 trở xuống,
+
+28
+00:01:39,154 --> 00:01:42,540
+khoảng cách tính theo tháng bằng độ thanh thải chia 10.
+
+29
+00:01:42,740 --> 00:01:47,414
+Và xét nghiệm ngay khi có bệnh xen kẽ như nhiễm khuẩn, dùng thuốc kháng viêm, mất nước:
+
+30
+00:01:47,264 --> 00:01:49,130
+đúng những bệnh nhân vào hồi sức.
+
+31
+00:01:50,580 --> 00:01:55,130
+Áp dụng ngay cho bà cụ 84 tuổi, 50 ký, creatinin 1,6.
+
+32
+00:01:55,330 --> 00:02:02,280
+140 trừ 84 là 56; nhân 50 ký, nhân 0,85 vì là nữ, được 2380.
+
+33
+00:02:02,480 --> 00:02:08,809
+Mẫu số: 72 nhân 1,6 là 115,2. Chia ra, độ thanh thải khoảng 21 mi li lít mỗi phút,
+
+34
+00:02:08,659 --> 00:02:14,310
+thuộc nhóm 15 đến 29. Chúng ta sẽ dùng con số này khi giải ca ở phần bốn.
+
+35
+00:02:15,760 --> 00:02:21,089
+Đây là bảng nên in ra dán ở phòng bác sĩ. Apixaban: 5 mi li gam hai lần ngày;
+
+36
+00:02:20,939 --> 00:02:26,469
+giảm còn 2,5 khi có 2 trong 3 tiêu chí: tuổi từ 80, cân nặng từ 60 ký trở xuống,
+
+37
+00:02:26,319 --> 00:02:28,756
+creatinin từ 133 micromol mỗi lít,
+
+38
+00:02:28,606 --> 00:02:32,925
+tức 1,5 mi li gam mỗi đề xi lít. Hội Nhịp tim châu Âu bổ sung:
+
+39
+00:02:32,775 --> 00:02:35,750
+độ thanh thải 15 đến 29 thì cũng dùng 2,5.
+
+40
+00:02:35,950 --> 00:02:41,844
+Dabigatran: 150 mi li gam hai lần ngày; giảm còn 110 khi từ 80 tuổi hoặc dùng verapamil;
+
+41
+00:02:41,694 --> 00:02:47,458
+cân nhắc từng ca khi 75 đến 80 tuổi, độ thanh thải 30 đến 50, viêm dạ dày, trào ngược,
+
+42
+00:02:47,308 --> 00:02:49,220
+hoặc nguy cơ chảy máu tăng.
+
+43
+00:02:49,420 --> 00:02:55,784
+Edoxaban: 60 mi li gam một lần ngày, giảm còn 30 khi có bất kỳ: độ thanh thải 15 đến 50,
+
+44
+00:02:55,634 --> 00:03:01,292
+cân nặng từ 60 ký trở xuống, hoặc dùng ciclosporin, dronedarone, erythromycin,
+
+45
+00:03:01,142 --> 00:03:02,210
+ketoconazole.
+
+46
+00:03:02,410 --> 00:03:07,680
+Rivaroxaban: 20 mi li gam, giảm còn 15 khi độ thanh thải 15 đến 49.
+
+47
+00:03:09,130 --> 00:03:13,056
+Bốn chỗ lệch nhau cần biết khi đọc tài liệu nước ngoài. Thứ nhất,
+
+48
+00:03:12,906 --> 00:03:17,993
+dabigatran 75 mi li gam hai lần ngày chỉ có trên nhãn Mỹ cho độ thanh thải 15 đến 30,
+
+49
+00:03:17,843 --> 00:03:22,350
+dựa trên mô phỏng dược động học; châu Âu không dùng dabigatran ở 15 đến 29.
+
+50
+00:03:22,550 --> 00:03:27,120
+Thứ hai, edoxaban bị ghi chống chỉ định khi độ thanh thải trên 95 theo nhãn Mỹ;
+
+51
+00:03:26,970 --> 00:03:31,820
+châu Âu cho dùng nhưng chỉ sau khi đánh giá cẩn thận nguy cơ huyết khối và chảy máu.
+
+52
+00:03:32,020 --> 00:03:38,101
+Thứ ba, ngưỡng rivaroxaban 15 mi li gam lệch nhau một đơn vị: từ 50 trở xuống ở Mỹ,
+
+53
+00:03:37,951 --> 00:03:39,530
+15 đến 49 ở châu Âu.
+
+54
+00:03:39,730 --> 00:03:41,668
+Thứ tư, theo ghi nhận thực tế,
+
+55
+00:03:41,518 --> 00:03:45,600
+edoxaban lưu hành ở nước ta chỉ có 60 và 30 mi li gam. Nguyên tắc:
+
+56
+00:03:45,450 --> 00:03:48,520
+áp dụng theo tờ thông tin sản phẩm đang lưu hành.
+
+57
+00:03:49,970 --> 00:03:56,409
+Đây là thông điệp quan trọng nhất của phần hai. ESC 2024 xếp việc dùng liều giảm khi
+
+58
+00:03:56,259 --> 00:04:00,677
+không đủ tiêu chí là mức ba B. ACC/AHA 2023 còn mạnh hơn:
+
+59
+00:04:00,527 --> 00:04:01,800
+mức ba, có hại.
+
+60
+00:04:02,000 --> 00:04:04,280
+Cơ sở là các phân tích gộp đoàn hệ:
+
+61
+00:04:04,130 --> 00:04:08,846
+liều thấp không phù hợp làm tăng đột quỵ hoặc thuyên tắc, tỉ số chênh 1,21,
+
+62
+00:04:08,696 --> 00:04:13,350
+mà chảy máu không giảm; một phân tích gộp khác thấy tử vong tăng, HR 1,24.
+
+63
+00:04:13,550 --> 00:04:18,242
+Khuyến cáo Việt Nam cũng nhấn mạnh giảm liều không đúng chỉ định làm tăng đột quỵ,
+
+64
+00:04:18,092 --> 00:04:22,174
+nhập viện và tử vong. Câu hỏi khi thấy apixaban 2,5 mi li gam trên đơn:
+
+65
+00:04:22,024 --> 00:04:25,940
+bệnh nhân có đủ 2 trong 3 tiêu chí không? Nếu không, đó là liều sai.
+
+66
+00:04:27,390 --> 00:04:31,105
+Hai tình huống hay gặp. Thứ nhất, bệnh nhân đang dùng NOAC,
+
+67
+00:04:30,955 --> 00:04:33,884
+bác sĩ thêm aspirin cho chắc. ESC 2024 nói rõ:
+
+68
+00:04:33,734 --> 00:04:39,140
+không thêm kháng tiểu cầu vào thuốc chống đông với mục đích dự phòng đột quỵ, mức ba B.
+
+69
+00:04:39,340 --> 00:04:44,184
+Thứ hai, bệnh nhân bị nhồi máu não dù đang dùng NOAC. Trước hết hãy tìm nguyên nhân kỹ:
+
+70
+00:04:44,034 --> 00:04:48,608
+có phải nguyên nhân không do tim không, yếu tố nguy cơ mạch máu đã kiểm soát chưa,
+
+71
+00:04:48,458 --> 00:04:53,033
+và quan trọng nhất trong thực tế, liều có đúng không, bệnh nhân có uống đều không,
+
+72
+00:04:52,883 --> 00:04:53,680
+mức hai a B.
+
+73
+00:04:53,880 --> 00:04:55,471
+Không thêm kháng tiểu cầu,
+
+74
+00:04:55,321 --> 00:05:00,903
+và không đổi từ thuốc này sang thuốc khác hay sang thuốc kháng vitamin K khi không có chỉ định rõ,
+
+75
+00:05:00,753 --> 00:05:01,790
+đều là mức ba B.
+
+76
+00:05:03,240 --> 00:05:07,150
+Gói các nguyên tắc vừa rồi thành bảy bước kiểm tra trước khi kê NOAC.
+
+77
+00:05:07,350 --> 00:05:09,881
+Một, có chỉ định không, dùng CHA2DS2-VA;
+
+78
+00:05:09,731 --> 00:05:15,061
+nếu mức lọc cầu thận dưới 30 thì coi là nguy cơ cao. Hai, có chống chỉ định NOAC không:
+
+79
+00:05:14,911 --> 00:05:17,740
+van cơ học, hẹp hai lá vừa đến nặng, có thai.
+
+80
+00:05:17,940 --> 00:05:21,061
+Ba, tính độ thanh thải theo Cockcroft–Gault, ghi rõ tuổi,
+
+81
+00:05:20,911 --> 00:05:24,761
+cân nặng thực và creatinin vào bệnh án để người sau kiểm tra được. Bốn,
+
+82
+00:05:24,611 --> 00:05:27,210
+đối chiếu tiêu chí giảm liều của đúng thuốc đó.
+
+83
+00:05:27,410 --> 00:05:32,620
+Năm, rà thuốc dùng kèm: kháng tiểu cầu còn chỉ định không, thuốc kháng viêm,
+
+84
+00:05:32,470 --> 00:05:37,080
+thuốc ảnh hưởng P-glycoprotein và CYP3A4. Sáu, sửa yếu tố chảy máu.
+
+85
+00:05:37,280 --> 00:05:40,150
+Bảy, hẹn đánh giá lại chức năng thận và nguy cơ.
+
+86
+00:05:41,600 --> 00:05:43,430
+Mời quý vị làm một tình huống.
+
+87
+00:05:43,630 --> 00:05:47,768
+Nam 82 tuổi, nặng 70 ký, creatinin 1,2 mi li gam mỗi đề xi lít,
+
+88
+00:05:47,618 --> 00:05:53,148
+rung nhĩ với CHA2DS2-VA bằng 4. Ông đang được kê apixaban 2,5 mi li gam hai lần ngày,
+
+89
+00:05:52,998 --> 00:05:55,300
+lý do ghi trên đơn là vì lớn tuổi.
+
+90
+00:05:55,500 --> 00:05:57,410
+Xử trí liều nào phù hợp nhất?
+
+91
+00:05:57,610 --> 00:06:00,480
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+92
+00:06:09,080 --> 00:06:14,779
+Đáp án là chỉnh lên apixaban 5 mi li gam hai lần ngày. Ông chỉ có 1 trong 3 tiêu chí,
+
+93
+00:06:14,629 --> 00:06:20,002
+là tuổi từ 80; cân nặng trên 60 ký, creatinin dưới 1,5. Độ thanh thải khoảng 47,
+
+94
+00:06:19,852 --> 00:06:23,527
+nên nếu đổi sang rivaroxaban thì phải là 15 mi li gam,
+
+95
+00:06:23,377 --> 00:06:29,011
+còn dabigatran 75 chỉ có trên nhãn Mỹ cho độ thanh thải 15 đến 30. Giữ 2,5 mi li gam
+
+96
+00:06:28,861 --> 00:06:31,100
+chính là liều thấp sai chỉ định.
+
+97
+00:06:32,550 --> 00:06:33,900
+Tóm tắt phần hai.
+
+98
+00:06:34,100 --> 00:06:38,931
+NOAC ưu tiên hơn thuốc kháng vitamin K, trừ van cơ học và hẹp hai lá vừa đến nặng;
+
+99
+00:06:38,781 --> 00:06:43,269
+người già yếu đang ổn định có thể giữ thuốc cũ. Liều tính theo độ thanh thải
+
+100
+00:06:43,119 --> 00:06:45,210
+Cockcroft–Gault với cân nặng thực.
+
+101
+00:06:45,410 --> 00:06:47,660
+Giảm liều không đủ tiêu chí là có hại,
+
+102
+00:06:47,510 --> 00:06:52,412
+và không thêm aspirin cho chắc. Phần ba sẽ đi vào các nhóm nguy cơ cao: người già yếu,
+
+103
+00:06:52,262 --> 00:06:53,517
+bệnh thận, bệnh gan,
+
+104
+00:06:53,367 --> 00:06:58,600
+tiền sử chảy máu và bệnh van tim. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

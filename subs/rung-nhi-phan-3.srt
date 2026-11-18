@@ -1,0 +1,459 @@
+1
+00:00:04,900 --> 00:00:09,042
+Thưa quý đồng nghiệp, chào mừng quý vị trở lại với Thư Viện Y Khoa Online,
+
+2
+00:00:08,892 --> 00:00:12,170
+phần ba của loạt bài về rung nhĩ nguy cơ cao và chọn NOAC.
+
+3
+00:00:12,370 --> 00:00:14,547
+Từ phần này chúng ta đi vào trọng tâm:
+
+4
+00:00:14,397 --> 00:00:17,960
+chọn thuốc cho từng nhóm nguy cơ cao. Phần ba gồm người già yếu,
+
+5
+00:00:17,810 --> 00:00:21,960
+bệnh thận mạn và lọc máu, tổn thương thận cấp ở hồi sức, bệnh gan, béo phì,
+
+6
+00:00:21,810 --> 00:00:23,720
+tiền sử chảy máu và bệnh van tim.
+
+7
+00:00:23,920 --> 00:00:28,230
+Đây là những nhóm mà bằng chứng thường mỏng, nên chúng ta sẽ đọc kỹ từng thử nghiệm.
+
+8
+00:00:29,680 --> 00:00:34,040
+Người già yếu là nhóm bị chống đông thiếu nhiều nhất. Thử nghiệm ELDERCARE-AF tuyển
+
+9
+00:00:33,890 --> 00:00:37,590
+người Nhật từ 80 tuổi không phù hợp với liều chống đông đã được duyệt.
+
+10
+00:00:37,790 --> 00:00:44,030
+Edoxaban 15 mi li gam một lần ngày so với giả dược giảm đột quỵ hoặc thuyên tắc từ 6,7
+
+11
+00:00:43,880 --> 00:00:46,013
+xuống 2,3 phần trăm mỗi năm,
+
+12
+00:00:45,863 --> 00:00:46,580
+HR 0,34.
+
+13
+00:00:46,780 --> 00:00:51,080
+Chảy máu nặng tăng nhưng không có ý nghĩa thống kê, 3,3 so với 1,8 phần trăm,
+
+14
+00:00:50,930 --> 00:00:54,530
+trong khi chảy máu tiêu hoá nhiều hơn rõ, và tử vong không khác.
+
+15
+00:00:55,980 --> 00:00:57,637
+FRAIL-AF hỏi câu ngược lại:
+
+16
+00:00:57,487 --> 00:01:02,773
+người già yếu đang ổn định với thuốc kháng vitamin K có nên chuyển sang NOAC không? Kết quả:
+
+17
+00:01:02,623 --> 00:01:07,294
+chuyển thuốc làm tăng chảy máu nặng hoặc không nặng có ý nghĩa lâm sàng, HR 1,69,
+
+18
+00:01:07,144 --> 00:01:08,690
+mà huyết khối không giảm.
+
+19
+00:01:08,890 --> 00:01:13,360
+Thử nghiệm dừng sớm vì vô ích, với 101 so với 62 biến cố.
+
+20
+00:01:13,560 --> 00:01:18,190
+Cần lưu ý đây là thử nghiệm mở, và kết cục chính chủ yếu là chảy máu không nặng.
+
+21
+00:01:19,640 --> 00:01:21,260
+Từ hai thử nghiệm đó:
+
+22
+00:01:21,110 --> 00:01:27,350
+ESC 2024 cho phép người từ 75 tuổi đang ổn định với thuốc kháng vitamin K và dùng nhiều
+
+23
+00:01:27,200 --> 00:01:29,030
+thuốc tiếp tục thuốc cũ,
+
+24
+00:01:28,880 --> 00:01:29,870
+mức hai b B.
+
+25
+00:01:30,070 --> 00:01:34,871
+Tuyên bố khoa học ACC 2026 gợi ý: ở người già yếu, ưu tiên apixaban,
+
+26
+00:01:34,721 --> 00:01:39,180
+vì lợi ích nhất quán trên mọi mức già yếu và chảy máu thấp hơn.
+
+27
+00:01:39,380 --> 00:01:45,556
+ACC 2026 cũng cho phép cân nhắc edoxaban 15 mi li gam khi không dùng được liều chuẩn.
+
+28
+00:01:45,406 --> 00:01:49,172
+Nhưng edoxaban ở nước ta chỉ có 60 và 30 mi li gam,
+
+29
+00:01:49,022 --> 00:01:51,370
+nên phác đồ này chưa dùng được.
+
+30
+00:01:51,570 --> 00:01:55,538
+Và tuyệt đối không suy ra rằng có thể dùng liều thấp tuỳ ý:
+
+31
+00:01:55,388 --> 00:02:01,040
+phác đồ edoxaban 30 trên 15 mi li gam trong ENGAGE AF đã không được duyệt vì nhồi máu
+
+32
+00:02:00,890 --> 00:02:03,240
+não cao hơn warfarin 41 phần trăm.
+
+33
+00:02:04,690 --> 00:02:10,808
+Hướng dẫn ESC 2026 về bệnh tim mạch và bệnh thận mạn chia khuyến cáo theo mức lọc cầu thận,
+
+34
+00:02:10,658 --> 00:02:16,120
+rất dễ áp dụng. Từ 30 trở lên: NOAC ưu tiên hơn thuốc kháng vitamin K, mức một A.
+
+35
+00:02:16,320 --> 00:02:21,721
+Từ 15 đến 29: nên cân nhắc thuốc ức chế yếu tố Xa ưu tiên hơn thuốc kháng vitamin K,
+
+36
+00:02:21,571 --> 00:02:25,910
+mức hai a B1; B1 là cách phân mức chứng cứ riêng của hướng dẫn này.
+
+37
+00:02:26,110 --> 00:02:31,153
+Dưới 15, kể cả đang điều trị thay thế thận: quyết định chống đông theo từng cá thể,
+
+38
+00:02:31,003 --> 00:02:31,860
+mức hai a C.
+
+39
+00:02:32,060 --> 00:02:35,041
+Nếu chưa lọc máu và đã quyết định chống đông,
+
+40
+00:02:34,891 --> 00:02:40,893
+có thể dùng thuốc kháng vitamin K hoặc apixaban 2,5 mi li gam hai lần ngày. Nếu đang lọc máu,
+
+41
+00:02:40,743 --> 00:02:44,731
+có thể ưu tiên ức chế Xa liều thấp hơn thuốc kháng vitamin K,
+
+42
+00:02:44,581 --> 00:02:49,010
+nhất là apixaban 2,5 mi li gam hai lần ngày. Cả hai đều mức hai b C.
+
+43
+00:02:50,460 --> 00:02:55,735
+Với bệnh nhân lọc máu, chúng ta chỉ có hai thử nghiệm ngẫu nhiên nhỏ. RENAL-AF ở Mỹ:
+
+44
+00:02:55,585 --> 00:02:59,578
+154 bệnh nhân, apixaban so với warfarin; dừng sớm vì khó tuyển,
+
+45
+00:02:59,428 --> 00:03:06,106
+thời gian trong khoảng điều trị của warfarin chỉ 44 phần trăm. Chảy máu sau một năm 32 so với 26 phần trăm,
+
+46
+00:03:05,956 --> 00:03:09,950
+khác biệt không có ý nghĩa; tử vong là biến cố thường gặp nhất.
+
+47
+00:03:10,150 --> 00:03:12,939
+AXADIA-AFNET 8 ở Đức: 97 bệnh nhân,
+
+48
+00:03:12,789 --> 00:03:19,500
+apixaban 2,5 mi li gam hai lần ngày so với phenprocoumon; biến cố an toàn gộp tương tự.
+
+49
+00:03:19,700 --> 00:03:20,374
+Tóm lại,
+
+50
+00:03:20,224 --> 00:03:25,685
+ở bệnh nhân lọc máu chảy máu của apixaban và thuốc kháng vitamin K tương tự nhau,
+
+51
+00:03:25,535 --> 00:03:30,864
+bằng chứng còn yếu nên khuyến cáo chỉ ở mức hai b. ACC 2026 thêm một ý rõ ràng:
+
+52
+00:03:30,714 --> 00:03:33,290
+tránh dabigatran ở bệnh nhân lọc máu.
+
+53
+00:03:34,740 --> 00:03:37,220
+Góc dành riêng cho hồi sức. Cần nói thẳng:
+
+54
+00:03:37,070 --> 00:03:41,936
+chưa có thử nghiệm ngẫu nhiên nào về chọn và chỉnh NOAC trong tổn thương thận cấp hay
+
+55
+00:03:41,786 --> 00:03:44,432
+lọc máu liên tục. Mỗi khi creatinin thay đổi,
+
+56
+00:03:44,282 --> 00:03:45,930
+cần tính lại độ thanh thải.
+
+57
+00:03:46,130 --> 00:03:50,802
+Ở bệnh nhân nặng nhiều biến động, Hội Nhịp tim châu Âu khuyên hội chẩn đa chuyên khoa,
+
+58
+00:03:50,652 --> 00:03:55,376
+và nếu còn phân vân thì chuyển sang heparin trọng lượng phân tử thấp hoặc heparin không
+
+59
+00:03:55,226 --> 00:03:57,059
+phân đoạn. Với lọc máu liên tục,
+
+60
+00:03:56,909 --> 00:04:01,370
+chưa có dữ liệu liều NOAC đủ tin cậy nên ưu tiên heparin; đây là ý kiến thực hành.
+
+61
+00:04:01,570 --> 00:04:04,535
+Khi cho thuốc qua sonde: apixaban, rivaroxaban,
+
+62
+00:04:04,385 --> 00:04:07,409
+edoxaban nghiền được mà không đổi sinh khả dụng;
+
+63
+00:04:07,259 --> 00:04:12,440
+nhưng không được mở viên nang dabigatran, vì sinh khả dụng tăng khoảng 75 phần trăm.
+
+64
+00:04:13,890 --> 00:04:18,315
+Ba nhóm ngắn nhưng thường gặp. Bệnh gan: theo gợi ý của ACC 2026,
+
+65
+00:04:18,165 --> 00:04:23,116
+Child–Pugh A thì mọi NOAC có vẻ an toàn; Child–Pugh B dùng được apixaban,
+
+66
+00:04:22,966 --> 00:04:26,405
+dabigatran và edoxaban, còn rivaroxaban nên tránh;
+
+67
+00:04:26,255 --> 00:04:28,970
+Child–Pugh C chưa đủ bằng chứng ủng hộ.
+
+68
+00:04:29,170 --> 00:04:34,737
+Béo phì độ ba, chỉ số khối cơ thể từ 40: rivaroxaban hoặc apixaban là lựa chọn phù hợp;
+
+69
+00:04:34,587 --> 00:04:40,091
+chọn NOAC thay warfarin là hợp lý, mức hai a. Riêng bệnh nhân sau phẫu thuật giảm cân,
+
+70
+00:04:39,941 --> 00:04:43,640
+có thể chọn warfarin vì lo ngại hấp thu thuốc, mức hai b.
+
+71
+00:04:43,840 --> 00:04:49,265
+Cân nặng từ 60 ký trở xuống là tiêu chí giảm liều của edoxaban và là một trong ba tiêu
+
+72
+00:04:49,115 --> 00:04:53,190
+chí của apixaban. Luôn dùng cân nặng thực để tính độ thanh thải.
+
+73
+00:04:54,640 --> 00:05:00,391
+Bệnh nhân có tiền sử chảy máu là nhóm chúng ta hay ngần ngại nhất. ACC 2026 gợi ý:
+
+74
+00:05:00,241 --> 00:05:01,689
+nếu cần chống đông,
+
+75
+00:05:01,539 --> 00:05:06,470
+ưu tiên apixaban hoặc dabigatran liều thấp 110 mi li gam hai lần ngày.
+
+76
+00:05:06,670 --> 00:05:09,515
+Với chảy máu tiêu hoá, nhớ lại phân tích gộp Ruff:
+
+77
+00:05:09,365 --> 00:05:12,587
+NOAC tăng chảy máu tiêu hoá 25 phần trăm so với warfarin,
+
+78
+00:05:12,437 --> 00:05:14,420
+dù giảm một nửa xuất huyết nội sọ.
+
+79
+00:05:14,620 --> 00:05:18,698
+Nguyên tắc của ESC vẫn giữ: không dùng điểm chảy máu để bỏ chống đông,
+
+80
+00:05:18,548 --> 00:05:23,523
+mà tìm và sửa yếu tố nguy cơ. Chỉ khi có chống chỉ định chống đông lâu dài thật sự mới
+
+81
+00:05:23,373 --> 00:05:25,038
+nghĩ đến bít tiểu nhĩ trái,
+
+82
+00:05:24,888 --> 00:05:27,170
+và mức khuyến cáo hiện chỉ là hai b C.
+
+83
+00:05:27,370 --> 00:05:30,721
+Lưu ý dabigatran 110 không có trên nhãn rung nhĩ ở Mỹ,
+
+84
+00:05:30,571 --> 00:05:35,760
+nhưng có ở châu Âu và nước ta. Chưa có so sánh trực tiếp giữa các NOAC trên nhóm này.
+
+85
+00:05:37,210 --> 00:05:41,222
+Ba thử nghiệm về van tim cho ba thông điệp khác nhau. RIVER:
+
+86
+00:05:41,072 --> 00:05:45,342
+rung nhĩ có van sinh học hai lá, rivaroxaban không kém warfarin,
+
+87
+00:05:45,192 --> 00:05:48,560
+đột quỵ thậm chí ít hơn, 0,6 so với 2,4 phần trăm.
+
+88
+00:05:48,760 --> 00:05:52,706
+ENVISAGE-TAVI AF: sau thay van động mạch chủ qua ống thông,
+
+89
+00:05:52,556 --> 00:05:54,572
+bệnh nhân trung bình 82 tuổi,
+
+90
+00:05:54,422 --> 00:05:59,397
+edoxaban không kém thuốc kháng vitamin K nhưng tăng chảy máu nặng, HR 1,40,
+
+91
+00:05:59,247 --> 00:06:01,070
+chủ yếu chảy máu tiêu hoá.
+
+92
+00:06:01,270 --> 00:06:04,450
+INVICTUS là thử nghiệm quan trọng nhất với nước ta:
+
+93
+00:06:04,300 --> 00:06:09,974
+hơn 4500 bệnh nhân rung nhĩ có bệnh van tim hậu thấp. Rivaroxaban thua thuốc kháng vitamin K,
+
+94
+00:06:09,824 --> 00:06:14,667
+với tử vong cao hơn. Thực hành: hẹp hai lá hậu thấp dùng thuốc kháng vitamin K,
+
+95
+00:06:14,517 --> 00:06:17,400
+không thay bằng NOAC dù theo dõi INR khó khăn.
+
+96
+00:06:18,850 --> 00:06:20,760
+Mời quý vị làm một tình huống.
+
+97
+00:06:20,960 --> 00:06:24,470
+Nam 70 tuổi, bệnh thận mạn giai đoạn cuối, đang lọc máu chu kỳ,
+
+98
+00:06:24,320 --> 00:06:26,123
+rung nhĩ với CHA2DS2-VA bằng 4,
+
+99
+00:06:25,973 --> 00:06:29,590
+không có tiền sử chảy máu nặng. Sau khi thảo luận với người bệnh,
+
+100
+00:06:29,440 --> 00:06:31,190
+đã quyết định dùng chống đông.
+
+101
+00:06:31,390 --> 00:06:35,700
+Lựa chọn nào phù hợp nhất theo hướng dẫn ESC 2026?
+
+102
+00:06:35,900 --> 00:06:38,530
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+103
+00:06:47,130 --> 00:06:53,863
+Đáp án là apixaban 2,5 mi li gam hai lần ngày. Ở bệnh nhân đang lọc máu đã quyết định chống đông,
+
+104
+00:06:53,713 --> 00:06:58,477
+ESC 2026 cho phép ưu tiên ức chế Xa liều thấp, nhất là apixaban 2,5,
+
+105
+00:06:58,327 --> 00:07:03,431
+hơn thuốc kháng vitamin K, mức hai b C. Dabigatran nên tránh khi lọc máu,
+
+106
+00:07:03,281 --> 00:07:06,010
+và aspirin không thay được chống đông.
+
+107
+00:07:07,460 --> 00:07:08,810
+Tóm tắt phần ba.
+
+108
+00:07:09,010 --> 00:07:11,092
+Người già yếu: nghĩ đến apixaban,
+
+109
+00:07:10,942 --> 00:07:14,370
+người đang ổn định với thuốc kháng vitamin K có thể giữ,
+
+110
+00:07:14,220 --> 00:07:18,644
+và không tự ý giảm liều. Bệnh thận mạn: chọn thuốc theo mức lọc cầu thận;
+
+111
+00:07:18,494 --> 00:07:23,210
+ở bệnh nhân lọc máu, apixaban 2,5 mi li gam hai lần ngày là lựa chọn được nêu.
+
+112
+00:07:23,410 --> 00:07:28,680
+Ở hồi sức, khi còn phân vân thì chuyển sang heparin. Child–Pugh B tránh rivaroxaban.
+
+113
+00:07:28,880 --> 00:07:34,006
+Hẹp hai lá hậu thấp dùng thuốc kháng vitamin K. Phần bốn sẽ bàn bệnh mạch vành, đột quỵ,
+
+114
+00:07:33,856 --> 00:07:35,024
+xuất huyết nội sọ,
+
+115
+00:07:34,874 --> 00:07:39,830
+ung thư và giải ca mở đầu. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.
