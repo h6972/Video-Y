@@ -1,0 +1,888 @@
+{
+ "title": "Suy hô hấp cấp – Phần 4: Oxy dòng cao qua cannula mũi",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Suy hô hấp cấp · oxy, HFNC, NIV",
+ "part": "Suy hô hấp cấp · Phần 4/6",
+ "source_short": "Nguồn: ATS 2026 · ERS 2022 · ERS/ATS 2017 · BTS/ICS 2016 · BTS 2017 · SRLF-SFMU 2024 · thử nghiệm gốc · Oh's, Hall, Marino, Murray & Nadel",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "HELMET-COVID": "hen mét cô vít",
+  "Confalonieri": "côn pha lô ni ê ri",
+  "RECOVERY-RS": "ri ca vơ ri a rờ ét",
+  "HiFlo-COVID": "hai phlô cô vít",
+  "PaO₂/FiO₂": "PaO hai trên FiO hai",
+  "SpO₂/FiO₂": "SpO hai trên FiO hai",
+  "FLORALI-2": "phlo ra li hai",
+  "HIGH-WEAN": "hai uyn",
+  "HF-AECOPD": "hát ép a e cốp",
+  "LUNG SAFE": "lâng sếp",
+  "Hernández": "éc nan đét",
+  "P(A–a)O₂": "chênh áp oxy phế nang động mạch",
+  "RENOVATE": "ri nô vết",
+  "COVID-19": "cô vít mười chín",
+  "Carteaux": "các tô",
+  "Brochard": "brô sa",
+  "Kacmarek": "các ma rếch",
+  "mL/giây": "mi li lít mỗi giây",
+  "BTS/ICS": "bê tê ét, i xê ét",
+  "ERS/ATS": "e rờ ét, a tê ét",
+  "FLORALI": "phlo ra li",
+  "HENIVOT": "he ni vốt",
+  "ICU-ROX": "i xi u rốc",
+  "HOT-ICU": "hót i xi u",
+  "Venturi": "ven tu ri",
+  "Tonelli": "tô ne li",
+  "Esteban": "ét tê ban",
+  "Lemiale": "lơ mi an",
+  "Hilbert": "hin be",
+  "Sjoding": "sô đinh",
+  "Haldane": "hôn đên",
+  "PETCO₂": "PetCO hai",
+  "L/phút": "lít mỗi phút",
+  "P-SILI": "pê si li",
+  "PREOXI": "pri ốc xi",
+  "UK-ROX": "u ca rốc",
+  "DETO2X": "đê tốc",
+  "Möller": "mơ lơ",
+  "PaCO₂": "PaCO hai",
+  "PvCO₂": "PvCO hai",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "PEEPi": "píp nội sinh",
+  "HACOR": "ha co",
+  "TSANZ": "tê san",
+  "GRADE": "grết",
+  "BiPOP": "bai póp",
+  "NIVAS": "ni vát",
+  "LOCO2": "lô cô hai",
+  "PILOT": "pai lốt",
+  "Mauri": "mau ri",
+  "PaO₂": "PaO hai",
+  "SpO₂": "SpO hai",
+  "SaO₂": "SaO hai",
+  "FiO₂": "FiO hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "g/dL": "gam mỗi đề xi lít",
+  "HFNC": "oxy dòng cao qua cannula mũi",
+  "CPAP": "xi páp",
+  "IPAP": "i páp",
+  "EPAP": "e páp",
+  "PEEP": "píp",
+  "ΔPes": "đen ta pê ét",
+  "COPD": "bệnh phổi tắc nghẽn mạn tính",
+  "ARDS": "a rờ đê ét",
+  "SRLF": "ét rờ e lờ ép",
+  "HIGH": "hai",
+  "3CPO": "ba xê pê ô",
+  "CaO₂": "xê a O hai",
+  "CO₂": "CO hai",
+  "kPa": "ki lô pát xcan",
+  "NIV": "thông khí không xâm nhập",
+  "ROX": "rốc",
+  "Vte": "thể tích khí lưu thông thở ra",
+  "NKQ": "nội khí quản",
+  "BTS": "bê tê ét",
+  "ERS": "e rờ ét",
+  "ATS": "a tê ét",
+  "ACP": "a xê pê",
+  "BMJ": "bê em di",
+  "V/Q": "thông khí trên tưới máu",
+  "S/F": "S trên F",
+  "P/F": "P trên F",
+  "DO₂": "đê O hai"
+ },
+ "brand": {
+  "next": "Phần 5: CPAP, thông khí không xâm nhập và helmet"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "art": "lungs",
+   "chapter": "Mở đầu",
+   "kicker": "SUY HÔ HẤP CẤP · PHẦN 4/6",
+   "title": "Oxy dòng cao<br>qua cannula mũi",
+   "subtitle": "Cơ chế, bằng chứng, khuyến cáo và cách dùng tại giường",
+   "badges": [
+    {
+     "t": "4 cơ chế",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "FLORALI → RENOVATE",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Cài đặt · ROX · cai",
+     "c": "blue",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: ATS 2026 · ERS 2022 · SRLF-SFMU 2024 · FLORALI · HIGH · HiFlo-COVID · RECOVERY-RS · RENOVATE · Hess & Kacmarek",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần bốn của loạt bài suy hô hấp cấp trên Thư Viện Y Khoa Online.",
+    "Trong nhiều thập niên, oxy cho người lớn suy hô hấp chỉ có hai nấc: dụng cụ lưu lượng thấp, và khi thất bại thì chuyển thẳng sang thông khí áp lực dương. Một người viêm phổi thở 35 lần mỗi phút có lưu lượng hít vào đỉnh vượt xa 15 lít mà mask không thở lại cung cấp.",
+    "Oxy dòng cao qua cannula mũi lấp khoảng trống đó: dòng khí đủ lớn để gần như không còn khí phòng lọt vào, lại được làm ấm, làm ẩm nên người bệnh chịu được nhiều giờ, nhiều ngày. Năm 2026, Hội Lồng ngực Hoa Kỳ khuyến cáo mạnh dùng HFNC thay cho oxy quy ước ở suy hô hấp giảm oxy máu mới xuất hiện.",
+    "Phần này đi theo trình tự cơ chế, bằng chứng, khuyến cáo và cách dùng tại giường."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Cấu tạo",
+   "title": "Năm thành phần của hệ thống HFNC",
+   "ref": "Hess & Kacmarek 4e · Hall 5e · Murray & Nadel 7e · vẽ lại, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Nguồn khí",
+     "d": "Bộ trộn khí – oxy, tua-bin",
+     "x": 210,
+     "y": 260,
+     "w": 300,
+     "h": 120,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Lưu lượng kế",
+     "d": "Dải cao, tới 60 L/phút",
+     "x": 570,
+     "y": 260,
+     "w": 300,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "Bình làm ẩm",
+     "d": "Chủ động, có sưởi",
+     "x": 930,
+     "y": 260,
+     "w": 300,
+     "h": 120,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Dây thở sưởi",
+     "d": "Không ngưng tụ nước",
+     "x": 1290,
+     "y": 260,
+     "w": 300,
+     "h": 120,
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "id": "e",
+     "t": "Cannula cỡ lớn",
+     "d": "Chuyên dụng",
+     "x": 1600,
+     "y": 470,
+     "w": 300,
+     "h": 120,
+     "c": "coral",
+     "at": 1
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "c": "violet",
+     "at": 1
+    }
+   ],
+   "note": {
+    "t": "Tới 60 L/phút · FiO₂ 21–100% · khí gần 37 °C, gần bão hoà hơi nước · làm ẩm là bắt buộc",
+    "at": 2,
+    "c": "green",
+    "y": 640
+   },
+   "lines": [
+    "Một hệ thống HFNC gồm năm phần: nguồn khí, có thể là bộ trộn khí oxy, máy thở hoặc tua-bin tạo dòng, và lưu lượng kế dải cao.",
+    "Tiếp theo là bình làm ẩm chủ động có sưởi, dây thở có dây sưởi để khí không ngưng tụ trên đường đi, và cannula mũi cỡ lớn chuyên dụng.",
+    "Hệ thống cung cấp lưu lượng tới 60 lít mỗi phút với FiO₂ từ 21 đến 100%, khí gần 37 độ và gần bão hoà hơi nước. Vì vậy làm ẩm không phải tuỳ chọn mà là điều kiện bắt buộc của HFNC."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Cơ chế",
+   "title": "Bốn cơ chế tác dụng",
+   "ref": "Murray & Nadel 7e · Möller 2015 · Marino 5e · Mauri 2017",
+   "cards": [
+    {
+     "tag": "1",
+     "t": "FiO₂ ổn định",
+     "items": [
+      "Lưu lượng ≥ lưu lượng hít vào đỉnh",
+      "FiO₂ cài đặt ≈ FiO₂ thực nhận"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "2",
+     "t": "Rửa khoảng chết",
+     "items": [
+      "Đẩy CO₂ khỏi hốc mũi – hầu",
+      "Mô hình: +1,8 mL/giây mỗi L/phút"
+     ],
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "3",
+     "t": "Áp lực dương nhỏ",
+     "items": [
+      "0,3–1,0 cmH₂O mỗi 10 L/phút",
+      "2–3 cmH₂O chỉ khi ngậm miệng",
+      "Không thay được CPAP"
+     ],
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "4",
+     "t": "Giảm gắng sức",
+     "items": [
+      "Mauri: ΔPes 9,9 → 8,0 cmH₂O",
+      "Thông khí phút giảm, P/F cải thiện"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "HFNC không chỉ là một cannula to hơn. Cơ chế thứ nhất là FiO₂ ổn định và biết trước: khi lưu lượng cung cấp bằng hoặc vượt lưu lượng hít vào đỉnh, khí phòng gần như không pha loãng oxy.",
+    "Thứ hai, rửa khoảng chết giải phẫu: dòng khí liên tục đẩy CO₂ ra khỏi hốc mũi hầu. Trên mô hình đường thở của Möller, mỗi lít mỗi phút tăng thêm làm tốc độ thanh thải ở hốc mũi tăng khoảng 1,8 mi li lít mỗi giây. Đây là thí nghiệm trên mô hình, không phải trên người bệnh.",
+    "Thứ ba, một mức áp lực dương nhỏ: khoảng 0,3 đến 1 xăng ti mét nước cho mỗi 10 lít mỗi phút. Marino nhấn mạnh mức 2 đến 3 chỉ đạt được khi người bệnh ngậm miệng, điều hiếm gặp khi đang suy hô hấp. HFNC không thay thế được CPAP khi cần mở phế nang xẹp.",
+    "Thứ tư, giảm gắng sức hô hấp. Trong nghiên cứu bắt chéo của Mauri trên 15 người giảm oxy máu, chuyển từ mask sang HFNC 40 lít ở cùng FiO₂ làm dao động áp lực thực quản giảm từ 9,9 xuống 8,0, thông khí phút giảm và P trên F cải thiện."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "box",
+   "chapter": "Cơ chế",
+   "title": "Giới hạn: HFNC không kiểm soát được gắng sức",
+   "ref": "Chuyên đề mục 1.8 · Phần 1",
+   "box": {
+    "tag": "ĐIỂM MÙ",
+    "t": "HFNC giảm gắng sức nhưng không kiểm soát thể tích khí lưu thông và áp lực xuyên phổi người bệnh tự tạo ra",
+    "at": 0,
+    "c": "coral"
+   },
+   "notes": [
+    {
+     "tag": "NGUY CƠ",
+     "t": "Động lực thở rất mạnh → P-SILI vẫn còn nguyên",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "HỆ QUẢ",
+     "t": "Theo dõi đáp ứng có hẹn giờ quan trọng như chính việc bắt đầu HFNC",
+     "at": 1,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Giới hạn của các cơ chế này cũng quan trọng không kém. HFNC giảm gắng sức nhưng không kiểm soát được thể tích khí lưu thông và áp lực xuyên phổi do người bệnh tự tạo ra.",
+    "Ở người có động lực thở rất mạnh, nguy cơ tổn thương phổi do tự gắng sức vẫn còn nguyên, như đã trình bày ở phần một. Đó là lý do việc theo dõi đáp ứng có hẹn giờ quan trọng như chính việc bắt đầu HFNC."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "FLORALI 2015: đặt nội khí quản ngày 28",
+   "ref": "Frat 2015, NEJM",
+   "groups": [
+    {
+     "t": "Toàn bộ 310 người",
+     "d": "p = 0,18 (không ý nghĩa)",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "HFNC",
+       "v": 38,
+       "lab": "38%",
+       "c": "teal"
+      },
+      {
+       "k": "Oxy mask",
+       "v": 47,
+       "lab": "47%"
+      },
+      {
+       "k": "NIV",
+       "v": 50,
+       "lab": "50%"
+      }
+     ]
+    },
+    {
+     "t": "P/F ≤ 200 (hậu kiểm)",
+     "d": "Phân nhóm",
+     "at": 2,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "HFNC",
+       "v": 35,
+       "lab": "35%",
+       "c": "amber"
+      },
+      {
+       "k": "Oxy mask",
+       "v": 53,
+       "lab": "53%"
+      },
+      {
+       "k": "NIV",
+       "v": 58,
+       "lab": "58%"
+      }
+     ]
+    }
+   ],
+   "max": 65,
+   "notes": [
+    {
+     "tag": "THIẾT KẾ",
+     "t": "23 hồi sức Pháp, Bỉ · nhịp thở > 25, P/F ≤ 300, PaCO₂ ≤ 45",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "KẾT CỤC PHỤ",
+     "t": "Tử vong ngày 90 thấp hơn ở HFNC · HR 2,01 (oxy) và 2,50 (NIV) so với HFNC",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "ĐỌC ĐÚNG",
+     "t": "Kết cục chính âm tính · NIV chỉ ≥ 8 giờ/ngày, hỗ trợ thấp",
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "FLORALI là thử nghiệm ba nhánh tại 23 đơn vị hồi sức ở Pháp và Bỉ, trên 310 người suy hô hấp giảm oxy máu mới xuất hiện: nhịp thở trên 25, P trên F từ 300 trở xuống, PaCO₂ không quá 45.",
+    "Tỉ lệ đặt nội khí quản ngày 28 là 38% với HFNC, 47% với oxy mask và 50% với thông khí không xâm nhập, khác biệt không có ý nghĩa thống kê.",
+    "Trong phân tích hậu kiểm ở người có P trên F từ 200 trở xuống, tỉ lệ lần lượt là 35, 53 và 58%.",
+    "Ở kết cục phụ, tử vong ngày 90 thấp hơn có ý nghĩa ở nhóm HFNC, với khoảng tin cậy rộng.",
+    "Cần đọc đúng bối cảnh: kết cục chính âm tính, lợi ích nằm ở kết cục phụ và phân nhóm hậu kiểm, và nhánh thông khí không xâm nhập chỉ yêu cầu tối thiểu 8 giờ mỗi ngày với mức hỗ trợ thấp, khác xa thực hành hiện nay."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Bằng chứng",
+   "title": "Các thử nghiệm sau FLORALI",
+   "ref": "Azoulay 2018 · Ospina-Tascón 2021 · Perkins 2022 · RENOVATE 2025",
+   "head": [
+    "Thử nghiệm",
+    "Quần thể",
+    "So sánh",
+    "Kết cục chính"
+   ],
+   "widths": "1.1fr 1.3fr 1.3fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "HIGH 2018",
+      "Suy giảm miễn dịch, 776",
+      "HFNC – oxy quy ước",
+      "Tử vong ngày 28: 35,6% – 36,1%"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "HiFlo-COVID 2021",
+      "COVID-19 nặng, 199",
+      "HFNC – oxy quy ước",
+      "Đặt NKQ: <b>34,3% – 51,0%</b> (HR 0,62)"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "RECOVERY-RS 2022",
+      "COVID-19, 1.273",
+      "CPAP – HFNC – oxy",
+      "HFNC: NKQ hoặc tử vong 44,3% – 45,1%"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "RENOVATE 2025",
+      "5 nhóm bệnh, 1.766",
+      "HFNC – NIV mặt nạ",
+      "Không kém ở 4/5 nhóm · suy giảm miễn dịch dừng sớm"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Ở người suy giảm miễn dịch, thử nghiệm HIGH với 776 người không cho thấy HFNC giảm tử vong ngày 28: 35,6% so với 36,1%.",
+    "Trong COVID-19, HiFlo-COVID cho thấy HFNC giảm đặt nội khí quản từ 51,0% xuống 34,3%, trong khi ở RECOVERY-RS với 1.273 người, nhánh HFNC không khác oxy quy ước, còn nhánh CPAP lại có lợi.",
+    "Gần nhất, RENOVATE so sánh trực tiếp HFNC với thông khí không xâm nhập ở 1.766 người thuộc năm nhóm bệnh, và thấy HFNC không kém ở bốn nhóm; riêng nhóm suy giảm miễn dịch bị dừng sớm vì không có khả năng chứng minh không kém."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Bằng chứng",
+   "title": "Phân tích gộp: giảm đặt nội khí quản, chưa chắc giảm tử vong",
+   "ref": "Rochwerg 2019 · Lee 2026 · ATS 2026",
+   "tiles": [
+    {
+     "tag": "ROCHWERG 2019 · NKQ",
+     "v": 0.85,
+     "dec": 2,
+     "pre": "RR ",
+     "l": "9 thử nghiệm, 2.093 người",
+     "d": "Tử vong RR 0,94",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "LEE 2026 · NKQ",
+     "v": 0.61,
+     "dec": 2,
+     "pre": "OR ",
+     "l": "44 thử nghiệm, 9.704 người",
+     "d": "Tử vong OR 0,83 (chắc chắn thấp)",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "ATS 2026 · NKQ",
+     "v": 0.76,
+     "dec": 2,
+     "pre": "RR ",
+     "l": "độ chắc chắn vừa",
+     "d": "",
+     "c": "blue",
+     "at": 2
+    }
+   ],
+   "cols": 3,
+   "note": {
+    "t": "HFNC giảm nhu cầu đặt nội khí quản và giảm khó chịu so với oxy quy ước · lợi ích tử vong chưa chắc chắn",
+    "at": 3,
+    "c": "green"
+   },
+   "lines": [
+    "Khi gộp các thử nghiệm, bức tranh nhất quán hơn. Phân tích gộp của Rochwerg năm 2019 trên 9 thử nghiệm cho thấy HFNC giảm đặt nội khí quản so với oxy quy ước, RR 0,85, nhưng không giảm tử vong.",
+    "Phân tích gộp mạng lưới của Lee năm 2026 trên 44 thử nghiệm với 9.704 người cho kết quả tương tự về đặt nội khí quản, OR 0,61, kèm tín hiệu giảm tử vong với mức chắc chắn thấp.",
+    "Hướng dẫn ATS 2026 ước tính RR đặt nội khí quản 0,76 với độ chắc chắn vừa.",
+    "Tóm lại, HFNC giảm nhu cầu đặt nội khí quản và giảm khó chịu so với oxy quy ước; lợi ích về tử vong vẫn chưa chắc chắn."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Khuyến cáo",
+   "title": "Khuyến cáo về HFNC của ba hội",
+   "ref": "ATS 2026 · ERS 2022 · SRLF-SFMU 2024",
+   "head": [
+    "Tình huống",
+    "ATS 2026",
+    "ERS 2022",
+    "SRLF 2024"
+   ],
+   "widths": "1.2fr 1.5fr 1.3fr 1.5fr",
+   "rows": [
+    {
+     "cells": [
+      "HFNC vs oxy quy ước",
+      "Khuyến cáo HFNC (mạnh, vừa)",
+      "Gợi ý HFNC (có điều kiện)",
+      "Oxy > 6 L/phút để SpO₂ > 92% hoặc P/F < 200 (GRADE 2+)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "HFNC vs NIV",
+      "<b>Không</b> khuyến cáo theo hay chống",
+      "Gợi ý HFNC (rất thấp)",
+      "HFNC khi chưa có tiêu chí NKQ (GRADE 2+)"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Tăng CO₂",
+      "Thay thế được khi pH > 7,25, theo dõi sát",
+      "Thử NIV trước ở COPD",
+      "Ngoài phạm vi"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Nơi điều trị",
+      "Theo dõi liên tục, có đường leo thang",
+      "–",
+      "Nên ở hồi sức"
+     ],
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Ba hội đồng thuận ở điểm chính: HFNC tốt hơn oxy quy ước ở suy hô hấp giảm oxy máu. Hội Hồi sức Pháp đưa ngưỡng rõ ràng: cần oxy trên 6 lít mỗi phút để giữ SpO₂ trên 92%, hoặc P trên F dưới 200.",
+    "Khác biệt nằm ở câu hỏi HFNC hay thông khí không xâm nhập. ATS 2026 không xếp HFNC trên hay dưới NIV, và cho rằng lựa chọn phụ thuộc người bệnh, kinh nghiệm và nguồn lực; trong khi ERS 2022 và Hội Hồi sức Pháp ưu tiên HFNC. Một phần khác biệt có thể vì ATS xét chung cả CPAP và helmet.",
+    "Với suy hô hấp tăng CO₂, ATS cho rằng HFNC có thể thay thế khi toan nhẹ, pH trên 7,25, nếu theo dõi sát và chuyển NIV kịp; ERS gợi ý thử NIV trước ở COPD.",
+    "Và HFNC cần theo dõi liên tục với đường leo thang sẵn sàng; Hội Hồi sức Pháp đề nghị điều trị ở hồi sức."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Tại giường",
+   "title": "Lưu đồ dùng HFNC",
+   "ref": "Vẽ lại theo Hess & Kacmarek 4e, Hình 11-6",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "SpO₂ < 90% dù cannula 6 L/phút",
+     "d": "Không tăng CO₂",
+     "x": 330,
+     "y": 200,
+     "w": 500,
+     "h": 120,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "HFNC 50 L/phút · FiO₂ 1,0",
+     "d": "Khởi đầu",
+     "x": 900,
+     "y": 200,
+     "w": 460,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "c",
+     "t": "SpO₂ > 90%?",
+     "d": "",
+     "x": 1450,
+     "y": 200,
+     "w": 360,
+     "h": 120,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Không: cân nhắc leo thang",
+     "d": "NIV, đặt NKQ",
+     "x": 1450,
+     "y": 470,
+     "w": 420,
+     "h": 120,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "e",
+     "t": "Có: chuẩn độ FiO₂",
+     "d": "SpO₂ 88–95% · giữ lưu lượng, giảm FiO₂ trước",
+     "x": 870,
+     "y": 470,
+     "w": 560,
+     "h": 120,
+     "c": "green",
+     "at": 2
+    },
+    {
+     "id": "f",
+     "t": "FiO₂ 0,4 · SpO₂ > 90%",
+     "d": "Về oxy lưu lượng thấp",
+     "x": 330,
+     "y": 470,
+     "w": 420,
+     "h": 120,
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "d",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "e",
+     "c": "green",
+     "at": 2
+    },
+    {
+     "a": "e",
+     "b": "f",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "note": {
+    "t": "RENOVATE: khởi đầu 45 L/phút · FiO₂ 0,5 → tăng tới 60 L/phút · COPD 30 L/phút, đích 88–92%",
+    "at": 4,
+    "c": "amber",
+    "y": 640
+   },
+   "lines": [
+    "Lưu đồ của Hess và Kacmarek tóm tắt cách làm thực tế. Khi SpO₂ dưới 90% hoặc PaO₂ dưới 60 không kèm tăng CO₂ dù cannula đã 6 lít mỗi phút, bắt đầu HFNC 50 lít mỗi phút với FiO₂ 1,0.",
+    "Nếu vẫn không đạt SpO₂ trên 90%, cân nhắc leo thang.",
+    "Nếu đạt, chuẩn độ FiO₂ cho SpO₂ 88 đến 95%. Khi giảm bậc, giữ lưu lượng và giảm FiO₂ trước.",
+    "Khi FiO₂ còn 0,4 mà SpO₂ trên 90%, có thể chuyển về oxy lưu lượng thấp.",
+    "Các thử nghiệm có cách khởi đầu hơi khác: FLORALI và HIGH 50 lít với FiO₂ 1,0, HiFlo-COVID 60 lít, RENOVATE 45 lít với FiO₂ 0,5 rồi tăng dần tới 60. Ở người COPD, RENOVATE khởi đầu 30 lít mỗi phút, đích SpO₂ 88 đến 92%."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Tại giường",
+   "title": "Theo dõi, nằm sấp và cai HFNC",
+   "ref": "Roca 2019 · Ehrmann 2021 · SRLF 2024 · HIGH · HiFlo-COVID · Hess 2019",
+   "cards": [
+    {
+     "tag": "THEO DÕI",
+     "t": "ROX có hẹn giờ",
+     "items": [
+      "< 2,85 · < 3,47 · < 3,85 ở 2 · 6 · 12 giờ",
+      "≥ 4,88: dự báo thành công",
+      "Đặc hiệu cao, nhạy thấp"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "NẰM SẤP",
+     "t": "Khi tỉnh, COVID-19",
+     "items": [
+      "1.121 người: NKQ 33% vs 40% (HR 0,75)",
+      "Tử vong không khác",
+      "SRLF: không khuyến cáo ngoài COVID-19"
+     ],
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "CAI",
+     "t": "Chưa có quy trình chuẩn",
+     "items": [
+      "Hết dấu hiệu suy hô hấp",
+      "P/F > 300 (HIGH) hoặc > 200 (HiFlo)",
+      "Giảm FiO₂ trước, rồi giảm lưu lượng"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "DUNG NẠP",
+     "t": "Tốt",
+     "items": [
+      "HIGH: chỉ 3% đổi sang Venturi vì không chịu được"
+     ],
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Vì HFNC có thể che lấp diễn tiến xấu, đánh giá lại phải có hẹn giờ bằng chỉ số ROX, với các ngưỡng đã trình bày ở phần hai.",
+    "Ở người COVID-19 đang dùng HFNC, nằm sấp khi tỉnh giảm đặt nội khí quản: trong phân tích gộp tiến cứu 1.121 người, 33% so với 40%, dù tử vong không khác. Hội Hồi sức Pháp khuyến cáo biện pháp này cho COVID-19 nhưng không khuyến cáo ngoài COVID-19.",
+    "Về cai HFNC, các hướng dẫn chưa đưa ra quy trình cụ thể. Các thử nghiệm dùng tiêu chí gần giống nhau: hết dấu hiệu suy hô hấp, P trên F trên 300 hoặc trên 200, giữ được SpO₂ mục tiêu với oxy quy ước. Nguyên tắc chung là giảm FiO₂ trước, giữ lưu lượng, rồi mới giảm lưu lượng.",
+    "HFNC được dung nạp tốt; trong HIGH chỉ 3% người bệnh phải đổi sang mask Venturi vì không chịu được."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Mặt trái",
+   "title": "Mặt trái lớn nhất: trì hoãn đặt nội khí quản",
+   "ref": "Kang 2015, Intensive Care Med (hồi cứu)",
+   "tiles": [
+    {
+     "tag": "ĐẶT NKQ SAU 48 GIỜ",
+     "v": 66.7,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong hồi sức",
+     "d": "",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "ĐẶT NKQ SỚM HƠN",
+     "v": 39.2,
+     "dec": 1,
+     "suf": "%",
+     "l": "tử vong hồi sức",
+     "d": "",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "cols": 2,
+   "note": {
+    "t": "175 người thất bại HFNC · quan sát, có thể nhiễu bởi mức độ nặng · phù hợp cơ chế P-SILI",
+    "at": 2,
+    "c": "amber"
+   },
+   "lines": [
+    "Mặt trái lớn nhất của HFNC không phải biến chứng tại chỗ mà là nguy cơ trì hoãn đặt nội khí quản.",
+    "Trong nghiên cứu hồi cứu của Kang ở Hàn Quốc trên 175 người thất bại HFNC, nhóm được đặt nội khí quản sau 48 giờ có tử vong hồi sức 66,7%, so với 39,2% ở nhóm đặt sớm hơn.",
+    "Đây là dữ liệu quan sát và có thể bị nhiễu bởi mức độ nặng, nhưng thông điệp phù hợp với cơ chế P-SILI: khi người bệnh tiếp tục gắng sức dữ dội dưới HFNC, chờ thêm không có lợi."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: viêm phổi, ROX giờ 6 = 2,8",
+   "ref": "Ca minh hoạ · Roca 2019 · ATS 2026 · SRLF 2024",
+   "case": "Nữ 58 tuổi, viêm phổi. HFNC 60 L/phút, FiO₂ 0,9 · giờ 6: SpO₂ 92%, nhịp thở 36, co kéo cơ hô hấp phụ · <b>ROX ≈ 2,8</b>. Huyết động ổn, tỉnh.",
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "options": [
+    "Tăng lưu lượng lên 70 L/phút và đánh giá lại sau 6 giờ",
+    "Chuyển NIV mặt nạ và chờ thêm 12 giờ",
+    "Chuẩn bị đặt nội khí quản có kế hoạch",
+    "Thêm mask không thở lại phủ ngoài cannula"
+   ],
+   "answer": 2,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "ROX < 3,47 ở giờ 6: đặc hiệu ~98–99% cho thất bại · đã ở lưu lượng tối đa, FiO₂ cao, gắng sức nhiều · HFNC không được làm chậm đặt NKQ cần thiết (ATS 2026) · Kang: đặt muộn đi kèm tử vong cao",
+   "lines": [
+    "Tình huống. Nữ 58 tuổi, viêm phổi, đang HFNC 60 lít mỗi phút, FiO₂ 0,9. Ở giờ thứ sáu, SpO₂ 92%, nhịp thở 36, co kéo cơ hô hấp phụ; ROX khoảng 2,8. Huyết động ổn, tỉnh táo.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là C. ROX dưới 3,47 ở giờ thứ sáu có độ đặc hiệu khoảng 98 đến 99% cho thất bại. Người bệnh đã ở lưu lượng tối đa, FiO₂ cao và vẫn gắng sức nhiều.",
+    "ATS 2026 nhấn mạnh HFNC không được làm chậm đặt nội khí quản cần thiết. Chuẩn bị đặt nội khí quản có kế hoạch, khi người bệnh còn huyết động ổn, an toàn hơn nhiều so với đặt cấp cứu sau nhiều giờ chờ đợi."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Bốn cơ chế",
+     "d": "FiO₂ ổn định · rửa khoảng chết · áp lực nhỏ · giảm gắng sức",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Không thay được CPAP",
+     "d": "0,3–1 cmH₂O mỗi 10 L/phút, chỉ khi ngậm miệng",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Giảm đặt NKQ so với oxy quy ước",
+     "d": "Lợi ích tử vong chưa chắc chắn",
+     "c": "green",
+     "at": 2
+    },
+    {
+     "t": "Bắt đầu khi oxy > 6 L/phút hoặc P/F < 200",
+     "d": "50–60 L/phút, chuẩn độ FiO₂ theo SpO₂",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Giảm FiO₂ trước, giữ lưu lượng",
+     "d": "FiO₂ 0,4, SpO₂ > 90% → oxy lưu lượng thấp",
+     "c": "violet",
+     "at": 4
+    },
+    {
+     "t": "Đừng để HFNC trì hoãn đặt NKQ",
+     "d": "ROX có hẹn giờ · đặt NKQ đúng lúc",
+     "c": "coral",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết sáu thông điệp. Một, HFNC có bốn cơ chế: FiO₂ ổn định, rửa khoảng chết, áp lực dương nhỏ và giảm gắng sức.",
+    "Hai, áp lực tạo ra rất nhỏ, nên HFNC không thay được CPAP.",
+    "Ba, HFNC giảm đặt nội khí quản so với oxy quy ước; lợi ích tử vong chưa chắc chắn.",
+    "Bốn, bắt đầu khi cần oxy trên 6 lít mỗi phút hoặc P trên F dưới 200, với 50 đến 60 lít mỗi phút.",
+    "Năm, khi cai, giảm FiO₂ trước và giữ lưu lượng.",
+    "Sáu, đừng để HFNC trì hoãn đặt nội khí quản.",
+    "Phần năm sẽ nói về CPAP, thông khí không xâm nhập và helmet. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s13"
+  }
+ ]
+}
