@@ -1,0 +1,415 @@
+{
+ "title": "Suy hô hấp cấp – Ca lâm sàng 1: viêm phổi và oxy dòng cao",
+ "theme": "case",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Ca lâm sàng Hồi sức · suy hô hấp cấp",
+ "part": "Suy hô hấp cấp · Ca 1/3",
+ "source_short": "Nguồn: ATS 2026 · ERS 2022 · ERS/ATS 2017 · BTS/ICS 2016 · BTS 2017 · SRLF-SFMU 2024 · thử nghiệm gốc · Oh's, Hall, Marino, Murray & Nadel",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "HELMET-COVID": "hen mét cô vít",
+  "Confalonieri": "côn pha lô ni ê ri",
+  "RECOVERY-RS": "ri ca vơ ri a rờ ét",
+  "HiFlo-COVID": "hai phlô cô vít",
+  "PaO₂/FiO₂": "PaO hai trên FiO hai",
+  "SpO₂/FiO₂": "SpO hai trên FiO hai",
+  "FLORALI-2": "phlo ra li hai",
+  "HIGH-WEAN": "hai uyn",
+  "HF-AECOPD": "hát ép a e cốp",
+  "LUNG SAFE": "lâng sếp",
+  "Hernández": "éc nan đét",
+  "P(A–a)O₂": "chênh áp oxy phế nang động mạch",
+  "RENOVATE": "ri nô vết",
+  "COVID-19": "cô vít mười chín",
+  "Carteaux": "các tô",
+  "Brochard": "brô sa",
+  "Kacmarek": "các ma rếch",
+  "mL/giây": "mi li lít mỗi giây",
+  "BTS/ICS": "bê tê ét, i xê ét",
+  "ERS/ATS": "e rờ ét, a tê ét",
+  "FLORALI": "phlo ra li",
+  "HENIVOT": "he ni vốt",
+  "ICU-ROX": "i xi u rốc",
+  "HOT-ICU": "hót i xi u",
+  "Venturi": "ven tu ri",
+  "Tonelli": "tô ne li",
+  "Esteban": "ét tê ban",
+  "Lemiale": "lơ mi an",
+  "Hilbert": "hin be",
+  "Sjoding": "sô đinh",
+  "Haldane": "hôn đên",
+  "PETCO₂": "PetCO hai",
+  "L/phút": "lít mỗi phút",
+  "P-SILI": "pê si li",
+  "PREOXI": "pri ốc xi",
+  "UK-ROX": "u ca rốc",
+  "DETO2X": "đê tốc",
+  "Möller": "mơ lơ",
+  "PaCO₂": "PaCO hai",
+  "PvCO₂": "PvCO hai",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "PEEPi": "píp nội sinh",
+  "HACOR": "ha co",
+  "TSANZ": "tê san",
+  "GRADE": "grết",
+  "BiPOP": "bai póp",
+  "NIVAS": "ni vát",
+  "LOCO2": "lô cô hai",
+  "PILOT": "pai lốt",
+  "Mauri": "mau ri",
+  "PaO₂": "PaO hai",
+  "SpO₂": "SpO hai",
+  "SaO₂": "SaO hai",
+  "FiO₂": "FiO hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "g/dL": "gam mỗi đề xi lít",
+  "HFNC": "oxy dòng cao qua cannula mũi",
+  "CPAP": "xi páp",
+  "IPAP": "i páp",
+  "EPAP": "e páp",
+  "PEEP": "píp",
+  "ΔPes": "đen ta pê ét",
+  "COPD": "bệnh phổi tắc nghẽn mạn tính",
+  "ARDS": "a rờ đê ét",
+  "SRLF": "ét rờ e lờ ép",
+  "HIGH": "hai",
+  "3CPO": "ba xê pê ô",
+  "CaO₂": "xê a O hai",
+  "CO₂": "CO hai",
+  "kPa": "ki lô pát xcan",
+  "NIV": "thông khí không xâm nhập",
+  "ROX": "rốc",
+  "Vte": "thể tích khí lưu thông thở ra",
+  "NKQ": "nội khí quản",
+  "BTS": "bê tê ét",
+  "ERS": "e rờ ét",
+  "ATS": "a tê ét",
+  "ACP": "a xê pê",
+  "BMJ": "bê em di",
+  "V/Q": "thông khí trên tưới máu",
+  "S/F": "S trên F",
+  "P/F": "P trên F",
+  "DO₂": "đê O hai"
+ },
+ "brand": {
+  "next": "Ca lâm sàng 2: đợt cấp COPD và NIV"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng hồi sức · Ca 1/3",
+   "title": "Viêm phổi, thở nhanh<br>và SpO₂ không lên",
+   "subtitle": "Nam 58 tuổi · khoa cấp cứu",
+   "badges": [
+    {
+     "t": "SpO₂ 89%",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Nhịp thở 34",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "4 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "monitor": {
+    "hr": "—",
+    "bp": "—"
+   },
+   "note": "Ca bệnh minh hoạ, do người soạn dựng để học · không phải bệnh án thật",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, đây là ca lâm sàng thứ nhất trong loạt bài suy hô hấp cấp của Thư Viện Y Khoa Online.",
+    "Một người viêm phổi đang thở mask không thở lại mà SpO₂ vẫn không lên. Chúng ta sẽ đi qua bốn điểm quyết định: chọn dụng cụ, đánh giá đáp ứng ở giờ thứ hai, quyết định ở giờ thứ sáu và cách đặt ống an toàn.",
+    "Đây là ca minh hoạ do người soạn dựng để học, không phải bệnh án thật."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Tiếp nhận",
+   "title": "Lúc tiếp nhận",
+   "ref": "Ca minh hoạ",
+   "patient": {
+    "tag": "BỆNH NHÂN",
+    "t": "Nam 58 tuổi",
+    "d": "Viêm phổi thuỳ dưới phải · đang thở mask không thở lại 12 L/phút",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Co kéo cơ hô hấp phụ",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Tỉnh, nói được câu ngắn",
+     "at": 1,
+     "c": "teal"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "SpO₂",
+     "v": "89",
+     "u": "%",
+     "c": "blue",
+     "wave": "pleth",
+     "f": "↓",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "NHỊP THỞ",
+     "v": "34",
+     "u": "l/ph",
+     "c": "amber",
+     "wave": "resp",
+     "f": "↑",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "OXY",
+     "v": "12",
+     "u": "L/ph",
+     "c": "teal",
+     "f": "mask không thở lại",
+     "at": 1
+    },
+    {
+     "k": "PvCO₂",
+     "v": "38",
+     "u": "mmHg",
+     "c": "green",
+     "f": "khí máu tĩnh mạch",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Nam 58 tuổi, viêm phổi thuỳ dưới phải, đang thở mask không thở lại 12 lít mỗi phút. SpO₂ chỉ 89%, nhịp thở 34.",
+    "Người bệnh co kéo cơ hô hấp phụ, nhưng còn tỉnh và nói được câu ngắn.",
+    "Khí máu tĩnh mạch có PvCO₂ 38. Theo Hội Hồi sức Pháp, PvCO₂ dưới 45 gần như loại trừ tăng CO₂, nên đây là suy hô hấp giảm oxy máu đơn thuần."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 1",
+   "title": "Chọn hỗ trợ hô hấp",
+   "ref": "SRLF 2024 · ATS 2026 · ERS 2022",
+   "step": "ĐIỂM QUYẾT ĐỊNH 1",
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "q_at": 1,
+   "context": "Giảm oxy máu đơn thuần, mask không thở lại 12 L/phút, SpO₂ 89%, nhịp thở 34. Tỉnh, chưa có tiêu chí đặt NKQ bắt buộc.",
+   "options": [
+    "Tăng mask lên 15 L/phút và chờ",
+    "HFNC 60 L/phút, FiO₂ 1,0, chỉnh FiO₂ theo SpO₂",
+    "Đặt nội khí quản ngay",
+    "Thêm cannula 6 L/phút dưới mask"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Cần > 6 L/phút để SpO₂ > 92% → HFNC (SRLF GRADE 2+) · ATS 2026: khuyến cáo mạnh HFNC so với oxy quy ước · mask thêm lưu lượng vẫn bị khí phòng pha loãng",
+   "lines": [
+    "Điểm quyết định thứ nhất. Người bệnh giảm oxy máu đơn thuần, mask không thở lại 12 lít, SpO₂ 89%, nhịp thở 34, còn tỉnh và chưa có tiêu chí đặt nội khí quản bắt buộc.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Người bệnh cần trên 6 lít mỗi phút mà SpO₂ vẫn không đạt 92%, đúng ngưỡng Hội Hồi sức Pháp đề nghị dùng HFNC. ATS 2026 khuyến cáo mạnh HFNC so với oxy quy ước.",
+    "Tăng lưu lượng mask không giải quyết vấn đề, vì khi thở 34 lần mỗi phút, lưu lượng hít vào đỉnh vượt xa 15 lít và khí phòng vẫn pha loãng oxy. Cài HFNC 60 lít mỗi phút, FiO₂ 1,0, rồi chỉnh FiO₂ cho SpO₂ từ 92% trở lên."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 2",
+   "title": "Giờ thứ 2",
+   "ref": "Roca 2019",
+   "step": "ĐIỂM QUYẾT ĐỊNH 2",
+   "q": "ROX bao nhiêu và làm gì tiếp?",
+   "q_at": 1,
+   "context": "HFNC 60 L/phút. <b>Giờ 2</b>: SpO₂ 94% với FiO₂ 0,7, nhịp thở 30.",
+   "options": [
+    "ROX ≈ 4,5: vùng giữa, tiếp tục HFNC, đánh giá lại sớm",
+    "ROX ≈ 4,5: thành công, chuyển về cannula",
+    "ROX ≈ 2,8: đặt NKQ ngay",
+    "ROX ≈ 6: giảm lưu lượng xuống 30 L/phút"
+   ],
+   "answer": 0,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "S/F = 94/0,7 = 134 · ROX = 134 ÷ 30 ≈ <b>4,5</b> · trên ngưỡng thất bại 2,85 nhưng dưới 4,88 → vùng giữa: đo lại · khi giảm bậc, giảm FiO₂ trước, giữ lưu lượng",
+   "lines": [
+    "Điểm quyết định thứ hai. Người bệnh đang HFNC 60 lít mỗi phút. Ở giờ thứ hai, SpO₂ 94% với FiO₂ 0,7, nhịp thở 30.",
+    "ROX là bao nhiêu, và làm gì tiếp?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là A. SpO₂ trên FiO₂ bằng 94 chia 0,7, khoảng 134; chia cho nhịp thở 30 được ROX khoảng 4,5.",
+    "Giá trị này trên ngưỡng thất bại 2,85 nhưng chưa tới 4,88, tức là vùng giữa, và Roca đề nghị đo lại. Chưa thể nói thành công, nên chưa giảm bậc; nếu giảm thì giảm FiO₂ trước, giữ lưu lượng."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 3",
+   "title": "Giờ thứ 6",
+   "ref": "Roca 2019 · SRLF 2024 khuyến cáo 7B · Kang 2015",
+   "step": "ĐIỂM QUYẾT ĐỊNH 3",
+   "q": "Quyết định nào phù hợp nhất?",
+   "q_at": 1,
+   "context": "<b>Giờ 6</b>: SpO₂ 92% với FiO₂ 0,9, nhịp thở 36, co kéo nhiều. Khí máu: P/F 85 mmHg. Huyết động ổn, tỉnh.",
+   "options": [
+    "Thêm 6 giờ HFNC rồi đánh giá",
+    "Đặt nội khí quản có kế hoạch",
+    "Chuyển NIV mặt nạ, chờ 12 giờ",
+    "Nằm sấp khi tỉnh và tiếp tục HFNC"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "ROX = 102 ÷ 36 ≈ <b>2,8 < 3,47</b> (đặc hiệu ~99%) · SRLF 7B: P/F < 100, nhịp thở > 30 · Kang: NKQ sau 48 giờ HFNC – tử vong 66,7% vs 39,2% · nằm sấp khi tỉnh: chỉ khuyến cáo ở COVID-19",
+   "lines": [
+    "Điểm quyết định thứ ba. Ở giờ thứ sáu, SpO₂ 92% với FiO₂ 0,9, nhịp thở 36, co kéo nhiều. Khí máu cho P trên F 85. Huyết động vẫn ổn, người bệnh còn tỉnh.",
+    "Quyết định nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. ROX lúc này là 92 chia 0,9, khoảng 102, chia 36, khoảng 2,8, dưới ngưỡng 3,47 ở giờ sáu với độ đặc hiệu khoảng 99%. Thêm vào đó, P trên F dưới 100 và nhịp thở trên 30 là các tiêu chí cân nhắc đặt nội khí quản của Hội Hồi sức Pháp.",
+    "Chờ thêm không có lợi: người bệnh tiếp tục gắng sức dữ dội, với nguy cơ tự gây tổn thương phổi, và dữ liệu của Kang gợi ý đặt ống muộn đi kèm tử vong cao hơn. Nằm sấp khi tỉnh chỉ được khuyến cáo ở COVID-19."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 4",
+   "title": "Đặt ống an toàn",
+   "ref": "Gibbs 2024 (PREOXI) · Frat 2019 (FLORALI-2) · ATS 2026",
+   "step": "ĐIỂM QUYẾT ĐỊNH 4",
+   "q": "Tiền oxy hoá thế nào?",
+   "q_at": 1,
+   "context": "Đã quyết định đặt nội khí quản có kế hoạch. Người bệnh có rất ít dự trữ oxy.",
+   "options": [
+    "Mask không thở lại 15 L/phút trong 3 phút",
+    "Giữ HFNC hoặc chuyển NIV qua mask để tiền oxy hoá",
+    "Không cần tiền oxy hoá vì đã FiO₂ 0,9",
+    "Bóp bóng mạnh trước khi khởi mê"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "PREOXI: NIV giảm SpO₂ < 85% từ 18,5% xuống 9,1% so với mask · FLORALI-2: NIV và HFNC không khác chung · ATS 2026: khuyến cáo mạnh HFNC hoặc NIV, không làm chậm đặt ống",
+   "lines": [
+    "Điểm quyết định cuối. Đã quyết định đặt nội khí quản có kế hoạch. Người bệnh có rất ít dự trữ oxy, nên thời gian ngừng thở khi đặt ống dễ gây giảm bão hoà nặng.",
+    "Tiền oxy hoá thế nào?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Thử nghiệm PREOXI cho thấy tiền oxy hoá bằng NIV giảm tỉ lệ SpO₂ dưới 85% từ 18,5% xuống 9,1% so với oxy qua mask. FLORALI-2 không thấy khác biệt chung giữa NIV và HFNC.",
+    "ATS 2026 khuyến cáo mạnh dùng HFNC hoặc NIV qua mask để tiền oxy hoá, không ưu tiên phương thức nào, và nhắc rằng tiền oxy hoá không được làm chậm đặt ống khi cần khẩn."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "course",
+   "chapter": "Diễn tiến",
+   "title": "Tóm tắt diễn tiến",
+   "ref": "Ca minh hoạ",
+   "events": [
+    {
+     "time": "Vào",
+     "t": "Mask không thở lại 12 L/phút",
+     "d": "SpO₂ 89%, nhịp thở 34, PvCO₂ 38",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "time": "0 giờ",
+     "t": "HFNC 60 L/phút, FiO₂ 1,0",
+     "d": "Chỉnh FiO₂ cho SpO₂ ≥ 92%",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "time": "2 giờ",
+     "t": "ROX ≈ 4,5 · vùng giữa",
+     "d": "Tiếp tục, đánh giá lại sớm",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "time": "6 giờ",
+     "t": "ROX ≈ 2,8 · P/F 85",
+     "d": "Đặt NKQ có kế hoạch, tiền oxy hoá HFNC hoặc NIV",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Tóm tắt diễn tiến. Lúc vào, mask không thở lại 12 lít không đủ.",
+    "Người bệnh được chuyển HFNC 60 lít mỗi phút.",
+    "Ở giờ thứ hai, ROX khoảng 4,5, vùng giữa, cần đánh giá lại sớm.",
+    "Ở giờ thứ sáu, ROX khoảng 2,8 và P trên F 85: người bệnh được đặt nội khí quản có kế hoạch, với tiền oxy hoá bằng HFNC hoặc NIV."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Bài học",
+   "title": "Bài học từ ca 1",
+   "items": [
+    {
+     "t": "Khí máu tĩnh mạch đủ để loại trừ tăng CO₂",
+     "d": "PvCO₂ < 45 mmHg",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Mask không đủ khi thở nhanh",
+     "d": "Cần > 6 L/phút để SpO₂ > 92% → HFNC",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "t": "ROX có hẹn giờ",
+     "d": "Giờ 2 vùng giữa · giờ 6 < 3,47 → thất bại",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Đặt NKQ có kế hoạch, đừng chờ",
+     "d": "Tiền oxy hoá bằng HFNC hoặc NIV",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bài học thứ nhất: khí máu tĩnh mạch đủ để loại trừ tăng CO₂.",
+    "Thứ hai: khi người bệnh thở nhanh, mask không đủ; cần trên 6 lít mỗi phút để giữ SpO₂ trên 92% là lúc dùng HFNC.",
+    "Thứ ba: đánh giá ROX có hẹn giờ, và đọc đúng vùng giữa.",
+    "Thứ tư: khi đã có tiêu chí thất bại, đặt nội khí quản có kế hoạch thay vì chờ thêm. Ca tiếp theo là một người đợt cấp COPD. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s08"
+  }
+ ]
+}

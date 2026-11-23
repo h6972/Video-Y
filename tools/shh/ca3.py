@@ -1,0 +1,81 @@
+# -*- coding: utf-8 -*-
+"""Ca 3 · Sau rút ống nguy cơ cao → NIV dự phòng xen HFNC → suy hô hấp ngày 2. Nguồn: ban-goc.md mục 11, Ca 3."""
+
+TEN_CA = "sau rút ống nguy cơ cao"
+
+
+def scenes(PAUSE):
+    return [
+        {"layout": "title", "chapter": "Mở đầu", "kicker": "Ca lâm sàng hồi sức · Ca 3/3",
+         "title": "Rút ống thành công,<br>rồi ngày thứ hai", "subtitle": "Nam 72 tuổi · thở máy 8 ngày vì viêm phổi",
+         "badges": [{"t": "Nguy cơ cao", "c": "amber", "at": 1}, {"t": "Dự phòng hay cứu vãn", "c": "coral", "at": 1}, {"t": "3 điểm quyết định", "c": "teal", "at": 1}],
+         "monitor": {"hr": "—", "bp": "—"},
+         "note": "Ca bệnh minh hoạ, do người soạn dựng để học · không phải bệnh án thật", "note_at": 2,
+         "lines": ["Thưa quý đồng nghiệp, đây là ca lâm sàng cuối cùng trong loạt bài suy hô hấp cấp của Thư Viện Y Khoa Online.",
+                   "Một người vừa rút ống sau tám ngày thở máy. Ba điểm quyết định: đánh giá nguy cơ, chọn hỗ trợ ngay sau rút ống, và xử trí khi suy hô hấp xuất hiện.",
+                   "Đây là ca minh hoạ do người soạn dựng để học, không phải bệnh án thật."]},
+
+        {"layout": "vitals", "chapter": "Trước rút ống", "title": "Trước khi rút ống", "ref": "Ca minh hoạ",
+         "patient": {"tag": "BỆNH NHÂN", "t": "Nam 72 tuổi", "d": "COPD, BMI 34 · thở máy 8 ngày vì viêm phổi", "at": 0},
+         "findings": [{"t": "Vượt qua thử nghiệm tự thở", "at": 1, "c": "green"}, {"t": "Tỉnh, ho khạc được", "at": 1, "c": "teal"}],
+         "vitals": [{"k": "TUỔI", "v": "72", "u": "tuổi", "c": "amber", "f": "≥ 65", "at": 2},
+                    {"k": "BMI", "v": "34", "u": "kg/m²", "c": "amber", "f": "béo phì", "at": 2},
+                    {"k": "THỞ MÁY", "v": "8", "u": "ngày", "c": "coral", "f": "≥ 7 ngày", "at": 2},
+                    {"k": "BỆNH NỀN", "v": "COPD", "u": "", "c": "violet", "f": "bệnh phổi mạn", "at": 2}],
+         "lines": ["Nam 72 tuổi, COPD, BMI 34, thở máy 8 ngày vì viêm phổi.",
+                   "Người bệnh vừa vượt qua thử nghiệm tự thở, tỉnh và ho khạc được. Ê kíp quyết định rút ống.",
+                   "Trước khi rút, hãy nhìn các yếu tố nguy cơ: tuổi 72, béo phì, bệnh phổi mạn, và thở máy 8 ngày."]},
+
+        {"layout": "decision", "chapter": "Điểm quyết định 1", "title": "Hỗ trợ ngay sau rút ống", "ref": "ATS 2026 · Thille 2019 (HIGH-WEAN) · Hernández 2016",
+         "step": "ĐIỂM QUYẾT ĐỊNH 1", "q": "Hỗ trợ nào ngay sau rút ống?", "q_at": 1,
+         "context": "Nguy cơ cao thất bại rút ống: ≥ 65 tuổi, béo phì, bệnh phổi mạn, thở máy ≥ 7 ngày.",
+         "options": ["Cannula 2 L/phút", "HFNC đơn thuần", "NIV dự phòng xen kẽ HFNC", "Chỉ theo dõi, can thiệp khi suy hô hấp"],
+         "answer": 2, "answer_at": 3, "countdown": {"after": 2, "s": 8},
+         "explain": "HIGH-WEAN (641 người nguy cơ cao): NIV xen HFNC giảm đặt lại NKQ ngày 7 từ 18,2% xuống 11,8% so với HFNC · ATS 2026 gợi ý NIV cho nhóm nguy cơ cao · HFNC nếu chống chỉ định NIV",
+         "lines": ["Điểm quyết định thứ nhất. Người bệnh có nguy cơ cao thất bại rút ống: từ 65 tuổi, béo phì, bệnh phổi mạn, thở máy từ 7 ngày.",
+                   "Hỗ trợ nào ngay sau rút ống?",
+                   PAUSE,
+                   "Đáp án là C. Thử nghiệm HIGH-WEAN trên 641 người nguy cơ cao cho thấy NIV xen kẽ HFNC giảm đặt lại nội khí quản ngày 7 từ 18,2% xuống 11,8% so với HFNC đơn thuần.",
+                   "ATS 2026 vì vậy gợi ý NIV dự phòng cho nhóm này. HFNC đơn thuần là lựa chọn khi có chống chỉ định NIV; ở người nguy cơ thấp, HFNC đã giảm đặt lại so với oxy quy ước."]},
+
+        {"layout": "vitals", "chapter": "Ngày 2", "title": "Ngày thứ hai sau rút ống", "ref": "Ca minh hoạ",
+         "patient": {"tag": "DIỄN TIẾN", "t": "Ngày 2 sau rút ống", "d": "Khó thở tăng dần từ sáng", "at": 0},
+         "findings": [{"t": "Co kéo cơ hô hấp phụ", "at": 1, "c": "coral"}, {"t": "Suy hô hấp đã xuất hiện", "at": 2, "c": "coral"}],
+         "vitals": [{"k": "NHỊP THỞ", "v": "34", "u": "l/ph", "c": "amber", "wave": "resp", "f": "↑", "at": 0, "alarm": True},
+                    {"k": "SpO₂", "v": "88", "u": "%", "c": "blue", "wave": "pleth", "f": "↓", "at": 0, "alarm": True},
+                    {"k": "FiO₂", "v": "0,6", "u": "", "c": "teal", "f": "đang hỗ trợ", "at": 1}],
+         "lines": ["Ngày thứ hai sau rút ống, người bệnh khó thở tăng dần. Nhịp thở 34, SpO₂ 88% dù FiO₂ 0,6.",
+                   "Người bệnh co kéo cơ hô hấp phụ.",
+                   "Điều quan trọng nhất cần nhận ra: đây không còn là dự phòng nữa. Suy hô hấp sau rút ống đã xuất hiện."]},
+
+        {"layout": "decision", "chapter": "Điểm quyết định 2", "title": "Suy hô hấp đã xuất hiện", "ref": "Esteban 2004, NEJM · ERS/ATS 2017 · ATS 2026",
+         "step": "ĐIỂM QUYẾT ĐỊNH 2", "q": "Xử trí phù hợp nhất?", "q_at": 1,
+         "context": "Ngày 2: nhịp thở 34, SpO₂ 88% dù FiO₂ 0,6, co kéo.",
+         "options": ["NIV liên tục để cứu vãn, tránh đặt lại", "Tăng FiO₂ lên 1,0, đánh giá lại sau 12 giờ", "Đặt lại nội khí quản kịp thời", "Chuyển cannula 6 L/phút"],
+         "answer": 2, "answer_at": 3, "countdown": {"after": 2, "s": 8},
+         "explain": "Esteban 2004: NIV cứu vãn tăng tử vong hồi sức 14% → 25% và kéo dài thời gian đến đặt lại · ERS/ATS: không dùng NIV khi đã suy hô hấp sau rút ống · ATS 2026: khuyến cáo sau rút ống không áp dụng cho cứu vãn",
+         "lines": ["Điểm quyết định thứ hai. Ngày thứ hai, nhịp thở 34, SpO₂ 88% dù FiO₂ 0,6, co kéo.",
+                   "Xử trí phù hợp nhất là gì?",
+                   PAUSE,
+                   "Đáp án là C, đặt lại nội khí quản kịp thời. Thử nghiệm của Esteban năm 2004 cho thấy dùng NIV để cứu vãn suy hô hấp sau rút ống làm tăng tử vong hồi sức từ 14% lên 25%, và kéo dài thời gian đến khi đặt lại.",
+                   "ERS và ATS gợi ý không dùng NIV trong tình huống này, và ATS 2026 nhấn mạnh các khuyến cáo về hỗ trợ sau rút ống chỉ áp dụng cho dự phòng, không áp dụng cho điều trị cứu vãn."]},
+
+        {"layout": "compare", "chapter": "Phân biệt", "title": "Dự phòng và cứu vãn: hai câu hỏi khác nhau", "ref": "Hernández 2016 · Thille 2019 · Esteban 2004 · ERS/ATS 2017 · ATS 2026",
+         "head": ["", "Dự phòng", "Cứu vãn"], "widths": "1fr 2fr 2fr",
+         "rows": [{"cells": ["Thời điểm", "Ngay sau rút ống, chưa suy hô hấp", "Suy hô hấp đã xuất hiện"], "at": 0, "c": "teal"},
+                  {"cells": ["Bằng chứng", "HFNC (nguy cơ thấp) · NIV xen HFNC (nguy cơ cao) giảm đặt lại", "NIV tăng tử vong 14 → 25% (Esteban)"], "at": 1, "c": "amber"},
+                  {"cells": ["Khuyến cáo", "ATS 2026: NIV cho nguy cơ cao", "ERS/ATS: không dùng NIV"], "at": 2, "c": "coral"}],
+         "lines": ["Ca này minh hoạ một điểm dễ nhầm: dự phòng và cứu vãn là hai câu hỏi khác nhau. Dự phòng là ngay sau rút ống, khi chưa có suy hô hấp; cứu vãn là khi suy hô hấp đã xuất hiện.",
+                   "Với dự phòng, bằng chứng thuận lợi: HFNC ở người nguy cơ thấp, NIV xen HFNC ở người nguy cơ cao, đều giảm đặt lại. Với cứu vãn, NIV làm tăng tử vong.",
+                   "Vì vậy khuyến cáo ngược nhau: ATS 2026 gợi ý NIV dự phòng cho người nguy cơ cao, còn ERS và ATS gợi ý không dùng NIV khi đã suy hô hấp."]},
+
+        {"layout": "summary", "chapter": "Bài học", "title": "Bài học từ ca 3",
+         "items": [{"t": "Đánh giá nguy cơ trước khi rút ống", "d": "≥ 65 tuổi, béo phì, tăng CO₂, bệnh phổi mạn, thở máy ≥ 7 ngày", "c": "amber", "at": 0},
+                   {"t": "Nguy cơ cao: NIV dự phòng xen HFNC", "d": "HIGH-WEAN: đặt lại 18,2% → 11,8%", "c": "teal", "at": 1},
+                   {"t": "Đã suy hô hấp: không NIV cứu vãn", "d": "Esteban: tử vong 14% → 25%", "c": "coral", "at": 2},
+                   {"t": "Đặt lại nội khí quản kịp thời", "d": "Không để hỗ trợ không xâm nhập làm chậm NKQ", "c": "violet", "at": 3}],
+         "lines": ["Bài học thứ nhất: đánh giá nguy cơ trước khi rút ống, không phải sau.",
+                   "Thứ hai: người nguy cơ cao nên được NIV dự phòng xen HFNC ngay sau rút ống.",
+                   "Thứ ba: khi suy hô hấp đã xuất hiện, không dùng NIV để cứu vãn.",
+                   "Thứ tư: đặt lại nội khí quản kịp thời. Đây là ca cuối của loạt bài suy hô hấp cấp. Trọn bộ chuyên đề có trên thuvienykhoa.online. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."]},
+    ]
