@@ -1,0 +1,870 @@
+{
+ "title": "Suy hô hấp cấp – Phần 5: CPAP, thông khí không xâm nhập và helmet",
+ "theme": "may-tho",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Suy hô hấp cấp · oxy, HFNC, NIV",
+ "part": "Suy hô hấp cấp · Phần 5/6",
+ "source_short": "Nguồn: ATS 2026 · ERS 2022 · ERS/ATS 2017 · BTS/ICS 2016 · BTS 2017 · SRLF-SFMU 2024 · thử nghiệm gốc · Oh's, Hall, Marino, Murray & Nadel",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "HELMET-COVID": "hen mét cô vít",
+  "Confalonieri": "côn pha lô ni ê ri",
+  "RECOVERY-RS": "ri ca vơ ri a rờ ét",
+  "HiFlo-COVID": "hai phlô cô vít",
+  "PaO₂/FiO₂": "PaO hai trên FiO hai",
+  "SpO₂/FiO₂": "SpO hai trên FiO hai",
+  "FLORALI-2": "phlo ra li hai",
+  "HIGH-WEAN": "hai uyn",
+  "HF-AECOPD": "hát ép a e cốp",
+  "LUNG SAFE": "lâng sếp",
+  "Hernández": "éc nan đét",
+  "P(A–a)O₂": "chênh áp oxy phế nang động mạch",
+  "RENOVATE": "ri nô vết",
+  "COVID-19": "cô vít mười chín",
+  "Carteaux": "các tô",
+  "Brochard": "brô sa",
+  "Kacmarek": "các ma rếch",
+  "mL/giây": "mi li lít mỗi giây",
+  "BTS/ICS": "bê tê ét, i xê ét",
+  "ERS/ATS": "e rờ ét, a tê ét",
+  "FLORALI": "phlo ra li",
+  "HENIVOT": "he ni vốt",
+  "ICU-ROX": "i xi u rốc",
+  "HOT-ICU": "hót i xi u",
+  "Venturi": "ven tu ri",
+  "Tonelli": "tô ne li",
+  "Esteban": "ét tê ban",
+  "Lemiale": "lơ mi an",
+  "Hilbert": "hin be",
+  "Sjoding": "sô đinh",
+  "Haldane": "hôn đên",
+  "PETCO₂": "PetCO hai",
+  "L/phút": "lít mỗi phút",
+  "P-SILI": "pê si li",
+  "PREOXI": "pri ốc xi",
+  "UK-ROX": "u ca rốc",
+  "DETO2X": "đê tốc",
+  "Möller": "mơ lơ",
+  "PaCO₂": "PaCO hai",
+  "PvCO₂": "PvCO hai",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "PEEPi": "píp nội sinh",
+  "HACOR": "ha co",
+  "TSANZ": "tê san",
+  "GRADE": "grết",
+  "BiPOP": "bai póp",
+  "NIVAS": "ni vát",
+  "LOCO2": "lô cô hai",
+  "PILOT": "pai lốt",
+  "Mauri": "mau ri",
+  "PaO₂": "PaO hai",
+  "SpO₂": "SpO hai",
+  "SaO₂": "SaO hai",
+  "FiO₂": "FiO hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "g/dL": "gam mỗi đề xi lít",
+  "HFNC": "oxy dòng cao qua cannula mũi",
+  "CPAP": "xi páp",
+  "IPAP": "i páp",
+  "EPAP": "e páp",
+  "PEEP": "píp",
+  "ΔPes": "đen ta pê ét",
+  "COPD": "bệnh phổi tắc nghẽn mạn tính",
+  "ARDS": "a rờ đê ét",
+  "SRLF": "ét rờ e lờ ép",
+  "HIGH": "hai",
+  "3CPO": "ba xê pê ô",
+  "CaO₂": "xê a O hai",
+  "CO₂": "CO hai",
+  "kPa": "ki lô pát xcan",
+  "NIV": "thông khí không xâm nhập",
+  "ROX": "rốc",
+  "Vte": "thể tích khí lưu thông thở ra",
+  "NKQ": "nội khí quản",
+  "BTS": "bê tê ét",
+  "ERS": "e rờ ét",
+  "ATS": "a tê ét",
+  "ACP": "a xê pê",
+  "BMJ": "bê em di",
+  "V/Q": "thông khí trên tưới máu",
+  "S/F": "S trên F",
+  "P/F": "P trên F",
+  "DO₂": "đê O hai"
+ },
+ "brand": {
+  "next": "Phần 6: Chọn hỗ trợ theo bệnh cảnh và thời điểm đặt nội khí quản"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "art": "lungs",
+   "chapter": "Mở đầu",
+   "kicker": "SUY HÔ HẤP CẤP · PHẦN 5/6",
+   "title": "CPAP, thông khí<br>không xâm nhập và helmet",
+   "subtitle": "Máy, giao diện, cài đặt, rò khí và tổ chức dịch vụ",
+   "badges": [
+    {
+     "t": "CPAP · IPAP/EPAP",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Mask · helmet",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Khi NIV \"không chạy\"",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: BTS/ICS 2016 · BTS 2018 · ERS 2022 · ATS 2026 · Hess & Kacmarek · Patel 2016 · HENIVOT · HELMET-COVID",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm của loạt bài suy hô hấp cấp trên Thư Viện Y Khoa Online.",
+    "Phần này dành cho áp lực dương không xâm nhập: CPAP và thông khí không xâm nhập hai mức áp lực.",
+    "Chúng ta sẽ đi qua máy, giao diện, trong đó có helmet, rồi cài đặt theo bệnh cảnh.",
+    "Và quan trọng nhất ở tại giường: khi NIV có vẻ không hiệu quả, cần kiểm tra gì trước khi kết luận thất bại."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Nguyên lý",
+   "title": "Ba phương thức, ba dạng sóng áp lực",
+   "ref": "Hess & Kacmarek 4e · Marino 5e · Pilbeam 2016",
+   "cards": [
+    {
+     "tag": "CPAP",
+     "t": "Một mức áp lực",
+     "items": [
+      "Hằng định suốt chu kỳ thở",
+      "Giữ phế nang mở, tăng dung tích cặn chức năng",
+      "Không trực tiếp gánh công hít vào"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "NIV HAI MỨC",
+     "t": "IPAP và EPAP",
+     "items": [
+      "IPAP – EPAP = hỗ trợ áp lực",
+      "Gánh một phần công cơ hô hấp",
+      "Vt phụ thuộc hiệu số và nỗ lực người bệnh"
+     ],
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "HFNC",
+     "t": "Áp lực nhỏ",
+     "items": [
+      "Thường thấp hơn CPAP và NIV",
+      "Phần 4"
+     ],
+     "c": "blue",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Hỗ trợ hô hấp không xâm nhập có ba phương thức, phân biệt bằng dạng sóng áp lực. CPAP duy trì một mức áp lực dương hằng định suốt chu kỳ thở: không trực tiếp gánh công hít vào nhưng giữ phế nang mở và tăng dung tích cặn chức năng.",
+    "Thông khí không xâm nhập hai mức cung cấp áp lực cao hơn khi hít vào, IPAP, và thấp hơn khi thở ra, EPAP. Hiệu số giữa hai mức chính là hỗ trợ áp lực. Thể tích khí lưu thông phụ thuộc vào hiệu số này và vào nỗ lực của chính người bệnh.",
+    "HFNC, như phần bốn, chỉ tạo một mức áp lực nhỏ, thường thấp hơn CPAP và NIV."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "vent",
+   "chapter": "Nguyên lý",
+   "title": "Cùng mức hỗ trợ, gắng sức tăng thì Vt tăng",
+   "ref": "Mô phỏng: hỗ trợ áp lực 8 trên PEEP 5 · gắng sức người bệnh tăng",
+   "vent": {
+    "mode": "PS",
+    "ps": 8,
+    "peep": 5,
+    "rr": 22,
+    "rrp": 22,
+    "effort": 4,
+    "tin": 0.9,
+    "R": 10,
+    "C": 40,
+    "fio2": 50
+   },
+   "changes": [
+    {
+     "at": "L1+1",
+     "set": {
+      "effort": 14,
+      "rrp": 32,
+      "rr": 32
+     },
+     "label": "Gắng sức mạnh: nhịp thở 32",
+     "c": "coral",
+     "hold": 5
+    }
+   ],
+   "freeze": "L3",
+   "nums": [
+    "ppeak",
+    "peep",
+    "vt",
+    "rr",
+    "mv"
+   ],
+   "marks": [
+    {
+     "k": "vt",
+     "at": "L2",
+     "c": "coral"
+    }
+   ],
+   "notes": [
+    {
+     "tag": "CARTEAUX",
+     "t": "Vte 9,8 mL/kg dù hỗ trợ thấp · > 9,5 mL/kg báo thất bại",
+     "c": "coral",
+     "at": "L2"
+    },
+    {
+     "tag": "THEO DÕI",
+     "t": "Đọc Vte trên máy · đích ≤ 8 mL/kg (Hess)",
+     "c": "teal",
+     "at": "L3"
+    }
+   ],
+   "lines": [
+    "Mô phỏng này minh hoạ một điểm then chốt. Máy cài hỗ trợ áp lực 8 trên PEEP 5, người bệnh gắng sức vừa phải; thể tích khí lưu thông ở mức chấp nhận được.",
+    "Bây giờ người bệnh gắng sức mạnh hơn và thở nhanh. Áp lực máy không đổi, nhưng áp lực xuyên phổi do chính người bệnh tạo ra cộng thêm vào.",
+    "Thể tích khí lưu thông tăng rõ. Đây chính là hiện tượng Carteaux mô tả: thể tích khí lưu thông khoảng 9,8 mi li lít mỗi ký dù mức hỗ trợ thấp, và trên 9,5 là tín hiệu thất bại.",
+    "Vì vậy khi theo dõi NIV ở người giảm oxy máu, hãy đọc thể tích khí lưu thông thở ra trên máy; Hess và Kacmarek khuyên giữ không quá 8 mi li lít mỗi ký cân nặng lý tưởng."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Máy",
+   "title": "Hai loại máy cho NIV",
+   "ref": "BTS/ICS 2016 · Hess & Kacmarek 4e · Pilbeam 2016",
+   "head": [
+    "",
+    "Máy NIV một nhánh",
+    "Máy thở hồi sức hai nhánh"
+   ],
+   "widths": "1fr 2fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "Thở ra",
+      "Lỗ thoát khí (rò có chủ đích)",
+      "Nhánh thở ra, van chủ động"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Yêu cầu",
+      "<b>EPAP ≥ ~3 cmH₂O</b> để thải CO₂",
+      "Bản mới bù được rò"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Ghi áp lực",
+      "IPAP = áp lực đỉnh tổng",
+      "Hỗ trợ áp lực cộng <b>trên</b> PEEP"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Oxy",
+      "Nối vào mạch: FiO₂ thay đổi theo vị trí, lỗ thoát, áp lực",
+      "FiO₂ cài đặt"
+     ],
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Có hai loại máy. Máy NIV chuyên dụng một nhánh có lỗ thoát khí, tức là rò có chủ đích, và tự bù rò. Loại máy này cần EPAP tối thiểu khoảng 3 xăng ti mét nước để thải khí thở ra, tránh thở lại CO₂. Máy thở hồi sức hai nhánh có nhánh thở ra riêng với van chủ động.",
+    "Một bẫy thường gặp: cách ghi áp lực khác nhau. Trên máy hồi sức, hỗ trợ áp lực được cộng thêm trên PEEP; trên máy hai mức, IPAP là áp lực đỉnh tổng. IPAP 15 với EPAP 5 tương đương hỗ trợ áp lực 10 trên PEEP 5.",
+    "Với máy một nhánh, oxy được nối vào mạch thở, nên FiO₂ thực nhận phụ thuộc vị trí nối, loại lỗ thoát và mức áp lực; áp lực càng thấp, FiO₂ càng cao ở cùng lưu lượng oxy."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Giao diện",
+   "title": "Giao diện quyết định phần lớn thành bại",
+   "ref": "Hess & Kacmarek 4e · BTS/ICS 2016 · ERS 2022",
+   "head": [
+    "Giao diện",
+    "Ưu điểm",
+    "Nhược điểm"
+   ],
+   "widths": "1fr 2fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "Mask mũi – miệng",
+      "Dùng nhiều trong suy hô hấp cấp; hiệu quả khi thở miệng",
+      "Loét sống mũi; khó nói, ăn; hít sặc nếu nôn"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Mask mũi",
+      "Dễ chịu, nói được",
+      "Rò qua miệng"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Mask toàn mặt",
+      "Ít loét da mặt · BTS: bắt đầu bằng loại này",
+      "Khoảng chết có thể lớn hơn"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Helmet",
+      "Dễ lắp, ít loét da mặt; PEEP 8–12 cmH₂O",
+      "Thở lại CO₂, kém đồng bộ, không khí dung được"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Giao diện quyết định phần lớn sự thành bại của NIV. Trong suy hô hấp cấp, mask mũi miệng được dùng nhiều vì hiệu quả hơn ở người thở bằng miệng, nhưng có thể gây loét sống mũi và hít sặc nếu nôn.",
+    "Mask mũi giúp người bệnh nói được nhưng dễ rò qua miệng. Mask toàn mặt ít gây loét da mặt; Hội Lồng ngực Anh đề nghị bắt đầu bằng loại này.",
+    "Helmet dễ lắp, ít gây loét da mặt và cho phép PEEP cao hơn, khoảng 8 đến 12, nhưng dễ thở lại CO₂, kém đồng bộ và không khí dung được. Nguyên tắc chung: chọn đúng cỡ, tránh mask quá to, cố định không quá chặt."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Helmet",
+   "title": "Helmet: hai thử nghiệm đáng chú ý",
+   "ref": "Patel 2016, JAMA · Grieco 2021 (HENIVOT), JAMA",
+   "groups": [
+    {
+     "t": "Patel 2016 · ARDS, 83 người",
+     "d": "Đặt nội khí quản",
+     "at": 0,
+     "c": "violet",
+     "bars": [
+      {
+       "k": "Helmet",
+       "v": 18.2,
+       "lab": "18,2%",
+       "c": "violet"
+      },
+      {
+       "k": "Mask",
+       "v": 61.5,
+       "lab": "61,5%"
+      }
+     ]
+    },
+    {
+     "t": "HENIVOT 2021 · COVID-19, 109 người",
+     "d": "Đặt nội khí quản",
+     "at": 2,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Helmet",
+       "v": 30,
+       "lab": "30%",
+       "c": "teal"
+      },
+      {
+       "k": "HFNC 60 L/phút",
+       "v": 51,
+       "lab": "51%"
+      }
+     ]
+    }
+   ],
+   "max": 70,
+   "notes": [
+    {
+     "tag": "PATEL",
+     "t": "Một trung tâm · dừng sớm ở 83/206 người dự kiến",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "HENIVOT",
+     "t": "Kết cục chính (ngày không hỗ trợ hô hấp) không khác: 20 vs 18",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "HELMET-COVID",
+     "t": "320 người: tử vong 28 ngày 27,0% vs 26,1%",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Helmet được chú ý sau thử nghiệm của Patel tại Chicago. Trên 83 người ARDS đã dùng NIV qua mask ít nhất 8 giờ, chuyển sang helmet giảm đặt nội khí quản từ 61,5% xuống 18,2%.",
+    "Nhưng hiệu quả lớn như vậy đến từ một thử nghiệm một trung tâm, dừng sớm khi mới tuyển 83 trong 206 người dự kiến.",
+    "Trong COVID-19, HENIVOT so sánh helmet 48 giờ với HFNC 60 lít ở 109 người. Kết cục chính không khác, nhưng đặt nội khí quản thấp hơn ở nhóm helmet, 30% so với 51%.",
+    "Ngược lại, HELMET-COVID với 320 người không thấy helmet giảm tử vong 28 ngày. ATS 2026 nhận xét kết quả từ các trung tâm giàu kinh nghiệm chưa được tái lập nhất quán, và các loại helmet khác nhau về độ kín, khả năng tạo áp và tiếng ồn."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "list",
+   "chapter": "Cài đặt",
+   "title": "Bắt đầu NIV: những bước then chốt",
+   "ref": "Hess & Kacmarek 4e (12 bước)",
+   "items": [
+    {
+     "t": "Giải thích, giữ mask bằng tay lúc đầu",
+     "d": "Mục tiêu đầu tiên: dễ chịu và giảm gánh cơ hô hấp",
+     "c": "teal",
+     "at": 0,
+     "n": 1
+    },
+    {
+     "t": "Bắt đầu mức thấp, cố định không quá chặt",
+     "d": "EPAP ban đầu 5 cmH₂O · chỉnh áp lực theo dễ chịu",
+     "c": "blue",
+     "at": 1,
+     "n": 2
+    },
+    {
+     "t": "Áp lực đỉnh tránh > 20 cmH₂O",
+     "d": "Tăng nguy cơ hơi vào dạ dày",
+     "c": "coral",
+     "at": 2,
+     "n": 3
+    },
+    {
+     "t": "Vt ≤ 8 mL/kg cân nặng lý tưởng",
+     "d": "FiO₂ cho SpO₂ 88–95% · khí máu sau 30–60 phút",
+     "c": "violet",
+     "at": 3,
+     "n": 4
+    }
+   ],
+   "lines": [
+    "Hess và Kacmarek tóm tắt mười hai bước thực hành. Mục tiêu đầu tiên khi bắt đầu NIV là sự dễ chịu và giảm gánh cho cơ hô hấp; khí máu sẽ cải thiện theo. Giải thích cho người bệnh, và giữ mask bằng tay khi mới bắt đầu.",
+    "Bắt đầu ở mức thấp, EPAP khoảng 5, chỉnh áp lực theo sự dễ chịu, và cố định mask không quá chặt.",
+    "Tránh áp lực đỉnh trên 20 vì tăng nguy cơ hơi vào dạ dày, trừ những bệnh cảnh cần áp lực cao như COPD toan nặng hay béo phì.",
+    "Giữ thể tích khí lưu thông không quá 8 mi li lít mỗi ký, chỉnh FiO₂ cho SpO₂ 88 đến 95%, và lấy khí máu sau 30 đến 60 phút."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Cài đặt",
+   "title": "Cài đặt ban đầu theo bệnh cảnh",
+   "ref": "BTS/ICS 2016 · RENOVATE 2025 · 3CPO 2008 · FLORALI · Tonelli 2020",
+   "head": [
+    "Bệnh cảnh",
+    "Cài đặt trong nguồn"
+   ],
+   "widths": "1.1fr 3fr",
+   "rows": [
+    {
+     "cells": [
+      "COPD tăng CO₂",
+      "Mask toàn mặt · IPAP 15 → <b>20–30 cmH₂O trong 10–30 phút</b> · SaO₂ 88–92% (BTS/ICS)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Béo phì giảm thông khí",
+      "Thường cần IPAP > 30, EPAP > 8 cmH₂O"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Thần kinh cơ",
+      "Không chờ toan · IPAP khởi đầu 10, hiếm khi cần > 20"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Phù phổi cấp (3CPO)",
+      "CPAP 5 → tối đa 15 · hoặc IPAP 8/EPAP 4 → tối đa 20/10 · ít nhất 2 giờ"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Giảm oxy máu de novo",
+      "Hỗ trợ vừa, PEEP cao hơn · Tonelli: PEEP 6, hỗ trợ 10, Vt < 9,5 mL/kg, rò < 20 L/phút"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Mức áp lực cụ thể phụ thuộc bệnh cảnh. Ở COPD tăng CO₂, Hội Lồng ngực Anh gợi ý bắt đầu IPAP 15 rồi tăng dần tới 20 đến 30 trong 10 đến 30 phút, nhanh hơn và cao hơn ở người to hoặc toan nặng, đích SaO₂ 88 đến 92%.",
+    "Người giảm thông khí do béo phì thường cần áp lực cao hơn nhiều, IPAP trên 30 và EPAP trên 8. Ngược lại, người bệnh thần kinh cơ cần áp lực thấp hơn, và nên được NIV mà không chờ toan máu.",
+    "Ở phù phổi cấp do tim, thử nghiệm 3CPO dùng CPAP 5 tăng tới 15, hoặc IPAP 8 với EPAP 4 tăng tới 20 trên 10, trong ít nhất 2 giờ.",
+    "Ở giảm oxy máu mới xuất hiện, các thử nghiệm dùng mức hỗ trợ vừa phải với PEEP cao hơn và đặt đích thể tích khí lưu thông, như Tonelli: PEEP 6, hỗ trợ 10, thể tích dưới 9,5 và rò dưới 20 lít mỗi phút."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Theo dõi",
+   "title": "Khi NIV \"không chạy\": kiểm tra kỹ thuật trước",
+   "ref": "BTS/ICS 2016 · Tonelli 2020 · tổng hợp, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "s",
+     "t": "Không cải thiện sau 1–2 giờ",
+     "d": "pH, nhịp thở, gắng sức",
+     "x": 888,
+     "y": 190,
+     "w": 520,
+     "h": 120,
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "id": "a",
+     "t": "Rò khí",
+     "d": "Chỉnh, đổi cỡ, đổi loại mask",
+     "x": 300,
+     "y": 430,
+     "w": 380,
+     "h": 120,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "b",
+     "t": "Áp lực chưa đủ",
+     "d": "Tăng IPAP theo đích",
+     "x": 690,
+     "y": 430,
+     "w": 340,
+     "h": 120,
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Bất đồng bộ",
+     "d": "Trigger, chuyển thì",
+     "x": 1080,
+     "y": 430,
+     "w": 340,
+     "h": 120,
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Tắc đường thở trên",
+     "d": "Tư thế, đờm",
+     "x": 1470,
+     "y": 430,
+     "w": 380,
+     "h": 120,
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "edges": [
+    {
+     "a": "s",
+     "b": "a",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "a": "s",
+     "b": "b",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "a": "s",
+     "b": "c",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "a": "s",
+     "b": "d",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "Tonelli: rò < 20 L/phút · trigger 3 L/phút · chuyển thì ở 25% lưu lượng đỉnh · đã sửa mà không cải thiện → đặt NKQ",
+    "at": 3,
+    "c": "green",
+    "y": 640
+   },
+   "lines": [
+    "Khi NIV dường như không hiệu quả, cần nhớ rằng nguyên nhân thường gặp nhất là vấn đề kỹ thuật chứ không phải bệnh. Cải thiện sinh lý thường thấy trong 1 đến 2 giờ.",
+    "Trước khi kết luận thất bại, Hội Lồng ngực Anh yêu cầu kiểm tra rò khí và mức hỗ trợ áp lực chưa đủ.",
+    "Tiếp theo là bất đồng bộ người máy, và tắc đường thở trên.",
+    "Rò được xử lý bằng chỉnh mask, đổi cỡ hay loại giao diện. Nghiên cứu của Tonelli đặt đích rò dưới 20 lít mỗi phút, ngưỡng kích hoạt 3 lít mỗi phút, và chuyển thì khi lưu lượng giảm còn 25% lưu lượng đỉnh. Đã sửa các vấn đề kỹ thuật mà vẫn không cải thiện thì đó là thất bại thật, và cần đặt nội khí quản."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "cards",
+   "chapter": "An toàn",
+   "title": "Chống chỉ định và biến chứng",
+   "ref": "BTS/ICS 2016 · Hess & Kacmarek 4e · Pilbeam 2016 · Patel 2016",
+   "cards": [
+    {
+     "tag": "KHÔNG LÀM ĐƯỢC",
+     "t": "Ít chống chỉ định tuyệt đối",
+     "items": [
+      "Biến dạng mặt nặng, bỏng mặt",
+      "Tắc đường thở trên cố định",
+      "Tràn khí màng phổi chưa dẫn lưu",
+      "Ngừng thở, sắp ngừng thở → đặt NKQ"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "TƯƠNG ĐỐI",
+     "t": "Theo dõi sát hơn",
+     "items": [
+      "Giảm tri giác, kích động",
+      "Tụt huyết áp, nhiều đờm",
+      "Nguy cơ nôn, hít sặc"
+     ],
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "BIẾN CHỨNG",
+     "t": "Thường nhẹ",
+     "items": [
+      "Rò khí, khô mắt, khô miệng",
+      "Hơi vào dạ dày (~1/2), hít sặc",
+      "Loét: 7,6% sống mũi (mask), 6,8% cổ (helmet)"
+     ],
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Có rất ít chống chỉ định tuyệt đối cho một lần thử NIV. Một số tình huống làm NIV không thực hiện được: biến dạng mặt nặng, bỏng mặt, tắc đường thở trên cố định. Tràn khí màng phổi phải dẫn lưu trước. Người ngừng thở hoặc sắp ngừng thở cần đặt nội khí quản, và NIV không được làm chậm việc leo thang.",
+    "Giảm tri giác, kích động, tụt huyết áp, nhiều đờm, nguy cơ nôn hay hít sặc là chống chỉ định tương đối, đòi hỏi theo dõi sát và sẵn sàng đặt nội khí quản.",
+    "Biến chứng thường nhẹ. Hơi vào dạ dày gặp ở khoảng một nửa người dùng NIV nhưng hiếm khi không chịu được; nặng hơn là hít sặc. Loét da gặp với cả mask lẫn helmet: trong thử nghiệm của Patel, 7,6% ở sống mũi với mask và 6,8% ở cổ với helmet."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Tổ chức",
+   "title": "NIV là một dịch vụ, không phải một máy",
+   "ref": "Plant 2000, Lancet · BTS 2018",
+   "groups": [
+    {
+     "t": "COPD pH 7,25–7,35 · khoa hô hấp",
+     "d": "Thất bại",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "NIV",
+       "v": 15,
+       "lab": "15%",
+       "c": "teal"
+      },
+      {
+       "k": "Chuẩn",
+       "v": 27,
+       "lab": "27%"
+      }
+     ]
+    },
+    {
+     "t": "Tử vong bệnh viện",
+     "d": "",
+     "at": 0,
+     "c": "green",
+     "bars": [
+      {
+       "k": "NIV",
+       "v": 10,
+       "lab": "10%",
+       "c": "green"
+      },
+      {
+       "k": "Chuẩn",
+       "v": 20,
+       "lab": "20%"
+      }
+     ]
+    },
+    {
+     "t": "Phân nhóm pH < 7,30",
+     "d": "Thất bại",
+     "at": 1,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "NIV",
+       "v": 36,
+       "lab": "36%",
+       "c": "amber"
+      },
+      {
+       "k": "Chuẩn",
+       "v": 42,
+       "lab": "42%"
+      }
+     ]
+    }
+   ],
+   "max": 45,
+   "notes": [
+    {
+     "tag": "BTS 2018",
+     "t": "NIV trong 60 phút từ khí máu quyết định, 120 phút từ khi đến viện",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "BTS 2018",
+     "t": "Kế hoạch leo thang ghi trước · khí máu trong 2 giờ · không cải thiện → chuyên gia trong 30 phút",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "SRLF 2024",
+     "t": "Giảm oxy máu dùng HFNC, CPAP, NIV: nên ở hồi sức",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Thử nghiệm của Plant năm 2000 cho thấy NIV làm được ở khoa hô hấp thường khi nhân viên được huấn luyện: ở người COPD có pH 7,25 đến 7,35, NIV giảm thất bại từ 27% xuống 15%, tử vong bệnh viện từ 20% xuống 10%.",
+    "Tuy vậy, ở nhóm pH dưới 7,30, lợi ích kém rõ, 36% so với 42%, gợi ý người toan nặng nên được điều trị ở nơi có mức chăm sóc cao hơn.",
+    "Hội Lồng ngực Anh năm 2018 đưa ra sáu tiêu chuẩn chất lượng: NIV ở khu vực được chỉ định, nhân viên được đào tạo, bắt đầu trong 60 phút kể từ khí máu quyết định NIV, có kế hoạch leo thang ghi rõ trước khi bắt đầu, khí máu trong 2 giờ, và nếu không cải thiện thì chuyên gia đánh giá trong 30 phút.",
+    "Hội Hồi sức Pháp đi xa hơn với nhóm giảm oxy máu: mọi người dùng HFNC, CPAP hoặc NIV nên được điều trị ở hồi sức."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: COPD sau 1 giờ NIV",
+   "ref": "Ca minh hoạ · BTS/ICS 2016 · Tonelli 2020",
+   "case": "Nữ 66 tuổi, đợt cấp COPD, pH 7,28, PaCO₂ 72 mmHg. NIV mask mũi – miệng, IPAP 12/EPAP 5. <b>Sau 1 giờ</b>: pH 7,27, nhịp thở 30; máy báo <b>rò 60 L/phút</b>, khí thổi vào mắt.",
+   "q": "Bước tiếp theo phù hợp nhất?",
+   "options": [
+    "Kết luận thất bại, đặt nội khí quản ngay",
+    "Xử lý rò (chỉnh, đổi cỡ hoặc mask toàn mặt), tăng IPAP dần tới 20–30, khí máu lại sau 1–2 giờ",
+    "Chuyển HFNC 60 L/phút",
+    "Giảm IPAP để bớt rò"
+   ],
+   "answer": 1,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Rò lớn + IPAP 12 thấp so với khuyến cáo (15 → 20–30) = vấn đề <b>kỹ thuật</b> · sửa rồi đánh giá lại · tỉnh, chưa có tiêu chí NKQ khẩn · vẫn không cải thiện sau khi sửa → đặt NKQ",
+   "lines": [
+    "Tình huống. Nữ 66 tuổi, đợt cấp COPD, pH 7,28, PaCO₂ 72. NIV qua mask mũi miệng với IPAP 12, EPAP 5. Sau 1 giờ, pH 7,27, nhịp thở 30; máy báo rò 60 lít mỗi phút và người bệnh than khí thổi vào mắt.",
+    "Bước tiếp theo phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Đây trước hết là vấn đề kỹ thuật: rò rất lớn, và IPAP 12 thấp hơn mức Hội Lồng ngực Anh gợi ý, bắt đầu 15 rồi tăng tới 20 đến 30.",
+    "Xử lý rò bằng chỉnh hoặc đổi cỡ mask, cân nhắc mask toàn mặt, tăng IPAP dần, rồi lấy lại khí máu sau 1 đến 2 giờ. Nếu đã sửa mà vẫn không cải thiện, khi đó mới là thất bại thật và cần đặt nội khí quản. Giảm IPAP để bớt rò chỉ làm hỗ trợ thêm thiếu."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "IPAP – EPAP = hỗ trợ áp lực",
+     "d": "Máy hồi sức: PS cộng trên PEEP · máy hai mức: IPAP là áp lực tổng",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Đọc Vte trên máy",
+     "d": "Gắng sức mạnh → Vt lớn dù hỗ trợ thấp · ≤ 8 mL/kg",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Giao diện quyết định thành bại",
+     "d": "Bắt đầu mask toàn mặt hoặc mũi – miệng, đúng cỡ",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Helmet: hứa hẹn, chưa nhất quán",
+     "d": "Patel, HENIVOT ủng hộ · HELMET-COVID trung tính",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "t": "Không chạy → kiểm tra kỹ thuật",
+     "d": "Rò, áp lực, bất đồng bộ, tắc đường thở trên",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "t": "NIV là một dịch vụ",
+     "d": "Đào tạo, khu vực riêng, khí máu trong 2 giờ, kế hoạch leo thang",
+     "c": "green",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết sáu thông điệp. Một, IPAP trừ EPAP là hỗ trợ áp lực, và cách ghi áp lực khác nhau giữa hai loại máy.",
+    "Hai, đọc thể tích khí lưu thông trên máy: gắng sức mạnh cho thể tích lớn dù hỗ trợ thấp.",
+    "Ba, giao diện quyết định phần lớn thành bại.",
+    "Bốn, helmet hứa hẹn nhưng bằng chứng chưa nhất quán.",
+    "Năm, khi NIV không chạy, kiểm tra kỹ thuật trước khi kết luận thất bại.",
+    "Sáu, NIV là một dịch vụ, không phải một máy.",
+    "Phần sáu sẽ ghép tất cả lại theo từng bệnh cảnh, và trả lời câu hỏi khi nào đặt nội khí quản. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s13"
+  }
+ ]
+}
