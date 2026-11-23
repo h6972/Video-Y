@@ -1,0 +1,977 @@
+{
+ "title": "Suy hô hấp cấp – Phần 3: Oxy là thuốc: đích SpO₂ và dụng cụ",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Suy hô hấp cấp · oxy, HFNC, NIV",
+ "part": "Suy hô hấp cấp · Phần 3/6",
+ "source_short": "Nguồn: ATS 2026 · ERS 2022 · ERS/ATS 2017 · BTS/ICS 2016 · BTS 2017 · SRLF-SFMU 2024 · thử nghiệm gốc · Oh's, Hall, Marino, Murray & Nadel",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "HELMET-COVID": "hen mét cô vít",
+  "Confalonieri": "côn pha lô ni ê ri",
+  "RECOVERY-RS": "ri ca vơ ri a rờ ét",
+  "HiFlo-COVID": "hai phlô cô vít",
+  "PaO₂/FiO₂": "PaO hai trên FiO hai",
+  "SpO₂/FiO₂": "SpO hai trên FiO hai",
+  "FLORALI-2": "phlo ra li hai",
+  "HIGH-WEAN": "hai uyn",
+  "HF-AECOPD": "hát ép a e cốp",
+  "LUNG SAFE": "lâng sếp",
+  "Hernández": "éc nan đét",
+  "P(A–a)O₂": "chênh áp oxy phế nang động mạch",
+  "RENOVATE": "ri nô vết",
+  "COVID-19": "cô vít mười chín",
+  "Carteaux": "các tô",
+  "Brochard": "brô sa",
+  "Kacmarek": "các ma rếch",
+  "mL/giây": "mi li lít mỗi giây",
+  "BTS/ICS": "bê tê ét, i xê ét",
+  "ERS/ATS": "e rờ ét, a tê ét",
+  "FLORALI": "phlo ra li",
+  "HENIVOT": "he ni vốt",
+  "ICU-ROX": "i xi u rốc",
+  "HOT-ICU": "hót i xi u",
+  "Venturi": "ven tu ri",
+  "Tonelli": "tô ne li",
+  "Esteban": "ét tê ban",
+  "Lemiale": "lơ mi an",
+  "Hilbert": "hin be",
+  "Sjoding": "sô đinh",
+  "Haldane": "hôn đên",
+  "PETCO₂": "PetCO hai",
+  "L/phút": "lít mỗi phút",
+  "P-SILI": "pê si li",
+  "PREOXI": "pri ốc xi",
+  "UK-ROX": "u ca rốc",
+  "DETO2X": "đê tốc",
+  "Möller": "mơ lơ",
+  "PaCO₂": "PaCO hai",
+  "PvCO₂": "PvCO hai",
+  "cmH₂O": "xăng ti mét nước",
+  "mL/kg": "mi li lít mỗi ký",
+  "PEEPi": "píp nội sinh",
+  "HACOR": "ha co",
+  "TSANZ": "tê san",
+  "GRADE": "grết",
+  "BiPOP": "bai póp",
+  "NIVAS": "ni vát",
+  "LOCO2": "lô cô hai",
+  "PILOT": "pai lốt",
+  "Mauri": "mau ri",
+  "PaO₂": "PaO hai",
+  "SpO₂": "SpO hai",
+  "SaO₂": "SaO hai",
+  "FiO₂": "FiO hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "g/dL": "gam mỗi đề xi lít",
+  "HFNC": "oxy dòng cao qua cannula mũi",
+  "CPAP": "xi páp",
+  "IPAP": "i páp",
+  "EPAP": "e páp",
+  "PEEP": "píp",
+  "ΔPes": "đen ta pê ét",
+  "COPD": "bệnh phổi tắc nghẽn mạn tính",
+  "ARDS": "a rờ đê ét",
+  "SRLF": "ét rờ e lờ ép",
+  "HIGH": "hai",
+  "3CPO": "ba xê pê ô",
+  "CaO₂": "xê a O hai",
+  "CO₂": "CO hai",
+  "kPa": "ki lô pát xcan",
+  "NIV": "thông khí không xâm nhập",
+  "ROX": "rốc",
+  "Vte": "thể tích khí lưu thông thở ra",
+  "NKQ": "nội khí quản",
+  "BTS": "bê tê ét",
+  "ERS": "e rờ ét",
+  "ATS": "a tê ét",
+  "ACP": "a xê pê",
+  "BMJ": "bê em di",
+  "V/Q": "thông khí trên tưới máu",
+  "S/F": "S trên F",
+  "P/F": "P trên F",
+  "DO₂": "đê O hai"
+ },
+ "brand": {
+  "next": "Phần 4: Oxy dòng cao qua cannula mũi"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "art": "lungs",
+   "chapter": "Mở đầu",
+   "kicker": "SUY HÔ HẤP CẤP · PHẦN 3/6",
+   "title": "Oxy là thuốc",
+   "subtitle": "Đích SpO₂, bằng chứng và dụng cụ cấp oxy",
+   "badges": [
+    {
+     "t": "Đích SpO₂",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Bằng chứng ICU",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Cannula · mask · Venturi",
+     "c": "blue",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: BTS 2017 · TSANZ 2015 · BMJ Rapid Recommendation 2018 · SRLF-SFMU 2024 · thử nghiệm gốc",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba của loạt bài suy hô hấp cấp trên Thư Viện Y Khoa Online.",
+    "Trong nhiều thập niên, oxy được xem như một biện pháp vô hại, cho càng nhiều càng tốt. Quan niệm này đã thay đổi: oxy là một loại thuốc, có chỉ định, có liều, có đích và có tác dụng phụ.",
+    "Phần này đi qua đích SpO₂ theo các hướng dẫn, bằng chứng từ các thử nghiệm đích oxy, và mặt trái của oxy.",
+    "Sau đó là các dụng cụ: cannula, mask, mask có túi, mask Venturi, và cuối cùng là làm ẩm."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "list",
+   "chapter": "Nguyên tắc",
+   "title": "Năm nguyên tắc kê đơn oxy",
+   "ref": "BTS 2017, pdf 1–2",
+   "items": [
+    {
+     "t": "1. Kê đơn theo đích SpO₂",
+     "d": "Ghi đích cho mọi người bệnh ngay khi nhập viện",
+     "c": "teal",
+     "at": 0,
+     "n": 1
+    },
+    {
+     "t": "2. Nhân viên được đào tạo cấp oxy",
+     "d": "Chọn dụng cụ và lưu lượng theo đích",
+     "c": "blue",
+     "at": 1,
+     "n": 2
+    },
+    {
+     "t": "3. Ghi SpO₂, dụng cụ, lưu lượng",
+     "d": "Phải tăng oxy vì SpO₂ tụt → đánh giá lâm sàng ngay",
+     "c": "amber",
+     "at": 2,
+     "n": 3
+    },
+    {
+     "t": "4. Giảm dần khi ổn định",
+     "d": "",
+     "c": "violet",
+     "at": 3,
+     "n": 4
+    },
+    {
+     "t": "5. Ngừng khi đạt đích với khí trời",
+     "d": "Vẫn giữ đích trong y lệnh phòng khi xấu đi",
+     "c": "green",
+     "at": 4,
+     "n": 5
+    }
+   ],
+   "lines": [
+    "Hướng dẫn của Hội Lồng ngực Anh năm 2017 tóm lại cách tiếp cận mới trong năm nguyên tắc. Thứ nhất, oxy được kê đơn theo đích SpO₂, và nên ghi đích cho mọi người bệnh ngay khi nhập viện, để khi xấu đi có thể bắt đầu oxy đúng.",
+    "Thứ hai, oxy do nhân viên được đào tạo cấp, chọn dụng cụ và lưu lượng theo đích.",
+    "Thứ ba, SpO₂ cùng dụng cụ và lưu lượng được ghi lại. Mỗi lần phải tăng oxy vì SpO₂ tụt là một lần cần đánh giá lâm sàng ngay, chứ không chỉ vặn lưu lượng.",
+    "Thứ tư, oxy được giảm dần khi ổn định.",
+    "Thứ năm, ngừng oxy khi người bệnh giữ được SpO₂ trong đích lúc thở khí trời, nhưng vẫn giữ đích trong y lệnh phòng khi xấu đi."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Đích SpO₂",
+   "title": "Đích SpO₂ trong các hướng dẫn",
+   "ref": "BTS 2017 · TSANZ 2015 tr. 1184–1185 · Siemieniuk 2018 · SRLF 2024 tr. 5",
+   "head": [
+    "Hướng dẫn",
+    "Không nguy cơ tăng CO₂",
+    "Có nguy cơ tăng CO₂",
+    "Ghi chú"
+   ],
+   "widths": "0.9fr 1.3fr 1.3fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "BTS 2017",
+      "94–98% (grade D)",
+      "88–92% chờ khí máu",
+      "Ghi đích cho mọi người bệnh"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "TSANZ 2015",
+      "92–96% (grade C)",
+      "88–92% (grade B)",
+      "Không bắt đầu oxy nếu khí trời đã đạt đích"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "BMJ 2018",
+      "Không quá 96% (mạnh)",
+      "88–92%",
+      "Nhồi máu cơ tim, đột quỵ: không oxy khi SpO₂ ≥ 93%"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "SRLF 2024",
+      "94–98% (GRADE 2+)",
+      "88–92% (GRADE 2+)",
+      "Không khuyến cáo chiến lược tự do hay hạn chế"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Các hướng dẫn thống nhất ở một điểm: người có nguy cơ tăng CO₂ nên được giữ SpO₂ 88 đến 92%.",
+    "Khác biệt nằm ở mức trên cho người không có nguy cơ. Hội Lồng ngực Anh chọn 94 đến 98%, trong khi Hội Lồng ngực Úc và New Zealand chọn 92 đến 96%, và không bắt đầu oxy nếu khí trời đã đạt đích.",
+    "Khuyến cáo nhanh của BMJ khuyến cáo mạnh không để SpO₂ vượt 96%; ở nhồi máu cơ tim và đột quỵ, không bắt đầu oxy khi SpO₂ từ 93% trở lên. Hội Hồi sức Pháp đề nghị 94 đến 98% cho đa số, 88 đến 92% cho người có nguy cơ tăng CO₂."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Đích SpO₂",
+   "title": "Ai có nguy cơ tăng CO₂, và làm gì trước khi có khí máu",
+   "ref": "BTS 2017",
+   "cards": [
+    {
+     "tag": "NHÓM NGUY CƠ",
+     "t": "Không chỉ COPD",
+     "items": [
+      "COPD",
+      "Béo phì nặng",
+      "Xơ nang, giãn phế quản tắc nghẽn cố định",
+      "Biến dạng thành ngực, bệnh thần kinh cơ"
+     ],
+     "c": "amber",
+     "at": 0
+    },
+    {
+     "tag": "TRƯỚC KHÍ MÁU",
+     "t": "Bắt đầu thấp",
+     "items": [
+      "Venturi 24% ở 2–3 L/phút",
+      "hoặc Venturi 28% ở 4 L/phút",
+      "hoặc cannula 1–2 L/phút",
+      "Đích 88–92%"
+     ],
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "SAU KHÍ MÁU",
+     "t": "Điều chỉnh đích",
+     "items": [
+      "PCO₂ bình thường → đích 94–98%",
+      "Trừ khi từng suy hô hấp tăng CO₂ phải NIV, thở máy",
+      "Khí máu lại sau 30–60 phút"
+     ],
+     "c": "blue",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Nhóm có nguy cơ tăng CO₂ không chỉ là COPD mà còn gồm béo phì nặng, xơ nang, giãn phế quản có tắc nghẽn cố định, biến dạng thành ngực và bệnh thần kinh cơ.",
+    "Với người có yếu tố nguy cơ nhưng chưa từng bị toan hô hấp, trước khi có khí máu, Hội Lồng ngực Anh hướng dẫn dùng mask Venturi 24% ở 2 đến 3 lít mỗi phút, hoặc 28% ở 4 lít mỗi phút, hoặc cannula 1 đến 2 lít mỗi phút, với đích 88 đến 92%.",
+    "Nếu PCO₂ bình thường, chuyển đích lên 94 đến 98%, trừ khi người bệnh từng suy hô hấp tăng CO₂ phải thông khí không xâm nhập hay thở máy. Và kiểm tra lại khí máu sau 30 đến 60 phút."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Bằng chứng",
+   "title": "Austin 2010: oxy chuẩn độ trước viện ở COPD",
+   "ref": "Austin 2010, BMJ",
+   "groups": [
+    {
+     "t": "Tất cả người nghi COPD",
+     "d": "Tử vong",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Chuẩn độ 88–92%",
+       "v": 4,
+       "lab": "4%",
+       "c": "teal"
+      },
+      {
+       "k": "Oxy lưu lượng cao",
+       "v": 9,
+       "lab": "9%"
+      }
+     ]
+    },
+    {
+     "t": "COPD được xác nhận",
+     "d": "Tử vong",
+     "at": 2,
+     "c": "green",
+     "bars": [
+      {
+       "k": "Chuẩn độ 88–92%",
+       "v": 2,
+       "lab": "2%",
+       "c": "green"
+      },
+      {
+       "k": "Oxy lưu lượng cao",
+       "v": 9,
+       "lab": "9%"
+      }
+     ]
+    }
+   ],
+   "max": 10,
+   "notes": [
+    {
+     "tag": "THIẾT KẾ",
+     "t": "Ngẫu nhiên theo cụm · 405 người khó thở nghi COPD · cấp cứu ngoại viện, Tasmania",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "CAN THIỆP",
+     "t": "Oxy chuẩn độ qua cannula, đích SpO₂ 88–92%",
+     "at": 1,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Bằng chứng mạnh nhất cho oxy kiểm soát ở người COPD đến từ thử nghiệm ngẫu nhiên theo cụm của Austin tại Tasmania, trên 405 người khó thở nghi COPD được cấp cứu ngoại viện.",
+    "Oxy chuẩn độ qua cannula với đích 88 đến 92% giảm tử vong từ 9% xuống 4% so với oxy lưu lượng cao.",
+    "Ở người COPD được xác nhận, tử vong giảm từ 9% xuống 2%. Một can thiệp đơn giản, gần như không tốn kém."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Bằng chứng",
+   "title": "DETO2X-AMI: oxy khi không giảm oxy máu",
+   "ref": "Hofmann 2017, NEJM",
+   "tiles": [
+    {
+     "tag": "SỐ NGƯỜI",
+     "v": 6629,
+     "l": "nghi nhồi máu cơ tim",
+     "d": "SpO₂ ≥ 90%",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "tag": "TỬ VONG 1 NĂM · OXY",
+     "v": 5.0,
+     "dec": 1,
+     "suf": "%",
+     "l": "oxy thường quy",
+     "d": "",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "TỬ VONG 1 NĂM · KHÍ TRỜI",
+     "v": 5.1,
+     "dec": 1,
+     "suf": "%",
+     "l": "không oxy",
+     "d": "",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "cols": 3,
+   "note": {
+    "t": "Oxy chỉ có lợi khi có giảm oxy máu · ở người có nguy cơ, oxy dư có thể gây hại",
+    "at": 2,
+    "c": "green"
+   },
+   "lines": [
+    "Ở chiều ngược lại, thử nghiệm DETO2X-AMI trên 6.629 người nghi nhồi máu cơ tim có SpO₂ từ 90% trở lên.",
+    "Oxy thường quy không giảm tử vong một năm: 5,0% so với 5,1%.",
+    "Hai thử nghiệm này cùng dẫn đến một kết luận: oxy chỉ có lợi khi có giảm oxy máu, và ở người có nguy cơ, oxy dư có thể gây hại."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Đích oxy ở hồi sức",
+   "title": "Năm thử nghiệm đích oxy ở hồi sức",
+   "ref": "ICU-ROX 2020 · Barrot 2020 · Schjørring 2021 · Semler 2022 · Martin 2025",
+   "head": [
+    "Thử nghiệm",
+    "Quần thể",
+    "So sánh",
+    "Kết cục chính"
+   ],
+   "widths": "1fr 1.2fr 1.5fr 1.9fr",
+   "rows": [
+    {
+     "cells": [
+      "ICU-ROX 2020",
+      "Thở máy, 965",
+      "Bảo tồn – thông thường",
+      "Ngày không thở máy 21,3 – 22,1 (p = 0,80)"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "LOCO2 2020",
+      "ARDS, 201",
+      "PaO₂ 55–70 – 90–105",
+      "<b>Dừng sớm</b> · tử vong 90 ngày 44,4% – 30,4%"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "HOT-ICU 2021",
+      "Giảm oxy máu, 2.888",
+      "PaO₂ 60 – 90 mmHg",
+      "Tử vong 90 ngày 42,9% – 42,4%"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "PILOT 2022",
+      "Thở máy, 2.541",
+      "SpO₂ 90 – 94 – 98%",
+      "Ngày không thở máy 20 – 21 – 21"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "UK-ROX 2025",
+      "Thở máy, 16.500",
+      "SpO₂ 90% – thông thường",
+      "Tử vong 90 ngày 35,4% – 34,9%"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Ở hồi sức, năm thử nghiệm lớn đã so sánh đích oxy thấp và cao. ICU-ROX trên 965 người thở máy không thấy khác biệt số ngày không thở máy.",
+    "Ngoại lệ là LOCO2 ở người ARDS: thử nghiệm phải dừng sớm vì nhóm đích thấp, PaO₂ 55 đến 70, có tử vong ngày 90 cao hơn, 44,4% so với 30,4%, và có 5 ca thiếu máu mạc treo, so với không ca nào ở nhóm đích cao.",
+    "HOT-ICU trên 2.888 người và PILOT trên 2.541 người đều trung tính.",
+    "Lớn nhất là UK-ROX với 16.500 người thở máy, không thấy khác biệt tử vong 90 ngày giữa đích SpO₂ 90% và chăm sóc thông thường. Lưu ý, các thử nghiệm này chủ yếu ở người đã thở máy xâm nhập; áp dụng cho người đang HFNC hay NIV là ngoại suy."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Mặt trái",
+   "title": "Mặt trái của oxy",
+   "ref": "Marino 5e · BTS 2017 · TSANZ 2015",
+   "cards": [
+    {
+     "tag": "TUẦN HOÀN",
+     "t": "Co mạch",
+     "items": [
+      "Co mạch hệ thống và mạch vành",
+      "Giảm cung lượng tim"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "PHỔI",
+     "t": "Xẹp phổi do hấp thu",
+     "items": [
+      "Oxy 100% kéo dài giảm dung tích sống"
+     ],
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "CO₂",
+     "t": "Tăng CO₂ do oxy",
+     "items": [
+      "Tác hại quan trọng nhất ở người có nguy cơ",
+      "Sáu cơ chế (Phần 1)"
+     ],
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "tag": "XỬ TRÍ",
+     "t": "Không ngừng đột ngột",
+     "items": [
+      "Nguy cơ giảm oxy máu bật lại",
+      "Chỉnh về đích 88–92%"
+     ],
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Mặt trái của oxy là gì? Tăng oxy máu gây co mạch hệ thống và mạch vành, làm giảm cung lượng tim.",
+    "Xẹp phổi do hấp thu là một nguy cơ khác; thở oxy 100% kéo dài làm giảm dung tích sống, được cho là do cơ chế này.",
+    "Ở người có nguy cơ, tăng CO₂ do oxy là tác hại quan trọng nhất về mặt lâm sàng, với sáu cơ chế đã trình bày ở phần một.",
+    "Khi nghi tăng CO₂ do oxy, đừng ngừng oxy đột ngột vì nguy cơ giảm oxy máu bật lại; hãy chỉnh về đích 88 đến 92%."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "box",
+   "chapter": "Dụng cụ lưu lượng thấp",
+   "title": "Vì sao FiO₂ thực nhận không cố định",
+   "ref": "Oh's 2026 · Hall 5e · BTS 2017",
+   "box": {
+    "tag": "NGUYÊN LÝ",
+    "t": "Lưu lượng oxy < lưu lượng hít vào đỉnh (25 → > 100 L/phút khi suy hô hấp) → khí phòng cuốn vào bù phần thiếu",
+    "at": 0,
+    "c": "teal"
+   },
+   "notes": [
+    {
+     "tag": "NGƯỜI BỆNH",
+     "t": "Lưu lượng hít vào, khoảng nghỉ giữa nhịp, thể tích khí lưu thông",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "DỤNG CỤ",
+     "t": "Lưu lượng oxy, thể tích mask, lỗ thoát khí, độ kín",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "HỆ QUẢ",
+     "t": "Thở càng nhanh, FiO₂ thực nhận càng giảm · không dùng cannula để tính P(A–a)O₂",
+     "at": 2,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Dụng cụ lưu lượng thấp cung cấp oxy với lưu lượng nhỏ hơn lưu lượng hít vào đỉnh của người bệnh, vốn có thể từ 25 đến hơn 100 lít mỗi phút khi suy hô hấp. Phần thiếu được bù bằng khí phòng cuốn vào.",
+    "Vì vậy FiO₂ thực nhận phụ thuộc cả người bệnh, như lưu lượng hít vào, khoảng nghỉ giữa các nhịp, thể tích khí lưu thông, lẫn dụng cụ, như lưu lượng oxy, thể tích mask, lỗ thoát khí và độ kín.",
+    "Hệ quả là với các dụng cụ này không biết được FiO₂ chính xác. Đo trên mô hình, FiO₂ thực nhận qua mask giảm dần khi nhịp thở tăng, đúng lúc người bệnh nặng hơn. Với cannula, Hội Lồng ngực Anh nhấn mạnh không thể dùng để tính chênh áp oxy phế nang động mạch."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Dụng cụ lưu lượng thấp",
+   "title": "Các dụng cụ oxy: lưu lượng và FiO₂ ước tính",
+   "ref": "Hall 5e Bảng 45-1 · BTS 2017 mục 10.2 · Oh's 2026",
+   "head": [
+    "Dụng cụ",
+    "Lưu lượng",
+    "FiO₂ ước tính",
+    "Lưu ý"
+   ],
+   "widths": "1.2fr 1fr 1.1fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "Cannula mũi",
+      "1–6 L/phút",
+      "~25–45% (+~4%/L)",
+      "Thở miệng vẫn hiệu quả · không thở lại CO₂"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Mask đơn giản",
+      "5–10 L/phút",
+      "35–60%",
+      "<b>Không dưới 5 L/phút</b> · tránh ở type II"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Mask thở lại một phần",
+      "6–10 L/phút",
+      "40–70%",
+      "Túi căng ≥ 1/3 khi hít vào"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Mask không thở lại",
+      "10–15 L/phút",
+      "60–90%",
+      "Cấp cứu · tránh khi nguy cơ ứ CO₂"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Mask Venturi",
+      "Theo van",
+      "24–60%, cố định",
+      "Cần FiO₂ biết trước, nguy cơ tăng CO₂"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Cannula mũi là dụng cụ thông dụng nhất. Với 1 đến 6 lít mỗi phút, FiO₂ tăng khoảng 4% cho mỗi lít, từ khoảng 25% lên 45%. Thở miệng không làm cannula mất tác dụng, và vì là hệ thống mở nên không gây thở lại CO₂; người bệnh ưa cannula hơn mask, tới 88% trong các nghiên cứu.",
+    "Mask đơn giản cho FiO₂ khoảng 35 đến 60% ở 5 đến 10 lít mỗi phút. Điểm cần nhớ: không dùng dưới 5 lít mỗi phút, vì CO₂ thở ra đọng lại trong lòng mask và người bệnh thở lại CO₂. Vì có thể cho FiO₂ trên 50%, mask đơn giản không hợp với suy hô hấp tăng CO₂.",
+    "Mask có túi cần lưu lượng đủ để túi luôn căng ít nhất một phần ba khi hít vào: 6 đến 10 lít với loại thở lại một phần, cho FiO₂ 40 đến 70%; 10 đến 15 lít với loại không thở lại, cho 60 đến 90%, không bao giờ đạt 100% vì luôn có khí lọt qua chỗ hở.",
+    "Mask Venturi cho FiO₂ cố định từ 24 đến 60%. Các sách lệch nhau vài phần trăm, nên mọi con số ở đây chỉ là ước tính."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Mask Venturi",
+   "title": "Nguyên lý mask Venturi",
+   "ref": "Hall 5e · Oh's 2026 · BTS 2017 · vẽ lại, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "o",
+     "t": "Oxy qua lỗ hẹp",
+     "d": "Dòng tốc độ cao",
+     "x": 300,
+     "y": 230,
+     "w": 420,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "a",
+     "t": "Cuốn khí phòng",
+     "d": "Tỉ lệ cố định do cửa sổ van",
+     "x": 888,
+     "y": 230,
+     "w": 440,
+     "h": 120,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "m",
+     "t": "Tổng lưu lượng lớn",
+     "d": "Vượt lưu lượng hít vào đỉnh → FiO₂ ổn định",
+     "x": 1480,
+     "y": 230,
+     "w": 480,
+     "h": 120,
+     "c": "green",
+     "at": 1
+    },
+    {
+     "id": "v1",
+     "t": "Van 24% · 2 L/phút",
+     "d": "Tổng lưu lượng 51 L/phút",
+     "x": 600,
+     "y": 500,
+     "w": 440,
+     "h": 120,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "v2",
+     "t": "Van 28% · 4 L/phút",
+     "d": "Tổng lưu lượng 44 L/phút",
+     "x": 1180,
+     "y": 500,
+     "w": 440,
+     "h": 120,
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "edges": [
+    {
+     "a": "o",
+     "b": "a",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "a": "a",
+     "b": "m",
+     "c": "blue",
+     "at": 1
+    }
+   ],
+   "note": {
+    "t": "Tăng lưu lượng oxy chỉ tăng tổng lưu lượng, không tăng FiO₂ · thở > 30 lần/phút: đặt lưu lượng cao hơn mức tối thiểu in trên van",
+    "at": 3,
+    "c": "coral",
+    "y": 650
+   },
+   "lines": [
+    "Mask Venturi hoạt động theo nguyên lý cuốn khí: oxy đi qua một lỗ hẹp, tạo dòng tốc độ cao kéo theo một tỉ lệ khí phòng cố định qua cửa sổ của van.",
+    "Tổng lưu lượng thường vượt lưu lượng hít vào đỉnh, nên FiO₂ ổn định.",
+    "Lưu lượng tối thiểu được in trên từng van. Ví dụ van 24% ở 2 lít mỗi phút cho tổng lưu lượng 51 lít mỗi phút; van 28% ở 4 lít mỗi phút cho 44 lít mỗi phút. Hai mức 24 và 28% đặc biệt hợp với người có nguy cơ ứ CO₂.",
+    "Vì tỉ lệ cuốn khí do van quyết định, tăng lưu lượng oxy chỉ làm tăng tổng lưu lượng mà không tăng nồng độ oxy. Người thở trên 30 lần mỗi phút thường có lưu lượng hít vào vượt mức tối thiểu, nên cần đặt lưu lượng cao hơn mức in trên van."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "curve",
+   "chapter": "Mask Venturi",
+   "title": "\"Thang máy nhanh\", không phải \"dốc trượt\"",
+   "ref": "BTS 2017 · minh hoạ hình dạng, không phải số liệu gốc",
+   "xl": "PaO₂",
+   "yl": "SpO₂",
+   "curves": [
+    {
+     "pts": [
+      [
+       0,
+       0
+      ],
+      [
+       10,
+       14
+      ],
+      [
+       20,
+       34
+      ],
+      [
+       30,
+       55
+      ],
+      [
+       40,
+       70
+      ],
+      [
+       50,
+       80
+      ],
+      [
+       60,
+       86
+      ],
+      [
+       70,
+       90
+      ],
+      [
+       80,
+       92
+      ],
+      [
+       90,
+       93.5
+      ],
+      [
+       100,
+       94.5
+      ]
+     ],
+     "c": "teal",
+     "label": "Đường cong phân ly",
+     "at": 0
+    }
+   ],
+   "points": [
+    {
+     "x": 20,
+     "y": 34,
+     "t": "SpO₂ nền rất thấp: FiO₂ 24–28% → SpO₂ tăng nhiều",
+     "c": "green",
+     "at": 1,
+     "dx": 40,
+     "dy": 30
+    },
+    {
+     "x": 70,
+     "y": 90,
+     "t": "Gần 90%: đáp ứng ít hơn nhiều",
+     "c": "amber",
+     "at": 2,
+     "dx": -80,
+     "dy": 90
+    }
+   ],
+   "notes": [
+    {
+     "tag": "THỰC HÀNH",
+     "t": "COPD giảm oxy máu nặng thường không cần oxy nồng độ cao để ra khỏi vùng nguy hiểm",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Một hình ảnh đáng nhớ của Hội Lồng ngực Anh là đường cong phân ly như một thang máy nhanh, chứ không phải một dốc trượt.",
+    "Khi SpO₂ nền rất thấp, người bệnh đang ở đoạn dốc: chỉ cần FiO₂ 24 đến 28% đã làm SpO₂ tăng nhiều.",
+    "Khi SpO₂ đã gần 90%, người bệnh lên tới đoạn phẳng, và đáp ứng SpO₂ ít hơn nhiều.",
+    "Đó là lý do người COPD giảm oxy máu nặng thường không cần oxy nồng độ cao để ra khỏi vùng nguy hiểm."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Làm ẩm",
+   "title": "Làm ấm, làm ẩm: khi nào cần",
+   "ref": "BTS 2017 (grade D) · Hess 2019 · Oh's 2026",
+   "cards": [
+    {
+     "tag": "KHÔNG CẦN",
+     "t": "Oxy lưu lượng thấp",
+     "items": [
+      "Hoặc lưu lượng cao trong thời gian ngắn"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "HỢP LÝ",
+     "t": "Lưu lượng cao > 24 giờ",
+     "items": [
+      "Hoặc khô rát đường thở trên",
+      "Mở khí quản, đường thở nhân tạo",
+      "Đờm quánh: khí dung nước muối sinh lý"
+     ],
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "BỎ",
+     "t": "Bình sủi bọt",
+     "items": [
+      "Không lợi ích lâm sàng đáng kể",
+      "Có nguy cơ nhiễm khuẩn"
+     ],
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "BẮT BUỘC",
+     "t": "HFNC và NIV",
+     "items": [
+      "HFNC phải làm ấm, làm ẩm",
+      "NIV: bình làm ẩm chủ động, không dùng HME"
+     ],
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Hội Lồng ngực Anh đưa ra bốn khuyến cáo thực hành về làm ẩm. Không cần làm ẩm khi cấp oxy lưu lượng thấp hay dùng oxy lưu lượng cao trong thời gian ngắn.",
+    "Hợp lý làm ẩm khi cần hệ thống lưu lượng cao trên 24 giờ, khi người bệnh khô rát đường thở trên, hoặc khi có mở khí quản hay đường thở nhân tạo. Với đờm quánh khó khạc, có thể dùng khí dung nước muối sinh lý.",
+    "Bình sủi bọt quen thuộc ở nhiều khoa phòng không đem lại lợi ích lâm sàng đáng kể nhưng có nguy cơ nhiễm khuẩn, nên không nên dùng.",
+    "Ngược lại, HFNC bắt buộc phải làm ấm và làm ẩm. Khi thông khí không xâm nhập, nên dùng bình làm ẩm chủ động thay vì bộ trao đổi nhiệt ẩm HME, vì HME làm tăng khoảng chết, tăng công thở và kém hiệu quả khi có rò qua mask."
+   ],
+   "id": "s13"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: COPD ở phòng cấp cứu",
+   "ref": "Ca minh hoạ · BTS 2017",
+   "case": "Nam 72 tuổi, COPD, khó thở tăng 2 ngày. Ở cấp cứu được đắp <b>mask không thở lại 15 L/phút</b>, SpO₂ <b>99%</b>, hơi lơ mơ. Chưa có khí máu.",
+   "q": "Xử trí oxy phù hợp nhất?",
+   "options": [
+    "Giữ nguyên vì SpO₂ đã tốt",
+    "Ngừng oxy ngay để tránh tăng CO₂",
+    "Chuyển Venturi 24–28%, đích 88–92%, khí máu ngay và nhắc lại sau 30–60 phút",
+    "Chuyển mask đơn giản 3 L/phút"
+   ],
+   "answer": 2,
+   "case_at": 0,
+   "q_at": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Nguy cơ tăng CO₂ → đích 88–92% · <b>không ngừng đột ngột</b> (giảm oxy máu bật lại) · mask đơn giản không dưới 5 L/phút (thở lại CO₂) · lơ mơ: nghĩ toan hô hấp, cân nhắc NIV (Phần 5, 6)",
+   "lines": [
+    "Tình huống. Nam 72 tuổi, COPD, khó thở tăng hai ngày. Ở cấp cứu, người bệnh được đắp mask không thở lại 15 lít mỗi phút, SpO₂ 99%, hơi lơ mơ. Chưa có khí máu.",
+    "Xử trí oxy nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là C. Người bệnh có nguy cơ tăng CO₂, nên đích là 88 đến 92%. Chuyển sang mask Venturi 24 hoặc 28%, lấy khí máu ngay và nhắc lại sau 30 đến 60 phút.",
+    "Ngừng oxy đột ngột có nguy cơ giảm oxy máu bật lại. Mask đơn giản dưới 5 lít mỗi phút gây thở lại CO₂. Và tình trạng lơ mơ gợi ý toan hô hấp; nếu khí máu xác nhận, cần cân nhắc thông khí không xâm nhập, nội dung của phần năm và sáu."
+   ],
+   "id": "s14"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Sáu thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Oxy là thuốc",
+     "d": "Kê đơn theo đích, ghi đích cho mọi người bệnh",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Đích 88–92% khi có nguy cơ tăng CO₂",
+     "d": "94–98% (BTS, SRLF) hoặc 92–96% (TSANZ) cho đa số",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Austin: oxy chuẩn độ giảm tử vong COPD",
+     "d": "9% → 4% · DETO2X: oxy không lợi khi SpO₂ ≥ 90%",
+     "c": "green",
+     "at": 2
+    },
+    {
+     "t": "Đích oxy ở ICU: đa số trung tính",
+     "d": "LOCO2 dừng sớm khi đích quá thấp",
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "t": "Mask đơn giản không dưới 5 L/phút",
+     "d": "Venturi 24–28% cho người nguy cơ ứ CO₂",
+     "c": "blue",
+     "at": 4
+    },
+    {
+     "t": "Bỏ bình sủi bọt",
+     "d": "HFNC bắt buộc làm ẩm · NIV không dùng HME",
+     "c": "violet",
+     "at": 5
+    }
+   ],
+   "lines": [
+    "Xin tổng kết sáu thông điệp. Một, oxy là thuốc: kê đơn theo đích và ghi đích cho mọi người bệnh.",
+    "Hai, đích 88 đến 92% cho người có nguy cơ tăng CO₂; đa số còn lại 94 đến 98%, hoặc 92 đến 96% theo Úc và New Zealand.",
+    "Ba, oxy chuẩn độ giảm tử vong ở COPD, và oxy không có lợi khi không giảm oxy máu.",
+    "Bốn, các thử nghiệm đích oxy ở hồi sức phần lớn trung tính, nhưng đích quá thấp ở ARDS có thể gây hại.",
+    "Năm, mask đơn giản không dưới 5 lít mỗi phút; Venturi 24 đến 28% cho người nguy cơ ứ CO₂.",
+    "Sáu, bỏ bình sủi bọt; HFNC bắt buộc làm ẩm, và thông khí không xâm nhập không dùng HME.",
+    "Phần bốn sẽ đi sâu vào oxy dòng cao qua cannula mũi. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s15"
+  }
+ ]
+}
