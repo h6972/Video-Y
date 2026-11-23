@@ -1,0 +1,125 @@
+[
+ {
+  "out": "thumbs/suy-ho-hap-cap-phan-1.png",
+  "hook": "MASK 15 LÍT<br>VẪN 88%?",
+  "line2": "Sinh lý bệnh suy hô hấp",
+  "chips": [
+   "Shunt",
+   "Tăng CO₂",
+   "P-SILI"
+  ],
+  "badge": "PHẦN 1/6",
+  "tag": "Oh's · Murray & Nadel · BTS 2017",
+  "img": null,
+  "c": "coral"
+ },
+ {
+  "out": "thumbs/suy-ho-hap-cap-phan-2.png",
+  "hook": "ROX &lt; 3,47<br>Ở GIỜ 6",
+  "line2": "Dự báo thất bại sớm",
+  "chips": [
+   "ROX",
+   "HACOR",
+   "Confalonieri"
+  ],
+  "badge": "PHẦN 2/6",
+  "tag": "Roca 2019 · Duan 2017 · SRLF 2024",
+  "img": null,
+  "c": "amber"
+ },
+ {
+  "out": "thumbs/suy-ho-hap-cap-phan-3.png",
+  "hook": "OXY<br>LÀ THUỐC",
+  "line2": "Đích SpO₂ và dụng cụ",
+  "chips": [
+   "88–92%",
+   "Venturi",
+   "UK-ROX"
+  ],
+  "badge": "PHẦN 3/6",
+  "tag": "BTS 2017 · TSANZ · Austin 2010",
+  "img": null,
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/suy-ho-hap-cap-phan-4.png",
+  "hook": "HFNC:<br>LỢI VÀ BẪY",
+  "line2": "Oxy dòng cao qua cannula mũi",
+  "chips": [
+   "FLORALI",
+   "RENOVATE",
+   "ROX"
+  ],
+  "badge": "PHẦN 4/6",
+  "tag": "ATS 2026 · ERS 2022 · SRLF 2024",
+  "img": null,
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/suy-ho-hap-cap-phan-5.png",
+  "hook": "NIV CHƯA<br>HIỆU QUẢ?",
+  "line2": "CPAP · NIV · helmet",
+  "chips": [
+   "Rò khí",
+   "IPAP/EPAP",
+   "Helmet"
+  ],
+  "badge": "PHẦN 5/6",
+  "tag": "BTS/ICS 2016 · Hess & Kacmarek",
+  "img": null,
+  "c": "amber"
+ },
+ {
+  "out": "thumbs/suy-ho-hap-cap-phan-6.png",
+  "hook": "KHI NÀO<br>ĐẶT ỐNG?",
+  "line2": "Chọn hỗ trợ theo bệnh cảnh",
+  "chips": [
+   "COPD",
+   "Phù phổi",
+   "Sau rút ống"
+  ],
+  "badge": "PHẦN 6/6",
+  "tag": "ATS 2026 · ERS/ATS 2017 · SRLF 2024",
+  "img": null,
+  "c": "coral"
+ },
+ {
+  "out": "thumbs/suy-ho-hap-cap-ca-1.png",
+  "hook": "VIÊM PHỔI<br>+ HFNC",
+  "line2": "ROX giờ 2, giờ 6 · đặt ống an toàn",
+  "chips": [
+   "ROX 4,5 → 2,8",
+   "PREOXI"
+  ],
+  "badge": "CA LÂM SÀNG 1/3",
+  "tag": "Ca minh hoạ · ATS 2026",
+  "img": null,
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/suy-ho-hap-cap-ca-2.png",
+  "hook": "SpO₂ 96%<br>MÀ LƠ MƠ",
+  "line2": "Đợt cấp COPD và NIV",
+  "chips": [
+   "pH 7,26",
+   "Đích 88–92%"
+  ],
+  "badge": "CA LÂM SÀNG 2/3",
+  "tag": "Ca minh hoạ · BTS/ICS 2016",
+  "img": null,
+  "c": "amber"
+ },
+ {
+  "out": "thumbs/suy-ho-hap-cap-ca-3.png",
+  "hook": "RÚT ỐNG<br>NGÀY 2",
+  "line2": "NIV dự phòng hay đặt lại ống?",
+  "chips": [
+   "HIGH-WEAN",
+   "Esteban 2004"
+  ],
+  "badge": "CA LÂM SÀNG 3/3",
+  "tag": "Ca minh hoạ · ERS/ATS 2017",
+  "img": null,
+  "c": "coral"
+ }
+]
