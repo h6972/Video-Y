@@ -1,0 +1,425 @@
+{
+ "title": "Tiếp cận sốc – Ca lâm sàng 1: sốc chưa rõ thể",
+ "theme": "case",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Ca lâm sàng Hồi sức · sốc",
+ "part": "Tiếp cận sốc · Ca 1/2",
+ "source_short": "Nguồn: ESICM 2025 · ESICM dịch 2024–2025 · SCCM/ESICM 2026 · SSC 2026 · SCAI 2026 · thử nghiệm gốc · Oh's, Textbook of Critical Care, Guyton",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ANDROMEDA-SHOCK-2": "an đờ rô mê đa sốc hai",
+  "ANDROMEDA-SHOCK": "an đờ rô mê đa sốc",
+  "Ibarra-Estrada": "i ba ra ét tra đa",
+  "Rodríguez-Lima": "rô đri ghét li ma",
+  "Tschoellitsch": "sô lít",
+  "SEPSIS-ACT": "sép xít ắc",
+  "µg/kg/phút": "mi crô gam mỗi ký mỗi phút",
+  "ng/kg/phút": "na nô gam mỗi ký mỗi phút",
+  "SEPSISPAM": "sép xít pam",
+  "PaO₂/FiO₂": "PaO hai trên FiO hai",
+  "mg/kg/giờ": "mi li gam mỗi ký mỗi giờ",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "De Backer": "đơ ba kê",
+  "Brokmeier": "brốc mai ơ",
+  "LeoPARDS": "lê ô pát",
+  "Malbrain": "man brên",
+  "VANCS II": "van cờ hai",
+  "SOAP II": "xốp hai",
+  "ProCESS": "prô xét",
+  "ProMISe": "prô mít",
+  "ATHOS-3": "a thốt ba",
+  "S(c)vO₂": "ét xê vê ô hai",
+  "Pv-aCO₂": "chênh áp CO hai tĩnh mạch động mạch",
+  "Hinshaw": "hin sô",
+  "Vincent": "vanh xăng",
+  "Legrand": "lơ gran",
+  "Goradia": "gô ra đi a",
+  "Jentzer": "giên dơ",
+  "VASSPR": "vát pờ",
+  "VANISH": "va nít",
+  "CENSER": "xen xơ",
+  "mL/giờ": "mi li lít mỗi giờ",
+  "U/phút": "đơn vị mỗi phút",
+  "mmol/L": "mi li mol mỗi lít",
+  "Guyton": "gai tơn",
+  "Rivers": "ri vơ",
+  "Monnet": "mô nê",
+  "Kotani": "cô ta ni",
+  "SOFA-2": "sô pha hai",
+  "Lajoye": "la gioa",
+  "Miller": "mi lơ",
+  "Perera": "pê rê ra",
+  "VASST": "vát",
+  "ARISE": "a rai",
+  "ScvO₂": "ét xê vê ô hai",
+  "mL/kg": "mi li lít mỗi ký",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "VExUS": "véc xớt",
+  "Yerke": "giơ kơ",
+  "Leone": "lê ô nê",
+  "CATS": "cát ét",
+  "SvO₂": "ét vê ô hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "SCCM": "ét xê xê em",
+  "SCAI": "ét cai",
+  "RUSH": "rớt",
+  "ARDS": "a rờ đê ét",
+  "G6PD": "gờ sáu pê đê",
+  "EVLW": "nước ngoài mạch phổi",
+  "PVPI": "chỉ số tính thấm mạch phổi",
+  "LVOT": "đường ra thất trái",
+  "EEOT": "nghiệm pháp ngưng cuối thì thở ra",
+  "Pmsf": "áp lực đổ đầy hệ thống trung bình",
+  "SSRI": "thuốc ức chế tái hấp thu serotonin",
+  "EGDT": "hồi sức theo mục tiêu sớm",
+  "ROSE": "rôs",
+  "PDE3": "phốt pho đi e xte ra ba",
+  "SpO₂": "SpO hai",
+  "Ince": "in xơ",
+  "FAST": "phát",
+  "VTI": "vê tê i",
+  "PLR": "nâng chân thụ động",
+  "PPV": "pê pê vê",
+  "SVV": "ét vê vê",
+  "CVP": "xê vê pê",
+  "MAP": "mắp",
+  "NEE": "liều tương đương norepinephrine",
+  "SSC": "ét ét xê",
+  "DO₂": "đê ô hai",
+  "VO₂": "vê ô hai",
+  "CO₂": "CO hai",
+  "VIP": "vi ai pi",
+  "AT1": "a tê một",
+  "ATP": "a tê pê",
+  "V1": "vê một",
+  "V2": "vê hai",
+  "α1": "an pha một",
+  "β1": "bê ta một",
+  "β2": "bê ta hai",
+  "CT": "xê tê"
+ },
+ "brand": {
+  "next": "Ca lâm sàng 2: sốc nhiễm khuẩn kháng trị"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "Ca lâm sàng hồi sức · Ca 1/2",
+   "title": "Sốt, lơ mơ<br>và huyết áp tụt",
+   "subtitle": "Nam 68 tuổi · khoa cấp cứu",
+   "badges": [
+    {
+     "t": "HA 82/40",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Lactate 4,8",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "4 điểm quyết định",
+     "c": "teal",
+     "at": 1
+    }
+   ],
+   "monitor": {
+    "hr": "118",
+    "bp": "82/40"
+   },
+   "note": "Ca bệnh minh hoạ, do người soạn dựng để học · không phải bệnh án thật",
+   "note_at": 2,
+   "lines": [
+    "Thưa quý đồng nghiệp, đây là ca lâm sàng thứ nhất trong loạt bài Tiếp cận sốc của Thư Viện Y Khoa Online.",
+    "Một người bệnh sốt, lơ mơ và tụt huyết áp. Chúng ta sẽ đi qua bốn điểm quyết định: có phải sốc không, đây là sốc gì, có truyền thêm dịch không, và làm gì khi huyết áp đã đạt mà tưới máu chưa cải thiện.",
+    "Đây là ca minh hoạ do người soạn dựng để học, không phải bệnh án thật."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "vitals",
+   "chapter": "Tiếp nhận",
+   "title": "Lúc tiếp nhận",
+   "ref": "Ca minh hoạ",
+   "patient": {
+    "tag": "BỆNH NHÂN",
+    "t": "Nam 68 tuổi",
+    "d": "Sốt 2 ngày, ho đờm, lơ mơ từ sáng · tiền sử tăng huyết áp",
+    "at": 0
+   },
+   "findings": [
+    {
+     "t": "Da gối nổi bông",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "t": "CRT 5 giây",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "t": "Ran ẩm hai đáy",
+     "at": 2,
+     "c": "blue"
+    }
+   ],
+   "vitals": [
+    {
+     "k": "HUYẾT ÁP",
+     "v": "82/40",
+     "u": "mmHg",
+     "c": "coral",
+     "f": "MAP 54",
+     "at": 0,
+     "alarm": true
+    },
+    {
+     "k": "NHỊP TIM",
+     "v": "118",
+     "u": "l/ph",
+     "c": "green",
+     "wave": "ecg",
+     "f": "xoang nhanh",
+     "at": 0
+    },
+    {
+     "k": "SpO₂",
+     "v": "91",
+     "u": "%",
+     "c": "blue",
+     "wave": "pleth",
+     "f": "oxy mũi 4 L/ph",
+     "at": 1
+    },
+    {
+     "k": "LACTATE",
+     "v": "4,8",
+     "u": "mmol/L",
+     "c": "amber",
+     "f": "↑",
+     "at": 2,
+     "alarm": true
+    }
+   ],
+   "lines": [
+    "Nam 68 tuổi, sốt hai ngày, ho đờm, lơ mơ từ sáng, tiền sử tăng huyết áp. Huyết áp 82 trên 40, MAP 54, nhịp tim 118.",
+    "Da gối nổi bông, thời gian đổ đầy mao mạch 5 giây; SpO₂ 91% với oxy mũi 4 lít.",
+    "Lactate 4,8 mi li mol mỗi lít, và nghe phổi có ran ẩm hai đáy."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 1",
+   "title": "Có phải sốc? Làm gì ngay?",
+   "ref": "ESICM 2025, khuyến cáo 1–5 · Vincent & De Backer 2013 (VIP) · SSC 2026",
+   "step": "ĐIỂM QUYẾT ĐỊNH 1",
+   "q": "Hành động đầu tiên phù hợp nhất?",
+   "q_at": 1,
+   "context": "Ba cửa sổ đều bất thường, lactate 4,8, MAP 54. Chưa có catheter trung tâm. Nghi viêm phổi.",
+   "options": [
+    "Chờ catheter trung tâm rồi mới dùng vận mạch",
+    "Bolus dịch có đánh giá + norepinephrine ngoại vi sớm + kháng sinh, siêu âm tim",
+    "Truyền nhanh 3 lít dịch rồi đánh giá lại",
+    "Dopamine liều thận rồi theo dõi"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Sốc rõ (giảm tưới máu ba cửa sổ + lactate) · tụt áp nặng (MAP < 55) → vận mạch sớm cùng dịch (Legrand 2022) · SSC 2026: bắt đầu vận mạch qua ngoại vi · dopamine không bảo vệ thận",
+   "lines": [
+    "Điểm quyết định thứ nhất. Ba cửa sổ tưới máu đều bất thường, lactate 4,8, MAP 54, chưa có catheter trung tâm, nghi viêm phổi.",
+    "Hành động đầu tiên phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Đây là sốc rõ ràng. Tụt áp nặng với MAP dưới 55 là lúc bắt đầu norepinephrine sớm, cùng lúc với dịch, và SSC 2026 gợi ý bắt đầu qua đường ngoại vi thay vì chờ catheter trung tâm. Song song là kháng sinh và siêu âm tim để xếp thể sốc. Dopamine liều thận không bảo vệ thận."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 2",
+   "title": "Siêu âm: sốc gì?",
+   "ref": "Perera 2010 · Miller 2025 · ESICM 2025, khuyến cáo 34",
+   "step": "ĐIỂM QUYẾT ĐỊNH 2",
+   "q": "Nhận định thể sốc?",
+   "q_at": 1,
+   "context": "Sau bolus 500 mL/10 phút: áp lực mạch tăng rất ít. Siêu âm: thất trái giảm động lan toả, LVOT VTI 11 cm, tĩnh mạch chủ dưới 2,2 cm ít biến thiên, nhiều đường B hai đáy, không dịch màng tim.",
+   "options": [
+    "Sốc giảm thể tích đơn thuần",
+    "Sốc phân bố đơn thuần",
+    "Sốc hỗn hợp: nhiễm khuẩn + rối loạn chức năng cơ tim",
+    "Sốc tắc nghẽn"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Bối cảnh nhiễm khuẩn + thất trái giảm động, VTI < 14 cm, tĩnh mạch chủ giãn, đường B → thành phần tim · không thất phải giãn, không dịch màng tim → không tắc nghẽn",
+   "lines": [
+    "Điểm quyết định thứ hai. Sau một bolus 500 mi li lít trong 10 phút, áp lực mạch tăng rất ít. Siêu âm cho thấy thất trái giảm động lan toả, VTI 11 cm, tĩnh mạch chủ dưới 2,2 cm ít biến thiên, nhiều đường B hai đáy, không dịch màng tim.",
+    "Thể sốc là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là C, sốc hỗn hợp. Bối cảnh là nhiễm khuẩn, nhưng thất trái giảm động, VTI dưới 14, tĩnh mạch chủ giãn và nhiều đường B cho thấy một thành phần tim. Không có thất phải giãn hay dịch màng tim, nên không nghĩ tắc nghẽn. Đây đúng là trường hợp siêu âm tim làm thay đổi xử trí."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 3",
+   "title": "Truyền thêm dịch?",
+   "ref": "ESICM 2025, khuyến cáo 10–12, 17 · ESICM dịch phần 2, Bảng 4",
+   "step": "ĐIỂM QUYẾT ĐỊNH 3",
+   "q": "Có truyền thêm dịch không?",
+   "q_at": 1,
+   "context": "Norepinephrine 0,2 µg/kg/phút qua ngoại vi, đã có catheter động mạch: MAP 68. CRT vẫn 4 giây. Nâng chân thụ động: VTI 11 → 11,5 cm (+4,5%).",
+   "options": [
+    "Có: lactate còn cao",
+    "Không: không đáp ứng dịch, đã có dấu sung huyết",
+    "Có: CVP chỉ 10 mmHg",
+    "Truyền thêm 30 mL/kg cho đủ"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "PLR tăng VTI 4,5% < 10% → không đáp ứng dịch · đường B, tĩnh mạch chủ giãn = nguy cơ của dịch (KC 11–12) · không dùng CVP làm đích (KC 47) · sốc có thành phần tim: dịch không phải điều trị chính",
+   "lines": [
+    "Điểm quyết định thứ ba. Người bệnh đang dùng norepinephrine 0,2 qua ngoại vi, đã có catheter động mạch, MAP 68. Nhưng thời gian đổ đầy mao mạch vẫn 4 giây. Nâng chân thụ động làm VTI tăng từ 11 lên 11,5 cm, tức 4,5%.",
+    "Có truyền thêm dịch không?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. VTI tăng dưới 10% khi nâng chân: người bệnh không đáp ứng dịch. Đường B và tĩnh mạch chủ giãn là dấu hiệu nguy cơ của dịch. CVP không phải đích. Và khi có thành phần tim, dịch không phải điều trị chính."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "decision",
+   "chapter": "Điểm quyết định 4",
+   "title": "MAP đạt, tưới máu chưa",
+   "ref": "SSC 2026, khuyến cáo 60–61 · ESICM 2025, khuyến cáo 7 · Miller 2025",
+   "step": "ĐIỂM QUYẾT ĐỊNH 4",
+   "q": "Bước tiếp theo?",
+   "q_at": 1,
+   "context": "MAP 68 với norepinephrine 0,2. CRT 4 giây, ScvO₂ 62%, Pv-aCO₂ 8 mmHg, VTI 11 cm, lactate 4,1.",
+   "options": [
+    "Tăng norepinephrine cho MAP 80",
+    "Thêm dobutamine, theo dõi VTI, CRT, Pv-aCO₂",
+    "Thêm vasopressin",
+    "Truyền albumin"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Lưu lượng thấp: VTI 11, ScvO₂ 62%, Pv-aCO₂ 8 > 6 · MAP đã đạt · SSC 2026: rối loạn chức năng tim + còn giảm tưới máu dù đủ dịch và MAP → thêm dobutamine vào norepinephrine (hoặc epinephrine đơn độc)",
+   "lines": [
+    "Điểm quyết định cuối. MAP 68 với norepinephrine 0,2, nhưng thời gian đổ đầy mao mạch vẫn 4 giây, ScvO₂ 62%, Pv-aCO₂ 8, VTI 11, lactate 4,1.",
+    "Bước tiếp theo là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Mọi chỉ số đều nói lưu lượng thấp: VTI 11, ScvO₂ thấp, Pv-aCO₂ trên 6. MAP đã đạt nên tăng norepinephrine hay thêm vasopressin không giải quyết vấn đề. SSC 2026 gợi ý khi có rối loạn chức năng tim và còn giảm tưới máu dù đủ dịch và MAP, thêm dobutamine vào norepinephrine, hoặc dùng epinephrine đơn độc."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "course",
+   "chapter": "Diễn tiến",
+   "title": "Tóm tắt diễn tiến",
+   "ref": "Ca minh hoạ",
+   "events": [
+    {
+     "time": "Vào",
+     "t": "MAP 54 · lactate 4,8 · ba cửa sổ bất thường",
+     "d": "Bolus có đánh giá · norepinephrine ngoại vi · kháng sinh",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "time": "30 phút",
+     "t": "Siêu âm: sốc hỗn hợp",
+     "d": "Thất trái giảm động · VTI 11 · đường B",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "time": "1 giờ",
+     "t": "PLR +4,5%",
+     "d": "Không truyền thêm dịch",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "time": "2 giờ",
+     "t": "Thêm dobutamine",
+     "d": "Sau 2 giờ: VTI 15 cm, Pv-aCO₂ 5, CRT cải thiện",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Tóm tắt diễn tiến. Lúc vào, MAP 54, lactate 4,8: bolus có đánh giá, norepinephrine ngoại vi sớm và kháng sinh.",
+    "Ba mươi phút sau, siêu âm phát hiện thành phần tim: sốc hỗn hợp.",
+    "Ở giờ đầu, nâng chân không đáp ứng: không truyền thêm dịch.",
+    "Ở giờ thứ hai, thêm dobutamine; hai giờ sau, VTI tăng lên 15 cm, Pv-aCO₂ giảm còn 5, thời gian đổ đầy mao mạch cải thiện."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Bài học",
+   "title": "Bài học từ ca 1",
+   "dense": true,
+   "items": [
+    {
+     "t": "Tụt áp + lactate cao chưa cho biết thể sốc",
+     "d": "Siêu âm tim sớm phát hiện thành phần tim",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Vận mạch sớm, qua ngoại vi",
+     "d": "Khi tụt áp nặng, cùng lúc với dịch",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Hỏi đáp ứng dịch trước mỗi bolus",
+     "d": "PLR + VTI · ngưỡng ≥ 10%",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "MAP đạt chưa phải đích cuối",
+     "d": "VTI, ScvO₂, Pv-aCO₂, CRT nói về lưu lượng",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bài học thứ nhất: tụt huyết áp kèm lactate cao chưa cho biết thể sốc; siêu âm tim sớm phát hiện thành phần tim.",
+    "Thứ hai: khi tụt áp nặng, dùng vận mạch sớm, qua đường ngoại vi, cùng lúc với dịch.",
+    "Thứ ba: hỏi đáp ứng dịch trước mỗi bolus, ở đây là nâng chân thụ động với VTI.",
+    "Thứ tư: MAP đạt chưa phải đích cuối; VTI, ScvO₂, Pv-aCO₂ và CRT cho biết lưu lượng đã đủ chưa. Ca tiếp theo là một người sốc nhiễm khuẩn kháng trị. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s08"
+  }
+ ]
+}
