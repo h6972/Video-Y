@@ -1,0 +1,94 @@
+[
+ {
+  "out": "thumbs/tiep-can-soc-phan-1.png",
+  "hook": "HUYẾT ÁP<br>BÌNH THƯỜNG<br>VẪN SỐC?",
+  "line2": "Định nghĩa mới · sinh lý",
+  "chips": [],
+  "badge": "PHẦN 1/6",
+  "tag": "Sinh lý tuần hoàn",
+  "img": null,
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/tiep-can-soc-phan-2.png",
+  "hook": "SỐC GÌ<br>TRONG 15 PHÚT?",
+  "line2": "Ba cửa sổ · CRT · POCUS",
+  "chips": [],
+  "badge": "PHẦN 2/6",
+  "tag": "Nhận diện, xếp thể sốc",
+  "img": null,
+  "c": "coral"
+ },
+ {
+  "out": "thumbs/tiep-can-soc-phan-3.png",
+  "hook": "TRUYỀN THÊM<br>DỊCH KHÔNG?",
+  "line2": "Đáp ứng dịch · PLR",
+  "chips": [],
+  "badge": "PHẦN 3/6",
+  "tag": "Theo dõi huyết động",
+  "img": null,
+  "c": "amber"
+ },
+ {
+  "out": "thumbs/tiep-can-soc-phan-4.png",
+  "hook": "MAP 65<br>CÓ ĐỦ?",
+  "line2": "Dịch và mục tiêu huyết áp",
+  "chips": [
+   "30 mL/kg là trần",
+   "Vận mạch sớm"
+  ],
+  "badge": "PHẦN 4/6",
+  "tag": "Dịch · huyết áp",
+  "img": null,
+  "c": "violet"
+ },
+ {
+  "out": "thumbs/tiep-can-soc-phan-5.png",
+  "hook": "NOREPINEPHRINE<br>LỆCH GẤP ĐÔI?",
+  "line2": "Vận mạch · NEE",
+  "chips": [],
+  "badge": "PHẦN 5/6",
+  "tag": "Thuốc vận mạch",
+  "img": null,
+  "c": "blue"
+ },
+ {
+  "out": "thumbs/tiep-can-soc-phan-6.png",
+  "hook": "SỐC<br>KHÁNG TRỊ",
+  "line2": "Định nghĩa 2026 · thuốc cứu vãn",
+  "chips": [
+   "NEE 0,5",
+   "Xanh methylen"
+  ],
+  "badge": "PHẦN 6/6",
+  "tag": "SCCM/ESICM 2026",
+  "img": null,
+  "c": "coral"
+ },
+ {
+  "out": "thumbs/tiep-can-soc-ca-1.png",
+  "hook": "SỐC GÌ<br>ĐÂY?",
+  "line2": "Ca lâm sàng: sốc chưa rõ thể",
+  "chips": [
+   "4 quyết định",
+   "Siêu âm tim"
+  ],
+  "badge": "CA 1/2",
+  "tag": "Ca minh hoạ",
+  "img": null,
+  "c": "teal"
+ },
+ {
+  "out": "thumbs/tiep-can-soc-ca-2.png",
+  "hook": "TĂNG MÃI<br>VẪN TỤT ÁP",
+  "line2": "Ca lâm sàng: sốc kháng trị",
+  "chips": [
+   "NEE 0,675",
+   "Áp lực ổ bụng"
+  ],
+  "badge": "CA 2/2",
+  "tag": "Ca minh hoạ",
+  "img": null,
+  "c": "coral"
+ }
+]
