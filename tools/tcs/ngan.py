@@ -1,0 +1,147 @@
+# -*- coding: utf-8 -*-
+"""12 video ngắn dọc (2 video mỗi phần) · giọng Mỹ Duyên ×1.15 · nội dung từ các phần dài đã kiểm."""
+
+END = "Xem trọn bài giảng ở link trong bio nhé!"
+
+VIDEOS = [
+    # 1 · Phần 1
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Huyết áp 112/70 mà vẫn đang sốc?", "sub": "Định nghĩa sốc ESICM 2025", "c": "coral",
+      "lines": ["Huyết áp 112 trên 70, nhưng da gối nổi bông, tiểu ít, lactate 4,5. Bạn có gọi đây là sốc không?"]},
+     {"layout": "box", "chapter": "ESICM 2025", "title": "Sốc là gì?", "ref": "ESICM 2025, khuyến cáo 1–3",
+      "box": {"tag": "ESICM 2025", "t": "Sốc = <b>giảm tưới máu mô</b>, cung cấp oxy không đủ cho tế bào.<br><b>Tụt huyết áp không bắt buộc.</b>", "at": 0, "c": "teal", "size": 40},
+      "notes": [{"tag": "LACTATE", "t": "Thường > 2 mmol/L", "at": 1, "c": "amber"}],
+      "lines": ["Theo hướng dẫn châu Âu năm 2025, sốc là giảm tưới máu mô, và tụt huyết áp không bắt buộc phải có.",
+                "Hệ giao cảm giữ huyết áp rất giỏi, cung lượng tim giảm trước huyết áp. Lactate thường trên 2. " + END]}],
+    # 2 · Phần 1
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Norepinephrine cũng là một “bolus dịch”?", "sub": "Thể tích tạo áp lực trong 60 giây", "c": "teal",
+      "lines": ["Vì sao norepinephrine có thể làm tăng cung lượng tim giống như truyền dịch?"]},
+     {"layout": "list", "chapter": "Hồi lưu tĩnh mạch", "title": "Bí mật nằm ở tĩnh mạch", "ref": "Guyton 15e · Oh's 2026 ch. 26 · Legrand 2022",
+      "items": [{"t": "> 80% máu nằm ở tĩnh mạch", "d": "Chỉ một phần tạo áp lực", "c": "blue", "at": 0},
+                {"t": "Thể tích tạo áp lực", "d": "Quyết định hồi lưu về tim", "c": "teal", "at": 0},
+                {"t": "Norepinephrine co tĩnh mạch", "d": "Huy động máu vào tuần hoàn hiệu dụng", "c": "coral", "at": 1}],
+      "lines": ["Hơn 80% máu nằm ở hệ tĩnh mạch, nhưng chỉ phần thể tích tạo áp lực mới đẩy máu về tim.",
+                "Norepinephrine co tĩnh mạch, chuyển máu sang khoang tạo áp lực, như mô phỏng một bolus dịch. " + END]}],
+    # 3 · Phần 2
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Bạn đo CRT có đúng cách?", "sub": "Thời gian đổ đầy mao mạch", "c": "amber",
+      "lines": ["Thời gian đổ đầy mao mạch là chỉ dấu tưới máu rẻ nhất. Nhưng bạn có đo đúng cách?"]},
+     {"layout": "box", "chapter": "CRT", "title": "Quy trình ANDROMEDA-SHOCK", "ref": "Hernández 2019, tr. 2",
+      "box": {"tag": "ĐO CRT", "t": "Ép đốt xa <b>ngón trỏ phải</b> bằng <b>lam kính 10 giây</b>.<br><b>> 3 giây</b> là bất thường.", "at": 0, "c": "teal", "size": 40},
+      "notes": [{"tag": "LƯU Ý", "t": "CRT là chỉ dấu tưới máu, không đo cung lượng tim", "at": 1, "c": "coral"}],
+      "lines": ["Ép mặt gan đốt xa ngón trỏ phải bằng lam kính trong 10 giây; trên 3 giây là bất thường. Đo lại mỗi 30 phút.",
+                "Nhớ rằng CRT là chỉ dấu tưới máu, không phản ánh cung lượng tim. " + END]}],
+    # 4 · Phần 2
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "CRT hay lactate để dẫn đường hồi sức?", "sub": "ANDROMEDA-SHOCK", "c": "violet",
+      "lines": ["Hồi sức theo thời gian đổ đầy mao mạch, hay theo lactate?"]},
+     {"layout": "bars", "chapter": "ANDROMEDA-SHOCK", "title": "Tử vong ngày 28", "ref": "Hernández, JAMA 2019",
+      "groups": [{"t": "424 người sốc nhiễm khuẩn", "d": "HR 0,75 · P = 0,06", "at": 0, "c": "teal",
+                  "bars": [{"k": "Theo CRT", "v": 34.9, "lab": "34,9%"}, {"k": "Theo lactate", "v": 43.4, "lab": "43,4%"}]}],
+      "max": 50, "h": 560,
+      "lines": ["Trong ANDROMEDA-SHOCK, tử vong ngày 28 là 34,9% khi hồi sức theo CRT, so với 43,4% theo lactate; chưa đạt ý nghĩa thống kê.",
+                "Thông điệp: đừng đuổi lactate về bình thường khi tưới máu ngoại vi đã ổn. " + END]}],
+    # 5 · Phần 3
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Nâng chân thụ động trong 60 giây", "sub": "Phép thử đáp ứng dịch chủ lực", "c": "teal",
+      "lines": ["Muốn biết người bệnh có cần thêm dịch không, mà không truyền giọt nào?"]},
+     {"layout": "list", "chapter": "PLR", "title": "Bốn bước nâng chân thụ động", "ref": "ESICM 2025 · Monnet 2022",
+      "items": [{"t": "Nửa ngồi, đo cung lượng tim nền", "d": "", "c": "blue", "at": 0, "n": 1},
+                {"t": "Hạ thân, nâng chân", "d": "≈ 300 mL máu về tim", "c": "teal", "at": 0, "n": 2},
+                {"t": "Đo thời gian thực, đỉnh ≈ 1 phút", "d": "Tăng ≥ 10% = đáp ứng", "c": "amber", "at": 1, "n": 3},
+                {"t": "Không dùng khi tăng áp lực nội sọ", "d": "", "c": "coral", "at": 1, "n": 4}],
+      "lines": ["Bắt đầu tư thế nửa ngồi, đo cung lượng tim nền. Hạ thân, nâng chân: khoảng 300 mi li lít máu về tim.",
+                "Đo thời gian thực, đỉnh sau khoảng 1 phút; tăng từ 10% là có đáp ứng dịch. Không dùng khi tăng áp lực nội sọ. " + END]}],
+    # 6 · Phần 3
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Tĩnh mạch chủ dưới xẹp: truyền dịch?", "sub": "Gần như tung đồng xu", "c": "coral",
+      "lines": ["Tĩnh mạch chủ dưới xẹp nên truyền dịch? Hãy xem con số."]},
+     {"layout": "bars", "chapter": "Độ chính xác", "title": "Diện tích dưới đường cong", "ref": "ESICM 2025, pdf 16–17",
+      "groups": [{"t": "Dự đoán đáp ứng dịch", "d": "", "at": 0, "c": "teal",
+                  "bars": [{"k": "Nâng chân", "v": 0.94, "lab": "0,94", "c": "teal"}, {"k": "Tĩnh mạch chủ", "v": 0.63, "lab": "0,63", "c": "coral"}, {"k": "Tung đồng xu", "v": 0.5, "lab": "0,5"}]}],
+      "max": 1.05, "h": 560,
+      "lines": ["Nâng chân thụ động đạt 0,94. Đường kính tĩnh mạch chủ dưới chỉ 0,63 trong nghiên cứu 540 người, gần như tung đồng xu.",
+                "Hướng dẫn châu Âu 2025 gợi ý không dùng tĩnh mạch chủ dưới đơn độc. " + END]}],
+    # 7 · Phần 4
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "30 mL/kg: đích hay trần?", "sub": "ESICM dịch 2025", "c": "amber",
+      "lines": ["Ba mươi mi li lít mỗi ký dịch cho sốc nhiễm khuẩn: bắt buộc phải truyền đủ?"]},
+     {"layout": "box", "chapter": "Lượng dịch", "title": "Đọc đúng khuyến cáo", "ref": "Mekontso Dessap 2025, ESICM",
+      "box": {"tag": "ESICM 2025", "t": "<b>Tới</b> 30 mL/kg tinh thể khi <b>chưa có theo dõi huyết động</b>, rồi <b>cá thể hoá</b>.", "at": 0, "c": "teal", "size": 40},
+      "notes": [{"tag": "HẠN CHẾ HAY TỰ DO", "t": "Không đưa khuyến cáo", "at": 1, "c": "amber"}],
+      "lines": ["Hướng dẫn châu Âu 2025 gợi ý tới 30 mi li lít mỗi ký khi chưa có theo dõi huyết động, sau đó cá thể hoá.",
+                "Chữ tới nghĩa là trần, không phải liều bắt buộc. " + END]}],
+    # 8 · Phần 4
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "MAP 65 có đủ không?", "sub": "65 trial · người ≥ 65 tuổi", "c": "violet",
+      "lines": ["Người cao tuổi sốc giãn mạch: MAP 65 có đủ, hay cần cao hơn?"]},
+     {"layout": "bars", "chapter": "65 trial", "title": "Tử vong ngày 90", "ref": "Lamontagne, JAMA 2020",
+      "groups": [{"t": "2.600 người ≥ 65 tuổi", "d": "RR 0,93 (0,85–1,03)", "at": 0, "c": "teal",
+                  "bars": [{"k": "MAP 60–65", "v": 41.0, "lab": "41,0%"}, {"k": "Thường quy", "v": 43.8, "lab": "43,8%"}]}],
+      "max": 50, "h": 560,
+      "lines": ["Trong 65 trial, hạ huyết áp cho phép với MAP 60 đến 65 cho tử vong 41% so với 43,8%, không khác trong phân tích chính.",
+                "Với đa số người bệnh, MAP 65 là đủ; nâng cao hơn chỉ tăng thuốc vận mạch. " + END]}],
+    # 9 · Phần 5
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Vì sao dopamine bị “giáng chức”?", "sub": "SOAP II", "c": "coral",
+      "lines": ["Dopamine từng là thuốc vận mạch đầu tay. Vì sao giờ không còn?"]},
+     {"layout": "bars", "chapter": "SOAP II", "title": "Biến cố loạn nhịp", "ref": "De Backer, NEJM 2010",
+      "groups": [{"t": "1.679 người bệnh sốc", "d": "P < 0,001", "at": 0, "c": "coral",
+                  "bars": [{"k": "Dopamine", "v": 24.1, "lab": "24,1%"}, {"k": "Norepinephrine", "v": 12.4, "lab": "12,4%"}]}],
+      "max": 30, "h": 560,
+      "lines": ["Thử nghiệm SOAP II: tử vong không khác, nhưng loạn nhịp gần gấp đôi với dopamine, 24,1% so với 12,4%.",
+                "Và dopamine liều thấp không bảo vệ thận. Norepinephrine là thuốc đầu tay. " + END]}],
+    # 10 · Phần 5
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Cùng 0,5 µg/kg/phút, có thể lệch gấp đôi", "sub": "Norepinephrine: base hay tartrate?", "c": "amber",
+      "lines": ["Cùng con số 0,5 mi crô gam mỗi ký mỗi phút, nhưng liều thật có thể lệch gấp đôi. Vì sao?"]},
+     {"layout": "box", "chapter": "Quy đổi", "title": "Base hay muối?", "ref": "Ranzani 2025 · SCCM/ESICM 2026",
+      "box": {"tag": "NOREPINEPHRINE", "t": "<b>1 mg base = 2 mg bitartrate monohydrate</b>", "at": 0, "c": "amber", "size": 42},
+      "notes": [{"tag": "VIỆC CẦN LÀM", "t": "Kiểm tra ống thuốc tại khoa ghi theo dạng nào", "at": 1, "c": "coral"}],
+      "lines": ["Một mi li gam norepinephrine base bằng 2 mi li gam dạng muối bitartrate. Ống ghi theo muối thì liều thật chỉ bằng một nửa.",
+                "Định nghĩa sốc kháng trị 2026 tính theo base. Hãy kiểm tra ống thuốc ở khoa bạn. " + END]}],
+    # 11 · Phần 6
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Sốc kháng trị: định nghĩa mới 2026", "sub": "SCCM/ESICM", "c": "coral",
+      "lines": ["Lần đầu tiên, sốc nhiễm khuẩn kháng trị có định nghĩa đồng thuận. Gồm những gì?"]},
+     {"layout": "list", "chapter": "SCCM/ESICM 2026", "title": "Bốn yếu tố cùng lúc", "ref": "Leone 2026, SCCM/ESICM",
+      "items": [{"t": "Liều tương đương norepinephrine 0,5", "d": "µg/kg/phút, tính theo base", "c": "coral", "at": 0, "n": 1},
+                {"t": "Lactate, CRT kéo dài", "d": "Còn giảm tưới máu", "c": "amber", "at": 0, "n": 2},
+                {"t": "Đã tối ưu dịch", "d": "", "c": "blue", "at": 1, "n": 3},
+                {"t": "Siêu âm loại trừ nguyên nhân khác", "d": "Tim, tắc nghẽn, sốc hỗn hợp", "c": "teal", "at": 1, "n": 4}],
+      "lines": ["Liều tương đương norepinephrine khoảng 0,5 tính theo base, cộng lactate hoặc thời gian đổ đầy mao mạch kéo dài.",
+                "Kèm đã tối ưu dịch, và siêu âm loại trừ nguyên nhân khác. Kháng trị là lời nhắc tìm nguyên nhân trước khi thêm thuốc. " + END]}],
+    # 12 · Phần 6
+    [{"layout": "hook", "kicker": "TIẾP CẬN SỐC", "hook": "Xanh methylen: hỏi gì trước khi truyền?", "sub": "Bốn câu hỏi an toàn", "c": "blue",
+      "lines": ["Định dùng xanh methylen cho sốc kháng trị? Hãy hỏi bốn câu này trước."]},
+     {"layout": "list", "chapter": "An toàn", "title": "Bốn câu hỏi", "ref": "Fernando 2026 · Ibarra-Estrada 2023",
+      "items": [{"t": "Đang dùng SSRI?", "d": "Hội chứng serotonin", "c": "coral", "at": 0, "n": 1},
+                {"t": "Thiếu G6PD?", "d": "Tan máu", "c": "amber", "at": 0, "n": 2},
+                {"t": "Tăng áp phổi?", "d": "Ức chế NO", "c": "violet", "at": 1, "n": 3},
+                {"t": "SpO₂ sau truyền", "d": "Sẽ đo sai", "c": "blue", "at": 1, "n": 4}],
+      "lines": ["Một: có đang dùng thuốc ức chế tái hấp thu serotonin không. Hai: có thiếu G6PD không.",
+                "Ba: có tăng áp phổi không. Bốn: sau truyền, SpO₂ sẽ đo sai. Và nhớ: xanh methylen chưa chứng minh giảm tử vong. " + END]}],
+]
+
+# Thêm lời để mỗi video ngắn đạt ~40–60 giây (Mỹ Duyên đọc chậm hơn Adam)
+HOOK2 = [
+    "Câu trả lời của hướng dẫn châu Âu năm 2025 có thể khiến bạn bất ngờ.",
+    "Câu trả lời nằm ở phía tĩnh mạch của tuần hoàn, nơi ít ai để ý.",
+    "Một chi tiết nhỏ trong cách ép có thể làm kết quả sai hoàn toàn.",
+    "Thử nghiệm ANDROMEDA-SHOCK đã so sánh trực tiếp hai chiến lược này.",
+    "Câu trả lời là nâng chân thụ động, và chỉ mất khoảng một phút.",
+    "Nhiều người vẫn dựa vào nó mỗi ngày, nhưng con số không ủng hộ.",
+    "Đọc kỹ từng chữ trong khuyến cáo, bạn sẽ thấy câu trả lời.",
+    "Thử nghiệm 65 với hơn hai nghìn người bệnh đã trả lời câu hỏi này.",
+    "Thử nghiệm SOAP II với gần một nghìn bảy trăm người bệnh đã trả lời.",
+    "Đây là chi tiết dễ bị bỏ qua nhất khi đọc liều vận mạch.",
+    "Hội Hồi sức Hoa Kỳ và châu Âu đã thống nhất bằng phương pháp Delphi.",
+    "Thuốc này có thể giúp huyết áp, nhưng cũng có những cái bẫy riêng.",
+]
+MORE = [
+    "Ba cửa sổ để nhận ra giảm tưới máu là da, thận và tri giác. Đừng chờ huyết áp tâm thu xuống dưới 90 mới hành động.",
+    "Dịch truyền cũng làm tăng thể tích tạo áp lực, nhưng chỉ hiệu quả khi tim còn đáp ứng tiền tải. Vì vậy khi tụt áp nặng, có thể bắt đầu norepinephrine sớm, cùng lúc với dịch.",
+    "Nhiệt độ phòng, ánh sáng và lực ép đều ảnh hưởng kết quả, nên hãy đo cùng một cách mỗi lần, và đo lại thường xuyên.",
+    "Với thử nghiệm thứ hai, ANDROMEDA-SHOCK-2, hồi sức theo CRT thắng ở kết cục tổng hợp nhưng chưa giảm tử vong. Lactate cao kéo dài là lời nhắc tìm nguyên nhân, không phải chỉ định truyền thêm dịch.",
+    "Phải đo bằng phương tiện theo dõi cung lượng tim theo thời gian thực, vì áp lực mạch kém tin cậy hơn. Nhớ rằng tăng áp lực ổ bụng và vớ ép có thể làm kết quả âm tính giả.",
+    "Khi người bệnh tự thở, độ chính xác còn kém hơn nữa. Hãy dùng nâng chân thụ động, hoặc nghiệm pháp ngưng cuối thì thở ra khi thở máy không tự thở.",
+    "Còn về tranh cãi chiến lược hạn chế hay tự do, hướng dẫn không đưa khuyến cáo, vì bằng chứng cho thấy không khác biệt. Sau giai đoạn đầu, mỗi bolus nên dựa vào đánh giá đáp ứng dịch.",
+    "Ngoại lệ là người tăng huyết áp mạn có cải thiện khi huyết áp cao hơn, và chấn thương sọ não nặng cần MAP từ 80 trở lên.",
+    "Trong phân nhóm sốc tim, dopamine còn liên quan với tử vong cao hơn, dù đây chỉ là phân tích tạo giả thuyết.",
+    "Khi so với ngưỡng sốc kháng trị, sai lệch này có thể đổi kết luận hoàn toàn. Khi báo cáo liều, luôn ghi rõ dạng base hay dạng muối.",
+    "Vasopressin được quy đổi bằng cách nhân 2,5, nên 0,03 đơn vị mỗi phút tương đương khoảng 0,075. Những điểm chưa thống nhất là số giờ tối thiểu và ngưỡng lactate.",
+    "Phân tích gộp năm 2026 gồm 9 thử nghiệm cho thấy xanh methylen cải thiện huyết động nhưng không giảm tử vong ngắn hạn.",
+]
+for v, h, m in zip(VIDEOS, HOOK2, MORE):
+    v[0]["lines"].append(h)
+    v[1]["lines"].insert(1, m)
