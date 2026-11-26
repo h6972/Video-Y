@@ -1,0 +1,932 @@
+{
+ "title": "Tiếp cận sốc – Phần 5: Thuốc vận mạch và tăng co bóp",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Tiếp cận sốc · seri Sốc (1)",
+ "part": "Tiếp cận sốc · Phần 5/6",
+ "source_short": "Nguồn: ESICM 2025 · ESICM dịch 2024–2025 · SCCM/ESICM 2026 · SSC 2026 · SCAI 2026 · thử nghiệm gốc · Oh's, Textbook of Critical Care, Guyton",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ANDROMEDA-SHOCK-2": "an đờ rô mê đa sốc hai",
+  "ANDROMEDA-SHOCK": "an đờ rô mê đa sốc",
+  "Ibarra-Estrada": "i ba ra ét tra đa",
+  "Rodríguez-Lima": "rô đri ghét li ma",
+  "Tschoellitsch": "sô lít",
+  "SEPSIS-ACT": "sép xít ắc",
+  "µg/kg/phút": "mi crô gam mỗi ký mỗi phút",
+  "ng/kg/phút": "na nô gam mỗi ký mỗi phút",
+  "SEPSISPAM": "sép xít pam",
+  "PaO₂/FiO₂": "PaO hai trên FiO hai",
+  "mg/kg/giờ": "mi li gam mỗi ký mỗi giờ",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "De Backer": "đơ ba kê",
+  "Brokmeier": "brốc mai ơ",
+  "LeoPARDS": "lê ô pát",
+  "Malbrain": "man brên",
+  "SOAP II": "xốp hai",
+  "ProCESS": "prô xét",
+  "ProMISe": "prô mít",
+  "ATHOS-3": "a thốt ba",
+  "S(c)vO₂": "ét xê vê ô hai",
+  "Pv-aCO₂": "chênh áp CO hai tĩnh mạch động mạch",
+  "Hinshaw": "hin sô",
+  "Vincent": "vanh xăng",
+  "Legrand": "lơ gran",
+  "Goradia": "gô ra đi a",
+  "Jentzer": "giên dơ",
+  "VASSPR": "vát pờ",
+  "VANISH": "va nít",
+  "CENSER": "xen xơ",
+  "mL/giờ": "mi li lít mỗi giờ",
+  "U/phút": "đơn vị mỗi phút",
+  "mmol/L": "mi li mol mỗi lít",
+  "Guyton": "gai tơn",
+  "Rivers": "ri vơ",
+  "Monnet": "mô nê",
+  "Kotani": "cô ta ni",
+  "SOFA-2": "sô pha hai",
+  "Lajoye": "la gioa",
+  "Miller": "mi lơ",
+  "Perera": "pê rê ra",
+  "VASST": "vát",
+  "ARISE": "a rai",
+  "ScvO₂": "ét xê vê ô hai",
+  "mL/kg": "mi li lít mỗi ký",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "VExUS": "véc xớt",
+  "Yerke": "giơ kơ",
+  "Leone": "lê ô nê",
+  "CATS": "cát ét",
+  "SvO₂": "ét vê ô hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "SCCM": "ét xê xê em",
+  "SCAI": "ét cai",
+  "RUSH": "rớt",
+  "ARDS": "a rờ đê ét",
+  "G6PD": "gờ sáu pê đê",
+  "EVLW": "nước ngoài mạch phổi",
+  "PVPI": "chỉ số tính thấm mạch phổi",
+  "LVOT": "đường ra thất trái",
+  "EEOT": "nghiệm pháp ngưng cuối thì thở ra",
+  "Pmsf": "áp lực đổ đầy hệ thống trung bình",
+  "SSRI": "thuốc ức chế tái hấp thu serotonin",
+  "EGDT": "hồi sức theo mục tiêu sớm",
+  "ROSE": "rôs",
+  "PDE3": "phốt pho đi e xte ra ba",
+  "SpO₂": "SpO hai",
+  "Ince": "in xơ",
+  "FAST": "phát",
+  "VTI": "vê tê i",
+  "PLR": "nâng chân thụ động",
+  "PPV": "pê pê vê",
+  "SVV": "ét vê vê",
+  "CVP": "xê vê pê",
+  "MAP": "mắp",
+  "NEE": "liều tương đương norepinephrine",
+  "SSC": "ét ét xê",
+  "DO₂": "đê ô hai",
+  "VO₂": "vê ô hai",
+  "CO₂": "CO hai",
+  "VIP": "vi ai pi",
+  "AT1": "a tê một",
+  "ATP": "a tê pê",
+  "V1": "vê một",
+  "V2": "vê hai",
+  "α1": "an pha một",
+  "β1": "bê ta một",
+  "β2": "bê ta hai",
+  "CT": "xê tê"
+ },
+ "brand": {
+  "next": "Phần 6: Sốc kháng trị và thuốc cứu vãn"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "TIẾP CẬN SỐC · PHẦN 5/6",
+   "title": "Thuốc vận mạch<br>và tăng co bóp",
+   "subtitle": "Thụ thể · bằng chứng · liều · NEE · truyền ngoại vi",
+   "badges": [
+    {
+     "t": "Norepinephrine đầu tay",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "SOAP II",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Base hay tartrate?",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: SSC 2026 · SOAP II, CAT, CATS, VASST, VANISH, LeoPARDS, ATHOS-3, VASSPR · Kotani 2023 · Goradia 2021 · Yerke 2024",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần năm của loạt bài Tiếp cận sốc trên Thư Viện Y Khoa Online.",
+    "Đây là phần nhiều con số nhất của loạt bài: thuốc vận mạch và tăng co bóp, từ thụ thể đến liều, từ thử nghiệm đến bơm tiêm điện.",
+    "Chúng ta sẽ đi qua cơ chế, gần hai mươi năm thử nghiệm đã đưa norepinephrine lên vị trí đầu tay, cách quy đổi liều nhiều thuốc về một đơn vị chung,",
+    "và một chi tiết tưởng nhỏ nhưng có thể làm sai liều gấp đôi: norepinephrine dạng base hay dạng muối tartrate."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Thụ thể",
+   "title": "Thụ thể và đường truyền tín hiệu",
+   "ref": "Vẽ lại theo Overgaard & Džavík 2008, Hình 1, tr. 1048 · Oh's 2026 ch. 26 · đơn giản hoá",
+   "nodes": [
+    {
+     "id": "a1",
+     "t": "α1 · cơ trơn mạch",
+     "d": "Gq → Ca²⁺ nội bào → co mạch",
+     "x": 330,
+     "y": 230,
+     "w": 420,
+     "h": 110,
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "id": "b1",
+     "t": "β1 · tim",
+     "d": "Gs → AMP vòng → co bóp, nhịp",
+     "x": 888,
+     "y": 230,
+     "w": 420,
+     "h": 110,
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "id": "b2",
+     "t": "β2 · mạch, phế quản",
+     "d": "giãn mạch · tăng lactate",
+     "x": 1450,
+     "y": 230,
+     "w": 400,
+     "h": 110,
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "id": "v1",
+     "t": "V1 · vasopressin",
+     "d": "co mạch không qua adrenergic",
+     "x": 330,
+     "y": 470,
+     "w": 420,
+     "h": 110,
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "id": "at",
+     "t": "AT1 · angiotensin II",
+     "d": "co mạch, hệ renin – angiotensin",
+     "x": 888,
+     "y": 470,
+     "w": 420,
+     "h": 110,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "pd",
+     "t": "PDE3 · milrinone",
+     "d": "↑ AMP vòng không cần thụ thể",
+     "x": 1450,
+     "y": 470,
+     "w": 400,
+     "h": 110,
+     "c": "green",
+     "at": 3
+    },
+    {
+     "id": "ls",
+     "t": "Levosimendan",
+     "d": "tăng nhạy calci troponin C · mở kênh K-ATP",
+     "x": 1150,
+     "y": 640,
+     "w": 560,
+     "h": 90,
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "edges": [],
+   "note": {
+    "t": "Trong sốc: thụ thể giảm số lượng và độ nhạy · dự trữ norepinephrine giảm → vai trò α quan trọng hơn",
+    "at": 4,
+    "c": "amber",
+    "y": 70
+   },
+   "lines": [
+    "Chọn thuốc hợp lý bắt đầu từ việc biết thuốc gắn vào đâu. Thụ thể an pha một ở cơ trơn mạch máu, qua protein Gq, làm tăng calci nội bào và gây co mạch.",
+    "Thụ thể bê ta một ở tim, qua protein Gs và AMP vòng, tăng sức co bóp và nhịp tim; bê ta hai gây giãn mạch và góp phần làm tăng lactate.",
+    "Ngoài hệ adrenergic: vasopressin gắn thụ thể vê một ở mạch máu, angiotensin II gắn thụ thể AT1.",
+    "Milrinone ức chế phosphodiesterase ba, làm tăng AMP vòng mà không cần thụ thể; levosimendan tăng nhạy calci của troponin C và mở kênh kali phụ thuộc ATP.",
+    "Trong sốc, thụ thể adrenergic giảm số lượng và độ nhạy; dự trữ norepinephrine nội sinh giảm và đáp ứng bê ta kém đi, nên tác dụng an pha trở nên quan trọng hơn."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Từng thuốc",
+   "title": "Tác dụng chính của từng thuốc",
+   "ref": "Vincent & De Backer 2013, tr. 1729–1730 · Russell 2019 · Oh's 2026 ch. 26, pdf 792–807",
+   "head": [
+    "Thuốc",
+    "Thụ thể",
+    "Tác dụng và lưu ý"
+   ],
+   "widths": "1.1fr 1fr 2.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Norepinephrine",
+      "α mạnh, β1 vừa",
+      "Tăng MAP, ít đổi nhịp và cung lượng tim · co tĩnh mạch: huy động thể tích tạo áp lực"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Epinephrine",
+      "β → α theo liều",
+      "Tăng co bóp, nhịp · <b>tăng lactate, đường máu</b> · loạn nhịp"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Dopamine",
+      "D1 → β1 → α1",
+      "Nhiều loạn nhịp · liều thấp <b>không bảo vệ thận</b>"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Vasopressin",
+      "V1, V2",
+      "Tiết kiệm catecholamine · liều cao: thiếu máu vành, mạc treo, đầu chi"
+     ],
+     "at": 3,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Dobutamine",
+      "β1",
+      "Tăng thể tích nhát bóp · có thể giảm MAP"
+     ],
+     "at": 4,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Milrinone",
+      "Ức chế PDE3",
+      "Tăng co bóp kèm giãn mạch, hạ áp · thải qua thận"
+     ],
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Norepinephrine tác động an pha mạnh, bê ta một vừa: tăng MAP rõ với ít thay đổi nhịp tim và cung lượng tim. Sách Oh's nhấn mạnh tác động lên tĩnh mạch: khôi phục thể tích tạo áp lực, tăng hồi lưu.",
+    "Epinephrine tác động bê ta ở liều thấp, an pha tăng dần theo liều; thuốc làm tăng lactate và đường máu, và lactate tăng trong trường hợp này không đồng nghĩa với giảm tưới máu.",
+    "Dopamine gây nhiều loạn nhịp; liều thấp dưới 3 mi crô gam mỗi ký mỗi phút không bảo vệ thận, nên không còn dùng cho mục đích đó.",
+    "Vasopressin giúp tiết kiệm catecholamine, nhưng liều cao gây thiếu máu vành, mạc treo và đầu chi.",
+    "Dobutamine tăng thể tích nhát bóp và có thể làm giảm MAP; milrinone tăng co bóp kèm giãn mạch, hạ áp, và thải qua thận."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "bars",
+   "chapter": "SOAP II",
+   "title": "SOAP II: vì sao dopamine rời vị trí đầu tay",
+   "ref": "De Backer, NEJM 2010, tr. 779",
+   "groups": [
+    {
+     "t": "Biến cố loạn nhịp",
+     "d": "1.679 người bệnh sốc",
+     "at": 1,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Dopamine",
+       "v": 24.1,
+       "lab": "24,1%"
+      },
+      {
+       "k": "Norepinephrine",
+       "v": 12.4,
+       "lab": "12,4%"
+      }
+     ]
+    }
+   ],
+   "max": 30,
+   "notes": [
+    {
+     "tag": "TỬ VONG NGÀY 28",
+     "t": "Không khác có ý nghĩa · OR 1,17 (0,97–1,42) · P = 0,10",
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "tag": "LOẠN NHỊP",
+     "t": "Gần gấp đôi với dopamine · P < 0,001",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "PHÂN NHÓM SỐC TIM",
+     "t": "280 người: tử vong cao hơn với dopamine (P = 0,03) · chỉ tạo giả thuyết",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "notes_w": 480,
+   "lines": [
+    "SOAP II là thử nghiệm làm thay đổi thực hành rõ nhất. Trên 1.679 người bệnh sốc mọi nguyên nhân, tử vong ngày 28 không khác có ý nghĩa giữa dopamine và norepinephrine.",
+    "Nhưng biến cố loạn nhịp gần gấp đôi ở nhóm dopamine: 24,1% so với 12,4%.",
+    "Trong phân tích phân nhóm, dopamine liên quan với tử vong cao hơn ở 280 người bệnh sốc tim. Phân tích phân nhóm chỉ tạo giả thuyết, nhưng cùng với tín hiệu loạn nhịp, nó đủ để đẩy dopamine ra khỏi vị trí đầu tay."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Các thử nghiệm",
+   "title": "Hai mươi năm thử nghiệm thuốc vận mạch",
+   "ref": "Annane 2007 · Myburgh 2008 · Russell 2008 · Gordon 2016 · Khanna 2017 · Laterre 2019 · Peltan 2026",
+   "head": [
+    "Thử nghiệm",
+    "So sánh",
+    "Kết quả chính"
+   ],
+   "widths": "1fr 1.6fr 2fr",
+   "rows": [
+    {
+     "cells": [
+      "CATS 2007 · 330",
+      "Epinephrine vs norepinephrine + dobutamine",
+      "Tử vong 28 ngày 40% vs 34%, không khác"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "CAT 2008 · 280",
+      "Epinephrine vs norepinephrine",
+      "Thời gian đạt MAP không khác · 12,9% rút vì toan lactic, nhịp nhanh"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "VASST 2008 · 778",
+      "Thêm vasopressin 0,01–0,03 U/phút",
+      "Tử vong 35,4% vs 39,3%, không khác"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "VANISH 2016 · 409",
+      "Vasopressin tới 0,06 U/phút",
+      "Sống không suy thận không khác · ít lọc máu hơn"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "LeoPARDS 2016 · 516",
+      "Levosimendan vs giả dược",
+      "Không giảm SOFA · cai máy kém hơn · thêm loạn nhịp"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "ATHOS-3 2017 · 321",
+      "Angiotensin II vs giả dược",
+      "Đáp ứng MAP giờ 3: 69,9% vs 23,4%"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "SEPSIS-ACT 2019 · 828",
+      "Selepressin vs giả dược",
+      "Không khác · dừng vì vô ích"
+     ],
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "VASSPR 2026 · 3.959",
+      "Vasopressin ở NE 0,1 vs 0,4 µg/kg/phút",
+      "Tử vong 31,8% vs 33,0%, không khác"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bảng này tóm tắt gần hai mươi năm thử nghiệm. CATS và CAT cho kết quả nhất quán: epinephrine không kém về hiệu quả và tử vong, nhưng nhiều tác dụng chuyển hoá hơn; trong CAT, 12,9% nhánh epinephrine bị rút khỏi nghiên cứu, chủ yếu vì toan lactic, nhịp nhanh hoặc không đạt đích.",
+    "Vasopressin: VASST và VANISH không thấy khác biệt tử vong hay suy thận; trong VANISH, nhóm vasopressin ít cần lọc máu hơn.",
+    "Levosimendan trong LeoPARDS là kết quả âm tính rõ ràng; angiotensin II trong ATHOS-3 tăng mạnh đáp ứng huyết áp nhưng không đủ lực về tử vong.",
+    "Selepressin thất bại; và VASSPR với gần bốn nghìn người cho thấy bắt đầu vasopressin sớm khi norepinephrine 0,1 không tốt hơn bắt đầu ở 0,4. Bức tranh chung: các thuốc hàng hai tiết kiệm catecholamine, nhưng chưa thuốc nào chứng minh cứu sống hơn norepinephrine."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Khuyến cáo",
+   "title": "Bậc thang thuốc vận mạch theo SSC 2026",
+   "ref": "SSC 2026, khuyến cáo 12, 53–64 · tổng hợp từ khuyến cáo, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Norepinephrine",
+     "d": "đầu tay · <b>mạnh</b> · được bắt đầu qua ngoại vi",
+     "x": 300,
+     "y": 230,
+     "w": 440,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "+ Vasopressin",
+     "d": "khi NE đang tăng liều · có điều kiện",
+     "x": 888,
+     "y": 230,
+     "w": 420,
+     "h": 120,
+     "c": "violet",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "+ Epinephrine",
+     "d": "chưa đạt MAP · hoặc khi không có vasopressin",
+     "x": 1460,
+     "y": 230,
+     "w": 440,
+     "h": 120,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "Rối loạn chức năng tim",
+     "d": "NE hoặc epinephrine đầu tay",
+     "x": 300,
+     "y": 500,
+     "w": 420,
+     "h": 110,
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "Còn giảm tưới máu",
+     "d": "+ dobutamine, hoặc epinephrine đơn độc",
+     "x": 888,
+     "y": 500,
+     "w": 440,
+     "h": 110,
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "id": "f",
+     "t": "Không dùng",
+     "d": "dopamine, terlipressin, levosimendan, chẹn β · chưa đủ bằng chứng: xanh methylen, midodrine",
+     "x": 1460,
+     "y": 500,
+     "w": 480,
+     "h": 130,
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "c",
+     "at": 1
+    },
+    {
+     "a": "d",
+     "b": "e",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Hướng dẫn ESICM 2025 không bàn thuốc, nên khung chọn thuốc vận mạch có nhiều bằng chứng nhất là SSC 2026 cho sốc nhiễm khuẩn. Norepinephrine là thuốc đầu tay, khuyến cáo mạnh, và được gợi ý bắt đầu qua đường ngoại vi thay vì chờ catheter trung tâm.",
+    "Khi norepinephrine đang phải tăng liều, gợi ý thêm vasopressin; nếu vẫn chưa đạt MAP, hoặc nơi không có vasopressin, thêm epinephrine.",
+    "Khi có rối loạn chức năng tim, norepinephrine hoặc epinephrine đều có thể làm đầu tay; nếu vẫn giảm tưới máu dù dịch và MAP đã đủ, thêm dobutamine vào norepinephrine hoặc dùng epinephrine đơn độc.",
+    "Không dùng dopamine làm đầu tay, không dùng terlipressin, levosimendan hay chẹn bê ta; chưa đủ bằng chứng cho xanh methylen và midodrine. Thuốc trong sốc tim sẽ bàn ở chuyên đề riêng."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Liều",
+   "title": "Liều trong các nguồn",
+   "ref": "Vincent & De Backer 2013 · Bộ Y tế 2015, tr. 75–76 · các thử nghiệm · Oh's 2026, Bảng 26.3 · đã kiểm liều 23/11/2026",
+   "head": [
+    "Thuốc",
+    "Liều",
+    "Nguồn"
+   ],
+   "widths": "1fr 2.4fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "Norepinephrine",
+      "Thường dùng 0,1–2,0 µg/kg/phút · khởi đầu 0,05, tăng 0,05 mỗi 5–10 phút",
+      "Vincent 2013 · BYT 2015"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Epinephrine",
+      "Khởi đầu 0,05 µg/kg/phút, tăng 0,05–0,1",
+      "BYT 2015"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Vasopressin",
+      "0,03 U/phút (VASST 0,01–0,03) · chuẩn độ tới 0,06 (VANISH)",
+      "Các thử nghiệm"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Angiotensin II",
+      "Khởi đầu 20 ng/kg/phút",
+      "ATHOS-3"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Dobutamine",
+      "2,5–10 µg/kg/phút, có thể tới 20 · trên 20 ít lợi thêm",
+      "Pocket · BYT · Vincent"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Milrinone",
+      "Nạp 50 µg/kg/20 phút · duy trì 0,5 µg/kg/phút",
+      "Oh's 2026"
+     ],
+     "at": 3,
+     "c": "green"
+    }
+   ],
+   "lines": [
+    "Đây là liều trong các nguồn đã tổng hợp. Norepinephrine thường dùng 0,1 đến 2 mi crô gam mỗi ký mỗi phút; Bộ Y tế hướng dẫn khởi đầu 0,05 và tăng 0,05 mỗi 5 đến 10 phút đến khi MAP đạt 65.",
+    "Epinephrine khởi đầu 0,05, tăng 0,05 đến 0,1. Vasopressin thường 0,03 đơn vị mỗi phút; VANISH chuẩn độ tới 0,06, trong khi tổng quan năm 2013 khuyên không quá 0,04.",
+    "Angiotensin II khởi đầu 20 na nô gam mỗi ký mỗi phút. Dobutamine 2,5 đến 10, có thể tới 20 mi crô gam mỗi ký mỗi phút, trên 20 thường ít lợi thêm.",
+    "Milrinone nạp 50 mi crô gam mỗi ký trong 20 phút, duy trì 0,5. Mọi liều cần đối chiếu nhãn thuốc và quy trình khoa dược tại cơ sở."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "box",
+   "chapter": "Base hay tartrate",
+   "title": "Cùng một con số, có thể lệch gấp đôi",
+   "ref": "Ranzani 2025 (SOFA-2), pdf 8 · SCCM/ESICM 2026, pdf 11 · Oh's 2026, Bảng 26.3",
+   "box": {
+    "tag": "QUY ĐỔI NOREPINEPHRINE",
+    "t": "<b>1 mg base</b> = <b>2 mg bitartrate monohydrate</b> = 1,22 mg hydrochloride",
+    "at": 0,
+    "c": "amber",
+    "size": 40
+   },
+   "notes": [
+    {
+     "tag": "HỆ QUẢ",
+     "t": "Ống ghi theo muối: 6 mg chỉ chứa 3 mg base → liều thật bằng một nửa",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "NGƯỠNG MỚI",
+     "t": "Định nghĩa sốc kháng trị 2026 và SOFA-2 tính theo <b>base</b>",
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "tag": "VIỆC CẦN LÀM",
+     "t": "Kiểm tra biệt dược tại khoa ghi hàm lượng theo dạng nào",
+     "at": 3,
+     "c": "blue"
+    }
+   ],
+   "lines": [
+    "Một chi tiết tưởng nhỏ: norepinephrine được ghi theo dạng base hay dạng muối. Một mi li gam base tương đương 2 mi li gam bitartrate monohydrate và 1,22 mi li gam hydrochloride.",
+    "Nếu ống thuốc tại khoa ghi hàm lượng theo muối bitartrate, thì 6 mi li gam chỉ chứa 3 mi li gam base, và liều thật bằng một nửa con số trên bảng quy đổi.",
+    "Điều này quan trọng vì các tiêu chí mới, như định nghĩa sốc kháng trị 2026 và thang SOFA-2, đều tính theo base. Sai lệch này có thể đổi một người bệnh từ kháng trị thành không kháng trị.",
+    "Việc cần làm ngay: kiểm tra biệt dược đang dùng tại khoa ghi hàm lượng theo dạng nào."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "compare",
+   "chapter": "NEE",
+   "title": "Liều tương đương norepinephrine (NEE)",
+   "ref": "Kotani 2023, Bảng 1, tr. 7, tr. 9 · Goradia 2021, tr. 3",
+   "head": [
+    "Thuốc",
+    "Kotani 2023",
+    "Goradia 2021"
+   ],
+   "widths": "1.2fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Norepinephrine, epinephrine",
+      "× 1",
+      "× 1"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Vasopressin (U/phút)",
+      "<b>× 2,5</b>",
+      "<b>× 2,5</b>"
+     ],
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "Dopamine",
+      "÷ 100",
+      "÷ 100"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Phenylephrine",
+      "× 0,06",
+      "÷ 10"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Angiotensin II",
+      "0,0025 × ng/kg/phút (= 2,5 × µg)",
+      "10 × µg/kg/phút · <b>lệch 4 lần</b>"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Metaraminol",
+      "Bảng in “× 8” · lập luận ≈ 1/8",
+      "÷ 8 → dùng ÷ 8"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Khi người bệnh dùng hai, ba thuốc vận mạch, cần quy về một đơn vị chung: liều tương đương norepinephrine. Norepinephrine và epinephrine tính một với một.",
+    "Vasopressin nhân 2,5 ở cả hai công thức: 0,03 đơn vị mỗi phút tương đương khoảng 0,075 mi crô gam mỗi ký mỗi phút norepinephrine. Dopamine chia 100.",
+    "Nhưng hai công thức không thống nhất ở angiotensin II: hệ số của Kotani tương đương 2,5 lần liều tính bằng mi crô gam, của Goradia là 10 lần, chênh nhau bốn lần.",
+    "Và bảng của Kotani in nhân 8 cho metaraminol, trong khi chính lập luận của bài lấy tỷ lệ khoảng một phần tám; áp dụng máy móc sẽ sai khoảng 64 lần. Khi báo cáo liều tương đương, phải ghi rõ công thức đã dùng."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Truyền ngoại vi",
+   "title": "Truyền norepinephrine qua đường ngoại vi",
+   "ref": "Tian 2020, tr. 3, 7 · Yerke 2024, tr. 348–351 · SSC 2026, khuyến cáo 12",
+   "tiles": [
+    {
+     "tag": "TỔNG QUAN HỆ THỐNG",
+     "v": 3.4,
+     "dec": 1,
+     "suf": "%",
+     "l": "thoát mạch",
+     "d": "không ca thiếu máu chi, hoại tử",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "YERKE 2024",
+     "v": 51.6,
+     "dec": 1,
+     "suf": "%",
+     "l": "không cần đặt CVC",
+     "d": "603 người dùng ngoại vi từ đầu",
+     "c": "green",
+     "at": 1
+    },
+    {
+     "tag": "THOÁT MẠCH",
+     "v": 75.8,
+     "dec": 1,
+     "suf": "",
+     "l": "/1.000 ngày truyền",
+     "d": "35 người",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "SAU THOÁT MẠCH",
+     "v": 48.6,
+     "dec": 1,
+     "suf": "%",
+     "l": "phải đặt CVC",
+     "d": "17/35",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "Quy trình Yerke: 2 catheter 20–22G trên cổ tay, dưới nếp khuỷu, siêu âm xác nhận · máu hồi mỗi 2 giờ · tối đa 15 µg/phút · thoát mạch: phentolamine tiêm dưới da",
+    "at": 3,
+    "c": "blue"
+   },
+   "lines": [
+    "Chờ catheter trung tâm trước khi bắt đầu norepinephrine từng là chuẩn, và có thể làm chậm điều trị hàng giờ. Tổng quan hệ thống của Tian ghi nhận thoát mạch 3,4%, không ca nào thiếu máu chi hay hoại tử.",
+    "Nghiên cứu của Yerke trên 635 người bệnh: trong 603 người dùng norepinephrine ngoại vi ngay từ đầu, 51,6% không bao giờ cần catheter trung tâm.",
+    "Thoát mạch xảy ra ở 35 người, tức 75,8 biến cố trên 1.000 ngày truyền ngoại vi, và gần một nửa trong số đó phải đặt catheter trung tâm sau đó.",
+    "Quy trình của Yerke là một mẫu thực hành: hai catheter ngoại vi 20 đến 22G trên cổ tay và dưới nếp khuỷu, xác nhận bằng siêu âm, kiểm tra máu hồi mỗi 2 giờ, tối đa 15 mi crô gam mỗi phút; thoát mạch xử trí bằng phentolamine tiêm dưới da. Phác đồ thường dùng là phentolamine 5 mi li gam pha 10 mi li lít natri clorid 0,9% tiêm thấm, lặp lại sau 30 phút nếu chưa cải thiện."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "box",
+   "chapter": "Bơm tiêm điện",
+   "title": "Pha và quy đổi: công thức một dòng",
+   "ref": "Oh's 2026, Bảng 26.3, pdf 810 · phép tính của người soạn",
+   "box": {
+    "tag": "NOREPINEPHRINE HOẶC EPINEPHRINE 6 mg/100 mL = 60 µg/mL",
+    "t": "<b>mL/giờ = liều (µg/kg/phút) × cân nặng (kg)</b>",
+    "at": 0,
+    "c": "teal",
+    "size": 42
+   },
+   "notes": [
+    {
+     "tag": "VÍ DỤ",
+     "t": "70 kg · 0,1 → 7 mL/giờ · 0,25 → 17,5 · 0,5 → 35",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "VASOPRESSIN",
+     "t": "20 U/20 mL (1 U/mL): 0,03 U/phút = 1,8 mL/giờ",
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "tag": "CẢNH BÁO",
+     "t": "Chỉ đúng ở 60 µg/mL · nồng độ khác (bơm 50 mL, 64 µg/mL) phải tính lại",
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Sai liều vận mạch thường đến từ khâu pha và quy đổi. Với cách pha trong sách Oh's, 6 mi li gam trong 100 mi li lít, tức 60 mi crô gam mỗi mi li lít, công thức chỉ còn một dòng: mi li lít mỗi giờ bằng liều nhân cân nặng.",
+    "Ví dụ người 70 ký: 0,1 là 7 mi li lít mỗi giờ, 0,25 là 17,5, và ngưỡng 0,5 là 35 mi li lít mỗi giờ.",
+    "Vasopressin pha 20 đơn vị trong 20 mi li lít, tức 1 đơn vị mỗi mi li lít: 0,03 đơn vị mỗi phút là 1,8 mi li lít mỗi giờ.",
+    "Cảnh báo: công thức chỉ đúng với nồng độ 60. Khoa pha nồng độ khác, như bơm 50 mi li lít hay 16 mi li gam trong 250 mi li lít, phải tính lại."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: tính liều tương đương",
+   "ref": "Ca minh hoạ · Kotani 2023 · Goradia 2021 · SCCM/ESICM 2026",
+   "case": "Nam 70 kg, sốc nhiễm khuẩn. Bơm norepinephrine 60 µg/mL (khoa xác nhận tính theo base) chạy 28 mL/giờ, kèm vasopressin 0,03 U/phút.",
+   "case_at": 0,
+   "q": "Liều tương đương norepinephrine là bao nhiêu?",
+   "q_at": 1,
+   "options": [
+    "0,40 µg/kg/phút",
+    "0,475 µg/kg/phút",
+    "0,43 µg/kg/phút",
+    "0,10 µg/kg/phút"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 10
+   },
+   "explain": "Norepinephrine: 28 ÷ 70 = 0,40 µg/kg/phút · vasopressin: 0,03 × 2,5 = 0,075 · tổng NEE = <b>0,475</b> µg/kg/phút · sát ngưỡng 0,5 của sốc kháng trị",
+   "lines": [
+    "Tình huống tính toán. Người bệnh nam 70 ký, sốc nhiễm khuẩn. Bơm norepinephrine nồng độ 60, khoa đã xác nhận tính theo base, chạy 28 mi li lít mỗi giờ, kèm vasopressin 0,03 đơn vị mỗi phút.",
+    "Liều tương đương norepinephrine là bao nhiêu?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B. Với nồng độ 60, liều norepinephrine bằng 28 chia 70, tức 0,4 mi crô gam mỗi ký mỗi phút. Vasopressin 0,03 nhân 2,5 bằng 0,075. Tổng là 0,475, đã sát ngưỡng 0,5 của định nghĩa sốc kháng trị: đến lúc rà lại nguyên nhân, như phần sáu sẽ trình bày."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Năm thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Norepinephrine đầu tay, có thể qua ngoại vi",
+     "d": "Co tĩnh mạch, huy động thể tích tạo áp lực",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Dopamine: loạn nhịp gần gấp đôi",
+     "d": "SOAP II · liều thấp không bảo vệ thận",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Thuốc hàng hai tiết kiệm catecholamine",
+     "d": "Vasopressin, epinephrine · chưa thuốc nào cứu sống hơn",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "t": "Ghi rõ base hay tartrate",
+     "d": "Lệch gấp đôi · ngưỡng mới tính theo base",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "t": "NEE: ghi rõ công thức",
+     "d": "Vasopressin × 2,5 · angiotensin II, metaraminol còn lệch",
+     "c": "blue",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Tóm lại, thứ nhất: norepinephrine là thuốc đầu tay, và có thể bắt đầu qua đường ngoại vi.",
+    "Thứ hai: dopamine gây loạn nhịp gần gấp đôi và liều thấp không bảo vệ thận.",
+    "Thứ ba: vasopressin và epinephrine là thuốc hàng hai giúp tiết kiệm catecholamine, nhưng chưa thuốc nào chứng minh cứu sống hơn.",
+    "Thứ tư: luôn ghi rõ norepinephrine dạng base hay tartrate.",
+    "Thứ năm: khi báo cáo liều tương đương, ghi rõ công thức. Phần cuối: sốc kháng trị và các thuốc cứu vãn. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s13"
+  }
+ ]
+}
