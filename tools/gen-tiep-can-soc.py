@@ -35,7 +35,7 @@ LEX = {
     "Hinshaw": "hin sô", "Guyton": "gai tơn", "Rivers": "ri vơ", "Vincent": "vanh xăng", "De Backer": "đơ ba kê", "Monnet": "mô nê",
     "Ince": "in xơ", "Malbrain": "man brên", "Legrand": "lơ gran", "Kotani": "cô ta ni", "Goradia": "gô ra đi a", "Yerke": "giơ kơ",
     "Ibarra-Estrada": "i ba ra ét tra đa", "Rodríguez-Lima": "rô đri ghét li ma", "Brokmeier": "brốc mai ơ", "Leone": "lê ô nê",
-    "SOFA-2": "sô pha hai", "FAST": "phát", "CT": "xê tê", "Jentzer": "giên dơ", "Lajoye": "la gioa", "Tschoellitsch": "sô lít", "Miller": "mi lơ", "Perera": "pê rê ra",
+    "VANCS II": "van cờ hai", "SOFA-2": "sô pha hai", "FAST": "phát", "CT": "xê tê", "Jentzer": "giên dơ", "Lajoye": "la gioa", "Tschoellitsch": "sô lít", "Miller": "mi lơ", "Perera": "pê rê ra",
 }
 
 
