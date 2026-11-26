@@ -1,0 +1,231 @@
+1
+00:00:04,900 --> 00:00:06,068
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,918 --> 00:00:10,090
+đây là ca lâm sàng thứ nhất trong loạt bài Tiếp cận sốc của Thư Viện Y Khoa Online.
+
+3
+00:00:10,290 --> 00:00:15,022
+Một người bệnh sốt, lơ mơ và tụt huyết áp. Chúng ta sẽ đi qua bốn điểm quyết định:
+
+4
+00:00:14,872 --> 00:00:18,375
+có phải sốc không, đây là sốc gì, có truyền thêm dịch không,
+
+5
+00:00:18,225 --> 00:00:21,560
+và làm gì khi huyết áp đã đạt mà tưới máu chưa cải thiện.
+
+6
+00:00:21,760 --> 00:00:25,190
+Đây là ca minh hoạ do người soạn dựng để học, không phải bệnh án thật.
+
+7
+00:00:26,640 --> 00:00:30,607
+Nam 68 tuổi, sốt hai ngày, ho đờm, lơ mơ từ sáng,
+
+8
+00:00:30,457 --> 00:00:35,670
+tiền sử tăng huyết áp. Huyết áp 82 trên 40, MAP 54, nhịp tim 118.
+
+9
+00:00:35,870 --> 00:00:41,780
+Da gối nổi bông, thời gian đổ đầy mao mạch 5 giây; SpO₂ 91% với oxy mũi 4 lít.
+
+10
+00:00:41,980 --> 00:00:46,690
+Lactate 4,8 mi li mol mỗi lít, và nghe phổi có ran ẩm hai đáy.
+
+11
+00:00:48,140 --> 00:00:53,202
+Điểm quyết định thứ nhất. Ba cửa sổ tưới máu đều bất thường, lactate 4,8, MAP 54,
+
+12
+00:00:53,052 --> 00:00:55,810
+chưa có catheter trung tâm, nghi viêm phổi.
+
+13
+00:00:56,010 --> 00:00:58,400
+Hành động đầu tiên phù hợp nhất là gì?
+
+14
+00:00:58,600 --> 00:01:01,310
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+15
+00:01:09,910 --> 00:01:16,338
+Đáp án là B. Đây là sốc rõ ràng. Tụt áp nặng với MAP dưới 55 là lúc bắt đầu norepinephrine sớm,
+
+16
+00:01:16,188 --> 00:01:17,528
+cùng lúc với dịch,
+
+17
+00:01:17,378 --> 00:01:23,211
+và SSC 2026 gợi ý bắt đầu qua đường ngoại vi thay vì chờ catheter trung tâm. Song song
+
+18
+00:01:23,061 --> 00:01:28,630
+là kháng sinh và siêu âm tim để xếp thể sốc. Dopamine liều thận không bảo vệ thận.
+
+19
+00:01:30,080 --> 00:01:34,403
+Điểm quyết định thứ hai. Sau một bolus 500 mi li lít trong 10 phút,
+
+20
+00:01:34,253 --> 00:01:39,448
+áp lực mạch tăng rất ít. Siêu âm cho thấy thất trái giảm động lan toả, VTI 11 cm,
+
+21
+00:01:39,298 --> 00:01:44,680
+tĩnh mạch chủ dưới 2,2 cm ít biến thiên, nhiều đường B hai đáy, không dịch màng tim.
+
+22
+00:01:44,880 --> 00:01:46,230
+Thể sốc là gì?
+
+23
+00:01:46,430 --> 00:01:49,380
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+24
+00:01:57,980 --> 00:02:02,464
+Đáp án là C, sốc hỗn hợp. Bối cảnh là nhiễm khuẩn, nhưng thất trái giảm động,
+
+25
+00:02:02,314 --> 00:02:03,139
+VTI dưới 14,
+
+26
+00:02:02,989 --> 00:02:09,161
+tĩnh mạch chủ giãn và nhiều đường B cho thấy một thành phần tim. Không có thất phải giãn hay dịch màng tim,
+
+27
+00:02:09,011 --> 00:02:13,720
+nên không nghĩ tắc nghẽn. Đây đúng là trường hợp siêu âm tim làm thay đổi xử trí.
+
+28
+00:02:15,170 --> 00:02:20,775
+Điểm quyết định thứ ba. Người bệnh đang dùng norepinephrine 0,2 qua ngoại vi,
+
+29
+00:02:20,625 --> 00:02:22,546
+đã có catheter động mạch,
+
+30
+00:02:22,396 --> 00:02:29,772
+MAP 68. Nhưng thời gian đổ đầy mao mạch vẫn 4 giây. Nâng chân thụ động làm VTI tăng từ 11 lên 11,5 cm,
+
+31
+00:02:29,622 --> 00:02:30,410
+tức 4,5%.
+
+32
+00:02:30,610 --> 00:02:32,200
+Có truyền thêm dịch không?
+
+33
+00:02:32,400 --> 00:02:35,030
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+34
+00:02:43,630 --> 00:02:46,446
+Đáp án là B. VTI tăng dưới 10% khi nâng chân:
+
+35
+00:02:46,296 --> 00:02:51,423
+người bệnh không đáp ứng dịch. Đường B và tĩnh mạch chủ giãn là dấu hiệu nguy cơ của
+
+36
+00:02:51,273 --> 00:02:54,503
+dịch. CVP không phải đích. Và khi có thành phần tim,
+
+37
+00:02:54,353 --> 00:02:56,340
+dịch không phải điều trị chính.
+
+38
+00:02:57,790 --> 00:03:02,793
+Điểm quyết định cuối. MAP 68 với norepinephrine 0,2,
+
+39
+00:03:02,643 --> 00:03:10,820
+nhưng thời gian đổ đầy mao mạch vẫn 4 giây, ScvO₂ 62%, Pv-aCO₂ 8, VTI 11, lactate 4,1.
+
+40
+00:03:11,020 --> 00:03:12,610
+Bước tiếp theo là gì?
+
+41
+00:03:12,810 --> 00:03:15,520
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+42
+00:03:24,120 --> 00:03:29,112
+Đáp án là B. Mọi chỉ số đều nói lưu lượng thấp: VTI 11, ScvO₂ thấp,
+
+43
+00:03:28,962 --> 00:03:35,038
+Pv-aCO₂ trên 6. MAP đã đạt nên tăng norepinephrine hay thêm vasopressin không giải
+
+44
+00:03:34,888 --> 00:03:42,120
+quyết vấn đề. SSC 2026 gợi ý khi có rối loạn chức năng tim và còn giảm tưới máu dù đủ dịch và MAP,
+
+45
+00:03:41,970 --> 00:03:46,890
+thêm dobutamine vào norepinephrine, hoặc dùng epinephrine đơn độc.
+
+46
+00:03:48,340 --> 00:03:52,768
+Tóm tắt diễn tiến. Lúc vào, MAP 54, lactate 4,8: bolus có đánh giá,
+
+47
+00:03:52,618 --> 00:03:55,450
+norepinephrine ngoại vi sớm và kháng sinh.
+
+48
+00:03:55,650 --> 00:03:59,320
+Ba mươi phút sau, siêu âm phát hiện thành phần tim: sốc hỗn hợp.
+
+49
+00:03:59,520 --> 00:04:02,470
+Ở giờ đầu, nâng chân không đáp ứng: không truyền thêm dịch.
+
+50
+00:04:02,670 --> 00:04:09,036
+Ở giờ thứ hai, thêm dobutamine; hai giờ sau, VTI tăng lên 15 cm, Pv-aCO₂ giảm còn 5,
+
+51
+00:04:08,886 --> 00:04:11,700
+thời gian đổ đầy mao mạch cải thiện.
+
+52
+00:04:13,150 --> 00:04:17,214
+Bài học thứ nhất: tụt huyết áp kèm lactate cao chưa cho biết thể sốc;
+
+53
+00:04:17,064 --> 00:04:19,540
+siêu âm tim sớm phát hiện thành phần tim.
+
+54
+00:04:19,740 --> 00:04:24,050
+Thứ hai: khi tụt áp nặng, dùng vận mạch sớm, qua đường ngoại vi, cùng lúc với dịch.
+
+55
+00:04:24,250 --> 00:04:28,880
+Thứ ba: hỏi đáp ứng dịch trước mỗi bolus, ở đây là nâng chân thụ động với VTI.
+
+56
+00:04:29,080 --> 00:04:32,505
+Thứ tư: MAP đạt chưa phải đích cuối; VTI, ScvO₂,
+
+57
+00:04:32,355 --> 00:04:38,442
+Pv-aCO₂ và CRT cho biết lưu lượng đã đủ chưa. Ca tiếp theo là một người sốc nhiễm khuẩn
+
+58
+00:04:38,292 --> 00:04:43,150
+kháng trị. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

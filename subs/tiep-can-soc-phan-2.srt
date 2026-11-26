@@ -1,0 +1,511 @@
+1
+00:00:04,900 --> 00:00:06,091
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,941 --> 00:00:10,650
+chào mừng quý vị trở lại với phần hai của loạt bài Tiếp cận sốc trên Thư Viện Y Khoa Online.
+
+3
+00:00:10,850 --> 00:00:14,239
+Ở phần một, chúng ta đã thống nhất: sốc là giảm tưới máu mô,
+
+4
+00:00:14,089 --> 00:00:18,341
+không phải tụt huyết áp. Câu hỏi tiếp theo là làm sao nhận ra giảm tưới máu,
+
+5
+00:00:18,191 --> 00:00:19,960
+và làm sao biết đây là sốc gì.
+
+6
+00:00:20,160 --> 00:00:25,169
+Phần này đi từ khám lâm sàng, thời gian đổ đầy mao mạch và lactate,
+
+7
+00:00:25,019 --> 00:00:28,070
+qua hai chỉ số khí máu ScvO₂ và Pv-aCO₂,
+
+8
+00:00:28,270 --> 00:00:30,251
+đến siêu âm tim tại giường,
+
+9
+00:00:30,101 --> 00:00:35,540
+công cụ được ESICM 2025 gợi ý làm phương tiện hình ảnh đầu tay để xếp thể sốc.
+
+10
+00:00:36,990 --> 00:00:42,357
+Vincent và De Backer mô tả ba cửa sổ để nhìn vào tưới máu. Cửa sổ da: lạnh, ẩm, co mạch,
+
+11
+00:00:42,207 --> 00:00:45,380
+tím, nổi bông, rõ nhất ở trạng thái lưu lượng thấp.
+
+12
+00:00:45,580 --> 00:00:49,730
+Cửa sổ thận: nước tiểu dưới 0,5 mi li lít mỗi ký mỗi giờ.
+
+13
+00:00:49,930 --> 00:00:52,419
+Và cửa sổ não: lơ mơ, mất định hướng,
+
+14
+00:00:52,269 --> 00:00:56,276
+lú lẫn. ESICM 2025 khuyến cáo đánh giá tưới máu mô nhiều lần,
+
+15
+00:00:56,126 --> 00:00:59,754
+và theo dõi tưới máu da bằng thời gian đổ đầy mao mạch,
+
+16
+00:00:59,604 --> 00:01:05,760
+có thể bổ sung nhiệt độ da và dấu nổi bông. Đây là phát biểu thực hành tốt với đồng thuận mạnh.
+
+17
+00:01:07,210 --> 00:01:13,743
+Một tổng quan hệ thống năm 2023 gồm 25 nghiên cứu với 67.894 người lớn cho thấy các dấu
+
+18
+00:01:13,593 --> 00:01:18,731
+hiệu có giá trị chỉ báo sốc là giảm tưới máu hoặc nhiệt độ ngoại vi,
+
+19
+00:01:18,581 --> 00:01:23,280
+CRT kéo dài, da nổi bông và chỉ số sốc từ 0,7 đến 0,8 trở lên.
+
+20
+00:01:23,480 --> 00:01:26,750
+Nhịp nhanh, thở nhanh và thiểu niệu có ít bằng chứng hơn.
+
+21
+00:01:26,950 --> 00:01:28,716
+Không có báo cáo nào về tri giác,
+
+22
+00:01:28,566 --> 00:01:33,075
+vã mồ hôi hay chất lượng mạch. Nhưng thiếu bằng chứng không có nghĩa là không quan trọng:
+
+23
+00:01:32,925 --> 00:01:35,866
+phần lớn các nghiên cứu định nghĩa sốc bằng tụt huyết áp,
+
+24
+00:01:35,716 --> 00:01:37,580
+nên không đánh giá được sốc còn bù.
+
+25
+00:01:37,780 --> 00:01:40,467
+Và một giới hạn lớn: theo ESICM 2025,
+
+26
+00:01:40,317 --> 00:01:46,433
+CRT và nhiệt độ da không phản ánh tin cậy cung lượng tim thấp. CRT là chỉ dấu tưới máu,
+
+27
+00:01:46,283 --> 00:01:48,490
+không phải chỉ dấu cung lượng.
+
+28
+00:01:49,940 --> 00:01:53,489
+CRT chỉ có giá trị khi đo chuẩn. Trong ANDROMEDA-SHOCK,
+
+29
+00:01:53,339 --> 00:01:58,803
+CRT được đo bằng cách ép mặt gan đốt xa ngón trỏ phải bằng một lam kính trong 10 giây;
+
+30
+00:01:58,653 --> 00:02:00,410
+trên 3 giây là bất thường.
+
+31
+00:02:00,610 --> 00:02:05,160
+CRT được đo lại mỗi 30 phút cho đến khi bình thường, sau đó mỗi giờ.
+
+32
+00:02:05,360 --> 00:02:09,830
+Ưu điểm của CRT là thay đổi nhanh theo hồi sức và không cần máy móc.
+
+33
+00:02:10,030 --> 00:02:14,351
+Giới hạn là chịu ảnh hưởng của nhiệt độ, ánh sáng và lực ép, và như đã nói,
+
+34
+00:02:14,201 --> 00:02:16,020
+không phản ánh cung lượng tim.
+
+35
+00:02:17,470 --> 00:02:22,859
+Lactate là xét nghiệm dùng nhiều nhất, và cũng dễ dùng sai nhất. Trong phần biện luận,
+
+36
+00:02:22,709 --> 00:02:27,305
+ESICM 2025 nhận định không nên lấy việc bình thường hoá lactate làm đích:
+
+37
+00:02:27,155 --> 00:02:31,630
+lactate thay đổi chậm, và trở về bình thường là hệ quả của điều trị đủ.
+
+38
+00:02:31,830 --> 00:02:36,671
+Tổng quan 96 nghiên cứu của Vincent cho thấy động học lactate theo thời gian có giá trị
+
+39
+00:02:36,521 --> 00:02:37,857
+hơn một con số đơn lẻ,
+
+40
+00:02:37,707 --> 00:02:41,308
+và nhắc rằng thuật ngữ độ thanh thải lactate là không chính xác,
+
+41
+00:02:41,158 --> 00:02:44,220
+vì thay đổi nồng độ phản ánh cả sản xuất lẫn thải trừ.
+
+42
+00:02:44,420 --> 00:02:48,334
+Dữ liệu quan sát còn cho thấy tiếp tục hồi sức chỉ để kéo lactate xuống,
+
+43
+00:02:48,184 --> 00:02:50,269
+khi tưới máu ngoại vi đã bình thường,
+
+44
+00:02:50,119 --> 00:02:54,556
+liên quan với tử vong cao hơn. Lactate cao kéo dài là lời nhắc đi tìm nguyên nhân,
+
+45
+00:02:54,406 --> 00:02:56,490
+không phải chỉ định truyền thêm dịch.
+
+46
+00:02:57,940 --> 00:03:03,148
+Hai thử nghiệm ANDROMEDA-SHOCK trả lời trực tiếp câu hỏi CRT hay lactate. Thử nghiệm
+
+47
+00:03:02,998 --> 00:03:06,400
+đầu ngẫu nhiên hoá 424 người bệnh sốc nhiễm khuẩn sớm,
+
+48
+00:03:06,250 --> 00:03:09,290
+so sánh hồi sức 8 giờ theo CRT với theo lactate.
+
+49
+00:03:09,490 --> 00:03:16,438
+Tử vong ngày 28 là 34,9% ở nhóm CRT so với 43,4% ở nhóm lactate, tỷ số nguy cơ 0,75,
+
+50
+00:03:16,288 --> 00:03:17,409
+P bằng 0,06,
+
+51
+00:03:17,259 --> 00:03:24,612
+kèm ít rối loạn chức năng cơ quan hơn ở giờ 72. Kết cục chính không đạt ý nghĩa thống kê,
+
+52
+00:03:24,462 --> 00:03:27,040
+nhưng tín hiệu nghiêng về CRT.
+
+53
+00:03:27,240 --> 00:03:32,424
+ANDROMEDA-SHOCK-2 ngẫu nhiên hoá 1.501 người, phân tích 1.467,
+
+54
+00:03:32,274 --> 00:03:39,162
+vào hồi sức cá thể hoá theo CRT. Với kết cục thứ bậc tổng hợp, tỷ số thắng là 1,16,
+
+55
+00:03:39,012 --> 00:03:44,114
+P bằng 0,04; riêng thành phần tử vong chỉ 19,1% so với 17,8%,
+
+56
+00:03:43,964 --> 00:03:46,550
+và tử vong ngày 28 không giảm.
+
+57
+00:03:46,750 --> 00:03:51,185
+Tóm lại: hồi sức theo tưới máu ngoại vi an toàn và có lợi trên kết cục tổng hợp,
+
+58
+00:03:51,035 --> 00:03:53,060
+nhưng chưa chứng minh giảm tử vong.
+
+59
+00:03:54,510 --> 00:04:01,064
+Khi đã có catheter tĩnh mạch trung tâm, ESICM 2025 khuyến cáo đo ScvO₂ nhiều lần;
+
+60
+00:04:00,914 --> 00:04:09,524
+có thêm catheter động mạch thì đo Pv-aCO₂ nhiều lần. ScvO₂ thường cao hơn SvO₂ khoảng 5% ở người bệnh nặng,
+
+61
+00:04:09,374 --> 00:04:14,110
+và cả ScvO₂ thấp lẫn cao đều có thể đi kèm tiên lượng xấu.
+
+62
+00:04:14,310 --> 00:04:20,750
+Pv-aCO₂ trên 6 mi li mét thuỷ ngân gợi ý lưu lượng không đủ. Khi đọc theo cặp,
+
+63
+00:04:20,600 --> 00:04:24,460
+ScvO₂ thấp kèm Pv-aCO₂ cao gợi lưu lượng thấp.
+
+64
+00:04:24,660 --> 00:04:29,639
+ScvO₂ bình thường hoặc cao mà Pv-aCO₂ vẫn cao gợi lưu lượng vẫn chưa đủ,
+
+65
+00:04:29,489 --> 00:04:31,450
+dù oxy tĩnh mạch trông đẹp.
+
+66
+00:04:31,650 --> 00:04:32,754
+Còn ScvO₂ cao,
+
+67
+00:04:32,604 --> 00:04:38,411
+Pv-aCO₂ bình thường nhưng lactate cao gợi rối loạn sử dụng oxy hoặc một nguyên nhân
+
+68
+00:04:38,261 --> 00:04:43,385
+tăng lactate không do thiếu tưới máu. Đây là khung tư duy của người soạn;
+
+69
+00:04:43,235 --> 00:04:47,270
+hướng dẫn không đưa ngưỡng cho tỷ số Pv-aCO₂ trên Ca-vO₂.
+
+70
+00:04:48,720 --> 00:04:54,273
+ESICM 2025 gợi ý dùng siêu âm tim làm công cụ hình ảnh đầu tay để xác định thể sốc và
+
+71
+00:04:54,123 --> 00:04:57,134
+tình trạng huyết động. Đây là khuyến cáo yếu,
+
+72
+00:04:56,984 --> 00:05:02,409
+chắc chắn thấp, nhưng đồng thuận mạnh; hướng dẫn cũng khuyên làm siêu âm nhiều lần,
+
+73
+00:05:02,259 --> 00:05:04,380
+kể cả khi đã đo cung lượng tim.
+
+74
+00:05:04,580 --> 00:05:08,104
+Bằng chứng mạnh nhất là tác động lên quyết định:
+
+75
+00:05:07,954 --> 00:05:13,586
+siêu âm làm thay đổi xử trí ở 68,5% trong hơn 2.500 lần siêu âm qua thực quản,
+
+76
+00:05:13,436 --> 00:05:16,890
+và ở 38% trong 152 người bệnh hồi sức nội khoa.
+
+77
+00:05:17,090 --> 00:05:20,021
+Siêu âm còn phát hiện những điều không thể đoán:
+
+78
+00:05:19,871 --> 00:05:24,134
+tắc nghẽn động đường ra thất trái gặp ở 22% người bệnh sốc nhiễm khuẩn,
+
+79
+00:05:23,984 --> 00:05:28,000
+và suy thất phải ở 42% người bệnh sốc nhiễm khuẩn thở máy, nhóm này ít đáp ứng dịch.
+
+80
+00:05:30,450 --> 00:05:34,389
+Để biến siêu âm thành quy trình, phác đồ RUSH chia làm ba bước. Bước bơm:
+
+81
+00:05:34,239 --> 00:05:38,489
+tim tăng co bóp với buồng nhỏ gợi giảm thể tích; giảm co bóp, giãn gợi sốc tim;
+
+82
+00:05:38,339 --> 00:05:41,240
+dịch màng ngoài tim hay thất phải căng gợi tắc nghẽn.
+
+83
+00:05:41,440 --> 00:05:44,444
+Bước bể chứa: tĩnh mạch chủ dưới xẹp gợi giảm thể tích;
+
+84
+00:05:44,294 --> 00:05:46,987
+tĩnh mạch chủ giãn kèm nhiều đường B gợi sốc tim;
+
+85
+00:05:46,837 --> 00:05:49,270
+mất dấu trượt màng phổi gợi tràn khí áp lực.
+
+86
+00:05:49,470 --> 00:05:50,306
+Bước ống dẫn:
+
+87
+00:05:50,156 --> 00:05:55,055
+tìm phình hoặc bóc tách động mạch chủ và huyết khối tĩnh mạch sâu. Đây là kiểu hình gợi ý,
+
+88
+00:05:54,905 --> 00:05:59,858
+không đặc hiệu tuyệt đối. Tỷ lệ thất trái so với thất phải bình thường khoảng 1 so với 0,6;
+
+89
+00:05:59,708 --> 00:06:02,760
+thất phải bằng hoặc lớn hơn thất trái gợi tăng tải cấp.
+
+90
+00:06:04,210 --> 00:06:10,017
+LVOT VTI là thông số định lượng hữu ích nhất cho người mới tập siêu âm. Nếu giả định
+
+91
+00:06:09,867 --> 00:06:12,374
+đường kính đường ra thất trái 2 cm,
+
+92
+00:06:12,224 --> 00:06:14,000
+thể tích nhát bóp xấp xỉ VTI nhân 3,14.
+
+93
+00:06:15,200 --> 00:06:19,876
+Theo Miller và cộng sự, VTI dưới 14 cm gợi thể tích nhát bóp thấp,
+
+94
+00:06:19,726 --> 00:06:24,950
+trên 22 cm gợi bình thường hoặc cao, còn 14 đến 22 là vùng chưa chắc chắn.
+
+95
+00:06:25,150 --> 00:06:29,635
+Kết hợp với nâng chân thụ động: VTI thấp mà đáp ứng kéo dài gợi giảm thể tích;
+
+96
+00:06:29,485 --> 00:06:32,580
+VTI thấp mà không đáp ứng gợi sốc tim hoặc tắc nghẽn.
+
+97
+00:06:32,780 --> 00:06:36,930
+VTI bình thường hoặc cao với đáp ứng thoáng qua thường là sốc phân bố.
+
+98
+00:06:37,130 --> 00:06:37,971
+Và một lưu ý:
+
+99
+00:06:37,821 --> 00:06:43,605
+VTI bình thường dù phân suất tống máu giảm không mặc nhiên đòi hỏi thuốc tăng co bóp. Đây là khung tư duy,
+
+100
+00:06:43,455 --> 00:06:45,200
+không phải dấu hiệu tuyệt đối.
+
+101
+00:06:46,650 --> 00:06:49,694
+Phân độ SCAI 2026 được xây dựng cho sốc tim,
+
+102
+00:06:49,544 --> 00:06:54,628
+nhưng cách nó tách mức độ nặng là bài học chung. Giai đoạn A là có nguy cơ,
+
+103
+00:06:54,478 --> 00:06:55,680
+chưa có dấu sốc.
+
+104
+00:06:55,880 --> 00:06:59,628
+Giai đoạn B là bất ổn huyết động nhưng chưa giảm tưới máu;
+
+105
+00:06:59,478 --> 00:07:04,033
+giai đoạn C là giảm tưới máu cần can thiệp ngoài bù dịch, lactate từ 2,
+
+106
+00:07:03,883 --> 00:07:08,190
+và tụt áp không bắt buộc. Cùng tinh thần với định nghĩa ESICM 2025.
+
+107
+00:07:08,390 --> 00:07:13,731
+Giai đoạn D là chiến lược ban đầu thất bại; giai đoạn E là truỵ tuần hoàn, lactate từ 8,
+
+108
+00:07:13,581 --> 00:07:18,036
+pH từ 7,2 trở xuống. Người bệnh có thể chuyển qua lại giữa các giai đoạn,
+
+109
+00:07:17,886 --> 00:07:22,460
+và đánh giá lại sau 2 đến 3 giờ được đề xuất. Chi tiết ở chuyên đề sốc tim.
+
+110
+00:07:23,910 --> 00:07:25,880
+Tình huống. Nam 64 tuổi,
+
+111
+00:07:25,730 --> 00:07:32,097
+khó thở đột ngột ngày thứ năm sau mổ khớp háng. Huyết áp 84 trên 56, nhịp tim 124,
+
+112
+00:07:31,947 --> 00:07:37,025
+SpO₂ 86%, tĩnh mạch cổ nổi. Siêu âm: thất phải lớn hơn thất trái,
+
+113
+00:07:36,875 --> 00:07:42,560
+vách liên thất lệch trái, tĩnh mạch chủ dưới 2,4 cm không xẹp, VTI 10 cm,
+
+114
+00:07:42,410 --> 00:07:44,910
+phổi trượt hai bên, ít đường B.
+
+115
+00:07:45,110 --> 00:07:46,860
+Thể sốc nào phù hợp nhất?
+
+116
+00:07:47,060 --> 00:07:49,850
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+117
+00:07:58,450 --> 00:08:00,087
+Đáp án là B, sốc tắc nghẽn,
+
+118
+00:07:59,937 --> 00:08:05,487
+nghĩ đến thuyên tắc phổi. Thất phải lớn hơn thất trái và vách lệch trái là tăng tải thất phải cấp;
+
+119
+00:08:05,337 --> 00:08:07,084
+tĩnh mạch chủ giãn, VTI thấp;
+
+120
+00:08:06,934 --> 00:08:11,767
+phổi trượt và không có đường B loại trừ tràn khí và phù phổi. Bước tiếp theo của RUSH
+
+121
+00:08:11,617 --> 00:08:13,530
+là tìm huyết khối tĩnh mạch sâu.
+
+122
+00:08:14,980 --> 00:08:19,334
+Tóm lại, thứ nhất: ba cửa sổ và thời gian đổ đầy mao mạch là công cụ đầu tiên,
+
+123
+00:08:19,184 --> 00:08:20,250
+và phải đo chuẩn.
+
+124
+00:08:20,450 --> 00:08:23,800
+Thứ hai: lactate dùng để theo dõi, không để đuổi theo.
+
+125
+00:08:24,000 --> 00:08:29,510
+Thứ ba: Pv-aCO₂ trên 6 gợi lưu lượng chưa đủ, đọc cùng ScvO₂.
+
+126
+00:08:29,710 --> 00:08:35,700
+Thứ tư: siêu âm tim, theo phác đồ RUSH và LVOT VTI, là cách nhanh nhất để xếp thể sốc.
+
+127
+00:08:35,900 --> 00:08:40,018
+Thứ năm: bất ổn huyết động không đồng nghĩa với giảm tưới máu. Phần tiếp theo:
+
+128
+00:08:39,868 --> 00:08:44,850
+theo dõi huyết động và đáp ứng dịch. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

@@ -1,0 +1,231 @@
+1
+00:00:04,900 --> 00:00:06,143
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,993 --> 00:00:10,410
+đây là ca lâm sàng thứ hai trong loạt bài Tiếp cận sốc của Thư Viện Y Khoa Online.
+
+3
+00:00:10,610 --> 00:00:12,577
+Một người bệnh sau mổ viêm phúc mạc,
+
+4
+00:00:12,427 --> 00:00:16,867
+norepinephrine tăng mãi mà huyết áp vẫn thấp. Chúng ta sẽ đi qua bốn điểm quyết định:
+
+5
+00:00:16,717 --> 00:00:20,046
+tính liều tương đương, xác nhận sốc kháng trị, tìm nguyên nhân,
+
+6
+00:00:19,896 --> 00:00:21,560
+và chọn thuốc cứu vãn an toàn.
+
+7
+00:00:21,760 --> 00:00:25,510
+Đây là ca minh hoạ do người soạn dựng để học, không phải bệnh án thật.
+
+8
+00:00:26,960 --> 00:00:31,835
+Nữ 55 tuổi, 60 ký, ngày thứ hai sau mổ viêm phúc mạc do thủng ruột,
+
+9
+00:00:31,685 --> 00:00:36,630
+đã dùng kháng sinh và đã đủ dịch. Huyết áp 86 trên 48, nhịp tim 128.
+
+10
+00:00:36,830 --> 00:00:41,072
+Đang dùng norepinephrine 0,6 mi crô gam mỗi ký mỗi phút, dạng base,
+
+11
+00:00:40,922 --> 00:00:46,020
+cộng vasopressin 0,03 đơn vị mỗi phút. Bụng căng, nước tiểu 10 mi li lít mỗi giờ.
+
+12
+00:00:46,220 --> 00:00:50,610
+Thời gian đổ đầy mao mạch 6 giây, lactate 6, tăng so với 4 hôm qua.
+
+13
+00:00:52,060 --> 00:00:55,713
+Điểm quyết định thứ nhất. Liều tương đương norepinephrine là bao nhiêu,
+
+14
+00:00:55,563 --> 00:00:58,130
+và người bệnh đã đạt tiêu chí sốc kháng trị chưa?
+
+15
+00:00:58,330 --> 00:01:03,120
+Hãy tính: norepinephrine 0,6, vasopressin 0,03 đơn vị mỗi phút.
+
+16
+00:01:03,320 --> 00:01:06,110
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+17
+00:01:16,710 --> 00:01:21,924
+Đáp án là B. Liều tương đương bằng 0,6 cộng 0,03 nhân 2,5, tức 0,675,
+
+18
+00:01:21,774 --> 00:01:27,943
+vượt ngưỡng 0,5. Kèm lactate và thời gian đổ đầy mao mạch kéo dài, đã tối ưu dịch:
+
+19
+00:01:27,793 --> 00:01:33,814
+người bệnh đạt tiêu chí SCCM và ESICM 2026. Nhưng tiêu chí đòi hỏi một bước nữa:
+
+20
+00:01:33,664 --> 00:01:36,750
+siêu âm hồi sức để tìm nguyên nhân khác.
+
+21
+00:01:38,200 --> 00:01:42,405
+Điểm quyết định thứ hai. Siêu âm cho thấy thất trái tăng động, không tắc nghẽn đường ra,
+
+22
+00:01:42,255 --> 00:01:45,630
+không dịch màng tim, thất phải bình thường. Bụng căng, thiểu niệu mới.
+
+23
+00:01:45,830 --> 00:01:47,740
+Bước tiếp theo hợp lý nhất là gì?
+
+24
+00:01:47,940 --> 00:01:50,650
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+25
+00:01:59,250 --> 00:02:04,272
+Đáp án là B. Siêu âm đã loại trừ nguyên nhân tim và tắc nghẽn. Bụng căng kèm thiểu niệu
+
+26
+00:02:04,122 --> 00:02:09,032
+mới gợi tăng áp lực ổ bụng và ổ nhiễm chưa được kiểm soát. Sốc kháng trị trước hết là
+
+27
+00:02:08,882 --> 00:02:11,160
+lời nhắc đi tìm nguyên nhân bị bỏ sót.
+
+28
+00:02:12,610 --> 00:02:16,480
+Điểm quyết định thứ ba. Áp lực ổ bụng đo qua bàng quang là 22,
+
+29
+00:02:16,330 --> 00:02:18,280
+đo lại vẫn 22. Thiểu niệu mới,
+
+30
+00:02:18,130 --> 00:02:22,360
+lactate tăng. CT phát hiện một ổ áp xe dưới hoành chưa được dẫn lưu.
+
+31
+00:02:22,560 --> 00:02:24,230
+Đọc kết quả thế nào?
+
+32
+00:02:24,430 --> 00:02:27,060
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+33
+00:02:35,660 --> 00:02:40,086
+Đáp án là B. Áp lực ổ bụng trên 20 kéo dài kèm rối loạn chức năng cơ quan mới là hội
+
+34
+00:02:39,936 --> 00:02:42,785
+chứng chèn ép ổ bụng. Kèm một ổ nhiễm chưa kiểm soát,
+
+35
+00:02:42,635 --> 00:02:44,566
+người bệnh cần mổ lại hoặc dẫn lưu,
+
+36
+00:02:44,416 --> 00:02:47,570
+giải áp. Nâng MAP không thay được việc loại bỏ nguyên nhân.
+
+37
+00:02:49,020 --> 00:02:52,768
+Điểm quyết định cuối. Đã mổ dẫn lưu và bắt đầu hydrocortisone,
+
+38
+00:02:52,618 --> 00:02:57,236
+nhưng liều tương đương vẫn 0,55. Người bệnh đang dùng sertraline vì trầm cảm,
+
+39
+00:02:57,086 --> 00:03:00,370
+tiền sử G6PD không rõ. Có người đề nghị xanh methylen.
+
+40
+00:03:00,570 --> 00:03:02,720
+Trước khi dùng, cần kiểm tra gì?
+
+41
+00:03:02,920 --> 00:03:05,470
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+42
+00:03:14,070 --> 00:03:18,367
+Đáp án là B. Sertraline là thuốc ức chế tái hấp thu serotonin:
+
+43
+00:03:18,217 --> 00:03:23,316
+nguy cơ hội chứng serotonin. G6PD chưa rõ: nguy cơ tan máu. Và sau truyền,
+
+44
+00:03:23,166 --> 00:03:28,800
+SpO₂ sẽ sai. Xanh methylen chưa chứng minh giảm tử vong, SSC 2026 chưa khuyến cáo;
+
+45
+00:03:28,650 --> 00:03:33,080
+nếu dùng, phải cân nhắc kỹ lợi ích và nguy cơ ở từng người bệnh.
+
+46
+00:03:34,530 --> 00:03:39,193
+Tóm tắt diễn tiến. Ngày thứ hai sau mổ, liều tương đương 0,675, lactate 6:
+
+47
+00:03:39,043 --> 00:03:40,840
+đạt tiêu chí sốc kháng trị.
+
+48
+00:03:41,040 --> 00:03:44,710
+Siêu âm loại trừ nguyên nhân tim; dấu hiệu lâm sàng hướng tới ổ bụng.
+
+49
+00:03:44,910 --> 00:03:49,300
+Áp lực ổ bụng 22 và một ổ áp xe dưới hoành: hội chứng chèn ép ổ bụng.
+
+50
+00:03:49,500 --> 00:03:52,647
+Người bệnh được mổ lại, dẫn lưu và dùng hydrocortisone;
+
+51
+00:03:52,497 --> 00:03:55,970
+thuốc cứu vãn chỉ được cân nhắc sau khi đã xử lý nguyên nhân.
+
+52
+00:03:57,420 --> 00:04:02,210
+Bài học thứ nhất: tính liều tương đương đúng dạng base, vasopressin nhân 2,5.
+
+53
+00:04:02,410 --> 00:04:07,296
+Thứ hai: định nghĩa 2026 đòi hỏi cả giảm tưới máu, tối ưu dịch và siêu âm,
+
+54
+00:04:07,146 --> 00:04:08,960
+không chỉ một con số liều.
+
+55
+00:04:09,160 --> 00:04:13,630
+Thứ ba: sốc kháng trị là lời nhắc tìm nguyên nhân bị bỏ sót trước khi thêm thuốc.
+
+56
+00:04:13,830 --> 00:04:15,756
+Thứ tư: thuốc cứu vãn có giá của nó,
+
+57
+00:04:15,606 --> 00:04:20,049
+và chưa thuốc nào chứng minh giảm tử vong. Cảm ơn quý đồng nghiệp đã theo dõi trọn loạt
+
+58
+00:04:19,899 --> 00:04:22,220
+bài Tiếp cận sốc của Thư Viện Y Khoa Online.

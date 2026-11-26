@@ -1,0 +1,447 @@
+1
+00:00:04,900 --> 00:00:06,083
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,933 --> 00:00:10,410
+chào mừng quý vị đến với phần bốn của loạt bài Tiếp cận sốc trên Thư Viện Y Khoa Online.
+
+3
+00:00:10,610 --> 00:00:11,280
+Ở phần ba,
+
+4
+00:00:11,130 --> 00:00:16,743
+chúng ta đã biết cách hỏi người bệnh có đáp ứng dịch không. Phần này trả lời các câu hỏi còn lại về dịch:
+
+5
+00:00:16,593 --> 00:00:19,240
+dùng dịch gì, bao nhiêu, và khi nào lấy dịch ra.
+
+6
+00:00:19,440 --> 00:00:24,403
+Sau đó là mục tiêu huyết áp: vì sao MAP 65 là đủ cho đa số, ai cần cao hơn,
+
+7
+00:00:24,253 --> 00:00:25,430
+ai cần thấp hơn.
+
+8
+00:00:25,630 --> 00:00:29,860
+Và cuối cùng là câu hỏi: có nên chờ đủ dịch rồi mới dùng thuốc vận mạch không.
+
+9
+00:00:31,310 --> 00:00:36,007
+Một lỗi thường gặp là dùng cùng một chiến lược dịch từ giờ đầu đến ngày thứ năm.
+
+10
+00:00:35,857 --> 00:00:39,191
+Malbrain và cộng sự đề xuất quản lý dịch như kháng sinh,
+
+11
+00:00:39,041 --> 00:00:42,260
+với bốn chữ D: loại dịch, liều, thời gian và giảm bậc.
+
+12
+00:00:42,460 --> 00:00:47,170
+Giai đoạn hồi sức nhằm cứu sống, cân bằng dịch dương, nguy cơ chính là hồi sức không đủ.
+
+13
+00:00:47,370 --> 00:00:50,573
+Giai đoạn tối ưu nhằm cứu cơ quan, cân bằng trung tính,
+
+14
+00:00:50,423 --> 00:00:52,960
+mỗi bolus phải dựa trên đáp ứng và nguy cơ.
+
+15
+00:00:53,160 --> 00:00:56,910
+Giai đoạn ổn định, cân bằng trung tính đến âm, nguy cơ chính là quá tải.
+
+16
+00:00:57,110 --> 00:00:59,137
+Và giai đoạn tháo dịch, cân bằng âm,
+
+17
+00:00:58,987 --> 00:01:03,412
+với nguy cơ ngược lại là rút quá mức gây tụt áp. Vincent và De Backer mô tả cùng ý
+
+18
+00:01:03,262 --> 00:01:05,080
+tưởng qua bốn giai đoạn cứu vãn,
+
+19
+00:01:04,930 --> 00:01:06,540
+tối ưu, ổn định và giảm bậc.
+
+20
+00:01:07,990 --> 00:01:11,309
+Phần một của bộ hướng dẫn dịch ESICM có mười một khuyến cáo,
+
+21
+00:01:11,159 --> 00:01:13,686
+tất cả đều ở mức có điều kiện. Điểm lớn nhất:
+
+22
+00:01:13,536 --> 00:01:18,281
+tinh thể được gợi ý hơn albumin ở người bệnh nặng nói chung và trong nhiễm khuẩn huyết,
+
+23
+00:01:18,131 --> 00:01:19,020
+chắc chắn vừa.
+
+24
+00:01:19,220 --> 00:01:22,556
+Tinh thể cân bằng được gợi ý hơn muối đẳng trương ở người bệnh nặng,
+
+25
+00:01:22,406 --> 00:01:24,570
+trong nhiễm khuẩn huyết và tổn thương thận.
+
+26
+00:01:24,770 --> 00:01:28,388
+Hai ngoại lệ cần nhớ: chấn thương sọ não thì dùng muối đẳng trương,
+
+27
+00:01:28,238 --> 00:01:30,200
+và xơ gan thì albumin được ưu tiên.
+
+28
+00:01:30,400 --> 00:01:34,300
+Hướng dẫn không đưa khuyến cáo về albumin riêng trong sốc nhiễm khuẩn,
+
+29
+00:01:34,150 --> 00:01:36,710
+và không bàn hydroxyethyl starch hay gelatin.
+
+30
+00:01:38,160 --> 00:01:42,804
+Phần hai của bộ hướng dẫn trả lời câu hỏi bao nhiêu. Ở nhiễm khuẩn huyết hoặc sốc nhiễm
+
+31
+00:01:42,654 --> 00:01:43,993
+khuẩn cần hồi sức dịch,
+
+32
+00:01:43,843 --> 00:01:47,557
+hướng dẫn gợi ý tới 30 mi li lít mỗi ký tinh thể trong giai đoạn đầu,
+
+33
+00:01:47,407 --> 00:01:49,830
+khi chưa có phương tiện theo dõi huyết động.
+
+34
+00:01:50,030 --> 00:01:53,250
+Về tranh cãi hạn chế hay tự do, hướng dẫn không đưa khuyến cáo,
+
+35
+00:01:53,100 --> 00:01:57,587
+với bằng chứng mức vừa cho thấy không khác biệt. Không đưa khuyến cáo khác với không nên:
+
+36
+00:01:57,437 --> 00:02:00,900
+nó có nghĩa là không chiến lược nào thắng khi áp dụng cho mọi người.
+
+37
+00:02:01,100 --> 00:02:03,839
+Ở giai đoạn tối ưu, hướng dẫn gợi ý cá thể hoá,
+
+38
+00:02:03,689 --> 00:02:07,090
+tức là dùng các công cụ ở phần ba để quyết định từng bolus.
+
+39
+00:02:07,290 --> 00:02:09,954
+Đọc kỹ chữ tới và điều kiện chưa có theo dõi:
+
+40
+00:02:09,804 --> 00:02:13,920
+30 mi li lít mỗi ký là trần cho giai đoạn mù, không phải liều bắt buộc.
+
+41
+00:02:15,370 --> 00:02:16,744
+Ngoài nhiễm khuẩn huyết,
+
+42
+00:02:16,594 --> 00:02:20,213
+hướng dẫn tách riêng từng thể sốc. Trong sốc mất máu do chấn thương,
+
+43
+00:02:20,063 --> 00:02:21,336
+cả xuyên thấu lẫn kín,
+
+44
+00:02:21,186 --> 00:02:26,080
+chiến lược dịch hạn chế được gợi ý như một phần của hạ huyết áp cho phép cho đến khi cầm máu.
+
+45
+00:02:26,280 --> 00:02:30,571
+Trong thuyên tắc phổi, thận trọng với dịch và dựa vào dấu hiệu ứ huyết tim phải;
+
+46
+00:02:30,421 --> 00:02:34,764
+trong chèn ép tim, dịch chỉ là biện pháp tạm thời và không được làm chậm dẫn lưu,
+
+47
+00:02:34,614 --> 00:02:36,110
+kể cả chèn ép áp lực thấp.
+
+48
+00:02:36,310 --> 00:02:40,780
+Trong sốc tim trái, dịch không phải điều trị chính, và nếu truyền phải theo dõi sát.
+
+49
+00:02:40,980 --> 00:02:45,610
+Còn ARDS kèm suy tuần hoàn, hướng dẫn không đưa khuyến cáo về thể tích dịch.
+
+50
+00:02:47,060 --> 00:02:51,687
+Phần ba của bộ hướng dẫn nói về lấy dịch ra. Hướng dẫn gợi ý xuống thang liệu pháp dịch
+
+51
+00:02:51,537 --> 00:02:53,026
+sau giai đoạn hồi sức cấp,
+
+52
+00:02:52,876 --> 00:02:55,290
+khuyến cáo có điều kiện với bằng chứng thấp.
+
+53
+00:02:55,490 --> 00:02:58,964
+Xuống thang bắt đầu bằng giảm dịch duy trì và dịch không cần thiết,
+
+54
+00:02:58,814 --> 00:03:02,040
+rồi khi cần mới lấy dịch chủ động bằng lợi tiểu hoặc siêu lọc.
+
+55
+00:03:02,240 --> 00:03:04,986
+Mặt trái là rút quá mức làm giảm thể tích nhát bóp,
+
+56
+00:03:04,836 --> 00:03:09,314
+huyết áp và tưới máu. Khả năng dung nạp cần được đánh giá bằng huyết động và lactate,
+
+57
+00:03:09,164 --> 00:03:10,790
+không chỉ bằng cân bằng dịch.
+
+58
+00:03:10,990 --> 00:03:12,316
+Một chi tiết thú vị:
+
+59
+00:03:12,166 --> 00:03:17,313
+nâng chân thụ động làm tăng chỉ số tim từ 9% dự báo người bệnh sẽ tụt áp khi lọc máu.
+
+60
+00:03:17,163 --> 00:03:20,900
+Người còn phụ thuộc tiền tải là người dễ tụt áp khi lấy dịch.
+
+61
+00:03:22,350 --> 00:03:28,127
+Mục tiêu huyết áp là nơi ESICM 2025 thể hiện rõ nhất tinh thần cá thể hoá. Lý do:
+
+62
+00:03:27,977 --> 00:03:31,323
+tưới máu cơ quan phụ thuộc chênh áp vào và ra,
+
+63
+00:03:31,173 --> 00:03:35,700
+không chỉ MAP. CVP hay áp lực ổ bụng cao làm giảm chênh áp này.
+
+64
+00:03:35,900 --> 00:03:40,610
+Trong sốc nhiễm khuẩn, đích MAP ban đầu là 65 đến 70 mi li mét thuỷ ngân.
+
+65
+00:03:40,810 --> 00:03:44,871
+Có thể cân nhắc MAP cao hơn ở người tăng huyết áp mạn hoặc CVP cao,
+
+66
+00:03:44,721 --> 00:03:47,440
+nếu lâm sàng cải thiện khi huyết áp cao hơn.
+
+67
+00:03:47,640 --> 00:03:53,110
+Trong chấn thương còn chảy máu, không có chấn thương sọ não: huyết áp tâm thu 80 đến 90,
+
+68
+00:03:52,960 --> 00:03:56,133
+tức MAP 50 đến 60, cho đến khi cầm máu. Ngược lại,
+
+69
+00:03:55,983 --> 00:03:58,430
+chấn thương sọ não nặng cần MAP từ 80.
+
+70
+00:03:58,630 --> 00:03:59,629
+Trong sốc tim,
+
+71
+00:03:59,479 --> 00:04:04,540
+có thể cân nhắc MAP từ 65. Tất cả đều là phát biểu thực hành tốt không phân hạng.
+
+72
+00:04:05,990 --> 00:04:12,935
+Bằng chứng cho các đích này chủ yếu đến từ sốc nhiễm khuẩn. SEPSISPAM ngẫu nhiên hoá
+
+73
+00:04:12,785 --> 00:04:19,810
+776 người vào đích MAP 80 đến 85 hoặc 65 đến 70. Tử vong ngày 28 là 36,6% so với 34%,
+
+74
+00:04:19,660 --> 00:04:20,700
+không khác.
+
+75
+00:04:20,900 --> 00:04:22,780
+Trong phân nhóm tăng huyết áp mạn,
+
+76
+00:04:22,630 --> 00:04:26,138
+nhu cầu lọc máu thấp hơn ở nhóm đích cao nhưng tử vong không khác,
+
+77
+00:04:25,988 --> 00:04:30,717
+và nhóm đích cao gặp rung nhĩ nhiều hơn. Đây là cơ sở cho câu có thể cân nhắc MAP cao hơn:
+
+78
+00:04:30,567 --> 00:04:33,770
+một tín hiệu phân nhóm, không phải bằng chứng cho mọi người.
+
+79
+00:04:33,970 --> 00:04:38,480
+65 trial đi hướng ngược lại: 2.600 người từ 65 tuổi trở lên,
+
+80
+00:04:38,330 --> 00:04:45,311
+hạ huyết áp cho phép với MAP 60 đến 65 so với thường quy. Tử vong ngày 90 là 41% so với 43,8%,
+
+81
+00:04:45,161 --> 00:04:49,380
+không khác trong phân tích chính, và OR hiệu chỉnh 0,82.
+
+82
+00:04:49,580 --> 00:04:52,224
+Gộp lại 3.516 người bệnh sốc nhiễm khuẩn,
+
+83
+00:04:52,074 --> 00:04:56,726
+chưa có bằng chứng lợi ích khi nâng MAP. Ở đa số người bệnh, MAP 65 là đủ;
+
+84
+00:04:56,576 --> 00:04:59,890
+nâng cao hơn chỉ làm tăng phơi nhiễm thuốc vận mạch.
+
+85
+00:05:01,340 --> 00:05:06,725
+Quan niệm cũ cho rằng chỉ dùng vận mạch sau khi đã đổ đầy lòng mạch. Nhưng như phần một đã nói,
+
+86
+00:05:06,575 --> 00:05:11,354
+norepinephrine huy động thể tích tạo áp lực. Thử nghiệm CENSER kiểm tra ý tưởng này:
+
+87
+00:05:11,204 --> 00:05:15,542
+pha hai, đơn trung tâm tại Bangkok, 310 người bệnh nhiễm khuẩn huyết tụt áp,
+
+88
+00:05:15,392 --> 00:05:19,950
+norepinephrine liều cố định 0,05 mi crô gam mỗi ký mỗi phút sớm so với giả dược.
+
+89
+00:05:20,150 --> 00:05:26,460
+Tỷ lệ kiểm soát sốc ở giờ thứ sáu là 76,1% so với 48,4%.
+
+90
+00:05:26,660 --> 00:05:32,890
+Nhóm norepinephrine sớm ít phù phổi do tim hơn: 14,4% so với 27,7%.
+
+91
+00:05:33,090 --> 00:05:36,402
+Tử vong ngày 28 không khác có ý nghĩa. Cần đọc đúng mức:
+
+92
+00:05:36,252 --> 00:05:41,315
+đây là thử nghiệm pha hai với kết cục chính là kiểm soát sốc. Legrand và cộng sự khuyên
+
+93
+00:05:41,165 --> 00:05:43,631
+loại trừ giảm thể tích bằng một thử dịch,
+
+94
+00:05:43,481 --> 00:05:47,188
+nhưng bắt đầu vận mạch sớm, cùng lúc với dịch, khi tụt áp nặng,
+
+95
+00:05:47,038 --> 00:05:48,600
+ví dụ MAP dưới 50 đến 55.
+
+96
+00:05:50,050 --> 00:05:56,130
+Tình huống. Nam 34 tuổi, tai nạn xe máy, gãy xương chậu, dịch ổ bụng trên siêu âm FAST,
+
+97
+00:05:55,980 --> 00:06:01,447
+Glasgow 15, CT không có chấn thương sọ não. Huyết áp 76 trên 44, nhịp tim 132,
+
+98
+00:06:01,297 --> 00:06:03,560
+đang chờ chụp mạch nút cầm máu.
+
+99
+00:06:03,760 --> 00:06:06,870
+Chiến lược hồi sức phù hợp nhất trước khi cầm máu là gì?
+
+100
+00:06:07,070 --> 00:06:09,620
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+101
+00:06:18,220 --> 00:06:22,757
+Đáp án là B. Đây là chấn thương kín còn chảy máu, không có chấn thương sọ não:
+
+102
+00:06:22,607 --> 00:06:26,526
+hướng dẫn gợi ý dịch hạn chế như một phần của hạ huyết áp cho phép,
+
+103
+00:06:26,376 --> 00:06:32,431
+đích huyết áp tâm thu 80 đến 90 cho đến khi cầm máu. Đích MAP từ 80 chỉ dành cho chấn thương sọ não nặng;
+
+104
+00:06:32,281 --> 00:06:35,750
+và cầm máu, kèm máu và chế phẩm máu, mới là điều trị chính.
+
+105
+00:06:37,200 --> 00:06:41,190
+Tóm lại, thứ nhất: quản lý dịch theo giai đoạn, từ hồi sức đến tháo dịch.
+
+106
+00:06:41,390 --> 00:06:45,005
+Thứ hai: tinh thể cân bằng là lựa chọn mặc định, với hai ngoại lệ:
+
+107
+00:06:44,855 --> 00:06:48,260
+muối đẳng trương cho chấn thương sọ não và albumin cho xơ gan.
+
+108
+00:06:48,460 --> 00:06:54,210
+Thứ ba: 30 mi li lít mỗi ký là trần cho giai đoạn chưa có theo dõi, sau đó cá thể hoá.
+
+109
+00:06:54,410 --> 00:06:59,055
+Thứ tư: MAP 65 đủ cho đa số người bệnh; cá thể hoá ở người tăng huyết áp mạn,
+
+110
+00:06:58,905 --> 00:07:01,040
+chấn thương và chấn thương sọ não.
+
+111
+00:07:01,240 --> 00:07:05,398
+Thứ năm: không chờ đủ dịch mới dùng vận mạch khi tụt áp nặng. Phần tiếp theo:
+
+112
+00:07:05,248 --> 00:07:10,030
+thuốc vận mạch và tăng co bóp. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

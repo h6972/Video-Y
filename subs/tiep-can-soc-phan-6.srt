@@ -1,0 +1,511 @@
+1
+00:00:04,900 --> 00:00:06,134
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,984 --> 00:00:10,730
+chào mừng quý vị đến với phần cuối của loạt bài Tiếp cận sốc trên Thư Viện Y Khoa Online.
+
+3
+00:00:10,930 --> 00:00:14,500
+Một người bệnh dùng norepinephrine liều cao, đã thêm vasopressin,
+
+4
+00:00:14,350 --> 00:00:18,920
+MAP vẫn không lên. Đến lúc nào thì gọi là sốc kháng trị, và khi đó nên làm gì trước?
+
+5
+00:00:19,120 --> 00:00:19,998
+Năm 2026,
+
+6
+00:00:19,848 --> 00:00:26,790
+lần đầu tiên SCCM và ESICM đưa ra tiêu chí đồng thuận cho sốc nhiễm khuẩn kháng trị.
+
+7
+00:00:26,990 --> 00:00:30,310
+Phần này trình bày định nghĩa đó, cách tiếp cận từng bước,
+
+8
+00:00:30,160 --> 00:00:34,136
+các thuốc cứu vãn như angiotensin II, xanh methylen, hydroxocobalamin,
+
+9
+00:00:33,986 --> 00:00:35,940
+và cuối cùng là ôn tập toàn loạt.
+
+10
+00:00:37,390 --> 00:00:41,695
+Trước năm 2026, mỗi nghiên cứu định nghĩa sốc kháng trị một kiểu:
+
+11
+00:00:41,545 --> 00:00:45,594
+không đạt đích huyết áp, cần thuốc cứu vãn, hay cần liều cao,
+
+12
+00:00:45,444 --> 00:00:49,940
+và chính liều cao cũng là 0,2, 0,5 hay 1 mi crô gam mỗi ký mỗi phút.
+
+13
+00:00:50,140 --> 00:00:55,252
+Đồng thuận SCCM và ESICM 2026, xây dựng bằng phương pháp Delphi,
+
+14
+00:00:55,102 --> 00:01:00,370
+chọn hai chỉ dấu tưới máu là lactate và thời gian đổ đầy mao mạch.
+
+15
+00:01:00,570 --> 00:01:05,798
+Thuốc vận mạch được lượng hoá bằng liều tương đương norepinephrine tính theo dạng base,
+
+16
+00:01:05,648 --> 00:01:10,642
+với ngưỡng 0,5 mi crô gam mỗi ký mỗi phút. Lưu ý bảng phát biểu ghi từ 0,5 trở lên,
+
+17
+00:01:10,492 --> 00:01:12,160
+còn thân bài ghi trên 0,5.
+
+18
+00:01:12,360 --> 00:01:13,965
+Điều kiện là đã tối ưu dịch,
+
+19
+00:01:13,815 --> 00:01:18,071
+và phải dùng siêu âm hồi sức tại giường để tìm nguyên nhân khác, như tắc nghẽn,
+
+20
+00:01:17,921 --> 00:01:20,670
+tim hay sốc hỗn hợp, trước khi xác nhận kháng trị.
+
+21
+00:01:20,870 --> 00:01:23,038
+Còn chưa chốt được: số giờ tối thiểu,
+
+22
+00:01:22,888 --> 00:01:27,784
+dù hội đồng đồng thuận rằng định nghĩa phải có yếu tố thời gian; ngưỡng lactate cụ thể;
+
+23
+00:01:27,634 --> 00:01:28,275
+nổi bông;
+
+24
+00:01:28,125 --> 00:01:33,020
+và cơ quan rối loạn chức năng cụ thể. ScvO₂ và lượng nước tiểu bị loại khỏi định nghĩa.
+
+25
+00:01:34,470 --> 00:01:36,638
+Khi người bệnh đạt tiêu chí kháng trị,
+
+26
+00:01:36,488 --> 00:01:39,930
+phản xạ tự nhiên là thêm thuốc. Nhưng câu hỏi đầu tiên nên là:
+
+27
+00:01:39,780 --> 00:01:44,337
+mình đã bỏ sót điều gì? Bước một: kiểm tra số đo. Catheter động mạch có đúng không,
+
+28
+00:01:44,187 --> 00:01:46,780
+liều tương đương có tính đúng dạng base không.
+
+29
+00:01:46,980 --> 00:01:50,494
+Bước hai và ba: siêu âm lại để tìm chèn ép, suy thất phải,
+
+30
+00:01:50,344 --> 00:01:55,599
+tắc nghẽn động đường ra thất trái, giảm co bóp mới; và tìm nguồn bị bỏ sót như chảy máu,
+
+31
+00:01:55,449 --> 00:01:57,513
+tràn khí, ổ nhiễm chưa kiểm soát,
+
+32
+00:01:57,363 --> 00:02:01,284
+tăng áp lực ổ bụng. Tắc nghẽn đường ra gặp ở 22% sốc nhiễm khuẩn,
+
+33
+00:02:01,134 --> 00:02:04,010
+và khi đó tăng catecholamine chỉ làm nặng thêm.
+
+34
+00:02:04,210 --> 00:02:07,640
+Bước bốn: đánh giá lại thể tích, còn đáp ứng hay đã quá tải.
+
+35
+00:02:07,840 --> 00:02:11,352
+Bước năm: tìm yếu tố làm mạch máu giảm đáp ứng. Theo Jentzer,
+
+36
+00:02:11,202 --> 00:02:15,430
+toan máu là yếu tố quan trọng, và suy thượng thận chức năng cũng góp phần.
+
+37
+00:02:15,630 --> 00:02:20,961
+Bước sáu: chuyển sang chiến lược đa thụ thể, tiết kiệm catecholamine: vasopressin,
+
+38
+00:02:20,811 --> 00:02:24,500
+corticoid, cân nhắc angiotensin II và các thuốc cứu vãn.
+
+39
+00:02:24,700 --> 00:02:28,477
+Và nếu cung lượng tim thấp, dùng thuốc tăng co bóp; trong sốc tim,
+
+40
+00:02:28,327 --> 00:02:32,050
+cân nhắc hỗ trợ tuần hoàn cơ học, nội dung của chuyên đề sốc tim.
+
+41
+00:02:33,500 --> 00:02:36,856
+Vasopressin là thuốc hàng hai được dùng nhiều nhất:
+
+42
+00:02:36,706 --> 00:02:41,319
+khoảng 80% bác sĩ hồi sức sẽ cân nhắc vasopressin khi tụt áp kháng trị,
+
+43
+00:02:41,169 --> 00:02:43,330
+với khác biệt lớn giữa các vùng.
+
+44
+00:02:43,530 --> 00:02:47,886
+Nhưng VASST, VANISH và VANCS II đều không thấy khác biệt tử vong ngày 28,
+
+45
+00:02:47,736 --> 00:02:53,360
+và VASSPR không thấy lợi khi bắt đầu sớm. Vasopressin là thuốc tiết kiệm catecholamine an toàn,
+
+46
+00:02:53,210 --> 00:02:54,800
+chưa phải thuốc cứu sống.
+
+47
+00:02:55,000 --> 00:02:55,903
+Về cai thuốc:
+
+48
+00:02:55,753 --> 00:03:00,997
+bảy nghiên cứu hồi cứu cho thấy nên giảm vasopressin sau norepinephrine để tránh tụt áp,
+
+49
+00:03:00,847 --> 00:03:06,787
+trong khi thử nghiệm ngẫu nhiên nhỏ duy nhất cho kết quả ngược lại. Trong thử nghiệm Ibarra-Estrada,
+
+50
+00:03:06,637 --> 00:03:11,650
+vasopressin được giảm 0,005 đơn vị mỗi phút mỗi giờ sau khi đã ngừng norepinephrine.
+
+51
+00:03:11,850 --> 00:03:15,680
+Và cần thận trọng ở người có bệnh thiếu máu cục bộ, ở bất kỳ liều nào.
+
+52
+00:03:17,130 --> 00:03:21,895
+Angiotensin II đánh vào hệ renin – angiotensin. Trong ATHOS-3,
+
+53
+00:03:21,745 --> 00:03:26,287
+ở 321 người bệnh sốc giãn mạch đang dùng liều vận mạch cao,
+
+54
+00:03:26,137 --> 00:03:31,200
+tỷ lệ đáp ứng MAP ở giờ thứ ba là 69,9% so với 23,4% với giả dược.
+
+55
+00:03:31,400 --> 00:03:36,232
+Liều khởi đầu trong thử nghiệm là 20 na nô gam mỗi ký mỗi phút. Thử nghiệm không đủ lực
+
+56
+00:03:36,082 --> 00:03:37,470
+để kết luận về tử vong.
+
+57
+00:03:37,670 --> 00:03:41,654
+SSC 2026 xếp angiotensin II sau norepinephrine,
+
+58
+00:03:41,504 --> 00:03:46,140
+và sự sẵn có tại Việt Nam cần đối chiếu tại từng cơ sở.
+
+59
+00:03:47,590 --> 00:03:51,797
+Xanh methylen ức chế con đường nitric oxide và guanylate cyclase,
+
+60
+00:03:51,647 --> 00:03:58,350
+một cơ chế giãn mạch mà các thuốc vận mạch kinh điển không chạm tới. Trong thử nghiệm của Ibarra-Estrada,
+
+61
+00:03:58,200 --> 00:04:04,653
+91 người bệnh sốc nhiễm khuẩn nhận 100 mi li gam xanh methylen trong 500 mi li lít natri clorid 0,9%,
+
+62
+00:04:04,503 --> 00:04:06,900
+truyền 6 giờ mỗi ngày trong ba ngày.
+
+63
+00:04:07,100 --> 00:04:10,550
+Thời gian đến khi ngừng mọi thuốc vận mạch ngắn hơn rõ:
+
+64
+00:04:10,400 --> 00:04:14,870
+69 giờ so với 94 giờ. Nhưng đây là thử nghiệm đơn trung tâm, cỡ mẫu nhỏ,
+
+65
+00:04:14,720 --> 00:04:16,850
+kết cục chính không phải tử vong.
+
+66
+00:04:17,050 --> 00:04:20,675
+Phân tích gộp năm 2026 gồm 9 thử nghiệm với 535 người,
+
+67
+00:04:20,525 --> 00:04:25,887
+8 thử nghiệm được gộp cho tử vong: xanh methylen không làm giảm tử vong ngắn hạn,
+
+68
+00:04:25,737 --> 00:04:29,040
+không đổi nhu cầu lọc máu hay thời gian nằm viện.
+
+69
+00:04:29,240 --> 00:04:35,888
+SSC 2026 vì vậy cho rằng chưa đủ bằng chứng để khuyến cáo. Xanh methylen cải thiện con số huyết động,
+
+70
+00:04:35,738 --> 00:04:38,590
+nhưng chưa chứng minh cứu được người bệnh.
+
+71
+00:04:40,040 --> 00:04:44,643
+Trước khi dùng xanh methylen, cần trả lời bốn câu hỏi. Thứ nhất:
+
+72
+00:04:44,493 --> 00:04:50,210
+người bệnh có đang dùng thuốc ức chế tái hấp thu serotonin hay thuốc tác động hệ
+
+73
+00:04:50,060 --> 00:04:53,550
+serotonin không? Nguy cơ là hội chứng serotonin.
+
+74
+00:04:53,750 --> 00:04:54,384
+Thứ hai:
+
+75
+00:04:54,234 --> 00:04:59,280
+có tiền sử thiếu G6PD không? Xanh methylen gây tan máu ở người thiếu men này. Thử
+
+76
+00:04:59,130 --> 00:05:02,060
+nghiệm Ibarra-Estrada đã loại trừ cả hai nhóm.
+
+77
+00:05:02,260 --> 00:05:02,824
+Thứ ba:
+
+78
+00:05:02,674 --> 00:05:07,850
+có tăng áp phổi hay suy thất phải không? Ức chế nitric oxide có thể làm tăng áp phổi.
+
+79
+00:05:08,050 --> 00:05:11,924
+Thứ tư: sau truyền, đừng tin SpO₂ vì thuốc làm sai kết quả đo;
+
+80
+00:05:11,774 --> 00:05:14,628
+methemoglobin máu chủ yếu gặp ở liều rất cao,
+
+81
+00:05:14,478 --> 00:05:17,992
+bolus 3 đến 7 mi li gam mỗi ký. Một lời nhắc từ lịch sử:
+
+82
+00:05:17,842 --> 00:05:23,098
+các thuốc ức chế tổng hợp nitric oxide không chọn lọc từng làm giảm cung lượng tim và
+
+83
+00:05:22,948 --> 00:05:25,200
+tăng tử vong trong sốc nhiễm khuẩn.
+
+84
+00:05:26,650 --> 00:05:30,077
+Hydroxocobalamin, vốn là thuốc giải độc cyanid,
+
+85
+00:05:29,927 --> 00:05:34,400
+ức chế giãn mạch qua nitric oxide và bắt giữ hydrogen sulfide.
+
+86
+00:05:34,600 --> 00:05:39,050
+Tổng quan của Brokmeier gồm 24 nghiên cứu, phần lớn là báo cáo ca và loạt ca,
+
+87
+00:05:38,900 --> 00:05:43,182
+chủ yếu giãn mạch sau mổ tim. So với xanh methylen, MAP ở giờ đầu cao hơn,
+
+88
+00:05:43,032 --> 00:05:46,030
+nhưng thay đổi liều vận mạch và tử vong không khác.
+
+89
+00:05:46,230 --> 00:05:51,708
+Thử nghiệm thí điểm của Patel trên 20 người bệnh sốc nhiễm khuẩn dùng một liều 5 gam:
+
+90
+00:05:51,558 --> 00:05:56,910
+liều vận mạch giảm 36% so với tăng 4% ở nhóm giả dược. Đây là bằng chứng khái niệm,
+
+91
+00:05:56,760 --> 00:05:58,540
+chưa đủ để bàn về kết cục.
+
+92
+00:05:58,740 --> 00:06:02,320
+Hãy báo trước cho điều dưỡng hai tác dụng phụ đặc thù: nước tiểu đỏ,
+
+93
+00:06:02,170 --> 00:06:05,850
+và báo động rò máu giả trên máy lọc máu, để không nhầm với biến chứng.
+
+94
+00:06:07,300 --> 00:06:12,765
+Bản hướng dẫn ESICM 2025 cũng nhận được phản biện. Trong một bài bình luận, Leone,
+
+95
+00:06:12,615 --> 00:06:18,793
+Guinot và Rhodes cho rằng một chiến lược tích hợp hơn bốn biến số rất khó quản lý tại giường,
+
+96
+00:06:18,643 --> 00:06:21,710
+và các chỉ số tưới máu có thể mâu thuẫn nhau.
+
+97
+00:06:21,910 --> 00:06:25,669
+Các tác giả đặt câu hỏi liệu mọi thể sốc có nên tiếp cận như nhau,
+
+98
+00:06:25,519 --> 00:06:28,513
+cho rằng hướng dẫn chưa chú ý đủ đến thuốc vận mạch,
+
+99
+00:06:28,363 --> 00:06:31,740
+và nhắc rằng hơn 60% khuyến cáo dựa trên ý kiến chuyên gia.
+
+100
+00:06:31,940 --> 00:06:36,470
+Các câu hỏi khác còn để ngỏ: CRT hay lactate, ai thật sự cần MAP cao hơn,
+
+101
+00:06:36,320 --> 00:06:41,690
+dấu so sánh và số giờ trong định nghĩa sốc kháng trị, và vị trí thật của xanh methylen.
+
+102
+00:06:43,140 --> 00:06:44,956
+Tình huống cuối. Nữ 55 tuổi,
+
+103
+00:06:44,806 --> 00:06:50,369
+ngày thứ hai sau mổ viêm phúc mạc. Norepinephrine 0,6 mi crô gam mỗi ký mỗi phút dạng base,
+
+104
+00:06:50,219 --> 00:06:54,354
+cộng vasopressin 0,03. Lactate 6, thời gian đổ đầy mao mạch 6 giây,
+
+105
+00:06:54,204 --> 00:06:58,637
+đã đủ dịch và không còn đáp ứng nâng chân. Siêu âm: thất trái tăng động,
+
+106
+00:06:58,487 --> 00:07:02,980
+không tắc nghẽn đường ra, không dịch màng tim. Bụng căng, thiểu niệu mới.
+
+107
+00:07:03,180 --> 00:07:05,250
+Bước tiếp theo hợp lý nhất là gì?
+
+108
+00:07:05,450 --> 00:07:08,320
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+109
+00:07:16,920 --> 00:07:21,287
+Đáp án là B. Liều tương đương là 0,6 cộng 0,03 nhân 2,5, bằng 0,675:
+
+110
+00:07:21,137 --> 00:07:26,559
+người bệnh đạt tiêu chí kháng trị. Siêu âm đã loại trừ nguyên nhân tim. Bụng căng kèm
+
+111
+00:07:26,409 --> 00:07:30,528
+thiểu niệu mới gợi tăng áp lực ổ bụng và ổ nhiễm chưa kiểm soát:
+
+112
+00:07:30,378 --> 00:07:31,582
+đo áp lực ổ bụng,
+
+113
+00:07:31,432 --> 00:07:37,970
+tìm ổ áp xe còn sót và hội chẩn ngoại khoa. Thuốc cứu vãn chỉ được cân nhắc sau khi đã tìm nguyên nhân.
+
+114
+00:07:39,420 --> 00:07:43,557
+Để khép lại loạt bài, đây là bảy thông điệp. Một: sốc là giảm tưới máu mô,
+
+115
+00:07:43,407 --> 00:07:44,850
+không phải tụt huyết áp.
+
+116
+00:07:45,050 --> 00:07:49,200
+Hai: siêu âm tim là công cụ được gợi ý làm đầu tay để xếp thể sốc.
+
+117
+00:07:49,400 --> 00:07:53,878
+Ba: sau giờ đầu, mỗi bolus dịch phải có lý do, bằng nghiệm pháp động;
+
+118
+00:07:53,728 --> 00:07:55,070
+không đặt đích CVP.
+
+119
+00:07:55,270 --> 00:07:57,855
+Bốn: tinh thể cân bằng là lựa chọn mặc định,
+
+120
+00:07:57,705 --> 00:08:01,120
+30 mi li lít mỗi ký là trần cho giai đoạn chưa có theo dõi,
+
+121
+00:08:00,970 --> 00:08:02,780
+rồi cá thể hoá và xuống thang.
+
+122
+00:08:02,980 --> 00:08:05,930
+Năm: mục tiêu huyết áp cá thể hoá theo thể sốc.
+
+123
+00:08:06,130 --> 00:08:10,134
+Sáu: norepinephrine là thuốc đầu tay, có thể qua đường ngoại vi,
+
+124
+00:08:09,984 --> 00:08:11,640
+và luôn ghi rõ dạng base.
+
+125
+00:08:11,840 --> 00:08:12,209
+Bảy:
+
+126
+00:08:12,059 --> 00:08:16,911
+sốc kháng trị là lời nhắc đi tìm nguyên nhân trước khi thêm thuốc. Tiếp theo là hai ca
+
+127
+00:08:16,761 --> 00:08:21,613
+lâm sàng để áp dụng. Cảm ơn quý đồng nghiệp đã theo dõi trọn loạt bài Tiếp cận sốc của
+
+128
+00:08:21,463 --> 00:08:22,870
+Thư Viện Y Khoa Online.

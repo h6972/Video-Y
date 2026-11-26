@@ -1,0 +1,531 @@
+1
+00:00:04,900 --> 00:00:06,144
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,994 --> 00:00:10,730
+chào mừng quý vị đến với phần năm của loạt bài Tiếp cận sốc trên Thư Viện Y Khoa Online.
+
+3
+00:00:10,930 --> 00:00:14,763
+Đây là phần nhiều con số nhất của loạt bài: thuốc vận mạch và tăng co bóp,
+
+4
+00:00:14,613 --> 00:00:17,400
+từ thụ thể đến liều, từ thử nghiệm đến bơm tiêm điện.
+
+5
+00:00:17,600 --> 00:00:19,256
+Chúng ta sẽ đi qua cơ chế,
+
+6
+00:00:19,106 --> 00:00:23,253
+gần hai mươi năm thử nghiệm đã đưa norepinephrine lên vị trí đầu tay,
+
+7
+00:00:23,103 --> 00:00:26,150
+cách quy đổi liều nhiều thuốc về một đơn vị chung,
+
+8
+00:00:26,350 --> 00:00:29,789
+và một chi tiết tưởng nhỏ nhưng có thể làm sai liều gấp đôi:
+
+9
+00:00:29,639 --> 00:00:32,420
+norepinephrine dạng base hay dạng muối tartrate.
+
+10
+00:00:33,870 --> 00:00:39,652
+Chọn thuốc hợp lý bắt đầu từ việc biết thuốc gắn vào đâu. Thụ thể an pha một ở cơ trơn mạch máu,
+
+11
+00:00:39,502 --> 00:00:42,820
+qua protein Gq, làm tăng calci nội bào và gây co mạch.
+
+12
+00:00:43,020 --> 00:00:47,522
+Thụ thể bê ta một ở tim, qua protein Gs và AMP vòng, tăng sức co bóp và nhịp tim;
+
+13
+00:00:47,372 --> 00:00:50,370
+bê ta hai gây giãn mạch và góp phần làm tăng lactate.
+
+14
+00:00:50,570 --> 00:00:55,277
+Ngoài hệ adrenergic: vasopressin gắn thụ thể vê một ở mạch máu,
+
+15
+00:00:55,127 --> 00:00:57,520
+angiotensin II gắn thụ thể AT1.
+
+16
+00:00:57,720 --> 00:01:03,166
+Milrinone ức chế phosphodiesterase ba, làm tăng AMP vòng mà không cần thụ thể;
+
+17
+00:01:03,016 --> 00:01:08,190
+levosimendan tăng nhạy calci của troponin C và mở kênh kali phụ thuộc ATP.
+
+18
+00:01:08,390 --> 00:01:11,770
+Trong sốc, thụ thể adrenergic giảm số lượng và độ nhạy;
+
+19
+00:01:11,620 --> 00:01:15,294
+dự trữ norepinephrine nội sinh giảm và đáp ứng bê ta kém đi,
+
+20
+00:01:15,144 --> 00:01:17,820
+nên tác dụng an pha trở nên quan trọng hơn.
+
+21
+00:01:19,270 --> 00:01:22,154
+Norepinephrine tác động an pha mạnh, bê ta một vừa:
+
+22
+00:01:22,004 --> 00:01:27,461
+tăng MAP rõ với ít thay đổi nhịp tim và cung lượng tim. Sách Oh's nhấn mạnh tác động lên tĩnh mạch:
+
+23
+00:01:27,311 --> 00:01:29,820
+khôi phục thể tích tạo áp lực, tăng hồi lưu.
+
+24
+00:01:30,020 --> 00:01:33,508
+Epinephrine tác động bê ta ở liều thấp, an pha tăng dần theo liều;
+
+25
+00:01:33,358 --> 00:01:35,329
+thuốc làm tăng lactate và đường máu,
+
+26
+00:01:35,179 --> 00:01:38,970
+và lactate tăng trong trường hợp này không đồng nghĩa với giảm tưới máu.
+
+27
+00:01:39,170 --> 00:01:40,885
+Dopamine gây nhiều loạn nhịp;
+
+28
+00:01:40,735 --> 00:01:44,231
+liều thấp dưới 3 mi crô gam mỗi ký mỗi phút không bảo vệ thận,
+
+29
+00:01:44,081 --> 00:01:46,120
+nên không còn dùng cho mục đích đó.
+
+30
+00:01:46,320 --> 00:01:50,650
+Vasopressin giúp tiết kiệm catecholamine, nhưng liều cao gây thiếu máu vành,
+
+31
+00:01:50,500 --> 00:01:51,750
+mạc treo và đầu chi.
+
+32
+00:01:51,950 --> 00:01:55,423
+Dobutamine tăng thể tích nhát bóp và có thể làm giảm MAP;
+
+33
+00:01:55,273 --> 00:01:58,980
+milrinone tăng co bóp kèm giãn mạch, hạ áp, và thải qua thận.
+
+34
+00:02:00,430 --> 00:02:06,224
+SOAP II là thử nghiệm làm thay đổi thực hành rõ nhất. Trên 1.679 người bệnh sốc mọi nguyên nhân,
+
+35
+00:02:06,074 --> 00:02:10,340
+tử vong ngày 28 không khác có ý nghĩa giữa dopamine và norepinephrine.
+
+36
+00:02:10,540 --> 00:02:16,930
+Nhưng biến cố loạn nhịp gần gấp đôi ở nhóm dopamine: 24,1% so với 12,4%.
+
+37
+00:02:17,130 --> 00:02:18,756
+Trong phân tích phân nhóm,
+
+38
+00:02:18,606 --> 00:02:24,659
+dopamine liên quan với tử vong cao hơn ở 280 người bệnh sốc tim. Phân tích phân nhóm chỉ tạo giả thuyết,
+
+39
+00:02:24,509 --> 00:02:29,200
+nhưng cùng với tín hiệu loạn nhịp, nó đủ để đẩy dopamine ra khỏi vị trí đầu tay.
+
+40
+00:02:30,650 --> 00:02:35,324
+Bảng này tóm tắt gần hai mươi năm thử nghiệm. CATS và CAT cho kết quả nhất quán:
+
+41
+00:02:35,174 --> 00:02:39,960
+epinephrine không kém về hiệu quả và tử vong, nhưng nhiều tác dụng chuyển hoá hơn;
+
+42
+00:02:39,810 --> 00:02:44,597
+trong CAT, 12,9% nhánh epinephrine bị rút khỏi nghiên cứu, chủ yếu vì toan lactic,
+
+43
+00:02:44,447 --> 00:02:46,350
+nhịp nhanh hoặc không đạt đích.
+
+44
+00:02:46,550 --> 00:02:51,589
+Vasopressin: VASST và VANISH không thấy khác biệt tử vong hay suy thận; trong VANISH,
+
+45
+00:02:51,439 --> 00:02:53,660
+nhóm vasopressin ít cần lọc máu hơn.
+
+46
+00:02:53,860 --> 00:02:57,255
+Levosimendan trong LeoPARDS là kết quả âm tính rõ ràng;
+
+47
+00:02:57,105 --> 00:03:02,330
+angiotensin II trong ATHOS-3 tăng mạnh đáp ứng huyết áp nhưng không đủ lực về tử vong.
+
+48
+00:03:02,530 --> 00:03:03,903
+Selepressin thất bại;
+
+49
+00:03:03,753 --> 00:03:08,855
+và VASSPR với gần bốn nghìn người cho thấy bắt đầu vasopressin sớm khi norepinephrine
+
+50
+00:03:08,705 --> 00:03:11,710
+0,1 không tốt hơn bắt đầu ở 0,4. Bức tranh chung:
+
+51
+00:03:11,560 --> 00:03:14,215
+các thuốc hàng hai tiết kiệm catecholamine,
+
+52
+00:03:14,065 --> 00:03:17,710
+nhưng chưa thuốc nào chứng minh cứu sống hơn norepinephrine.
+
+53
+00:03:19,160 --> 00:03:21,903
+Hướng dẫn ESICM 2025 không bàn thuốc,
+
+54
+00:03:21,753 --> 00:03:28,000
+nên khung chọn thuốc vận mạch có nhiều bằng chứng nhất là SSC 2026 cho sốc nhiễm khuẩn.
+
+55
+00:03:27,850 --> 00:03:30,243
+Norepinephrine là thuốc đầu tay,
+
+56
+00:03:30,093 --> 00:03:31,364
+khuyến cáo mạnh,
+
+57
+00:03:31,214 --> 00:03:36,410
+và được gợi ý bắt đầu qua đường ngoại vi thay vì chờ catheter trung tâm.
+
+58
+00:03:36,610 --> 00:03:41,515
+Khi norepinephrine đang phải tăng liều, gợi ý thêm vasopressin; nếu vẫn chưa đạt MAP,
+
+59
+00:03:41,365 --> 00:03:44,200
+hoặc nơi không có vasopressin, thêm epinephrine.
+
+60
+00:03:44,400 --> 00:03:49,409
+Khi có rối loạn chức năng tim, norepinephrine hoặc epinephrine đều có thể làm đầu tay;
+
+61
+00:03:49,259 --> 00:03:51,838
+nếu vẫn giảm tưới máu dù dịch và MAP đã đủ,
+
+62
+00:03:51,688 --> 00:03:55,510
+thêm dobutamine vào norepinephrine hoặc dùng epinephrine đơn độc.
+
+63
+00:03:55,710 --> 00:04:01,606
+Không dùng dopamine làm đầu tay, không dùng terlipressin, levosimendan hay chẹn bê ta;
+
+64
+00:04:01,456 --> 00:04:08,020
+chưa đủ bằng chứng cho xanh methylen và midodrine. Thuốc trong sốc tim sẽ bàn ở chuyên đề riêng.
+
+65
+00:04:09,470 --> 00:04:16,583
+Đây là liều trong các nguồn đã tổng hợp. Norepinephrine thường dùng 0,1 đến 2 mi crô gam mỗi ký mỗi phút;
+
+66
+00:04:16,433 --> 00:04:22,020
+Bộ Y tế hướng dẫn khởi đầu 0,05 và tăng 0,05 mỗi 5 đến 10 phút đến khi MAP đạt 65.
+
+67
+00:04:22,220 --> 00:04:29,466
+Epinephrine khởi đầu 0,05, tăng 0,05 đến 0,1. Vasopressin thường 0,03 đơn vị mỗi phút;
+
+68
+00:04:29,316 --> 00:04:35,820
+VANISH chuẩn độ tới 0,06, trong khi tổng quan năm 2013 khuyên không quá 0,04.
+
+69
+00:04:36,020 --> 00:04:41,369
+Angiotensin II khởi đầu 20 na nô gam mỗi ký mỗi phút. Dobutamine 2,5 đến 10,
+
+70
+00:04:41,219 --> 00:04:46,090
+có thể tới 20 mi crô gam mỗi ký mỗi phút, trên 20 thường ít lợi thêm.
+
+71
+00:04:46,290 --> 00:04:49,570
+Milrinone nạp 50 mi crô gam mỗi ký trong 20 phút,
+
+72
+00:04:49,420 --> 00:04:54,680
+duy trì 0,5. Mọi liều cần đối chiếu nhãn thuốc và quy trình khoa dược tại cơ sở.
+
+73
+00:04:56,130 --> 00:04:57,623
+Một chi tiết tưởng nhỏ:
+
+74
+00:04:57,473 --> 00:05:02,645
+norepinephrine được ghi theo dạng base hay dạng muối. Một mi li gam base tương đương 2
+
+75
+00:05:02,495 --> 00:05:06,440
+mi li gam bitartrate monohydrate và 1,22 mi li gam hydrochloride.
+
+76
+00:05:06,640 --> 00:05:10,109
+Nếu ống thuốc tại khoa ghi hàm lượng theo muối bitartrate,
+
+77
+00:05:09,959 --> 00:05:12,512
+thì 6 mi li gam chỉ chứa 3 mi li gam base,
+
+78
+00:05:12,362 --> 00:05:15,430
+và liều thật bằng một nửa con số trên bảng quy đổi.
+
+79
+00:05:15,630 --> 00:05:18,163
+Điều này quan trọng vì các tiêu chí mới,
+
+80
+00:05:18,013 --> 00:05:21,141
+như định nghĩa sốc kháng trị 2026 và thang SOFA-2,
+
+81
+00:05:20,991 --> 00:05:26,740
+đều tính theo base. Sai lệch này có thể đổi một người bệnh từ kháng trị thành không kháng trị.
+
+82
+00:05:26,940 --> 00:05:31,170
+Việc cần làm ngay: kiểm tra biệt dược đang dùng tại khoa ghi hàm lượng theo dạng nào.
+
+83
+00:05:32,620 --> 00:05:36,559
+Khi người bệnh dùng hai, ba thuốc vận mạch, cần quy về một đơn vị chung:
+
+84
+00:05:36,409 --> 00:05:40,770
+liều tương đương norepinephrine. Norepinephrine và epinephrine tính một với một.
+
+85
+00:05:40,970 --> 00:05:43,928
+Vasopressin nhân 2,5 ở cả hai công thức:
+
+86
+00:05:43,778 --> 00:05:51,440
+0,03 đơn vị mỗi phút tương đương khoảng 0,075 mi crô gam mỗi ký mỗi phút norepinephrine. Dopamine chia 100.
+
+87
+00:05:51,640 --> 00:05:55,078
+Nhưng hai công thức không thống nhất ở angiotensin II:
+
+88
+00:05:54,928 --> 00:06:00,313
+hệ số của Kotani tương đương 2,5 lần liều tính bằng mi crô gam, của Goradia là 10 lần,
+
+89
+00:06:00,163 --> 00:06:01,470
+chênh nhau bốn lần.
+
+90
+00:06:01,670 --> 00:06:04,243
+Và bảng của Kotani in nhân 8 cho metaraminol,
+
+91
+00:06:04,093 --> 00:06:07,636
+trong khi chính lập luận của bài lấy tỷ lệ khoảng một phần tám;
+
+92
+00:06:07,486 --> 00:06:11,244
+áp dụng máy móc sẽ sai khoảng 64 lần. Khi báo cáo liều tương đương,
+
+93
+00:06:11,094 --> 00:06:12,860
+phải ghi rõ công thức đã dùng.
+
+94
+00:06:14,310 --> 00:06:18,380
+Chờ catheter trung tâm trước khi bắt đầu norepinephrine từng là chuẩn,
+
+95
+00:06:18,230 --> 00:06:23,476
+và có thể làm chậm điều trị hàng giờ. Tổng quan hệ thống của Tian ghi nhận thoát mạch 3,4%,
+
+96
+00:06:23,326 --> 00:06:25,660
+không ca nào thiếu máu chi hay hoại tử.
+
+97
+00:06:25,860 --> 00:06:28,871
+Nghiên cứu của Yerke trên 635 người bệnh:
+
+98
+00:06:28,721 --> 00:06:32,849
+trong 603 người dùng norepinephrine ngoại vi ngay từ đầu,
+
+99
+00:06:32,699 --> 00:06:35,850
+51,6% không bao giờ cần catheter trung tâm.
+
+100
+00:06:36,050 --> 00:06:41,086
+Thoát mạch xảy ra ở 35 người, tức 75,8 biến cố trên 1.000 ngày truyền ngoại vi,
+
+101
+00:06:40,936 --> 00:06:44,920
+và gần một nửa trong số đó phải đặt catheter trung tâm sau đó.
+
+102
+00:06:45,120 --> 00:06:47,806
+Quy trình của Yerke là một mẫu thực hành:
+
+103
+00:06:47,656 --> 00:06:53,126
+hai catheter ngoại vi 20 đến 22G trên cổ tay và dưới nếp khuỷu, xác nhận bằng siêu âm,
+
+104
+00:06:52,976 --> 00:06:56,714
+kiểm tra máu hồi mỗi 2 giờ, tối đa 15 mi crô gam mỗi phút;
+
+105
+00:06:56,564 --> 00:07:02,095
+thoát mạch xử trí bằng phentolamine tiêm dưới da. Phác đồ thường dùng là phentolamine 5
+
+106
+00:07:01,945 --> 00:07:05,498
+mi li gam pha 10 mi li lít natri clorid 0,9% tiêm thấm,
+
+107
+00:07:05,348 --> 00:07:07,910
+lặp lại sau 30 phút nếu chưa cải thiện.
+
+108
+00:07:09,360 --> 00:07:14,256
+Sai liều vận mạch thường đến từ khâu pha và quy đổi. Với cách pha trong sách Oh's,
+
+109
+00:07:14,106 --> 00:07:18,018
+6 mi li gam trong 100 mi li lít, tức 60 mi crô gam mỗi mi li lít,
+
+110
+00:07:17,868 --> 00:07:22,070
+công thức chỉ còn một dòng: mi li lít mỗi giờ bằng liều nhân cân nặng.
+
+111
+00:07:22,270 --> 00:07:27,220
+Ví dụ người 70 ký: 0,1 là 7 mi li lít mỗi giờ, 0,25 là 17,5,
+
+112
+00:07:27,070 --> 00:07:30,260
+và ngưỡng 0,5 là 35 mi li lít mỗi giờ.
+
+113
+00:07:30,460 --> 00:07:36,008
+Vasopressin pha 20 đơn vị trong 20 mi li lít, tức 1 đơn vị mỗi mi li lít:
+
+114
+00:07:35,858 --> 00:07:39,410
+0,03 đơn vị mỗi phút là 1,8 mi li lít mỗi giờ.
+
+115
+00:07:39,610 --> 00:07:43,818
+Cảnh báo: công thức chỉ đúng với nồng độ 60. Khoa pha nồng độ khác,
+
+116
+00:07:43,668 --> 00:07:48,240
+như bơm 50 mi li lít hay 16 mi li gam trong 250 mi li lít, phải tính lại.
+
+117
+00:07:49,690 --> 00:07:52,507
+Tình huống tính toán. Người bệnh nam 70 ký,
+
+118
+00:07:52,357 --> 00:07:57,470
+sốc nhiễm khuẩn. Bơm norepinephrine nồng độ 60, khoa đã xác nhận tính theo base,
+
+119
+00:07:57,320 --> 00:08:01,440
+chạy 28 mi li lít mỗi giờ, kèm vasopressin 0,03 đơn vị mỗi phút.
+
+120
+00:08:01,640 --> 00:08:04,110
+Liều tương đương norepinephrine là bao nhiêu?
+
+121
+00:08:04,310 --> 00:08:07,100
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+122
+00:08:17,700 --> 00:08:22,482
+Đáp án là B. Với nồng độ 60, liều norepinephrine bằng 28 chia 70,
+
+123
+00:08:22,332 --> 00:08:28,753
+tức 0,4 mi crô gam mỗi ký mỗi phút. Vasopressin 0,03 nhân 2,5 bằng 0,075. Tổng là 0,475,
+
+124
+00:08:28,603 --> 00:08:34,097
+đã sát ngưỡng 0,5 của định nghĩa sốc kháng trị: đến lúc rà lại nguyên nhân,
+
+125
+00:08:33,947 --> 00:08:35,950
+như phần sáu sẽ trình bày.
+
+126
+00:08:37,400 --> 00:08:40,193
+Tóm lại, thứ nhất: norepinephrine là thuốc đầu tay,
+
+127
+00:08:40,043 --> 00:08:42,110
+và có thể bắt đầu qua đường ngoại vi.
+
+128
+00:08:42,310 --> 00:08:46,460
+Thứ hai: dopamine gây loạn nhịp gần gấp đôi và liều thấp không bảo vệ thận.
+
+129
+00:08:46,660 --> 00:08:51,459
+Thứ ba: vasopressin và epinephrine là thuốc hàng hai giúp tiết kiệm catecholamine,
+
+130
+00:08:51,309 --> 00:08:54,010
+nhưng chưa thuốc nào chứng minh cứu sống hơn.
+
+131
+00:08:54,210 --> 00:08:57,320
+Thứ tư: luôn ghi rõ norepinephrine dạng base hay tartrate.
+
+132
+00:08:57,520 --> 00:09:01,132
+Thứ năm: khi báo cáo liều tương đương, ghi rõ công thức. Phần cuối:
+
+133
+00:09:00,982 --> 00:09:05,990
+sốc kháng trị và các thuốc cứu vãn. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

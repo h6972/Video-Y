@@ -1,0 +1,427 @@
+1
+00:00:04,900 --> 00:00:06,123
+Thưa quý đồng nghiệp,
+
+2
+00:00:05,973 --> 00:00:10,570
+chào mừng quý vị đến với phần ba của loạt bài Tiếp cận sốc trên Thư Viện Y Khoa Online.
+
+3
+00:00:10,770 --> 00:00:13,668
+Một người bệnh sốc nhiễm khuẩn đã nhận 2 lít dịch,
+
+4
+00:00:13,518 --> 00:00:18,341
+huyết áp vẫn thấp. Truyền thêm hay không? Đây có lẽ là câu hỏi được đặt ra nhiều nhất
+
+5
+00:00:18,191 --> 00:00:19,880
+trong khoa hồi sức mỗi ngày.
+
+6
+00:00:20,080 --> 00:00:27,510
+ESICM 2025 dành gần một nửa số khuyến cáo cho câu hỏi này và cho việc theo dõi huyết động.
+
+7
+00:00:27,710 --> 00:00:32,310
+Phần này trả lời ba ý: khi nào cần hỏi đáp ứng dịch, hỏi bằng nghiệm pháp nào,
+
+8
+00:00:32,160 --> 00:00:34,820
+và đọc huyết áp, CVP, cung lượng tim ra sao.
+
+9
+00:00:36,270 --> 00:00:40,695
+ESICM 2025 khuyến cáo: ở người bệnh còn sốc sau hồi sức dịch ban đầu,
+
+10
+00:00:40,545 --> 00:00:43,669
+cần đánh giá đáp ứng dịch trước khi truyền tiếp,
+
+11
+00:00:43,519 --> 00:00:49,060
+và cân lợi ích dự kiến với nguy cơ. Đây là phát biểu thực hành tốt với đồng thuận mạnh.
+
+12
+00:00:49,260 --> 00:00:54,962
+Lý do nằm ở con số: khoảng 50% người bệnh bất ổn có theo dõi liên tục còn đáp ứng dịch,
+
+13
+00:00:54,812 --> 00:01:00,450
+nhưng chỉ khoảng 20% người bệnh sốc nhiễm khuẩn còn đáp ứng sau 4 giờ hồi sức ban đầu.
+
+14
+00:01:00,650 --> 00:01:04,151
+Hơn nữa, chỉ một nửa số người đáp ứng còn đáp ứng sau 30 phút:
+
+15
+00:01:04,001 --> 00:01:06,800
+một kết quả cũ không thể dùng cho lần truyền sau.
+
+16
+00:01:07,000 --> 00:01:09,957
+Và việc đánh giá là khả thi: trong ANDROMEDA-SHOCK,
+
+17
+00:01:09,807 --> 00:01:14,196
+82% người bệnh được đánh giá đáp ứng dịch ngay trong 4 giờ đầu. Cần nhớ thêm:
+
+18
+00:01:14,046 --> 00:01:19,150
+đáp ứng dịch không đồng nghĩa với chỉ định truyền dịch. Người khoẻ mạnh cũng đáp ứng dịch.
+
+19
+00:01:20,600 --> 00:01:22,987
+Đây là bức tranh khuyến cáo. Nguyên tắc chung:
+
+20
+00:01:22,837 --> 00:01:26,830
+dùng chỉ số động thay cho chỉ số tiền tải tĩnh, khuyến cáo mạnh, chắc chắn cao.
+
+21
+00:01:27,030 --> 00:01:29,868
+Nâng chân thụ động được khuyến cáo mạnh ở người thở máy,
+
+22
+00:01:29,718 --> 00:01:34,860
+dù có hay không tự thở. Nghiệm pháp ngưng cuối thì thở ra là lựa chọn thay thế khi thở máy không tự thở.
+
+23
+00:01:35,060 --> 00:01:41,720
+PPV được khuyến cáo mạnh nhưng chỉ khi không tự thở và thể tích khí lưu thông từ 8 mi li lít mỗi ký trở lên;
+
+24
+00:01:41,570 --> 00:01:44,010
+SVV khuyến cáo yếu với cùng điều kiện.
+
+25
+00:01:44,210 --> 00:01:46,823
+Thử dịch nhỏ và thử tăng thể tích khí lưu thông:
+
+26
+00:01:46,673 --> 00:01:50,211
+hướng dẫn không đưa khuyến cáo. Còn đường kính tĩnh mạch chủ dưới:
+
+27
+00:01:50,061 --> 00:01:52,520
+gợi ý không dùng đơn độc, với đồng thuận yếu.
+
+28
+00:01:53,970 --> 00:01:58,615
+Nâng chân thụ động được ưa chuộng vì dùng được cả khi người bệnh tự thở và không cần
+
+29
+00:01:58,465 --> 00:02:02,360
+truyền dịch thật. Bắt đầu từ tư thế nửa ngồi và đo cung lượng tim nền.
+
+30
+00:02:02,560 --> 00:02:03,955
+Hạ thân và nâng chân:
+
+31
+00:02:03,805 --> 00:02:08,638
+động tác này huy động khoảng 300 mi li lít máu từ chi dưới và vùng tạng về tim;
+
+32
+00:02:08,488 --> 00:02:10,950
+diện tích dưới đường cong gộp đạt 0,94.
+
+33
+00:02:11,150 --> 00:02:13,987
+Cung lượng tim đạt đỉnh khoảng 1 phút sau khi bắt đầu,
+
+34
+00:02:13,837 --> 00:02:18,267
+nên phải đo bằng phương tiện theo dõi thời gian thực. Thay đổi áp lực mạch kém tin cậy
+
+35
+00:02:18,117 --> 00:02:19,860
+hơn đo trực tiếp cung lượng tim.
+
+36
+00:02:20,060 --> 00:02:23,973
+Cung lượng tim hoặc VTI tăng từ 10% trở lên là có đáp ứng dịch;
+
+37
+00:02:23,823 --> 00:02:29,170
+sau đó đưa người bệnh về tư thế nền và kiểm tra cung lượng tim trở lại giá trị ban đầu.
+
+38
+00:02:29,370 --> 00:02:34,237
+Không dùng nâng chân khi tăng áp lực nội sọ. Kết quả có thể âm tính giả khi tăng áp lực
+
+39
+00:02:34,087 --> 00:02:36,080
+ổ bụng hoặc người bệnh mang vớ ép.
+
+40
+00:02:37,530 --> 00:02:42,960
+Hãy nhìn độ chính xác. Nâng chân thụ động có diện tích dưới đường cong gộp 0,94.
+
+41
+00:02:43,160 --> 00:02:48,670
+PPV cũng đạt 0,94 trong điều kiện lý tưởng: thể tích khí lưu thông cao và không tự thở.
+
+42
+00:02:48,870 --> 00:02:52,450
+Nhưng khi thể tích khí lưu thông dưới 8 mi li lít mỗi ký,
+
+43
+00:02:52,300 --> 00:02:54,376
+như trong thông khí bảo vệ phổi,
+
+44
+00:02:54,226 --> 00:02:59,310
+con số giảm còn 0,74. PPV còn dương tính giả khi tự thở, loạn nhịp, suy thất phải,
+
+45
+00:02:59,160 --> 00:03:02,620
+và âm tính giả khi phổi kém giãn nở hay nhịp thở nhanh.
+
+46
+00:03:02,820 --> 00:03:08,356
+Đường kính tĩnh mạch chủ dưới chỉ đạt 0,63 trong nghiên cứu lớn nhất với 540 người,
+
+47
+00:03:08,206 --> 00:03:12,250
+và 0,60 ở nhóm tụt áp kèm lactate cao. Gần như tung đồng xu.
+
+48
+00:03:13,700 --> 00:03:20,552
+ESICM 2025 định nghĩa thử dịch là một bolus 200 đến 500 mi li lít truyền trong 5 đến 10 phút,
+
+49
+00:03:20,402 --> 00:03:22,570
+đồng thời đánh giá tác dụng.
+
+50
+00:03:22,770 --> 00:03:23,874
+Con số có cơ sở:
+
+51
+00:03:23,724 --> 00:03:29,064
+4 mi li lít mỗi ký là thể tích nhỏ nhất làm tăng áp lực đổ đầy hệ thống vượt sai số đo,
+
+52
+00:03:28,914 --> 00:03:33,240
+và cần khoảng 250 mi li lít để thấy tăng thể tích nhát bóp có ý nghĩa.
+
+53
+00:03:33,440 --> 00:03:36,768
+Hiệu quả của bolus có thể đánh giá bằng cung lượng tim,
+
+54
+00:03:36,618 --> 00:03:38,732
+nếu không có thì bằng áp lực mạch,
+
+55
+00:03:38,582 --> 00:03:42,950
+thay vì MAP. Tăng cung lượng tim 10 đến 15% là mức thường được chấp nhận.
+
+56
+00:03:43,150 --> 00:03:48,353
+Nhưng tăng cung lượng tim chưa phải đích cuối: tác dụng trên tưới máu xem qua CRT,
+
+57
+00:03:48,203 --> 00:03:49,339
+nổi bông, ScvO₂,
+
+58
+00:03:49,189 --> 00:03:53,777
+các chỉ số từ CO₂ và lactate. Và phần biện luận của hướng dẫn nhấn mạnh:
+
+59
+00:03:53,627 --> 00:03:56,180
+không lặp lại các bolus không hiệu quả.
+
+60
+00:03:57,630 --> 00:04:04,522
+CVP là ví dụ rõ nhất về một con số bị dùng sai. ESICM 2025 khuyến cáo không đặt trước
+
+61
+00:04:04,372 --> 00:04:07,140
+một giá trị CVP làm đích hồi sức.
+
+62
+00:04:07,340 --> 00:04:12,856
+Nhưng vẫn đo CVP khi có catheter tĩnh mạch trung tâm. Khoảng 8 đến 12 trong thử nghiệm
+
+63
+00:04:12,706 --> 00:04:14,852
+của Rivers chỉ là mốc đặt tuỳ ý,
+
+64
+00:04:14,702 --> 00:04:17,410
+và CVP ở hai nhánh thực ra tương tự nhau.
+
+65
+00:04:17,610 --> 00:04:22,960
+CVP không dự đoán đáp ứng dịch, nhưng CVP cao liên quan với phù mô, suy gan, suy thận:
+
+66
+00:04:22,810 --> 00:04:27,677
+nó là tín hiệu an toàn khi cân nhắc dịch, và cần đọc cùng MAP. Sách Oh's viết:
+
+67
+00:04:27,527 --> 00:04:30,640
+CVP phản ánh áp lực hệ tĩnh mạch hơn là thể tích.
+
+68
+00:04:30,840 --> 00:04:32,022
+Nguyên tắc rút ra:
+
+69
+00:04:31,872 --> 00:04:37,870
+giá trị CVP thấp nhất mà vẫn bảo đảm cung lượng tim và tưới máu đủ là hợp lý hơn đuổi theo một con số.
+
+70
+00:04:39,320 --> 00:04:46,290
+Đặt cạnh câu hỏi dịch có giúp không là câu hỏi dịch có hại không. ESICM 2025 liệt kê các chỉ dấu nguy cơ:
+
+71
+00:04:46,140 --> 00:04:51,877
+áp lực đổ đầy, áp lực ổ bụng, nước ngoài mạch phổi, chỉ số tính thấm mạch phổi, VExUS,
+
+72
+00:04:51,727 --> 00:04:54,280
+tỷ số PaO₂ trên FiO₂ và siêu âm phổi.
+
+73
+00:04:54,480 --> 00:04:59,730
+Nước ngoài mạch phổi bình thường dưới 7 mi li lít mỗi ký, trên 10 phân biệt phù phổi,
+
+74
+00:04:59,580 --> 00:05:03,990
+và trên 15 có giá trị dự báo dương 99% cho tổn thương phế nang lan toả.
+
+75
+00:05:04,190 --> 00:05:09,088
+Áp lực ổ bụng thường bị quên. Tăng áp lực ổ bụng là từ 12 mi li mét thuỷ ngân kéo dài;
+
+76
+00:05:08,938 --> 00:05:12,180
+trên 20 kèm suy cơ quan mới là hội chứng chèn ép ổ bụng.
+
+77
+00:05:12,380 --> 00:05:17,314
+Tình trạng này gặp ở khoảng 25% người bệnh lúc vào hồi sức và gần một nửa trong tuần
+
+78
+00:05:17,164 --> 00:05:19,022
+đầu. Nó làm sai áp lực đổ đầy,
+
+79
+00:05:18,872 --> 00:05:22,610
+tăng PPV, gây âm tính giả cho nâng chân, và giảm tưới máu thận.
+
+80
+00:05:24,060 --> 00:05:26,935
+Khi người bệnh không đáp ứng điều trị ban đầu,
+
+81
+00:05:26,785 --> 00:05:31,734
+ESICM 2025 khuyến cáo đo cung lượng tim hoặc thể tích nhát bóp, đánh giá lặp lại,
+
+82
+00:05:31,584 --> 00:05:37,540
+và diễn giải mức đủ qua chức năng cơ quan và tưới máu. Không có một cung lượng tim lý tưởng chung.
+
+83
+00:05:37,740 --> 00:05:41,139
+Ở người bệnh sốc kèm ARDS vừa hoặc nặng không suy thất phải,
+
+84
+00:05:40,989 --> 00:05:44,930
+nhiệt pha loãng qua phổi được ưu tiên vì đo được nước ngoài mạch phổi.
+
+85
+00:05:45,130 --> 00:05:46,443
+Khi có suy thất phải,
+
+86
+00:05:46,293 --> 00:05:50,320
+catheter động mạch phổi được ưu tiên vì đo được áp lực động mạch phổi.
+
+87
+00:05:50,520 --> 00:05:54,793
+Thiết bị ít xâm lấn chỉ dùng khi đã được chứng minh chính xác trong đúng bối cảnh;
+
+88
+00:05:54,643 --> 00:05:59,720
+phân tích sóng mạch không hiệu chuẩn có thể sai khi trương lực mạch thay đổi. Và cần đọc đúng mức:
+
+89
+00:05:59,570 --> 00:06:03,390
+gộp các thử nghiệm, theo dõi cung lượng tim chưa chứng minh giảm tử vong.
+
+90
+00:06:04,840 --> 00:06:09,018
+Tình huống. Nữ 59 tuổi, sốc nhiễm khuẩn do viêm phổi, ARDS,
+
+91
+00:06:08,868 --> 00:06:13,592
+thở máy với thể tích khí lưu thông 6 mi li lít mỗi ký, đang tự thở,
+
+92
+00:06:13,442 --> 00:06:19,532
+rung nhĩ đáp ứng thất 110. Đã nhận 30 mi li lít mỗi ký dịch, MAP 62 với norepinephrine,
+
+93
+00:06:19,382 --> 00:06:23,560
+CRT 4 giây. Có catheter động mạch và máy đo cung lượng tim.
+
+94
+00:06:23,760 --> 00:06:26,230
+Cách đánh giá đáp ứng dịch phù hợp nhất?
+
+95
+00:06:26,430 --> 00:06:29,220
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+96
+00:06:37,820 --> 00:06:41,756
+Đáp án là C. Người bệnh tự thở, thể tích khí lưu thông thấp và rung nhĩ:
+
+97
+00:06:41,606 --> 00:06:46,069
+PPV không dùng được. Tĩnh mạch chủ dưới không dùng đơn độc. Thử dịch nhỏ chưa được
+
+98
+00:06:45,919 --> 00:06:49,066
+khuyến cáo và không nên đọc bằng MAP. Nâng chân thụ động,
+
+99
+00:06:48,916 --> 00:06:52,590
+đo cung lượng tim thời gian thực, là lựa chọn được khuyến cáo mạnh.
+
+100
+00:06:54,040 --> 00:06:57,806
+Tóm lại, thứ nhất: sau giờ đầu, mỗi bolus dịch phải có lý do,
+
+101
+00:06:57,656 --> 00:07:00,830
+vì chỉ khoảng 20% người bệnh còn đáp ứng sau 4 giờ.
+
+102
+00:07:01,030 --> 00:07:05,580
+Thứ hai: nâng chân thụ động là phép thử chủ lực, với đo cung lượng tim thời gian thực.
+
+103
+00:07:05,780 --> 00:07:10,307
+Thứ ba: PPV chỉ dùng khi không tự thở và thể tích khí lưu thông đủ lớn;
+
+104
+00:07:10,157 --> 00:07:12,650
+không dùng tĩnh mạch chủ dưới đơn độc.
+
+105
+00:07:12,850 --> 00:07:15,720
+Thứ tư: CVP đo nhưng không đặt đích.
+
+106
+00:07:15,920 --> 00:07:20,090
+Thứ năm: không đáp ứng điều trị ban đầu thì đo cung lượng tim. Phần tiếp theo:
+
+107
+00:07:19,940 --> 00:07:24,470
+dịch và mục tiêu huyết áp. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

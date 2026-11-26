@@ -1,0 +1,515 @@
+1
+00:00:04,900 --> 00:00:08,719
+Thưa quý đồng nghiệp, chào mừng quý vị đến với Thư Viện Y Khoa Online,
+
+2
+00:00:08,569 --> 00:00:12,650
+phần một của loạt bài giảng Tiếp cận sốc, chuyên đề mở đầu cho seri về sốc.
+
+3
+00:00:12,850 --> 00:00:17,159
+Hãy bắt đầu bằng một câu hỏi: một người bệnh huyết áp 112 trên 70,
+
+4
+00:00:17,009 --> 00:00:22,200
+nhưng da gối nổi bông, tiểu ít và lactate 4,5. Người bệnh này có đang sốc không?
+
+5
+00:00:22,400 --> 00:00:25,616
+Theo định nghĩa năm 2025 của Hội Hồi sức châu Âu,
+
+6
+00:00:25,466 --> 00:00:30,183
+câu trả lời là có. Phần này giải thích vì sao, bằng sinh lý cung cấp oxy,
+
+7
+00:00:30,033 --> 00:00:32,310
+hồi lưu tĩnh mạch và vi tuần hoàn.
+
+8
+00:00:32,510 --> 00:00:34,670
+Đây là phần nền: mọi quyết định về dịch,
+
+9
+00:00:34,520 --> 00:00:38,740
+thuốc vận mạch và sốc kháng trị ở các phần sau đều dẫn ngược về những cơ chế này.
+
+10
+00:00:40,190 --> 00:00:43,534
+Loạt bài gồm sáu phần. Phần một và hai đặt nền: sinh lý,
+
+11
+00:00:43,384 --> 00:00:46,100
+rồi cách nhận diện và xếp thể sốc tại giường.
+
+12
+00:00:46,300 --> 00:00:50,930
+Phần ba là theo dõi huyết động và đáp ứng dịch; phần bốn là dịch và mục tiêu huyết áp.
+
+13
+00:00:51,130 --> 00:00:53,903
+Phần năm dành cho thuốc vận mạch và tăng co bóp,
+
+14
+00:00:53,753 --> 00:00:56,800
+phần sáu là sốc kháng trị. Sau đó là hai ca lâm sàng.
+
+15
+00:00:58,250 --> 00:01:04,049
+Đây là định nghĩa của hướng dẫn ESICM 2025: sốc là suy tuần hoàn cấp đe doạ tính mạng,
+
+16
+00:01:03,899 --> 00:01:06,085
+đặc trưng bởi giảm tưới máu mô,
+
+17
+00:01:05,935 --> 00:01:10,880
+làm cung cấp hoặc sử dụng oxy không đủ cho nhu cầu chuyển hoá của tế bào.
+
+18
+00:01:11,080 --> 00:01:14,352
+Điểm then chốt nằm ở khuyến cáo hai: tụt huyết áp thường có,
+
+19
+00:01:14,202 --> 00:01:16,590
+nhưng không bắt buộc phải có để gọi là sốc.
+
+20
+00:01:16,790 --> 00:01:20,530
+Khuyến cáo ba ghi nhận lactate thường tăng trên 2 mi li mol mỗi lít,
+
+21
+00:01:20,380 --> 00:01:24,700
+nhưng lactate tăng vì nhiều cơ chế khác nên không đủ để định nghĩa sốc đơn độc.
+
+22
+00:01:24,900 --> 00:01:28,225
+Cả ba là định nghĩa và phát biểu thực hành tốt không phân hạng,
+
+23
+00:01:28,075 --> 00:01:30,090
+với mức đồng thuận mạnh của hội đồng.
+
+24
+00:01:31,540 --> 00:01:33,816
+Vì sao huyết áp bị hạ vai trò? Thứ nhất,
+
+25
+00:01:33,666 --> 00:01:37,430
+hệ giao cảm giữ huyết áp rất giỏi. Trong mô hình mất máu của Guyton,
+
+26
+00:01:37,280 --> 00:01:39,290
+cung lượng tim giảm trước huyết áp.
+
+27
+00:01:39,490 --> 00:01:42,465
+Thứ hai, ngay cả khi cung cấp oxy toàn thân đủ,
+
+28
+00:01:42,315 --> 00:01:48,055
+tế bào vẫn có thể thiếu oxy vì nối tắt vi tuần hoàn hoặc rối loạn ty thể. Sách Oh's viết gọn:
+
+29
+00:01:47,905 --> 00:01:51,240
+vì vậy tụt huyết áp không bắt buộc để định nghĩa sốc.
+
+30
+00:01:51,440 --> 00:01:56,241
+Thứ ba, các ngưỡng quen thuộc như MAP 65 hay huyết áp tâm thu 90 vẫn được dùng,
+
+31
+00:01:56,091 --> 00:02:00,950
+nhưng ESICM nhấn mạnh đó chỉ là ngưỡng thực hành, không đủ để chẩn đoán đơn độc.
+
+32
+00:02:02,400 --> 00:02:05,430
+Sốc gặp ở khoảng một phần ba người bệnh hồi sức.
+
+33
+00:02:05,630 --> 00:02:11,060
+Trong quần thể hơn 1.600 người của thử nghiệm SOAP II, sốc nhiễm khuẩn chiếm 62%.
+
+34
+00:02:11,260 --> 00:02:16,743
+Sốc tim và sốc giảm thể tích mỗi loại 16%, sốc phân bố khác 4% và sốc tắc nghẽn chỉ 2%,
+
+35
+00:02:16,593 --> 00:02:21,954
+nhưng đây lại là thể sốc có nguyên nhân giải quyết được ngay. Hệ quả là phần lớn bằng
+
+36
+00:02:21,804 --> 00:02:24,958
+chứng về dịch và vận mạch đến từ sốc nhiễm khuẩn,
+
+37
+00:02:24,808 --> 00:02:26,920
+và cần thận trọng khi ngoại suy.
+
+38
+00:02:28,370 --> 00:02:33,641
+Mọi thể sốc có thể đọc qua cán cân cung cấp và tiêu thụ oxy. Ở người lớn nghỉ ngơi,
+
+39
+00:02:33,491 --> 00:02:37,960
+cung cấp oxy khoảng 1.000 mi li lít mỗi phút, tiêu thụ chỉ khoảng 250.
+
+40
+00:02:38,160 --> 00:02:42,113
+Tế bào bình thường chỉ lấy khoảng 25% lượng oxy được đưa đến,
+
+41
+00:02:41,963 --> 00:02:46,352
+và có thể tăng chiết xuất tới khoảng 80%. Nhờ đó, khi cung cấp giảm,
+
+42
+00:02:46,202 --> 00:02:47,910
+tiêu thụ vẫn giữ ổn định.
+
+43
+00:02:48,110 --> 00:02:51,598
+Chỉ khi cung cấp xuống dưới một ngưỡng gọi là DO₂ tới hạn,
+
+44
+00:02:51,448 --> 00:02:56,260
+tiêu thụ bắt đầu phụ thuộc vào cung cấp, chuyển hoá yếm khí tăng và lactate tăng.
+
+45
+00:02:56,460 --> 00:02:59,982
+Điều đáng chú ý là trong nhiễm khuẩn và dưới tác dụng một số thuốc,
+
+46
+00:02:59,832 --> 00:03:01,542
+khả năng chiết xuất bị hạn chế,
+
+47
+00:03:01,392 --> 00:03:05,970
+nên ngưỡng tới hạn dịch sang phải. Một mức cung cấp oxy bình thường có thể vẫn không đủ.
+
+48
+00:03:06,170 --> 00:03:09,705
+Nguyên tắc rút ra: mục tiêu là đưa cung cấp oxy về đủ cho nhu cầu,
+
+49
+00:03:09,555 --> 00:03:14,320
+không phải đẩy lên trên mức bình thường. Tăng DO₂ vượt bình thường không mang lại lợi ích.
+
+50
+00:03:15,770 --> 00:03:18,798
+Khi thiếu oxy, tế bào chuyển sang đường phân yếm khí,
+
+51
+00:03:18,648 --> 00:03:23,360
+chỉ tạo khoảng 2 mol ATP so với 38 mol khi hiếu khí; pyruvate dư thừa thành lactate.
+
+52
+00:03:23,560 --> 00:03:28,017
+Nhưng lactate không phải thước đo thuần tuý của thiếu oxy. Kích thích bê ta hai,
+
+53
+00:03:27,867 --> 00:03:32,270
+suy gan, thiếu thiamine, co giật, ung thư và một số thuốc đều làm lactate tăng.
+
+54
+00:03:32,470 --> 00:03:36,028
+Epinephrine là ví dụ điển hình: thuốc tự làm tăng lactate,
+
+55
+00:03:35,878 --> 00:03:39,260
+gây nhiễu khi dùng lactate để đánh giá đáp ứng hồi sức.
+
+56
+00:03:39,460 --> 00:03:41,039
+CO₂ cho một góc nhìn khác:
+
+57
+00:03:40,889 --> 00:03:45,822
+chênh áp CO₂ tĩnh mạch động mạch bình thường dưới 5 mi li mét thuỷ ngân và chủ yếu phản
+
+58
+00:03:45,672 --> 00:03:48,570
+ánh lưu lượng máu. Chúng ta sẽ dùng nó ở phần hai.
+
+59
+00:03:50,020 --> 00:03:53,992
+Để hiểu vì sao dịch và norepinephrine đều có thể nâng cung lượng tim,
+
+60
+00:03:53,842 --> 00:03:58,090
+cần nhìn sang phía tĩnh mạch. Hơn 80% thể tích máu nằm trong hệ mạch chứa.
+
+61
+00:03:58,290 --> 00:04:01,585
+Chỉ một phần thể tích này thực sự căng thành mạch và tạo áp lực,
+
+62
+00:04:01,435 --> 00:04:04,680
+gọi là thể tích tạo áp lực; phần còn lại chỉ lấp đầy lòng mạch.
+
+63
+00:04:04,880 --> 00:04:08,628
+Thể tích tạo áp lực quyết định áp lực đổ đầy hệ thống trung bình,
+
+64
+00:04:08,478 --> 00:04:13,610
+và chênh lệch giữa áp lực này với áp lực nhĩ phải là động lực đưa máu về tim. Guyton viết:
+
+65
+00:04:13,460 --> 00:04:18,038
+tăng dung tích lòng mạch hoặc giảm thể tích máu làm giảm áp lực đổ đầy hệ thống,
+
+66
+00:04:17,888 --> 00:04:19,090
+từ đó giảm hồi lưu.
+
+67
+00:04:19,290 --> 00:04:21,397
+Dịch truyền làm tăng thể tích tạo áp lực,
+
+68
+00:04:21,247 --> 00:04:25,360
+nhưng chỉ tăng được lưu lượng khi tim còn ở đoạn dốc của đường cong Frank–Starling.
+
+69
+00:04:25,560 --> 00:04:27,156
+Norepinephrine co tĩnh mạch,
+
+70
+00:04:27,006 --> 00:04:31,391
+chuyển máu từ khoang không tạo áp lực sang khoang tạo áp lực. Legrand gọi đó là mô
+
+71
+00:04:31,241 --> 00:04:33,870
+phỏng một bolus dịch nhờ huy động dịch nội sinh.
+
+72
+00:04:34,070 --> 00:04:35,115
+Trong sốc phân bố,
+
+73
+00:04:34,965 --> 00:04:38,896
+tĩnh mạch giãn làm thể tích tạo áp lực biến thành thể tích không tạo áp lực:
+
+74
+00:04:38,746 --> 00:04:41,980
+người bệnh có thể không mất giọt máu nào mà vẫn thiếu hồi lưu.
+
+75
+00:04:43,430 --> 00:04:49,258
+Đường cong Frank–Starling cho biết vì sao cùng một bolus dịch lại cho đáp ứng rất khác nhau. Ở đoạn dốc,
+
+76
+00:04:49,108 --> 00:04:51,660
+tăng tiền tải làm thể tích nhát bóp tăng rõ.
+
+77
+00:04:51,860 --> 00:04:54,181
+Ở đoạn phẳng, hay khi chức năng thất kém,
+
+78
+00:04:54,031 --> 00:04:59,210
+thêm dịch gần như không tăng thể tích nhát bóp mà chỉ làm tăng áp lực đổ đầy và gây sung huyết.
+
+79
+00:04:59,410 --> 00:05:02,920
+Và vị trí trên đường cong không đọc được từ áp lực đổ đầy:
+
+80
+00:05:02,770 --> 00:05:07,844
+CVP hay áp lực mao mạch phổi bít tương quan kém với đáp ứng dịch. Đây là nền tảng cho
+
+81
+00:05:07,694 --> 00:05:09,640
+các nghiệm pháp động ở phần ba.
+
+82
+00:05:11,090 --> 00:05:13,096
+Cơ thể bù trừ theo nhiều tầng:
+
+83
+00:05:12,946 --> 00:05:17,057
+giao cảm và catecholamine đạt tối đa trong 30 giây đến vài phút,
+
+84
+00:05:16,907 --> 00:05:22,440
+angiotensin và vasopressin trong 10 đến 60 phút, còn tái lập thể tích mất 1 đến 48 giờ.
+
+85
+00:05:22,640 --> 00:05:26,900
+Khi bù trừ không đủ, sốc bước vào giai đoạn tiến triển với các vòng phản hồi dương:
+
+86
+00:05:26,750 --> 00:05:31,110
+giảm tưới máu vành làm tim suy thêm, trung tâm vận mạch suy, mạch máu mất trương lực.
+
+87
+00:05:31,310 --> 00:05:35,900
+Dòng chậm và toan tạo bùn máu, vi huyết khối; mao mạch tăng tính thấm, dịch thoát ra mô,
+
+88
+00:05:35,750 --> 00:05:37,060
+thể tích lại giảm thêm.
+
+89
+00:05:37,260 --> 00:05:41,800
+Toan máu và suy tế bào khép lại vòng xoắn. Guyton nhấn mạnh phản hồi dương chỉ thành
+
+90
+00:05:41,650 --> 00:05:43,630
+vòng xoắn khi vượt khả năng bù trừ:
+
+91
+00:05:43,480 --> 00:05:45,250
+can thiệp sớm có thể bẻ gãy nó.
+
+92
+00:05:46,700 --> 00:05:51,824
+Một người bệnh đã đạt MAP và cung lượng tim mà lactate vẫn cao, da vẫn nổi bông:
+
+93
+00:05:51,674 --> 00:05:57,234
+đó là hình ảnh mất đồng bộ giữa đại tuần hoàn và vi tuần hoàn. ESICM 2025 ghi nhận tình
+
+94
+00:05:57,084 --> 00:05:59,970
+trạng này kéo dài liên quan với suy cơ quan.
+
+95
+00:06:00,170 --> 00:06:03,325
+Ince mô tả bốn kiểu. Kiểu một là tưới máu không đồng nhất,
+
+96
+00:06:03,175 --> 00:06:06,640
+mao mạch tắc xen mao mạch còn dòng, điển hình trong nhiễm khuẩn.
+
+97
+00:06:06,840 --> 00:06:09,950
+Kiểu hai là pha loãng máu, mất các mao mạch có hồng cầu.
+
+98
+00:06:10,150 --> 00:06:13,062
+Kiểu ba là co mạch hoặc tăng áp lực tĩnh mạch gây ứ trệ:
+
+99
+00:06:12,912 --> 00:06:16,860
+tăng huyết áp bằng thuốc co mạch không bảo đảm tăng dòng hồng cầu ở mao mạch.
+
+100
+00:06:17,060 --> 00:06:19,719
+Kiểu bốn là phù mô làm tăng khoảng khuếch tán oxy:
+
+101
+00:06:19,569 --> 00:06:21,877
+thêm dịch có thể làm phù nặng hơn. Tuy vậy,
+
+102
+00:06:21,727 --> 00:06:25,290
+chuẩn độ điều trị theo vi tuần hoàn vẫn chưa được chứng minh có lợi.
+
+103
+00:06:26,740 --> 00:06:31,740
+Bốn thể sốc có bốn kiểu huyết động đặc trưng. Sốc giảm thể tích có áp lực đổ đầy thấp,
+
+104
+00:06:31,590 --> 00:06:33,770
+cung lượng tim thấp và sức cản tăng.
+
+105
+00:06:33,970 --> 00:06:37,012
+Sốc tim có áp lực đổ đầy cao với cung lượng tim thấp;
+
+106
+00:06:36,862 --> 00:06:41,160
+sốc tắc nghẽn có cung lượng tim thấp với áp lực đổ đầy bình thường hoặc cao.
+
+107
+00:06:41,360 --> 00:06:43,100
+Sốc phân bố có sức cản thấp,
+
+108
+00:06:42,950 --> 00:06:47,190
+cung lượng tim bình thường hoặc cao và SvO₂ có thể bình thường hoặc cao.
+
+109
+00:06:47,390 --> 00:06:51,433
+Nhưng đây là khuôn mẫu, không phải quy luật: các cơ chế thường chồng lấp,
+
+110
+00:06:51,283 --> 00:06:53,033
+nhất là trong sốc nhiễm khuẩn,
+
+111
+00:06:52,883 --> 00:06:57,673
+và sốc phân bố có thể có cung lượng tim thấp trước khi bù dịch. Vì vậy cần siêu âm tim,
+
+112
+00:06:57,523 --> 00:06:58,740
+chủ đề của phần hai.
+
+113
+00:07:00,190 --> 00:07:04,089
+Tình huống. Người bệnh nữ 72 tuổi, tăng huyết áp mạn,
+
+114
+00:07:03,939 --> 00:07:06,919
+viêm thận bể thận. Huyết áp 112 trên 70,
+
+115
+00:07:06,769 --> 00:07:12,082
+trong khi huyết áp nền khoảng 160 trên 90. Nhịp tim 112, da gối nổi bông,
+
+116
+00:07:11,932 --> 00:07:17,600
+thời gian đổ đầy mao mạch 5 giây, nước tiểu 15 mi li lít mỗi giờ, lactate 4,5.
+
+117
+00:07:17,800 --> 00:07:19,310
+Nhận định nào đúng nhất?
+
+118
+00:07:19,510 --> 00:07:22,380
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+119
+00:07:30,980 --> 00:07:37,474
+Đáp án là B. Người bệnh đang sốc: cả ba cửa sổ tưới máu đều bất thường, lactate trên 2,
+
+120
+00:07:37,324 --> 00:07:41,631
+và theo ESICM 2025, tụt huyết áp không bắt buộc. Hơn nữa,
+
+121
+00:07:41,481 --> 00:07:48,340
+112 đã là tụt tương đối so với nền 160. Chờ huyết áp xuống dưới 90 là để mất thời gian vàng.
+
+122
+00:07:49,790 --> 00:07:54,260
+Tóm lại, thông điệp thứ nhất: sốc là giảm tưới máu mô, tụt huyết áp không bắt buộc.
+
+123
+00:07:54,460 --> 00:07:57,197
+Thứ hai: mục tiêu là cung cấp oxy đủ cho nhu cầu,
+
+124
+00:07:57,047 --> 00:07:59,890
+và trong nhiễm khuẩn ngưỡng tới hạn dịch sang phải.
+
+125
+00:08:00,090 --> 00:08:03,600
+Thứ ba: lactate có giá trị nhưng không chỉ phản ánh thiếu oxy.
+
+126
+00:08:03,800 --> 00:08:06,983
+Thứ tư: hồi lưu tĩnh mạch phụ thuộc thể tích tạo áp lực,
+
+127
+00:08:06,833 --> 00:08:09,150
+nơi cả dịch lẫn norepinephrine tác động.
+
+128
+00:08:09,350 --> 00:08:13,696
+Thứ năm: đạt đích đại tuần hoàn chưa chắc vi tuần hoàn đã được cứu. Phần tiếp theo:
+
+129
+00:08:13,546 --> 00:08:18,700
+nhận diện sốc và xếp thể sốc tại giường. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.
