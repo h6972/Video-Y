@@ -1,0 +1,783 @@
+{
+ "title": "Tiếp cận sốc – Phần 2: Nhận diện sốc và xếp thể sốc tại giường",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Tiếp cận sốc · seri Sốc (1)",
+ "part": "Tiếp cận sốc · Phần 2/6",
+ "source_short": "Nguồn: ESICM 2025 · ESICM dịch 2024–2025 · SCCM/ESICM 2026 · SSC 2026 · SCAI 2026 · thử nghiệm gốc · Oh's, Textbook of Critical Care, Guyton",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "ANDROMEDA-SHOCK-2": "an đờ rô mê đa sốc hai",
+  "ANDROMEDA-SHOCK": "an đờ rô mê đa sốc",
+  "Ibarra-Estrada": "i ba ra ét tra đa",
+  "Rodríguez-Lima": "rô đri ghét li ma",
+  "Tschoellitsch": "sô lít",
+  "SEPSIS-ACT": "sép xít ắc",
+  "µg/kg/phút": "mi crô gam mỗi ký mỗi phút",
+  "ng/kg/phút": "na nô gam mỗi ký mỗi phút",
+  "SEPSISPAM": "sép xít pam",
+  "PaO₂/FiO₂": "PaO hai trên FiO hai",
+  "mg/kg/giờ": "mi li gam mỗi ký mỗi giờ",
+  "mL/kg/giờ": "mi li lít mỗi ký mỗi giờ",
+  "De Backer": "đơ ba kê",
+  "Brokmeier": "brốc mai ơ",
+  "LeoPARDS": "lê ô pát",
+  "Malbrain": "man brên",
+  "SOAP II": "xốp hai",
+  "ProCESS": "prô xét",
+  "ProMISe": "prô mít",
+  "ATHOS-3": "a thốt ba",
+  "S(c)vO₂": "ét xê vê ô hai",
+  "Pv-aCO₂": "chênh áp CO hai tĩnh mạch động mạch",
+  "Hinshaw": "hin sô",
+  "Vincent": "vanh xăng",
+  "Legrand": "lơ gran",
+  "Goradia": "gô ra đi a",
+  "Jentzer": "giên dơ",
+  "VASSPR": "vát pờ",
+  "VANISH": "va nít",
+  "CENSER": "xen xơ",
+  "mL/giờ": "mi li lít mỗi giờ",
+  "U/phút": "đơn vị mỗi phút",
+  "mmol/L": "mi li mol mỗi lít",
+  "Guyton": "gai tơn",
+  "Rivers": "ri vơ",
+  "Monnet": "mô nê",
+  "Kotani": "cô ta ni",
+  "Lajoye": "la gioa",
+  "Miller": "mi lơ",
+  "Perera": "pê rê ra",
+  "VASST": "vát",
+  "ARISE": "a rai",
+  "ScvO₂": "ét xê vê ô hai",
+  "mL/kg": "mi li lít mỗi ký",
+  "mEq/L": "mi li đương lượng mỗi lít",
+  "ESICM": "e ét i xê em",
+  "GRADE": "grết",
+  "VExUS": "véc xớt",
+  "Yerke": "giơ kơ",
+  "Leone": "lê ô nê",
+  "CATS": "cát ét",
+  "SvO₂": "ét vê ô hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "SCCM": "ét xê xê em",
+  "SCAI": "ét cai",
+  "RUSH": "rớt",
+  "ARDS": "a rờ đê ét",
+  "G6PD": "gờ sáu pê đê",
+  "EVLW": "nước ngoài mạch phổi",
+  "PVPI": "chỉ số tính thấm mạch phổi",
+  "LVOT": "đường ra thất trái",
+  "EEOT": "nghiệm pháp ngưng cuối thì thở ra",
+  "Pmsf": "áp lực đổ đầy hệ thống trung bình",
+  "SSRI": "thuốc ức chế tái hấp thu serotonin",
+  "EGDT": "hồi sức theo mục tiêu sớm",
+  "ROSE": "rôs",
+  "PDE3": "phốt pho đi e xte ra ba",
+  "SpO₂": "SpO hai",
+  "Ince": "in xơ",
+  "VTI": "vê tê i",
+  "PLR": "nâng chân thụ động",
+  "PPV": "pê pê vê",
+  "SVV": "ét vê vê",
+  "CVP": "xê vê pê",
+  "MAP": "mắp",
+  "NEE": "liều tương đương norepinephrine",
+  "SSC": "ét ét xê",
+  "DO₂": "đê ô hai",
+  "VO₂": "vê ô hai",
+  "CO₂": "CO hai",
+  "VIP": "vi ai pi",
+  "AT1": "a tê một",
+  "ATP": "a tê pê",
+  "V1": "vê một",
+  "V2": "vê hai",
+  "α1": "an pha một",
+  "β1": "bê ta một",
+  "β2": "bê ta hai"
+ },
+ "brand": {
+  "next": "Phần 3: Theo dõi huyết động và đáp ứng dịch"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "TIẾP CẬN SỐC · PHẦN 2/6",
+   "title": "Nhận diện sốc<br>và xếp thể sốc<br>tại giường",
+   "subtitle": "Ba cửa sổ · CRT · lactate · siêu âm tim",
+   "badges": [
+    {
+     "t": "CRT > 3 giây",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Pv-aCO₂ > 6",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "RUSH",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: ESICM 2025 · ANDROMEDA-SHOCK 1, 2 · Perera 2010 · Miller 2025 · SCAI 2026",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị trở lại với phần hai của loạt bài Tiếp cận sốc trên Thư Viện Y Khoa Online.",
+    "Ở phần một, chúng ta đã thống nhất: sốc là giảm tưới máu mô, không phải tụt huyết áp. Câu hỏi tiếp theo là làm sao nhận ra giảm tưới máu, và làm sao biết đây là sốc gì.",
+    "Phần này đi từ khám lâm sàng, thời gian đổ đầy mao mạch và lactate, qua hai chỉ số khí máu ScvO₂ và Pv-aCO₂,",
+    "đến siêu âm tim tại giường, công cụ được ESICM 2025 gợi ý làm phương tiện hình ảnh đầu tay để xếp thể sốc."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Ba cửa sổ",
+   "title": "Ba cửa sổ tưới máu",
+   "ref": "Vincent & De Backer, NEJM 2013, tr. 1726 · ESICM 2025, khuyến cáo 4–5",
+   "cards": [
+    {
+     "tag": "DA",
+     "t": "Lạnh, ẩm, nổi bông",
+     "d": "Co mạch, tím · rõ nhất khi lưu lượng thấp · đo CRT",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "THẬN",
+     "t": "Nước tiểu < 0,5 mL/kg/giờ",
+     "d": "Cửa sổ chậm nhưng khách quan",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "NÃO",
+     "t": "Lơ mơ, mất định hướng",
+     "d": "Lú lẫn · kích động ở người già",
+     "c": "violet",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Vincent và De Backer mô tả ba cửa sổ để nhìn vào tưới máu. Cửa sổ da: lạnh, ẩm, co mạch, tím, nổi bông, rõ nhất ở trạng thái lưu lượng thấp.",
+    "Cửa sổ thận: nước tiểu dưới 0,5 mi li lít mỗi ký mỗi giờ.",
+    "Và cửa sổ não: lơ mơ, mất định hướng, lú lẫn. ESICM 2025 khuyến cáo đánh giá tưới máu mô nhiều lần, và theo dõi tưới máu da bằng thời gian đổ đầy mao mạch, có thể bổ sung nhiệt độ da và dấu nổi bông. Đây là phát biểu thực hành tốt với đồng thuận mạnh."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "list",
+   "chapter": "Bằng chứng",
+   "title": "Dấu hiệu nào thật sự chỉ báo sốc?",
+   "ref": "Tschoellitsch, ICM 2023, pdf 1–2 · ESICM 2025, pdf 7–8",
+   "items": [
+    {
+     "t": "Có giá trị chỉ báo",
+     "d": "Giảm tưới máu, nhiệt độ ngoại vi · CRT kéo dài · nổi bông · chỉ số sốc ≥ 0,7–0,8",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Ít bằng chứng",
+     "d": "Nhịp nhanh · thở nhanh · thiểu niệu",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Chưa có dữ liệu",
+     "d": "Tri giác · vã mồ hôi · chất lượng mạch – thiếu bằng chứng ≠ không quan trọng",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "t": "Giới hạn lớn",
+     "d": "CRT, nhiệt độ da không phản ánh tin cậy cung lượng tim thấp",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Một tổng quan hệ thống năm 2023 gồm 25 nghiên cứu với 67.894 người lớn cho thấy các dấu hiệu có giá trị chỉ báo sốc là giảm tưới máu hoặc nhiệt độ ngoại vi, CRT kéo dài, da nổi bông và chỉ số sốc từ 0,7 đến 0,8 trở lên.",
+    "Nhịp nhanh, thở nhanh và thiểu niệu có ít bằng chứng hơn.",
+    "Không có báo cáo nào về tri giác, vã mồ hôi hay chất lượng mạch. Nhưng thiếu bằng chứng không có nghĩa là không quan trọng: phần lớn các nghiên cứu định nghĩa sốc bằng tụt huyết áp, nên không đánh giá được sốc còn bù.",
+    "Và một giới hạn lớn: theo ESICM 2025, CRT và nhiệt độ da không phản ánh tin cậy cung lượng tim thấp. CRT là chỉ dấu tưới máu, không phải chỉ dấu cung lượng."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "box",
+   "chapter": "CRT",
+   "title": "Đo thời gian đổ đầy mao mạch đúng cách",
+   "ref": "ANDROMEDA-SHOCK, Hernández 2019, tr. 2",
+   "box": {
+    "tag": "QUY TRÌNH ANDROMEDA-SHOCK",
+    "t": "Ép mặt gan <b>đốt xa ngón trỏ phải</b> bằng <b>lam kính</b> trong <b>10 giây</b>, thả ra, đếm thời gian hồng trở lại. <b>Trên 3 giây là bất thường.</b>",
+    "at": 0,
+    "c": "teal",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "TẦN SUẤT",
+     "t": "Mỗi 30 phút tới khi bình thường, sau đó mỗi giờ",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "ĐIỂM MẠNH",
+     "t": "Thay đổi nhanh theo hồi sức · không cần máy",
+     "at": 2,
+     "c": "green"
+    },
+    {
+     "tag": "GIỚI HẠN",
+     "t": "Nhiệt độ phòng, ánh sáng, lực ép · không đo cung lượng tim",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "CRT chỉ có giá trị khi đo chuẩn. Trong ANDROMEDA-SHOCK, CRT được đo bằng cách ép mặt gan đốt xa ngón trỏ phải bằng một lam kính trong 10 giây; trên 3 giây là bất thường.",
+    "CRT được đo lại mỗi 30 phút cho đến khi bình thường, sau đó mỗi giờ.",
+    "Ưu điểm của CRT là thay đổi nhanh theo hồi sức và không cần máy móc.",
+    "Giới hạn là chịu ảnh hưởng của nhiệt độ, ánh sáng và lực ép, và như đã nói, không phản ánh cung lượng tim."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "box",
+   "chapter": "Lactate",
+   "title": "Lactate: dùng để theo dõi, không để đuổi theo",
+   "ref": "ESICM 2025, khuyến cáo 3; phần biện luận, pdf 7–9 · Vincent 2016, tr. 2–3 · Vincent & De Backer 2013, tr. 1732",
+   "box": {
+    "tag": "ESICM 2025 · PHẦN BIỆN LUẬN",
+    "t": "Không nên lấy việc <b>bình thường hoá lactate</b> làm đích: lactate thay đổi chậm, trở về bình thường là <b>hệ quả</b> của một điều trị đủ.",
+    "at": 0,
+    "c": "coral",
+    "size": 34
+   },
+   "notes": [
+    {
+     "tag": "ĐỘNG HỌC",
+     "t": "96 nghiên cứu: xu hướng theo thời gian tốt hơn một giá trị đơn lẻ",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "THUẬT NGỮ",
+     "t": "“Độ thanh thải lactate” không chính xác: phản ánh cả sản xuất và thải trừ",
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "tag": "QUAN SÁT",
+     "t": "Hồi sức tiếp để hạ lactate khi tưới máu ngoại vi đã bình thường → tử vong cao hơn",
+     "at": 2,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Lactate là xét nghiệm dùng nhiều nhất, và cũng dễ dùng sai nhất. Trong phần biện luận, ESICM 2025 nhận định không nên lấy việc bình thường hoá lactate làm đích: lactate thay đổi chậm, và trở về bình thường là hệ quả của điều trị đủ.",
+    "Tổng quan 96 nghiên cứu của Vincent cho thấy động học lactate theo thời gian có giá trị hơn một con số đơn lẻ, và nhắc rằng thuật ngữ độ thanh thải lactate là không chính xác, vì thay đổi nồng độ phản ánh cả sản xuất lẫn thải trừ.",
+    "Dữ liệu quan sát còn cho thấy tiếp tục hồi sức chỉ để kéo lactate xuống, khi tưới máu ngoại vi đã bình thường, liên quan với tử vong cao hơn. Lactate cao kéo dài là lời nhắc đi tìm nguyên nhân, không phải chỉ định truyền thêm dịch."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "bars",
+   "chapter": "ANDROMEDA-SHOCK",
+   "title": "CRT hay lactate để dẫn đường hồi sức?",
+   "ref": "Hernández, JAMA 2019, tr. 1 · Hernández, JAMA 2025, tr. 1",
+   "groups": [
+    {
+     "t": "ANDROMEDA-SHOCK",
+     "d": "424 người · tử vong ngày 28",
+     "at": 0,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "CRT",
+       "v": 34.9,
+       "lab": "34,9%"
+      },
+      {
+       "k": "Lactate",
+       "v": 43.4,
+       "lab": "43,4%"
+      }
+     ]
+    },
+    {
+     "t": "ANDROMEDA-SHOCK-2",
+     "d": "1.467 người · thắng ở thành phần tử vong",
+     "at": 2,
+     "c": "blue",
+     "bars": [
+      {
+       "k": "CRT cá thể hoá",
+       "v": 19.1,
+       "lab": "19,1%"
+      },
+      {
+       "k": "Thường quy",
+       "v": 17.8,
+       "lab": "17,8%"
+      }
+     ]
+    }
+   ],
+   "max": 50,
+   "notes": [
+    {
+     "tag": "ANDROMEDA-SHOCK",
+     "t": "HR 0,75 (0,55–1,02) · P = 0,06 · ít suy cơ quan ở giờ 72",
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "tag": "ANDROMEDA-SHOCK-2",
+     "t": "Win ratio 1,16 (1,02–1,33) · P = 0,04 · tử vong 28 ngày không giảm",
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "tag": "ĐỌC ĐÚNG",
+     "t": "Hồi sức theo tưới máu ngoại vi an toàn, có lợi tổng hợp, chưa chứng minh giảm tử vong",
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hai thử nghiệm ANDROMEDA-SHOCK trả lời trực tiếp câu hỏi CRT hay lactate. Thử nghiệm đầu ngẫu nhiên hoá 424 người bệnh sốc nhiễm khuẩn sớm, so sánh hồi sức 8 giờ theo CRT với theo lactate.",
+    "Tử vong ngày 28 là 34,9% ở nhóm CRT so với 43,4% ở nhóm lactate, tỷ số nguy cơ 0,75, P bằng 0,06, kèm ít rối loạn chức năng cơ quan hơn ở giờ 72. Kết cục chính không đạt ý nghĩa thống kê, nhưng tín hiệu nghiêng về CRT.",
+    "ANDROMEDA-SHOCK-2 ngẫu nhiên hoá 1.501 người, phân tích 1.467, vào hồi sức cá thể hoá theo CRT. Với kết cục thứ bậc tổng hợp, tỷ số thắng là 1,16, P bằng 0,04; riêng thành phần tử vong chỉ 19,1% so với 17,8%, và tử vong ngày 28 không giảm.",
+    "Tóm lại: hồi sức theo tưới máu ngoại vi an toàn và có lợi trên kết cục tổng hợp, nhưng chưa chứng minh giảm tử vong."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "compare",
+   "chapter": "ScvO₂ và Pv-aCO₂",
+   "title": "Đọc ScvO₂ và Pv-aCO₂ theo cặp",
+   "ref": "ESICM 2025, khuyến cáo 6–8, pdf 8–9 · Textbook of Critical Care 8e, tr. 657 · khung đọc: nhận định của người soạn",
+   "head": [
+    "ScvO₂",
+    "Pv-aCO₂",
+    "Gợi ý"
+   ],
+   "widths": "1fr 1fr 1.8fr",
+   "rows": [
+    {
+     "cells": [
+      "Thấp",
+      "> 6 mmHg",
+      "Lưu lượng thấp: cân nhắc dịch, tăng co bóp"
+     ],
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Bình thường hoặc cao",
+      "> 6 mmHg",
+      "Lưu lượng vẫn chưa đủ dù oxy tĩnh mạch “đẹp”"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Cao",
+      "Bình thường, lactate cao",
+      "Rối loạn sử dụng oxy, hoặc lactate do nguyên nhân khác"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Khi đã có catheter tĩnh mạch trung tâm, ESICM 2025 khuyến cáo đo ScvO₂ nhiều lần; có thêm catheter động mạch thì đo Pv-aCO₂ nhiều lần. ScvO₂ thường cao hơn SvO₂ khoảng 5% ở người bệnh nặng, và cả ScvO₂ thấp lẫn cao đều có thể đi kèm tiên lượng xấu.",
+    "Pv-aCO₂ trên 6 mi li mét thuỷ ngân gợi ý lưu lượng không đủ. Khi đọc theo cặp, ScvO₂ thấp kèm Pv-aCO₂ cao gợi lưu lượng thấp.",
+    "ScvO₂ bình thường hoặc cao mà Pv-aCO₂ vẫn cao gợi lưu lượng vẫn chưa đủ, dù oxy tĩnh mạch trông đẹp.",
+    "Còn ScvO₂ cao, Pv-aCO₂ bình thường nhưng lactate cao gợi rối loạn sử dụng oxy hoặc một nguyên nhân tăng lactate không do thiếu tưới máu. Đây là khung tư duy của người soạn; hướng dẫn không đưa ngưỡng cho tỷ số Pv-aCO₂ trên Ca-vO₂."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Siêu âm tim",
+   "title": "Siêu âm tim: công cụ hình ảnh đầu tay",
+   "ref": "ESICM 2025, khuyến cáo 34–35, 48–50, pdf 28–32",
+   "tiles": [
+    {
+     "tag": "THAY ĐỔI XỬ TRÍ",
+     "v": 68.5,
+     "dec": 1,
+     "suf": "%",
+     "l": "siêu âm qua thực quản",
+     "d": "hơn 2.500 lần siêu âm",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "tag": "THAY ĐỔI XỬ TRÍ",
+     "v": 38,
+     "suf": "%",
+     "l": "hồi sức nội khoa",
+     "d": "152 người bệnh",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "TẮC NGHẼN ĐỘNG",
+     "v": 22,
+     "suf": "%",
+     "l": "đường ra thất trái",
+     "d": "sốc nhiễm khuẩn · liên quan tử vong",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "tag": "SUY THẤT PHẢI",
+     "v": 42,
+     "suf": "%",
+     "l": "thở máy, sốc nhiễm khuẩn",
+     "d": "282 người · ít đáp ứng dịch",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "KC 34: gợi ý siêu âm tim là công cụ hình ảnh đầu tay · khuyến cáo yếu, chắc chắn thấp, đồng thuận mạnh",
+    "at": 0,
+    "c": "teal"
+   },
+   "lines": [
+    "ESICM 2025 gợi ý dùng siêu âm tim làm công cụ hình ảnh đầu tay để xác định thể sốc và tình trạng huyết động. Đây là khuyến cáo yếu, chắc chắn thấp, nhưng đồng thuận mạnh; hướng dẫn cũng khuyên làm siêu âm nhiều lần, kể cả khi đã đo cung lượng tim.",
+    "Bằng chứng mạnh nhất là tác động lên quyết định: siêu âm làm thay đổi xử trí ở 68,5% trong hơn 2.500 lần siêu âm qua thực quản, và ở 38% trong 152 người bệnh hồi sức nội khoa.",
+    "Siêu âm còn phát hiện những điều không thể đoán: tắc nghẽn động đường ra thất trái gặp ở 22% người bệnh sốc nhiễm khuẩn, và suy thất phải ở 42% người bệnh sốc nhiễm khuẩn thở máy, nhóm này ít đáp ứng dịch."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "compare",
+   "chapter": "RUSH",
+   "title": "Phác đồ RUSH: bơm – bể chứa – ống dẫn",
+   "ref": "Vẽ lại theo Perera 2010, Bảng 1, tr. 31",
+   "head": [
+    "Bước",
+    "Giảm thể tích",
+    "Tim",
+    "Tắc nghẽn",
+    "Phân bố"
+   ],
+   "widths": "0.8fr 1.2fr 1.2fr 1.4fr 1.2fr",
+   "rows": [
+    {
+     "cells": [
+      "Bơm",
+      "Tăng co bóp, buồng nhỏ",
+      "Giảm co bóp, giãn",
+      "Dịch màng tim, thất phải căng",
+      "Tăng động (sớm)"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Bể chứa",
+      "Tĩnh mạch chủ dưới xẹp",
+      "Tĩnh mạch chủ giãn, nhiều đường B",
+      "Tĩnh mạch chủ giãn, mất trượt màng phổi",
+      "Tĩnh mạch chủ nhỏ (sớm), dịch gợi ổ nhiễm"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Ống dẫn",
+      "Phình, bóc tách động mạch chủ",
+      "Bình thường",
+      "Huyết khối tĩnh mạch sâu",
+      "Bình thường"
+     ],
+     "at": 2,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Để biến siêu âm thành quy trình, phác đồ RUSH chia làm ba bước. Bước bơm: tim tăng co bóp với buồng nhỏ gợi giảm thể tích; giảm co bóp, giãn gợi sốc tim; dịch màng ngoài tim hay thất phải căng gợi tắc nghẽn.",
+    "Bước bể chứa: tĩnh mạch chủ dưới xẹp gợi giảm thể tích; tĩnh mạch chủ giãn kèm nhiều đường B gợi sốc tim; mất dấu trượt màng phổi gợi tràn khí áp lực.",
+    "Bước ống dẫn: tìm phình hoặc bóc tách động mạch chủ và huyết khối tĩnh mạch sâu. Đây là kiểu hình gợi ý, không đặc hiệu tuyệt đối. Tỷ lệ thất trái so với thất phải bình thường khoảng 1 so với 0,6; thất phải bằng hoặc lớn hơn thất trái gợi tăng tải cấp."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "flow",
+   "chapter": "LVOT VTI",
+   "title": "LVOT VTI và nâng chân: khung xếp thể sốc",
+   "ref": "Miller 2025, tr. 12–13 · khung của tác giả, tổng hợp, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Đo LVOT VTI",
+     "d": "SV ≈ VTI × 3,14 (LVOT 2 cm)",
+     "x": 888,
+     "y": 210,
+     "w": 420,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "VTI < 14 cm",
+     "d": "thể tích nhát bóp thấp",
+     "x": 380,
+     "y": 400,
+     "w": 340,
+     "h": 110,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "14–22 cm",
+     "d": "vùng chưa chắc chắn",
+     "x": 888,
+     "y": 400,
+     "w": 300,
+     "h": 110,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "d",
+     "t": "VTI > 22 cm",
+     "d": "bình thường hoặc cao",
+     "x": 1400,
+     "y": 400,
+     "w": 340,
+     "h": 110,
+     "c": "green",
+     "at": 1
+    },
+    {
+     "id": "e",
+     "t": "PLR: đáp ứng kéo dài",
+     "d": "→ giảm thể tích",
+     "x": 230,
+     "y": 600,
+     "w": 320,
+     "h": 100,
+     "c": "blue",
+     "at": 2
+    },
+    {
+     "id": "f",
+     "t": "PLR: không đáp ứng",
+     "d": "→ tim hoặc tắc nghẽn",
+     "x": 620,
+     "y": 600,
+     "w": 340,
+     "h": 100,
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "id": "g",
+     "t": "PLR: đáp ứng thoáng qua",
+     "d": "→ thường là phân bố",
+     "x": 1400,
+     "y": 600,
+     "w": 380,
+     "h": 100,
+     "c": "green",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "c",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "d",
+     "at": 1
+    },
+    {
+     "a": "b",
+     "b": "e",
+     "at": 2
+    },
+    {
+     "a": "b",
+     "b": "f",
+     "at": 2
+    },
+    {
+     "a": "d",
+     "b": "g",
+     "at": 3
+    }
+   ],
+   "note": {
+    "t": "VTI bình thường dù EF giảm không mặc nhiên cần thuốc tăng co bóp",
+    "at": 4,
+    "c": "amber",
+    "y": 70
+   },
+   "lines": [
+    "LVOT VTI là thông số định lượng hữu ích nhất cho người mới tập siêu âm. Nếu giả định đường kính đường ra thất trái 2 cm, thể tích nhát bóp xấp xỉ VTI nhân 3,14.",
+    "Theo Miller và cộng sự, VTI dưới 14 cm gợi thể tích nhát bóp thấp, trên 22 cm gợi bình thường hoặc cao, còn 14 đến 22 là vùng chưa chắc chắn.",
+    "Kết hợp với nâng chân thụ động: VTI thấp mà đáp ứng kéo dài gợi giảm thể tích; VTI thấp mà không đáp ứng gợi sốc tim hoặc tắc nghẽn.",
+    "VTI bình thường hoặc cao với đáp ứng thoáng qua thường là sốc phân bố.",
+    "Và một lưu ý: VTI bình thường dù phân suất tống máu giảm không mặc nhiên đòi hỏi thuốc tăng co bóp. Đây là khung tư duy, không phải dấu hiệu tuyệt đối."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "list",
+   "chapter": "Phân tầng",
+   "title": "Phân độ SCAI 2026: tách bất ổn huyết động khỏi giảm tưới máu",
+   "ref": "SCAI 2026, Bảng 1–2, tr. 5–6, tr. 8",
+   "dense": true,
+   "items": [
+    {
+     "t": "A · Có nguy cơ",
+     "d": "Chưa có dấu sốc · lactate bình thường",
+     "c": "green",
+     "at": 0,
+     "n": "A"
+    },
+    {
+     "t": "B · Bắt đầu",
+     "d": "Bất ổn huyết động (tụt áp tương đối, nhịp nhanh) <b>chưa giảm tưới máu</b>",
+     "c": "blue",
+     "at": 1,
+     "n": "B"
+    },
+    {
+     "t": "C · Điển hình",
+     "d": "Giảm tưới máu cần thuốc hoặc hỗ trợ cơ học · lactate ≥ 2 · <b>tụt áp không bắt buộc</b>",
+     "c": "amber",
+     "at": 1,
+     "n": "C"
+    },
+    {
+     "t": "D · Xấu đi",
+     "d": "Chiến lược ban đầu thất bại · tăng liều, thêm thuốc hoặc hỗ trợ cơ học",
+     "c": "coral",
+     "at": 2,
+     "n": "D"
+    },
+    {
+     "t": "E · Nguy kịch",
+     "d": "Lactate ≥ 8 · pH ≤ 7,2 · thiếu hụt kiềm > 10 · cần bolus vận mạch",
+     "c": "violet",
+     "at": 2,
+     "n": "E"
+    }
+   ],
+   "lines": [
+    "Phân độ SCAI 2026 được xây dựng cho sốc tim, nhưng cách nó tách mức độ nặng là bài học chung. Giai đoạn A là có nguy cơ, chưa có dấu sốc.",
+    "Giai đoạn B là bất ổn huyết động nhưng chưa giảm tưới máu; giai đoạn C là giảm tưới máu cần can thiệp ngoài bù dịch, lactate từ 2, và tụt áp không bắt buộc. Cùng tinh thần với định nghĩa ESICM 2025.",
+    "Giai đoạn D là chiến lược ban đầu thất bại; giai đoạn E là truỵ tuần hoàn, lactate từ 8, pH từ 7,2 trở xuống. Người bệnh có thể chuyển qua lại giữa các giai đoạn, và đánh giá lại sau 2 đến 3 giờ được đề xuất. Chi tiết ở chuyên đề sốc tim."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: siêu âm nói gì?",
+   "ref": "Ca minh hoạ · Perera 2010 · Miller 2025",
+   "case": "Nam 64 tuổi, khó thở đột ngột sau mổ khớp háng 5 ngày. HA 84/56, nhịp tim 124, SpO₂ 86%, tĩnh mạch cổ nổi. Siêu âm: thất phải lớn hơn thất trái, vách liên thất lệch trái, tĩnh mạch chủ dưới 2,4 cm không xẹp, LVOT VTI 10 cm, phổi trượt hai bên, ít đường B.",
+   "case_at": 0,
+   "q": "Thể sốc nào phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Sốc giảm thể tích",
+    "Sốc tắc nghẽn – nghĩ thuyên tắc phổi",
+    "Sốc tim do thất trái",
+    "Sốc phân bố do nhiễm khuẩn vết mổ"
+   ],
+   "answer": 1,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Thất phải ≥ thất trái, vách lệch trái = tăng tải thất phải cấp · tĩnh mạch chủ giãn · VTI thấp · không đường B, phổi trượt → tắc nghẽn; bước RUSH tiếp: tìm huyết khối tĩnh mạch sâu",
+   "lines": [
+    "Tình huống. Nam 64 tuổi, khó thở đột ngột ngày thứ năm sau mổ khớp háng. Huyết áp 84 trên 56, nhịp tim 124, SpO₂ 86%, tĩnh mạch cổ nổi. Siêu âm: thất phải lớn hơn thất trái, vách liên thất lệch trái, tĩnh mạch chủ dưới 2,4 cm không xẹp, VTI 10 cm, phổi trượt hai bên, ít đường B.",
+    "Thể sốc nào phù hợp nhất?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là B, sốc tắc nghẽn, nghĩ đến thuyên tắc phổi. Thất phải lớn hơn thất trái và vách lệch trái là tăng tải thất phải cấp; tĩnh mạch chủ giãn, VTI thấp; phổi trượt và không có đường B loại trừ tràn khí và phù phổi. Bước tiếp theo của RUSH là tìm huyết khối tĩnh mạch sâu."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Năm thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Ba cửa sổ và CRT là công cụ đầu tiên",
+     "d": "Đo chuẩn: lam kính, 10 giây, > 3 giây là bất thường",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Lactate để theo dõi, không để đuổi theo",
+     "d": "Bình thường hoá là hệ quả, không phải đích",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Pv-aCO₂ > 6 mmHg: lưu lượng chưa đủ",
+     "d": "Đọc cùng ScvO₂",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Siêu âm tim xếp thể sốc",
+     "d": "RUSH: bơm – bể chứa – ống dẫn · LVOT VTI",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Bất ổn huyết động ≠ giảm tưới máu",
+     "d": "SCAI 2026: B và C",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Tóm lại, thứ nhất: ba cửa sổ và thời gian đổ đầy mao mạch là công cụ đầu tiên, và phải đo chuẩn.",
+    "Thứ hai: lactate dùng để theo dõi, không để đuổi theo.",
+    "Thứ ba: Pv-aCO₂ trên 6 gợi lưu lượng chưa đủ, đọc cùng ScvO₂.",
+    "Thứ tư: siêu âm tim, theo phác đồ RUSH và LVOT VTI, là cách nhanh nhất để xếp thể sốc.",
+    "Thứ năm: bất ổn huyết động không đồng nghĩa với giảm tưới máu. Phần tiếp theo: theo dõi huyết động và đáp ứng dịch. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s13"
+  }
+ ]
+}
