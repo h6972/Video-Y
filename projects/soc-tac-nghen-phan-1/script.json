@@ -1,0 +1,852 @@
+{
+ "title": "Sốc tắc nghẽn – Phần 1: Sinh lý bệnh và nhận diện tại giường",
+ "theme": "sinh-ly",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Sốc tắc nghẽn · seri Sốc (5)",
+ "part": "Sốc tắc nghẽn · Phần 1/4",
+ "source_short": "Nguồn: AHA/ACC 2026 · ESC/ERS 2019 · ESC 2025 · HFA/ESC 2016 · ERC 2021 · BTS 2023 · WSACS 2013 · PEITHO, HI-PEITHO, STORM-PE, PEERLESS · tổng quan Spodick, Zotzmann, Leigh-Smith, Roberts",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "Leigh-Smith": "li xmít",
+  "Mayo Clinic": "mây ô cờ li ních",
+  "SEATTLE II": "xi a tồ hai",
+  "µg/kg/phút": "mi crô gam mỗi ký mỗi phút",
+  "Chatterjee": "chát tơ ri",
+  "Impella RP": "im pe la rờ pê",
+  "HI-PEITHO": "hai pây thô",
+  "McConnell": "mắc cô nồ",
+  "PEITHO-3": "pây thô ba",
+  "STORM-PE": "xtom pê e",
+  "PEERLESS": "pia lét",
+  "Zotzmann": "dốt man",
+  "AHA/ACC": "a hát a, a xê xê",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "ESC/ERS": "e ét xê",
+  "Spodick": "xpô đích",
+  "Harjola": "hác giô la",
+  "PEITHO": "pây thô",
+  "MOPETT": "mô pét",
+  "ULTIMA": "un ti ma",
+  "mmol/L": "mi li mol mỗi lít",
+  "Ristić": "ri xtích",
+  "Hestia": "hét ti a",
+  "type A": "típ A",
+  "FLARE": "phle",
+  "FLASH": "phlát",
+  "sPESI": "ét pê si",
+  "ESICM": "e ét i xê em",
+  "WSACS": "hội hội chứng khoang bụng thế giới",
+  "TAPSE": "táp xi",
+  "GUSTO": "gút tô",
+  "IU/kg": "đơn vị mỗi ký",
+  "mL/kg": "mi li lít mỗi ký",
+  "cmH₂O": "xăng ti mét nước",
+  "mg/kg": "mi li gam mỗi ký",
+  "Tsang": "xang",
+  "Marti": "mác ti",
+  "Kmiec": "cờ miếc",
+  "NEWS2": "niu hai",
+  "RIETE": "ri ê tê",
+  "ECMO": "ếch mô",
+  "PESI": "pê si",
+  "RUSH": "rớt",
+  "PERT": "pớt",
+  "ISTH": "i ét tê hát",
+  "SCAI": "ét cai",
+  "SpO₂": "SpO hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Laan": "lan",
+  "Bova": "bô va",
+  "PEEP": "píp",
+  "aPTT": "a pê tê tê",
+  "14 G": "mười bốn gờ",
+  "SaO₂": "SaO hai",
+  "ESC": "e ét xê",
+  "ERC": "e rờ xê",
+  "BTS": "bê tê ét",
+  "VTI": "vê tê i",
+  "CO₂": "CO hai",
+  "ICU": "hồi sức"
+ },
+ "brand": {
+  "next": "Phần 2: Thuyên tắc phổi nguy cơ cao: phân tầng và hồi sức thất phải"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "SỐC TẮC NGHẼN · PHẦN 1/4",
+   "title": "Sinh lý bệnh<br>và nhận diện tại giường",
+   "subtitle": "Thất phải · áp lực màng ngoài tim · áp lực màng phổi · siêu âm",
+   "badges": [
+    {
+     "t": "Gỡ chỗ tắc, không chỉ truyền dịch",
+     "c": "teal",
+     "at": 1
+    },
+    {
+     "t": "Thất phải dễ vỡ",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Siêu âm quyết định",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: Zotzmann 2022 · HFA/ESC 2016 · Spodick 2003 · Leigh-Smith 2005 · Roberts 2015 · ESC 2019 · ESC 2025 · ERC 2021",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với loạt bài Sốc tắc nghẽn, phần năm của seri Sốc trên Thư Viện Y Khoa Online.",
+    "Sốc tắc nghẽn là nhóm ít gặp nhất trong bốn nhóm sốc, nhưng là nhóm mà một quyết định đúng lúc có thể đảo ngược tình thế nhanh nhất: dẫn lưu màng ngoài tim, giải áp màng phổi, hay khai thông động mạch phổi.",
+    "Phần một trả lời hai câu hỏi: vì sao tuần hoàn sụp đổ khi bị tắc ở ngoài cơ tim, và làm sao nhận ra chỗ tắc trong vài phút đầu tại giường.",
+    "Chúng ta sẽ đi qua thất phải trước tăng hậu tải cấp, áp lực xuyên thành trong chèn ép tim, áp lực màng phổi trong tràn khí áp lực, rồi tới siêu âm và các bẫy chẩn đoán."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Định nghĩa",
+   "title": "Hai cơ chế của sốc tắc nghẽn",
+   "ref": "Zotzmann, Rev Cardiovasc Med 2022, tr. 1–2",
+   "cards": [
+    {
+     "tag": "CẢN ĐỔ ĐẦY",
+     "t": "Giảm tiền tải, giảm hồi lưu tĩnh mạch",
+     "d": "Chèn ép tim · tràn khí màng phổi áp lực · chèn tĩnh mạch chủ · thông khí áp lực cao",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "TĂNG HẬU TẢI THẤT PHẢI",
+     "t": "Thất phải không đẩy được máu qua phổi",
+     "d": "Thuyên tắc phổi · khối choán chỗ trung thất → thất trái thiếu máu để đổ đầy",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "HỆ QUẢ",
+     "t": "Dịch và vận mạch chỉ là cầu nối",
+     "d": "Thường không ổn định được nếu chưa gỡ nguyên nhân",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Zotzmann và cộng sự tóm tắt hai cơ chế lớn. Cơ chế thứ nhất là cản trở đổ đầy tâm trương, làm giảm tiền tải, tức giảm hồi lưu tĩnh mạch: chèn ép tim, tràn khí màng phổi áp lực, chèn ép tĩnh mạch chủ, thông khí áp lực cao.",
+    "Cơ chế thứ hai là tăng hậu tải thất phải, như trong thuyên tắc phổi hoặc khối choán chỗ trung thất: thất phải không đẩy được máu qua giường mạch phổi, nên thất trái thiếu máu để đổ đầy.",
+    "Hệ quả lâm sàng quan trọng nhất là thứ tự ưu tiên. Sốc tắc nghẽn thường không thể ổn định được nếu nguyên nhân chưa được giải quyết; dịch và thuốc vận mạch chỉ là cầu nối. Mọi phút chỉ dành cho hồi sức là một phút trì hoãn biện pháp duy nhất có khả năng cứu sống."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "timeline",
+   "chapter": "Lịch sử",
+   "title": "Các mốc thay đổi thực hành",
+   "ref": "Tsang 2002 · Leigh-Smith 2005 · Jaff 2011 · Meyer 2014 · ESC 2019 · ESC 2025 · AHA/ACC 2026 · Rosenfield 2026",
+   "events": [
+    {
+     "year": "1979–2000",
+     "t": "Mayo Clinic",
+     "d": "1127 lần chọc màng ngoài tim dưới siêu âm",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "year": "2005",
+     "t": "Leigh-Smith",
+     "d": "Tràn khí áp lực: tự thở khác thở máy",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "year": "2011",
+     "t": "AHA",
+     "d": "Massive · submassive · nguy cơ thấp",
+     "c": "violet",
+     "at": 2
+    },
+    {
+     "year": "2014",
+     "t": "PEITHO",
+     "d": "Tiêu sợi huyết thường quy bị đặt dấu hỏi",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "year": "2019",
+     "t": "ESC/ERS",
+     "d": "Nguy cơ cao: ngừng tim, sốc, tụt áp kéo dài",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "year": "2025–26",
+     "t": "ESC 2025 · AHA/ACC",
+     "d": "Điểm chèn ép tim · nhóm A–E · HI-PEITHO",
+     "c": "green",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Mỗi nguyên nhân có một lịch sử riêng. Với chèn ép tim, bước ngoặt là kỹ thuật: tại Mayo Clinic, 1127 lần chọc màng ngoài tim dưới hướng dẫn siêu âm trong hai thập kỷ đã đưa thủ thuật từ chọc mù sang có hình ảnh, và dẫn lưu kéo dài thành chuẩn.",
+    "Với tràn khí màng phổi áp lực, năm 2005 Leigh-Smith và Harris chỉ ra rằng không nên dạy bệnh này như một thực thể duy nhất: người tỉnh tự thở và người thở máy diễn tiến khác hẳn nhau.",
+    "Với thuyên tắc phổi, năm 2011 AHA chia ba nhóm massive, submassive và nguy cơ thấp; năm 2014, thử nghiệm PEITHO đặt dấu hỏi lớn cho tiêu sợi huyết thường quy ở nhóm trung gian.",
+    "ESC 2019 định nghĩa nguy cơ cao bằng ngừng tim, sốc tắc nghẽn hoặc tụt huyết áp kéo dài.",
+    "Và giai đoạn 2025 đến 2026: ESC 2025 đưa thang điểm phân loại chèn ép tim vào hướng dẫn, AHA/ACC 2026 thay massive và submassive bằng năm nhóm A đến E, và HI-PEITHO là thử nghiệm đầu tiên của điều trị qua catheter có kết cục lâm sàng."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "cycle",
+   "chapter": "Thất phải",
+   "title": "Vòng xoắn đi xuống của thất phải",
+   "ref": "Vẽ lại theo HFA/ESC 2016, Hình 1–2 · Sorathia 2025, tr. 302 · McGuire 2024, Hình 1 · tổng hợp, không phải hình gốc",
+   "cx": 520,
+   "cy": 350,
+   "r": 270,
+   "center": "",
+   "center_at": 0,
+   "nodes": [
+    {
+     "t": "Thất phải giãn",
+     "d": "Thích nghi Anrep rồi Starling, sau đó thất bại",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Vách lệch trái",
+     "d": "Thất trái đổ đầy kém · giảm thể tích nhát bóp",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Tụt huyết áp",
+     "d": "Giảm cung lượng hệ thống",
+     "c": "violet",
+     "at": 3
+    },
+    {
+     "t": "Thiếu máu thất phải",
+     "d": "Thành căng · giảm tưới máu vành phải",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Co bóp giảm thêm",
+     "d": "Hở ba lá · sung huyết · sốc, ngừng tim",
+     "c": "teal",
+     "at": 4
+    }
+   ],
+   "side": [
+    {
+     "tag": "KHỞI ĐẦU",
+     "t": "Thuyên tắc phổi gây tăng hậu tải thất phải cấp",
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "tag": "40%",
+     "t": "Lực co thất phải có nguồn gốc từ co bóp thất trái",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "42,1%",
+     "t": "Tử vong nội viện thuyên tắc phổi nguy cơ cao có trụy huyết động (sổ bộ)",
+     "at": 4,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Thất phải là buồng thành mỏng, bơm vào hệ mạch áp lực thấp, và không thích nghi tốt với tăng áp lực động mạch phổi đột ngột. Đó là điểm khởi đầu của thuyên tắc phổi nặng.",
+    "Trước tăng hậu tải, thất phải tăng co bóp, rồi giãn buồng; khi các cơ chế này thất bại, cung lượng giảm. Thất phải giãn chiếm chỗ của thất trái, vì hai thất nằm chung túi màng ngoài tim và chung vách liên thất. Đến 40% lực co của thất phải vốn có nguồn gốc từ co bóp thất trái.",
+    "Vách lệch sang trái, thất trái đổ đầy kém, thể tích nhát bóp giảm, huyết áp tụt.",
+    "Đồng thời, áp lực và sức căng thành thất phải tăng làm giảm tưới máu động mạch vành phải, gây thiếu máu thất phải, kể cả khi không có bệnh mạch vành nền.",
+    "Thất phải co bóp kém hơn, vòng van ba lá giãn gây hở ba lá và sung huyết; vòng xoắn đi xuống tới sốc và ngừng tim. Trong một sổ bộ lớn, tử vong nội viện ở thuyên tắc phổi nguy cơ cao có trụy huyết động lên tới 42,1%."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "list",
+   "chapter": "Hệ quả",
+   "title": "Ba hệ quả điều trị từ sinh lý thất phải",
+   "ref": "ESC/ERS 2019, mục 6.1, tr. 22–23 · AHA/ACC 2026, mục 4.2.2–4.2.3 · HFA/ESC 2016",
+   "items": [
+    {
+     "t": "Huyết áp là tưới máu vành phải",
+     "d": "Tụt huyết áp tự làm thất phải suy thêm → norepinephrine giữ vai trò trung tâm",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Dịch nhiều không giúp, còn hại",
+     "d": "Thất phải căng thêm · vách lệch hơn · thất trái đổ đầy kém hơn",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "An thần sâu, thở máy có thể làm sụp đổ tuần hoàn",
+     "d": "Mất trương lực giao cảm · áp lực dương giảm hồi lưu tĩnh mạch",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Từ vòng xoắn này suy ra ba hệ quả điều trị rất cụ thể. Thứ nhất, huyết áp hệ thống là áp lực tưới máu cho thành thất phải đang thiếu máu; nâng huyết áp bằng norepinephrine giúp phá vòng xoắn.",
+    "Thứ hai, truyền dịch nhiều không làm tăng cung lượng, mà làm thất phải căng thêm, đẩy vách liên thất lệch hơn và làm thất trái đổ đầy kém hơn.",
+    "Thứ ba, an thần sâu và thở máy áp lực dương làm mất trương lực giao cảm và giảm hồi lưu tĩnh mạch, có thể làm sụp đổ một tuần hoàn đang sống nhờ cơ chế bù trừ. Phần hai sẽ đi sâu từng điểm."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "curve",
+   "chapter": "Chèn ép tim",
+   "title": "Áp lực màng ngoài tim và hiện tượng giọt cuối",
+   "ref": "Vẽ lại theo Spodick, NEJM 2003, Hình 1, tr. 684 · ESC 2025 · minh hoạ định tính",
+   "xl": "Thể tích dịch màng ngoài tim",
+   "yl": "Áp lực màng ngoài tim",
+   "curves": [
+    {
+     "pts": [
+      [
+       0,
+       4
+      ],
+      [
+       20,
+       8
+      ],
+      [
+       35,
+       16
+      ],
+      [
+       45,
+       34
+      ],
+      [
+       52,
+       62
+      ],
+      [
+       57,
+       92
+      ]
+     ],
+     "c": "coral",
+     "label": "Tích tụ nhanh",
+     "at": 1
+    },
+    {
+     "pts": [
+      [
+       0,
+       4
+      ],
+      [
+       30,
+       6
+      ],
+      [
+       55,
+       12
+      ],
+      [
+       72,
+       24
+      ],
+      [
+       84,
+       50
+      ],
+      [
+       92,
+       88
+      ]
+     ],
+     "c": "teal",
+     "label": "Tích tụ chậm",
+     "at": 2,
+     "dash": true
+    }
+   ],
+   "points": [
+    {
+     "x": 52,
+     "y": 62,
+     "t": "Thêm ít → chèn ép nguy kịch",
+     "c": "coral",
+     "at": 3,
+     "dx": -330,
+     "dy": -60
+    },
+    {
+     "x": 84,
+     "y": 50,
+     "t": "Có thể ≥ 2 lít",
+     "c": "teal",
+     "at": 2,
+     "dx": 40,
+     "dy": 40
+    }
+   ],
+   "notes": [
+    {
+     "tag": "ÁP LỰC XUYÊN THÀNH",
+     "t": "Áp lực đổ đầy thật = trong buồng − màng ngoài tim",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "GIỌT CUỐI",
+     "t": "Phần rút ra đầu tiên khi dẫn lưu giải ép nhiều nhất",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "DỊCH TRUYỀN",
+     "t": "Chỉ giúp khi giảm thể tích",
+     "at": 4,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Chèn ép tim là hội chứng của áp lực. Áp lực đổ đầy thật của một buồng tim không phải áp lực đo trong buồng, mà là áp lực xuyên thành: áp lực trong buồng trừ áp lực màng ngoài tim. Khi áp lực màng ngoài tim tăng, nó triệt tiêu áp lực xuyên thành, trước hết ở tim phải.",
+    "Đường cong áp lực – thể tích của màng ngoài tim dốc dần. Khi dịch tích tụ nhanh, như chảy máu sau thủ thuật, chỉ một lượng nhỏ đã đẩy áp lực vào đoạn dốc.",
+    "Khi tích tụ chậm, màng ngoài tim kịp giãn: Spodick ghi nhận có thể tới 2 lít trở lên trước khi chèn ép nguy kịch.",
+    "Ở đoạn dốc, thêm một ít gây chèn ép nguy kịch, và ngược lại, lượng dịch rút ra đầu tiên tạo mức giải ép lớn nhất. ESC 2025 gọi đây là hiện tượng giọt cuối.",
+    "Hệ quả điều trị: dẫn lưu, dù chỉ một lượng nhỏ, là biện pháp hiệu quả nhất; truyền dịch chỉ giúp ở người giảm thể tích, còn ở người đủ thể tích thì làm tăng áp lực màng ngoài tim."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Tràn khí áp lực",
+   "title": "Tràn khí áp lực: một cơ chế, hai bệnh cảnh",
+   "ref": "Leigh-Smith & Harris, EMJ 2005, tr. 9–11 · Zotzmann 2022, tr. 6 · ERC 2021, tr. 185",
+   "head": [
+    "",
+    "Người tỉnh tự thở",
+    "Người thở máy"
+   ],
+   "widths": "0.9fr 1.6fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Cơ chế bù",
+      "Nhịp nhanh dần · áp lực lồng ngực bên đối diện âm hơn",
+      "Mất cơ chế bù · tăng dòng khí qua chỗ rách"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Nổi bật",
+      "Suy hô hấp tiến triển · tụt huyết áp rất muộn",
+      "Cung lượng giảm sớm và nhanh"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Mẫu hình",
+      "Đau ngực, khó thở ở mọi ca báo cáo",
+      "SpO₂ tụt đột ngột rồi tụt huyết áp trong vài phút"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Tràn khí màng phổi thành áp lực khi chỗ rách hoạt động như van một chiều: khí vào khi hít vào nhưng không ra khi thở ra. Áp lực màng phổi rồi áp lực lồng ngực tăng, hồi lưu tĩnh mạch bị giới hạn; khi áp lực lồng ngực vượt áp lực trong các thất, cung lượng tim cạn kiệt và không phục hồi được bằng dịch.",
+    "Ở người tỉnh tự thở, cung lượng được giữ nhờ nhịp nhanh tăng dần và áp lực lồng ngực bên đối diện âm hơn.",
+    "Vì vậy đặc điểm nổi bật là suy hô hấp tiến triển; tụt huyết áp là dấu rất muộn. Ngược lại, ở người thở máy, áp lực dương làm mất cơ chế bù, cung lượng giảm sớm và nhanh.",
+    "Mẫu hình đáng nhớ ở người thở máy là SpO₂ tụt đột ngột rồi huyết áp tụt trong vài phút. Phần bốn sẽ có số liệu cụ thể từ tổng quan hệ thống của Roberts."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Cơ chế → dấu hiệu",
+   "title": "Từ cơ chế đến dấu hiệu và đích điều trị",
+   "ref": "Chuyên đề Bảng 1.2 · tổng hợp từ HFA/ESC 2016, Sorathia 2025, Spodick 2003, ESC 2025, Leigh-Smith 2005, WSACS 2013",
+   "head": [
+    "Cơ chế",
+    "Dấu hiệu gợi ý",
+    "Đích điều trị"
+   ],
+   "widths": "1.2fr 2fr 1.4fr",
+   "rows": [
+    {
+     "cells": [
+      "Tăng hậu tải thất phải",
+      "Thất phải giãn, tỉ số thất phải/thất trái > 1, McConnell, 60/60, troponin",
+      "Tái tưới máu · giữ huyết áp · tránh quá tải dịch"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Tương tác hai thất",
+      "Vách phẳng, thất trái hình chữ D, VTI đường ra thất trái thấp",
+      "Không truyền dịch quá mức"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Áp lực màng ngoài tim tăng",
+      "Xẹp nhĩ phải, thất phải · tĩnh mạch chủ dưới giãn · mạch nghịch",
+      "Dẫn lưu"
+     ],
+     "at": 2,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Áp lực màng phổi tăng",
+      "Mất rì rào một bên · mất trượt màng phổi",
+      "Giải áp"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Áp lực ổ bụng tăng",
+      "Bụng căng · áp lực bàng quang tăng · thiểu niệu",
+      "Giảm áp lực ổ bụng"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Ba nguyên nhân chính có điểm chung là áp lực phía tim phải tăng, nhưng mỗi nguyên nhân để lại dấu vết riêng. Thuyên tắc phổi cho thất phải giãn, tỉ số thất phải trên thất trái lớn hơn 1, dấu McConnell, dấu 60/60, troponin tăng; đích là tái tưới máu và giữ huyết áp.",
+    "Tương tác hai thất cho vách liên thất phẳng, thất trái hình chữ D, VTI đường ra thất trái thấp; đích là không truyền dịch quá mức.",
+    "Chèn ép tim cho xẹp nhĩ phải, thất phải, tĩnh mạch chủ dưới giãn không xẹp, mạch nghịch; đích là dẫn lưu.",
+    "Tràn khí áp lực cho mất rì rào một bên và mất trượt màng phổi; đích là giải áp. Và một nguyên nhân hay bị bỏ sót, hội chứng khoang bụng, cho bụng căng, áp lực bàng quang tăng; đích là giảm áp lực ổ bụng."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Siêu âm",
+   "title": "Tìm chỗ tắc bằng siêu âm tại giường",
+   "ref": "Vẽ lại theo Zotzmann 2022, Hình 3, tr. 6 · ESICM 2025 · tổng hợp, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Sốc chưa rõ nguyên nhân",
+     "d": "Hồi sức song song · siêu âm theo RUSH",
+     "x": 888,
+     "y": 160,
+     "w": 560,
+     "h": 100,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Thất phải giãn",
+     "d": "Thất phải/thất trái > 1 · McConnell · vách phẳng",
+     "x": 300,
+     "y": 400,
+     "w": 440,
+     "h": 120,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Dịch màng ngoài tim",
+     "d": "Xẹp nhĩ phải, thất phải · tĩnh mạch chủ dưới giãn",
+     "x": 888,
+     "y": 400,
+     "w": 440,
+     "h": 120,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Mất trượt màng phổi",
+     "d": "Điểm phổi · mất rì rào một bên",
+     "x": 1476,
+     "y": 400,
+     "w": 440,
+     "h": 120,
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "id": "e",
+     "t": "Thuyên tắc phổi",
+     "d": "Phân tầng · tái tưới máu",
+     "x": 300,
+     "y": 610,
+     "w": 400,
+     "h": 90,
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "id": "f",
+     "t": "Chèn ép tim",
+     "d": "Dẫn lưu",
+     "x": 888,
+     "y": 610,
+     "w": 400,
+     "h": 90,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "g",
+     "t": "Tràn khí áp lực",
+     "d": "Giải áp",
+     "x": 1476,
+     "y": 610,
+     "w": 400,
+     "h": 90,
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "b",
+     "at": 1
+    },
+    {
+     "a": "a",
+     "b": "c",
+     "at": 2
+    },
+    {
+     "a": "a",
+     "b": "d",
+     "at": 3
+    },
+    {
+     "a": "b",
+     "b": "e",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "f",
+     "at": 2
+    },
+    {
+     "a": "d",
+     "b": "g",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Siêu âm tim là công cụ đầu tay ở người bệnh sốc theo ESICM 2025. Zotzmann đề xuất ba bước: khám lâm sàng, siêu âm theo quy trình RUSH, rồi chẩn đoán hình ảnh khi cần và khi vận chuyển được.",
+    "Thất phải giãn, tỉ số thất phải trên thất trái lớn hơn 1, dấu McConnell, vách phẳng, TAPSE dưới 16 mi li mét, hay dấu 60/60 hướng tới thuyên tắc phổi. Ở người sốc, không có dấu quá tải thất phải giúp loại trừ thuyên tắc phổi là nguyên nhân mất ổn định.",
+    "Dịch màng ngoài tim kèm xẹp nhĩ phải, thất phải và tĩnh mạch chủ dưới giãn không xẹp hướng tới chèn ép tim.",
+    "Mất trượt màng phổi và tìm thấy điểm phổi hướng tới tràn khí màng phổi. Ba cửa sổ siêu âm, ba nguyên nhân, ba điều trị khác nhau hoàn toàn."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Dấu siêu âm chèn ép",
+   "title": "Dấu siêu âm của chèn ép tim (ESC 2025)",
+   "ref": "ESC 2025, Bảng 17, tr. 4013 · Spodick 2003, tr. 686",
+   "head": [
+    "Dấu hiệu",
+    "Độ nhạy",
+    "Độ đặc hiệu"
+   ],
+   "widths": "2.6fr 1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "Xẹp nhĩ phải thì tâm trương",
+      "50–100%",
+      "33–100%"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Xẹp nhĩ phải > 0,34 chu chuyển tim",
+      "> 90%",
+      "<b>100%</b>"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Xẹp thất phải thì tâm trương",
+      "48–100%",
+      "72–100%"
+     ],
+     "at": 2,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Tĩnh mạch chủ dưới > 20 mm, xẹp < 50%",
+      "<b>97%</b>",
+      "40%"
+     ],
+     "at": 3,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Xẹp nhĩ trái (~25% trường hợp)",
+      "—",
+      "Rất đặc hiệu"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "ESC 2025 tổng hợp độ nhạy và độ đặc hiệu của các dấu siêu âm chèn ép. Xẹp nhĩ phải thì tâm trương là dấu sớm, nhưng độ đặc hiệu dao động rộng.",
+    "Khi thời gian xẹp nhĩ phải kéo dài hơn 0,34 chu chuyển tim, độ nhạy trên 90% và độ đặc hiệu đạt 100%.",
+    "Xẹp thất phải thì tâm trương kém nhạy hơn nhưng đặc hiệu hơn.",
+    "Tĩnh mạch chủ dưới giãn trên 20 mi li mét và xẹp dưới 50% theo hô hấp rất nhạy, 97%, nhưng chỉ đặc hiệu 40%: không có dấu này giúp loại trừ, có dấu này chưa đủ để kết luận.",
+    "Theo Spodick, xẹp nhĩ trái gặp ở khoảng một phần tư trường hợp và rất đặc hiệu cho chèn ép."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "list",
+   "chapter": "Bẫy",
+   "title": "Bốn bẫy chẩn đoán",
+   "ref": "Spodick 2003, tr. 687–688 · Leigh-Smith 2005, tr. 10–11 · ERC 2021, tr. 182 · AHA/ACC 2026",
+   "items": [
+    {
+     "t": "Chèn ép không điển hình",
+     "d": "Áp lực thấp 6–12 mmHg, không mạch nghịch · khu trú sau mổ · chèn ép muộn > 5 ngày · tăng huyết áp > 200",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Tìm lệch khí quản",
+     "d": "Không chẩn đoán, không có cũng không loại trừ tràn khí áp lực",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Ngừng tim do thuyên tắc phổi",
+     "d": "Hoạt động điện vô mạch · ETCO₂ ~13 mmHg dù ép tim tốt · siêu âm thất phải NPV chỉ 40–50%",
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "t": "Dùng siêu âm loại trừ ở người ổn định",
+     "d": "AHA/ACC: không dùng siêu âm tim để khẳng định hay loại trừ thuyên tắc phổi",
+     "c": "violet",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Bẫy thứ nhất là chèn ép tim không điển hình. Chèn ép áp lực thấp, áp lực tâm trương chỉ 6 đến 12 mi li mét thuỷ ngân ở người giảm thể tích, có thể không có mạch nghịch. Chèn ép khu trú sau mổ tim thiếu các dấu kinh điển; chèn ép muộn sau 5 ngày dễ bị bỏ sót. Và chèn ép tăng huyết áp, huyết áp tâm thu có thể trên 200.",
+    "Bẫy thứ hai là đi tìm lệch khí quản. Lệch khí quản không đủ để chẩn đoán tràn khí áp lực, và không có cũng không loại trừ.",
+    "Bẫy thứ ba là ngừng tim do thuyên tắc phổi: thường là hoạt động điện vô mạch; CO₂ cuối thì thở ra thấp, khoảng 13 mi li mét thuỷ ngân dù ép tim tốt, gợi ý nhưng không đặc hiệu; và trong ngừng tim, giá trị dự báo âm của siêu âm thất phải chỉ khoảng 40 đến 50%.",
+    "Bẫy thứ tư ngược chiều: ở người huyết áp ổn định, AHA/ACC không khuyến cáo dùng siêu âm tim để khẳng định hay loại trừ thuyên tắc phổi."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: chỗ tắc ở đâu?",
+   "ref": "Ca minh hoạ · Spodick 2003 · ESC 2025, Bảng 17",
+   "case": "Nữ 71 tuổi, ngày 7 sau thay van hai lá. Mệt, lơ mơ, HA 86/60, mạch 118, tĩnh mạch cổ nổi, không mạch nghịch rõ. Siêu âm qua thành ngực khó: không thấy dịch quanh tim lớn, thất phải không giãn, tĩnh mạch chủ dưới giãn không xẹp. Phổi trượt hai bên.",
+   "case_at": 0,
+   "q": "Bước tiếp theo hợp lý nhất?",
+   "q_at": 1,
+   "options": [
+    "Truyền 2 lít dịch vì giảm thể tích sau mổ",
+    "Kết luận không phải chèn ép vì không có mạch nghịch",
+    "Nghĩ chèn ép khu trú muộn, siêu âm qua thực quản hoặc CT, báo phẫu thuật",
+    "Tiêu sợi huyết vì nghĩ thuyên tắc phổi"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Sau mổ tim > 5 ngày tụt áp → nghĩ chèn ép muộn · dịch khu trú thiếu dấu kinh điển, mạch nghịch có thể vắng · tĩnh mạch chủ dưới giãn · thất phải không giãn, phổi trượt",
+   "lines": [
+    "Tình huống. Nữ 71 tuổi, ngày thứ bảy sau thay van hai lá, mệt và lơ mơ. Huyết áp 86 trên 60, mạch 118, tĩnh mạch cổ nổi, không thấy mạch nghịch rõ. Siêu âm qua thành ngực khó: không thấy dịch quanh tim lớn, thất phải không giãn, tĩnh mạch chủ dưới giãn không xẹp. Phổi trượt hai bên.",
+    "Bước tiếp theo hợp lý nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là C. Người bệnh tụt huyết áp sau mổ tim hơn 5 ngày phải được nghĩ tới chèn ép muộn. Dịch khu trú sau mổ có thể chỉ ép một vùng, thiếu các dấu kinh điển, và mạch nghịch có thể vắng mặt. Tĩnh mạch chủ dưới giãn không xẹp ủng hộ áp lực phía tim phải tăng; thất phải không giãn và phổi trượt làm thuyên tắc phổi và tràn khí ít khả năng. Cần siêu âm qua thực quản hoặc chụp cắt lớp và báo phẫu thuật."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Năm thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Gỡ chỗ tắc mới là điều trị",
+     "d": "Dịch và vận mạch chỉ là cầu nối",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Thất phải dễ vỡ",
+     "d": "Giãn → vách lệch → tụt áp → thiếu máu thất phải",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Chèn ép tim: áp lực xuyên thành",
+     "d": "Giọt cuối · dẫn lưu ít cũng giải ép nhiều",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Tràn khí áp lực: hai bệnh cảnh",
+     "d": "Tự thở: suy hô hấp · thở máy: sốc nhanh",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Siêu âm tìm chỗ tắc",
+     "d": "Thất phải · màng ngoài tim · màng phổi",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Tóm lại, thứ nhất: sốc tắc nghẽn được điều trị bằng gỡ bỏ chỗ tắc; dịch và thuốc vận mạch chỉ là cầu nối.",
+    "Thứ hai: thất phải không chịu được tăng hậu tải cấp; giãn thất phải, vách lệch, tụt huyết áp và thiếu máu thất phải tạo thành vòng xoắn đi xuống.",
+    "Thứ ba: chèn ép tim là hội chứng của áp lực xuyên thành; lượng dịch rút ra đầu tiên giải ép nhiều nhất.",
+    "Thứ tư: tràn khí áp lực ở người tự thở và người thở máy là hai bệnh cảnh khác nhau.",
+    "Thứ năm: siêu âm tại giường tìm chỗ tắc trong vài phút. Phần hai: thuyên tắc phổi nguy cơ cao, phân tầng và hồi sức thất phải. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s13"
+  }
+ ]
+}

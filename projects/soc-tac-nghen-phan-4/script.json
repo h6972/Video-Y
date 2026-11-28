@@ -1,0 +1,773 @@
+{
+ "title": "Sốc tắc nghẽn – Phần 4: Chèn ép tim, tràn khí màng phổi áp lực và lưu đồ tại giường",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Sốc tắc nghẽn · seri Sốc (5)",
+ "part": "Sốc tắc nghẽn · Phần 4/4",
+ "source_short": "Nguồn: AHA/ACC 2026 · ESC/ERS 2019 · ESC 2025 · HFA/ESC 2016 · ERC 2021 · BTS 2023 · WSACS 2013 · PEITHO, HI-PEITHO, STORM-PE, PEERLESS · tổng quan Spodick, Zotzmann, Leigh-Smith, Roberts",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "Leigh-Smith": "li xmít",
+  "Mayo Clinic": "mây ô cờ li ních",
+  "SEATTLE II": "xi a tồ hai",
+  "µg/kg/phút": "mi crô gam mỗi ký mỗi phút",
+  "Chatterjee": "chát tơ ri",
+  "Impella RP": "im pe la rờ pê",
+  "HI-PEITHO": "hai pây thô",
+  "McConnell": "mắc cô nồ",
+  "PEITHO-3": "pây thô ba",
+  "STORM-PE": "xtom pê e",
+  "PEERLESS": "pia lét",
+  "Zotzmann": "dốt man",
+  "AHA/ACC": "a hát a, a xê xê",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "ESC/ERS": "e ét xê",
+  "Spodick": "xpô đích",
+  "Harjola": "hác giô la",
+  "PEITHO": "pây thô",
+  "MOPETT": "mô pét",
+  "ULTIMA": "un ti ma",
+  "mmol/L": "mi li mol mỗi lít",
+  "Ristić": "ri xtích",
+  "Hestia": "hét ti a",
+  "type A": "típ A",
+  "FLARE": "phle",
+  "FLASH": "phlát",
+  "sPESI": "ét pê si",
+  "ESICM": "e ét i xê em",
+  "WSACS": "hội hội chứng khoang bụng thế giới",
+  "TAPSE": "táp xi",
+  "GUSTO": "gút tô",
+  "IU/kg": "đơn vị mỗi ký",
+  "mL/kg": "mi li lít mỗi ký",
+  "cmH₂O": "xăng ti mét nước",
+  "mg/kg": "mi li gam mỗi ký",
+  "Tsang": "xang",
+  "Marti": "mác ti",
+  "Kmiec": "cờ miếc",
+  "NEWS2": "niu hai",
+  "RIETE": "ri ê tê",
+  "ECMO": "ếch mô",
+  "PESI": "pê si",
+  "RUSH": "rớt",
+  "PERT": "pớt",
+  "ISTH": "i ét tê hát",
+  "SCAI": "ét cai",
+  "SpO₂": "SpO hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Laan": "lan",
+  "Bova": "bô va",
+  "PEEP": "píp",
+  "aPTT": "a pê tê tê",
+  "14 G": "mười bốn gờ",
+  "SaO₂": "SaO hai",
+  "ESC": "e ét xê",
+  "ERC": "e rờ xê",
+  "BTS": "bê tê ét",
+  "VTI": "vê tê i",
+  "CO₂": "CO hai",
+  "ICU": "hồi sức"
+ },
+ "brand": {
+  "next": "Trọn bộ chuyên đề: thuvienykhoa.online"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "SỐC TẮC NGHẼN · PHẦN 4/4",
+   "title": "Chèn ép tim, tràn khí áp lực<br>và lưu đồ tại giường",
+   "subtitle": "Điểm ESC 2025 · chọc dẫn lưu · giải áp · khoang bụng",
+   "badges": [
+    {
+     "t": "Điểm ≥ 6: chọc ngay",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Thở máy: giải áp trước, phim sau",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Kim KLS 2: thất bại 38%",
+     "c": "teal",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: ESC 2025 · Ristić 2014 · Tsang 2002 · Spodick 2003 · ERC 2021 · Roberts 2015 · Laan 2016 · Leigh-Smith 2005 · BTS 2023 · WSACS 2013",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần cuối của loạt bài Sốc tắc nghẽn.",
+    "Phần này dành cho hai nguyên nhân mà điều trị là một thủ thuật: chèn ép tim, với thang điểm phân loại của ESC 2025 và chọc màng ngoài tim dưới siêu âm;",
+    "và tràn khí màng phổi áp lực, với câu hỏi giải áp ở đâu, bằng gì, khi nào.",
+    "Cuối phần là một nguyên nhân hay bị bỏ sót, hội chứng khoang bụng, và lưu đồ giờ đầu cho toàn bộ sốc tắc nghẽn."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Nguyên nhân",
+   "title": "Nguyên nhân chèn ép tim và hai bệnh cảnh",
+   "ref": "ESC 2025, Bảng 8, tr. 3976 · Tsang 2002, tr. 429 · Spodick 2003, tr. 686",
+   "cards": [
+    {
+     "tag": "THƯỜNG GẶP (ESC 2025)",
+     "t": "Theo tần suất",
+     "items": [
+      "U ác tính",
+      "Do thầy thuốc, chấn thương",
+      "Viêm màng ngoài tim",
+      "Lao: hàng đầu ở nước đang phát triển"
+     ],
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "CHẢY MÁU CẤP",
+     "t": "Nhanh, có máu cục",
+     "d": "Sau mổ tim, can thiệp · chấn thương · vỡ tim · bóc tách → thường cần phẫu thuật",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "tag": "TÍCH TỤ DẦN",
+     "t": "Ung thư, lao, viêm, tăng urê",
+     "d": "Chọc qua da dưới siêu âm · dẫn lưu kéo dài phòng tái phát",
+     "c": "amber",
+     "at": 2
+    }
+   ],
+   "lines": [
+    "Theo ESC 2025, các nguyên nhân thường gặp của chèn ép tim theo tần suất là u ác tính, do thầy thuốc hoặc chấn thương, viêm màng ngoài tim, và lao, nguyên nhân hàng đầu ở các nước đang phát triển. Trong loạt Mayo Clinic, phẫu thuật tim lồng ngực, ung thư và thủng tim do thủ thuật chiếm gần 70% số lần chọc.",
+    "Từ đầu cần tách hai bệnh cảnh. Chèn ép do chảy máu cấp sau mổ tim, can thiệp, chấn thương, vỡ tim hay bóc tách: dịch tích tụ nhanh, có máu cục, thường cần phẫu thuật.",
+    "Chèn ép do dịch tích tụ dần trong ung thư, lao, viêm, tăng urê máu: chọc qua da dưới siêu âm là lựa chọn chính, và câu hỏi quan trọng là dẫn lưu kéo dài để phòng tái phát."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "gauge",
+   "chapter": "Điểm phân loại",
+   "title": "Điểm phân loại mức khẩn cấp ESC 2025",
+   "ref": "ESC 2025, Hình 12, tr. 3977 · Ristić 2014, tr. 2281–2283 · ví dụ minh hoạ",
+   "max": 34,
+   "zones": [
+    {
+     "to": 6,
+     "t": "< 6: hoãn, theo dõi",
+     "c": "green"
+    },
+    {
+     "to": 34,
+     "t": "≥ 6: chọc ngay",
+     "c": "coral"
+    }
+   ],
+   "parts": [
+    {
+     "t": "Ác tính (nguyên nhân)",
+     "v": 2,
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "t": "Khó thở nằm (lâm sàng)",
+     "v": 3,
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Mạch nghịch > 10 mmHg",
+     "v": 2,
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "t": "Dịch lớn quanh tim (hình ảnh)",
+     "v": 3,
+     "at": 3,
+     "c": "teal"
+    },
+    {
+     "t": "Xẹp nhĩ trái",
+     "v": 2,
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "chip_cols": 3,
+   "verdict": "12 điểm từ cả ba nhóm → chọc màng ngoài tim ngay",
+   "verdict_at": 4,
+   "lines": [
+    "Không phải mọi người bệnh chèn ép cần chọc trong vài phút, và chọc vội ở nơi thiếu kinh nghiệm có thể gây biến chứng nặng hơn bệnh. Năm 2014 ESC đề xuất một thang điểm, và ESC 2025 đưa nó vào lưu đồ xử trí. Thang có ba nhóm: nguyên nhân, lâm sàng, hình ảnh. Thử với một ví dụ: bệnh ác tính, 2 điểm.",
+    "Khó thở khi nằm, 3 điểm; mạch nghịch trên 10 mi li mét thuỷ ngân, 2 điểm.",
+    "Dịch lớn quanh tim, 3 điểm; xẹp nhĩ trái, 2 điểm.",
+    "Tổng 12 điểm, đến từ cả ba nhóm. Ngưỡng quyết định là từ 6 điểm trở lên: chọc dẫn lưu ngay nếu không có chống chỉ định. Chú thích hình của ESC 2025 viết chặt hơn, trên 6 điểm từ ít nhất hai nhóm. Người bệnh đã chẩn đoán chèn ép nhưng ổn định được chọc trong 12 đến 24 giờ; điểm thấp có thể hoãn, kháng viêm và theo dõi. Thang dựa trên đồng thuận chuyên gia, chưa thẩm định tiến cứu."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "box",
+   "chapter": "Không dùng điểm",
+   "title": "Khi nào không dùng thang điểm",
+   "ref": "Ristić 2014, tr. 2281, 2283",
+   "box": {
+    "tag": "NGƯỜI ĐANG SỐC",
+    "t": "Thang điểm <b>không được dùng để trì hoãn</b> dẫn lưu · dẫn lưu ngay, đồng thời sửa đông máu (protamine, huyết tương tươi) và truyền máu khi cần",
+    "at": 0,
+    "c": "coral",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "MỔ KHẨN BẤT KỂ ĐIỂM",
+     "t": "Bóc tách động mạch chủ type A · vỡ thành tự do sau nhồi máu · chấn thương ngực nặng · chảy máu do thủ thuật không kiểm soát qua da",
+     "at": 1,
+     "c": "violet"
+    },
+    {
+     "tag": "ỔN ĐỊNH, ÍT KINH NGHIỆM",
+     "t": "Chuyển trung tâm, có bác sĩ đi kèm, theo dõi liên tục",
+     "at": 2,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Thang điểm dùng để phân loại người chưa sốc. Ở người bệnh đang sốc, nó không được dùng để trì hoãn dẫn lưu: phải dẫn lưu ngay, đồng thời điều chỉnh rối loạn đông máu bằng protamine hoặc huyết tương tươi đông lạnh và truyền máu khi cần.",
+    "Một số tình huống cần phẫu thuật khẩn bất kể điểm: bóc tách động mạch chủ type A, vỡ thành tự do thất sau nhồi máu, chấn thương ngực nặng gần đây, và chảy máu màng ngoài tim do thủ thuật không kiểm soát được qua da.",
+    "Ở cơ sở ít kinh nghiệm mà người bệnh đủ ổn định để chờ, ESC khuyên chuyển tới trung tâm chuyên sâu có bác sĩ đi kèm; còn nếu không ổn định và không thể trì hoãn, phải dẫn lưu cấp cứu dưới siêu âm tại chỗ."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Chọc màng ngoài tim",
+   "title": "Chọc màng ngoài tim dưới siêu âm: 1.127 lần tại Mayo Clinic",
+   "ref": "Tsang, Mayo Clin Proc 2002, tr. 429, 433",
+   "tiles": [
+    {
+     "tag": "THÀNH CÔNG",
+     "v": 97,
+     "suf": "%",
+     "l": "Tỉ lệ thành công",
+     "d": "977 người · 1979–2000",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "BIẾN CHỨNG NẶNG",
+     "v": 1.2,
+     "dec": 1,
+     "suf": "%",
+     "l": "Tổng biến chứng 4,7%",
+     "d": "Không đổi qua thời gian",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "TÁI PHÁT 6 THÁNG",
+     "v": 14,
+     "suf": "%",
+     "l": "Với dẫn lưu kéo dài",
+     "d": "So với 27% khi chọc đơn thuần",
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "Hồi cứu tại một trung tâm rất giàu kinh nghiệm · nơi khác biến chứng có thể cao hơn",
+    "at": 3,
+    "c": "blue"
+   },
+   "lines": [
+    "Bằng chứng về an toàn đến từ loạt ca lớn. Trong 21 năm tại Mayo Clinic, 1.127 lần chọc màng ngoài tim dưới hướng dẫn siêu âm ở 977 người bệnh đạt tỉ lệ thành công 97%.",
+    "Tổng biến chứng 4,7%, trong đó biến chứng nặng chỉ 1,2%.",
+    "Tái phát trong 6 tháng là 27% khi chọc đơn thuần, so với 14% khi dẫn lưu kéo dài bằng catheter.",
+    "Đây là nghiên cứu hồi cứu tại một trung tâm rất giàu kinh nghiệm, nên tỉ lệ biến chứng ở nơi khác có thể cao hơn."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "list",
+   "chapter": "Kỹ thuật",
+   "title": "Dẫn lưu an toàn và hồi sức trước dẫn lưu",
+   "dense": true,
+   "ref": "ESC 2025, tr. 3994, 4009, 4013–4014 · Ristić 2014, tr. 2281, 2283 · Spodick 2003, tr. 688 · Zotzmann 2022, tr. 7",
+   "items": [
+    {
+     "t": "Có hướng dẫn hình ảnh · catheter đuôi heo",
+     "d": "ESC 2025 I/C · chọc không hình ảnh chỉ khi không có siêu âm hoặc tuần hoàn sụp đột ngột",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "t": "Tránh tháo nhanh > 1 lít",
+     "d": "Suy thất cấp, phù phổi sau giải ép · cẩn trọng khi tăng áp phổi nặng",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Dẫn lưu kéo dài",
+     "d": "Tới khi còn ~25–30 mL/ngày · ung thư: 3–6 ngày (ESC 2025 I/B)",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "t": "Dịch chỉ khi giảm thể tích · tránh thở máy áp lực dương",
+     "d": "ESC 2025 · đặt nội khí quản trước dẫn lưu có thể làm sụp tuần hoàn",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Phẫu thuật khi",
+     "d": "Máu cục · mủ · không tiếp cận qua da · sau mổ tim · tái phát → cửa sổ màng ngoài tim (I/C)",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "ESC 2025 khuyến cáo chọc màng ngoài tim có hướng dẫn bằng siêu âm, cắt lớp hoặc màn tăng sáng, mức một; sau khi vào khoang, đặt catheter đuôi heo. Chọc không hình ảnh chỉ khi không có siêu âm hoặc tuần hoàn sụp đổ đột ngột.",
+    "Tránh tháo nhanh hơn 1 lít trong lúc chọc, vì có thể gây suy thất cấp, phù phổi và sụp tuần hoàn sau giải ép; ở người tăng áp phổi nặng, dẫn lưu có thể làm thất phải giãn.",
+    "Dẫn lưu kéo dài tới khi lượng dịch còn khoảng 25 đến 30 mi li lít mỗi ngày; với tràn dịch do ung thư, ESC 2025 khuyến cáo dẫn lưu 3 đến 6 ngày, mức một, bằng chứng B.",
+    "Trong lúc chuẩn bị, dịch truyền chỉ giúp khi giảm thể tích; ESC 2025 nêu rõ nên tránh thông khí cơ học áp lực dương trong chèn ép tim, vì đặt nội khí quản trước dẫn lưu có thể làm sụp đổ tuần hoàn.",
+    "Phẫu thuật được ưu tiên khi có máu cục, mủ, dịch không tiếp cận được qua da, sau mổ tim; và mở cửa sổ màng phổi – màng ngoài tim khi tràn dịch tái phát dù đã điều trị, mức một."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "bars",
+   "chapter": "Tràn khí áp lực",
+   "title": "Tràn khí áp lực: tự thở so với thở hỗ trợ",
+   "ref": "Roberts, Ann Surg 2015, pdf 1, 7, 9",
+   "groups": [
+    {
+     "t": "Thiếu oxy",
+     "d": "",
+     "at": 1,
+     "c": "amber",
+     "bars": [
+      {
+       "k": "Thở hỗ trợ",
+       "v": 91.8,
+       "lab": "91,8%"
+      },
+      {
+       "k": "Tự thở",
+       "v": 50.0,
+       "lab": "50,0%"
+      }
+     ]
+    },
+    {
+     "t": "Tử vong",
+     "d": "",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Thở hỗ trợ",
+       "v": 22.7,
+       "lab": "22,7%"
+      },
+      {
+       "k": "Tự thở",
+       "v": 6.7,
+       "lab": "6,7%"
+      }
+     ]
+    }
+   ],
+   "max": 100,
+   "notes": [
+    {
+     "tag": "DỮ LIỆU",
+     "t": "5 đoàn hệ, 310 người · 183 ca báo cáo: 86 tự thở, 97 thở hỗ trợ",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "SAU HIỆU CHỈNH",
+     "t": "Tụt huyết áp OR 12,6 · ngừng tim OR 17,7",
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "tag": "LƯU Ý",
+     "t": "Ca bệnh có sai lệch chọn lọc · không chứng minh nhân quả",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 470,
+   "lines": [
+    "Roberts và cộng sự gộp 5 đoàn hệ với 310 người và 183 ca báo cáo, gồm 86 người tự thở và 97 người được thông khí hỗ trợ.",
+    "Thiếu oxy gặp ở 50% người tự thở, nhưng 91,8% người thở hỗ trợ.",
+    "Tử vong là 6,7% so với 22,7%.",
+    "Sau hiệu chỉnh, thông khí hỗ trợ liên quan với tụt huyết áp, OR 12,6, và ngừng tim, OR 17,7. Đây là dữ liệu ca bệnh nhiều sai lệch, không chứng minh thông khí gây tử vong, nhưng mô hình rất rõ: tự thở thì chủ yếu suy hô hấp, thở máy thì nhanh chóng thành sốc."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "stats",
+   "chapter": "Vị trí giải áp",
+   "title": "Kim 5 cm: tỉ lệ thất bại theo vị trí",
+   "ref": "Laan, Injury 2016, pdf 1 · ERC 2021, tr. 185 · mô phỏng trên hình ảnh và tử thi",
+   "tiles": [
+    {
+     "tag": "KLS 2 · GIỮA ĐÒN",
+     "v": 38,
+     "suf": "%",
+     "l": "Thành ngực 42,8 mm",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "KLS 4–5 · NÁCH GIỮA",
+     "v": 31,
+     "suf": "%",
+     "l": "Thành ngực 39,9 mm",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "tag": "KLS 4–5 · NÁCH TRƯỚC",
+     "v": 13,
+     "suf": "%",
+     "l": "Thành ngực 34,3 mm",
+     "c": "teal",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "ERC 2021: kim ≥ 7 cm mới tới khoang ở KLS 2 trong 90% · mọi lần chọc kim khi CPR phải tiếp nối bằng mở màng phổi hoặc ống dẫn lưu",
+    "at": 3,
+    "c": "blue"
+   },
+   "lines": [
+    "Chọc kim giải áp nhanh, nhưng kim 14 G chiều dài tiêu chuẩn có thể không tới khoang màng phổi. Phân tích gộp của Laan trên 6.192 vị trí giải phẫu cho thấy ở khoang liên sườn 2 đường giữa đòn, thành ngực dày trung bình 42,8 mi li mét, và kim 5 xăng ti mét thất bại 38%.",
+    "Ở khoang liên sườn 4 đến 5 đường nách giữa, thất bại 31%.",
+    "Ở khoang liên sườn 4 đến 5 đường nách trước, thành ngực mỏng nhất, thất bại chỉ 13%. Đây là mô phỏng trên hình ảnh và tử thi, chưa phải tỉ lệ thành công lâm sàng.",
+    "ERC 2021 đi đến cùng kết luận: cần kim dài ít nhất 7 xăng ti mét để tới khoang ở khoang liên sườn 2 trong 90% lần, vị trí đường nách trước có tỉ lệ thất bại dự đoán thấp nhất, và mọi lần chọc kim khi hồi sinh phải được tiếp nối bằng mở màng phổi hoặc ống dẫn lưu."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Giải áp",
+   "title": "Giải áp màng phổi: ba tình huống",
+   "ref": "ERC 2021, tr. 185–186; pdf 23 · Leigh-Smith 2005, tr. 12–14 · Laan 2016 · BTS 2023 · tổng hợp, không phải hình gốc",
+   "nodes": [
+    {
+     "id": "a",
+     "t": "Người tỉnh, ổn định",
+     "d": "Oxy · phim nếu an toàn, có người giải áp ở bên",
+     "x": 330,
+     "y": 230,
+     "w": 460,
+     "h": 120,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "b",
+     "t": "Thở máy hoặc mất ổn định",
+     "d": "Giải áp ngay, không chờ phim",
+     "x": 888,
+     "y": 230,
+     "w": 460,
+     "h": 120,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "c",
+     "t": "Ngừng tim",
+     "d": "Mở màng phổi · chấn thương: hai bên KLS 4",
+     "x": 1450,
+     "y": 230,
+     "w": 460,
+     "h": 120,
+     "c": "coral",
+     "at": 2
+    },
+    {
+     "id": "d",
+     "t": "Dẫn lưu ngực",
+     "d": "Lựa chọn chuẩn trong bệnh viện",
+     "x": 330,
+     "y": 520,
+     "w": 420,
+     "h": 100,
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "id": "e",
+     "t": "Kim đủ dài ở vị trí bên, hoặc mở màng phổi",
+     "d": "Rồi đặt ống dẫn lưu",
+     "x": 888,
+     "y": 520,
+     "w": 520,
+     "h": 100,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "f",
+     "t": "Ống dẫn lưu sau hồi sinh",
+     "d": "Giải áp ưu tiên mọi biện pháp khác",
+     "x": 1450,
+     "y": 520,
+     "w": 460,
+     "h": 100,
+     "c": "coral",
+     "at": 2
+    }
+   ],
+   "edges": [
+    {
+     "a": "a",
+     "b": "d",
+     "at": 0
+    },
+    {
+     "a": "b",
+     "b": "e",
+     "at": 1
+    },
+    {
+     "a": "c",
+     "b": "f",
+     "at": 2
+    }
+   ],
+   "note": {
+    "t": "Sau giai đoạn cấp · BTS 2023: tràn khí áp lực lần đầu là chỉ định xin ý kiến phẫu thuật phòng tái phát",
+    "at": 3,
+    "c": "violet",
+    "y": 70
+   },
+   "lines": [
+    "Có thể tóm cách giải áp thành ba tình huống. Người tỉnh ổn định: thở oxy, chụp phim nếu an toàn, nhưng phải có người làm được giải áp ở bên cạnh, rồi đặt dẫn lưu ngực, lựa chọn chuẩn trong bệnh viện.",
+    "Người thở máy hoặc mất ổn định: giải áp ngay, không chờ phim, ưu tiên vị trí bên với kim đủ dài, hoặc mở màng phổi, rồi đặt ống. Ở người thở máy, mở màng phổi đơn thuần không đặt ống là lựa chọn hiệu quả.",
+    "Ngừng tim: mở màng phổi; trong ngừng tim do chấn thương, giải áp được ưu tiên hơn mọi biện pháp khác, mở hai bên ở khoang liên sườn 4, và đặt ống sau khi hồi sinh thành công.",
+    "Sau giai đoạn cấp, BTS 2023 coi lần tràn khí đầu tiên có áp lực là một chỉ định để xin ý kiến phẫu thuật phòng tái phát."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "box",
+   "chapter": "Khoang bụng",
+   "title": "Hội chứng khoang bụng: sốc tắc nghẽn hay bị bỏ sót",
+   "ref": "WSACS 2013, pdf 4–7",
+   "box": {
+    "tag": "ÁP LỰC TƯỚI MÁU Ổ BỤNG",
+    "t": "APP = MAP − áp lực ổ bụng · đo qua <b>bàng quang</b>, cuối thì thở ra, nằm ngửa, zero ngang đường nách giữa",
+    "at": 0,
+    "c": "violet",
+    "size": 32
+   },
+   "notes": [
+    {
+     "tag": "KHUYẾN CÁO",
+     "t": "Đo khi có yếu tố nguy cơ (1C) · theo dõi theo phác đồ (1C) · mở bụng giải áp khi có hội chứng khoang bụng (1D)",
+     "at": 1,
+     "c": "coral"
+    },
+    {
+     "tag": "GỢI Ý",
+     "t": "Giãn cơ ngắn (2D) · giải áp dạ dày, đại tràng khi giãn (1D) · tránh cân bằng dịch dương sau hồi sức (2C) · dẫn lưu qua da khi có dịch (2C)",
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "tag": "KHÔNG KHUYẾN CÁO",
+     "t": "Dùng APP làm đích hồi sức",
+     "at": 3,
+     "c": "teal"
+    }
+   ],
+   "lines": [
+    "Áp lực ổ bụng tăng chèn tĩnh mạch chủ dưới, đẩy cơ hoành lên và tăng áp lực lồng ngực, tạo ra một dạng sốc tắc nghẽn hay bị bỏ sót ở người bệnh chấn thương, bỏng, viêm tuỵ được truyền nhiều dịch. Hội chứng khoang bụng thế giới chuẩn hoá cách đo qua bàng quang: cuối thì thở ra, nằm ngửa, mốc zero ngang đường nách giữa; áp lực tưới máu ổ bụng bằng huyết áp trung bình trừ áp lực ổ bụng.",
+    "Đồng thuận khuyến cáo đo áp lực ổ bụng khi có yếu tố nguy cơ và theo dõi theo phác đồ, mức 1C, và mở bụng giải áp khi có hội chứng khoang bụng rõ, mức 1D.",
+    "Các gợi ý gồm thử giãn cơ ngắn, giải áp dạ dày hoặc đại tràng khi giãn, tránh cân bằng dịch dương tích luỹ sau khi hồi sức cấp hoàn tất, và dẫn lưu qua da khi có dịch trong ổ bụng.",
+    "Đồng thuận không đưa khuyến cáo dùng áp lực tưới máu ổ bụng làm đích hồi sức."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "flow",
+   "chapter": "Lưu đồ",
+   "title": "Lưu đồ giờ đầu sốc tắc nghẽn",
+   "ref": "Tổng hợp từ ESC/ERS 2019, AHA/ACC 2026, ESC 2025, ERC 2021, WSACS 2013 · không phải hình gốc",
+   "nodes": [
+    {
+     "id": "s",
+     "t": "Nghi sốc tắc nghẽn",
+     "d": "Hồi sức song song · siêu âm tim, tĩnh mạch chủ dưới, phổi · gọi hỗ trợ",
+     "x": 888,
+     "y": 170,
+     "w": 760,
+     "h": 100,
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "id": "p",
+     "t": "Tràn khí áp lực",
+     "d": "Giải áp ngay → dẫn lưu",
+     "x": 230,
+     "y": 450,
+     "w": 360,
+     "h": 130,
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "id": "t",
+     "t": "Chèn ép tim",
+     "d": "Dẫn lưu dưới siêu âm · mổ khẩn nếu bóc tách, vỡ tim",
+     "x": 660,
+     "y": 450,
+     "w": 400,
+     "h": 130,
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "id": "e",
+     "t": "Thuyên tắc phổi nguy cơ cao",
+     "d": "Heparin · norepinephrine · tiêu sợi huyết hoặc catheter/phẫu thuật · ECMO",
+     "x": 1140,
+     "y": 450,
+     "w": 460,
+     "h": 130,
+     "c": "coral",
+     "at": 3
+    },
+    {
+     "id": "k",
+     "t": "Khoang bụng",
+     "d": "Đo áp lực bàng quang · giải áp",
+     "x": 1600,
+     "y": 450,
+     "w": 340,
+     "h": 130,
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "edges": [
+    {
+     "a": "s",
+     "b": "p",
+     "at": 1
+    },
+    {
+     "a": "s",
+     "b": "t",
+     "at": 2
+    },
+    {
+     "a": "s",
+     "b": "e",
+     "at": 3
+    },
+    {
+     "a": "s",
+     "b": "k",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Cuối cùng là lưu đồ giờ đầu, tổng hợp từ các hướng dẫn. Nghi sốc tắc nghẽn: hồi sức song song với siêu âm tim, tĩnh mạch chủ dưới và phổi, gọi hỗ trợ sớm.",
+    "Tràn khí áp lực: giải áp ngay, người thở máy không chờ phim, sau đó đặt dẫn lưu ngực.",
+    "Chèn ép tim: dẫn lưu dưới hướng dẫn siêu âm, dịch nhỏ chỉ khi giảm thể tích, tránh đặt nội khí quản trước dẫn lưu nếu được; phẫu thuật khẩn nếu bóc tách, vỡ tim, chấn thương hay chảy máu do thủ thuật.",
+    "Thuyên tắc phổi nguy cơ cao: heparin có liều nạp, norepinephrine, dịch không quá 500 mi li lít, tránh đặt nội khí quản nếu được; tiêu sợi huyết nếu không chống chỉ định, nếu không thì catheter hoặc phẫu thuật; sốc kháng trị thì ếch mô; và kích hoạt đội đáp ứng thuyên tắc phổi.",
+    "Hội chứng khoang bụng: đo áp lực ổ bụng qua bàng quang và giải áp. Ở tuyến tỉnh, ba năng lực quyết định là siêu âm 24 giờ, tiêu sợi huyết tại chỗ và kỹ năng dẫn lưu; liên hệ trung tâm sớm khi có chống chỉ định, không đáp ứng hay sốc kháng trị."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: người bệnh thở máy tụt áp đột ngột",
+   "ref": "Ca minh hoạ · Leigh-Smith 2005 · ERC 2021 · Laan 2016",
+   "case": "Nam 45 tuổi, hội chứng suy hô hấp cấp tiến triển, thở máy PEEP 14. SpO₂ tụt từ 94% xuống 78%, áp lực đỉnh 30 → 46 cmH₂O, 3 phút sau HA 70/40. Rì rào bên phải giảm, siêu âm phải mất trượt màng phổi.",
+   "case_at": 0,
+   "q": "Việc làm ngay?",
+   "q_at": 1,
+   "options": [
+    "Chụp X-quang tại giường để xác nhận",
+    "Tăng PEEP để cải thiện oxy",
+    "Giải áp ngay bên phải ở vị trí bên, rồi đặt dẫn lưu",
+    "Truyền nhanh 1 lít dịch"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Thở máy: SpO₂ tụt đột ngột rồi tụt áp trong vài phút = mẫu hình tràn khí áp lực · giải áp trước phim · KLS 4–5 nách trước/nách giữa, kim đủ dài hoặc mở màng phổi · sau đó ống dẫn lưu",
+   "lines": [
+    "Tình huống cuối. Nam 45 tuổi, hội chứng suy hô hấp cấp tiến triển, đang thở máy với PEEP 14. Đột ngột SpO₂ tụt từ 94% xuống 78%, áp lực đỉnh đường thở tăng từ 30 lên 46 xăng ti mét nước, và 3 phút sau huyết áp tụt còn 70 trên 40. Rì rào bên phải giảm, siêu âm phổi bên phải mất trượt màng phổi.",
+    "Việc phải làm ngay là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là C. Ở người thở máy, SpO₂ tụt đột ngột rồi huyết áp tụt trong vài phút là mẫu hình điển hình của tràn khí áp lực. Không chờ X-quang. Giải áp ngay bên phải ở khoang liên sườn 4 đến 5 đường nách trước hoặc nách giữa bằng kim đủ dài, hoặc mở màng phổi nếu có người làm được, rồi đặt ống dẫn lưu ngực. Tăng PEEP hay truyền dịch chỉ làm áp lực lồng ngực và tình trạng xấu thêm, hoặc không giải quyết được gì."
+   ],
+   "id": "s12"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Thông điệp mang về cả loạt",
+   "dense": true,
+   "items": [
+    {
+     "t": "Sốc tắc nghẽn: gỡ chỗ tắc",
+     "d": "Siêu âm tìm nguyên nhân trong vài phút",
+     "c": "blue",
+     "at": 0
+    },
+    {
+     "t": "Thuyên tắc phổi: hồi sức thất phải đúng sinh lý",
+     "d": "Dịch ít · norepinephrine · tránh thở máy · tái tưới máu theo nhóm",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "Chèn ép tim: điểm ≥ 6 chọc ngay",
+     "d": "Người sốc không cần tính điểm · dẫn lưu kéo dài",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "t": "Tràn khí áp lực: giải áp trước, phim sau",
+     "d": "Vị trí bên · kim đủ dài · mở màng phổi khi ngừng tim",
+     "c": "amber",
+     "at": 3
+    },
+    {
+     "t": "Đừng quên khoang bụng",
+     "d": "Đo áp lực bàng quang ở người nguy cơ",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Tóm lại cả loạt bài: sốc tắc nghẽn được điều trị bằng gỡ bỏ chỗ tắc, và siêu âm tại giường tìm ra chỗ tắc trong vài phút.",
+    "Với thuyên tắc phổi, hồi sức thất phải đúng sinh lý: dịch rất ít, norepinephrine, tránh an thần sâu và thở máy, và tái tưới máu theo nhóm nguy cơ.",
+    "Với chèn ép tim, điểm phân loại từ 6 trở lên thì chọc ngay; người đang sốc không cần tính điểm; dẫn lưu kéo dài làm giảm tái phát.",
+    "Với tràn khí áp lực, giải áp trước, phim sau; chọn vị trí bên, kim đủ dài, và mở màng phổi khi ngừng tim.",
+    "Và đừng quên hội chứng khoang bụng ở người bệnh nguy cơ. Trọn bộ chuyên đề có tại thuvienykhoa chấm online. Cảm ơn quý đồng nghiệp đã theo dõi loạt bài Sốc tắc nghẽn của Thư Viện Y Khoa Online."
+   ],
+   "id": "s13"
+  }
+ ]
+}

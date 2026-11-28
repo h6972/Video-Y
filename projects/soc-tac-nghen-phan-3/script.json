@@ -1,0 +1,786 @@
+{
+ "title": "Sốc tắc nghẽn – Phần 3: Thuyên tắc phổi: tái tưới máu và hỗ trợ cơ học",
+ "tts": "vieneu",
+ "vieneu": {
+  "voice": "Adam"
+ },
+ "voice": "vi-VN-NamMinhNeural",
+ "rate": "-8%",
+ "series": "THƯ VIỆN Y KHOA ONLINE",
+ "subtitle": "Sốc tắc nghẽn · seri Sốc (5)",
+ "part": "Sốc tắc nghẽn · Phần 3/4",
+ "source_short": "Nguồn: AHA/ACC 2026 · ESC/ERS 2019 · ESC 2025 · HFA/ESC 2016 · ERC 2021 · BTS 2023 · WSACS 2013 · PEITHO, HI-PEITHO, STORM-PE, PEERLESS · tổng quan Spodick, Zotzmann, Leigh-Smith, Roberts",
+ "sign": "Thư Viện Y Khoa Online",
+ "lexicon": {
+  "Leigh-Smith": "li xmít",
+  "Mayo Clinic": "mây ô cờ li ních",
+  "SEATTLE II": "xi a tồ hai",
+  "µg/kg/phút": "mi crô gam mỗi ký mỗi phút",
+  "Chatterjee": "chát tơ ri",
+  "Impella RP": "im pe la rờ pê",
+  "HI-PEITHO": "hai pây thô",
+  "McConnell": "mắc cô nồ",
+  "PEITHO-3": "pây thô ba",
+  "STORM-PE": "xtom pê e",
+  "PEERLESS": "pia lét",
+  "Zotzmann": "dốt man",
+  "AHA/ACC": "a hát a, a xê xê",
+  "VA-ECMO": "ếch mô tĩnh mạch động mạch",
+  "ESC/ERS": "e ét xê",
+  "Spodick": "xpô đích",
+  "Harjola": "hác giô la",
+  "PEITHO": "pây thô",
+  "MOPETT": "mô pét",
+  "ULTIMA": "un ti ma",
+  "mmol/L": "mi li mol mỗi lít",
+  "Ristić": "ri xtích",
+  "Hestia": "hét ti a",
+  "type A": "típ A",
+  "FLARE": "phle",
+  "FLASH": "phlát",
+  "sPESI": "ét pê si",
+  "ESICM": "e ét i xê em",
+  "WSACS": "hội hội chứng khoang bụng thế giới",
+  "TAPSE": "táp xi",
+  "GUSTO": "gút tô",
+  "IU/kg": "đơn vị mỗi ký",
+  "mL/kg": "mi li lít mỗi ký",
+  "cmH₂O": "xăng ti mét nước",
+  "mg/kg": "mi li gam mỗi ký",
+  "Tsang": "xang",
+  "Marti": "mác ti",
+  "Kmiec": "cờ miếc",
+  "NEWS2": "niu hai",
+  "RIETE": "ri ê tê",
+  "ECMO": "ếch mô",
+  "PESI": "pê si",
+  "RUSH": "rớt",
+  "PERT": "pớt",
+  "ISTH": "i ét tê hát",
+  "SCAI": "ét cai",
+  "SpO₂": "SpO hai",
+  "mmHg": "mi li mét thuỷ ngân",
+  "Laan": "lan",
+  "Bova": "bô va",
+  "PEEP": "píp",
+  "aPTT": "a pê tê tê",
+  "14 G": "mười bốn gờ",
+  "SaO₂": "SaO hai",
+  "ESC": "e ét xê",
+  "ERC": "e rờ xê",
+  "BTS": "bê tê ét",
+  "VTI": "vê tê i",
+  "CO₂": "CO hai",
+  "ICU": "hồi sức"
+ },
+ "brand": {
+  "next": "Phần 4: Chèn ép tim, tràn khí màng phổi áp lực và lưu đồ tại giường"
+ },
+ "scenes": [
+  {
+   "layout": "title",
+   "chapter": "Mở đầu",
+   "kicker": "SỐC TẮC NGHẼN · PHẦN 3/4",
+   "art": "lungs",
+   "title": "Thuyên tắc phổi:<br>tái tưới máu và hỗ trợ cơ học",
+   "subtitle": "Tiêu sợi huyết · catheter · phẫu thuật · ECMO · ngừng tim",
+   "badges": [
+    {
+     "t": "Alteplase 100 mg/2 giờ",
+     "c": "coral",
+     "at": 1
+    },
+    {
+     "t": "HI-PEITHO 2026",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "t": "CPR 60–90 phút",
+     "c": "amber",
+     "at": 3
+    }
+   ],
+   "note": "Tổng hợp: ESC/ERS 2019 · AHA/ACC 2026 · PEITHO · Chatterjee 2014 · Marti 2015 · MOPETT · ULTIMA · SEATTLE II · FLARE · FLASH · PEERLESS · STORM-PE · HI-PEITHO · ERC 2021",
+   "note_at": 3,
+   "lines": [
+    "Thưa quý đồng nghiệp, chào mừng quý vị đến với phần ba của loạt bài Sốc tắc nghẽn.",
+    "Mọi biện pháp ở phần hai chỉ mua thời gian. Điều trị thực sự của thuyên tắc phổi nguy cơ cao là giảm hậu tải thất phải bằng cách mở lại động mạch phổi.",
+    "Phần này đi qua tiêu sợi huyết toàn thân, từ PEITHO đến liều và chống chỉ định; các thử nghiệm can thiệp qua catheter đến HI-PEITHO năm 2026;",
+    "rồi phẫu thuật, hỗ trợ tuần hoàn cơ học, và ngừng tim do thuyên tắc phổi."
+   ],
+   "id": "s01"
+  },
+  {
+   "layout": "bars",
+   "chapter": "PEITHO",
+   "title": "PEITHO: tiêu sợi huyết ở nguy cơ trung gian",
+   "ref": "Meyer, NEJM 2014, tr. 1402–1407",
+   "groups": [
+    {
+     "t": "Tử vong hoặc mất bù 7 ngày",
+     "d": "Kết cục chính · OR 0,44",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Tenecteplase",
+       "v": 2.6,
+       "lab": "2,6%"
+      },
+      {
+       "k": "Giả dược",
+       "v": 5.6,
+       "lab": "5,6%"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu nặng ngoài sọ",
+     "d": "Tác hại",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Tenecteplase",
+       "v": 6.3,
+       "lab": "6,3%"
+      },
+      {
+       "k": "Giả dược",
+       "v": 1.2,
+       "lab": "1,2%"
+      }
+     ]
+    },
+    {
+     "t": "Đột quỵ xuất huyết",
+     "d": "Tác hại",
+     "at": 3,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Tenecteplase",
+       "v": 2.0,
+       "lab": "2,0%"
+      },
+      {
+       "k": "Giả dược",
+       "v": 0.2,
+       "lab": "0,2%"
+      }
+     ]
+    }
+   ],
+   "max": 8,
+   "notes": [
+    {
+     "tag": "QUẦN THỂ",
+     "t": "1.006 người · huyết áp bình thường · thất phải bất thường + troponin dương",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "TỬ VONG",
+     "t": "Ngày 7 và ngày 30 không khác biệt",
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "tag": "BÀI HỌC",
+     "t": "Theo dõi sát · tiêu sợi huyết cứu vãn khi xấu đi",
+     "at": 4,
+     "c": "green"
+    }
+   ],
+   "notes_w": 470,
+   "lines": [
+    "PEITHO là thử nghiệm định hình thực hành. Thử nghiệm ngẫu nhiên mù đôi tại 76 trung tâm thuộc 13 quốc gia, trên 1.006 người bệnh huyết áp bình thường, có rối loạn thất phải và troponin dương tính, so sánh một liều tenecteplase theo cân nặng, 30 đến 50 mi li gam, với giả dược, cùng heparin.",
+    "Kết cục chính, tử vong hoặc mất bù huyết động trong 7 ngày, giảm từ 5,6% xuống 2,6%, chủ yếu nhờ giảm mất bù; tử vong ngày 7 và ngày 30 không khác biệt.",
+    "Cái giá phải trả: chảy máu nặng ngoài sọ tăng từ 1,2% lên 6,3%,",
+    "và đột quỵ xuất huyết tăng từ 0,2% lên 2,0%.",
+    "Nhóm chứng được theo dõi sát và được tiêu sợi huyết cứu vãn khi xấu đi. AHA/ACC nhận định lợi ích tương tự có thể đạt được nếu chỉ tiêu sợi huyết ở người mất bù. Bài học: theo dõi sát và cứu vãn, không tiêu sợi huyết thường quy ở nhóm trung gian."
+   ],
+   "id": "s02"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Phân tích gộp",
+   "title": "Bức tranh từ các phân tích gộp",
+   "ref": "Chatterjee, JAMA 2014, tr. 2414 · Marti, Eur Heart J 2015, pdf 1–7",
+   "head": [
+    "Phân tích",
+    "Tử vong",
+    "Chảy máu nặng",
+    "Xuất huyết nội sọ"
+   ],
+   "widths": "1.4fr 1.6fr 1.3fr 1.3fr",
+   "rows": [
+    {
+     "cells": [
+      "Chatterjee 2014 · 16 RCT, 2.115 người",
+      "OR 0,53 · số cần điều trị 59",
+      "OR 2,73 · số cần gây hại 18",
+      "OR 4,63"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Chatterjee · nhóm trung gian",
+      "OR 0,48 (0,25–0,92)",
+      "—",
+      "—"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Marti 2015 · 15 RCT, 2.057 người",
+      "OR 0,59 (0,36–0,96)",
+      "OR 2,91",
+      "Tử vong do chảy máu hoặc nội sọ OR 3,18"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Marti · loại nhóm nguy cơ cao",
+      "OR 0,64 (0,35–1,17) · mất ý nghĩa",
+      "—",
+      "—"
+     ],
+     "at": 3,
+     "c": "amber"
+    }
+   ],
+   "lines": [
+    "Hai phân tích gộp lớn cho cùng một bức tranh chung. Chatterjee gộp 16 thử nghiệm, 2.115 người: tiêu sợi huyết giảm tử vong mọi nguyên nhân, OR 0,53, số cần điều trị 59; nhưng tăng chảy máu nặng, OR 2,73, số cần để gây hại 18, và tăng xuất huyết nội sọ, OR 4,63.",
+    "Ở nhóm nguy cơ trung gian, Chatterjee vẫn thấy giảm tử vong có ý nghĩa, OR 0,48.",
+    "Marti gộp 15 thử nghiệm, 2.057 người: tử vong sớm giảm, OR 0,59, chảy máu nặng tăng gần gấp ba.",
+    "Nhưng khi loại các nghiên cứu có người bệnh nguy cơ cao, khác biệt tử vong của Marti mất ý nghĩa. Nói cách khác: tiêu sợi huyết giảm tử vong chung nhưng tăng rõ chảy máu, và ở người huyết áp bình thường, hai phân tích không thống nhất."
+   ],
+   "id": "s03"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Khuyến cáo",
+   "title": "Tiêu sợi huyết toàn thân: hai hướng dẫn",
+   "ref": "ESC/ERS 2019, tr. 26–27 · AHA/ACC 2026, mục 4.4.1, tr. e1012; Bảng 7",
+   "head": [
+    "Tình huống",
+    "ESC 2019",
+    "AHA/ACC 2026"
+   ],
+   "widths": "1.5fr 1.2fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Nguy cơ cao / nhóm E1–2",
+      "<b>I/B</b> khuyến cáo",
+      "<b>2a/C-LD</b> hợp lý"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Xấu đi trên chống đông",
+      "Cứu vãn <b>I/B</b>",
+      "—"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "Nhóm D1–2",
+      "—",
+      "2b · có thể cân nhắc"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Nhóm C3",
+      "—",
+      "2b · không chắc chắn"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Trung gian, thấp / A1–C2",
+      "Không thường quy <b>III/B</b>",
+      "<b>3: có hại</b>"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Hai hướng dẫn đồng thuận về hướng đi, khác nhau về mức độ chắc chắn. Ở nguy cơ cao, ESC khuyến cáo tiêu sợi huyết mức một, bằng chứng B; AHA/ACC xếp ở nhóm E1 đến E2 là hợp lý, mức 2a, dữ liệu hạn chế. Không có thử nghiệm mới nào ở nhóm sốc, và khó có thể có.",
+    "ESC khuyến cáo tiêu sợi huyết cứu vãn khi người bệnh xấu đi trên nền chống đông, mức một.",
+    "AHA/ACC mở cánh cửa cho nhóm D: có thể cân nhắc ở D1 đến D2; ở C3 lợi ích không chắc chắn.",
+    "Và ở nhóm trung gian, thấp, tức A1 đến C2 của AHA/ACC, cả hai đều không ủng hộ: ESC mức ba, AHA/ACC mức ba, có hại, vì tăng chảy máu nặng và xuất huyết nội sọ."
+   ],
+   "id": "s04"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Liều",
+   "title": "Phác đồ tiêu sợi huyết toàn thân",
+   "ref": "ESC/ERS 2019, Bảng 10, tr. 25; tr. 24 · AHA/ACC 2026, tr. e1013 · đã kiểm liều 27/11/2026",
+   "head": [
+    "Thuốc",
+    "Phác đồ",
+    "Ghi chú"
+   ],
+   "widths": "1.1fr 2.3fr 1.6fr",
+   "rows": [
+    {
+     "cells": [
+      "Alteplase",
+      "<b>100 mg truyền tĩnh mạch trong 2 giờ</b>",
+      "Chuẩn · heparin truyền song song được"
+     ],
+     "at": 0,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "Alteplase nhanh",
+      "0,6 mg/kg trong 15 phút, tối đa 50 mg",
+      "Không phê duyệt chính thức · bất ổn cực độ, ngừng tim"
+     ],
+     "at": 1,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "Streptokinase",
+      "250.000 IU/30 phút → 100.000 IU/giờ × 12–24 giờ · hoặc 1,5 triệu IU/2 giờ",
+      "Ngưng heparin khi truyền"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Urokinase",
+      "4.400 IU/kg/10 phút → 4.400 IU/kg/giờ × 12–24 giờ · hoặc 3 triệu IU/2 giờ",
+      "Ngưng heparin khi truyền"
+     ],
+     "at": 2,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "Liều giảm",
+      "Alteplase 25–50 mg",
+      "AHA/ACC 2b · ESC chưa khuyến cáo · PEITHO-3 đang chạy"
+     ],
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Phác đồ chuẩn là alteplase 100 mi li gam truyền tĩnh mạch trong 2 giờ, được ưu tiên hơn truyền kéo dài các thuốc thế hệ đầu; heparin không phân đoạn có thể truyền song song.",
+    "Phác đồ nhanh 0,6 mi li gam mỗi ký trong 15 phút, tối đa 50 mi li gam, không được phê duyệt chính thức nhưng đôi khi được dùng khi bất ổn cực độ như ngừng tim.",
+    "Streptokinase và urokinase có phác đồ nạp rồi truyền 12 đến 24 giờ, hoặc phác đồ nhanh 2 giờ; khi dùng hai thuốc này phải ngưng heparin.",
+    "Liều giảm 25 đến 50 mi li gam alteplase: AHA/ACC xếp có thể cân nhắc, mức 2b, để giảm chảy máu; ESC cho rằng dữ liệu còn sơ bộ. Thử nghiệm nhỏ MOPETT dùng nửa liều, kết cục chính là tăng áp phổi trên siêu âm; PEITHO-3 vẫn đang tiến hành. Ở người sốc không chống chỉ định, liều chuẩn vẫn là mặc định, theo nhận định của người soạn."
+   ],
+   "id": "s05"
+  },
+  {
+   "layout": "cards",
+   "chapter": "Chống chỉ định",
+   "title": "Chống chỉ định tiêu sợi huyết",
+   "ref": "ESC/ERS 2019, Bảng 10, tr. 25",
+   "cards": [
+    {
+     "tag": "TUYỆT ĐỐI",
+     "t": "Không tiêu sợi huyết",
+     "items": [
+      "Đột quỵ xuất huyết hoặc không rõ loại",
+      "Nhồi máu não trong 6 tháng",
+      "U hệ thần kinh trung ương",
+      "Chấn thương lớn, phẫu thuật, chấn thương đầu trong 3 tuần",
+      "Cơ địa chảy máu · đang chảy máu"
+     ],
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "tag": "TƯƠNG ĐỐI",
+     "t": "Cân nhắc với nguy cơ tử vong",
+     "items": [
+      "Thiếu máu não thoáng qua trong 6 tháng",
+      "Đang uống chống đông",
+      "Thai, tuần đầu sau sinh",
+      "Chọc mạch không ép được · hồi sinh có chấn thương",
+      "HA tâm thu > 180 · bệnh gan tiến triển · viêm nội tâm mạc · loét dạ dày"
+     ],
+     "c": "amber",
+     "at": 1
+    }
+   ],
+   "lines": [
+    "Chống chỉ định tuyệt đối gồm tiền sử đột quỵ xuất huyết hoặc không rõ nguyên nhân; nhồi máu não trong 6 tháng; u hệ thần kinh trung ương; chấn thương lớn, phẫu thuật hoặc chấn thương đầu trong 3 tuần; cơ địa chảy máu và đang chảy máu.",
+    "Chống chỉ định tương đối gồm thiếu máu não thoáng qua trong 6 tháng, đang uống chống đông, có thai hoặc tuần đầu sau sinh, vị trí chọc mạch không ép được, hồi sinh có chấn thương, huyết áp tâm thu trên 180, bệnh gan tiến triển, viêm nội tâm mạc và loét dạ dày tiến triển. Ở người đang sốc, chống chỉ định tương đối phải được cân nhắc với nguy cơ tử vong rất cao nếu không tái tưới máu; khi có chống chỉ định tuyệt đối, đó là lúc chuyển sang catheter hoặc phẫu thuật."
+   ],
+   "id": "s06"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Catheter",
+   "title": "Điều trị qua catheter: từ chỉ số thay thế đến kết cục lâm sàng",
+   "ref": "Kucher 2014 · Piazza 2015 · Tu 2019 · Toma 2023 · Jaber 2025 · Lookstein 2026 · Rosenfield 2026",
+   "head": [
+    "Nghiên cứu",
+    "Thiết kế",
+    "Kết quả chính"
+   ],
+   "widths": "1.1fr 1.5fr 2.4fr",
+   "rows": [
+    {
+     "cells": [
+      "ULTIMA 2014",
+      "RCT, 59",
+      "Tỉ số thất phải/thất trái giảm 0,30 vs 0,03 sau 24 giờ"
+     ],
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "SEATTLE II 2015",
+      "Một nhánh, 150",
+      "1,55 → 1,13 · chảy máu GUSTO nặng + vừa 10% (massive 23%)"
+     ],
+     "at": 0,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "FLARE · FLASH",
+      "Một nhánh 106 · sổ bộ 799",
+      "Giảm tỉ số 0,38 · biến cố nặng 1,8%, tử vong 30 ngày 0,8%"
+     ],
+     "at": 1,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "PEERLESS 2025",
+      "RCT, 550 · hai kỹ thuật",
+      "Win ratio 5,01 nhờ ICU · không khác tử vong, chảy máu"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "STORM-PE 2026",
+      "RCT, 100 · vs chống đông",
+      "Giảm thêm tỉ số 0,27 sau 48 giờ"
+     ],
+     "at": 2,
+     "c": "violet"
+    },
+    {
+     "cells": [
+      "HI-PEITHO 2026",
+      "RCT, 544 · vs chống đông",
+      "<b>Kết cục lâm sàng 7 ngày 4,0% vs 10,3%</b>"
+     ],
+     "at": 3,
+     "c": "coral"
+    }
+   ],
+   "lines": [
+    "Can thiệp qua catheter đưa thuốc liều thấp vào huyết khối, phá hoặc hút huyết khối, nhằm giữ hiệu quả mà giảm chảy máu toàn thân. ULTIMA, thử nghiệm ngẫu nhiên đầu tiên trên 59 người, cho thấy tỉ số thất phải trên thất trái giảm 0,30 so với 0,03 sau 24 giờ. SEATTLE II, một nhánh 150 người, nhắc rằng liều thấp tại chỗ không đồng nghĩa với không chảy máu: chảy máu lớn theo GUSTO 10%, lên 23% ở nhóm massive.",
+    "FLARE và sổ bộ FLASH với lấy huyết khối cơ học cho số liệu an toàn thuận lợi, nhưng là người bệnh được chọn, không có nhóm so sánh.",
+    "PEERLESS so hai kỹ thuật với nhau: win ratio 5,01 nghiêng về lấy huyết khối, nhưng chủ yếu nhờ ít vào ICU; không khác tử vong, xuất huyết nội sọ hay chảy máu nặng. STORM-PE là thử nghiệm đầu tiên so hút huyết khối với chống đông, nhưng kết cục chính vẫn là chỉ số thay thế.",
+    "Và HI-PEITHO năm 2026 là bước ngoặt vì dùng kết cục lâm sàng."
+   ],
+   "id": "s07"
+  },
+  {
+   "layout": "bars",
+   "chapter": "HI-PEITHO",
+   "title": "HI-PEITHO 2026",
+   "ref": "Rosenfield, NEJM 2026, tr. 2–3, 8–11",
+   "groups": [
+    {
+     "t": "Kết cục gộp 7 ngày",
+     "d": "Tử vong do thuyên tắc phổi · mất bù · tái phát · RR 0,39",
+     "at": 1,
+     "c": "teal",
+     "bars": [
+      {
+       "k": "Catheter + chống đông",
+       "v": 4.0,
+       "lab": "4,0%"
+      },
+      {
+       "k": "Chống đông",
+       "v": 10.3,
+       "lab": "10,3%"
+      }
+     ]
+    },
+    {
+     "t": "Chảy máu nặng ISTH 7 ngày",
+     "d": "RR 1,8 (0,7–4,9) · không xuất huyết nội sọ",
+     "at": 2,
+     "c": "coral",
+     "bars": [
+      {
+       "k": "Catheter + chống đông",
+       "v": 4.1,
+       "lab": "4,1%"
+      },
+      {
+       "k": "Chống đông",
+       "v": 2.2,
+       "lab": "2,2%"
+      }
+     ]
+    }
+   ],
+   "max": 12,
+   "notes": [
+    {
+     "tag": "QUẦN THỂ",
+     "t": "544 người · thất phải/thất trái ≥ 1 · troponin · ≥ 2 dấu: HA ≤ 110, mạch ≥ 100, thở > 20, giảm oxy",
+     "at": 0,
+     "c": "blue"
+    },
+    {
+     "tag": "LỢI ÍCH",
+     "t": "Chủ yếu giảm mất bù · tử vong do thuyên tắc phổi 3 vs 1 ca",
+     "at": 3,
+     "c": "amber"
+    },
+    {
+     "tag": "GIỚI HẠN",
+     "t": "Không mù · ít biến cố · tài trợ công nghiệp · ra sau AHA/ACC 2026",
+     "at": 3,
+     "c": "violet"
+    }
+   ],
+   "notes_w": 480,
+   "lines": [
+    "HI-PEITHO tuyển 544 người bệnh 18 đến 80 tuổi, tỉ số thất phải trên thất trái từ 1,0, troponin bất thường và ít nhất hai dấu hiệu suy tim – hô hấp, như huyết áp tâm thu từ 110 trở xuống, nhịp tim từ 100, nhịp thở trên 20 hoặc giảm oxy máu. Người bệnh được tiêu sợi huyết qua catheter có hỗ trợ siêu âm cộng chống đông, hoặc chống đông đơn thuần.",
+    "Kết cục gộp gồm tử vong do thuyên tắc phổi, mất bù tim – hô hấp và tái phát có triệu chứng trong 7 ngày, giảm từ 10,3% xuống 4,0%, nguy cơ tương đối 0,39.",
+    "Chảy máu nặng theo ISTH là 4,1% so với 2,2%, khác biệt không có ý nghĩa, và không có xuất huyết nội sọ trong nhóm được điều trị.",
+    "Cần đọc đúng mức: lợi ích chủ yếu đến từ giảm mất bù; tử vong do thuyên tắc phổi là 3 so với 1 ca, nên thử nghiệm không chứng minh giảm tử vong. Thử nghiệm không làm mù, ít biến cố, do công nghiệp tài trợ, và ra sau hướng dẫn AHA/ACC nên chưa được phản ánh trong khuyến cáo."
+   ],
+   "id": "s08"
+  },
+  {
+   "layout": "compare",
+   "chapter": "Theo nhóm",
+   "title": "Khuyến cáo điều trị nâng cao theo nhóm AHA/ACC",
+   "ref": "AHA/ACC 2026, Bảng 7, tr. e1012; mục 4.4.2–4.4.4",
+   "head": [
+    "Nhóm",
+    "Toàn thân",
+    "Qua catheter",
+    "Lấy huyết khối",
+    "Phẫu thuật"
+   ],
+   "widths": "0.7fr 1fr 1fr 1fr 1fr",
+   "rows": [
+    {
+     "cells": [
+      "A–C1",
+      "3: có hại",
+      "3: không lợi",
+      "3: không lợi",
+      "3: không lợi"
+     ],
+     "at": 0,
+     "c": "teal"
+    },
+    {
+     "cells": [
+      "C2–C3",
+      "3 / 2b",
+      "2b không rõ",
+      "2b không rõ",
+      "3: không lợi"
+     ],
+     "at": 1,
+     "c": "blue"
+    },
+    {
+     "cells": [
+      "D1–2",
+      "2b",
+      "2b",
+      "2b",
+      "2b"
+     ],
+     "at": 2,
+     "c": "amber"
+    },
+    {
+     "cells": [
+      "E1",
+      "<b>2a</b>",
+      "<b>2a</b>",
+      "<b>2a</b>",
+      "<b>2a</b>"
+     ],
+     "at": 3,
+     "c": "coral"
+    },
+    {
+     "cells": [
+      "E2",
+      "2a",
+      "—",
+      "—",
+      "3: không lợi nếu chưa hỗ trợ cơ học"
+     ],
+     "at": 4,
+     "c": "violet"
+    }
+   ],
+   "lines": [
+    "Bảng này tóm tắt khuyến cáo AHA/ACC theo nhóm. Ở nhóm A đến C1, không điều trị nâng cao nào được khuyến cáo; tiêu sợi huyết toàn thân là có hại.",
+    "Ở C2 đến C3, lợi ích của catheter và lấy huyết khối là không rõ, mức 2b.",
+    "Ở D1 đến D2, mọi phương án nâng cao đều có thể được cân nhắc, mức 2b. Catheter hoặc lấy huyết khối có thể được chọn hơn tiêu sợi huyết toàn thân để giảm chảy máu; phẫu thuật có thể được chọn để giảm xuất huyết nội sọ. Khi làm catheter, liều dưới 5 mi li gam alteplase mỗi động mạch phổi không được khuyến cáo thay cho liều chuẩn 5 đến 10 mi li gam.",
+    "Ở E1, cả bốn phương án đều hợp lý, mức 2a; ESC thì khuyến cáo phẫu thuật mức một và catheter mức 2a khi tiêu sợi huyết chống chỉ định hoặc thất bại.",
+    "Ở E2, tiêu sợi huyết hợp lý, còn phẫu thuật ở người chưa có hỗ trợ cơ học không được khuyến cáo hơn các biện pháp khác, vì tiên lượng rất xấu, phần lớn do tổn thương não thiếu oxy trước mổ."
+   ],
+   "id": "s09"
+  },
+  {
+   "layout": "cards",
+   "chapter": "ECMO · ngừng tim",
+   "title": "Hỗ trợ cơ học và ngừng tim do thuyên tắc phổi",
+   "ref": "AHA/ACC 2026, mục 4.2.4, tr. e1008 · ESC/ERS 2019, tr. 23, 26 · Abdulaziz 2025, tr. 3, 6, 10 · ERC 2021, tr. 183",
+   "cards": [
+    {
+     "tag": "VA-ECMO",
+     "t": "Sốc kháng trị nhóm E2",
+     "d": "AHA/ACC 2a khi có nguồn lực · chống đông tiếp tục (1) · ESC IIb/C kèm phẫu thuật hoặc catheter",
+     "c": "teal",
+     "at": 0
+    },
+    {
+     "tag": "BẰNG CHỨNG",
+     "t": "Sổ bộ, loạt ca",
+     "d": "Sống > 60% (tới 70%) · Kmiec: sau ổn định, chỉ chống đông 49% vs thêm can thiệp 44%",
+     "c": "blue",
+     "at": 1
+    },
+    {
+     "tag": "THIẾT BỊ KHÁC",
+     "t": "Impella RP không có bộ trao đổi oxy",
+     "d": "Không thay VA-ECMO khi vừa sốc vừa giảm oxy nặng",
+     "c": "amber",
+     "at": 2
+    },
+    {
+     "tag": "NGỪNG TIM",
+     "t": "Tiêu sợi huyết khi nghi thuyên tắc phổi",
+     "d": "ERC khuyến cáo yếu · CPR ít nhất 60–90 phút sau khi tiêm · ECPR chọn lọc",
+     "c": "coral",
+     "at": 3
+    }
+   ],
+   "lines": [
+    "Ếch mô tĩnh mạch động mạch thay được cả chức năng bơm của thất phải lẫn trao đổi khí của phổi, tạo thời gian cho điều trị nguyên nhân. AHA/ACC xếp đặt ếch mô ở sốc kháng trị nhóm E2 là hợp lý khi có nguồn lực, mức 2a, và khuyến cáo tiếp tục chống đông khi không chảy máu. ESC 2019 chỉ ở mức 2b, khi phối hợp phẫu thuật hoặc catheter.",
+    "Bằng chứng chỉ gồm sổ bộ và loạt ca: các tổng quan hệ thống báo cáo tỉ lệ sống trên 60%, tới 70%. Câu hỏi ếch mô đơn thuần hay kèm tái tưới máu chưa có lời đáp: trong nghiên cứu của Kmiec, sau khi đã ổn định bằng ếch mô, tỉ lệ sống của nhóm chỉ chống đông là 49% so với 44% ở nhóm thêm can thiệp.",
+    "Impella RP không có bộ trao đổi oxy, nên không thay thế được ếch mô ở người vừa sốc vừa giảm oxy nặng.",
+    "Trong ngừng tim nghi do thuyên tắc phổi, ERC 2021 khuyến cáo dùng tiêu sợi huyết, mức khuyến cáo yếu, bằng chứng rất thấp; sau khi đã tiêm thuốc, tiếp tục hồi sinh ít nhất 60 đến 90 phút trước khi quyết định ngừng; hồi sinh ngoài cơ thể là biện pháp cứu vãn ở người bệnh chọn lọc."
+   ],
+   "id": "s10"
+  },
+  {
+   "layout": "quiz",
+   "chapter": "Tình huống",
+   "title": "Tình huống: có chống chỉ định thì sao?",
+   "ref": "Ca minh hoạ · ESC/ERS 2019, Bảng 10, tr. 25–26 · AHA/ACC 2026, Bảng 7",
+   "case": "Nữ 68 tuổi, thay khớp háng 5 ngày trước. Ngất, HA 80/50 kéo dài 25 phút dù 500 mL dịch, lactate 4,1. Siêu âm: thất phải/thất trái 1,4, McConnell. Đang dùng norepinephrine 0,3 µg/kg/phút.",
+   "case_at": 0,
+   "q": "Chiến lược tái tưới máu phù hợp nhất?",
+   "q_at": 1,
+   "options": [
+    "Alteplase 100 mg trong 2 giờ",
+    "Alteplase liều giảm 25 mg",
+    "Catheter hoặc phẫu thuật lấy huyết khối, liên hệ trung tâm ngay",
+    "Chỉ chống đông, chờ ổn định"
+   ],
+   "answer": 2,
+   "answer_at": 3,
+   "countdown": {
+    "after": 2,
+    "s": 8
+   },
+   "explain": "Nguy cơ cao / E1 · phẫu thuật lớn trong 3 tuần = chống chỉ định tuyệt đối → không tiêu sợi huyết (cả liều giảm) · ESC: phẫu thuật I/C, catheter IIa/C · VA-ECMO nếu xấu đi",
+   "lines": [
+    "Tình huống. Nữ 68 tuổi, thay khớp háng 5 ngày trước. Ngất, huyết áp 80 trên 50 kéo dài 25 phút dù đã truyền 500 mi li lít dịch, lactate 4,1. Siêu âm thất phải giãn, tỉ số 1,4, dấu McConnell. Đang dùng norepinephrine 0,3 mi crô gam mỗi ký mỗi phút.",
+    "Chiến lược tái tưới máu phù hợp nhất là gì?",
+    "Quý vị có thể tạm dừng video để suy nghĩ.",
+    "Đáp án là C. Người bệnh thuộc nhóm nguy cơ cao của ESC, nhóm E1 của AHA/ACC, và cần tái tưới máu. Nhưng phẫu thuật lớn trong 3 tuần là chống chỉ định tuyệt đối của tiêu sợi huyết, kể cả liều giảm. ESC khuyến cáo phẫu thuật lấy huyết khối mức một và điều trị qua catheter mức 2a khi tiêu sợi huyết bị chống chỉ định; cần liên hệ trung tâm có khả năng ngay, và cân nhắc ếch mô nếu xấu đi. Chống chỉ định tuyệt đối không có nghĩa là không tái tưới máu, mà là chọn đường khác."
+   ],
+   "id": "s11"
+  },
+  {
+   "layout": "summary",
+   "chapter": "Tổng kết",
+   "title": "Năm thông điệp mang về",
+   "dense": true,
+   "items": [
+    {
+     "t": "Tiêu sợi huyết: đầu tay ở người sốc",
+     "d": "Alteplase 100 mg/2 giờ · rà chống chỉ định",
+     "c": "coral",
+     "at": 0
+    },
+    {
+     "t": "Nhóm trung gian: theo dõi, cứu vãn",
+     "d": "PEITHO: giảm mất bù, tăng đột quỵ xuất huyết",
+     "c": "amber",
+     "at": 1
+    },
+    {
+     "t": "Catheter: có kết cục lâm sàng",
+     "d": "HI-PEITHO · chưa chứng minh giảm tử vong",
+     "c": "teal",
+     "at": 2
+    },
+    {
+     "t": "Chống chỉ định: chọn đường khác",
+     "d": "Catheter, phẫu thuật, ECMO · hội chẩn đa chuyên khoa",
+     "c": "blue",
+     "at": 3
+    },
+    {
+     "t": "Ngừng tim: tiêu sợi huyết, CPR 60–90 phút",
+     "d": "ECPR ở người chọn lọc",
+     "c": "violet",
+     "at": 4
+    }
+   ],
+   "lines": [
+    "Tóm lại, thứ nhất: tiêu sợi huyết toàn thân là tái tưới máu đầu tay ở người sốc không có chống chỉ định, alteplase 100 mi li gam trong 2 giờ.",
+    "Thứ hai: ở nhóm trung gian, PEITHO cho thấy giảm mất bù nhưng tăng đột quỵ xuất huyết; chiến lược là theo dõi sát và cứu vãn.",
+    "Thứ ba: điều trị qua catheter đã có thử nghiệm kết cục lâm sàng, HI-PEITHO, nhưng chưa chứng minh giảm tử vong.",
+    "Thứ tư: khi có chống chỉ định, chọn catheter, phẫu thuật hoặc ếch mô, với quyết định của đội đa chuyên khoa.",
+    "Thứ năm: ngừng tim nghi do thuyên tắc phổi, dùng tiêu sợi huyết và hồi sinh ít nhất 60 đến 90 phút. Phần cuối: chèn ép tim, tràn khí màng phổi áp lực và lưu đồ tại giường. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online."
+   ],
+   "id": "s12"
+  }
+ ]
+}
