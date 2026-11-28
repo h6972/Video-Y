@@ -1,0 +1,71 @@
+{
+ "phan-1": {
+  "phut": 10,
+  "ch": [
+   "00:00 Mở đầu",
+   "00:42 Hai cơ chế của sốc tắc nghẽn",
+   "01:18 Các mốc thay đổi thực hành",
+   "02:21 Vòng xoắn đi xuống của thất phải",
+   "03:11 Ba hệ quả điều trị từ sinh lý thất phải",
+   "03:42 Áp lực màng ngoài tim và hiện tượng giọt cuối",
+   "04:31 Tràn khí áp lực: một cơ chế, hai bệnh cảnh",
+   "05:11 Từ cơ chế đến dấu hiệu và đích điều trị",
+   "05:50 Tìm chỗ tắc bằng siêu âm tại giường",
+   "06:32 Dấu siêu âm của chèn ép tim (ESC 2025)",
+   "07:12 Bốn bẫy chẩn đoán",
+   "08:02 Tình huống: chỗ tắc ở đâu?",
+   "08:55 Năm thông điệp mang về"
+  ]
+ },
+ "phan-2": {
+  "phut": 10,
+  "ch": [
+   "00:00 Mở đầu",
+   "00:32 Thuyên tắc phổi nguy cơ cao theo ESC/ERS 2019",
+   "01:19 Khi không bất ổn: bốn bậc nguy cơ",
+   "01:56 sPESI: sáu biến, mỗi biến một điểm",
+   "02:44 Nhóm lâm sàng AHA/ACC 2026",
+   "03:36 Nhóm D: điểm mới quan trọng nhất",
+   "04:26 Chống đông ban đầu",
+   "05:25 Hỗ trợ thất phải: dịch, vận mạch, tăng co bóp",
+   "06:35 Đặt nội khí quản: thời điểm nguy hiểm nhất",
+   "07:26 Tình huống: làm gì tiếp theo?",
+   "08:25 Năm thông điệp mang về"
+  ]
+ },
+ "phan-3": {
+  "phut": 10,
+  "ch": [
+   "00:00 Mở đầu",
+   "00:31 PEITHO: tiêu sợi huyết ở nguy cơ trung gian",
+   "01:23 Bức tranh từ các phân tích gộp",
+   "02:06 Tiêu sợi huyết toàn thân: hai hướng dẫn",
+   "02:49 Phác đồ tiêu sợi huyết toàn thân",
+   "03:38 Chống chỉ định tiêu sợi huyết",
+   "04:16 Điều trị qua catheter: từ chỉ số thay thế đến kết cục lâm sàng",
+   "05:11 HI-PEITHO 2026",
+   "06:10 Khuyến cáo điều trị nâng cao theo nhóm AHA/ACC",
+   "07:05 Hỗ trợ cơ học và ngừng tim do thuyên tắc phổi",
+   "08:09 Tình huống: có chống chỉ định thì sao?",
+   "09:10 Năm thông điệp mang về"
+  ]
+ },
+ "phan-4": {
+  "phut": 10,
+  "ch": [
+   "00:00 Mở đầu",
+   "00:29 Nguyên nhân chèn ép tim và hai bệnh cảnh",
+   "01:07 Điểm phân loại mức khẩn cấp ESC 2025",
+   "01:57 Khi nào không dùng thang điểm",
+   "02:32 Chọc màng ngoài tim dưới siêu âm: 1.127 lần tại Mayo Clinic",
+   "03:04 Dẫn lưu an toàn và hồi sức trước dẫn lưu",
+   "04:01 Tràn khí áp lực: tự thở so với thở hỗ trợ",
+   "04:36 Kim 5 cm: tỉ lệ thất bại theo vị trí",
+   "05:25 Giải áp màng phổi: ba tình huống",
+   "06:06 Hội chứng khoang bụng: sốc tắc nghẽn hay bị bỏ sót",
+   "06:51 Lưu đồ giờ đầu sốc tắc nghẽn",
+   "07:46 Tình huống: người bệnh thở máy tụt áp đột ngột",
+   "08:43 Thông điệp mang về cả loạt"
+  ]
+ }
+}

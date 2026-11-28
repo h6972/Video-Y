@@ -1,0 +1,547 @@
+1
+00:00:04,900 --> 00:00:09,130
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần cuối của loạt bài Sốc tắc nghẽn.
+
+2
+00:00:09,330 --> 00:00:14,020
+Phần này dành cho hai nguyên nhân mà điều trị là một thủ thuật: chèn ép tim,
+
+3
+00:00:13,870 --> 00:00:18,440
+với thang điểm phân loại của ESC 2025 và chọc màng ngoài tim dưới siêu âm;
+
+4
+00:00:18,640 --> 00:00:22,630
+và tràn khí màng phổi áp lực, với câu hỏi giải áp ở đâu, bằng gì, khi nào.
+
+5
+00:00:22,830 --> 00:00:26,244
+Cuối phần là một nguyên nhân hay bị bỏ sót, hội chứng khoang bụng,
+
+6
+00:00:26,094 --> 00:00:28,420
+và lưu đồ giờ đầu cho toàn bộ sốc tắc nghẽn.
+
+7
+00:00:29,870 --> 00:00:35,109
+Theo ESC 2025, các nguyên nhân thường gặp của chèn ép tim theo tần suất là u ác tính,
+
+8
+00:00:34,959 --> 00:00:38,701
+do thầy thuốc hoặc chấn thương, viêm màng ngoài tim, và lao,
+
+9
+00:00:38,551 --> 00:00:43,011
+nguyên nhân hàng đầu ở các nước đang phát triển. Trong loạt Mayo Clinic,
+
+10
+00:00:42,861 --> 00:00:48,160
+phẫu thuật tim lồng ngực, ung thư và thủng tim do thủ thuật chiếm gần 70% số lần chọc.
+
+11
+00:00:48,360 --> 00:00:52,654
+Từ đầu cần tách hai bệnh cảnh. Chèn ép do chảy máu cấp sau mổ tim, can thiệp,
+
+12
+00:00:52,504 --> 00:00:57,390
+chấn thương, vỡ tim hay bóc tách: dịch tích tụ nhanh, có máu cục, thường cần phẫu thuật.
+
+13
+00:00:57,590 --> 00:01:01,387
+Chèn ép do dịch tích tụ dần trong ung thư, lao, viêm, tăng urê máu:
+
+14
+00:01:01,237 --> 00:01:03,728
+chọc qua da dưới siêu âm là lựa chọn chính,
+
+15
+00:01:03,578 --> 00:01:06,940
+và câu hỏi quan trọng là dẫn lưu kéo dài để phòng tái phát.
+
+16
+00:01:08,390 --> 00:01:12,225
+Không phải mọi người bệnh chèn ép cần chọc trong vài phút,
+
+17
+00:01:12,075 --> 00:01:17,626
+và chọc vội ở nơi thiếu kinh nghiệm có thể gây biến chứng nặng hơn bệnh. Năm 2014 ESC
+
+18
+00:01:17,476 --> 00:01:19,087
+đề xuất một thang điểm,
+
+19
+00:01:18,937 --> 00:01:24,043
+và ESC 2025 đưa nó vào lưu đồ xử trí. Thang có ba nhóm: nguyên nhân, lâm sàng,
+
+20
+00:01:23,893 --> 00:01:27,220
+hình ảnh. Thử với một ví dụ: bệnh ác tính, 2 điểm.
+
+21
+00:01:27,420 --> 00:01:31,490
+Khó thở khi nằm, 3 điểm; mạch nghịch trên 10 mi li mét thuỷ ngân, 2 điểm.
+
+22
+00:01:31,690 --> 00:01:35,120
+Dịch lớn quanh tim, 3 điểm; xẹp nhĩ trái, 2 điểm.
+
+23
+00:01:35,320 --> 00:01:39,549
+Tổng 12 điểm, đến từ cả ba nhóm. Ngưỡng quyết định là từ 6 điểm trở lên:
+
+24
+00:01:39,399 --> 00:01:44,592
+chọc dẫn lưu ngay nếu không có chống chỉ định. Chú thích hình của ESC 2025 viết chặt hơn,
+
+25
+00:01:44,442 --> 00:01:49,295
+trên 6 điểm từ ít nhất hai nhóm. Người bệnh đã chẩn đoán chèn ép nhưng ổn định được
+
+26
+00:01:49,145 --> 00:01:50,711
+chọc trong 12 đến 24 giờ;
+
+27
+00:01:50,561 --> 00:01:55,470
+điểm thấp có thể hoãn, kháng viêm và theo dõi. Thang dựa trên đồng thuận chuyên gia,
+
+28
+00:01:55,320 --> 00:01:56,830
+chưa thẩm định tiến cứu.
+
+29
+00:01:58,280 --> 00:02:01,628
+Thang điểm dùng để phân loại người chưa sốc. Ở người bệnh đang sốc,
+
+30
+00:02:01,478 --> 00:02:04,396
+nó không được dùng để trì hoãn dẫn lưu: phải dẫn lưu ngay,
+
+31
+00:02:04,246 --> 00:02:09,550
+đồng thời điều chỉnh rối loạn đông máu bằng protamine hoặc huyết tương tươi đông lạnh và truyền máu khi cần.
+
+32
+00:02:09,750 --> 00:02:14,220
+Một số tình huống cần phẫu thuật khẩn bất kể điểm: bóc tách động mạch chủ type A,
+
+33
+00:02:14,070 --> 00:02:17,633
+vỡ thành tự do thất sau nhồi máu, chấn thương ngực nặng gần đây,
+
+34
+00:02:17,483 --> 00:02:21,260
+và chảy máu màng ngoài tim do thủ thuật không kiểm soát được qua da.
+
+35
+00:02:21,460 --> 00:02:24,463
+Ở cơ sở ít kinh nghiệm mà người bệnh đủ ổn định để chờ,
+
+36
+00:02:24,313 --> 00:02:27,576
+ESC khuyên chuyển tới trung tâm chuyên sâu có bác sĩ đi kèm;
+
+37
+00:02:27,426 --> 00:02:32,090
+còn nếu không ổn định và không thể trì hoãn, phải dẫn lưu cấp cứu dưới siêu âm tại chỗ.
+
+38
+00:02:33,540 --> 00:02:38,754
+Bằng chứng về an toàn đến từ loạt ca lớn. Trong 21 năm tại Mayo Clinic,
+
+39
+00:02:38,604 --> 00:02:45,530
+1.127 lần chọc màng ngoài tim dưới hướng dẫn siêu âm ở 977 người bệnh đạt tỉ lệ thành công 97%.
+
+40
+00:02:45,730 --> 00:02:50,200
+Tổng biến chứng 4,7%, trong đó biến chứng nặng chỉ 1,2%.
+
+41
+00:02:50,400 --> 00:02:54,345
+Tái phát trong 6 tháng là 27% khi chọc đơn thuần,
+
+42
+00:02:54,195 --> 00:02:57,830
+so với 14% khi dẫn lưu kéo dài bằng catheter.
+
+43
+00:02:58,030 --> 00:03:01,523
+Đây là nghiên cứu hồi cứu tại một trung tâm rất giàu kinh nghiệm,
+
+44
+00:03:01,373 --> 00:03:03,940
+nên tỉ lệ biến chứng ở nơi khác có thể cao hơn.
+
+45
+00:03:05,390 --> 00:03:09,458
+ESC 2025 khuyến cáo chọc màng ngoài tim có hướng dẫn bằng siêu âm,
+
+46
+00:03:09,308 --> 00:03:12,783
+cắt lớp hoặc màn tăng sáng, mức một; sau khi vào khoang,
+
+47
+00:03:12,633 --> 00:03:18,660
+đặt catheter đuôi heo. Chọc không hình ảnh chỉ khi không có siêu âm hoặc tuần hoàn sụp đổ đột ngột.
+
+48
+00:03:18,860 --> 00:03:22,556
+Tránh tháo nhanh hơn 1 lít trong lúc chọc, vì có thể gây suy thất cấp,
+
+49
+00:03:22,406 --> 00:03:25,848
+phù phổi và sụp tuần hoàn sau giải ép; ở người tăng áp phổi nặng,
+
+50
+00:03:25,698 --> 00:03:27,570
+dẫn lưu có thể làm thất phải giãn.
+
+51
+00:03:27,770 --> 00:03:32,822
+Dẫn lưu kéo dài tới khi lượng dịch còn khoảng 25 đến 30 mi li lít mỗi ngày;
+
+52
+00:03:32,672 --> 00:03:37,790
+với tràn dịch do ung thư, ESC 2025 khuyến cáo dẫn lưu 3 đến 6 ngày, mức một,
+
+53
+00:03:37,640 --> 00:03:38,640
+bằng chứng B.
+
+54
+00:03:38,840 --> 00:03:42,572
+Trong lúc chuẩn bị, dịch truyền chỉ giúp khi giảm thể tích;
+
+55
+00:03:42,422 --> 00:03:47,065
+ESC 2025 nêu rõ nên tránh thông khí cơ học áp lực dương trong chèn ép tim,
+
+56
+00:03:46,915 --> 00:03:50,830
+vì đặt nội khí quản trước dẫn lưu có thể làm sụp đổ tuần hoàn.
+
+57
+00:03:51,030 --> 00:03:56,209
+Phẫu thuật được ưu tiên khi có máu cục, mủ, dịch không tiếp cận được qua da, sau mổ tim;
+
+58
+00:03:56,059 --> 00:04:01,180
+và mở cửa sổ màng phổi – màng ngoài tim khi tràn dịch tái phát dù đã điều trị, mức một.
+
+59
+00:04:02,630 --> 00:04:07,543
+Roberts và cộng sự gộp 5 đoàn hệ với 310 người và 183 ca báo cáo,
+
+60
+00:04:07,393 --> 00:04:11,500
+gồm 86 người tự thở và 97 người được thông khí hỗ trợ.
+
+61
+00:04:11,700 --> 00:04:17,370
+Thiếu oxy gặp ở 50% người tự thở, nhưng 91,8% người thở hỗ trợ.
+
+62
+00:04:17,570 --> 00:04:21,480
+Tử vong là 6,7% so với 22,7%.
+
+63
+00:04:21,680 --> 00:04:26,400
+Sau hiệu chỉnh, thông khí hỗ trợ liên quan với tụt huyết áp, OR 12,6, và ngừng tim,
+
+64
+00:04:26,250 --> 00:04:31,190
+OR 17,7. Đây là dữ liệu ca bệnh nhiều sai lệch, không chứng minh thông khí gây tử vong,
+
+65
+00:04:31,040 --> 00:04:35,980
+nhưng mô hình rất rõ: tự thở thì chủ yếu suy hô hấp, thở máy thì nhanh chóng thành sốc.
+
+66
+00:04:37,430 --> 00:04:39,029
+Chọc kim giải áp nhanh,
+
+67
+00:04:38,879 --> 00:04:44,323
+nhưng kim 14 G chiều dài tiêu chuẩn có thể không tới khoang màng phổi. Phân tích gộp
+
+68
+00:04:44,173 --> 00:04:49,491
+của Laan trên 6.192 vị trí giải phẫu cho thấy ở khoang liên sườn 2 đường giữa đòn,
+
+69
+00:04:49,341 --> 00:04:54,280
+thành ngực dày trung bình 42,8 mi li mét, và kim 5 xăng ti mét thất bại 38%.
+
+70
+00:04:54,480 --> 00:04:58,790
+Ở khoang liên sườn 4 đến 5 đường nách giữa, thất bại 31%.
+
+71
+00:04:58,990 --> 00:05:03,034
+Ở khoang liên sườn 4 đến 5 đường nách trước, thành ngực mỏng nhất,
+
+72
+00:05:02,884 --> 00:05:06,456
+thất bại chỉ 13%. Đây là mô phỏng trên hình ảnh và tử thi,
+
+73
+00:05:06,306 --> 00:05:08,580
+chưa phải tỉ lệ thành công lâm sàng.
+
+74
+00:05:08,780 --> 00:05:10,795
+ERC 2021 đi đến cùng kết luận:
+
+75
+00:05:10,645 --> 00:05:15,953
+cần kim dài ít nhất 7 xăng ti mét để tới khoang ở khoang liên sườn 2 trong 90% lần,
+
+76
+00:05:15,803 --> 00:05:19,683
+vị trí đường nách trước có tỉ lệ thất bại dự đoán thấp nhất,
+
+77
+00:05:19,533 --> 00:05:25,090
+và mọi lần chọc kim khi hồi sinh phải được tiếp nối bằng mở màng phổi hoặc ống dẫn lưu.
+
+78
+00:05:26,540 --> 00:05:30,900
+Có thể tóm cách giải áp thành ba tình huống. Người tỉnh ổn định: thở oxy,
+
+79
+00:05:30,750 --> 00:05:34,994
+chụp phim nếu an toàn, nhưng phải có người làm được giải áp ở bên cạnh,
+
+80
+00:05:34,844 --> 00:05:38,050
+rồi đặt dẫn lưu ngực, lựa chọn chuẩn trong bệnh viện.
+
+81
+00:05:38,250 --> 00:05:41,444
+Người thở máy hoặc mất ổn định: giải áp ngay, không chờ phim,
+
+82
+00:05:41,294 --> 00:05:45,586
+ưu tiên vị trí bên với kim đủ dài, hoặc mở màng phổi, rồi đặt ống. Ở người thở máy,
+
+83
+00:05:45,436 --> 00:05:48,480
+mở màng phổi đơn thuần không đặt ống là lựa chọn hiệu quả.
+
+84
+00:05:48,680 --> 00:05:51,799
+Ngừng tim: mở màng phổi; trong ngừng tim do chấn thương,
+
+85
+00:05:51,649 --> 00:05:55,882
+giải áp được ưu tiên hơn mọi biện pháp khác, mở hai bên ở khoang liên sườn 4,
+
+86
+00:05:55,732 --> 00:05:57,950
+và đặt ống sau khi hồi sinh thành công.
+
+87
+00:05:58,150 --> 00:05:59,486
+Sau giai đoạn cấp,
+
+88
+00:05:59,336 --> 00:06:06,140
+BTS 2023 coi lần tràn khí đầu tiên có áp lực là một chỉ định để xin ý kiến phẫu thuật phòng tái phát.
+
+89
+00:06:07,590 --> 00:06:12,175
+Áp lực ổ bụng tăng chèn tĩnh mạch chủ dưới, đẩy cơ hoành lên và tăng áp lực lồng ngực,
+
+90
+00:06:12,025 --> 00:06:16,043
+tạo ra một dạng sốc tắc nghẽn hay bị bỏ sót ở người bệnh chấn thương, bỏng,
+
+91
+00:06:15,893 --> 00:06:21,045
+viêm tuỵ được truyền nhiều dịch. Hội chứng khoang bụng thế giới chuẩn hoá cách đo qua bàng quang:
+
+92
+00:06:20,895 --> 00:06:24,036
+cuối thì thở ra, nằm ngửa, mốc zero ngang đường nách giữa;
+
+93
+00:06:23,886 --> 00:06:27,440
+áp lực tưới máu ổ bụng bằng huyết áp trung bình trừ áp lực ổ bụng.
+
+94
+00:06:27,640 --> 00:06:32,646
+Đồng thuận khuyến cáo đo áp lực ổ bụng khi có yếu tố nguy cơ và theo dõi theo phác đồ,
+
+95
+00:06:32,496 --> 00:06:36,430
+mức 1C, và mở bụng giải áp khi có hội chứng khoang bụng rõ, mức 1D.
+
+96
+00:06:36,630 --> 00:06:40,609
+Các gợi ý gồm thử giãn cơ ngắn, giải áp dạ dày hoặc đại tràng khi giãn,
+
+97
+00:06:40,459 --> 00:06:44,061
+tránh cân bằng dịch dương tích luỹ sau khi hồi sức cấp hoàn tất,
+
+98
+00:06:43,911 --> 00:06:46,380
+và dẫn lưu qua da khi có dịch trong ổ bụng.
+
+99
+00:06:46,580 --> 00:06:50,810
+Đồng thuận không đưa khuyến cáo dùng áp lực tưới máu ổ bụng làm đích hồi sức.
+
+100
+00:06:52,260 --> 00:06:56,567
+Cuối cùng là lưu đồ giờ đầu, tổng hợp từ các hướng dẫn. Nghi sốc tắc nghẽn:
+
+101
+00:06:56,417 --> 00:07:00,890
+hồi sức song song với siêu âm tim, tĩnh mạch chủ dưới và phổi, gọi hỗ trợ sớm.
+
+102
+00:07:01,090 --> 00:07:05,720
+Tràn khí áp lực: giải áp ngay, người thở máy không chờ phim, sau đó đặt dẫn lưu ngực.
+
+103
+00:07:05,920 --> 00:07:10,093
+Chèn ép tim: dẫn lưu dưới hướng dẫn siêu âm, dịch nhỏ chỉ khi giảm thể tích,
+
+104
+00:07:09,943 --> 00:07:14,539
+tránh đặt nội khí quản trước dẫn lưu nếu được; phẫu thuật khẩn nếu bóc tách, vỡ tim,
+
+105
+00:07:14,389 --> 00:07:16,550
+chấn thương hay chảy máu do thủ thuật.
+
+106
+00:07:16,750 --> 00:07:20,468
+Thuyên tắc phổi nguy cơ cao: heparin có liều nạp, norepinephrine,
+
+107
+00:07:20,318 --> 00:07:23,871
+dịch không quá 500 mi li lít, tránh đặt nội khí quản nếu được;
+
+108
+00:07:23,721 --> 00:07:28,262
+tiêu sợi huyết nếu không chống chỉ định, nếu không thì catheter hoặc phẫu thuật;
+
+109
+00:07:28,112 --> 00:07:31,940
+sốc kháng trị thì ếch mô; và kích hoạt đội đáp ứng thuyên tắc phổi.
+
+110
+00:07:32,140 --> 00:07:36,751
+Hội chứng khoang bụng: đo áp lực ổ bụng qua bàng quang và giải áp. Ở tuyến tỉnh,
+
+111
+00:07:36,601 --> 00:07:41,436
+ba năng lực quyết định là siêu âm 24 giờ, tiêu sợi huyết tại chỗ và kỹ năng dẫn lưu;
+
+112
+00:07:41,286 --> 00:07:45,730
+liên hệ trung tâm sớm khi có chống chỉ định, không đáp ứng hay sốc kháng trị.
+
+113
+00:07:47,180 --> 00:07:51,793
+Tình huống cuối. Nam 45 tuổi, hội chứng suy hô hấp cấp tiến triển,
+
+114
+00:07:51,643 --> 00:07:55,918
+đang thở máy với PEEP 14. Đột ngột SpO₂ tụt từ 94% xuống 78%,
+
+115
+00:07:55,768 --> 00:07:59,772
+áp lực đỉnh đường thở tăng từ 30 lên 46 xăng ti mét nước,
+
+116
+00:07:59,622 --> 00:08:04,100
+và 3 phút sau huyết áp tụt còn 70 trên 40. Rì rào bên phải giảm,
+
+117
+00:08:03,950 --> 00:08:06,940
+siêu âm phổi bên phải mất trượt màng phổi.
+
+118
+00:08:07,140 --> 00:08:08,890
+Việc phải làm ngay là gì?
+
+119
+00:08:09,090 --> 00:08:11,800
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+120
+00:08:20,400 --> 00:08:22,104
+Đáp án là C. Ở người thở máy,
+
+121
+00:08:21,954 --> 00:08:26,767
+SpO₂ tụt đột ngột rồi huyết áp tụt trong vài phút là mẫu hình điển hình của tràn khí áp
+
+122
+00:08:26,617 --> 00:08:31,216
+lực. Không chờ X-quang. Giải áp ngay bên phải ở khoang liên sườn 4 đến 5 đường nách
+
+123
+00:08:31,066 --> 00:08:33,199
+trước hoặc nách giữa bằng kim đủ dài,
+
+124
+00:08:33,049 --> 00:08:35,343
+hoặc mở màng phổi nếu có người làm được,
+
+125
+00:08:35,193 --> 00:08:40,702
+rồi đặt ống dẫn lưu ngực. Tăng PEEP hay truyền dịch chỉ làm áp lực lồng ngực và tình trạng xấu thêm,
+
+126
+00:08:40,552 --> 00:08:42,310
+hoặc không giải quyết được gì.
+
+127
+00:08:43,760 --> 00:08:47,582
+Tóm lại cả loạt bài: sốc tắc nghẽn được điều trị bằng gỡ bỏ chỗ tắc,
+
+128
+00:08:47,432 --> 00:08:50,390
+và siêu âm tại giường tìm ra chỗ tắc trong vài phút.
+
+129
+00:08:50,590 --> 00:08:55,030
+Với thuyên tắc phổi, hồi sức thất phải đúng sinh lý: dịch rất ít, norepinephrine,
+
+130
+00:08:54,880 --> 00:08:58,420
+tránh an thần sâu và thở máy, và tái tưới máu theo nhóm nguy cơ.
+
+131
+00:08:58,620 --> 00:09:01,917
+Với chèn ép tim, điểm phân loại từ 6 trở lên thì chọc ngay;
+
+132
+00:09:01,767 --> 00:09:05,650
+người đang sốc không cần tính điểm; dẫn lưu kéo dài làm giảm tái phát.
+
+133
+00:09:05,850 --> 00:09:10,098
+Với tràn khí áp lực, giải áp trước, phim sau; chọn vị trí bên, kim đủ dài,
+
+134
+00:09:09,948 --> 00:09:11,760
+và mở màng phổi khi ngừng tim.
+
+135
+00:09:11,960 --> 00:09:16,622
+Và đừng quên hội chứng khoang bụng ở người bệnh nguy cơ. Trọn bộ chuyên đề có tại
+
+136
+00:09:16,472 --> 00:09:21,469
+thuvienykhoa chấm online. Cảm ơn quý đồng nghiệp đã theo dõi loạt bài Sốc tắc nghẽn của
+
+137
+00:09:21,319 --> 00:09:22,750
+Thư Viện Y Khoa Online.

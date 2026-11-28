@@ -1,0 +1,543 @@
+1
+00:00:04,900 --> 00:00:09,050
+Thưa quý đồng nghiệp, chào mừng quý vị đến với phần hai của loạt bài Sốc tắc nghẽn.
+
+2
+00:00:09,250 --> 00:00:13,856
+Phần này tập trung vào thuyên tắc phổi nguy cơ cao:
+
+3
+00:00:13,706 --> 00:00:17,351
+nhận ra ai thuộc nhóm này theo ESC 2019,
+
+4
+00:00:17,201 --> 00:00:21,720
+đọc hệ nhóm lâm sàng mới A đến E của AHA/ACC 2026,
+
+5
+00:00:21,920 --> 00:00:26,398
+rồi hồi sức thất phải đúng sinh lý: chống đông ban đầu, dịch truyền rất thận trọng,
+
+6
+00:00:26,248 --> 00:00:27,910
+norepinephrine và dobutamine,
+
+7
+00:00:28,110 --> 00:00:32,180
+và thời điểm nguy hiểm nhất của cả quá trình điều trị: đặt nội khí quản.
+
+8
+00:00:33,630 --> 00:00:39,205
+ESC 2019 định nghĩa thuyên tắc phổi nguy cơ cao khi có một trong ba biểu hiện lúc vào viện:
+
+9
+00:00:39,055 --> 00:00:41,471
+ngừng tim cần hồi sinh; sốc tắc nghẽn,
+
+10
+00:00:41,321 --> 00:00:46,717
+tức huyết áp tâm thu dưới 90 hoặc cần thuốc vận mạch để đạt từ 90 trở lên dù đã đủ dịch,
+
+11
+00:00:46,567 --> 00:00:49,877
+kèm giảm tưới máu cơ quan; hoặc tụt huyết áp kéo dài,
+
+12
+00:00:49,727 --> 00:00:53,991
+huyết áp tâm thu dưới 90 hoặc giảm từ 40 mi li mét thuỷ ngân trở lên,
+
+13
+00:00:53,841 --> 00:00:58,820
+kéo dài quá 15 phút, không do loạn nhịp mới, giảm thể tích hay nhiễm khuẩn huyết.
+
+14
+00:00:59,020 --> 00:01:03,261
+Dấu giảm tưới máu gồm thay đổi ý thức, da lạnh ẩm, thiểu niệu hoặc vô niệu,
+
+15
+00:01:03,111 --> 00:01:03,970
+lactate tăng.
+
+16
+00:01:04,170 --> 00:01:08,865
+Khi đã có bất ổn huyết động kèm bằng chứng thuyên tắc phổi trên chụp cắt lớp hoặc rối
+
+17
+00:01:08,715 --> 00:01:10,362
+loạn thất phải trên siêu âm,
+
+18
+00:01:10,212 --> 00:01:14,800
+người bệnh được xếp ngay vào nhóm nguy cơ cao, không cần tính PESI hay đo troponin.
+
+19
+00:01:15,000 --> 00:01:19,230
+Phân tầng ban đầu theo bất ổn huyết động là khuyến cáo mức một, bằng chứng B.
+
+20
+00:01:20,680 --> 00:01:23,961
+Khi không có bất ổn huyết động, ESC tiếp tục phân tầng,
+
+21
+00:01:23,811 --> 00:01:26,750
+khuyến cáo mức một. Nhóm nguy cơ cao như vừa nêu.
+
+22
+00:01:26,950 --> 00:01:29,625
+Nhóm trung gian–cao có điểm lâm sàng tăng,
+
+23
+00:01:29,475 --> 00:01:32,571
+nghĩa là PESI độ ba đến năm hoặc sPESI từ 1 điểm,
+
+24
+00:01:32,421 --> 00:01:37,260
+cộng thêm rối loạn thất phải trên siêu âm hoặc chụp cắt lớp, và troponin tăng.
+
+25
+00:01:37,460 --> 00:01:43,130
+Nhóm trung gian–thấp là khi chỉ một hoặc không dấu nào trong hai dấu thất phải và troponin dương tính.
+
+26
+00:01:43,330 --> 00:01:45,414
+Nhóm thấp không có dấu nào. Lưu ý:
+
+27
+00:01:45,264 --> 00:01:50,305
+người có rối loạn thất phải hoặc dấu ấn tăng dù PESI thấp vẫn xếp vào nhóm trung gian,
+
+28
+00:01:50,155 --> 00:01:55,082
+và ESC khuyến cáo nên đánh giá thất phải hoặc dấu ấn ngay cả khi điểm lâm sàng thấp,
+
+29
+00:01:54,932 --> 00:01:55,480
+mức 2a.
+
+30
+00:01:56,930 --> 00:02:01,397
+sPESI là thang điểm thực dụng nhất cho người ổn định. Thang gồm sáu biến,
+
+31
+00:02:01,247 --> 00:02:06,541
+mỗi biến một điểm. Thử với một ví dụ: người bệnh 64 tuổi, nên tuổi trên 80 được 0 điểm;
+
+32
+00:02:06,391 --> 00:02:07,960
+có ung thư, được 1 điểm.
+
+33
+00:02:08,160 --> 00:02:13,910
+Không suy tim hay bệnh phổi mạn, 0 điểm; mạch 118, từ 110 trở lên, được 1 điểm.
+
+34
+00:02:14,110 --> 00:02:20,820
+Huyết áp tâm thu 112, 0 điểm; độ bão hoà oxy động mạch 88%, dưới 90%, được 1 điểm.
+
+35
+00:02:21,020 --> 00:02:25,272
+Tổng 3 điểm. Trong nghiên cứu xây dựng của Jiménez,
+
+36
+00:02:25,122 --> 00:02:30,902
+tử vong 30 ngày là 1,0% ở người 0 điểm so với 10,9% ở người từ 1 điểm;
+
+37
+00:02:30,752 --> 00:02:36,050
+kiểm định trên sổ bộ RIETE với 7.106 người cho 1,1% so với 8,9%.
+
+38
+00:02:36,250 --> 00:02:39,707
+Thông điệp: sPESI rất tốt để nhận ra người nguy cơ thấp,
+
+39
+00:02:39,557 --> 00:02:43,840
+nhưng điểm cao chỉ cho biết nguy cơ tăng, không cho biết ai sẽ mất bù.
+
+40
+00:02:45,290 --> 00:02:50,829
+Năm 2026, AHA/ACC cùng tám hội khác ban hành hướng dẫn đầu tiên về thuyên tắc phổi cấp,
+
+41
+00:02:50,679 --> 00:02:56,094
+thay massive và submassive bằng năm nhóm lâm sàng. Nhóm A là thuyên tắc phổi tình cờ,
+
+42
+00:02:55,944 --> 00:03:01,050
+không triệu chứng; nhóm B có triệu chứng nhưng điểm nặng thấp, như sPESI bằng 0.
+
+43
+00:03:01,250 --> 00:03:05,299
+Nhóm C có điểm nặng tăng; C1 là thất phải và dấu ấn bình thường,
+
+44
+00:03:05,149 --> 00:03:08,040
+C2 là một trong hai bất thường, C3 là cả hai.
+
+45
+00:03:08,240 --> 00:03:12,786
+Nhóm D là trạng thái sắp suy tim – phổi: D1 tụt huyết áp thoáng qua,
+
+46
+00:03:12,636 --> 00:03:14,790
+D2 là sốc huyết áp bình thường.
+
+47
+00:03:14,990 --> 00:03:19,461
+Nhóm E là suy tim – phổi: E1 tụt huyết áp tái diễn hoặc kéo dài kèm sốc tim,
+
+48
+00:03:19,311 --> 00:03:21,110
+tương thích giai đoạn SCAI C;
+
+49
+00:03:20,960 --> 00:03:26,340
+E2 là sốc kháng trị hoặc ngừng tim không có tuần hoàn tự nhiên trở lại sau 30 phút hồi sinh.
+
+50
+00:03:26,540 --> 00:03:29,461
+Hậu tố R thêm vào khi có bất thường hô hấp nổi bật,
+
+51
+00:03:29,311 --> 00:03:34,135
+mức độ tăng dần theo nhóm. Người bệnh được xếp theo chỉ dấu nặng nhất và có thể chuyển
+
+52
+00:03:33,985 --> 00:03:35,330
+nhóm khi đánh giá lại.
+
+53
+00:03:36,780 --> 00:03:41,983
+Điểm mới quan trọng nhất của hệ AHA/ACC là nhóm D. D1 là tụt huyết áp thoáng qua:
+
+54
+00:03:41,833 --> 00:03:45,913
+huyết áp tâm thu dưới 90, hoặc giảm hơn 40 mi li mét thuỷ ngân,
+
+55
+00:03:45,763 --> 00:03:50,530
+kéo dài dưới 15 phút hoặc đáp ứng với dịch, và không có dấu giảm tưới máu.
+
+56
+00:03:50,730 --> 00:03:52,606
+D2 là sốc huyết áp bình thường:
+
+57
+00:03:52,456 --> 00:03:56,170
+có ít nhất một dấu giảm tưới máu hay rối loạn chức năng cơ quan,
+
+58
+00:03:56,020 --> 00:03:59,400
+như lactate trên 2 mi li mol mỗi lít, tổn thương thận cấp,
+
+59
+00:03:59,250 --> 00:04:03,967
+nước tiểu dưới 0,5 mi li lít mỗi ký mỗi giờ, thay đổi ý thức, chỉ số tim dưới 2,2,
+
+60
+00:04:03,817 --> 00:04:05,526
+huyết áp trung bình dưới 60,
+
+61
+00:04:05,376 --> 00:04:10,371
+hay tăng giai đoạn sốc. Một người huyết áp tâm thu 110 nhưng lactate 4 không còn bị xếp
+
+62
+00:04:10,221 --> 00:04:12,320
+chung với người submassive ổn định.
+
+63
+00:04:12,520 --> 00:04:17,390
+Khi phân nhóm, thử dịch thường được hiểu là 500 đến 1000 mi li lít nước muối sinh lý.
+
+64
+00:04:17,590 --> 00:04:22,289
+AHA/ACC khuyến cáo tìm giảm tưới máu ngay cả khi huyết áp còn bảo tồn. Theo người soạn,
+
+65
+00:04:22,139 --> 00:04:25,740
+các ngưỡng dùng để phân tầng không nên được hiểu như đích hồi sức.
+
+66
+00:04:27,190 --> 00:04:32,800
+Chống đông là nền tảng cho mọi nhóm. ESC 2019 khuyến cáo khởi heparin không phân đoạn,
+
+67
+00:04:32,650 --> 00:04:37,879
+có liều nạp tĩnh mạch theo cân nặng, ngay lập tức ở thuyên tắc phổi nguy cơ cao,
+
+68
+00:04:37,729 --> 00:04:43,085
+mức một, bằng chứng C. ERC 2021 nêu liều 80 đơn vị mỗi ký tĩnh mạch trong cấp cứu;
+
+69
+00:04:42,935 --> 00:04:46,450
+liều duy trì chỉnh theo aPTT, theo phác đồ của cơ sở.
+
+70
+00:04:46,650 --> 00:04:50,684
+Heparin không phân đoạn có thời gian bán thải ngắn, chỉnh và trung hoà được,
+
+71
+00:04:50,534 --> 00:04:54,363
+nên phù hợp với người bệnh sắp tiêu sợi huyết, can thiệp hay phẫu thuật;
+
+72
+00:04:54,213 --> 00:04:58,400
+ESC giới hạn nó chủ yếu ở nhóm này, và ở người suy thận nặng hoặc béo phì nặng.
+
+73
+00:04:58,600 --> 00:05:00,562
+Khi không định tái tưới máu,
+
+74
+00:05:00,412 --> 00:05:05,286
+heparin trọng lượng phân tử thấp hoặc fondaparinux được ưu tiên, mức một,
+
+75
+00:05:05,136 --> 00:05:10,592
+bằng chứng A. AHA/ACC 2026 khuyến cáo heparin trọng lượng phân tử thấp hơn heparin
+
+76
+00:05:10,442 --> 00:05:13,698
+không phân đoạn ở nhóm C1 đến E1 cần thuốc tiêm,
+
+77
+00:05:13,548 --> 00:05:16,480
+mức một, để giảm tái phát và chảy máu nặng.
+
+78
+00:05:16,680 --> 00:05:19,650
+Và khi nghi thuyên tắc phổi từ nhóm C2 trở lên,
+
+79
+00:05:19,500 --> 00:05:24,810
+nguy cơ chảy máu thấp mà hình ảnh bị trì hoãn, chống đông điều trị ngay có thể có lợi,
+
+80
+00:05:24,660 --> 00:05:25,230
+mức 2a.
+
+81
+00:05:26,680 --> 00:05:28,643
+Ở thuyên tắc phổi nguy cơ cao,
+
+82
+00:05:28,493 --> 00:05:34,503
+quyết định về dịch là nơi trực giác hồi sức dễ gây hại nhất. ESC 2019 cho phép thử dịch vừa phải,
+
+83
+00:05:34,353 --> 00:05:37,222
+không quá 500 mi li lít trong 15 đến 30 phút,
+
+84
+00:05:37,072 --> 00:05:40,666
+chỉ khi áp lực tĩnh mạch trung tâm bình thường hoặc thấp,
+
+85
+00:05:40,516 --> 00:05:42,841
+như tĩnh mạch chủ dưới nhỏ hoặc xẹp;
+
+86
+00:05:42,691 --> 00:05:47,735
+thấy áp lực tĩnh mạch tăng thì ngưng. AHA/ACC chỉ xếp dịch ở mức có thể cân nhắc,
+
+87
+00:05:47,585 --> 00:05:49,910
+và nhấn mạnh tránh bù dịch tràn lan.
+
+88
+00:05:50,110 --> 00:05:54,159
+Norepinephrine là nền tảng, liều 0,2 đến 1,0 mi crô gam mỗi ký mỗi phút,
+
+89
+00:05:54,009 --> 00:05:58,870
+chuẩn độ theo huyết áp. Thuốc cải thiện tương tác tâm thu và tưới máu vành mà không làm
+
+90
+00:05:58,720 --> 00:06:00,332
+thay đổi sức cản mạch phổi;
+
+91
+00:06:00,182 --> 00:06:04,880
+ở liều đến 15 mi crô gam mỗi phút, ảnh hưởng lên sức cản phổi hầu như không đáng kể.
+
+92
+00:06:05,080 --> 00:06:08,979
+Dobutamine 2 đến 20 mi crô gam mỗi ký mỗi phút khi chỉ số tim thấp;
+
+93
+00:06:08,829 --> 00:06:12,000
+dùng đơn độc có thể làm tụt huyết áp và gây loạn nhịp,
+
+94
+00:06:11,850 --> 00:06:14,910
+và có thể làm nặng bất tương hợp thông khí tưới máu.
+
+95
+00:06:15,110 --> 00:06:17,849
+Levosimendan chưa có bằng chứng lâm sàng;
+
+96
+00:06:17,699 --> 00:06:20,879
+giãn mạch đường tĩnh mạch làm nặng tụt huyết áp;
+
+97
+00:06:20,729 --> 00:06:26,751
+nitric oxide dạng hít chỉ ở mức có thể cân nhắc. ESC xếp norepinephrine và dobutamine mức 2a;
+
+98
+00:06:26,601 --> 00:06:33,380
+AHA/ACC khuyến cáo thuốc vận mạch và tăng co bóp cho sốc tim do thuyên tắc phổi nhóm D2 đến E2 ở mức một,
+
+99
+00:06:33,230 --> 00:06:34,390
+dữ liệu hạn chế.
+
+100
+00:06:35,840 --> 00:06:40,550
+Đặt nội khí quản ở người bệnh suy thất phải là một trong những thời điểm nguy hiểm
+
+101
+00:06:40,400 --> 00:06:44,220
+nhất. Thuốc khởi mê làm mất trương lực giao cảm đang giữ huyết áp,
+
+102
+00:06:44,070 --> 00:06:48,836
+và áp lực dương giảm hồi lưu tĩnh mạch. AHA/ACC khuyến cáo mức một: ở nhóm C đến E,
+
+103
+00:06:48,686 --> 00:06:51,394
+phải chuẩn bị sẵn thuốc vận mạch, tăng co bóp,
+
+104
+00:06:51,244 --> 00:06:54,730
+hoặc phương án ếch mô tĩnh mạch động mạch trước khi an thần.
+
+105
+00:06:54,930 --> 00:07:00,520
+Oxy dòng cao qua ống thông mũi có lợi hơn oxy thường khi giảm oxy vừa đến nặng, mức 2a.
+
+106
+00:07:00,720 --> 00:07:05,206
+Và ở nhóm C đến E, không an thần sâu và thở máy khi không có chỉ định lâm sàng,
+
+107
+00:07:05,056 --> 00:07:08,390
+để tránh trụy tuần hoàn. Đây là khuyến cáo mức ba, có hại.
+
+108
+00:07:08,590 --> 00:07:09,658
+Nếu phải thở máy,
+
+109
+00:07:09,508 --> 00:07:13,870
+ESC khuyên thể tích khí lưu thông khoảng 6 mi li lít mỗi ký cân nặng lý tưởng,
+
+110
+00:07:13,720 --> 00:07:17,164
+áp lực bình nguyên dưới 30 xăng ti mét nước, PEEP thận trọng,
+
+111
+00:07:17,014 --> 00:07:19,270
+chọn thuốc khởi mê ít gây tụt huyết áp;
+
+112
+00:07:19,120 --> 00:07:22,942
+và tránh tăng CO₂ vì làm tăng sức cản mạch phổi. Trình tự thực hành:
+
+113
+00:07:22,792 --> 00:07:26,020
+nâng huyết áp bằng norepinephrine trước, rồi mới khởi mê.
+
+114
+00:07:27,470 --> 00:07:34,282
+Tình huống. Nam 58 tuổi, thuyên tắc phổi hai động mạch phổi chính. Huyết áp 104 trên 68,
+
+115
+00:07:34,132 --> 00:07:38,445
+mạch 122, SpO₂ 89% với oxy 4 lít mỗi phút, lactate 3,8,
+
+116
+00:07:38,295 --> 00:07:44,198
+nước tiểu 15 mi li lít mỗi giờ. Siêu âm: tỉ số thất phải trên thất trái 1,4,
+
+117
+00:07:44,048 --> 00:07:49,270
+tĩnh mạch chủ dưới 2,3 xăng ti mét không xẹp. Đã truyền 1 lít dịch.
+
+118
+00:07:49,470 --> 00:07:51,780
+Hướng xử trí hợp lý nhất là gì?
+
+119
+00:07:51,980 --> 00:07:54,610
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+120
+00:08:03,210 --> 00:08:07,471
+Đáp án là B. Huyết áp tâm thu còn trên 90, nhưng lactate 3,8 và thiểu niệu:
+
+121
+00:08:07,321 --> 00:08:11,253
+đây là sốc huyết áp bình thường, nhóm D2. Tĩnh mạch chủ dưới đã căng,
+
+122
+00:08:11,103 --> 00:08:16,021
+nên truyền thêm dịch chỉ làm thất phải giãn thêm. Đặt nội khí quản khi chưa có chỉ định
+
+123
+00:08:15,871 --> 00:08:18,817
+là khuyến cáo có hại. Hướng đúng là norepinephrine,
+
+124
+00:08:18,667 --> 00:08:22,215
+oxy dòng cao qua ống thông mũi, và chuẩn bị điều trị nâng cao,
+
+125
+00:08:22,065 --> 00:08:25,120
+vốn được cân nhắc ở nhóm D, như phần ba sẽ trình bày.
+
+126
+00:08:26,570 --> 00:08:30,124
+Tóm lại, thứ nhất: thuyên tắc phổi nguy cơ cao là ngừng tim,
+
+127
+00:08:29,974 --> 00:08:34,720
+sốc tắc nghẽn hoặc tụt huyết áp kéo dài; không cần PESI hay troponin để xếp nhóm.
+
+128
+00:08:34,920 --> 00:08:41,124
+Thứ hai: AHA/ACC 2026 đưa ra nhóm D, trong đó D2 là sốc huyết áp bình thường;
+
+129
+00:08:40,974 --> 00:08:44,190
+phải tìm giảm tưới máu dù huyết áp còn.
+
+130
+00:08:44,390 --> 00:08:47,331
+Thứ ba: heparin không phân đoạn khi sắp tái tưới máu,
+
+131
+00:08:47,181 --> 00:08:50,860
+heparin trọng lượng phân tử thấp cho người không định tái tưới máu.
+
+132
+00:08:51,060 --> 00:08:54,517
+Thứ tư: dịch không quá 500 mi li lít và chỉ khi tiền tải thấp;
+
+133
+00:08:54,367 --> 00:08:57,930
+norepinephrine là nền tảng, thêm dobutamine khi cung lượng thấp.
+
+134
+00:08:58,130 --> 00:09:01,652
+Thứ năm: tránh an thần sâu và thở máy khi không có chỉ định,
+
+135
+00:09:01,502 --> 00:09:05,756
+và chuẩn bị sẵn hỗ trợ huyết động trước khởi mê. Phần ba: tiêu sợi huyết,
+
+136
+00:09:05,606 --> 00:09:11,320
+can thiệp qua catheter và hỗ trợ cơ học. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.

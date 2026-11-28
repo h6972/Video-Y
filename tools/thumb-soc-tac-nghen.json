@@ -1,0 +1,6 @@
+[
+ {"out": "thumbs/soc-tac-nghen-phan-1.png", "hook": "SỐC KHÔNG<br>ĐỠ VỚI DỊCH?", "line2": "Tìm chỗ tắc trong 5 phút", "chips": ["Thất phải", "Màng ngoài tim", "Màng phổi"], "badge": "PHẦN 1/4", "tag": "Sinh lý · nhận diện", "img": null, "c": "teal"},
+ {"out": "thumbs/soc-tac-nghen-phan-2.png", "hook": "HA 104<br>VẪN SỐC?", "line2": "Thuyên tắc phổi nhóm D2", "chips": ["AHA/ACC 2026", "Dịch ≤ 500 mL"], "badge": "PHẦN 2/4", "tag": "Phân tầng · thất phải", "img": null, "c": "coral"},
+ {"out": "thumbs/soc-tac-nghen-phan-3.png", "hook": "LÀM TAN<br>HUYẾT KHỐI?", "line2": "PEITHO → HI-PEITHO 2026", "chips": ["Alteplase 100 mg", "ECMO"], "badge": "PHẦN 3/4", "tag": "Tái tưới máu", "img": null, "c": "amber"},
+ {"out": "thumbs/soc-tac-nghen-phan-4.png", "hook": "CHỌC NGAY<br>HAY CHỜ?", "line2": "Chèn ép tim · tràn khí", "chips": ["Điểm ≥ 6", "Kim KLS 2: 38% thất bại"], "badge": "PHẦN 4/4", "tag": "Thủ thuật cứu mạng", "img": null, "c": "violet"}
+]

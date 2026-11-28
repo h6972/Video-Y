@@ -1,0 +1,587 @@
+1
+00:00:04,900 --> 00:00:08,923
+Thưa quý đồng nghiệp, chào mừng quý vị đến với loạt bài Sốc tắc nghẽn,
+
+2
+00:00:08,773 --> 00:00:11,690
+phần năm của seri Sốc trên Thư Viện Y Khoa Online.
+
+3
+00:00:11,890 --> 00:00:15,220
+Sốc tắc nghẽn là nhóm ít gặp nhất trong bốn nhóm sốc,
+
+4
+00:00:15,070 --> 00:00:19,900
+nhưng là nhóm mà một quyết định đúng lúc có thể đảo ngược tình thế nhanh nhất:
+
+5
+00:00:19,750 --> 00:00:24,280
+dẫn lưu màng ngoài tim, giải áp màng phổi, hay khai thông động mạch phổi.
+
+6
+00:00:24,480 --> 00:00:28,928
+Phần một trả lời hai câu hỏi: vì sao tuần hoàn sụp đổ khi bị tắc ở ngoài cơ tim,
+
+7
+00:00:28,778 --> 00:00:31,990
+và làm sao nhận ra chỗ tắc trong vài phút đầu tại giường.
+
+8
+00:00:32,190 --> 00:00:35,397
+Chúng ta sẽ đi qua thất phải trước tăng hậu tải cấp,
+
+9
+00:00:35,247 --> 00:00:39,925
+áp lực xuyên thành trong chèn ép tim, áp lực màng phổi trong tràn khí áp lực,
+
+10
+00:00:39,775 --> 00:00:42,100
+rồi tới siêu âm và các bẫy chẩn đoán.
+
+11
+00:00:43,550 --> 00:00:48,544
+Zotzmann và cộng sự tóm tắt hai cơ chế lớn. Cơ chế thứ nhất là cản trở đổ đầy tâm trương,
+
+12
+00:00:48,394 --> 00:00:53,225
+làm giảm tiền tải, tức giảm hồi lưu tĩnh mạch: chèn ép tim, tràn khí màng phổi áp lực,
+
+13
+00:00:53,075 --> 00:00:55,620
+chèn ép tĩnh mạch chủ, thông khí áp lực cao.
+
+14
+00:00:55,820 --> 00:00:57,870
+Cơ chế thứ hai là tăng hậu tải thất phải,
+
+15
+00:00:57,720 --> 00:01:00,511
+như trong thuyên tắc phổi hoặc khối choán chỗ trung thất:
+
+16
+00:01:00,361 --> 00:01:04,450
+thất phải không đẩy được máu qua giường mạch phổi, nên thất trái thiếu máu để đổ đầy.
+
+17
+00:01:04,650 --> 00:01:09,065
+Hệ quả lâm sàng quan trọng nhất là thứ tự ưu tiên. Sốc tắc nghẽn thường không thể ổn
+
+18
+00:01:08,915 --> 00:01:11,451
+định được nếu nguyên nhân chưa được giải quyết;
+
+19
+00:01:11,301 --> 00:01:15,715
+dịch và thuốc vận mạch chỉ là cầu nối. Mọi phút chỉ dành cho hồi sức là một phút trì
+
+20
+00:01:15,565 --> 00:01:18,000
+hoãn biện pháp duy nhất có khả năng cứu sống.
+
+21
+00:01:19,450 --> 00:01:24,052
+Mỗi nguyên nhân có một lịch sử riêng. Với chèn ép tim, bước ngoặt là kỹ thuật:
+
+22
+00:01:23,902 --> 00:01:24,965
+tại Mayo Clinic,
+
+23
+00:01:24,815 --> 00:01:29,873
+1127 lần chọc màng ngoài tim dưới hướng dẫn siêu âm trong hai thập kỷ đã đưa thủ thuật
+
+24
+00:01:29,723 --> 00:01:31,471
+từ chọc mù sang có hình ảnh,
+
+25
+00:01:31,321 --> 00:01:33,240
+và dẫn lưu kéo dài thành chuẩn.
+
+26
+00:01:33,440 --> 00:01:35,234
+Với tràn khí màng phổi áp lực,
+
+27
+00:01:35,084 --> 00:01:40,276
+năm 2005 Leigh-Smith và Harris chỉ ra rằng không nên dạy bệnh này như một thực thể duy nhất:
+
+28
+00:01:40,126 --> 00:01:43,510
+người tỉnh tự thở và người thở máy diễn tiến khác hẳn nhau.
+
+29
+00:01:43,710 --> 00:01:49,088
+Với thuyên tắc phổi, năm 2011 AHA chia ba nhóm massive, submassive và nguy cơ thấp;
+
+30
+00:01:48,938 --> 00:01:49,655
+năm 2014,
+
+31
+00:01:49,505 --> 00:01:54,820
+thử nghiệm PEITHO đặt dấu hỏi lớn cho tiêu sợi huyết thường quy ở nhóm trung gian.
+
+32
+00:01:55,020 --> 00:02:00,930
+ESC 2019 định nghĩa nguy cơ cao bằng ngừng tim, sốc tắc nghẽn hoặc tụt huyết áp kéo dài.
+
+33
+00:02:01,130 --> 00:02:08,593
+Và giai đoạn 2025 đến 2026: ESC 2025 đưa thang điểm phân loại chèn ép tim vào hướng dẫn,
+
+34
+00:02:08,443 --> 00:02:13,746
+AHA/ACC 2026 thay massive và submassive bằng năm nhóm A đến E,
+
+35
+00:02:13,596 --> 00:02:20,560
+và HI-PEITHO là thử nghiệm đầu tiên của điều trị qua catheter có kết cục lâm sàng.
+
+36
+00:02:22,010 --> 00:02:25,166
+Thất phải là buồng thành mỏng, bơm vào hệ mạch áp lực thấp,
+
+37
+00:02:25,016 --> 00:02:29,446
+và không thích nghi tốt với tăng áp lực động mạch phổi đột ngột. Đó là điểm khởi đầu
+
+38
+00:02:29,296 --> 00:02:30,720
+của thuyên tắc phổi nặng.
+
+39
+00:02:30,920 --> 00:02:35,795
+Trước tăng hậu tải, thất phải tăng co bóp, rồi giãn buồng; khi các cơ chế này thất bại,
+
+40
+00:02:35,645 --> 00:02:38,836
+cung lượng giảm. Thất phải giãn chiếm chỗ của thất trái,
+
+41
+00:02:38,686 --> 00:02:43,398
+vì hai thất nằm chung túi màng ngoài tim và chung vách liên thất. Đến 40% lực co của
+
+42
+00:02:43,248 --> 00:02:45,950
+thất phải vốn có nguồn gốc từ co bóp thất trái.
+
+43
+00:02:46,150 --> 00:02:50,460
+Vách lệch sang trái, thất trái đổ đầy kém, thể tích nhát bóp giảm, huyết áp tụt.
+
+44
+00:02:50,660 --> 00:02:51,303
+Đồng thời,
+
+45
+00:02:51,153 --> 00:02:55,146
+áp lực và sức căng thành thất phải tăng làm giảm tưới máu động mạch vành phải,
+
+46
+00:02:54,996 --> 00:02:58,250
+gây thiếu máu thất phải, kể cả khi không có bệnh mạch vành nền.
+
+47
+00:02:58,450 --> 00:03:02,803
+Thất phải co bóp kém hơn, vòng van ba lá giãn gây hở ba lá và sung huyết;
+
+48
+00:03:02,653 --> 00:03:06,314
+vòng xoắn đi xuống tới sốc và ngừng tim. Trong một sổ bộ lớn,
+
+49
+00:03:06,164 --> 00:03:10,920
+tử vong nội viện ở thuyên tắc phổi nguy cơ cao có trụy huyết động lên tới 42,1%.
+
+50
+00:03:12,370 --> 00:03:15,798
+Từ vòng xoắn này suy ra ba hệ quả điều trị rất cụ thể. Thứ nhất,
+
+51
+00:03:15,648 --> 00:03:19,486
+huyết áp hệ thống là áp lực tưới máu cho thành thất phải đang thiếu máu;
+
+52
+00:03:19,336 --> 00:03:22,200
+nâng huyết áp bằng norepinephrine giúp phá vòng xoắn.
+
+53
+00:03:22,400 --> 00:03:26,778
+Thứ hai, truyền dịch nhiều không làm tăng cung lượng, mà làm thất phải căng thêm,
+
+54
+00:03:26,628 --> 00:03:29,910
+đẩy vách liên thất lệch hơn và làm thất trái đổ đầy kém hơn.
+
+55
+00:03:30,110 --> 00:03:30,673
+Thứ ba,
+
+56
+00:03:30,523 --> 00:03:35,987
+an thần sâu và thở máy áp lực dương làm mất trương lực giao cảm và giảm hồi lưu tĩnh mạch,
+
+57
+00:03:35,837 --> 00:03:41,300
+có thể làm sụp đổ một tuần hoàn đang sống nhờ cơ chế bù trừ. Phần hai sẽ đi sâu từng điểm.
+
+58
+00:03:42,750 --> 00:03:48,582
+Chèn ép tim là hội chứng của áp lực. Áp lực đổ đầy thật của một buồng tim không phải áp lực đo trong buồng,
+
+59
+00:03:48,432 --> 00:03:49,910
+mà là áp lực xuyên thành:
+
+60
+00:03:49,760 --> 00:03:53,999
+áp lực trong buồng trừ áp lực màng ngoài tim. Khi áp lực màng ngoài tim tăng,
+
+61
+00:03:53,849 --> 00:03:56,920
+nó triệt tiêu áp lực xuyên thành, trước hết ở tim phải.
+
+62
+00:03:57,120 --> 00:04:01,453
+Đường cong áp lực – thể tích của màng ngoài tim dốc dần. Khi dịch tích tụ nhanh,
+
+63
+00:04:01,303 --> 00:04:05,270
+như chảy máu sau thủ thuật, chỉ một lượng nhỏ đã đẩy áp lực vào đoạn dốc.
+
+64
+00:04:05,470 --> 00:04:07,930
+Khi tích tụ chậm, màng ngoài tim kịp giãn:
+
+65
+00:04:07,780 --> 00:04:11,780
+Spodick ghi nhận có thể tới 2 lít trở lên trước khi chèn ép nguy kịch.
+
+66
+00:04:11,980 --> 00:04:15,746
+Ở đoạn dốc, thêm một ít gây chèn ép nguy kịch, và ngược lại,
+
+67
+00:04:15,596 --> 00:04:21,410
+lượng dịch rút ra đầu tiên tạo mức giải ép lớn nhất. ESC 2025 gọi đây là hiện tượng giọt cuối.
+
+68
+00:04:21,610 --> 00:04:25,557
+Hệ quả điều trị: dẫn lưu, dù chỉ một lượng nhỏ, là biện pháp hiệu quả nhất;
+
+69
+00:04:25,407 --> 00:04:27,733
+truyền dịch chỉ giúp ở người giảm thể tích,
+
+70
+00:04:27,583 --> 00:04:30,720
+còn ở người đủ thể tích thì làm tăng áp lực màng ngoài tim.
+
+71
+00:04:32,170 --> 00:04:35,916
+Tràn khí màng phổi thành áp lực khi chỗ rách hoạt động như van một chiều:
+
+72
+00:04:35,766 --> 00:04:40,350
+khí vào khi hít vào nhưng không ra khi thở ra. Áp lực màng phổi rồi áp lực lồng ngực tăng,
+
+73
+00:04:40,200 --> 00:04:44,242
+hồi lưu tĩnh mạch bị giới hạn; khi áp lực lồng ngực vượt áp lực trong các thất,
+
+74
+00:04:44,092 --> 00:04:47,050
+cung lượng tim cạn kiệt và không phục hồi được bằng dịch.
+
+75
+00:04:47,250 --> 00:04:48,477
+Ở người tỉnh tự thở,
+
+76
+00:04:48,327 --> 00:04:53,000
+cung lượng được giữ nhờ nhịp nhanh tăng dần và áp lực lồng ngực bên đối diện âm hơn.
+
+77
+00:04:53,200 --> 00:04:55,956
+Vì vậy đặc điểm nổi bật là suy hô hấp tiến triển;
+
+78
+00:04:55,806 --> 00:04:58,986
+tụt huyết áp là dấu rất muộn. Ngược lại, ở người thở máy,
+
+79
+00:04:58,836 --> 00:05:02,230
+áp lực dương làm mất cơ chế bù, cung lượng giảm sớm và nhanh.
+
+80
+00:05:02,430 --> 00:05:07,189
+Mẫu hình đáng nhớ ở người thở máy là SpO₂ tụt đột ngột rồi huyết áp tụt trong vài phút.
+
+81
+00:05:07,039 --> 00:05:10,580
+Phần bốn sẽ có số liệu cụ thể từ tổng quan hệ thống của Roberts.
+
+82
+00:05:12,030 --> 00:05:15,803
+Ba nguyên nhân chính có điểm chung là áp lực phía tim phải tăng,
+
+83
+00:05:15,653 --> 00:05:20,274
+nhưng mỗi nguyên nhân để lại dấu vết riêng. Thuyên tắc phổi cho thất phải giãn,
+
+84
+00:05:20,124 --> 00:05:24,916
+tỉ số thất phải trên thất trái lớn hơn 1, dấu McConnell, dấu 60/60, troponin tăng;
+
+85
+00:05:24,766 --> 00:05:27,010
+đích là tái tưới máu và giữ huyết áp.
+
+86
+00:05:27,210 --> 00:05:30,798
+Tương tác hai thất cho vách liên thất phẳng, thất trái hình chữ D,
+
+87
+00:05:30,648 --> 00:05:34,080
+VTI đường ra thất trái thấp; đích là không truyền dịch quá mức.
+
+88
+00:05:34,280 --> 00:05:38,830
+Chèn ép tim cho xẹp nhĩ phải, thất phải, tĩnh mạch chủ dưới giãn không xẹp, mạch nghịch;
+
+89
+00:05:38,680 --> 00:05:39,630
+đích là dẫn lưu.
+
+90
+00:05:39,830 --> 00:05:43,139
+Tràn khí áp lực cho mất rì rào một bên và mất trượt màng phổi;
+
+91
+00:05:42,989 --> 00:05:47,622
+đích là giải áp. Và một nguyên nhân hay bị bỏ sót, hội chứng khoang bụng, cho bụng căng,
+
+92
+00:05:47,472 --> 00:05:50,220
+áp lực bàng quang tăng; đích là giảm áp lực ổ bụng.
+
+93
+00:05:51,670 --> 00:05:57,441
+Siêu âm tim là công cụ đầu tay ở người bệnh sốc theo ESICM 2025. Zotzmann đề xuất ba bước:
+
+94
+00:05:57,291 --> 00:06:00,127
+khám lâm sàng, siêu âm theo quy trình RUSH,
+
+95
+00:05:59,977 --> 00:06:03,500
+rồi chẩn đoán hình ảnh khi cần và khi vận chuyển được.
+
+96
+00:06:03,700 --> 00:06:08,746
+Thất phải giãn, tỉ số thất phải trên thất trái lớn hơn 1, dấu McConnell, vách phẳng,
+
+97
+00:06:08,596 --> 00:06:13,291
+TAPSE dưới 16 mi li mét, hay dấu 60/60 hướng tới thuyên tắc phổi. Ở người sốc,
+
+98
+00:06:13,141 --> 00:06:18,420
+không có dấu quá tải thất phải giúp loại trừ thuyên tắc phổi là nguyên nhân mất ổn định.
+
+99
+00:06:18,620 --> 00:06:20,697
+Dịch màng ngoài tim kèm xẹp nhĩ phải,
+
+100
+00:06:20,547 --> 00:06:24,290
+thất phải và tĩnh mạch chủ dưới giãn không xẹp hướng tới chèn ép tim.
+
+101
+00:06:24,490 --> 00:06:29,336
+Mất trượt màng phổi và tìm thấy điểm phổi hướng tới tràn khí màng phổi. Ba cửa sổ siêu âm,
+
+102
+00:06:29,186 --> 00:06:31,840
+ba nguyên nhân, ba điều trị khác nhau hoàn toàn.
+
+103
+00:06:33,290 --> 00:06:39,190
+ESC 2025 tổng hợp độ nhạy và độ đặc hiệu của các dấu siêu âm chèn ép. Xẹp nhĩ phải thì
+
+104
+00:06:39,040 --> 00:06:40,661
+tâm trương là dấu sớm,
+
+105
+00:06:40,511 --> 00:06:42,800
+nhưng độ đặc hiệu dao động rộng.
+
+106
+00:06:43,000 --> 00:06:47,728
+Khi thời gian xẹp nhĩ phải kéo dài hơn 0,34 chu chuyển tim,
+
+107
+00:06:47,578 --> 00:06:50,910
+độ nhạy trên 90% và độ đặc hiệu đạt 100%.
+
+108
+00:06:51,110 --> 00:06:54,460
+Xẹp thất phải thì tâm trương kém nhạy hơn nhưng đặc hiệu hơn.
+
+109
+00:06:54,660 --> 00:07:00,626
+Tĩnh mạch chủ dưới giãn trên 20 mi li mét và xẹp dưới 50% theo hô hấp rất nhạy, 97%,
+
+110
+00:07:00,476 --> 00:07:06,650
+nhưng chỉ đặc hiệu 40%: không có dấu này giúp loại trừ, có dấu này chưa đủ để kết luận.
+
+111
+00:07:06,850 --> 00:07:07,716
+Theo Spodick,
+
+112
+00:07:07,566 --> 00:07:11,960
+xẹp nhĩ trái gặp ở khoảng một phần tư trường hợp và rất đặc hiệu cho chèn ép.
+
+113
+00:07:13,410 --> 00:07:17,261
+Bẫy thứ nhất là chèn ép tim không điển hình. Chèn ép áp lực thấp,
+
+114
+00:07:17,111 --> 00:07:21,418
+áp lực tâm trương chỉ 6 đến 12 mi li mét thuỷ ngân ở người giảm thể tích,
+
+115
+00:07:21,268 --> 00:07:25,974
+có thể không có mạch nghịch. Chèn ép khu trú sau mổ tim thiếu các dấu kinh điển;
+
+116
+00:07:25,824 --> 00:07:29,561
+chèn ép muộn sau 5 ngày dễ bị bỏ sót. Và chèn ép tăng huyết áp,
+
+117
+00:07:29,411 --> 00:07:31,440
+huyết áp tâm thu có thể trên 200.
+
+118
+00:07:31,640 --> 00:07:36,792
+Bẫy thứ hai là đi tìm lệch khí quản. Lệch khí quản không đủ để chẩn đoán tràn khí áp lực,
+
+119
+00:07:36,642 --> 00:07:38,590
+và không có cũng không loại trừ.
+
+120
+00:07:38,790 --> 00:07:43,247
+Bẫy thứ ba là ngừng tim do thuyên tắc phổi: thường là hoạt động điện vô mạch;
+
+121
+00:07:43,097 --> 00:07:47,163
+CO₂ cuối thì thở ra thấp, khoảng 13 mi li mét thuỷ ngân dù ép tim tốt,
+
+122
+00:07:47,013 --> 00:07:49,792
+gợi ý nhưng không đặc hiệu; và trong ngừng tim,
+
+123
+00:07:49,642 --> 00:07:53,260
+giá trị dự báo âm của siêu âm thất phải chỉ khoảng 40 đến 50%.
+
+124
+00:07:53,460 --> 00:07:56,682
+Bẫy thứ tư ngược chiều: ở người huyết áp ổn định,
+
+125
+00:07:56,532 --> 00:08:02,010
+AHA/ACC không khuyến cáo dùng siêu âm tim để khẳng định hay loại trừ thuyên tắc phổi.
+
+126
+00:08:03,460 --> 00:08:06,914
+Tình huống. Nữ 71 tuổi, ngày thứ bảy sau thay van hai lá,
+
+127
+00:08:06,764 --> 00:08:10,508
+mệt và lơ mơ. Huyết áp 86 trên 60, mạch 118, tĩnh mạch cổ nổi,
+
+128
+00:08:10,358 --> 00:08:15,435
+không thấy mạch nghịch rõ. Siêu âm qua thành ngực khó: không thấy dịch quanh tim lớn,
+
+129
+00:08:15,285 --> 00:08:19,840
+thất phải không giãn, tĩnh mạch chủ dưới giãn không xẹp. Phổi trượt hai bên.
+
+130
+00:08:20,040 --> 00:08:22,110
+Bước tiếp theo hợp lý nhất là gì?
+
+131
+00:08:22,310 --> 00:08:24,940
+Quý vị có thể tạm dừng video để suy nghĩ.
+
+132
+00:08:33,540 --> 00:08:38,134
+Đáp án là C. Người bệnh tụt huyết áp sau mổ tim hơn 5 ngày phải được nghĩ tới chèn ép
+
+133
+00:08:37,984 --> 00:08:40,696
+muộn. Dịch khu trú sau mổ có thể chỉ ép một vùng,
+
+134
+00:08:40,546 --> 00:08:41,951
+thiếu các dấu kinh điển,
+
+135
+00:08:41,801 --> 00:08:47,128
+và mạch nghịch có thể vắng mặt. Tĩnh mạch chủ dưới giãn không xẹp ủng hộ áp lực phía tim phải tăng;
+
+136
+00:08:46,978 --> 00:08:51,467
+thất phải không giãn và phổi trượt làm thuyên tắc phổi và tràn khí ít khả năng. Cần
+
+137
+00:08:51,317 --> 00:08:54,500
+siêu âm qua thực quản hoặc chụp cắt lớp và báo phẫu thuật.
+
+138
+00:08:55,950 --> 00:08:59,603
+Tóm lại, thứ nhất: sốc tắc nghẽn được điều trị bằng gỡ bỏ chỗ tắc;
+
+139
+00:08:59,453 --> 00:09:01,620
+dịch và thuốc vận mạch chỉ là cầu nối.
+
+140
+00:09:01,820 --> 00:09:05,920
+Thứ hai: thất phải không chịu được tăng hậu tải cấp; giãn thất phải, vách lệch,
+
+141
+00:09:05,770 --> 00:09:09,170
+tụt huyết áp và thiếu máu thất phải tạo thành vòng xoắn đi xuống.
+
+142
+00:09:09,370 --> 00:09:12,551
+Thứ ba: chèn ép tim là hội chứng của áp lực xuyên thành;
+
+143
+00:09:12,401 --> 00:09:15,040
+lượng dịch rút ra đầu tiên giải ép nhiều nhất.
+
+144
+00:09:15,240 --> 00:09:20,030
+Thứ tư: tràn khí áp lực ở người tự thở và người thở máy là hai bệnh cảnh khác nhau.
+
+145
+00:09:20,230 --> 00:09:23,790
+Thứ năm: siêu âm tại giường tìm chỗ tắc trong vài phút. Phần hai:
+
+146
+00:09:23,640 --> 00:09:25,259
+thuyên tắc phổi nguy cơ cao,
+
+147
+00:09:25,109 --> 00:09:29,980
+phân tầng và hồi sức thất phải. Cảm ơn quý đồng nghiệp đã theo dõi Thư Viện Y Khoa Online.
